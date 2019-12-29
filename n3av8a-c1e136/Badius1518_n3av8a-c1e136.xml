@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3 [Badius 1518 Transcription]</title>
+        <author ref="#HenryOfGhent">Henry of Ghent</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3 [Badius 1518 Transcription]</title>
+          <date when="2019-12-29">December 29, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="42"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="n3av8a-c1e136">
+        <head xml:id="n3av8a-c1e136-Hd1e95">Quaestio 4</head>
+        <p xml:id="n3av8a-c1e136-d1e98">
+          <lb ed="#B1" n="28"/>SEquitur quaestio vnica pertinens ad statum mortis humanitatis assumptae in Christo. 
+          <lb ed="#B1" n="29"/>Et est: vtrum corpus Christi in sepulcro habuit aliquam formam substantialem qua infor-  
+          <lb ed="#B1" n="30"/>mabatur anima eius ab ipso separata.
+        </p>
+        <p xml:id="n3av8a-c1e136-d1e107">
+          Ex arguebatur quod sic. PRImo: quia non potest materia  
+          <lb ed="#B1" n="31"/>esse fine forma. Quod enim per se existit, in actu est: &amp; materia non habet esse in actum nisi 
+          <lb ed="#B1" n="32"/>per formam: quia de se solum est ens in potentia secundum philosophum, quoniam ergo corpus Christi in  
+          <lb ed="#B1" n="33"/>sepulcro habuit in se materiam quae non informabat anima: oportuit ipsum ergo tunc ha 
+          <lb ed="#B1" n="34"/>buisse aliquam formam substantialem qua informabatur.
+        </p>
+        <p xml:id="n3av8a-c1e136-d1e118">
+          SEcundo: quia generatio vnius 
+          <lb ed="#B1" n="35"/>est corruptio alterius. secundum philosophum: &amp; econuerso, quia ergo Christo moriente in cruce in ipso fuit vera 
+          <lb ed="#B1" n="36"/>corruptio &amp; naturalis vnius compositi naturalis, vt hominis: ergo fuit ibi alterius compositi naturalis gene 
+          <lb ed="#B1" n="37"/>ratio: sed hoc non nisi per nouae formae introductionem in materiam illam quae prius informabatur anima Christi. er 
+          <lb ed="#B1" n="38"/>go &amp;c.
+        </p>
+        <p xml:id="n3av8a-c1e136-d1e129">
+          TERtio: quia mortuum dicit priuationem formae a qua erat vita. Corpus Christi vere mortuum 
+          <lb ed="#B1" n="39"/>erat in sepulcro: ergo in Christo fuit priuatio formea a qua prius in eo erat vita: sed non est priuatio for- 
+          <lb ed="#B1" n="40"/>mae vnius nisi cum forma contraria existente in materia, vt vult philosophus in primo Physicorum. ergo &amp;c. QVAR 
+          <lb ed="#B1" n="41"/>to: quia nihil est in genere substantiae nisi per suam formam substantialem. corpus ergo Christi in sepulcro aut ha-  
+          <lb ed="#B1" n="42"/>buit aliquam formam substantialem, autem non erat in genere substantiae: consequens est falsum, quia prius quando  
+          <lb ed="#B1" n="43"/>erat viuum erat in genere substantiae. Si vero mortuum non fuit in genere substantiae: non fuit idem corpus nume 
+          <lb ed="#B1" n="44"/>ro mortuum quid prius erat viuum, quia quae non sunt eadem genere non possunt esse eadem numero. illud autem fal 
+          <lb ed="#B1" n="45"/>sum est. falsum est ergo antecedens ex quo sequitur: scilicet quod corpus Christi in sepulcro mortuum non habuit 
+          <lb ed="#B1" n="46"/>formam substantialem.
+        </p>
+        <p xml:id="n3av8a-c1e136-d1e150">
+          CONtra. Si corpus Christii sepulcro habuit formam substantialem, necessatio ha-  
+          <lb ed="#B1" n="47"/>buit aliquid esse specificum, quia omnis forma substantialis est constitutiua speciei: &amp; sic corpus Christi in sepulcro 
+          <lb ed="#B1" n="48"/>fuisset lapis, aut vermis, aut aliquid huiusmodi. quid falsum est. quia tunc non fuisset vniuoce idem corpus quid  
+          <lb ed="#B1" n="49"/>prius. falsum est ergo &amp; antecedens.
+        </p>
+        <p xml:id="n3av8a-c1e136-d1e159">
+          DICENdum ad hoc: quod ponentes aliam formam substantialem in corpo 
+          <lb ed="#B1" n="50"/>re Christi succedere animae separatae, necesse habebant hoc ponere ex duobus fundamentis suis quae verissima 
+          <lb ed="#B1" n="51"/>esse supponebant: &amp; non poterant illis suppositis aliter ponere. 
+          
+          PRImum fundamentum eorum erat, quod materia 
+          <lb ed="#B1" n="52"/>non posset subsistere in actum sine aliqua forma substantiali qua informatur. 
+          
+          SEcundum erat, quod vna est forma 
+          <lb ed="#B1" n="53"/>substantialis simplex in vna materia &amp; non plutes, quae si separetur ab ea, tota separatur. &amp; quantum in se est omnino 
+          <lb ed="#B1" n="54"/>denudat materiam a forma, ita quod maneat nuda &amp; pura ab omni forma, nisi aliqua alia forma substantialis 
+          <!--45.xml-->
+          <pb ed="#B" n="45"/>
+          <lb ed="#B1" n="1"/>in ea succedat formae a qua informabatur prius. Cum igitur ponebant animam Christi immediate perficere materiam 
+          <lb ed="#B1" n="2"/>corporalem eius sine alia forma media substantialitatis vel corporalitatis: &amp; ipsam separari ab illa in morte 
+          <lb ed="#B1" n="3"/>Christi: non potuerunt non ponere aliquam formam substantialem succedere animae in materia corporis Christi: &amp; 
+          <lb ed="#B1" n="4"/>per consequens non poterunt non ponere quin corpus Curisti mortuum aequiuoce erat corpus cum eo quid prius 
+          <lb ed="#B1" n="5"/>erat viuum. Aut ergo necesse habebunt aliquid ex suis fundamentis suppositis destruere: aut scilicet quod anima ra 
+          <lb ed="#B1" n="6"/>tionalis non immediate perficit materiam: sed mediante aliquam forma substantialitatis aut corporalitatis: &amp; etiam ali 
+          <lb ed="#B1" n="7"/>cuius commixtionis quae possit manere in materia: vt sub illa materia subsistat ad separationem animae: aut quod ma 
+          <lb ed="#B1" n="8"/>teria possit per se subsistere sine substantiali forma: vel oportebit eos in illa sua opinione immobiliter perseuera- 
+          <lb ed="#B1" n="9"/>re.
+        </p>
+        <p xml:id="n3av8a-c1e136-d1e196">
+          SED quaerunt an sit necessitas aliqua ponendi corpus Christi in sepulcro non fuisse informatum aliquae for 
+          <lb ed="#B1" n="10"/>ma substantiali noua qua prius non erat informatum. Et potest eis dici quod sic: quia aliter non esset idem corpus quid  
+          <lb ed="#B1" n="11"/>prius nisi aequiuoce perfecta &amp; completa aequiuocatione. vt patet ex fine quarti Meteororum. &amp; tamen fides tenet quod  
+          <lb ed="#B1" n="12"/>persona Christi id idem corpus vniuoce numero quid assumpsit mediante anima, nunquam dimisit anima ab illo corpore 
+          <lb ed="#B1" n="13"/>separata. Nec restat de dubio nisi an mansit aliqua forma substantialitatis &amp; corporeitatis, mediante qua 
+          <lb ed="#B1" n="14"/>anima perficiebat primam materiam, contra secundum fundamentum illorum: an ipsa materia nuda ab omni forma substan  
+          <lb ed="#B1" n="15"/>tiali stetit habens partes suas substantiales extensas sub partibus quantitatis extensis, contra primum fundamen 
+          <lb ed="#B1" n="16"/>tum praedictorum: &amp; videtur quod vterque istorum modorum magis sit consonus fidei &amp; dignitati Christi quam modus il 
+          <lb ed="#B1" n="17"/>lorum. Contrario enim modo est quasi illorum annexum determinato articulo fidei quam sacra scriptura dictat vt vi 
+          <lb ed="#B1" n="18"/>detur cum Dauid loquens in persona Christi loquentis ad patrem de anima sua descedente ad limbum &amp; de corpore suo 
+          <lb ed="#B1" n="19"/>iacente in sepulcro ait in psal. Caro mea requiescet in spe: quoniam non dereliques animam meam in inferno, nec 
+          <lb ed="#B1" n="20"/>dabis sanctum tuum videre corruptionem. vbi dicit glo. Caro mea requiescet: hoc est dormiet somno mor- 
+          <lb ed="#B1" n="21"/>tis in spe resurrectionis: quia nec anima mea inferno possidenda dabitur more aliorum: nec corpus meum sanctum tuum 
+          <lb ed="#B1" n="22"/>hoc est a te sanctificatum dabis videre corruptionem hoc est putrefactionem. Articulus ergo fidei expressus est 
+          <lb ed="#B1" n="23"/>quod corpus Christi in sepulcro aut non erat omnino putribile: aut si putribile, in triduo mortis Christi mira 
+          <lb ed="#B1" n="24"/>culo detentum erat vt nec in modico putrefieret. Corpus enim mortuum putribile derelictum suae naturae neces 
+          <lb ed="#B1" n="25"/>sario continuo motu putrescit: &amp; incessanter tendit in vltimam elementorum resolutionem. Constat autem quod si aliqua  
+          <lb ed="#B1" n="26"/>forma substantialis noua naturali generatione successisset animae Christi in eis corpus mortuum, ilia non fuis 
+          <lb ed="#B1" n="27"/>set nisi forma putredinis: quia talis forma quantum est de se non habet esse in re vt conseruans ipsam: sed vt 
+          <lb ed="#B1" n="28"/>disponens eam ad putrefactionem &amp; ad vltimam corruptionem: dispositione dico quae est necessitatis: ad quam necessa 
+          <lb ed="#B1" n="29"/>rio statim concomitatur actus. Si ergo talis forma fuit in corpore Christi mortuo, aut ergo sub illo putre- 
+          <lb ed="#B1" n="30"/>factio continua fuit per totum triduum mortis in corpore Christi: &amp; illud corpus anima reuersa inuenisset putre 
+          <lb ed="#B1" n="31"/>factum saltem in parte: licet accelerata resurrectione praeuentum fuerit ne putrefieret in toto: quid omnino videtur esse 
+          <lb ed="#B1" n="32"/>contra dictum prophetae: &amp; ita nullo modo tenendum: aut fuit miraculo detentum ne putrefiendo in corru- 
+          <lb ed="#B1" n="33"/>ptionem vergeret.
+        </p>
+        <p xml:id="n3av8a-c1e136-d1e251">
+          NVNC autem ita est quod cum ad miraculum oportet recurrere, ponendum est ipsum fieri secun 
+          <lb ed="#B1" n="34"/>dum modum qui magis decet diuinam maiestatem, &amp; magis congruit ordini naturae. Multo siquidem magis decet 
+          <lb ed="#B1" n="35"/>Christi maiestatem quod corpus eius nudum reseruetur ab omni forma noua succedente animae separatae quousque reuer- 
+          <lb ed="#B1" n="36"/>tatur ad ipsum: qui quod ipsum corpus vnitum diuinae naturae in vnitate personae filii dei informetur tam vili forma putre 
+          <lb ed="#B1" n="37"/>dinis. Quid etiam videtur magis congruere ordini naturae: &amp; hoc tam naturae institutae quam naturae destiturae. Ma 
+          <lb ed="#B1" n="38"/>gis siquidem congruit natura materiae in quam instituta est: vt sit substantia differes per essentiam a forma, quod  
+          <lb ed="#B1" n="39"/>stet in esse per se etiam sine omni forma substantiali: cum hoc capere possit quantum est de se vt inferis videbitur: quam quod  
+          <lb ed="#B1" n="40"/>aliqua forma ponatur in suo proprio passibili sine propria actione: quia frustra esset ibi. Congruit etiam ma 
+          <lb ed="#B1" n="41"/>gis naturae destitutae per peccatum. Cum enim mors, incineratio, forma putredinis in corpore, &amp; caetera huius- 
+          <lb ed="#B1" n="42"/>modi non sint nisi poenae originalis peccati: sicut tenet fides catholica: ex quibus Christus aliquis contraxit in  
+          <lb ed="#B1" n="43"/>suo corpore non ex necessitate suae originis seu naturae: quia sine originali peccato conceptus est: sed mera vo 
+          <lb ed="#B1" n="44"/>luntate ad complendum in eis opus nostrae redemptionis: &amp; vt in eis nobis mereretur: &amp; opus nostrae redemptionis, &amp; 
+          <lb ed="#B1" n="45"/>meritum Christi in passione consummatum est: postquam inclinato capite emisit spiritum &amp; dixit Consummatum est. 
+          <lb ed="#B1" n="46"/>Ioannis decimo nono. videtutur quod non debuit in suo corpore post animae separationem aliquid noui incidere quid erat 
+          <lb ed="#B1" n="47"/>in natura humana per peccatum destitura poena peccati. De numero autem poenarum ex illo peccato prouenien 
+          <lb ed="#B1" n="48"/>tium erat forma putredinis in corpore sicut ipse putredinis actus. Idcirco ergo videtur omnino esse contra fi 
+          <lb ed="#B1" n="49"/>dem quod in corpore Christi talis forma successit, sicut quod in aliquo putrefactum fuerit.
+        </p>
+        <p xml:id="n3av8a-c1e136-d1e288">
+          AVT igitur pone 
+          <lb ed="#B1" n="50"/>mus quod anima non immediate perficit materiam sed sit aliqua forma substantialitatis aut corporalitatis: &amp; 
+          <lb ed="#B1" n="51"/>etiam forte alicuius commixtionis, media inter animam &amp; materiam in materia quae manet in ea anima separa 
+          <lb ed="#B1" n="52"/>ta: nec de natura sua vadit in corruptionem: quia si ponatur ire in corruptionem sicut forma putredinis 
+          <lb ed="#B1" n="53"/>praedicta: sicut etiam contingit in aliis hominibus cum quibus Christus vniuoce fuit homo: idem est inconveniens con 
+          <lb ed="#B1" n="54"/>tra eos quid contra praedictos est inductum. Aut si velimus ponere quod anima immediate perficit materiam: nec sit 
+          <!--46.xml-->
+          <pb ed="#B" n="46"/>
+          <lb ed="#B1" n="1"/>ponere gradus formarum in ea: dicemus quod in corpore Christi anima separata remansit materia nuda ab omni 
+          <lb ed="#B1" n="2"/>forma substantiali solis dimensionibus quanitatis determinata: &amp; vtroque modo ponemus id ipsum omnino idem 
+          <lb ed="#B1" n="3"/>iacere in sepulcro mortuum quid prius erat in cruce viuum: vt in omni ea dispositione qua anima suum subiectum 
+          <lb ed="#B1" n="4"/>reliquit cum ab eo discessit, ipsum inuenerit cum ad ipsum reuersa est. Et est tunc ista iterata vnio magis natu-  
+          <lb ed="#B1" n="5"/>ralis, quam si subiectum suum sub forma putredinis inuenisset: quia tunc oportebat illam formam putredinis ante 
+          <lb ed="#B1" n="6"/>animae iteratam vnionem corruptam fuisse: &amp; constat quod via actionis naturalis non fuisset corrupta: vt iterato 
+          <lb ed="#B1" n="7"/>per vnionem animae cum suo subiecto homo naturaliter regeneratetur: quia natura non facit de mortuo viuum  
+          <lb ed="#B1" n="8"/>nisi prius facta resolutione ad primam materiam, sicut dicitur in octauo Metaphysicae. Si ergo illa forma fuis 
+          <lb ed="#B1" n="9"/>set corrupta, hoc oportuit fieri nouo miraculo. Quare cum in diuinis operibus non est recurrendum ad aliquid  
+          <lb ed="#B1" n="10"/>miraculum vbi sufficit natura: non est hic ponendum talem formam corrumpi miraculo: vt anima iterato suo cor- 
+          <lb ed="#B1" n="11"/>pori vniatur: cum aequaliter sine tali miraculo possit ipsi vniri ponendo talem formam omnino non precessisse.
+        </p>
+        <p xml:id="n3av8a-c1e136-d1e329">
+          <lb ed="#B1" n="12"/><ref xml:id="n3av8a-c1e136-Rd1e332">AD primum</ref> argumentum &amp; <ref xml:id="n3av8a-c1e136-Rd1e335">ad secundum</ref> in oppositum, quod non potest materia esse sine forma: &amp; quod genera 
+          <lb ed="#B1" n="13"/>tio vnius est corruptio alterius: dicendum quod verum est sola actione naturae: quia natura non potest materiam de 
+          <lb ed="#B1" n="14"/>nudare &amp; separare ab omni forma: forma enim vna naturaliter alteram non corrumpit: nisi per hoc quod formam sibi 
+          <lb ed="#B1" n="15"/>similem illi contrariam in materia generat. Et ideo dicit philosophus in secundo de anima quod patiens naturale in pri 
+          <lb ed="#B1" n="16"/>cipio est contrarium: in fine autem simile. &amp; in primo de generatione, quod generatio vnius est corruptio alterius 
+          <lb ed="#B1" n="17"/>&amp; econuerso: &amp; quod impossibile est materiam separari a morpheis &amp; passionibus. Actione autem diuina praeser- 
+          <lb ed="#B1" n="18"/>uante materiam ne ad vnius formae corruptionem forma contraria introducatur in materia: &amp; aliquid genere 
+          <lb ed="#B1" n="19"/>tur ex corrupto: bene potest actione naturae corrumpentis &amp; nihil generantis materia denudari &amp; stare in  
+          <lb ed="#B1" n="20"/>sua substantia fine omni forma, vt inferius videbitur: vel cum aliqua forma praecedente animam rationalem, si sit po 
+          <lb ed="#B1" n="21"/>nere gradus formarum in materia vt dictum est.
+        </p>
+        <p xml:id="n3av8a-c1e136-d1e359">
+          AD tertium, quod non est priuatio in materia sine forma con 
+          <lb ed="#B1" n="22"/>traria: dicendum quod verum est sola actione naturae introducta. Concurrente autem actione diuina cum actio- 
+          <lb ed="#B1" n="23"/>ne naturae bene potest priuatio introduci in materia sine forma contraria vt dictum est. Et per hunc modum  
+          <lb ed="#B1" n="24"/>corpus Christi in sepulcro vere poterat dici esse mortuum: tanquam natum habere in se actum vitae &amp; non habens:  
+          <lb ed="#B1" n="25"/>&amp; Christus vere potuit dici esse mortuus: tanquam aptus natus viuere ex vnione aliae suae cum corpore &amp; 
+          <lb ed="#B1" n="26"/>non viuens sic.
+        </p>
+        <p xml:id="n3av8a-c1e136-d1e372">
+          AD quartum dicendum, quod nisi corpus Christi in sepulcro haberet aliquam formam substan 
+          <lb ed="#B1" n="27"/>tialem, non esset in genere substantiae, neque corpus substantia: dicendum quod secundum ponentes gradus forma 
+          <lb ed="#B1" n="28"/>rum: bene posset esse in genere substantiae, &amp; substantia corpus: licet ex separatione animae nulla forma sub- 
+          <lb ed="#B1" n="29"/>stantialis de nouo esset introducta in materia. Si autem respuamus gradus formarum: &amp; ponamus in se- 
+          <lb ed="#B1" n="30"/>paratione animae nullam formam de nouo introduci in materia: sed materiam nudam subsistere sine omni for 
+          <lb ed="#B1" n="31"/>ma substantiali sub solis dimensionibus quantitatis: Dicendum quod illud corpus Christi non erat in genere 
+          <lb ed="#B1" n="32"/>substantiae tanquam species aut indiuiduum perfectum sub genere. Erat tamen de genere substantiae, tanquam principium 
+          <lb ed="#B1" n="33"/>&amp; pars eius quod natum erat esse per suam formam indiuiduum persectum substantiae. Et per hunc modum non erat 
+          <lb ed="#B1" n="34"/>corpus substantia a forma substantiali: quia illam in se non habuit: sed anima eam se cum in se detulit: nisi sicut prin- 
+          <lb ed="#B1" n="35"/>cipium materiale illius corporis in potentia existens ad corporeitatem substantialem: sed erat solummodo corpus 
+          <lb ed="#B1" n="36"/>quantitatis per dimensiones quantitatis quibus actu informabatur &amp; continebat in se partes materiae primae 
+          <lb ed="#B1" n="37"/>extensas sub partibus quantitatis: ratione quarum partium materiae quae erant substantiae potuit illud totum  
+          <lb ed="#B1" n="38"/>quodammodo dici corpus substantia: non tamen sub tam perfecta ratione sicut cum informabatur anima. Vnde secum 
+          <lb ed="#B1" n="39"/>dum hunc modum non est inconueniens dicere quod aequiuoce dicatur corpus de ipso viuo corpore Christi com- 
+          <lb ed="#B1" n="40"/>posito ex corpore &amp; anima, quid non tam est corpus quantitas quam corpus substantia a corporeitate formali: &amp; de 
+          <lb ed="#B1" n="41"/>corpore mortuo quid erat corpus quantitas tantum, vel etiam corpus substantia solum per extensionem substantialium partium 
+          <lb ed="#B1" n="42"/>materiae sub illa quantitate: quia sicut nihil est conmune vniuocum substantiae &amp; accidenti: sic nihil est pure vni 
+          <lb ed="#B1" n="43"/>uocum substantiae quae est materia, &amp; de substantiae quae est formalis composita ex vtraque. Nec dico per hoc quod id ipsum cor 
+          <lb ed="#B1" n="44"/>pus Christi quid prius erat mortuum sine anima, &amp; postea viuum per animam, sicut altera pars compositi ex corpore &amp; 
+          <lb ed="#B1" n="45"/>anima dicatur aequiuoce corpus: aut aequiuocae substantia prius &amp; posterius. Hoc enim non est verum: quia semper id ipsum est 
+          <lb ed="#B1" n="46"/>vt dictum est. Sed dico quod corpus Christi primo mortuum existens sine anima ex vna parte, &amp; corpus Christi post 
+          <lb ed="#B1" n="47"/>modum viuum constitutum ex corpore &amp; anima ex altera parte: cuius illud corpus primum est pars altera constituens ipsum  
+          <lb ed="#B1" n="48"/>cum anima: aequiuoce dicuntur esse corpus aut substantia. Corpus enim illud mortuum solum dicebatur substantia tamquam prin 
+          <lb ed="#B1" n="49"/>cipium substantiae compositae: quia solum a substantia quae est materia: &amp; solum dicebatur corpus dimensionibus quantitatis 
+          <lb ed="#B1" n="50"/>&amp; extensione materiae sub illis. Corpus vero hoc viuum dicitur substantia tanquam substantia composita: &amp; per se indi-  
+          <lb ed="#B1" n="51"/>uiduum substantiae a forma substantiali existente in materia. Et dicitur corpus non tantum a dimensionibus quantitatis:  
+          <lb ed="#B1" n="52"/>sed maxime a forma substantiali corporeitatis, per quam est in genere substantiae corporeae. Et nota quod ista aequiuocatio 
+          <lb ed="#B1" n="53"/>est incompleti ad completum quod in se continet ipsum incompletum. Praedicta autem aequiuocatio viui &amp; mortui si alia for 
+          <lb ed="#B1" n="54"/>ma putredinis fuisset introducta, fuisset diuersorum omnino abinuicem specie distinctorum: &amp; ita multo maior quam ista.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

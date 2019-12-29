@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3 [Badius 1518 Transcription]</title>
+        <author ref="#HenryOfGhent">Henry of Ghent</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3 [Badius 1518 Transcription]</title>
+          <date when="2019-12-29">December 29, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="42"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="n3av8a-c1e116">
+        <head xml:id="n3av8a-c1e116-Hd1e95">Quaestio 3</head>
+        <p xml:id="n3av8a-c1e116-d1e98">
+          <lb ed="#B1" n="33"/>CIrca secundum arguebatur, quod Christus dicitur esse homo propter vnionem animae &amp; corporis ad  
+          <lb ed="#B1" n="34"/>diuinum suppositum: non autem propter vnionem eorum ad inuicem. quoniam si diceretur esse homo 
+          <lb ed="#B1" n="35"/>propter vnionem eorum ad inuicem, cum deus assumpsit in Christo animam &amp; corpus uni 
+          <lb ed="#B1" n="36"/>ta, tunc vnio illa qua Christus dicitur esse homo, natura licet non tempore finita &amp; determi-  
+          <lb ed="#B1" n="37"/>nata esset ante vnionem eorundem ad diuinum suppositum. sed vnio corporis &amp; animae qua ali  
+          <lb ed="#B1" n="38"/>quis dicitur esse homo finita facit hominis suppositum: deus ergo in Christo assumpsisset hominis 
+          <lb ed="#B1" n="39"/>suppositum in diuino supposito: &amp; esset Christus duo supposita. consequens est falsum. ergo &amp; antecedens.
+        </p>
+        <p xml:id="n3av8a-c1e116-d1e116">
+          <lb ed="#B1" n="40"/>CONtra, propter illam vnionem Christus dicitur esse homo propter quam habet esse hominis: quia vt dicit philosophus quarto  
+          <lb ed="#B1" n="41"/>Metaphysicae, non est differentia inter dicere homo aut homo ens. neque in generatione: neque in corruptione quia ergo  
+          <lb ed="#B1" n="42"/>Christus habet esse hominis solum ex vnione animae cum corpore: forma enim dat esse composito ex vnione sua cum mate  
+          <lb ed="#B1" n="43"/>ria: Christus ergo solummod dicitur esse homo ex vnione animae cum corpore: non autem ex vnione amborum in diuino  
+          <lb ed="#B1" n="44"/>supposito.
+        </p>
+        <p xml:id="n3av8a-c1e116-d1e129">
+          DIcendum est ad hoc, quod supposito Christum esse hominem non debere dici sicut nec aliquem alium  
+          <lb ed="#B1" n="45"/>hominem propter solum intellectum siue animam rationalem, licet sit principalissimum in homine, vt ex hoc ipse intellectus 
+          <lb ed="#B1" n="46"/>quodammodo possit dici homo sicut vult philosophus nono Ethicorum propter quid etiam Hugo posuit, quod Christus in tri 
+          <lb ed="#B1" n="47"/>duo erat homo Hoc inquam supposito, quod non dicitur aliquis homo propter solam animam: neque etiam multo magis propter 
+          <lb ed="#B1" n="48"/>solum corpus: sed etiam propter aliquam eorum vnionem, quoniam vnio eorum in Christo duplex erat, vna scilicet ipsorum  
+          <lb ed="#B1" n="49"/>adinuicem altera amborum in diuino supposito: opinio magistri Sententiarum erat quod Christus erat homo ex 
+          <lb ed="#B1" n="50"/>vnione amborum diuino supposito. propter quid posuit quod Christus in triduo erat homo: quia ambo erant vnita in  
+          <lb ed="#B1" n="51"/>diuino supposito: anima scilicet eius &amp; corpus. vnde vt videtur non posuit Christum esse hominem ex vnione animae cum 
+          <lb ed="#B1" n="52"/>corpore. Cui ratio (vt videtur) quia forma speciei nulli attribuitur nisi supposito eius: Christus autem non erat 
+          <lb ed="#B1" n="53"/>suppositum hominis ex vnione animae cum corpore: sed amborum cum diuinitate. ergo neque erat homo vnione animae suae  
+          <lb ed="#B1" n="54"/>cum corpore: sed amborum cum eius diuinitate. Sed salua eius reuerentia minus videtur considerasse vera deno  
+          <!--44.xml-->
+          <pb ed="#B" n="44"/>
+          <lb ed="#B1" n="1"/>minationem quam facit forma circa id quod informat. Ex hoc enim solo quod forma informat aliquid, denominat 
+          <lb ed="#B1" n="2"/>totum compositum ex informante &amp; informato. Impossibile est enim quod forma sit informans &amp; non denominans:  
+          <lb ed="#B1" n="3"/>vt quod aliquid sit informatum albedine &amp; non sit album. Cum ergo in Christo compositum ex vnione animae cum corpore 
+          <lb ed="#B1" n="4"/>informatum sit forma humana: impossibile est quod ex hoc non dicatur esse homo. licet ex hac vnione non  
+          <lb ed="#B1" n="5"/>habeat hoc compositum rationem suppositi: quia non subsistit in se, sed in illo a quo assumptum est: quod quidem 
+          <lb ed="#B1" n="6"/>assumens per ipsam naturam assumptam factum est suppositum hominis: quid tamen non denominatur homo propter ali 
+          <lb ed="#B1" n="7"/>quam informationem in se factam: sed propter illam quae facta est in assumpto. vt suppositum non dicatur homo nisi 
+          <lb ed="#B1" n="8"/>quia assumptum sit homo. Nec valet ratio pro illa opinione. licet enim secundum conmunem cursum rerum natu-  
+          <lb ed="#B1" n="9"/>ralium: species non denominat nisi suum suppositum: quia nuiius speciei natura assumpta est in alieno suppo 
+          <lb ed="#B1" n="10"/>sito nisi in Christo: nihilominus tamen vbi accidit naturam speciei quae in se nata est subsistere &amp; habe- 
+          <lb ed="#B1" n="11"/>re rationem, proprii suppositi, assumi ab alieno supposito vt contingit in Christo: bene potest species illa il 
+          <lb ed="#B1" n="12"/>lam naturam denominare propter solam informationem. Vnde etsi Christus assumpsisset solum animam: quae tamen 
+          <lb ed="#B1" n="13"/>esset vnita corpori: compositum illud ex corpote &amp; anima oporteret dici esse hominem: non tamen haberet ratio 
+          <lb ed="#B1" n="14"/>nem, proprii suppositi: quia anima a qua est personalitas, propria hominis, est assumpta ab alieno supposito: nec haberet 
+          <lb ed="#B1" n="15"/>esse suum in se terminatum: nec etiam ambo corpus &amp; anima vnita essent in vno communi supposito. Simpliciter 
+          <lb ed="#B1" n="16"/>ergo dicendum est quod Christus non dicitur homo ex vnione corporis &amp; animae in diuino supposito: sed solum ex 
+          <lb ed="#B1" n="17"/>vnione ipsorum ad inuicem.
+        </p>
+        <p xml:id="n3av8a-c1e116-d1e194">
+          AD argumentum in oppositum: quod tunc illa vnio animae cum corpore esset finita &amp; ter 
+          <lb ed="#B1" n="18"/>minata ante illam quae est amborum in diuino supposito: Dicendum quod non oportet. Deus enim in Christo vt 
+          <lb ed="#B1" n="19"/>dicunt Damascenus &amp; Augu. assumpsit corpus per animam &amp; mediante anima. lta quod licet in eodem instanti facta sit 
+          <lb ed="#B1" n="20"/>vnio animae cum corpore &amp; vtriusque cun diuinitate: tamen prioritate naturae prius erat vnio diuinitatis cum 
+          <lb ed="#B1" n="21"/>animae: &amp; inde per animam simul vnio vtriusque cum corpore. Adhuc dato quod non assumpsisset corpus mediante anima:  
+          <lb ed="#B1" n="22"/>sed vtrumque aeque immediate: non tamen oportet quod prius fuisset terminata vnio animae cum corpore quam vtrumque  
+          <lb ed="#B1" n="23"/>cum deitate, quia simul in eodem instanti quo anima vniebatur corpori, potuit simul vtrumque cum deitate vniri. ita 
+          <lb ed="#B1" n="24"/>quod quocumque illorum modorum vnio illa intelligatur fuisse facta, numquam fuit ibi vnio animae cum corpore prius quin  
+          <lb ed="#B1" n="25"/>simul &amp; duratione &amp; natura fuit vnio compositi ab vtroque cum deitate. &amp; sic humana natura in Chri 
+          <lb ed="#B1" n="26"/>sto nunquam fuit in se distincta &amp; terminata in proprio supposito: sed semper in diuino supposito: &amp; sic deus 
+          <lb ed="#B1" n="27"/>in Christo nunquam assumpsit hominis suppositum, sed solum naturam.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
