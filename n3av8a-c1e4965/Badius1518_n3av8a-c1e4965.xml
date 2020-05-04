@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 24</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 24</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="500-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4965">
+       <head xml:id="n3av8a-c1e4965-Hd1e96">Quaestio 24</head>
+       <p xml:id="n3av8a-c1e4965-d1e99">
+        <lb ed="#B" n="46"/>CIrca secundum arguitur, quod in peccato omissionis sm quod distinguitur contra peccatum conmissio 
+       <lb ed="#B" n="47"/>nis, non requiritur aliquis actus positiuus, quia contingit peccare peccato conmissionis faciendo contra 
+       <lb ed="#B" n="48"/>precepta negatiua dupliciter: &amp; quantum ad actum exteriorem, cuiusmodi est furari: &amp; quantum  
+       <lb ed="#B" n="49"/>ad actum interiorem, cuiusmodi est concupiscere. Sicut enim dicit lex, non furaberis, sic di-  
+       <lb ed="#B" n="50"/>cit non concupisces. Cum igitur peccatum omissionis sic se habeat ad praecepta affirmatiua, si 
+       <lb ed="#B" n="51"/>cut se hent peccatum conmissionis ad praecepta negatiua: consimiliter ergo contingit dupliciter pecca 
+       <lb ed="#B" n="52"/>re contra praecepta affirmatiua peccato omissionis, &amp; quantum ad actum exteriorem qui est non facere quod tenetur, &amp; quantum  
+       <lb ed="#B" n="53"/>ad actum interiorem: qui est non velle facere illud. sed ambobus concurrentibus non requiritur ad peccatum omissionis aliquis actus po 
+       <lb ed="#B" n="54"/>sitiuus. ergo &amp;c. Contra. m <name ref="#Augustine">Augustinus</name> de libero arbitrio, peccatum ita est voluntarium quod si non esset volunt: rium non esseti 
+       <!--1041.xml-->
+       <pb ed="#B" n="500-v"/>
+        <lb ed="#B" n="1"/>peccatum. sed non est voluntarium sine actus positione. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4965-d1e131">
+       EIco quod in pura negatione absque omni positiuo non 
+       <lb ed="#B" n="2"/>consistit ratio peccati, quia peccatum non habet rationem purae negationis: sed potius priuationis scilicet modi speciei &amp; 
+       <lb ed="#B" n="3"/>ordis. Priuatio autem necessario requirit subiectum. secundum philosophum. iiii. &amp;. ix. Metaph. in hoc ei priuatio differt 
+       <lb ed="#B" n="4"/>a negatione. &amp; sic peccatum omissionis necessario requirit aliquid positiuum. Vnde qui omnino nihil cogitat &amp; nihil 
+       <lb ed="#B" n="5"/>vult, vel agit, aut forte non habet omnino vsum liberi arbitrii, pro illo tempore &amp; hora nihil omnino potest peccare nisi 
+       <lb ed="#B" n="6"/>ex ordine ad aliquem actum positiuum: in quo sicut in radice demeruit quod si in tali tempore &amp; hora aliquid faceret non 
+       <lb ed="#B" n="7"/>faciendum, vel omitteret faciendum, ei imputaretur. &amp; hoc quemadmodum suffragia viuorum prosunt defunctis 
+       <lb ed="#B" n="8"/>pro quanto meruerunt dum viuerent quod sibi valere possent si fierent, quae si fiunt, sunt merita eorum ex radice operis 
+       <lb ed="#B" n="9"/>quod fecerunt viui. Vnde dico quod peccatum omissionis nullo modo potest consistere in pura negatione. Nec tamen dico 
+       <lb ed="#B" n="10"/>propter hoc quod ratio peccat omissionis est in positiuo actum nisi sicut in radice: sed solummo in ipsa actus negatione si- 
+       <lb ed="#B" n="11"/>ue omissione. Non est enim peccatum omissionis in illo positiuo nisi sicut in radice: vnde traxit omissio actus quod habet 
+       <lb ed="#B" n="12"/>rationem peccati. quemadmodum ratio meriti consistit in actu quem facit viuus, non vt in subiecto, sed vt in ra 
+       <lb ed="#B" n="13"/>dice: a qua habet quod deputatur mortuo in actu quem mortuus fecit viuus. et quemadmodum peccatum homicidii 
+       <lb ed="#B" n="14"/>commissum in ebrietate, vt in subiecto consistit formaliter in ipso actum occidendi, vt in radice autem in actum po 
+       <lb ed="#B" n="15"/>tationis quo se inebriauit, in qua radice est cauam illius omissionis. &amp; quia radix non est cauam vitiosi nisi ipsa in  
+       <lb ed="#B" n="16"/>se sit vitiosa, necesse est quod si sit peccatum in omissione quae ad actum omissum, quod est sit peccatum i conmissione quo ad actum 
+       <lb ed="#B" n="17"/>exercitum, vt sm hoc numquam possit esse vnum peccatum omissionis sine alio commissionis. Vnde si aliquis in nullo 
+       <lb ed="#B" n="18"/>actu exercito delinquaret vllo modo, aut ille non esset omnino causa &amp; radix omissionis, aut illa omissio non  
+       <lb ed="#B" n="19"/>deberet imputari in peccatum omittenti: sed excusaretur per inuoluntarium ex ignorantia inuincibili. Sed est aduertem 
+       <lb ed="#B" n="20"/>dum quod ille actus positiuus in quo sicut in radice est cauam omissionis, vel potest esse actus volendi terminatus 
+       <lb ed="#B" n="21"/>ad negationem siue omissionem eius ad quod quis tenetur, licet non sine aliquo termino positiuo, puta quando  
+       <lb ed="#B" n="22"/>aliquis omittit honorare parentes, quia vult hunc actum omittere, siue quia vult non honorare ipsos, eo quod vult 
+       <lb ed="#B" n="23"/>seruare pecuniam qua deberet eos honorare. Talis enim ex hoc quod vult hoc, committit, &amp; ex eo quod non fax 
+       <lb ed="#B" n="24"/>cit id quod terminat negatiue actum volendi, omittit. vel potest ille actus qui est radix omissionis esse aliquis alius 
+       <lb ed="#B" n="25"/>actus principaliter explicitus siue exercitus aut imperatus a voluntate: puta studium per quod detinetur intellectus intentus 
+       <lb ed="#B" n="26"/>circa vnum, vt non possit se conuertere ad cogitandum de faciendo id ad quidquis tenetur, &amp; quando tenetur. qui quidem 
+       <lb ed="#B" n="27"/>actus studendi, licet sit licitus sim se, &amp; per alio tempore in ipso non esset aliquam conmissio, committit tamen voluntas in eo 
+       <lb ed="#B" n="28"/>quod intellectum tenet in tali attentione propter circunstantiam temporis in quo deberet esse attentus ad faciendum id ad quod te- 
+       <lb ed="#B" n="29"/>netur, &amp; dimittere pro illo tempore actum sm se licitum ad quem non tenetur. &amp; ideo simul cum isto actu positiuo in quo in  
+       <lb ed="#B" n="30"/>cidit peccatum conmissionis, simel incidit interpretatiue actus voluntatis praedictus, quae scilicet vult omittere. In eo enim quod  
+       <lb ed="#B" n="31"/>vult intellectum esse tam intentum studio quod non potest convertere se ad considerandum quid aliquae faciendum est, vult inter 
+       <lb ed="#B" n="32"/>pretatiue omittere illud quod faciendum est. &amp; sm hoc concedenda est ratio ad secundam partem adducta. Ad primam quod 
+       <lb ed="#B" n="33"/>omissio potest fieri &amp; quae ad actum exteriorem &amp; interiorem siml, sicut &amp; commissio: dico quod verum est: immo necessa 
+       <lb ed="#B" n="34"/>rium est quondocumque omissio reducitur ad commissionem in alio actu positiuo quam sit actus volendi. Sic enim omittens quod te 
+       <lb ed="#B" n="35"/>netur facere exterius, est omittit cogitare de illo &amp; velle id facere interius. Sed omitti potest istud velle Vno 
+       <lb ed="#B" n="36"/>modo negatiue omnine scilicet quia non vultire: &amp; ex hoc nullum est peccatum eo quod in pure negatiuo non consistit peccatum 
+       <lb ed="#B" n="37"/>Vnde quo ad hoc non est simile de peccato conmissionis &amp; omissionis: sic tamen processit argumentum. Alio modo priuati- 
+       <lb ed="#B" n="38"/>ue scilicet quia vult non hoc: ratione tamen alicuius positiui semper, vt dictum est. Sed cum reducitur ad ipsum actum volendi, tunc 
+       <lb ed="#B" n="39"/>non est proprie nisi omissio actus exterioris non interioris, quia ipse actus exterior negatur: &amp; actus interior omissus 
+       <lb ed="#B" n="40"/>potius est priuatio quam negatio, quamquam ergo duplex sit omissio quandoque: ambas tamen oportet reducere ad aliquid po 
+       <lb ed="#B" n="41"/>sitiuum in quo est per se commissio secundum dictum modum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

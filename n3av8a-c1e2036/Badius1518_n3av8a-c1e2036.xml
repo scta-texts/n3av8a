@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 20</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 20</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="196-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2036">
+       <head xml:id="n3av8a-c1e2036-Hd1e96">Quaestio 20</head>
+       <p xml:id="n3av8a-c1e2036-d1e99">
+        <lb ed="#B" n="25"/>CIrca secundum arguitur quod adultus sine gratia non possit cauere peccatum mortale: quia talis aut est 
+       <lb ed="#B" n="26"/>in solo originali peccato: aut est in mortali, siue sit in originali siue non. absque mortali enm &amp; ori 
+       <lb ed="#B" n="27"/>ginali existens non est fine genera. ita quod quicumque est sine gratia, hoc est vel quia est in origiali, vel quia  
+       <lb ed="#B" n="28"/>est in mortali. Sed existens in solo originali, de quo magis videtur, non potest vitare peccatum: 
+       <lb ed="#B" n="29"/>&amp; ideo multo minus existens in mortali. ergo nullus adultus potest vitare mortale peccatum 
+       <lb ed="#B" n="30"/>fine genera. Quia autem existens in solo originali non possit vitare peccatum mortale, patet. quia 
+       <lb ed="#B" n="31"/>adultus existens in solo originali, primo peccato quo peccat non potest non peccare mortaliter. quia si sic, posset pri- 
+       <lb ed="#B" n="32"/>mo peccato suo peccare venialiter: cum quo in originali sine mortali existens posset decedere: quid est inconue 
+       <lb ed="#B" n="33"/>niens: quia non esset locus puniendi eum debita poena pro illo veniali: quia nec infernus: quia poena inferni non debetur 
+       <lb ed="#B" n="34"/>nisi peccato mortali: nec limbus: quia in eo non est nisi poena danmni quae debetur solo originali: peccato autem veniali de-  
+       <lb ed="#B" n="35"/>betur poena sensus alia ab illa quae debetur mortali. Quia existens in originali solo magis possit vitare peccatum mor 
+       <lb ed="#B" n="36"/>tale quam existens in mortali, patet. quia existens in peccato originali solo non est corruptus nisi actu alieno: existens ve 
+       <lb ed="#B" n="37"/>ro in mortali, corruptus est actu proprio: &amp; plus corrumpit actus, proprius quam alienus. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e130">
+       ITEM si existens sine genera 
+       <lb ed="#B" n="38"/>posset aliquod mortale vitare, illud vitando ex hoc facilius posset vitare aliud: quia vnus actus bonus disponit 
+       <lb ed="#B" n="39"/>ad alium: &amp; eadem ratione si in vna hora multo fortius &amp; in alia: &amp; ita si pont vitare vnum peccatum mortale in vna 
+       <lb ed="#B" n="40"/>hora, potest consimiliter vitare omne peccatum mortale in omni hora: quod est inconveniens. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e139">
+       IN contrarium est quia hoc esset po 
+       <lb ed="#B" n="41"/>nere errorem Pelagianorum. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e144">
+       CVM, vt iam tactum est in prima obiectione adultus sine gera non est nisi quia aut est in solo 
+       <lb ed="#B" n="42"/>originali aut in mortali, siue sit in origiali, siue non: bipertita est ergo quaestio &amp; coniter pertinens ad vtrumque illorum. 
+       <lb ed="#B" n="43"/>propter quod quo ad vtrumque distincte respondendum est quaestioni. Quo ad existentem in solo originali dixerunt aliqui  
+       <lb ed="#B" n="44"/>quod impossibile est peccatum veniale esse in aliquo adulto cum solo originali. quia vt dicunt, anquam est adultus non habens 
+       <lb ed="#B" n="45"/>discretionem sufficientem: neque liberi arbitrii vsum per consequens: omnino excusatur a peccato &amp; mortali &amp; veniali. 
+       <lb ed="#B" n="46"/>Sed statim cum adultus discretionem habuit: &amp; per hoc vsum liberi arbitrii: a neutro peccato excusatur omnino: &amp; de 
+       <lb ed="#B" n="47"/>bet statim ante omnem actum deliberare de statu suo &amp; modo viuendi quem ingredi debeat &amp; obseruare: dicen- 
+       <lb ed="#B" n="48"/>te Tullio in primo libro de officiis. Regna:, imperia, nobilitates, honores, diuitiae, &amp; quae sunt his contraria in ca 
+       <lb ed="#B" n="49"/>su sita temporibus gubernantur: ipsi autem quam personam gerere velimus a nia voluntate proficiscitur. ita quod alii ad  
+       <lb ed="#B" n="50"/>philosophiam: alii ad ius ciuile: alii ad eloquentiam se applicant: ipsarumque virtutum in alia alius magis vult excellere: 
+       <lb ed="#B" n="51"/>Haec igitur omnia cum quaerimus, in primis hoc considerandum est: quos nos &amp; quales esse velimus: &amp; in quo genere vitae. Quae de 
+       <lb ed="#B" n="52"/>liberatio omnium est difficillima. Namque Herculem dicunt cum primum pubesceret, quid tepronus a natura ad eligendum quan 
+       <lb ed="#B" n="53"/>quisque viam viuendi ingressurus est datum est, exiisse in solitudinem: atque ibidem sedentem diu secum multumque dubitasse 
+       <lb ed="#B" n="54"/>cum duas cerneret vias vnam voluptatis alteram virtutis, vtram ingredi melius esset. Quo facto si viam virtutis 
+       <!--432.xml-->
+       <pb ed="#B" n="196-r"/>
+        <lb ed="#B" n="1"/>eligeret: &amp; ad debitum finem se ordinaret statim per gratiam sibi ad deo datam remissionem consequeretur ori 
+       <lb ed="#B" n="2"/>ginalis peccati: &amp; prouideretur sibi a deo qui eum in fide doceret: sicut actum fuit cum Cornelio. Actuum. x. Si 
+       <lb ed="#B" n="3"/>vero viam voluptatis eligeret, nec se ad finem debitum ordinaret, in hoc mortaliter peccaret non faciens quid  
+       <lb ed="#B" n="4"/>in se est vt gratiam consequeretur vt de caetero nunquam possit esse in solo veniali cum solo originali. Quod non 
+       <lb ed="#B" n="5"/>videtur esse nisi fuga inconuenientis: quia non apparet eis vbi decedens cum originali &amp; solo veniali pos- 
+       <lb ed="#B" n="6"/>set puniri vt tactum fuit in arguendo. Ratio enim huius positionis in se nullam omnino habet necessitatem, quin adul  
+       <lb ed="#B" n="7"/>tus existens in mortali non minus debet esse sollicitus de se &amp; statu suo: &amp; quomodo debeat conuersari 
+       <lb ed="#B" n="8"/>quam adultus existens in solo originali. Debet ergo iam postquam commisit mortale cum habeat vsum liberi 
+       <lb ed="#B" n="9"/>arbitrii deliberare de se sicut &amp; ille: &amp; statim aut gratiam obtinebit qua remittetur ei illud peccatum: 
+       <lb ed="#B" n="10"/>aut nouo peccato mortali peccabit sicut &amp; ille. Quo commisso ante omnem alium actum debet de se deliberare  
+       <lb ed="#B" n="11"/>vt prius: &amp; gratiam obtinebit: aut tertium peccatum mortale committet: &amp; sic in infinitum. Et continue peccatum 
+       <lb ed="#B" n="12"/>mortale nouum adderet in quolibet momento quo deliberatiue se convertere quantum est in se, posset. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e206">
+       ET 
+       <lb ed="#B" n="13"/>idem potest concludi consimili deductione de existente in solo originali: quia non minus debet sibi prouide- 
+       <lb ed="#B" n="14"/>re post commissum mortale quam prius. Quid magnum inconueniens esse videtur: ex hoc enim sequitur quod nunquam pos 
+       <lb ed="#B" n="15"/>set peccare venialiter aliquis eorum quin simul peccaret mortaliter: quia in illa hora qua venialiter ponitur 
+       <lb ed="#B" n="16"/>peccare deberet deliberare sicut prius. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e217">
+       ETIAM sequetur quod absclute numquam possit peccare venialiter: 
+       <lb ed="#B" n="17"/>quoniam habens mortale peccatum non minus est dispositus ad aliud mortale quam habens solum originale: quia 
+       <lb ed="#B" n="18"/>illud est maius. Quod patet ex hoc quod illi debetur maior poen. scilicet sensus &amp; danmni: isti autem poena sensus tantum: &amp; 
+       <lb ed="#B" n="19"/>peccatum maius hominem magis deordinat: &amp; ad peccatum aliud disponit. Si ergo qui habet solum origina 
+       <lb ed="#B" n="20"/>le non potest post illud imediate committere nisi mortale: neque similiter qui habet mortale. cum ergo talis 
+       <lb ed="#B" n="21"/>ante gratiam nunquam est sine mortali, nunquam potest in ipso immediate succedere peccatum nisi mortale post 
+       <lb ed="#B" n="22"/>mortale. Quod similiter inconueniens magnum videtur. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e233">
+       PRAEterea ille adultus existens in solo origi- 
+       <lb ed="#B" n="23"/>nali deliberando de se &amp; statu suo, tempus &amp; successionem requirit: quia non sit subito: quia neque intelli 
+       <lb ed="#B" n="24"/>gere inquantum dependet a phantasmate potest esse fine continuo &amp; tempore secundum philosophum. interim autem po 
+       <lb ed="#B" n="25"/>test insurgere motus pertinens ad actum venialis peccati antequam completam habeat deliberationem. &amp; ita ante 
+       <lb ed="#B" n="26"/>primum mortale peccatum conmittendum peccabit venialiter. Nec est dicere quod in illo tempore deliberationis 
+       <lb ed="#B" n="27"/>non possit omnino peccare: quoniam aut toto illo tempore vsum liberi arbitrii habuit: aut non. Si sic: ergo peccare 
+       <lb ed="#B" n="28"/>potuit. Si non: ergo nec deliberare, quare nec ex omissione aut commissione mortaliter posset peccare. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e249">
+       DI 
+       <lb ed="#B" n="29"/>cendum ergo ad istum articulum: vno modo fustinendo conclusionem scilicet quod talis non potest sibi cauere quin si 
+       <lb ed="#B" n="30"/>peccet primo peccato suo mortaliter peccet: sed alia ratione quam eam sustinent praedicti videlicet quod hoc con- 
+       <lb ed="#B" n="31"/>tingit: quia talis eo quod non habet peccatum nisi ex alieno facto: &amp; quod omnem vsum liberi arbitrii praeoccupa 
+       <lb ed="#B" n="32"/>uit in illo: ideo misericordia dei etiam omnem vsum liberi arbitrii in ipso &amp; in quolibet sic praeoccupat 
+       <lb ed="#B" n="33"/>vt eodem instanti quo debet liberum arbitrium solui in ipso vt eius vsum habeat, motu aliquo gratiae spiritu 
+       <lb ed="#B" n="34"/>sancto assistente, liberum eius arbitrium vel de se, vel per aliquid donum gratis datum ei infusum sic excite 
+       <lb ed="#B" n="35"/>tur ad bonum &amp; inclinetur, quod si resistat motui ex contemptu &amp; rebellione, mortaliter peccet: sin autem, deus  
+       <lb ed="#B" n="36"/>gratiam gratum facientem infundat: quae eum a peccati originalis contagione expurget. Quia vero peccans 
+       <lb ed="#B" n="37"/>mortaliter proprio facto &amp; vsu liberi arbitrii se commaculat, ideo tali gra ante omnem vsum liberi arbitrii 
+       <lb ed="#B" n="38"/>post illud peccatum praeueniri non debet. &amp; hoc ideo etiam forte: quod quantum est ex indispositione liberi arbitrii non 
+       <lb ed="#B" n="39"/>statim refrigerati ab ardore peccati, talem motum recipere non potest quem potest recipere liberum arbitrium exi- 
+       <lb ed="#B" n="40"/>stens in solo originali: quia ardorem libidinis in actu illius peccati nunquam habuit propter quid etsi existens in solo ori- 
+       <lb ed="#B" n="41"/>ginali primo peccato suo non posset peccare nisi mortaliter, posset tamen existens in mortali. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e280">
+       PER quod  
+       <lb ed="#B" n="42"/>patet responsio ad vnam dictarum rationum iam inductarum: quae est contra iam dicta: probans quod si existens in solo ori 
+       <lb ed="#B" n="43"/>ginali non potest peccare primo nisi mortaliter: quod neque existens in mortali: quia magis disponit mortale ad  
+       <lb ed="#B" n="44"/>mortale quam originale. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e289">
+       DIcendum quod verum est quantum est de se: ratione tamen adiunct scilicet motus gerae datae cum ori 
+       <lb ed="#B" n="45"/>ginali non cum mortali propter contemptum &amp; ingratitudinem diuini adiutorii contingit quod existens in originali 
+       <lb ed="#B" n="46"/>in hora illa &amp; primo peccato non potest peccare nisi mortaliter. potest tamen existens in mortali vt postea dicetur. Illa 
+       <lb ed="#B" n="47"/>tamen ratio &amp; aliae bene procedunt contra illam aliam causam ponendi hanc conclusionem. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e299">
+       POtest &amp; aliter dici quid  
+       <lb ed="#B" n="48"/>non asserendo dico quod scilicet adultus existens in solo originali sic pont vitare mortale vt non sit necesse eum primo pec 
+       <lb ed="#B" n="49"/>cato quo peccat peccare mortaliter: sed potest peccare venialiter antequam peccet mortaliter. Quid autem as- 
+       <lb ed="#B" n="50"/>sumitur in arguendo: quod non potest peccare venialiter: quia non esset locus in quo puniretur si and mortale decederet:  
+       <lb ed="#B" n="51"/>&amp; hoc quasi deus non haberet vbi vel vnde talem punire posset: de quo timendum non est. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e310">
+       ET potest responderi fine asser 
+       <lb ed="#B" n="52"/>tione dicendo: quod puniretur in inferno poena sensus aetna sibi proportionali quaeli puniretur si esset coniunctum cum morta 
+       <lb ed="#B" n="53"/>li quam non sentiret: nec haberet locum suum infernum, nisi esset illud veniale peccatum iunctum origiali: cui debetur sola ca 
+       <lb ed="#B" n="54"/>rentia visionis dei in libo vt in loco sibi proprio. Et quid assumitur quod poena inferni non debetur nisi mortali: dicendum quod  
+       <!--433.xml-->
+       <pb ed="#B" n="196-v"/>
+        <lb ed="#B" n="1"/>verum est per se: quia ex se ei debetur poena aeterna: per accidens autem bene debetur veniali: scilicet quia coniunctum 
+       <lb ed="#B" n="2"/>ei cui debetur poena aeterna, vel sensus vt quando est coniunctum mortali, vel damni vt quando est con 
+       <lb ed="#B" n="3"/>iunctum soli originali. Vel potest dici quod omni peccato inquantum peccatum est poena aeterna debetur in acer- 
+       <lb ed="#B" n="4"/>bitate sibi proportionalis: &amp; etiam veniali. Quod quia deigenere suo tale est quod compatitur ipsum secun gra: ideo per ac- 
+       <lb ed="#B" n="5"/>ciden scilicet per gratiam cui coniungitur, poena ei temporalis debetur. Ita quod ex hoc veniale dicatur quod scilicet tale 
+       <lb ed="#B" n="6"/>est quod de natura sua est quod coesse potest illi. Per quid duplex venia ei debetur post hanc vitam: vn. scilicet vt remittatur 
+       <lb ed="#B" n="7"/>quo ad culpam: alia vt per poenam temporalem pro ipso satisfiat quo ad reatum. Et sic poena inferni debetur per 
+       <lb ed="#B" n="8"/>se &amp; mortali &amp; veniali: sed mortali tamquam illi cui de natura sua nullo modo debetur venia: nec potest adhi-  
+       <lb ed="#B" n="9"/>beri post hanc vitam: veniali vero tanquam illi cui de natura sua per accidens venia potest adhiberi post hanc  
+       <lb ed="#B" n="10"/>vitam. Quo ad secundum articulum de existente in peccato mortali, dixerunt aliqui haeretici quod homo in  
+       <lb ed="#B" n="11"/>mortali absque gratia posset propriis viribus perdurare &amp; non peccare mortaliter: &amp; quod gratia datur non 
+       <lb ed="#B" n="12"/>tam vt homo peccato resistat quam vt in bono proficiat. Quod <name ref="#Augustine">Augustinus</name> in libris suis sufficienter improbat  
+       <lb ed="#B" n="13"/>contra Pelagianos, maxime de perfectione iustitiae: nec ad praesens oportet nos de hoc esse solicitos. Aliorum 
+       <lb ed="#B" n="14"/>est opinio contraria: quod nullo modo potest vitare quacumque tentatione mortali occurrente. Sed ex hoc sequitur  
+       <lb ed="#B" n="15"/>quod omnis existens in mortali vnius vitii sit intemperatus intemperantia generali: quae circuit omnia vitia, vel ad minus 
+       <lb ed="#B" n="16"/>incontinens. Quod non est ponendum. Non sic enim vitia sunt connexa, vt qui habet vnum, habeat omnia: &amp; peccans in vno  
+       <lb ed="#B" n="17"/>factus sit omnium reus. prout determinat <name ref="#Augustine">Augustinus</name> de sententia Iacobi. Illud tamen necessario sequitur illam 
+       <lb ed="#B" n="18"/>opinionem: quia nullus habet necessario. succumbere tentationi secundum aliquod genus vitii: quinaliquo modo dispo 
+       <lb ed="#B" n="19"/>natur illo. Quia si non: habendo habitum saltem acquisitum virtutis contrariae posset ei per se resistere aliquan  
+       <lb ed="#B" n="20"/>de scilicet quando tentatio esset per se de vitio sibi contrario. Et hoc maxime quia vnus actus qui est peccatum mor- 
+       <lb ed="#B" n="21"/>tale, non tollit habitum acquisitum: &amp; non est habitus acquisitus quin saltem alicui tentationi possit resiste 
+       <lb ed="#B" n="22"/>re. ldeo dicendum est aliter &amp; medio modo: dicendo quod liberum arbitrium hominis etiam in mortali: peccato 
+       <lb ed="#B" n="23"/>existentis potest considerari dupliciter. Vno modo ex parte suae libertatis secundum se. Alio modo vt ex- 
+       <lb ed="#B" n="24"/>ponitur tentationibus sibi occurrentibus. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e382">
+       PRImo modo dico quod simpliciter potest cauere ne incidat  
+       <lb ed="#B" n="25"/>in peccatum aliud mortale: eo quod nulla necessitate in aliquod incidit, sed si incidat sic voluntarie incidit, vt si 
+       <lb ed="#B" n="26"/>voluntarie non incideret, &amp; incideret, incidendo non peccaret. Si secundo modo: dico quod diu sibi cauere non 
+       <lb ed="#B" n="27"/>potest: quin necesse sit quod aut in mortale incidat satis cito: aut quod a deo gratiam qua persecte sibi cauere po 
+       <lb ed="#B" n="28"/>test, &amp; qua a mortali liberatur recipiat. Quodcumque tamen horum ei contingat, non nisi voluntate eius consen 
+       <lb ed="#B" n="29"/>tiente contingit: sicut necessarium est quod curram cras vel non curram, quodcumque tamen eorum mihi contingat 
+       <lb ed="#B" n="30"/>voluntarie mihi continget: vt sub disiunctione alterum sit necessarium, sed vtrumque secundum se &amp; absolute 
+       <lb ed="#B" n="31"/>voluntarium. Quoniam quicumque est in mortali peccato, siue in vno, siue in pluribus, siue alias bene in virtutibus 
+       <lb ed="#B" n="32"/>politicis politice exercitatus, siue nullo modo, siue mediocriter, siue plus, siue minus, postquam sit in mor- 
+       <lb ed="#B" n="33"/>tali, aut quantum est in se bene se habet circa peccata a se commissa, &amp; circa alia, ea detestando secundum quod 
+       <lb ed="#B" n="34"/>possibile est ei pro statu illo: vel non. Si sic: non potest esse quod diu sic bene se habeat circa actus morales si 
+       <lb ed="#B" n="35"/>ue politicos in quos potest ex puris naturalibus absque gratia gratum faciente: quin deus liberum arbitrium 
+       <lb ed="#B" n="36"/>eius moueat motu aliquo gratiae gratis datae vt bono simpliciter assentiat. Cui si non resistat, deus sta 
+       <lb ed="#B" n="37"/>tim gratiam gratum facientem: &amp; ab omni peccato liberantem confert. Si vero resistat, ex contemptu &amp; ingra 
+       <lb ed="#B" n="38"/>titudine diuinae vocationis statim mortaliter peccat. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e415">
+       AD talem autem statum quilibet potest venire 
+       <lb ed="#B" n="39"/>faciendo quod in se est: &amp; in hoc quantum est ex libertate arbitrii potest alium praeuenire vel simul cum ipso ac- 
+       <lb ed="#B" n="40"/>cedere. Regulariter tamen quanto quis est occupatus peccatis paucioribus &amp; minoribus, &amp; alias melius 
+       <lb ed="#B" n="41"/>&amp; diutius &amp; perfectius exercitatus est politice in pluribus virtutibus politicis, tanto habilior est vt ci- 
+       <lb ed="#B" n="42"/>tius ad huiusmodi statum perueniat: vt sic sicut dictum est a deo visitatus prius aliis iustificetur obediendo  
+       <lb ed="#B" n="43"/>motui gratiae: aut prius aliis in mortale peccatum per ingratitudinem &amp; contemptum diuinae vocationis 
+       <lb ed="#B" n="44"/>ei resistendo cadat. Si vero non bene se habeat circa commissum aut commissa, &amp; circa alia, ipsa detestando  
+       <lb ed="#B" n="45"/>quantum in se est, hoc non contingit nisi quia actu aut habitu vni generi vitii aut pluribus faueat &amp; consen- 
+       <lb ed="#B" n="46"/>sum praebeat. Quia si actu consentiat: &amp; actionis exterioris non fuerit opportunitas: iam mortaliter peccat. Si 
+       <lb ed="#B" n="47"/>autem in habitu: tunc tentatione adueniente necesse est vt aut melius quam prius erga peccatum vel pecca- 
+       <lb ed="#B" n="48"/>ta se habeat penitus ipsum vel ipsa detestando: aut vt ei assensum praebeat. Quod si faciat, iam mortaliter pec 
+       <lb ed="#B" n="49"/>cat. Si autem assensum non praebeat: sed bene in tentatione se habeat, aut statim, aut satis cito si in statu 
+       <lb ed="#B" n="50"/>huiusmodi perseueret, deus eum modo praedicto visitat, vt necesse sit alterum: aut quod gratiam iustificantem per 
+       <lb ed="#B" n="51"/>cipiat, aut per ingratitudinem mortaliter peccet, sicut dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e2036-d1e446">
+       AD talem autem statum quo male se ha 
+       <lb ed="#B" n="52"/>bendo circa peccata vni vel pluribus actu faueat consentiendo tentationi: &amp; sic mortaliter peccet, vel cum 
+       <lb ed="#B" n="53"/>tentatur consentiat: &amp; sic similiter peccet: aut quod in tentatione bene se habeat &amp; iustificetur: vel per in-  
+       <lb ed="#B" n="54"/>gratitudinem peccet: tanto quemquecitius quantum est ex parte exteriorum tentationum, aduenire regulariter 
+       <!--434.xml-->
+       <pb ed="#B" n="197-r"/>
+        <lb ed="#B" n="1"/>necesse est: quanto quis pluribus peccatis obnoxius est &amp; maioribus: &amp; alias magis &amp; diutius &amp; perfe 
+       <lb ed="#B" n="2"/>ctius in vitiis pluribus exercitatus est. Quanto enim magis sunt tales, tanto plures tentationes exterio- 
+       <lb ed="#B" n="3"/>res, &amp; occasiones earum eos circundant: &amp; si tentationes extra non adsint, concupiscentiae tamen eorum pulsant 
+       <lb ed="#B" n="4"/>cogitationes, maxime si magnae sunt &amp; vehementes: vt dicitur. iiii. Ethicorum. &amp; tanto magis quan-  
+       <lb ed="#B" n="5"/>to sunt maiores: ita quod concupiscentiis suis necesse sit eos tentari abstractos: &amp; illectos quasi a rebus 
+       <lb ed="#B" n="6"/>extra: vt omnino sit impossibile diu stare sine casu in mortale, vel iustificatione. possunt tamen tanto diutius 
+       <lb ed="#B" n="7"/>quanto minus sunt tales. Et sicut est dictum de existente in mortali: sic dico de existente in solo origina 
+       <lb ed="#B" n="8"/>li: si tamen sit possibile eum peccare venialiter priusquam mortaliter peccet secundum primum modum su 
+       <lb ed="#B" n="9"/>perius tactum. Quod arguitur primo: quod adultus sine gratia non potest cauere peccatum mortale: neque exi- 
+       <lb ed="#B" n="10"/>stens in solo originali: quia si posset cauere peccatum mortale, posset prius incidere in veniale secundum vnum mo 
+       <lb ed="#B" n="11"/>dum ponendi tactum: Dicendum quod verum est. Et tunc respondendum ad illud inductum contra hoc: quod non esset 
+       <lb ed="#B" n="12"/>locus punitionis eius: sicut supra. ca. iii. secundum alium modum, cui faueo magis, non propter rationem ad  
+       <lb ed="#B" n="13"/>fugam huiusmodi inconuenientis supra improbatum: sed propter aliam supra positam: dicendo quod falsum est: &amp; 
+       <lb ed="#B" n="14"/>falsum est ex quo sequi. scilicet quod primo peccato suo posset peccare non mortaliter. Et sic verum est quod primo 
+       <lb ed="#B" n="15"/>peccato quo peccat non potest non peccare venialiter: sed tamen nunquam necesse est ipsum peccare mortaliter 
+       <lb ed="#B" n="16"/>nisi sub disiunctione scilicet quod necesse est eum cito iustificari aut mortaliter peccare: vt dictum est: aut quod ne- 
+       <lb ed="#B" n="17"/>cesse est eum cito peccare mortaliter, si in originali perseuerauerit. sed hoc non nisi propter necessitatem  
+       <lb ed="#B" n="18"/>illius disiunctionis sicut patet. Ita etiam quod si ponatur posse peccare venialiter antequam mortaliter, ne- 
+       <lb ed="#B" n="19"/>cesse esset eum satis cito venire ad statum in quo necesse esset eum aut iustificari, aut secundum aliquem 
+       <lb ed="#B" n="20"/>modum peccare mortaliter sicut dictum est. Quid autem praemittitur: quod magis videtur quod existens in solo ori- 
+       <lb ed="#B" n="21"/>ginali posset non peccare mortaliter quam existens in actuali, patet ex praedictis quod falsum est, ponendo quod  
+       <lb ed="#B" n="22"/>primum peccatum eius oportet esse mortale. Ponendo autem contrarium, verum est. &amp; tunc respondem 
+       <lb ed="#B" n="23"/>dum est de vtroque vt dictum est. Ad secundum: quod si sine gratia existens posset vitare vnum mortale in  
+       <lb ed="#B" n="24"/>vna hora: tunc facilius aliud in alia hora: &amp; eadem ratione omnia in omnibus horis: Dicendum quod verum esset 
+       <lb ed="#B" n="25"/>si illa vitatio non disponeret ipsum quantum est in se, vt sit in statu quo necesse sit eum iustificari, aut 
+       <lb ed="#B" n="26"/>ex contemptu &amp; ingratitudine mortaliter peccare. Sed hoc non est possibile: vt persistat in bene se habendo  
+       <lb ed="#B" n="27"/>&amp; detestando peccata, &amp; deus non visitet eum dicto modo.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 25</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 25</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="288-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3025">
+       <head xml:id="n3av8a-c1e3025-Hd1e96">Quaestio 25</head>
+       <p xml:id="n3av8a-c1e3025-d1e99">
+        <lb ed="#B" n="40"/>Equuntur tria circa sacramentum poenitentiae, pertinentia principaliter ad peccata confitem 
+       <lb ed="#B" n="41"/>da. Quorum primum erat de occultando siue celando peccam: vtrum retinens siue celans sacer 
+       <lb ed="#B" n="42"/>doti vnum peccatum in confessione: teneatur omnia alia confessa iterum confiteri. Secundum, de reue- 
+       <lb ed="#B" n="43"/>lando siue manifestando peccam confessa. Si praelatus superior comnmitteret alicui sacerdoti:  
+       <lb ed="#B" n="44"/>vt audiret alicuius confessionem &amp; absolueret eum: &amp; quod ipsa perfecte audita referret ei 
+       <lb ed="#B" n="45"/>omnia alia peccatam confitentis quae sibi erat confessus: vtrum esset fidelis relator siue fideliter 
+       <lb ed="#B" n="46"/>referret, si reuersus ad praelatum diceret: Denene, iste est mundus &amp; immunis ab omni peccato. Tertium erat 
+       <lb ed="#B" n="47"/>de exhortatione facienda circa peccata: vtrum confessor absoluens confitentem teneatur ipsum in aliquo casu hor- 
+       <lb ed="#B" n="48"/>tari ad alias confitendum. 
+      </p>
+      <p xml:id="n3av8a-c1e3025-d1e121">
+       CIRca primum arguitur: quod retinens vnum peccatum, non tenetur omnia alia iterum confite- 
+       <lb ed="#B" n="49"/>ri. quia isti nihil obest nisi quia fictus est in confitendo: sed videmus in alio sacramento vt in bapti- 
+       <lb ed="#B" n="50"/>smo in quo omnia peccata simul remittuntur: quod fictus non baptizatur retinendo affectionem volunta 
+       <lb ed="#B" n="51"/>tis circa vnum mortale. tamen non oportet baptismum iterari propter alia absoluenda: sed sufficit quod tollat 
+       <lb ed="#B" n="52"/>fictionem circa illud vnum. ergo similiter confesso omnia alia praeter vnum non oportet sacramentum confes 
+       <lb ed="#B" n="53"/>sionis adhiberi propter alia absoluenda: sed sufficit vt tollat fictionem circa illud vnum. illam autem tollit 
+       <lb ed="#B" n="54"/>illud vnum confitendo. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3025-d1e137">
+       CONtra. illa confessio culpam auget non delet. Sed confessio suffi- 
+       <!--616.xml-->
+       <pb ed="#B" n="288-r"/>
+        <lb ed="#B" n="1"/>ciens debet esse deletiua culpae. ista ergo non sufficit: quare iteranda est circa illa confessa. 
+      </p>
+      <p xml:id="n3av8a-c1e3025-d1e146">
+       AD istam 
+       <lb ed="#B" n="2"/>quaestionem responsum est supra in quaestione de iterando in confessione peccata de quibus semel rite 
+       <lb ed="#B" n="3"/>facta est confessio. Est enim tertius casus: in quo diximus quod semel confessa iterum debent confiteri. Nec 
+       <lb ed="#B" n="4"/>est aliqua dubitatio in hac quaestione nisi in casu quo confessor recordatur eorum quae ille confessus est ei. 
+       <lb ed="#B" n="5"/>In omnibus autem aliis casibus scilicet cum confessor fuerit illorum peccatorum oblitus: vel si debeat alteri confi- 
+       <lb ed="#B" n="6"/>teri illud peccatum commissum: non est dubium quin debeat confessa iterum confiteri singulariter &amp; in  
+       <lb ed="#B" n="7"/>speciali. &amp; hoc multo fortius quam in casu in quo satisfactio vel non est iniuncta, vel est oblita. &amp; est vna 
+       <lb ed="#B" n="8"/>causa communis hic &amp; illic. Sed est hic alia causa specialis. Causa siue ratio communis est: quia satis 
+       <lb ed="#B" n="9"/>factio pro omnibus iniungenda est: quam in istis casibus non posset taxare nisi auditis in confessione  
+       <lb ed="#B" n="10"/>omnibus singulariter &amp; in speciali: pro quibus est iniungenda. Quia vt dicitur in illo statuto, Omnis 
+       <lb ed="#B" n="11"/>vtriusque sexus: oportet quod confessor sit discretus &amp; cautus: diligenter inquirens &amp; peccatoris circum- 
+       <lb ed="#B" n="12"/>stantias &amp; peccati: quibus prudenter intelligat quale debeat ei praebere consilium: &amp; cuiusmodi remedium 
+       <lb ed="#B" n="13"/>adhibere. Nec refert in hoc casu &amp; in aliis: nisi quod in hoc de confessis potest confessus habere memo 
+       <lb ed="#B" n="14"/>tiam satisfactionis iniunctae. vnde videtur non esse necesse propter satisfactionem recipiendam iterato confiteri 
+       <lb ed="#B" n="15"/>illa confessa: sicut necesse est in casu in quo satisfactio aut non erat iniuncta aut penitus oblita. Propter 
+       <lb ed="#B" n="16"/>quid est alia specialis causa siue ratio in hoc casu, propter quam cum confessor non recordatur peccatorum sibi 
+       <lb ed="#B" n="17"/>iam confessorum: tenetur confessus omnia in speciali illi vel alteri confiteri. Cum vero ille confessor recor 
+       <lb ed="#B" n="18"/>datur eorum quae confessus est: tenetur eadem confiteri eidem saltem in generali tamas scilicet faciendo vt ipsa reducan 
+       <lb ed="#B" n="19"/>tur ad memoriam eius actualem. &amp; est causa tacta in quaestione praedicte. scilicet quia confessio illa non erat ex se sa 
+       <lb ed="#B" n="20"/>cramentalis propter fictionem. Confessio enim sacramentalis quia forte non sit necesse eam fieri in cha- 
+       <lb ed="#B" n="21"/>ritate (Potest enim contingere quod non delentur peccata nisi per sacramentalem absolutionem. nisi enim casus iste 
+       <lb ed="#B" n="22"/>posset contingere: non esset, proprius &amp; principalis effectus poenitentiae, conferre gratiam ablutiuam 
+       <lb ed="#B" n="23"/>omnium: cum tamen poenitentia sit secundum Hieronymum, secunda tabula post naufragium: &amp; quasi secundus bapti- 
+       <lb ed="#B" n="24"/>smus) Confessio igitur sacramentalis etsi non sit necesse eam fieri in charitate siue gratia gratum faciente, tamen 
+       <lb ed="#B" n="25"/>requirit quod non sit in voluntate actus contrarius ponens obiicem gratiae: immo vt aliqui dicerent requiritur actus con 
+       <lb ed="#B" n="26"/>cors aliqualiter gratiae: etsi non sit gratuitus: tamen ex naturalibus liberi arbitrii adiuti gra gratis data: qui so 
+       <lb ed="#B" n="27"/>lum dispositiuus est &amp; meritorius de congruo. Nec aliter sit confessio sacramentalis: eo quod sacramentum poenitem 
+       <lb ed="#B" n="28"/>tiae sic dependet ab actu voluntatis: vt non sit homo propria materia sacramenti poenitentiae nisi sit voluntas 
+       <lb ed="#B" n="29"/>libera ab actum contrario qui ponit obiicem charitati. Nunc autem id quod est sensibile elementum in sacramento quo  
+       <lb ed="#B" n="30"/>cumque, nisi adhibeatur suae, propriae materiae, sacramentum non est: vt si brutum perfundatur aqua sub forma verborum  
+       <lb ed="#B" n="31"/>sacramentalium, non est baptismus sacramentalis. Vnde quia illa confessio vno peccato per industriam reseruato sa- 
+       <lb ed="#B" n="32"/>cramentalis non erat: ideo omnia iterato sunt dicto modo sacramentaliter confitenda. Propter quid cum aliquis confi 
+       <lb ed="#B" n="33"/>tetur non ponendo obiicem charitati in actum voluntatis, &amp; vnum dimittit non ex industria, ab aliis prius ab  
+       <lb ed="#B" n="34"/>solutus, si postmodum recordetur illius: non debet omnia confessa iterare: cum bona fide confessus sit alia. 
+       <lb ed="#B" n="35"/>Et secundum hoc concedendum est obiectum secundum. 
+      </p>
+      <p xml:id="n3av8a-c1e3025-d1e223">
+       ET patet ad primum dicendo vno modo secundum opinionem dicen 
+       <lb ed="#B" n="36"/>tium quod poenitentia sacramentalis requirit liberi arbitrii cooperationem: quod non est simile de baptismo &amp; poenitem 
+       <lb ed="#B" n="37"/>tia: quia baptismus non dependet vllo modo ab actu liberi arbitrii in coagendo, sicut facit pieosenia vt dictum est 
+       <lb ed="#B" n="38"/>et hoc ad suum effectum principalem qui est grae collatio ad abluendum peccata: sed sufficit vt non sit actio repu- 
+       <lb ed="#B" n="39"/>gnans genrae: quia baptismus fit sine gemitu &amp; planctu. sed ille actus requiritur in poenitentia vt dictum est. Secundum  
+       <lb ed="#B" n="40"/>opinionem aliam &amp; istam commouniter, Dicendum quod non est simile: quia baptismus quo ad actum suum primum qui est chara 
+       <lb ed="#B" n="41"/>cteris impressio, compatitur actionem repugnantem in ficte baptizato. Propter quid quia fictus, propria materia 
+       <lb ed="#B" n="42"/>pont esse baptismi quo ad eius primum effectum, qui est characteris impressio: poenitentia autem quo ad nullum suum  
+       <lb ed="#B" n="43"/>effectum compatitur secum talem fictionem: eo quod non habet actum praeuium ad actum collationis gerae: quia non imprimit 
+       <lb ed="#B" n="44"/>characterem: ent si prieosenia nullum requirit actum concordem gerae in voluntate: ideo fictus nullo modo potest esse, propria ma 
+       <lb ed="#B" n="45"/>teria poeseniae. Ex quo contingit vlterius quod remota fictione sequitur totus effectus baptismi: quia tota virtus eius ad  
+       <lb ed="#B" n="46"/>actum principalem conferendi gratiam manet in charactere. proptur quid stati prosilit in effectum collationis gratiae re 
+       <lb ed="#B" n="47"/>mota fictione. Remota tamen fictione a poenitente, nullatenus sequitur effectus principalis poenitentiae: quia 
+       <lb ed="#B" n="48"/>nihil impressum est ficto per sacramentum poenitentiae quod habet vim sacramenti poenitentiae.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

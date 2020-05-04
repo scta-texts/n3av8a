@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="158-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1825">
+       <head xml:id="n3av8a-c1e1825-Hd1e96">Quaestio 4</head>
+       <p xml:id="n3av8a-c1e1825-d1e99">
+        <lb ed="#B" n="20"/>Equuntur duo quaesita de actione dei transeunte in aliud extra. Quorum primum erat:  
+       <lb ed="#B" n="21"/>Vtrum deus necessario producat quicquid exterius immediate producit. Secundum 
+       <lb ed="#B" n="22"/>erat: Vtrum deus sit causa damnationis malorum. 
+      </p>
+      <p xml:id="n3av8a-c1e1825-d1e108">
+       CIRca primum arguitur quod sic. 
+       <lb ed="#B" n="23"/>uquoniam si deus vult hoc facere, dato quocunque ex eis quae ipse exterius immediate fa 
+       <lb ed="#B" n="24"/>cit, sequitur ergo hoc fit. quia in psalmo diei. Omnia quaecumque voluit fecit dominus. Antece 
+       <lb ed="#B" n="25"/>dens est necessarium simpliciter &amp; absolute. ergo &amp; consequens. Quia antecedens sit sim 
+       <lb ed="#B" n="26"/>pliciter &amp; absolute necessarium, arguitur: quia quicquid deus vult non potest non  
+       <lb ed="#B" n="27"/>velle. aliter enim esset sua voluntas mutabilis. 
+      </p>
+      <p xml:id="n3av8a-c1e1825-d1e121">
+       IN contrarium est illud quod dicit quidam Articulus con- 
+       <lb ed="#B" n="28"/>demnatus a Stephano quondam episcopo Parisiensi: qui dicit sic: Quia deum necesse est facere quicquid im 
+       <lb ed="#B" n="29"/>mediate fit ab ipso, error. Ad hoc est sententia philosophorum, secundum quod recitat Auicenna. viii. &amp;. ix, me- 
+       <lb ed="#B" n="30"/>taphysicae suae, quod deus triplici necessitate in vnum concurrente agat illa quae immediate agit: &amp; etiam quae  
+       <lb ed="#B" n="31"/>mediate in prima rerum &amp; essentiarum productione: quae est essentia, scientia, &amp; voluntas. vt videlicet 
+       <lb ed="#B" n="32"/>primo &amp; per se agat necessitate suae essentiae. Quoniam vt dicit, veritatis primae non est sua prima actio 
+       <lb ed="#B" n="33"/>nisi per essentiam. sed hoc non nisi secundum modum scientiae suae discernentis, &amp; voluntatis suae compla- 
+       <lb ed="#B" n="34"/>centis. Vnde de scientia dei dicit ibidem. Sua scientia est sciens quid sua perfectio: &amp; sua excellentia est 
+       <lb ed="#B" n="35"/>vt fiat ab eo bonitas. &amp; hoc est de communicantibus suam gloriam: &amp; ex hoc quod intelligit se, sequitur or- 
+       <lb ed="#B" n="36"/>dinatio bonitatis in esse: &amp; intelligit qualiter est possibile &amp; elegantius prouenire esse totius. Vnde 
+       <lb ed="#B" n="37"/>vt dicit, ex hoc quod intelligit ordinationem &amp; bonitatem quam melior esse potest secundum quod intelligit eam 
+       <lb ed="#B" n="38"/>fluit ipsa tali fluxu quo perfectius peruenitur ad ordinem secundum possibilitatem. De voluntate vero dei dicit 
+       <lb ed="#B" n="39"/>ibidem. Omnis autem scientia qua scit quid prouenit ex ea, nec miscetur ei impedimentum, placet ei quid proue 
+       <lb ed="#B" n="40"/>nit ab ea. Igitur primo placuit vt ex sua essentia flueret omne quod est. 
+      </p>
+      <p xml:id="n3av8a-c1e1825-d1e152">
+       POsitionis autem eorum ratio 
+       <lb ed="#B" n="41"/>talis erat: vt dicit in eodem. Quicquid ab eo est, necessario est quantum ad illud. alioquin esset ei dispo 
+       <lb ed="#B" n="42"/>sitio quae non erat: qua scilicet fieret agens &amp; ad actionem applicaretur, si non ageret de necessitate.  
+       <lb ed="#B" n="43"/>Et quia natura non est nisi ad vnum, ideo, vt dicit in eodem, primum non potest agere nisi vnum immedia- 
+       <lb ed="#B" n="44"/>te numero procedens ab eo. quae omnia vana sunt &amp; friuola. Positio principalis quod agat de necessitate  
+       <lb ed="#B" n="45"/>naturae in se, est impossibilis. quoniam agens aliquid de necessitate naturae absolutum &amp; independens, non  
+       <lb ed="#B" n="46"/>potest esse ab illo quod agit. quia necessitas tendendi in aliud &amp; absolutio siue independentia sunt con 
+       <lb ed="#B" n="47"/>traria. agens ergo aliquid de necessitate naturae, dependens est ad illud quod agit. Hoc autem non est ni 
+       <lb ed="#B" n="48"/>si propter perfectionem quam ex illo acquirit. Primum ergo in eo quod agit, perfectionem aliquam sui vt 
+       <lb ed="#B" n="49"/>finem intenderet. vnde vult <name ref="#Aristotle">philosophus</name> primo physicorum quod natura agit propter finem. hoc autem repugnat 
+       <lb ed="#B" n="50"/>perfectioni primi. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1825-d1e180">
+       SED diceret Auicenna: quod verum est de eo quod tendit in aliud propter suam im 
+       <lb ed="#B" n="51"/>perfectionem vt aliquid ab illo acquirat. Sed primum tendit in aliud propter suam perfectionem. Vn  
+       <lb ed="#B" n="52"/>de dicit, quod hoc est secundum viam consequendi &amp; communicandi esse eius. Non quod eius esse sit pro- 
+       <lb ed="#B" n="53"/>pter aliud a se: sicut aqua refrigeratur per seipsam ad conseruandam suam speciem, non vt refrige 
+       <lb ed="#B" n="54"/>ret aliquid extra se: sed hoc consequitur eam. Quod non prodest ei. quoniam quod nunc consequitur aquam, quod  
+       <!--357.xml-->
+       <pb ed="#B" n="158-v"/>
+        <lb ed="#B" n="1"/>refrigeret aliud extra, hoc non conuenit ei nisi quia illud approximatur ei. Ita quod secundum se si nihil ei 
+       <lb ed="#B" n="2"/>appropinquet, stat perfecta in sua specie absque eo quod refrigeret, quod si ei non posset contingere, necessario 
+       <lb ed="#B" n="3"/>perfectionem suam habere non posset fine dependentia ad aliud, sicut deo conuenit secundum illorum posi- 
+       <lb ed="#B" n="4"/>tionem. ergo &amp;c. Et quid dicit: quod nisi sic ageret: ad hoc quod ageret necessaria esset ei dispositio qua de non  
+       <lb ed="#B" n="5"/>agente fieret agens: Non oportet. quoniam voluntate libera &amp; immutabili aeterna nullum est impossibile age 
+       <lb ed="#B" n="6"/>re effectum nouum: secundum quod declarauimus in quaestionibus de immutabilitate dei: &amp; non tantum vni 
+       <lb ed="#B" n="7"/>cum: sed plures &amp; diuersos &amp; in diuersis temporibus secundum determinationem voluntatis suae, vt iam 
+       <lb ed="#B" n="8"/>patebit. vnde vno inconuenienti posito necesse habebat ponere alia. Quia etiam deus nullo modo agit 
+       <lb ed="#B" n="9"/>necessitate scientiae suae, siue vt concomitantis naturam, siue vt absolutae, secundum quod aliqui pos- 
+       <lb ed="#B" n="10"/>sent dicere quod deus agit necessitate suae scientiae licet non necessitate suae naturae: eo quod sua scientia 
+       <lb ed="#B" n="11"/>comprehendit ordinem meliorem &amp; digniorem in rebus: &amp; secundum quod apprehendit fluit ab ipso in esse: pa 
+       <lb ed="#B" n="12"/>tet hoc modo. quoniam deus intelligendo seipsum intelligit alia a se: vt etiam ipse <name ref="#Aristotle">philosophus</name> &amp; Auicenna ple 
+       <lb ed="#B" n="13"/>ne determinant. lpse autem cum sit purum esse, omnis esse rationem in se comprehendens: ratio- 
+       <lb ed="#B" n="14"/>nes enim perfectionum omnium sunt in deo, vt dictum est supra: omnia ergo alia a se quaecunque sunt 
+       <lb ed="#B" n="15"/>intelliget: &amp; ita omnem ordinem possibilem rerum. Sed dicetur quod scientia eius cum sit ars producendo-  
+       <lb ed="#B" n="16"/>rum, determinat modum meliorem: &amp; perfectione sua exigente non potest alium determinare. Sed tunc 
+       <lb ed="#B" n="17"/>sequitur dependentia essentialis ad producta sicut prius. 
+      </p>
+      <p xml:id="n3av8a-c1e1825-d1e236">
+       PRAEterea diuina scientia pure specula 
+       <lb ed="#B" n="18"/>tiua est &amp; non practica: quia non habet aliam scientiam de aliis quam de se, &amp; de se scientia sua penitus spe 
+       <lb ed="#B" n="19"/>culatiua est. Sed scientia speculatiua non determinat operanda secundum quod exposuimus in quaestionibus de in 
+       <lb ed="#B" n="20"/>tellectu dei. ergo &amp;c. Vnde &amp; scientia dei si sit ars, illa pure speculatiua est &amp; non practica, vt determinaui 
+       <lb ed="#B" n="21"/>mus alibi in quaestionibus. art. xxxvii. quaest. vii. de habitibus speculatiuis in deo. Quia similiter deus nullo modo 
+       <lb ed="#B" n="22"/>agit necessitate suae voluntatis siue concomitantis naturam siue absolute consideratae: secundum quod aliqui  
+       <lb ed="#B" n="23"/>possent dicere: quod licet non agit necessitate suae naturae neque suae scientiae, agit tamen necessitate suae 
+       <lb ed="#B" n="24"/>voluntatis, eo quod scientia sua apprehendit meliorem ordinem in rebus: &amp; voluntas persecta necessa- 
+       <lb ed="#B" n="25"/>rio ei adhaeret quod melius necessitate voluntatis ad id quod melius ipsum secundum illum modum ab  
+       <lb ed="#B" n="26"/>eo fluit in esse: patet sic. quoniam cum voluntas non sit per se nisi finis sui: &amp; quid est per se alicuius, licet ne 
+       <lb ed="#B" n="27"/>cessarium ordinem habet ad illud &amp; ad ea quae essentialem habent habitudinem ad illud: non tamen ad  
+       <lb ed="#B" n="28"/>ea quae ad illud habent habitudinem accidentalem. Verbi gratia, intellectus noster qui naturaliter perci 
+       <lb ed="#B" n="29"/>pit veritatem principiorum cum ordine naturalis deductionis. conclusiones habentes essentialem ha 
+       <lb ed="#B" n="30"/>bitudinem ad principia, elicitas ex eis, similiter naturaliter cognoscit: sed non eas quae habent ac- 
+       <lb ed="#B" n="31"/>cidentalem habitudinem ad illa: immo contingenter. In viribus autem sensitiuis ea quae sunt essentiali 
+       <lb ed="#B" n="32"/>ter annexa suis obiectis naturaliter simul percipit cum obiectis: vt tactus sentiendo calidum simul 
+       <lb ed="#B" n="33"/>sentit tepidum &amp; acutum necessario: accidentaliter autem annexa penitus non potest percipere: vt 
+       <lb ed="#B" n="34"/>si calidum sit dulce vel album nequaquam potest percipere. Quare cum voluntas dei per se sit sicut fi 
+       <lb ed="#B" n="35"/>nis boni quod ipse est: etsi necessario vult illud, &amp; quae necessariam ad ipsum habent habitudinem: vt 
+       <lb ed="#B" n="36"/>sunt quaecunque sunt in diuina essentia: non tamen necessario vult illa quae habent habitudinem accidem 
+       <lb ed="#B" n="37"/>talem ad illud. Talia autem sunt omnia alia ab eo: quia nihil ex eis bonitati suae accrescit. Nulla er- 
+       <lb ed="#B" n="38"/>go necessitate vult aliquid illorum. Sed nihil facit nisi quod vult. Nihil ergo aliorum a se quae facit, de ne 
+       <lb ed="#B" n="39"/>cessitate facit. Sed ad huius rationis declarationem oportet scire quod ea quae alia sunt ab ipso, duplici 
+       <lb ed="#B" n="40"/>ter possunt considerari: Vno modo quo ad esse essentiae eorum quod est esse eorum quiditatiuum. Alio 
+       <lb ed="#B" n="41"/>modo quo ad esse existentiae. Primo modo ea quae sunt extra ipsum, essentialem habent dependentiam  
+       <lb ed="#B" n="42"/>ad ipsum &amp; ad eius bonitatem. Quod enim est aliquid per essentiam &amp; naturam, licet non sit in existen 
+       <lb ed="#B" n="43"/>tia aliqua extra intellectum: non potest non esse tale: nec potest non habere rationem perfectionis 
+       <lb ed="#B" n="44"/>idealis in deo. Nec econuerso deus potest non habere rationem perfectionis suae idealis ad illud, habet 
+       <lb ed="#B" n="45"/>enim de necessitate perfectionis suae rationem perfectionis idealis &amp; imitabilitatis ad omne illud quod  
+       <lb ed="#B" n="46"/>est aliquid in esse quiditatiuo &amp; essentiae: &amp; quod potest esse aliquid in esse existentiae: quamuis ratio talis 
+       <lb ed="#B" n="47"/>non sit in deo nisi ex respectu &amp; comparatione ad creaturam, sicut dictum est supra in prima quaestio- 
+       <lb ed="#B" n="48"/>ne. vt relatio secundum huiusmodi respectum dei ad creaturas sit secundum rationem tantum: econuerso crea 
+       <lb ed="#B" n="49"/>turae ad ipsum sit secundum rem. 
+      </p>
+      <p xml:id="n3av8a-c1e1825-d1e308">
+       LOquendo ergo de eo quid est extra ipsum isto primo modo: scili- 
+       <lb ed="#B" n="50"/>cet quo ad esse eorum quiditatiuum &amp; essentiae, bene concedendum est quod deus vult de necessitate quae-  
+       <lb ed="#B" n="51"/>cunque vult: eo quod omnia huiusmodi vult volendo seipsum: &amp; hoc propter necessariam habitudinem illorum  
+       <lb ed="#B" n="52"/>secundum id quod habent bonitatis naturae &amp; essentiae ad bonitatem quae ipse est. quemadmodum ve- 
+       <lb ed="#B" n="53"/>ritas omnium conclusionum dependet a veritate suorum primorum principiorum: vt secundum hunc mo 
+       <lb ed="#B" n="54"/>dum bonitas suae essentiae sit ei ratio volendi omnia, sicut veritas eiusdem est ei ratio sciendi omnia. 
+       <!--358.xml-->
+       <pb ed="#B" n="159-r"/>
+        <lb ed="#B" n="1"/>vt sicut de necessitate scit quaecunque scit: que. scilicet ad esse eorum quiditatiuum: sic de necessitate vult quicquid vult 
+       <lb ed="#B" n="2"/>quo ad idem: &amp; simpliciter &amp; absolute omnia scit &amp; vult de necessitate suae scientiae &amp; voluntatis in  
+       <lb ed="#B" n="3"/>sciendo &amp; volendo seipsum de necessitate. 
+      </p>
+      <p xml:id="n3av8a-c1e1825-d1e332">
+       SEcundo autem modo, ea quae sunt extra ipsum omnino 
+       <lb ed="#B" n="4"/>habent accidentalem habitudinem &amp; dependentiam ad bonitatem ipsius: eo quod rerum essentiae quantum  
+       <lb ed="#B" n="5"/>est de se, per indifferentiam se habent ad esse &amp; non esse existentiae: licet sibi primo determinent non esse 
+       <lb ed="#B" n="6"/>existentiae, vt alibi exposuimus. &amp; secundum hoc esse nulla res habet rationem perfectionis idealis in deo:  
+       <lb ed="#B" n="7"/>quia in respectu quodam consistit, vt similiter alibi exposuimus, &amp; respectus ideas non habent in deo  
+       <lb ed="#B" n="8"/>quia nihil realitatis, proprie important, vt dictum est. Vnde nec Plato posuit relationes habere ideas. 
+       <lb ed="#B" n="9"/>
+      </p>
+      <p xml:id="n3av8a-c1e1825-d1e348">
+       ET ideo quo ad hoc esse, intelligimus quod deus non vult de necessitate quae sunt extra ipsum. Propter quod quam  
+       <lb ed="#B" n="10"/>do facit ea in esse existentiae, de quo est quaestio: non de necessitate voluntatis suae facit ea: vt secun 
+       <lb ed="#B" n="11"/>dum hunc modum bonitas suae essentiae non sit ei ratio volendi omnia: quia posset aliqua velle quae nec vult 
+       <lb ed="#B" n="12"/>nec volet: sicut neque veritas suae essentiae est ei ratio sciendi omnia quae scire posset, sed ea quae pos- 
+       <lb ed="#B" n="13"/>sent esse vel fore nec tamen erunt. vt sicut non de necessitate scit se facere quae ipse facit, sic nec de 
+       <lb ed="#B" n="14"/>necessitate vult facere quae facit, vt iam dicetur. Similiter neque de necessitate scit aut vult esse quae sunt. 
+       <lb ed="#B" n="15"/>dico necessitate absoluta. 
+      </p>
+      <p xml:id="n3av8a-c1e1825-d1e364">
+       DIcendum est ergo simpliciter &amp; absolute: quod quaecunque deus facit extra 
+       <lb ed="#B" n="16"/>se, nuilum eorum de necessitate facit. Neque eorum quae facit immediate. quod secundum <name ref="#Aristotle">philosophos</name> erat vnicum tantum 
+       <lb ed="#B" n="17"/>quod de necessitate, vt dictum est, ponebant ipsum facere. Neque quae facit mediantibus aliis: in quo phi 
+       <lb ed="#B" n="18"/>losophi nobiscum concordant. Neque etiam illorum quicquam facit necessitate coactionis, quae voluntatem com- 
+       <lb ed="#B" n="19"/>tra, propriam inclinationem, vel naturalem, vel voluntariam impellit in actionem: eo quod impassibilis est 
+       <lb ed="#B" n="20"/>&amp; omnipotens. Neque necessitate immutabilitatis quae veritatem simpliciter &amp; absolute in actum li- 
+       <lb ed="#B" n="21"/>gat &amp; tenet, vt bene dicit Articulus condemnatus, sicut dictum est opponendo. 
+      </p>
+      <p xml:id="n3av8a-c1e1825-d1e384">
+       AD argumentum  
+       <lb ed="#B" n="22"/>in oppositum: quod de necessitate illud fit quod deus vult facere: Dicendum quod verum est necessitate conse 
+       <lb ed="#B" n="23"/>quentiae non consequentis, quia antecedens non est necessarium simpliciter: scilicet quod deus vult illud fa- 
+       <lb ed="#B" n="24"/>cere quod facit, nisi considerando actum voluntatis vt est in deo: quia est ipsa diuina essentia: qualiter non 
+       <lb ed="#B" n="25"/>consideratur in proposita quaestione: sed solum secundum quod transit actualiter in volitum exterius. Et 
+       <lb ed="#B" n="26"/>quod arguitur quod antecedens est necessarium simpliciter: quia quod deus vult non potest non velle: quia ali- 
+       <lb ed="#B" n="27"/>ter sua voluntas esset mutabilis: Dicendum quod illa propositio: scilicet quod deus vult non potest non velle, 
+       <lb ed="#B" n="28"/>potest esse de re, vel de dicto, diuisa vel composita. Si sit de dicto &amp; composita, sic est vera sub hoc sen 
+       <lb ed="#B" n="29"/>su: quod deus vult &amp;c. i. deum non velle quod vult non est possibile, siue illa propositio non est possibilis 
+       <lb ed="#B" n="30"/>deus non vult quod vult, quod bene verum est: quia huiusmodi propositio implicat quod pro eodem instanti deus 
+       <lb ed="#B" n="31"/>idem vellet &amp; non vellet: vt contradictoria essent simul circa eius voluntatem, quod non pont contingere ne 
+       <lb ed="#B" n="32"/>qued circa rem immutabilem neque circa mutabilem. Si vero sit de re &amp; diuisa, sic est sensus, quod deus vult &amp;c. i. deus 
+       <lb ed="#B" n="33"/>non habet potestatem de non volendo quod vult, quae de virtute locutionis duplicem potest habere causam ve 
+       <lb ed="#B" n="34"/>ritatis: quarum vna est, deus non habet potestatem qua aliquando nolit quod modo vult. Quod verum est: 
+       <lb ed="#B" n="35"/>quia talis potestas poneret in deo possibilitatem in succedendo circa dei voluntatem actum nolendi post 
+       <lb ed="#B" n="36"/>actum volendi. sic enim esset mutabilis vt procedit obiectio. Sed secundum illum sensum ista est fal 
+       <lb ed="#B" n="37"/>sa in sensu diuiso, sedentem non sedere non est possibile. quia homo sedens nunc, postea potest actum non 
+       <lb ed="#B" n="38"/>sedere. Alia autem causa veritatis est: deus non habet in se potentiam qua posset ipsi inesse noluntas eius 
+       <lb ed="#B" n="39"/>quod vult, quod falsum est: quia potestas in voluntate dei circa esse actuale creaturarum, vt dictum est, 
+       <lb ed="#B" n="40"/>nulla est necessitate determinata: immo quantum est de se est ad vtrumlibet de volendo illud &amp; non  
+       <lb ed="#B" n="41"/>volendo, nihil connotando de possibilitate vel de non possibilitate succedendi circa voluntatem dei 
+       <lb ed="#B" n="42"/>actum nolendi post actum volendi: sed praecisam dicit possibilitatem ad vtrumque quantum est de na 
+       <lb ed="#B" n="43"/>tura diuinae voluntatis. Et in isto sensu illa similiter est falsa in sensu diuiso: non sedentem non est possibi 
+       <lb ed="#B" n="44"/>le sedere. Nec ponit talis potentia aliquam mutabilitatem. Sicut enim ad actualem mutationem 
+       <lb ed="#B" n="45"/>duo requiruntur: scilicet potentia simpliciter ad contrarium eius quod nunc inest: &amp; actualis succes 
+       <lb ed="#B" n="46"/>sio vnius eorum post alterum: sic ad mutabilitatem duo requiruntur: scilicet potentia dicta, &amp; poten 
+       <lb ed="#B" n="47"/>tia ad actualem successionems: vt scilicet ea potentia qua aliquid est ad vtrumlibet, sit potentia ad successionem 
+       <lb ed="#B" n="48"/>vnius post alterum. Quod circa voluntatem dei nullo modo potest contingere: quare neque muta-  
+       <lb ed="#B" n="49"/>bilitas. licet in aliquo sensu possit non velle quod vult, vt ideo illud nullo modo de necessitate ve- 
+       <lb ed="#B" n="50"/>lit. Vnde de eo quod semper voluit ab aeterno &amp; vult &amp; volet, simul ab aeterno habuit &amp; habet &amp; ha 
+       <lb ed="#B" n="51"/>bebit potestatem de non volendo: &amp; potuit voluisse vel non voluisse ab aeterno: &amp; potest nunc non  
+       <lb ed="#B" n="52"/>velle: &amp; poterit inaeternum non velle, vel non velle inaeternum: &amp; hoc absque omni sui mutabilitate 
+       <lb ed="#B" n="53"/>vel mutatione.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

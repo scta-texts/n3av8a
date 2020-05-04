@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 10</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 10</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1904">
+       <head xml:id="n3av8a-c1e1904-Hd1e96">Quaestio 10</head>
+       <p xml:id="n3av8a-c1e1904-d1e99">
+        <lb ed="#B" n="33"/>SEquitur quaestio vna de Deo quo ad humanitatem assumptam. Vtrum scilicet 
+       <lb ed="#B" n="34"/>passio Christi amouit impedimentum naturae ne homo paradisum ingredi 
+       <lb ed="#B" n="35"/>posset aperiendo ianuam paradisi. 
+      </p>
+      <p xml:id="n3av8a-c1e1904-d1e108">
+       ARguitur quod non quia paruulus non habet 
+       <lb ed="#B" n="36"/>nisi impedimentum naturae, vt scilicet peccatum originale impediens ne pa- 
+       <lb ed="#B" n="37"/>radisum ingrediatur: &amp; tamen post passionem Christi sine baptismo decedens 
+       <lb ed="#B" n="38"/>non potest ingredi ianuam paradisi. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1904-d1e117">
+       IN contrarium est fides. 
+      </p>
+      <p xml:id="n3av8a-c1e1904-d1e120">
+       DIcendum quod  
+       <lb ed="#B" n="39"/>passio Christi meritorie aperuit ianuam paradisi, &amp; amouit omne impedimen- 
+       <lb ed="#B" n="40"/>tum introeundi ipsam, &amp; quo ad impedimentum naturae per peccatum originale: &amp; quo ad impedi- 
+       <lb ed="#B" n="41"/>mentum personae per peccatum actuale: &amp; hoc omnibus quo ad sufficientiam: quo ad efficaciam autem 
+       <lb ed="#B" n="42"/>solum his qui sibi erant membra viuendi per sacramentum baptismi &amp; in eo permansuri: per quos pricipes fiunt sal- 
+       <lb ed="#B" n="43"/>uandi passionis Christi. dicente Aposto. Ro. sexto. Quicumque baptizati sumus in Christo lesu in morte 
+       <lb ed="#B" n="44"/>ipsius baptizati sumus. Consepulti enim sumus cum illo per baptismum in morte: vt quomodo Christus resur 
+       <lb ed="#B" n="45"/>rexit a mortuis per gloriam prerins, ita &amp; nos in nouitate vitae ambulemus. Si enim complantati facti sumus 
+       <lb ed="#B" n="46"/>similitudini mortis eius, simul &amp; resurrectionis erimus &amp;c. Quia tamen sacramentum baptismi siue passio Chri 
+       <lb ed="#B" n="47"/>sti principaliter est contra originale: &amp; ex adiuncto contra actuale: ideo dicitur quod passio Christi amouit 
+       <lb ed="#B" n="48"/>impedimentum naturae potius quam personae. 
+      </p>
+      <p xml:id="n3av8a-c1e1904-d1e145">
+       AD argumentum in oppositum quod paruulus non habet 
+       <lb ed="#B" n="49"/>nisi impedimentum naturae: &amp; tamen non est ei amotum impedimentum, Dicendum quod immo per 
+       <lb ed="#B" n="50"/>sufficientiam, &amp; per efficaciam si per baptismum membrum Christi fiat, &amp; in eo perseueret. iuxta 
+       <lb ed="#B" n="51"/>illud quod dicitur de Christo Hebrae, quinto. Ex eis qui passus est didicit obedientiam, &amp; consumma- 
+       <lb ed="#B" n="52"/>tus factus est omnibus obtemperantibus sibi causa salutis aeternae. Licet enim vt ibi dicit Glossa, tantum 
+       <lb ed="#B" n="53"/>valet passio Christi quod omnibus sufficit ad salutem, eam tamen non obtinent per efficaciam nisi si 
+       <lb ed="#B" n="54"/>bi in vita &amp; in moribus obtemperantes et in membris eius perseuerantes.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

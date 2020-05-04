@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="260-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2748">
+       <head xml:id="n3av8a-c1e2748-Hd1e96">Quaestio 4</head>
+       <p xml:id="n3av8a-c1e2748-d1e99">
+        <lb ed="#B" n="15"/>SEquuntur quaesita in comparatione ad deum circa creaturas intellectuales specialiter: 
+       <lb ed="#B" n="16"/>Et quaerebantur duo circa omnes creaturas intellectuales siue angelos siue homines genera 
+       <lb ed="#B" n="17"/>liter. &amp; pertinebant ad eorum cognitionem de diuina essentia, respectu cognitionis crea- 
+       <lb ed="#B" n="18"/>turarum in ipsa. Quorum primum erat. vtrum diuina essentia potest cognosci ab intellectu crea 
+       <lb ed="#B" n="19"/>to beato, absque eo quod cognoscantur res creatae in ea. Secundum erat. vtrum intellectus bea 
+       <lb ed="#B" n="20"/>tus videns diuinam essentiam, omnia creata videat in ea. Deinde quaerebantur alia duo  
+       <lb ed="#B" n="21"/>circa hominem specialiter. Quorum primum pertinet ad operationem intellectus interiorem: vtrum homo pu- 
+       <lb ed="#B" n="22"/>rus in hac vita vtens sensibus potest esse perfecte beatus: &amp; perfecte deum videre. Secundum vero per- 
+       <lb ed="#B" n="23"/>tinet ad quandam eius operationem corporalem exteriorem: vtrum laus vocalis beatorum erit in gloria. 
+       <lb ed="#B" n="24"/>
+      </p>
+      <p xml:id="n3av8a-c1e2748-d1e123">
+       CIRca primum arguitur quod diuina essentia possit cognosci siue videri absque eo quod aliqua creatura vi 
+       <lb ed="#B" n="25"/>deatur siue cognoscatur in illa seu per illam, quia dicit <name ref="#Augustine">Augustinus</name> de videndo deum. Si vult videtur: si non vult non 
+       <lb ed="#B" n="26"/>videtur. ergo similiter si vult, videtur creatura ipso viso: &amp; si non vult, non videtur. potest ergo videri nulla 
+       <lb ed="#B" n="27"/>creatura visa in ipsa. 
+      </p>
+      <p xml:id="n3av8a-c1e2748-d1e135">
+       CONtra. ipse est magis sufficiens ratio cognoscendi alia a se quam sit subiectum co 
+       <lb ed="#B" n="28"/>gnoscendi sua accidentia. Sed subiectum perfecte cognosci non potest nisi cognitis omnibus accidentibus eius 
+       <lb ed="#B" n="29"/>secundum philosophum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2748-d1e142">
+       DIcendum ad hoc: quod quamuis videatur aliquibus posse dici probabiliter:  
+       <lb ed="#B" n="30"/>quod videns diuinam essentiam videt omnes essentias rerum: quarum ipsa essentia diuina est naturalis &amp; 
+       <lb ed="#B" n="31"/>perfecta similitudo &amp; exemplar, non solum per quid aliud videtur, sed etiam in quo aliud videtur: prout 
+       <lb ed="#B" n="32"/>etiam viso speculo necessario videntur quae in ipso speculo repraesentantur: praecipue si forma speculi vna &amp; ea- 
+       <lb ed="#B" n="33"/>dem secundum rem sit repraesentatiua sui apud visum &amp; omnium facierum, quis enim speculum hu- 
+       <lb ed="#B" n="34"/>iusmodi si esset voluntarie se repraesentans: &amp; sic potens se visui manifestare vel non manifestare: cum 
+       <lb ed="#B" n="35"/>tamen sic voluntarie se manifestaret per sua formam, non posset non manifestare alia: cum per ean- 
+       <lb ed="#B" n="36"/>dem formam repraesentarentur: &amp; sic quicunque videret essentiam diuinam videret ea omnia quo-  
+       <lb ed="#B" n="37"/>rum sic est similitudo quasi naturalis. Sed sicut esset gradus in videntibus essentiam quantum ad  
+       <lb ed="#B" n="38"/>magis vel minus videre: ita etiam esset huiusmodi gradus in visione ipsarum rerum in illa. Videtur tamen proba 
+       <lb ed="#B" n="39"/>bilius esse sic dicendum: quod diuina essentia est &amp; obiectum quoddam cognoscibile, &amp; ratio quaedam cognoscen- 
+       <lb ed="#B" n="40"/>di &amp; se &amp; alia a se. Sed aliter &amp; aliter: quia vt est quiddam absolutum &amp; secundum se consideratum, est ratiocognoscem 
+       <lb ed="#B" n="41"/>di seipsum: non sic autem alia a se: sed solummodo vt habet in se rationem ideae: &amp; cuiusdam respectus exemplaris 
+       <lb ed="#B" n="42"/>ad exemplatum, respectu eorum quae sunt alia a se. Nunc autem ita est: secundum quod dicit <name ref="#Augustine">Augustinus</name> vii. de trinitae quod  
+       <lb ed="#B" n="43"/>omnis essentia quae relatiue dicitur, est etiam aliquid excepto relatiuo. In talibus autem licet ipsa essentia 
+       <lb ed="#B" n="44"/>rei nec sit nec esse possit sine quodam respectu ad alterum: intellectus tamen finitus &amp; limitatus: quantum  
+       <lb ed="#B" n="45"/>est ex parte cognoscibilis, natus est concipere ipsum absolutum: &amp; habere conceptum de illo: absque conside 
+       <lb ed="#B" n="46"/>ratione omnis respectus ad alterum in illo. &amp; hoc maxime quando nulla necessitate cognitum cognoscitur 
+       <lb ed="#B" n="47"/>sed solum prout vult se manifestare, econuerso de visibili: quod in lumine existens non potest latere vi 
+       <lb ed="#B" n="48"/>sum praesentem. Vnde scientia quamuis id quod est essentiale habet respectum ad scibile, non tamen est necesse vt 
+       <lb ed="#B" n="49"/>intellectus creatus intelligens eam, intelligat sub ratione respectus ad scibile, sed absolute vt est qua-  
+       <lb ed="#B" n="50"/>litas quaedam. In absolutis etiam vt in forma generis &amp; differentiae, ita est: quia licet id quod sunt non habent esse nisi 
+       <lb ed="#B" n="51"/>in forma speciei: intellectus tamen potest de illis formare conceptum absque intellectum completae formae speciei. 
+      </p>
+      <p xml:id="n3av8a-c1e2748-d1e196">
+       SEcum 
+       <lb ed="#B" n="52"/>dum haec igitur dico: quod tum propter limitationem intellectus creati sic eleuati: tum propter ipsum obiectum 
+       <lb ed="#B" n="53"/>voluntarie se demonstrans: &amp; alia quae in se videntur: tum propter ipsum cognitum potest ipsa diuina essentia vi 
+       <lb ed="#B" n="54"/>deri siue cognosci ab intellectu creato absque omni cognitione seu visione alicuius creaturae in illa 
+       <!--560.xml-->
+       <pb ed="#B" n="260-r"/>
+        <lb ed="#B" n="1"/>aut per illam. Dico visione distincta: quia indistincte ad minus necesse est vel dere creaturas videndo di  
+       <lb ed="#B" n="2"/>uinam essentiam: quid tangit opinio praetacta. &amp; hoc quemadmodum visa imagine Hexculis in ipsa videtur 
+       <lb ed="#B" n="3"/>Hercules indistincte: non distinguende scilicet Herculem ab eius imagine nec econverso. Secundum tamen 
+       <lb ed="#B" n="4"/>aliquam eleuationem superiorem secundum qua.m scilicet videtur conmuniter a beatis: non pot st videri diui- 
+       <lb ed="#B" n="5"/>na essentia non videndo creaturas in illa: manentibus tali eleuatione &amp; ostensione: quia altero varia 
+       <lb ed="#B" n="6"/>to posset deus facere: quod videndo essentiam diuinam, non videret creaturas. Et secundum hoc concedenda 
+       <lb ed="#B" n="7"/>est prima ratio hoc ostendens. 
+      </p>
+      <p xml:id="n3av8a-c1e2748-d1e225">
+       AD secundum, quod diuina essentia est sufficiens ratio cognoscendi alia: di 
+       <lb ed="#B" n="8"/>cendum quod verum est: sed non necessaria: immo voluntaria. Et cum hoc si esset necessaria quantum est 
+       <lb ed="#B" n="9"/>ex se perfecte cognoscenti eam: quemadmodum cognoscit seipsam: sicut perfecta cognitio subiecti est ra 
+       <lb ed="#B" n="10"/>tio cognoscendi omnia illius accidentia: non tamen oportet quod sit necessaria cognoscenti limitato, qui potest 
+       <lb ed="#B" n="11"/>sistere in cognoscendo id quod est secundum se: non tamen sub ratione qua est idea omnium aliorum, &amp; ra 
+       <lb ed="#B" n="12"/>tio cognoscendi: quemadmodum potest cognosci imago in speculo &amp; per speculum sub ratione eius quod  
+       <lb ed="#B" n="13"/>est: non cognoscendo ipsam per id cuius est imago.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

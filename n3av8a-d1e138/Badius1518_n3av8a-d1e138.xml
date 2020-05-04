@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="224-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e138">
+       <head xml:id="n3av8a-d1e138-Hd1e96">Quaestio 7</head>
+       <p xml:id="n3av8a-d1e138-d1e99">
+       <!--489.xml-->
+        <pb ed="#B" n="224-v"/>
+        <lb ed="#B" n="1"/>CIrca secundum arguitur quod plures personae diuinae possint vnam naturam humanam assume 
+       <lb ed="#B" n="2"/>re. quoniam pluralitas suppositorum relatiuorum non repugnat vnitati essentiae. oppositae enim 
+       <lb ed="#B" n="3"/>relationes sunt in vna diuina essentia. sed ob aliud non potest negari quin vna natura pos 
+       <lb ed="#B" n="4"/>sit simul assumi a pluribus personis cum possit sigillatim assumi a qualibet illarum. er 
+       <lb ed="#B" n="5"/>go &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e138-d1e117">
+       IN contrarium est quod tunc natura vna numero limitata esset simul subsi- 
+       <lb ed="#B" n="6"/>stens in pluribus, quid est ipossibile: quia hoc est proprium diuinae naturae: eo quod ipsa illi 
+       <lb ed="#B" n="7"/>mitata est. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e138-d1e124">
+       VTputo, aliquando mihi visum est propter secundam rationem quod vna natura humana a pluri 
+       <lb ed="#B" n="8"/>bus personis diuinis assumi non possit: sed exquisitius inspiciendo ad naturam rei assumptae &amp; modum persona 
+       <lb ed="#B" n="9"/>litatis ad quam assumitur, plane apparet quod ratio illa nihil cogit. defscit enim ex vtroque latere: quia duplex 
+       <lb ed="#B" n="10"/>est modus limitationis in rebus, &amp; duobus modis habet res esse in personalitate aliqua: &amp; secundum vtramque  
+       <lb ed="#B" n="11"/>distinctionem illa propositio, limitatum non potest esse simul in diuersis personis, in vno membro habet verita 
+       <lb ed="#B" n="12"/>tem, in alio vero non. Est igitur sciendum quod est quaedam limitatio qua res limitatur ad idem numero in se 
+       <lb ed="#B" n="13"/>formaliter ex eo quod pertinet ad naturam &amp; essentiam: nullo alio secundum rem addito. Alia vero est limi- 
+       <lb ed="#B" n="14"/>tatio qua res limitatur in alio in quo est: quod est extra naturam &amp; essentiam suam. Primo modo limitatae sunt 
+       <lb ed="#B" n="15"/>naturae &amp; essentiae substantiarum creaturarum quae natae sunt in se existere. Secundo modo limitata sunt ac 
+       <lb ed="#B" n="16"/>cidentia per sua subiecta. Limitatione dico tali: qua res habet esse vna numero &amp; singularis sub sua specie. 
+       <lb ed="#B" n="17"/>De eo autem quod limitatum est secundo mod scilicet per illud in quo est, verum est quod non potest esse in alio quam in illo: &amp; ita 
+       <lb ed="#B" n="18"/>non in pluribus. vt haec albedo non potest esse nisi in hoc corpore a quo sumit limitationem in sua singula 
+       <lb ed="#B" n="19"/>ritate. Non sic autem est limitata natura humana a persona in qua assumitur: sed ex sua natura &amp; essentia: ita 
+       <lb ed="#B" n="20"/>quod ex se est ens &amp; hoc aliquid: sed rationem suppositi &amp; personalitatis habet ab alio: quemadmodum si lapis vnus  
+       <lb ed="#B" n="21"/>numero existens in se assumeretur, suam numerationem retineret &amp; nouam personalitatem assumeret. Diffe- 
+       <lb ed="#B" n="22"/>runt enim in vna &amp; eadem re esse hoc aliquid: &amp; esse suppositum vel persona. Aima enim perfecte est hoc aliquid ex se, si 
+       <lb ed="#B" n="23"/>ue sit in corpore, siue extra corpus: sed perfectam personalitatem non habet nisi in corpore. Propter huiusmodi  
+       <lb ed="#B" n="24"/>ergo causam natura assumpta ex ratione suae limitationis non determinatur illi personae: sicut haec albedo  
+       <lb ed="#B" n="25"/>huic corpori: &amp; ideo limitatio sua qua est hoc aliquid: non impedit quin simul possit esse in pluribus 
+       <lb ed="#B" n="26"/>suppositis. 
+      </p>
+      <p xml:id="n3av8a-d1e138-d1e168">
+       VEruntamen hic subdistinguendum est de supposito. Est enim quoddam suppositum absolutum a for i 
+       <lb ed="#B" n="27"/>ma absoluta: &amp; est quoddam respectiuum a forma relatiua. In pluribus suppositis absolutis simpliciter ve 
+       <lb ed="#B" n="28"/>rum est quod nulla natura limitata posset esse simul: quia talia supposita sic sunt diuersa quod quodlibet eo 
+       <lb ed="#B" n="29"/>rum est illud quod est vnum in se &amp; non aliud: nec aliquid eorum quae sunt in se, est aliquid eorum quae sunt in alio. Si 
+       <lb ed="#B" n="30"/>igitur eadem esset natura in talibus diuersis suppositis: ipsa esset ipsa &amp; non esset ipsa: &amp; essent contradi- 
+       <lb ed="#B" n="31"/>ctoria simul in eodem. De pluribus vero suppositis secundo modo, iterum subdistinguendum: quia 
+       <lb ed="#B" n="32"/>proprietas relatiua distinctiua personae aut per se fundatur in essentia: quae ponitur esse in pluribus supe 
+       <lb ed="#B" n="33"/>positis: &amp; quasi oritur ex illa: &amp; sic per se subsistit in supposito constituto per illam proprietatem relatiuam: aut 
+       <lb ed="#B" n="34"/>nullo modo fundatur in illa essentia neque oritur ex illa: quia non per se sed per accidens conuenit ei subsistere sub 
+       <lb ed="#B" n="35"/>illa proprietate in illa persona. 
+      </p>
+      <p xml:id="n3av8a-d1e138-d1e191">
+       PRImo modo non potest esse natura in pluribus nisi sit illimitata: cuiusmodi est 
+       <lb ed="#B" n="36"/>natura diuina, quae ex se singularitas quaedam est non suppositi sed naturae. Et propter foecunditatem suam 
+       <lb ed="#B" n="37"/>vt existit in vna persona: necessario procedit per communicationem sub, proprietatibus relatiuis in plura sup 
+       <lb ed="#B" n="38"/>posita: secundum quod in parte expositum est supra in prima quaestione. Quae quidem foecunditas non potest esse nisi 
+       <lb ed="#B" n="39"/>in natura illimitata. Propter quod natura limitata non potest pluribus suppositis communicari distinctis rela 
+       <lb ed="#B" n="40"/>tiue relatione originis quae ex illa natura oriatur: quia nec super eandem formam numero possunt plures 
+       <lb ed="#B" n="41"/>respectus numero fundari: vt supra vnam albedinem numero non fundatur nisi vna similitudo numero: licet per il- 
+       <lb ed="#B" n="42"/>lam possit pluribus dici similis. quemadmodum aliquis pater plurium filiorum vna paternitate existente &amp; 
+       <lb ed="#B" n="43"/>fundata super vnam vim generatiuam in se existentem refertur ad omnes filios habentes plures filiationes secundum 
+       <lb ed="#B" n="44"/>numerum eorum in se. 
+      </p>
+      <p xml:id="n3av8a-d1e138-d1e213">
+       SEcundo autem modo nihil, vt videtur, impedit vnam limitatam naturam esse in pluri 
+       <lb ed="#B" n="45"/>bus suppositis relatiuis: quemadmodum vnum suppositum existens sub pluribus accidentibus super quae fun 
+       <lb ed="#B" n="46"/>dantur singuli respectus specie differentes, bene potest esse sub illis pluribus respectibus: vt cum idem est album 
+       <lb ed="#B" n="47"/>&amp; cubitum: idem potest esse simile &amp; aequale. Vnde etsi istae diuersae relationes specie possunt fundari supe idem nu 
+       <lb ed="#B" n="48"/>mero in re aliqua: quemadmodum paternitas &amp; filiatio fundatur super eandem essentiam in deo: eadem res secundum 
+       <lb ed="#B" n="49"/>illa duo, quia ei accidit fieri vnum cum illo super quod fundatur: posset dici album &amp; aequale. Quia igiturna-  
+       <lb ed="#B" n="50"/>tura humana assumpta ab vna persona ab illa non habet suam limitationem singularitatis in sua natura &amp; 
+       <lb ed="#B" n="51"/>essentia: neque supe ipsam per se fundatur relatio personae illius constitutiua: sed super naturam aliam cui accidit ei 
+       <lb ed="#B" n="52"/>vniri: neque ex eo quod assumitur ad personalitatem vnius, limitatur quin possit assumi ad personalitatem supposi 
+       <lb ed="#B" n="53"/>ti alterius: eo quod personalitatem illam habet ab alio non ex se: sicut habet suam singularitatem: quia vt di-  
+       <lb ed="#B" n="54"/>ctum est, respectus ille qui constituit personalitatem non fundatur super naturam assumptam, sed super illam ad quam assu  
+       <!--490.xml-->
+       <pb ed="#B" n="225-r"/>
+        <lb ed="#B" n="1"/>mitur: nulla repugnantia omnino apparet in natura humana assumpta ab vna persona quin possit assumi ab alia 
+       <lb ed="#B" n="2"/>vel simul vel successiue. Quare cum impossibile non attribuitur deo actiue respectu creaturae, nisi ratione im 
+       <lb ed="#B" n="3"/>possibilis in ipsa passiue, vt habitum est supra: postquam igitur nuilum est repugnans aut impossibile ex parte 
+       <lb ed="#B" n="4"/>vnius naturae creatae: quin possit quantum est ex se &amp; secundum se assumi a pluribus suppositis: nul- 
+       <lb ed="#B" n="5"/>lum est simpliciter impossibile ex parte diuinarum personarum quin plures eandem naturam possint assu- 
+       <lb ed="#B" n="6"/>mere. 
+      </p>
+      <p xml:id="n3av8a-d1e138-d1e255">
+       PER iam dicta patent vtriusque partis obiecta.
+       </p>
+      </div>
+   </body>
+  </text>
+</TEI>

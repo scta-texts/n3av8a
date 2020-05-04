@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="4-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e170">
+      <head xml:id="n3av8a-c1e170-Hd1e96">Quaestio 6</head>
+      <p xml:id="n3av8a-c1e170-d1e99">
+       <lb ed="#B" n="41"/>CIrca secundum arguebatur, quod Christus oculo corporali videt se in sacramento: quia non est in hoc  
+       <lb ed="#B" n="42"/>impedimentum ex parte obiecti: quia ipse est corpus uisibile: nec ex parte medii: quia corpus eius glo 
+       <lb ed="#B" n="43"/>riosum sufficit illuminare medium ad se videndum: nec ex parte videntis: quia ipse habet oculos 
+       <lb ed="#B" n="44"/>claros sufficientes aspicere quidlibet visibile. Nunc autem quod aliquis non videt se, non est nisi pro  
+       <lb ed="#B" n="45"/>pter aliquid dictorum impedimentorum. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e170-d1e112">
+       CONtra. Naturale est, vt dicitur in perspecti 
+       <lb ed="#B" n="46"/>ua, omne corpus videri sub angulo descripto in oculo inter lineas imaginatas, protrahi ab  
+       <lb ed="#B" n="47"/>extremitatibus rei visae concurrentes in oculo: ita quod naturaliter semper corpus maius sub maiori angulo vi 
+       <lb ed="#B" n="48"/>detur, &amp; minus sub minori. Christi autem corpus maius est speciebus in sacramento: &amp; non pont videri sub speciebus 
+       <lb ed="#B" n="49"/>illis sub maiori angulo quam natae sunt facere illae species in oculo. ergo si sub speciebus illis videretur corpus 
+       <lb ed="#B" n="50"/>Christi, sub minori angulo videretur corpus maius: quid est ipossibile. nec potest dici quod fiat possibile per ipsam  
+       <lb ed="#B" n="51"/>gloriam: quia gloria non destruit sed semper saluat opus naturae. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e170-d1e128">
+       DIcendum quod ista quaestio sicut prae 
+       <lb ed="#B" n="52"/>cedens absurda est &amp; ex falsa imaginatione procedit acsi corpus Christi esset dimensionaliter sub illis specie- 
+       <lb ed="#B" n="53"/>bus: vel quod ipsae dimensiones essent simul cum dimensionibus specierum: vt alibi esset assignare sub speciebus 
+       <lb ed="#B" n="54"/>caput Christi, alibi pedes, &amp; alibi oculum, alibi nasum: quid falsum est: quia tota substantia totius corporis 
+       <!--48.xml-->
+       <pb ed="#B" n="4-r"/>
+       <lb ed="#B" n="1"/>Christi est vbique sub tota specie sacramenti: &amp; sub qualibet parte eius: &amp; nusquam dimensionaliter nisi per 
+       <lb ed="#B" n="2"/>quandam concomitantiam, vt dictum est. Nec autem ad hoc vt Christus alicubi existens videat se vel aliud oculo 
+       <lb ed="#B" n="3"/>corporali, oportet quod ibi sit per se &amp; dimensionaliter. Et similiter est de ipsa re visa: quia nihil videtur nisi dimensio 
+       <lb ed="#B" n="4"/>nale: neque videt nisi oculo dimensionali. 
+      </p>
+      <p xml:id="n3av8a-c1e170-d1e150">
+       ABsolute igitur dicendum: quod Christus vt est sub speciebus sacramen 
+       <lb ed="#B" n="5"/>ti, neque se, neque aliud videt, neque a se, neque ab alio videtur. oculo dico corporali. tamen bene verum est quod Chri- 
+       <lb ed="#B" n="6"/>stus qui est ibi videt se &amp; alia: &amp; est visibilis a se &amp; ab aliis: non autem vt est ibi sacramentaliter: sed vt est in  
+       <lb ed="#B" n="7"/>caelo localiter.
+      </p>
+      <p xml:id="n3av8a-c1e170-d1e160">
+       ARgumentum in oppositum non concludit: quod Christus nullo modo potest videre se sub sa 
+       <lb ed="#B" n="8"/>cramento oculo corporali: sed solum quod non potest se videre tantum quantus ipse est. vnde non valet ad propositum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

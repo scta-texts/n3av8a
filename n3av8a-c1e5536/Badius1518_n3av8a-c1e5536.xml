@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="574-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5536">
+       <head xml:id="n3av8a-c1e5536-Hd1e96">Quaestio 1</head>
+       <p xml:id="n3av8a-c1e5536-d1e99">
+       <!--1189.xml-->
+        <pb ed="#B" n="574-v"/>
+        <!-- incipit XV quodlibet eiusdem -->
+        <lb ed="#B" n="1"/>DIsputatio nostra omne Quoli
+       <lb ed="#B" n="2"/>bet vltimo habite. scilicet quintadecima, continebat quaestiones. xvi. Quarum 
+       <lb ed="#B" n="3"/>vnica erat de deo: Caeterae autem omnes erant de creaturis. Illa vnica de deo  
+       <lb ed="#B" n="4"/>erat: vtrum deus posset facere quod vacuum esset. Ex arguebatur quod sic: quia deus 
+       <lb ed="#B" n="5"/>posset facere materiam quae est sub forma substantiali &amp; quantitate, subito 
+       <lb ed="#B" n="6"/>esse absque forma huiusmodi &amp; quantitate, quo facto necessario sequitur va- 
+       <lb ed="#B" n="7"/>cuum esse, aut motum fieri in instanti. sed motum fieri in instanti est impossi- 
+       <lb ed="#B" n="8"/>bile secundum philosophum. vii. Physicorum: vbi probat quod omne quod mouetur in tempo 
+       <lb ed="#B" n="9"/>re mouetur, &amp; nihil in instanti: ergo &amp;c. Probatio suppositi est, quod deus 
+       <lb ed="#B" n="10"/>posset abstrahere vim qua conseruat res in esse a forma &amp; quantitate: &amp; non a materia: quo facto for 
+       <lb ed="#B" n="11"/>ma &amp; quantitas qua compositum ex materia &amp; forma spatium occupauit, puta inter partes aeris con- 
+       <lb ed="#B" n="12"/>tentum, caderent in non esse, remanente materia in esse: &amp; tunc partes illae aeris aut subito concurrerent 
+       <lb ed="#B" n="13"/>&amp; in instanti ne esset vacuum: sed sic non possent concurrere nisi per spatium aeris circunstantis dictum 
+       <lb ed="#B" n="14"/>spatium per rarefactionem successiuam, ad quam sequitur partium concursus ad replendum dictum spatium non 
+       <lb ed="#B" n="15"/>nisi per motum localem in dicto instanti: aut concurrerent in tempore, &amp; esset vacuum inter partes in  
+       <lb ed="#B" n="16"/>roto illo tempore vsque ad perfectam reconciliationem earum: licet continue minus &amp; minus: cum nuilum  
+       <lb ed="#B" n="17"/>esset ibi corpus persecte implens illud spatium: aut non concurrerent illae partes omnino: sed starent in - 
+       <lb ed="#B" n="18"/>eodem statu quo prius absque omni rarefactione: &amp; sic perfecte maneret illud spatium vacuum aequa-  
+       <lb ed="#B" n="19"/>lium dimensionum separatarum cum dimensionibus in materia quae prius illud occupauerunt. 
+      </p>
+      <p xml:id="n3av8a-c1e5536-d1e149">
+       CON- 
+       <lb ed="#B" n="20"/>tra. si deus facere posset quod vacuum esset, posset facere quod essent contradictoria simul: puta quod partes com 
+       <lb ed="#B" n="21"/>tinentes vacuum essent simul &amp; non simul: quod deus non potest facere: quia est omnino infactibile: ergo &amp;c. 
+       <lb ed="#B" n="22"/>Probatio consequentiae suppositae est: quod si vacuum factum esset a deo dicto modo, partes dicti continentis 
+       <lb ed="#B" n="23"/>essent simul: eo quod ipsarum nihil est medium per definitionem eius quod est simul. v. Physic. Nihil autem est me- 
+       <lb ed="#B" n="24"/>dium inter partes dicti continentis: quia nihil est medium nisi vacuum, &amp; vacuum nihil est secundum philosophum. iii. 
+       <lb ed="#B" n="25"/>Physic. Partes etiam dicti continentis non essent simul: tum quia vacuum est medium per quid distant, tum  
+       <lb ed="#B" n="26"/>quia materia manens est medium: tum quia ipsae ante materiae denudationem non erant simul: quare nec 
+       <lb ed="#B" n="27"/>ipsa denudata statim sunt simul: cum nihil ex illa materiae denudatione circa partes continentis immuta 
+       <lb ed="#B" n="28"/>tum sit. 
+      </p>
+      <p xml:id="n3av8a-c1e5536-d1e171">
+       ISTAquaestio vt existimo introducta est quia aliquis nuper posuit quod materia non potest esse 
+       <lb ed="#B" n="29"/>sine forma &amp; quantitate: &amp; quod deus hoc non posset facere: cuius contrarium alias determinaui. &amp; il- 
+       <lb ed="#B" n="30"/>lud posuit ea videlicet ratione: quia sequeretur aut quod vacuum poneretur esse, aut motus esse in instanti 
+       <lb ed="#B" n="31"/>prout procedit primum argumentum: &amp; supposuit, vt tactum est in eodem argumento, quod motus non potest 
+       <lb ed="#B" n="32"/>esse in instanti, quod procul dubio verum est etiam in proposito: posito quod sit vacuum secundum dictum modum. 
+       <lb ed="#B" n="33"/>Licet enim in vacuo non posset esse motus grauis aut leuis secundum se: sed tantummodo motus progressiuus ani  
+       <lb ed="#B" n="34"/>malium secundum Conment. iiii. Physic. posita tamen materia subito spoliata forma &amp; quantitate secundum tactum 
+       <lb ed="#B" n="35"/>modum, dictae partes aeris in vacuo quod ibi procul dubio partibus dictis intercideret, per motum conm- 
+       <lb ed="#B" n="36"/>currerent: quia non concurrerent nisi manentes connexae in continuo: &amp; hoc non nisi per suam rarefa- 
+       <lb ed="#B" n="37"/>ctionem: quae non subito in instanti sed successiue &amp; in tempore fieri posset, quousque toto spatioreple 
+       <lb ed="#B" n="38"/>to omnino exclusum esset vacuum. Probauit autem ille quod vacuum omnino esse non potest etiam deo agente&amp; 
+       <lb ed="#B" n="39"/>hoc per secundum argumentum. Ex quo vlterius conclusit impossibilitatem illius quo posito sequeretur 
+       <lb ed="#B" n="40"/>vacuum esse: cuiusmodi est materiae denudatio a forma &amp; quantitate etiam deo agente. Seddico ego quod  
+       <lb ed="#B" n="41"/>licet alias impossibile esset materiam dicto modo denudari, ponere tamen hac de causa siue rationeiam dicta 
+       <lb ed="#B" n="42"/>ab ille. scilicet deo eam non posse denudari dicto modo, est valde debile motiuum: quod nec deberet quemquam rationa-  
+       <lb ed="#B" n="43"/>biliter mouere ad negandum dicto modo materiam posse deo agente denudari. Cuius debilitas appa 
+       <lb ed="#B" n="44"/>ret applicando causam illam quaestioni qua quaeritur: vtrum deus posset annihilare &amp; secundum materiam &amp; 
+       <lb ed="#B" n="45"/>secundum formam substantialem &amp; secundum omnia accidentia aliquod corpus contentum inter partes aeris, puta 
+       <lb ed="#B" n="46"/>lapidem aut totam speciem contentam inter terram &amp; ignem: &amp; hoc continendo ignem superius ne rate 
+       <lb ed="#B" n="47"/>factione descenderet: &amp; terram &amp; aquam inferius ne rarefactione ascenderet. quo etiam posito secundum  
+       <lb ed="#B" n="48"/>philosophum. iiii. caeli &amp; mundi. ignis non descenderet: quia est in omni loco leuis. Similiter nec terra aut 
+       <lb ed="#B" n="49"/>aqua ascenderent: quia secundum ipsum ibidem sunt in omni loco graues: licet aer amota terradescenderet 
+       <lb ed="#B" n="50"/>eo quod in suo proprio loco grauis est: vnde nec ascenderet eleuata sphaera ignis secundum <name ref="#Aristotle">philosophum</name> ibidem. Etiam 
+       <lb ed="#B" n="51"/>an posset annihilare totam sphaeram elementarem sub sphaera lunae absque complicatione partium illius. 
+       <!--1190.xml-->
+       <pb ed="#B" n="575-r"/>
+        <lb ed="#B" n="1"/>Et constat quod non est negandum quin deus haec &amp; consimilia facere posset: quia qua ratione posset vniuer 
+       <lb ed="#B" n="2"/>sam creaturam mundi annihilare, eadem &amp; quamlibet partem eius annihilare posset, &amp; vnam altera manente. 
+       <lb ed="#B" n="3"/>Omnis enim creatura ex se caderet in nihilum sicut de nihilo facta fuit, nisi manu conditoris teneretur 
+       <lb ed="#B" n="4"/>in esse: qui manum suam potest subtrahere, siue a toto vniuerso, siue a quacumque parte eius ad libitum  
+       <lb ed="#B" n="5"/>suae voluntatis: quia non de necessitate vllam creaturam conseruat in esse, sicut nec de necessitate vllam in esse produ  
+       <lb ed="#B" n="6"/>xit: sed solummodo libertate arbitrii voluntatis suae. Contra hoc tamen posset argui ex causa, siue ra- 
+       <lb ed="#B" n="7"/>tione praedicta eo modo quo ille arguit contra ponentes deum posse dicto modo denudare materiam. 
+       <lb ed="#B" n="8"/>Argueretur enim sic. Si deus posset lapidem existentem in aere aut totam sphaeram aeris aut etiam totam sphae- 
+       <lb ed="#B" n="9"/>ram quatuor elementorum annihilare, sequeretur vacuum esse, aut motum esse in instanti sicut prius. Et suppo 
+       <lb ed="#B" n="10"/>sito vt prius quod partes circunstantes concurrere non possent subito: sicut suppositum est prius: concludi 
+       <lb ed="#B" n="11"/>posset modo quo prius: si deus annihilaret aut annihilare posset aliquid praedictorum, quod sequeretur va 
+       <lb ed="#B" n="12"/>cuum. &amp; tunc vlterius: sed impossibile est vacuum esse secundum philosophum. ergo impossibile est illud ex quo hoc 
+       <lb ed="#B" n="13"/>sequitur scilicet deum posse aliquid praedictorum annihilare. Sed non puto quod sit aliquis catholicus qui propter 
+       <lb ed="#B" n="14"/>fugam inconuenientis quod est vacuum esse, aut posse esse, duci deberet ad negandum antecedens, dicendo quod deus nul 
+       <lb ed="#B" n="15"/>lum praedictorum annihilare posset: immo potius deberet a quolibet concedi vacuum posse esse: &amp; deum posse 
+       <lb ed="#B" n="16"/>facere quod vacuum esset: quam negari deum aliquid praedictorum posse annihilare. Consimiliter ergo &amp; ad propo- 
+       <lb ed="#B" n="17"/>sitam quaestionem descendendo dico quod deus posset facere si vellet quod vacuum esset: &amp; hoc sic vt perseueraret 
+       <lb ed="#B" n="18"/>in esse absque omni spatii separati repletione, aut per partium corporis circunstantis concursum, aut per aliquid  
+       <lb ed="#B" n="19"/>corpus quid deus de nouo produceret loco corporis annihilati, aut per materiae prius denudatae resti- 
+       <lb ed="#B" n="20"/>tutionem per formam &amp; quantitatem: licet natura hoc facere non posset: quia ipsa materiam non potest omnino denu  
+       <lb ed="#B" n="21"/>dare: nec corpus aliquid annihilare. Vnde quia Philosophi putabant nihil posse fieri nisi natura agente vt 
+       <lb ed="#B" n="22"/>medio sine quo ponebant deum nihil posse de nouo agere: iuxta dictum Philosophi. viii. Physi. Voluntas anti 
+       <lb ed="#B" n="23"/>qua nihil noui operatur nisi mediante alio antiquo: &amp; quia natura non potest materiam omnino denudare aut 
+       <lb ed="#B" n="24"/>corpus aliquid omnino annihilare: sine quibus vacuum fieri non potest: &amp; cum hoc non potest habere esse sicut 
+       <lb ed="#B" n="25"/>aliquod ens per se existens: &amp; per se in esse productum: idcirco ponebant quod vacuum esse esset impossi 
+       <lb ed="#B" n="26"/>bile simpliciter. Sed licet hoc sit simpliciter impossibile, scilicet quod vacuum habeat existere agente na-  
+       <lb ed="#B" n="27"/>tura: &amp; sicut aliquod ens per se existens &amp; per se in esse productum, prout bene procedunt rationes 
+       <lb ed="#B" n="28"/>philosophi: quia vacuum esse non potest: bene tamen possibile est vacuum esse agente deo: &amp; hoc sicut 
+       <lb ed="#B" n="29"/>quiddam ens per accidens, secundum modum quo declarauimus vacuum esse ens per accidens in quodam alio quo  
+       <lb ed="#B" n="30"/>libet praecedenti. Et secundum hoc concedendus est processus primi argumenti. Ad argumentum secundum in oppo 
+       <lb ed="#B" n="31"/>situm, pro eo quod probat quod impossibile est vacuum esse: quia ponere vacuum esse est ponere contradictoria es- 
+       <lb ed="#B" n="32"/>se simul: puta partes continentis vacuum esse simul &amp; non esse simul: Dico quod hoc falsum est: immo pro 
+       <lb ed="#B" n="33"/>toto tempore quo vacuum est, partes circunstantis &amp; continentis illud non sunt simul: sicut neque erant simul 
+       <lb ed="#B" n="34"/>prius quando corpus erat contentum in situ vacui. per cuius annihilationem aut materiae eius denudationem 
+       <lb ed="#B" n="35"/>generatum est vacuum: secundum quod processit secunda pars illius argumenti, &amp; bene. Quia autem arguebatur secunda par- 
+       <lb ed="#B" n="36"/>te eius: quod etiam non essent simul: quia nihil esset medium illarum: dico quod reuera nihil est medium quod est aliquid  
+       <lb ed="#B" n="37"/>ens per se &amp; positiuum: est tamen medium vacuum sicut aliquid ens per accidens &amp; priuatiuum. secundum modum quo ex- 
+       <lb ed="#B" n="38"/>positum est vacuum esse ens per accidens &amp; priuatiuum in dicta quaestione. Et sic dicendo quod inter partes continentis 
+       <lb ed="#B" n="39"/>vacuum nihil est medium: negando aliquid generaliter tam pro eo quid est ens per se positiuum quam pro eo quid est ens per  
+       <lb ed="#B" n="40"/>accidens priuatiuum, illud simpliciter falsum est. Sed talis negatio est in dicto philosophi de simul: quod simul sunt il 
+       <lb ed="#B" n="41"/>la quorum nihil est medim. scilicet nec aliquod ens per se: nec ens per accidens. Negando vero specialiter pro eo quid est ens 
+       <lb ed="#B" n="42"/>per se solummodo, verum est quod nihil est medium inter partes continentis vacuum. Sed non est talis negatio praeci- 
+       <lb ed="#B" n="43"/>sa in definitione eius quod est simul: &amp; ideo non sequitur quod simul sint partes inter quaes non est medium inter vacuum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 35</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 35</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="23-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e552">
+      <head xml:id="n3av8a-c1e552-Hd1e96">Quaestio 35</head>
+      <p xml:id="n3av8a-c1e552-d1e99">
+       <!--87.xml-->
+       <pb ed="#B" n="23-v"/>
+       <lb ed="#B" n="1"/>CIrca Secundum primo arguebatur. quod melius est ire ad salutem animarum pro- 
+       <lb ed="#B" n="2"/>curandum quam stare in studio. Quod dicitur in Ecclesiastico. Quodcumque potest manus  
+       <lb ed="#B" n="3"/>tua operari, instanter operare, hoc maxime dicitur de salute animarum procuranda:  
+       <lb ed="#B" n="4"/>dicente Augustino. Ille magis in amore dei constituitur qui plures ad amorem 
+       <lb ed="#B" n="5"/>dei trahit. hoc potest facere quilibet sufficienter instructus. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e552-d1e117">
+       CONtra est com 
+       <lb ed="#B" n="6"/>munis consuetudo.
+      </p>
+      <p xml:id="n3av8a-c1e552-d1e122">
+       DIcendum ad hoc: quod hic primo supponendum est: quod homo sit be 
+       <lb ed="#B" n="7"/>ne dispositus ad vtrunque: &amp; ad amplius in studio proficiendum si perstiterit: &amp; ad ani 
+       <lb ed="#B" n="8"/>mas, promouendas si prexerit. bene dispositus enim ad curam animarum non autem ad profectum in studio: fatue agit 
+       <lb ed="#B" n="9"/>cum dimittit curas animarum transferendo se ad studium. Econuerso autem bene dispositus ad studium, indispositus autem  
+       <lb ed="#B" n="10"/>ad animarum curam: multo melius facit se transferendo ad studium vt discat illa per quae ad animarum salu- 
+       <lb ed="#B" n="11"/>tem promouendam fiat idoneus. 
+      </p>
+      <p xml:id="n3av8a-c1e552-d1e135">
+       SVPposito ergo quod homo sufficienter idoneus sit ad vtrunque: tunc 
+       <lb ed="#B" n="12"/>distinguendum est, &amp; ex parte eligentis &amp; ex parte eligibilis. Et ex parte eligi entis primo. aut enim est aeque  
+       <lb ed="#B" n="13"/>idoneus &amp; aeque dispositus ad proficiendum sibi &amp; ecclesiae in vno statu &amp; in altero: aut magis est ido  
+       <lb ed="#B" n="14"/>neus &amp; melius dispositus ad proficiendum in vno statu quam in altero. <quote xml:id="n3av8a-c1e552-Qd1e143" source="http://scta.info/resource/Icor12_4 http://scta.info/resource/Icor12_5 http://scta.info/resource/Icor12_6">Diuisiones enim gratiarum sunt 
+        <lb ed="#B" n="15"/>&amp; diuisiones administrationum sunt: vnicuique autem ad vtilitatem</quote>: vt determinat <ref xml:id="n3av8a-c1e552-Rd1e148">Apostolus primae ad Corin 
+       <lb ed="#B" n="16"/>thios duodecimo</ref>. Nunc autem vt vult <ref xml:id="n3av8a-c1e552-Rd1e154">
+        <name ref="#Aristotle">Philosophus</name> in primo Politicae</ref>: &amp; <ref xml:id="n3av8a-c1e552-Rd1e160">
+        <name>Plato</name> in primo Timaeo</ref>, tunc optima dis- 
+       <lb ed="#B" n="17"/>positio est Reip, quando vnusquisque ordinatus est, &amp; deputatus officio ad quod maxime est idoneus 
+       <lb ed="#B" n="18"/>quia in illo sibi &amp; aliis maxime proficere potest. In isto ergo casu in quo aliquis est dispositus magis ad  
+       <lb ed="#B" n="19"/>vnum quam ad aliud, plana est solutio, quoniam illi qui melius dispositus est studio, &amp; magis idoneus: illi melius 
+       <lb ed="#B" n="20"/>est manere in studio spe proficiendi, &amp; magis eligendum: alteri autem reliquum. tunc enim vterque eorum  
+       <lb ed="#B" n="21"/>plus potest proficere sibi &amp; aliis. Si vero aliquis quantum est ex parte sua aeque bene dispositus sit: &amp; aeque  
+       <lb ed="#B" n="22"/>adoneus ad vtrumque, &amp; aequa opportunitate potest se diuertere ad vtrumque: tunc quaestio est magis dubita 
+       <lb ed="#B" n="23"/>bilis: &amp; se tenet difficultas ex parte eligibilis. Aut enim indigent aeque opera sua studium &amp; animae 
+       <lb ed="#B" n="24"/>aut alterum eorum magis. Si alterum magis: dico quod tunc melius est se diuertere ad illud vbi est ma-  
+       <lb ed="#B" n="25"/>ior indigentia sui. Sl autem aeque idoneus est ad proficiendum in studio, &amp; aeque dispositus, &amp; aeque opera 
+       <lb ed="#B" n="26"/>eius indigent studium &amp; animae: tunc distinguo. aut enim tam dispositus est vt in studio legendo &amp; disputando po 
+       <lb ed="#B" n="27"/>terit proficere non solum sibi sed &amp; aliis: aut non: sed oportet eum multum temporis impendere studio an  
+       <lb ed="#B" n="28"/>tequam deuenire possit ad statum in quo legendo &amp; disputando possit aliis proficere. Si primo modo: tunc vi 
+       <lb ed="#B" n="29"/>dendum est quis est maior fructus ecclesiae &amp; multitudini animarum: an bonum &amp; vtilem doctorem vigilare in  
+       <lb ed="#B" n="30"/>studio ad alios instruendum, vt vbique terrarum proficiant, &amp; fiant animatum magistri, &amp; ad veritatem fidei &amp; sa- 
+       <lb ed="#B" n="31"/>crae scripturae illucidandam &amp; corroborandam, &amp; contra impios &amp; haereses defendendam: an ipsum studi- 
+       <lb ed="#B" n="32"/>um dimittere: &amp; ad ecclesiam aliquam se transferre: &amp; ibi praedicando, consulendo, exhortando proficere quantum-  
+       <lb ed="#B" n="33"/>cunque potest. Certe credo quod in isto casu multo melius est talem doctorem sic vtilem studio spe proficiendi aliis 
+       <lb ed="#B" n="34"/>insistere: immo vniuersali ecclesiae: quam ad quamcunque ecclesiam intentione consulendi animabus se transferre. 
+       <lb ed="#B" n="35"/>Sl autem studio sufficienter prouisum esset per alios doctores: vt modicum opera eius indigeret, &amp; multum 
+       <lb ed="#B" n="36"/>indigeret eius opera ecclesia: ad quam se posset transferre: in isto casu certe credo quod melius est ei di-  
+       <lb ed="#B" n="37"/>mittere studium, &amp; se transferre, &amp; animabus proficere: quae certe multo adiutorio indigent. Quia enim homo 
+       <lb ed="#B" n="38"/>doctor est, hoc est propter alios: non propter seipsum. Quando ergo &amp; vbi non est opus doctrina eius: immo 
+       <lb ed="#B" n="39"/>quicquid scholares addiscerent ab eo, eo tempore inuenirent per alios per quos melius discerent: vt praesentia eius fit eis quae  
+       <lb ed="#B" n="40"/>si danmnosa: melius est tunc se ad alios transferre: vbi potest singulariter florere, &amp; qui multum indigent doctrina eius 
+       <lb ed="#B" n="41"/>opus enim doctoris &amp; magistri nulli quantum est ex parte sui debet esse in desiderio: sed in fuga: propter alios 
+       <lb ed="#B" n="42"/>autem assumi debet tamquam necessarium &amp; ex indigentia: sicut est de officio praelationis. hinc dicit Iacobus. Nolite plu 
+       <lb ed="#B" n="43"/>res magistri fieri. super quo dicit Gregorius primo Pastoralis. Ne per concupiscentiam culminis: ducatum sus  
+       <lb ed="#B" n="44"/>cipiatis perditionis. Vnde antiqui patres postquam essent bene edocti in diuina lege: officium doctoris assumere no-  
+       <lb ed="#B" n="45"/>lebant nisi molestiis haereticorum compulsi: vt sine peccato silere non possent. secundum quod dicit <name ref="#Augustine">Augustinus</name> primo 
+       <lb ed="#B" n="46"/>de Gen. contra Manichaeos: exponens illud apostoli. Oportet multas haereses esse: vt probati manifesti fiant. 
+       <lb ed="#B" n="47"/>Hi inquit deo probati sunt qui bene possunt docere, docere autem nolunt nisi eos qui quaerunt. qui si bonae fidei sunt non 
+       <lb ed="#B" n="48"/>cedunt haereticis: sed multi ad quaerendum pigri sunt nisi per molestias &amp; insultationes haereticorum. Qui ergo  
+       <lb ed="#B" n="49"/>tales sunt quod opus habent vt scholastici ab eis quaerant quae ignorent: dico quod pro tempore suo, etsi forte non aequi  
+       <lb ed="#B" n="50"/>parentur praedecessoribus suis: his multo melius &amp; fructuosius est pro se &amp; aliis studio insistere publico 
+       <lb ed="#B" n="51"/>vt faciant magistros &amp; aliorum doctores: quam se transferant &amp; fiant instructores solummodo paruu 
+       <lb ed="#B" n="52"/>lorum. Tantum enim distat opus istorum ab opere aliorum: quantum opus architectoris ab opere ma- 
+       <lb ed="#B" n="53"/>nuartificis. architector enim docet regulas operandorum quas manuartifex applicat ad opus iuxta 
+       <lb ed="#B" n="54"/>regulas sibi traditas: quarum rationes frequenter ignorat. sicut rurales doctores &amp; praedicatores 
+       <!--88.xml-->
+       <pb ed="#B" n="24-r"/>
+       <lb ed="#B" n="1"/>eorum quae praedicant &amp; docent frequenter ignorant rationes. sed tamen docent confidenter: quia 
+       <lb ed="#B" n="2"/>sciunt ea quae docent a magistris se accepisse. Quantum ergo vituperandus esset bonus architector: qui  
+       <lb ed="#B" n="3"/>multum necessarius esset in directione alicuius magni aedificii, si nollet exercere opus architectoni- 
+       <lb ed="#B" n="4"/>cae: sed insistere lapidum incisioni vel operi caementario: tantum reuera vituperandus esset magnus 
+       <lb ed="#B" n="5"/>magister: multum necessarius &amp; vtilis studio, si se transferret ad dolandum lapides spirituales ani 
+       <lb ed="#B" n="6"/>marum simplicium. immo multo melius est vt simplices viros doceat regulas dolandi animas. Si 
+       <lb ed="#B" n="7"/>autem essent in aliquo opere multi meliores architectores quam ipse de quo est nobis sermo: ita quod eius 
+       <lb ed="#B" n="8"/>opere archite:ctonico non indigeretur: sed magis suo opere alios impediret, &amp; minus idonee operarios 
+       <lb ed="#B" n="9"/>regeret quam alii regerent si ipse in officio non esset: tunc multo melius esset ei &amp; aedificio erigendo, quod  
+       <lb ed="#B" n="10"/>se diuerteret, &amp; ad opus caementarii poneret: vbi multum opportunus esse posset. Similiter etiam 
+       <lb ed="#B" n="11"/>de tali doctore: quod multo melius esse posset sibi &amp; aliis: ad inferius officium se demittere, quam locum do-  
+       <lb ed="#B" n="12"/>ctoris occupare. 
+      </p>
+      <p xml:id="n3av8a-c1e552-d1e284">
+       SI vero aliquis nondum sit sic dispositus in literatura, vt statim possit aliis profi- 
+       <lb ed="#B" n="13"/>cere legendo &amp; disputando: sed oportebit eum multum temporis expendere priusquam ad illum statum  
+       <lb ed="#B" n="14"/>possit attingere: iterum distinguo. Aut enim est magna spes in tali quod possit ad summum &amp; arduum  
+       <lb ed="#B" n="15"/>gradum doctoris praeeminentis deuenire, si velit studio laborem apponere: aut non est spes talis de 
+       <lb ed="#B" n="16"/>ipso: sed merito timendum ne vnquam fiat idoneus ad talem statum promoueri. Sl primo modo: dico 
+       <lb ed="#B" n="17"/>quod multo melius est talem studio insistere vt fiat magnus architector, &amp; luminare maius in ecclesia 
+       <lb ed="#B" n="18"/>quam si statim dimitteret &amp; permaneret quasi caementarius &amp; luminare minus. Sl secundo modo: quamquam  
+       <lb ed="#B" n="19"/>stando in studio possit multum proficere, intantum vt possit in aliquo gradu qualicunque quandoque  
+       <lb ed="#B" n="20"/>fieri doctor Theologiae: credo tamen quod tali multo melius est &amp; vtilius pro se &amp; pro ecclesia: cum 
+       <lb ed="#B" n="21"/>intantum est instructus vt aliis in ecclesia possit proficere, quod se transferat: &amp; bene vtatur eo quod  
+       <lb ed="#B" n="22"/>iam acqsiuit, &amp; ponat se in officio ad quod iam paratus est &amp; idoneus: quam quod amplius expectaret: &amp; ad in  
+       <lb ed="#B" n="23"/>certum anhelaret ad quod vix vnquam perueniat, &amp; si forte perueniat hoc est per magnam molestiam: 
+       <lb ed="#B" n="24"/>&amp; cum peruenerit, vix tamen modicum in statu proficiet: intantum vt multi dicant ei vt quid lo  
+       <lb ed="#B" n="25"/>cum occupas: In hoc enim casu habet locum illud poetae. Nocuit differre paratis. Non dico quin si 
+       <lb ed="#B" n="26"/>forte aliquis diu studuerit: &amp; prope sit tempori vt in doctorem promoueatur: etsi magnum gra 
+       <lb ed="#B" n="27"/>dum doctoris non praesumat attingere: neque sit spes adhuc de eo: quin melius sit vt expectet suam 
+       <lb ed="#B" n="28"/>promotionem: vt ratione status ad quem promotus est, magis credatur ei: &amp; maior confidentia de 
+       <lb ed="#B" n="29"/>eo habeatur: &amp; per hoc magis poterit sibi &amp; aliis proficere: vt tamen cum ad statum promotus fue 
+       <lb ed="#B" n="30"/>rit se transferat quam cito commode &amp; cum honestate poterit. 
+      </p>
+      <p xml:id="n3av8a-c1e552-d1e326">
+       ET per hoc patent obiecta: cum obiici 
+       <lb ed="#B" n="31"/>tur primo. Quodcunque potest manus tua operari, instanter operare, &amp; certe bonum est. Sed cum 
+       <lb ed="#B" n="32"/>duo poterit operari, melius est instantei operari melius. Et cum assumitur quod illud est salus animarum  
+       <lb ed="#B" n="33"/>Dico quod verum est, &amp; ad illam debemus omnes laborare: non tamen eodem modo: sed vnusquisque in sta 
+       <lb ed="#B" n="34"/>tu in quo magis valet ad proficiendum eis, &amp; in quo excellentius eis proficit. Et iste est status do-  
+       <lb ed="#B" n="35"/>ctoris Theologiae simpliciter &amp; in quibusdam: in aliis autem alius, vt expositum est. Sl autem omnes 
+       <lb ed="#B" n="36"/>secundum vnum modum vellent animabus proficere, magnum ex hoc esset eis &amp; ecclesiae detrimen 
+       <lb ed="#B" n="37"/>tum. Dedit enim dominus vni quique talenta, alii duo, alii vero vnum: vnicuique secundum propriam 
+       <lb ed="#B" n="38"/>virtutem. Matthaei. xxv. Vnde nullus debet ad alium gradum aspirare quam ad illum ad quem se sen- 
+       <lb ed="#B" n="39"/>tiat plus idoneum, quod si sic fieret: optima &amp; conuenientissima esset pax &amp; vnitas ecclesiae. &amp; si secus fi 
+       <lb ed="#B" n="40"/>at: hoc non est consuetudo immo corruptela: quae multum modo abundat in ecclesia, vt dicit obie 
+       <lb ed="#B" n="41"/>ctum in oppositum. Vnde vt vnusquisque se teneat in ea vocatione qua vocatus est secundum modum  
+       <lb ed="#B" n="42"/>praeexpositum: multum hortatur Apostolus cum dicit prima ad Corinthios duodecimo, loquens in  
+       <lb ed="#B" n="43"/>parabola quam exponit secundum allegoriam. <quote xml:id="n3av8a-c1e552-Qd1e356" source="http://scta.info/resource/Icor12_17 http://scta.info/resource/Icor12_18 http://scta.info/resource/Icor12_19 http://scta.info/resource/Icor12_20 http://scta.info/resource/Icor12_21">Si totum inquit corpus, oculus, vbi auditus: et si totum 
+       <lb ed="#B" n="44"/>auditus, vbi odoratus: Nunc autem posuit deus membra: &amp; vnumquodque in corpore sicut voluit. 
+       <lb ed="#B" n="45"/>Quia si essent omnia vnum membrum, vbi corpus: Nunc autem multa quidem membra: vnum autem corpus. 
+       <lb ed="#B" n="46"/>non potest dicere oculus manui: opera tua non indigeo, aut iterum caput pedibus non estis mihi 
+       <lb ed="#B" n="47"/>necessarii</quote>. vt non sit schisma in corpore sed in idipsum pro inuicem sollicita sint membra, quod statim 
+       <lb ed="#B" n="48"/>explicat &amp; exponit dicens: Vos autem estis corpus Christi &amp; membra, &amp; quosdam pofuit deus in ec- 
+       <lb ed="#B" n="49"/>clesia: primum apostolos, secundo prophetas, tertio doctores: deinde virtutes. Nunquid omnes pro- 
+       <lb ed="#B" n="50"/>phetae: nunquid omnes doctores: numquid omnes virtutes: Et ad Ephislosohi. Vnicuique vestrum data est gra 
+       <lb ed="#B" n="51"/>tia secundum mensuram donationis Christi vt adimpleret omnia. &amp; dedit quosdam quidem  
+       <lb ed="#B" n="52"/>apostolos: quosdam autem prophetas: alios vero euangelistas: alios autem pastores: &amp; doctores ad  
+       <lb ed="#B" n="53"/>consummationem sanctorum: in opus ministerii: in aedificationem corporis Christi. Et ad Phil. Quicumque er 
+       <lb ed="#B" n="54"/>go perfecti. sumus: hoc sentiamus, &amp; ad quod peruenimus in eo maneamus, &amp; in eadem regula permaneamus.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

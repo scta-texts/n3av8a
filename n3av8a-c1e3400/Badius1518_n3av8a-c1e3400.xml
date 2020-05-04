@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 23</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 23</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="333-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3400">
+       <head xml:id="n3av8a-c1e3400-Hd1e96">Quaestio 23</head>
+       <p xml:id="n3av8a-c1e3400-d1e99">
+        <lb ed="#B" n="37"/>SEquuntur quaesita circa hominem pertinentia ad statum culpae instantis ex fa 
+       <lb ed="#B" n="38"/>cto praesenti. Et erant tria. Quorum vnum erat de culpa procedente ex lubricita 
+       <lb ed="#B" n="39"/>te. Secundum vero deculpa procedente ex cupiditate. Tertium autem de culpa 
+       <lb ed="#B" n="40"/>procedente ex malitia. Quorum primum erat, vtrum non potens continere, ni 
+       <lb ed="#B" n="41"/>tens tamen continere, si vt fortius astringatur ad continendum voueat se intraturum 
+       <lb ed="#B" n="42"/>religionem quam summe detestatur si amplius recidiuet: &amp; contingat quod reci- 
+       <lb ed="#B" n="43"/>diuet, teneatur intrare. illam religionem. Secundum, vtrum liceat emere redditus 
+       <lb ed="#B" n="44"/>perpetuos. Tertium, vtrum peccet non gaudens de bono opere alterius. 
+      </p>
+      <p xml:id="n3av8a-c1e3400-d1e119">
+       CIRca primum arguitur quod sic. quia voti 
+       <lb ed="#B" n="45"/>impletio necessitatis est absolute, sicut absolute promittitur: ergo etsi promittitur sub conditione, necessitatis est 
+       <lb ed="#B" n="46"/>extante conditione, quare cum hic existat conditio. ergo &amp;c. Contra, matrimonium spiritale non debet fieri sine 
+       <lb ed="#B" n="47"/>consensu, sicut nec carnale, quaere cum iste non consentit in ingressum talis religionis, quia eam summe detestatur, &amp; per in  
+       <lb ed="#B" n="48"/>gressum quodammo fieret mrimonium spiritale. ergo &amp;c. Difficultas huius quaestionis est in hoc quod in hoc voto sunt 
+       <lb ed="#B" n="49"/>duo inuoluta, sed vnum magis scilicet recidiuare in fornicationem: &amp; alterum min scilicet illam religionem intrare. propter 
+       <lb ed="#B" n="50"/>quid cum omnis obligatio voluntaria sit: &amp; ita circa volitum: appeet quod hic nulla sit obligatio. Sed non est ita. Sicut 
+       <lb ed="#B" n="51"/>enim aliquid non eligibile est alicui, vel quia malum, &amp; ita simpliciter non eligibile: vel appens malum: &amp; ita 
+       <lb ed="#B" n="52"/>non eligibile illi cui apparet malum: &amp; hoc vel absolute, vel in comparatione, non eligibile alicui 
+       <lb ed="#B" n="53"/>absolute, quia simpliciter malum: sic isti in proposito eligibile est non fornicari &amp; non intrare re 
+       <!--707.xml-->
+       <pb ed="#B" n="333-v"/>
+        <lb ed="#B" n="1"/>ligionem detestatam: quia est ei apparens malum: non eligibile autem alicui in comparatione, vt mi 
+       <lb ed="#B" n="2"/>nus malum simpliciter respectu minoris mali simpliciter. dicente Gregorio. Paulus cum quosdam  
+       <lb ed="#B" n="3"/>in ecclesia incontinentes aspiceret., concessit minora mala vt maiora declinarent. vel vt maius ma 
+        <lb ed="#B" n="4"/>lum simpliciter respectu minoris mali, secundum aestimationem. <ref xml:id="n3av8a-c1e3400-Rd1e153" target="http://scta.info/resource/gd-p1d13-d1e123">dist. decretorum. xiii.</ref> 
+       <quote xml:id="n3av8a-c1e3400-Qd1e156">Duo ma-  
+       <lb ed="#B" n="5"/>la licet cautissime sunt praecauenda, tamen si periculi necessitas vnum ex his perpetrare com- 
+       <lb ed="#B" n="6"/>pulerit id debemus resoluere quod minori nexu cognoscitur obligare</quote>. tale exemplum est in proposito 
+       <lb ed="#B" n="7"/>Quia enim maius malum est fornicari: &amp; minus malum secundum aestimationem intrare dictam 
+       <lb ed="#B" n="8"/>religionem: bene potest eligibile esse ingressus eius respectu actus fornicandi. &amp; ideo in comparatio 
+       <lb ed="#B" n="9"/>ne potest iste illud velle: &amp; vt omnino effugiat maius malum sub conditione ad illud aestimatum  
+       <lb ed="#B" n="10"/>malum se voto obligare etiam si esset conditio inhonesta, vt siquis dicat mulieri permitte me for- 
+       <lb ed="#B" n="11"/>nicari tecum, &amp; voueo deo quod intrabo religionem cum hoc fecero, stante conditione obligatus 
+       <lb ed="#B" n="12"/>est ad voti impletionem, &amp; hoc quia talis conditio extans non repugnat impletioni voti, quia ma 
+       <lb ed="#B" n="13"/>lum bene potest esse occasio boni: &amp; impletio voti est correctiua huius mali. 
+      </p>
+      <p xml:id="n3av8a-c1e3400-d1e180">
+       AD argumentum  
+       <lb ed="#B" n="14"/>in oppositum iam patet responsio. Etenim quod hic vouetur, licet non sit voluntarium absolute: est tamen 
+       <lb ed="#B" n="15"/>voluntarium in comparatione: &amp; hoc sufficit etiam in matrimonio carnali. Si enim detestaretur 
+       <lb ed="#B" n="16"/>quis mulierem, &amp; propter odium fornicationis, promitteret se eam ducere in vxorem si contingeret 
+       <lb ed="#B" n="17"/>eum fornicari, vel si permitteret se fornicari cum ea, alterutra conditione stante teneretur promis 
+       <lb ed="#B" n="18"/>sum implere.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

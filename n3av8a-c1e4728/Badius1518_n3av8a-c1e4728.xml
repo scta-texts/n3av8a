@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="488-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4728">
+       <head xml:id="n3av8a-c1e4728-Hd1e96">Quaestio 6</head>
+       <p xml:id="n3av8a-c1e4728-d1e99">
+        <lb ed="#B" n="29"/>CIrca sextum arguitur: quod meliora habens naturalia existens in aequali charitate &amp; gloria cum al- 
+       <lb ed="#B" n="30"/>tero intensius videt &amp; diligit deum: quia actus conformatur potentiae &amp; habitui, secundum 
+       <lb ed="#B" n="31"/>quod agens agit: quare haoabens maiorem potentiam ex maioribus naturalibus in eadem chari 
+       <lb ed="#B" n="32"/>tate &amp; gloria intensius agit suam actionem: ergo &amp;c. Quod eonfirmatur per Augustinums  
+       <lb ed="#B" n="33"/>xii. super Gen. quod anima separata retardatur ne feratur in summum caelum propter appetitum  
+       <lb ed="#B" n="34"/>ad corpus: hoc autem non est nisi quia separata diminuta est in naturalibus: ergo &amp;c. 
+       <lb ed="#B" n="35"/>
+      </p>
+      <p xml:id="n3av8a-c1e4728-d1e117">
+       CONtra, tunc minorem hobens charitatem posset esse aequaliter beatus cum habente maiorem: quid falsum est. Proba 
+       <lb ed="#B" n="36"/>tio consequentiae. Sint ei aliqui duo in gilsia in aequali gera siue charitate &amp; gileosopa: quorum alter habeat meliora na 
+       <lb ed="#B" n="37"/>turalia, &amp; compensato eo in quo: lle excedit quo ad naturalia illud diuidatur per medium, &amp; quantitas charitati 
+       <lb ed="#B" n="38"/>siue gloriae proportionalis illi alteri partium tollatur de habente meliora naturalia, remanet ergo iste in mino 
+       <lb ed="#B" n="39"/>ri charitate siue gloria quam ille &amp; in maioribus naturalibus: &amp; quantum iste exceditur ab illo in charitate siue 
+       <lb ed="#B" n="40"/>gloria tantum excedit illum in naturalibus: aequaliter ergo videbunt deum &amp; diligent ille &amp; iste, &amp; sic erunt 
+       <lb ed="#B" n="41"/>aequaliter beati. 
+      </p>
+      <p xml:id="n3av8a-c1e4728-d1e133">
+       DIco quod in actu beatitudinis glorioso voluntatis &amp; intellectus duo est considerare. scilicet ordi 
+       <lb ed="#B" n="42"/>nem actus ad ipsum obiectum ad quod terminatur, &amp; cui beatus per actum suum vnitur, &amp; ordinem ad ipsum subiectum a 
+       <lb ed="#B" n="43"/>quo actus elicitur: &amp; ex ordinatione ad obiectum recipit actus formam &amp; speciem, ex ordinatione autem ad subiectum 
+       <lb ed="#B" n="44"/>recipit intensionem &amp; remissionem penes dispositionem subiecti vt tactum est supra quaestione prima. Sed ex parte 
+       <lb ed="#B" n="45"/>subiecti quod pertinet ad praesentem quaestionem, subdistinguendum est: quia dispositio subiecti secundum quam recipit actus 
+       <lb ed="#B" n="46"/>intensionem &amp; remissionem, duplex est scilicet naturalis potentia agentis &amp; habitus potentiam informantis. Et tam 
+       <lb ed="#B" n="47"/>potentia quam habitus dupliciter considerari praesent: aut quo ad eorum subam: aut quo ad eorum feruorem ad actum elicien 
+       <lb ed="#B" n="48"/>dum. Similiter ex parte intensionis &amp; remissionis distinguendum est: quia illa aut consistit in ipsa suba actus vt tendit in  
+       <lb ed="#B" n="49"/>obiectum: aut in modo expeditionis in eligendo ipsum ex subiecto. Considerando autem intensionem &amp; remissionem 
+       <lb ed="#B" n="50"/>actus primo modo, sic semper sequitur subiectum ex quo elicitur secundum dispositionem vtramque: sed principaliter ratione fer 
+       <lb ed="#B" n="51"/>uoris eius quo ad actum merendi in praesenti vita, &amp; quo ad subam actus vt tendit in obiectum, &amp; quae ad expeditionem 
+       <lb ed="#B" n="52"/>eliciendi ipsum ex subiecto. secundum feruorem enim maiorem potentiae &amp; habitus charitatis actus intensior merendi 
+       <lb ed="#B" n="53"/>elicitur &amp; expeditius. &amp; hoc meritum ex nobis est &amp; ex deo. Quo ad actum vero praemium recipiendi in vita glo 
+       <lb ed="#B" n="54"/>riosa quo ad intensionem &amp; remissionem eius in sua substantia vt tendit in obiectum solum sequitur secundum 
+       <!--1016.xml-->
+       <pb ed="#B" n="488-r"/>
+        <lb ed="#B" n="1"/>dispositionem habitus, quia in ipso consistit meritum cui redditur praemium secundum intensionem actus 
+       <lb ed="#B" n="2"/>vt tendit in obiectum: &amp; hoc a solius dei liberalitate. Quo autem ad intensionem modi expedite eliciendi 
+       <lb ed="#B" n="3"/>actum ex subiecto: sequitur secundum dispositionem vtramque. Et ideo dico quod habens meliora naturalia in aequali cha 
+       <lb ed="#B" n="4"/>ritate expeditius elicit actum intelligendi &amp; volendi quam haobens minus bona naturalia, actibus tamen intelligendi 
+       <lb ed="#B" n="5"/>&amp; volendi existentibus aequalibus in vtrisque iuxta aequalitatem habituum gloriae. Et secundum hoc concedendum est vl 
+       <lb ed="#B" n="6"/>timum argumentum probans quod habens aequalem gloriam in melioribus naturalibus non videt aut diligit deum intensius 
+       <lb ed="#B" n="7"/>licet actum videndi &amp; diligendi quantum est ex se eliciat expeditius: nulla tamen existente difficultate eliciendi in illo 
+       <lb ed="#B" n="8"/>qui ex minus bonis naturalibus elicit actum minus expedite. 
+      </p>
+      <p xml:id="n3av8a-c1e4728-d1e185">
+       PER dicta etiam patet responsio ad primum 
+       <lb ed="#B" n="9"/>dicendo quod verum est quod actus conformatur semper potentiae vel habitui: sed non semper vniformiter actus merendi i 
+       <lb ed="#B" n="10"/>&amp; actus praemium recipiendi, &amp; actus quo ad suam substantiam &amp; quo ad expeditionem eliciendi ipsum: sed secun- 
+       <lb ed="#B" n="11"/>dum modum iam expositum. 
+      </p>
+      <p xml:id="n3av8a-c1e4728-d1e195">
+       PER idem patet ad tertium de dicto <name ref="#Augustine">Augustinus</name> quoniam anima separata quia non est in omnimoda perfe 
+       <lb ed="#B" n="12"/>ctione naturalium extra suum corpus, ideo retardatur in actum suo, non quo ad subam: actus: sed quo ad expedi 
+       <lb ed="#B" n="13"/>tionem in eliciendo actum fruendi. Nec tamen propter hoc erit beatior anima quando erit coniuncta suo corpori, quam quando erit se 
+       <lb ed="#B" n="14"/>parata. beatitudo enim non consistit maior vel minor in expeditione eliciendi actum: sed solummo in intensione &amp; 
+       <lb ed="#B" n="15"/>remissione actus in sua substantia qua teudit in obiectum, &amp; vnit intensius &amp; remissius agentem ipsi subiecto.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

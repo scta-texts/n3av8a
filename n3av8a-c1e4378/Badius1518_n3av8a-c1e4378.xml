@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 10</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 10</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="465-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4378">
+       <head xml:id="n3av8a-c1e4378-Hd1e96">Quaestio 10</head>
+       <p xml:id="n3av8a-c1e4378-d1e99">
+        <lb ed="#B" n="36"/>SEquuntur quaesita pertinentia specialiter, primo ad angelum, secundo ad hominem. 
+       <lb ed="#B" n="37"/>Pertinentia ad angelum erant tria communiter pertinentia ad angelum tam malum  
+       <lb ed="#B" n="38"/>quam bonum. Vnum pertinens ad eius personalitatem: vtrum scilicet angelus possit assume 
+       <lb ed="#B" n="39"/>re naturam humanam in eius personalitate. Aliud de eius duratione: vtrum vnum  
+       <lb ed="#B" n="40"/>sit aeuum omnium aeuiternorum. Tertium vero de eius notitia: vtrum angelus po- 
+       <lb ed="#B" n="41"/>test naturaliter videre corpus Christi sub sacramento. Et vnum specialiter pertinens 
+       <lb ed="#B" n="42"/>ad angelum malum: vtrum in daemonibus cadat obliuio. Circa primum arguitur quod angelus potest in  
+       <lb ed="#B" n="43"/>sua personalitate assumere naturam humanam. Primo sic: personalitas vt videtur absoluta qualis est 
+       <lb ed="#B" n="44"/>in creaturis: non est aliud quam subsistentia ipsius naturae per esse ipsius determinatum: nisi enim determi-  
+       <lb ed="#B" n="45"/>netur habet rationem vniuersalis &amp; indeterminati, determinabilis tamen. ipsa enim determinatio quae est 
+       <lb ed="#B" n="46"/>haec ita quod non alia dat ei rationem personalitatis &amp; suppositi, personalitas autem angeli talis non minus nata est de-  
+       <lb ed="#B" n="47"/>terminare naturam hominis quam angeli: quia natura angeli minus est determinabilis eo quod magis est abstracta &amp; in 
+       <lb ed="#B" n="48"/>materialis quam sit natura hominis ergo &amp;c. Secundo sic,. quod natura diuina possit assumere in personalitate  
+       <lb ed="#B" n="49"/>sua: hoc non est nisi per aliquam congruentiam naturae diuinae &amp; humanae. Sed maiorem congruentiam ha-  
+       <lb ed="#B" n="50"/>bet quaelibet natura creata ad aliam naturam creatam quam ad naturam diuinam: quia vna natura creata non distat  
+       <lb ed="#B" n="51"/>in infinitum ab alia natura creata sicut quaelibet natura creata distat a natura diuina. ergo &amp;c. Com 
+       <lb ed="#B" n="52"/>tra: Personalitas cuiuslibet personae limitatae limitata est &amp; determinata singularitati naturae suae, qua  
+       <lb ed="#B" n="53"/>re cum natura vna singularis angeli nulli alii personalitati potest communicari quam suae: vt eadem na-  
+       <lb ed="#B" n="54"/>tura determinetur duabus personalitatibus. ergo neque personalitas similiter singularis vnius naturae  
+       <!--970.xml-->
+       <pb ed="#B" n="465-r"/>
+        <lb ed="#B" n="1"/>singularis vllo modo poterit communicari alteri naturae singulari. Dicendum secundum quod alibi determi 
+       <lb ed="#B" n="2"/>nauimus, quod personalitas nihil aliud est quam distincta ratio subsistendi circa singularem naturam quae in diuinis 
+       <lb ed="#B" n="3"/>non est nisi respectiua: quia in diuinis eadem natura singularis non potest distingui neque determinari pluri 
+       <lb ed="#B" n="4"/>bus absolutis: in creaturis autem ratio illa est absoluta: &amp; habet quaelibet natura singularis in creaturis 
+       <lb ed="#B" n="5"/>talem singularitatem propriam sibi: qua non solum distinguitur vna natura creata ab alia: sed sic in se deter-  
+       <lb ed="#B" n="6"/>minatur vt sit separata a qualibet alia: vt sic personalitas in creaturis circa naturam creatam non est ni 
+       <lb ed="#B" n="7"/>si modus eius essendi separatim ab alia natura creata. Propter quod necesse est secundum quod procedit vltima ra 
+       <lb ed="#B" n="8"/>tio, quod personalitas quaecumque creata sit finita &amp; sua finitatione limitata ad naturae suae singularitatem &amp; 
+       <lb ed="#B" n="9"/>illi appropriata: vt idcirco nullius creaturae personalitas pluribus naturis possit communicari. Propter 
+       <lb ed="#B" n="10"/>quid personalitatem communicabilem pluribus naturis oportet esse ex se indeterminatam &amp; naturae indeter  
+       <lb ed="#B" n="11"/>minatae. Aliter nim per ipsam naturam determinaretur ipsa personalitas. Et sic etiam opertet quod vtrumque eorum sit infini  
+       <lb ed="#B" n="12"/>tum, cuiusmodi sunt natura diuina &amp; quaelibet personalitas eius. &amp; propter indeterminationem huiusmodi personali 
+       <lb ed="#B" n="13"/>tatis &amp; naturae potest ipsa personalitas communicari naturae creatae limitatae: eo quod quicquid est in tali natura finita 
+       <lb ed="#B" n="14"/>etiam est in illa natura infinita licet sub modo eminentiore. &amp; idcirco coniunctum continens naturam 
+       <lb ed="#B" n="15"/>diuinam &amp; humanam non requirit aliud personalitatis quam alterum illorum tantum. Propter quod quaelibet perso- 
+       <lb ed="#B" n="16"/>na diuina quamlibet naturam creatam cum sua natura potest sibi in eadem personalitate assumere, natu  
+       <lb ed="#B" n="17"/>ra autem vna singularis creata quia omnino est extra aliam &amp; plus est naturalitatis in duabus quam in vna 
+       <lb ed="#B" n="18"/>idcirco personalitas vni earum appropriata immo propria, nullo modo potest esse alterius: sed quaelibet 
+       <lb ed="#B" n="19"/>requirit propriam personalitatem. &amp; sic contrario modo se habet de transubstantiatione naturae in na 
+       <lb ed="#B" n="20"/>turam &amp; de assumptione naturae ad alterius naturae personalitatem: quoniam natura finita in naturam infini 
+       <lb ed="#B" n="21"/>tam transubstantiari nullo modo potest: vt habitum est supra: sed ad solius naturae infinitae personalitatem 
+       <lb ed="#B" n="22"/>assumi potest. Ad primum in oppositum, quod personalitas angeli non minus est nata determinare naturam hominis 
+       <lb ed="#B" n="23"/>quam angeli: Dicendum quod falsum est: quia cum personalitas in creaturis debet secundum praedicta esse correspondens suae na-  
+       <lb ed="#B" n="24"/>turae &amp; determinata illi: ipsa omnino est improportionalis alteri naturae siue sit superior siue inferior si 
+       <lb ed="#B" n="25"/>ue aequalis. Ende autem verum est quod natura humana, quia materialis est, magis quo ad hoc determimabilis est quam  
+       <lb ed="#B" n="26"/>natura angelica. Propter quod aliqui putauerunt quod non differunt in angelo natura simpliciter &amp; suppositum 
+       <lb ed="#B" n="27"/>vt habitum est supra. Et sic non obstante maiori determinabilitate, quia tamen non est determimabilis nisi proprie 
+       <lb ed="#B" n="28"/>tate personali sibi congruente, qualis est solummo sua personalitas finita, vel personalitas diuina infinita: conti 
+       <lb ed="#B" n="29"/>nens in se omnem rationem cuiuslibet personalitatis finitae licet sub modo eminentiore: nullo modo potest huma-  
+       <lb ed="#B" n="30"/>na natura assumi cum angelica in vnitate personae angelicae. Ad secundum quod maior est conuenientia naturae  
+       <lb ed="#B" n="31"/>humanae cum angelica quam cum diuina: ergo &amp;c. Dicendum quod assumptio naturae cum natura in sua personali- 
+       <lb ed="#B" n="32"/>tate non est propter convenientiam in ratione communi alicuius vniversalis qualiter conveniunt duae naturae creatae inter se, &amp; nul 
+       <lb ed="#B" n="33"/>la natura creata cum increata: sed est solummo propter convenientiam in aliqua singularitate: qualiter convenit 
+       <lb ed="#B" n="34"/>quaelibet natura creata cum natura diuina: inquantum. scilicet natura diuina continet in se licet per quandam eminem 
+       <lb ed="#B" n="35"/>tiam quamlibet naturam creatam: &amp; similiter personalitas diuina quamlibet personalitatem creatam. propter quod quaelibet 
+       <lb ed="#B" n="36"/>natura creata cum natura diuina potest assumi in vnitate personae.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

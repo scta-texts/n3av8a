@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="222-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e104">
+       <head xml:id="n3av8a-d1e104-Hd1e96">Quaestio 4</head>
+       <p xml:id="n3av8a-d1e104-d1e99">
+        <lb ed="#B" n="8"/>Equuntur duae quaestiones de deo in respectu ad creaturam assumptam in Christo. Qua 
+       <lb ed="#B" n="9"/>rum prima erat. vtrum Christus secundum quod homo illuminet angelos. Secunda: vtrum eius 
+       <lb ed="#B" n="10"/>gloria erat in aliquo diminuta in triduo separationis animae a suo corpore. ClR 
+       <lb ed="#B" n="11"/>ca primum arguitur quod non: quia Christus secundum quod homo, est natura inferior angelis:  
+       <lb ed="#B" n="12"/>natura autem superior habet illuminare inferiorem, vt angeli superiores ipsos inferio 
+       <lb ed="#B" n="13"/>res, iuxta determinationem Dions. de caelesti Hierar. 
+      </p>
+      <p xml:id="n3av8a-d1e104-d1e115">
+       IN contrarium est illud quod di-  
+       <lb ed="#B" n="14"/>citur de Christo primae Petri primo. In quem desiderant angeli prospicere. etiam secundum 
+       <lb ed="#B" n="15"/>quod est homo. hoc autem non desiderarent nisi ab ipso modo aliquo illuminarentur. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e104-d1e122">
+       DIcendum ad hoc  
+       <lb ed="#B" n="16"/>quod omnis illuminatio procedit secundum ordinem &amp; gradus illuminantium &amp; illuminatorum. Ita quod superio- 
+       <lb ed="#B" n="17"/>ra in gradu &amp; ordine, nata sunt illuminare inferiora. dicente Dionysica. c. xiii. cael. Hierar. Iuxta naturalis or 
+       <lb ed="#B" n="18"/>dinationis rationem supernaturalis ordinatio dilucidationis claritatem primo excellentissimis manife- 
+       <lb ed="#B" n="19"/>stat essentiis: &amp; per eas quae possunt esse naturae diuinum participant radium: ipsis tradentes ex superueniente in  
+       <lb ed="#B" n="20"/>eas claritate: &amp; illae iterum subiectis: &amp; per singulas primo quae est post eam tradit. Est igitur simul cunctis 
+       <lb ed="#B" n="21"/>illuminatis principium illuminandi deus natura &amp; vere &amp;, proprie vt luminis essentia &amp; ipsius esse. Econtrario 
+       <lb ed="#B" n="22"/>autem inferiora non illuminant superiora. dicente eodem. c. xi. Nouissimarum sanctam decoram illuminationem  
+       <lb ed="#B" n="23"/>superpositarum essentiarum dispositiones participant: vltimae vero personarum nullo modo. 
+      </p>
+      <p xml:id="n3av8a-d1e104-d1e142">
+       ET quia vt l 
+       <lb ed="#B" n="24"/>patet ex dictis Dionysic. iuxta naturalis ordinis rationem ordo supernaturalis illuminationis procedit, scie 
+       <lb ed="#B" n="25"/>dum quod duplex est ordo rerum: quibus quaedam superiora habent esse quibusdam. Et secundum hoc duplex est 
+       <lb ed="#B" n="26"/>modus illuminationis inferiorum a superioribus. est enim quidam ordo rerum in esse naturae: quidam vero in  
+       <lb ed="#B" n="27"/>esse gratiae. Ordo rerum in esse naturae est secundum quem deus trinitas naturaliter est supomne ens: &amp; ab ipso 
+       <lb ed="#B" n="28"/>omnes creaturae secundum ordinem gradus naturalis habent procedere a prima &amp; summa creatura vt a sum- 
+       <lb ed="#B" n="29"/>mo angelo vsque ad infimam creaturam. scilicet primam materiam. De quibus dicit <name ref="#Augustine">Augustinus</name> in libro confessionum. Duo 
+       <lb ed="#B" n="30"/>fecisti domine: vnum prope nihi scilicet primam materiam: &amp; alterum prope te scilicet primum angelum. Ordo vero rerum in esse 
+       <lb ed="#B" n="31"/>gratiae est: secundum quem deus trinitas super omnia bonus existens: donis gratiae creaturam intellectualem ad se 
+       <lb ed="#B" n="32"/>ipsum perfecte habet reducere. De primo ordine rerum dicit Dionsi. de di. no. iiii. c. Omnibus existentibus 
+       <lb ed="#B" n="33"/>submittit totius bonitatis radios: per quos &amp; subsistunt inuisibiles &amp; intellectuales omnes &amp; essentiae &amp; 
+       <lb ed="#B" n="34"/>virtutes &amp; operationes quae per eas sunt. &amp; infra. Sed post illos sacros &amp; sanctos intellectus animae &amp; quaecumque  
+       <lb ed="#B" n="35"/>sunt animarum bona. &amp; infra. Sed &amp; de his &amp; si oportet dicere irrationalibus animabus aut animalibus quaecumque aera se- 
+       <lb ed="#B" n="36"/>cant &amp; quaecumque in terra gradiuntur: &amp; germina omnia nutritiuam habent animam etiam quaecunque sit inani 
+       <lb ed="#B" n="37"/>ma &amp; non vitalis essentia &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e104-d1e179">
+       DE secundo ordine rerum dicit in fine tertii. c. cel. Hiere. vnusquique hie- 
+       <lb ed="#B" n="38"/>rarchicae dispositionis ordo secundum propriam analogiam reducitur ad diuinam cooperationem illam perficiens 
+       <lb ed="#B" n="39"/>gratia &amp; deo data virtute quae diuinitati naturaliter &amp; supernaturaliter insunt: &amp; ab ea supessentiali- 
+       <lb ed="#B" n="40"/>ter acta: &amp; ad possibilem amantium deum animorum imitationem hierarchice manifestata. Post hie- 
+       <lb ed="#B" n="41"/>rarchiam ergo diuinam &amp; supercaelestem quae consistit in ordine eorum quae in diuina essentia constituuntur: vt 
+       <lb ed="#B" n="42"/>sunt rationes attributales &amp; personae: secundum quod expositum est in prima &amp; secunda quaestione praeceden- 
+       <lb ed="#B" n="43"/>tibus, ad perficiendum totius mundanae hierarchiae statum sequitur ordo hierarchicus creaturarum du  
+       <lb ed="#B" n="44"/>plex secundum duplicem ordinem rerum praedictum. Secundum primum enim ordinem hierarchia creatura- 
+       <lb ed="#B" n="45"/>rum incipit a suprema creatura in gradu naturae caeteras praecellente: quae lucifer fuisse creditur. di-  
+       <lb ed="#B" n="46"/>cente Grego. in fine. xxxii, mora. de ipso. Comparatione claritatis suae obumbrasse caeterorum claritatem cre 
+       <lb ed="#B" n="47"/>ditur: quia eorum magnitudinem excellentia maiore transcendit. &amp; infra. Quid vero ille nisi vnus ex caele- 
+       <lb ed="#B" n="48"/>stibus spiritibus: &amp; quid adhuc maius est, summus: post illum autem caeteri secundum gradus excellentiae &amp; dignita. 
+       <lb ed="#B" n="49"/>tis naturae suae vsque ad infimum. Nec restat ad praesens quomodo distinctio eorum sumenda sit: an secundum ge- 
+       <lb ed="#B" n="50"/>nus &amp; differentias vt corporalium: an alio modo. Post illos autem caelestes spiritus sequitur spiritus humanus. 
+       <lb ed="#B" n="51"/>superior omnibus rebus corporalibus, etiam caelestibus corporibus. Quibus etiam homo ratione suae animae su 
+       <lb ed="#B" n="52"/>perior est: licet ratione corporis naturaliter subiectus sit. Nec solum homo: sed etiam omnia quaecumque velnnam 
+       <lb ed="#B" n="53"/>vim habent animae inquantum animata sunt. licet inferiora sunt multo inquantum corpora sunt. Vnde inter corpora 
+       <lb ed="#B" n="54"/>primo sunt caelestia corpora: &amp; post illa inaimata mixta: deinde elementa simplicia: in quibus semper inferiorasum 
+       <!--484.xml-->
+       <pb ed="#B" n="222-r"/>
+        <lb ed="#B" n="1"/>periorum impressiones sunt recipientia, quibus ad persectionem naturae suae: &amp; ad assimilationem pri 
+       <lb ed="#B" n="2"/>mi principii perueniant: quantum eis possibile est secundum cuiusque naturam, licet ipsum non attingant. Propter 
+       <lb ed="#B" n="3"/>quod est ordo secundus per gratiam: qui per se pertinet ad creaturam intellectualem: qui per gratiam &amp; gloriam perse- 
+       <lb ed="#B" n="4"/>cto circulo principium a quo procedit vt finem suum vltimum includit. Vnde &amp; ordo gratiae superior est 
+       <lb ed="#B" n="5"/>ordine naturae: &amp; naturalem principatum principatus gratiae sibi subdit. Etenim licet in angelis bonis gratui 
+       <lb ed="#B" n="6"/>ta forte sunt data proportionaliter naturalibus: vt praepositi in natura: praepositi sint in gratia: boni tamen stan- 
+       <lb ed="#B" n="7"/>tes per gratiam praelati sunt vt dominentur illis qui ceciderunt: licet eis praelati sunt per naturam. Vnde Augu- 
+       <lb ed="#B" n="8"/>sti. loquens de ordine mundanae hierarchiae mixto ex naturali &amp; gratuito, dicit tertio de trinitate c. v. Dei vo 
+       <lb ed="#B" n="9"/>luntas quae fecit angelos suos spiritus: &amp; ministros ignem ardentem, in spiritibus summa pace atque concordia 
+       <lb ed="#B" n="10"/>copulatis, &amp; in vnam voluntatem quodam spiritali charitatis igne conflatis: tanquam in excelsa &amp; sancta &amp; se 
+       <lb ed="#B" n="11"/>creta sede praesidens velut in domo sua &amp; in templo suo, inde se quibusdam ordinatissimis creaturae 
+       <lb ed="#B" n="12"/>motibus primo spiritalibus deinde corporalibus per cuncta diffundit: &amp; vtitur omnibus ad incommutabile 
+       <lb ed="#B" n="13"/>arbitrium sententiae suae, siue in corporeis rebus, siue rationalibus, siue irrationalibus spiritibus, siue bo 
+       <lb ed="#B" n="14"/>nis per eius gratiam, siue malis per propriam voluntatem. Sed quemadmodum corpora grossiora &amp; inferiora par  
+       <lb ed="#B" n="15"/>subtiliora &amp; potentiora quodam ordine reguntur: ita omnia corpora per spiritum vitae rationalem: &amp; spiritus 
+       <lb ed="#B" n="16"/>vitae rationalis desertor atque peccator per spiritum vitae rationalem pium &amp; iustum: &amp; ille per ipsum deum: ac 
+       <lb ed="#B" n="17"/>sic vniuersa creatura per creatorem suum. Ac per hoc voluntas dei est prima &amp; summa causa omnium rerum 
+       <lb ed="#B" n="18"/>atque motionum. Nihil enim fit visibiliter &amp; sensibiliter quod non de interiori inuisibili atque intelligibili aula  
+       <lb ed="#B" n="19"/>summi imperatoris aut iubeatur, aut permittatur, secundum ineffabilem iustitiam praemiorum atque poenarum 
+       <lb ed="#B" n="20"/>gratiarum &amp; retributionum: in istius totius creaturae amplissima quadam immensaque republica. Nec solum 
+       <lb ed="#B" n="21"/>boni angeli naturae inferioris per gratiam praeferuntur superioribus: immo &amp; homo inter intellectualia na-  
+       <lb ed="#B" n="22"/>tura inferior omnibus, potest superioribus sibi sub deo praeferri. vt patet in Christo homine &amp; deo. Quod non solum 
+       <lb ed="#B" n="23"/>tenet de deo fidelium deuotio: sed etiam de virgine gloriosa, &amp; quampluribus aliis: vt secundum hoc superior 
+       <lb ed="#B" n="24"/>sit ordo gratiae quam naturae. Secundum quem ordo hierarchiae militantis ecclesiae ad instar triumphantis sub an  
+       <lb ed="#B" n="25"/>gelorum bonorum regimine: considerandum est in quadam quaestione sequenti. Quantum ergo ad quaestio 
+       <lb ed="#B" n="26"/>nem praesentem pertinet, descendendo ad propositum dicimus: quod secundum quod duplex est ordo hierarchicus: na 
+       <lb ed="#B" n="27"/>turae &amp; gratiae: &amp; superiora habent illuminare inferiora non econtrario: si consideremus illuminationem 
+       <lb ed="#B" n="28"/>quae sequitur ordinem naturae: cum species tota humana inferior sit insima specie naturae angelicae: hoc 
+       <lb ed="#B" n="29"/>modo Christus non habet angelos illuminare: quia in naturalibus excedunt angeli. Si autem considere- 
+       <lb ed="#B" n="30"/>mus illuminationem quae consequitur ordinem gratiae: sic Christus sicut est omnibus angelis superior 
+       <lb ed="#B" n="31"/>in gratia: sic lumine suae gratiae omnes habet illuminare. Quod non solum verum est de Christo: sed etiam de ho 
+       <lb ed="#B" n="32"/>mine puro angelicam gratiam excedente. semper enim superior gratia inferiorem sua illuminat gra- 
+       <lb ed="#B" n="33"/>tia. Vnde <name ref="#Augustine">Augustinus</name> oquens de gloria beatae virginis in quodam sermone de natiuitate eius dicit. Caelum  
+       <lb ed="#B" n="34"/>ipsum quod penetrasti necnon cuncta quae contenta in eo sunt, noua &amp; ineffabili gloria decorasti: quia prio- 
+       <lb ed="#B" n="35"/>rem eius gloriam ex praesentia tui vltra quam dici possit aut cogitari, magnificasti: noua illic ac praeexcel 
+       <lb ed="#B" n="36"/>lenti virtutum tuarum dignitate irradias: immensaque gratiarum tuarum luce perlustras. Vnde quo ad  
+       <lb ed="#B" n="37"/>istam lucem gratiae irradiantem in Christo: qua angeli illuminantur praeter illuminationem quam habent ex 
+       <lb ed="#B" n="38"/>eius diuinitate: dicit Petrus quod angeli in eum prospicere desiderant: si exponendum sit de ipso quo ad eius 
+       <lb ed="#B" n="39"/>humanitatem. Et per haec patent obiecta vtriusque partis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

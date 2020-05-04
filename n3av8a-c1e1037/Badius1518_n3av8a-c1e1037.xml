@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 10</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 10</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="62-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1037">
+      <head xml:id="n3av8a-c1e1037-Hd1e96">Quaestio 10</head>
+      <p xml:id="n3av8a-c1e1037-d1e99">
+       <!--165.xml-->
+       <pb ed="#B" n="62-v"/>
+       <lb ed="#B" n="1"/>SEquuntur pertinentia ad producta a primo principie scilicet ad creaturas in speciali. Et propone 
+       <lb ed="#B" n="2"/>bantur quaestiones circa quatuor. Plura circa permanentia, &amp; de absoluta. Vnicum circa 
+       <lb ed="#B" n="3"/>relatiua, &amp; vnicum circa successiua, &amp; vnicum circa subito transeuntia. Et quia tria 
+       <lb ed="#B" n="4"/>vltima erant singula, de eis primo expediendum est. Quorum Primum erat. Vtrum 
+       <lb ed="#B" n="5"/>aliqua relatio realis posset alicui aduenire de nouo sine sui mutatione. Secundum 
+       <lb ed="#B" n="6"/>vero erat circa tempus, vtrum possit esse fine anima. Tertium erat de lumine in me 
+       <lb ed="#B" n="7"/>dio. Vtrum sit res aliqua, an intentio sola. 
+      </p>
+      <p xml:id="n3av8a-c1e1037-d1e121">
+       CIRca primum arguitur, quod relatio realis 
+       <lb ed="#B" n="8"/>possit alicui aduenire de nouo sine sui mutatione. quia omnis relatio fundata super quantitatem, &amp; su 
+       <lb ed="#B" n="9"/>per potentias actiuas &amp; passiuas, est relatio realis secundum <name ref="#Aristotle">philosophum</name> in. v. Metaphsicae. Et ista potest ali- 
+       <lb ed="#B" n="10"/>cui aduenire sine omni sui mutatione: vt si aliquis sit decem pedum &amp; alter nouem non est aequalis se- 
+       <lb ed="#B" n="11"/>cundum quantitatem, quod si crescat vno pede, statim factus est aequalis sine omni sui mutatione. &amp; ista aequa-  
+       <lb ed="#B" n="12"/>litas est relatio fundata super quantitatem, vt patet. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1037-d1e138">
+       IN contrarium est. quoniam non propter aliud ne 
+       <lb ed="#B" n="13"/>gantur dicta de deo ex tempore esse relationes reales quam quod deo possunt aduenire de nouo sine omni sui 
+       <lb ed="#B" n="14"/>mutatione. 
+      </p>
+      <p xml:id="n3av8a-c1e1037-d1e145">
+       HIC oportet reducere ad memoriam ea quae superius dicta sunt de modis relationum vel 
+       <lb ed="#B" n="15"/>relatiuorum quod scilicet quaedam sunt relatiua secundum esse, in quibus scilicet est res &amp; natura aliqua absoluta, 
+       <lb ed="#B" n="16"/>supra quam immediate fundatur ratio respectus, quia secundum Augustinum, omne quod sic relatiue dicitur 
+       <lb ed="#B" n="17"/>est aliquid praeter hoc quid ad aliud refertur. Quaedam vero secundum dici: in quibus tota ratio respectus 
+       <lb ed="#B" n="18"/>fundatur super conceptus animae circa res. vnde est relatio rationis tantum, &amp; hoc in vtroque extremorum 
+       <lb ed="#B" n="19"/>nec est aliqua talis relatio inter creatorem &amp; creaturam: quia omnis relatio inter istos secundum rem 
+       <lb ed="#B" n="20"/>est in creatura: quia secundum omne id quod est, &amp; quod in se habet, a creatore essentialiter &amp; realiter de-  
+       <lb ed="#B" n="21"/>pendet: etiam secundum suum esse in substantia &amp; essentia sua: quod est de maxime absolutis in ip- 
+       <lb ed="#B" n="22"/>sa: vt habitum est secundum Auicennam in quaestione praecedenti. De relatiuis etiam secundum esse dictum 
+       <lb ed="#B" n="23"/>erat quod quaedam erant relatiua per se secundum duos modo scilicet modo numerorum, &amp; modo potentiarum: quae  
+       <lb ed="#B" n="24"/>sunt verissima relatiua: quia referuntur per essentialem dependentiam fundatam in aliquo quod per se per- 
+       <lb ed="#B" n="25"/>tinet ad vtrumque eorum inquantum refertur ad reliquum: ita quod singulum sit relatiuorum per se: &amp; id quid  
+       <lb ed="#B" n="26"/>habet in se per se refertur ad suum correlatiuum: ita quod si desinat referri hoc est quia deficit per se in ipso il 
+       <lb ed="#B" n="27"/>lud super quod fundatur ille respectus: &amp; si de nouo incipit referri, hoc est quia de nouo incipit esse in eo id super  
+       <lb ed="#B" n="28"/>quod ille respectus fundatur siue fuerit ipsa essentia eius super quam fundatur: siue aliquid aliud. Verbi gra- 
+       <lb ed="#B" n="29"/>tia. si calefactiuum dicitur ad calefactibile per potentiam actiuam calidi a quae per se habet esse calefactiuum, &amp; 
+       <lb ed="#B" n="30"/>econuerso calefactibile ad calefactiuum per potentiam passiuam qua per se calesit: si calefactiuum de-  
+       <lb ed="#B" n="31"/>sinit esse calefactiuum, vel fiat de nouo calefactiuum: hoc non est nisi per aliquam transmutationem fa- 
+       <lb ed="#B" n="32"/>ctam in ipso circa potentiam calefactiuam. &amp; similiter de calefactibili. Similiter si numerus refertur ad  
+       <lb ed="#B" n="33"/>numerum relatione quae fundatur in essentia numeri: vt quatuor ad duo: sicut duplum ad subduplum. 
+       <lb ed="#B" n="34"/>inquantum enim quaternarius substantialiter constituitur ex binario duplicato, duplum fundatur 
+       <lb ed="#B" n="35"/>in substantia quaternarii: &amp; subduplum in substantia binarii: vel relatione quae fundatur in aliquo per se 
+       <lb ed="#B" n="36"/>accidente eius: vt numerus abundans ad partem qua abundat, quod enim abundans dicitur, hoc est per acci 
+       <lb ed="#B" n="37"/>dens quod partes aliquotae omnes simul acceptae ipsum in aliquo excedunt, si relatum desinit esset rela- 
+       <lb ed="#B" n="38"/>tum vel de nouo incipit esse relatum, hoc necessario fit per transmutationem in se illius accidentis su 
+       <lb ed="#B" n="39"/>per quod fundatur. Quod impossibile est fieri in numero, cui per se inest: quia res mathematica est in qua non 
+       <lb ed="#B" n="40"/>pont fieri transmutatio: licet fiat circa res naturales, in quibus sunt mathematica. Quia igitur solummo- 
+       <lb ed="#B" n="41"/>do inter sic relatiua dicitur esse relatio realis: absolute dicendum est, quod relatio realis nulli potest aduenire 
+       <lb ed="#B" n="42"/>de nouo sine aliqua sui mutatione: &amp; talis nullo modo potest esse in deo respectu creaturae: cuius causa 
+       <lb ed="#B" n="43"/>siue ratio est: quia deus ipse nihil habet in se per quid aliquam essentialem dependentiam siue respectum 
+       <lb ed="#B" n="44"/>habet ad creaturarum existentiam. aliter enim de necessitate creaturas produxisset, &amp; ab aeterno vt posue- 
+       <lb ed="#B" n="45"/>runt philosophi. Et ideo si deus aliqua relatione ad creaturam refertur: oportet quod hoc non sit relatione 
+       <lb ed="#B" n="46"/>realiuaed scilicet est per se, &amp; secundum esse: sed quae solummo est secundum esse, sed per accidens. &amp; hoc non secundum illum 
+       <lb ed="#B" n="47"/>modum supra expositum, quoe. scilicet aliquid refertur ad aliud secundum esse suum per accidens absolutum. quod quidem  
+       <lb ed="#B" n="48"/>accidens per se refertur ad aliud, &amp; per ipsum id cui accidit: sicut linea ferrea inquantum ferrea dupla dicitur ad  
+       <lb ed="#B" n="49"/>aliam lineam ferream scilicet propter magnitudinem mathematicam quae est in ferro. cui quidem magnitudini per 
+       <lb ed="#B" n="50"/>se natum est conuenire esse duplum, &amp; non ferro, nisi per accidem scilicet propter magnitudinem quae est in ipso. &amp; in talibus de 
+       <lb ed="#B" n="51"/>duplo potest fieri non duplum, &amp; econuerso: vt de nouo adueniat talis relatio realis alicui sine omni sua trans 
+       <lb ed="#B" n="52"/>mutatione: &amp; hoc quia illa relatio per accidens ei conuenit: &amp; ipsa similiter per accidens conuenit illi ad  
+       <lb ed="#B" n="53"/>quod refertur. propter quod illo transmutato secundum illud accidens: vt si linea ferrea prius subdupla ex 
+       <lb ed="#B" n="54"/>tendatur &amp; fiat dupla: illa alia prius dupla iam sine omni sua transmutatione facta est subdupla. Et iuxta 
+       <!--166.xml-->
+       <pb ed="#B" n="63-r"/>
+       <lb ed="#B" n="1"/>hunc modum processit argumentum primum, probans quod in relatione fundata super quantitatem 
+       <lb ed="#B" n="2"/>potest ipsa alicui de nouo aduenire sine omni sua transmutatione. hoc enim non est verum nisi circa 
+       <lb ed="#B" n="3"/>illa quibus conuenit ista relatio per accidens: vt naturalia subiecta quantitatibus: sicut homines de qui-  
+       <lb ed="#B" n="4"/>bus exemplificauit, vel alia huiusmodi. Circa illa autem quibus conuenit relatio per se: vt circa ip 
+       <lb ed="#B" n="5"/>sas quantitates, hoc omnino est impossibile: quia in mathematicis non est motus vel transmutatio, se- 
+       <lb ed="#B" n="6"/>cundum <name ref="#Aristotle">philosophum</name> in tertio Metaphysicae. Secundum istum modum planum est quod deus non po- 
+       <lb ed="#B" n="7"/>test habere relationem realem ad creaturas per accidens: quia nihil potest ei accidere in seipso: nec esse 
+       <lb ed="#B" n="8"/>in ipso aliquid quod non sit ipse: ita quod omnis relatio fundata super aliquid existens in ipso, nisi sit secun- 
+       <lb ed="#B" n="9"/>dum rationem tantum, est secundum esse, &amp; realis, &amp; per se: qualem non potest habere ad creaturam vt di-  
+       <lb ed="#B" n="10"/>ctum est. Sed talem solummodo habet infra diuinam essentiam vna persona ad alteram: quae fundatur 
+       <lb ed="#B" n="11"/>super potentiam actiuam &amp; passiuam essentialiter vt dictum est. Si ergo deus refertur ad creaturam 
+       <lb ed="#B" n="12"/>oportet quod hoc non sit relatione reali, &amp; hoc per se ex parte ipsius dei: quia ista non potest in ipso fun- 
+       <lb ed="#B" n="13"/>dari super aliquid quod intra se est, vel essentialiter, vel accidentaliter: vt dictum est. Sed si hoc sit relatione  
+       <lb ed="#B" n="14"/>quae non est purae rationis &amp; secundum dici solum: vt dictum est iam: sed aliquo modo secundum esse 
+       <lb ed="#B" n="15"/>&amp; secundum rem: oportet quod hoc sit per se ex parte ipsius creaturae solum, &amp; non per aliquod accidens 
+       <lb ed="#B" n="16"/>absolutum: quia relatio fundata super accidens absolutum in vno correlatiuorum, requirit accidens 
+       <lb ed="#B" n="17"/>absolutum respondens in alio: quale non potest esse in deo: &amp; etiam relatio fundata super huiusmodi  
+       <lb ed="#B" n="18"/>accidentia oportet quod sit realis in vtroque extremorum: vt patet ex praedeterminatis. Necesse est igitur quod re- 
+       <lb ed="#B" n="19"/>latio qua deus refertur ad creaturam, realis sit ex parte creaturae per se, ex parte vero dei per accidens 
+       <lb ed="#B" n="20"/>scilicet quia tali relatione creatura primo &amp; per se refertur ad ipsum. &amp; etiam necesse est cum non pos- 
+       <lb ed="#B" n="21"/>sit fundari in creatura super aliquod accidens absolutum, quod fundatur in eo quod essentialiter est in ipsa 
+       <lb ed="#B" n="22"/>creatura vt dictum est. Vnde quia creatura realiter &amp; secundum esse per se refertur ad deum: cum. 
+       <lb ed="#B" n="23"/>nulla potest esse relatio quin sit mutua: quoniam omnia relatiua si conuenienter assignentur, ad con 
+       <lb ed="#B" n="24"/>uertentiam dicuntur: vt dicitur in praedicamentis: oportet quod econtra deus aliquo modo refertur ad  
+       <lb ed="#B" n="25"/>creaturam, non solum secundum dici: quia non propter solam operationem intellectus circa ipsum: 
+       <lb ed="#B" n="26"/>sed quodammodo secundum esse, sed per accidens: quia scilicet aliud secundum esse, &amp; per se refertur ad  
+       <lb ed="#B" n="27"/>ipsum, sicut contingit in relatione inter scientiam &amp; scibile: vt supra expositum est. Argumenta vtri 
+       <lb ed="#B" n="28"/>usque partis patent secundum praedicta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

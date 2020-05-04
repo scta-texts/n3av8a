@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 21</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 21</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="136-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1556">
+      <head xml:id="n3av8a-c1e1556-Hd1e96">Quaestio 21</head>
+      <p xml:id="n3av8a-c1e1556-d1e99">
+       <lb ed="#B" n="42"/>Equitur de generaliter pertinentibus ad omnes homines. Vbi primo quaerebantur quae 
+       <lb ed="#B" n="43"/>dam principaliter pertinentia ad animam. Secundo quaedam pertinentia principaliter ad corpus. 
+       <lb ed="#B" n="44"/>Tertio quaedam pertinentia principaliter ad vtrumque. 
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e108">
+       CIRca primum quaerebatur vnum pertinens 
+       <lb ed="#B" n="45"/>ad intellectum: &amp; plura alia ad voluntatem. Illud vnum erat: vtrum intellectus coniunctus 
+       <lb ed="#B" n="46"/>possit aliquid intelligere. Ex arguitur quod non: quia neque ens neque non ens. Non non ens 
+       <lb ed="#B" n="47"/>quia scibile &amp; scientia dicuntur relatiue: ita quod si non sit scibile, non est scientia, qua 
+       <lb ed="#B" n="48"/>re similiter si non est intelligibile, non est de ipso intellectus. Non ens: quia non est ens nisi 
+       <lb ed="#B" n="49"/>singulare: cuius non est nisi sensus. secundum Boetium supe Porphyrium. 
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e121">
+       IN oppositum est <name ref="#Aristotle">Philosophus</name> tertio 
+       <lb ed="#B" n="50"/>de anima. 
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e129">
+       DIcendum ad hoc: quod intellectus nobis coniunctus potest ex natura sua intelligere &amp; vniuersa 
+       <lb ed="#B" n="51"/>lia rerum sensibilium vt obiecta abstracta ab imaginatiua existente in actu virtute intellectus agentis 
+       <lb ed="#B" n="52"/>proponentis ea, sicut in cognoscente in intellectu possibili: &amp; similiter particularia vt sunt existentia in imaginati 
+       <lb ed="#B" n="53"/>ua secundum actum per vniversala abstracta, vt per rationes intelligendi. Quod enim est obiectum intellectus vt vel abstractum 
+       <!--313.xml-->
+       <pb ed="#B" n="136-v"/>
+       <lb ed="#B" n="1"/>ab eo quod est in imaginatiua particulare: idem est ratio intelligendi illud particulare quod est in imaginatiua se 
+       <lb ed="#B" n="2"/>cundum actum tanquam obiectum intellectiuae. Sunt enim in hoc phantasmata existentia in imaginatiua obiecta 
+       <lb ed="#B" n="3"/>intellectus: quemadmodum sensibilia extra sunt obiecta sensus: sicut dicit <name ref="#Aristotle">Philosophus</name> in tertio de anima. 
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e153">
+       AD cu 
+       <lb ed="#B" n="4"/>ius intellectum notandum circa progressum hunc notitiae, quod sensibile, puta color, primo esse naturale ha 
+       <lb ed="#B" n="5"/>bet in obiecta sua, &amp; est in potentia actiua vt intentionaliter sibi simile generet in medio &amp; a medio in  
+       <lb ed="#B" n="6"/>organo visus: secundum tamen actum luminis. Quod requiritur propter duo. Et propter medium: vt fiat materia 
+       <lb ed="#B" n="7"/>quae est necessitas ad susceptionem intentionis: quam nisi mediante luminis informatione non est natum reci- 
+       <lb ed="#B" n="8"/>pere: &amp; propter ipsum colorem qui non agit sese generando in medio nisi cum virtute luminis: quo praesente co 
+       <lb ed="#B" n="9"/>lor facit speciem impressam in medio sibi contiguo: quae continue generatur &amp; diffunditur in directum per totum 
+       <lb ed="#B" n="10"/>medium vsque ad organum visus: in quo species recipitur ab aere sibi contiguo, &amp; formatur per ipsam visio. i. actio 
+       <lb ed="#B" n="11"/>videndi: quae percipit virtus visiua sensibile particulare obiectum extra philesoenus: &amp; abhinc generatur in vi memorati 
+       <lb ed="#B" n="12"/>tiua quae est specierum retentiua: &amp; ab illa in vi imaginatiua: quae speciei illius informatione actu imaginandi perci- 
+       <lb ed="#B" n="13"/>pit idem particulare secundum rationem particularis vt absens. Post hanc apprihensionem sequitur apphensio intellectiua 
+       <lb ed="#B" n="14"/>de quae procedit quaestio: &amp; quaerit modum quo intellectus coniunctus possit aliquid intelligere adminiculo sensus 
+       <lb ed="#B" n="15"/>&amp; imaginationis siue phantasiae. 
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e182">
+       AD cuius intellectum oportet scire, quod secundum <name ref="#Aristotle">Philosophum</name> in tertio de anima &amp; 
+       <lb ed="#B" n="16"/>Commentatorem, intellectus nin possibilis est de genere virtutum passiuarum quoquo modo: quia scilicet recipit formam 
+       <lb ed="#B" n="17"/>quam apphendit: &amp; est in potentia ad eam: sed non transmutabilis ab ea quia non est materialis sicut est sensus: vt 
+       <lb ed="#B" n="18"/>per hoc non sic est intellectus in potentia intelligibile: sicut est sensus sensibile: in eo videlicet quod sensus ab  
+       <lb ed="#B" n="19"/>obiecto habet specieum receptam impressiuam quam deducitur per trasmutationem naturalem sensus de potentia in actum 
+       <lb ed="#B" n="20"/>non solum vt in potentia formatum actu informetur receptione speciei impressiuae in subiecto: vt ibi sit 
+       <lb ed="#B" n="21"/>status: sed vt vlterius potentia sentiens fiat actu sentiens receptione speciei expressiuae: non vt in subiecto 
+       <lb ed="#B" n="22"/>sed in cognoscente. Intellectus vero materialis ab obiecto nullam recipit speciem impressiuam: sed solum expressi- 
+       <lb ed="#B" n="23"/>uam: quo de potentia intelligente fit actu intelligens. oportet enim quod secundum aliquam similitudinem sicut sensus 
+       <lb ed="#B" n="24"/>se habet ad sensibilia, sic intellectus se habeat ad intelligibilia. Cum ei res non mouet nisi secundum quod est in actu: 
+       <lb ed="#B" n="25"/>&amp; mouetur secundum quod est in potentia: necesse est inquantum formae sunt in actu extra animam: quod moueant animam rationalem 
+       <lb ed="#B" n="26"/>secundum quod apprhendit eas: licet nihil imprimant in eam: quemadmodum sensibilia inquantum sunt extra in actum, necesse est 
+       <lb ed="#B" n="27"/>vt moueant sensus: &amp; vt sensus moueatur ab eis receptione speciei expressae &amp; impressae. Et ideo anima rationa 
+       <lb ed="#B" n="28"/>lis: quia nihil sibi habet de rebus per sensus impressum: cum indigeat adminiculo sensuum intelligere: debet 
+       <lb ed="#B" n="29"/>considerare intentiones quae sunt in virtute imaginatiua: sicut sensus inspicere sensibilia extra. Sed an-  
+       <lb ed="#B" n="30"/>tequam illas actu intelligat: oportet quod mens primo auferat eas a conditionibus particularibus: &amp; sic faciat eas intel 
+       <lb ed="#B" n="31"/>lectas in actum postquam erant in potentia intellectae: vt secundum hoc ad actualem intellectum duplex actio necessario 
+       <lb ed="#B" n="32"/>concurrat. Vna quae est prima intellectus circa obiectum quod de se non est nisi in potentia intelligibile: vt 
+       <lb ed="#B" n="33"/>per abstractionem fiat actu intelligibile. Alia quae est secunda, obiecti abstracti circa intellectum ad eliciendum ex 
+       <lb ed="#B" n="34"/>ipso actum intelligendi: qui iterato terminatur in idem obiectum: per quod informat intelligendi actum: vt secundum hoc 
+       <lb ed="#B" n="35"/>mens rationalis inquantum intellecta mouent eam, est vis passiua: secundum quod mouentur ab ea est vis actiua. Vt 
+       <lb ed="#B" n="36"/>ideo necesse sit ponere in ea duas virtutes: scilicet actionis, &amp; virtutem passionis: quarum vna dicitur intel- 
+       <lb ed="#B" n="37"/>lectus agens: alia vero dicitur intellectus possibilis. Et est intellectus agens abstrahens de potentia intelligi 
+       <lb ed="#B" n="38"/>bili actu intelligibile: ponens illud vt obiectum intelligibile in intellectu possibili vt intelligente: extrahen- 
+       <lb ed="#B" n="39"/>do ipsum de potentia intelligendi in actum: &amp; faciens de potentia intelligente actu intelligentem. Et per hoc pri 
+       <lb ed="#B" n="40"/>mo denudat formas a materiis: &amp; deinde eas iam factas vels facit intellectas in actum postquam erant intel 
+       <lb ed="#B" n="41"/>lectae in potentia, quemadmodum enim obiectum visus quod est color, non mouet ipsum nisi per praesentiam lucis, effi- 
+       <lb ed="#B" n="42"/>cientis quod color sit in actu agens postquam erat in potentia: ita intentiones imaginatae non mouent vt obiecta ine 
+       <lb ed="#B" n="43"/>tellectum materialem: nisi quando efficiuntur in actu vels postquam erant in potentia: &amp; per hoc fiant in intellectu possibili 
+       <lb ed="#B" n="44"/>non sicut in subiecto: sed sicut in cognoscente. vt sic componantur intellectus materialis &amp; intentio intellecta. Ita quod  
+       <lb ed="#B" n="45"/>compositum non sit tertium ex eis sicut est de aliis compositis ex materia &amp; forma: vt dicit Commentator sup. iii. 
+       <lb ed="#B" n="46"/>de anima. Et vt dicit ibidem, respectus agenti ad itellectum materialem est sicut respectus lucis ad diaphanum: &amp; re 
+       <lb ed="#B" n="47"/>spectus formarum materialium ad ipsum est respectus coloris ad lucem, quemadmodum ei lux est perfectio diaphani  
+       <lb ed="#B" n="48"/>sic intellectus agens est perfectio materialis. &amp; quemadmodum diaphanum non mouetur a colore: nec recipit eum nisi 
+       <lb ed="#B" n="49"/>quando lucet: ita iste intellectus non recipit intellecta quae sunt hic: nisi secundum quod perficitur per illum intellectum: &amp; illuminatur par  
+       <lb ed="#B" n="50"/>ipsum. &amp; quemadmodum lux facit colores in potentia esse in actum: ita quod prasent mouere diaphanum: ita intellectus agens 
+       <lb ed="#B" n="51"/>facit intentiones in potentia intellectas intellectas actum: ita quod recipiat eas obiectiue intellectus materialis &amp; moue 
+       <lb ed="#B" n="52"/>atur ab eis. 
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e268">
+       AD cuius vlteriorem intellectum est aduertendum: quod in virtute imagiatiua sunt tria: scilicet species inps- 
+       <lb ed="#B" n="53"/>sa a specie existente in memoria: sine quae nihil posset percipore propter esse suum organicum &amp; materiale: &amp; ipse actus 
+       <lb ed="#B" n="54"/>imaginandi: &amp; tertium est ipsum obiectum imaginatum. Quorum species est imaginatiua vt forma 
+       <!--314.xml-->
+       <pb ed="#B" n="137-r"/>
+       <lb ed="#B" n="1"/>accidentalis in subiecto. Actus imaginandi, sicut motus in moto. Imaginatum, sicut obiectum in cogno  
+       <lb ed="#B" n="2"/>scente. Et cum ista tria sint in ea: abstractio tamen non fit neque a specie impressa: quia intellectus speciei ma 
+       <lb ed="#B" n="3"/>terialis impressionem non recipit, quia esset vere alterabilis &amp; transmutabilis sicut sensus. cuius contra- 
+       <lb ed="#B" n="4"/>rium vult <name ref="#Aristotle">philosophus</name> in. vii. physicorum. Neque sit abstractio ab actu imaginandi eadem ratione, sed solum ab ob 
+       <lb ed="#B" n="5"/>iecto imaginato. vt illud quod est sicut cognitum in imaginatiua cognoscente vno modo, sit vt cognitum 
+       <lb ed="#B" n="6"/>in intellectu cognoscente alio modo, qua. scilicet est obiectum imaginatiuae sub ratione singularis. Penitus 
+       <lb ed="#B" n="7"/>enim idipsum numero obiectum est visus particularis &amp; imaginatiuae &amp; intellectus: praeter hoc quod  
+       <lb ed="#B" n="8"/>obiectum est visus, vt est singulare praesens in re extra: obiectum imaginatiuae, vt est singulare absens 
+       <lb ed="#B" n="9"/>&amp; vt existens in anima tantum, sicut in cognoscente: obiectum vero intellectus est idem sub ratione vniuersalis quid  
+       <lb ed="#B" n="10"/>conspicit in phantasmate absque omni specie impressiua. Siqua enim esset, illa esset ratio concipiendi ob 
+       <lb ed="#B" n="11"/>iectum sub ratione particularis, sicut &amp; ipsa in se particularis est, &amp; alia numero a specie impressa in  
+       <lb ed="#B" n="12"/>intellectu alterius: qua ille comprehenderet obiectum sub ratione alterius particularis: &amp; esset intellectus in  
+       <lb ed="#B" n="13"/>actu in intelligendo hoc determinatum per illam speciem impressam, quod est contra determinationem philosophi. 
+       <lb ed="#B" n="14"/>Et ex hoc contingeret quod cum hoc modo res intellecta a diuersis est multa numero: &amp; ita vna specie: quod  
+       <lb ed="#B" n="15"/>res intellecta haberet supra se rem intellectam, &amp; procederet in infinitum, aut stabitur in intellectu in 
+       <lb ed="#B" n="16"/>telligente speciem absque omni ratione determinati: &amp; erit impossibile vt discipulus addiscat a magistro 
+       <lb ed="#B" n="17"/>nisi scientia quae est in magistro sit virtus generans &amp; creans scientiam quae est in discipulo, secundum quod 
+       <lb ed="#B" n="18"/>ignis generat alium ignem. secundum quod ista inconuenientia concludit <ref xml:id="n3av8a-c1e1556-Rd1e321">Comment. super. iii. de anima</ref>, contra 
+       <lb ed="#B" n="19"/>
+       <name>Alexan</name>, ponentem quod intellectus esset virtus generata ex conmixtione elementorum: &amp; quod per hoc sunt di-  
+       <lb ed="#B" n="20"/>uersi intellectus in diuersis. Si enim ita esset, tunc intellectus esset forma materialis, &amp; aliquid in  
+       <lb ed="#B" n="21"/>enere formarum materialium: nec natus in se recipere omnes formas materiales: quia reciperet se ea- 
+       <lb ed="#B" n="22"/>demratione qua &amp; alia, &amp; esset idem secundum idem mouens &amp; motum, quod est impossibile, vt concludit Com 
+       <lb ed="#B" n="23"/>mentator super tertium de anima. Vnde non restat quin intellectus reciperet formas, secundum quod sunt 
+       <lb ed="#B" n="24"/>diuersae: &amp; hoc siue ponatur esse forma materiae siue informari specie impressa. Vnde vt intellectus 
+       <lb ed="#B" n="25"/>recipiat formas. secundum quod formae sunt, non secundum quod istae, &amp; secundum quod sunt intelligibiles in actum: non 
+       <lb ed="#B" n="26"/>autem in potentia tantum, sicut oportet quod in substantia sua sit immaterialis, vt neque sit de potentia ma 
+       <lb ed="#B" n="27"/>teriae, neque eam habeat partem sui, sicut supra dictum est de angelis, sic oportet quod in sua substantia sit denuda  
+       <lb ed="#B" n="28"/>tus ab omni specie impressiua eorum quae sunt nata ab ipso intelligi. 
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e349">
+       PER istum ergo modum poni- 
+       <lb ed="#B" n="29"/>mus quod intentio intellecta est vna modo vno, &amp; multa duobus modis. Secundum se enim est vna 
+       <lb ed="#B" n="30"/>intentio speciei tantum: &amp; ita vna vnitate specifica non indiuiduali, quae licet non habet esse secundum se ex 
+       <lb ed="#B" n="31"/>tra intellectum: quemadmodum dicitur Plato eas posuisse: bene tamen sub ista ratione habet esse 
+       <lb ed="#B" n="32"/>in intellectum, secundum quod posuit Aristoteles. Est autem plures vno modo secundum recipien scilicet se 
+       <lb ed="#B" n="33"/>cundum quod intellectus sunt plures in pluribus: econtrario ei quod dixit Comment. super. iii. de anima 
+       <lb ed="#B" n="34"/>quod est vna secundum recipiens, et hoc quia posuit intellectum materialem in omnibus vnum numero, quid  
+       <lb ed="#B" n="35"/>nullo modo oportet ponere propter actum intelligendi: nisi ponendo intellectum formam materialem 
+       <lb ed="#B" n="36"/>eductam de potentia materiae generabilem &amp; corruptibilem. Ponendo autem intellectum creari prae- 
+       <lb ed="#B" n="37"/>paratis corporibus, sicut posuit Auicenna: et ponit fides catholica: quod tamen ipse ponere non potuit 
+       <lb ed="#B" n="38"/>secundum fundamenta magistri sui Aristotelis: bene ponitur quod idem secundum quod forma est, &amp; non  
+       <lb ed="#B" n="39"/>secundum quod haec, intelligitur a diuersis, quae licet sit vna in se omnibus modis, contingit tamen quod vnus  
+       <lb ed="#B" n="40"/>sciat quod non alter: quia contingit ipsam bene intelligi ab vno, ita quod non ab altero, eo quod est plures secun 
+       <lb ed="#B" n="41"/>dum recipientes. Et non solum sic, immo alio modo est plure. scilicet secundum intentiones imaginatas 
+       <lb ed="#B" n="42"/>quae sunt diuersae in diuersis secundum rationes indiuiduales: a quibus tamen in singulis concipitur vna 
+       <lb ed="#B" n="43"/>&amp; eadem secundum rationem speciei vniuersalem: &amp; per hoc contingit quod idem scitur a diuersis &amp; ab vno  
+       <lb ed="#B" n="44"/>&amp; non ab altero: &amp; quod discipulus mediante phantastico discat a magistro, secundum quod exposuimus in  
+       <lb ed="#B" n="45"/>quaestionibus de modo sciendi. Et per hunc modum soluuntur omnes difficultates propter quas Auic. posuit 
+       <lb ed="#B" n="46"/>intellectum vnum in omnibus: ponendo quod possibilis est aeternus, quia incorruptibilis per naturam: &amp; similiter agens 
+       <lb ed="#B" n="47"/>&amp; tamen factum, vt intellectus speculatiuus, est generabile &amp; corruptibile. Sed non est opus nunc materiam il 
+       <lb ed="#B" n="48"/>lam prtractare. 
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e395">
+       SEcundum hunc ergo modum intellectus coniunctus intelligit vniuersale. Quomodo autem  
+       <lb ed="#B" n="49"/>intelligat singulare, de hoc est alia difficultas: &amp; tanta, quod aliqui omnino negabant intellectum hu- 
+       <lb ed="#B" n="50"/>manum posse intelligere singularia, quod non est ponendum, quia si intellectus rationalis singularia non 
+       <lb ed="#B" n="51"/>cognosceret: nec voluntas rationalis ad singularia amorem habere posset, neque naturalem, neque deli 
+       <lb ed="#B" n="52"/>beratiuum, neque gratuitum, quia secundum <name ref="#Augustine">Augustinus</name> incognita diligere non possumus, quid falsum est. Va- 
+       <lb ed="#B" n="53"/>num enim esset praeceptum de dilectione proximi: quae non nisi singularis est. 
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e412">
+       DIcendum igitur ad istum ar 
+       <lb ed="#B" n="54"/>ticulum, quod intellectus noster coniunctus, primo aspectu &amp; directe, singularia intelligere non potest 
+       <!--315.xml-->
+       <pb ed="#B" n="137-v"/>
+       <lb ed="#B" n="1"/>quia vt iam dictum est, singulare sub ratione singularis apprhendi siue cognosci non potest, nisi per aliquam de 
+       <lb ed="#B" n="2"/>terminationem in cognoscente respondentem determinationi super rationem vniuersalis in ipso singulari. 
+       <lb ed="#B" n="3"/>vt enim dicit Comment. super. iii. circa intellectum singularium vniuersaliter dispositio rerum quas appre 
+       <lb ed="#B" n="4"/>hendit intellectus, inuenitur in eo modo secundum quem sunt in se in propinquitate &amp; distantia abstractio 
+       <lb ed="#B" n="5"/>ne a materia. Determinationem autem ad rationem singularis nullo modo potest in se recipere intellectus 
+       <lb ed="#B" n="6"/>quia impediret receptionem formae sub ratione vniuersalis. Vnde dicit Comment. in iii. de anima: quod in hoc 
+       <lb ed="#B" n="7"/>differt intellectus a materia, quod intellectus est in potentia omnes intentiones formarum materialium vni 
+       <lb ed="#B" n="8"/>uersalium. Prima autem materia est in potentia omnes formae sensibiles. lste intellectus autem non, siue sint cor- 
+       <lb ed="#B" n="9"/>porales, siue spirituales. Directe ergo &amp; per se intellectus noster non cognoscit nisi vniuersale abstractum 
+       <lb ed="#B" n="10"/>a singulari. Indirecte autem &amp; quasi quadam reflexione conuertendo se ad phantasmata in quibus sunt 
+       <lb ed="#B" n="11"/>formae sub ratione singularis, secundum quod dicit Comment. super. iii. de anima, dispositio habita ab intelle 
+       <lb ed="#B" n="12"/>ctu quando apprehendit formas rerum sensibiles, est ei per sensus: &amp; dispositio quae diuersatur in eo per appre 
+       <lb ed="#B" n="13"/>hensionem quiditatis, est ei dispositio diuersa in se non per sensus. Et ideo assimilat ipsam Aristo. lineae 
+       <lb ed="#B" n="14"/>spirali in hac dispositione. Sed quomodo hoc fiat, adhuc latet. Et debemus cooniicere modum ex hoc quod di  
+       <lb ed="#B" n="15"/>cit philosophus: quod dispositio qua intellectus noster intelligit singularia, est sicut linea spiralis siue reflexa. at 
+       <lb ed="#B" n="16"/>tendendo videlicet quod linea reflexa in spiram primo intelligitur procedere directe a puncto in punctum: &amp; deinde 
+       <lb ed="#B" n="17"/>incuruatione punctum extremum puncto initiali coniungere, vt cedant in vnum punctum secundum rem, differen 
+       <lb ed="#B" n="18"/>tem solum secundum rationem. Cum igitur intelligere vniuersale sit sicut secundum dispositionem lineae rectae abs 
+       <lb ed="#B" n="19"/>trahendo a particulari phantasmate formam vniuersalem obiiciendo eam intellectui plurali vt actu eam intelli 
+       <lb ed="#B" n="20"/>gat, per hoc quod vniuersale mouet ipsum sicut color visum, vel ad modum quo literae se scriberent in tabula 
+       <lb ed="#B" n="21"/>obiectae illi. Propter quod comparat <name ref="#Aristotle">philosophus</name> intellectum tabulae in qua nihil est scriptum, imperante solum, vt literae 
+       <lb ed="#B" n="22"/>seipsas scribant in ea. Licet enim non sit omnino simile: magis tamen simile est quod potest inueniri in corporali 
+       <lb ed="#B" n="23"/>bus. &amp; sic dispositio lineae rectae secundum quod intelligitur vniuersale, habet quasi punctum initialem singulare 
+       <lb ed="#B" n="24"/>in phantasmate, &amp; punctum finalem vniuersale abstractum. Intelligere ergo singulare cum est per lineam reflexam 
+       <lb ed="#B" n="25"/>oportet quod fiat retorquendo &amp; reflectendo vel conceptum ab intellectu ad suum singulare phantasma, reducen 
+       <lb ed="#B" n="26"/>do ambo in idipsum secundum rem, vt sit vniuersale in singulari: vt ita vno modo intellectus intelligat per sensum vni  
+       <lb ed="#B" n="27"/>uersale scilicet abstrahendo ab ipso sicut ab obiecto. vt secundum Conment. vniuersale intelligibile se habeat ad  
+       <lb ed="#B" n="28"/>singulare sensibile, sicut intentiones coloris in medio ad corpus coloratum. Propter quid etiam dicit <name ref="#Aristotle">philosophus</name> quod in  
+       <lb ed="#B" n="29"/>tellectiuae animae phantasmata vt sensibilia sunt, &amp; nequaquam sine phantasmate intelligit. Alio vero modo 
+       <lb ed="#B" n="30"/>intellectus intelligit per sensum vniuersale abstractum a particulari in idipsum reducendo. Et sic secundum  
+       <lb ed="#B" n="31"/>quod dicit <name ref="#Aristotle">philosophus</name> species intelligibilium in phantasmatibus intelligit scilicet intelligendo obiectiue ipsa phantasmata 
+       <lb ed="#B" n="32"/>Ac per hoc secundum quod determinat <name ref="#Aristotle">philosophus</name> ibidem, &amp; exponit Comment. sicut motus peruenit in omnibus sensibus particu- 
+       <lb ed="#B" n="33"/>laribus ad vnum finem qui est in motibus illis quasi punctus qui est in medio circuli, ad quem exeuntes lineae a cir 
+       <lb ed="#B" n="34"/>cunferentia terminantur: &amp; in illo puncto est virtus sensus communis iudicans de sensibilibus particularibus omnium sen- 
+       <lb ed="#B" n="35"/>suum particularium: ita est de intellectu materiali cum intentionibus imaginum intellectis: quod motus omnium ter 
+       <lb ed="#B" n="36"/>minatur in indiuisibile intellectus: quid est vna medietas iudicans de omnibus intentionibus imaginariis particula 
+       <lb ed="#B" n="37"/>ribus. Quemadmodum enim iudicans esse diuersum apud sensum debet esse vnum: ita iudicans imagies 
+       <lb ed="#B" n="38"/>rerum diuersarum debet esse vnum. Et in isto actu intelligendi se habet species vniuersalis in intellectu ad  
+       <lb ed="#B" n="39"/>intellectum ad phantasmata, sicut se habet species coloris in oculo ad visum, &amp; ad obiectum extra co 
+       <lb ed="#B" n="40"/>loratum. in hoe scilicet quod sicut species primo quasi secundum lineam rectam est abstracta ab obiecto colorato sensi 
+       <lb ed="#B" n="41"/>bili extra: &amp; deinde est ratio in oculo ad recipiendum sensibile extra quasi linea reflexa in id a quo ince- 
+       <lb ed="#B" n="42"/>pit: sic species vniuersalis primo quasi secundum lineam rectam est abstracta a phantasmate, &amp; obiecta 
+       <lb ed="#B" n="43"/>intellectui: &amp; deinde est ratio in intellectu ad intelligendum ipsa phantasmata quasi linea reflexa 
+       <lb ed="#B" n="44"/>in id a quo incepit. Nec est differentia in hoc, nisi quod oculus non videt primo in se obiectiue speciem 
+       <lb ed="#B" n="45"/>coloris abstractam a colorato, sicut intellectus intelligit primo secundum se obiectiue speciem vniuersalem 
+       <lb ed="#B" n="46"/>abstractam a phantasmate. 
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e534">
+       DICO ergo quasi dicta recolligendo: quod illud quod comprehendit visus vt hoc sin 
+       <lb ed="#B" n="47"/>gulare praesens extra, hoc idem comprehendit imaginatio vt absens re, sed vt praesens intra in sua imagina 
+       <lb ed="#B" n="48"/>ria intentione: &amp; hoc idem apprehendit intellectiua directo aspectu sicut imaginatiua, praeterquam quod non compre 
+       <lb ed="#B" n="49"/>hendit vt hoc, sed vt simpliciter concipiendo praeter conditiones quae sunt huius vt est hoc: quemadmodum  
+       <lb ed="#B" n="50"/>mathematica abstrahit a sensibili non re: sed non cointelligendo dispositiones naturales sensibilium 
+       <lb ed="#B" n="51"/>ita quod sicut idem re est magnitudo naturalis &amp; mathematica, sic idem est re comprehensum ab ima 
+       <lb ed="#B" n="52"/>ginatiua vt singulare, &amp; ab intellectu vt vniuersale. Propter quod hoc idem vniuersale quod primo 
+       <lb ed="#B" n="53"/>est in intellectu vt obiectum cognitum recto aspectu, quasi si visus primo videret speciem coloris qua  
+       <lb ed="#B" n="54"/>reformatur reflectendo intellectum ad phantasmata, sit vt ratio &amp; medium intelligendi ab intelle ctu 
+       <!--316.xml-->
+       <pb ed="#B" n="138-r"/>
+       <lb ed="#B" n="1"/>singularia, quae sunt in phantasmate quodammodo, sicut color in oculo est ratio videndi coloratum extra 
+       <lb ed="#B" n="2"/>vt id ipsum quod est obiectum cognitum vniuersale, sit ratio intellectus in cognoscendo particulare. vt non  
+       <lb ed="#B" n="3"/>sit in hoc mirabile opus naturae quod forma vniuersalis sub ratione qua vniuersalis est ratio concipiendi 
+       <lb ed="#B" n="4"/>seipsam secundum rationem esse singularis in alio obiectiue, quemadmodum non est mirabile quod forma immaterialis co 
+       <lb ed="#B" n="5"/>loris in oculo sit ratio videndi colorem materialem in corpore colorato: vt sic idem sub eadem ratione singularis 
+       <lb ed="#B" n="6"/>qua est imaginatum a vi imaginatiua, sit intellectum a vi intellectiua: vt non nisi ratione possimus in no 
+       <lb ed="#B" n="7"/>bis discernere actionem qua intelligimus singularia, ab illa qua ea imaginamur: &amp; in nullo differant 
+       <lb ed="#B" n="8"/>intelligere &amp; imaginari singulare, nisi ex parte medii: quod imaginatiua mouetur per speciem singularem sibi im 
+       <lb ed="#B" n="9"/>pressam: intellectus vero per speciem vniuersalem in se expressam. 
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e578">
+       EST autem praeter hunc modum intelligendi singu 
+       <lb ed="#B" n="10"/>laria intra ad modum quo sentiuntur ab imaginatiua: qui proprius est intellectui nino vt coniunctus est secundum 
+       <lb ed="#B" n="11"/>statum viae: alius modus intelligendi singularia extra ad modum quo sentiuntur ab oculo: quid est proprius intelle 
+       <lb ed="#B" n="12"/>ctui separato, vel forte etiam coniuncto pro statu suae glorificationis. Sed de hoc nihil ad propositam quaestionem. 
+       <lb ed="#B" n="13"/>
+      </p>
+      <p xml:id="n3av8a-c1e1556-d1e589">
+       AD argumentum primum dicendum: distinguendo quod triplex est non ens secundum <name ref="#Aristotle">philosophum</name> in. xii. Metaphysicae 
+       <lb ed="#B" n="14"/>Vno modo quod non potest imaginari. Alio modo priuatio in materia. Tertio modo ens in potentia: &amp; hoc 
+       <lb ed="#B" n="15"/>vel in potentia materiae, vt sunt naturalia, generabilia, &amp; corruptibilia: vel in potentia efficientis, vt 
+       <lb ed="#B" n="16"/>sunt essentiae rerum antequam fiant. Non ens primo modo est omnino non intelligibile: nec de illo potest esse sci 
+       <lb ed="#B" n="17"/>entia: nec est natum esse in actum. Non ens secundo modo est intelligibile per habitum. Non ens tertio modo est in 
+       <lb ed="#B" n="18"/>telligibile quantum est ex natura essentiae suae, siue sit in actuali existentia formae, siue in potentiali exi 
+       <lb ed="#B" n="19"/>stentia materiae, siue non. &amp; secundum hoc non habet nisi rationem vniversalis, &amp; est solum in intellectu vt obiectum in cogno scem 
+       <lb ed="#B" n="20"/>te, non vt dispositio in subiecto disposito. Non ei sit vnum ex cognoscente &amp; cognito, sicut ex materia siue 
+       <lb ed="#B" n="21"/>subiecto &amp; forma. sicut dicit Comment. super. iii. de anima. Quantum vero est de potentia efficientis, hent esse singula 
+       <lb ed="#B" n="22"/>re in re extra: cuius non est nisi sensus vt est omnino extra animam: itellectus autem vt est in imaginatiua. Alia eim non est demina 
+       <lb ed="#B" n="23"/>inter singulare vt est obiectum sensus, &amp; intellectus: secundum quod determinat Comment. super. iii. de anima.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 27</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 27</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3945">
+       <head xml:id="n3av8a-c1e3945-Hd1e96">Quaestio 27</head>
+       <p xml:id="n3av8a-c1e3945-d1e99">
+        <lb ed="#B" n="20"/>SEquuntur quaesita pertinentia ad subditos ecclesiasticos. Quorum quaedam erant circa sub 
+       <lb ed="#B" n="21"/>ditos religiosos: &amp; quaedam circa subditos non religiosos. Circa religiosos erant tria 
+       <lb ed="#B" n="22"/>Primum quo ad reuelationem commissi. Vtrum religiosus subditus qui recipit a quodam  
+       <lb ed="#B" n="23"/>aliquid in secreto non vergens in damnum cuiusquam, tenetur illud reuelare praelato suo pe- 
+       <lb ed="#B" n="24"/>tenti vt ei reueletur. Secundum erat de reuelatione peccati. Vtrum religiosus subditus 
+       <lb ed="#B" n="25"/>sciens secreto &amp; solus confratrem suum subditum peccato mortali peccasse: peccet reue- 
+       <lb ed="#B" n="26"/>lando illud praelato suo ante secretam admonitionem. Tertium erat de contractu matrimonii. Vtrum reli- 
+       <lb ed="#B" n="27"/>giosus iam professus de facto, qui iuuenis ante religionis ingressum, &amp; ante omnem obligationem ad illam 
+       <lb ed="#B" n="28"/>mulierem affidauit inflammatus amore venereo erga ipsam subsecuta carnali copula, in qua non  
+       <lb ed="#B" n="29"/>habuit intentionem recedendi a sponsalibus: non tamen credit se consensisse in contractum matrimonii de 
+       <lb ed="#B" n="30"/>praesenti: vtrum inquam talis possit manere in religione custodiendo votum suum: an oportet ipsum reuer 
+       <lb ed="#B" n="31"/>ti ad saeculum: &amp; illam ducere solenniter in vxorem: &amp; pertractare maritali affectu si velit. 
+      </p>
+      <p xml:id="n3av8a-c1e3945-d1e128">
+       CIRca primum 
+       <lb ed="#B" n="32"/>arguitur quod subditus ille non debet praelato suo petenti reuelare secretum sibi commissum: quia hoc esset ex 
+       <lb ed="#B" n="33"/>presse &amp; directe contra virtutem: quia contra fidelitatem quo est pars iustitiae. 
+      </p>
+      <p xml:id="n3av8a-c1e3945-d1e135">
+       CONtra. Si aliquid est ex se 
+       <lb ed="#B" n="34"/>licitum, habito praecepto de contrario ab illo cui obediendum est, iam est illicitum religioso: quia vt dicit Ber. qui 
+       <lb ed="#B" n="35"/>profitendo se totum subdidit, nihil sibi retinuit, quamquam ergo licitum esset custodire secretum: postquam tamen prae- 
+       <lb ed="#B" n="36"/>latus subdito qui sibi nihil retinuit, reuelare praecipit non sicut ipse vult sed sicut vult praelatus age- 
+       <lb ed="#B" n="37"/>re debet: illud secretum reuelando &amp; nullatenus occultando. 
+      </p>
+      <p xml:id="n3av8a-c1e3945-d1e146">
+       DIcendum quod religiosus in nulla religio 
+       <lb ed="#B" n="38"/>ne voto ad alia se astringit quam ad licita &amp; honesta secundum regulae quam profitetur statuta: &amp; in his so 
+       <lb ed="#B" n="39"/>lum tenetur superiori ad obedientiam, quod si illicita &amp; inhonesta praecipere praesumpserit: maxime diui- 
+       <lb ed="#B" n="40"/>nae legi &amp; virtutibus &amp; bonis moribus contraria: nullatenus in illis obediendum est homin sed deo. dicen 
+       <lb ed="#B" n="41"/>te Ber. in epistola ad Adam monachum. Liquido apparet mala imperantibus non esse parendum: prae 
+       <lb ed="#B" n="42"/>sertim dum prauis obtemperans imperiis, in quo homin videris obediens, Deo plane qui omne quod per- 
+       <lb ed="#B" n="43"/>peram agitur interdicit inobedientem te exhib es. Valde autem peruersum est profiteri te obedientem 
+       <lb ed="#B" n="44"/>in quo nosceris superiorem propter in ferio rem. i. diuinam propter humanam soluere obedientiam 
+       <lb ed="#B" n="45"/>Quid enim: iubet homo, prohibet deus: &amp; ego audiam hominem, surdus dec: Non. Vnde in talibus 
+       <lb ed="#B" n="46"/>obedire homini non est obedire: immo in non obediendo verius obedit. Quia ergo vt procedit obiectio 
+       <lb ed="#B" n="47"/>prima, secretum reuelare contrarium virtuti est: nullo modo tenetur subditus praecepto superioris 
+       <lb ed="#B" n="48"/>obedire vt fidei commissum illi reuelet. 
+      </p>
+      <p xml:id="n3av8a-c1e3945-d1e173">
+       AD argumentum in oppositum: quod alias licitum per praece 
+       <lb ed="#B" n="49"/>ptum sit illicitum: hoc solum verum est de indifferentibus: &amp; maxime quae pertinent ad professio 
+       <lb ed="#B" n="50"/>nm: de aliis autem nequaquam. Et quod assumitur quod religiosus nihil sibi retinuit: verum est de illis quae  
+       <lb ed="#B" n="51"/>pertinent ad suam professionem &amp; obedientiam: caetera autem omnia voluntati suae libere retinuit 
+       <lb ed="#B" n="52"/>Propter quid salus sua &amp; damnatio dependet a seipso, &amp; non a suo praelato.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

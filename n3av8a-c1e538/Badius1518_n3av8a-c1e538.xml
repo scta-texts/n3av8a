@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 34</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 34</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e538">
+      <head xml:id="n3av8a-c1e538-Hd1e96">Quaestio 34</head>
+      <p xml:id="n3av8a-c1e538-d1e99">
+       <lb ed="#B" n="32"/>SEquuntur quaestiones pertinentes ad doctores. Et proponebantur tres. Vna perti- e 
+       <lb ed="#B" n="33"/>nens ad actum docentis: Vtrum doctor intendens principaliter honorem suum 
+       <lb ed="#B" n="34"/>in decendo peccet mortaliter. Alia pertinens ad actum discendi: Vtrum melius est i 
+       <lb ed="#B" n="35"/>manere in studio spe plus proficiendi, quam ire ad animas intentione salutem eis pro- 
+       <lb ed="#B" n="36"/>curandi. Tertia pertinens ad eorum doctrinam: Quid est quod intendunt Hierony- 
+       <lb ed="#B" n="37"/>mus &amp; Beda, cum dicunt de numero centenario quod incipit a dextra: &amp; tendit in  
+       <lb ed="#B" n="38"/>laeuam: &amp; iterum reuertitur a laeua in dextram. 
+      </p>
+      <p xml:id="n3av8a-c1e538-d1e117">
+       CIRca primum arguebatur, quod li- 
+       <lb ed="#B" n="39"/>citum sit intendere honori proprio in docendo, quia dicitur in Ecclesiastico de actu docendi. Pro 
+       <lb ed="#B" n="40"/>pter hoc habeo honorem apud seniores. 
+      </p>
+      <p xml:id="n3av8a-c1e538-d1e124">
+       CONtra, qui vtitur principaliter aliquo ad quod non  
+       <lb ed="#B" n="41"/>ordinatur, in quo deum contemnit, peccat mortaliter. actus enim docendi sapientiam per se ordi- 
+       <lb ed="#B" n="42"/>natur ad honorem dei &amp; non ad honorem sui: secundum quod dicit <name ref="#Augustine">Augustinus</name> libro primo de do-  
+       <lb ed="#B" n="43"/>ctrina Christiana. Ad fidem, spem, &amp; charitatem tota militat diuina scriptura, quae principaliter ad  
+       <lb ed="#B" n="44"/>honorem dei ordinatur: in quo deus contemnitur si principaliter ad alterius honorem ordinetur 
+       <lb ed="#B" n="45"/>ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e538-d1e141">
+       DIcendum ad hoc quod quaestio secum importat suam solutionem. Etsi enim doctor ali- 
+       <lb ed="#B" n="46"/>quo modo in docendo quaerere posset honorem suum, vt in ipso deus amplius honoraretur: &amp; sta- 
+       <lb ed="#B" n="47"/>tus doctoris in deo: quod est quaerere principaliter honorem dei: quaerere tamen in docendo prin- 
+       <lb ed="#B" n="48"/>cipaliter honorem suum: &amp; sic praeferre honorem suum honori diuino: hoc omnino est illicitum: &amp; 
+       <lb ed="#B" n="49"/>abusus sacrae doctrinae: &amp; ita peccatum mortale. De talibus dicitur Matthaei. xxiii. Super cathedram Moy- 
+       <lb ed="#B" n="50"/>si sederunt Scribae &amp; Pharissaei. Glos. i. docentes doctrinam quam Moyses docuit. de quibus sequitur. 
+       <lb ed="#B" n="51"/>Omnia opera sua faciunt vt videantur ab hominibus. Glos. eo fine vt venentur gloriam. vbi di-  
+       <lb ed="#B" n="52"/>cit Chrysostomus. Tolle vitium de clero: ne velint hominibus apparere, &amp; sine labore omnia vitia re 
+       <lb ed="#B" n="53"/>secantur. Per dicta patent omnia obiecta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

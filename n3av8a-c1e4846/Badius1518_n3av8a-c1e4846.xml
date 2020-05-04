@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="494-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4846">
+       <head xml:id="n3av8a-c1e4846-Hd1e96">Quaestio 15</head>
+       <p xml:id="n3av8a-c1e4846-d1e99">
+       <!--1029.xml-->
+        <pb ed="#B" n="494-v"/>
+        <lb ed="#B" n="1"/>SEquuntur pertinentia ad exercitium actus hominis in vita ista. Et erant quaedam perrtinem 
+       <lb ed="#B" n="2"/>tia ad actus absolute: alia vero pertinentia ad actus in quadam comparatione. Circa pri 
+       <lb ed="#B" n="3"/>mum erat vnicum pertinens ad actum epseorum: vtrum episcopus possit subditis suis pro ex 
+       <lb ed="#B" n="4"/>cessibus &amp; criminibus infligere poenam pecuniariam convertendam in vsum proprium vel 
+       <lb ed="#B" n="5"/>pauperum vel ecclesiae suae. Alterum vero erat pertinens ad actum doctorum. Vtrum scholasti 
+       <lb ed="#B" n="6"/>ce docens falsum ex sinistra affectione motus peccet mortaliter. Duo autem alia erant 
+       <lb ed="#B" n="7"/>pertinentia ad religiosos: quorum primum erat: vtrum monachus regulae sancti Benedicti scholaris pe- 
+       <lb ed="#B" n="8"/>tens per literas ab aliquo officialium monasterii sui pecuniam ex indigentia ad opus studii sui, peccet mor 
+       <lb ed="#B" n="9"/>taliter: &amp; similiter ille qui eam illi mittit. Secundum erat: vtrum ille ad cuius manus tales literae veniunt, si eas 
+       <lb ed="#B" n="10"/>aperiat &amp; legat abbatique suo eas ostendat peccet mortaliter. Alia autem erant plura pertinentia ad quaescum- 
+       <lb ed="#B" n="11"/>qued personas, indifferenter scilicet. Tria autem erant: quorum Primum erat, vtrum excommunicatus sit ille qui legit 
+       <lb ed="#B" n="12"/>aliquid de libro interdicto sub poena excommunicationis latae sententiae. Secundum, vtrum debens facere ali 
+       <lb ed="#B" n="13"/>quid ex vna causa, liberet se a debito, faciendo illud ex alia causa. Tertium: vtrum licet alicui dare ec 
+       <lb ed="#B" n="14"/>clesiae cuiquam certam summam pecuniae ad emendum terras ad opus illius ecclesiae vt detur ei certa sum 
+       <lb ed="#B" n="15"/>ma pecuniae ad vitam suam. 
+      </p>
+      <p xml:id="n3av8a-c1e4846-d1e138">
+       CIRca primum arguitur quod epseus pro excessibus subditorum non possit exigere 
+       <lb ed="#B" n="16"/>pecuniam, quia Micheae. iii. reprehenduntur iudices qui in muneribus iudicabant: &amp; idem prima, quod i. lu- 
+       <lb ed="#B" n="17"/>dices. sed corrigere excessus est actus iudicialis. extra de offi. ordini. Dilectus. ergo non est exercendus 
+       <lb ed="#B" n="18"/>in muneribus, quare &amp;c. Item extra de Simo. Nemous &amp; prima, quod prima: Qui studet. dicitur quod Giezi pro  
+       <lb ed="#B" n="19"/>gratia corporalis sanitatis vendita lepram incurrit. ergo multo fortius qui pecuniam accipiendo ven- 
+       <lb ed="#B" n="20"/>dit sanitatem spiritualem habendam per correctionem, lepram peccati incurrit. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4846-d1e151">
+       CONtra dicitur in de 
+       <lb ed="#B" n="21"/>cre, extra de poenis. Licet. quod episcopus in eo casu in quo dispensare potest, in illo etiam potest poenam corpo 
+       <lb ed="#B" n="22"/>ralem vel spiritualem in pecuniariam commutare. ergo multo fortius in aliis casibus qui dispensatio 
+       <lb ed="#B" n="23"/>ne non indigent. 
+      </p>
+      <p xml:id="n3av8a-c1e4846-d1e160">
+       DIco quod poena quae pro excessibus exigitur, cum sit in satisfactionem &amp; emendam delicti iam 
+       <lb ed="#B" n="24"/>perpetrati &amp; in cautelam contra delictum perpetrandum, ilia debet iniungi quae efficacius valet ad haec duo. Vlte- 
+       <lb ed="#B" n="25"/>rius quia poenae exiguntur potissimum vt timore arceatur voluntas ne iterato peccet: idcirco dico quod poe- 
+       <lb ed="#B" n="26"/>nae potius debent exigi quae magis timentur secundum status &amp; conditiones hominium. Et quia poenae pecunia- 
+       <lb ed="#B" n="27"/>riae quandoque magis timentur: idcirco dico quod quando hoc percipit episcopus potius debet exigere poe 
+       <lb ed="#B" n="28"/>nam pecuniariam quam aliam. Quae quia non per se &amp; principaliter ordinatur ad emendam &amp; satisfactionem sicut poe 
+       <lb ed="#B" n="29"/>na corporalis aut spiritualis: quia excessus committuntur ab intra &amp; corpore &amp; spiritu principaliter: id  
+       <lb ed="#B" n="30"/>circo dico quod poena pecunialis non est per se &amp; primo exigenda nec principaliter: sed in casu praedicto. &amp; 
+       <lb ed="#B" n="31"/>ideo vt dicit ratio vltima, exigentia poenae pecuniariae non est per se exactio poenae sed potius poenae com 
+       <lb ed="#B" n="32"/>mutatio in poenam. Quia vero vlterius additur in quaestione: an exigere possit eam ad convertendum in proprios 
+       <lb ed="#B" n="33"/>vsus aut pauperum aut ecclesiae suae: Dico quod non nisi ad conuertendum in vsus pauperum. sed ecclesia sua 
+       <lb ed="#B" n="34"/>cui habet prouidere, inter pauperes connumeranda est. Et quia ipsemet debet esse vnus ex pauperibus 
+       <lb ed="#B" n="35"/>viuens de bonis pauperum sibi accipiendo necessaria, residua aliis pauperibus dispensando, vt dicit Prosper  
+       <lb ed="#B" n="36"/>de vita contemplatiua: &amp; alias latius exposuimus: idcirco etiam dico quod pro emenda &amp; satisfactione ex- 
+       <lb ed="#B" n="37"/>cessuum potest accipere emendam pecuniariam vel ad vsus pauperum vel ecclesiae vel proprios: sic 
+       <lb ed="#B" n="38"/>tamen quod quando conuertit eam in vsus proprios, bona ecclesiae quae alias esset recepturus conuertat 
+       <lb ed="#B" n="39"/>in vsus aliorum pauperum: non aut in fastum &amp; delitias, proprias, ne de ipsis possit dici illud <name ref="#Bernard">Bernardi</name> 
+       <lb ed="#B" n="40"/>ad Henricum Senonenm. archiepiscopum. Dicite potestifices: in freno quid facit aurum: nostrum est quod  
+       <lb ed="#B" n="41"/>effunditis: nobis crudeliter subtrahitur quod inaniter expenditis: nostris necessitatibus subtrahitur quicquid  
+       <lb ed="#B" n="42"/>accedit vanitatibus vestris. &amp; secundum hoc concedenda est vltima ratio. 
+      </p>
+      <p xml:id="n3av8a-c1e4846-d1e208">
+       AD primam in oppositum 
+       <lb ed="#B" n="43"/>quod corrigere est effectus iudicialis qui non debet exerceri in muneribus: Dico quod correctio tria respi 
+       <lb ed="#B" n="44"/>cit. Primo correctionem quam habet facere corrigens in correctum: secundo vitae mutationem in me 
+       <lb ed="#B" n="45"/>lius ex illa consequendam in correcto: tertio commissorum pro quibus corrigitur emendam siue satis 
+       <lb ed="#B" n="46"/>factionem faciendam a correcto. Quorum primum quod pertinet ad praelatum corripientem, &amp; tertium 
+       <lb ed="#B" n="47"/>quod pertinet ad subditum correctum, sunt propter secundum quod pertinet ad deum. Sed pri- 
+       <lb ed="#B" n="48"/>mum vt per illud disponatur ad recipiendum in se secundum: tertium vero vt in illo conseruetur. Et 
+       <lb ed="#B" n="49"/>sunt tres partes essentiales correctionis iudicialis: sicut sunt tres partes essentiales poenitentiae: &amp; quo  
+       <lb ed="#B" n="50"/>ad nullam harum trium partium debet fieri correctio iudicialis in muneribus: sicut nec administra 
+       <lb ed="#B" n="51"/>tio sacramentalis poenitentiae quo ad aliquam suarum partium. Est igitur aduertendum: quod sicut in fo 
+       <lb ed="#B" n="52"/>ro siue iudicio conscientiae differunt haec tria. scilicet ministrare sacramentum poenitentiae in muneribus 
+       <lb ed="#B" n="53"/>accipiendis: &amp; ministrare ipsum pro muneribus accipiendis: &amp; pro sacramenti ministratione accipere mu- 
+       <lb ed="#B" n="54"/>nus: sic in foro siue iudicio ecclesiae differunt haec tria. scilicet iudicare in muneribus accipiendis aut acceptis:  
+       <!--1030.xml-->
+       <pb ed="#B" n="495-r"/>
+        <lb ed="#B" n="1"/>et iudicare pro muneribus: &amp; pro ipso iudicio munera accipere. ludicare autem in muneribus dicitur ille 
+       <lb ed="#B" n="2"/>qui pecunialem satisfactionem iniungit: non propter vtilitatem correcti: sed propter conmodum proprium: Et sic non per  
+       <lb ed="#B" n="3"/>dispensationem &amp; commutationem poenae in poenam: sed per quandam exactionem poenae muneris. &amp; hoc non ad  
+       <lb ed="#B" n="4"/>satisfaciendum ecclesiae &amp; deo: sed suo prauo desiderio. Quod non licet omnino: quia hoc non est iniungere satis 
+       <lb ed="#B" n="5"/>factionem: sed ipsam omnino omittere: &amp; loco eius quod in emenda satisfaciendum esset deo, satisfacere suo 
+       <lb ed="#B" n="6"/>prauo desiderio. Sicut si administrans sacramentum poenitentiae, non intenderet principaliter iniungere ali- 
+       <lb ed="#B" n="7"/>quid ad satisfaciendum deo: sed iniungeret sibi dari pecuniam ad satisfaciendum suo prauo desiderio. Vterque  
+       <lb ed="#B" n="8"/>enim istorum iudicat in muneribus: quia tertiam partem iudicialis officii pro muneribus accipiendis omittit: &amp; pro  
+       <lb ed="#B" n="9"/>eisdem alias duas partes exercet si ab initio muneris talis acceptionem intendit. Omnis enim iudicans in muneri 
+       <lb ed="#B" n="10"/>bus propter omissionem satisfactionis deo &amp; ecclesiae quam deberet iniungere, iudicat pro muneribus quo ad  
+       <lb ed="#B" n="11"/>alias duas partes: quis propter munera satagit exercere. Proprie autem iudicare pro muneribus: quid tamen non est iu 
+       <lb ed="#B" n="12"/>dicare in muneribus, est iudicium integrum exercere secundum tres eius partes: non propter aliud quam propter mu 
+       <lb ed="#B" n="13"/>neris mercedem, vel principaliter proptur illud: quid similiter nulli licet. Pro iudicio autem munus accipere contin  
+       <lb ed="#B" n="14"/>git dupliciter. Vno modo ratione ipsius iudicii, vt scilicet munus ponatur merces propter quam exercetur iudicium vel prin 
+       <lb ed="#B" n="15"/>cipaliter vel secundario. hoc nullo modo licet: quia illud sub praetio temporali non cadit: et ideo in omnibus prae 
+       <lb ed="#B" n="16"/>dictis casibus puto committi simoniam: sicut nec licet propter simoniam exercere quidcumque aliud opus diuinum  
+       <lb ed="#B" n="17"/>circa populum. Vnde super dictum verbum Micheae dicit Hieronymus. Si quis de principibus videbatur iudi-  
+       <lb ed="#B" n="18"/>care quid erat rectum, vendebat magis sententiam, &amp; in muneribus iudicabat. Sacerdotes quoque non docebant 
+       <lb ed="#B" n="19"/>populum nisi accepto praetio. Et cum dicitur: Gratis accempistis, gratis date: illi dei responso pecuniam praeferentes 
+       <lb ed="#B" n="20"/>gratiam domini auara mercede vendebant. Alio autem modo contingit accipere pro iudicio ratione laboris in iudi- 
+       <lb ed="#B" n="21"/>cando: quid potest fieri dupliciter. Vno modo sic quod iudicans esset laboraturus iudicando: etsi non esset mer 
+       <lb ed="#B" n="22"/>cedem muneris consequutus. hoc bene licet. Alio modo quod alias non esset laboraturus, quid etiam contingit dupliciter 
+       <lb ed="#B" n="23"/>Vno modo aggrediendo laborem voluntarie ex muneris desiderio: quod conuenit mercennario. &amp; puto si 
+       <lb ed="#B" n="24"/>talis non indiget quod non licet ei etiam velle laborare propter munus temporale: etiam si principalius intendat  
+       <lb ed="#B" n="25"/>munus aeternum. Si vero sit indigens &amp; alteri officio obligatus quod propter istud postponi necesse est: pu 
+       <lb ed="#B" n="26"/>to quod non licet: sicut non licet religiosis ex desiderio mercedis temporalis voluntarie, &amp; absque coactione hominis 
+       <lb ed="#B" n="27"/>vel conscientiae dimittere opera contemplatiuae &amp; exercere opera actiuae: quae incumbunt praelatis ecclesiae: vt patebit ali- 
+       <lb ed="#B" n="28"/>qualiter in quaestione penultima. Si vero sit indigens &amp; non obligatus alteri officio: puto quod licet si ei per 
+       <lb ed="#B" n="29"/>mittatur, vt pauperi sacerdoti pro labore suo in celebrando missam recipere denarium: &amp; ex desiderio reci 
+       <lb ed="#B" n="30"/>piendi illum, aggredi laborem. Si autem alias non laboraturus aggreditur laborem coactus, puta quando aliquis assu 
+       <lb ed="#B" n="31"/>mitur in praelatum ecclesiae, vel quando cogitur aggredi ipsum ex conscientia: puto quod coacto primo modo licet accipe- 
+       <lb ed="#B" n="32"/>re in dicto casu: quia ius habet petendi: &amp; deberet petere si timeret in non petendo ius suum periclitari. 
+       <lb ed="#B" n="33"/>Coacto autem secundo modo similiter licet accipere in eodem casu: quia ius habet ex obligatione naturali ad  
+       <lb ed="#B" n="34"/>illud dandum eorum quibus seruit: licet non ex obligatione ciuili. Propter quod non habet ius petendi. Dico er- 
+       <lb ed="#B" n="35"/>go quod praelatus exigens emendam pecuniariam, si eam exigat iudicando in muneribus secundum expositum modum  
+       <lb ed="#B" n="36"/>nullo modo licet ei. tamen eci bene licet commutando poenam in poenam. Hoc enim faciendo nec iudicat in muneri- 
+       <lb ed="#B" n="37"/>bus, nec pro muneribus, nec etiam pro iudicio munus accipit: si non in proprios vsus conuertere intendit, quod  
+       <lb ed="#B" n="38"/>si sic: tunc pro iudicio accipit munus: &amp; in illo casu hoc ei licet facere vel non facere secundum modum distinctio 
+       <lb ed="#B" n="39"/>num in isto membro iam expositarum. Pro iudicio enim ratione ipsius iudicii non licet accipere: sed ratione laboris: ma 
+       <lb ed="#B" n="40"/>xime si alias esset laboraturus, &amp; coactus ratione praelaturae talem aggrediatur laborem, &amp; sit indigens, bene licet 
+       <lb ed="#B" n="41"/>ei. Ad conuertendum autem in proprios vsus praeternecessarios, &amp; ad fastum, nullo modo licet: non autem propter ipsam  
+       <lb ed="#B" n="42"/>pecuniae secundum talem modum acceptionem: quam puto simpliciter licere, etiam si non sit indigens: sed propter abu 
+       <lb ed="#B" n="43"/>sionem. Et secundum hoc dico quod pro excessibus licet epseo pecuniam accipere. Ad secundum de Giezi patet per idem 
+       <lb ed="#B" n="44"/>illius enim intentio principalis fuit acceptio muneris pro recepta sanitate: ac si dominus eius Helisaeus intendisset 
+       <lb ed="#B" n="45"/>recepisse donum muneris pro collata sanitate, quaere quia non recepit Helisaeus, ille recuparare vicem domini voluit. 
+       <lb ed="#B" n="46"/>Quod expresse videntur sonare verba super hoc facto scripta: quando dixit Giezi ad Naamam: Dospens meus misit me 
+       <lb ed="#B" n="47"/>ad te &amp;c. Vnde si secundum hunc modum pro ipso iudicio ratione iudicii epses pecuniam acciperet, reuera lepra pec 
+       <lb ed="#B" n="48"/>cati infectus esset: nec liceret ei, quid tamen secundum aliam viam &amp; modum bene licet ei vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

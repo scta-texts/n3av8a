@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="485-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4675">
+       <head xml:id="n3av8a-c1e4675-Hd1e96">Quaestio 2</head>
+       <p xml:id="n3av8a-c1e4675-d1e99">
+        <lb ed="#B" n="3"/>Irca secundum arguebatur: quod quid est dei, aut quod deus est trinus, aut quidcumque aliud credibile 
+       <lb ed="#B" n="4"/>de deo non possit hic in via clarius cognosci siue sciri quam per lumen fidei. Et videtutur quod non 
+       <lb ed="#B" n="5"/>quia si sic: oportet quod hoc sit in clariori lumine quam sit lumen fidei. clarius autem lumen 
+       <lb ed="#B" n="6"/>nuiium est in vita ista eo quod illud non habetur in scriptura: sed fictitium est illud po 
+       <lb ed="#B" n="7"/>nere. ergo &amp;c. Item quod clarius cognoscitur clarius intelligitur: sed cognitio clari- 
+       <lb ed="#B" n="8"/>or de deo quam per fidem est visio in seipso per speciem: deus ergo in seipso per speciem pos- 
+       <lb ed="#B" n="9"/>set cognosci in vita ista. Consequens falsum est. ergo &amp;c. Contra. Conclusiones cognoscuntur ex princi- 
+       <lb ed="#B" n="10"/>piis: &amp; cognitio principiorum resoluitur in definitiuam rationem terminorum, ex quibus cognitis cognoscuntur pri 
+       <lb ed="#B" n="11"/>cipia: sed rationes terminorum articuli credibilis vt quid di hoc nomine deus secundum naturam eius, &amp; sic de caete 
+       <lb ed="#B" n="12"/>ris, bene cognoscuntur clarius quam per lumen fidei: secundum quod clarius intelligit quid dicitur nomine deus vnus quam 
+       <lb ed="#B" n="13"/>alius: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4675-d1e125">
+       DIco secundum quod determinaui in quaestionibus ordinariis, quod quid est deus &amp; quod sit trinus 
+       <lb ed="#B" n="14"/>&amp; caetera credibilia de illo clarius possunt cognosci quam per fidem: &amp; hoc in clariori lumine quam sit lumen 
+       <lb ed="#B" n="15"/>fidei. nisi enim clarius quam per fidem possent cognosci, non haberet de credibilibus clariorem notitiam vnus 
+       <lb ed="#B" n="16"/>fidelis quam alter: licet firmiorem iuxta modum magnitudinis fidei. Quod falsum esse apparet ex hoc, quod postquam  
+       <lb ed="#B" n="17"/>de scientia theologiae dixit <name ref="#Augustine">Augustinus</name> llud. xiiii. de Trini. Rerum diuinarum scientia &amp;c. vt iam supra 
+       <lb ed="#B" n="18"/>in quaestione praecedenti, continue adiunxit. Qua scientia non pollent fideles plurimi quamuis polleant ipsa fide 
+       <lb ed="#B" n="19"/>plurimum. Istud autem pollere scientia non consistit nisi in cognitionis claritate: quia ipsa scientia non est 
+       <lb ed="#B" n="20"/>nisi cognitio quaedam. Sed forte dicet aliquis: quod quia fides bene recipit augmentum bene potest aliquis ex 
+       <lb ed="#B" n="21"/>solo lumine fidei pollere scientia fidei plurimum: qua non pollet alius plurimum. Sed dico quod si clarior non 
+       <lb ed="#B" n="22"/>posset haberi notitia de credibilibus quam per fidem sine lumine fidei, tunc necessario fides &amp; scientia hic aequi-  
+       <lb ed="#B" n="23"/>perarentur: vt quanto polleret fide quis, tanto polleret hac scientia: &amp; sic qui plurimum polleret fide, plurimum pol 
+       <lb ed="#B" n="24"/>leret hac scientia. cuius contrarium plane dicit <name ref="#Augustine">Augustinus</name> dicendo quod hac scientia non pollent fideles plurimi, quamuis 
+       <lb ed="#B" n="25"/>polleant ipsa fide plurimum. Et sic cognosci siue sciri reuera potest aliquid credibilium clarius quam fide: propter quid  
+       <lb ed="#B" n="26"/>aliquis potest per suam scientiam clarius scire credibile aliquid quam ille qui scit illud sola fide. Quid continuo ad declara 
+       <lb ed="#B" n="27"/>tionem dicti sui addit Aug. assignando differentiam inter scire per solam fidem, &amp; per aliam clariorem notitiam, sub 
+       <lb ed="#B" n="28"/>dens. Aliud enim est scire tantummodo quod homo credere debeat propter adipiscendam vitam beatam quae 
+       <lb ed="#B" n="29"/>non est nisi aeterna: Aliud autem est scire quemadmodum hoc ipsum &amp; piis opituletur &amp; contra impios 
+       <lb ed="#B" n="30"/>defendatur. Piis autem opitulatur per hanc scientiam clariorem quando per doctrinam maiorum qui 
+       <lb ed="#B" n="31"/>hanc habent scientiam clariorem, fides suadetur minoribus: vt in ipsis generetur &amp; nutriatur. Con 
+       <lb ed="#B" n="32"/>tra impios autem per hanc scientiam defenditur &amp; roboratur, quando maiores qui habent hanc scien 
+       <lb ed="#B" n="33"/>tiam quam sibi ex creditis acquisiuerunt, modo quo aliae scientiae humanae acquiruntur ex sensibilibus 
+       <lb ed="#B" n="34"/>per media &amp; rationes quae per hanc sciunt elicere ex intellectu credibilium siue ex credibilibus intellectis: vt 
+       <lb ed="#B" n="35"/>ex primis principiis: respondent versutis argumentationibus infidelium &amp; haereticorum: &amp; improbant di  
+       <lb ed="#B" n="36"/>cta eorum: &amp; per hoc fidei veritatem defendunt: secundum quod in quaestionibus aliis satis declarauimus. Vnde 
+       <lb ed="#B" n="37"/>&amp; scientia sacrae scripturae vtilis esse non potest nisi sic intelligatur: vt ex ea media &amp; rationes de cre 
+       <lb ed="#B" n="38"/>dibilibus capi possint: per quae credita posteriora ex aliis vt ex prioribus intelligi possint. talis au-  
+       <lb ed="#B" n="39"/>tem intellectus huius scientiae non habetur nisi ex illorum credibilium intellectu quae prius credere 
+       <lb ed="#B" n="40"/>suadet: vt iam dicetur secundum <name ref="#Augustine">Augustinus</name> in epistola ad Consentium. Quod ergo arguitur primo in contrarium: Si clarius sci 
+       <lb ed="#B" n="41"/>ri possent credibilia quam per fidem, hoc esset in clariori lumine: Dico quod verum est: propter hoc enim inter dona 
+       <lb ed="#B" n="42"/>gratis data eam connumerat apostolus &amp; distinguit a fide: quando dicit. i. Corinth. xii. Alii datur sermo sa 
+       <lb ed="#B" n="43"/>pientiae: alii sermo scientiae: alii fides. Hanc enim clariorem notitiam sapientiam appellat quando est credibilium de rebus 
+       <lb ed="#B" n="44"/>aeternis: scientiam vero quando est credibilium de rebus temporalibus: sicut clare determinat <name ref="#Augustine">Augustinus</name> vbi supra. Quod ergo  
+       <lb ed="#B" n="45"/>assumit: quod non est clarius lumen cognitiuum supernaturale in vita ista quam sit lumen fidei: Dico quod falsum est. Quid au 
+       <lb ed="#B" n="46"/>tem ad huius probationem assumitur: quod tale lumen non habetur ex scriptura: &amp; ideo ponere ipsum fictitium est: Dico 
+       <lb ed="#B" n="47"/>quod vtrumque falsum est: quia hoc habetur ex scriptura implicite: licet non expresse: &amp; vtrumque sufficit. dicente 
+       <lb ed="#B" n="48"/>Augustinus in ser. de Assumptione. Tanto quae magna sunt cautius tractanda existunt quanto specialius aucto 
+       <lb ed="#B" n="49"/>ritatum testimoniis non possunt ad liquidum roborari: &amp; quia quaedam scriptura sacra veris indagationum studiis 
+       <lb ed="#B" n="50"/>quaerenda reliquit, non superslua aestimanda dum vera indagatione fuerint patefacta. Foecunda est enim 
+       <lb ed="#B" n="51"/>veritatis auctoritas, &amp; dum diligenter discutitur veram intelligentiam parit quam manifestis sermo 
+       <lb ed="#B" n="52"/>nibus abscondit. Taliter autem <name ref="#Augustine">Augustinus</name> in principio super loan. intelligentiam huiusmodi luminis 
+       <lb ed="#B" n="53"/>discutit exponendo illud loan i. Vita erat lux hominum. dicit enim sic. Ex ista vita homines illu- 
+       <lb ed="#B" n="54"/>minantur. &amp; exponit diffuse, &amp; expresse quod illa quae lux est increata, illuminat homines dupli- 
+       <!--1011.xml-->
+       <pb ed="#B" n="485-v"/>
+        <lb ed="#B" n="1"/>ci lumine. paruulos quidem lumine fidei quo nutriantur vt lacte: maiores vero lumine sapientiae 
+       <lb ed="#B" n="2"/>quo vt solido cibo vescantur. de qua sapientia dicit Apostolus. i. Corin. ii. Sapientiam loquimur inter 
+       <lb ed="#B" n="3"/>perfectos. Glos. Perfectos dicit non cognitores &amp; doctores sed auditores iam capaces, quos &amp; spiritua 
+       <lb ed="#B" n="4"/>les vocat: non capaces autem carnales: quando subdit. Non potui vobis loqui quasi spiritalibus: sed quasi 
+       <lb ed="#B" n="5"/>carnalibus. Carnalibus autem iam fidelibus loquebatur vt eos in fide nutriret, spiritalibus autem vt eos cir- 
+       <lb ed="#B" n="6"/>ca intellectum eorum quae fide tenentur instrueret: qualiter defendi &amp; roborari possent. vt enim ibi dicit Glos 
+       <lb ed="#B" n="7"/>sa cum eadem Apostolus praedicaret spiritualibus &amp; carnalibus quique pro modulo suo capiebant: illi vt 
+       <lb ed="#B" n="8"/>paruuli, isti vt maiores: illi vt lactis alimentum, isti vt cibi solidamentum: quia etsi non audiunt amplius, 
+       <lb ed="#B" n="9"/>tamen intelligunt amplius: non enim aequaliter mente percipitur etiam quod in fide pariter ab vtrisque reci 
+       <lb ed="#B" n="10"/>pitur. Quia autem aliud sit lumen fidei quod accipiunt paruuli, aliud vero lumen sapientiae quod accipiunt 
+       <lb ed="#B" n="11"/>maiores, expresse declarat <name ref="#Augustine">Augustinus</name> super illud lo. i. Vita erat lux hominum. sic inquiens. Multi sunt ani  
+       <lb ed="#B" n="12"/>males nondumque se possunt ad spiritualem intellectum erigere: quid dicitur In: principio erat verbum: hoc 
+       <lb ed="#B" n="13"/>animalis homo non percipit. Quid ergo: silebimus hic: quare ergo legitur si silebitur: aut quare auditur si non 
+       <lb ed="#B" n="14"/>exponitur: Sed vt quid exponitur si non intelligitur: Ecce quam manifeste vult quod propter intellectum credibilium 
+       <lb ed="#B" n="15"/>ex ponenda sunt illa quae sunt contenta in sacra scriptura. &amp; quod hoc sit in vita ista per aliud lumen quam  
+       <lb ed="#B" n="16"/>sit lumen fidei aparte declarat <name ref="#Augustine">Augustinus</name> subdens. Erat loannes de illis montibus de quibus scriptum est: Susci 
+       <lb ed="#B" n="17"/>piant montes pacem populo &amp; colles iustitiam. Intelligit enim per pacem sapientiam qua maiores illuminam 
+       <lb ed="#B" n="18"/>tur post fidem. lustitiam autem appellat fidem qua illuminantur minores subdens. Colles paruulae animae sunt: modotes 
+       <lb ed="#B" n="19"/>excelsae animae sunt. Quae est iustitia quam colles accipiunt: fides, non autem acciperent minores fidem nisi ma 
+       <lb ed="#B" n="20"/>iores ab ipsa sapientia illuminarentur vt possent paruulis traiicere quod possent capere. Suscepit pacem 
+       <lb ed="#B" n="21"/>mons iste: contemplabatur deitatem verbi. Appellat autem istud contemplari intellectualem notitiam: ad quam  
+       <lb ed="#B" n="22"/>excitat auditores capaces subdens. Erigite vos ad eius sensum: si nondum potestis intelligere inuocate au 
+       <lb ed="#B" n="23"/>xilium a domino. Si non potes cogitare quid sit, differ vt crescas: accipe lac vt nutriaris &amp; sis validus ad  
+       <lb ed="#B" n="24"/>capiendum cibum. Ecce quod fides primo est in paruulis sine intelligentia: sed in fide nutritur vt validus fi 
+       <lb ed="#B" n="25"/>at. Factus autem validus ad intellectum suscipiendum lumine superiore illuminatur. dicente Augu. ibidem 
+       <lb ed="#B" n="26"/>in sermone. v. Poterunt mentes magnae quae montes dictae sunt, quas maxime illuminauit lumen iustitiae 
+       <lb ed="#B" n="27"/>secundum quod dicit contra epistolam fundamenti. Ego catholicam fidem profiteor &amp; per illam me ad certam scientiam veni 
+       <lb ed="#B" n="28"/>re praesumo. &amp; ita iam non hominibus: sed ipso deo intrinsecus mentem nostram illuminante atque firmante propter 
+       <lb ed="#B" n="29"/>quid dicit <name ref="#Augustine">Augustinus</name> supra iam. Si nondum potestis intelligere inuocate auxilium a domino. &amp; hoc non ad fidei genera 
+       <lb ed="#B" n="30"/>tionem vel augmentum: quia ex illa quantuncumque homo in illa posset non haberetur intellectus secundum scientiam:  
+       <lb ed="#B" n="31"/>sed ad ipsum scientialem intellectum supra credere per fidem. &amp; sic alio &amp; alio lumine illuminatur fidelis ad cre 
+       <lb ed="#B" n="32"/>dendum quam ad intelligendum, &amp; est clarius lumen quo intelligit quam quo credit: &amp; non est hoc fictitium nisi 
+       <lb ed="#B" n="33"/>illis de quibus dicit <name ref="#Augustine">Augustinus</name> ibidem super loan. Stulta corda istam lucem capere non possunt: ip 
+       <lb ed="#B" n="34"/>si enim tenebrae sunt. Quia ergo deus quaerit ostendere lumen illud clarius: idem est ac si diceret Pelagi 
+       <lb ed="#B" n="35"/>us Augustino: tu dicis quod liberum arbitrium non potest velle bonum sine gratia: ostende ergo nobis il 
+       <lb ed="#B" n="36"/>lam gratiam: aut si diceret iudaeus christiano: tu dicis gratiam dari in baptismo: ostende illam. Reue 
+       <lb ed="#B" n="37"/>ra spirituale lumen vel gratia non est tale quid vt non habenti possit ostendi. Sed ille solummo bene no 
+       <lb ed="#B" n="38"/>uit qui accipit. Et est magnum mirabile quod in quacunque alia facultate peritus nititur scientiam suam 
+       <lb ed="#B" n="39"/>quantum potest extollere: soli autem theologi quidam vt philosophiam videantur exaltare, theologiam deprimunt 
+       <lb ed="#B" n="40"/>asserentes ipsam non esse vere scientiam: nec credibilia posse fieri vere intelligibilia in vita ista. Tales si 
+       <lb ed="#B" n="41"/>bi viam sciendi &amp; intelligendi credibilia praecludunt: &amp; aliis desperationem intelligendi illa incutiunt: quid  
+       <lb ed="#B" n="42"/>valde perniciosum est &amp; danmnosum ecclesiae &amp; periculosum dicere: immo potius suadendum est quod  
+       <lb ed="#B" n="43"/>certa ratio haberi potest de credibili per quam vere sciri &amp; intelligi potest in vita ista. Ad cuius in  
+       <lb ed="#B" n="44"/>tellectum sciendum quod credibilibus ratio adhibetur dupliciter. Vno modo ante fidem habitam. Alio modo post fidem ha 
+       <lb ed="#B" n="45"/>bitam. Primo modo dupliciter. Vno modo ad fidei apprehensionem vt ratione probetur id quod credendum est prius 
+       <lb ed="#B" n="46"/>quam credatur: quaeliter promittebant se reddituros rationem de credibilibus manichei: vt patet per <name ref="#Augustine">Augustinus</name> libro contra epi 
+       <lb ed="#B" n="47"/>stolam fundamenti: in quo ostendit hoc esse impossibile. Alio modo ad suadendum quod ante rationem illo modo inductam 
+       <lb ed="#B" n="48"/>credendum est. post fidem autem ratio adhibenda est: vt primo tradita postea intelligantur. Vnde <name ref="#Augustine">Augustinus</name> contra Consen 
+       <lb ed="#B" n="49"/>tium qui non putauit rationem vllo modo adhibendam esse credibilibus vt intelligerentur: sed solummo auctoritatem vt 
+       <lb ed="#B" n="50"/>crederentur: dicit sic. Si fides (iquit) ex ratione disputationis &amp; non ex credulitatis pietate apphenderetur, nemo prae 
+       <lb ed="#B" n="51"/>ter <name ref="#Aristotle">philosophos</name> beatitudinem possideret: sed non tam ratio requirenda quam auctoritas. Vide ergo ne debeas maxime 
+       <lb ed="#B" n="52"/>de hac re. scilicet de vnitate deitatis &amp; discretione personarum in qua praecipue fides nostra consistit, solam auctori 
+       <lb ed="#B" n="53"/>tatem credere: nec eius intelligentiae quaerere rationem. Responsio. Neque enim cum coepero te in tanti huius 
+       <lb ed="#B" n="54"/>secreti intelligentiam vtcunque introducere: quod nisi deus intus adiuuerit non potero, omnino aliud disse 
+       <!--1012.xml-->
+       <pb ed="#B" n="486-r"/>
+        <lb ed="#B" n="1"/>rendo facturus sum, quam rationem vt potero redditurus: non vt fidem respuas: sed vt ea quae fidei 
+       <lb ed="#B" n="2"/>firmitate iam tenes, etiam rationis luce respicias. In rebus ergo ad doctrinam salutarem pertinenti- 
+       <lb ed="#B" n="3"/>bus quas ratione percipere nondum valemus, fides praecedat qua cor mundetur vt magnae rationis 
+       <lb ed="#B" n="4"/>lumen capiat &amp; perferat. Hoc vtique rationis est: &amp; ideo rationabiliter dictum est per prophetam: nisi cre 
+       <lb ed="#B" n="5"/>dideritis non intelligetis: vbi procul dubio discreuit haec duo. deditque consilium quo prius credamus: vt id  
+       <lb ed="#B" n="6"/>quod credimus intelligere valeamus. Si ergo rationabile est vt magna quaedam capiantur quae ca- 
+       <lb ed="#B" n="7"/>pi nondum possunt, fides antecedat rationem: procul dubio quantulacumque ratio quae hoc persuadet an  
+       <lb ed="#B" n="8"/>tecedit fidem. Propterea monet Apostolus paratos nos esse debere ad responsionem omni poscenti nos ra 
+       <lb ed="#B" n="9"/>tionem de fide &amp; spe nostra: quoniam si a me infidelis rationem poscit fidei meae, hanc ei reddo rationem: 
+       <lb ed="#B" n="10"/>qua videat quam praepostere poscat rationem earum rerum quas capere non potest. Si autem iam fide 
+       <lb ed="#B" n="11"/>lis rationem poscat vt quod credit intelligat: capacitas eius intuenda est vt secundum rationem reddi 
+       <lb ed="#B" n="12"/>tam sumat fidei suae quantam potest intelligentiam: maiorem si plus capit, minorem si minus: dum ta- 
+       <lb ed="#B" n="13"/>men quousque ad plenitudinem cognitionis perfectionemque perueniat, ab itinere fidei non recedat:  
+       <lb ed="#B" n="14"/>quam si non dimiserimus, non solum ad tantam intelligentiam rerum incorporearum &amp; immutabilium quanta 
+       <lb ed="#B" n="15"/>in hac vita ab hominibus capi potest, verum etiam ad summitatem contemplationis quam dicit Apostolus facie ad  
+       <lb ed="#B" n="16"/>faciem, veniemus. Sed expedit quorundam occultam esse rationem ne rationis cognitione vilescant. 
+       <lb ed="#B" n="17"/>Haec dixerim: vt fidem tuam ad amorem intelligentiae coarctarer: ad quam ratio vera perducit: cui fi 
+       <lb ed="#B" n="18"/>des animum praeparat: in qua qui eiusdem rectitudinem per dei gratiam comprehendere potuerunt, hu 
+       <lb ed="#B" n="19"/>mili pietate confessi sunt sibi in ea fuisse primos piscatores non solum credendo firmissimo robore: im- 
+       <lb ed="#B" n="20"/>mo etiam intelligendo certissima veritate: ac per hoc quoniam id quid ad eam pertinebat fides egit: ideo com 
+       <lb ed="#B" n="21"/>sequens ratio aliquid eorum quae inquirebat inuenit. Porro autem qui vera ratione iam quod tantummodo  
+       <lb ed="#B" n="22"/>credebat intelligit, profecto praeponendus est ei qui cupit adhuc intelligere quod credit. Si autem nec 
+       <lb ed="#B" n="23"/>cupit: &amp; ea quae intelligenda sunt credenda tantummodo existimat: cui rei fides prosit ignorat. Intelle 
+       <lb ed="#B" n="24"/>ctum ergo ama: quia etiam ipsae scripturae sanctae quae magnarum rerum ante intellectum suadent 
+       <lb ed="#B" n="25"/>fidem, nisi eas recte intelligas vtiles tibi esse non possunt. Omnes enim haeretici qui eas in auctoritate 
+       <lb ed="#B" n="26"/>recipiunt: non quod eas contemnunt: sed quod eas non intelligunt haeretici sunt. Ad secundum quod clarior 
+       <lb ed="#B" n="27"/>cognitio de deo quam per lumen fidei est visio: quae haberi non potest in vita ista. ergo &amp;c. Dico quod circa di 
+       <lb ed="#B" n="28"/>uina differunt credere, intelligere, &amp; videre. Credere enim est assentire veritati credibilis per intelle- 
+       <lb ed="#B" n="29"/>ctum ex habitu fidei cum voluntatis imperio: secundum modum quo oportet credere doctori om- 
+       <lb ed="#B" n="30"/>nem qui discit: quemadmodum ille qui credit solem eclipsari nunc, non habendo ad hoc demonstra- 
+       <lb ed="#B" n="31"/>tionem quam habet magister suus, nec videt oculis interpositionem lunae inter nos &amp; solm: sed sic esse 
+       <lb ed="#B" n="32"/>tenet ex solo dicto magistri sui. Intelligere autem est cognoscere aliquid ex alio per discursum rationis 
+       <lb ed="#B" n="33"/>vel definitiuum vel syllogisticum: qualiter doctor astrologus intelligit per demonstrationem solem nunc ecli 
+       <lb ed="#B" n="34"/>psari: quid oculis non videt. Videre autem intellectualiter est oculo mentis deum ex nuda eius praesen 
+       <lb ed="#B" n="35"/>tia conspicere: quemadmodum quis videt eclipsim oculis carnalibus videndo lunam positam inter 
+       <lb ed="#B" n="36"/>nos &amp; solem. Et sic licet intelligere diuina contingit clariori lumine quam credere: multum tamen distat  
+       <lb ed="#B" n="37"/>intelligere a videre &amp; differt ab ipso. Omne enim credere &amp; similiter videre proprie dictum est in-  
+       <lb ed="#B" n="38"/>telligere: quoddam sed non econverso secundum quod hoc alibi diffusius declarauimus. Large tamen accipiendo vi 
+       <lb ed="#B" n="39"/>dere, credere, &amp; intelligere: possunt dici videre quoddam. Est. nim credere videre quiddam dicente <name ref="#Augustine">Augustinus</name> in epistola 
+       <lb ed="#B" n="40"/>praedicta. Habet fides oculos suos: quibus quodammo verum esse videt quod nondum videt: &amp; quibus certissime videt 
+       <lb ed="#B" n="41"/>non dum se videre quid credit. Etiam intelligere dicto modo videre quoddam est. dicente eodm: sermone 
+       <lb ed="#B" n="42"/>tet super lo. Videns Ioannes dicebat in principio erat verbum: viderunt hoc mentes magnae: &amp; vt per 
+       <lb ed="#B" n="43"/>uenirent ad id quod viderunt delonge, a cruce Christi non recesserunt: paruuli autem qui non pos- 
+       <lb ed="#B" n="44"/>sunt haec intelligere non recedentes a cruce, perducuntur ad id quod non vident. Consimiliter large &amp; 
+       <lb ed="#B" n="45"/>credere in praesenti &amp; videre in patria, intelligere quoddam dici possunt. Ad declarationem autem  
+       <lb ed="#B" n="46"/>ampliorem horum omnium &amp; dictorum meorum hic &amp; alibi, Notandus est ordo actus credendi siue eius quid  
+       <lb ed="#B" n="47"/>est credere ad actum intelligendi siue ad ipsum intelligere: &amp; ordo auctoritatis ad rationem &amp; econ 
+       <lb ed="#B" n="48"/>uerso. Sciendum est enim quod licet omne quod quis nouit, inueniendo vel addiscendo nouerit: tamen nos- 
+       <lb ed="#B" n="49"/>se inueniendo per semet ipsum necessario praecedit nosse addiscendo ab alio: qui enim nihil omnino 
+       <lb ed="#B" n="50"/>nouit ex seipso, nihil omnino potest discere ab alio: &amp; ideo quia quae quis nouit ex se nouit admini- 
+       <lb ed="#B" n="51"/>culo sensus ex natura rei illa intelligendo, praeter illa quae quis nouit ex alio discendo, ipsum intelligere aliqua  
+       <lb ed="#B" n="52"/>quae naturaliter possunt cognosci adminiculo sensus necessario praecedit omne credere non solum ex auctoritate 
+       <lb ed="#B" n="53"/>alterius: aut ex habitu infuso: sed etiam credere ex argumentatione quae est ex probabilibus: qualem fidem &amp; credere ge 
+       <lb ed="#B" n="54"/>nerat syllogismus topicus. Ante inquam credere ex tali fide immo etiam ante talis fidei generationem 
+       <!--1013.xml-->
+       <pb ed="#B" n="486-v"/>
+        <lb ed="#B" n="1"/>necessario praecedit intelligere incomplexorum &amp; principiorum complexorum: ex quibus concluduntur conclusiones, quibus 
+       <lb ed="#B" n="2"/>talis fides generatur: licet tale intelligere necessario praecedit habitus fidei supnaturaliter infusae: qui paruulis infunditur 
+       <lb ed="#B" n="3"/>in baptismo ante omnem actum intellectus. Et ideo vlterius licet in discendo ab alio oportet eum credere qui discit 
+       <lb ed="#B" n="4"/>tamen istud credere &amp; ipsam fidem qua sic creditur, qui est habitus generatus ex syllogismo topico, oportet prae 
+       <lb ed="#B" n="5"/>cedere ipsum intelligere praedicto modo: &amp; similiter rationem topicam oportet praecedere auctoritatem qua docenti cre 
+       <lb ed="#B" n="6"/>ditur. Nullus enim credit alicui auctoritati nisi prius suasum sit ei ratione saltem topica quod debuit illi crede- 
+       <lb ed="#B" n="7"/>re: &amp; sic intelligere: &amp; ratio omnino praecedit credere ex ratione, &amp; auctoritatem cui creditur, non solum auctoritatem cui 
+       <lb ed="#B" n="8"/>creditur ex tali ratione: sed etiam auctoritatem cui creditur ex virtute habitus infusi: licet vt dictum est talis 
+       <lb ed="#B" n="9"/>fides secundum habitum in paruulis baptizatis praecedat omne intelligere &amp; omne credere. lpsum autem intellige 
+       <lb ed="#B" n="10"/>re quo intellectus intelligit supernaturalia: &amp; per consequens habitum generatum ex tali intelligere &amp; suadentem ratio 
+       <lb ed="#B" n="11"/>nem qua habet talis habitus generari, praecedit necessario ipsum credere ex habitu infuso. Sed propter 
+       <lb ed="#B" n="12"/>ipsum credere procedens ex tali habitu infuso distinguendum est ex parte credibilium: quod scilicet sunt quaedam  
+       <lb ed="#B" n="13"/>quae ita creduntur quod nunquam intelliguntur vt facta historica: quaedam vero ita creduntur quod postea intelliguntur: vt 
+       <lb ed="#B" n="14"/>illa quae pertinent ad diuinam naturam: de quibus principaliter theologica scientia est: de quibus tamen antequam credantur 
+       <lb ed="#B" n="15"/>oportet praeintelligere naturali intelligentia quid per terminos eorum significatur, praecognitione scilicet quid est 
+       <lb ed="#B" n="16"/>quid dicitur per nomen saltem generalissima &amp; confusa: quae necessario trahit ortum a sensu: vt secundum hoc omnem 
+       <lb ed="#B" n="17"/>intellectum &amp; scientiam qui habentur de credibilibus post fidem infusam oporteat quodammo reducere in sen 
+       <lb ed="#B" n="18"/>sum. Postquam autem tale intelligere terminorum incomplexorum alicuius complexi theologici habitum est di-  
+       <lb ed="#B" n="19"/>cto modo ex sensu, puta quid est deus, quid esse, quid trinus, quid vnus, licet non vt est complexum credibile: sed  
+       <lb ed="#B" n="20"/>magis vt naturaliter cognoscibile: cum postmodum ex illis terminis ex auctoritate sacrae scripturae seu 
+       <lb ed="#B" n="21"/>dei proponuntur articuli credibilium complexi ex illis terminis incomplexis constituti, quibus articulis propter 
+       <lb ed="#B" n="22"/>illam auctoritatem cum adiutorio fidei infusae creditur &amp; firmiter eorum veritati assentitur: praeparata est via ad  
+       <lb ed="#B" n="23"/>intelligendum supernaturaliter illa incomplexa adiutorio supernaturalis luminis excedentis fidem &amp; lumen fidei co 
+       <lb ed="#B" n="24"/>gnitione magis determinata &amp; magis particulari quam erat cognitio quam philosophi ex puro lumine naturali  
+       <lb ed="#B" n="25"/>potuerunt habere de illis. Qua quidem cognitione acquisita quasi via diuisiua &amp; definitiua cognoscitur quid  
+       <lb ed="#B" n="26"/>est res in se modo clariori quam nata est cognosci in via: vt quid est deus, quid est esse, quid trinus, quid vnus: &amp; 
+       <lb ed="#B" n="27"/>hoc vt isti termini sunt termini complexionis intelligibilis in se maxime: licet primo nobis vt credibilis ex 
+       <lb ed="#B" n="28"/>auctoritate scripturae propositae propter debilitatem nostri intellectus respectu illius. quibus terminis cogni 
+       <lb ed="#B" n="29"/>tis in ipsis statim cognoscuntur complexa ex quibus constituuntur, vt principia tam extrinseca quam intrinse- 
+       <lb ed="#B" n="30"/>ca scientifica in theologia: vt quod deus est: quod deus est vnus: quod deus est trinus: quae sunt principia extri 
+       <lb ed="#B" n="31"/>seca in demonstratione theologica. Et consimili modo in eodem lumine virtute talium principiorum ex- 
+       <lb ed="#B" n="32"/>trinsecorum cognoscuntur principia theologiae intrinseca: &amp; ex illis comnexione demonstratiua cognoscuntur 
+       <lb ed="#B" n="33"/>conclusiones quae ex illis sequuntur: quae non in se nec ex se cognoscuntur cognitione suorum terminorum: sed so 
+       <lb ed="#B" n="34"/>lum ex principiis, &amp; in illis cognitis cognitione terminorum. &amp; per hoc habetur habitus intellectiuus de principiis 
+       <lb ed="#B" n="35"/>tam extrinsecis quam intrinsecis theologiae, &amp; scientisicus simpliciter de conclusionibus credibilibus.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

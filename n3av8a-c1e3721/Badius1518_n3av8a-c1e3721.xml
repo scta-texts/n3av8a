@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 10</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 10</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="373-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3721">
+       <head xml:id="n3av8a-c1e3721-Hd1e96">Quaestio 10</head>
+       <p xml:id="n3av8a-c1e3721-d1e99">
+        <lb ed="#B" n="7"/>CIrca tertium arguitur: quod in his verbis, Hic est calix sanguinis mei. consistit forma 
+       <lb ed="#B" n="8"/>sanguinis: quia nisi verbis istis prolatis iam facta esset conuersio, &amp; ibi esset sanguis 
+       <lb ed="#B" n="9"/>falsa esset ista prolatio, consequens falsum est. ergo &amp;c. Contra. Luc. xxii. dicitur, Hio 
+       <lb ed="#B" n="10"/>est calix noui testamenti in meo sanguine: vbi aliquid interponitur, nec magis deter  
+       <lb ed="#B" n="11"/>minatum de dicto vnius Euangelistae quam alterius, in quo forma verborum consecrandi 
+       <lb ed="#B" n="12"/>consistat. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3721-d1e115">
+       DIcendum quod generaliter in illis quae pertinent ad fidelium obseruan 
+       <lb ed="#B" n="13"/>tiam, inquantum in facto consistit, maxime vbi simpliciter nihil certi determinat scriptura, tenendus est vsus ec 
+       <lb ed="#B" n="14"/>clesiae qui ab apostolis deriuatur: qui multa in obseruantiis dimiserunt ecclesiae, quae in scriptis au-  
+       <lb ed="#B" n="15"/>thenticis non redegerunt. Quare cum forma verborum consecrationis in facto puro consistit, &amp; ad  
+       <lb ed="#B" n="16"/>obseruantiam pertinet eorum quae Christus fecit &amp; facienda instituit, nec de illa aliquis apostolorum certum quid ex 
+       <lb ed="#B" n="17"/>pressit: eo quod verba in quibus consistit forma, &amp; per quae habet fieri conuersio, a diuersis euangelistis, quibus 
+       <lb ed="#B" n="18"/>in hac parte exhibetur auctoritas, diuersimode exprimuntur, &amp; in numero &amp; in ordine &amp; qualitate 
+       <lb ed="#B" n="19"/>verborum: de forma igitur verborum consecrationis in hoc sacramento tenendus est firmiter vsus ec- 
+       <lb ed="#B" n="20"/>cle siae super hoc qui in missali conscriptus est, qui creditur traditus esse ab apostolis, &amp; hoc secundum 
+       <lb ed="#B" n="21"/>formam sm quam viderunt &amp; audierunt Christum consecrasse. Sed cum plurima verba contineantur: vbi cer- 
+       <lb ed="#B" n="22"/>tum est contineri formam verborum super consecratione sanguinis quae connexa sunt, cum dicitur vt habetur 
+       <lb ed="#B" n="23"/>in missali, Hic est calix sanguinis mei noui &amp; aeterni testamenti mysterium fidei: qui pro vobis &amp; pro 
+       <lb ed="#B" n="24"/>multis effundetur in remissionem peccatorum: certum tamen non est vtrum omnia verba haec sint de for- 
+       <lb ed="#B" n="25"/>ma: vt non nisi omnibus prolatis sub vno contextu fiat consecratio: an aliqua illorum. Vnde quia in  
+       <lb ed="#B" n="26"/>dubiis secundum <name ref="#Augustine">Augustinus</name> semper tenendum est certum, &amp; dimittendum incertum, &amp; hoc praecipue in  
+       <lb ed="#B" n="27"/>facto: quamquam propter aliquas persuasiones potius videatur verum minus certum: idcirco in consecra- 
+       <lb ed="#B" n="28"/>tione sanguinis cum summa diligentia &amp; intentione omnia verba praedicta sub vno contextu sunt 
+       <lb ed="#B" n="29"/>proferenda, quia certum est quod tunc consecratum est cum omnia dicta sunt, nec est super hoc tanta certitudo par- 
+       <lb ed="#B" n="30"/>te aliqua verborum prolata. Aestimatur tamen ab aliquibus quod illud vltimum Qui pro vobis &amp;c. potius 
+       <lb ed="#B" n="31"/>pertineat ad effectum sacramenti iam consecrati per praecedens, quam ad formam &amp; necessitatem consecratio- 
+       <lb ed="#B" n="32"/>nis. Vlterius arbitratur ab aliquibus, quod pars illa, Noui &amp; aeterni testamenti mysterium fidei, potius 
+       <lb ed="#B" n="33"/>exponit virtutem sacramenti quam pertineat ad formam eius, &amp; ad consecrationis necessitatem, vt sm 
+       <lb ed="#B" n="34"/>hoc in solis verbis illis, Hic est calix sanguinis mei. consistat forma verborum: quibus complete dictis 
+       <lb ed="#B" n="35"/>statim consecratum est. &amp; hoc quia verba quae sunt de forma huius sacramenti, non tantum sunt signi 
+       <lb ed="#B" n="36"/>ficatiua, sed &amp; effectiua eius quod significant, &amp; hoc per assertionem quae exercetur in ipsis. Qua- 
+       <lb ed="#B" n="37"/>re cum verba dicta non sunt assertiua eius quod pertinet ad veritatem huius sacramenti nisi quo  
+       <lb ed="#B" n="38"/>ad illa, Hic est calix sanguinis mei: totum autem residuum potius asserit conditionem sacramen- 
+       <lb ed="#B" n="39"/>ti quo ad eius virtutem &amp; efficaciam: in illis solis ergo verbis, Hic est calix sanguinis mei, vt 
+       <lb ed="#B" n="40"/>videtur tota forma verborum consistit. &amp; hoc non minus quam in consecratione corporis forma ver 
+       <lb ed="#B" n="41"/>borum praecisa consistit in istis verbis, Hoc est corpus meum: vt secundum hoc plena sit cnofor 
+       <lb ed="#B" n="42"/>mitas verborum consecrationis &amp; corporis &amp; sanguinis Christi. Quod ego potius arbitrarer si in tanto 
+       <lb ed="#B" n="43"/>mysterio aliquid liceret arbitrari. Sunt tamen aliqui qui dicunt quod omnia quae sequuntur dicta verba, Hic 
+       <lb ed="#B" n="44"/>est calix sanguinis me scilicet illa, Noui &amp; aeterni &amp;c. sunt etiam de substantia formae, ea videlicet ratione 
+       <lb ed="#B" n="45"/>quod sunt quaedam determinationes sanguinis: &amp; ideo pertinent ad integritatem locutionis, &amp; ad in  
+       <lb ed="#B" n="46"/>tegritatem consecrationis, licet per prima, Hic est calix sanguinis mei, significetur ipsa conuersio vini in  
+       <lb ed="#B" n="47"/>sanguinem, eo modo quo in forma consecrationis panis. Sed planum est quod illa ratio falsum supponit. Illi 
+       <lb ed="#B" n="48"/>enim genitiui noui &amp; aeterni non sunt adiectiua huius substantiui sanguinis, sed illius scilicet testa- 
+       <lb ed="#B" n="49"/>menti, vt patet ex verbis quae ponit Lucas, assumptis in argumento contra. Quid etiam patet constru 
+       <lb ed="#B" n="50"/>enti &amp; punctanti post illa verba noui &amp; aeterni. Tunc enim nuilius sensus persectionem impor- 
+       <lb ed="#B" n="51"/>tarent verba sequentia, Testamenti mysterium &amp;c. Et construuntur ambo illi genitiui sanguinis 
+       <lb ed="#B" n="52"/>testamenti, cum illo nominatiuo calix transitiue, subintellecta copula: &amp; post ly mei, &amp; ly myste- 
+       <lb ed="#B" n="53"/>rium construuntur cum illo nominatiuo calix specifice. Et quid addunt quod per prima verba, Hic est calix sanguinis 
+       <lb ed="#B" n="54"/>mei, signatur conversio vini in sanguinem eo modo quo in forma consecrationis panis, dicendo, Hoc est 
+       <!--787.xml-->
+       <pb ed="#B" n="373-v"/>
+        <lb ed="#B" n="1"/>corpus meum, patet quod aprta est contradictio. Cum enim vt dictum est verba ista non solum sunt significatiua: sed  
+       <lb ed="#B" n="2"/>&amp; effectiua eius quod significant: si ergo per illa verba, Hic est calix sanguinis mei, significatur conuer 
+       <lb ed="#B" n="3"/>sio vini in sanguinem, sicut per illa, Hoc est corpus meum, significatur conuersio panis in corpus Christi: ergo illa 
+       <lb ed="#B" n="4"/>efficiunt conuersionem vini in sanguinem, sicut ista panis in corpus. Quia si sic, nullum ergo verbo- 
+       <lb ed="#B" n="5"/>rum consequentium est de forma vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e3721-d1e227">
+       ARgumenta pro &amp; contra non habent efficaciam 
+       <lb ed="#B" n="6"/>nisi probabilem, maior tamen efficacia videtur esse in primo quam in secundo, quia procedit secundum 
+       <lb ed="#B" n="7"/>pertractationem iam dictam, probando quod in illis solis verbis, Hic est calix sanguinis mei, sit tota 
+       <lb ed="#B" n="8"/>forma. Potest tamen responderi ad medium, cum dicitur: nisi in his verbis forma consisteret, falsus 
+       <lb ed="#B" n="9"/>esset sermo ille, Hic est calix sanguinis mei. quia in veritate non esset ibi sanguis ipsis prolatis. Et est 
+       <lb ed="#B" n="10"/>dicendum: quod secundum quod alias dictum est, &amp; iam tactum est supra de forma verborum in consecratione corporis 
+       <lb ed="#B" n="11"/>Iy hoc non demonstrat aliquid pro tempore suae prolationis, sed pro termino prolationis totius sermonis: &amp; 
+       <lb ed="#B" n="12"/>secundum hoc veritatem habet ille sermo, Hoc est corpus meum. Sic dico in proposito, quod demon- 
+       <lb ed="#B" n="13"/>strat lIy hic non protempore in quo profertur: nec solum pro tempore in quo profertur illud, Hic 
+       <lb ed="#B" n="14"/>est calix sanguinis mei, sed etiam pro tempore in quo profertur totum residuum. Et similiter quod ille 
+       <lb ed="#B" n="15"/>sermo, Hic est calix sanguinis mei, non significat &amp; asserit aliquid pro tempore in quo ipse profer- 
+       <lb ed="#B" n="16"/>tur praecise, sed pro toto tempore in quo ipse cum toto residuo profertur. Vel potest dici quod ly hic 
+       <lb ed="#B" n="17"/>non demonstrat nisi substantiam vini, vt est aliquid quod est in se vsque ad prolationem totius: &amp; toto 
+       <lb ed="#B" n="18"/>prolato demonstrat sanguinem Christi, &amp; vinum non nisi pro eo quid habet esse in illo, sicut iam supra di  
+       <lb ed="#B" n="19"/>ctum est de demonstratione ly hoc circa substantiam panis. &amp; secundum hoc verba illa prima nihil 
+       <lb ed="#B" n="20"/>significant vel asserunt perfecte vsque ad prolationem totius: &amp; ideo nec prius aliquid efficiunt. 
+      </p>
+      <p xml:id="n3av8a-c1e3721-d1e262">
+       AD 
+       <lb ed="#B" n="21"/>secundum quod Lucas aliquid apponit quod non posuit alius euangelista: qui ponit praecise illa verba. Hic est 
+       <lb ed="#B" n="22"/>calix sanguinis mei. Dicendum quod etsi aliquid apposuit Lucas, hoc non fecit ad exprimendum aliquid quid  
+       <lb ed="#B" n="23"/>erat de forma, sed potius pertinens ad expositionem virtutis &amp; efficaciae sacramenti, vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

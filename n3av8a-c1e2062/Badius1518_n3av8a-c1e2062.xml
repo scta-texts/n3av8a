@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 22</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 22</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="198-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2062">
+       <head xml:id="n3av8a-c1e2062-Hd1e96">Quaestio 22</head>
+       <p xml:id="n3av8a-c1e2062-d1e99">
+       <!--437.xml-->
+        <pb ed="#B" n="198-v"/>
+        <lb ed="#B" n="1"/>Equuntur quaesita specialiter circa virtutem charitatis. Et erant tria. Primum de eius augmen 
+       <lb ed="#B" n="2"/>to. Vtrum possit augeri in infinitum. Secundum de eius diminutione. Vtrum possit diminui cum 
+       <lb ed="#B" n="3"/>effectu. Tertium de eius reparatione post lapsum. Vtrum necesse sit poenitentem resurgere in  
+       <lb ed="#B" n="4"/>charitate maiori, minori, aut aequali. 
+      </p>
+      <p xml:id="n3av8a-c1e2062-d1e115">
+       CIRca primum arguitur quod charitas non possit auge- 
+       <lb ed="#B" n="5"/>ri in infinitum: quia tunc charitas viae posset esse maior quam charitas patriae in beatis, cum illa sit 
+       <lb ed="#B" n="6"/>finita quae potest excedi a minima finita continue augmentata. 
+      </p>
+      <p xml:id="n3av8a-c1e2062-d1e122">
+       IN contrarium est quod bonus sem 
+       <lb ed="#B" n="7"/>per potest proficere vt glos. dicit Phil. iii. Non est autem profectus sine charitatis augmento. Cum 
+       <lb ed="#B" n="8"/>augmentum rei cuiusque augmentabilis sit motus in perfectionem secundum aliquem modum quantitatis molis aut virtu- 
+       <lb ed="#B" n="9"/>tis: quia omne augmentabile inquantum augmentabile imperfectum est in quantitate sua, &amp; inquantum  
+       <lb ed="#B" n="10"/>augmentatum est: iam habet aliquid plus de perfectione quam prius: &amp; tunc primo est perfectum cum nihil restat quod ad  
+       <lb ed="#B" n="11"/>di possit ad perfectionem maiorem. Sciendum ad veritatis quaesitae quaestionis ampliorem declarationem quod in  
+       <lb ed="#B" n="12"/>re duplex habet considerari perfectio: secundum quam in ipsa potest considerari duplex modus augmenti. Est enm vna 
+       <lb ed="#B" n="13"/>perfectio quae consistit in natura rei &amp; essentia eius. Alia vero est quae in sua, propria operatione consistit. Prima perfectio 
+       <lb ed="#B" n="14"/>ne dicitur perfecta quantitas molis in supposito alicuius speciei quoniam ipsum attingit extremum quantitatis debi 
+       <lb ed="#B" n="15"/>tae suae formae &amp; speciei, aut simpliciter, aut secundum quod habet esse in hac materia vel in illa: vt per naturam non est na-  
+       <lb ed="#B" n="16"/>tum augeri vlterius. Ista etiam perfectione in formis quae secundum intensionem recipiunt magis &amp; minus, dicitur forma 
+       <lb ed="#B" n="17"/>perfecta quando attingit extremum quantitatis speciei suae debitae, aut simpliciter, aut secundum quod habet esse in isto vel 
+       <lb ed="#B" n="18"/>in illo. Isto modo quantum mihi apparet licet forte contrarium verum sit quaecumque forma creata, ex eo quod creatura est 
+       <lb ed="#B" n="19"/>sicut est limitata ad speciem sic limitata est ad gradum perfectionis in sua essentia: ita quod sit terminus ei natu-  
+       <lb ed="#B" n="20"/>ralis citra quem non potest sistere in minimo: &amp; etiam vltra quem progredi non potest in summo. vt in forma natu  
+       <lb ed="#B" n="21"/>rali, puta albedine, est sumere in primo gradu intensionis: citra quem species non habet esse: quae primo actu 
+       <lb ed="#B" n="22"/>motus dealbationis inducitur, &amp; procedit in ea augmentum vsque ad gradum summum vltra quem species albedinis 
+       <lb ed="#B" n="23"/>non est nata procedere. Iuxta illud dictum philosophi. ii. de Aima. Omnium natura constantium statuta est ratio &amp;terminus ma-  
+       <lb ed="#B" n="24"/>gnitudinis scilicet in minimo, &amp; augment scilicet in maximo. Et intelligo per naturam omnem creaturam. non video enim si 
+       <lb ed="#B" n="25"/>posset augmentari in infinitum, quin species ratione qua est species, posset esse infinita: vt nullum esset impossi 
+       <lb ed="#B" n="26"/>bile ponere aliquod indiuiduum sub specie actu infinitum, si augmentum eius natum sit procedere in infinitum: secun- 
+       <lb ed="#B" n="27"/>dum quod tetigi supra in quaestione de infinitate idearum. Et sic forma talis non di simpliciter perfecta nisi attingat ter 
+       <lb ed="#B" n="28"/>minum vltimum suae speciei. Dicitur tamen aliquo modo perfecta quando habet vltimum gradum qui congruit subiecto in quod est 
+       <lb ed="#B" n="29"/>vel ratione speciei, vel ratione indiuidui. Perfectione autem secundo modo dicta di perfecta simpliciter vnaquaeque forma &amp; na 
+       <lb ed="#B" n="30"/>tura, quae est ratio alicuius operationis in aliquo, quando per illam opus habet fieri modo perfectiori quo natum est fieri. Citra autem  
+       <lb ed="#B" n="31"/>sistendo non di perfecta nisi quo ad quid. Quo viso non restat nisi principale scilicet quomodo secundum dictos duos modos per lir 
+       <lb ed="#B" n="32"/>fectionis in charitate fiat circa eam in augmento processus: vtrum ves sit aliquis status in eo: an procedat in infinitum. 
+       <lb ed="#B" n="33"/>Et est hic opinio vna quae non distinguit modos perfectionis, neque augmenti: sed videtur principaliter aspicere ad per- 
+       <lb ed="#B" n="34"/>fectionem &amp; augmentum in substantia, &amp;e essentia eius: &amp; per consequens in operatione: quia modus operationis sequitur mo- 
+       <lb ed="#B" n="35"/>dum perfectionis in substantia rei secundum eundem statum. Secus autem est secundum diuersos: vt prosequendo patebit. Dicit 
+       <lb ed="#B" n="36"/>autem illa opinio quod charitatis augmentum procedit in infinitum: quia nec potest ei terminus sigi vltra quem non possit pro-  
+       <lb ed="#B" n="37"/>cedere ex parte ipsius formae augmentabilis: quoniam ipsa est prticipatio infinitae charitatis spiritus sancti: nec ex parte 
+       <lb ed="#B" n="38"/>agentis dei: quia ipse est infinitae virtutl: nec ex parte subiecti in quo augmentatur: quoniam semper crescente charitate cre- 
+       <lb ed="#B" n="39"/>scit in subiecto habilitas ad suscipiendum ampliorem, per ipsam. n cor dilatatur. Veritatem huius positionis non suffi- 
+       <lb ed="#B" n="40"/>cio videre: neque rationibus eius possum esse contentus: sed hic puto esse distinguendum de augmento charitatis, siue con 
+       <lb ed="#B" n="41"/>sideretur augmentum in eius essentia, siue in operatione sua: dicendo quod duplicitur possumus loqui de augmento in ea. 
+       <lb ed="#B" n="42"/>Vno modo secundum quod consideratur in se &amp; absolute secundum quencumque statum sit. Alio modo secundum quod consideratur secundum sta 
+       <lb ed="#B" n="43"/>tus diuersos: comperande. scilicet charitatem impefectam viae ad charitatem perfectam patriae. Primo modo est positio iam dicta ponens 
+       <lb ed="#B" n="44"/>augmentum charitatis procedere in infinitum. Ego autem vt vtar verbis <name ref="#Augustine">Augustinus</name> in ser. de Assumptione beatae vir- 
+       <lb ed="#B" n="45"/>ginis: quia hoc sentire non valeo, dicere pertimesco. vnde nihil asserendo nitar modum ponendi contrarium declarare  
+       <lb ed="#B" n="46"/>&amp; insufficientiam huius positionis ostendere. Quantum igitur mihi apparet vt iam incepi dicere supra, quid ii. &amp; isto 
+       <lb ed="#B" n="47"/>Quol. adhuc dico quod quaelibet forma creata etiam suscipiens magis &amp; minus in sua essentia limitata est ad gra 
+       <lb ed="#B" n="48"/>dum perfectionis non solum in specie: sed etiam in essentia &amp; in operatione sua. Non enim video in alicuius natura &amp; essen 
+       <lb ed="#B" n="49"/>tia aut operatione posse procedere augmentum in infinitum quin possibile sit secundum illam speciem aliquid esse actu infini 
+       <lb ed="#B" n="50"/>tum secundum perfectionem, &amp; in substantia: &amp; quod in propria eius operatione. Et sic dico quod ex parte formae creatae &amp; opera 
+       <lb ed="#B" n="51"/>tionis eius necesse est in augmento certum terminum sigi: vltra quem omnino non potest procedere. &amp; hoc non obstantequoe  
+       <lb ed="#B" n="52"/>charitas ipsa creata sit participatio charitatis infinitae increatae: quoniam vt dicit Dioni. ii. ca. de di. no. Non est 
+       <lb ed="#B" n="53"/>diligens similitudo causatiuis &amp; causalibus: sed habent quaedam causatiua causalium repraesentatiuas imaginatio-  
+       <lb ed="#B" n="54"/>nes: causalia vero causatiuis remouentur &amp; supercollocantur iuxta, proprii principii rationem. Vnde quia infinitas quae est 
+       <!--438.xml-->
+       <pb ed="#B" n="199-r"/>
+        <lb ed="#B" n="1"/>ad formam &amp; perfectionem, est propria ratio primi principii: conveniens ei ratione suae perfectionis: vt in quaestionibus 
+       <lb ed="#B" n="2"/>de perfectione dei exposuimus: ista, proprietas nulli creaturae convenire potest. licet enim sit charitas creata perti- 
+       <lb ed="#B" n="3"/>cipatio quaedam increata: hoc tamen est secundum gradum inferiorem cui repugnat infinitas. Per hanc etiam rationem quaelibet cre 
+       <lb ed="#B" n="4"/>atura cum sit quaedam participatio diuinae essentiae in eo quod est aliquid per essentiam, non haberet terminum fixum suae per  
+       <lb ed="#B" n="5"/>fectionis vltra quem non esset possibile transgredi: quod perniciosum est dicere. Quia si creatura hoc non potest par  
+       <lb ed="#B" n="6"/>cipere: deus non potest hoc dare: &amp; hoc non propter aliquam impotentiam in deo: sed quia hoc posse poneret incom- 
+       <lb ed="#B" n="7"/>possibilia &amp; contradictoriorum concursum, super quae nulla omnino cadit potentia, &amp;e nulla est in deo impotentia re 
+       <lb ed="#B" n="8"/>pugnans omnipotentiae si non possit non solum impossibilia: sed &amp; incompossibilia. Nec solum est incompossibi 
+       <lb ed="#B" n="9"/>litas ex parte formae charitatis eam posse augeri in infinitum, sed etiam ex parte subiecti, &amp; hoc eadem ratio 
+       <lb ed="#B" n="10"/>ne qua ex parte formae: quae habet esse in subiecto. Vt enim dicit Auerrois in de substantia orbis: si fuerit con 
+       <lb ed="#B" n="11"/>cessum quod omnis virtus in materia fuerit finita, nulla est differentia in hoc quod sit actiua, aut passiuae. scilicet rece- 
+       <lb ed="#B" n="12"/>ptiua. si enim actiua, non potest esse infinita: nec receptiua: quia non est potentia receptiua, nisi respectu 
+       <lb ed="#B" n="13"/>alicuius cuius est potentia actiua, quia aliter receptiua esset frustra. Sic ergo praedicto modo considerando  
+       <lb ed="#B" n="14"/>charitatem: dico quod non est possibile procedere augmentum in ea in infinitum in praesenti, neque in futuro. Non in prae 
+       <lb ed="#B" n="15"/>senti, sic intelligendo: quod si proficiens semper viueret in infinitum secundum statum vitae praesentis, quod semper vtroque modo 
+       <lb ed="#B" n="16"/>charitas &amp; feruor dilectionis in deum posset continue augmentari: quoniam possibile esset eam actu esse infini 
+       <lb ed="#B" n="17"/>tam: vt dictum est. Secundum autem vitae praesentis statum a deo homini ordinatum secundum totam humanam speciem: quia 
+       <lb ed="#B" n="18"/>finitus est. secundum illud lob. Posuisti terminos eius qui praeteriri non poterunt: si toto tempore praesenti vi 
+       <lb ed="#B" n="19"/>tae humanae concesso aliquis viueret, semper charitas quo ad substantiam, &amp; feruor dilectionis in eo augeri 
+       <lb ed="#B" n="20"/>posset: quia non posset in toto illo tempore in quocumque quantuncumque merenti secundum communem cursum vitae na-  
+       <lb ed="#B" n="21"/>turalis ad terminum suum venire. Et secundum hoc dicit glos. super illud Phil. iii. Quae retro sunt obliuiscens 
+       <lb ed="#B" n="22"/>i merita iam praeterita: priore. scilicet acta: non quia mala sint: sed quia parua sunt ad meritum collocandum. Sed ad poste 
+       <lb ed="#B" n="23"/>riora extensus est: vt semper proficiat in melius. vnde subdit. Ad ea vero quae sunt priora extendens. i. ad fu 
+       <lb ed="#B" n="24"/>tura merita: a quibus si cessaret perderet &amp; praeterita. Ex quo patet responsio ad secundum obiectum quod super hanc 
+       <lb ed="#B" n="25"/>glossam fundatur. Neque similiter in futuro: quia in charitate secundum statum vitae futurae, neque secundum substantiam chari 
+       <lb ed="#B" n="26"/>tatis in se, neque vt existit in sua actione, cadet aliquis motus augmenti: quia dilectio illa ex charitate praesen 
+       <lb ed="#B" n="27"/>te bono finali, vt beatificans est, non est meriti: sed praemii. In praemio enim substantiali beatorum nulla ca- 
+       <lb ed="#B" n="28"/>dit mutatio aut variatio omnino. Bnde tamen verum est quod in illo statu charitas vnius in sua essentia maior est quam  
+       <lb ed="#B" n="29"/>alterius: et actio dilectionis beatificans maior: quia feruentior in vno quam in alio, secundum diuersos gradus 
+       <lb ed="#B" n="30"/>de quibus nihil ad praesens. Si vero loquamur de charitate inquantum consideratur secundum status diuersos: compa- 
+       <lb ed="#B" n="31"/>rande. scilicet charitatem imperfectam viae ad charitatem patriae perfectam: hic aliquantulum variatur iudicium de au-  
+       <lb ed="#B" n="32"/>gmento charitatis: vt consideratur secundum eius substantiam: &amp; vt consideratur secundum eius operationem. quoniam charitas viae 
+       <lb ed="#B" n="33"/>&amp; patriae in substantia penitus est eiusdem rationis: non autem operatio eius quae est dilectio. quoniam actus dilectionis sequitur  
+       <lb ed="#B" n="34"/>cognitionem: ita quod aliud genus cognitionis &amp; superius, necessario ponit alium gradum dilectionis: quo ad alium mo 
+       <lb ed="#B" n="35"/>dum diligendi. Quod patet ex hoc quod cognitio quae deus, qui est per se bonum quod est diligibile ex charitate, cognoscitur 
+       <lb ed="#B" n="36"/>in praesenti cognitione aenigmatica per fidem qua cognoscitur deus vt absens per essentiam suam: praesens autem solum 
+       <lb ed="#B" n="37"/>per aenigma. Cognitio autem qua cognoscitur in patria: est per praesentiam suae nudae essentiae. Nunc ergo quia ad prae 
+       <lb ed="#B" n="38"/>sens delectabile naturaliter augetur voluntas: vt dicitur. ii. de Aima: gradum aliquem in feruore dilectionis ne- 
+       <lb ed="#B" n="39"/>cessario habet charitas patriae, ad quem nullo modo potest attingere charitas viae, etiam si ponatur siue per pos 
+       <lb ed="#B" n="40"/>sibile, siue per impossibile quod charitas alicuius viatoris sit maior in sua essentia quam sit charitas alicuius de nu 
+       <lb ed="#B" n="41"/>mero contemplantium. Si ergo loquamur de charitate imperfecta viae, &amp; eius augmento in respectu &amp; comparatio 
+       <lb ed="#B" n="42"/>ne ad charitatem patriae: dico quod quia omnino eiusdem rationis est quo ad modum substantiae siue essentiae: licet for 
+       <lb ed="#B" n="43"/>te differat secundum gradum in eadem essentia, &amp;e charitas patriae cuiusque beati necessario finita est: &amp; finitum  
+       <lb ed="#B" n="44"/>minimum aliquo secundum eandem quantitatem licet minimam multotiens addito necesse est illi maiori aequari:  
+       <lb ed="#B" n="45"/>idcirco charitas viae respectu charitatis patriae sicut secundum se non potest dici quod sit augmentabilis in infini 
+       <lb ed="#B" n="46"/>tum: sic nec respectu charitatis patriae: immo necessario haberet stare in tali gradu in quo necesse est stare cha 
+       <lb ed="#B" n="47"/>ritatem patriae, &amp; absque possibilitate augmentationis in infinitum charitas viae posset poni posse aequari charitati 
+       <lb ed="#B" n="48"/>patriae: immo charitates multorum beatorum excedere: nisi aliquae obstaret: vt respondendo patebit ad primum obiectum 
+       <lb ed="#B" n="49"/>quod quasi super hoc fundatur. Si vero loquamur de charitate viae, &amp; eius augmento in sua operatione  
+       <lb ed="#B" n="50"/>quae est diligere deum vt absentem, in respectu ad charitatem patriae vt consideratur in sua operatione: quae est di-  
+       <lb ed="#B" n="51"/>ligere deum vt praesentem: quia omnino alius gradus dilectionis secundum alium modum diligendi deum est 
+       <lb ed="#B" n="52"/>dilectio qua diligitur in patria, ab illa qua diligitur in via: ita quod quantuncumque ponatur augeri quantitas cha- 
+       <lb ed="#B" n="53"/>ritatis viae, &amp; secundum substantiam, &amp; secundum suam, propriam actionem diligendi etiam ponendo siue per possi- 
+       <lb ed="#B" n="54"/>bile, siue per impossibile quod augmentum eius in substantia in infinitum procedat, nunquam attingit gradum illum 
+       <lb ed="#B" n="55"/>&amp; modum dilectionis quo diligitur intensiue a minima charitate in patria: Dico ergo quod secundum hunc mo- 
+       <!--439.xml-->
+       <pb ed="#B" n="199-v"/>
+        <lb ed="#B" n="1"/>dum charitate viae comparata ad charitatem patriae: ponendum est charitatem viae augmentari posse in infi 
+       <lb ed="#B" n="2"/>nitum. Et hoc non simpliciter &amp; absolute: sed sub conditione, &amp; in respectu ad charitatem patriae scilicet quod au 
+       <lb ed="#B" n="3"/>gmentaretur potius in infinitum quam adaequaretur ei, aut prius quam ei posset adaequari: quia nunquam posset ei adae-  
+       <lb ed="#B" n="4"/>quari: vt dictum est. Per hunc enim modum charitas viae quantuncumque sit perfecta secundum essentiam &amp; operationem 
+       <lb ed="#B" n="5"/>imperfecta est in respectu charitatis patriae ad minus quo ad illius operationem: vt iam dicetur. Et ideo  
+       <lb ed="#B" n="6"/>per illam debemus niti venire ad istam: &amp; secundum hunc modum intelligi debent dicta sanctorum, quae insinuant cha- 
+       <lb ed="#B" n="7"/>ritatis augmentum in via in infinitum procedere. secundum quod aperte exprimit glos. Phil iii,. quae dicit sic. Curra 
+       <lb ed="#B" n="8"/>mus: intendamus. In via enim sumus: non retro respiciamus: sed in anteriora extendamur intentione  
+       <lb ed="#B" n="9"/>&amp; desiderio. Vita. nm boni christiani, sanctum desiderium est. Quid autem desideras nondum tenes: sed desiderio 
+       <lb ed="#B" n="10"/>capax efficeris: vt cum venerit quod vides, implearis. Sicut enim si. velles implere aliquem sinum: &amp; nosti quam ma-  
+       <lb ed="#B" n="11"/>gnum est quid dabitur, extendis sinum, &amp; extendendo facis capaciorem: sic deus differendo rem extendit desideri 
+       <lb ed="#B" n="12"/>um: desiderando extendit animum: extendendo facit capacem: desideremus ergo &amp; implendi sumus. 
+      </p>
+      <p xml:id="n3av8a-c1e2062-d1e386">
+       SIC 
+       <lb ed="#B" n="13"/>ergo breuiter recolligendo dico quod charitas creata siue viae, siue patriae: similiter &amp; eius operatio, si simplicite 
+       <lb ed="#B" n="14"/>absque omni suppositione, &amp; absolute absque omni respectu consideretur, non procedit: neque potest procedere in infinitum secundum 
+       <lb ed="#B" n="15"/>augmentum. Similiter neque charitas viae quo ad augmentum in eius essentia: aut operatione, comperata quomodo  
+       <lb ed="#B" n="16"/>cumque ad charitatem patriae habendo respectum ad quantitatem in essentia illius, nullo modo potest augeri in  
+       <lb ed="#B" n="17"/>infinitum. sed charitas viae: &amp; secundum augmentum substantiae, &amp; operationis suae comparata ad charitatem pa 
+       <lb ed="#B" n="18"/>triae habendo respectum ad quantitatem eius in ipsius operatione: dico quod potius charitas viae augmentaretur 
+       <lb ed="#B" n="19"/>in infinitum quam adaequaeretur charitati patriae. Et sic ad negandum possibilitatem illius positionis vel suppositionis quae po 
+       <lb ed="#B" n="20"/>neretur charitas viae dicto modo posse adaequari charitati patriae dicimus quod in infinitum augmentaretur prius quam ei 
+       <lb ed="#B" n="21"/>adaequaretur: ita quod impossibile esset adaequationem venire omnino. Sed hanc possibilitatem charitatis viae ad augmentum  
+       <lb ed="#B" n="22"/>in infinitum: sicut non ponimus nisi in respectu sub conditione, sic non ponimus eam in re ipsa omnino: sed in anima &amp; in  
+       <lb ed="#B" n="23"/>consideratione intellectus tantum. Cuius simile videmus in naturalibus. Quamuis enim secundum quod dicit philosophus. iii. Phy. 
+       <lb ed="#B" n="24"/>non est possibile esse infinitum actum corpus sensibile: &amp; ideo neque potentia quantum est ex parte rei: propter 
+       <lb ed="#B" n="25"/>quid etiam sicut ibi dicit commen. propositio naturalis dicens quod omnis linea possit crescere in infinitum, falsa est: com 
+       <lb ed="#B" n="26"/>sideratio enim naturalis de linea est secundum quod est finis existens in materia: &amp; sic contingeret magnitudinem 
+       <lb ed="#B" n="27"/>esse infinitam in actum: tamen possibile est esse infinitum actum corpus in imaginatione mathematici: &amp; hoc ne- 
+       <lb ed="#B" n="28"/>gatiue: imaginande scilicet ipsum absque superficie claudente ipsum: quemadmodum imaginatur vacuum infinitum extra 
+       <lb ed="#B" n="29"/>mundum: &amp; ideo vt dicit commen. Propositio geometrica dicens quod possibile est imaginari omni linea ma 
+       <lb ed="#B" n="30"/>iorem, illa vera est: quia consideratio geometrica est de linea secundum quod est abstracta a materia sensibili. Et 
+       <lb ed="#B" n="31"/>velite additio mensurae qua vtitur geometra, est de capitulo propositionum imaginabilium, quae sunt quasi fun- 
+       <lb ed="#B" n="32"/>damenta geometriae, absque eo quod sunt extra animam. In intellectu autem mathematici non est possibile esse corpus 
+       <lb ed="#B" n="33"/>quidcumque infinitum in actum, quia vt dicit philosophus. ii. Metaph. dispositio de linea est talis scilicet quod impossibile est quod compre 
+       <lb ed="#B" n="34"/>hendatur per intellectum, nisi per suum statum. scilicet inter duo puncta. Tunc circa intellectum infiniti mathematici me- 
+       <lb ed="#B" n="35"/>dio modo se habet inter intellectum naturalis de quanto naturali, &amp; mathematici de quanto mathemati-  
+       <lb ed="#B" n="36"/>co: quoniam non potest intelligere infinitum simul, sicut potest imaginari mathematicus: sed in hoc conuenit cum 
+       <lb ed="#B" n="37"/>naturali, potest tamen intelligere infinitum sicut dies &amp; agon: finitum super finitum infinities replicando: sicut potest 
+       <lb ed="#B" n="38"/>metaphysicus, in quo differt a naturali. Vnde dicit commentator super illud. ii. Meta. Impossibile est nobis intellige- 
+       <lb ed="#B" n="39"/>re lineam infinitam, nisi quando concipimus eam finitam iterando eam infinities. &amp; hoc non facit intelligere infinitum. Etiquan 
+       <lb ed="#B" n="40"/>qui imaginatus fuerit lineam infinitam non potest intelligere eam. Et ideo vt continuo dicit philosophus, qui cum sua imaginatione 
+       <lb ed="#B" n="41"/>acceperit lineam infinitam, non determinabit diuisiones eius. per quod exponit modum quo linea infinita habet imagi 
+       <lb ed="#B" n="42"/>nari negatiue non positiue: vt dictum est. Secundum ergo modum quao secundum intellectum mathematicum est possibile lineam 
+       <lb ed="#B" n="43"/>aut magnitudinem augmentari in infinitum absque eo quod omnino possibile sit huius augmentum esse in re extra: sed in  
+       <lb ed="#B" n="44"/>anima tantummo: consimiliter penitus dico in proposito: quod secundum praedeterminatum modum possibile est secundum intellectum cla 
+       <lb ed="#B" n="45"/>ritatem viae augmentari in infinitum absque eo quod sit possibile ipsum esse in re extra: sed in intellectu tantum. Vnde quia secundum  
+       <lb ed="#B" n="46"/>hoc charitas patriae non omnino excedit charitatem viae, nisi quo ad operationem eius: quae tamen non est infinita: ideo charitas 
+       <lb ed="#B" n="47"/>viae potius di perfici per charitatem patriae, quo ad augmentum dilectionis in modo diligendi quam in substantia charitatis, 
+       <lb ed="#B" n="48"/>etsi forte perficiatur secundum vtrumque: vt iam dicetur. Et sic capacitas de quae loquitur glos. iam dicta <name ref="#Augustine">Augustinus</name> quam auget in no 
+       <lb ed="#B" n="49"/>bis desiderium, non tam est ad augmentum charitatis maius, quo ad eius essentiam retorquendo: quam ad itentionem actio 
+       <lb ed="#B" n="50"/>nis diligendi in apta visione quae praesens sit ipsum diligibile. Quoniam etsi quo ad substantiam charitatis charitatem pa 
+       <lb ed="#B" n="51"/>triae attingeret charitas viae homine conseruato a deo in statu meriti supra communea cursum vitae humanae, numquam tamen att 
+       <lb ed="#B" n="52"/>geret dilectio viae in feruore diligendi ad absentiam obiecti ad gradum dilectionis patriae in feruore diligen- 
+       <lb ed="#B" n="53"/>di ad praesentiam obiecti. quid aparte glos. insinuat per hoc quod dicit quod deus differendo rem extendit desideri  
+       <lb ed="#B" n="54"/>aim scilicet faciendo mentem eius capacem. Res nim illa non est aliquid substantiae charitatis: sed ipse deus obiectum 
+       <!--440.xml-->
+       <pb ed="#B" n="200-r"/>
+        <lb ed="#B" n="1"/>praecedens exponens illud, Prosequor brauium. dicit. Non tria vel duo: sed vnum summum bonum: quod  
+       <lb ed="#B" n="2"/>est vnum: in quo sunt omnia bona: &amp; illud est nostra beatitudo increata: &amp; circa ipsum in actu dile- 
+       <lb ed="#B" n="3"/>ctionis praesentis obiecti per apertam visionem consistit nostra beatitudo creata: ad quam non potest 
+       <lb ed="#B" n="4"/>attingere, nisi sanato oculo intellectus, &amp; gustu affectus, fomite ex peccato, &amp; omni illecebra peccati ex 
+       <lb ed="#B" n="5"/>purgatis. 
+      </p>
+      <p xml:id="n3av8a-c1e2062-d1e499">
+       DE oculi purgatione <name ref="#Augustine">Augustinus</name> sermo id est super loan. loquens de luce quae deus est, &amp; de homine 
+       <lb ed="#B" n="6"/>viatore, dicit. Caecus praesens est: oculus eius absens est: fordidos &amp; saucios oculos habet: quomodo si videre 
+       <lb ed="#B" n="7"/>non posset irruente puluere vel fumo diceret illi medicus purga de oculo tuo quicquid mali est, vt pos- 
+       <lb ed="#B" n="8"/>sis videre lumen oculorum tuorum: Puluis &amp; fumus peccata &amp; iniquitates sunt: tolle omnia ista &amp; vide 
+       <lb ed="#B" n="9"/>bis sapientiam quae praesens est: quia deus ipse est sapientia: et dictum est: Beati mundo corde, quoniam ipsi deum  
+       <lb ed="#B" n="10"/>videbunt. De purgatione affectus dicit li. lxxxiii, quod qi. xxxvi. Charitatis venenum est spes adipiscendorum, aut 
+       <lb ed="#B" n="11"/>retinendorum temporalium: nutrimentum eius est immutatio: charitatis perfectio nulla cupiditas. Et lo- 
+       <lb ed="#B" n="12"/>quitur non tantum de cupiditate veniali &amp; mortali, sed virtuali in essentia fomitis: quae non repugnat essentiae 
+       <lb ed="#B" n="13"/>charitatis, neque eius augmento. quia non repugnat augmento nisi eius actus: eius autem essentia illi augmen 
+       <lb ed="#B" n="14"/>to per se non repugnat, quod consistit in perfecta dilectione: secundum quod dicit Augustinde sen. Iacobi. In aliis ma-  
+       <lb ed="#B" n="15"/>ior: in aliis minor, in aliis nulla est. Plenissima autem quae non potest augeri, quamdiu homo hic viuit in nemi 
+       <lb ed="#B" n="16"/>ne: quamdiu autem augeri potest, profecto illud quod minus est, ex vitio est. Ex quo vitio non est iustus in terra 
+       <lb ed="#B" n="17"/>qui faciat bonum &amp; non peccet. Plenissimam intelligo quo ad perfectionem, non tam in substantia cha-  
+       <lb ed="#B" n="18"/>ritatis, quam in actione dilectionis, quae reuera in nemine hic viuente potest esse: etsi intelligatur secun- 
+       <lb ed="#B" n="19"/>dum praedictum modum charitas quo ad substantiam augeri in infinitum. Tale, naugmentum quamdiu  
+       <lb ed="#B" n="20"/>potest fieri in re ipsa, non potest adesse illa perfectio: quia ipsa finem ponit augmento in ipsa substantia 
+       <lb ed="#B" n="21"/>charitatis ratione status: licet quantum est de ratione substantiae charitatis absolutae, charitas existens 
+       <lb ed="#B" n="22"/>in multis bonis posset augmentari: quia nondum peruenit ad terminum naturae charitatis possibilem: quia  
+       <lb ed="#B" n="23"/>charitas vnius beati minor est quam charitas alterius beati: cum tamen cuiuslibet charitas quantum est ex na-  
+       <lb ed="#B" n="24"/>tura ipsius charitatis possibilis est ad aequalem gradum &amp; terminum augmenti. Et quod non possit ille 
+       <lb ed="#B" n="25"/>status in praesenti adesse: hoc euenit ex vitio fomitis quod semper adest: &amp; semper adesset etiam si in ipsa re procede 
+       <lb ed="#B" n="26"/>ret tale augmentum in infinitum, quia esse charitatis non contrariatur essentiae fomitis. Et ideo essen 
+       <lb ed="#B" n="27"/>tia tota fomitis semper maneret integra in radice quantumcunque charitas ponatur in statu vitae huius 
+       <lb ed="#B" n="28"/>augmentari. Quia enim ei contrariatur, hoc est quo ad concupiscendi possibilitatem secundum actum: quae  
+       <lb ed="#B" n="29"/>in infinitum minui potest: eo quod sua imminutio in negatione consistit: quia semper minus &amp; minus po- 
+       <lb ed="#B" n="30"/>test exigere, secundum quod charitas augmentatur magis semper &amp; magis. cuius augmentatio consi- 
+       <lb ed="#B" n="31"/>stit in positione. Propter quod non sequitur: quod licet fomitis cupido possit in infinitum diminui: vt sit sem 
+       <lb ed="#B" n="32"/>per minor &amp; minor: quod similiter charitas possit augeri vt sit semper maior &amp; maior proportionaliter: 
+       <lb ed="#B" n="33"/>quoniam limitationi creaturae infinitas negatiua siue priuatiua non repugnat: sicut ei repugnat 
+       <lb ed="#B" n="34"/>infinitas positiue. Vnde <name ref="#Aristotle">philosophus</name> in caelo licet sit corpus finitum posuit priuationem infinitam po- 
+       <lb ed="#B" n="35"/>tentiae, &amp; virtutis mouentis ipsum ad corruptionem. Et ideo vlterius posuit quod caelum in suo esse haberet in-  
+       <lb ed="#B" n="36"/>finitam quietem oppositam motui qui est ab esse in non esse: &amp; illam quietem in esse, non posuit esse in  
+       <lb ed="#B" n="37"/>eo per virtutem alicuius alterius conseruantis in esse: sicut ponit sides: sed quod esset in eo per priuatio- 
+       <lb ed="#B" n="38"/>nem virtutis: &amp; ideo posuit ipsum incorruptibile ex se: vt dicit Auerrois in fine de substantia orbis. 
+       <lb ed="#B" n="39"/>
+      </p>
+      <p xml:id="n3av8a-c1e2062-d1e582">
+       VNde quia argumentum primum probat augmentum charitatis viae non posse procedere in infinitum  
+       <lb ed="#B" n="40"/>quia adaequaretur charitati patriae: &amp; hoc quo ad augmentum charitatis, quasi in illo ponatur chari 
+       <lb ed="#B" n="41"/>tatis vltima perfectio, &amp; non in eius actione: ad cuius perfectionem, vt dictum est, charitas nullo mo 
+       <lb ed="#B" n="42"/>do posset attingere, etsi augmentaretur in infinitum: ideo respondendum est ad ipsum, quantum ad  
+       <lb ed="#B" n="43"/>hoc quod ponimus aliquo modo charitatem viae posse augeri in infinitum: Dicendo quod si loquamur de chari 
+       <lb ed="#B" n="44"/>tate patriae in sua perfecta dilectione, simpliciter falsum est: vt patet ex dictis, etiam si procederet in in  
+       <lb ed="#B" n="45"/>finitum secundum substantiam &amp; secundum dilectionem viae: quemadmodum si cognitio intellectu 
+       <lb ed="#B" n="46"/>alis ex fide intenderetur in infinitum, nunquam tamen adaequaretur apertae visioni: quia est alterius gene 
+       <lb ed="#B" n="47"/>ris. Et similiter augmentum cognitionis quod additur in aperta visione, est alterius generis quam sit augmen 
+       <lb ed="#B" n="48"/>tum quod recipit intellectualis cognitio secundum se. Sic etiam augmentum dilectionis, quod dilectio 
+       <lb ed="#B" n="49"/>patriae addit super dilectionem viae, est quodammodo alterius generis secundum praedicta, quam sit au-  
+       <lb ed="#B" n="50"/>gmentum dilectionis viae secundum se. Et hoc quemadmodum cum imaginatione mathematica, linea mouea 
+       <lb ed="#B" n="51"/>tur ad latus in superficiem, augmentum quid additur lineae in constitutione superficiei, omnino est alterius ge 
+       <lb ed="#B" n="52"/>neris quam sit augmentum quod convenit lineae in longum secundum se. Propter quod cognitio aut dilectio viae nunquam  
+       <lb ed="#B" n="53"/>adaequari potest tali cognitioni aut dilectioni patriae, etsi in infinitum ponatur augmentari: quemadmodum  
+       <lb ed="#B" n="54"/>si in infinitum augeretur linea sub ratione lineae nunquam adaequaretur superficiei. Vel vt aliud exemplum cla 
+       <!--441.xml-->
+       <pb ed="#B" n="200-v"/>
+        <lb ed="#B" n="1"/>rius aliquantulum ponamus de angulo incluso inter lineam rectam diametri, &amp; curuam semicirculi, qui si 
+       <lb ed="#B" n="2"/>in infinitum augmentaretur ad augmentationem lineae semicircularis, nunquam attingeret ad quantitatem an  
+       <lb ed="#B" n="3"/>guli recti clausi inter lineam rectam perpendiculariter cadentem super extremitatem eiusdem diametri. &amp; hoc 
+       <lb ed="#B" n="4"/>quia licet angulus ex natura essentiae suae qua angulus est, eiusdem rationis sit siue claudatur sub linea cur 
+       <lb ed="#B" n="5"/>ua, siue sub linea recta: cum quia alterius rationis est linea curua, &amp; linea recta includens ipsum: ideo quantum  
+       <lb ed="#B" n="6"/>est ex natura sua cum est minor recto possit fieri aequalis: tamen inquantum est inclusus sub linea curua manens sub 
+       <lb ed="#B" n="7"/>curua nullo modo potest ei aequari. Consimiliter in proposito licet charitas viae quo ad feruorem dilectionis eius, quantum  
+       <lb ed="#B" n="8"/>est de essentia charitatis &amp; ipsius feruoris, possit adaequari essentiae charitatis patriae &amp; feruori eius in  
+       <lb ed="#B" n="9"/>quantum consequitur essentiam charitatis secundum eius analogiam: tamen inquantum ille feruor charitatis est conium 
+       <lb ed="#B" n="10"/>ctus praesentiae obiecti in apta visione, nunquam potest attingi a feruore charitatis viae inquantum est circa ob  
+       <lb ed="#B" n="11"/>iectum solum praesens in aenigmate, per aenigmaticam cognitionem, quoniam cognitio apertae visionis omnino est al 
+       <lb ed="#B" n="12"/>terius rationis quam sit illa quae est in aenigmate. Si vero loquamur de charitate patriae, quo ad suam perfectionem 
+       <lb ed="#B" n="13"/>in substantia habitus charitatis, posset dici secundum iam dicta quod non est inconueniens quod aequalis sit aut ma-  
+       <lb ed="#B" n="14"/>ior charitas vnius viatoris, quam alterius contemplatoris: vt dicatur quod cuilibet in praesenti datur quicquid me 
+       <lb ed="#B" n="15"/>retur de augmento essentiae charitatis: vt ipso vtatur ad promerendum amplius quam promereretur si pars reserua 
+       <lb ed="#B" n="16"/>retur conferenda in patria: &amp; quod hoc multum attestatur diuinae misericordiae. Si enim dat gratiam immeritam in  
+       <lb ed="#B" n="17"/>praesenti vt videtur, multo fortius dat &amp; omnem meritam. Sed adhuc multum distat a perfectione chari- 
+       <lb ed="#B" n="18"/>tatis patriae: vt dictum est: vt sic finis charitatis vltimus non sit terminus augmenti in sua essentia: quod  
+       <lb ed="#B" n="19"/>secundum istam positionem hoc posset haberi in fine vitae alicuius: sed consistat in eius operatione, quae non po 
+       <lb ed="#B" n="20"/>test esse in hac vita: sed solum in patria: vt dictum est: in qua consistit plenitudo charitatis quae augeri 
+       <lb ed="#B" n="21"/>non pont, quae in nemine est quamdiu hic viuit. Et secundum hoc ponendo quod motus augmenti in charitate viae 
+       <lb ed="#B" n="22"/>procedat in infinitum secundum dictum modum, ponendum est cum hoc quod est ordinatus ad terminum, &amp; 
+       <lb ed="#B" n="23"/>ad finem, etsi non ad adipiscendum in hac vita, tamen in futura. Vnde &amp; praeceptum de tali modo dilectio- 
+       <lb ed="#B" n="24"/>nis non fuit datum vt omnino in praesenti adimpleretur: quia hoc est impossibile: sed vt perfectio illa qua  
+       <lb ed="#B" n="25"/>impleri posset desideraretur. dicente <name ref="#Augustine">Augustinus</name> de sen. Iacobi. lbi videt qui recte videt vbi &amp; quando &amp; vn  
+       <lb ed="#B" n="26"/>de speranda sit illa perfectio cum non sit quod adiici possit. Si autem praecepta non essent non vtique esset vbi ho 
+       <lb ed="#B" n="27"/>mo se inspiceret &amp; videret vnde auerteretur: quo coronatetur: quare gratularetur: quid peccaretur. Vnde 
+       <lb ed="#B" n="28"/>istam perfectionem expectandam in futuro sub comparatione ad illam quae habetur in praesenti: bene ex 
+       <lb ed="#B" n="29"/>ponit glos. quae super illud Phil. iii. Quicumque perfecti sumus hoc sentiamus: dicit sic. Hoc sentiam scilicet quod non 
+       <lb ed="#B" n="30"/>dum perfecti sumus respectu futuri. &amp;. quid de. non loquor de imperfectis quibus adhuc non valeo loqui sapi 
+       <lb ed="#B" n="31"/>entiam: qui adhuc lacte potantur: non solido cibo pascuntur: sed illis dico qui iam perfecti esse videntur: qui mam 
+       <lb ed="#B" n="32"/>ducant solidum cibum: quia intelligunt aequalitatem verbi cum patre: sed nondum vident adhuc quomodo vi 
+       <lb ed="#B" n="33"/>dendum est facie ad facien. Certa enim fides hic vbique inchoat cognitionem: cognitio vero certa non perfici 
+       <lb ed="#B" n="34"/>tur nisi post hanc vitam, cum viderimus facie ad facien. Et infra. Et sciendum quod iustitia qua iustus ex fide 
+       <lb ed="#B" n="35"/>viuit: nunc vera iustitia est: quae licet non immerito in aliquibus iustis nunc vera pro huius vitae capacitate &amp; perfe- 
+       <lb ed="#B" n="36"/>cta dicatur: parua tamen est ad illam magnam quam cepit aequalitas angelorum. Minor ista iustitia facit meritum 
+       <lb ed="#B" n="37"/>illa maior facit praemium. 
+      </p>
+      <p xml:id="n3av8a-c1e2062-d1e705">
+       ALIAvero est opinio communis quod charitas quo ad suam essentiam non habetur hic per 
+       <lb ed="#B" n="38"/>fecta, nec potest habere perfectum augmentum. &amp; secundum illam dicendum quod tanta est quantitas charitatis 
+       <lb ed="#B" n="39"/>patriae secundum essentiam in minimo beato: vt nullius vita prolixa hic sanctissima sufficiat ad promeren- 
+       <lb ed="#B" n="40"/>dum augmentum aequale charitati illius. Secundum hoc exponitur illud. Qui minor est in regno caelorum ma-  
+       <lb ed="#B" n="41"/>ior est illo, quod secundum priorem opinionem exponitur quo ad feruorem actus. Isti autem ad confirmationem 
+       <lb ed="#B" n="42"/>dicti sui adducunt glossam supra idem quid statim supra: quae dicit. Quotquot perfecti sumus hoc sentiamus 
+       <lb ed="#B" n="43"/>quod non dum perfecti sumus: vt illic perficiamur quo perfecte adhuc currimus, vt cum venerit quod perfectum est 
+       <lb ed="#B" n="44"/>destruatur quod ex parte esti. i,. non iam ex parte sit: sed tota,. quia fidei &amp; spei res ipsa quae videtur &amp; tenetur succe- 
+       <lb ed="#B" n="45"/>dit. charitas vero quae his maior est non auferetur, sed augebitur &amp; implebitur. In qua plenitudine implebitur illud  
+       <lb ed="#B" n="46"/>praeceptum charitatis. Diliges dominum deum tuum ex toto corde &amp;c. Et constat vt dicit ista secunda opinio, quod  
+       <lb ed="#B" n="47"/>hoc non intelligitur nisi de charitate secundum suam substantiam. Illa. n. sola secundum quod huiusmodi non aufertur: etsi 
+       <lb ed="#B" n="48"/>actus eius alterius modi in diligendo quam habuit hic succedit: vt patet ex dictis. Si ergo impletur vt fiat 
+       <lb ed="#B" n="49"/>tota: quid autem est primo ex parte: &amp; postmodum sit totum: si illud sit secundum partem integrantem rei quantitatem si- 
+       <lb ed="#B" n="50"/>cut contingit in proposito: oportet quod hoc fiat per additionem alterius partis integrantis quantitatem 
+       <lb ed="#B" n="51"/>quae non ponit augmentum nisi secundum rei substantiam, quod expresse insinuat glos. quae sequitur. In quae plenitudi 
+       <lb ed="#B" n="52"/>ne &amp;c. vt oporteat quod aliud sit plenitudo ipsa, aliud operatio quae impletur ex ipsa plenitudine. Augu 
+       <lb ed="#B" n="53"/>stinus tamen in fine Enchi. videtur innuere quod ista plenitudo possit haberi in vita ista. vbi dicit sic. Mi- 
+       <lb ed="#B" n="54"/>nuitur autem cupiditas charitate crescente: donec veniat hic ad tantam magnitudinem qua maior  
+       <!--442.xml-->
+       <pb ed="#B" n="201-r"/>
+        <lb ed="#B" n="1"/>esse non possit. Et signanter dicit hoc, ad differentiam illius quae erit in patria, de qua continuo sub  
+       <lb ed="#B" n="2"/>dit dicens. lbi quis explicet quanta charitas erit, vbi cupiditas quam nunc coercendo superat nul 
+       <lb ed="#B" n="3"/>la erit: Et amplius <name ref="#Augustine">Augustinus</name> primo Retracta. cap. vii. illud quod dixerat in libro de morib. ecclesiae, De 
+       <lb ed="#B" n="4"/>um quem cognoscere volumus prius plena charitate diligamus: retractans exponendo ait. Melius di-  
+       <lb ed="#B" n="5"/>ceretur syncera quam plena: nisi forte putatur charitatem Dei non futuram esse aiorem quando videbimus fa 
+       <lb ed="#B" n="6"/>cie ad faciem. Sic itaque accipiatur tanquam plena dicta sit qua maior esse non possit quamdiu ambulamus per  
+       <lb ed="#B" n="7"/>fidem. Erit enim plenior immo plenissima, sed per speciem. 
+      </p>
+      <p xml:id="n3av8a-c1e2062-d1e767">
+       VNde secundum istam opinionem quae certior est 
+       <lb ed="#B" n="8"/>&amp; cui magis <name ref="#Augustine">Augustinus</name> consentit in iam dicta auctoritate libro Retract. respondendum est argumento quod  
+       <lb ed="#B" n="9"/>pro se implicat praecedens opinio: scilicet quod Deus dat in praesenti charitatem immeritam, multo fortius ergo  
+       <lb ed="#B" n="10"/>&amp; meritam. Dicendum quod charitas necessaria fuit: quia sine illa iustificatio non fit vt iustificatus pose 
+       <lb ed="#B" n="11"/>sit mereri. In merito autem ex parte merentis simul agunt charitas &amp; liberum arbitrium: sed plus chari- 
+       <lb ed="#B" n="12"/>tas: propter quid plus meretur: vt pro quanto meretur liberum arbitrium statim detur ei ad vsum: pro quan 
+       <lb ed="#B" n="13"/>to vero meretur charitas, reseruetur ad praemium: quod necesse non est dari sicut charitatem primam: quia  
+       <lb ed="#B" n="14"/>sine illo poterit mereri: &amp; forte dari non expedit: vt cum minori adiutorio liberum arb. proficiat gloriosius.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

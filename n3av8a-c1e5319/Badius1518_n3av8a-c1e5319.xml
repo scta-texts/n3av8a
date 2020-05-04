@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="559-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5319">
+       <head xml:id="n3av8a-c1e5319-Hd1e96">Quaestio 2</head>
+       <p xml:id="n3av8a-c1e5319-d1e99">
+        <lb ed="#B" n="29"/>SEquitur de pertinentibus ad solas creaturas. vbi quaerebatur vnicum pertinens com- 
+       <lb ed="#B" n="30"/>muniter ad omnes creaturas: deinde quaerebantur quaedam alia specialiter pertinentia ad  
+       <lb ed="#B" n="31"/>creaturas determinatas. Illud autem vnicum erat. Vtrum in creaturis vnum &amp; idem 
+       <lb ed="#B" n="32"/>secundum rem possit esse fundamentum plurium relationum realium. Ex arguitur quod  
+       <lb ed="#B" n="33"/>non, sic, quid non conuenit alicui nisi ratione suae infinitatis, nulli creaturae conveni- 
+       <lb ed="#B" n="34"/>re potest: quia non potest habere illam infinitatem. sed quod plures relationes funden- 
+       <lb ed="#B" n="35"/>tur in eodem secundum rem, hoc non conuenit alicui nisi ratione suae infinitatis. hoc enim vt videtur non  
+       <lb ed="#B" n="36"/>convenit diuinae essentiae in tribus personis nisi ratione suae infinitatis. ergo &amp;c. Contra. actiuum reali relatio 
+       <lb ed="#B" n="37"/>ne refertur ad passiuum &amp; econuerso. secundum <name ref="#Aristotle">philosophum</name> quito Metaphysicae actiuum autem &amp; passiuum fundantur su 
+       <lb ed="#B" n="38"/>per vnum &amp; idem in creaturis quae seipsas mouent, vt homo &amp; angelus, secundum intellectum &amp; volum- 
+       <lb ed="#B" n="39"/>tatem. ergo &amp;c. Quaestio ista, vt puto, inducta est propter difficultatem tactam in hoc secundo argu  
+       <lb ed="#B" n="40"/>mento: an aliquid idem possit esse mouens &amp; motum, quia si non: nec possent relationes illae fundari in eo- 
+       <lb ed="#B" n="41"/>dem: quia non fundantur nisi per motum distinctum per actionem &amp; passionem, si sic: tunc bene super idem  
+       <lb ed="#B" n="42"/>possunt fundari. Vt autem clarius descendamus ad propositum: sciendum quod diuersas fundari relationes 
+       <lb ed="#B" n="43"/>reales in eodem secundum rem, potest intelligi dupliciter: vel in eodem simplici, vel in eodem ex plu 
+       <lb ed="#B" n="44"/>ribus composito, quid dicitur vnum subiecto: &amp; habet in se plura secundum rem differentia. Quod reuera bene secun 
+       <lb ed="#B" n="45"/>dum vnum illorum mouet: &amp; secundum aliud mouetur: sumendo moueri large ad mutari. hoc enim 
+       <lb ed="#B" n="46"/>modo graue remoto impedimento mouet seipsum vt saepe exposuimus. Hoc etiam modo semen mouet 
+       <lb ed="#B" n="47"/>seipsum in generatione alicuius ex semine secundum modum tactum in praecedenti quaestione: &amp; simi 
+       <lb ed="#B" n="48"/>liter aqua calida mouet se ad frigiditatem vt alias diximus. Hoc etiam modo nullo extrinsecus agente 
+       <lb ed="#B" n="49"/>corporale mixtum a seipso corrumpitur secundum <name ref="#Aristotle">philosophum</name> tertio Physicorum. &amp; in tali eodem diuersae relationes 
+       <lb ed="#B" n="50"/>reales fundantur super idem: tamen secundum aliud &amp; aliud secundum rem in ipsa. licet enim verum est quod agere &amp; pati semper 
+       <lb ed="#B" n="51"/>sint compositi atque totius, videtur tamen quod semper aliud &amp; aliud compositum seu totum sit agens &amp; aliud pas- 
+       <lb ed="#B" n="52"/>sum: vt sint separata &amp; tangentia sese quantitatibus suis diuersis seorsum existentibus. Sed sufficit quod  
+       <lb ed="#B" n="53"/>idem totum sit agens aliquo sui: &amp; idem sit patiens totum secundum aliquid aliud sui. vt secundum hoc non proprie dicatur 
+       <lb ed="#B" n="54"/>caliditas agere in humiditatem, siue ambo sint in eodem subiecto siue in alio &amp; alio: sed potius totum composi 
+       <!--1158.xml-->
+       <pb ed="#B" n="559-r"/>
+        <lb ed="#B" n="1"/>tum vt calidum siue habens in se calorem, dicitur agere, &amp; totum compositum vt humidum siue habens in se humi 
+       <lb ed="#B" n="2"/>ditatem, dicitur pati. vnde quando simul sunt in eodem subiecto calor &amp; humiditas, idem vt totum &amp; vt composi 
+       <lb ed="#B" n="3"/>tum agit in seipsum: sed alio sui agit: &amp; alio sui patitur: per quod quoquo modo agens tangit passum 
+       <lb ed="#B" n="4"/>Tangere autem tactum: quo tactum caret omnino quantitate tangentis: non semper requiritur secun- 
+       <lb ed="#B" n="5"/>dum quod saepius exposui. Ex quo patet non valere quid aliqui nituntur arguere contra dicta nia nunc 
+       <lb ed="#B" n="6"/>&amp; alias: quod non agit neque patitur nisi totum compositum: tangens ergo idem subiecto non possunt esse agens, 
+       <lb ed="#B" n="7"/>&amp; patiens: siue actiuum &amp; passiuum. Quod etiam arguunt: quod nullius formae est agere ad subiecti sui destru 
+       <lb ed="#B" n="8"/>ctionem: sed potius ad eius conseruationem: quia tunc ageret ad destructionem suiipsius: cum tamen vnumquidque natu  
+       <lb ed="#B" n="9"/>raliter agit ad suiipsius conseruationem: Dico quod hoc non habet veritatem nisi in simplicibus: in mixtis 
+       <lb ed="#B" n="10"/>enim nunquam cessat calor naturalis consumere humidum. aliter nunquam corrumperetur mixtum nullo extrin 
+       <lb ed="#B" n="11"/>secus agente. secundum quod etiam aliqui hoc supponentes ponebant corpora danmnatorum incorruptibilia: quid  
+       <lb ed="#B" n="12"/>alibi reprobauimus. In mixtis ergo calor naturaliter corrumpit suum subiectum: &amp; sic seipsum: licet per se 
+       <lb ed="#B" n="13"/>vnumquodque nititur saluare seipsum. Sed istae modus agendi aliquid in seipsum non est ille de 
+       <lb ed="#B" n="14"/>quo ad praesens quaerimus: sed quaerimus de eodem simplici secundum rem: de quo distinguo:  
+       <lb ed="#B" n="15"/>quia aut cum hoc quod ipsum est idem re: est etiam idem ratione, aut cum hoc est diuersumra- 
+       <lb ed="#B" n="16"/>tione. Si primo modo, dico quod nunquam in eodem neque in deo neque in creaturis diuersae relationes rea- 
+       <lb ed="#B" n="17"/>les fundantur. nisi enim in deo differrent ratione intellectus &amp; voluntas, nunquam essent emanationes 
+       <lb ed="#B" n="18"/>diuersae in diuinis secundum diuersas relationes: vt alibi satis declarauimus. xi. Quolibet quaestione 
+       <lb ed="#B" n="19"/>sexta: &amp; in quaestionibus ordi. arti. ln quaestione. vi. In quibus locuti sumus de relationibus actiuorum 
+       <lb ed="#B" n="20"/>&amp; passiuorum vt sunt in distinctis suppositis: licet super idem re secundum aliam &amp; aliam rationem fundatae:  
+       <lb ed="#B" n="21"/>vt contingit in diuinis, absque tamen mutatione &amp; motu aliquo: &amp; vt etiam actiuum &amp; passiuum 
+       <lb ed="#B" n="22"/>sunt distincta secundum suppositum &amp; rem absolutam, in quibus est motus corporalis &amp; proprie dictus 
+       <lb ed="#B" n="23"/>Et ideo nec etiam relationes diuersae &amp; reales quae non sumuntur in diuinis nisi secundum emanationes &amp; ter 
+       <lb ed="#B" n="24"/>minos earum, possent esse in diuinis: quare &amp; multo minus in creaturis: in quibus non sunt relationes rea 
+       <lb ed="#B" n="25"/>les diuersae nisi secundum maiorem diuersitatem fundamentorum quam in diuinis, vt iam patebit. Si ergo sit aliquid  
+       <lb ed="#B" n="26"/>idem simplicitate rei &amp; diuersum ratione: aut ergo ratione absoluta: &amp; hoc est absque ordine ad aliquid  
+       <lb ed="#B" n="27"/>extrinsecum quod exigat: aut respectiua, &amp; hoc est in ordine ad aliquid extrinsecum re differens, quid exigit 
+       <lb ed="#B" n="28"/>vt sit illarum relationum fundamentum. Si primo modo, dico quod in solo deo super idem secundum diuersas 
+       <lb ed="#B" n="29"/>rationes fundantur respectus disparati secundum duo genera relationum, puta secundum actum 
+       <lb ed="#B" n="30"/>generationis actiuae &amp; passiuae super diuinam essentiam vt habet rationem intellectus: &amp; secundum actum spi 
+       <lb ed="#B" n="31"/>rationis actiuae &amp; passiuae super eandem essentiam vt habet rationem voluntatis. Si secundo modo: aut er- 
+       <lb ed="#B" n="32"/>go differt idem re &amp; ratione respectiua vnius ad vnum, aut vnius ad diuersa. Si secundo modo: sic in  
+       <lb ed="#B" n="33"/>creaturis bene diuersae relationes reales fundantur super idem re simplici: scilicet secundum ordinem 
+       <lb ed="#B" n="34"/>eius ad diuersa, puta super eandem albedinem in vno albo fundatur similitudo in ordine suo ad aliud al 
+       <lb ed="#B" n="35"/>bum, &amp; dissimilitudo in ordine suo ad nigrum. Et sunt similitudo &amp; dissimilitudo duae species relationum 
+       <lb ed="#B" n="36"/>inter se contrariarum: quarum quaelibet requirit in extremis diuersitatem realem fundamentorum absolutorum. Sili- 
+       <lb ed="#B" n="37"/>tudo quidem secundum numerum sub eadem specie qualitatis. Dissimilitudo vero secundum speciem sub eodem genere quali  
+       <lb ed="#B" n="38"/>tatis. Et quia nulla diuersitas realis absolutorum cadit in deo, ideo plures tales relatones reales non praesent funda 
+       <lb ed="#B" n="39"/>ri super illud vnum singlare quod est in deo: de quali pluralitate adhuc non quaerimus: sed quaerimus de philosoali 
+       <lb ed="#B" n="40"/>tate relationum realium in eodem simplici secundum rem, super quod ambae fundantur secundum diuersas rationes 
+       <lb ed="#B" n="41"/>respectiuas vnius ad vnm. scilicet illarum rationum inter se. Et est dicendum quod super idem sic diuersum secundum  
+       <lb ed="#B" n="42"/>rationem talem non possunt fundari relationes reales plures conuenientes in nomine, cuiusmodi sunt aequa  
+       <lb ed="#B" n="43"/>le &amp; simile &amp; eorum contraria: quia vt dictum est, istae relationes cum sint reales requirunt realem diuersita 
+       <lb ed="#B" n="44"/>tem fundamentorum: neque similiter diuersae relationes reales secundum mensuram &amp; mensuratum: quia altera 
+       <lb ed="#B" n="45"/>istarum secundum rationem est: secundum philosophum. v metaphysicae, vt ista quae est in mensura. Si ergo essent diuersae 
+       <lb ed="#B" n="46"/>relationes, oporteret quod essent diuersa mensurata: quae necessario sunt re diuersa secundum diuersas perfectio 
+       <lb ed="#B" n="47"/>nes reales. &amp; sic super idem secundum modum quem quaerimus non possunt fundari plures relationes reales secundum 
+       <lb ed="#B" n="48"/>duos modos relationum neque in diuinis: neque in creaturis. Si ergo illud sit possibile, hoc solum oportet 
+       <lb ed="#B" n="49"/>esse in actiuis &amp; passiuis. Quod procul dubio secundum fidem necesse est ponere in diuinis: pater enim &amp; 
+       <lb ed="#B" n="50"/>silius in diuinis dicuntur relatione reali inter se secundum vtrumque extremorum secundum rationem actiui &amp; 
+       <lb ed="#B" n="51"/>passiui. Sed dubium est multis an hoc possit contingere in creaturis. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e279">
+       ET dicunt multi quod in creaturis hoc 
+       <lb ed="#B" n="52"/>omnino est impossibile: quia actiuum &amp; passiuum siue agens &amp; actum siue producens &amp; productum in creaturis non sunt si 
+       <lb ed="#B" n="53"/>ne motu aut mutatione. secundum quam vadit aliquid de potentia ad actum. Actus autem &amp; potentia necessario sunt 
+       <lb ed="#B" n="54"/>contraria: nec compatiuntur sese circa idem. vnde per immediata diuidunt ens secundum totum ambitum suum. omne 
+       <!--1159.xml-->
+       <pb ed="#B" n="559-v"/>
+        <lb ed="#B" n="1"/>enim ens autem est in potentia, &amp; sicut materia: aut est in actum: &amp; sicut forma vel habens formam. 
+       <lb ed="#B" n="2"/>secundum actum autem &amp; potentiam sumitur differentia inter agens &amp; actum. Nullo ergo modo in  
+       <lb ed="#B" n="3"/>eadem re simplici creata, quantumcunque ratione diuersificetur, possunt esse actiuum &amp; passiuum siue agens 
+       <lb ed="#B" n="4"/>&amp; actum: vt idipsum re sit agens &amp; actum. aliter enim res seipsam formaret: &amp; quod est in potentia sese 
+       <lb ed="#B" n="5"/>deduceret ad actum, &amp; esset simul in potentia &amp; in actum: quia secundum quod est agens debet esse in  
+       <lb ed="#B" n="6"/>actum, &amp; secundum quod est patiens debet esse in potentia. Et ideo dicunt aliqui quod tales relationes reales duae quae  
+       <lb ed="#B" n="7"/>sunt in actiuis &amp; passiuis, nullo modo possunt super idem re differens sola ratione fundari in creaturis: li- 
+       <lb ed="#B" n="8"/>cet hoc sit possibile in deo: vbi nihil vadit de potentia ad actum: sed in eo sunt ratio actiui &amp; passi 
+       <lb ed="#B" n="9"/>ui, absque omni innouatione: &amp; secundum aliam rationem quam in creaturis: quid impossibile est esse in crea- 
+       <lb ed="#B" n="10"/>turis sicut iam patebit. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e314">
+       DIco quod reuera potentia est contraria actui non cuicumque: sed illi qui est complementum 
+       <lb ed="#B" n="11"/>ipsius potentiae. lste enim actus cum res est in potentia, non est: &amp; econuerso cum ipsa est in potentia actus non est 
+       <lb ed="#B" n="12"/>Et isti sunt actus &amp; potentia qui diuidunt ens, &amp; impossibile est quod aliquid idem re vt est in potentia ad  
+       <lb ed="#B" n="13"/>talem actum, deducat se ad illum: idem tamen re quod est in potentia ad talem actum, puta voluntas ad actum 
+       <lb ed="#B" n="14"/>volitionis, si simul cum hoc quod est in potentia ad actum illum secundum vnam rationem eius possit esse in actu sub isto 
+       <lb ed="#B" n="15"/>secundum aliam eius rationem secundum quam natus est iste actus produci ab eodem secundum aliam rationem, nullum est inconueniens 
+       <lb ed="#B" n="16"/>quod idem vt est in actum secundum vnam eius rationem, seipsum vt est in potentia ad illum secundum aliam rationem deducat 
+       <lb ed="#B" n="17"/>de potentia ad actum. verbi genera, si sol cum hoc quod est calidus virtute esset in potentia ad actum secundum 
+       <lb ed="#B" n="18"/>formam caloris, seipsum prout est actu &amp; virtute talis qualis est in potentia vt fiat talis secundum 
+       <lb ed="#B" n="19"/>formam caloris de potentia calido faceret actu calidum. Similiter si forma substantialis lapidis ha-  
+       <lb ed="#B" n="20"/>beret vim illam quam habet forma accidentalis grauitatis quae est in ipso, &amp; hoc ex se &amp; substantialiter 
+       <lb ed="#B" n="21"/>absque forma accidentali grauitatis existente in ipso: tunc per hoc quod esset in actum secundum vim illam posset lapi- 
+       <lb ed="#B" n="22"/>dem facere in actum secundum descensum deorsum cessante impedimento, ad quem impedimento existente erat in  
+       <lb ed="#B" n="23"/>potentia, actu tamen sub illa vi. Sic dico in proposito quod voluntas ratione suae libertatis est virtute tale 
+       <lb ed="#B" n="24"/>quid quale est volitio, forma scilicetur sua quae ipsa est. Propter quod ipsa voluntas quia virtute talis est 
+       <lb ed="#B" n="25"/>qualis est ipsa secundum formam quando est informata forma volitionis, siue quae est volitio ipsa: seipsam vt est in  
+       <lb ed="#B" n="26"/>potentia ad formam volitionis potest deducere de potentia ad actum: &amp; est volitio actui qui est complementum il 
+       <lb ed="#B" n="27"/>lius potentiae &amp; isti potentiae contraria: nec prasent esse simil. Actus autem quo voluntas est virtute tale nec volitio 
+       <lb ed="#B" n="28"/>ni nec potentiae ad illam contrariatur: sed est simul cum ambobus quia est alterius generis: &amp; cum voluntas secundum 
+       <lb ed="#B" n="29"/>actum volitionis seipsam facit de potentia in actum, est actio agentis aequiuoci: sicut cum sol generat homi- 
+       <lb ed="#B" n="30"/>nem aut calorem. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e360">
+       CVM ergo quaerunt &amp; arguunt sic aliqui: si voluntas continet virtute formam illam 
+       <lb ed="#B" n="31"/>ad quam est in potentia, aut ergo sicut instrumentum: aut sicut agens principale. Dico quod sicut agens principale 
+       <lb ed="#B" n="32"/>&amp; essentiale. Quia addunt: ista ergo forma quam voluntas continet virtute, aut est eadem numero cum ista 
+       <lb ed="#B" n="33"/>ad quam est motus voluntatis, aut non: Dico quod ipsa eadem est: sicut eundem calorem quem generat sol 
+       <lb ed="#B" n="34"/>ex materia, prius continebat: &amp; simul quando producit, producit eum secundum actum formae: &amp; 
+       <lb ed="#B" n="35"/>continet eum virtute: sed solummodo ad semel generandum illum eundem secundum numerum. Ad pluries autem 
+       <lb ed="#B" n="36"/>immo infinities generandum continet virtute eundem secundum speciem. Sed arguunt: si voluntas continet illam 
+       <lb ed="#B" n="37"/>vt eandem numero iam habet volitionem illam, dico quod verum est si illam aliter habenet quamvirtute id est formaliter: ad  
+       <lb ed="#B" n="38"/>quam sic est in potentia. Similiter quod arguunt: si continet illam vt aliam numero: ergo non possunt esse 
+       <lb ed="#B" n="39"/>simul in eodem quia sunt eiusdem speciei: Respondendo modo eodem dico quod forma qua voluntas con 
+       <lb ed="#B" n="40"/>tinet virtute omnes volitiones quas potest in se habere est ipsa potentia volitiua vt actiua est: quae sola 
+       <lb ed="#B" n="41"/>ratione differt a substantia animae cuius est potentia: &amp; est potentia ipsa substantia animae secundum rem: &amp; 
+       <lb ed="#B" n="42"/>econverso. Et ideo sicut differunt genere ipsa animae substantia &amp; ipsa volitio, sicut forma quae est substantia &amp; 
+       <lb ed="#B" n="43"/>forma quae est accidens: sic differunt forma qua voluntas virtute continet formam quae est volitio, &amp; ipsa 
+       <lb ed="#B" n="44"/>volitio. &amp; est ruditas ingenii magna nescire distinguere qualiter aliquid continet formam aliquam for- 
+       <lb ed="#B" n="45"/>maliter vt ignis in se calorem suum, &amp; virtualiter vt sol istum calorem quem ignis continet for- 
+       <lb ed="#B" n="46"/>maliter. Credo quod ista videns de facili non possit redargui in hac materia: &amp; clare videre quomodo idem 
+       <lb ed="#B" n="47"/>ens in actu virtute potest bene seipsum deducere in actum secundum formam ad quam est in po- 
+       <lb ed="#B" n="48"/>tentia: &amp; sic formare seipsum: sicut &amp; formare posset aliud si talis actus posset transire in alterum  
+       <lb ed="#B" n="49"/>&amp; esse alterius quam agentis: sicut motus transit in alterum &amp; est alterius quam sit mouens. Sed istud non 
+       <lb ed="#B" n="50"/>est natum contingere secundum quemlibet actum in creaturis: nec est tamen omnino natum fieri in diui 
+       <lb ed="#B" n="51"/>nis. Licet enim relationes in actiuis &amp; passiuis habeant esse in diuinis secundum diuinos actus qui sunt 
+       <lb ed="#B" n="52"/>generatio &amp; spiratio, &amp; in creaturis secundum actum volitionis, &amp; illi consimiles, secundum quos idem 
+       <lb ed="#B" n="53"/>potest se ducere de potentia in actum, vt dictum est: &amp; similiter in creaturis secundum alios quibus nihil 
+       <lb ed="#B" n="54"/>seipsum sed solummodo aliud de potentia potest in actum ducere, vt patet in calefaciente, &amp; calefa- 
+       <!--1160.xml-->
+       <pb ed="#B" n="560-r"/>
+        <lb ed="#B" n="1"/>cto: hoc tamen est multum alio, &amp; alio modo: ita quod secundum haec tria genera relationum in actiuis &amp; 
+       <lb ed="#B" n="2"/>passiuis debent accipi. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e424">
+       AD cuius intelligentiam sciendum est, quod in fundatione dictarum relationum rea- 
+       <lb ed="#B" n="3"/>lium in diuinis super idem est duo considerare. Vnde. scilicet ipsum idem re, diuersum solum ratione: vt super ipsum  
+       <lb ed="#B" n="4"/>fundatur vna relatio &amp; alia. Aliud vere. scilicet personarum constitutionem per singulas relationes cum ipso funda- 
+       <lb ed="#B" n="5"/>mento &amp; illarum fundatione in isto: absque omni alio producto de fundamento. Quo ad primum quidem simile est 
+       <lb ed="#B" n="6"/>de diuina essentia in fundando super ipsam relationem actiui &amp; passiui, &amp; de voluntate. Quo ad secundum autem  
+       <lb ed="#B" n="7"/>magna est differentia: quia in voluntate relationes cum fundamento secundum diuersas illius rationes non 
+       <lb ed="#B" n="8"/>constituunt ipsa relata: sed ipsum fundamentum per diuersas relationes secundum relationem actiui &amp; 
+       <lb ed="#B" n="9"/>passiui, refertur secundum vnam rationem ad seipsum secundum aliam rationem: &amp; cum hoc etiam ipsae 
+       <lb ed="#B" n="10"/>relationes non fundantur super illud vnum in voluntate: nisi per actum productum in fundamen 
+       <lb ed="#B" n="11"/>to, qui est aliud re a fundamento. Aliud enim est voluntas aliud volitio. Et contingit ista diuersa re 
+       <lb ed="#B" n="12"/>periri multo magis in actiuis &amp; passiuis: in quibus relationes fundantur super re diuersa. in diui-  
+       <lb ed="#B" n="13"/>nis enim non est nisi vnicum secundum rem quod est fundamentum vtriusque relationis: &amp; cum vna relatione  
+       <lb ed="#B" n="14"/>constituit actiuum siue agens &amp; producens, vt patrem: qui diuina essentia vt est forma &amp; poten- 
+       <lb ed="#B" n="15"/>tia actiua super quam fundatur paternitas, generat: cum alia autem relatione constituit passiuum: siue actum 
+       <lb ed="#B" n="16"/>&amp; productum puta filium: qui eadem diuina essentia vt quasi materia &amp; potentia passiua super quam fun- 
+       <lb ed="#B" n="17"/>datur filiatio, congeneratur, nec est aliquid medium productum de essentia: vt motus seu forma educta per 
+       <lb ed="#B" n="18"/>motum, aut operatio, quainis est volitio in nobis: vt nihil henat diuina productio de actione &amp; passione nisi 
+       <lb ed="#B" n="19"/>rationes respectuum in suppositis vt constitutis per illos, &amp; in essentia vt in fundamento eorum: &amp; sunt illi 
+       <lb ed="#B" n="20"/>respectus a quo &amp; qui ab. &amp; a solo primo respectu denominatur pater producens: &amp; quia modo naturae produ  
+       <lb ed="#B" n="21"/>cit denominatur specialiter generans: ab alio vero respectu econtra filius denominatur productus &amp; genitus 
+       <lb ed="#B" n="22"/>Et sic in ista productione ex parte producentis non est considerare nisi suppositum quod est per se producens, &amp; in ipso 
+       <lb ed="#B" n="23"/>deitatis essentiam, vt formam &amp; potentiam actiuam qua producit, &amp; notam relationis quae est a, quoniam a pa- 
+       <lb ed="#B" n="24"/>tre est filius. Et similiter ex parte producti non nisi ipsum suppositum per se productum: &amp; in ipso 
+       <lb ed="#B" n="25"/>essentiam diuinam: vt quasi materiam &amp; potentiam passiuam de qua producitur, &amp; notam relationis quae est ab, nec 
+       <lb ed="#B" n="26"/>est considerare in istis plus. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e479">
+       IN creaturis autem cum est idem fundamentum duarum relationum non constituem 
+       <lb ed="#B" n="27"/>tium relata, hoc non est nisi per aliquid differens re a fundamento quod educitur de ipso, vt dictum est: 
+       <lb ed="#B" n="28"/>&amp; actiuum in talibus per hoc est actiuum quod virtute continet actum ad quem passiuum est in potentia. 
+       <lb ed="#B" n="29"/>&amp; secundum hoc est in actu respectu passiui, &amp; passiuum per hoc quod est passiuum: quia de ipso nata est edu- 
+       <lb ed="#B" n="30"/>ci forma qua sit in actum formali, quam ex se sola virtute continebat agens sicut dictum est: &amp; produ- 
+       <lb ed="#B" n="31"/>cit vt est actiuum illa virtute illum actum formalem: &amp; producitur vt est passiuum, de isto vt 
+       <lb ed="#B" n="32"/>est in potentia &amp; carens forma illius actus: vt secundum hoc praeter rationes respectuum in relatis 
+       <lb ed="#B" n="33"/>cum fundamento secundum quas solummodo ratione actionis &amp; passionis habet esse productio in di-  
+       <lb ed="#B" n="34"/>uinis a qua denominatur producens &amp; productum, habet ista productio in creaturis a qua deno-  
+       <lb ed="#B" n="35"/>minatur producens &amp; productum aliquid plus, secundum quod habet plus de ratione actionis &amp; pas- 
+       <lb ed="#B" n="36"/>sionis: &amp; est illud plus actus ipse qui est volitio, aliqui. scilicet in re differens a fundamento: a qua volitio- 
+       <lb ed="#B" n="37"/>ne potest dici voliciens: &amp; actum potest dici volicitum, si liceat nomina fingere: sicut ab infrigidatio 
+       <lb ed="#B" n="38"/>ne denominatur infrigidans &amp; infrigidatum. &amp; est relatio realis ex vtraque parte inter voliciens &amp; volicitum, 
+       <lb ed="#B" n="39"/>sicut inter actum &amp; agens: mouens &amp; motum. &amp; in ista productione ex parte producentis est suppositum quod est 
+       <lb ed="#B" n="40"/>per se voliciens. i. informans seipsum volitionis forma, sicut calefaciens est informans aliud forma caloris, vel 
+       <lb ed="#B" n="41"/>mouens est informans aliud forma motus: &amp; in ipso est vis volitiua virtute continens formam volitionis: si 
+       <lb ed="#B" n="42"/>cut sol calefaciens virtute continet formam caloris vel grauitas mouens formam motus: vel vis in semine 
+       <lb ed="#B" n="43"/>formam generandam ex isto: &amp; per hoc vis volitiua ipsa est forma &amp; potentia actiua qua producit. &amp; nota vo 
+       <lb ed="#B" n="44"/>litionis quae est a quo: similiter est in isto: quoniam a voliciente est volicitum. Et pro isto supposito accipitur volici 
+       <lb ed="#B" n="45"/>tas quando est quaestio vtrum moueat se ad actum volendi, &amp; est ratio mouendi in eo dicta virtus, 
+       <lb ed="#B" n="46"/>vt forma qua agit: quae non nisi ratione differt ab ea. Et sic ex parte producentis hic &amp; in diuinis 
+       <lb ed="#B" n="47"/>si haec voluntas dicatur producere, non est differentia: nisi quod relatio ibi constituit suppositum: hic 
+       <lb ed="#B" n="48"/>nequaquam. Ex parte autem producti hic sunt duo re differentia: scilicet ipsa voluntas vt est in poten- 
+       <lb ed="#B" n="49"/>tia passiua de qua producitur ipsa volitio: &amp; cum hoc ipsa volitio quae producitur. &amp; cum hoc re 
+       <lb ed="#B" n="50"/>spectus qui est ab. volicitum enim informatum volitionis actu est a voliciente. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e534">
+       IN creaturis autem cum 
+       <lb ed="#B" n="51"/>aliud &amp; aliud est fundamentum huius duplicis relationis realis: atque extra agentem est passum: &amp; 
+       <lb ed="#B" n="52"/>quid procedit ab ipso, vt patet in calefactione: hoc non solum est per alicuius differentis a funda-  
+       <lb ed="#B" n="53"/>meuto productionem de ipso fundamento, cuiusmodi est calor in calefacto: sed etiam per motum 
+       <lb ed="#B" n="54"/>aut transmutationem in eodem fundamento a calefaciente: qui etiam secundum rem differt a calefacto. vt 
+       <lb ed="#B" n="55"/>in producente scilicet calefaciente sit considerare suppositum agens &amp; formam qua agit &amp; materiam in qua  
+       <!--1161.xml-->
+       <pb ed="#B" n="560-v"/>
+        <lb ed="#B" n="1"/>subsistit: quae sunt duo differentia secundum rem in ipso. &amp; cum hoc est ibi tertium scilicet nota relationis:  
+       <lb ed="#B" n="2"/>a qua. scilicet a calefaciente, est calefactum. In producto aute scilicet in calefacto considerantur tria secundum rem differentia. 
+       <lb ed="#B" n="3"/>Actum enim est suppositum quod patitur sua materia: sed per motum quo forma quae actu est in materia, educenda est scilicet 
+       <lb ed="#B" n="4"/>frigiditas: &amp; inducenda forma contrarias. scilicet caliditas propter quod ibi necessarius est motus. Et sic tria sunt se 
+       <lb ed="#B" n="5"/>cundum rem differentia in calefacte scilicet materia, &amp; motus per quem debet vna forma amoueri, &amp; forma alia intro 
+       <lb ed="#B" n="6"/>ducta per motum: &amp; quartum est nota relationis qua actum scilicet calefactum est ab agente calefaciente: &amp; a for- 
+       <lb ed="#B" n="7"/>ma inducta in materia denominatur motus, puta a calore calefactio, &amp; a motu sic denominato denomi 
+       <lb ed="#B" n="8"/>nantur agens &amp; actum. Et sic sunt in omni tali passo quatuor notae, quae sunt de, quid, per, &amp; ab. quia de materia aut 
+       <lb ed="#B" n="9"/>subiecto producitur quid, scilicet forma educta per motum: &amp; ipsum actum scilicet calefactum est per 
+       <lb ed="#B" n="10"/>motum ab agente. &amp; hoc semper contingit in producto per motum qualis est omnis productio natura 
+       <lb ed="#B" n="11"/>lis, de qua habet considerare, &amp; solum de illa naturalis philosophus, &amp; nequaquam de secunda quae est 
+       <lb ed="#B" n="12"/>volitio &amp; intellectio: nisi quaetenus sunt cum continuo &amp; tempore, non quo ad ipsos actus, quia sunt perfectiones 
+       <lb ed="#B" n="13"/>simplices manentes totae simul, secundum quod ipsas habet considerare Metaphysicus: sed quo ad praeam- 
+       <lb ed="#B" n="14"/>bula ad illas, inquantum nostrum intelligere &amp; per consequens velle non sunt fine phantasmate. Ex quibus patet quod  
+       <lb ed="#B" n="15"/>multum differunt rationes agentis &amp; acti in diuinis &amp; in creaturis: &amp; similiter in creaturis primo modo &amp; 
+       <lb ed="#B" n="16"/>secundo. In secundo enim modo quia non fundantur in ipsis respectus qui sunt a &amp; ab, nisi per verum motum qui est 
+       <lb ed="#B" n="17"/>actus imperfecti secundum: quod imperfectum, quia motum inquantum est sub actu motus imperfectum quid est &amp; ad  
+       <lb ed="#B" n="18"/>perfectionem vadit: agens autem necessario est perfectum secundum dispositionem inducendam per motum vel vir 
+       <lb ed="#B" n="19"/>tute vel forma simili formae producendae: idcirco necessario requiritur realis diuersitas actiui &amp; passiui. &amp; 
+       <lb ed="#B" n="20"/>hoc semper contingit in corporalibus. In primo autem modo respectus qui sunt a &amp; ab, fundantur non super motum 
+       <lb ed="#B" n="21"/>quo aliquid aliud producitur: sed immediate per operationem a qua nihil aliud producitur, quae est actus perfe 
+       <lb ed="#B" n="22"/>cti secundum quod perfectum est: &amp; inquantum est sub isto, perfectionem suam habet, &amp; est perfectum forma &amp; virtute simul 
+       <lb ed="#B" n="23"/>cum prius erat perfectum virtute sola: &amp; hoc quia operatio, propria vniuscuiusque non est nisi ab ipso &amp; manens in ipso 
+       <lb ed="#B" n="24"/>vt secundum hoc multum aequiuoce dicatur agens &amp; actum, producens &amp; productum, actio &amp; productio in diui 
+       <lb ed="#B" n="25"/>nis vbi est fine omni transmutatione &amp; omni absoluto acquisito in fundamento: &amp; in creaturis vbi non est 
+       <lb ed="#B" n="26"/>sine mutatione: &amp; non sine aliquo absoluto producto in fundamento: licet multo aliter in primo modo 
+       <lb ed="#B" n="27"/>&amp; secundo. vt penitus non idem sed diuersum omnino debeat esse iudicium de actiuis circa creatu- 
+       <lb ed="#B" n="28"/>ras in primo modo, secundum illa quae videntur in subiecto: &amp; circa deum secundum ista quae videntur 
+       <lb ed="#B" n="29"/>in creaturis aut primo modo, aut secundo. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e614">
+       PER quod plane soluitur quod aliqui arguunt sic. de ratione  
+       <lb ed="#B" n="30"/>relationis est quod sit ad aliud: &amp; quod per ipsam aliquid refertur ad aliud. relatio enim secundum quod est re- 
+       <lb ed="#B" n="31"/>latio, est habitudo ad aliud: &amp; de sui ratione distinctionem &amp; extremorum relatorum &amp; ipsorum fundamen 
+       <lb ed="#B" n="32"/>torum requirit. Vnde quid <name ref="#Aristotle">philosophus</name> libro praedicamentorum in plurali dicit, Ad aliquid talia dicuntur quae  
+       <lb ed="#B" n="33"/>cumque hoc ipsum quod sunt aliorum dicuntur, multum notat Simplicius super illum locum. Quare cum est 
+       <lb ed="#B" n="34"/>relatio secundum rem: ent est relatio secundum rationem. Nunc autem semper ita est quod plures relationes se- 
+       <lb ed="#B" n="35"/>cundum rationem exigunt plura extrema: &amp; etiam plura fundamenta secundum rationem distincta: vt patet indu  
+       <lb ed="#B" n="36"/>cendo in omnibus relationibus secundum rationem: ergo &amp; plures relationes secundum rem mutuo adinuicem se ha-  
+       <lb ed="#B" n="37"/>bentes exigunt plura extrema: &amp; plura fundamenta secundum rem distincta. sed relationes actiui &amp; passi 
+       <lb ed="#B" n="38"/>ui sunt mutuo reales adinuicem. ergo exigunt extrema per eas relata: &amp; similiter fundamenta distincta adinui- 
+       <lb ed="#B" n="39"/>cem secundum rem. Vnde in diuinis vbi actiuum &amp; passiuum fundantur super eandem rem: licet non habeant 
+       <lb ed="#B" n="40"/>distincta fundamenta realiter: habent tamen distincta extrema personaliter. ergo in creaturis vbi multo ma 
+       <lb ed="#B" n="41"/>gis differunt, nullo modo possunt habere idem extremum secundum rem: immo necessario exigunt secundum rem ex 
+       <lb ed="#B" n="42"/>trema distincta: &amp; cum hoc est fundamenta diuersa realiter: sicut plures relationes secundum rationem siue in deo  
+       <lb ed="#B" n="43"/>siue in creaturis exigunt plura extrema distincta secundum rationem: &amp; similiter plura fundamenta diuersa 
+       <lb ed="#B" n="44"/>secundum rationem. Et dico quod quaedam sunt relationes secundum rationem in vtroque extremorum, quae aliquando habent 
+       <lb ed="#B" n="45"/>diuersa extrema &amp; diuersa fundamenta secundum rationem tantum: vt sunt relationes identitatis simplici scilicet nume 
+       <lb ed="#B" n="46"/>ralis in creaturis: &amp; identitatis diuinae substantiae ad seipsam. Aliquando vero habent secundum rem: vt sunt rela 
+       <lb ed="#B" n="47"/>tiones aequalitatis &amp; similitudinis diuinarum personarum inter se: sed habent fundamentum idem secundum rem. Quaedam est 
+       <lb ed="#B" n="48"/>sunt relationes secundum rem in vno extremorum tantum: &amp; in alio sim rationem: vt sunt relationes inter mensuram &amp; mensu 
+       <lb ed="#B" n="49"/>ratum: quam habent semper diuersa extrema &amp; similiter diuersa fundamenta secundum rem. Sunt adhuc quaedam relationes secundum 
+       <lb ed="#B" n="50"/>rem in vtroque extremorum: vt sunt omnes quae sunt in potentiis inter diuina, &amp; inter creaturas: de quibus nunc est ser 
+       <lb ed="#B" n="51"/>mo: quae non requirunt diuersa fundamenta nisi in actiuis &amp; passiuis per verum motum. sed in diuinis fundantur 
+       <lb ed="#B" n="52"/>super idem re, non per aliquid re differens: in creaturis vero, puta in voluntate, non nisi per aliquid diffe- 
+       <lb ed="#B" n="53"/>rens re ab ista, vt est volitio secundum praedicta. Semper autem requirunt diuersa extrema relata: sed hoc 
+       <lb ed="#B" n="54"/>secundum rem absolutam: vt in actiuis &amp; passiuis per verum motum: in aliis autem non nisi per ipsas relationes: quae solae faciunt 
+       <!--1162.xml-->
+       <pb ed="#B" n="561-r"/>
+        <lb ed="#B" n="1"/>quod aliquid sit extremum relationis per se. quicquid enim est praeter ipsam relationem in his quae ad aliquid siue 
+       <lb ed="#B" n="2"/>relatiue dicuntur, per accidens relatiue dicitur, &amp; accidentaliter est relatiuum, scilicet quia accidit ei ipsa relatio 
+       <lb ed="#B" n="3"/>vnde duplum in eo quod est duplum. i. in eo quod duplicitas est, aliquid eius per se dicitur ad aliquid &amp; est relati- 
+       <lb ed="#B" n="4"/>uum. Homo autem vel lignum cui accidit quod sit duplum, dicitur relatiuum per accidens: quia. scilicet ei accidit 
+       <lb ed="#B" n="5"/>duplicitas: sicut dicitur per accidens album: quia accidit ei albedo dicente philosopho. v metaphysicae. 
+       <lb ed="#B" n="6"/>Et relatiuorum est quod dicitur modo accidentali: sicut homo: qui est relatiuus quia accidit ei duplum esse ali- 
+       <lb ed="#B" n="7"/>cuius rei. Accidit enim eidem vt sit duplum &amp; album. Et Commenta ,d i,. quando homini accidit vt sit duplum ad aliquid ac 
+       <lb ed="#B" n="8"/>cidit ei vt sit relatiuum sicut accidit ei vt sit album. Homo enim secundum quod homo non est duplum nec album 
+       <lb ed="#B" n="9"/>&amp; sic in actiuis &amp; passiuis sine vero motu relata non requirunt aliam distinctionem inquantum sunt re- 
+       <lb ed="#B" n="10"/>lata per se, nisi ipsas relationes: sed in voluntate ipsa relata per accidens, vt est ipsa voluntas, vt est acti- 
+       <lb ed="#B" n="11"/>ua per potentiam actiuam: &amp; vt est passiua per potentiam passiuam, illas relationes secundum actum non prasent ha 
+       <lb ed="#B" n="12"/>bere in se nisi per aliud re. scilicet per volitionem: sicut in actiuis &amp; passiuis vero motu non possunt haberi in  
+       <lb ed="#B" n="13"/>differentibus re absoluta illae relationes nisi per motum. Et sic quo ad huiusmodi relationes non est differem 
+       <lb ed="#B" n="14"/>tia in deo &amp; in voluntate: nisi quod in deo fundentur super idem re non per aliud diuersae relationes 
+       <lb ed="#B" n="15"/>reales: &amp; quod cum fundamento constituunt diuersas personas, in voluntate nequaquam: &amp; quod in deo non por 
+       <lb ed="#B" n="16"/>aliud re fundatur super idem: in voluntate autem non nisi per aliud re: secundum praedicta, &amp; quo ad  
+       <lb ed="#B" n="17"/>hoc solum: &amp; quo ad hoc quod istae relationes accidunt fundamento, &amp; istae, non plus differunt extrema rela 
+       <lb ed="#B" n="18"/>tionis in voluntate quam in deo: &amp; propter hoc in deo sunt constitutiuae personarum &amp; non in voluntate. Et 
+       <lb ed="#B" n="19"/>sic in creatutis actiuum &amp; passiuum quae fundantur super eandem rem licet non habent distincta fundamenta 
+       <lb ed="#B" n="20"/>realiter, habent tamen distincta extrema accidentalite. scilicet re relara accidentali fundamento: sicut in diuinis 
+       <lb ed="#B" n="21"/>vbi actiuum &amp; passiuum fundantur super eandem rem: licet non habeant distincta fundamenta realiter, ha  
+       <lb ed="#B" n="22"/>bent tamen distincta extrema personalite. scilicet re relata essentiali fundamento. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e726">
+       BEne ergo concedendum est il- 
+       <lb ed="#B" n="23"/>lud quod narratur in principio ad fundationem argumenti: videlicet quod de ratione relationis est quod sit ad aliud  
+       <lb ed="#B" n="24"/>&amp; quod requirit distinctionem extremorum: &amp; quod relationes secundum rationem ad minus requirunt distinctionem 
+       <lb ed="#B" n="25"/>extremorum &amp; fundamentorum secundum rationem: &amp; cum hoc aliquando distinctionem extremorum secundum supposita 
+       <lb ed="#B" n="26"/>vt iam dictum est: &amp; amplius deo dante declarabimus disputando de relationibus communibus in quaestionibus or- 
+       <lb ed="#B" n="27"/>dinariis. Sed ex illo non sequitur conclusuem scilicet quod plures relationes secundum rem mutuo exigant plura ex- 
+       <lb ed="#B" n="28"/>trema &amp; plura fundamenta secundum rem: immo sicut relationes secundum rationem in vtroque extremo 
+       <lb ed="#B" n="29"/>non semper requirunt pluralitatem extremorum secundum rationem solum: sed bene compatiuntur secum illorum pluralitatem 
+       <lb ed="#B" n="30"/>personalem relationes essentialis existente vnitate fundamenti: sic relationes secundum rem in vtroque extremorum 
+       <lb ed="#B" n="31"/>non semper requirunt pluralitatem fundamentorum secundum rem: sed bene compatiuntur secum vnitatem illius rei existente 
+       <lb ed="#B" n="32"/>pluralitate extremorum secundum rem accidentaliter: &amp; secundum rem relationis accidentalis: sicut dictum est. Quia 
+       <lb ed="#B" n="33"/>ergo interponitur quod Sin: plicius notat multum quod <name ref="#Aristotle">philosophus</name> dicit in plurali, Ad aliquid talia dicuntur &amp;c. quid reue 
+       <lb ed="#B" n="34"/>ra multum notandum est: quia hoc dicit ad exprimendum quod nihil vnum &amp; idem penitus secundum rem &amp; rationem quae ad ex- 
+       <lb ed="#B" n="35"/>tremum &amp; fundamentum relatiue potest dici: sed oportet quod vel sola ratione differant vel secundum rem vel partim 
+       <lb ed="#B" n="36"/>sic &amp; partim sic secundum iam expositum modum: non tamen potest ex hoc notari si relatio sit secundum rem quod  
+       <lb ed="#B" n="37"/>sit ad aliud absolutum secundum rem absolutam: semper tamen verum est quod in per se relatis sit ad aliud secundum rem rela- 
+       <lb ed="#B" n="38"/>tiuam vt dictum est: nec econuerso potest notari quod si sit relatio secundum rationem quod non sit nisi ad aliud secundum 
+       <lb ed="#B" n="39"/>rationem: quia bene est ad aliud secundum rem absolutam: &amp; secundum rem relatiuam: vt patet in relatone mensurae 
+       <lb ed="#B" n="40"/>ad mensuratum. Nec est potest notari quod si sit relatio secundum rem, quod sit ad aliud secundum rem: vt patet in mensurato  
+       <lb ed="#B" n="41"/>respectu mensurae. Vnde si notat Simplicius quod in relatiuis relationibus realibus vtrumque oportet: quod re abso 
+       <lb ed="#B" n="42"/>luta differant extrema &amp; fundamenta, hoc non est nisi quia intelligit quod non sunt vera relatiua realiter vtrinque  
+       <lb ed="#B" n="43"/>nisi in corporalibus: in quibus sequuntur motum, quod reuera erat opinionis suae: quia tales relationes negat 
+       <lb ed="#B" n="44"/>esse in spiritualibus vt alias diximus in quadam quaestione longa de relationibus: &amp; in corporalibus bene verum 
+       <lb ed="#B" n="45"/>est quod non sunt vtrinque relationes reales quin differant extrema &amp; etiam fundamenta re absoluta: quod ne- 
+       <lb ed="#B" n="46"/>quaquam requiritur in spiritualibus: de quorum numero est voluntas, siue habens voluntatem inquantum hu  
+       <lb ed="#B" n="47"/>modi. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e786">
+       SED adhuc arguunt vlterius sic. voluntas magis differt a volitione quam ipsa a seipsa vt est 
+       <lb ed="#B" n="48"/>actiua &amp; passiua realiter: ergovoluntas potius debet referri ad volitionem quam ad seipsam: vt scilicet 
+       <lb ed="#B" n="49"/>est actiua &amp; passiua, quod tamen non est verum: quia inter subiectum &amp; accidens non est relatio. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e794">
+       ITEm ar 
+       <lb ed="#B" n="50"/>guunt. si volitio esset medium inter actiuum &amp; passiuum in voluntate, forte illud esset possibile: scilicet 
+       <lb ed="#B" n="51"/>quod per volitionem mediam voluntas vt est actiua &amp; passiua referretur ad seipsam: nunc autem volitio in  
+       <lb ed="#B" n="52"/>voluntate est sicut extremum: non autem sicut medium. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e803">
+       ITEM arguunt sic, si velimus in voluntate 
+       <lb ed="#B" n="53"/>ponere aliquis relationes per volitionem, per illam non referretur voluntas ad seipsam: sed potius ad volitum: a quo  
+       <lb ed="#B" n="54"/>mensuratur perfectio volitionis: sicut intellectus per scientiam refertur ad scibile per quid mensuratur perfectio sciae 
+       <!--1163.xml-->
+       <pb ed="#B" n="561-v"/>
+        <lb ed="#B" n="1"/>Ad quorum intellectum dico adhuc quod voluntas vt est actiua actus volitionis, refertur ad seipsam: vt 
+       <lb ed="#B" n="2"/>est passiua &amp; receptiua illius: &amp; hoc mediante actu volitionis: sicut mouens refertur ad id quid mo- 
+       <lb ed="#B" n="3"/>uetur. &amp; econuerso mediante actum: &amp; per actum qui est motus. Quod non est sic intelligendum secun- 
+       <lb ed="#B" n="4"/>dum quod praetendunt obiecta: quod illae relationes vel aliqua illarum sint in motu aut volitione sicut in  
+       <lb ed="#B" n="5"/>fundamento: aut sicut in subiecto: sed vna illarum semper est in agente, fundata in ipso super poten- 
+       <lb ed="#B" n="6"/>tiam actiuam qua elicit motum de mobili: aut volitionem de voluntate: &amp; altera illarum est semper 
+       <lb ed="#B" n="7"/>in passo fundata in ipso super potentiam passiuam, de qua elicitur actus, qui est motus existens in mo 
+       <lb ed="#B" n="8"/>bili sicut in subiecto: licet a mouente. dicente philosopho. v physicorum. Motus est actus huius: scili- 
+       <lb ed="#B" n="9"/>cet agentis, in hoc: scilicet in passo. aut actus qui est volitio existens in voluntate vt est passiua si 
+       <lb ed="#B" n="10"/>cut in subiecto: licet ab eadem vt est actiua: &amp; sic sit actus eius vt est actiua in eandem vt est passiua 
+       <lb ed="#B" n="11"/>Et quia dictae relationes non habent esse in agente vel in passo quocumque secundum actum, nisi quatenus 
+       <lb ed="#B" n="12"/>motus aut volitio procedit ab agente in passum vt medium per hunc motum inter vtrunque: id-  
+       <lb ed="#B" n="13"/>circo mouens &amp; agens vniuersaliter dicitur referri ad id quod mouetur: &amp; econuerso per motum &amp; me- 
+       <lb ed="#B" n="14"/>diante motu aut volitione. &amp; sic dicuntur dictae relationes esse &amp; fundari in illis per motum &amp; volitionem:  
+       <lb ed="#B" n="15"/>aut mediantibus illis. penitus enim eodem modo dicitur voluntas vt est mouens referri ad seipsam vt est mota per 
+       <lb ed="#B" n="16"/>volitionem &amp; mediante volitione: sicut calefaciens ad calefactum mediante calefactione &amp; per motum cale 
+       <lb ed="#B" n="17"/>factionis: praeter hoc quod talis motus est actus imperfectus transiens in aliud: &amp; volitio est actus perfectus 
+       <lb ed="#B" n="18"/>manens in eodem. Est enim actus volitionis ipsa motio seu mutatio qua de non volente sit volens: &amp; est 
+       <lb ed="#B" n="19"/>media inter voluntatem vt est mouens &amp; vt est mota a seipsa. Quod ergo arguitur primo: quod voluntas 
+       <lb ed="#B" n="20"/>actiua per actum volitionis referatur ad seipsam vt est passiua: &amp; econuerso: &amp; hoc realiter: potius 
+       <lb ed="#B" n="21"/>debet referri realiter ad volitionem. Dico quod verum esset: si ratione maioris differentiae fieret ista relatio quod  
+       <lb ed="#B" n="22"/>in ipsa volitione fundaretur relatio per quam voluntas refertur ad seipsam: quia scilicet ipsa volitio est 
+       <lb ed="#B" n="23"/>in voluntate vt in subiecto. Sed non est ita quia relationes actiuorum &amp; passiuorum non fundantur in ali 
+       <lb ed="#B" n="24"/>quibus nisi ratione differentiae quae est per potentias actiuas &amp; passiuas: quae non sunt nisi in illis: licet non 
+       <lb ed="#B" n="25"/>nisi per motum aut volitionem mediam: vt dictum est. Idcirco sub ratione actiui aut passiui nullo modo  
+       <lb ed="#B" n="26"/>potest referri voluntas ad volitionem: sed solummodo ad seipsam: sicut nec mouens ad actum qui est mo 
+       <lb ed="#B" n="27"/>tus: sed solummodo ad id quod mouetur: licet non nisi mediante volitione &amp; motu sicut dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e873">
+       AD 
+       <lb ed="#B" n="28"/>secundum quod volitio non est medium: sed potius extremum: dico quod sicut motus ad passum comparatur du-  
+       <lb ed="#B" n="29"/>pliciter: vno modo vt ad subiectum in quo est, alio modo vt ad terminum in quem ab agente recipitur: &amp; pri 
+       <lb ed="#B" n="30"/>mo modo bene verum est quod respectu passi se habet vt extremum: quia vt accidens ad subiectum. Secundo  
+       <lb ed="#B" n="31"/>tamen modo non est nisi medium inter agentem &amp; passum fluens ab vno in alterum: sic &amp; volitio vt est in vo- 
+       <lb ed="#B" n="32"/>luntate prout est passa sicut in subiecto, ipsa extremum est respectu illius. inquantum tamen procedit a vo- 
+       <lb ed="#B" n="33"/>luntate agente &amp; recipitur in eandem passam vt in terminum: semper est medium illorum: sicut etiam medium esset inter 
+       <lb ed="#B" n="34"/>intellectum &amp; voluntatem si intellectus esset proprium motiuum voluntatis. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e891">
+       AD tertium: si in voluntate essent 
+       <lb ed="#B" n="35"/>aliquae relationes per volitionem, per illam potius referretur ad volitum quam ipsa ad seipsam: dico secundum 
+       <lb ed="#B" n="36"/>iam dicta quod verum esset si voluntas referretur ad aliquid per volitionem: vt per id in quo aut super  
+       <lb ed="#B" n="37"/>quod fundaretur relatio per quam referretur: sicut intellectus refertur ad rem intellectam: &amp; sciens ad  
+       <lb ed="#B" n="38"/>scitum per scientiam quae est in ipso sciente &amp; intelligente: quia in ipsa realiter fundatur relatio per  
+       <lb ed="#B" n="39"/>quam intellectus intelligens vel sciens refertur ad intellectum vel scitum: &amp; hoc per accidens. dicente 
+       <lb ed="#B" n="40"/>philosopho. v metaphysicae. Relatiuorum quoddam dicitur modo accidentali sicut homo qui est relatiuus 
+       <lb ed="#B" n="41"/>quia accidit ei esse duplum alicuius: quia accidit ei quantitas in qua fundatur duplatio. Vnde quoniam ibidem circa 
+       <lb ed="#B" n="42"/>opinionem aestimantium quod sciens relatiue dicatur ad scitum per accidens, quia scientia est quid commune il- 
+       <lb ed="#B" n="43"/>lis, praemisit dicens: lsta aestimatio accidit quia relatiuorum quaedam referuntur adinuicem propter hoc quod conue 
+       <lb ed="#B" n="44"/>niunt in eodem: &amp; quia aestimatur quod scientia est huiusmodi quia est in quo conveniunt sciens &amp; scitum: contingit vt me- 
+       <lb ed="#B" n="45"/>dium sit ex hoc relatiuorum. nunc autem voluntas nec ad seipsam nec ad aliud refertur vt per volitionem vt 
+       <lb ed="#B" n="46"/>per id in quo fundatur relatio qua refertur: sed potius vt per medium sine quo relationes secundum actum 
+       <lb ed="#B" n="47"/>nequaquam fundarentur in actiuis &amp; passiuis vt dictum est. Nec tamen simile est de scientia &amp; scito &amp; volitione &amp; 
+       <lb ed="#B" n="48"/>volito: non enim volitio mensuratur a volito sicut scientia a scito: sed solummodo a libertate, aut a libero arbi 
+       <lb ed="#B" n="49"/>trio voluntatis. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e926">
+       SIC ergo patet ex dictis quod in creaturis duae relationes oppositae secundum actiuum 
+       <lb ed="#B" n="50"/>&amp; passiuum possunt fundari in eodem secundum rim: secundum primum modum: licet non penes secundum. 
+       <lb ed="#B" n="51"/>Et secundum hoc concedenda est secunda ratio. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e933">
+       AD primam in oppositum quod hoc est proprium diuinae sub- 
+       <lb ed="#B" n="52"/>stantiae ratione suae infinitatis: dico quod verum est quando fundatur super idem non per aliquid additum illi quod re differt 
+       <lb ed="#B" n="53"/>ab ipso: per additionem tamen alicuius re differentis hoc non est proprium diuinae naturae: immo repugnat ei: &amp; com- 
+       <lb ed="#B" n="54"/>uenit creaturae in primo duorum dictorum modorum circa creaturas sicut patet ex dictis. Ex quibus etiam 
+       <!--1164.xml-->
+       <pb ed="#B" n="562-r"/>
+        <lb ed="#B" n="1"/>plane intelligitur dictum Boetii de trinitate. &amp; commentat, eius: de quo sumitur medium illius argumenti. dicit 
+       <lb ed="#B" n="2"/>enim Boetius. i. de trinitate. ca. xiiii. sic. Idem ei quod idem, idem est: &amp; similis est relatio in trinitate patris ad filium  
+       <lb ed="#B" n="3"/>&amp; vtriusque ad spiritum sctantum, vt eius quod est idem ad id quod est idem. Quia si id in cunctis rebus aliis non potest 
+       <lb ed="#B" n="4"/>inueniri, facit hoc cognata caducis rebus alteritas. Commenta. Id autem, scilicet referri aliqua inter se 
+       <lb ed="#B" n="5"/>quae omnibus quibus sunt inuicem idem sunt, vel quae referuntur inuicem idem esse omnibus quibus sunt, non 
+       <lb ed="#B" n="6"/>potest inueniri in cunctis aliis rebus. i. nullae aliae res sunt in quibus hoc potest iuueniri. Quia si hoc in  
+       <lb ed="#B" n="7"/>aliis rebus inueniri non potest, reuera hoc facit alteritas quae cognata est caducis rebus. non enim sine 
+       <lb ed="#B" n="8"/>illorum quibus sunt alteritate diuersa sunt a se quaelibet subsistentia: vt nisi hac alteritate diuersa pasent ad  
+       <lb ed="#B" n="9"/>scinuicem referri. &amp; sequitur post pauca. Quamuis horum tertium ad se relatorum &amp; relationum, proprietatibus diuer 
+       <lb ed="#B" n="10"/>sarum intelligamus vnam solam simplicem quae vnusquisque est &amp; omnes simul vnus &amp; simplex deus essentiam 
+       <lb ed="#B" n="11"/>&amp; nullatenus alterius alteram: &amp; alterius alteram: hoc adde: &amp; nullatenus per aliquod accidens ei quid alterius 
+       <lb ed="#B" n="12"/>est ei aliter: &amp; alterius aliter: vt a contrario quod illud in aliis rebus esse non possit hoc faciat alteritas vel 
+       <lb ed="#B" n="13"/>cilicet qua fundamentum relationum in altero &amp; altero relatorum alterum est &amp; alterum secundum rem: puta huma- 
+       <lb ed="#B" n="14"/>nitas in Sorte &amp; in Platone cum dicuntur idem: aut cum vnus dicitur pater alter vero filius: vel qua funda  
+       <lb ed="#B" n="15"/>mento existente eodem secundum rem singularem illi accidit aliquid: sed aliter secundum quod est agens &amp; aliter 
+       <lb ed="#B" n="16"/>secundum quod est patiens, puta voluntati volitio. cui secundum quod est agens siue vol: faciens accidit quod vo- 
+       <lb ed="#B" n="17"/>litio est ab ipsa: secundum vero quod passum, accidit ei quod volitio fit in ipsa &amp; de ipsa secundum praeexpositum 
+       <lb ed="#B" n="18"/>modum. Et quia alteritas vtroque horum modorum remouetur a deo in eo quod est producens &amp; productum: &amp; simili 
+       <lb ed="#B" n="19"/>ter a substantia dei vt est ratio producendi actiue &amp; passiue: ideo productio in deo est absque omni alte- 
+       <lb ed="#B" n="20"/>ritate: &amp; primo modo &amp; secundo: &amp; sic idem simplex in re esse fundamentum plurium relationum 
+       <lb ed="#B" n="21"/>realium contrariarum est proprium essentiae ratione suae infinitatis: nec potest conuenire alicui crea 
+       <lb ed="#B" n="22"/>turae. Potest tamen illud contingere in creaturis per istum modum alteritatis secundum iam additum absque modo 
+       <lb ed="#B" n="23"/>alteritatis quem iam in praedictis Boetius remouit a diuinis. Aliquando autem alium modum alteritati Boetius expli 
+       <lb ed="#B" n="24"/>cat: &amp; similiter remonet ipsum a diuinis: vbi dicit in principio dicti capituli. Neque accessisse aliquid potest 
+       <lb ed="#B" n="25"/>dici deo vt ptr fieret, nec enim coepit vnquam esse patr: eo quod substantiale est ei filii quidem productio. vbi dicit Com 
+       <lb ed="#B" n="26"/>mentator primo tangendo modum alteritatis praedictum, quem postea exponit vt iam dictum est: dicens. Differentiarum  
+       <lb ed="#B" n="27"/>pluralitas in patre &amp; filio &amp; spiri sectao qui non nisi vna essentia sunt, esse non potest certum est enim quod non sunt sub- 
+       <lb ed="#B" n="28"/>stantialibus pluribus. Deinde tangit alium modum continue &amp; ipsum exponit dicens, Nec accidentibus. 
+       <lb ed="#B" n="29"/>non enim potest dici deo aliquid secundum tempronus accessisse, non enim alicuius accessione ccepit esse pater: sicut numquam 
+       <lb ed="#B" n="30"/>alicuius accessu coepit esse: eo quod id in quo ex se filium produxit, non nisi substantia est. 
+      </p>
+      <p xml:id="n3av8a-c1e5319-d1e1012">
+       SEcundum hoc ergo  
+       <lb ed="#B" n="31"/>dico in proposito: quod licet in agente &amp; passo ex parte voluntatis non sit aliquarum differentiarum substantialium  
+       <lb ed="#B" n="32"/>pluralitas: quia non sunt nisi vna simplex essentia: &amp; sic accessit ei secundum temproeus: cuius accessione coepit 
+       <lb ed="#B" n="33"/>esse agens: eo quod accidentalis est ei productio eius quod est informatum volitione: quid est vnum per accidens composi 
+       <lb ed="#B" n="34"/>tum ex voluntate vt est vis passiua, &amp; volitione. &amp; sic id in quo voluntas vt agens ex se productum 
+       <lb ed="#B" n="35"/>suum produxit, est aliquid aliud quam substantia eiu scilicet ipsa volitio: inquantum ipsum per se productum est compositum 
+       <lb ed="#B" n="36"/>ex substantia eius &amp; volitione: sicut a mouente extra productum est compositum ex substantia mobilis &amp; moti 
+       <lb ed="#B" n="37"/>In quo nullum accidit inconveniens: nec in aliquo derogat productioni &amp; multum differt ab ista. Est enim in  
+       <lb ed="#B" n="38"/>diuinis relatio producti &amp; producentis sicut eiusdem ad seipsum: in hoc videlicet quod in relatis secundum rem 
+       <lb ed="#B" n="39"/>cum pater refertur ad filium, nihil praeter relationes appositum est. fundamento illarum mediante quo inter producem 
+       <lb ed="#B" n="40"/>tem &amp; productum fundentur relationes in isto, sicut in relatis secundum rationem cum idem dicitur ad seipsum, nihil 
+       <lb ed="#B" n="41"/>additur illi praeter relationes rationis. quoniam vt dicit Commenteator sicut in his non aufert relationem illa illorum qualis- 
+       <lb ed="#B" n="42"/>cunque identitas, ita patris ad filium &amp; vtriusque ad spanitm sctantum relationem non aufert haec qua trinus singula 
+       <lb ed="#B" n="43"/>riter vnus deus sunt eorum identitas. In creaturis autem puta in voluntate nequaquam est relatio producentis &amp; 
+       <lb ed="#B" n="44"/>producti sicut eiusdem ad seipsum: in hoc videlicet quod in relatis secundum rem cum agens refertur ad  
+       <lb ed="#B" n="45"/>patiens in voluntate aliquid praeter relationes appositum est fundamento, mediante quo secundum praedi 
+       <lb ed="#B" n="46"/>ctum modum fundantur relationes in illo. Et sic in volutate &amp; quacumque creatura identitas in fundamento 
+       <lb ed="#B" n="47"/>si nihil sit ei additum, aufert relationem actiui ad passiuum. &amp; ita si in creaturis sint rationes actiui, 
+       <lb ed="#B" n="48"/>oportet quod hoc faciat alteritas causata ex tali addito. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 33</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 33</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="253-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e430">
+      <head xml:id="n3av8a-d1e430-Hd1e96">Quaestio 33</head>
+      <p xml:id="n3av8a-d1e430-d1e99">
+       <lb ed="#B" n="17"/>Equitur quaesitum vltimum &amp; vnicum de creatura inanimata: vtrum elementa sint distincta 
+       <lb ed="#B" n="18"/>per corpora caelestia.
+      </p>
+      <p xml:id="n3av8a-d1e430-d1e106">
+       Ex arguitur quod non. quia hoc non facerent nisi per suum motum, quod non potest 
+       <lb ed="#B" n="19"/>esse, quia multiplicatio motuum &amp; reuolutionum totum corrumperet excedendo siue exces- 
+       <lb ed="#B" n="20"/>sum causando circa formas elementorum.
+      </p>
+      <p xml:id="n3av8a-d1e430-d1e113">
+       Contra, possunt in plus, quia in generationem 
+       <lb ed="#B" n="21"/>&amp; distinctionem animatorum: ergo &amp; in minus scilicet in generationem &amp; di-  
+       <lb ed="#B" n="22"/>stinctionem elementorum. Quaestio ista de ordine, &amp; distinctione, &amp; generatio- 
+       <lb ed="#B" n="23"/>ne elementorum eiusdem difficultatis est circa alia omnia creata qualis est circa elemen- 
+       <lb ed="#B" n="24"/>ta, quomode scilicet habent esse &amp; ordinem atque distinctionem in vniuerso. Extendendo igitur quaestionem sicut oportet ad  
+       <lb ed="#B" n="25"/>omnia alia naturalia, sciendum secundum quod recitat philosophus. i. Metaphysica quod primi philosophantium solum viderunt pri 
+       <lb ed="#B" n="26"/>cipium materiale esse in rebus naturalibus sensibilibus, nullaque alia esse arbitrati sunt quam sensibilia, nec cam 
+       <lb ed="#B" n="27"/>agentem &amp; mouentem videbant in rebus, neque finalem. Propter quod quorundam erat opinio, quod omnia quae sunt in natu-  
+       <lb ed="#B" n="28"/>ra rerum, sicut sunt, habent esse a casu: non autem ab agente determinato, neque propter aliquid: sed esse &amp; fieri omnia 
+       <lb ed="#B" n="29"/>in seipsis, vt contingit. Aliorum vero ex eis opinio erat quod omnia fierent ex necessitate materiae: quemad-  
+       <lb ed="#B" n="30"/>modum si dicatur domus talis esse qualis est, vt quod ligna sint sursum posita, &amp; lapides deorsum: quia sic com- 
+       <lb ed="#B" n="31"/>tingit ea esse posita: non quia agens hoc fecit propter finem: &amp; hoc quo ad primam opinionem: aut propter ne 
+       <lb ed="#B" n="32"/>cessitatem materiae tantum: quia grauia deorsum ferri apta nata sunt: leuia autem sursum: secundum quod has duas opi 
+       <lb ed="#B" n="33"/>niones tangit <name ref="#Aristotle">philosophus</name> in fine scundi physi. Isti ergo non dicerent quod caelum, aut aliquid agens esset cauam talis dispo- 
+       <lb ed="#B" n="34"/>sitionis &amp; ordinis elementorum: sed quod solo casu esset quicquid in eis esset, &amp; quo ad elementorum substantiam, &amp; 
+       <lb ed="#B" n="35"/>quo ad eorum dispositionem: et hoc sm primam opinionem: aut sm secundam opinionem quod elementa talia essent 
+       <lb ed="#B" n="36"/>quaelia sunt ex se &amp; materiae suae necessitate: &amp; propter ipsam etiam sic ordinantur. Contra istos arguit <name ref="#Aristotle">philosophus</name> 
+       <lb ed="#B" n="37"/>in primo Metaphysicae quo ad hoc quod negabant causam agentem &amp; finalem. quia videmus in rebus sensibilibus mu 
+       <lb ed="#B" n="38"/>tationem fieri. nihil autem mouet seipsum, quemadmodum lignum non seipsum transmutat vt fiat scannum. Si autem agens 
+       <lb ed="#B" n="39"/>est, finis est. nihil enim agit nisi propter finem. Quo ad modum quidem ponendi omnia esse &amp; fieri, disputat contra 
+       <lb ed="#B" n="40"/>eorum opinionem secundo physi. Contra primos per hoc quod quae a casu fiunt non fiunt semper, aut frequenter 
+       <lb ed="#B" n="41"/>quemadmodum videmus ea fieri quae in rebus fiunt: &amp; iterum, quia videmus res esse sicut aptae sunt fieri. quale 
+       <lb ed="#B" n="42"/>non contingit in eis quae fiunt casu. Nec tamen sequitur ex hoc quod omnia contingunt, sicut fiunt. secundum quod arguit contra secun 
+       <lb ed="#B" n="43"/>dam opinionem, dicens quod fine dispositione materiae tali non fiunt res sicut fiunt: sed non solum propter hoc quia  
+       <lb ed="#B" n="44"/>nec istam dispositionem habent res a seipsis, sed ab agente ordinante res in suos fines. Post dictas opiniones se 
+       <lb ed="#B" n="45"/>cuta est sententia aliorum philosophorum: qui considerabant in rebus duo esse scilicet naturas &amp; essentias rerum secundum formas &amp; 
+       <lb ed="#B" n="46"/>species distinctas, &amp; transmutationes per motum contingentes in aliquibus earum. Et putant aliqui fuis 
+       <lb ed="#B" n="47"/>se opinionem Aristote. quod res in naturis &amp; essentiis suarum formarum ex seipsis habent naturaliter esse illud quod  
+       <lb ed="#B" n="48"/>sunt, &amp; increatae, siue non factae: &amp; quod nihil in entibus hent caualitatem super aliquae quo ad formam &amp; essentiam 
+       <lb ed="#B" n="49"/>rerum: sed solum quo ad motus &amp; transmutationes: vt quod res naturaliter sunt, &amp; aeternaliter in  
+       <lb ed="#B" n="50"/>suis essentiis distinctae &amp; ordinatae: tam elementa quam alia: nec habent in hoc causam efficientis: sed  
+       <lb ed="#B" n="51"/>quod sic sunt, hoc est natura eorum. Et secundum quod quaedam sunt in gradu naturae superiori: quaedam in  
+       <lb ed="#B" n="52"/>inferiori: secundum hoc quaedam habent causalitatem super quasdam in mouendo: aut sicut finis, aut sicut effi 
+       <lb ed="#B" n="53"/>ciens. Et quod sm hoc ponit vnum primum agens &amp; mouens omnia alia. Et secundum istam opinionem non est dicendum  
+       <lb ed="#B" n="54"/>quod sit alia cauam quare elementa sic se habent quam quod hoc est natura eorum. Quod haec sit opinio Aristoteles non credo quod  
+       <!--547.xml-->
+       <pb ed="#B" n="253-v"/>
+        <lb ed="#B" n="1"/>de facili ex libris suis posset ostendi. Vult enim. xii. metaphysicae quod sit quoddam genus rerum, quid im- 
+       <lb ed="#B" n="2"/>possibile est esse alio modo, vt substantiarum separatarum omnino intransmutabilium. inter quas ponit vnam 
+       <lb ed="#B" n="3"/>primam quam vocat deum &amp; primum motorem: &amp; sub illa alias quas vocat motores secundarios. Quamlibet tamen  
+       <lb ed="#B" n="4"/>ponit esse deum quendam. Et respectu aliarum rerum corporalium transmutabilium loquitur frequenter tanquam 
+       <lb ed="#B" n="5"/>de vnico principio: &amp; ab illo dicit quod pendet caelum &amp; tota natura, sicut a principio primo mouente: non 
+       <lb ed="#B" n="6"/>tamen aliquid in esse suo causante nisi formas generabilium &amp; corruptibilium particularium. Vnde omnia alia &amp; 
+       <lb ed="#B" n="7"/>elementa secundum totum secundum ipsum sunt ingenerabilia &amp; incorruptibilia: &amp; sicut ex se sunt, nec habent po 
+       <lb ed="#B" n="8"/>tentiam ad non esse, &amp; corruptionem, sic nec habent ex se potentiam ad esse, vt nullo modo habeant ab alio. 
+       <lb ed="#B" n="9"/>esse. Sed si ita esset, essent plura quae ex se haberent necesse esse, quamuis non esset nisi vnicum simplicissimum 
+       <lb ed="#B" n="10"/>quod non esset nisi ipsum necesse esse. Sed Auer. negat hanc fuisse opinionem Aristo. cum dicit in fine ter- 
+       <lb ed="#B" n="11"/>tii cap. de substantia orbis. Videmus caelum haire vnam virtutem non tantum mouentem omnia, sed agentem &amp; conseruam 
+       <lb ed="#B" n="12"/>tem omnia, sicut est dispositio in corpore hominis, &amp; in corpore facto propter finem. Sed agentium quoddam est agens 
+       <lb ed="#B" n="13"/>prius tempore acto: &amp; est omne agens quod sit in sphaera mundi: &amp; agens quod est naturaliter prius est orbis quem 
+       <lb ed="#B" n="14"/>sequitur tempus, &amp; agens orbe scilicet faciens ipsum in dispositionibus necessariis in inueniendo finem propter quem est. 
+       <lb ed="#B" n="15"/>Et cum hoc ignorauerit quidam esse de opinione Aristines dixerunt ipsum non esse causam agentem totum, sed tantum cam mo- 
+       <lb ed="#B" n="16"/>uentem: &amp; illud valde fuit absurdum &amp;c. Est igitur opinio Auerroes quod Aristiles ponebat esse causam non solum 
+       <lb ed="#B" n="17"/>mouentem, sed &amp; agentem facientem esse omnia. quod est verum &amp; catholicum. Sed in modo ponendi istud magna 
+       <lb ed="#B" n="18"/>est variatio a fide catholica. Fuit enim opinio Aristines iuxta quod exponit eum Auerroes quod in aeternis secundum quod  
+       <lb ed="#B" n="19"/>aeterna sunt non differunt esse &amp; posse. Quod potest intelligi dupliciter: &amp; secundum hoc dupliciter potest funda 
+       <lb ed="#B" n="20"/>ri modus ponendi exitum rerum a primo. Vno modo vt esse &amp; posse differant in eis sola ratione. Alio modo vt dif 
+       <lb ed="#B" n="21"/>ferant re. Primo modo dicendum est: quod sicut aeterna carent ex se potentia ad non esse, sic carent potentia ad esse: sic vt di 
+       <lb ed="#B" n="22"/>cantur habere suum esse a primo: vt quantum est ex se sint in potentia ad esse ratione suae essentiae, &amp; esse habeant 
+       <lb ed="#B" n="23"/>ab alio, &amp; potentia natura, etsi non duratione, praecedat esse: sed quod omne ens aeternum non sit nisi quiddam necesse 
+       <lb ed="#B" n="24"/>esse in sua essentia, non vt suae essentiae sit quasi adueniens esse, sed quod esse sit intraneum ipsi rei. Et quod in ta 
+       <lb ed="#B" n="25"/>libus est solum vnicum quod est necesse esse ex se: sed omnia alia sunt necesse esse ab ipso: &amp; inquantum ipsum ha  
+       <lb ed="#B" n="26"/>bent ab alio, possunt ipsum ab illo habere, sed nullo modo non habe: neque quantum est ex se, neque quantum  
+       <lb ed="#B" n="27"/>est ex parte agentis: quod non ponit nisi potentiam ad esse primo modo: quae fundatur in eo quod est ipse actus: quia 
+       <lb ed="#B" n="28"/>in tali non differunt habens: &amp; quod habetur. Et hoc modo posuit intelligentias alias a prima habere esse a pri 
+       <lb ed="#B" n="29"/>mo, &amp; esse simplices in essentia penitus. Vnde iste modus nullo modo convenit productioni elementorum  
+       <lb ed="#B" n="30"/>ita quod non sit differentia secundum istam opinionem in productione talium naturarum a deo, &amp; in generatione filii a pa 
+       <lb ed="#B" n="31"/>tre in diuinis: praeter hoc quod in istis productum est alterius substantiae &amp; inferioris gradus, quod non contin- 
+       <lb ed="#B" n="32"/>git in diuinis. In secundo vero modo potentiae dicendum est: quod aeterna sic habeant potentiam ad  
+       <lb ed="#B" n="33"/>esse: &amp; sic dicantur esse a primo, vt quantum est ex se sint in potentia ad esse ratione suae essentiae in quae non habeant esse 
+       <lb ed="#B" n="34"/>nisi ab altero: &amp; potentia natura, etsi non duratione, praecedat esse. Sed huiusmodi potentiam adhuc contingit dupliciter 
+       <lb ed="#B" n="35"/>intelligere in essentia rei creatae. Vno modo, vt in ipsa essentia rei cum potentia ad esse non sit omnino potentia ad  
+       <lb ed="#B" n="36"/>non esse. Alio modo, vt cum potentia ad esse sit aliquo modo potentia ad non esse. Primo modo posuit sim expo 
+       <lb ed="#B" n="37"/>sitionem Auerrois potentiam ad esse in corporibus caelestibus &amp; elementis secundum totum, &amp; 
+       <lb ed="#B" n="38"/>aliis rebus corporalibus secundum suas species. Vnde in hoc quod Plato posuit mundum semper 
+       <lb ed="#B" n="39"/>esse: quia non esset aliquod agens eius corruptionem, aduersatur ei Aristoteles primo caeli &amp; mun- 
+       <lb ed="#B" n="40"/>di: &amp; Auerrois ibidem: determinando quod illud non est per se causa illius, sed quia caret potentia ad  
+       <lb ed="#B" n="41"/>motum corruptionis, siue ad non esse. Vnde quia in talibus esse non est ipsum cuius est, licet ip- 
+       <lb ed="#B" n="42"/>sum cuius est non potest ipso carere, etiam quantum est ex parte sua: quia cum in essentia sua fi 
+       <lb ed="#B" n="43"/>nitum est: &amp; similiter esse ei communicatum: ideo dicit Auerrois de substantia orbis. Debemus sci 
+       <lb ed="#B" n="44"/>re quod corpus caeleste non indiget virtute mouente in loco tantum, sed virtute etiam largiente ei in se, &amp; iu 
+       <lb ed="#B" n="45"/>sua substantia permanentiam aeternam. Quoniam etsi sit simplex, &amp; non habet potentiam ad cor- 
+       <lb ed="#B" n="46"/>ruptionem, tamen est finitae actionis necessario, quia est finitarum durationum determinata-  
+       <lb ed="#B" n="47"/>rum a superficie continente ipsum: &amp; omne tale cum intellectus posuerit ipsum esse existens per 
+       <lb ed="#B" n="48"/>se absque eo quod aliud largiatur ei permanentiam &amp; aeternitatem, necesse est vt ita sit de finitate suae 
+       <lb ed="#B" n="49"/>permanentiae. Sed hoc non tenet fides, immo quod omne aliud a deo potentiam habet ad corruptio- 
+       <lb ed="#B" n="50"/>nem nisi manu diuia teneatur: et sic quod omne ens aliquae a deo habet potentiam ad non esse, licet hoc diuersimode conti 
+       <lb ed="#B" n="51"/>gat in diuersis, vt iam dicetur. Potentiam vero ad esse secundo me scilicet vt cum ea sit potentia simul ad non esse: posuit Auer 
+       <lb ed="#B" n="52"/>rois in omnibus aliis a primo &amp; ab ipso factis: &amp; similiter Plato. Sed potentiam huiusmodi ad non esse contin 
+       <lb ed="#B" n="53"/>git intelligi dupliciter. Vno modo coniunctam contrario actiuo impellente ad non esse: quale est i n  
+       <lb ed="#B" n="54"/>mixtis &amp; contrariis citra statum gloriae. Alio modo sine contrario actiuo impellente ad corruptionem. Hoc 
+       <!--548.xml-->
+       <pb ed="#B" n="254-r"/>
+        <lb ed="#B" n="1"/>modo sm fidem catholicam &amp; sententiam Platonis est in angelis. Sed contra vtrumque horum modorum in primo caeli &amp; mun. 
+       <lb ed="#B" n="2"/>probat <name ref="#Aristotle">philosophus</name> quantum potest, quod ponere in aeternis posse ad corruptionem absque eo quod aliquando corrumpatur, est impossibi 
+       <lb ed="#B" n="3"/>le. Sed iterum est aduertendum: quod cum potentia ad esse potest intelligi hi potentia ad non esse absque contrario in- 
+       <lb ed="#B" n="4"/>pellente ad corruptionem, dupliciter. Vno modo vt licet quantum est ex se hent posse ad non esse: tamen habet necessita 
+       <lb ed="#B" n="5"/>tem esse ab alio, ita quod illud esse non possit ei non imptiri. Alio modo quod illud esse suum possit non imptiri, quia nulla ne 
+       <lb ed="#B" n="6"/>cessitate illud ei impertitur. Isto secundo modo ponit fides catholica deum sanctis angelis, &amp; quibuscumque aliis a se 
+       <lb ed="#B" n="7"/>impertiri suum esse. Primo modo ponit Auicen. deum largiri esse rebus aeternis creatis, sm quod dicit in. vi. Metaphyica  
+       <lb ed="#B" n="8"/>Postquam aliqua ex rebus sm essentiam fuerit cauam esse alterius rei, profecto semper erit ei causa quamdiu habueritilla 
+       <lb ed="#B" n="9"/>esse. Res igitur huiusmodi omnibus creatis est dignior &amp; calitate, eo quod absolute prohibet rem non esse. Haec igitur est causa 
+       <lb ed="#B" n="10"/>quae dat esse rei perfectum. &amp; haecem intentio quae apud sapientes vocatur creatio, quid est dare rei esse post non esse absolute. 
+       <lb ed="#B" n="11"/>Creatum enim quantum est ex se, est vt non sit: quantum vero ad causam suam est ei vt sit. Quid autem est rei ex seipsa apud intel 
+       <lb ed="#B" n="12"/>lectum, prius est per essentiam non tempore, eo quid est ei ex alio a se. Igitur esse creatum est post non esse posterioritate essen- 
+       <lb ed="#B" n="13"/>tiae. Et est aduertendum quod in omnibus dictis opinionibus philosophorum de ponendo esse hii in omnibus aliis causatum a 
+       <lb ed="#B" n="14"/>deo, duo sunt modi ponendi. Quorum vnus est ponendo deum omnia facere in esse immediate. Alius vero ponendo ip 
+       <lb ed="#B" n="15"/>sum primo &amp; immediate agere solummodo vnam essentiam primam, &amp; mediante illa alias. Et sic vlterius iuxta 
+       <lb ed="#B" n="16"/>determinationem Aui. de qua consequenter erit sermo. Et est primus modus catholicus. Secundus vero ma 
+       <lb ed="#B" n="17"/>gis philosophicus, non secundum vera philosophiam, sed em modum quo philosophi tractabant eam, vt patebit statim tra- 
+       <lb ed="#B" n="18"/>ctando sententiam Auicennae. Secundum primum patet quid sit dicendum ad quaestionem, non quod elementorum distinctio &amp; 
+       <lb ed="#B" n="19"/>ordinatio sit a caelo, sed potius immediate a deo. Secundum. ii. modum ponendum est quod sit a deo mediante sua cauam 
+       <lb ed="#B" n="20"/>proxima, siue sit caelum, siue aliqua intelligentia. &amp; potius quod sit caelum: iuxta hoc quod tractat Auius in. ix. me- 
+       <lb ed="#B" n="21"/>taphysicae vbi dicit: quod substantia bonitatis amatae primo est vna, nec potest esse vt motor primus vniuersita 
+       <lb ed="#B" n="22"/>tis caelorum sit plus quam vnus: &amp; hent vnaquaeque sphaerarum caelorum motorem propinquum &amp; desideratum &amp; ama 
+       <lb ed="#B" n="23"/>tum, proprium, &amp; vnicuique motui est motor alius ab eo qui est alterius, &amp; desideratum aliquae vnius quam sit alterius 
+       <lb ed="#B" n="24"/>Et haec desiderata sunt bonitates purae separatae a materia: &amp; motus &amp; species omnes communicant in deside 
+       <lb ed="#B" n="25"/>rio primi principii, a cuius existentia fluit quicquid est, quod non est nisi vnius modi. Modus quo fluit ab ali 
+       <lb ed="#B" n="26"/>quo hoc, non est modus quo fluit ab eo aliud. Igitur ab ea primo &amp; immediate non fluit nisi vnum simplex 
+       <lb ed="#B" n="27"/>separatum. Quare cum hic sunt plures substantiae separatae &amp; animae &amp; corpora: oportet quod fluant ex ea median 
+       <lb ed="#B" n="28"/>tibus primis causatis sm aliquam multitudinem quae est in eis, quae non est nisi hoc modo. quoniam  
+       <lb ed="#B" n="29"/>causatum per se est posse esse in seipso. propter primum autem est necessarium esse. Sed necessitas sui esse 
+       <lb ed="#B" n="30"/>est secundum quod est intelligentia, &amp; intelligit se, &amp; intelligit primum necessario. Vnde oportet quod sit in eo 
+       <lb ed="#B" n="31"/>multitude scilicet ex hoc quod intelligit se, quod est possibile esse quantum in se est: et ex hoc quod intelligit neces 
+       <lb ed="#B" n="32"/>sitatem sui esse a primo: &amp; per hoc quod intelligit primum. Oportet igitur vt multitudo huiusmodi sit causa plura 
+       <lb ed="#B" n="33"/>litatis essendi aliam multitudinem simul a causato primo. Si enim non esset possibile esse ab eo nisi vnum  
+       <lb ed="#B" n="34"/>nec esset possibile esse ab eo corpus. Cum igitur intelligentiae separatae sint plures numero, non habent 
+       <lb ed="#B" n="35"/>esse simul ex primo, sed excellentius omnibus illis est primum quod est ex eo posse, &amp; post eam intelligentia 
+       <lb ed="#B" n="36"/>inferior. Sub vnaquaque autem intelligentia est caelum cum sua materia &amp; sua forma: quae est anima intellectiua. 
+       <lb ed="#B" n="37"/>lgitur a prima intelligentia sunt tria in esse prima causatione propter trinitatem quae est in ea. Ex 
+       <lb ed="#B" n="38"/>prima igitur intelligentia inquantum intelligit primum, sequitur esse alterius intelligentiae infe- 
+       <lb ed="#B" n="39"/>rioris ea: &amp; in quantum intelligit seipsam habentem necesse esse sequitur ex ea forma caeli vlti- 
+       <lb ed="#B" n="40"/>mi, &amp; est eius anima: &amp; inquantum intelligit seipsam vt possibile esse, est corporeitas caeli vltimi. Similiter est dis 
+       <lb ed="#B" n="41"/>positio quousque perueniat ad intelligentiam agentem quo gubernat nias animas. Nec oportet vt hoc proce- 
+       <lb ed="#B" n="42"/>dat in infinitum, quia intelligentiae non sunt conuenientes in specie, vt non oportet ab eis prouenire convenientia. Ma 
+       <lb ed="#B" n="43"/>nifestum est autem hic esse multas intelligentias simplices separatas quae fiunt cum factura corporum humanorum, nec cor 
+       <lb ed="#B" n="44"/>rumpuntur, nec permanent: quae non proueniunt a principio primo eo quod multae sunt: sed sunt cantae primi mediante 
+       <lb ed="#B" n="45"/>aliquo. Similiter est de omni canto quousque peruenitur ad causatum cum factura elementorum: quam multiplicantur numero &amp; spe 
+       <lb ed="#B" n="46"/>cie simul: &amp; hoc post completionem omnium caelestium. &amp; sequitur semper intelligentia post intelligentiam quousque fiat sphae 
+       <lb ed="#B" n="47"/>ra lunae: &amp; deinde etiam fiant elementa, &amp; aptantur recipere impressionem vnam in specie multam in numero ab intelli 
+       <lb ed="#B" n="48"/>gentia vltima. Si enim cam multitudinis non fuerit in agente, oportet quod sit necessario in patiente. Oportet igitur 
+       <lb ed="#B" n="49"/>vt ex vnaquaque intelligentia fiat intelligentia inferior ea: &amp; cesset tunc cum fuerint substantiae diuisi 
+       <lb ed="#B" n="50"/>biles multae numero, &amp; vsque huc perueniunt. Corpora autem elementaria sunt generabilia &amp; corruptibilia. Vnde  
+       <lb ed="#B" n="51"/>oportet vt principia eorum propinqua sint res recipientes materiam varietatis &amp; motus, &amp; vt intelligentia pu 
+       <lb ed="#B" n="52"/>ra non sit cauam esse eorum sola. Haec autem elementa habent materiam in quae conueniunt, &amp; formas in quibus diffe 
+       <lb ed="#B" n="53"/>runt. Vnde oportet vt ad esse diuersitatis suarum formarum cooperetur diuersitas dispositionis caelo-  
+       <lb ed="#B" n="54"/>rum. Caeli autem conueniunt in natura motus circularis. Oportet igitur vt illud sit adiuuans 
+       <!--549.xml-->
+       <pb ed="#B" n="254-v"/>
+        <lb ed="#B" n="1"/>ad esse materiae: &amp; vt id in quo differunt sit principium praeparationis materiae ad formas diuersas, sed non 
+       <lb ed="#B" n="2"/>absque confortio alterius adiuuantis: quod reducit illa ad aliquod vnum. Illud autem est vna de intelligentiis separatis, sed  
+       <lb ed="#B" n="3"/>vltima eorum quae sequitur nos, &amp; ipsa est a qua propter confortium corporum caelestium fluit aliquid, in quoest de 
+       <lb ed="#B" n="4"/>scriptio formarum mundi inferioris secundum modum patiendi: a qua postea fluunt formae in hoc appropriante: 
+       <lb ed="#B" n="5"/>ea. Cum ergo haec res appropriauerit aliquam de imprssionibus caelestibus, tunc ab hoc separato fluet forma 
+       <lb ed="#B" n="6"/>propria, &amp; describeturim illa materia. Et sicut motus est vilior dispositio quae est ibi, sic &amp; materia est vilior 
+       <lb ed="#B" n="7"/>essentia hic. Et sicut motus est ibi sequens naturam eius quod est in potentia, sic hic materia conuenit 
+       <lb ed="#B" n="8"/>cum eo quoid est in potentia. &amp; de operationibus constellationum diuersis prouenientibus proptermotum est princi- 
+       <lb ed="#B" n="9"/>pium diuersitatis permutationum quae fiunt hic. Sic ergo patet figmentum vnum physicum: quod materiaele- l 
+       <lb ed="#B" n="10"/>mentorum causatur a conformitate motuum caelestium: inquantum omnes circulares sunt virtute intelligentiae adiuuante: 
+       <lb ed="#B" n="11"/>motus illos. Diuersitas vero dispositionis caelorum est causa diuersitatis formarum elementarium: &amp; diuersi 
+       <lb ed="#B" n="12"/>tas appropriationis factae in materia, est cauam diuersitatis formarum sub eadem specie. Aliud vero figmen 
+       <lb ed="#B" n="13"/>tum est quod caelum debet hatrne aliquid corpus intra se circa quod voluitur. Et ex eo quod per motum suum illud constrigit se 
+       <lb ed="#B" n="14"/>quitur calefactio, intantum quod convertitur in ignem. Quid autem remotissimum est ab eo, remanet quietum accedens ad  
+       <lb ed="#B" n="15"/>frigiditatem &amp; spissitudinem, &amp; est terra. Quod vero sequitur ignem est calidum: sed minus calidum quam ignis sit, 
+       <lb ed="#B" n="16"/>&amp; quid sequitur terram est spissum, sed minus spissum quam terra. &amp; haec est cauam essendi elementa ab orbe. Quod de-  
+       <lb ed="#B" n="17"/>struit Auic. quia haec positio ponit corporeitatem absque alia forma, quod est impossibile. Secundum hunc igitur 
+       <lb ed="#B" n="18"/>modum figmenti physici: Dicendum esset quod distinctio &amp; ordo elementorum est &amp; ipsorum productio a caelo non 
+       <lb ed="#B" n="19"/>materia praesupposita in aliquo corpore praecedenti. cuius generationis causa assignari non posset, sed  
+       <lb ed="#B" n="20"/>aeternaliter in eis sunt sub formis suis generata, &amp; in diuersis locis propter diuersitatem respectus ad dispo 
+       <lb ed="#B" n="21"/>sitiones diuersas caelorum &amp; causas occultas in eis: secundum quod fingit Aui. Positio autem generationis de corpo 
+       <lb ed="#B" n="22"/>re aliquo contento sub caelo, concordat figmento Platonis: qui dixit mundum inferiorem formatum non amo- 
+       <lb ed="#B" n="23"/>tu caelestium: sed a deo distinguente &amp; ordinante. Quae omnia despicienda sunt a simili tanquam nimium 
+       <lb ed="#B" n="24"/>fabulosa, &amp; tenenda sunt ea quae sunt rectae rationi magis conuenientia: quod a deo omnia visibilia &amp; inuisi 
+       <lb ed="#B" n="25"/>bilia immediate creata sunt, disposita, &amp; ordinata in prima rerum creatione. secundum formam in Gen. traditam 
+       <lb ed="#B" n="26"/>Quid etiam rationabilius est dicere etiam volenti ponere mundum semper fuisse cum deo &amp; ab aeterno: non po 
+       <lb ed="#B" n="27"/>nendo mundum a deo productum necessitate naturae suae &amp; essentiae: sed voluntatis libertate &amp; dispo 
+       <lb ed="#B" n="28"/>sitione suae sapientiae: quae rationem artis vnius habet: quae vna simplex existens ratio est omnium partium mun 
+       <lb ed="#B" n="29"/>di tanquam vnius artificiati, licet secundum diuersas rationes in ipso diuersarum partium: ita quod non obstam 
+       <lb ed="#B" n="30"/>te eius vnitate &amp; simplicitate plura praesent &amp; simul procedere ab ipso immediate: etiam posito quod mundum 
+       <lb ed="#B" n="31"/>producat naturali necessitate, quia de ratione artis secundum quod est ars non est quod deliberet. secundum quod  
+       <lb ed="#B" n="32"/>habetur in fine secundi physic. Sic ergo videtur dicendum ad quaestionem, quod elementorum dil- 
+       <lb ed="#B" n="33"/>positio &amp; ordo non est a caelo, sed immediate a deo, siue in primo instanti creationis mundi, siue per 
+       <lb ed="#B" n="34"/>dierum interualla, vt narrat scriptura Gen. Vnde ne occasionem posset accipere humana temeri- 
+       <lb ed="#B" n="35"/>tas si scriptura narraret primo factum caelum, &amp; deinde elementa, pronunciat simul ea facta: cum 
+       <lb ed="#B" n="36"/>dicit. In principio creauit deus caelum &amp; terram. nomine terrae naturam omnium elementorum ex- 
+       <lb ed="#B" n="37"/>plicando. Secundum hunc enim modum dicit Ambro. in Hexam, quod scriptura describit tertio die facta terrae 
+       <lb ed="#B" n="38"/>nascentia: cum sol, luna, &amp; stellae legantur factae die quarto: ne si prius sol, luna, &amp; stellae per quas crescunt 
+       <lb ed="#B" n="39"/>terraenascentia, facta describerentur, illis terraenascentium procreatio posset ascribi. Quod ergo arguitur primo i 
+       <lb ed="#B" n="40"/>quod distinctio elementorum non est propter caeli motus: quia tunc multiplicatio motuum corrumperetge 
+       <lb ed="#B" n="41"/>nerata: hoc non concludit. quia per ea res nata est in esse conseruari &amp; generari: cum generatio est natu  
+       <lb ed="#B" n="42"/>ralis, &amp; non sit corruptio per actuum multiplicationem, nisi cum sint rei generatae innaturales. Vndeil 
+       <lb ed="#B" n="43"/>li qui primo sunt innaturales quando ex aliqua proportione contingente fiunt naturales constare faciunt 
+       <lb ed="#B" n="44"/>quae prius dissoluebant. dicente <name ref="#Aristotle">philosopho</name> de generatione animalium ex putrefactis in quarto 
+       <lb ed="#B" n="45"/>Meteoro. Calor putrefaciens naturalis cum sit constare facit disgregata.
+      </p>
+      <p xml:id="n3av8a-d1e430-d1e546">
+       Ad secundum quod motus caelige 
+       <lb ed="#B" n="46"/>nerat animata: ergo multo fortius inanimata: Dicendum quod verum est. sed materia supposita sub formis ele 
+       <lb ed="#B" n="47"/>mentaribus in quibus quodlibet est in potentia ad quodlibet, &amp; ad illorum eductionem de potentia materiae 
+       <lb ed="#B" n="48"/>secundum diuersas apprehensiones &amp; coniunctiones constellationum &amp; motuum diuersitatem multam operan 
+       <lb ed="#B" n="49"/>tur corpora caelestia. Quod bene dicit Aui. Sed quod producat essentiam materiae in esse sub formis, hoc 
+       <lb ed="#B" n="50"/>est figmentum, sicut totum illud quod dixit de creatione intelligentiae caeli &amp; animae caeli: &amp; semper pro- 
+       <lb ed="#B" n="51"/>cedere de intelligentia superiori. Hoc enim figmentum est. Non enim habet creatura mediandi potentiam 
+       <lb ed="#B" n="52"/>in actum creationis, secundum quod alias poterit declarari.  
+       <lb ed="#B" n="53"/>Explicita est Sexta disputatio &amp; determinatio de Quolibet Magistri Henrici a 
+       <lb ed="#B" n="54"/>Gandauo Archidiaconi Tornacen. &amp; sunt in vniuerso quaestiones. xxxiii. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

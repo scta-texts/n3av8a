@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 19</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 19</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e341">
+      <head xml:id="n3av8a-c1e341-Hd1e96">Quaestio 19</head>
+      <p xml:id="n3av8a-c1e341-d1e99">
+       <lb ed="#B" n="26"/>CIrca quintum arguebatur quod magis peccat agens contra rationem erroneam quam cum ipsa. Ille 
+       <lb ed="#B" n="27"/>enim magis peccat qui minus habet excusationis: &amp; minus qui magis. Sed peccans con- 
+       <lb ed="#B" n="28"/>tra rationem erroneam nihil habet excusationis in peccando. peccans autem agendo secundum  
+       <lb ed="#B" n="29"/>ipsam habet saltem in excusationem dictamen rationis proponentis sibi obiectum. ergo &amp;c. 
+       <lb ed="#B" n="30"/>
+      </p>
+      <p xml:id="n3av8a-c1e341-d1e112">
+       CONtra: quod sapiens eligeret facere prae alio, minus est peccatum, quia de duobus ma 
+       <lb ed="#B" n="31"/>llis minus malum praeeligendum est. sapiens autem praeeligit potius facere contra rationem erran- 
+       <lb ed="#B" n="32"/>tem quam cum ipsa. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e341-d1e119">
+       DIcendum ad hoc secundum distinctionem praemissam de ignorantia 
+       <lb ed="#B" n="33"/>in ratione erronea. aut causat omnino inuoluntarium secundum praedictum modum: aut non. Si sic: peccatum 
+       <lb ed="#B" n="34"/>est facere contra rationem. &amp; non est peccatum facere cum ipsa vt dictum est. Si non: aut ergo est ignorantia 
+       <lb ed="#B" n="35"/>affectata aut non: sed neglecta. Si primo modo, maius est peccatum agere cum ratione erronea quam con- 
+       <lb ed="#B" n="36"/>tra illam. Illa enim ignorantia in nullo excusat sed magis aggrauat. verbi gratia. Si quis credit esse suam quae  
+       <lb ed="#B" n="37"/>ei supponitur &amp; non est: sed procurauit se ignorare &amp; probabiliter deberet non credere esse suam: magis 
+       <lb ed="#B" n="38"/>peccat petenti reddendo debitum cum ratione erronea quam denegando. Si secundo modo, minus peccat agen- 
+       <lb ed="#B" n="39"/>do cum ratione erronea quam contra eam, quia non peccat agendo cum ea nisi quantum meretur ipsa ignorantia. ver 
+       <lb ed="#B" n="40"/>bi gratia. Siquis credat illam esse suam quae ei supponitur &amp; non est: sed istam ignorantiam non habet nisi propter 
+       <lb ed="#B" n="41"/>aliquam negligentiam modicam omittendo diligentiam quam debuit apposuisse inuestigando quae esset: iste ma 
+       <lb ed="#B" n="42"/>gis peccaret denegando debitum petenti quam reddendo secundum erroneam rationem. 
+      </p>
+      <p xml:id="n3av8a-c1e341-d1e143">
+       PER hoc enim patent obie 
+       <lb ed="#B" n="43"/>cta. Primum processit bene de ignorante erronea conscientia primo modo: quia ille omnino excusatur: &amp; ter 
+       <lb ed="#B" n="44"/>tio modo quia ille in parte excusatur. Sed de ignorante secundo modo nullo modo procedit quia ille in nullo ex 
+       <lb ed="#B" n="45"/>cusatur.
+      </p>
+      <p xml:id="n3av8a-c1e341-d1e153">
+       AD argumentum in oppositum quod magis est eligendum quod eligeret sapiens: &amp; hoc est semper agere 
+       <lb ed="#B" n="46"/>contra rationem erroneam: Dicendum quod verum est ab illo qui potest se conformare notitiae sapientis saltem cre 
+       <lb ed="#B" n="47"/>dendo illi, non autem de illo qui semper tenet rationem contrariam, quia ille non reputat alium sapientem consulen 
+       <lb ed="#B" n="48"/>tem contrarium: &amp; ita contemneret sequendo ipsum vt fatuum contra illud quod credit rectam rationem.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

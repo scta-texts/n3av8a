@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 32</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 32</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="23-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e512">
+      <head xml:id="n3av8a-c1e512-Hd1e96">Quaestio 32</head>
+      <p xml:id="n3av8a-c1e512-d1e99">
+       <lb ed="#B" n="20"/>PEr idem patet ad sextum. Cum enim super illud quod impossibile est de se nulla 
+       <lb ed="#B" n="21"/>potest esse potentia: &amp; impossibile est quod sacramentalis absolutio aliter fiat quam sub  
+       <lb ed="#B" n="22"/>verbis absolutiuis assertoriis vt dictum est: nullus autem potest dare potentiam 
+       <lb ed="#B" n="23"/>ad illud faciendum super quod nulla cadit potentia: idcirco absolute dicendum quod 
+       <lb ed="#B" n="24"/>praelatus superior non potest dare inferiori potestatem absoluendi sub illa forma. Quod 
+       <lb ed="#B" n="25"/>si praelatus superior quia non est semper praesens committat alteri potestatem ab- 
+       <lb ed="#B" n="26"/>soluendi de illis quae ad se pertinent, cum fuerit absens, sub tali conditione, quod sibi fiat confessio de eis 
+       <lb ed="#B" n="27"/>postquam fuerit praesens: tunc praelatus inferior debet confitenti dicere conditionem. Quia si non velit eam ac- 
+       <lb ed="#B" n="28"/>ceptare: non debet eum audire: nec absoluere: quia poenitens non est. Quia si tunc ex animo consentiat &amp; con 
+       <lb ed="#B" n="29"/>fiteatur &amp; absoluatur: quod factum est tenet. Sed si postmodum confiteri renuit superiori, quae dimis- 
+       <lb ed="#B" n="30"/>sa sunt non redeunt: sed nouum crimen incurrit. Vnde cum dictam conditionem appositam acceptat ab- 
+       <lb ed="#B" n="31"/>solute debet eum absoluere sine omni conditione apposita ex parte absolutionis. &amp; tunc praelatus ad  
+       <lb ed="#B" n="32"/>ueniens potest ratam habere confessionem factam inferiori. Et si audire velit confessionem vt cogno- 
+       <lb ed="#B" n="33"/>scat vultum pecoris sui, potest etiam ex abundanti absoluere. sed non oportet postquam rata fuerit ab  
+       <lb ed="#B" n="34"/>solutio praecedens. Vnde bene potest praelatus committere ea quae ad se pertinent sub hac forma. 
+       <lb ed="#B" n="35"/>committo tibi audire confessiones &amp; absoluere de talibus casibus cum absens fuero, sub tali condi 
+       <lb ed="#B" n="36"/>tione quod mihi confiteantur cum reuersus fuero. quia confessio nihil aliud est quam ligaminis ostensio. &amp; idem 
+       <lb ed="#B" n="37"/>ligamen pluribus potest ostendi. &amp; tunc non habet vigorem prima confessio nisi sub proposito fa- 
+       <lb ed="#B" n="38"/>ciendi secundam. Sub tali autem forma, committo tibi audire confessiones &amp; absoluere de talibus 
+       <lb ed="#B" n="39"/>casibus cum absens fuero: &amp; absoluere ab eis sub tali conditione quod non valeat tua absolutio nisi mea 
+       <lb ed="#B" n="40"/>subsequatur: vel ratam eam habeam: vel quousque ego ab illis absoluam: non potest committere nec va 
+       <lb ed="#B" n="41"/>let commissio. Sic enim committere absolutionem nihil est committere. quia absoluens aut amouet li- 
+       <lb ed="#B" n="42"/>gamen aut non. Si sic, nihil manet ad amouendum: &amp; amotum est, siue superior ratum habeat siue 
+       <lb ed="#B" n="43"/>non: siue iterato quantum est de se absoluat siue non, quia quod semel est dissolutum non amplius ma-  
+       <lb ed="#B" n="44"/>net dissoluendum ab eodem ligamine, maxime cum dissoluendo ligamen destruitur. sicut fit in ab  
+       <lb ed="#B" n="45"/>solutione sacramentali: ad modum quo in absolutione excommunicationis: a qua absolutus semel num 
+       <lb ed="#B" n="46"/>quam ab illa excommunicatione est absoluendus: sed solum a noua si in eam intrudatur. 
+      </p>
+      <p xml:id="n3av8a-c1e512-d1e160">
+       SED dices quod ab  
+       <lb ed="#B" n="47"/>soluere sacerdotis nihil est nisi ostendere absolutum. &amp; a pluribus ab eodem vinculo potest ostendi 
+       <lb ed="#B" n="48"/>absolutus. sicut per confessionem potest pluribus ostendere vinculum a quo est absolutus vel absol- 
+       <lb ed="#B" n="49"/>uendus. 
+      </p>
+      <p xml:id="n3av8a-c1e512-d1e169">
+       DIcendum quod non est ita, immo absolutio sacramentalis proprium habet effectum ex vir 
+       <lb ed="#B" n="50"/>tute sacramenti. quem non habet confessio peccatoris. Illa enim solum habet virtutem ex deuotione 
+       <lb ed="#B" n="51"/>confitentis. Absolutio autem quantum est de se ex gratia sacramentali habet virtutem. vt quamuis 
+       <lb ed="#B" n="52"/>confitens non sit omnino contritus sufficienter de peccatis vt ei debeant virtute contritionis remit 
+       <lb ed="#B" n="53"/>ti: sed solum attritus vt de proximo sit dispositus vt ei remittantur: si tamen non apponeretur sacra 
+       <lb ed="#B" n="54"/>mentum absolutionis: non ei remitterentur. postquam tamen apponitur absolutio sacramentalis, datur  
+       <!--86.xml-->
+       <pb ed="#B" n="23-r"/>
+       <lb ed="#B" n="1"/>gratia qua subito persecte conteratur. &amp; a peccato absoluitur virtute absolutionis: &amp; aliquid cum 
+       <lb ed="#B" n="2"/>hoc de satisfactione remittitur: quod remitteretur etiam si peccatum esset prius remissum in suffici 
+       <lb ed="#B" n="3"/>enti contritione. Vnde aut non est absolutio: aut aliquid fit virtute absolutionis quod nunquam restat 
+       <lb ed="#B" n="4"/>faciendum per actionem cuiuscumque superioris.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

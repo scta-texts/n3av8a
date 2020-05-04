@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="225-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e149">
+       <head xml:id="n3av8a-d1e149-Hd1e96">Quaestio 8</head>
+       <p xml:id="n3av8a-d1e149-d1e99">
+       <lb ed="#B" n="7"/>Equuntur quaesita de creaturis. Et erant plurima de creatura animata: vt de homine spe 
+       <lb ed="#B" n="8"/>cialiter: &amp; vnicum &amp; vltimum de creatura inanimata: vt de elementis. Circa hominem quae-  
+       <lb ed="#B" n="9"/>rebantur quaedam pertinentia ad hominem simpliciter: quaedam vero pertinentia determina-  
+       <lb ed="#B" n="10"/>te ad aliqua determinata genera hominium. Circa hominem simpliciter quaerebantur quaedam  
+       <lb ed="#B" n="11"/>pertinentia ad eius essentiam: quaedam vero ad eius possessionem. Et circa eius essentiam quaere 
+       <lb ed="#B" n="12"/>bantur quaedam principaliter pertinentia ad animam: duo vero pertinentia principaliter ad  
+       <lb ed="#B" n="13"/>corpus: &amp; plura alia pertinentia ad coniunctum ex vtroque. Circa animam hominis quae-  
+       <lb ed="#B" n="14"/>rebatur vnicum pertinens ad animam separatam a corpore: &amp; plura alia ad animam corpori vnitam. Illud  
+       <lb ed="#B" n="15"/>vnicum pertinens ad animam separatam erat. vtrum anima separata recordetur eorum quae nouit coniuncta:  
+       <lb ed="#B" n="16"/>&amp; arguitur quod non: quia <name ref="#Aristotle">philosophus</name> dicit. iii. de anima quod non reminiscitur, si autem non reminiscitur, nec recordatur 
+       <lb ed="#B" n="17"/>ergo &amp;c. Item notitia ab anima in corpore acquisita sicut acquiritur per phantasmata, sic per phantasmata 
+       <lb ed="#B" n="18"/>exercetur. sed sine phantasmatibus non potest vllo modo acquiri. quare nec exerceri. Sed non recorda- 
+       <lb ed="#B" n="19"/>tur per eam nisi vtendo ea. ergo &amp;c. In oppositum est illud quod legitur Luc. xvi. de diuite epulone: vbi dici- 
+       <lb ed="#B" n="20"/>tur Fili recordare &amp;c. Et sequitur quomodo recordatus est se habere. v fratres. ergo &amp;c. Item nisi anima per ha 
+       <lb ed="#B" n="21"/>bitus acquisitos posset recordari separata: frustra essent illi habitus in ea, quid non est ponere. Quia anima 
+       <lb ed="#B" n="22"/>separata a corpore intellectualem habet operationem, omnino ponendum est: &amp; cum hoc etiam de illis quae nunquam no-  
+       <lb ed="#B" n="23"/>uit: &amp; de quibus nihil acquisiuit in corpore per quid posset haberi illorum notitia. nisi enim anima haberet 
+       <lb ed="#B" n="24"/>separata a corpore intellectualem operationem: impossibile esset eam separari a corpore. nihil enim est destitu  
+       <lb ed="#B" n="25"/>tum a, propria operatione. secundum Damasce. &amp; philosophum. aliter enim separata est otiosa. Propter quid dicit <name ref="#Aristotle">philosophus</name> 
+       <lb ed="#B" n="26"/>in primo de anima. Si nulla est ei operatio, propria, impossibile est eam a corpore separari. Quia etiam intelligat non in  
+       <lb ed="#B" n="27"/>tellecta in corpore, neque per acquisita in corpore: patet ex animabus paruulorum quae nihil omnino intellexerunt 
+       <lb ed="#B" n="28"/>nec idcirco aliquid per operationem intellectualem acquisierunt. Quomodo autem intelligant, generaliter de 
+       <lb ed="#B" n="29"/>hoc non est quaestio praesens: sed specialiter an separata intelligat ea quae intellexit existens in corpo- 
+       <lb ed="#B" n="30"/>re: &amp; hoc non directe: sed an intelligat se expresse intellexisse quae intellexit in corpore, actum intelligendi separa 
+       <lb ed="#B" n="31"/>tum reflectendo super actum intelligendi coniunctum. talis enim actus intelligendi reiterationem &amp; con- 
+       <lb ed="#B" n="32"/>uersionem eius per se super seipsum: non autem super ipsum principale intellectum nisi mediante actu super quem 
+       <lb ed="#B" n="33"/>reflectitur: importatur nomine recordationis. Et quia intellectus actum intelligendi sequentem non reflectit 
+       <lb ed="#B" n="34"/>super actum intelligendi praecedentem nisi intelligendo per eadem siue sint species, siue habitus: vt eiusdem mo-  
+       <lb ed="#B" n="35"/>di intelligendi necessarium sit esse vnum &amp; alterum. Non enim esset recordatio si quod hic sciuit modo humano per  
+       <lb ed="#B" n="36"/>habitus vel species acquisitas, ibi sciret modo angelico vel per species vel habitus innatos: &amp; per actum intelligen 
+       <lb ed="#B" n="37"/>di ex illis conuerteretur super actum intelligendi quem habuit. Vnde non plus habet quaestio praesens quam 
+       <lb ed="#B" n="38"/>an eisdem speciebus seu habitibus actum consimili intelligendi anima intelligebat separata &amp; coniuncta: vt sic 
+       <lb ed="#B" n="39"/>per actum intelligendi consimilem ex eisdem speciebus seu habitibus possit reuerti ad eundem actum in spe 
+       <lb ed="#B" n="40"/>cie &amp; modo intelligendi: quod appellatur recordari. 
+      </p>
+      <p xml:id="n3av8a-d1e149-d1e182">
+       ET erat quorundam opinio quod in anima coniuncta nihil ha-  
+       <lb ed="#B" n="41"/>bet esse nisi quod consistit in actuali operatione actus intelligendi: ita quod nihil manet in anima ex illo cum desinit 
+       <lb ed="#B" n="42"/>actu intelligere. Et secundum istam opinionem planum est quod non potest recordari eorum quae nouit in cor- 
+       <lb ed="#B" n="43"/>pore. Sed hoc apparet falsum: quoniam tunc per exercitium in studio &amp; actum intelligendi non esset vnus habi 
+       <lb ed="#B" n="44"/>lior ad ipsum quam alius: aliis eisdem retentis: nec idem post exercitium quam ante, quod aperte falsum est. Vnde &amp; <name ref="#Aristotle">philosophus</name> 
+       <lb ed="#B" n="45"/>dicit. iii. de anima: quod anima est locus specierum. Oportet igitur ponere quod remaneat aliquid in anima ex actu in-  
+       <lb ed="#B" n="46"/>telligendi a phantasmatibus siue illud dictatur habitus, siue species. Sed tunc est tota dubitatio vtrum  
+       <lb ed="#B" n="47"/>per illud intelligat consimili actu quo prius: vt per actum separatum recordari possit actus coniuncti. 
+      </p>
+      <p xml:id="n3av8a-d1e149-d1e203">
+       ET est opi 
+       <lb ed="#B" n="48"/>nio aliquorum dicentium quod sic: quo ad substantiam actus qui determinatur ex obiecto expresso intellectui per 
+       <lb ed="#B" n="49"/>speciem eius retentam a phantasmate cum esset coniuncta, per quam speciem dicunt obiectum praesentari absque phan 
+       <lb ed="#B" n="50"/>tasmate quod animae coniunctae praesentabatur in phantasmate: quemadmodum per speciem existentem in imagina 
+       <lb ed="#B" n="51"/>tiua praesentatur imaginatiuae ad absentiam rei extra idem obiectum quod in ipsa repraesentatur sensui particu- 
+       <lb ed="#B" n="52"/>lari: vt secundum hoc actus intelligendi animae separatae &amp; animae existentis in corpore differant quo ad  
+       <lb ed="#B" n="53"/>modum intelligendi: qui sequitur statum &amp; dispositionem virtutis intellectiuae. Et secundum dictum istorum  
+       <lb ed="#B" n="54"/>anima separata recordatur eorum quae nouit in corpore quo ad substantiam actus cognoscendi &amp; ipsius ob- 
+       <!--491.xml-->
+       <pb ed="#B" n="225-v"/>
+        <lb ed="#B" n="1"/>iecti: non autem quo ad cognoscendi modum. 
+      </p>
+      <p xml:id="n3av8a-d1e149-d1e227">
+       SED contra istum modum ponendi videtur esse sententia philo-  
+       <lb ed="#B" n="2"/>sophi, &amp; recta ratio. Quoniam secundum quod vult philosophus, &amp; recta ratio dictat: habitus generantur ex acti 
+       <lb ed="#B" n="3"/>bus &amp; ex consimilibus actibus similes habitus, non autem generantur nisi a per se agente &amp; seipso, quia secun 
+       <lb ed="#B" n="4"/>dum <name ref="#Aristotle">philosophum</name> bona operantes boni sumus. Cuius ergo est per se actus intelligendi coniuncta anima corpori 
+       <lb ed="#B" n="5"/>eius est &amp; habitus. Sed actus intelligendi anima coniuncta est totius hominis vt intelligentis ergo &amp; habitus. Quid autem  
+       <lb ed="#B" n="6"/>est per se totius, non est partis nisi per accidens: sicut &amp; econuerso quod est per se partis non est totius nisi per acci 
+       <lb ed="#B" n="7"/>dens. Cum autem aliquid convenit duobus, vni per se, alteri per accidens, impossibile est quod perfectius vtatur illo id cui 
+       <lb ed="#B" n="8"/>conuenit per accidens, quam cui conuenit per se. Quare cum persectior sit vsus habitus non solum per ipsum inclinari 
+       <lb ed="#B" n="9"/>ad actum sed etiam ipsum obiectum praesentare quo perficitur actus, quam ad actum solummodo inclinare: quemadmo- 
+       <lb ed="#B" n="10"/>dum nobilior est habitus angeli cognitiuus quam hominis vt habitum est supra: homo autem totus non potest 
+       <lb ed="#B" n="11"/>vti habitu suo praesentando sibi obiectum: sed ipso inclinando solum in actum circa obiectum praesentatum: non  
+       <lb ed="#B" n="12"/>nisi in phantasmate: dicente <name ref="#Aristotle">philosopho</name> quod phantasmata sunt intellectui nostro sicut sensibilia sensui: vt si 
+       <lb ed="#B" n="13"/>cut oculus recipiendo speciem visibilis in se non videret non praesentato sibi obiecto in re extra: sic homo ha 
+       <lb ed="#B" n="14"/>bens in se speciem rei sine habitu in anima non intelligeret nisi appareat intelligibile in phantasmate: ergo neque  
+       <lb ed="#B" n="15"/>anima cui convenit habitus per accidens, quia vt parti: multo minus poterit vti eo praesentando obiectum: 
+       <lb ed="#B" n="16"/>sed solummodo obiecto sibi praesentato in phantasmate. Quare cum phantasma non habeat separata: etsi 
+       <lb ed="#B" n="17"/>habeat in se habitum: nullo modo potest vti eo aut elicere ex eo actum intelligendi consimilem ei quem elicie 
+       <lb ed="#B" n="18"/>bat coniuncta. Sed aliter vt dictum est non potest recordari eorum quae nouit. Igitur, vt opinor, dicendum  
+       <lb ed="#B" n="19"/>est quod anima separata non recordatur eorum quae totus homo coniunctus cognouit fine ipsa anima vt erat in eo. 
+       <lb ed="#B" n="20"/>Non tamen ex hoc sequitur quod non poterit scire ea quae nouit in corpore aut operata est: quia nihil im 
+       <lb ed="#B" n="21"/>pedit quin secundum alium modum sciendi illa sciat, quemadmodum animae paruulorum separatae possunt sci 
+       <lb ed="#B" n="22"/>re quod aliquando erant in corpore: quae tamen hoc nunquam sciuerunt cum erant in corpore. Vnde etsi aliqua  
+       <lb ed="#B" n="23"/>nouit anima in corpore: si noscat illa cum est separata: &amp; similiter cognoscat se illa nouisse cum erat in corpo- 
+       <lb ed="#B" n="24"/>re: hoc non est recordari: sed est nosse alio genere cognoscendi illud quod nouit aut egit prius in corpore. 
+      </p>
+      <p xml:id="n3av8a-d1e149-d1e287">
+       SE 
+       <lb ed="#B" n="25"/>cundum hoc ergo concedenda sunt auctoritas &amp; ratio ad primam partem. 
+      </p>
+      <p xml:id="n3av8a-d1e149-d1e292">
+       AD auctoritatem in oppositum 
+       <lb ed="#B" n="26"/>dicendum est quod in ea sumitur recordari large pro reducere ad cognitionem aliquando acta &amp; cognita siue eodem 
+       <lb ed="#B" n="27"/>genere cognitionis siue alio. Cum tamen non sit proprie recordari nisi secundum idem genus cognitionis vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-d1e149-d1e299">
+       AD 
+       <lb ed="#B" n="28"/>rationem in oppositum: quod tunc illi habitus in anima separata essent frustra: Dicendum quod non dicitur aliquid esse fru- 
+       <lb ed="#B" n="29"/>stra quia pro aliquo statu maxime defectiuo: qualis est status animae separatae: quia est praeter naturam 
+       <lb ed="#B" n="30"/>eius: non conuenit eo vti: vt non dicitur homo frustra habere visum in tenebris vbi non potest eo vti. sed si pro nul 
+       <lb ed="#B" n="31"/>lo statu contingeret eo vti: maxime cum est in statu suo perfecto naturali: tunc videretur esse frustra.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

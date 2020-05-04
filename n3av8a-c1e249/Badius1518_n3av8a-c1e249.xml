@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="10-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e249">
+      <head xml:id="n3av8a-c1e249-Hd1e96">Quaestio 12</head>
+      <p xml:id="n3av8a-c1e249-d1e99">
+       <!--60.xml-->
+       <pb ed="#B" n="10-r"/>
+       <lb ed="#B" n="1"/>SEquuntur quaestiones pertinentes ad animam rationalem quantum ad statum naturae. Et sunt 
+       <lb ed="#B" n="2"/>duae. Prima quaestio est, vtrum anima separata intelligat naturaliter, per species, vel per suam 
+       <lb ed="#B" n="3"/>essentiam. Secunda, vtrum intelligat se per speciem editam a se. Et quia super idem fundantur  
+       <lb ed="#B" n="4"/>simul eas prosequemur. 
+      </p>
+      <p xml:id="n3av8a-c1e249-d1e115">
+       PRImo ergo arguebatur quod anima separata intelligat se per suam 
+       <lb ed="#B" n="5"/>essentiam non per speciem: sicut quaerit <name ref="#Aristotle">philosophus</name> in iii. de anima. Quare intellectus intelligit: species autem in  
+       <lb ed="#B" n="6"/>telligibilis non intelligit: cum tamen vtrumque sit separatum a materia. Et respondet quod hoc ideo est 
+       <lb ed="#B" n="7"/>quia intellectus de se actu est intelligibilis: spens autem non: sed in potentia solum. inde est quod  
+       <lb ed="#B" n="8"/>intellectus intelligit eo quod est actu intelligibilis. sed actu intelligibilis est per suam essentiam: ergo  
+       <lb ed="#B" n="9"/>per suam essentiam intelligit.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

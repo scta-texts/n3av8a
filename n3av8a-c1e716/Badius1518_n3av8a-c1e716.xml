@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e716">
+      <head xml:id="n3av8a-c1e716-Hd1e96">Quaestio 5</head>
+      <p xml:id="n3av8a-c1e716-d1e99">
+       <lb ed="#B" n="25"/>Irca quartum arguitur: quod ad desitionem specierum in altari, non desinit ibi esse verum corpus 
+       <lb ed="#B" n="26"/>Christi. quoniam accidens non habet esse hic vel alibi nisi per suum subiectum: non econuerso 
+       <lb ed="#B" n="27"/>subiectum per suum accidens, proprium, quare multo minus neque per accidens alienum. sed species sa 
+       <lb ed="#B" n="28"/>cramenti sunt accidentia aliena corpori Christi. ergo per illa non habet esse alicubi. sed  
+       <lb ed="#B" n="29"/>res non desinit esse alicubi desinente illo ibi esse per quod ipsa non habet esse ibi. ergo &amp;c. 
+       <lb ed="#B" n="30"/>
+      </p>
+      <p xml:id="n3av8a-c1e716-d1e115">
+       IN contrarium est fides nostra.
+      </p>
+      <p xml:id="n3av8a-c1e716-d1e118">
+       DIcendum ad hoc: quod esse vbi, sequitur ipsum esse rei sim 
+       <lb ed="#B" n="31"/>pliciter. &amp; ideo secundum additionem esse rei simplicitur, res habet esse vel non esse alicubi. Vnde incorporalia quia  
+       <lb ed="#B" n="32"/>in suo esse ratione suae substantiae sunt absque situ &amp; positione: quia simplicitas in eis rationem vnitatis habet non 
+       <lb ed="#B" n="33"/>puncti per quam res determinatur ad situm: vt infra dicetur. ideo vt dicit Boetius de hebdomadibus, in loco non sunt 
+       <lb ed="#B" n="34"/>secundum sniam episcopi. Quod intelligendum est ratione substantiae: vt substantia eorum dicatur eis esse ratio essendi in lo  
+       <lb ed="#B" n="35"/>co. Quare cum corpus Christi non habet esse sacrarmaliter in altari nisi quia habet esse sub speciebus vi consecra 
+       <lb ed="#B" n="36"/>tionis: idcirco species sacrmein existentis in altari sunt ei ratio eistendi sacramenaliter in altari. abstracto autem a re il 
+       <lb ed="#B" n="37"/>lo quod ei est ratio existendi alicubi: non amplius est ibi: vt si auferatur substantiae quantitas dimensiua per quam a lo 
+       <lb ed="#B" n="38"/>co describitur: non amplius est circunscriptiue in loco. Ablatis ergo &amp; desinentibus speciebus esse in altari: statim 
+       <lb ed="#B" n="39"/>desinit per hoc corpus Christi sacramaliter esse in altari.
+      </p>
+      <p xml:id="n3av8a-c1e716-d1e140">
+       AD argumentum in oppositum dicendum: quod esse alicubi 
+       <lb ed="#B" n="40"/>pont esse vel in loco naturali: qui sumitur ex determinata substantia rei corporalis cuiusque a circunferentia mun- 
+       <lb ed="#B" n="41"/>di. secundum quod naturale est terrae remotissimam esse a circunferentia: &amp; ita in centro mundi: &amp; post terram aer: &amp; sic 
+       <lb ed="#B" n="42"/>de caeteris, semper nobilibus supponendo vilius: vel sicut in loco mathematico: qui sumitur ex hoc quod superficies 
+       <lb ed="#B" n="43"/>vnius corporis circunscribit supficiem alterius corporis vbicumque sit, non enim in hoc est differentia. Primo modo  
+       <lb ed="#B" n="44"/>substantia non habet esse in loco per suum accidens: sed econverso. Vnde substantia terrae per se nata est esse &amp; generari 
+       <lb ed="#B" n="45"/>in centro maxime. &amp; ideo dicit philosophus: quod quanto res acquirit de forma, &amp; de loco proprio sibi. Secundo autem modo  
+       <lb ed="#B" n="46"/>econuerso non habet substantia esse in loco nisi per suum accidens quod est quantitas, quia non nisi ratione quantitatis 
+       <lb ed="#B" n="47"/>ab alio ambitur &amp; circunfertur. &amp; hoc modo sicut suba panis per sua accidentia habuit esse sicut in loco non natu  
+       <lb ed="#B" n="48"/>rali sed mathematico in altari &amp; suba corporis xproi non habet ibi esse nisi quaetenus † transubstantiata est suba pa 
+       <lb ed="#B" n="49"/>nis sub illis speciebus ibi existens in corpus xproei. Idcirco per illa accamentia licet aliena bene potest poni ibi esse corpus proeni.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

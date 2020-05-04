@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 22</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 22</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="389-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3879">
+       <head xml:id="n3av8a-c1e3879-Hd1e96">Quaestio 22</head>
+       <p xml:id="n3av8a-c1e3879-d1e99">
+        <lb ed="#B" n="35"/>SEquuntur quaesita circa homines pertinentes ad diuersos status. Et primo pertinentia 
+       <lb ed="#B" n="36"/>ad praelatos: deinde pertinentia ad subditos. Circa praelatos quaerebantur, tria circa praela 
+       <lb ed="#B" n="37"/>tos ecclesiasticos: circa superiores vnum: &amp; circa alios duo: &amp; quaerebatur vnum circa prae 
+       <lb ed="#B" n="38"/>latos saeculares. Quorum primum erat: vtrum potestas episcoporum sit a Christo 
+       <lb ed="#B" n="39"/>immediate: an mediante papa. Secundum erat: vtrum sacerdos habens competens 
+       <lb ed="#B" n="40"/>beneficium possit alii deseruire pro lucro temporali. Tertium erat: vtrum sacerdos 
+       <lb ed="#B" n="41"/>curatus possit absoluere parochianam suam cum qua peccauit: nec illa possit ad alium ire fine eius 
+       <lb ed="#B" n="42"/>obtenta licentia. Quartum erat: vtrum iudex saecularis possit cogere reum ad confitendum aliquid  
+       <lb ed="#B" n="43"/>ad quid sequitur mors corporalis. 
+      </p>
+      <p xml:id="n3av8a-c1e3879-d1e121">
+       CIRca primum arguitur: quod episcopi immediate habent potesta- 
+       <lb ed="#B" n="44"/>tem a Christo, quia sunt sponsi ecclesiae: &amp; hoc non nisi immediate gerendo vicem Christi veri sponsi. 
+       <lb ed="#B" n="45"/>ergo &amp;c. Item actuum. xv. super quaestione mota de legalibus veteris testamenti obseruandis vel non cum 
+       <lb ed="#B" n="46"/>fide Christi, scribitur: secundum quod etiam dicit magister in histo. quomodo Petrus surgens primus ratioci 
+       <lb ed="#B" n="47"/>nando ondit non esse imponendum fidelibus iugum legis. Facto autem silentio Iacobus Hierosolymorum epi- 
+       <lb ed="#B" n="48"/>scopus adhaerens verbis Petri, auctoritate pontificali protulit definitiuam sententiam dicens. Vi 
+       <lb ed="#B" n="49"/>ri fratres audite me. Simon narrauit &amp; caetera. Propter quod ego iudico &amp; caetera, quasi dicat, meum 
+       <lb ed="#B" n="50"/>est proferre sententiam: quia est in dicecesi mea. hoc autem non faceret post iudicium Petri &amp; in prae 
+       <lb ed="#B" n="51"/>sentia eius si iurisdictionem haberet ab ipso Petro: quare nec episcopi qui sunt successores aposto- 
+       <lb ed="#B" n="52"/>lorum iurisdictionem habent a papa qui est successor Petri. 
+      </p>
+      <p xml:id="n3av8a-c1e3879-d1e143">
+       CONtra. Papa est caput ecclesiae: aquo  
+       <lb ed="#B" n="53"/>alii dependent vt membra, quare cum membra habent virtutem a capite, &amp; episcopi atque caeteri prae 
+       <lb ed="#B" n="54"/>lati a papa. 
+      </p>
+      <p xml:id="n3av8a-c1e3879-d1e150">
+       DIcendum quod in praelatis super ecclesiam duplex residet potesta scilicet ordinis &amp; iurisdictio- 
+       <!--818.xml-->
+       <pb ed="#B" n="389-r"/>
+        <lb ed="#B" n="1"/>nis. Illa quae est ordinis, a deo aequaliter habet inesse omnibus papae &amp; episcopis: &amp; a Christo non per 
+       <lb ed="#B" n="2"/>hominem delegantem sed solum per sacramentum ordinis sacerdotalis. vt dist. xxi. In nouo testamento. vbi 
+       <lb ed="#B" n="3"/>dicitur. Per Christum a Petro sacerdotalis coepit ordo: quia ipsi primo pontificatus in ecclesia datus 
+       <lb ed="#B" n="4"/>est: dicente domino. Tu es Petrus, &amp; super hanc petram aedificabo ecclesiam meam. Hic ligandi soluendique potestatem 
+       <lb ed="#B" n="5"/>primus a domino accepit. Intelligo in promisso. Caeteri vero apostoli cum eodem pari confortio honorem 
+       <lb ed="#B" n="6"/>&amp; potestatem acceperunt. Intelligo in actum: quando dictum est ei: pasce oues meas. lpsis quoque discedentibus 
+       <lb ed="#B" n="7"/>in loco eorum surrexerunt episcopi. Super illud pari confortio. Glos. Arstinus quod omnis episcopus sit par papae 
+       <lb ed="#B" n="8"/>quantum ad ordinem ratione consecrationis. Illa vero potestas quae est iurisdictionis, dispar est. xxiiii. 
+       <lb ed="#B" n="9"/>q. prima. Loquitur dominus. vbi dicitur. Super vnum aedificauit ecclesiam suam: quuis apostolis omnibus pare 
+       <lb ed="#B" n="10"/>potestatem tribuat: tamen vt vnitatem manifestaret, vnitatis eiusdem originem ab vno incipientem sua 
+       <lb ed="#B" n="11"/>auctoritate disposuit. Super illud Super vnum. Glos. Pares fuerunt in ordine &amp; dignitate consecrationis:  
+       <lb ed="#B" n="12"/>secus in administrationis plenitudine: quae satis differt ab aliis. ii. q. vii. Puto. vbi dicitur. Quis nesciat 
+       <lb ed="#B" n="13"/>illum apostolatus principatum cuilibet episcopatui praeferendum: lxxx. dist. In illis. Quoniam nec inter apostolos 
+       <lb ed="#B" n="14"/>par fuit institutio sed vnus praefuit omnibus. 
+      </p>
+      <p xml:id="n3av8a-c1e3879-d1e188">
+       CIRca illa autem quae sunt iurisdictionis, duo est com 
+       <lb ed="#B" n="15"/>siderare: &amp; iurisdictionis acceptionem, &amp; iurisdictionis executionem. Si consideremus iurisdictionis 
+       <lb ed="#B" n="16"/>acceptionem: illam a Christo in apostolis praedecessoribus suis acceperunt episcopi: &amp; non alio medioni 
+       <lb ed="#B" n="17"/>si sacramento consecrationis &amp; confirmationis suae electionis: quemadmodum papa suam in Petro a 
+       <lb ed="#B" n="18"/>Christo accepit immediate, &amp; non alio medio quam sacramento consecrationis aut electionis. Et hanc 
+       <lb ed="#B" n="19"/>habent quo ad substantiam potestatis in eisdem quae pertinent ad regimenecclesiae secundum edicta di 
+       <lb ed="#B" n="20"/>uinae legis: licet non quo vsus amplitudinem. quoniam papa potest ea vti non solum in propria sed in cuiusli 
+       <lb ed="#B" n="21"/>bet episcopi dicecesi per vniuersum mundum cum opus fuerit. quo ad hoc enim est omnium iudex imme 
+       <lb ed="#B" n="22"/>diatus. ix. q. vlt. S. Sola Romana ecclesia sua auctoritate valet iudicare de omnibus: de ea nulli iudicare per  
+       <lb ed="#B" n="23"/>mittitur. Vbi &amp; in capitulis sequentibus multa de excellentia potestatis papae. lpse etiam potest facere edicta 
+       <lb ed="#B" n="24"/>vniuersalia quae omnes vbique astringunt: in quibus nullam episcopi habent iurisdictionem nisi quate-  
+       <lb ed="#B" n="25"/>nus eis committitur a papa: &amp; in iure edito ab ipso eis conceditur. Episcopi vero statuta non possunt 
+       <lb ed="#B" n="26"/>facere ligantia aliquos extra, proprias diceceses. In quibus etiam papa plenam habet iurisdictionem. Si ve 
+       <lb ed="#B" n="27"/>ro consideremus iurisdictionis executionis: sic dico quod papa habet iurisdictionem limitandi aliis suam 
+       <lb ed="#B" n="28"/>&amp; sibi reseruandi, secundum quod opus sibi visum fuerit. Et licet episcopi habeant potestatem non a pa- 
+       <lb ed="#B" n="29"/>pa sed immediate a Christo tam eam quae est ordinis, quam eam quae est iurisdictionis in ordinando ecclesias se- 
+       <lb ed="#B" n="30"/>cundum instituta legis diuinae: tamen iurisdictionem in ordinando ecclesias suas secundum edicta a papa in  
+       <lb ed="#B" n="31"/>stituta, &amp; in resumendo ea quae papa subtraxit: habent a papa, &amp;deo mediante papa. Quid ergo argui-  
+       <lb ed="#B" n="32"/>tur primo quod omnes sunt sponsi ecclesiae: ergo immediate gerunt vicem Christi: verum est de quoli- 
+       <lb ed="#B" n="33"/>bet episcopo respectu ecclesiae suae dicecesis: respectu cuius habent potestatem aliquam a Christo imme 
+       <lb ed="#B" n="34"/>diate, aliquam papa mediante, vt dictum est. Solus tamen papa est sponsus vniuersalis ecclesiae vice Christi. 
+       <lb ed="#B" n="35"/>Propter quod habet vniuersalem potestatem super omnes secundum praedictum modum. 
+      </p>
+      <p xml:id="n3av8a-c1e3879-d1e236">
+       AD secundum quod laco- 
+       <lb ed="#B" n="36"/>bus tulit sententiam post Petri admonitionem ipso Petro praesente: Dicendum quod hoc non fecit quasi 
+       <lb ed="#B" n="37"/>habens etiam in sua ciuitate parem potestatem cum Petro: Petrus enim si voluisset Iacobo silentium imposuisset: 
+       <lb ed="#B" n="38"/>&amp; propria auctoritate sententiam illam protulisset: sed quia congruum est &amp; decens vt quilibet superior permit 
+       <lb ed="#B" n="39"/>tat gaudere inferiorem sua potestate ordinaria &amp; vbi eam habet exercere: nisi rationabilis causa subsit 
+       <lb ed="#B" n="40"/>quare debet inferiori subtrahere eius executionem &amp; eam sibi assumere: idcirco Petrus permisit Iacobo 
+       <lb ed="#B" n="41"/>in sententia illa proferenda vti iure suo, quod non arguit quin Petrus in eadem snia proferenda pinguius ius habuerit.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

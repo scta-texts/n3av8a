@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 22</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 22</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="82-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1195">
+      <head xml:id="n3av8a-c1e1195-Hd1e96">Quaestio 22</head>
+      <p xml:id="n3av8a-c1e1195-d1e99">
+       <!--204.xml-->
+       <pb ed="#B" n="82-r"/>
+       <lb ed="#B" n="1"/>CIRca Tertium arguitur: quod absque omni peccato soluendo poenam possit homo t 
+       <lb ed="#B" n="2"/>transgredi statuta pure poenalia. Quia simile quo ad hoc (vt videtur) est in statu A 
+       <lb ed="#B" n="3"/>tis principum &amp; religionum. Sed transgrediens statuta principum &amp; soluens poe 
+       <lb ed="#B" n="4"/>nam, non peccat in aliquo prouocando principem. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1195-d1e115">
+       CONtra. Talis facit 
+       <lb ed="#B" n="5"/>contra suum votum quod nemo potest transgredi sine peccato. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1195-d1e120">
+       AD 
+       <lb ed="#B" n="6"/>huius quaestionis intelligentiam sciendum quod secundum <name ref="#Aristotle">philosophum</name> in fine quaer  
+       <lb ed="#B" n="7"/>ti Ethicorum, sermo doctrinae de virtutibus &amp; virtutum operibus, &amp; de feli- 
+       <lb ed="#B" n="8"/>citate &amp; delectatione quae est in ipsa, non est per se sufficiens ad hoc vt fiamus boni &amp; felices, quoniam  
+       <lb ed="#B" n="9"/>hoc non fit in nobis ex speculari singula operabilium, &amp; cognoscere in quo stat finis scientiae mora- 
+       <lb ed="#B" n="10"/>lis: sed magis ex operari ea quae secundum virtutem sunt opera. Sermones enim morales prouoca 
+       <lb ed="#B" n="11"/>re &amp; mouere bene natos &amp; bene educatos a pueritia possunt ad bonum: bonos autem facere non pos 
+       <lb ed="#B" n="12"/>sunt sine exercitio operum virtutis: ad quod oportet eos praeparatos esse bonis consuetudinibus 
+       <lb ed="#B" n="13"/>&amp; praeexistere mores virtuosos: quos difficile est fortiri aliquos ex iuuentute nisi educati fuerint re 
+       <lb ed="#B" n="14"/>ctis legibus. Temperate enim viuere &amp; perseueranter, paucis est propter se delectabile, maxime iuueni 
+       <lb ed="#B" n="15"/>bus. Et ideo oportet metiri vitam &amp; actus eorum per consuetudinem legum. Cum enim creue- 
+       <lb ed="#B" n="16"/>rint secundum eas, tunc non erunt eis contristabiles virtutum operationes propter earum consue 
+       <lb ed="#B" n="17"/>tudinem. Propter quod super sermones morales de virtutibus quibus docetur quid operandum &amp; 
+       <lb ed="#B" n="18"/>quid non operandum, necessarii sunt sermones politici de legibus: quibus homo in operibus virtu- 
+       <lb ed="#B" n="19"/>tis exercetur: &amp; habilitatur in bonis statutis diuinis &amp; humanis. Sed quia multos nec sermones mora 
+       <lb ed="#B" n="20"/>les de virtutibus ad amorem boni aliquo modo possunt prouocare: quia nec nati sunt obedire ser- 
+       <lb ed="#B" n="21"/>monibus secundum virtutem: nec sermones politici de legibus &amp; statutis operandorum possunt 
+       <lb ed="#B" n="22"/>ad bene operandum assuefacere amore iustitiae, sed tantummodo timore poenae: vt illos qui non verecun 
+       <lb ed="#B" n="23"/>dia ducuntur ad bonum sed metu: nec recedunt a prauis propter turpe: sed propter poenas: &amp; ne 
+       <lb ed="#B" n="24"/>cessitati magis obediunt quam sermoni: &amp; iacturae quam bono: propter quod oportet legislatores non solum  
+       <lb ed="#B" n="25"/>praescribere sermones de virtutum operibus &amp; per eos prouocare ad bonum: &amp; instituere leges de 
+       <lb ed="#B" n="26"/>bonis consuetudinibus: &amp; secundum eas educare boni gratia: &amp; eius quod est obedientes fieri stu- 
+       <lb ed="#B" n="27"/>diosos: sed etiam oportet propter degeneres &amp; inobedientes poenas transgressorum apponere: vt 
+       <lb ed="#B" n="28"/>quem non erudit sermo, erudiat flagellum: ita vt qui punitus &amp; castigatus propter suam transgres 
+       <lb ed="#B" n="29"/>sionem insanabilis manet, omnino de aliorum societate extirpetur. Patet igitur ex dictis quod poena- 
+       <lb ed="#B" n="30"/>lis institutio semper praeter principalem intentionem legislatoris intrat legis edicta: vt scilicet qui  
+       <lb ed="#B" n="31"/>operibus virtutum &amp; obseruantiis legalibus noluerint assuescere amore iustitiae: saltem assuescere 
+       <lb ed="#B" n="32"/>cogantur timore poenae. Obedientes enim oportet honorare vt angelos. Inobedientes autem flag el 
+       <lb ed="#B" n="33"/>lare vt asinos. In omni ergo statuto poenali principalis intentio statuentis non attendit ad poenam: 
+       <lb ed="#B" n="34"/>hoc enimtyrannidis esset &amp; crudelitatis: sed attendit ad alicuius operis virtutis &amp; legalis consue- 
+       <lb ed="#B" n="35"/>tudinis obseruantiam: ad quam vt legi subiectos fortius astringat: ne per inobedientiam transgredian- 
+       <lb ed="#B" n="36"/>tur: poenam adiungit. Quare cum transgredi opus virtutis vel legis obseruantiam quam in statu 
+       <lb ed="#B" n="37"/>to quocunque poenali legillator principaliter intendit: cui poenam ipsam secundaria intentione an-  
+       <lb ed="#B" n="38"/>nectit: non potest esse quin sit culpabile si contra legislatoris intentionem transgrediatur: 
+      </p>
+      <p xml:id="n3av8a-c1e1195-d1e197">
+       DIcen- 
+       <lb ed="#B" n="39"/>dum est igitur absolute: quod non est aliquod statutum poenale quin etiam transgressores obliget ali- 
+       <lb ed="#B" n="40"/>quo modo ad culpam. Sed quando hoc, &amp; quomodo: Ad cuius intellectum sciendum: quod statutum poe- 
+       <lb ed="#B" n="41"/>nale dupliciter potest institui. Vno modo seorsum a statuto obseruantiae legalis: vt sint duo statu- 
+       <lb ed="#B" n="42"/>ta. Verbi gratia: in aliqua religione primo statuitur quod nullus loquatur post completorium: quod  
+       <lb ed="#B" n="43"/>est vnum statutum legalis obseruantiae: &amp; statim adiungitur, quod siquis post completorium loqua-  
+       <lb ed="#B" n="44"/>tur, quod dicet septem psalmos poenitentiales: quod aliud statutum est &amp; poenale. In isto modo sta- 
+       <lb ed="#B" n="45"/>tuendi, primum statutum procul dubio est principale, &amp; quo ad modum statuendi, &amp; quo ad intentio 
+       <lb ed="#B" n="46"/>nem statuentis, vt patet ex dictis. Et quia in tali modo statuendi statutum primum non dependet 
+       <lb ed="#B" n="47"/>omnino a secundo: licet econuerso: ipsum per se habet suam obligationem, &amp; quantum ad modum  
+       <lb ed="#B" n="48"/>statuendi, &amp; quantum ad intentionem statuentis: propter quod eius transgressio obligat sem- 
+       <lb ed="#B" n="49"/>per ad culpam: &amp; nullo modo potest ipsum homo subditus religioni illi transgredi absque cul- 
+       <lb ed="#B" n="50"/>pam quantumcunque soluit poenam annexam in secundo statuto. Nisi in casu necessitatis: qui ra 
+       <lb ed="#B" n="51"/>tionabiliter debet intelligi exceptus ex intentione statuentis: si illum aduerteret. Talis enim 
+       <lb ed="#B" n="52"/>simpliciter &amp; absolute facit contra suum votum: vt procedit secunda obiectio. Alio vero modo  
+       <lb ed="#B" n="53"/>potest institui statutum poenale simul implicando circa ipsum obseruantiam illam propter cuius 
+       <!--205.xml-->
+       <pb ed="#B" n="82-v"/>
+       <lb ed="#B" n="1"/>custodiam poena statuitur propter eius transgressores citra talem casum necessitatis iam dictum 
+       <lb ed="#B" n="2"/>vt non sit nisi vnum statutum. verbi gratia: in aliqua religione forte statuitur aliquid sub hac forma. Qui 
+       <lb ed="#B" n="3"/>cunque loquatur post completorium dicet septem psalmos. In quo modo statuendi est duo conside 
+       <lb ed="#B" n="4"/>rare: &amp; formam &amp; modum statuendi: &amp; intentionem statuentis. Si quidem consideremus huiusmo 
+       <lb ed="#B" n="5"/>di statutum primo modo, scilicet quantum ad formam &amp; modum statuendi, patet quod in eo poena 
+       <lb ed="#B" n="6"/>principaliter statuitur &amp; obseruantia propter quam statuitur: scilicet ne aliquis post completorium  
+       <lb ed="#B" n="7"/>loquatur, nullo modo ex forma statuti instituitur: sed solum tanquam factum materiale, quo con- 
+       <lb ed="#B" n="8"/>tingente poena reddenda est quae in statuto implicatur. Et ideo dicendum: quod huiusmoddi praece- 
+       <lb ed="#B" n="9"/>ptum poenale, quantum ad formam &amp; modum statuendi, obligat solummodo ad poenam illam sol 
+       <lb ed="#B" n="10"/>uendam &amp; nullo modo ad culpam, nisi per accidens propter contemptum, si debita &amp; statuta poena eo 
+       <lb ed="#B" n="11"/>modo quo statuta est non soluatur. Si vero huiusmodi praeceptum consideretur referendo ipsum  
+       <lb ed="#B" n="12"/>ad intentionem statuentis, tunc intelligendum quod in huiusmodi vel consimili statuto intentio in-  
+       <lb ed="#B" n="13"/>stituentis potest esse per poenam statutam astringere, &amp; timore poenae ex obliquo inducere, ne omni 
+       <lb ed="#B" n="14"/>no fiat illud factum circa cuius transgressionem poena illa instituitur: vel potest esse eius intentio 
+       <lb ed="#B" n="15"/>astringere &amp; inducere timore poenae non ne omnino fiat, sed solum ne fiat passim &amp; fine rationabi- 
+       <lb ed="#B" n="16"/>li aut ex leui causa. Secundum primum modum fit statutum poenale super illo quid simpliciter est 
+       <lb ed="#B" n="17"/>illicitum, &amp; de natura sua malum, nec in toto potest extirpari a populo propter stragem multorum: 
+       <lb ed="#B" n="18"/>puta siquis commiserit simplicem fornicationem super qua fuerit accusatus a synodo, soluet epi- 
+       <lb ed="#B" n="19"/>scopo nouem libras, quemadmodum hoc obseruatur de consuetudine in multis locis. Tale statutum 
+       <lb ed="#B" n="20"/>poenale cum hoc quod solum obligat ad poenam determinatam ex forma &amp; qualitate statuti, tamen ex 
+       <lb ed="#B" n="21"/>intentione statuentis &amp; natura rei quia est de simpliciter malis, obligat ad culpam: quae ex solutione 
+       <lb ed="#B" n="22"/>huiusmodi poenae non statim expiatur. Secundum alium modum fit statutum poenale super illo quod  
+       <lb ed="#B" n="23"/>de se est indifferens: vt in proposito est loqui post completorium: super quo statuitur in poenam quod 
+       <lb ed="#B" n="24"/>loquens dicat septem psalmos. In tali enim statuto poenali, eo quod est super indifferenti, intentio statuen 
+       <lb ed="#B" n="25"/>tis si rationabilis sit, debet esse non vt non loquatur aliquis omnino post completorium: quia hoc in casu ali 
+       <lb ed="#B" n="26"/>quo posset vergere in magnum damnum aut incommodum. Et etiam debet esse intentio eius non 
+       <lb ed="#B" n="27"/>solum vt non loquatur in casu magnae necessitatis de quo iam dictum est: sed quod non loquatur in  
+       <lb ed="#B" n="28"/>multis casibus inferioribus: scilicet ne passim &amp; temerarie aut ex leui causa loquatur tunc. Sed si ra 
+       <lb ed="#B" n="29"/>tionabilis causa loquendi occurrat etiam citra dictam magnam necessitatem, quod tunc si loquatur hoc 
+       <lb ed="#B" n="30"/>sit sub poena apposita, quae apponitur in talicasu, vt cogat eum ponderare an causa propter quam ei 
+       <lb ed="#B" n="31"/>videtur loquendum sit rationabilis. Hoc enim conuincitur ex qualitate &amp; quantitate poenae: per hoc 
+       <lb ed="#B" n="32"/>quod iuxta regulam rationis rectam ponderantis mauult huiusmodi poenam subire quam loqui ex tali 
+       <lb ed="#B" n="33"/>causa postponere. Dico ergo quod si loquamur de huiusmodi statuto poenali referendo ipsum ad inten- 
+       <lb ed="#B" n="34"/>tionem statuentis: quod obligat transgressorem ex rationabili &amp; probabili causa solummodo ad poe- 
+       <lb ed="#B" n="35"/>nam: &amp; nullo modo ad culpam: immo cum talis causa occurrit: potius meretur quam demeretur si lo 
+       <lb ed="#B" n="36"/>quatur &amp; poenam legitime persoluat: quam etsi in hoc casu sustinet sine culpa, non tamen sine causa. 
+       <lb ed="#B" n="37"/>Transgressorem vero passim &amp; temerarie sine causa rationabili, aestimo quod non solum obligat ad poe 
+       <lb ed="#B" n="38"/>nam sed ad culpam. Quia statutum ex intentione statuentis rationabiliter implicat ne temerarie 
+       <lb ed="#B" n="39"/>quis loquatur omnino &amp; sub hac poena: sed tunc solummodo cum rationabilis causa occurrit, vt 
+       <lb ed="#B" n="40"/>dictum est. Et sic transgressor temerarius talis statuti poenalis non potest ipsum transgredi absque  
+       <lb ed="#B" n="41"/>omni culpa soluendo poenam. Et simile est de statutis principum &amp; praelatorum in consimili ma-  
+       <lb ed="#B" n="42"/>teria. Ex quo patent obiecta vtriusque partis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="312-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3202">
+       <head xml:id="n3av8a-c1e3202-Hd1e96">Quaestio 8</head>
+       <p xml:id="n3av8a-c1e3202-d1e99">
+        <lb ed="#B" n="47"/>SEquuntur quaesita de creaturis secundum se. Et primo de quaesitis circa ipsas in ge- 
+       <lb ed="#B" n="48"/>nerali. Secundo de quaesitis circa easdem in speciali. Circa primum quaerebantur duo. Vnum  
+       <lb ed="#B" n="49"/>pertinens ad perfectionem earum in esse. Secundum vero ad modum essendi earum. Primum 
+       <lb ed="#B" n="50"/>erat: vtrum in perfectionibus essentialibus creaturarum sit status in accipiendo aliquam 
+       <lb ed="#B" n="51"/>speciem creaturae perfectissimam, proximam in gradu naturae primo persectissimo 
+       <lb ed="#B" n="52"/>supra quam non sit accipere aliam, proximiorem illi. Secundum erat: vtrum aliqua creatura 
+       <lb ed="#B" n="53"/>seipsa sit formaliter necesse esse. 
+      </p>
+      <p xml:id="n3av8a-c1e3202-d1e117">
+       CIRca primum arguitur quod sit ponere statum in perfectione creatu 
+       <lb ed="#B" n="54"/>rae, quia in essentialiter ordinatis qualiter ordinantur creaturae inter se secundum species suas 
+       <!--665.xml-->
+       <pb ed="#B" n="312-v"/>
+        <lb ed="#B" n="1"/>respectu dei, si non sit primum, nec aliquod aliorum: secundum <name ref="#Aristotle">philosophum</name> in secundo Metaphysicae de sta 
+       <lb ed="#B" n="2"/>tu causarum. sed in essentialiter ordinatis semper praecedens est primum respectu sequentium: &amp; essentia- 
+       <lb ed="#B" n="3"/>lem ordinem habet ad omnia sequentia: qualem primum simpliciter respectu omnium. ergo in sic 
+       <lb ed="#B" n="4"/>ordinatis ad vnum primum omnium si non sit proximum post illud quod est primum respectu omnium aliorum  
+       <lb ed="#B" n="5"/>nec aliquod aliorum. ergo a contrario si sint alia posteriora essentialiter ordinata ad primum omnium, ne 
+       <lb ed="#B" n="6"/>cessario est aliquod primum respectu illorum, quod est secundum respectu primi, &amp; proximum illi. Ita quod sicut 
+       <lb ed="#B" n="7"/>primo simpliciter nihil potest esse prius: sic sub isto non potest aliquid esse prius respectu aliorum. hoc autem nonest 
+       <lb ed="#B" n="8"/>nisi ponere statum in perfectionibus creaturarum. ergo &amp;c. Contra. deus est infinitae perfectionis. se- 
+       <lb ed="#B" n="9"/>cundum autem rationes perfectionis est imitabilis a creaturis. ergo secundum rationes infinitas est imitabi 
+       <lb ed="#B" n="10"/>lis a creaturis. hoc autem non est nisi quia creatura sm aequales modos imitatur: quia non est imitabilitas pas 
+       <lb ed="#B" n="11"/>siua sine imitante actiua, sicut velite non potest esse passiuum sine correspondente actiuo, nec econuerso. ergo  
+       <lb ed="#B" n="12"/>creatura secundum infinitos gradus perfectionis potest esse imitatiua dei. hoc autem non contingeret si status &amp; nu- 
+       <lb ed="#B" n="13"/>merus esset in perfectionibus creaturarum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3202-d1e157">
+       HIC in principio sciendum secundum praedicta in prima quae  
+       <lb ed="#B" n="14"/>stione praecedente: quod creaturae ad deum dupliciter habent comparationem. Vno modo secundum suas essentias 
+       <lb ed="#B" n="15"/>vt secundum rationes ideales speculatiuas sunt quaedam exemplata ipsius. Alio modo secundum suas existentias, vt sm 
+       <lb ed="#B" n="16"/>rationes ideales practicas sint quaedam operata siue operanda ab ipso. Et isto secundo modo creaturae nuilum 
+       <lb ed="#B" n="17"/>ordinem essentialem habent ad deum, quo necesse est ipsum per ordinem producere creaturas in esse: vt primo vnam 
+       <lb ed="#B" n="18"/>primam: &amp; deinde alias per ordinem mediante prima: &amp; semper posteriorem mediante priori, siue non, sed singu 
+       <lb ed="#B" n="19"/>lam immediate a deo, licet aliquem talium ordinum posuit Auius in productione rerum a deo, vt alibi expo 
+       <lb ed="#B" n="20"/>suimus. Primo autem modo creaturae omnes ordinem essentialem secundum gradus perfectionum in diuersitate essentiae habent 
+       <lb ed="#B" n="21"/>inter se, &amp; ad primum: quemadmodum in diuinis, vbi in identitate essentiae habent esse plures ab vno pri 
+       <lb ed="#B" n="22"/>mo, necessario habent ordinem essentialem siue naturalem inter se &amp; ad primum, secundum rationes productionum. 
+       <lb ed="#B" n="23"/>Nunc autem ita est quod in essentialiter siue naturaliter ordinatis secundum actus producendi inter se &amp; ad vnum pri 
+       <lb ed="#B" n="24"/>mum, est aliquid secundum respectu primi &amp; omnium aliorum, quod producitur a solo primo: &amp; tertium quid non a solo 
+       <lb ed="#B" n="25"/>primo: sed simul a primo &amp; secundo. et si ordo procederet vlterius, quartum non produceretur a solo primo 
+       <lb ed="#B" n="26"/>nec a solo primo &amp; secundo: sed simul a primo secundo &amp; tertio: &amp; sic deinceps, ita quod nuilum sequentium produ  
+       <lb ed="#B" n="27"/>ci posset a primo, aut aliquo aliorum, nisi simul ab omnibus intermediis, vt alibi plane declaraui- 
+       <lb ed="#B" n="28"/>mus, loquendo de emanationibus diuinarum personarum. Quare si sit ordo essentialis in essentiis rerum 
+       <lb ed="#B" n="29"/>potius quam in existentiis: erit consimiliter in essentialiter ordinatis secundum actum essendi scilicet essentialiter 
+       <lb ed="#B" n="30"/>secundum formas &amp; essentias suas producibiles in esse a deo secundum actum existendi: ita quod est aliquid  
+       <lb ed="#B" n="31"/>secundum respectu primi &amp; omnium aliorum: quid solum immediatum est ad primum: &amp; post primum 
+       <lb ed="#B" n="32"/>&amp; secundum tertium, quid solum immediatum est post illos: &amp; sic deinceps vsque ad infimam crea- 
+       <lb ed="#B" n="33"/>turam. ita quod nuilum sequentium haberet quod essentia &amp; natura quaedam esset a deo producibilis 
+       <lb ed="#B" n="34"/>ordinem essentialem habendo ad ipsum: nisi haberet similiter ordinem essentialem ad omnia intermedia 
+       <lb ed="#B" n="35"/>&amp; illa similiter ad primum, ita quod quocunque posteriorum dato in tali ordine impossibile est ponere 
+       <lb ed="#B" n="36"/>infinita media inter illud &amp; primum. Hoc enim esset ordinem essentialem omnino interimere. Si- 
+       <lb ed="#B" n="37"/>cut enim in tali ordine si non est primum simpliciter non est aliquod posteriorum: sic similiter si non est 
+       <lb ed="#B" n="38"/>secundum proximum post primum: nec etiam est aliquod posteriorum, quia illud secundum primum est 
+       <lb ed="#B" n="39"/>respectu posteriorum: &amp; sic deinceps. Et declaratur ordo essentialis in sic ordinatis in hoc: quod modo 
+       <lb ed="#B" n="40"/>numerorum in eis est aliquod vnum primum simplicissimum in fine simplicitatis &amp; virtutis infinitae 
+       <lb ed="#B" n="41"/>quia summe vnitae: &amp; post illud est aliquod vnum quod per aliquam compositionem sed minimam quae  
+       <lb ed="#B" n="42"/>potest reperiri in creaturis, recedit a simplicitate illius primi: quemadmodum binarius per aliquam 
+       <lb ed="#B" n="43"/>compositionem recedit a simplicitate vnitatis: sed minimam quae potest inueniri in numeris. Vnde 
+       <lb ed="#B" n="44"/>est post illud primum omnino infinitum magis infinitum virtute caeteris &amp; magis vnite. &amp; sic dein  
+       <lb ed="#B" n="45"/>ceps vsque ad infimam creaturam minimae virtutis. Vt secundum hoc intelligatur illud quod dicit 
+       <lb ed="#B" n="46"/>Augustinus libro confes. Duo fecisti domine: vnum prope te: scilicet aliquam creaturam angeli 
+       <lb ed="#B" n="47"/>cam: alterum prope nihi scilicet primam materiam. Vnde si multiplicatio essentiarum creaturae intelli 
+       <lb ed="#B" n="48"/>gatur multiplicari siue plurificari, hoc non debet imaginari ponendo principium in prima materia 
+       <lb ed="#B" n="49"/>&amp; accedendo ad primum omnium a minus nobili ad magis nobile sic vt non ponatur finis perfectionum in  
+       <lb ed="#B" n="50"/>creaturis in ascendendo. Istud enim contrarium est ordini naturae: quem natura nunquam inchoaret cum 
+       <lb ed="#B" n="51"/>eum perficere non posset. esset etiam contrarium reductioni creaturarum ad deum: quia nulla perfecte reduceretur ad ips 
+       <lb ed="#B" n="52"/>quia non reducuntur posteriora ad primum nisi per medium. nec esset in reducendo ordo non modo essentialis: sed nec 
+       <lb ed="#B" n="53"/>aliquis ordo omnino: quia in infinitis non est ordo. Quia autem aliqui assignant pro cauam: quod si ponatur quaecumque crea 
+       <lb ed="#B" n="54"/>tura perfectissima, sm aliquam perfectionem imitabilitatis in deo imitatur ipsum: quae est super persectionem imitabilitatis 
+       <!--666.xml-->
+       <pb ed="#B" n="313-r"/>
+        <lb ed="#B" n="1"/>qua imitatur eum creatura inferior. Ita quod sicut secundum rationem nostri intellectus supe perfectionem 
+       <lb ed="#B" n="2"/>imitabilitatis qua imitatur eum creatura inferior, est sumere perfectionem qua illa superior creatura 
+       <lb ed="#B" n="3"/>est imitabilis, eo quod ipsa non exhaurit totam imitabilitatem dei, sic cum nec suprema creatura data  
+       <lb ed="#B" n="4"/>exhaurit totam imitabilitatem dei, quia ipsa est infinita: &amp; quaelibet creatura imitatur modo fini 
+       <lb ed="#B" n="5"/>to: erit ergo in deo ponere perfectionem imitabilitatis superiorem: qua imitatur essentia superioris 
+       <lb ed="#B" n="6"/>creaturae: &amp; sic deinceps in infinitum. Praeterea nisi ita esset sicut essentiae creaturarum sim species 
+       <lb ed="#B" n="7"/>necessario sunt finitae, &amp; ideae in deo, quia non sunt per se nisi species, necessario essent finitae, quod videtur inconue 
+       <lb ed="#B" n="8"/>niens. Sed prima istarum rationum procedit ex falsa imaginatione: imaginando gradus in diuina perfecti- 
+       <lb ed="#B" n="9"/>one secundum considerationem intellectus nostri: quae omnino est falsa: etsi nullos gradus ponat in deo. quia  
+       <lb ed="#B" n="10"/>talis consideratio non sequitur naturam rei, vt scilicet secundum ipsam tales conceptus sint formabiles: qualiter de 
+       <lb ed="#B" n="11"/>bent sequi omnes veri conceptus de deo id quid consideratur in ipso, sicut alibi exposuimus, immo debemus 
+       <lb ed="#B" n="12"/>considerare in deo vnum quid simplicissimum in perfectione: quid rationes omnium perfectionum possibilium circa cre 
+       <lb ed="#B" n="13"/>aturas haent in se non quantitatiue quasi per extensionem in qua accipitur pars, &amp; pars quantitatiua, quemad- 
+       <lb ed="#B" n="14"/>modum maior linea habet in se minorem, &amp; plus, etsi solum sm considerationem intellectus: nec qualitatiue per  
+       <lb ed="#B" n="15"/>intensionem, in qua accipitur pars &amp; pars qualitatiua, quemadmodum magis calidum habet in se intensio- 
+       <lb ed="#B" n="16"/>nem minus calidi, &amp; plus. Talis enim consideratio non potest esse circa aliquid sine omni comperatione existens 
+       <lb ed="#B" n="17"/>Et sm hunc modum aliqui cogitant omnes perfectiones esse contineri in esse dei: quemadmodum calidum ignis 
+       <lb ed="#B" n="18"/>continet omnes perfectiones calidorum, quia est summe calidum. &amp; non bene. Immo debemus cogitare perfe- 
+       <lb ed="#B" n="19"/>ctiones omnis esse fore in esse dei vnite, non secundum rationem eiusdem sed alterius &amp; supereminentis. Quemadmodum  
+       <lb ed="#B" n="20"/>in vnitate consideratur perfectio omnis numeri: ita quod sicut in vnitate non est aliquid quod imitatur nume 
+       <lb ed="#B" n="21"/>rus vnus &amp; non alius, immo id ipsum quod in vnitate imitatur vnus numerus &amp; quilibet, &amp; hoc est totum  
+       <lb ed="#B" n="22"/>quod est ipsa vnitas: sic in deo non est aliquid re quod imitatur vna creatura &amp; non alia. immo id ipsum 
+       <lb ed="#B" n="23"/>quod in deo imitatur vna creatura, &amp; quaelibet alia: &amp; hoc est totum quod est diuinitatis essentia. ita quod rationes 
+       <lb ed="#B" n="24"/>imitabilitatum &amp; idearum non sint in deo secundum actum ex natura rei secundum se: sed solum ex consi 
+       <lb ed="#B" n="25"/>deratione diuini intellectus, vt supra dictum est: quo oncprehendit se imitabilem a diuersis, non comphendem 
+       <lb ed="#B" n="26"/>do aliquid diuersitatis realis ex parte sui &amp; eius quod est per se obiectum intellectus sui: sed solum compre 
+       <lb ed="#B" n="27"/>hendendo secundum actum vnum simplex in ordine vel comperatione ad diuersa ipsum imitantia. Quod quidem sim 
+       <lb ed="#B" n="28"/>plex vt sic comprehensum est ab intellectum, &amp; hoc vt diuersimode imitabile est, est formaliter &amp; 
+       <lb ed="#B" n="29"/>actualiter ipsae distinctae siue diuersae ideae. Ita quod ipsa diuina essentia eo quod simplicissima est &amp; sum- 
+       <lb ed="#B" n="30"/>me vna ex se virtute &amp; quasi in potentia continet omnes imitabilitates ideales quasi radix &amp; fun- 
+       <lb ed="#B" n="31"/>damentum: sicut &amp; omnium aliorum quae in diuinis secundum aliquam pluralitatem sunt siue considerantur. vt sic 
+       <lb ed="#B" n="32"/>principium primum originale omnis pluralitatis &amp; diuersitatis non est nisi vnitas &amp; identitas sum 
+       <lb ed="#B" n="33"/>ma absque omni pluralitate &amp; diuersitate. Sed quod ista eadem essentia sit formaliter &amp; secundum actum omnes 
+       <lb ed="#B" n="34"/>huiusmodi imitabilitates ideales, siue quod secundum actum formaliter sint in ea vt distinctae &amp; di-  
+       <lb ed="#B" n="35"/>uersae, hoc solummodo habet ab opere intellectus circa ipsam vt intellecta est: ita quod essentia nec 
+       <lb ed="#B" n="36"/>ex se vt substantia quaedam est, nec ex se vt etiam intellecta est, habet in se illas secundum actum: 
+       <lb ed="#B" n="37"/>sed ab opere intellectus: ita quod illae imitabilitates ideales opere intellectus sunt in essentia intellecta vt 
+       <lb ed="#B" n="38"/>in radice formaliter, &amp; secundum actum: &amp; similiter in ipso intellectu non solum vt in comprehendem 
+       <lb ed="#B" n="39"/>te, sed vt in quasi subiecto: quemadmodum intentio secunda ab opere animae existens in anima, est in ani 
+       <lb ed="#B" n="40"/>ma non solum vt in cognoscente: sed vt in vero subiecto: non quod ipse intellectus diuinus consideret di 
+       <lb ed="#B" n="41"/>uersas imitabilitates in essentia: quia considerat imitantia diuersa, vt secundum hoc diuersitas imi- 
+       <lb ed="#B" n="42"/>tantium sit ratio diuersitatis imitabilitatum: sed potius quod considerat diuersa imitantia, quia con 
+       <lb ed="#B" n="43"/>siderat se diuersimode imitabilem: vt diuersitas relationum rationalium quas deus suo intellectu 
+       <lb ed="#B" n="44"/>constituit in seipso, sit potius causa diuersitatis relationum realium in creaturis quam econuerso, sicut 
+       <lb ed="#B" n="45"/>dictum est supra dicente Augustino. lxxxiii, quaest. quaest. de ideis. Has rationes vbi arbitrandum  
+       <lb ed="#B" n="46"/>est esse nisi in ipsa mente creatoris: Non enim extra quicquam positum intuebatur, vt secundum id  
+       <lb ed="#B" n="47"/>constitueret quod constituebat. Nam hoc sacrilegum est. Et Seneca ad Lucilium epistola. lxviii. Pla 
+       <lb ed="#B" n="48"/>to exemplar ideam vocat. Hoc est enim ad quod respiciens artifex id quod destinauit efficit. Nihil au-  
+       <lb ed="#B" n="49"/>tem ad rem pertinet vtrum foris habeat exemplar, an intus referat oculos, an intus quod ipse conspicit ibi &amp; 
+       <lb ed="#B" n="50"/>posuit. Haec exemplaria rerum omnium deus intra se habet: numerosque vniuersorum quae 
+       <lb ed="#B" n="51"/>agenda sunt &amp; modos mente complexus est: plenus his figuris quas Plato ideas appellat. Quia  
+       <lb ed="#B" n="52"/>autem deus sic huiusmodi exemplaria in se constituit: non autem ea ab extra accipit, hoc con- 
+       <lb ed="#B" n="53"/>tingit ex Iympiditate sui intellectus. Quemadmodum enim ex rectitudine suae voluntatis 
+       <lb ed="#B" n="54"/>volendo suam bonitatem quae ipse est, vult se esse beneficum aliorum: &amp; hoc tamen non nisi illorum qui 
+       <!--667.xml-->
+       <pb ed="#B" n="313-v"/>
+        <lb ed="#B" n="1"/>iusta electione beneficia eius sunt percepturi nulla ratione suae voluntatis aut electionis ex parte 
+       <lb ed="#B" n="2"/>sua accepta ex parte eligibilium: licet nullos eligat nisi quorum est ratio ex parte sua: qua iustitia 
+       <lb ed="#B" n="3"/>congrui potius vnus effectuum electionis in se consequitur, &amp; non alius vt habitum est supra: sic 
+       <lb ed="#B" n="4"/>ex lympiditate sui intellectus sciendo suae essentiae veritatem quae ipse est, scit &amp; nouit se imita- 
+       <lb ed="#B" n="5"/>bilem aliorum: &amp; tamen non nisi illorum qui naturaliter eius essentiam imitantur nulla ratio- 
+       <lb ed="#B" n="6"/>ne suae scientiae siue notitiae ex parte sua accepta ex parte rerum scibilium extra, licet respectu 
+       <lb ed="#B" n="7"/>nuiius se imitabilem sciat nisi cuius est natura aliqua quae est quiditas &amp; essentia: qua potius imitatur 
+       <lb ed="#B" n="8"/>diuinam essentiam quam illud cuius natura non est quiditas aut essentia aliqua. Vnde cum creatu 
+       <lb ed="#B" n="9"/>rae superioris &amp; inferioris gradus persectionem diuinae essentiae imitantur: non est secundum aliam r 
+       <lb ed="#B" n="10"/>&amp; aliam rationem perfectionis absolutam: quarum vnam exhaurit vna creatura, &amp; aliam alia. Hoc 
+       <lb ed="#B" n="11"/>enim omnino est impossibile, scilicet quod vna creatura exhauriat vnam rationem diuinae perfectio 
+       <lb ed="#B" n="12"/>nis, &amp; alia aliam. Sic enim vniuersitas infinitatum essentiarum creaturae exhauriret infinitatem 
+       <lb ed="#B" n="13"/>diuinae perfectionis: &amp; adaequaretur quo ad hoc infinitas essentiarum creaturae, infinitati perfe- 
+       <lb ed="#B" n="14"/>ctionis dei. Quod multo magis est impossibile quam ponere quod deus secundum aliquam rationem perfecti 
+       <lb ed="#B" n="15"/>onis non sit imitabilis a creatura, licet vtrunque sit impossibile. Quicquid enim perfectionis est in deo, quae  
+       <lb ed="#B" n="16"/>libet creatura imitatur, &amp; creaturam in aliquo adaequari infinitati creatoris, omnino est im- 
+       <lb ed="#B" n="17"/>possibile. Praeterea esto quod secundum aliam &amp; aliam rationem perfectionis in deo diuersae creatu- 
+       <lb ed="#B" n="18"/>rae diuersimode ipsum imitentur: si propterea necesse habemus ponere quod infinitae debent esse es- 
+       <lb ed="#B" n="19"/>sentiae creaturarum imitabilitates: quia creaturae non exhauriunt infinitas imitabilitates in deo  
+       <lb ed="#B" n="20"/>eadem ratione, cum nulla essentia creaturae specifica vna secundum vnum gradum intentio- 
+       <lb ed="#B" n="21"/>nis exhaurit totam rationem perfectionis qua deus est imitabilis ab illa, quia quaelibet ratio per- 
+       <lb ed="#B" n="22"/>fectionis &amp; imitabilitatis in deo infinita est intensiue, sicut &amp; tota imitabilitas: &amp; nulla essentia 
+       <lb ed="#B" n="23"/>vnica creaturae specifica potest exhaurire infinitum, nec ei vllo modo adaequari, oportet pone- 
+       <lb ed="#B" n="24"/>re ad hoc quod tota imitabilitas persectionis qua species aliqua specifica imitatur deum: exhauria-  
+       <lb ed="#B" n="25"/>tur: habeat etiam infinitos gradus secundum sua indiuidua: vt species asini infinitos gradus 
+       <lb ed="#B" n="26"/>asinorum, quorum vnus semper sit superior alio in gradu naturae: ita quod non sit dare aliquem vel 
+       <lb ed="#B" n="27"/>in aliquo gradum perfectionis, quin ratio perfectionis qua deus est imitabilis a specie asini, amplius 
+       <lb ed="#B" n="28"/>sit imitabilis, quemadmodum in speciebus omnino diuersis creaturarum non est dare aliquam  
+       <lb ed="#B" n="29"/>quae tantum imitatur quin deus amplius sit imitabilis. Si ergo propter infinitam imitabilitatem per 
+       <lb ed="#B" n="30"/>fectionis vnius rationis in deo, non oportet ponere infinitos gradus asinorum: similiter in tota vniuer- 
+       <lb ed="#B" n="31"/>sitate creaturarum non oportet ponere infinitas essentias earum propter infinitam imitabilita- 
+       <lb ed="#B" n="32"/>tem dei. vel si hoc necesse esset ponere ibi, &amp; hic. Quare cum hoc non est necesse ponere hic, nec il 
+       <lb ed="#B" n="33"/>lud ibi. Videtur tamen hoc necessarium ponere ibi: si imaginamur creaturas superioris &amp; inferio 
+       <lb ed="#B" n="34"/>ris gradus imitari diuinam perfectionem secundum aliam &amp; aliam rationem perfectionis abso- 
+       <lb ed="#B" n="35"/>lutam. Vnde ne illud cogamur ponere, ponendum est quod creaturae secundum diuersos gradus 
+       <lb ed="#B" n="36"/>perfectionis perfectionum suarum imitantur diuinam essentiam secundum vnam perfectionem 
+       <lb ed="#B" n="37"/>simplicem &amp; indiuisibilem re &amp; ratione absoluta: quae solo respectu differt secundum quod est ad di-  
+       <lb ed="#B" n="38"/>uersas essentias quae necessitate naturae concomitantur ipsam diuinam essentiam ab aeterno. &amp; 
+       <lb ed="#B" n="39"/>hoc vt dicit Auicenna octauo Metaphysicae, non sicut partes essentiae diuinae: quia tunc contin- 
+       <lb ed="#B" n="40"/>geret ipsum multiplicari, nec sicut separatae ab omni essentia alia &amp; a suis singularibus: &amp; quasi se 
+       <lb ed="#B" n="41"/>cundum ordinem positae in horizonte deitatis: sic enim incidunt in ideas Platonicas, nec sicut quae  
+       <lb ed="#B" n="42"/>a deo procedunt de necessitate in esse in singularibus, vt posuit Auicen. sed sicut illa quae habent 
+       <lb ed="#B" n="43"/>in ipso esse vt in intelligente secundum praedeclaratum modum. Et sic imitabilitates siue ideae in deo non no 
+       <lb ed="#B" n="44"/>minant diuersas rationes perfectionum, sed vnum solummo sub diuersis respectibus: qui tot sunt quot  
+       <lb ed="#B" n="45"/>essentiae rerum ad quas sunt. Et secundum hoc dicuntur esse diuersae rationes ideales siue imitabilita- 
+       <lb ed="#B" n="46"/>tes: &amp; hoc quemadmodum eadem essentia dicitur diuersae potentiae secundum diuersos respectus 
+       <lb ed="#B" n="47"/>vt alibi declarauimus. Quid autem assumitur quod secundum praedicta ideae in deo essent finitae, non video 
+       <lb ed="#B" n="48"/>quod sit aliquod inconueniens: potius autem aestimo me videre quod inconueniens est infinitas esse in ipso. De 
+       <lb ed="#B" n="49"/>hoc tamen nihil determino, nec ea quae hucusque proposui circa hanc quaestionem, intendo proposuisse 
+       <lb ed="#B" n="50"/>determinando: sed solummo inuestigando &amp; proponendo lectori quod mihi videtur magis applicabile animo  
+       <lb ed="#B" n="51"/>nihil tamen super hoc iudicando. Vnde primum argumentum vere nescirem soluere. Ad secundum posset di 
+       <lb ed="#B" n="52"/>cere volens alteram partem sustinere, secundum iam dicta, quod deus est infinitae perfectionis non  
+       <lb ed="#B" n="53"/>quantitatiue, vel qualitatiue, secundum quod praedictum est: sed vnitiue tantum: ita quod non sunt in ipso diuer 
+       <lb ed="#B" n="54"/>sae rationes perfectionis: sed solum vnica secundum diuersos respectus. Argumentum autem non procedit 
+       <!--668.xml-->
+       <pb ed="#B" n="137-r"/>
+        <lb ed="#B" n="1"/>nisi ponendo cum diuersis respectibus diuersas rationes persectionis eis subtractas.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

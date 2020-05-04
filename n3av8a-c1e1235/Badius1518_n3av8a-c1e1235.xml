@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 25</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 25</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="84-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1235">
+      <head xml:id="n3av8a-c1e1235-Hd1e96">Quaestio 25</head>
+      <p xml:id="n3av8a-c1e1235-d1e99">
+       <lb ed="#B" n="23"/>CIRca secundum arguitur: quod non licet mentiri causa humilitatis. Quia Augu- 
+       <lb ed="#B" n="24"/>stinus dicit de vera &amp; falsa poenitentia. Si causa humilitatis mentiris, peccator  
+       <lb ed="#B" n="25"/>efficeris: quod vitare intendis.
+      </p>
+      <p xml:id="n3av8a-c1e1235-d1e108">
+       Item iniquus est testis qui condemnat innocentem: 
+       <lb ed="#B" n="26"/>talis est iste qui contra veritatem testatur mendacium. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e1235-d1e113">
+       IN contrarium 
+       <lb ed="#B" n="27"/>videtur esse beatus Gregorius, cum dicit. Bonarum mentium est ibi peccatum  
+       <lb ed="#B" n="28"/>agnoscere vbi peccatum non est. Quod non fit nisi causa humilitatis mentiendo  
+       <lb ed="#B" n="29"/>de seipso. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e1235-d1e122">
+       DIcendum est hic secundum quod distinctum fuit &amp; declaratum in alio Quolibet, H 
+       <lb ed="#B" n="30"/>quod humanorum actuum quidam sunt simpliciter &amp; omnino boni, vt deum &amp; proximum ex chari- 
+       <lb ed="#B" n="31"/>tate diligere: parentes honorare: &amp; huiusmodi. Quae non possunt omnino male fieri. Quidam vero 
+       <lb ed="#B" n="32"/>simpliciter &amp; absolute mali, vt idola colere, deum blasphemare, quae non possunt omnino bere fie- 
+       <lb ed="#B" n="33"/>ri. Alia sunt media quae de se sunt indifferentia: quae possunt in diuersis casibus bene &amp; male fieri. 
+       <lb ed="#B" n="34"/>Si igitur forte alicui videtur esse mentiendum causa humilitatis: hoc est quia credit quod mentiri 
+       <lb ed="#B" n="35"/>sit de mediis: vt sit ponere aliquem casum in quo liceat mentiri, puta in casu proposito causa humi- 
+       <lb ed="#B" n="36"/>litatis, vel aliqua alia de causa, secundum quod <name ref="#Augustine">Augustinus</name> super illud Leuitici decimonono, Non men 
+       <lb ed="#B" n="37"/>tiemini, mouendo super hoc quaestionem dicit. Quaeritur vtrum aliqua compensatione sicut pene 
+       <lb ed="#B" n="38"/>videtur omnibus, mentiendum sit pro salute vbi nemo laeditur: quemadmodum furandum quando  
+       <lb ed="#B" n="39"/>ei cui furatum fuerit consulitur: veluti siquis volenti se occidere furetur gladium. Et respondet Au 
+       <lb ed="#B" n="40"/>gustinus ibidem dicens. Fortassis furtum non est nisi quando alieno occulte ablato proximus laeditur. 
+       <lb ed="#B" n="41"/>Mendacium autem non possumus dicere tunc tantum esse cum a nocente dicitur. Mendacium est si- 
+       <lb ed="#B" n="42"/>ue quis laedat siue nemo laedatur. Absolute autem dicitur. Non mentiemini. Sicut illud, Non facies 
+       <lb ed="#B" n="43"/>tibi idolum. Cum homo iuste occiditur, lex occidit: tu non. Nunquid similiter potest dici, cum ho 
+       <lb ed="#B" n="44"/>mo iuste mentitur, lex mentitur: An ex quo dictum est in lege, Non mentiemini, ex illo dictum est 
+       <lb ed="#B" n="45"/>quia non licuit in tali casu vel tali mentiri: Et respondet subdens. Sed magis quia iniustum erat 
+       <lb ed="#B" n="46"/>mendacium, ideo prohibitum: non quia prohibitum, ideo iniustum. Forsitan ergo sicut obstetrices 
+       <lb ed="#B" n="47"/>non remuneratae sunt quia mentitae sunt: sed quia infantes liberauerunt: et propter hanc misericor 
+       <lb ed="#B" n="48"/>diam veniale fuit peccatum: non tamen nuilum: Sic Raab liberata est propter liberationem explo- 
+       <lb ed="#B" n="49"/>ratorum pro qua fuit veniale peccatum. Mentiri ergo non est de mediis: sed pertinet ad extremum 
+       <lb ed="#B" n="50"/>illud quod omnino malum &amp; nullo casu bonum &amp; non malum vel indifferens esse potest: licet in  
+       <lb ed="#B" n="51"/>casu attenuari potest vt veniale fiat. Pro nullo ergo bono adipiscendo vel a se vel ab alio, mentien 
+       <lb ed="#B" n="52"/>dum est quantuncumque leuiter. Vnde <name ref="#Augustine">Augustinus</name> in libro de mendacio. Neque recte testimonii veritas 
+       <!--208.xml-->
+       <pb ed="#B" n="84-r"/>
+       <lb ed="#B" n="1"/>pro cuiuscunque temporali commodo ac salute corrumpitur: ad sempiternam vero salutem nullus 
+       <lb ed="#B" n="2"/>ducendus est opitulante mendacio. Vnde omnia quae in sacra scriptura videntur mendaciter dicta:  
+       <lb ed="#B" n="3"/>aut non sunt mendacia: quia dicta sunt sub conditione. Sicut illud Gen. xx. Dixit dominus ad Abi- 
+       <lb ed="#B" n="4"/>melech. Morieris propter mulierem quam tulisti. &amp; tamen mortuus non est. Intelligitur enim nisici 
+       <lb ed="#B" n="5"/>tius eam reddas. vnde sequitur. Redde vxorem viro suo &amp; viues, sin autem nolueris reddere mo- 
+       <lb ed="#B" n="6"/>rieris. Aut sunt prophetice dicta. Sicut illud Gen. vigesimoseptimo. Dixit Iacob lsaac patri suo. Ego 
+       <lb ed="#B" n="7"/>sum Esau primogenitus. Aut figuratiue dicta. Sicut illud ludith nono. lerunt ligna syluarum vt 
+       <lb ed="#B" n="8"/>vngerent sibi regem. Vel si in scriptura inueniantur mendacia certa: illa ponuntur non ad imitan-  
+       <lb ed="#B" n="9"/>dum: sed ad instruendum quam poenam merentur etiam pia mendacia, secundum quod haec omnia in aliis 
+       <lb ed="#B" n="10"/>quaestionibus nostris exposuimus. Nec humilitatis igitur causa mentiri licet. quia id pro quo sit men 
+       <lb ed="#B" n="11"/>dacium, non est humilitas vera, sed ficta, &amp; periculosa superbia: qua quis se profitetur peccatorem 
+       <lb ed="#B" n="12"/>vt fingat se iustiorem. Quia iustus in principio accusator est sui. Vnde si homo in rei veritate si 
+       <lb ed="#B" n="13"/>ne omni peccato esset: &amp; hoc de se crederet: insinuando se habere peccatum, mentiendo peccaret. lu 
+       <lb ed="#B" n="14"/>xta illud quod dicit <name ref="#Augustine">Augustinus</name> in libro de poenitentia. Quotidie tundimus pectora: quod nos quoque an  
+       <lb ed="#B" n="15"/>tistites ad altare assistentes cum omnibus facimus. Vnde &amp; orantes dicimus: quod in tota vita ista 
+       <lb ed="#B" n="16"/>oportet vt dicamus: Dimitte nobis debita nostra. vtique de quotidianis peccatis hoc dicimus. Nam si 
+       <lb ed="#B" n="17"/>non habemus peccata: &amp; tundentes pectora dicimus: dimitte nobis debita nostra: ex hoc ipso certe 
+       <lb ed="#B" n="18"/>grauiter nullo dubitante peccamus, cum inter ipsa sacramenta mentimur.
+      </p>
+      <p xml:id="n3av8a-c1e1235-d1e228">
+       AD illud in contra- 
+       <lb ed="#B" n="19"/>rium de Gregorio, Bonarum mentium &amp;c. Dicendum quod peccatum agnosci potest vbi non est, dupli 
+       <lb ed="#B" n="20"/>citer: vel assertiue vel timorose. Assertiue hoc non est bonarum mentium: sed praesumptuosarum &amp; 
+       <lb ed="#B" n="21"/>arrogantium, vt dictum est. Et non sic intelligit Gregorius dictum suum: sed intelligit timorose me- 
+       <lb ed="#B" n="22"/>tuendo: scilicet ne peccent in quocumque opere suo. Iuxta illud quod dicit lob. Verebar omnia opera mea. 
+       <lb ed="#B" n="23"/>Quia in talibus dubiis semper contra nos debemus praesumere deterius. Quia nullum periculum est 
+       <lb ed="#B" n="24"/>poenitere de talibus tanquam peccatum adesset etsi non sit. ita quod esset periculum non velle poenitere 
+       <lb ed="#B" n="25"/>quia forte posset peccatum adesse.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

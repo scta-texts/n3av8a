@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 41</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 41</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="28-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e631">
+      <head xml:id="n3av8a-c1e631-Hd1e96">Quaestio 41</head>
+      <p xml:id="n3av8a-c1e631-d1e99">
+       <lb ed="#B" n="31"/>Equuntur quaestiones pertinentes ad tempus vendendi, &amp; proponebantur duae. Vna: si liceat forum  
+       <lb ed="#B" n="32"/>tenere in die dominico rerum venalium ad vendendum &amp; emendum. Secunda: vtrum Episcopus 
+       <lb ed="#B" n="33"/>loci sine periculo peccati mortalis possit ipsum permittere ne prohibeat. Et proponebantur 
+       <lb ed="#B" n="34"/>ambae sine argumentis.
+      </p>
+      <p xml:id="n3av8a-c1e631-d1e110">
+       AD primam igitur dicendum: quod edictum circa sabbatismum diei 
+       <lb ed="#B" n="35"/>dominicae non est omnino de iure positiuo: vt in eo vacent homines ab opere seruili: vt si non 
+       <lb ed="#B" n="36"/>esset statutum, in nullo tempore necessarium esset ab illis vacare: sicut est statutum illud purae 
+       <lb ed="#B" n="37"/>legis positiuae: vt in die veneris non comedantur carnes: ita quod si statutum illud aufera 
+       <lb ed="#B" n="38"/>tur, in nullo die hebdomadae a carnibus abstinendum est regulariter. immo fundatur super generale edictum legis 
+       <lb ed="#B" n="39"/>naturae: quod illo edicto positiuo ecclesiae specificatur. Edictum enim legis naturae scriptum in tabulis cordium est 
+       <lb ed="#B" n="40"/>quod omnis homo vsum rationis habens certis temporibus aliis negotiis omissis debeat vacare cultui diuino,  
+       <lb ed="#B" n="41"/>&amp; diuinae venerationi. Nunc autem quia homines negligentes erant, intenti curis temporalibus, sibi determinare ten- 
+       <lb ed="#B" n="42"/>pora diuino cultui, determinauit ecclesia illud tempors suo statuto: quid statutum legis naturae non determi-  
+       <lb ed="#B" n="43"/>nauit: quia magis timetur quod singulariter indicitur: quam quid generali praecepto proponitur. &amp; ordinauit diem dominicum 
+       <lb ed="#B" n="44"/>resurrectionis Christi in nouum hominim: sicut in veteri lege statutus erat dies Sabbati in praesignationem 
+       <lb ed="#B" n="45"/>requetionis Christi in morte veteris hominis. Circa istud autem statutum diei dominicae, intelligendum quod duo  
+       <lb ed="#B" n="46"/>sunt articuli. Vnus affirmatiuus: quod in die illo homo attentus esse debeat diuino cultui. Et alius nega- 
+       <lb ed="#B" n="47"/>tiuus: quod in die illo homines non debeant se occupare aliis seruilibus operibus: per quae a diuino cultu possent 
+       <lb ed="#B" n="48"/>retrahi. Vnde sicut praecepta affirmatiua obligant semper: sed non ad semper: sic obseruatio diei dominicae quo ad  
+       <lb ed="#B" n="49"/>partem suam affirmatiuam semper obligat: ita quod in quaelibet hora illius diei homo est obligatus ad insistendum 
+       <lb ed="#B" n="50"/>diuino cultui: non tamen obligat ad semper: vt continue per totum dien dominicum diuino insistat cultui: sed solummo 
+       <lb ed="#B" n="51"/>horis magis opportunis. Sicut vero praecepta negatia semper obligant, &amp; ad semper: vt semper teneatur homo 
+       <lb ed="#B" n="52"/>habere ipsa in executione pro tempore prohibitionis: sic institutio diei dominicae quo ad partem negatiuam ob 
+       <lb ed="#B" n="53"/>ligat semper &amp; ad semper: vt in nulla hora diei dominicae liceat alicui exercere opus seruile quo a diui- 
+       <lb ed="#B" n="54"/>non obsequo impediatur. Si vero nobis praestare non posset impedimentum, non esset vniuersaliter prohibitum. 
+       <!--96.xml-->
+       <pb ed="#B" n="28-r"/>
+       <lb ed="#B" n="1"/>Idcirco illis qui semper debent esse dispositi diuio cultui, seper est inhibita mercatio: quae maxime a diuio seruitio est 
+       <lb ed="#B" n="2"/>retractia. Vnde Chrysostomus vbi supra loquens de generali negotiatione quam dominus intelligit nomine cultus villae, 
+       <lb ed="#B" n="3"/>dicit. Omiserrimus mundus &amp; miseri qui eum sequuntur, semper homines mundana opera excluserunt a vita. Sed for 
+       <lb ed="#B" n="4"/>te inquit Chrysostomus: dicet aliquis: villam colere peccatum est: Si quidem impedimentum fidei aut religionis tibi non 
+       <lb ed="#B" n="5"/>faciat villa: non habes peccatum. Si autem a fide vel religione tibi faciat impedimentum, sit peccatum. Non ergo ipsa 
+       <lb ed="#B" n="6"/>villae cultura peccatum est: sed tu praeferendo eam deo facis eam esse peccatum: opera nia authentica, opera sunt iustitiae:  
+       <lb ed="#B" n="7"/>quia iustitia ad vitam niam pertinet veram: opus autem terrenum non ad vitam: sed ad sustentationem huius vitae tem 
+       <lb ed="#B" n="8"/>poralis. lam ergo opus iustitiae attente agere debemus: opus autem terrenum transitorie. Quia ergo vt dictum est 
+       <lb ed="#B" n="9"/>dies dominicus institutus est totus diuio cultui: vt homo numquam sit impeditus a diuio seruitio: sed semper ad ipsum dis- 
+       <lb ed="#B" n="10"/>positus: etiam si ipsi diuio seruitio in dominico die non debet semper actu esse intentus: debet tamen numquam ab eo esse impe 
+       <lb ed="#B" n="11"/>ditus. Qualitercumque igitur &amp; quoandocumque homo in die dominico opus exercet negotiationis quo a diuio seruitio impe 
+       <lb ed="#B" n="12"/>ditur: vel ipediri iuste possit: opus negotiationis praefert deo: quod non est fine peccato: vt dictum est. ldeo absolute 
+       <lb ed="#B" n="13"/>dicendum: quod forum tenere in die dominico: &amp; negotiationem agere quacumque hora diei dominicae peccatum est: &amp; maxime hora 
+       <lb ed="#B" n="14"/>missarum &amp; vespararum quando homines diuio obsequo magis prae caeteris horis debent esse intenti. Nunc restat inue 
+       <lb ed="#B" n="15"/>stigare vtrum sit remedium aliquod quo homo negotians in die dominico a peccato possit excusari. Notandum igitur quod  
+       <lb ed="#B" n="16"/>circa hoc non potest subuenire nisi triplex remedium. Primum est dispensatio summi potenstificis auctoritate ec 
+       <lb ed="#B" n="17"/>clesiae obseruantiam diei dominicae instituentis. Secundum excusatio vrgentis necessitatis vel piae vtilitatis. Tertium 
+       <lb ed="#B" n="18"/>statuti de obseruantia dominicae in toto vel in parte abrogatio. Primum remedium non potest in proposito subuenire. 
+       <lb ed="#B" n="19"/>quia super hoc a Papa numquam habita est generalis dispensatio: cum tamen inoleuit vbique ista generalis corruptela. immo 
+       <lb ed="#B" n="20"/>generaliter prohibitum est <ref xml:id="n3av8a-c1e631-Rd1e203">extra. de fe. ca.d i. de consecra. dist. iii. Rogationes</ref>. Nec potest dici quod ecclesia tolerando quod  
+       <lb ed="#B" n="21"/>nouit dispensat, hoc enim non videtur: quia cum aliquando in casu opus piscationis hallecium dispensando permisit fieri in  
+       <lb ed="#B" n="22"/>die dominico: simul omnibus ab omni opere seruili cessandum praecepit: quod non esset si in non puniendo transgressiones &amp; 
+       <lb ed="#B" n="23"/>dissimulando dispensare voluisset. vt extra. de fer. licet. Secundum remedium non potest adhuc subuenire. licet 
+       <lb ed="#B" n="24"/>enim vrgens necessitas &amp; suadens pietas particulariter in aliquo loco remedium possint exhibere aliquid operandi 
+       <lb ed="#B" n="25"/>in die dominico: vt extra. de fer. Conquaestus. cum tamen nulla sit generalis necessitas vel generalis pietas propter quae vbique  
+       <lb ed="#B" n="26"/>aliquid seruile liceat in die dominico agere: nisi sint illa quae vbique pertinent ad necessitatem diei: vt cibaria emere, 
+       <lb ed="#B" n="27"/>&amp; vendere, equos ferrare &amp; huiusmodi: nullum remedium potest esse ex hoc illi generali corruptelae, particulariter autem  
+       <lb ed="#B" n="28"/>propter vrgentem necessitatem magis in vno quam alio vnus potest plus excusari a peccato quam alter: vt qui libenter eme- 
+       <lb ed="#B" n="29"/>ret necessaria sibi alio die: sed quia non potest ea inuenire venalia, compellitur ea emere in die dominico: &amp; simimiliter 
+       <lb ed="#B" n="30"/>ex parte vedentis: nulla tamen in hoc potest esse pietas vel necessitas excusans quemquam ex toto in tam publico &amp; generali 
+       <lb ed="#B" n="31"/>scelere. Nec tertium remedium de quo maxime videtur, potest in proposito suffragari: quia consuetudo si debeat 
+       <lb ed="#B" n="32"/>derogare iuri, debet esse rationabilis &amp; praescripta. Rationabilis non potest esse consuetudo contra die dominicum vt genera 
+       <lb ed="#B" n="33"/>liter infrigatur vel in toto vel in parte, &amp; maxime hora illa quae missarum solemnia celebrantur, quam illa mercimonia praecipue 
+       <lb ed="#B" n="34"/>exercentur: quia non potest fieri generaliter illo tempore aliquid melius eo quod tunc negligitur. In super illa mercimonia quae tunc 
+       <lb ed="#B" n="35"/>fiunt, magis competenter possent alio die in feria fieri. Nec potest dici quod competentius in dominico die fiunt illa merci 
+       <lb ed="#B" n="36"/>monia: quia pposolus eo quod tunc vacat, &amp; non in feria: melius potest illo die mercaturl intendere quam alio in feria. Hoc in 
+       <lb ed="#B" n="37"/>quam non potest dici: quoniam vacatio illa quae est pro charitate instituta, cuiusmoni est vacatio diei dominicae: vt diuio cul 
+       <lb ed="#B" n="38"/>tui insistatur: contra charitatem militare non debet: quid facit si negotiationi quae diuinum seruitium impedit applice 
+       <lb ed="#B" n="39"/>tur. &amp; iterum si omnino aliquid omittendum est vt vacetur negotiationi: melius est multo pro ipsa aliquae opus seruile omit 
+       <lb ed="#B" n="40"/>tere: quam sese a diuio seruitio in die dominico impedire. Item vt videtur praescribi contra obseruantiam diei dominicae non 
+       <lb ed="#B" n="41"/>pont: quia praescriptio debet esse in quieta possessione &amp; continua: qualem ppostolus numquam habuit forum negotiationis in  
+       <lb ed="#B" n="42"/>die dominico celebrando. Sacerdotes enim numquam cessabant ad diei dominicae obseruationem maxime illa hora quae fiunt 
+       <lb ed="#B" n="43"/>mercimonia, popostolium admonere: &amp; omnia alia festa praecipua ad istar diei dominicae obseruanda indicere: non ad  
+       <lb ed="#B" n="44"/>modum quo populus diem dominicum conseruare consueuit: ipsum sua corruptela infrigendo: sed ad modum quo  
+       <lb ed="#B" n="45"/>ipsum de iure obseruare debuit. Videtur igitur mihi quod nullo modo liceat in die dominico forum tenere &amp; 
+       <lb ed="#B" n="46"/>negotiationes emptionis &amp; venditionis publice exercere.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

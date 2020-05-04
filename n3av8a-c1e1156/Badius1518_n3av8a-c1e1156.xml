@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 19</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 19</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="80-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1156">
+      <head xml:id="n3av8a-c1e1156-Hd1e96">Quaestio 19</head>
+      <p xml:id="n3av8a-c1e1156-d1e99">
+       <lb ed="#B" n="34"/>Equuntur pertinentia ad statum gratiae, quo ad directionem partis affectiuae. Et erant quaedam  
+       <lb ed="#B" n="35"/>pertinentia ad vota religiosorum. Vnicum pertinens ad votum intrantium &amp; noui 
+       <lb ed="#B" n="36"/>tiorum. Quaedam vero ad votum perseuerantium &amp; professorum. Primum erat: vtrum 
+       <lb ed="#B" n="37"/>qui vouit se intraturum religionem: &amp; intrat cum proposito exeundi: soluit votum.
+      </p>
+      <p xml:id="n3av8a-c1e1156-d1e110">
+       <lb ed="#B" n="38"/>ET arguitur quod sic. Faciens persecte quod promisit, soluit votum: iste est huius- 
+       <lb ed="#B" n="39"/>modi: quia votum eius non cecidit nisi super actum intrandi. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1156-d1e117">
+       CONtra. vo- 
+       <lb ed="#B" n="40"/>uens eodem modo debet votum implere quo promisit. lste votum de intrando promi 
+       <lb ed="#B" n="41"/>sit cum proposito remanendi saltem vt experiretur. ergo debet soluere cum tali proposito. Non ergo suf- 
+       <lb ed="#B" n="42"/>ficienter soluit votum intrans cum proposito exeundi. 
+      </p>
+      <p xml:id="n3av8a-c1e1156-d1e126">
+       DIcendum ad hoc: quod aliud est votum, aliud vero 
+       <lb ed="#B" n="43"/>propositum. Propositum enim est simplex dispositio voluntatis de faciendo aliquid, vel non faciendo sine omni 
+       <lb ed="#B" n="44"/>affectione aut promissione. propter quod ex natura sua neminem obligat ad implendum. Ita quod quilibet propria 
+       <lb ed="#B" n="45"/>auctoritate sine omni peccato quantum est de ratione suppositi poterit illud mutare nec opere implere. 
+       <lb ed="#B" n="46"/>et si forte quandoque peccatum annexum sit mutationi illi, hoc non contingit ex actu mutandi: sed forte ex alia 
+       <lb ed="#B" n="47"/>praua voluntate &amp; affectione propter quam mutat. vt qui proposuit vitam suam mutare in melius &amp; in- 
+       <lb ed="#B" n="48"/>trare religionem, postmodum stimulis carnis agitatus volens appetitui carnis satisfacere: &amp; videns quod  
+       <lb ed="#B" n="49"/>hoc in religione non posset, si mutat propositum intrandi propter propositum &amp; voluntatem deside- 
+       <lb ed="#B" n="50"/>rio carnis satisfaciendi, procul dubio peccat non ex actu mutandi propositum intrandi: sed ex actu 
+       <lb ed="#B" n="51"/>propositi carnalis delectationis adimplendae: propter quod mutat illud primum propositum. Potest etiam 
+       <lb ed="#B" n="52"/>contingere quod causa mutationis illius propositi sit infirmitas vel pusillanimitas quaedam naturalis 
+       <lb ed="#B" n="53"/>vel vitiosa: &amp; tunc illi annexum est non plus peccati quam meretur illa infirmitas siue pusillanimitas. Po 
+       <lb ed="#B" n="54"/>test etiam contingere vt mutationis illius propositi causa sit aliqua rationabilis: vt si percipiat se lepra occulta 
+       <!--200.xml-->
+       <pb ed="#B" n="80-r"/>
+       <lb ed="#B" n="1"/>infectum: vel aliquam aliam habere dispositionem propter quam inutilis esset ordini, vel aliquis alius status 
+       <lb ed="#B" n="2"/>aptior esset, &amp; magis idoneus sibi. 
+      </p>
+      <p xml:id="n3av8a-c1e1156-d1e164">
+       VOtum vero est vinculum obligans assertiua promissione ad com 
+       <lb ed="#B" n="3"/>plendum illud quod in proposito conceptum est. propter quod nemo propria auctoritate potest votum  
+       <lb ed="#B" n="4"/>suum mutare, si tamen sit proprie votum: vt in tali persona quae potest libere vouere: &amp; sub tali re quae  
+       <lb ed="#B" n="5"/>propria materia voti esse potest. Immo qui votum suum non mutatum auctoritate superioris imple- 
+       <lb ed="#B" n="6"/>re negligit, procul dubio hoc sine peccato non facit: &amp; hoc per se ex omissione qua votum non implet: 
+       <lb ed="#B" n="7"/>&amp; praecise pro tantillo quod sub voto inclusum erat solummodo: ita quod si simul concipiat homo diuersa pro 
+       <lb ed="#B" n="8"/>posita circa idem: verbi gratia, visitandi limina apostolorum peregrinationis causa, &amp; nudis pedibus am- 
+       <lb ed="#B" n="9"/>bulando, &amp; intra certum tempus: et vni illorum propositorum apponat votum: &amp; promissione asserti 
+       <lb ed="#B" n="10"/>ua voti se astringat ad implendum vnum sic propositorum tantum: quod videlicet limina apostolorum visitabit 
+       <lb ed="#B" n="11"/>causa peregrinationis: &amp; non aliquod aliorum: sed proposita alia manent absoluta sub ratione propositi 
+       <lb ed="#B" n="12"/>videlicet quod visitabit nudis pedibus ambulando &amp; intra certum tempus: non video quin talis votum  
+       <lb ed="#B" n="13"/>suum perfecte implet &amp; soluit si limina apostolorum pere grinando visitet: &amp; sic primum illorum proposi- 
+       <lb ed="#B" n="14"/>torum ad quod implendum se tantummodo voto astrinxit, adimplet: licet alia duo proposita annexa mu 
+       <lb ed="#B" n="15"/>tet &amp; peregrinando non seruet: videlicet si ambulet calceatus: &amp; peregrinationem suam post tempus propositum inci- 
+       <lb ed="#B" n="16"/>piat. Nunc autem sic est in proposito nostro: vt circa religionis ingressum tria circa idem diuersa contin- 
+       <lb ed="#B" n="17"/>git cadere proposita. Vnum scilicet de intrando per habitus nouitiorum assumptionem. Aliud vero de expe 
+       <lb ed="#B" n="18"/>riendo in fratrum confortio ordinis asperitatem. Tertium vero de perseuerando vel profitendo perpe- 
+       <lb ed="#B" n="19"/>tuam ordinis obseruantiam cum fratribus, quorum nuilum si absolutum sit, obligat proponentem ad ip 
+       <lb ed="#B" n="20"/>sum opere implendum: quin omnia &amp; singula possit propria auctoritate mutare &amp; non implere. Quia 
+       <lb ed="#B" n="21"/>si super singula votum addatur, statim ad singula implenda obligatur. Quia si super vnum illorum solum 
+       <lb ed="#B" n="22"/>praecise: ita quod alia extra vinculum obligationis voti sint inclusa: ad implendum illud ad quod vinculo 
+       <lb ed="#B" n="23"/>voti se astrinxit, procul dubio obligatus est: nec potest illud mutare propria auctoritate. Sed quod ad ali 
+       <lb ed="#B" n="24"/>quod illorum quae cadunt extra vinculum voti implendum sit obligatus quin propria auctoritate pos 
+       <lb ed="#B" n="25"/>sit illud mutare &amp; non implere opere, non video: tum quia nec ratione voti, nec ratione propositi ad hoc  
+       <lb ed="#B" n="26"/>obligatur. Non ratione voti: quia votum neminem ad amplius obligat quam sub voto suo caditu: &amp; quam se astringere in-  
+       <lb ed="#B" n="27"/>tendit. Nec ratione propositi: quia vt dictum est, nudum propositum neminem obligat. Nec ratione conne 
+       <lb ed="#B" n="28"/>xionis vnius propositi ad aliud: quia intentio potest esse proponentis singula quod voto suo obliget se ad  
+       <lb ed="#B" n="29"/>implendum vnum illorum: ita quod intendit se onino non obligare ad impletionem alicuius illorum. Vnde 
+       <lb ed="#B" n="30"/>qui voto alicui praelato alicuius certi ordinis se obligant ad obediendum ei non simpliciter &amp; absolute 
+       <lb ed="#B" n="31"/>in omnibus, sed tantum secundum statuta regulae illius ordinis: licet in vouendo haberent proposi- 
+       <lb ed="#B" n="32"/>tum ad aliquid amplius supererogandum, vt in orationibus, vel ieiuniis, aut aliquibus huiusmodi, non te- 
+       <lb ed="#B" n="33"/>nent nec tenere debent se obligatos ad obediendum dicto praelato: &amp; ad implendum ad eius mandatum alia 
+       <lb ed="#B" n="34"/>quam quae cadunt sub dicta regula: &amp; nullo modo sentiunt se obligatos ad implendum ad eius praeceptum 
+       <lb ed="#B" n="35"/>illa quae supererogare absque voto proposuerunt. immo libere possunt illa omittere &amp; proposita sua 
+       <lb ed="#B" n="36"/>circa illa mutare propria auctoritate. Sed &amp; in causa mutandi bene poterit contingere error vel pecca 
+       <lb ed="#B" n="37"/>tum: sed illud actui mutationis accidit. Potest enim aliquis mutare propositum vel ex leuitate, vel ex in- 
+       <lb ed="#B" n="38"/>firmitate, vel ex carnalitate, vel ex aliqua malitia. Potest etiam ipsum mutare ex prouidentia maioris 
+       <lb ed="#B" n="39"/>boni: &amp; discretione, quemadmodum Paulus mutauit propositum suum super promisso quod fecerat 
+       <lb ed="#B" n="40"/>Corinthiis. secundum quod dicit. ii. Corinth. vii. Volui venire ad vos: cum ergo hoc volui. glos. &amp; non feci, num- 
+       <lb ed="#B" n="41"/>quid leuitate vsus sum: &amp; sequitur. Ego autem testem deum inuoco, quod parcens vobis non veni. vbi dicit 
+       <lb ed="#B" n="42"/>glos. Ambrosii. Et ideo non ex leuitate vel carnali cogitatione non impleuit quae disposuit. Spiritua- 
+       <lb ed="#B" n="43"/>lis autem tunc dispositum non implet: quando prouidentius aliquid ad salutem meditatur. Alias enim 
+       <lb ed="#B" n="44"/>propositum suum iustus tanquam sapienter conceptum, debet firmum tenere tanquam iuramentum atque statu  
+       <lb ed="#B" n="45"/>tum, quia Ecclesiastici. xxvii. dicitur. Sanctus in sapientia sua manebit sicut Sol: stultus autem vt Luna mu 
+       <lb ed="#B" n="46"/>tatur. 
+      </p>
+      <p xml:id="n3av8a-c1e1156-d1e262">
+       DIco autem ad quaestionem: quod ille qui vouit se intraturum religionem: &amp; ipsam intrare per habi 
+       <lb ed="#B" n="47"/>tus nouitiorum assumptionem solummodo posuit sub voto: circa hoc, propositum suum de intrando  
+       <lb ed="#B" n="48"/>nullo modo propria auctoritate potest mutare. immo necesse habet in eo stare &amp; ipsum opere implere. li- 
+       <lb ed="#B" n="49"/>cet iuxta hoc proposuit se experturum in fratrum confortio ordinis asperitates: &amp; perseueraturum &amp; profes 
+       <lb ed="#B" n="50"/>surum tempore opportuno: sed neutrum horum propositorum posuit sub voto suo: neque intendebat ponere. 
+       <lb ed="#B" n="51"/>Quia in rei veritate sicut fatuum esset vouere aliquem se religionem intraturum nisi simul proponeret in ea 
+       <lb ed="#B" n="52"/>stando eam experiri: &amp; postquam experientia ei placeret eam profiteri: sic fatuum esset quoscumque regulariter &amp; 
+       <lb ed="#B" n="53"/>indifferenter vouentes se religionem intraturos simul vouere &amp; experturos vsque ad terminum professionis 
+       <lb ed="#B" n="54"/>statutum a iure: &amp; perpetuo perseueraturos &amp; professuros. Cum Decretalis praecipiat quod nuilius professio intra 
+       <!--201.xml-->
+       <pb ed="#B" n="80-v"/>
+       <lb ed="#B" n="1"/>annum probationis recipiatur. Dico inquam, quod talis inquantum est ex virtute obligationis voti super pri- 
+       <lb ed="#B" n="2"/>mo articulo: nec etiam quantum est ex ratione propositi supe duobus aliis articulis: neque ex connexione horum 
+       <lb ed="#B" n="3"/>propositorum absolutorum sine voto, cum illo quod posuit sub voto, tenetur implere duo alia proposita: immo 
+       <lb ed="#B" n="4"/>potest ea libere &amp; propria auctoritate mutare: &amp; concipere opposita proposita, de non experiendo &amp; de non prosi 
+       <lb ed="#B" n="5"/>tendo: &amp; continuo post ingressum exeundo: &amp; hoc sine omni peccato contingente per se ex actu exeunci 
+       <lb ed="#B" n="6"/>vel ex actu mutandi propositum circa ipsum: licet forte quandoque non sine peccato accidente ex causa mutan 
+       <lb ed="#B" n="7"/>di vt dictum est, vel ex accidente quod habet consequi actum vt scandalum, vt iam dicetur, aut aliquid huius- 
+       <lb ed="#B" n="8"/>modi. Et sic dico quod qui vouit se intraturum religionem secundum modum iam dictum, quia videlicet solummodo  
+       <lb ed="#B" n="9"/>vouit se intraturum: licet nude proponit se experturum &amp; professurum, intrando solummodo votum soluit:  
+       <lb ed="#B" n="10"/>etiam si intret cum proposito exeundi. Quia vt dictum est, non teneretur tale propositum continuare neque rema 
+       <lb ed="#B" n="11"/>nere ad experiendum, vel quasi ad experiendum: licet forte exeundo peccet, vt dictum est: &amp; sic similiter pec 
+       <lb ed="#B" n="12"/>cet proponendo exire. Quia non potest esse propositum de actu peccandi fine peccato. Peccatum autem quod con 
+       <lb ed="#B" n="13"/>tingere potest ex tali exitu &amp; mutatione propositi, maxime est fratrum scandalum, &amp; eorum qui facti talis 
+       <lb ed="#B" n="14"/>possint habere notitiam. propter quod forte vitandum, si talis esset persona pro cuius facto certitudinaliter 
+       <lb ed="#B" n="15"/>timendum esset scandalum imminere venturum: tunc in tali casu non liceret eum exire: &amp; ita nec pro-  
+       <lb ed="#B" n="16"/>positum mutare quo ad hoc. Quoniam licitum secundum se &amp; absolute, in tali casu bene potest fieri illicitum. iuxta 
+       <lb ed="#B" n="17"/>illud quod dicit Apostolus in simili. primae Corinth. x. Siquis dixerit vobis hoc immolatum est idolis: noli- 
+       <lb ed="#B" n="18"/>te manducare. &amp; sequitur ratio vna: Propter conscientiam: non tuam sed alterius. glos. infirmi. Quia nihil 
+       <lb ed="#B" n="19"/>manducandum est cum scandalo infirmorum. q. d. pro quo dimittendum est: quia si aliter facerem de licito danm-  
+       <lb ed="#B" n="20"/>nabilis essem. vnde dicit ibidem. Omnia mihi licent sed non omnia expediunt. glos. id est adiuuant me in cur 
+       <lb ed="#B" n="21"/>su sed magis impediunt. Omnia mihi licent: sed non omnia aedificant. glos. proximos: vt cum quis scandalum 
+       <lb ed="#B" n="22"/>facit proximo. in illo enim casu alias licitum, sit illicitum. Vnde dicit <ref xml:id="n3av8a-c1e1156-Rd1e333">Roma. decimoquarto.</ref> 
+       <quote xml:id="n3av8a-c1e1156-Qd1e336" source="http://scta.info/resource/rom14_13">Ne ponatis of- 
+       <lb ed="#B" n="23"/>fendiculum fratribus vel scandalum</quote>. Si enim propter cibum tuum frater tuus contristatur, iam non secundum charita 
+       <lb ed="#B" n="24"/>tem ambulas. glos. non dico scandalizatur: sed quod minus, saltem contristatur, ex hoc solo patet quod non ambu 
+       <lb ed="#B" n="25"/>las secundum charitatem: in quo peccas. Vnde sequitur in apostolo. Omnia quidem munda sunt: sed malum est 
+       <lb ed="#B" n="26"/>homini qui per offendiculum manducat. Si ergo qui vouit dicto modo &amp; intrat cum proposito exeundi, 
+       <lb ed="#B" n="27"/>talis est quod non possit exire statim nisi cum scandalo fratrum &amp; ordinis illius, etsi votum soluat, peccat 
+       <lb ed="#B" n="28"/>tamen hoc agere proponendo quod sine scandalo facere non potest licet absolute liceret: Sed hoc non pro- 
+       <lb ed="#B" n="29"/>pter obligationem aliquam ex dicto voto: neque ex ipso proposito, neque ex substantia actus statim exeundi: sed 
+       <lb ed="#B" n="30"/>per accidens ex scandalo annexo vt dictum est. Vnde etiam si omnino non vouisset intrare, &amp; intraret cum proposi- 
+       <lb ed="#B" n="31"/>to permanendi ad experiendum: &amp; esset talis quod non posset statim exire sine scandalo fratrum &amp; ordinis, non 
+       <lb ed="#B" n="32"/>licet ipsum statim exire: immo statim exeundo peccaret: quid omnino non licet. Et quid amplius, si talis esset 
+       <lb ed="#B" n="33"/>quod completo anno probationis non posset exire sine graui scandalo fratrum &amp; ordinis, non video quomodo  
+       <lb ed="#B" n="34"/>liceat eum exire obstante scandalo: licet ex natura facti absolute &amp; de iure liceret. immo potius etiam si 
+       <lb ed="#B" n="35"/>ne professione si ei profiteri non placeret, in habitu fratrum perseuerare deberet. Si enim tale scandalum prae 
+       <lb ed="#B" n="36"/>uideret futurum ex suo exitu &amp; exiret, non est iudicandum quod factum suum sit scandalum pure passiuum: im 
+       <lb ed="#B" n="37"/>mo etiam est actiuum. vt patet ex iam dicta sententia apostoli in casu(ut aestimo) consimili. Vnde Bernar 
+       <lb ed="#B" n="38"/>dus in epistola sua ad Adam Monachum &amp; ad complices suos dicit: quod etiam de licentia papae professos non licet di 
+       <lb ed="#B" n="39"/>mittere monasterium suum si vergat in scandalum sratrum: quia hoc est pure malum: non medium inter pure bonum 
+       <lb ed="#B" n="40"/>&amp; pure malum: quod nullius permissio potest facere licitum: dicens sic. Apostolicam inquunt licentiam quaesiuimus &amp; impe- 
+       <lb ed="#B" n="41"/>trauimus. vtinam non licentiam quaesissetis sed consilium. i. non vt liceret sed an liceret. Nisi forte tale hoc fuisse di 
+       <lb ed="#B" n="42"/>catur, quod absque licentia quidem non liceret: liceret autem si cum licentia fieret. Verum nec deus vbi ait, Nolite contemne 
+       <lb ed="#B" n="43"/>re vnum ex his pusillis qui in me credunt, addidit nisi cum licentia: aut dicens, Qui scandalizauerit vnum de pu 
+       <lb ed="#B" n="44"/>sillis. &amp;c. determinauit subiungens fine licentia. Constat igitur vbi veritas &amp; necessaria veritas in causa non est. 
+       <lb ed="#B" n="45"/>non licere scandalum quodlibet a quolibet posse committi. Numquid igitur aut malum esse desiit aut minoratum  
+       <lb ed="#B" n="46"/>est quia papa concessit: Quid tamen summum pontificem fecisse nequaquam crediderim: nisi aut circunuentum 
+       <lb ed="#B" n="47"/>mendacio, aut importunitate victum. Nec timendum mihi arbitror: quod ad illud domini responsum denuncia 
+       <lb ed="#B" n="48"/>to sibi scandalo Pharissaeorum refugias: vt quomodo nihil pendebat dicens: Sinite illos: caeci sunt: duces 
+       <lb ed="#B" n="49"/>caecorum: ita &amp; nostra vobis scandala non esse timenda aestimes. Vide nempe quam nil simile habeat in hac  
+       <lb ed="#B" n="50"/>parte proportio. Nam si compares personas, illic Pharissaei supbi, hic pauperes Christi scandalicantur. Quamquam 
+       <lb ed="#B" n="51"/>ergo intrans cum proposito statim exeundi soluit votum &amp; liceat ei facere absolute: &amp; etiam statim exire 
+       <lb ed="#B" n="52"/>post introitum: si tamen hoc non possit fieri sine magno scandalo fratrum, propter scandalum imminens pec- 
+       <lb ed="#B" n="53"/>catum est: &amp; non licet intrare cum proposito exeundi: nec statim exire vt dictum est: licet hoc faciendo votum 
+       <lb ed="#B" n="54"/>soluat. Vnde siquis habeat rationabilem causam de mutando propositum, vel ante ingressum, vel post 
+       <!--202.xml-->
+       <pb ed="#B" n="81-r"/>
+       <lb ed="#B" n="1"/>ingressum, debet quantum poterit praeuidere ne accidat scandalum ex suo exitu: &amp; causam sui exitus fratri- 
+       <lb ed="#B" n="2"/>bus &amp; aliis quibus commode poterit, indicare: vt perspecta rationabili causa super exitu sint pacati: &amp; scan- 
+       <lb ed="#B" n="3"/>dalum non patiantur ex suo facto.
+      </p>
+      <p xml:id="n3av8a-c1e1156-d1e420">
+       ET patet per iam dicta responsio ad obiecta vtriusque partis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

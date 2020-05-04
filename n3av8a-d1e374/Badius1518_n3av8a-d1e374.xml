@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 28</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 28</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e374">
+       <head xml:id="n3av8a-d1e374-Hd1e96">Quaestio 28</head>
+       <p xml:id="n3av8a-d1e374-d1e99">
+        <lb ed="#B" n="24"/>SEquuntur quaestiones pertinentes ad hominem secundum diuersos status hominum. 
+       <lb ed="#B" n="25"/>Et erant quaedam pertinentia ad hominem existentem in statu praelationis: quaedam vero ad ho  
+       <lb ed="#B" n="26"/>minem existentem in statu peccati. Et circa primum erat vnum pertinens ad praelatum saecularem: 
+       <lb ed="#B" n="27"/>Vtrum personis ecclesiasticis male dispensantibus bona quae habent de testamentis princeps 
+       <lb ed="#B" n="28"/>ad ipsos cogendos vt bene illa dispensent possit mittere manus in bona illorum. Alia ve 
+       <lb ed="#B" n="29"/>ro duo erant pertinentia ad praelatum ecclesiasticum. 
+      </p>
+      <p xml:id="n3av8a-d1e374-d1e115">
+       CIRca primum arguitur quod sic: quia pro  
+       <lb ed="#B" n="30"/>pter delictum posset mittere manus in personas eorum: quae magis sunt quam eorum res. 
+      </p>
+      <p xml:id="n3av8a-d1e374-d1e120">
+       CON 
+       <lb ed="#B" n="31"/>tra. tunc mitteret falcem in messem alienam. 
+      </p>
+      <p xml:id="n3av8a-d1e374-d1e125">
+       ET est dicendum breuiter ad hoc: quod reuera ecclesia bona tempo- 
+       <lb ed="#B" n="32"/>ralia habet a principibus &amp; subiectis eorum: &amp; quo ad proprietatem, &amp; quo ad possessionem, quamquam in dispensatione  
+       <lb ed="#B" n="33"/>eorum praelatus ecclesiasticus habeat superiorem iurisdictionem, vt supra determinatum est. Nunc autem principes 
+       <lb ed="#B" n="34"/>in dotando ecclesiam de bonis suis temporalibus, sicut libere ea dant, possunt &amp; partem dominii in eis retinere. Et pro  
+       <lb ed="#B" n="35"/>quanto retinent in eis potestatem: debent coram principe de illis reddere rationem, vt patet in bonis quae ecclesia te 
+       <lb ed="#B" n="36"/>net in feudum a principibus. &amp; si quo ad illa bona non faciat ecclesia principi quod tenetur: potest manus pone 
+       <lb ed="#B" n="37"/>re in illa bona, &amp; non in alia in quibus potestatem nullam sibi retinuit. Neque occasione aliarum rerum, aut actio- 
+       <lb ed="#B" n="38"/>num siue causarum impertinentium ad bona: in quibus obligata est ecclesia principibus, potest princeps mittere 
+       <lb ed="#B" n="39"/>manus in bona ecclesiae illa vel illa: quia in causis ecclesiae aliis quam quae rem feudalem tangunt, aut aliquo alio 
+       <lb ed="#B" n="40"/>modo obligantur principi: nullo modo se debent principes intromittere: vt clamant infinita iura canonica &amp; 
+       <lb ed="#B" n="41"/>ciuiliam Propter quid dico quod in tali casu circa malam dispensationem testamentorum aut quaecumque huiusmodi: nullo modo 
+       <lb ed="#B" n="42"/>debentur se principes intromittere, mittendo manus in bona virorum ecclesiasticorum. Sed insolentia eorum in  
+       <lb ed="#B" n="43"/>talibus corrigi debet per suos superiores: ad quos principes siue quicumque alii possunt deferre contra illos pro 
+       <lb ed="#B" n="44"/>mala eorum dispensatione comquestionem aut denunciationem si eis placuerit. Secundum hoc ergo concedenda est ra- 
+       <lb ed="#B" n="45"/>tio ad istam partem. 
+      </p>
+      <p xml:id="n3av8a-d1e374-d1e159">
+       AD argumentum in oppositum quod principes possunt mittere manus in personas eorum: dicen 
+       <lb ed="#B" n="46"/>dum quod non est verum, propria auctoritate: nisi fuerint degradatae prius per ecclesiam. Si alias quandoque ma 
+       <lb ed="#B" n="47"/>nus possunt mittere in eos: hoc non est nisi de mandato &amp; auctoritate ecclesiae. &amp; tali modo consimiliter 
+       <lb ed="#B" n="48"/>bene possent manus in bona ipsorum mittere.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

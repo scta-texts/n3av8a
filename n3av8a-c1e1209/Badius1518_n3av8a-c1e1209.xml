@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 23</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 23</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="83-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1209">
+      <head xml:id="n3av8a-c1e1209-Hd1e96">Quaestio 23</head>
+      <p xml:id="n3av8a-c1e1209-d1e99">
+       <lb ed="#B" n="43"/>SEquuntur pertinentia ad statum culpae siue peccati. Et erat vnicum de reuela- 
+       <lb ed="#B" n="44"/>tione peccati alieni. Et quaedam alia de commissione peccati proprii. Primum erat. 
+       <lb ed="#B" n="45"/>Vtrum liceat dicere in confessione peccata aliena. 
+      </p>
+      <p xml:id="n3av8a-c1e1209-d1e108">
+       ET arguitur quod sic. Quia li 
+       <lb ed="#B" n="46"/>citum est peccata aliena deflere: ergo &amp; consilium super eorum expiatione pe- 
+       <lb ed="#B" n="47"/>tere. Quod non posset esse nisi alterius confessionem reuelando. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1209-d1e115">
+       CON- 
+       <lb ed="#B" n="48"/>tra. Super illud, Dixi confitebor aduersum me iniustitiam meam domino. dicit 
+       <lb ed="#B" n="49"/>glossa. Peccata propria confiteri debemus non aliena. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1209-d1e122">
+       DIcendum ad  
+       <lb ed="#B" n="50"/>hoc: quod peccatum alienum potest homo reuelare in confessione dupliciter. Et secundum hoc diuersi 
+       <lb ed="#B" n="51"/>mode diuersos modos confitendi tetigerunt duo obiecta. Vnum eorum processit secundum vnum  
+       <lb ed="#B" n="52"/>modum: aliud vero secundum alium. Est enim confessio qua homo se ostendit sacerdoti ad confitendum sua peccata 
+       <!--206.xml-->
+       <pb ed="#B" n="83-r"/>
+       <lb ed="#B" n="1"/>propria. Est alia confessio qua homo vnus reuelat aliquid alteri sub secreto &amp; sigillo confessionis. 
+       <lb ed="#B" n="2"/>Si ergo intentio quaestionis sit de confessione primo modo, sic dico quod non licet quenquam reuelare in con 
+       <lb ed="#B" n="3"/>fessione peccatum alterius: sed solum peccata, propria: vt procedit secunda obiectio. Quod intelligendum est nisi 
+       <lb ed="#B" n="4"/>ex peccato alterius esset conditio aggrauans annexa, quae erat quasi differentia specifica faciens spe 
+       <lb ed="#B" n="5"/>ciem peccati distincti: &amp; ideo confitenda expresse. Verbi gratia, siquis solam &amp; vnicam habeat so- 
+       <lb ed="#B" n="6"/>rorem quam cognouit, non solum debet confiteri dicendo quod cognouit mulierem quandam, sed ex- 
+       <lb ed="#B" n="7"/>presse debet dicere quod cognouit sororem suam. cognoscere enim sororem non est pecctatum de gene 
+       <lb ed="#B" n="8"/>re simplicis fornicationis vel adulterii: immo est incestus. Et sic in confessione non solum licitum est: im- 
+       <lb ed="#B" n="9"/>mo necessarium cum reuelatione directa proprii peccati indirecte reuelare peccatum alterius. Vn  
+       <lb ed="#B" n="10"/>de glossa illa, quod non sunt confitenda peccata aliena: sed tantum propria: intelligenda est de confessione  
+       <lb ed="#B" n="11"/>directa tantum. Si vero intentio quaestionis sit de confessione secundo modo: sic dico quod non licet quemquam peccatum al 
+       <lb ed="#B" n="12"/>terius reuelare in confessione, nisi intentione consulentis, tanquam medicus quaerens a medico consilium 
+       <lb ed="#B" n="13"/>super curatione aegroti, vt procedit prima obiectio. aliter enim esset criminis proditor, &amp; diffamator  
+       <lb ed="#B" n="14"/>Et in illo casu nequaquam reuelare debet peccatum alterius nisi tali de quo praesumit firmiter quod pos- 
+       <lb ed="#B" n="15"/>sit &amp; velit prodesse: &amp; expiationi peccati salubre consilium apponere aut adiutorium. Et tunc ma- 
+       <lb ed="#B" n="16"/>gis est reuelandum, quando timetur quod nisi tali reueletur, ipsum peccatum iam commissum est in  
+       <lb ed="#B" n="17"/>praecinctu vt causa vel occasio alterius committendi. Iuxta casum illum de quo dicitur Leui, quin  
+       <lb ed="#B" n="18"/>to. Si peccauerit anima &amp; audierit vocem iurantis: testisque fuerit quod aut ipse vidit aut conscius est 
+       <lb ed="#B" n="19"/>nisi indicauerit. glos. sacerdoti vel ei qui prosit non obsit. portabit iniquitatem suam. Vbi dicit Augus. 
+       <lb ed="#B" n="20"/>in glos. marginali. Videtur dicere peccare hominem qui audit aliquem falsum iurare &amp; scit eum falsum 
+       <lb ed="#B" n="21"/>iurare &amp; tacet. Tunc autem scit si rei de qua iuratur testis fuit: aut vidit scilicet: aut conscius fuit vt 
+       <lb ed="#B" n="22"/>aliquo modo cognouit: aut oculis conspexit: aut qui iurat indicauit illi. Ita enim conscius esse po 
+       <lb ed="#B" n="23"/>test. Sed inter timorem huius peccati &amp; proditionis non parua existit plerumque tentatio. possumus 
+       <lb ed="#B" n="24"/>enim paratum ad periurium admonendo vel prohibendo a tam graui peccato reuocare. Sed si non 
+       <lb ed="#B" n="25"/>audierit &amp; coram nobis falsum iurauerit: vtrum prodendum sit etiam si proditus incurrat peri- 
+       <lb ed="#B" n="26"/>culum mortis: difficillima est quaestio. sed quia non expressit cui indicandum sit, an scilicet cui iu 
+       <lb ed="#B" n="27"/>ratur, an sacerdoti: aut cuipiam qui non potest eum persequi irrogando supplicium: sed pro illo po 
+       <lb ed="#B" n="28"/>test orare: videtur mihi quod se a tali peccato exuit qui talibus indicat qui magis periuro prodesse quam 
+       <lb ed="#B" n="29"/>obesse possunt: corrigendo scilicet vel orando si peccator ipse confessionis sibi adhibet medicinam. 
+       <lb ed="#B" n="30"/>Per iamdicta patent obiecta vtriusque partis. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

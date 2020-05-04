@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 33</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 33</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e525">
+      <head xml:id="n3av8a-c1e525-Hd1e96">Quaestio 33</head>
+      <p xml:id="n3av8a-c1e525-d1e99">
+       <lb ed="#B" n="5"/>D Septimum dicendum: quod quanto homo magis tenetur seipsum ex charitate dili 
+       <lb ed="#B" n="6"/>gere quam proximum, tanto magis &amp; circa seipsum debet opera charitatis exercere. 
+       <lb ed="#B" n="7"/>Nunc autem opus charitatis summum hominis erga proximum est, cum pecca- 
+       <lb ed="#B" n="8"/>tum eius occultum est, eum ad correctionem occultam exhortari &amp; trahere quam 
+       <lb ed="#B" n="9"/>tum potest: nullo autem modo peccatum eius publicare: ne tam sit corrector cri- 
+       <lb ed="#B" n="10"/>minis quam proditor. Multo ergo magis opus charitatis erga seipsum est non esse sui 
+       <lb ed="#B" n="11"/>ipsius proditorem sed correctorem. Siquis ergo crimen habet occultum, solum se de 
+       <lb ed="#B" n="12"/>bet corrigere. quia contra charitatem erga seipsum debitam esset crimen suum prodere. Nunc au 
+       <lb ed="#B" n="13"/>tem contra charitatem est ab homine petere quod est contra charitatem ipsum facere. petere ergo  
+       <lb ed="#B" n="14"/>a subdito sine iuramento siue sub iuramento vt in aperto confiteatur peccatum suum occultum 
+       <lb ed="#B" n="15"/>est contra charitatem petere. Dico quando est ita occultum vt non sit contra ipsum super facto suo 
+       <lb ed="#B" n="16"/>infamia: vel suspitio talis vt contra ipsum per inquisitionem opus sit procedere. Quare cum in quam 
+       <lb ed="#B" n="17"/>tiscunque obediendum est praelato, in illis tamen non est obediendum praelato quae per se militant contra cha- 
+       <lb ed="#B" n="18"/>ritatem. 
+      </p>
+      <p xml:id="n3av8a-c1e525-d1e132">
+       DIcendum absolute quod praelatus non debet petere a subdito vt suum peccatum occultum 
+       <lb ed="#B" n="19"/>confiteatur in capitulo. immo ipse grauiter peccat per hoc subditum suum de crimine suspectum 
+       <lb ed="#B" n="20"/>faciendo: &amp; ipse subditus in casu isto non tenetur ei obedire: quia praeceptum superioris dei in hoc ca 
+       <lb ed="#B" n="21"/>su obuiat praecepto inferioris. &amp; ideo praeceptum inferioris hic contemnendum est. Vnde cum illicitum  
+       <lb ed="#B" n="22"/>est facere sub iuramento quod non licet facere omnino sine iuramento: &amp; illicitum est promittere 
+       <lb ed="#B" n="23"/>sub iuramento quod non licet facere: ideo etsi praelatus petat iuramentum suum super hoc expressum 
+       <lb ed="#B" n="24"/>vt dicat de eo veritatem quam nouit, non debet in hoc ei obedire: neque se ad iuramentum tale astrin  
+       <lb ed="#B" n="25"/>gere. 
+      </p>
+      <p xml:id="n3av8a-c1e525-d1e150">
+       VLterius si astringat ipsum generali iuramento ad dicendum veritatem super interrogatis: &amp; 
+       <lb ed="#B" n="26"/>postmodum petat specialiter sibi dici veritatem casus praedicti: Dico quod non tenetur ei respondere, quia  
+       <lb ed="#B" n="27"/>iuramentum generale non intelligitur nisi de licitis quae iurans sine offensa dei potest facere: &amp; quae 
+       <lb ed="#B" n="28"/>ille cui iuratur debet &amp; potest sine peccato petere: cuiusmoni non est petitio in casu praedicto. Vnde 
+       <lb ed="#B" n="29"/>si peteret a me praelatus sub generali iuramento ei praestito vt dicerem veritatem ei de aliquo quod  
+       <lb ed="#B" n="30"/>non noui nisi ex confessione, non tenerer ei dicere. &amp; si ipse sciret quod aliter illud non scirem: non te- 
+       <lb ed="#B" n="31"/>netur illud a me interrogare.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

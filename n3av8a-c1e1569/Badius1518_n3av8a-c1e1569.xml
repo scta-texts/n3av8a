@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 22</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 22</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="138-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1569">
+      <head xml:id="n3av8a-c1e1569-Hd1e96">Quaestio 22</head>
+      <p xml:id="n3av8a-c1e1569-d1e99">
+       <lb ed="#B" n="24"/>SEquitur de pertinentibus ad voluntatem, vt de eius habitibus. De quibus quaerebantur duo. Vnum  
+       <lb ed="#B" n="25"/>in comperatione ad eorum subiectum. Secundo aliud in comperatione eorum inter se. Tertio quae  
+       <lb ed="#B" n="26"/>dam alia in comparatione ad status diuersos. Primum erat, vtrum morales virtutes sint in vo 
+       <lb ed="#B" n="27"/>luntate. Secundum. si iidem habitus sint virtutes, dona, beatitudines, &amp; fructus. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e110">
+       CIRca 
+       <lb ed="#B" n="28"/>primum arguitur quod non quia moderantur passiones. ergo debent esse in potentia illa in qua  
+       <lb ed="#B" n="29"/>sunt passiones. Passiones autem sunt non in voluntate, sed in irascibili parte &amp; concupiscibi 
+       <lb ed="#B" n="30"/>li. secundum <name ref="#Aristotle">philosophum</name> septimo physicorum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e122">
+       CONtra. virtutes non sunt nisi ratio 
+       <lb ed="#B" n="31"/>nalis. quoniam in omnino irrationali vt in bruto, non habent esse, quod autem est in aliquo, non inest ei nisi secun 
+       <lb ed="#B" n="32"/>dum id eius in quo est. In eo ergo quod est rationale per essentiam, debent virtutes morales esse per essentiam 
+       <lb ed="#B" n="33"/>&amp; in eo quid est rationale per participationem, debent esse per pricipationem. Cum ergo irascibile &amp; concupi 
+       <lb ed="#B" n="34"/>scibile non sunt secundum <name ref="#Aristotle">philosophum</name> rationalia nisi per participationem: ergo morales virtutes in ipsis non 
+       <lb ed="#B" n="35"/>habent esse nisi per participationem. In alio ergo habent esse: quod non est nisi in voluntate. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e139">
+       IN quaestione ista 
+       <lb ed="#B" n="36"/>est opinio aliquorum: quod morales virtutes de quibus specialiter erat proposita quaestio, non sunt in voluntate 
+       <lb ed="#B" n="37"/>sed in parte sensitiua, irascibili, &amp; concupiscibili. Quid primo confirmant auctoritate philosophi: qui in fine primi ethi- 
+       <lb ed="#B" n="38"/>corum diuidit rationem habens principaliter &amp; participatione, dicens quod secundum hanc differentiam determinatur 
+       <lb ed="#B" n="39"/>virtus. Dicimus enim has quidem intellectuales, has vero morales. In principio autem sexti determinat quod  
+       <lb ed="#B" n="40"/>intellectuales sunt in rationali principaliter. ergo relinquitur quod morales sunt in irrationali. Dicti etiam 
+       <lb ed="#B" n="41"/>sui assignant rationem, quoniam virtus moralis potentiae necessaria est, vt ipsam ordinet in bonum &amp; inclinet: &amp; 
+       <lb ed="#B" n="42"/>sic per ipsam actus, proprii complementum acquiritur, &amp; eam perficit: secundum virtutis moralis definitionem, qua dicit 
+       <lb ed="#B" n="43"/>philosophus quod virtus est quae habentem perficit, &amp; eius opus bonum reddit. Hoc autem modo habitus 
+       <lb ed="#B" n="44"/>non est necessarius potentiae nisi quia seipsa non inclinatur seu ordinatur sufficienter in bonum: neque motus pro  
+       <lb ed="#B" n="45"/>prii complementum potest acquirere: &amp; ita neque suam perfectionem. Nunc autem ita est quod voluntas non indiget or 
+       <lb ed="#B" n="46"/>dinante aut inclinante in bonum. quoniam seipsa ordinatur &amp; inclinatur in bonum, sicut concupiscentia in delecta 
+       <lb ed="#B" n="47"/>tionem, &amp; auditus in sonum. Et per hoc voluntas seipsa sibi sufficit ad acquirendum actus sui comple- 
+       <lb ed="#B" n="48"/>mentum, &amp; perfectionem suam secundum ipsum: ita quod voluntas ex seipsa ratione potentiae suae naturalis habet, &amp; opera 
+       <lb ed="#B" n="49"/>ri potest quicquid habet quaecunque alia potentia ex suo habitu: &amp; quicquid habitus circa ipsam potest opera 
+       <lb ed="#B" n="50"/>ri. &amp; non requirit voluntas cum naturali potentia ad operationis suae perfectionem plus quam iudicium rationis, quia natu  
+       <lb ed="#B" n="51"/>rali inclinatione, &amp; appetitu naturali mouetur in bonum sibi ostensum a ratione, non solum simpliciter, quod est vl 
+       <lb ed="#B" n="52"/>timum bonum: sed qualecunque fuerit: ex quo iudicio rationis determinatum est esse bonum. Licet enim 
+       <lb ed="#B" n="53"/>in naturalibus semper finis est bonum simpliciter: in voluntariis tamen non refert an sit bonum simpliciter, an sit bonum 
+       <lb ed="#B" n="54"/>apparens. Sed vires inferiores quia non sic sunt determinatae ad bonum secundum iudicium rationis, quia propter 
+       <!--317.xml-->
+       <pb ed="#B" n="138-v"/>
+       <lb ed="#B" n="1"/>maiorem distantiam a ratione, &amp; propter passiones quae sunt in eis contrariae rationi, quae non sunt in vo 
+       <lb ed="#B" n="2"/>luntate secundum <name ref="#Aristotle">philosophum</name> septimo physicorum, habent, propriam inclinationem: non autem voluntas: ideo possunt iu- 
+       <lb ed="#B" n="3"/>dicio rationis contrariari: quid non pont voluntas: ita quod illae possunt repugnare, non autem voluntas. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e198">
+       AD cuius 
+       <lb ed="#B" n="4"/>etiam confirmationem adducunt istud dictum philosophi in primo Politicae: quod in homine est contemplari &amp; despoticum pri 
+       <lb ed="#B" n="5"/>cipatum &amp; politicum. Anima enim corpori dominatur despotico principatu: quia. scilicet corpus imperio &amp; motui 
+       <lb ed="#B" n="6"/>ab anima nullo modo potest contradicere: Intellectus autem appetitui, scilicet sensibili, irascibili, &amp; com 
+       <lb ed="#B" n="7"/>cupiscibili, politico &amp; regali: quia scilicet in aliquibus, &amp; aliquando contradicere possunt, vt milites 
+       <lb ed="#B" n="8"/>regi. Propter quod vt de facili &amp; prompte obediant rationi, habitu virtutis indigent: non autem corporis men- 
+       <lb ed="#B" n="9"/>bra. vnde quantuncumque perfectum imperium procedat a ratione &amp; voluntate super sensibiles appetitus 
+       <lb ed="#B" n="10"/>nisi sint in perfecta dispositione per habitus virtutum, repugnabunt rationi, vt aut omnino vin  
+       <lb ed="#B" n="11"/>cant appetitum rationalem per violentiam passionum, sicut patet in incontinente: aut si vincantur per instan 
+       <lb ed="#B" n="12"/>tiam &amp; violentiam imperii, cum tristitia &amp; murmure a prosecutione appetiti retrahantur, sicut patet 
+       <lb ed="#B" n="13"/>in continente. &amp; sic nisi illi appetitus perficiantur per habitus, necesse est vt operationes rationis circa eos 
+       <lb ed="#B" n="14"/>semper maneant imperfectae quo ad ipsorum complementum: quantuncumque id quid est principale in actione virtutis 
+       <lb ed="#B" n="15"/>scilicet rectum iudicium, &amp; recta electio, praecedat in ratione. Non enim ponunt virtutes esse in parte sensibili: quia id  
+       <lb ed="#B" n="16"/>quod principale est in actione virtutis, per illam partem compleatur: sed quia in ea sunt passiones circa quas ab  
+       <lb ed="#B" n="17"/>ea in actione virtutis procedit complementum. Pars enim rationalis imperat &amp; mouet tantum: pars sensitiua mo 
+       <lb ed="#B" n="18"/>uetur, &amp; exequendo imperatum mouet: membra autem corporis exteriora in exequendo opus mouentur tantum. &amp; 
+       <lb ed="#B" n="19"/>sunt extrema determinata &amp; medium indeterminatum. propter quod(vt dicunt) virtus in medio ponenda 
+       <lb ed="#B" n="20"/>est, &amp; non in extremis. Haec est positio remouentium morales habitus a voluntate, sicut credo. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e237">
+       SED 
+       <lb ed="#B" n="21"/>virtute eiusdem medii quo arguunt morales habitus non esse in voluntate, arguimus contra eos con 
+       <lb ed="#B" n="22"/>trarium hoc modo. Potentia quae de se indifferens est &amp; indeterminata respectu finis in quo debet acqui-  
+       <lb ed="#B" n="23"/>rere propriam perfectionem per suam operationem, indiget habitu virtutis vt determinetur finis a quo per in-  
+       <lb ed="#B" n="24"/>differentiam suam &amp; indeterminationem potest sua operatione declinare &amp; errare a fine, &amp; prpria perfectio 
+       <lb ed="#B" n="25"/>ne frustari, secundum quod patet in cognitiua. Quantuncumque enim naturaliter ipsa ordinatur &amp; inclinatur in ve- 
+       <lb ed="#B" n="26"/>rum, quemadmodum voluntas in bonum: &amp; quantuncumque obiectum quidquid est in quo relucetid quid verum est de re 
+       <lb ed="#B" n="27"/>proponatur ei per abstractionem intellectus agentis a phantasmate: quia tamen a sensibus abstractum secundum modum quo ap 
+       <lb ed="#B" n="28"/>paret in sensu, aliquando est apparens verum non solidum, ita quod iudicium rationis circa illud abstractum potest errare, 
+       <lb ed="#B" n="29"/>nec syncera &amp; indubitabilis veritas semper a sensibus expetenda est. secundum quod exposuimus in quaestionibus 
+       <lb ed="#B" n="30"/>de modo sciendi: idcirco in virtute cognitiua etiam quo ad cognitionem principiorum, quae dicuntur na 
+       <lb ed="#B" n="31"/>turaliter ab ipsa cognita, indiget habitu cognitiuo qui dicitur intellectus. voluntas autem est poten- 
+       <lb ed="#B" n="32"/>tia quae de se est indifferens, vt dictum est, quemadmodum &amp; ratio Licet enim ratio &amp; voluntas ad primum verum &amp; ad pri 
+       <lb ed="#B" n="33"/>mum bonum naturaliter sunt determinata, vt si nude praesentetur rationi &amp; voluntati non potest ratio ipsi non assenti 
+       <lb ed="#B" n="34"/>re, neque voluntas ab eo resilire: &amp; per hoc sunt determinata ad verum, &amp; ad bonum simpliciter: inquan-  
+       <lb ed="#B" n="35"/>tum in eis manifestatur ratio veri d boni: ita quod ratio nulli assentit nisi sub ratione veri, neque voluntas nisi sub  
+       <lb ed="#B" n="36"/>ratione boni: tamen in hoc nihil restat ex parte rationis &amp; voluntatis in eis quae sunt extra primum ve 
+       <lb ed="#B" n="37"/>rum &amp; bonum, quid sit verum aut bonum simpliciter vel apparens. Et ideo possunt circa quodlibet aliud verum 
+       <lb ed="#B" n="38"/>de bonum errare, ratio in iudicando, voluntas in eligendo: dum tamen in eis non relucet clare primum 
+       <lb ed="#B" n="39"/>verum &amp; bonum. Voluntas ergo indiget habitu virtutis quo determinetur in electione boni. hic 
+       <lb ed="#B" n="40"/>autem est habitus amoris qui continet omnes virtutes morales. dicente <name ref="#Augustine">Augustinus</name> de moribus ecclesiae cap. xv. Il 
+       <lb ed="#B" n="41"/>ludquod dicitur virtus, ab ipsius amoris vario quodam affectu dicitur. Vnde dicit super titulum psalmi. xxxi. 
+       <lb ed="#B" n="42"/>Quid enim in quoquam homine etiam malum operatur nisi amor: dilectio vacare non potenst. Num vobis dicitur, ni 
+       <lb ed="#B" n="43"/>hil ametis: Absit. amate: sed quid ametis videte: purga amorem tuum: aquam fluentem in cloacam 
+       <lb ed="#B" n="44"/>conuerte ad ortum. Dicimus ergo simpliciter propter iam dictam rationem: quod omnes morales 
+       <lb ed="#B" n="45"/>habitus sunt in voluntate, &amp; pertinent ad voluntatis amorem circa bonum simpliciter, vel appa- 
+       <lb ed="#B" n="46"/>rens. Ita quod virtus moralis nihil aliud sit quam habitus inclinans voluntatem ad amorem boni sim- 
+       <lb ed="#B" n="47"/>pliciter. Vitium autem est habitus contrarius inclinans ad amorem boni apparentis. Quod no-  
+       <lb ed="#B" n="48"/>bis maxime ex hoc apparet. quoniam cum virtus moralis secundum <name ref="#Aristotle">philosophum</name> in secun- 
+       <lb ed="#B" n="49"/>do ethicorum, sit mediatrix passionum et actionum, vndecunque insurgant &amp; a qua vi primo ori- 
+       <lb ed="#B" n="50"/>antur: in omnibus (ut dicit in fine libri illius)  maxime obseruandum delectabile, &amp; delectatio- 
+       <lb ed="#B" n="51"/>nem, quae est passio in amante amori annexa: ita quod (vt dicitur in eodem oportet genera- 
+       <lb ed="#B" n="52"/>ti habitus signum facere superuenientem delectationem, ita quod bona delectatio de bono simpli- 
+       <lb ed="#B" n="53"/>citer est signum boni habitus: &amp; delectatio de bono apparenti est signum mali habitus. Vbi er- 
+       <lb ed="#B" n="54"/>go nata est esse delectatio bona, ibi habet esse virtus &amp; non alibi, hoc est voluntas rationalis non  
+       <!--318.xml-->
+       <pb ed="#B" n="139-r"/>
+       <lb ed="#B" n="1"/>pars aliqua sensitiua. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e326">
+       ASSVMPTA declaratur per illud quod dicit <name ref="#Augustine">Augustinus</name> su- 
+       <lb ed="#B" n="2"/>per illud psalmi septimi. Scrutans corda &amp; renes deus. Cogitationes nomine cordis significatae 
+       <lb ed="#B" n="3"/>sunt: &amp; delectationes nomine renum. Et super illud quod sequitur: Qui saluos facis rectos corde, dicit. Non 
+       <lb ed="#B" n="4"/>sicut scrutatur corda &amp; renes, ita saluos facit rectos corde, &amp; renibus. quia cogitationes &amp; malae sunt 
+       <lb ed="#B" n="5"/>in prauo corde, &amp; bonae in recto corde. Delectationes autem non bonae ad renes pertinent: bonae autem non 
+       <lb ed="#B" n="6"/>ad renes, sed ad ipsum cor. Quia autem per cor intelligit partem rationalem, clarum est. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e343">
+       AD viden 
+       <lb ed="#B" n="7"/>dum autem quomodo morales virtutes sint in voluntate, intelligendum quod voluntas tripliciter con 
+       <lb ed="#B" n="8"/>sideratur, vt natura, vt deliberatiua, vt arbitrio libera. Vt natura, inclinatur naturaliter in bonum 
+       <lb ed="#B" n="9"/>simpliciter quia bonum, vt supra expositum est de dilectione dei naturali. Propter quid dicit <name ref="#Augustine">Augustinus</name> vii. super  
+       <lb ed="#B" n="10"/>Genesim cap. xv. Naturale est nobis velle viuere bene. Male autem viuere, iam non est naturae, sed per 
+       <lb ed="#B" n="11"/>uersae voluntatis. Vnde Damascenus loquens de voluntate vt natura, dicit de eodem quod est prae 
+       <lb ed="#B" n="12"/>ter voluntatem: &amp; etiam contra voluntatem. Vt autem est deliberatiua, bono praesentato in co- 
+       <lb ed="#B" n="13"/>gnitiua sub ratione veri retinet naturalem motum differens prosecutionem illius boni, &amp; impel- 
+       <lb ed="#B" n="14"/>lendo cognitiuam ad perscrutandum de circunstantiis, an prosequendum sit, vel non, quod ex parte vo- 
+       <lb ed="#B" n="15"/>luntatis appellatur deliberatio: ex parte vero rationis dicitur consiliatio. Et quia in tali deliberatio 
+       <lb ed="#B" n="16"/>ne voluntas indeterminata est ad vtrumlibet se habens: ita etiam quod data sententia rationis adhuc potest 
+       <lb ed="#B" n="17"/>se tenere in sua indeterminatione: &amp; praeferre in electione sua contrarium eius quod eligendum sententiauit ratio 
+       <lb ed="#B" n="18"/>vt determinatum fuit in alio Quolibet: ideo vt velit assentire completa deliberatione ei quod iudicatum  
+       <lb ed="#B" n="19"/>est recta ratione, multum indiget habitu ipsum inclinante vt velit illud. Nec sufficit ad hoc illa inclina 
+       <lb ed="#B" n="20"/>tio qua inclinatur vt natura, immo requiritur virtus cooperans in modum naturae. secundum definitio- 
+       <lb ed="#B" n="21"/>nem Tullii. Virtus est habitus voluntarius in modum naturae rationi consentaneus. vt in hoc diffe 
+       <lb ed="#B" n="22"/>renter mouere &amp; inclinare dicamus voluntatem habitum naturalem &amp; moralem siue deliberatiuum  
+       <lb ed="#B" n="23"/>quia naturalis inclinat ad bonum simpliciter, &amp; ad bonum conclusum a ratione, inquantum in eo 
+       <lb ed="#B" n="24"/>relucet bonum simpliciter. Virtus autem inclinat &amp; mouet ad bonum inquantum hoc bonum circa 
+       <lb ed="#B" n="25"/>tale obiectum, &amp; alia &amp; alia virtus moralis circa aliud &amp; aliud obiectum. &amp; mouet in modum naturae, quia si 
+       <lb ed="#B" n="26"/>cut natura subito mouet praeueniendo deliberationem &amp; subreptitie, ita mouet &amp; virtus iam generata. 
+       <lb ed="#B" n="27"/>Vnde quod quis sic repentine siue subreptitie mouetur, signum est maximum in eo generati habitus, secundum quod  
+       <lb ed="#B" n="28"/>dicit <name ref="#Aristotle">philosophus</name> circa fortitudinem in quarto ethicorum. Principaliter dicetur fortis, qui circa bonam 
+       <lb ed="#B" n="29"/>mortem impauidus, &amp; quaecunque mortem inferunt repentina existentia. vbi dicit Commentator. In  
+       <lb ed="#B" n="30"/>repentine enim accidentibus sufferentia eius qui circa fortitudinem habitus signum: quia &amp; non fortis assue 
+       <lb ed="#B" n="31"/>tus aliquando &amp; praeparatus ad periculum, sustinebit vtique ipsum. Voluntas autem vt est arbitrio libera, post 
+       <lb ed="#B" n="32"/>plenam deliberationem non obstante habitu naturali inclinante voluntatem vt natura est, neque habi- 
+       <lb ed="#B" n="33"/>tu morali inclinante voluntatem vt deliberatiua est, adhuc tenet motum vtriusque, &amp; differt libere sui 
+       <lb ed="#B" n="34"/>ipsius determinationem quo aliquid velit: et si velit libere eligit contra rationis determinationem, &amp; com- 
+       <lb ed="#B" n="35"/>tra vtramque inclinationem. Nec est aliquo habitu determinabilis voluntas inquantum est arbitrio libera 
+       <lb ed="#B" n="36"/>quia hoc est contra naturam libertatis. Si enim a sua libertate posset in modum naturae inclinari circa 
+       <lb ed="#B" n="37"/>aliud quam circa primum bonum nudum &amp; apatum, posset contra suam libertatem naturalem necessitari. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e419">
+       HOC 
+       <lb ed="#B" n="38"/>ergo modo loquendo de voluntate scilicet inquantum est naturalis aut arbitrio libera, non indiget ordinante, di 
+       <lb ed="#B" n="39"/>rigente vel inclinante in finem: quoniam seipsa naturae necessitate et propria potestate ordinatur in  am. In  
+       <lb ed="#B" n="40"/>quantum tamen deliberatiua, bene indiget habitu, vt dictum est: nec sufficit sibi sine habitu, vt ipsa inquantum  
+       <lb ed="#B" n="41"/>libera, expedite &amp; facimiliter actus sui complementum operetur, licet absolute posset habito solo iudicio rationis ante 
+       <lb ed="#B" n="42"/>generationem habitus virtutis moralis illud complementum actione sua in se acquirere. Non tamen sic quod proposito 
+       <lb ed="#B" n="43"/>iudicio rationis statim inclinetur &amp; moueatur in illud: quemadmodum auditus mouetur a suo percepto. Voluntas ei 
+       <lb ed="#B" n="44"/>semper hent liberam electionem contra sententiam rationis, vt dictum est. Quia autem dicunt <name ref="#Aristotle">philosophum</name> ponere virtutes mora 
+       <lb ed="#B" n="45"/>les in eo quid est solum rationale per participationem: &amp; quod hoc non sit nisi concupiscibile &amp; irascibile: quae  
+       <lb ed="#B" n="46"/>sunt partes sensitiuae: ad hoc non video eos plus habere probabilitatis quam illud quid dicit <name ref="#Aristotle">philosophus</name> in fine 
+       <lb ed="#B" n="47"/>primi ethico. vbi primo diuidit partes animae dicens. Et hoc est irrationale: illud vero rationem habens. 
+       <lb ed="#B" n="48"/>&amp; subdiuidit irroinale, dicens. Videtur vtique &amp; irrtionale duplex. Plantatiuum enim nequaquamcommunicat ratione 
+       <lb ed="#B" n="49"/>concupiscibile autem &amp; vniuersaliter appetibile pricipat aliqualiter ratione. &amp; infra post modicum. Si au 
+       <lb ed="#B" n="50"/>tem oportet &amp; hoc rationem habere, duplex erit &amp; rationem habens: hoc quidem principaliter, &amp; in seip 
+       <lb ed="#B" n="51"/>so: hoc autem quemadmodum a patre audibile. vbi nullam mentionem facit <name ref="#Aristotle">philosophus</name> de irascibili nisi sub illo quod di 
+       <lb ed="#B" n="52"/>cit, Et vniuersaliter appetibile. per quod nos dicimus indifferenter intelligi volitiuum &amp; irascibile, vt per  
+       <lb ed="#B" n="53"/>rationem habens in seipso intelligamus solummodo cognitiuam virtutem, in qua statim dicit esse virtutes 
+       <lb ed="#B" n="54"/>intellectuales per irrationale &amp; audibile: quemadmodum a patre voluntatem &amp; concupiscibilem 
+       <!--319.xml-->
+       <pb ed="#B" n="139-v"/>
+       <lb ed="#B" n="1"/>&amp; irascibilem virtutes. in quibus omnibus ponimus diuersimode virtutes morales, vt iam dicetur. Quia autem- 
+       <lb ed="#B" n="2"/>sub audibili habente rationem comprehendat voluntatem, patet per eundem: qui diuidit circa me 
+       <lb ed="#B" n="3"/>dium primi partes animae in quibus non sunt operationes hominis inquantum homo. &amp; diuidit primo plantatiuum 
+       <lb ed="#B" n="4"/>contra sensitiuum, &amp; sensitiuum contra rationem habens. &amp; illud insuadibile &amp; intelligens dicit separandum  
+       <lb ed="#B" n="5"/>ergo nutritiuam &amp; augmentatiuam vitam: sequens autem sensitiua. videtur autem &amp; haec communis equo, homini, &amp; omni 
+       <lb ed="#B" n="6"/>animali. Reliquitur ergo operatiua quaedam rationem habentis. huius autem hoc vt bene persuadibile ratione: hoc vero vt ha  
+       <lb ed="#B" n="7"/>bens &amp; intelligens. Conferendo ergo literam istam illi sub audibili siue suadibili, comprehendit voluntatem 
+       <lb ed="#B" n="8"/>cum irascibili &amp; concupiscibili. Et est intentio philosophi quod solum cognitiua est in se rationem habens. Pro- ai 
+       <lb ed="#B" n="9"/>pter quod posuit in eo principalem operationem hominis, secundum quod homo. Secundum hoc 
+       <lb ed="#B" n="10"/>enim aspiciendo ad opera hominis pure naturalia, perfectior est operatio hominis secundum quod ho 
+       <lb ed="#B" n="11"/>mo secundum ipsam, quam secundum aliquam aliam virtutem. &amp; ipsa est potentia superior aliis, dicente <name ref="#Aristotle">philosopho</name> ibi 
+       <lb ed="#B" n="12"/>dem. Dupliciter autem &amp; hac dicta, scilicet virtute, quae rationem hent eam quae secundum rationem operationum po  
+       <lb ed="#B" n="13"/>nendum. scilicet principalem in homine. cuius causam statim subdit. Principaliter enim hoc videtur dici 
+       <lb ed="#B" n="14"/>&amp; licet principaliter dicitur quo ad hoc: principalius tamen dicitur simpliciter voluntas, vt expositum 
+       <lb ed="#B" n="15"/>est in quaestione praenominata. &amp; ita operatio quae est secundum voluntatem, licet non per habitum moralem. 
+       <lb ed="#B" n="16"/>sed gratuitum, est perfecta operatio hominis secundum quod homo quod omnes habitus &amp; potentiae &amp; actus in  
+       <lb ed="#B" n="17"/>finem vltimum perfecte beatificantem ducunt. secundum quod <name ref="#Augustine">Augustinus</name> postlongum tractatum de mo- 
+       <lb ed="#B" n="18"/>ribus ecclesiae concludit, dicens. Non arbitror cum de moribus, &amp; vita sit quaestio, amplius aliquid  
+       <lb ed="#B" n="19"/>quaerendum quid sit hominis summum bonum quo referenda sunt omnia. Illud enim esse patuit, &amp; 
+       <lb ed="#B" n="20"/>ratione quantum valuimus, &amp; ea quae nostrae rationi antecellit auctoritate diuina, nihil aliud quam ip 
+       <lb ed="#B" n="21"/>sum deum. Nam quid est illud optimum hominis nisi cui est haerere beatissimum: lllud autem solus deus est 
+       <lb ed="#B" n="22"/>cui haerere certe non valemus nisi dilectione, amore, charitate. Cum ergo <name ref="#Aristotle">philosophus</name> posuit virtutes 
+       <lb ed="#B" n="23"/>morales ineo quod non est principaliter habens rationem in seipso: sed in eo quid est suadibile a ratione: 
+       <lb ed="#B" n="24"/>distinguendo hanc partem contra illam quae est habens in seipsa rationem, cuiusmodi est pars intellectiua: sub il 
+       <lb ed="#B" n="25"/>la parte comphendit voluntatem. Aliter enim aut diminuta esset eius diuisio, aut solum diuisisset partes 
+       <lb ed="#B" n="26"/>animae quae sunt subiectum virtutum. &amp; sic secundum philosophum, nulla virtus omnino, neque etiam iustitia ponenda esset 
+       <lb ed="#B" n="27"/>in voluntate: cuius contrarium sentiunt aliqui: qui negant in voluntate ponendas temperantiam &amp; for 
+       <lb ed="#B" n="28"/>titudinem. Sed tunc intelligendum quod rationale tripliciter accipitur: communiter, large, &amp; stricte. Communiter 
+       <lb ed="#B" n="29"/>dicitur rationale quicquid ad hominem pertinet per se mouens ad actum rationis. Et sic rationale dicitur in  
+       <lb ed="#B" n="30"/>homine anima humana quo ad intellectiuum, volitiuum, &amp; sensibile appetitiuum. Large dicitur 
+       <lb ed="#B" n="31"/>rationale id quo homo distinguitur a bruto. Stricte vero dicitur rationale cognitiuum siue intellecti 
+       <lb ed="#B" n="32"/>uum tantum: ita quod stricte non dicitur rationale nisi pars intellectiua. &amp; hoc quia nata est rationabiliter 
+       <lb ed="#B" n="33"/>discernere. Large vero dicitur rationale pars volitiua: &amp; hoc quia nata est rationabiliter mouere 
+       <lb ed="#B" n="34"/>Communiter vero dicitur rationale pars appetitiua: quia nata est rationi obedire. Quorum primum 
+       <lb ed="#B" n="35"/>dicitur rationale simpliciter: &amp; nullo modo irrationale: &amp; ideo rationale per essentiam. &amp; hoc ideo: quia 
+       <lb ed="#B" n="36"/>seipso de cognito iudicat rationabiliter, &amp; nullo modo dependet ab altero eius iudicium. Tertium 
+       <lb ed="#B" n="37"/>dicitur irrationale simpliciter: quia nec de se rationabiliter iudicans de cognito, nec mouens ratio 
+       <lb ed="#B" n="38"/>nabiliter ad ipsum, sed impetu tantum. &amp; naturaliter magis. Et solum dicitur rationale quo scilicet per par 
+       <lb ed="#B" n="39"/>ticipationem, quia natum est obedire iudicio &amp; imperio rationis. ludicio scilicet intellectus: &amp; im- 
+       <lb ed="#B" n="40"/>perio voluntatis. Secundum vero dicitur simpliciter per essentiam rationale: quia rationabiliter na-  
+       <lb ed="#B" n="41"/>tum est intellectum ad discernendum mouere antequam moueat ad bonum cognitum prosequendum 
+       <lb ed="#B" n="42"/>&amp; completa discretione rationabiliter natum est seipsum ad volendum libere determinare, &amp; vires in-  
+       <lb ed="#B" n="43"/>feriores ad motum impellere. Dicitur autem participans ratione &amp; irrationale: quo scilicet inquantum  
+       <lb ed="#B" n="44"/>eius rationalis electio, &amp; motus in prosequendo dependet a rationabili iudicio &amp; discretione intellectus. Non 
+       <lb ed="#B" n="45"/>quod propter hoc voluntas ad diiudictatum determinetur, vt oporteat ipsam eligere &amp; prosequi quid  
+       <lb ed="#B" n="46"/>diiudicatum est: quasi in hoc solo consistat libertas arbitrii, quod ratio hoc modo vel illo potest di-  
+       <lb ed="#B" n="47"/>iudicare: hoc enim modo solum determinatur per nudam visionem primi veri &amp; vltimi boni. Sed  
+       <lb ed="#B" n="48"/>quod voluntas ex se caeca est, nec potest circa quicquam moueri amore nisi fuerit prius cognitum, vt dictum 
+       <lb ed="#B" n="49"/>est supra secundum Augustinum. Et quo ad hoc quod voluntas est rationalis per essentiam, distinguit eam 
+       <lb ed="#B" n="50"/>philosophus circa medium primi ethicorum, vt dictum est. vbi determinat quod morales virtutes habent esse in  
+       <lb ed="#B" n="51"/>irrationali, rationali tamen per participationem: insinuando per hoc quod habent esse in vtroque ra-  
+       <lb ed="#B" n="52"/>tionali per participationee. scilicet sensibili &amp; rationali. Circa medium autem eiusdem determinat quod in sen 
+       <lb ed="#B" n="53"/>sibili irrationali non potest esse proprium opus hominis secundum quod homo: sed in duplici rationali 
+       <lb ed="#B" n="54"/>praedictis: voluntate scilicet. &amp; intellectu. Per hoc potenti aduertere satis insinuat: cum operatio moralium 
+       <!--320.xml-->
+       <pb ed="#B" n="140-r"/>
+       <lb ed="#B" n="1"/>virtutum sit hominis secundum quod homo: quod vno modo potest esse in voluntate sola: alio autem modo etiam  
+       <lb ed="#B" n="2"/>in sensuali appetitu. Quod expressius determinat in primo Politicae. vbi comparans rationale &amp; sensibi 
+       <lb ed="#B" n="3"/>le domino &amp; seruo, determinat quod virtus moralis temperantia, fortitudo, &amp; iustitia est &amp; in domino  
+       <lb ed="#B" n="4"/>&amp; in seruo, sicut est in rationali &amp; sensibili. vbi dicit sic. Necesse est vtrasque participare virtute. &amp; hoc 
+       <lb ed="#B" n="5"/>statim explicatur secundum animam. In hac enim est natura, haec quidem participans: hoc autem partici- 
+       <lb ed="#B" n="6"/>patum, quarum alteram dicimus esse virtutem, puta rationem habentis &amp; irrationalis. Sed constans est 
+       <lb ed="#B" n="7"/>quod rationem habens quod principans est, non est nisi voluntas. Intellectus enim siue sit practicus, siue specu 
+       <lb ed="#B" n="8"/>latiuus, principari non habet: sed solum iudicium dare. Et hoc statim explicat attribuendo principam 
+       <lb ed="#B" n="9"/>ti virtutes morales, cum dicit. Principem perfectam oportet habere virtutem moralem. Et non esset 
+       <lb ed="#B" n="10"/>simile nisi de principante in anima loqueretur: ad quod pertinent morales virtutes, quod nullo modo 
+       <lb ed="#B" n="11"/>est pars intellectiua, vt manifeste dicit in fine primi, &amp; principio secundi, &amp; sexti ethicorum. Est igi 
+       <lb ed="#B" n="12"/>tur intelligendum: quod cum receptum in aliquo est in eo secundum modum recipientis, &amp; non rei receptae 
+       <lb ed="#B" n="13"/>vt dicit quaedam propositio libri de causis: &amp; secundum determinationem in fine primi ethicorum, 
+       <lb ed="#B" n="14"/>Moralis virtus non est nisi in quodammodo rationem habenti: secundum modum igitur quo voluntas 
+       <lb ed="#B" n="15"/>differenter rationem habet ab appetitu sensibili, secundum hoc differenter erunt in eis virtutes mo- 
+       <lb ed="#B" n="16"/>rales. Quia ergo voluntas vt dictum est, licet sit quodammodo participans ratione: simpliciter tamen est rationa 
+       <lb ed="#B" n="17"/>lis per essentiam: appetitus autem sensibilis est rationalis per participationem tantum: idcirco dico quod  
+       <lb ed="#B" n="18"/>virtus moralis simpliciter &amp; essentialiter est in voluntate &amp; essentia habituum eius: per participationem 
+       <lb ed="#B" n="19"/>autem &amp; impressionem quandam in appetitu sensibili. Et secundum hunc modum procedit determinatio Aristi. 
+       <lb ed="#B" n="20"/>de virtute morali, &amp; maxime ex definitione quam inuestigat de ea secundo ethicorum, quod est habitus 
+       <lb ed="#B" n="21"/>voluntarius in medietate consistens, determinatus ratione prout sapiens determinabit. Vnde di-  
+       <lb ed="#B" n="22"/>cit ibidem quod virtutes sunt electiones quaedam, vel non sine electione. vbi dicit alia translatio, voluntatis, vel non 
+       <lb ed="#B" n="23"/>sine voluntate. &amp; est vtrunque eorum verum, quia sunt voluntates inquantum sunt in voluntate per 
+       <lb ed="#B" n="24"/>actum voluntatis: non sunt autem sine voluntate inquantum quaedam impressio eorum est in appetitu sensitiuo 
+       <lb ed="#B" n="25"/>secundum quod obedit rationi. &amp; per hoc actio earum procedit secundum regulam virtutis &amp; rectae 
+       <lb ed="#B" n="26"/>rationis: &amp; ideo dicitur quod sit bona, &amp; quod sit actio virtutis. Et non solum dicitur actio virtutis appetiti 
+       <lb ed="#B" n="27"/>uae, irascibilis, &amp; concupiscibilis, sed &amp; sensus particularis, vt oculi vel auris: &amp; non solum huiusmodi, sed etiam in  
+       <lb ed="#B" n="28"/>strumenti inanimati: inquantum eius motus regitur ad quandam impressionem rationis. Ita quod non 
+       <lb ed="#B" n="29"/>solum virtus per participationem quandam &amp; impressionem dicitur esse in appetitu ira scibili &amp; com 
+       <lb ed="#B" n="30"/>cupiscibili, sed in sensu particulari, &amp; in bruto omnino irrationabili, secundum quod per quandam impres 
+       <lb ed="#B" n="31"/>sionem factam in illis relucet opus virtutis, quae vere est in hominibus, secundum quod dicit Aristoteles 
+       <lb ed="#B" n="32"/>in secundo ethicorum. Omnis virtus cum vtique fuerit virtus, id bene habens perficit, &amp; opus eius 
+       <lb ed="#B" n="33"/>bonum reddit. puta oculi virtus, &amp; oculum studiosum facit, &amp; eius opus. Oculi enim virtute bene vide- 
+       <lb ed="#B" n="34"/>mus. Similiter &amp; equi virtus equum studiosum facit, &amp; bonum ad currendum &amp; ferendum ascensorem, &amp; ex- 
+       <lb ed="#B" n="35"/>pectandum bellatores. vbi dicit Comment. Primum communis virtutis assignat rationm: deinde secun- 
+       <lb ed="#B" n="36"/>dum hanc &amp; rationem appropriatam hominis virtuti assignat. Vnde &amp; concludit. Si vtique ita in omni 
+       <lb ed="#B" n="37"/>bus, ita habet &amp; hominis virtus &amp;c. Sicut ergo virtus non dicitur esse in equo, aut in oculo nisi per  
+       <lb ed="#B" n="38"/>quandam impressionem, sic nec in irascibili aut concupiscibili sensitiuo, licet per impressionem maiorem 
+       <lb ed="#B" n="39"/>&amp; fortiorem: quanto vires istae coniunctiores sunt rationi quam oculus aut equus: &amp; etiam per maiorem impres 
+       <lb ed="#B" n="40"/>sionem in oculo quam in equo: inquantum est vis naturalis ab anima in organo: equus autem non: sed habet vi 
+       <lb ed="#B" n="41"/>res suas separatas domabiles &amp; assuefactibiles ab homine. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e692">
+       AD cuius intellectum sciendum: quod oculus aut 
+       <lb ed="#B" n="42"/>equus dicitur studiosus, non quia oculus habet visum acutum, &amp; equus vires magnas: sed quia ad  
+       <lb ed="#B" n="43"/>nutum rationis ex assuefactione prompte &amp; absque difficultate oculus temperet aspectum, &amp; equus 
+       <lb ed="#B" n="44"/>motum, vt oculus alibidinoso se retrahat aspectum: &amp; equus domestice &amp; non irrefraenate sessorem fe- 
+       <lb ed="#B" n="45"/>rat. In irascibili ergo &amp; concupiscibili, sicut neque in oculo vel in equo non sunt habitus alicuius vir- 
+       <lb ed="#B" n="46"/>tutis sicut neque vitii: sed quaedam virtutis refulgentia per quandam naturalem impressionem. ad quam  
+       <lb ed="#B" n="47"/>recipiendam per assuefactionem omnia nata sunt obedire rationi &amp; voluntati: nec egent ad hoc ali- 
+       <lb ed="#B" n="48"/>qua alia dispositione siue habitu. Modo quidem pro statu culpae rebelles sunt vires inferiores su- 
+       <lb ed="#B" n="49"/>perioribus, vt propter hoc videatur aliquibus quod illis necessarii sint habitus vt de facili obediant. 
+       <lb ed="#B" n="50"/>Propter quod etiam Aristoteles aliquo modo posuit morales habitus in eis, quia credidit statum esse na 
+       <lb ed="#B" n="51"/>turalem naturae statum qui nunc est. Sed non est verum. Pro statu enim naturae institutae sub perfecta 
+       <lb ed="#B" n="52"/>obedientia &amp; promptitudine erant naturaliter vires inferiores sub superiori absque omni potentia ad bellam 
+       <lb ed="#B" n="53"/>dum, ita quod nullus motus in eis fuisset nisi a ratione impratus. Nec praeuenire potuit regimen rationis subreptitiae, 
+       <lb ed="#B" n="54"/>sicut modo, sine praecedente peccato, &amp; negligentia rationis. Vnde &amp; licet modo non obediant propter peccatum pro quo sunt 
+       <!--321.xml-->
+       <pb ed="#B" n="140-v"/>
+       <lb ed="#B" n="1"/>in poenam motus eorum irrationabiles quibus possunt rebellare contra rationem: tamennatae sunt na 
+       <lb ed="#B" n="2"/>turaliter obedire: ita quod si instet voluntatis imperium omnino resistere non possunt: &amp; solum per quan 
+       <lb ed="#B" n="3"/>dam impressionem &amp; assuefactionem prompte &amp; sine murmure obediunt. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e735">
+       PER dicta patet quod falsum  
+       <lb ed="#B" n="4"/>est dicere quod voluntas non indiget ordinante seu inclinante eam in finem, quia seipsa inclinatur in bonum, &amp; 
+       <lb ed="#B" n="5"/>libere potest in opus, cum determinata fuerit a ratione. Quamuis enim inclinatur in bonum, vt natura, il- 
+       <lb ed="#B" n="6"/>la inclinatio non sufficit, quia adhuc manet indifferens &amp; indeterminata ante electionem vt est delibera- 
+       <lb ed="#B" n="7"/>tiua. &amp; ideo cum inclinatione ad bonum simpliciter, vt est natura, indiget inclinatione per habitum 
+       <lb ed="#B" n="8"/>vt est deliberatiua ad determinatam rationem boni: qua voluntas vt libera attrahatur vt faciliter &amp; expe- 
+       <lb ed="#B" n="9"/>dite eligat, licet libere, ad quod habitus inclinat. Licet enim ratio ostendens obiectum voluntatem determi 
+       <lb ed="#B" n="10"/>net vt possit eligere ostensum, eo quod nihil possit appeti nisi cognitum, non tamen sic determinat ipsam  
+       <lb ed="#B" n="11"/>quin contra eius determinationem libere eligere potest, vt in quaestionibus de voluntate alias expo 
+       <lb ed="#B" n="12"/>situm fuit. Non enim est sic per rationem determinata ad bonum ostensum eligendum, sicut est vis 
+       <lb ed="#B" n="13"/>concupiscibilis quantum est ex se ad delectabile appetendum, aut auditus ad sonum percipiendum 
+       <lb ed="#B" n="14"/>vt aliqui ponunt. Neque etiam ipsa voluntas vt libera est aliquo habitu determinatur, ne cum virtus sit 
+       <lb ed="#B" n="15"/>inclinans ad vnum in modum naturae, aliquid libertati derogetur, quae sicut possibilitas rationalis omni 
+       <lb ed="#B" n="16"/>no per aequalem distantiam debet se habere ad opposita: &amp; per omnimodam libertatem moueri in  
+       <lb ed="#B" n="17"/>bonum: et per actuum frequentiam in seipsa, vt est deliberatiua, generare habitus virtutum quibus 
+       <lb ed="#B" n="18"/>inclinatur ad cito deliberandum: aut etiam praeueniendum ante omne rationis iudicium: &amp; per hoc 
+       <lb ed="#B" n="19"/>alliciatur ad expedite eligendum, vt sic, illa inclinatio a virtute in voluntate inquantum est delibe- 
+       <lb ed="#B" n="20"/>ratiua in modum praecedentis inclinationis quae est in illa inquantum est natura. Est enim volun- 
+       <lb ed="#B" n="21"/>tas vt deliberatiua media inter seipsam, vt est natura, determinata omnino ad vnum: vt est libe- 
+       <lb ed="#B" n="22"/>ra, omnino indeterminata, &amp; semper manet nisi semet ipsam determinet. Propter quod non bene dicunt 
+       <lb ed="#B" n="23"/>virtutem esse in voluntate quia potest ad opposita: quasi sit in ea, secundum quod est libera determi-  
+       <lb ed="#B" n="24"/>nando eius libertatem. Hoc enim est contra naturam suam, &amp; actio virtutis est in modum naturae.  
+       <lb ed="#B" n="25"/>
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e785">
+       PALsum est etiam dicere quod vires sensitiuae concupiscibilis, &amp; irascibilis, quia non sunt determinatae se 
+       <lb ed="#B" n="26"/>cundum iudicium rationis: &amp; propter passiones quae in eis sunt contrariae rationi: ideo indigent ha 
+       <lb ed="#B" n="27"/>bitu. quoniam licet ex se sint indeterminatae: tamen quantum est ex natura earum, necesse est eas sequi determina 
+       <lb ed="#B" n="28"/>tionem voluntatis. Et ideo sicut in voluntate non esset ponenda virtus si determinata esset naturaliter ad  
+       <lb ed="#B" n="29"/>sequendum iudicium rationis: similiter neque in illis viribus per determinationem quam habent a voluntate. recipiunt 
+       <lb ed="#B" n="30"/>tamen quandam impressionem virtutis, vt fiant virtutis participes: inquanum. scilicet natae sunt assuescere, vt rationi sub- 
+       <lb ed="#B" n="31"/>dantur, quia hoc naturale est eis, &amp; res quaelibet de facili ad suam naturam reuertitur: &amp; sic sequendo frequen- 
+       <lb ed="#B" n="32"/>ter rationis imperium per pricipationem habent in se virtutes quae sunt in voluntate per essentiam. Non sic autem 
+       <lb ed="#B" n="33"/>vis vegetabilis, quia nullo modo nata est subdi rationis imperio. Quia autem passiones circa quas est exer 
+       <lb ed="#B" n="34"/>citium moralium virtutum sunt in illis viribus, de hoc nihil ad ponendum principaliter virtutes in  
+       <lb ed="#B" n="35"/>illis. Non enim ex motu secundum passiones habetur virtus: sed ex modo se habendi rationabiliter cir 
+       <lb ed="#B" n="36"/>ca illas, &amp; comprimendo eas, &amp; moderando. Operari enim ex ratione est opus virtutis. Sed tale 
+       <lb ed="#B" n="37"/>operans mouens non motum ex se indeterminatum ad actum, semet ipsum determinans, est volun 
+       <lb ed="#B" n="38"/>tas: quia est instrumentum seipsum mouens, vt dicit <name ref="#Augustine">Augustinus</name> de libero arbitrio. &amp; vt dicit ibidem, vo- 
+       <lb ed="#B" n="39"/>luntas mouet se &amp; alia. Mouens &amp; motum est vis sensibilis: concupiscibilis, &amp; irascibilis,. quia licet de se 
+       <lb ed="#B" n="40"/>esset ad alterum contrariorum determinata: comparatione tamen eius ad voluntatem indeterminata est, &amp; po 
+       <lb ed="#B" n="41"/>test ad diuersa &amp; contraria determinari per imperium voluntatis. Motum vero non mouens sunt mem 
+       <lb ed="#B" n="42"/>bra exteriora: &amp; ideo in membris est modica, aut nulla virtutis impressio, sicut &amp; in bestiis: in vi sen- 
+       <lb ed="#B" n="43"/>sitiua magna. &amp; per essentiam suam est in voluntate, quia ab ipsa procedit omne regulare imperium 
+       <lb ed="#B" n="44"/>secundum dictamen rationis. Primo modo rationabiliter seipsam libere: deinde alia quae sunt sub se, impe 
+       <lb ed="#B" n="45"/>riose. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e834">
+       ET est magnum inconueniens dicere quod in mouendo per imperium alia a se, virtutem in ip 
+       <lb ed="#B" n="46"/>sis generat, &amp; non in se. quasi ad actionem virtutis nihil faciat nisi quod rationabiliter imperet, &amp; vi 
+       <lb ed="#B" n="47"/>res inferiores totum opus virtutum moralium agant, vt per hoc solum in se virtutem acquirant. im 
+       <lb ed="#B" n="48"/>mo ipsa seipsam primo in volendo rationabiliter mouet priusquam alteri quodcunque rationabiliter im 
+       <lb ed="#B" n="49"/>peret: &amp; per hoc ex frequentia actuum prius generat virtutes in seipsa quam secundum eas aliquas impres 
+       <lb ed="#B" n="50"/>siones faciat in vires inferiores. Aliter enim non faciliter imperaret bene, neque expedite. prius enim debet in  
+       <lb ed="#B" n="51"/>se quodcumque esse bene ordinatum quam ordinet ea quae sunt extra se. Nec obest quod de se potest in substantiam operis, cum 
+       <lb ed="#B" n="52"/>virtus non tam sit propter substantiam operum quam propter modum operandi secundum circunstantias. Non enim 
+       <lb ed="#B" n="53"/>secundum philosophum, temperatus est qui a delectabilibus abstinet, sed qui taliter. Vt secundum hoc multum absur 
+       <lb ed="#B" n="54"/>dum sit dicere quod voluntas non indiget habitu ad bonum operandum nisi quod est ei proportionatum 
+       <!--322.xml-->
+       <pb ed="#B" n="141-r"/>
+       <lb ed="#B" n="1"/>cuiusmodi est bonum separatum, ad quod est charitas: &amp; bonum ad alterum, ad quod est iusti- 
+       <lb ed="#B" n="2"/>tia. Immo quantuncumque sit bonum proportionatum, propter indeterminationem ad ipsum, &amp; ad  
+       <lb ed="#B" n="3"/>modum operandi circa ipsum, indiget virtute qua ordinatur ad ipsum: &amp; hoc non propter substam 
+       <lb ed="#B" n="4"/>tiam actionis: sed propter agendi modum. Vnde &amp; charitas quae est supmus habitus in voluntate, non 
+       <lb ed="#B" n="5"/>requiritur propter substantiam actus qui est diligere deum super se, &amp; super omnia: haec enim potest creatura 
+       <lb ed="#B" n="6"/>naturaliter, &amp; ex puris naturalibus, vt supra habitum est: sed requititur propter modum diligendi: &amp; ex 
+       <lb ed="#B" n="7"/>parte actus in se: &amp; vt determinatur in obiectum. Facit enim charitas diligi deum super se &amp; super omnia 
+       <lb ed="#B" n="8"/>supernaturali modo: &amp; vt bonum beatificans, ad quod non attingit natura ex puris naturalibus. Nullus enim est 
+       <lb ed="#B" n="9"/>actus cuiuscumque virtutis, quin sit secundum suam substantiam essentialis potentiae, vt ex puris naturalibus 
+       <lb ed="#B" n="10"/>possit in ipsum quantuncumque imperfecte. aliter enim esset ei omnino accidentalis: quod absurdum est ponere. 
+       <lb ed="#B" n="11"/>Quid autem dicit philosophus, quod ratio dominatur irascibili &amp; concupiscibili principatu politico non despotico: 
+       <lb ed="#B" n="12"/>vt ideo necesse sit ponere potentias illas habere virtutes: reuera bene arguit illud quod habeant in se 
+       <lb ed="#B" n="13"/>aliquam impressionem virtutis: non tamen quod principaliter, &amp; per essentiam sit virtus in illis, &amp; non in voluntate. 
+       <lb ed="#B" n="14"/>Intelligendum igitur propter dictum philosophi: quod humanae naturae duplex est status, scilicet naturae institutae 
+       <lb ed="#B" n="15"/>absque peccato, &amp; naturae destitutae per peccatum. Secundum statum primum non plus contrariaretur appetitus 
+       <lb ed="#B" n="16"/>sensibilis voluntati aut rationi, quam ipsa voluntas. Rationi dico secundum actum. licet enim appetitus sensibi- 
+       <lb ed="#B" n="17"/>lis quantum esset ex se naturaliter moueretur ad delectabile secundum sensum, &amp; detestaretur tristabile: 
+       <lb ed="#B" n="18"/>&amp; ita ad bonum vt nunc esset motus eius determinatus: voluntas autem per indifferent iam semper se haberet 
+       <lb ed="#B" n="19"/>quantum est ex se ad bonum simpliciter, &amp; vt nunc: &amp; secundum hoc in habitu magis contrariaretur rectae ra 
+       <lb ed="#B" n="20"/>tioni appetitus sensibilis quam voluntas: tamen quo ad actum naturaliter erat voluntatis appetitus sic ordi- 
+       <lb ed="#B" n="21"/>natus vt semper suo imperio praeueniret sensibile. &amp; erat appetitus sensibilis sic ordinatus: quod quamquam ex se 
+       <lb ed="#B" n="22"/>esset ad vnum determinatus: tamen omnino natus esset obedire imperio voluntatis, &amp; moueri secundum ipsam:  
+       <lb ed="#B" n="23"/>etiam contra id quod quantum est ex se naturaliter appeteret: ita quod in actu nullo modo contrariaretur ap- 
+       <lb ed="#B" n="24"/>petitus sensibilis rationi plus quam voluntas. Quia etiam nec posset contrariari nisi prius rationi contrariante 
+       <lb ed="#B" n="25"/>voluntate, etiam ipsa sensualitate sequente in hoc imperium voluntatis, &amp; quod modo possit sensualitas contra 
+       <lb ed="#B" n="26"/>riari &amp; rationi &amp; voluntati simul: hoc est ei accidentale &amp; poenale, inflictum propter peccatum in natura 
+       <lb ed="#B" n="27"/>destituta per peccatum. Vnde vt dicit <name ref="#Augustine">Augustinus</name> de verbis Apostoli sermo. xi. lpse qui hominem crea- 
+       <lb ed="#B" n="28"/>uit, carnem animae subdidit, animam sibi. Si semper illa staret sub domino suo, semper &amp; ista obediret domi 
+       <lb ed="#B" n="29"/>nae suae. Noli ergo mirari si quae deseruit superiorem, poenas patitur per inferiorem. Caro enim concupiscit 
+       <lb ed="#B" n="30"/>aduersus spiritum. Vbi aperte sumit carnem pto tota sensualitate: animam vero pro tota rationali sub 
+       <lb ed="#B" n="31"/>stantia. Statum illum priorem humanae naturae non vidit philosophus: quia ex puris naturalibus videri non potuit: 
+       <lb ed="#B" n="32"/>nec de humana natura secundum illum statum in dictis suis pluribus intelligi debet. Vnde ad istum  
+       <lb ed="#B" n="33"/>statum aspiciendo: dico quod ratio dominatur irascibili &amp; concupiscibili non politico principatu, in quo  
+       <lb ed="#B" n="34"/>subiectum potest aliquo modo superiori contradicere: sed magis despotico: in quo nullo modo po- 
+       <lb ed="#B" n="35"/>test subiectum contradicere secundum actum superiori: sicut dominatur &amp; corpori. Propter quod quantum  
+       <lb ed="#B" n="36"/>est ex parte naturae hominis secundum istum statum ordo qui proprius est despotico principatui, id est 
+       <lb ed="#B" n="37"/>domini ad seruum, debet attribui rationi &amp; sensibili appetitui: &amp; est ille quem describit <name ref="#Aristotle">philosophus</name> in primo 
+       <lb ed="#B" n="38"/>politicae: vbi quaerit vtrum virtus sit aliqua seruo, puta temperantia, fortitudo, &amp; iustitia. Et respon- 
+       <lb ed="#B" n="39"/>det quod sic: sed differenter quam in domino, dicens. Si princeps non erit sobrius &amp; iustus, quomodo prin- 
+       <lb ed="#B" n="40"/>cipabitur bene: Si vero subiectus, quomodo subiicietur bene: Igitur necesse est vtrosque participare 
+       <lb ed="#B" n="41"/>virtute, licet non eodem modo: sed quantum vnicuique ad suiipsius opus. Propter quod principem quidem per- 
+       <lb ed="#B" n="42"/>fectum oportet habere moralem virtutem: aliorum autem vnumquodque quantum immittit ipsis. Secundum statum 
+       <lb ed="#B" n="43"/>vero naturae lapsae contrariatur appetitus appetitui, &amp; appetitus rationi. &amp; hoc in poenam peccati: in  
+       <lb ed="#B" n="44"/>quo adhuc amplius virtute indiget appetitus sensibilis quam in statu naturae institutae. Sicut &amp; magis 
+       <lb ed="#B" n="45"/>indiget voluntas propter maiorem ad malum pronitatem, &amp; contrarietatis ad rationem. ita quod non solum opor 
+       <lb ed="#B" n="46"/>tet ponere virtutem in sensibili propter rebellionem ad rationem: immo ad prompte sequendum in suo sta 
+       <lb ed="#B" n="47"/>tu rationem, vt dictum est. Propter quod oportet virtutem principatus ponere in voluntate: &amp; propter suam 
+       <lb ed="#B" n="48"/>indeterminationem naturalem, &amp; propter suam poenalem ad vitium inclinationem etiam in regeneratis, &amp; pro  
+       <lb ed="#B" n="49"/>pter virium inferiorum regimen. Vnde <name ref="#Aristotle">philosophus</name> ad hunc statum respiciens, quia alium non nouit: posuit hunc esse 
+       <lb ed="#B" n="50"/>homini naturalem, &amp; posuit rationalis ad irrationale principatum politicum: cum tamen quantum est ex per- 
+       <lb ed="#B" n="51"/>te naturae institutae proprie sit seruilis siue despoticus: et ideo principaliter siue naturaliter despoti- 
+       <lb ed="#B" n="52"/>cus non politicus, quoniam vt dicit <name ref="#Aristotle">philosophus</name> ibidem, Oportet autem attendere ex secundum naturam habentibus 
+       <lb ed="#B" n="53"/>magis quod natura, &amp; non in corruptis: propter quod &amp; optime despoticum, &amp; secundum corpus &amp; secundum ani  
+       <lb ed="#B" n="54"/>mam hominem considerandum: in quo hoc palam. Pestilentium enim &amp; praue se habentium videbitur princi- 
+       <!--323.xml-->
+       <pb ed="#B" n="141-v"/>
+        <lb ed="#B" n="1"/>pari multotiens corpus animae propter praue &amp; praeter naturam se habere. Reuera sic modo est de 
+       <lb ed="#B" n="2"/>rationali &amp; sensibili: quod multotiens principatur rationi, aut omnino contrariatur quocumque modo in  
+       <lb ed="#B" n="3"/>suo actum. Hoc non contingit nisi propter praue &amp; praeter naturam institutam se habere: quid ipse non vidit: &amp; 
+       <lb ed="#B" n="4"/>ideo principatum politicum naturaliter inter eos posuit: credens correptionem esse ex ratione naturae: quid  
+       <lb ed="#B" n="5"/>falsum est. Breuiter ergo in summa dicimus: quod virtutes morales per essentiam sunt in volunta- 
+       <lb ed="#B" n="6"/>te: sicut in eo quid est rationale per essentiam, quoquo modo: in irascibili &amp; concupiscibili per quandam  
+       <lb ed="#B" n="7"/>participationem secundum modum quo sunt participantes ratione, vt dictum est. Quia si virtus debeat dici &amp; 
+       <lb ed="#B" n="8"/>habitus, in irascibili &amp; concupiscibili est omnino aliud genus virtutis quam est in voluntate: per correspon 
+       <lb ed="#B" n="9"/>dentiam tamen se habens ad illud, quemadmodum aliud genus virtutis est virtus quae est in seruo, ab  
+       <lb ed="#B" n="10"/>illa quae est in domino. secundum quod determinat <name ref="#Aristotle">philosophus</name> in primo Politicae. &amp; multo magis quam seruus: in  
+       <lb ed="#B" n="11"/>quantum, sicut dicit, homo est communicans ratione scilicet per essentiam, quod non facit irascibile vel concu- 
+       <lb ed="#B" n="12"/>piscibile. 
+      </p>
+      <p xml:id="n3av8a-c1e1569-d1e1024">
+       PER iam dicta patent obiecta vtriusque.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

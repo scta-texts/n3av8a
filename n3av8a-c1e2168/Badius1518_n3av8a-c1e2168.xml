@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 30</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 30</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="209-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2168">
+       <head xml:id="n3av8a-c1e2168-Hd1e96">Quaestio 30</head>
+       <p xml:id="n3av8a-c1e2168-d1e99">
+        <lb ed="#B" n="4"/>Quaestio. xxx.<!-- why is this here as header -->
+       <lb ed="#B" n="5"/>Irca secundum arguitur quod licet dimittere diuitias sub proposito mendicandi in  
+       <lb ed="#B" n="6"/>saeculo, quinia dominus sollicitus est de egenis. in psalmo. Ego sum mendicus &amp; pau- 
+       <lb ed="#B" n="7"/>per: dominus autem sollicitus est mei. Sed licet hominem se committere diuinae  
+       <lb ed="#B" n="8"/>sollicitudini. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2168-d1e115">
+       CONtra. talis multis periculis se exponit quod non licet. Dl 
+       <lb ed="#B" n="9"/>cendum quod duo tangit quaestio. Vnum an liceat dimittere diuitias. Alterum est, an di  
+       <lb ed="#B" n="10"/>missis diuitiis liceat mendicare. Nisi enim vtrumque in se licitum esset, diuitias di-  
+       <lb ed="#B" n="11"/>mittere intentione mendicandi non liceret. 
+      </p>
+      <p xml:id="n3av8a-c1e2168-d1e124">
+       CIRca primum sciendum: quod possidens diuitias aut pos i 
+       <lb ed="#B" n="12"/>sidet eas sicut persona publica: qui habet aliis necessaria ministrare: aut sicut persona priuata. Pri- 
+       <lb ed="#B" n="13"/>mo modo praelatis simpliciter non licet diuitias ecclesiae dimittere eas alienando. Et ideo neque hoc 
+       <lb ed="#B" n="14"/>licet eis intentione mendicandi vt quod ipsi &amp; alii ministri ecclesiae mendicent. Sic etiam non licet eas 
+       <lb ed="#B" n="15"/>dimittere virum politicum habentem vxorem &amp; filios, vt se &amp; ipsos simul mendicare compellat. de 
+       <lb ed="#B" n="16"/>bent enim secundum apostolum parentes thesaurizcare filiis. Si vero sit persona priuata, sic simpli 
+       <lb ed="#B" n="17"/>citer licitum est cuique dimittere diuitias: dum tamen ex hoc in talem egestatem non se ponat vt 
+       <lb ed="#B" n="18"/>eum mori aut summam egestatem pati necesse sit. In eis enim quae sunt necessaria ad competentem 
+       <lb ed="#B" n="19"/>victum tenetur quilibet sibi licite prouidere. 
+      </p>
+      <p xml:id="n3av8a-c1e2168-d1e144">
+       CIRca secundum sciendum quod aut verisimile est ex. B 
+       <lb ed="#B" n="20"/>ponenti se mendicationi quod mendicando non sibi prouideatur de necessariis vitae: aut verisimile est ei 
+       <lb ed="#B" n="21"/>quod sic. Si primo modo, sic non licet habere intentionem mendicandi sicut non licet se exponere pericu 
+       <lb ed="#B" n="22"/>lo necessitatis. Si vero sit verisimile quod mendicando sibi de necessariis prouideatur ab aliis: aut ergo vt 
+       <lb ed="#B" n="23"/>risimile est tali quod maiorem oporteret eum habere sollicitudinem &amp; distractionem in mendicitate 
+       <lb ed="#B" n="24"/>petendo aliena, aut non. Primo modo non licet: quia praua est intentio qua quis sollicitudinem &amp; 
+       <lb ed="#B" n="25"/>distractionem habere quaerit. Ad hoc enim sunt diuitiae &amp; vniuersaliter bona temporalia vt neces- 
+       <lb ed="#B" n="26"/>sitatem suppleant: &amp; ad opera virtutum nos expediant. Vnde sunt pro tanto dimittenda pro quan-  
+       <lb ed="#B" n="27"/>to nos impediunt vel nimia sollicitudine vel nimia affectione vel aliquo huiusmodi circa eas. &amp; quo ad  
+       <lb ed="#B" n="28"/>hoc laudabilis est paupertas. Si vero verisimile est quod dimittendo diuitias minorem sollicitudi- 
+       <lb ed="#B" n="29"/>nem habeat in sibi necessaria mendicando quam propria conseruando: aut ergo in aliquo ea quae ab  
+       <lb ed="#B" n="30"/>aliis in sui sustentationem recipit mendicando eis recompensat, aut non. Si non, illud non licet. 
+       <lb ed="#B" n="31"/>Talis enim non est bona mendicitas: quia non est vt quis magis proficiat, sed vt otio vacet. Si enim 
+       <lb ed="#B" n="32"/>illam intenderet vt proficeret, proficiendo in doctrina vel orationibus plus valeret aliis spirituali- 
+       <lb ed="#B" n="33"/>ter quam ipsi sibi temporaliter. Vnde in solo casu quo verisimile est intendenti mendicare siue in sae- 
+       <lb ed="#B" n="34"/>culo siue in religione, super quo nihil ad praesens puto distinguendum, quod sibi mendicando proui- 
+       <lb ed="#B" n="35"/>deatur de necessariis vitae: &amp; hoc cum minori sollicitudine quam propria custodiendo: &amp; cum hoc 
+       <lb ed="#B" n="36"/>quod in aliquo eis a quibus temporalia recipit recompenset: licitum est sua dimittere intentione  
+       <lb ed="#B" n="37"/>mendicandi. Vnde <name ref="#Augustine">Augustinus</name> de opere monachorum capitulo decimoquinto. Propter occupa 
+       <lb ed="#B" n="38"/>tiones seruorum dei vel infirmitates corporales non solum permittit apostolus sanctorum indi-  
+       <lb ed="#B" n="39"/>gentias suppleri a bonis fidelibus: sed etiam saluberrime hortatur. Et ne aliquis diceret: Verum e 
+       <lb ed="#B" n="40"/>est de praelatis ecclesiae &amp; sacramentorum ministris: in quibus accipere ab aliis est potestas non mendicitas: non 
+       <lb ed="#B" n="41"/>autem de aliis, in quibus accipere est mendicitas non potestas: continuo subdit dicens. Excepta enim illa potesta 
+       <lb ed="#B" n="42"/>te quae se dicit ipse non vsum cui tamen seruiendum esse a fidelibus praecepit: etiam sanctis qui omnia sua vendita distri- 
+       <lb ed="#B" n="43"/>buerant ab ecclesiis gentium necessaria conferri praecepit &amp; hortatur. &amp; capitu. decimoseptimo. Non cessa- 
+       <lb ed="#B" n="44"/>uit apostolus immo spiritus dei possidens &amp; implens &amp; agens cor eius exhortari fideles qui ha-  
+       <lb ed="#B" n="45"/>berent huius mundi substantiam vt nihil deesset necessitatibus seruorum dei qui celsiorem sanctitatis gra- 
+       <lb ed="#B" n="46"/>dum in ecclesia tenere voluerint: vt spei saecularis vincula cuncta praeciderent &amp; animum diuinae  
+       <lb ed="#B" n="47"/>militiae libere dedicarent. Coniungendo ergo membra, in quo scilicet licitum est diuitias di-  
+       <lb ed="#B" n="48"/>mittere, &amp; in quo licitum est mendicare: dico quod licitum est diuitias dimittere intentione mendican- 
+       <lb ed="#B" n="49"/>di: iuxta illud quod dicit <name ref="#Augustine">Augustinus</name> de ecclesi. dogmatibus. xxxvii. Bonum est facultates cum dispensa- 
+       <lb ed="#B" n="50"/>tione pauperibus erogare: melius est pro intentione sequendi dominum semel donare &amp; absolutum sol 
+       <lb ed="#B" n="51"/>licitudine cum Christo egere. 
+      </p>
+      <p xml:id="n3av8a-c1e2168-d1e223">
+       DE tali ergo processit prima obiectio. Talis enim qui habet has duas  
+       <!--458.xml-->
+       <pb ed="#B" n="209-r"/>
+        <lb ed="#B" n="1"/>conditiones: quod scilicet omnia donat: &amp; hoc intentione sequendi dominum non otiandi, vt proficiendo  
+       <lb ed="#B" n="2"/>recom penset in bonis spiritalibus bona temporalia quae mendicat: &amp; quod per hoc ab omni sollicitudine absoluitur, &amp; 
+       <lb ed="#B" n="3"/>non maiori fatue implicatur: ad curam dei pertinet specialiter. Ad secundum: quod talis se multis periculis ex- 
+       <lb ed="#B" n="4"/>ponit: dicendum quod hoc non est verum, dum tamen cor in deum habeat fixum: &amp; cum discretione hoc agat 
+       <lb ed="#B" n="5"/>&amp; adsint aliae conditiones praetactae.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

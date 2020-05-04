@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5273">
+       <head xml:id="n3av8a-c1e5273-Hd1e96">Quaestio 16</head>
+       <p xml:id="n3av8a-c1e5273-d1e99">
+        <lb ed="#B" n="5"/>CIrca quartum arguebatur quod sacerdos non potest accipere a iudaeis aliquid pro iure parochiae 
+       <lb ed="#B" n="6"/>suae in qua manent: quia illis non ministrat spiritualia: &amp; non sunt a sacerdotibus de 
+       <lb ed="#B" n="7"/>iure accipienda a populo temporalia nisi quia ministrant eis spiritalia: vt. i. Corin. ix. dicitur 
+       <lb ed="#B" n="8"/>ergo &amp;c. Item Iudaei nihil habent nisi de vsura, quod est restituendum: quod nulli licet accipere 
+       <lb ed="#B" n="9"/>nisi ad restituendum. ergo &amp;c. Contra. ita ordinatum est in quibusdam parochiis quod sacerdo  
+       <lb ed="#B" n="10"/>tes annuos redditus habent de singulis hospitiis existentibus in suis parochiis: sed hoc non 
+       <lb ed="#B" n="11"/>est nisi ratione inhabitationis: quare cum iudaei illa inhabitent, ab illis potest accipere pro iure parochiae. Di- 
+       <lb ed="#B" n="12"/>co quod Iudaei &amp; caeteri vsurarii nihil habentes nisi de vsura, quod est restituendum, nihil possunt dare ne 
+       <lb ed="#B" n="13"/>que alienare per quod eorum conditio de restituendi potestate fiat deterior: neque etiam potest quid recipi ab  
+       <lb ed="#B" n="14"/>eis vel dono vel per exactionem quancumque nisi ea intentione vt acceptum restituatur, vel pro labore quo agitur 
+       <lb ed="#B" n="15"/>negotium eorum quibus restituendum est: vt videlicet ab illis fiat restitutio: neque etiam contractus potest fie- 
+       <lb ed="#B" n="16"/>ri omnino cum eis quibus impotentiores fiunt ad restituendum, nisi forte pro necessitate extrema victus &amp; vestitus. 
+       <lb ed="#B" n="17"/>Si ergo domus existentes in parochia sint sacerdoti ad certos redditus obligatae: secundum quod dicit &amp; suppo- 
+       <lb ed="#B" n="18"/>nit vltima ratio: Dico quod debitum reale est: nec obligatur inquilinus nisi de ratione domus: quare cum nihil 
+       <lb ed="#B" n="19"/>habeat iudaeus inhabitans quid soluere possit de suo, inanis esset obligatio qua talis inquilinus obligaretur 
+       <lb ed="#B" n="20"/>pro domo, &amp; inanis esset actio contra illum quem imopia excusaret. Et sic dico quod licet teneretur sacerdoti quia  
+       <lb ed="#B" n="21"/>inquilinus: cum tamen non habeat de suo vnde soluat: &amp; de alieno quod habet non potest soluere: quaere nec ille recipere vt 
+       <lb ed="#B" n="22"/>dictum est: sed manere debet inanis obligatio: aut ergo sacerdotes non debent permittere quod Iudaeis locentur 
+       <lb ed="#B" n="23"/>domus tales in suis parochiis: aut si ipsis inuitis locentur, debent petere iura sua a locatoribus quorum  
+       <lb ed="#B" n="24"/>sunt domus: aut manus ponere per publicam iustitiam ad ipsas domus quae eis sunt obligatae: sed a dictis Iudaeis 
+       <lb ed="#B" n="25"/>nihil possunt recipere sicut dictum est: &amp; vt procedit secunda ratio: quae concedenda est. Ad primum and oppo 
+       <lb ed="#B" n="26"/>situm quod sacerdos non potest recipere a Iudaeo temporale: quia non ministrat ei spirituale: dico quod immo si haberet 
+       <lb ed="#B" n="27"/>aliquid de suo: &amp; hoc, quia non est debitum personale sed reale: vt dictum est, nunc autem quando propter spiritalia quae semi- 
+       <lb ed="#B" n="28"/>nantur, metuntur temporalia, hoc est ratione debiti personalis. Ad vltimum patet per iam dicta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

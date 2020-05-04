@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 31</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 31</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="251-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e408">
+       <head xml:id="n3av8a-d1e408-Hd1e96">Quaestio 31</head>
+       <p xml:id="n3av8a-d1e408-d1e99">
+        <lb ed="#B" n="47"/>SEquuntur quaesita pertinentia ad hominem in statu peccati. Quorum primum erat: vtrum licitum sit 
+       <lb ed="#B" n="48"/>communicare peccatoribus. Secundum: vtrum primi motus sint peccatam. Et tertium ad istum articulum per- 
+       <lb ed="#B" n="49"/>tinens posset esse quaesitum in praecedenti quaestione: sed non est vis in hoc. 
+      </p>
+      <p xml:id="n3av8a-d1e408-d1e108">
+       CIRca primum ar- 
+       <lb ed="#B" n="50"/>guitur quod non: quia die primae Corim. v. Si is qui frater nominatur inter vos est fornicator, 
+       <lb ed="#B" n="51"/>aut auarus &amp;c. &amp; sequitur. cum huiusmodi nec cibum sumere. 
+      </p>
+      <p xml:id="n3av8a-d1e408-d1e115">
+       CONTRA. Chri 
+       <lb ed="#B" n="52"/>stus communicauit cum peccatoribus: cuius actio esse debet nra instructio. Dicendum ad hoc:  
+       <lb ed="#B" n="53"/>quod communicare cum peccatoribus contingit aliquem vel in crimine in quo peccatores 
+       <lb ed="#B" n="54"/>sunt: vel in aliis actibus impertinentibus ad ipsorum peccata. Primo modo non licet communicare eis vllo mo- 
+       <lb ed="#B" n="55"/>do, neque auxilio, neque consilio, neque fauore, neque defensione, neque quocumque alio modo Secundo modo subdistinguen- 
+       <!--543.xml-->
+       <pb ed="#B" n="251-v"/>
+        <lb ed="#B" n="1"/>dum, quia aut potest communicare aliquid cum illis sine scandalo: vel non sine scandalo. Si secundo modo: non est eis communican- 
+       <lb ed="#B" n="2"/>dum: quia non licet: maxime dum sunt a communione exclusi per interdictum, aut excommunicationem. Si primo modo 
+       <lb ed="#B" n="3"/>in actibus ex quibus nullo modo haberent occasionem perseuerandi in suis peccatis, licet, maxime in illis qui  
+       <lb ed="#B" n="4"/>dant eis occasionem resiliendi a peccatis. In aliis autem non licet omnino. Et patent membra ex se: neque  
+       <lb ed="#B" n="5"/>oportet declarare. 
+      </p>
+      <p xml:id="n3av8a-d1e408-d1e141">
+       PER haec patent obiecta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

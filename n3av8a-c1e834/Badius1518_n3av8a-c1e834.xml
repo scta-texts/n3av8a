@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 14</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 14</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="39-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e834">
+      <head xml:id="n3av8a-c1e834-Hd1e96">Quaestio 14</head>
+      <p xml:id="n3av8a-c1e834-d1e99">
+       <lb ed="#B" n="11"/>CIrca secundum arguitur: quod perfectior est religio viuentium in magna focietate, quia par  
+       <lb ed="#B" n="12"/>fectior est illa religio in qua perfectius habetur societas Christi. haec est illa quae est in vita communi 
+       <lb ed="#B" n="13"/>cum multis. secundum illud quod Christus dixit. Vbi duo vel tres congregati sunt in nomine 
+       <lb ed="#B" n="14"/>meo, ego in medio eorum sum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e834-d1e110">
+       IN contrarium dicebat, quod <name ref="#Augustine">Augustinus</name> dicit il- 
+       <lb ed="#B" n="15"/>los sanctiores, qui ab aspectu hominium separati, vt liberius oroni &amp; contemplationi vacent, nulli 
+       <lb ed="#B" n="16"/>suum praebet aspectum. Isti autem sunt religiosi solitarii. ergo &amp;c. Item consideratio philosophi in Topicis 
+       <lb ed="#B" n="17"/>est. si optimum in hoc genere est melius optimo in illo: ergo hoc simpliciter melius est. 
+       <lb ed="#B" n="18"/>sed optimus in solitariis melior est optimo in aliis: quia dicit <name ref="#Aristotle">philosophus</name> in primo Politicae. Homo solita- 
+       <lb ed="#B" n="19"/>rius, aut deus &amp; melior quam homo, aut bestia &amp; pessimus. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e834-d1e130">
+       QVlA quaestio ista est de reli- 
+       <lb ed="#B" n="20"/>gionum perfectione, videndum est primo quid sit religio, &amp; quid perfectio: vt ex his duobus appareat quo  
+       <lb ed="#B" n="21"/>modo perfecta dicatur religio: &amp; quae perfectior. Religio est modus quidam &amp; ordo viuendi sub certae regulae 
+       <lb ed="#B" n="22"/>professione &amp; alicuius superioris regimine. Vnde dicitur religio quasi quaedam religatio superiori per obedientiam: &amp; 
+       <lb ed="#B" n="23"/>deo per vitae obseruantiam. 
+      </p>
+      <p xml:id="n3av8a-c1e834-d1e141">
+       DE perfectione dicit Cassianus in collationibus patrum, collatione prima. Apostolus 
+       <lb ed="#B" n="24"/>inquit. <quote xml:id="n3av8a-c1e834-Qd1e145" source="http://scta.info/resource/Icor13_3">Si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum vt ardeam 
+       <lb ed="#B" n="25"/>charitatem autem non habuero, nihil mihi prodest</quote>. vnde liquido comprobatur quod perfectio non stat in nuditate: nec 
+       <lb ed="#B" n="26"/>priuatione omnium facultatum seu dignitatum abiectione contingit: nisi fuerit charitas illa quae in sola cordis pu- 
+       <lb ed="#B" n="27"/>ritate consistit. ipsa enim secundum Aposto. est vinculum perfectionis. pro hac solitudo sectanda est: pro hac ieiu-  
+       <lb ed="#B" n="28"/>nia &amp; vigilias &amp; labores debere nos suscipere nouerimus: insuper &amp; vincula &amp; carceres, &amp; deinde 
+       <lb ed="#B" n="29"/>si opus est mortis subire supplicium, vti scilicet per illa ab vniuersis passionibus noxiis illaesum pa- 
+       <lb ed="#B" n="30"/>rare cor nostrum &amp; conseruare possimus: &amp; ad perfectionem charitatis istis gradibus conscende- 
+       <lb ed="#B" n="31"/>re. Igitur ieiunia, vigiliae, meditatio scripturarum, nuditas ac priuatio omnium facultatum, &amp; caetera 
+       <lb ed="#B" n="32"/>huiusmodi, non perfectio, sed perfectionis instrumenta sunt: quia non in ipsis consistit illius finis: sed per illa per  
+       <lb ed="#B" n="33"/>uenitur ad finem. Incassum igitur haec exercitia molietur quisque his velut summo bono contentus: ha 
+       <lb ed="#B" n="34"/>bens quoque disciplinae illius instrumenta: finem vero in quo eius fructus consistit, ignorans. Qui autem  
+       <lb ed="#B" n="35"/>secundum huius disciplinae finem omnes vitae suae actus dirigit: &amp; secundum tale genus vitae in quadam prae- 
+       <lb ed="#B" n="36"/>rogatiua regulas disciplinae huius custodit, de hoc dicimus quod in statu perfectionis sit. Qui duplex 
+       <lb ed="#B" n="37"/>est: secundum quod homo dupliciter iuxta regulas illius disciplinae viuit. Est enim quidam status perfe- 
+       <lb ed="#B" n="38"/>ctionis acquirendae: quidam vero persectionis exercendae. In primo enim homo per opera virtutis ad per  
+       <lb ed="#B" n="39"/>fectionis habitum tendit. In secundo vero ex habitu perfectionis acquisito qui homini in vita ista compe 
+       <lb ed="#B" n="40"/>tit, iam opus perfectum agit. De quorum statuum comparatione nihil ad praesens. Est autem status religionis siue 
+       <lb ed="#B" n="41"/>perfectionis acquirendae, qui institutus est ad rudes animos, etiam a saecularibus actibus translatos, omnino ad manda 
+       <lb ed="#B" n="42"/>torum dei, &amp; moralium institutionum obseruantias inexercitatos erudiendum per instrumenta virtutum sub 
+       <lb ed="#B" n="43"/>certae perfectionis regula. Status vero perfectionis exercendae duplex est: secundum quod duplex est genus vitae 
+       <lb ed="#B" n="44"/>et duplex opus perfectionis in illis exercitae: opus scilicet vitae actiuae &amp; contemplatiuae. Status per 
+       <lb ed="#B" n="45"/>fectionis exercendae vitae actiuae, praelatorum est in publico conuersantium. Status vero perfectionis vitae conten- 
+       <lb ed="#B" n="46"/>platiuae, Anachoritarum est in solitudie degentium. de quorum operatione nihil ad praesens. Sed statum anachorita 
+       <lb ed="#B" n="47"/>rum &amp; religiosorum videtur tangere quaestio: sed non tangit vt mihi videtur. Statum enim anachoritarum sta- 
+       <lb ed="#B" n="48"/>tum religionis non reputo, quamuis religiosi viri sint anachoritae, sicut nec statum praelatorum, licet 
+       <lb ed="#B" n="49"/>praelati possint esse viri religiosi. Anachoritae enim sunt qui in religione, vel alibi religiose viuendo  
+       <lb ed="#B" n="50"/>iam perfecti facti sunt: &amp; instinctu spiritus sancti dimissa fratrum &amp; humanae societatis congrega- 
+       <lb ed="#B" n="51"/>tione ad arctissimae solitudinis secretum conuolant: &amp; ab humano confortio quantum vita mortalis patitur se 
+       <lb ed="#B" n="52"/>se sequestrant: vt liberius deo orationibus &amp; deuotionibus vacent. qui nulli religioni inquantum tales 
+       <lb ed="#B" n="53"/>sunt specialiter astricti: sed tamquam onagri in montibus liberi: &amp; viri iusti, quibus non est lex posita, spiritus 
+       <lb ed="#B" n="54"/>sancti ductu reguntur. quia secundum Aposto. vbi spiritus domini ibi libertas. &amp; Galicoe. quinto. Si spiritu ducimini. 
+       <!--118.xml-->
+       <pb ed="#B" n="39-r"/>
+       <lb ed="#B" n="1"/>non estis sub lege. Vnde btuns Benedictus in principio regulae suae distinguens monachos coenobitas, quorum  
+       <lb ed="#B" n="2"/>nomine omnes religiosi ex statu religionis intelliguntur, ab anachoritis, dicit quod primum genus monachorum sci- 
+       <lb ed="#B" n="3"/>licet coenobitarum, hoc est monasteriale militans sub regula vel abbate. Deinde secundum genus est anacho-  
+       <lb ed="#B" n="4"/>ritarum: horum scilicet qui iam non conuersationis feruore nouitio, sed monasterii probatione diuturna didicert 
+       <lb ed="#B" n="5"/>contra diabolum multorum solatio iam docti pugnare, &amp; bene instructi fraterna ex acie ad singularem pu- 
+       <lb ed="#B" n="6"/>gnam, eremi securi iam fine consolatione alterius sola manu vel brachio contra vitia carnis, vel cogita 
+       <lb ed="#B" n="7"/>tionum deo auxiliante sufficiunt pugnare. Vnde anachoritae inquantum huiusmodi omnino status alterius sunt quam  
+       <lb ed="#B" n="8"/>coenobitae &amp; religiosi ex statu. Et ideo btiuns Besedictus statum anachoritarum omittendum dicit, cum de statu  
+       <lb ed="#B" n="9"/>coenobitarum intendit prosequi. Vnde si aliqui in modicis congregationibus viuentes sub regula &amp; abbate  
+       <lb ed="#B" n="10"/>viuunt: inquantum huiusmodi, non anachoritae sunt: sed coenobitae: licet quandoque in aliquo conveniunt cum statu anacho 
+       <lb ed="#B" n="11"/>ritarum. bene ei praesent status perfectionis exercendae mixti esse cum statibus perfectionis acquirendae: &amp; secundum hoc religio 
+       <lb ed="#B" n="12"/>vna perfectior esse altera, vt alias poterit exponi. sed sufficit nobis ad philosenus quod anachoritae inquantum huiusmodi  
+       <lb ed="#B" n="13"/>non praesent dici ex genere status coenobitae siue religiosi. propter quid status anachoritarum ad istam quaestionem non perti 
+       <lb ed="#B" n="14"/>net: quae est de perfectione religiosorum inquantum sunt in statu religionis, siue alicuius religationis. Anachoresis 
+       <lb ed="#B" n="15"/>enim religio dici non potest: licet forte aliquid maius. Vt enim patet ex dicto verbo beati Benedicti, ad sta- 
+       <lb ed="#B" n="16"/>tum anachoritarum nullus idoneus est nisi qui super caeteros in statu religionis coenobitae iam perfectus est. 
+       <lb ed="#B" n="17"/>Hic dicit Hieronymus in epistola ad Rusticum. Nunc monachi cunabula moresque discutimus, qui  
+       <lb ed="#B" n="18"/>in adolescentia sua iugum Christi collo suo imposuit: primumque tractandum est an solus, an cum aliis in  
+       <lb ed="#B" n="19"/>monasterio viuere debeas. Mihi placet vt habeas sanctum conturbernium: nec ipse te doceas, &amp; absque  
+       <lb ed="#B" n="20"/>doctore ingrediaris viam quam nunquam ingressus es: statimque ad alteram partem declinandum sit: &amp; errorem pa- 
+       <lb ed="#B" n="21"/>tiaris. In solitudine statim subrepit superbia: etiam si parumper ieiunauerit, hominemque modo viderit, putat se 
+       <lb ed="#B" n="22"/>esse alicuius momenti: omnes inferiores putat. Quid ergo: solitariam vitam reprehendimus: Minime 
+       <lb ed="#B" n="23"/>quippe quam saepe laudamus. sed de iugo monasteriorum huiusmodi volumus egredi milites, quos eremi du 
+       <lb ed="#B" n="24"/>ra rudimenta non terreant, qui specimen conuersationis suae multo tempore dederint, qui omnium fuerint 
+       <lb ed="#B" n="25"/>minimi, vt primi omnium fierent: quorum habitus, sermo, vultus, incessus, doctrina, virtutum est: qui nesciunt por 
+       <lb ed="#B" n="26"/>tenta confingere, vt apud homines miraculum sui faciant: &amp; exinde lucra sectentur. ldem in epistola ad Deme- 
+       <lb ed="#B" n="27"/>triadem. Solet inter plerosque certamen esse vtrum solitarii an cum multis vita sit melior. quarum prior qui  
+       <lb ed="#B" n="28"/>dem praefertur secundae. quoniam vt dicit Cassianus in prologo collati. a coenobiis anachoresis, &amp; ab actiua vi 
+       <lb ed="#B" n="29"/>ta quae in congregationibus exercetur, contemplatio dei maior atque sublimior est. Sed vt continuo 
+       <lb ed="#B" n="30"/>subdit Hieronymus, viris quidem periculosa est: ne abstracti ab hominum frequentia fordidis &amp; impiis 
+       <lb ed="#B" n="31"/>cogitationibus pateant, &amp; pleni arrogantiae &amp; supercilii cunctos despiciant: quanto magis foeminis: qua 
+       <lb ed="#B" n="32"/>rum mutabilis fluctuansque sententia si suo arbitrio relinquatur, cito ad deteriora dilabitur: Vnde Deme- 
+       <lb ed="#B" n="33"/>triadi quae ad talem vitam anhelabat, eam dissuasit, quamquam vt dicit in principio epistolae, puellares animos fidei ardore  
+       <lb ed="#B" n="34"/>superauit: &amp; inde coeperit vbi alias desisse perfecte consummatae virtutis est. Ad quam in fine epistolae dicit 
+       <lb ed="#B" n="35"/>Graues foeminae &amp; maximae viduae ac virgines tibi comites eligantur, quarum probata est conuersatio, sermo 
+       <lb ed="#B" n="36"/>moderatus. Vnde &amp; de perfectione vitae anachoriticae dicit <name ref="#Augustine">Augustinus</name> de moribus ecclesiae. Multi vsqueadeo  
+       <lb ed="#B" n="37"/>dei amore flagrantes, vt eos in summa continentia atque mundi huius incredibili contemptu etiam solitudo de 
+       <lb ed="#B" n="38"/>lectet, quid est quaeso quod vident qui non praesent hominem non diligere: &amp; tamen praesent hominem non videre: profecto quicquidillud  
+       <lb ed="#B" n="39"/>est, praestantius est rebus humanis: cuius contemplatione potest homo sine homine viuere. Quis enim ne 
+       <lb ed="#B" n="40"/>scit summe continentium hominium christianorum multitudinem per totum orbem indies magis magisque diffundi 
+       <lb ed="#B" n="41"/>&amp; in oriente magis atque aegypto: qui secretissimi penitus ab omni hominum aspectu pane solo qui eis 
+       <lb ed="#B" n="42"/>affertur per certa temporum interualla, &amp; aqua contenti desertissimas terras incolunt perfruentes col 
+       <lb ed="#B" n="43"/>loquio dei cui puris mentibus inhaeserunt, &amp; eius pulchritudinis contemplatione beatissimi: quae ni 
+       <lb ed="#B" n="44"/>si sanctorum intellectu percipi potest. videntur nonnullis res humanas plusquam opus deseruisse, non in  
+       <lb ed="#B" n="45"/>telligentibus quantum nobis eorum animus in orationibus prosit: &amp; vita ad exemplum: quorum cor 
+       <lb ed="#B" n="46"/>pora videre non sinimur. Hoc: excellens fastigium sanctitatis cui non sua sponte mirandum &amp; hono 
+       <lb ed="#B" n="47"/>randum videtur, intantum processisse temperantiam &amp; continentiam sanctissimorum catholicae fidei chri 
+       <lb ed="#B" n="48"/>stianorum, vt restringenda nonnullis &amp; quasi ad humanos fines reuocanda videatur, &amp; vsqueadeo 
+       <lb ed="#B" n="49"/>super homines illorum animus euasisse, ab his etiam quibus non displicet, iudicatur. Sed si hoc excedit 
+       <lb ed="#B" n="50"/>nostram tolerantiam, quis non illos miretur &amp;c. De his etiam Hieronymus in epistola ad Eusto- 
+       <lb ed="#B" n="51"/>chium virginem, vbi distinguit tria genera monachorum, sicut distinguit ea beatus Benedictus 
+       <lb ed="#B" n="52"/>in principio regulae suae, dicens. De coenobiis exeuntes excepto pane &amp; sale amplius ad deser 
+       <lb ed="#B" n="53"/>tanihil proferunt. Huius vitae auctor Paulus: illustrator Antonius: &amp; vt ad superiora con- 
+       <lb ed="#B" n="54"/>scendam princeps loannes Baptista fuit. Sic ergo vt patet ex iam inductis auctoritatibus 
+       <!--119.xml-->
+       <pb ed="#B" n="39-v"/>
+       <lb ed="#B" n="1"/>anachorisis est aliud aliquid &amp; maius qualibet coenobitica siue monastica religione viuentium in vita communi.
+      </p>
+      <p xml:id="n3av8a-c1e834-d1e346">
+       <lb ed="#B" n="2"/>ET sic quaestio ista mota inter religiosos viuentes in coenobitica congregatione inquantum huiusmo 
+       <lb ed="#B" n="3"/>di, debet tractari. De quibus potest intelligi dupliciter. Vno modo vt intelligatur religio solitaria viuentium in  
+       <lb ed="#B" n="4"/>nemoribus &amp; locis desertis remotis a conversatione populi. Intelligatur alio modo religio viuentium in 
+       <lb ed="#B" n="5"/>societate magna eorum qui commorantur in ciuitatibus in strepitu populorum. Alio vero modo  
+       <lb ed="#B" n="6"/>vt intelligatur religio solitaria quando est in vno coenobio paucorum congregatio, quae respectu multi 
+       <lb ed="#B" n="7"/>tudinis congregatorum in alio, solitudo appellatur. Et est tunc in isto secundo casu dicendum, quod reli- 
+       <lb ed="#B" n="8"/>gio inquantum religio non est nisi status perfectionis acquirendae: &amp; eorum qui sunt in acquirendo perfecti 
+       <lb ed="#B" n="9"/>onem per exercitium &amp; instrumenta virtutum, &amp; ita tanquam imperfectorum inquantum huiusmodi indigentium fratrum 
+       <lb ed="#B" n="10"/>consolatione &amp; adiutorio, licet forte multi sunt perfecti in eis qui sufficerent ad statum perfectionis exercendae 
+       <lb ed="#B" n="11"/>Quia igitur indigentes adiutorio &amp; consolatione copiosius &amp; facilius &amp; expeditius ea habere possunt in 
+       <lb ed="#B" n="12"/>religione vbi est multorum fratrum congregatio: dico bona, promouens &amp; in nullo distrahens: quam in religione  
+       <lb ed="#B" n="13"/>solitaria vbi est paucorum fratrum congregatio: Dicendum quod quantum est ex dispositione paucitatis siue so 
+       <lb ed="#B" n="14"/>litudinis &amp; multitudinis, quae inquantum huiusmodi solum materialiter faciunt differre religiones vel coenobia 
+       <lb ed="#B" n="15"/>adinuicem, perfectior est religio congregationis multorum fratrum siue comparando inter se diuersa coe 
+       <lb ed="#B" n="16"/>nobia eiusdem generis siue eiusdem modi religionis siue diuersi generis. Forte tamen in religione so 
+       <lb ed="#B" n="17"/>litaria vbi est paucorum fratrum congregatio, potest esse maior perfectio per aliquid aliud reformans 
+       <lb ed="#B" n="18"/>inquantum scilicet religio solitaria quodammo magis communicat cum statu perfectionis exercendae in vita con 
+       <lb ed="#B" n="19"/>templatiua anachoritarum, quam commnicet religio multorum congregatorum, sicut econuerso religio mul- 
+       <lb ed="#B" n="20"/>torum congregatorum potest esse perfectior quam sit aliqua religio solitaria paucorum siue etiam mul- 
+       <lb ed="#B" n="21"/>torum: inquantum ipsa communicat quodammodo cum statu perfectionis exercendae in vita electorum prae- 
+       <lb ed="#B" n="22"/>latorum secundum quod alias potest declarari. Si vero religio solitaria viuentium extra ciuitates in locis deser- 
+       <lb ed="#B" n="23"/>tis siue sint multi fratres siue pauci comparetur ad religionem viuentium in ciuitatibus &amp; tumultu populi 
+       <lb ed="#B" n="24"/>sic cum vt dictum est religio inquantum religio sit status perfectionis acquirendae: &amp; ei semper sit 
+       <lb ed="#B" n="25"/>impedimentum populi saecularis conuersatio: Dico quod religio sic solitaria inquantum est extra ciui 
+       <lb ed="#B" n="26"/>tates &amp; populi tumultum perfectior est illa quae degit in tumultu populi. in hoc enim status religio- 
+       <lb ed="#B" n="27"/>nis inquantum est religio &amp; status perfectionis generandae, non considerata ea vt communicat cum 
+       <lb ed="#B" n="28"/>statu perfectionis exercendae semper tanto est perfectior quanto habet plura, promotiua &amp; pauciora im 
+       <lb ed="#B" n="29"/>peditiua ad perfectionem citius &amp; facilius acquirendam. Vnde dicit beatus <name ref="#Bernard">Bernardus</name> in epistola ad  
+       <lb ed="#B" n="30"/>Suggerium abbatem sancti Dionysii. Claustrum ipsum frequenter stipari militibus, vrgeri negotiis 
+       <lb ed="#B" n="31"/>iurgiis personare, patere interdum &amp; foeminis: quid inter haec caeleste, quid diuinum, quid spiritua 
+       <lb ed="#B" n="32"/>le poterit cogitari: luge quippe silentium &amp; ab omni strepitu saecularium perpetua quies cogit cae- 
+       <lb ed="#B" n="33"/>lestia meditari. Vnde supe illud Canticorum tertio. En lectulum Salomonis. Glo. dum anima a mundi stre- 
+       <lb ed="#B" n="34"/>pitu se diuidit, locum in quo sponsus quiescat in se componit. Idem in epistola ad Henricum Magun 
+       <lb ed="#B" n="35"/>tinum Archiepiscopum. Monachus non docentis, sed plangentis habet officium. Quippe cui op- 
+       <lb ed="#B" n="36"/>pidum carcer esse debet, &amp; solitudo paradisus. &amp; Hieronymus in epistola ad Rusticum. Vnusquis- 
+       <lb ed="#B" n="37"/>quod suo sensu ducitur, mihi oppidum carcer, &amp; solitudo paradisus. Item <name ref="#Bernard">Bernardus</name> ad Henricum Se 
+       <lb ed="#B" n="38"/>nonensem archiepiscopum. Labor &amp; latebrae &amp; voluntaria paupertas: haec sunt monachorum in si 
+       <lb ed="#B" n="39"/>gnia: haec vitam solent nobilitare monasticam. Vnde religio talis solitudinis cum eo quod est perfectior ad  
+       <lb ed="#B" n="40"/>perfectionem generandam, etiam est perfectior inquantum communicat cum statu anachoritarum ad perfectionem 
+       <lb ed="#B" n="41"/>vitae contemplatiuae exercendam. ita quod solum in vnico religio in oppidis &amp; strepitu populi custodita prae 
+       <lb ed="#B" n="42"/>cellit solitariam: si scilicet commonicet in aliquo cum statu praelatorum ad perfectionem vitae actiuae exercen 
+       <lb ed="#B" n="43"/>dam. Difficillimum enim estitalem conseruare vitae tenorem, vt etsi in medio vrbis quis videatur habitare  
+       <lb ed="#B" n="44"/>quasi in eremi quiescat vastitate, &amp; inter solitudines modotium secretaque convallium: sicut de quibusdam di-  
+       <lb ed="#B" n="45"/>cit Chrysostomus super Matthaeum cap. ii. 
+      </p>
+      <p xml:id="n3av8a-c1e834-d1e450">
+       AD primum obiectum quod perfectior est religio multorum  
+       <lb ed="#B" n="46"/>quia in ea perfectius habetur Christi societas: Dicendum quod Christi societas habetur a quocumque intantum  
+       <lb ed="#B" n="47"/>quantum sibi aperuerit ostium cordis per charitatis dilatationem. iuxta illud in loan. Ego sto ad ostium: siquis 
+       <lb ed="#B" n="48"/>mihi aperuerit, intrabo ad illum &amp; coenabo cum illo. Cor autem aperitur Christo per charitatis di  
+       <lb ed="#B" n="49"/>latationem tam erga, proximum in vita actiua, quam erga deum in vita contemplatiua. &amp; ita vtrobique habetur charitas 
+       <lb ed="#B" n="50"/>Christi: &amp; ita vtrobique habetur societas Christi: &amp; etiam in eodem genere vitae siue actiuae, siue contemplati 
+       <lb ed="#B" n="51"/>uae tam in congregatione multorum quam paucorum, siue etiam in contemplatiua omnino solitaria: de cuius comparatione  
+       <lb ed="#B" n="52"/>ad aliam contemplatiuam, siue etiam ad actiuam nihil ad praesens: sed solummo de comperatione actiuae &amp; contemplatiuae 
+       <lb ed="#B" n="53"/>congregatorum in paucitate &amp; multitudine: in quibus fratres per exercitium in campo actionis &amp; opera vir 
+       <lb ed="#B" n="54"/>tutum ostendunt ad gradus contemplationis &amp; ad illos se disponunt, ita quod in illis contemplatio sit principalis intentione 
+       <!--120.xml-->
+       <pb ed="#B" n="40-r"/>
+       <lb ed="#B" n="1"/>etsi quandoque actio sit magis in exercitio. Et quia status perfectionis acquirendae principalius consistit in tendendo ad perfe 
+       <lb ed="#B" n="2"/>ctionem quam vtendo ea, &amp; in tendendo plus adiuuat, vt dictum est, maior fratrum congregatio: idcirco absolute 
+       <lb ed="#B" n="3"/>religio magnae congregationis inquantum religio perfectior est quam solitaria paucorum, vt dictum est. quod &amp; 
+       <lb ed="#B" n="4"/>bene concludit argumentum. Quod tamen status coenobiticus perfectior sit anachoritico, ex hoc concludi non  
+       <lb ed="#B" n="5"/>pont: quia actus solitariae contemplationis ad deum multo amplius potest dilatare cor ad Christum suscipiendum  
+       <lb ed="#B" n="6"/>quam quicumque actus dilectionis ad proximum. 
+      </p>
+      <p xml:id="n3av8a-c1e834-d1e489">
+       ARgumenta duo in oppositum non probant nisi quod solitaria vita 
+       <lb ed="#B" n="7"/>anachoritarum vel solitaria religio paucorum inquantum habet aliquid anachoriticae contemplationis, exercen 
+       <lb ed="#B" n="8"/>do videlicet perfectionem vitae contemplatiuae, perfectior sit religione multorum congregatorum, qui ad exercendum  
+       <lb ed="#B" n="9"/>perfectionem contemplatiuae magis ex confortio impediunt quam promouent propter quid vt dictum est religiosi perfecti 
+       <lb ed="#B" n="10"/>transferunt se ad solitariam vitam: &amp; fiunt anachoritae. Quod forte verum est maxime de religione paucorum habi 
+       <lb ed="#B" n="11"/>tantium in locis secretis quasi eremitae, &amp; indubitanter verum est secundum praedictas auctoritates Hieronymi 
+       <lb ed="#B" n="12"/>sed non determino ad phiaosopnus. Non tamen praesent probare quod religio solitaria paucorum inquantum religio perfectior sit re 
+       <lb ed="#B" n="13"/>ligione plurium congregatorum. Inquantum enim huiusmodi sanctiores sunt &amp; citius acquirentes perfectionem habitantes 
+       <lb ed="#B" n="14"/>cum multis quam cum paucis: &amp; optimus istorum melior est optimo illorum: &amp; citius sit coenobita dispositus in comn- 
+       <lb ed="#B" n="15"/>gregatione multorum, vt sit bonus anachorita: quam in congregatione paucorum inquantum huiusmodi siue in eodem 
+       <lb ed="#B" n="16"/>genere religionis siue in diuersis. Nec etiam praesent argumenta probare, quin religio multorum congregatorum  
+       <lb ed="#B" n="17"/>possit esse multo perfectior: etiam forte vita Anachoritarum: inquantum commnicat quodammo in statu vitae actiuae 
+       <lb ed="#B" n="18"/>vtendae perfectionis praelatorum: vel ad minus quin possit esse multo perfectior qualibet religione alia congre 
+       <lb ed="#B" n="19"/>gatorum citra vitam excellentem anachoritarum. Nec etiam praesent concludere: quin regulariter hominibus a saecula 
+       <lb ed="#B" n="20"/>ri vita recedentibus, &amp; perfectionem sibi acquirere volentibus, multo melior sit &amp; sanctior vita monastica cum 
+       <lb ed="#B" n="21"/>multis quam anachoritica. licet enim fortassis vita anachoritica sit perfectior in se, &amp; disposito ad ipsam: multi 
+       <lb ed="#B" n="22"/>tamen in monastica proficerent propter aliorum societatem qui per se in anachoritica deficerent, &amp; fierent deteriores in vita 
+       <lb ed="#B" n="23"/>anachoritica quam in vita saeculari. Regulare enim est, quod ibi defectus est maior: vbi maior natus est esse profe- 
+       <lb ed="#B" n="24"/>ctus: dicente btamo <name ref="#Augustine">Augustinus</name> in epistola ad Hipponenses. Simpliciter fateor charitati vestrae corandomino deo nno 
+       <lb ed="#B" n="25"/>qui est testis super animam meam: ex quo deo seruire coepi quomodo difficile sum expertus meliores quam qui in mona-  
+       <lb ed="#B" n="26"/>steriis profecerunt: ita non sum expertus peiores quam qui in monasteriis ceciderunt. Vnde propter perfectionem ana  
+       <lb ed="#B" n="27"/>chorisis, dicit <name ref="#Aristotle">philosophus</name> in primo Politicae, vt assumptum erat in argumento, Nullo indigens communicare propter 
+       <lb ed="#B" n="28"/>per se sufficientiam: aut deus est, aut melior quam homo. Vnde regulariter vita anachoritica a nullo imperfecto 
+       <lb ed="#B" n="29"/>aggredienda est: nec ante supplantationem vitiorum in vita monastica cuiquam suadenda: sed tunc demum cum 
+       <lb ed="#B" n="30"/>quisque Iacob illius intelligibile nomen carnalium vitiorum supplantatione promeruerit, diuiae iam puritatis intuitu 
+       <lb ed="#B" n="31"/>ad meritum, &amp; vt ita dixerim dignitatem transeat lsraelis: secundum quod dicit Cassianus in prologo collationum. 
+       <lb ed="#B" n="32"/>Mulieribus autem propter sexus fragilitatem omnino est interdicta: sed confortium coenobiticum eis est suadendum, &amp; po 
+       <lb ed="#B" n="33"/>tius plurimorum quam paucorum: dicente <name ref="#Bernard">Bernardo</name> in epistola ad quandam monialem. Relatum est mihi te quasi aspe- 
+       <lb ed="#B" n="34"/>rioris vitae desiderio tuum monasterium velle deserere: potes in hac re zelum dei habere vt excusabi 
+       <lb ed="#B" n="35"/>lis sit tua intentio: sed quomodo secundum scientiam tua talis voluntas impleatur, omnino non video. Cur inquist  
+       <lb ed="#B" n="36"/>Non est sapere vt opulentiam vt vrbis frequentiam vt piguia fugiam &amp; delitias: an non mea mihi pudicitia 
+       <lb ed="#B" n="37"/>tutior erit in eremo: vbi in pace cum paucis, aut sola conversans soli placeam cui me probaui: Nequaquam 
+       <lb ed="#B" n="38"/>Nam volenti perperam agere: &amp; defectus abundantiam habet: &amp; nemus vmbram. Malum quippe quod  
+       <lb ed="#B" n="39"/>nemo videt nemo arguit. vbi autem non timetur reprehensor, securus accedit tentator, licentius perpetra 
+       <lb ed="#B" n="40"/>tur iniquitas. In conuentu vero bona siqua facis nemo prohibet: malum autem facere si vis non li 
+       <lb ed="#B" n="41"/>cet. Mox enim a pluribus cum percipitur, arguitur, emendatur: sicut econtrario bonum cum vident omnes imitam 
+       <lb ed="#B" n="42"/>tur, mirantur, venerantur. Denique vt ex illa euangelica partitione omnem tibi auferam tui excaecatio 
+       <lb ed="#B" n="43"/>nem erroris, aut de fatuis virginibus vna es ( si tamen virgo es) aut de prudentibus. Si de fatuis, congregatio 
+       <lb ed="#B" n="44"/>tibi necessaria est: si de prudentibus, tu congregationi. Agnosco filia agnosco: vtinam &amp; tu mecum agnoscas 
+       <lb ed="#B" n="45"/>serpentinum virus fraudulenti dolum &amp; versipellis astutiam. Si sola ouicula vmbras nemoris penetras 
+       <lb ed="#B" n="46"/>praeda vis esse lupo. Sed audi me filia, fidele audi consilium, siue peccatrix siue sancta sis noli te sepa 
+       <lb ed="#B" n="47"/>rare a grege: nequando rapiat, &amp; non sit qui eripiat. Sancta es: Stude tuo exemplo tuae socias acquirere 
+       <lb ed="#B" n="48"/>sanctitatis. Peccatrix es: Noli addere peccata peccatis. Nec tamen <name ref="#Bernard">Bernardus</name> per hoc implicat esse in- 
+       <lb ed="#B" n="49"/>possibile mulierem vitam sanctam anachoriticam ducere, qualem duxit illa Aegyptiaca: sed casus est 
+       <lb ed="#B" n="50"/>magis ad admirandum quam ad regulariter imitandum, scilicet qualem recitat Hieronymus in epistola ad Ocea 
+       <lb ed="#B" n="51"/>num. In beatissimi inquit Martini vita legimus: quod transiens sanctus Martinus quandam virginem 
+       <lb ed="#B" n="52"/>moribus &amp; castitate praecelsam cuperet visitare: illa noluit: sed euxenium misit ei, ac per fenestras re 
+       <lb ed="#B" n="53"/>spiciens ait, lbi pater ora: quia a viro nunquam sum visitata. Gratias agit deo beatus Martinus quod tali- 
+       <lb ed="#B" n="54"/>bus imbuta moribus castam custodierit voluntatem: benedixit eam: &amp; abiit laetus. 
+       <!--121.xml-->
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

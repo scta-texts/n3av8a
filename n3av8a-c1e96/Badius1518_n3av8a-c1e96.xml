@@ -1,89 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Quaestio 2 [Badius 1518 Transcription]</title>
-        <author ref="#HenryOfGhent">Henry of Ghent</author>
-        <editor xml:id="JW">Jeffrey C. Witt</editor>
-      </titleStmt>
-      <editionStmt>
-        <edition n="0.0.0-dev">
-          <title>Quaestio 2 [Badius 1518 Transcription]</title>
-          <date when="2019-12-29">December 29, 2019</date>
-        </edition>
-      </editionStmt>
-      <publicationStmt>
-        <authority>SCTA</authority>
-        <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <listWit>
-          <witness xml:id="B" n="Badius1518">Badius 1518</witness>
-        </listWit>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-      <editorialDecl>
-        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
-      </editorialDecl>
-    </encodingDesc>
-    <revisionDesc status="draft">
-      <listChange>
-        <change when="2019-12-29" status="draft" n="0.0.0">
-          <p>Created file for the first time.</p>
-        </change>
-      </listChange>
-    </revisionDesc>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
   </teiHeader>
   <text xml:lang="la">
-    <front>
-      <div xml:id="starts-on">
-        <pb ed="#B" n="42"/>
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e96">
+      <head xml:id="n3av8a-c1e96-Hd1e96">Quaestio 2</head>
+      <p xml:id="n3av8a-c1e96-d1e99">
+       <lb ed="#B" n="10"/>CIrca pertinentia ad primi principii assumptam humanitatem quaerebantur quaedam perrtinentia 
+       <lb ed="#B" n="11"/>ad esse naturale humanitatis assumptae Quaedam vero pertinentia ad eius esse sacramen 
+       <lb ed="#B" n="12"/>tale. Et circa primum illorum duo quaerebantur pertinentia ad statum vitae ipsius: vnum vero 
+       <lb ed="#B" n="13"/>pertinens ad statum mortis eius. 
+      </p>
+      <p xml:id="n3av8a-c1e96-d1e110">
+       CIRca pertinentia ad statum vitae: primum erat. vtrum deus  
+       <lb ed="#B" n="14"/>ab aeterno potuit sibi hominem assumere. 
+      </p>
+      <p xml:id="n3av8a-c1e96-d1e115">
+       SEcundum: vtrum Christus esset homo propter 
+       <lb ed="#B" n="15"/>vnionem animae cum corpore: an propter vnionem amborum in diuino supposito.
+      </p>
+      <p xml:id="n3av8a-c1e96-d1e120">
+       CIRca 
+       <lb ed="#B" n="16"/>primum arguebatur quod deus ab aeterno potuit sibi hominem assumere: quia erat aequalis potentia in deo ad  
+       <lb ed="#B" n="17"/>hominem assumendum ab aeterno, &amp; ab illo instanti quando assumpsit eum. Aequalis autem potentia semper  
+       <lb ed="#B" n="18"/>potest in opus aequale. ergo illa eadem potentia qua deus tunc assumpsit hominem, ab aeterno potuit assumere.
+      </p>
+      <p xml:id="n3av8a-c1e96-d1e130">
+       <lb ed="#B" n="19"/>CONtra. Si deus ab aeterno potuit hominem assumere: homo ab aeterno potuit esse. consequens supponitur esse 
+       <lb ed="#B" n="20"/>falsum, &amp; falsum est, ergo &amp; antecedens.
+      </p>
+      <p xml:id="n3av8a-c1e96-d1e137">
+       SOlutio. Dicendum quod ista dependet ab illa quae infra sequitur.  
+       <lb ed="#B" n="21"/>An deus potuit facere creaturam fuisse sibi coaequaevam. si enim hoc potuit, &amp; hominem quem assumpsit, ab aeterno  
+       <lb ed="#B" n="22"/>fecisse potuit, &amp; sic ab aeterno eum assumpsisse. Si enim ab aeterno creaturam fecisse non potuit: quia assumi non po 
+       <lb ed="#B" n="23"/>tuit, nisi factum &amp; existens: nec ab aeterno hominem assumpsisse potuit. Quia igitur (sicut nos infra dicemus) deus 
+       <lb ed="#B" n="24"/>ab aeterno creaturam fecisse non potuit: dicimus absolute quod deus ab aeterno hominem assumere non potuit: sed  
+       <lb ed="#B" n="25"/>hoc non propter aliquam impotentiam ex parte dei sed solius creaturae, vt ibidem dicetur.
+      </p>
+      <p xml:id="n3av8a-c1e96-d1e150">
+       AD argumentum in opposi 
+       <lb ed="#B" n="26"/>tum, quod aequalis potentiae erat deus ab aeterno ad assumendum hominem sicut quando eum assumpsit: dicendum quod illa deter  
+       <lb ed="#B" n="27"/>minatio ab aeterno potest determinare illud verbum erat, &amp; sic est vera: vel illud gerundiuum assumendum: &amp; 
+       <lb ed="#B" n="28"/>sic est falsa, Deus enim ab aeterno aequalis erat potentiae ad assumendum hominem sicut quando eum assumpsit: quia semper 
+       <lb ed="#B" n="29"/>infinitae potentiae qua eum assumpsit, non tamen erat aequalis potentiae ad hominem assumendum ab aeterno sicut ad eum  
+       <lb ed="#B" n="30"/>assumendum ab illo instanti quando eum assumpsit: quoniam ipse non erat assumptibilis ab aeterno sicut nec erat  
+       <lb ed="#B" n="31"/>factibilis, sed solum erat assumptibilis ex tempore sicut &amp; factibilis. Vnde illud non arguit aliquem defectum po  
+       <lb ed="#B" n="32"/>tentiae ex parte dei sed ex parte creaturae solum.
+      </p>
       </div>
-    </front>
-    <body>
-      <div xml:id="n3av8a-c1e96">
-        <head xml:id="n3av8a-c1e96-Hd1e95">Quaestio 2</head>
-        <p xml:id="n3av8a-c1e96-d1e98">
-          <lb ed="#B1" n="10"/>CIrca pertinentia ad primi principii assumptam humanitatem quaerebantur quaedam perrtinentia 
-          <lb ed="#B1" n="11"/>ad esse naturale humanitatis assumptae Quaedam vero pertinentia ad eius esse sacramen 
-          <lb ed="#B1" n="12"/>tale. Et circa primum illorum duo quaerebantur pertinentia ad statum vitae ipsius: vnum vero 
-          <lb ed="#B1" n="13"/>pertinens ad statum mortis eius. CIRca pertinentia ad statum vitae: primum erat. vtrum deus  
-          <lb ed="#B1" n="14"/>ab aeterno potuit sibi hominem assumere. SEcundum: vtrum Christus esset homo propter 
-          <lb ed="#B1" n="15"/>vnionem animae cum corpore: an propter vnionem amborum in diuino supposito.
-        </p>
-        <p xml:id="n3av8a-c1e96-d1e114">
-          CIRca 
-          <lb ed="#B1" n="16"/>primum arguebatur quod deus ab aeterno potuit sibi hominem assumere: quia erat aequalis potentia in deo ad  
-          <lb ed="#B1" n="17"/>hominem assumendum ab aeterno, &amp; ab illo instanti quando assumpsit eum. Aequalis autem potentia semper  
-          <lb ed="#B1" n="18"/>potest in opus aequale. ergo illa eadem potentia qua deus tunc assumpsit hominem, ab aeterno potuit assumere.
-        </p>
-        <p xml:id="n3av8a-c1e96-d1e123">
-          <lb ed="#B1" n="19"/>CONtra. Si deus ab aeterno potuit hominem assumere: homo ab aeterno potuit esse. consequens supponitur esse 
-          <lb ed="#B1" n="20"/>falsum, &amp; falsum est, ergo &amp; antecedens.
-        </p>
-        <p xml:id="n3av8a-c1e96-d1e130">
-          SOlutio. Dicendum quod ista dependet ab illa quae infra sequitur.  
-          <lb ed="#B1" n="21"/>An deus potuit facere creaturam fuisse sibi coaequaevam. si enim hoc potuit, &amp; hominem quem assumpsit, ab aeterno  
-          <lb ed="#B1" n="22"/>fecisse potuit, &amp; sic ab aeterno eum assumpsisse. Si enim ab aeterno creaturam fecisse non potuit: quia assumi non po 
-          <lb ed="#B1" n="23"/>tuit, nisi factum &amp; existens: nec ab aeterno hominem assumpsisse potuit. Quia igitur (sicut nos infra dicemus) deus 
-          <lb ed="#B1" n="24"/>ab aeterno creaturam fecisse non potuit: dicimus absolute quod deus ab aeterno hominem assumere non potuit: sed  
-          <lb ed="#B1" n="25"/>hoc non propter aliquam impotentiam ex parte dei sed solius creaturae, vt ibidem dicetur.
-        </p>
-        <p xml:id="n3av8a-c1e96-d1e144">
-          AD argumentum in opposi 
-          <lb ed="#B1" n="26"/>tum, quod aequalis potentiae erat deus ab aeterno ad assumendum hominem sicut quando eum assumpsit: dicendum quod illa deter  
-          <lb ed="#B1" n="27"/>minatio ab aeterno potest determinare illud verbum erat, &amp; sic est vera: vel illud gerundiuum assumendum: &amp; 
-          <lb ed="#B1" n="28"/>sic est falsa, Deus enim ab aeterno aequalis erat potentiae ad assumendum hominem sicut quando eum assumpsit: quia semper 
-          <lb ed="#B1" n="29"/>infinitae potentiae qua eum assumpsit, non tamen erat aequalis potentiae ad hominem assumendum ab aeterno sicut ad eum  
-          <lb ed="#B1" n="30"/>assumendum ab illo instanti quando eum assumpsit: quoniam ipse non erat assumptibilis ab aeterno sicut nec erat  
-          <lb ed="#B1" n="31"/>factibilis, sed solum erat assumptibilis ex tempore sicut &amp; factibilis. Vnde illud non arguit aliquem defectum po  
-          <lb ed="#B1" n="32"/>tentiae ex parte dei sed ex parte creaturae solum.
-        </p>
-      </div>
-    </body>
+   </body>
   </text>
 </TEI>

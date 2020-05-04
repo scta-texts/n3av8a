@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="535-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5208">
+       <head xml:id="n3av8a-c1e5208-Hd1e96">Quaestio 11</head>
+       <p xml:id="n3av8a-c1e5208-d1e99">
+        <lb ed="#B" n="46"/>Irca quartum arguitur, scilicet quod ad eliciendum actum voluntatis non sufficit sola ostensio ob- 
+       <lb ed="#B" n="47"/>iecti, sa cum hoc requiritur aliquid aliud voluntati impressum: quia vt videtur simile est de actu intellectus 
+       <lb ed="#B" n="48"/>&amp; actu voluntatis. Ad actum intellectus non sufficit sola praesentia obiecti in lumine intelle 
+       <lb ed="#B" n="49"/>ctus agentis: sed cum hoc requiritur species impressa intellectui possibili ab agente &amp; obiecto. 
+       <lb ed="#B" n="50"/>ergo &amp;c. Item nihil indeterminatum exit in actum, nisi per aliquam determinationem, quia ali 
+       <lb ed="#B" n="51"/>ter non potius exiret quam non exiret voluntas ex se omnino indeterminata ad actum volitionis. 
+       <lb ed="#B" n="52"/>ergo &amp;c. Item idem inconueniens est aliquid moueri a seipso primo secundum totum, &amp; sm idem. sic 
+       <lb ed="#B" n="53"/>scilicet vt vnum &amp; idem secundum rem, secundum vnam rationem moueat se, &amp; secundum aliam moueatur: quia tunc sum idem re: idem 
+       <lb ed="#B" n="54"/>moueret se, &amp; moueretur a se, &amp; sic secundum se totum primo. quare cum illud sit impossibile: quia nihil seipso 
+       <!--1110.xml-->
+       <pb ed="#B" n="535-r"/>
+        <lb ed="#B" n="1"/>vadit de potentia in actum, quia ex eo quod agit, necessario est aliquid in actum, ex eo autem quod agitur, est in po 
+       <lb ed="#B" n="2"/>tentia. ergo &amp;c. Item voluntas vt libera est, in potentia est ad actum suum. si ergo vt est libera sit mo- s 
+       <lb ed="#B" n="3"/>tor sui, idem secundum eandem rationem esset in potentia, &amp; in actum. 
+      </p>
+      <p xml:id="n3av8a-c1e5208-d1e132">
+       CONtra. Virtus quae nata est T 
+       <lb ed="#B" n="4"/>se determinare in actum suum, ex se motiua est sui, quia determinatio ad actum actio quaedam est, ad quam  
+       <lb ed="#B" n="5"/>necessario sequitur operatio. voluntas est huiusmodi. aliter enim non esset libera. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5208-d1e139">
+       DIco quod aliquid ad Ph 
+       <lb ed="#B" n="6"/>actum aliquem eliciendum requiritur dupliciter. Vno modo, vt causa sine qua non: quae nihil agit omnino in  
+       <lb ed="#B" n="7"/>eliciendo actum, aut in causando dispositionem, qua elicitur actus, aut qua in passiuo recipiatur: quem 
+       <lb ed="#B" n="8"/>admodum requiritur remouens prohibens ad descensum grauis. Et hoc modo, vt saepius tractaui, ad actum 
+       <lb ed="#B" n="9"/>voluntatis eliciendum necessario requiritur obiecti ostensio, &amp; forma intellectus circa ipsum. Alio autem 
+       <lb ed="#B" n="10"/>modo requiritur aliquid ad actum aliquem eliciendum, vt cauam propter quam sic, quae agit aliquid vel circa re- 
+       <lb ed="#B" n="11"/>ceptiuum actus, seu operationis, vel circa elicitiuum eius. Circa receptiuum autem actus aliquid agit cau 
+       <lb ed="#B" n="12"/>sando dispositionem in illo, quae habilitatur ad recipiendum in se actum, quemadmodum lux agit in diapha 
+       <lb ed="#B" n="13"/>num, &amp; in visum, generando in illis lumen mediante quo in illis recipitur species coloris. secundum quod su-  
+       <lb ed="#B" n="14"/>perius in quaestione de intellectu agente declaratum est. Et dico quod isto modo non requiritur ad elicien 
+       <lb ed="#B" n="15"/>dum simpliciter actum volitionis aliud quam solius obiecti ostensio, praeter solam voluntatem liberi arbitrii. Vo 
+       <lb ed="#B" n="16"/>luntas enim vt est appetitus simpliciter, nullam dispositionem in se requirit aliam a se, vt in se recipiat actum 
+       <lb ed="#B" n="17"/>volitionis. vt liberi arbitrii, se sola sufficit ad eliciendum volitionis actum, supposita ostensione obie 
+       <lb ed="#B" n="18"/>cti cum forma intellectus circa id. secundum quod hoc iam declarabitur in pertractatione solutionis 
+       <lb ed="#B" n="19"/>ad tertiam rationem. non tamen per hoc excludendo actionem dei, qui est generalis motor in qua-  
+       <lb ed="#B" n="20"/>libet actione omnis creaturae: &amp; hoc in eliciendo ipsum actum, vt iam habitum est supra secundum 
+       <lb ed="#B" n="21"/>Grego. in quaestione de natura assumptibili, non solum in dando vim qua actus elicitur. de quo di  
+       <lb ed="#B" n="22"/>cit Ansel. de concor. praed. Deus non facit aliquid iniustum, qui tamen facit omnes actiones, &amp; omnes 
+       <lb ed="#B" n="23"/>motus, quia ipse facit res a quibus, &amp; ex quibus, &amp; per quas, &amp; in quibus fiunt. Et nulla res habet 
+       <lb ed="#B" n="24"/>vllam potestatem volendi, aut faciendi, nisi illo dante. &amp; infra in eodem. Si diligenter consideremus 
+       <lb ed="#B" n="25"/>ille verius dicitur facere omne quod facit natura, aut voluntas, qui fecit naturam, &amp; instrumentum 
+       <lb ed="#B" n="26"/>volendi. Quia autem nulla dispositio, seu affectio, nec influxus ab obiecto requiratur. in voluntate ad  
+       <lb ed="#B" n="27"/>hoc quod ipsa in se eliciat actum volitionis etiam determinatum, sed sufficiat ad hoc sola ostensio obiecti de 
+       <lb ed="#B" n="28"/>terminati, arguitur. In elicitiuum actus intelligitur agere dupliciter aliquid. Vno modo agen- 
+       <lb ed="#B" n="29"/>do in ipsum aliquam dispositionem, sine qua non eliceret actum, licet illa non sit coelicitiua actus. Alio 
+       <lb ed="#B" n="30"/>modo in agendo in ipso dispositionem sine qua non expedite &amp; faciliter eliceret actum. Primo mo 
+       <lb ed="#B" n="31"/>do nihil requirit voluntas ad eliciendum actum volendi in ipsa, nisi solam obiecti ostensionem. Quoniam 
+       <lb ed="#B" n="32"/>illa dispositio quocunque modo vocetur, puta affectio, nomine affectionis comprehendendo impul- 
+       <lb ed="#B" n="33"/>sum, vel influxum ab obiecto cognito, aut habitum quemcunque, aut passionem, dummodo intelliga 
+       <lb ed="#B" n="34"/>tur re differre a voluntate, si sine ea non eliceret actum volendi: et hoc secundum quod vult Anseicas quia vo 
+       <lb ed="#B" n="35"/>luntas nihil vult sine suis affectionibus, &amp; sic non nisi quia est affectata, haec non potest contingere 
+       <lb ed="#B" n="36"/>nisi dupliciter. Primo modo, quia voluntas affectata necessario vult illud ad quod est affectata, &amp; non 
+       <lb ed="#B" n="37"/>pont non velle. Et patet clare quia iste modus est impossibilis: quia omnino tolleret liberum arbitrium, 
+       <lb ed="#B" n="38"/>&amp; talis voluntas neque iusta posset esse, neque iniusta, secundum Ansel. de casu diabo. cap. xiiii. Secun- 
+       <lb ed="#B" n="39"/>do modo, quia si voluntas aliquid velit, necesse est quod sit affectata ad illud. Quod videtur esse de intem 
+       <lb ed="#B" n="40"/>tione Anseicus quando vult quod voluntas non potest velle commodum sine affectione commodi, neque  
+       <lb ed="#B" n="41"/>iustum sine affectione iusti, vt iam infra patebit. Quod habet duas causas veritatis. Vnam, quia si velit 
+       <lb ed="#B" n="42"/>aliquid, necesse est quod velit illud ad quod est affectata. Alteram, quia nihil velle potest, ad quod non est 
+       <lb ed="#B" n="43"/>affectata. Dicere secundum primam causam, est idem cum eo quod dicunt ponentes quod voluntas ne- 
+       <lb ed="#B" n="44"/>cessitatur ab intellectum, quo ad actus determinationem, vt si velit aliquid, necesse est quod velit quod  
+       <lb ed="#B" n="45"/>ei ostensum est, &amp; indicatum a ratione, sic tamen, quod non est absolute necesse quod illud velit statim, 
+       <lb ed="#B" n="46"/>quia statim potest illud non velle contradictorie. Sed tunc quaero, vtrum possit illud nolle contra- 
+       <lb ed="#B" n="47"/>rie: hoc est velle non. Si dicatur quod non: ergo tollitur libertas arbitrii ad velle, &amp; nolle, sed manet so- 
+       <lb ed="#B" n="48"/>lummodo ad velle, &amp; non velle. quod videtur inconueniens. Quia si de dignitate creaturae intellectua 
+       <lb ed="#B" n="49"/>lis est liberum arbitrium, vt est liberum arbitrium, &amp; vt ordinatur ad attingendum finem actu suo 
+       <lb ed="#B" n="50"/>sic quod possit seruare iustitiam, sed non deserere illam, &amp; quod possit eam deserere, dicente Ansel. capi- 
+       <lb ed="#B" n="51"/>tulo decimoquarto de concord. gratiae &amp; liberi arbitrii: Accepit homo liberum arbitrium, sine quo  
+       <lb ed="#B" n="52"/>iustitia seruari non valuit: ita vt illam posset deserere, quatenus cum illam non desereret, sed serua- 
+       <lb ed="#B" n="53"/>ret, proueheretur ad confortium angelorum: Seruare autem illam non valet, nisi volendo, neque deserere nisi nolem 
+       <lb ed="#B" n="54"/>do: De dignitate ergo humanae naturae est posse velle &amp; nolle, ostensum a ratione: &amp; id ad quod voluntas ess 
+       <!--1111.xml-->
+       <pb ed="#B" n="535-v"/>
+        <lb ed="#B" n="1"/>affectata. Sed valde inconueniens est denegare homini, quod pertinet ad eius digniatem: cum hoc attribuere 
+       <lb ed="#B" n="2"/>ei in nullo derogat eis, quae sunt fidei, aut morum: immo valet ad illa, quae sunt morum. ergo &amp;c. Si forte di-  
+       <lb ed="#B" n="3"/>catur, quod potest illud nolle, licet non statim, quia liberum manet arbitrium quo ad exercitium actus, quo  
+       <lb ed="#B" n="4"/>pont praecipere intellectui vt deliberet de illo, vel non praecipere, etsi praeciperet vt deliberet, post deliberatio 
+       <lb ed="#B" n="5"/>nem habitam potest intellectus iudicare illud non volendum, &amp; tunc pont voluntas illud velle, &amp; nolle, &amp; sic ma 
+       <lb ed="#B" n="6"/>net libera: Hoc non sufficit ad perfectam libertatem arbitrii, quia iam dependeret a libertate rationis de iudicam 
+       <lb ed="#B" n="7"/>do illud esse volendum, vel non. Immo oportet, quod sit libertas arbitrii ab initio primae ostensionis. secundum  
+       <lb ed="#B" n="8"/>quod plenius declaratum est in Quolibet praecedente. xii. scilicet. Etiam dictum hoc non valet eis, quia voluntas post pri 
+       <lb ed="#B" n="9"/>mam ostensionem obiecti non potest praecipere intellectui vt deliberet, nisi volendo, neque praecipere vt non deliberet, 
+       <lb ed="#B" n="10"/>nisi nolendo. Est ergo ex pria ostensione libera ad volendum intellectum deliberare, vel non deliberare. Et quaero 
+       <lb ed="#B" n="11"/>vtrum illud velit voluntas affectata, an non affectata. Si non affectata, habeo propositm. scilicet quod aliquid vult adquid  
+       <lb ed="#B" n="12"/>non est affectata. Si sic &amp; necesse est si aliquid velit quod velit illud ad quod est affectata, ergo non posset nolle intel 
+       <lb ed="#B" n="13"/>lectum deliberare, quia nolle hoc cum sit velle non hoc est aliquam volitio, licet circa obiectum negatum: sicut vel- 
+       <lb ed="#B" n="14"/>le hoc est aliqua volitio circa obiectum affirmatum. &amp; tamen voluntas ad illud nolle non potest esse affectata, quia non affe 
+       <lb ed="#B" n="15"/>ctione illa, quam vult positiuum, quia tunc eadem affectio esset contrariorum, quid est ipossibile. quia dispositio vna &amp; ea 
+       <lb ed="#B" n="16"/>dem naturalis non est ad contraria, nec eadem dispositio naturaul potest esse ratio, quae aliquid determinetur ad contraria. Il 
+       <lb ed="#B" n="17"/>la autem dispositio seu influxus ab obiecto non ponitur ab eis in voluntate nisi propter determinatam volitionem. 
+       <lb ed="#B" n="18"/>ltem neque in influxu, seu affectione alia, vel contraria, quia illa non potest poni, non enim haberet a quo causaretur 
+       <lb ed="#B" n="19"/>in voluntate, quia non a forma obiecti circa intellectum. Nam illa est vnica tantum, quia vnius obiecti, quid cum sit 
+       <lb ed="#B" n="20"/>naturale agens, non potest causare nisi vnicum influxum, seu affectionem in voluntate, &amp; nequaquam diuersas, seu 
+       <lb ed="#B" n="21"/>contrarias. Quare cum ab illa forma obiecti circa intellectum causetur affectio, seu influxus, quo voluntas vult 
+       <lb ed="#B" n="22"/>positiuum, ab illa non poterit causari infiuxus quo nolit illud, seu quo velit negatiuum. Si dicatur quod immo 
+       <lb ed="#B" n="23"/>eadem affectione seu influxu quo potest ipsa voluntas velle hoc affirmatiue puta dulce, potest etiam nolle 
+       <lb ed="#B" n="24"/>illud vel velle non illud negatiue, loquendo de bono quod est ad finem. Intellectu enim tale bonum potest agere 
+       <lb ed="#B" n="25"/>dispositionem aliquam in voluntate, quod ipsa determinetur, seu determinet se simpliciter ad volendum tale bonum, quoniam  
+       <lb ed="#B" n="26"/>&amp; illa stante, &amp; nulla alia influxa possit illud nolle, &amp; velle non, negatiue. et hoc propter imperfectionem 
+       <lb ed="#B" n="27"/>talis boni. Secus autem est de bono quod est finis. Attamen si velit aliquid positiuum aliud, oportet quod alia 
+       <lb ed="#B" n="28"/>dispositio seu influxus sit causatus in ea ab alio bono cognito. Sed contra istud dictum, quo ad pri- 
+       <lb ed="#B" n="29"/>mum, est id quod statim supra argutum est scilicet quod ista dispositio in voluntate, cum sit vnica, quando vnum solum est 
+       <lb ed="#B" n="30"/>ostensum, &amp; naturalis, non poterit igitur esse cam seuratio coelicitiua actus volendi non hoc, seu circa obiectum 
+       <lb ed="#B" n="31"/>negatum, cum ipsa sit dispositio coelicitiua actus volendi circa obiectum affirmatum, vt dicunt. haec enim 
+       <lb ed="#B" n="32"/>dispositio, cum sit ab agente naturali influxa, puta ab obiecto cognito, est naturalis. Eadem autem dispositio 
+       <lb ed="#B" n="33"/>naturalis non potest esse, vt dictum est, per se ratio agendi contraria. igitur illa dispositio si est, non poterit tamen esse 
+       <lb ed="#B" n="34"/>cam, seu ratio coelicitiua actus volendi circa obiectum negatum: sed si est, erit vt id sine quo non. Item per 
+       <lb ed="#B" n="35"/>idem arguitur contra id quid addit, quod si sit circa aliud obiectum affirmatum requiritur alia affectio specialis. Nam 
+       <lb ed="#B" n="36"/>actus volendi affirmatus potest esse circa obiectum, quod est bonum apparens &amp; malum simpliciter, &amp; ita actus ille erit 
+       <lb ed="#B" n="37"/>actus malus simpliciter. econtrario vero actus volendi circa idem obiectum negatum erit bonus simpliciter. Si ergo  
+       <lb ed="#B" n="38"/>bonum actum circa obiectum negatum ponst voluntas elicere absque omni affectione coelicitiua talis actus, quae si adsit, 
+       <lb ed="#B" n="39"/>erit tantum sine qua non, multo magis ergo malum actum circa obiectum affirmatum poterit elicere ex puris 
+       <lb ed="#B" n="40"/>naturalibus absque omni affectione coelicitiua, vt causa propter quam sic: &amp; si adsit, hoc solum erit, vtcam si 
+       <lb ed="#B" n="41"/>ue qua non. Ex quo vlterius concluditur, quod si dicatur, si voluntas aliquid velit, quod necesse est eam velle 
+       <lb ed="#B" n="42"/>id ad quod est affectata, quare cum non sit affectata ad nolle id, &amp; nolle est aliquid velle, ergo nullo 
+       <lb ed="#B" n="43"/>modo posset velle illud, &amp; sic omnino, vt prius, tolleretur liberum arbitrium. Et per idem patet falsi- 
+       <lb ed="#B" n="44"/>tas eius, quid tactum est in secunda cause. scilicet quod voluntas nihil possit velle, ad quod non est affectata. vt enim 
+       <lb ed="#B" n="45"/>iam dictum est, licet proprie loquendo nolle hoc, vel velle non hoc, non sit velle aliquid, est tamen ali 
+       <lb ed="#B" n="46"/>qua volitio, siue aliquis actus voluntatis, licet circa negatum obiectum, ad quem nullam omnino a  
+       <lb ed="#B" n="47"/>fectionem requirit voluntas in se. &amp; non solum ad talem actionem circa obiectum negatiue non requirit  
+       <lb ed="#B" n="48"/>voluntas affectionem in se, sed etiam in se nullam requirit ad actum volitionis defectiuum, puta 
+       <lb ed="#B" n="49"/>qua vult relinquere iustitiam, siue non tenere, quam potest relinquere etiam volendo bonum vt nunc 
+       <lb ed="#B" n="50"/>quid est malum simpliciter, quia ex se sola potest deficere. Requirit tamen ad illam obiecti ostensionem 
+       <lb ed="#B" n="51"/>quia nihil pont voluntas velle, nisi cognitum. Ita quod si non sit nisi vnicum secundum vnam circunstam 
+       <lb ed="#B" n="52"/>tiam boni ostensum, non potest velle nisi illud tanquam primum &amp; per se obiectum intellectus &amp; co- 
+       <lb ed="#B" n="53"/>gnitum. Potest tamen non velle, &amp; nolle illud, si sit bonum aliud a fine. Potest etiam intelle- 
+       <lb ed="#B" n="54"/>ctum velle considerare, &amp; non velle, atque nolle: tanquam secundarium obiectum intellectus, &amp; osten- 
+       <!--1112.xml-->
+       <pb ed="#B" n="536-r"/>
+        <lb ed="#B" n="1"/>sum in quaelibet intellectione. Sic ergo non requirit voluntas ad actum volendi simpliciter, nisi solam obiecti ostem 
+       <lb ed="#B" n="2"/>sionem, quae quidem sola obiecti ostensio sufficit ad hoc, quod ipsa voluntas vi libertatis suae in seipsa, vt ap 
+       <lb ed="#B" n="3"/>petitus est, exerceat actum volitionis, &amp; obiecti determinati ostensio ad determinatam volitionem absque  
+       <lb ed="#B" n="4"/>aliquo influxu in ipsa ab obiecto Quod plenius patebit soluendo argumenta. Vanum namque videtur tot inter 
+       <lb ed="#B" n="5"/>media conculcare. Superfluum enim est ponere fieri per plura, quid aequaliter potest fieri per vnum. Loquendo autem de l 
+       <lb ed="#B" n="6"/>requirere aliquid ad eliciendum actum volitionis faciliter &amp; expedite, bene concedo, quod ad sic eliciendum 
+       <lb ed="#B" n="7"/>actum voluntatis non sufficit sola obiecti ostensio, sicut neque sufficit ad eliciendum actus perfectos morales 
+       <lb ed="#B" n="8"/>neque maxime ad eliciendum actus gratuitos, &amp; meritorios, secundum quod iam inferius declarabitur. Immo 
+       <lb ed="#B" n="9"/>requiritur vel impetus quidam a deo: de quo alias locuti sumus in quaestione de bona fortuna, vel influ- 
+       <lb ed="#B" n="10"/>xus quidam ab obiecto cognito, vel habitus temperantiae in concupiscibili, vel fortitudinis in irascibili, vel 
+       <lb ed="#B" n="11"/>iustitiae in rationali, vel etiam passionis alicuius vel in irascibili, vel in concupiscibili, quae omnia ab aliquibus vocantur ar 
+       <lb ed="#B" n="12"/>fectiones, vt iam videbitur. Habitus enim reddunt potentias habiles ad prompte eliciendum suos actus secundum <name ref="#Aristotle">philosophum</name> 
+       <lb ed="#B" n="13"/>ii. &amp;. iii. ethico. Et super habitus adhuc amplius passiones. secundum enim quod dicit in iii. ethico. ira ad  
+       <lb ed="#B" n="14"/>auget fortitudinem. Contraria dictis istis repellentur in dissolutione argumentorum: vbi &amp; amplius con 
+       <lb ed="#B" n="15"/>firmabuntur, &amp; declarabuntur iam supposita, quae tamen alias a nobis sufficienter sunt declarata, &amp; contra 
+       <lb ed="#B" n="16"/>ria reprobata. Quia ergo arguitur primo contra primum membrum huius vltimae distinctionis per hoc, quod ad actum 
+       <lb ed="#B" n="17"/>intellectionis requiritur aliquid aliud quam vis intellectiua, &amp; praesentia obiecti: ergo similiter &amp; ad actum vo l 
+       <lb ed="#B" n="18"/>litionis, dico quod etsi cum illis duobus ad actum intellectionis requiritur aliquid aliud. secundum quod iam de 
+       <lb ed="#B" n="19"/>clarabitur: non tamen illud est species impressa intellectui quasi consimilis ei, quae imprimitur orga 
+       <lb ed="#B" n="20"/>no visus, &amp; necessaria est ad actum videndi. secundum enim quod alias declaraui, in vi sensitiua apphen 
+       <lb ed="#B" n="21"/>siua requiritur species obiecti: quia ipsum obiectum non potest esse simul cum vi sensitiua existente in or 
+       <lb ed="#B" n="22"/>gano: et proximum agens debet esse simul cum patiente, &amp; ideo requiritur species sua in organo qua si 
+       <lb ed="#B" n="23"/>mul est cum vi sensitiua, quae habet in se vim obiecti ad mouendum vim sensitiuam in organo existen 
+       <lb ed="#B" n="24"/>tem. In vi autem apprehensiua intellectiua nulla species requiritur de obiecto, quia ipsum existens in  
+       <lb ed="#B" n="25"/>phantasmate factum vel virtute agentis praesens est &amp; simul cum intellectum, quia vis phantastica, in quae sunt 
+       <lb ed="#B" n="26"/>phantasmata, &amp; vis intellectiua sunt in eadem substantia animae indiuisibili. propter quod obiectum 
+       <lb ed="#B" n="27"/>vel immediate potest agere in intellectum absque specie aliqua intellectui impressa, quantum de actione eius 
+       <lb ed="#B" n="28"/>requiritur ad eliciendum actum intelligendi: de quo statim erit sermo. Sed esto, quod species requireretur inin- 
+       <lb ed="#B" n="29"/>tellectu ad actum intellectionis determinatum, sicut &amp; suo modo in sensu ad actum sensationis: non tamen ideo  
+       <lb ed="#B" n="30"/>sequitur quod in voluntate requiratur ad actum volitionis determinatum aliquis influxus ab obiecto seu 
+       <lb ed="#B" n="31"/>bono correspondens speciei intelligibili in intellectum. Quia enim in intellectu requiratur species, vt dicunt 
+       <lb ed="#B" n="32"/>aliqui, hoc est quia obiectum intelligibile vt est in potentia sensitiua, est tantum intelligibile in po 
+       <lb ed="#B" n="33"/>tentia, nec est sufficiens vt sic, ad hoc quod secundum ipsum moueatur intellectus. Vnde &amp; requiritur in-  
+       <lb ed="#B" n="34"/>tellectus agens, vt ab ipso abstrahat speciem intelligibilem ponendam in intellectu possibili. Sed a parte ista  
+       <lb ed="#B" n="35"/>ipsum obiectum intelligibile per speciem suam, si sit species, sufficiens est absque aliquo influxu facto ab ipso 
+       <lb ed="#B" n="36"/>in voluntate, ad hoc, quod ad eius praesentiam in intellectu voluntas moueat se in actum volendi deter  
+       <lb ed="#B" n="37"/>minatum. Vnde non requiritur voluntas agens, quia illud idem quod facit aliquid esse obiectum in  
+       <lb ed="#B" n="38"/>tellectus sub ratione veri, facit obiectum voluntatis sub ratione boni. Ad secundum: cum dici-- 
+       <lb ed="#B" n="39"/>tur quod voluntas de se est indeterminata: ergo non exit in actum volendi nisi per aliquid quod sit in  
+       <lb ed="#B" n="40"/>ipsa super substantiam eius cum obiecti ostensione: Dico quod triplex est indeterminatio voluntatis. 
+       <lb ed="#B" n="41"/>Vna est per indifferentiam potentiae ad duo circa actus contradictorio scilicet ad posse velle, &amp; non pos 
+       <lb ed="#B" n="42"/>se velle quoquo modo, sicut visus est indifferens ad posse videre, &amp; non posse videre. sed ad non  
+       <lb ed="#B" n="43"/>posse velle, &amp; non posse videre determinatur per omnimodam obiectorum absentiam: ad posse vel 
+       <lb ed="#B" n="44"/>le autem, &amp; posse videre, per ipsorum praesentiam. sed multo aliter visus quam voluntas: quia visus necessario: vo 
+       <lb ed="#B" n="45"/>luntas autem non nisi libere. Alia est indeterminatio voluntatis per indifferentiam actus respectu obiectorum 
+       <lb ed="#B" n="46"/>&amp; haec est duplex, quia vel respectu vnius obiecti tantum, &amp; hoc vel volendo illud, vel non volendo con- 
+       <lb ed="#B" n="47"/>tradictorie, seu nolendo contrarie: aut respectu diuersorum, puta ad velle hoc, vel illud, &amp; quidcumque determi 
+       <lb ed="#B" n="48"/>natum volibile. quemadmodum visus est indifferens ad videndum album, &amp; nigrum, lucen, &amp; caeteros colores, ad vnum  
+       <lb ed="#B" n="49"/>vel plura horum per ipsorum praesentiam, sed visus necessario per determinationem factam in seipso: voluntas autem libere per  
+       <lb ed="#B" n="50"/>determiationem factam im altere. scilicet in intellectum, quia obiecti intellectus praesentia in intellectum, &amp; determiatio per ipsum non 
+       <lb ed="#B" n="51"/>est necessaria voluntati ad eliciendum actum volendi, nisi sicut cauam sine quae non. sed tamen vt cauam propter quam sic, sina scilicet est 
+       <lb ed="#B" n="52"/>necessaria ad actum volitionis terminandum, &amp; sic potius proptr ipsum actum, quam proptur voluntatem elicientem, quia incognita 
+       <lb ed="#B" n="53"/>velle non possumus, eo quod actum volendi non possumus terminare nisi ad cognitum, quod tamen non vt cognitum sed ma  
+       <lb ed="#B" n="54"/>gis vt res imiat actum volendi: vt sic bonum cognitum, vt per sui similitudinem est in intellectum, praesentatum est actui volendi 
+       <!--1113.xml-->
+       <pb ed="#B" n="536-v"/>
+        <lb ed="#B" n="1"/>&amp; mouens voluntatem tantum metaphorice. Sed ad ipsum vt res est, actus volendi terminatur: sicut descen 
+       <lb ed="#B" n="2"/>sus grauis terminatur ad centrum, in quo natum est quiescere. Omnis autem alia vis ab obiecto determinatur 
+       <lb ed="#B" n="3"/>in seipsa. Vis enim sensitiua quaecumque non elicit actum sentiendi, nisi sit determinata in se quadam alteratio 
+       <lb ed="#B" n="4"/>ne ab obiecto sensibili. neque similiter vis intellectiua, nisi alteratione quadam determinata fuerit ab obiecto 
+       <lb ed="#B" n="5"/>intelligibili. similiter neque vis appetitiua sensibilis elicit actum appetitionis nisi determinata per passiones irae, &amp; 
+       <lb ed="#B" n="6"/>&amp; concupiscentiae causatas in organo appetitus, non quidem ex sensu, vt ex cauam imprimente illas, sed ex vi existente 
+       <lb ed="#B" n="7"/>in corde, quae factiua est alterationis circa organum appetitus secundum calidum, &amp; frigidum, humidum &amp; siccum. Quae 
+       <lb ed="#B" n="8"/>quidem alteratio non est ex apprehensione sensus, nisi sicut ex cam sine quae non: post quam apprehensionem naturaliter 
+       <lb ed="#B" n="9"/>vis alteratiua cordis alterat organum appetitus ad generandas dictas passiones, ad quas sequitur appetitio. 
+       <lb ed="#B" n="10"/>Vis autem volitiua habet ex se determinatiuum suum ad actum. cuiusmodi est libertas simpliciter respectu finis 
+       <lb ed="#B" n="11"/>quae determinat tantummodo ad volendum illum: &amp; liberum arbitrium respectu eorum quae sunt ad finem, quid determiat 
+       <lb ed="#B" n="12"/>vel ad volendum, vel ad non volendum, vel ad nolendum. Non quod talis determinatio in aliis viribus sit elicitiua 
+       <lb ed="#B" n="13"/>actus, vel coagens cum ipsa vi, quae determinatur: sed ipsa est solummo cauam sine quae vis indeterminata nullum actum omnino 
+       <lb ed="#B" n="14"/>eliceret. Talem autem determinationem, quo ad tertiam indifferentiam, quae est media in ordine, nihil potest agere 
+       <lb ed="#B" n="15"/>in voluntate, neque obiectum, neque influxus quicumque ab ipso, neque passio quaecumque, aut habilitas, siue fuerit 
+       <lb ed="#B" n="16"/>habitus, siue dispositio. Quodlibet enim talium ad vnicum naturalitur mouet. Vnde Anseilus loquens demotu 
+       <lb ed="#B" n="17"/>voluntatis in angelo (&amp; simile est de motu eius in homine) fingit angelum a deo factum per partes: &amp; primo po 
+       <lb ed="#B" n="18"/>nit ipsum factum in sua substantia cum potentiis naturalibu scilicet intellectiua, &amp; volitiua, qua. scilicet sit aptus ad vo 
+       <lb ed="#B" n="19"/>lendum: dicens ca. xii. de casu diabo. Ponamus deum facere angelum quem vult facere beatum, non simul totum, sed per  
+       <lb ed="#B" n="20"/>partes, &amp; hactenus iam esse factum, vt iam sit aptus ad habendum voluntatem, sed nondum aliquid velit. Et quaerit, an  
+       <lb ed="#B" n="21"/>ipse angelus sic factus per se possit velle aliquid. &amp; exponit hoc quid dicit per se, dicens. Per se dico per hoc quod  
+       <lb ed="#B" n="22"/>iam habet. &amp; diffuse prosequitur. Et post resumendo quaesitum, dicit. De propria igitur potestate loquor, cum quae  
+       <lb ed="#B" n="23"/>ro de angelo, quem nouum posuimus fieri, &amp; hactenus iam esse factum, vt iam aptus sit per naturalem potentiam 
+       <lb ed="#B" n="24"/>scilicet ad habendum voluntatem. i. actum volendi voluntatem, sed nihil adhuc velit, an ipse per se possit velle aliquid. Et vi 
+       <lb ed="#B" n="25"/>detur dicere Anselicus quod angelus sic factus non possit per se absque aliquo alio sibi addito exire in actum primum 
+       <lb ed="#B" n="26"/>volendi. vnde concludit. Restat igitur vt ille angelus, qui iam aptus factus est ad habendum voluntatem, sed  
+       <lb ed="#B" n="27"/>tamen nihil vult, non possit habere primam voluntatem. i. primum actum volendi a se. Et tractatu secun 
+       <lb ed="#B" n="28"/>do in principio. xiii. capituli, ponit a deo voluntati angeli esse inditum, quod solummodo possit esse deter-  
+       <lb ed="#B" n="29"/>minata ad velle bonum commodum simpliciter: vel solummodo ad velle commodum conueniens. Et determinat, 
+       <lb ed="#B" n="30"/>quod tali voluntate volendo commodum qualecumque, non posset dici voluntas sua iusta, vel iniusta, vt pa 
+       <lb ed="#B" n="31"/>tet cap. xiii. &amp; similiter non volendo commodum conueniens, vt dicit cap. xiiii. in principio. Et hoc ideo, quia  
+       <lb ed="#B" n="32"/>non posset velle aliter. Vnde tertio ponit vlterius huiusmodi angelo esse inditam a deo voluntatem volen 
+       <lb ed="#B" n="33"/>di vel commodum simpliciter, vel conueniens sibi, &amp; hoc iuste, &amp; vt cum hoc possit illud velle, &amp; in  
+       <lb ed="#B" n="34"/>iuste sic inconueniens. Quoniam ergo non solummodo volendo beatitudinem, nec solummodo volem 
+       <lb ed="#B" n="35"/>do quod conuenit, cum ex necessitate sic velit, iustus potest appellari, nec potest necdebet esse beatus 
+       <lb ed="#B" n="36"/>nisi velit, &amp; nisi iuste velit, necesse est vt sic deus faciat vtramque voluntatem in illo angelo conuenire 
+       <lb ed="#B" n="37"/>vt &amp; beatus velit esse, &amp; iuste velit, quatenus iustitia addita sic temperet voluntatem, vt resecet vo 
+       <lb ed="#B" n="38"/>luntati excessum, &amp; excedendi non amputet potestatem, vt tamen per hoc, quod volet esse beatus, mo- 
+       <lb ed="#B" n="39"/>dum possit excedere: per hoc autem, quod iuste volet, non valeat excedere. Ex his dictis Ansel, ponunt 
+       <lb ed="#B" n="40"/>aliqui, quod deus potest facere voluntatem angeli vel hominis, quae per naturam suam non sit peccabilis 
+       <lb ed="#B" n="41"/>seu non poterit peccare. Et hoc tripliciter. Primo modo creando angelum cum potentia volitiua pura non 
+       <lb ed="#B" n="42"/>addendo voluntati angeli aliquam affectionem, puta commodi, vel iusti, sine quarum aliqua non potest exi 
+       <lb ed="#B" n="43"/>re in actum volendi, nec per consequens peccare. Secundo creando voluntatem informatam sola affectione commo- 
+       <lb ed="#B" n="44"/>di absque affectione iusti, vel recti. &amp; tunc licet posset exire in actum volendi beatitudinem, quae est ex commo 
+       <lb ed="#B" n="45"/>dis mediante affectione commodi, non tamen poterit ex hoc exire in actum volendi rectum vel iustum, &amp; 
+       <lb ed="#B" n="46"/>ideo volendo ipsum non peccabit, quia nec tenetur velle rectum, seu iustum, eo quod affectionem recti seu 
+       <lb ed="#B" n="47"/>iusti non habet. Tertio modo creando voluntatem informatam sola affectione iusti, vel recti, absque  
+       <lb ed="#B" n="48"/>omni affectione commodi. &amp; tunc talis voluntas non poterit peccare, quia non posset appetere, nisi rectum 
+       <lb ed="#B" n="49"/>&amp; iustum, a quo tunc non posset retrahi, eo quod non haberet affectionem aliquam commodi, aut incommo 
+       <lb ed="#B" n="50"/>di, per quam posset aliud velle, quam iustum, &amp; rectum, &amp; ita nec peccare. Sed aduertendum propter primo 
+       <lb ed="#B" n="51"/>dictum, &amp; vt patebit plane consequenter exponendo Ansel. hic &amp; alibi, quod duplex est habilitas volun- 
+       <lb ed="#B" n="52"/>tatis, seu habitus. Quaedam videlicet naturalis, alia vero accidentalis, re absoluta differens ab ip- 
+       <lb ed="#B" n="53"/>sa voluntate, &amp; superaddita eius aptitudini naturali. Cum ergo dicunt primo, quod posset creari volun 
+       <lb ed="#B" n="54"/>tas. angeli absque habilitate quacumque superaddita ei: Dico quod verum est, loquendo de habitu, seu habilitate  
+       <!--1114.xml-->
+       <pb ed="#B" n="537-r"/>
+        <lb ed="#B" n="1"/>accidentali supeaddita, vel superaddenda ipsi voluntati, quia talis re differt ab ea. sed nequaquam crea- 
+       <lb ed="#B" n="2"/>ri posset in esse secundum rem sine habilitate naturali ad actum volendi. quia talis habilitas est de ratione ip 
+       <lb ed="#B" n="3"/>sius potentiae volitiuae, non accidens additum ei. Vnde nec potest esse sine tali habilitate: cum potentia sit realitur 
+       <lb ed="#B" n="4"/>talis habilitas ad actum. Vnde &amp; de tali habilitate naturali loquens Anselius in de concor. gratiae &amp; li- 
+       <lb ed="#B" n="5"/>beri arbitrii, sub nomine affectionis commodi, dicit quod illa est inseparabilis, quod nequaquam verum esset, si ta- 
+       <lb ed="#B" n="6"/>lis habilitas re differret ab ipsa potentia, quia de affectione iusti, quae re differt, dicit, quod est separabilis. De 
+       <lb ed="#B" n="7"/>angelo autem sic creato cum sola tali habilitate naturali nequaquam verum est, quod non possit exire in actum volem 
+       <lb ed="#B" n="8"/>di, nec per consequens, quod non possit peccare. Immo hac sua naturali habilitate pont velle conmodum, &amp; hoc 
+       <lb ed="#B" n="9"/>vel temperate, &amp; tunc bene, vel excessiue, aut remisse, &amp; tunc peccaret. &amp; hoc necesse est ponere, ni 
+       <lb ed="#B" n="10"/>si ponatur quod talis voluntas non est liberi arbitrii sed naturaliter vult quod vult seu quod pont velle. Et quod dicit 
+       <lb ed="#B" n="11"/>Anseicea quod voluntas non potest velle sine suis affectionibus: Dico quod nomine affectionis generaliter dictae con 
+       <lb ed="#B" n="12"/>prehenditur habilitas naturalis, qua voluntas vult, cum dicitur affectione velle. lterum propter secundo dictum 
+       <lb ed="#B" n="13"/>et tertio, sciendum, quod si ponamus angelum factum a deo cum potentia volitiua, &amp; affectione volendi 
+       <lb ed="#B" n="14"/>solum commodum, &amp; hoc naturaliter non per liberum arbitrium: secundum quod de angelo videtur loqui Anselu. de casu 
+       <lb ed="#B" n="15"/>diaboli. ca. xiii, per totum, aut etiam factum cum volitiua potentia, &amp; affectione volendi solum conmodum  
+       <lb ed="#B" n="16"/>conueniens: &amp; hoc similitur naturaliter, non per liberum arbitrium, secundum quod de angelo videtur loqui Anseli.a 
+       <lb ed="#B" n="17"/>eodem libro ca. xiiii. in principio: de angelo, inquam, sic posito, immo ficto, verum est quod non posset peccare: se- 
+       <lb ed="#B" n="18"/>cundum quod videtur velle Ansel. Et dico videtur: quia talis angelus non posset esse in rerum natura crea 
+       <lb ed="#B" n="19"/>tus, nec <name ref="#Anselm">Anselmus</name> ponit quod ita posset esse. Et quod talis angelus non posset in rerum natura esse crea- 
+       <lb ed="#B" n="20"/>tus, patet. quod de ratione volitiuae potentiae angeli, vel hominis respectu eorum quae sunt ad finem, est, quod sit  
+       <lb ed="#B" n="21"/>liberi arbitrii: in quo necessario est naturalis habilitas ad volendum iustum, &amp; qua potest velle iu 
+       <lb ed="#B" n="22"/>stum volendo quod conuenit velle, &amp; sicut conuenit. Cum qua tamen habilitate positiua est defectibilitas 
+       <lb ed="#B" n="23"/>annexa, qua potest excedere, si velit, ac per hoc non potest esse talis in rerum natura, quin possit sic pec 
+       <lb ed="#B" n="24"/>care. Tali autem voluntate cum tali habilitate creata si addatur habilitas accidentalis iustitiae, vel politicae, 
+       <lb ed="#B" n="25"/>vel gratuitae, per illas vt per affectiones accidentales expeditius potest exire in actus iustitiae, sed meri 
+       <lb ed="#B" n="26"/>torie solum per affectionem iustitiae gratuitae. Istis tamen affectionibus semper in voluntate est po- 
+       <lb ed="#B" n="27"/>tentia defectibilitatis coniuncta, qua potest in contrarium. Sed in his dictis Anseius est eius intentio, quod an  
+       <lb ed="#B" n="28"/>geli &amp; hominis voluntatia deo datum est, vt possit se determinare ad sequendum inclinationem iustitiae, vel 
+       <lb ed="#B" n="29"/>contrarium agendum. Quod ergo in argumento dicitur, quod indeterminatum non exit in actum, nisi per determi 
+       <lb ed="#B" n="30"/>nationem factam in ipso: dico quod hoc non est verum, nisi de indeterminato, quod non habet vim seipsum de 
+       <lb ed="#B" n="31"/>terminandi. Reseruata autem hac vi determinandi seipsam in voluntate in quame consistit libertas arbitrii, non 
+       <lb ed="#B" n="32"/>multum curamus si ponatur prima determinatione determinari &amp; tertia facta in seipsa secundum aliquem 
+       <lb ed="#B" n="33"/>influxum ab intellectu &amp; ab obiecto cognito, aut impetu, aut affectione quacunque: quia nullum tale influxum  
+       <lb ed="#B" n="34"/>poterit esse cam, propter quam secundum secundam determinationem velit, vel non velit, vel nolit ipsa voluntas, sed  
+       <lb ed="#B" n="35"/>solummodo cauam sine quae non, quia semper manet indeterminata a determinatione secunda, nisi a se determinetur 
+       <lb ed="#B" n="36"/>licet determinatione prima determinetur in se secundum. obiectum cognitum, &amp; similiter tertia, vt scilicet non po- 
+       <lb ed="#B" n="37"/>terit velle omnino, nisi ad volibile determinetur, nec velle determinate hoc, vel illud, nisi ad volibile 
+       <lb ed="#B" n="38"/>hoc vel illud determinetur. Sicut nec sensus, nisi determinetur a sensibili, potest omnino sentire: nec sentire hoc 
+       <lb ed="#B" n="39"/>nisi determinetur ab hoc sensibili. Et similiter est de intellectu respectu intelligibilis: ita quod non possit voluntas vel 
+       <lb ed="#B" n="40"/>le aliquid nisi cognitum ad quid determinatur, ita tamen quod si non nisi vnum sit cognitum, quo determinetur, non possit 
+       <lb ed="#B" n="41"/>aliud velle cum effectum: possit tamen hoc velle, vel nolle, vel non velle, &amp; imparare intellectui, quod consideret am 
+       <lb ed="#B" n="42"/>plius. Si vero plura praesententur, quae sunt ad finem, poterit liberum arbitrium quidcumque ex illis, siue sub ratione  
+       <lb ed="#B" n="43"/>minoris, siue sub ratione maioris boni praesentetur, velle aliis omissis, vel nolle alio electo, vel nullum illorum  
+       <lb ed="#B" n="44"/>velle in hoc stando: &amp; etiam intellectui praecipere, vt amplius consideret. Vnde si in hoc staremus solum, nega 
+       <lb ed="#B" n="45"/>remus aliquid agere ab extra actum volitionis in voluntate immediate, vel modo congruenti naturae suae, quemad  
+       <lb ed="#B" n="46"/>modum sol agit in diaphano actum illuminationis, vel modo non congruenti naturae suae, quemadmodum lapis proii 
+       <lb ed="#B" n="47"/>citur sursum, aut mediate agendo in ipsa disponnem, quae esset necessario causatiua volitionis, sicut quaelitates pri 
+       <lb ed="#B" n="48"/>mae calidum &amp; frigidum generatae sunt secundarum causatiuae, vt albi, vel nigri. 
+      </p>
+      <p xml:id="n3av8a-c1e5208-d1e726">
+       AD tertium dicendum contra idem men 
+       <lb ed="#B" n="49"/>brum, quod idem inconueniens est &amp;c. Dico quod propter fugam huius rationis, &amp; inconueniens quod videtur concludere, di-  
+       <lb ed="#B" n="50"/>cunt aliqui, quod voluntas non mouet se ad actum volendi, nisi mota ab appetibili cognito, &amp; hoc non metapho 
+       <lb ed="#B" n="51"/>rice, sed vere. Dicit enim <name ref="#Aristotle">philosophus</name> in iii. de anima sic. Res per quas sit motus, tres sunt. Vnum quidem mouens, immobil scilicet 
+       <lb ed="#B" n="52"/>secundum autem, quo mouet scilicet mouens motum: tertium quid mouetur. vbi continuo reducit ipsum quo  
+       <lb ed="#B" n="53"/>mouet ad ipsum mouens diuidendo illud in duo subdens. At mouens duplicitur. Aliud quidem immobile, aliquae  
+       <lb ed="#B" n="54"/>autem mouens, &amp; quid mouetur. Est autem immobile actuale bonum, mouens autem &amp; quod mouetur appetitiuum est. 
+       <lb ed="#B" n="55"/>Mouet enim quod appetitur, &amp; appetitus motus est. Quod autem mouetur: scilicet ab appe- 
+       <!--1115.xml-->
+       <pb ed="#B" n="537-v"/>
+        <lb ed="#B" n="1"/>titum, animal est. Quare cum dicit, quod appetibile mouet, continue etiam dicit quod appetitus mouet, distinguen 
+       <lb ed="#B" n="2"/>do mouens in haec duo. Et inconueniens est dicere, quod in tam breui verbo sumat mouere aequiuoce, &amp; sit 
+       <lb ed="#B" n="3"/>diuisio sua in aequiuoco. Igitur cum appetitus vere, &amp; non metaphorice mouet animal, consimiliter appetibile 
+       <lb ed="#B" n="4"/>vere, &amp; non metaphorice mouet appetitum, &amp; hoc per verum influxum alicuius disponnis realis factae ab ap-  
+       <lb ed="#B" n="5"/>petibili cognito in voluntate, sine quo voluntas nullo modo moueret se ad actum volitionis, nec per conse- 
+       <lb ed="#B" n="6"/>quens ad aliquid aliud, quia non mouet nisi volendo. Ad quid dico, priusquam descendam ad argumentum, 
+       <lb ed="#B" n="7"/>quod voluntas non mouetur ab appetibili cognito nisi metaphorice, &amp; est in suo motu primum mouens. secundum quod 
+       <lb ed="#B" n="8"/>iam declarabitur. Cum dicitur, quod <name ref="#Aristotle">philosophus</name> in tam breui verbo non aequiuocat mouere, dico quod immo: loquendo  
+       <lb ed="#B" n="9"/>de appetitu rationali, qui est voluntas. de quo tamen non loquitur ibi principaliter, sed de appetitu sensitiuo 
+       <lb ed="#B" n="10"/>qui est principium motus localis, etiam in brutis. Sed istam aequiuocationem, bene expressit in alio libro 
+       <lb ed="#B" n="11"/>praecedente naturalis philosophiae videlicet in primo de generatione, vbi determinat, quod secundum alium  
+       <lb ed="#B" n="12"/>&amp; alium modum mouendi &amp; aequiuoce mouent finis, &amp; efficiens. Appetibile autem secundum <name ref="#Aristotle">philosophum</name> ibi non mouet, 
+       <lb ed="#B" n="13"/>nisi vt finis. Dicit enim ibi. Sic autem est effectiua cam, vt vnde principium motus. Cuius autem gera non facti 
+       <lb ed="#B" n="14"/>uum, ideo sanitas non factiuum, nisi secundum metaphoram. Etenim faciens, quando existit, generatur patiens, habitibus autem 
+       <lb ed="#B" n="15"/>praesentibus non adhuc generatur aliquid. Species autem &amp; fines habitus quidam. Ecce plane, quod cuius grati. scilicet 
+       <lb ed="#B" n="16"/>finis, siue cauam finalis non est factiua alicuius motus, aut mutationis nisi metaphorice, neque alicuius dispo 
+       <lb ed="#B" n="17"/>sitionis productae per motum, aut transmutationem, quod appellat <name ref="#Aristotle">philosophus</name> ibi generari. Appellat autem spe 
+       <lb ed="#B" n="18"/>ciem finem intra quem quaerit inducere agens in materia, vt est sanitas. fines autem appellat id cuius gra- 
+       <lb ed="#B" n="19"/>tia quaeritur sanitas, &amp; est finis extra, vt propter studium multi appetunt sanitatem, vt melius possint studere. Hos 
+       <lb ed="#B" n="20"/>enim modos finis distinguit Auicen. in. vi. metaphysicae dicens. Finis qui acquiritur ex actione agentis, di-  
+       <lb ed="#B" n="21"/>uiditur in due scilicet in finem qui est forma, vel intentio in patiente receptibili actionis, &amp; in finem qui non est forma 
+       <lb ed="#B" n="22"/>nec intentio in patiente susceptibili vllo modo. Est igitur in agente. Habitatio enim quam est finis fabricatorum  
+       <lb ed="#B" n="23"/>domus &amp; principium motus ad essendum domum: ipsa nullo modo est forma domus. Vocat autem Aristoteles 
+       <lb ed="#B" n="24"/>&amp; species, &amp; fines habitus, quia non habent rationem causae finalis, nisi vt sunt in cognitione mentis, &amp; per hoc 
+       <lb ed="#B" n="25"/>habitus in illa, quia vt acquiruntur extra non sunt causae, sed effectus aliarum causarum potius. dicente Auicen. 
+       <lb ed="#B" n="26"/>in. vi metaphysicae. Causa finalis in causalitate praecedit causas agentes &amp; recipientes similiter &amp; formam 
+       <lb ed="#B" n="27"/>&amp; in suo esse in anima prior est caeteris causis. In anima enim priorem agente. quia anima adiuenit eam prius: &amp; postea 
+       <lb ed="#B" n="28"/>imaginatur apud se actionem &amp; inquisitionem &amp; qualitatem formae. Respectu igitur causalitati, &amp; respectu essendi 
+       <lb ed="#B" n="29"/>in intellectum non est cauam prior cauam finali, immo ipsa est cauam essendi caeteris causis. Esse autem aliarum causarum in au  
+       <lb ed="#B" n="30"/>fectu est cauam essendi illam in effectu. Sicut cum aliquis fabricat domum, vt habitet in ea. lpsa enim inquisitio habi 
+       <lb ed="#B" n="31"/>tationis inducit eum ad fabricandum, &amp; est prima cauam fabricandi, inquantum est ipse fabricator, &amp; causatum in  
+       <lb ed="#B" n="32"/>quantum est habitator, &amp; inquantum ipse est habitator finis suus alius est, &amp; inquantum est fabricator. Videtur 
+       <lb ed="#B" n="33"/>enim quod finis agentis propinquus, &amp; contingens motioni materiae sit forma in materia, &amp;de cuius non est finis 
+       <lb ed="#B" n="34"/>forma in materia, non sit principium propinquum motui inquantum est sic. Vnde philosophus, quia dictam aequiuocationem 
+       <lb ed="#B" n="35"/>bene determinauit in praecedenti libro, non fuit ei curae ipsam determinare in tertio de anima. Supponentes igitur 
+       <lb ed="#B" n="36"/>quod voluntas non mouer, nisi vere mota ab obiecto, licet non possint hoc habere a <name ref="#Aristotle">philosopho</name> declarando suum di  
+       <lb ed="#B" n="37"/>ctum, &amp; modum mouendi voluntatis, dicunt quod voluntas non mouet se, sed affectatum. i. compositum ex voluntate 
+       <lb ed="#B" n="38"/>&amp; affectione, sub nomine affectionis comprehendendo omnem dispositionem tam innatam si qua est, siue quae per motum 
+       <lb ed="#B" n="39"/>ab obiecto in ea possit causari. &amp; hoc, quia tale quid est diuisibile in duo. Dicunt enim quod vno illorum est per se mo 
+       <lb ed="#B" n="40"/>uens, vt per se ratione mouendi siue motiua &amp; elicitiua formalitur actus volendi, per aliud vero est per se mota, vt 
+       <lb ed="#B" n="41"/>per se ratione qua receptiua est voluntas actus volitionis: &amp; sic non mouetur idem a seipso primo, &amp; secundum to 
+       <lb ed="#B" n="42"/>tum, neque secundum idem diuersis rationibus, sed alio, &amp; alio modo secundum rem. Re enim, vt dicunt, differunt voluntas, &amp; 
+       <lb ed="#B" n="43"/>affectio eius. &amp; hoc quemadmodum graui vt dixi pluries, quid descendit ex se amoto prohibente, aliud reem ratio 
+       <lb ed="#B" n="44"/>quam mouet scilicet ipsa grauitas, aliquae vero quae mouetur, vt corpus naturale compositum ex materia &amp; forma existens 
+       <lb ed="#B" n="45"/>sub quantitate dimensionali, &amp; quemadmodum, vt dicunt, species in intellectu aliquae est re ab intellectum. Quod confir 
+       <lb ed="#B" n="46"/>mant per Anselusa de concor. gratiae, &amp; liberi arbitrii, dicentem. Per hoc cognosci potest aliam esse volutatem &amp; instru 
+       <lb ed="#B" n="47"/>mentum volendi, aliam eius affectionem: quia si dicitur iustus homo etiam cum dormit &amp; nihil cogitat habere voluntatem vi 
+       <lb ed="#B" n="48"/>uendi iuste: &amp; iniustus non negatur habere: eadem voluntas negatur de iniusto, quae asseritur de iusto. Palam autem quia non 
+       <lb ed="#B" n="49"/>negatur in eo voluntas, quam dicimus instrumentum, quoniam eam habet omnis homo, &amp; dormiens, &amp; vigilans, sed illa, quae afficitur 
+       <lb ed="#B" n="50"/>instrumentum. Alia ergo est voluntas instrumentum: alia voluntas affectio siue generalis, siue specialis, vt influ  
+       <lb ed="#B" n="51"/>xus quidam ab obiecto. Sed quaero, quid horum duorum est ratio motiua, qua mouet totum affectatum, &amp; quid est ratio 
+       <lb ed="#B" n="52"/>mobilis, qua affectatum recipit in se motum. Ad. scilicet voluntas sit mouens ratio, &amp; affectio mota, an econtra Si pri 
+       <lb ed="#B" n="53"/>mo modo: cum actus actiuorum sunt in patiente, et disposito, secundum <name ref="#Aristotle">philosophum</name> primo de anima et. v physicorum: actioer 
+       <lb ed="#B" n="54"/>go volitionis procedit a voluntate, et recipitur in affectione, sicut in subiecto, non autem in voluntate. ld autem i 
+       <!--1116.xml-->
+       <pb ed="#B" n="538-r"/>
+        <lb ed="#B" n="1"/>quo recipitur actio volitionis formaliter potius dicitur velle, quam illud, a quo generatur, quemadmodum intelle 
+       <lb ed="#B" n="2"/>ctus potius dicitur intelligere, quam species, qua secundum illos generatur. Potius ergo dicetur affectio vult, &amp; homo:  
+       <lb ed="#B" n="3"/>affectione formalitur, quam voluntate: consequens falsum est, quia volitio non est formaliter actio, quae est operatio, si 
+       <lb ed="#B" n="4"/>ue perfectio, nisi naturae viuae &amp; intellectualis, &amp; per id quod est aliquid de essentia, &amp; de substantia viuentis, quod est 
+       <lb ed="#B" n="5"/>ratio vitae in illo in quo est, vt in subiecto proximo. nunc autem affectio non est natura viuens, neque intellectua 
+       <lb ed="#B" n="6"/>lis, neque de essentia, &amp; de substantia eius vt ratio vitae in illo. ergo &amp;c. Item quondocumque aliquid non est mouens ex 
+       <lb ed="#B" n="7"/>se nisi sit prius motum ab alio motu, quo recipit in se dispositionem aliquam, &amp; tunc compositum ex illa dis 
+       <lb ed="#B" n="8"/>positione, &amp; ex eo quod recipit ipsum, mouetur ex se, sic quod vnum illorum sit in illo ratio mouentis, &amp; alterum  
+       <lb ed="#B" n="9"/>ratio moti, illa dispositio potius habet rationem mouentis, seu est ratio mouendi, quia habet in se vim motoris 
+       <lb ed="#B" n="10"/>a quo recipitur, quam id in quo recipitur. Verbi genera, si generans graue facit dispositionem grauitatis in ipso, 
+       <lb ed="#B" n="11"/>puta in lapide, vt possit lapis amoto prohibente seipso descendere secundum dictum modum, ipsa gra- 
+       <lb ed="#B" n="12"/>uitas in lapide potius habet rationem mouentis, quam moti. Vnde &amp; propter hoc grauia, &amp; leuia dicuntur 
+       <lb ed="#B" n="13"/>moueri a generantibus ipsa. Et similiter est de motu in tellectus ab intelligibili per speciem, quod causatur ab in  
+       <lb ed="#B" n="14"/>tellectu. secundum quem modum procedunt eorum similia. Sed nec econtra possunt ponere, quod voluntas affecta 
+       <lb ed="#B" n="15"/>ta moueatur ab affectione, vt ipsa affectio sit ratio motiua voluntatis, &amp; actus volendi elicitiua. Hoc 
+       <lb ed="#B" n="16"/>enim posset intelligi dupliciter. Vno modo vt tota voluntas sit mota, &amp; nihil eius mouens, sed sola affectio 
+       <lb ed="#B" n="17"/>sit mouens formaliter. Alio modo vt aliquid voluntatis sit mouens cum affectione, &amp; aliquid voluntatis 
+       <lb ed="#B" n="18"/>sit motum, quod actum volitionis in se recipit. Si primo istorum modorum intelligant praedicti, quod voluntas affectata 
+       <lb ed="#B" n="19"/>mouet se, sic videlicet quod illa dispositio, seu dispositiones, si plures sunt, sit tota ratio formaliter elicitiua 
+       <lb ed="#B" n="20"/>actus volendi: hoc non potest stare, quia illud quod non est de substantia viuentis, non potest esse ratio elicitiua actionis 
+       <lb ed="#B" n="21"/>vitalis in eo, sicut neque actiuum talis actionis potest esse aliquid aliud, quam substantia viuens. Aliter enim effect scilicet. 
+       <lb ed="#B" n="22"/>ipsa actio volendi esset nobilior, quam sua cauam formalis, siue ratio elicitiua illius. Viuens enim semper praeponitur non  
+       <lb ed="#B" n="23"/>viuenti. Illa autem affectio seu dispositio in voluntate non est de substantia viuentis, sed accidens in  
+       <lb ed="#B" n="24"/>voluntate re differens ab ea. Cum igitur volitio sit actio vitalis, &amp; per consequens nobilior quolibet alio ac- 
+       <lb ed="#B" n="25"/>cidente existente in viuente: ob hoc enim secundum aliquos potentia animae non potest poni accidens in anima, quia est 
+       <lb ed="#B" n="26"/>ratio elicitiua actionis vitalis in illa: igitur nulla affectio, seu talis dispositio in voluntate potest esse ratio eli 
+       <lb ed="#B" n="27"/>citiua actus volendi tota. Secundo patet hoc idem, quia cum quaelibet affectio sit forma naturalis hobens pro 
+       <lb ed="#B" n="28"/>pterea determinatam potentiam mouendi determinate ad vnum tantum, sicut &amp; caeterae formae naturales, &amp; sic 
+       <lb ed="#B" n="29"/>solummo moueret ad id, ad quod voluntatem afficeret: vt enim dicit Ansel. de concor. greae. ca. xi. affectum est 
+       <lb ed="#B" n="30"/>instrumentum volendi suis aptitudinibus: bene de hominis anima cum vehementer vult aliquid affectata esse ad volendum  
+       <lb ed="#B" n="31"/>illud, vel affectuose velle. &amp; per hoc in eliciendo actum volitionis omnino tolleretur liberum arbitrium, &amp; solo na 
+       <lb ed="#B" n="32"/>turali impetu eliceretur ex coniunctione proprii actiui cum proprio passiuo omni impedimento exteriori remo 
+       <lb ed="#B" n="33"/>to, ita quod existente tali affectione in voluntate non solum necesse illam esset velle illud si aliquid vellet secundum mo 
+       <lb ed="#B" n="34"/>dum supra reprobatum, sed etiam necesse esset quod absolute vellet illud, &amp; non posset illud neque non velle, neque  
+       <lb ed="#B" n="35"/>nolle, quia existente proprio actiuo naturali coniuncto a proprio passibili omni impedimento remoto necesse 
+       <lb ed="#B" n="36"/>est ipsum agere solam, propriam actionem naturalem sibi debitam. nec est posset velle aliud, nisi etiam habendo in se af 
+       <lb ed="#B" n="37"/>fectionem ad volendum aliud praeponderantem in virtute, quia illa affectione minus ponderante nequaquam moue 
+       <lb ed="#B" n="38"/>retur: sed alia praeponderante alia vero existente aequaliter ponderante secundum neutram moueretur, aut mouere 
+       <lb ed="#B" n="39"/>tur secundum vtramque simul: quod est impossibile, sicut impossibile est intelligere plura simul, nisi ad vnum illorum  
+       <lb ed="#B" n="40"/>moueretur intellectus &amp; voluntas in ordie ad alterum. Hic Ansel. determinat de casu diaboli ca. xiii. quod volum 
+       <lb ed="#B" n="41"/>tas non potest se mouere ad volendum aliquae quam concepit: &amp; non potest non moueri ad volendum illud. Nunc autem secundum datam  
+       <lb ed="#B" n="42"/>affectionem non accepit voluntas velle aliud: sicut si accepisset angelus de quo ibi loquitur Anselu solam volum 
+       <lb ed="#B" n="43"/>tatem volendi commodum simpliciter vel solam voluntatem volendi commodum sibi conueniens, per alterius illorum affectionem 
+       <lb ed="#B" n="44"/>nullo modo posset illud non velle, aut nolle, nec aliquid aliud velle nisi propter illud. Si vero praedicti intelli- 
+       <lb ed="#B" n="45"/>gunt quod voluntas affectata mouet se secundo modo: sic videlicet quod affectio generalis &amp; influxus specialis cum volum 
+       <lb ed="#B" n="46"/>tate concurrant in vna ratione elicitiua actus volendi: hoc adhuc contingit intelligi triplicitur. Aut in tali motione 
+       <lb ed="#B" n="47"/>actiua affectio cum influxu dicitur esse principalis &amp; mouere mediante voluntate, vt instrumento suo, aut ecom 
+       <lb ed="#B" n="48"/>uerso, aut aequaliter se habent ad illam. Sed istud non potest stare, quia tunc existente affectione &amp; inclinan  
+       <lb ed="#B" n="49"/>te ipsam voluntatem ad actum volendi non plus posset facere voluntas quin sequeretur actio 
+       <lb ed="#B" n="50"/>volendi secundum affectionem &amp; influxum quam existente voluntate &amp; inclinante ad actum volen- 
+       <lb ed="#B" n="51"/>di vel nolendi potest aliquid facere affectio quin sequatur actio volendi. consequens falsum est, quia  
+       <lb ed="#B" n="52"/>a voluntate dependet agere secundum affectionem vel non agere &amp; non econuerso. ergo &amp; caetera.  
+       <lb ed="#B" n="53"/>ltem vtrunque duorum primorum membrorum inconueniens ponit. quod patet primo vnica ratio- 
+       <lb ed="#B" n="54"/>ne contra vtrumque illorum simul, quia quandocunque agens pure naturale &amp; agens libero arbitrio simuli 
+       <!--1117.xml-->
+       <pb ed="#B" n="538-v"/>
+        <lb ed="#B" n="1"/>eadem actione concurrunt, hoc non potest esse nisi in actione propria naturali congruenti agenti naturali 
+       <lb ed="#B" n="2"/>in qua agens libero arbitrio sequitur agens naturaliter, puta in agendo ad motum seu transmutationem gra 
+       <lb ed="#B" n="3"/>uis non potest concurrere agens liberi arbitrii cum naturali motiuo grauis, nisi in motu descen- 
+       <lb ed="#B" n="4"/>sus. in motu enim ascensus grauis quia est mere violentus non potest cooperari agens naturale: quia na 
+       <lb ed="#B" n="5"/>tura in contrarium inclinat. Quare cum secundum iam dicta affectio in voluntate mouet naturaliter tanquam ratio 
+       <lb ed="#B" n="6"/>formalis: liberum arbitrium si aliquo modo simul mouet, sequitur motum affectionis. &amp; sic aequali ne 
+       <lb ed="#B" n="7"/>cessitate impulsus naturalis mouebitur aliquid in voluntate ad actum volitionis qua secundum iam dicta mo 
+       <lb ed="#B" n="8"/>ueretur a sola affectione. Si dicatur ad istud quod hoc verum est quando solum initium actionis dependet a voluntate: vt 
+       <lb ed="#B" n="9"/>contingit in exemplo de graui naturali posito in argumento. Sed quando initium actionis &amp; pro- 
+       <lb ed="#B" n="10"/>cessus eius omnino dependenta voluntate, tunc non est verum. Quod patet, nam si esset aliquid 
+       <lb ed="#B" n="11"/>existens graue naturaliter &amp; cum hoc voluntarium: &amp; se voluntarie mitteret deorsum ita quod libera vo 
+       <lb ed="#B" n="12"/>luntate posset pausare in medio motus &amp; ipsum temperare secundum velocitatem &amp; tarditatem: iam illa 
+       <lb ed="#B" n="13"/>actio cum hoc quod esset naturalis ratione grauitatis, esset etiam voluntaria ratione libertatis. &amp; sic 
+       <lb ed="#B" n="14"/>est a parte ista. Sed contra istud arguo: quia secundum <name ref="#Aristotle">philosophum</name> natura &amp; voluntas sunt diuersa inter 
+       <lb ed="#B" n="15"/>se, &amp; distincta vt duo principia seu rationes agendi omnium actionum: sed secundum diuersitatem principiorum &amp; 
+       <lb ed="#B" n="16"/>rationum agendi est diuersitas actionum secundum Damasc. igitur non potest esse vna &amp; eadem actio cuius natura &amp; volum 
+       <lb ed="#B" n="17"/>tas sit simul coelicitiua ratio. Quare si affectio in voluntate sit elicitiua actus: volitionis iam talis actio erit 
+       <lb ed="#B" n="18"/>naturalis pure, nunquam enim natura &amp; voluntas concurrunt in eandem actionem vt eius coeliciti- 
+       <lb ed="#B" n="19"/>uae rationes, nisi ipsae concurrant inter se. Specialiter etiam argnitur contra primum membrum, quod videlicet 
+       <lb ed="#B" n="20"/>in talimotione voluntatis non potest affectio esse principale agens &amp; voluntas instrumentum: quia in omni agen 
+       <lb ed="#B" n="21"/>te tam naturaliter quam artificialiter motus instrumenti sequitur motum principalis agentis. calor enim na-  
+       <lb ed="#B" n="22"/>turalis non generat aliquid secundum formam substantialem, puta asinum secundum formam substantialem, nisi in 
+       <lb ed="#B" n="23"/>virtute formae substantialis asini generantis existentis in calore seminis infusi ab asino descindente se- 
+       <lb ed="#B" n="24"/>men: nec calamus describit figuram nisi motus a manu artificis. Si ergo principale agens &amp; mouens 
+       <lb ed="#B" n="25"/>sit affectio &amp; ipsa mouet naturali impulsu, vt ostensum est prius: ergo &amp;c. Idem etiam arguitur specia 
+       <lb ed="#B" n="26"/>liter contra secundum membrum: quod videlicet in tali motione non potest aliquid voluntatis esse principale &amp; affectio 
+       <lb ed="#B" n="27"/>instrumentum: quia agens principale non elicit actionem mediante instrumento, nisi secundum exigentiam instrumen 
+       <lb ed="#B" n="28"/>ti. quare cum affectio instrumentum non se habet nisi ad vnum tantum mediante illa sicut prius non potest nisi in  
+       <lb ed="#B" n="29"/>vnum tantum: sicut si calamus non esset medium instrumentum ex natura sua, nisi ad depingendum figuram rotum 
+       <lb ed="#B" n="30"/>dam, nequaquam mediante illo posset depingere figuram angularem. Contra haec tamen videtur sentire, praecipue secundum 
+       <lb ed="#B" n="31"/>illud vltimum membrum, Anseiles quando dicit de concor. gratiae &amp; liberi arbitrii cap. xii. in fine. Voluntas 
+       <lb ed="#B" n="32"/>instrumentum mouet omnia alia instrumenta quibus sponte vtimur &amp; quae sunt in nobis: ipsa vero se suis affe- 
+       <lb ed="#B" n="33"/>ctionibus mouet. &amp; infra. Quia &amp; illa vult quae affectione vult: &amp; affectio vult per quam illa vult: si 
+       <lb ed="#B" n="34"/>cut videre dicitur &amp; homo qui visu videt &amp; ipse visus quo videt. Vnde non absurde possumus dicere at 
+       <lb ed="#B" n="35"/>fectiones eius voluntatis quam instrumentum animae dixi: quasi instrumenta eiusdem instrumenti: quia illa nihil 
+       <lb ed="#B" n="36"/>nisi istis operatur. perdito igitur instrumento volendi iustitiam. i. rectitudinem, nullo modo nisi per dei gratiam red- 
+       <lb ed="#B" n="37"/>datur pont voluntas instrumentum velle iustitiam. Si dicant aliqui volentes Anselu, exponere distinguendo cir- 
+       <lb ed="#B" n="38"/>ca actum voluntatis quod scilicet aspiciendo ad subam actus volitionis in eliciendo formaliter principalius agit affe 
+       <lb ed="#B" n="39"/>ctio: &amp; est voluntas vel liberum arbitrium eius instrumentum: aspiciendo autem ad modum eliciendi ipsum actum  
+       <lb ed="#B" n="40"/>principalius agit liberum arbitrium: eo quod ipsum habet determinare se ad actum volendi vel nolendi secundum prae 
+       <lb ed="#B" n="41"/>dicta: &amp; hoc modo affectio est instrumentum voluntatis. Isto secundo modo loquitur Ansel. cum dicit affectiones esse 
+       <lb ed="#B" n="42"/>instrumenta voluntatis. Sed primo modo videtur loqui <name ref="#Augustine">Augustinus</name> cum dicit de charitate quae est affectio quaedam iu  
+       <lb ed="#B" n="43"/>fusa a deo, quod ipsa se habet ad voluntatem sicut sessor ad equum. Isti igitur tria ponunt per ordinem scilicet libertatem 
+       <lb ed="#B" n="44"/>arbitrii vt est determinatiua actus volendi vel nolendi: &amp; ipsam affectionem, et tertio liberum arbitri 
+       <lb ed="#B" n="45"/>vt est ratio elicitiua actionis quae est volitio, vt sit affectio media inter liberum arbitrium vt est actus 
+       <lb ed="#B" n="46"/>determinatiua ratio, &amp; vt est ratio elicitiua eiusdem. Et hoc ponunt quasi ipsa determinatio sit in  
+       <lb ed="#B" n="47"/>se quaedam actio &amp; alia ab actione eliciendi: quod non est verum: quia nulla est actio voluntatis, nisi voli 
+       <lb ed="#B" n="48"/>tio quae non fit in voluntate per aliquam aliam actionem: immo ipsa est actio quae fit. determinatio autem  
+       <lb ed="#B" n="49"/>dicta non est nisi relatio quaedam siue ordo quo voluntas se extendit ad volendum vel nolendum siue 
+       <lb ed="#B" n="50"/>ad volendum hoc vel illud. Ad talem autem sui ordinationem nequaquam requirit affectionem vt instru- 
+       <lb ed="#B" n="51"/>mentum medium, etiam si forte requireret ipsam ad eliciendum actum volitionis. ad nihil enim aliud videtur 
+       <lb ed="#B" n="52"/>ponere ipsam Ansel. Ad videndum autem quomodo secundum <name ref="#Anselm">Anselmum</name> affectio qualiscumque ponitur instru 
+       <lb ed="#B" n="53"/>mentum voluntatis, &amp; econuerso secundum <name ref="#Augustine">Augustinus</name> ponitur voluntas esse instrumentum affectionis, circa actum volitionis 
+       <lb ed="#B" n="54"/>duo sunt considerande. scilicet &amp; suba actus &amp; modus siue quaelitas aut forma actus circa subam ipsius. Et est suba actus 
+       <!--1118.xml-->
+       <pb ed="#B" n="539-r"/>
+        <lb ed="#B" n="1"/>quantum est de se semper eiusdem rationis: &amp; diuersificatur secundum qualitatem &amp; formam quae consistit 
+       <lb ed="#B" n="2"/>in volendo excessiue vel remisse vel temperate. Forma autem qua volitio est temperata: &amp; econtra forma 
+       <lb ed="#B" n="3"/>qua est excessiua, aut remissa duplex est. Quaedam ex obiecto ad quod terminatur actus. Alia vero 
+       <lb ed="#B" n="4"/>ex ratione elicitiua actus. Ex obiecto enim dicitur actus volitionis excessiuus: quia volens vult quod  
+       <lb ed="#B" n="5"/>non conuenit eum velle: nec competit: nec congruit propter obiecti voliti magnitudinem: sicut non competit ho 
+       <lb ed="#B" n="6"/>mini velle esse similem deo cum effectu: intendendo actu voluntatis ex puris naturalibus illam attingere 
+       <lb ed="#B" n="7"/>hoc enim non competit ei: quia illud nimis excedit potentiae naturalis. Dicitur autem ex obiecto remissus:  
+       <lb ed="#B" n="8"/>quia volens vult quod non conuenit eum velle propter obiecti voliti paruitatem: sicut non conuenit homi 
+       <lb ed="#B" n="9"/>ni velle esse similem iumento cum effectu, ad hoc intendendo. &amp; hoc quia nimis est infra id ad quod natura 
+       <lb ed="#B" n="10"/>humana nata est attingere. Dicitur autem ex obiecto temperatus, quia volens vult quod congruit eum 
+       <lb ed="#B" n="11"/>velle propter obiecti voliti mediocritatem: sicut congruit homini velle esse similem deo cum effectum: in- 
+       <lb ed="#B" n="12"/>tendendo ad illud actu voluntatis adiutae gratia: &amp; hoc quia hoc congruum &amp; consentaneum est naturae  
+       <lb ed="#B" n="13"/>humanae. Ex ratione vero elicitiua actus dicitur actus volitionis excessiuus: quia volens intensius vult 
+       <lb ed="#B" n="14"/>volitum quam competit eum velle: &amp; dicitur similiter remissus: quia volens remissius vult volitum quam con- 
+       <lb ed="#B" n="15"/>gruit eum velle illud. dicitur etiam temperatus: quia temperate sicut congruit eum velle illud vult. 
+       <lb ed="#B" n="16"/>Dico ergo quod aspiciendo ad substantiam actus volitionis: &amp; id quid est secundum se, sola voluntas est i 
+       <lb ed="#B" n="17"/>ratio elicitiua: &amp; quaelibet alia vis cognitiua, &amp; appetitiua sensibilis: licet diuersimode: vt supra ex- s 
+       <lb ed="#B" n="18"/>positum est: nec in hoc operatur aut cooperatur quicquam voluntati quaecunque affectio. Aspiciendo au 
+       <lb ed="#B" n="19"/>tem ad vtranque formam, &amp; qualitatem actus: dico quod affectio operatur vt affectio iusti ad volendum  
+       <lb ed="#B" n="20"/>iuste &amp; temperate, &amp; affectio commodi absque iustitia existens ad volendum excessiue vel remisse 
+       <lb ed="#B" n="21"/>Dico autem affectionem iusti qua quis vult iuste aliquid: &amp; hoc siue iustitia naturalis &amp; innatae rectitudinis 
+       <lb ed="#B" n="22"/>ad vel secundum cuius formam eliciuntur temperate actus imperfecti quibus generantur habitus politici: siue iusti 
+       <lb ed="#B" n="23"/>tia virtutis politicae acquisitae, ad cuius formam eliciuntur actus politici perfecte &amp; temperate: siue iu- 
+       <lb ed="#B" n="24"/>stitiae gratuitae quae charitas est: &amp; infusa: ad cuius formam eliciuntur actus perfectissimi meritorii. Ope 
+       <lb ed="#B" n="25"/>ratur autem ad formam &amp; qualitatem actus ex obiecto aliter affectio cum voluntate: &amp; aliter ad illam quae  
+       <lb ed="#B" n="26"/>est ex eliciente. Ad primam enim illarum affectio operatur principaliter: &amp; voluntas vt illius instrumen- 
+       <lb ed="#B" n="27"/>tum: quia voluntas licet ex se vt ratio elicitiua substantiae actus non tamen sub tali forma per se eli- 
+       <lb ed="#B" n="28"/>cit ipsum: nisi in virtute iustitiae siue affectus iusti secundum tres modos iustitiae iam dictos. Ex vi 
+       <lb ed="#B" n="29"/>autem defectiua contrariae affectionis: scilicet iniusti, siue iniustitiae contrariae iustitiae primo modo  
+       <lb ed="#B" n="30"/>quae nihil aliud est quam propria defectibilitas liberi arbitrii, vel secundo modo, vel tertio, vt est habitus 
+       <lb ed="#B" n="31"/>iniustitiae, voluntas deficit in excessum vel in remissionem. Operatur autem liberum arbitrium in virtute 
+       <lb ed="#B" n="32"/>dictarum affectionum iusti, vel iniusti in eliciendo actum volitionis sub forma ex ratione obiecti sicut 
+       <lb ed="#B" n="33"/>instrumentum illarum, quemadmodum calor qui ex se &amp; ex propria virtute operatur ad elicien- 
+       <lb ed="#B" n="34"/>dum solummodo actum calefactionis vt instrumentum, agit in virtute alterius ad eliciendum 
+       <lb ed="#B" n="35"/>actum calefactionis per formam determinatam ab illo in cuius virtute informatur in elicien- 
+       <lb ed="#B" n="36"/>do. sicut enim calor in virtute propria: vt scilicet est calor simpliciter, non agit nisi vt ratio elicitiua 
+       <lb ed="#B" n="37"/>actus calefactionis simpliciter: sic nec voluntas, vt scilicet est voluntas simpliciter, non agit nisi vt 
+       <lb ed="#B" n="38"/>ratio elicitiua actus volendi simpliciter. Et sicut calor agens vt ratio elicitiua calefactionis ex se cum 
+       <lb ed="#B" n="39"/>est informatus virtute aliqua naturali &amp; proportionali alicui formae substantiali generandae ex mate 
+       <lb ed="#B" n="40"/>ria calefactibili in virtute illius agit eliciendo sub determinata forma &amp; modo actum calefactionis 
+       <lb ed="#B" n="41"/>scilicet secundum quam est actus ille dispositiuus materiae: vt de ipsa forma substantialis dicta genere 
+       <lb ed="#B" n="42"/>tur, puta de agendo, congregando, atque conmiscendo humidum &amp; siccum: &amp; constare illa simul fa- 
+       <lb ed="#B" n="43"/>ciendo: consimiliter voluntas agens: vt ratio elicitiua volitionis ex se cum est informata affectione  
+       <lb ed="#B" n="44"/>aliqua in virtute illius agit actum volitionis sub determiata forma: &amp; modo temperato: scilicet secun- 
+       <lb ed="#B" n="45"/>dum exigentiam &amp; congruentiam finis: per hoc quod illa affectio, puta iusti: est temperamentum quoddam in  
+       <lb ed="#B" n="46"/>voluntate: vt actus elicitus a voluntate sub teperamento quodam ab ipso sicut a ratione elicitiua elicia 
+       <lb ed="#B" n="47"/>tur. Quod plane explicat Anseices quando loquitur de voluntate commodi in volendo beatitudinem: &amp; de 
+       <lb ed="#B" n="48"/>voluntate iusti in volendo beatitudinem iusteid ist sicut iustum &amp; congruum est hominem velle illam: di 
+       <lb ed="#B" n="49"/>cens sic de casu diaboli. c. xiiii. Quoniam nec potest nec debet esse beatus: nisi velit &amp; iuste velit esse beatus, ne- 
+       <lb ed="#B" n="50"/>cesse est vt sic faciat deus vtranque voluntatem in illo conuenire, vt &amp; beatus velit esse &amp; iuste velit 
+       <lb ed="#B" n="51"/>quatenus addita iustitia voluntati sic temperet voluntatem beatitudinis, vt resecet voluntatis exces- 
+       <lb ed="#B" n="52"/>sum: &amp; excedendi non amputet potestatem: vt tamen per hoc quod volet simpliciter esse beatus modum possit 
+       <lb ed="#B" n="53"/>excedere: per hoc vero quod iuste volet non velit excedere. Ecce plane quod affectio iusti non est in voluntate 
+       <lb ed="#B" n="54"/>vt ratio elicitiua vel coelicitina actus volendi: sed solum vt temperatiua voluntatis: quatenus ve- 
+       <!--1119.xml-->
+       <pb ed="#B" n="539-v"/>
+        <lb ed="#B" n="1"/>luntas eliciens actum volitionis vt elicitiua vel potius in virtute illius agat vt temperatem &amp; modo  
+       <lb ed="#B" n="2"/>congruenti illum eliciat resecando per hoc excessum cum possit excedere: &amp; consimiliter (licet Ansel, non 
+       <lb ed="#B" n="3"/>dicat) resecando seu potius supplendo defectum eum possit deficere. Et ratione huius temperamenti quod agit 
+       <lb ed="#B" n="4"/>voluntas in virtute affectionis circa actum quem elicit, dicitur etiam affectio ipsa actum elicere: vt ratio eli- 
+       <lb ed="#B" n="5"/>citiua eius: licet nequaquam sit ratio elicitiua eius quo ad substantiam actus. &amp; secundum hoc dicit Anfelu. in  
+       <lb ed="#B" n="6"/>fine de concor. quod non inconuenienter dicitur quod voluntas vult: &amp; quod affectio vult: quamuis improprie hoc dicatur 
+       <lb ed="#B" n="7"/>nihil enim, proprie vult: nisi habens voluntatem. Minus etiam improprie dicitur voluntas velle quam affectio, eo quod  
+       <lb ed="#B" n="8"/>in ipsa affectione non est actio volitionis sicut est in voluntate: sed hoc non secundum rationem illam qua  
+       <lb ed="#B" n="9"/>est elicitiua: immo solummo secundum rationem illam qua de ipsa habet elici: &amp; est eius receptiua. vt secundum 
+       <lb ed="#B" n="10"/>hoc minus, proprie dicatur voluntas velle secundum rationem illam qua elicit actum volitionis quam secundum illam 
+       <lb ed="#B" n="11"/>qua ipsum recipit. Et propter idem etiam habens voluntatem magis, proprie dicitur velle voluntate quam affectione: &amp; 
+       <lb ed="#B" n="12"/>similiter magis, proprie dicitur velle voluntate secundum rationem qua recipit in se actum volitionis quam secundum ra- 
+       <lb ed="#B" n="13"/>tionem illam qua eum elicit: &amp; hoc loquendo de praedicatione formali. forma enim qua volens vult non est nisi 
+       <lb ed="#B" n="14"/>ipsa volitio. Loquendo autem de praedicatione effectiua sic considerando substantiam actionis volens solummodo  
+       <lb ed="#B" n="15"/>dicendus est velle voluntate: vt est ratio elicitiua: nequaquam vt est ratio receptiua: similiter nec ipsa af-  
+       <lb ed="#B" n="16"/>fectio, eo quod non est ratio elicitiua. vt dictum est. Considerando autem formam &amp; modum actionis elicitae, sic 
+       <lb ed="#B" n="17"/>secundum formam quae est ex parte obiecti magis, proprie dicitur volens velle affectione quam voluntate. Et similiter ap 
+       <lb ed="#B" n="18"/>fectio praedicatione effectiua magis, proprie dicitur velle quam ipsa voluntas: eo: quod forma illa actus magis &amp; 
+       <lb ed="#B" n="19"/>principalius procedit ex affectione quam ex voluntate. Vnde aspiciendo ad talem formam actus dicit <name ref="#Augustine">Augustinus</name> quod  
+       <lb ed="#B" n="20"/>charitas se habet ad liberum arbitrium vt sessor ad equum. charitas enim quasi freno retrahit liberum arbitrium  
+       <lb ed="#B" n="21"/>ne excedat in actum eliciendo: &amp; quasi calcaribus vrget liberum arbitrium: &amp; stimulat ne deficiat, aut immisse agat 
+       <lb ed="#B" n="22"/>sed vt agat ad finem adipiscendum, sicut conuenit &amp; congruit: quemadmodum equus currit sicut convenit &amp; 
+       <lb ed="#B" n="23"/>eongruit quando decenter: &amp; pacifice ambulat. &amp; propter hoc omnia opera meritoria potius attribuuntur charita 
+       <lb ed="#B" n="24"/>ti: quam libero arbitrio: &amp; in agendo, &amp; in eliciendo, &amp; quibuscumque aliis modis: Sicut autem voluntas in virtute 
+       <lb ed="#B" n="25"/>affectionis agit, sic calor in virtute alicuius formae substantialis secundum iam dictum modum: &amp; econtra 
+       <lb ed="#B" n="26"/>quemadmodum calor agens ex se vt ratio elicitiua calefactionis cum est informatus aliqua virtute naturali 
+       <lb ed="#B" n="27"/>defectiua ab esse alicuius formae substantialis, in virtute illius agit sub contraria forma &amp; modo: vt calor pu 
+       <lb ed="#B" n="28"/>trefactus in materia cuius naturalis dispositio secundum formam substantialem corrupta est: non agitnise 
+       <lb ed="#B" n="29"/>vt ratio elicitiua calefactionis: secundum quam quod putrefit hent deuenire ad completam puluerisationem scilicet disgre- 
+       <lb ed="#B" n="30"/>gando &amp; dissipando per hunidi exhalationem ea quae prius in mixto constabant congregata per generationem: consimimiliter 
+       <lb ed="#B" n="31"/>&amp; voluntas agens vt ratio elicitiua actus ex se cum est informata affectione aliqua defectiua in vi illius agit 
+       <lb ed="#B" n="32"/>actum volitionis excessiue vel remisse: &amp; per hoc affectio iniusti est intemperamentum quoddam in voluntate vt actus 
+       <lb ed="#B" n="33"/>electus a voluntate absque medio&amp; temperamento elicitur. Sic ergo patet quomodo voluntas in eliciendo actum volitionis 
+       <lb ed="#B" n="34"/>sub forma accepta in actu ex ratione obiecti operatur sicut instrumentum affectionum iusti. vel iniusti ineliciendo  
+       <lb ed="#B" n="35"/>autem actum sub forma accepta ab eliciente, nequaquam opera voluntatis inducendo talem formam in ipso actu sit in-  
+       <lb ed="#B" n="36"/>strumentum affectionum: sed potius econuerso affectiones agunt ad illam formam: vt instrumenta voluntatu: &amp; liberi 
+       <lb ed="#B" n="37"/>ar. Sicut enim forma actionis ex obiecto consistit in modo medio temprato quo congruit velle finem &amp; niti ad ipsum  
+       <lb ed="#B" n="38"/>sicut &amp; forma cursus equi est decens ambulatio quae proportionaliter passibus pedum anteriorum illos passus passibus 
+       <lb ed="#B" n="39"/>pedum posteriorum transgreditur: sic etiam forma actionis ex elicitate consistit in motu intenso vel remisso volen 
+       <lb ed="#B" n="40"/>do &amp; actione voluntatis intensa vel remissa intendendo in finem praedicta forma supposita. &amp; hoc quemadmodum est 
+       <lb ed="#B" n="41"/>forma cursus equi cum est velox vel tardus salua proportione formae praecedentis in ambulando. Et dico hanc for 
+       <lb ed="#B" n="42"/>mam prouenire ex parte elicientis actum: quia modum hunc non imprimit in agendo in virtute affectionis sed propria sup 
+       <lb ed="#B" n="43"/>posita affectione, &amp; forma praecedente circa actum. Sed sub tali forma ex parte elicientis actum accepta potest ab  
+       <lb ed="#B" n="44"/>eliciente actus causari dupliciter. Vno modo stimulante ipsa affectone ipsam voluntatem ad intense vel remisse elicien 
+       <lb ed="#B" n="45"/>dum actum. &amp; tunc adhuc affectio est principale in actu quae ad hanc formam inducendam: &amp; voluntas instarintum: quamquam vo 
+       <lb ed="#B" n="46"/>luntas inducat illam, propria virtute: licet stimulata virtute alterius non autem in virtute alterius. Alio 
+       <lb ed="#B" n="47"/>modo non stimulante ipsa affectione sed voluntate seipsam stimulante: &amp; tunc voluntas est principale: &amp; affe- 
+       <lb ed="#B" n="48"/>ctio instrumentum quia assumit ipsam in vsum &amp; facultatem suam ad expedite: &amp; efficaciter siue intense 
+       <lb ed="#B" n="49"/>exequendum actionem suam: &amp; hoc quemadmodum si equus sanitatem habens in membris vtatur illa ad velociter 
+       <lb ed="#B" n="50"/>currendum, ipsa esset instrumentum equi respectu velocitatis in cursu. Et sic affectio quae inquantum est in-  
+       <lb ed="#B" n="51"/>strumentum voluntatis, charitas est, est quaedam sanitas voluntatis: inquantum vero stimulat ad motus in-  
+       <lb ed="#B" n="52"/>tentionem salua eius temperantia adhuc habet rationem sessoris: &amp; principalis agentis, &amp; voluntas instru 
+       <lb ed="#B" n="53"/>menti. quemadmo dum si equus agitatus furia currat velociter ipsa furia quasi sessor est equi &amp; equus 
+       <lb ed="#B" n="54"/>ipse instim. Propter quid dico quod in his dictis &amp; in aliis consimilibus oportet Anselu, exponere per seipsum: sed  
+       <lb ed="#B" n="55"/>tequrit diligentem lectorem. Ad intellectum igitur talium dictorum Anseia. sciendum est quod duplex est volitio 
+       <!--1120.xml-->
+       <pb ed="#B" n="540-r"/>
+        <lb ed="#B" n="1"/>quaedam qua quis vult commodum simpliciter: alia qua vult iustum. de quibus procedit determiatio Ansel. cum 
+       <lb ed="#B" n="2"/>dicit quod voluntas nihil vult nisi suis affectionibus. vnde omnes affectiones quibus aliquid vult voluntas 
+       <lb ed="#B" n="3"/>reducit ad affectionem commodi &amp; iusti. quas vocat aptitudines siue habilitates quasdam ad eliciendum 
+       <lb ed="#B" n="4"/>actus voluntatis. Quod &amp; declarat per simile in viribus sensitiuis vbi dicit ibidem. caa. xi. Sicut habemus in cor 
+       <lb ed="#B" n="5"/>pore membra &amp; quinque sensus singula ad suos vsus apta quibus tamquam instrumentis vtimur: vt sunt ma 
+       <lb ed="#B" n="6"/>nus aptae ad capiendum: pedes ad ambulandum: lingua ad loquendum: visus ad videndum: ita &amp; anima habet 
+       <lb ed="#B" n="7"/>in se quasdam vires: quibus vtitur velut instrumentis ad vsus congruos. Est namque ratio in anima quae sicut suo in-  
+       <lb ed="#B" n="8"/>strumento vtitur ad ratiocinandum: &amp; voluntas quavtitur ad volendum. Quoniam ergo singula instrumenta ha  
+       <lb ed="#B" n="9"/>bent &amp; hoc quod sunt, &amp; aptitudines suas: discernimus in voluntate instrumentum &amp; aptitudinem, quas apti 
+       <lb ed="#B" n="10"/>tudines in voluntate possumus nominare affectiones. &amp; infra. xii. capuia. Nam sicut visus plures habet aptitu 
+       <lb ed="#B" n="11"/>dines: scilicet ad videndum lucem, &amp; per lucem ad videndum figuras &amp; ad videndum colores: inta instrumentum 
+       <lb ed="#B" n="12"/>volendi duas habet aptitudines quaes voco affectiones, quarum vna est ad volendum conmoditatem altera ad vo 
+       <lb ed="#B" n="13"/>sendum rectitudinem. Nempe nihil vult voluntas quae est instrumentum &amp;c. vt supra in quaestione quid est 
+       <lb ed="#B" n="14"/>per se &amp; primo obiectum voluntatis. &amp; infra. caa. eodem. Velle autem aequiuocum est, sicut videre. quemadmodum  
+       <lb ed="#B" n="15"/>namque dicitur videre qui vtitur visu: &amp; qui non vtitur, sed habet aptitudinem videndi: ita asseritur velle &amp; qui 
+       <lb ed="#B" n="16"/>vtitur instrumento volendi, &amp; qui non vtitur: quoniam affectionem hoc est aptitudinem habet volendi. &amp;. c. xiii. 
+       <lb ed="#B" n="17"/>Ex his duabus affectionibus descendit omne meritum hominis: siue bonum: siue malum, quae in hoc differunt 
+       <lb ed="#B" n="18"/>quia illa quae est ad volendum conmodum inseparabilis est. Illa vero quae est ad volendum rectitudinem separa 
+       <lb ed="#B" n="19"/>bilis. His praelibatis sciendum quod triplex est affectio commodi. prima a deo per gratiam: secunda per actus no 
+       <lb ed="#B" n="20"/>stros impressa: tertia a deo naturaliter naturae indita. Prima affectio charitas est inquantum ipsa dili 
+       <lb ed="#B" n="21"/>gimus deum: vt ipse est finis omnium: &amp; omnia alia inquantum ordinantur in ipsum: vt ea quae sunt ad finem: 
+       <lb ed="#B" n="22"/>&amp; ipsa est affectio commodi: inquantum sub generali nomine commodi continentur &amp; bonum quod est finis: &amp; bo 
+       <lb ed="#B" n="23"/>na quae sunt ad finem, secundum quod supra est declaratum. Secunda affectio est amor qui est passio concepta 
+       <lb ed="#B" n="24"/>de rebus nobis placentibus: &amp; cum est vehemens dicitur zelus, qui cum bonus est &amp; temperatus, atque licitus 
+       <lb ed="#B" n="25"/>dicitur amor amicitiae. cum vero est malus intemperatus &amp; illicitus dicitur amor concupiscentiae siue cu 
+       <lb ed="#B" n="26"/>piditatis. dicente Ansel. de concord. cap. xiii. Voluntas illa quae est ad volendum conmodum non semper est 
+       <lb ed="#B" n="27"/>mala: sed quando consentit carni concupiscenti aduersus speanitem. Tertia affectio est amor naturaliter indi  
+       <lb ed="#B" n="28"/>tus voluntati ad bonum: &amp; ita nihil est additum super essentiam animae ad volitiuam potentiam quod re 
+       <lb ed="#B" n="29"/>differat ab aliis. Sed est solummodo quaedam naturalis habilitas &amp; aptitudo ad volendum conmodum statim 
+       <lb ed="#B" n="30"/>cum offertur: quae vt dicit Ansel. c. xiiii. de concor, non velle nequit. secundum quam etiam omnia bonum appe- 
+       <lb ed="#B" n="31"/>tunt. &amp; ideo ista affectio est inseparabilis: &amp; non solum in hominibus: sed etiam in brutis. dicente Ansel. de 
+       <lb ed="#B" n="32"/>casu diaboli. c. xiii. Commodum non solum omnis rationalis natura: sed etiam omne quod sentire pont vult &amp; 
+       <lb ed="#B" n="33"/>vitat incommodum. Prima affectione pauci mouentur quia in paucis est charitas secundum <name ref="#Aristotle">philosophum</name> 
+       <lb ed="#B" n="34"/>sed de istis non loquitur Anselu. &amp; sunt separabiles: licet per secundam plurimi experiantur moueri. proper quid  
+       <lb ed="#B" n="35"/>non est mirum si voluntas humana non dicatur moueri nisi suis affectionibus. Tertia est in omnibus hominibus 
+       <lb ed="#B" n="36"/>etiam in brutis: &amp; inanimatis: &amp; de ista tertia affectione commodi loquitur solummodo Ansel. Propter id quid  
+       <lb ed="#B" n="37"/>dictum est hic: quod vnum &amp; idm: scilicet charitas potest accipi vt affectio commodi: &amp; eadem potest accipi vt 
+       <lb ed="#B" n="38"/>affectio iusti: Sciendum quod si ponatur charitas vt affectio commodi: &amp; etiam vt affectio iusti: hoc est inquantum  
+       <lb ed="#B" n="39"/>iustum est commodum. Vnde alia &amp; alia ratione est affectio commodi &amp; iusti. est enim affectio iusti inquantum  
+       <lb ed="#B" n="40"/>illud est secundum se bonum &amp; eligibile: est autem affectio commodi inquantum illud iustum est bonum &amp; con 
+       <lb ed="#B" n="41"/>ueniens volenti. De affectione autem quam iustitiam siue rectitudinem vocant: similiter sciendum quod triplex 
+       <lb ed="#B" n="42"/>est: quaedam gratuita: quae non habetur nisi a deo ex gratia: quaedam politica, siue moralis: quae non habetur nisi 
+       <lb ed="#B" n="43"/>exercitio operis: quaedam vero naturalis quae est naturae indita, quarum prima &amp; secunda sunt habitus qui-  
+       <lb ed="#B" n="44"/>dam in voluntate: &amp; omnino separabiles &amp; differunt re a voluntate in qua sunt. Et de prima istarum so 
+       <lb ed="#B" n="45"/>lum modo loquitur Anselius secundum quod de voluntate &amp; de iustitia loquens dicit vbi supra. ca. iiii. Velle 
+       <lb ed="#B" n="46"/>iam nequit nisi habens: habere illam nullatenus potest nisi per gratiam. De tertia loquitur philosophus. Et est 
+       <lb ed="#B" n="47"/>iustitia generalis comprehendens sub se omnes habitus virtutum moralium quia non potest facere ex habitu  
+       <lb ed="#B" n="48"/>iusta nisi habens iustitiam: sic neque fortia nisi habens fortitudinem, nec temperata nisi habens temperantiam. Ter 
+       <lb ed="#B" n="49"/>tia non est habitus: sed naturalis quaedam aptitudo in libero arbitrio: &amp; habilitas ad eliciendum quae recta 
+       <lb ed="#B" n="50"/>&amp; iusta sunt: &amp; est inseparabilis: &amp; re idem cum voluntate: sicut aptitudo visus ad videndum cum visu: &amp; apti 
+       <lb ed="#B" n="51"/>tudo intellectus ad intelligendum cum intellectu. sed ista habilitas multum reprimitur per habitus vitiosos 
+       <lb ed="#B" n="52"/>manet tamen in re naturaliter remurmurans malo: ent in danmnatis: &amp; pertinet ad synteresm. Et de quali  
+       <lb ed="#B" n="53"/>bet dictarum trium iustitiarum vere potest dici quod non potest rectitudinem velle siue iustitiam: nisi habens eam. Ad cuius 
+       <lb ed="#B" n="54"/>intellectum sciendum est quod tribus modis vult aliquis rectitudinem siue iustitiam. Primo modo minus dili- 
+       <!--1121.xml-->
+       <pb ed="#B" n="540-v"/>
+        <lb ed="#B" n="1"/>gendo eam, quam vt iustus esse valeat: &amp; diligendo eam ipse sibi acquirat. &amp; per hunc modum iniustus carens 
+       <lb ed="#B" n="2"/>habitu iustitiae primo &amp; secundo modo: per iustitiam tertio modo potest diligere in alio iustitiam primo &amp; 
+       <lb ed="#B" n="3"/>secundo modo. secundum quod dicit Augustinus. xiiii. de trinitate. c. iii. Secundo modo vult aliquis rectitudinem 
+       <lb ed="#B" n="4"/>id est iustitiam &amp; primo vel secundo modo: intantum diligendo eam vt per hoc iustus esse valeat. dicente Au 
+       <lb ed="#B" n="5"/>gu. i. de libero arbitrio. c. xvii. Voluntatem bonam si bona voluntate diligimus. consequenter illae virtutes 
+       <lb ed="#B" n="6"/>animum nostrum incolent: quas habere est honeste viuere: &amp; recte. Quod verum est de virtutibus politicis dili 
+       <lb ed="#B" n="7"/>gendo eam rectitudinem voluntatis tertio modo: sed non de virtutibus gratuitis nisi diuina gratia assi 
+       <lb ed="#B" n="8"/>stente. secundum quod illud dictum suum exponit in libro Retract. Tertio modo vult aliquis rectitadinem: siue 
+       <lb ed="#B" n="9"/>iustitiam: siue primo: siue secundo modo: tantum diligendo eam vt secundum eam operari non cesset: &amp; sic non nisi iu- 
+       <lb ed="#B" n="10"/>stus politice pont velle iustitiam: seu diligere generalem iustitiam politicam: nec non nisi iustus gratuito potest 
+       <lb ed="#B" n="11"/>velle siue diligere iustitiam generalem gratuitam. tales enim actus volendi &amp; diligendi: sunt actus perfecti vo 
+       <lb ed="#B" n="12"/>lendi iustitiam: qui non procedunt nisi ex habitu. Actus autem volendi &amp; diligendi iustitiam primo modo sunt 
+       <lb ed="#B" n="13"/>actus imperfecti non ex habitu. sed primi in politicis sunt dispositiui ad habitum imperfecte: &amp; a remotis: secum 
+       <lb ed="#B" n="14"/>di vero sunt inductiui habitus sub esse incompletissimo: qui augetur ex actibus elicitis ex ipso habitu, consimi 
+       <lb ed="#B" n="15"/>libus illis ex quibus primo est generatus. vt patet per doctrinam philosophi secundo ethicorum. Sic ergo pa 
+       <lb ed="#B" n="16"/>tet quod ponendo voluntatem moueri suis affectionibus ad euadendum dictum argumentum, incurritur inconveniens 
+       <lb ed="#B" n="17"/>maius: &amp; quid plus est nec ipsi per dicta sua euadere possunt difficultatem conclusam in argumento: quod vo 
+       <lb ed="#B" n="18"/>luntas ex se habeat quod determinet se ac per hoc moueat se in actum volendi: nec hoc habeat ab affectione 
+       <lb ed="#B" n="19"/>aliqua: licet non determinet se seu moueat ad actum volendi sine affectione, vt dicunt: seipsa ergo vadit 
+       <lb ed="#B" n="20"/>de potentia ad actum: &amp; secundum idem re est mouens &amp; motum primo &amp; per se. Quia ergo dicitur in argumento 
+       <lb ed="#B" n="21"/>idem inconveniens &amp;c. dico quod cum dicitur aliquid moueri a seipso primo secundum totum quatuor notam 
+       <lb ed="#B" n="22"/>tur: ex quibus vel ex aliquo illorum illud habet quod sit inconveniens. Quorum primum est ipsum moueri: quid ponit 
+       <lb ed="#B" n="23"/>nunc se habere aliter quam prius: quod necessario cooperatur ad hoc quod illud sit inconueniens: quia si po- 
+       <lb ed="#B" n="24"/>neretur aliquid moueri a seipso primo secundum totum absque eo quod aliter se habeat nunc quam prius, non 
+       <lb ed="#B" n="25"/>esset inconueniens ponere. hoc enim modo deus a seipso secundum totum mouetur motu intellectionis &amp; voli- 
+       <lb ed="#B" n="26"/>tionis exclusa sola ratione aliter se habendi nunc quam prius a signatione motus. Secundum est quod dicitur a se 
+       <lb ed="#B" n="27"/>ipso: quod similiter necessario cooperatur ad dictum inconueniens., quia si ab alio ponatur aliquid moueri primo secumn 
+       <lb ed="#B" n="28"/>dum totum, nullum omnino est inconueniens, puta cum lapis proiicitur sursum. Tertium est quid dicitur primo: in quo  
+       <lb ed="#B" n="29"/>intelligitur per se: quod similiter necessario cooperatur ad idem: quia si ponatur aliquid moueri a seipso secundario &amp; 
+       <lb ed="#B" n="30"/>per accidens, nuilum omnino est inconueniens, puta quando nauta existens in naui mouet nauem quae primo mouetur ab  
+       <lb ed="#B" n="31"/>alio vt a nauta: ipse secundario &amp; per accidens mouetur secundum totum a seipso quia per motum nauis. Quartum 
+       <lb ed="#B" n="32"/>est secundum totum: quid similiter necessario cooperatur: quia nullum omnino est inconueniens aliquod compositum mo 
+       <lb ed="#B" n="33"/>ueri a seipso primo secundum vnam partem sui: &amp; mouere secundum aliam: &amp; hoc siue sit pars compositi quid  
+       <lb ed="#B" n="34"/>est vnum per accidens sicut grauitas in graui: qua graue mouet se large sumendo motum, extendendo no-  
+       <lb ed="#B" n="35"/>men motus ad mutationem: quid non refert ad propositum: quia &amp; proprie moueri: &amp; similiter mutari, ambo in  
+       <lb ed="#B" n="36"/>cludunt nunc aliter se habere quam prius: siue sit pars compositi quod est vnum per accidens: &amp; hoc siue fuerit inte 
+       <lb ed="#B" n="37"/>grans quantitatem: quemadmodum dicimus quod animal mouetur a seipso primo secundum dextrum mouens 
+       <lb ed="#B" n="38"/>&amp; secundum sinistrum motum, siue integrans essentiam: quemadmodum dicimus quod animal mouetur a seipso primo se 
+       <lb ed="#B" n="39"/>cundum animam mouentem: &amp; secundum corpus motum. &amp; in solo isto quarto est ratio inconuenientis in pro-  
+       <lb ed="#B" n="40"/>posito si sit inconveniens, eo quod voluntatem moueri &amp; se habere aliter nunc quam prius nuilum est inconue- 
+       <lb ed="#B" n="41"/>niens. Hoc enim in solo deo est inconveniens: similiter quod ponatur moueri a seipsa &amp; primo &amp; secundum to- 
+       <lb ed="#B" n="42"/>tum. Si tamen esset sufficienter in ea aliquid quo per se moueret: &amp; aliquid quo per se moueretur: nuilum omnino esset 
+       <lb ed="#B" n="43"/>inconueniens sicut nec quod graue moueretur a seipso primo. Sed talia duo: vt dicit argumentum, non inuenium 
+       <lb ed="#B" n="44"/>tur in voluntate: quia non sunt in ea diuersa: nisi secundum rationem tantum: quorum diuersitas non sufficitur 
+       <lb ed="#B" n="45"/>sic enim moueri a se primo secundum vnam rationem: &amp; mouere secundum alteram, esset moueri a se primo 
+       <lb ed="#B" n="46"/>secundum totum: quia illud secundum dictas rationes est idipsum: &amp; totum quod eius est. &amp; sicvt videtur nequaquam sufficit 
+       <lb ed="#B" n="47"/>ad seipsum mouendum alia &amp; alia ratio in illo: quia mouens inquantum mouens est in actum secundum il- 
+       <lb ed="#B" n="48"/>lud ad quod motum est in potentia: &amp; impossibile est quod idem re licet habeat diuersas rationes in actum &amp; 
+       <lb ed="#B" n="49"/>in potentia idem &amp; secundum idem, &amp; duo diuersa ratione, sint in voluntate: &amp; tali diuersitate quae  
+       <lb ed="#B" n="50"/>sufficit vt secundum vnum illorum sit mouens: &amp; secundum aliud motum, &amp; non a se primo secundum 
+       <lb ed="#B" n="51"/>totum: &amp; quod secundum vnum illorum potest esse in actu ad quod est in potentia secundum aliud. Adquo-  
+       <lb ed="#B" n="52"/>rum intellectum distinguendum est aliquid ex parte diuersitatis secundum rationem: &amp; aliquid ex parte 
+       <lb ed="#B" n="53"/>actus. Est siquidem diuersitas aliquorum secundum rationem triplex. est quaedam illorum quae sunt in ipsare: 
+       <lb ed="#B" n="54"/>&amp; similiter eorum diuersitas atque pluralitas: &amp; ambo ab intellectu sunt percepta in re: &amp; perhoc sunt 
+       <!--1122.xml-->
+       <pb ed="#B" n="541-r"/>
+        <lb ed="#B" n="1"/>concepta in intellectum: &amp; habent esse in intellectum: qualis est diuersitas in specie generis &amp; dmiae. propter quid facit vera 
+       <lb ed="#B" n="2"/>compositionem in illa. Alia vero est ipsorum quae sunt in ipsa re &amp; ab intellectu percepta esse in re, &amp; 
+       <lb ed="#B" n="3"/>per hoc sunt concepta in intellectu: sed eorum diuersitas aut pluralitas non est in re ipsa nec ab intelle- 
+       <lb ed="#B" n="4"/>ctu percepta in re esse, sed ab ipso solo intellectu ex consideratione rei &amp; illorum in ipsa concepta est in intel 
+       <lb ed="#B" n="5"/>lectum, &amp; habet esse in ipso solo, qualis est diuersitas in deo veri &amp; boni &amp; aliorum attributorum, vt tactum est 
+       <lb ed="#B" n="6"/>supra in prima quaestione. Tertia autem est illorum quae non sunt in ipsa re nec ab inteliectu percepta 
+       <lb ed="#B" n="7"/>esse in re, similiter nec ipsorum diuersitas: sed ab ipso solo intellectu ex simplici consideratione ipsius rei 
+       <lb ed="#B" n="8"/>sunt concepta &amp; eorum diuersitas in intellectum: &amp; in ipso solo habent esse: qualis est diuersitas &amp; plu 
+       <lb ed="#B" n="9"/>ralitas definitionis &amp; definiti, &amp; similiter dextri &amp; sinistri in columna. Dico ergo quod diuersitas aliquo  
+       <lb ed="#B" n="10"/>rum secundum rationem isto tertio modo non sufficit ad hoc quod aliquid secundum diuersas rationes possit esse mo 
+       <lb ed="#B" n="11"/>bile &amp; motiuum &amp; sic seipsum mouere. Sic enim mouere seipsum secundum diuersas rationes esset 
+       <lb ed="#B" n="12"/>mouere seipsum secundum totum primo vt procedit ratio: quia illa diuersitas non est in re: nec aliquid facit ad  
+       <lb ed="#B" n="13"/>rationem mobilis vel motiui. Diuersitas autem secundum rationem secundo modo sufficit in deo ad hoc quod  
+       <lb ed="#B" n="14"/>seipsum vere dicatur mouere secundum actum intelligendi: sed secundum aliud &amp; aliud secundum rationem in  
+       <lb ed="#B" n="15"/>ipso: quia secundum rationem veri mouet: secundum rationem autem intellectus mouetur. Et sicut ista diuersitas 
+       <lb ed="#B" n="16"/>secundum rationem sufficit in deo: vt vere possit dici mouere seipsum praemo, licet non secundum totum, sed secundum aliquid  
+       <lb ed="#B" n="17"/>sui mouet, &amp; secundum aliquid mouetur: &amp; hoc excludendo ibi a motu omnem rationem mutationis in aliter 
+       <lb ed="#B" n="18"/>&amp; aliter se habendo, sicut dictum est: sic diuersitas secundum rationem in voluntate humana &amp; angelica sufficit 
+       <lb ed="#B" n="19"/>ad hoc quod vere possit dici mouere seipsum primo: sed non secundum se totum sed secundum aliud &amp; aliud  
+       <lb ed="#B" n="20"/>quia voluntas tam angeli quam hominis vt est appetitus simpliciter: se habet ad seipsum vt est rationalis siue liber aut libe 
+       <lb ed="#B" n="21"/>ri arbitrii: sicut se habet genus ad differentiam. Haec enim duo nominat voluntas tamquam species composita: sicut 
+       <lb ed="#B" n="22"/>enim homo est animal rationale, sic voluntas est appetitus rationalis, in qua rationalitate includitur libertas eius respectu 
+       <lb ed="#B" n="23"/>finis: &amp; liberum arbitrium respectu eorum quae sunt ad finem. ldeo vt dicit Damasce. li. ii. c. xxiiii. nec voluntas 
+       <lb ed="#B" n="24"/>dicitur irraoionabilium appetitus. voluntas enim est rationalis &amp; liberi arbitrii naturalis appetitus. &amp; infra. c. 
+       <lb ed="#B" n="25"/>xxix. lomque appetens si velit potestatem habet refrenare appetitum vel sequi eum. Quod intelligo non de appetitu sen 
+       <lb ed="#B" n="26"/>sitiuo tantum: sed de illo qui includitur in voluntate. de quo dicit in dicto capi. xxix. Ducit magis rationalis ap 
+       <lb ed="#B" n="27"/>petitus: libero arbitrio enim appetit: &amp; istum motum quem facit voluntas quae est appetitus rationalis eo quo  
+       <lb ed="#B" n="28"/>ratio est vt vna parte eius in appetitu: inquantum est appetitus simplex: vt in subiecto receptibili: &amp; 
+       <lb ed="#B" n="29"/>passio vt in alia parte eius, potest raetrahere cessando amouere: vel per ipsum continuare. quid est refrenare 
+       <lb ed="#B" n="30"/>appetitum vel sequi ipsum. Vt secundum hoc iuxta imaginationem Anseico superius tactam imaginemur animam 
+       <lb ed="#B" n="31"/>rationalem vel angelum primo factam in nuda substantia, quae ex illa esset in sola potentia essentiali ad actum 
+       <lb ed="#B" n="32"/>volendi: secundo factam in ipsa appetitum simpliciter: per quem esset in potentia accidentali ad recipiendum in  
+       <lb ed="#B" n="33"/>se actum intelligendi si esset agens illum: tertio libertatem, per quam est in potentia accidentali ad eliciendum actum 
+       <lb ed="#B" n="34"/>volendi: &amp; quarto ipsi datam esse affectionem naturalis habilitatis ad volendum conmoda simpliciter: quae vt 
+       <lb ed="#B" n="35"/>dictum est secundum Anseles non velle nequit. &amp; secundum quod dicit Boetius, mentibus hominium naturaliter inserta est 
+       <lb ed="#B" n="36"/>summi verique boni cupiditas. Ansel, autem dicitur. Secundum omnium sensum in beatitudine est sufficientia 
+       <lb ed="#B" n="37"/>competentium conmodorum siue omnium indulgentia. &amp; quod quito ipsi data esset affectio naturalis aptitudinis ad  
+       <lb ed="#B" n="38"/>volendum iuste commoda: quae vt sic appetuntur, non sunt nisi conuenientia &amp; competentia: sed hoc non solum, 
+       <lb ed="#B" n="39"/>sed cum potestate ipsa non volendi iuste, deserendo regulam naturalis iustitiae: &amp; ibi status, quia non superad-  
+       <lb ed="#B" n="40"/>duntur nisi habitus &amp; passiones &amp; influentiae si sint separabiles. Ex parte autem actus quando dicitur quod mo 
+       <lb ed="#B" n="41"/>uens vel id quid mouet debet esse in actu respectu eius quod mouetur: vel quo mouetur: dico quod agens 
+       <lb ed="#B" n="42"/>semper est tale in actu quale est mobile in potentia. scilicet actione vel virtute. Actione puta quando calidum agit 
+       <lb ed="#B" n="43"/>in frigidum quod est potentia calidum. &amp; idem est calor secundum speciem in agente qui postmodum fit in passo 
+       <lb ed="#B" n="44"/>&amp; hoc generale est in omnibus generantibus &amp; prducentibus aliquid vniuoce. semper enim simile procedit a simi 
+       <lb ed="#B" n="45"/>li in specie. Sed talem similitudinem, vt dicit Philosophous. vii. metaphysicae, non oportet vbique requirere 
+       <lb ed="#B" n="46"/>vt cum ex equa &amp; asino generatur mulus: est enim virtus illorum conmixta in semine quasi mulus: quia licet 
+       <lb ed="#B" n="47"/>mulus non sit mulus actione: est tamen mulus virtute, quemadmodum sol calefaciens est calidus virtute: &amp; 
+       <lb ed="#B" n="48"/>quemadmodum graue virtute est deorsum: propter quod mouet se deorsum amoto impedimento. Consimi 
+       <lb ed="#B" n="49"/>liter dico in proposito: quod sicut lapis a generante habet formam grauis qua descendit deorsum si non impe 
+       <lb ed="#B" n="50"/>diatur: vt quantum recipit de forma grauis, tantum &amp; de motu, &amp; de descensu: ita quod in illo instanti 
+       <lb ed="#B" n="51"/>in quo perfecte generata est forma grauis, est perfecte mutatum deorsum: &amp; si existente impedimento ge- 
+       <lb ed="#B" n="52"/>neretur, sursum est vt potentia accidentali, vt statim amoto impedimento descendat: propter quod grauia &amp; le- 
+       <lb ed="#B" n="53"/>uia dicuntur in. viii. physicorum, moueri a generantibus ipsa: &amp; hoc quia dant formam qua mouentur: habita tamen  
+       <lb ed="#B" n="54"/>illa forma ipsa mouent seipsa per se primo: sed non secundum totum, vt dictum est: Sic appetitus humanus 
+       <!--1123.xml-->
+       <pb ed="#B" n="541-v"/>
+        <lb ed="#B" n="1"/>non organicus si simpliciter consideretur, habet a causante formam liberi arbitrii: qua vult secundum  
+       <lb ed="#B" n="2"/>actum aut libere potest velle amoto impedimento quod est absentia obiecti: &amp; ipso facto praesente in intellectu per  
+       <lb ed="#B" n="3"/>cognitionem tunc libere vult si illud sit finis simpliciter: vel potest libero arbitrio velle si sit ad finem. &amp; 
+       <lb ed="#B" n="4"/>quantum recipit homo de forma libertatis, tantum de potestate ad eliciendum actum volitionis. Propter quod volentes pos 
+       <lb ed="#B" n="5"/>sunt. dici moueri a deo in omni actu volendi. dicente Anselmo. llle verius dicitur facere omne quod facit natura &amp;c. vt 
+       <lb ed="#B" n="6"/>supra. Postquam tamen homo habet a deo sibi datam huiusmodi formam, potest moueri secundum ipsam cessante impedimento 
+       <lb ed="#B" n="7"/>absque eo quod ab alio moueatur: &amp; sic a seipso mouetur primo licet non secundum totum. &amp; hoc quemadmodum si sol 
+       <lb ed="#B" n="8"/>esset virtute calidus: &amp; caloris generatiuus: quasi aliqua potentia eius actiua in eo quid est formale in ipso exi 
+       <lb ed="#B" n="9"/>stente: &amp; cum hoc esset susceptiuus calefactionis verae, &amp; formaliter natus esset recipere in se calorem verum 
+       <lb ed="#B" n="10"/>ipsemet semetipsum calefaceret cum cessaret impedimentum: &amp; hoc maxime in re spirituali non corporali. de qua 
+       <lb ed="#B" n="11"/>principaliter procedunt rationes Aristotelis quod omne quod mouetur ab alio mouetur, quas inducit i de anima. &amp;. vi. vii. &amp;. viii. 
+       <lb ed="#B" n="12"/>physicorum. secundum quod illas soluit Macrobius vt alias recitaui: &amp; maxime de motu, qui non est vere mo- 
+       <lb ed="#B" n="13"/>tus successiuus: nec mutatio transiens: quae sunt actus imperfecti secundum quod imperfectum est: sed operatio sim 
+       <lb ed="#B" n="14"/>plex tota simul existens &amp; permanens secundum libitum agentis: quae est actus perfecti secundum quod perfectum est. In vno  
+       <lb ed="#B" n="15"/>enim motu aut mutatione aliquando mouens &amp; motum &amp; rationes motiuae &amp; mobiles sunt diuersae atque separatae 
+       <lb ed="#B" n="16"/>re subiecto &amp; loco: vt quando ignis comburit ligna: &amp; vniuersaliter quando mouens &amp; mobile sunt diuersa tota se 
+       <lb ed="#B" n="17"/>parata. Aliquando vero sunt diuersae &amp; separatae re, subiecto, &amp; situ, licet non loco. vt quando in animali bruto dextrum  
+       <lb ed="#B" n="18"/>mouet sinistrum: &amp; vniversaliter quando mouens &amp; mobile sunt partes vnius, ita quod vna pars sit omnino alia ab altera &amp; 
+       <lb ed="#B" n="19"/>nihil eius quod est in vna parte sit in altera. Aliquando vero non differunt loco, nec subiecto, nec situ: sed re tantum 
+       <lb ed="#B" n="20"/>vt patet in motu grauis. Aliquando vero non differunt loco nec subiecto nec re: sed tantum situ: vt quando in homine in  
+       <lb ed="#B" n="21"/>quo vna anima est vna anima simpliciter in qualibet parte tota: ipsa vt est in parte dextra mouet sinistram. &amp; sic 
+       <lb ed="#B" n="22"/>secundum gradus semper minor est distinctio mouentis siue eius quo mouens mouet: &amp; moti siue 
+       <lb ed="#B" n="23"/>eius quo mouetur. Quare non est mirum si in anima separata ab organo secundum actionem adhuc minus 
+       <lb ed="#B" n="24"/>distinguatur: vt in voluntate mouens siue ratio mouendi: &amp; motum siue ratio mobilis. Si enim altius ascendatur  
+       <lb ed="#B" n="25"/>adhuc minus: vt in deo non est exitus de potentia in actum, &amp; adhuc differunt agens &amp; recipiens sicut 
+       <lb ed="#B" n="26"/>dictum est. Ad illud quod arguitur vltimo: quod voluntas vt est libera vel liberi arbitrii ex se est in potentia ad  
+       <lb ed="#B" n="27"/>actum: quare non exit in ipsum nisi per aliud: dico quod si loquamur de potentia passiua &amp; receptiua actus volitionis 
+       <lb ed="#B" n="28"/>voluntas ipsa vt est libera: siue liberi arbitrii: siue ratione partis eius quae est liberalitas vel libertas arbitrii 
+       <lb ed="#B" n="29"/>non est in potentia ad actum volendi: sed solummodo vt est appetitus simpliciter secundum praedicta. Si 
+       <lb ed="#B" n="30"/>vero loquamur de potentia actiua: dico quod quantum est ex se aut semper est in suo actu aut saltem in po 
+       <lb ed="#B" n="31"/>tentia accidentali ad illum: &amp; transit in ipsum amoto prohibente vel adiecto necessario absque tamen omni impressione 
+       <lb ed="#B" n="32"/>facta in illam: vt a mobili in cognitione: quod vt cognitum metaphorice mouet: sicut res vero, est terminus 
+       <lb ed="#B" n="33"/>motus: sicut dictum est. quemadmodum sol est in potentia accidentali ad illuminandum quando medium non est praesens 
+       <lb ed="#B" n="34"/>ita quod ipso praesente absque sui mutatione statim illuminat. &amp; sicut est de illuminatione solis in alio, ita est suo 
+       <lb ed="#B" n="35"/>modo de actum volitionis in voluntate ipsa secundum aliam &amp; aliam rationem.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

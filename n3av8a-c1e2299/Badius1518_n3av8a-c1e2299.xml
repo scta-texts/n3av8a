@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 40</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 40</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2299">
+       <head xml:id="n3av8a-c1e2299-Hd1e96">Quaestio 40</head>
+       <p xml:id="n3av8a-c1e2299-d1e99">
+        <lb ed="#B" n="20"/>CIrca secundum arguitur quod nec reddere possunt, nec petere, quia iam est affinitas contracti 
+       <lb ed="#B" n="21"/>quae copulam impedit, sicut &amp; matrimonium contrahendum, vt videtur. 
+      </p>
+      <p xml:id="n3av8a-c1e2299-d1e106">
+       IN contrariumest illud quod  
+       <lb ed="#B" n="22"/>dicitur extra de eo qui cogno. consangui. vxo. suae, Nec affinitas quae post contractum legi 
+       <lb ed="#B" n="23"/>time matrimonium inter virum &amp; vxorem inique contrahitur ei debet officere qui huiusmodi ini  
+       <lb ed="#B" n="24"/>quitatis particeps non existit: cum suo iure non debeat sine sua culpa priuari. 
+      </p>
+      <p xml:id="n3av8a-c1e2299-d1e115">
+       DIcendum  
+       <lb ed="#B" n="25"/>ad hoc quod diuina lex, etsi aliqua tangit de affinitate impediente matrimonium contrahem 
+       <lb ed="#B" n="26"/>dum Leu. xx. de affinitate tamen impediente aliquid circa iam contractum nihil omnino exprimit, sed  
+       <lb ed="#B" n="27"/>hoc in ecclesiae dispositione reliquit. Et ideo quantum est de iure diuino affinitas talis superueniens nec impedit 
+       <lb ed="#B" n="28"/>debitum petere nec exigere: sed quo ad hoc tenendum est quod ecclesia statuit. Id autem est quod mulier quando non est 
+       <lb ed="#B" n="29"/>in culpa, petere potest, &amp; vir debet ei reddere. Quando vero mulier est in culpa, vterque ius suum amisit omnino: nec 
+       <lb ed="#B" n="30"/>debent petere, nec reddere, vt insinuat decret. inducta, &amp; magis exprimit illa alia Tuae fraternitatis 
+       <lb ed="#B" n="31"/>Per haec patet obiectum: quod non est simile de affinitate praecedente &amp; consequente: quia praecedens mrimonium potest impe 
+       <lb ed="#B" n="32"/>dire contrahendum sine alicuius iniuria: copulam in iam contracto, sine vxoris consensu impedire non potest, vt dictumen.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="489-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4767">
+       <head xml:id="n3av8a-c1e4767-Hd1e96">Quaestio 9</head>
+       <p xml:id="n3av8a-c1e4767-d1e99">
+        <lb ed="#B" n="45"/>CIrca tertium arguitur quod suba incorporalis separata non possit pati ab igne quin calefiat: quia i 
+       <lb ed="#B" n="46"/>ignis nihil agit nisi mediante calore. sed mediante calore nihil agit nisi calefaciendo,  
+       <lb ed="#B" n="47"/>non agit autem calefaciendo nisi calefiat passum, ergo &amp;c. Contra, Nullum incorporale est re 
+       <lb ed="#B" n="48"/>ceptiuum impressionis corporalis. calefieri siue calidum esse est impressio corporalis, ergo &amp;c. Di 
+       <lb ed="#B" n="49"/>co ad intellectum quaestionis quod duplex est passio. Quaedam enim est corruptio subae rei: quaedam vero 
+       <lb ed="#B" n="50"/>est inquietatio. Primo modo nihil patitur nisi corpus secundum subam corruptibile: &amp; hoc du  
+       <lb ed="#B" n="51"/>pliciter: vel in ipsius subae corruptione: vel in corruptione harmoniae &amp; prportionis quae erat necessitas vt 
+       <lb ed="#B" n="52"/>forma subalis fieret in materia: &amp; quae similiter est dispositio quare est necessitas ad eius conseruationem 
+       <lb ed="#B" n="53"/>in esse. Vbi autem est talis passio, oportet quod fiat per contrarias dispositiones agentis &amp; passi 
+       <lb ed="#B" n="54"/>quia cum contraria nata sint fieri circa idim: si talis actio sit a calido: quod per se corrumpitur est 
+       <!--1019.xml-->
+       <pb ed="#B" n="489-v"/>
+        <lb ed="#B" n="1"/>contrarium calidi in subiecto in quo natum est fieri calidum. Et quia vt procedit secunda ratio, talis dis- 
+       <lb ed="#B" n="2"/>positio non est omnino nata esse in substantia separata: ideo dico quod tali modo non patitur ab igne: &amp; vlterius 
+       <lb ed="#B" n="3"/>quod quocumque modo ponenda sit pati ab igne quod tamen sic illa passione patiatur ab ipso quod in patiendo nullo 
+       <lb ed="#B" n="4"/>modo calefiat: nec quod aliquando possit dici quod ipsa sit calida. Quod nec dici potest reuera de anima quando pa 
+       <lb ed="#B" n="5"/>titur ab igne mediante calore vt est existens in corpore. quare multo minus dici potest de angelo vel anima  
+       <lb ed="#B" n="6"/>separata. Passio autem quae est inquietatio, est dolor tristitia &amp; huiusmodi: quae non consistit per se in immutatione  
+       <lb ed="#B" n="7"/>quae est secundum actum sentiendi aut intelligendi: quia omnis regularis actio est ex se nata generare delectatio 
+       <lb ed="#B" n="8"/>nem: &amp; est per se delectabilis: nec etiam consistit per se in aliquam laesione secundum subam vel dispositionem aliquam sentien 
+       <lb ed="#B" n="9"/>tis aut intelligentis: quia tunc laesum non sentiens nec intelligens doleret: sed consistit per se &amp; formaliter in so 
+       <lb ed="#B" n="10"/>la perceptione laesionis per actum sentiendi aut intelligendi ipsius: ita quod in causando dolorem ex actione  
+       <lb ed="#B" n="11"/>sensibilis corporalis naturaliter concurrit primo laesio in ipso sentiente aut intelligente ex actione materia 
+       <lb ed="#B" n="12"/>li ipsius sensibilis: secundo ipsa sensatio aut intellectio ex actione spiritalis immutationis ab eodem: tertio perceptio il 
+       <lb ed="#B" n="13"/>lius laesionis ex quae formaliter &amp; completiue causatur dolor siue passio inquietans in ipso appetitu sensiti 
+       <lb ed="#B" n="14"/>uo mediante sensu, vel intellectiuo mediante intellectum: secundum quod hoc latius declarauimus in Quolibet prae 
+       <lb ed="#B" n="15"/>cedente. Illa autem laesio ab agente corporali non sit ab agente sensibili per qualitates actiuas quae sunt calidum &amp; 
+       <lb ed="#B" n="16"/>frigidum: nisi ratione excellentiae suae: per quam primo corrumpunt harmoniam secundum dispositionem qualitatum acti 
+       <lb ed="#B" n="17"/>uarum &amp; passiuarum in passo. &amp; hoc habendo aspectum ad modum actionis quam naturaliter experimur 
+       <lb ed="#B" n="18"/>ignem materialem agere mediante calore. &amp; ideo tali modo agendi ignis qualem experimur nullo modo posset 
+       <lb ed="#B" n="19"/>substantia quaecunque pati dolorem ab igne quin necesse esset ipsam fieri calidam. Et ideo dico quod secundum mo- 
+       <lb ed="#B" n="20"/>dum agendi ignis mediante calore quem nos experimur nullo modo anima vel angelus patitur ab igne ma 
+       <lb ed="#B" n="21"/>teriali mediante calido. Credimus tamen firmiter quod ab igne materiali patiatur &amp; hoc mediante calore quo  
+       <lb ed="#B" n="22"/>agit ignis illam passionem vt mediante instrumento: licet modum agendi &amp; virtutem ignis &amp; caloris in illam pas 
+       <lb ed="#B" n="23"/>sionem causando non plene nouimus: de quo tamen fecimus mentionem aliquantulum in nono Quolibet. Vnde 
+       <lb ed="#B" n="24"/>cum dicitur in prima ratione quod ignis non agit nisi mediante calore: Dico quod hoc potest intelligi duplici- 
+       <lb ed="#B" n="25"/>ter. Vno modo vt tanquam medio &amp; instrumento in producendo quicquid natum est produci per agens particulare 
+       <lb ed="#B" n="26"/>ratione suae formae subalis. Alio modo vt tanquam medio &amp; instrumento in producendo tantummo id per quod materia 
+       <lb ed="#B" n="27"/>fit necessitas ad recipiendum id quod principaliter natum est induci per agens. Primo modo dicunt aliqui quod  
+       <lb ed="#B" n="28"/>ignis agit mediante calore in generando ignem: vt scilicet calor agens sicut instrumentum non solum 
+       <lb ed="#B" n="29"/>sua actione attingit in terminum suae actionis in passo ipsum calorem generatum in illo: quo de non calido  
+       <lb ed="#B" n="30"/>facit calidum: sed etiam attingit vt terminum suae actionis in passo ipsam formam substantialem ignis gene- 
+       <lb ed="#B" n="31"/>ratam in illo, qua de non igne facit ignem. vt secundum hoc forma subalis nullam immediate habeat actio- 
+       <lb ed="#B" n="32"/>nem in producendo formam substantialem ignis plus quam in producendo calorem: sed quicquid agit &amp; producit, mediam 
+       <lb ed="#B" n="33"/>te calido agit &amp; producit, immediate autem nihil omnino agit aut producit: cuius contrarium in alio Quolibet de 
+       <lb ed="#B" n="34"/>clarauimus, declarando hoc esse plane contra <name ref="#Aristotle">Philosophum</name> in secundo de generatione. Et ideo te- 
+       <lb ed="#B" n="35"/>nemus secundum modum semper: scilicet quod ignis non agit mediante calore nisi alterando ad dispositionem ma 
+       <lb ed="#B" n="36"/>teriae &amp; susceptibilis: sed materia disposita in finem alterationis ipsa forma substantialis se sola agit for- 
+       <lb ed="#B" n="37"/>mam subalem per actum generationis. Sed diuersitas in hoc modicum valet ad propositum: quocumque enim illorum duorum  
+       <lb ed="#B" n="38"/>modorum ignis agit in subam incorpoream: tamen ponimus quod agat secundum illum modum per calorem attingen 
+       <lb ed="#B" n="39"/>tem terminum aliquem trasmutationis in illa substantia quo laesiua est illius quo ad aliquas dispositiones 
+       <lb ed="#B" n="40"/>ipsius circa corruptionem subae, modo tamen nobis incognito &amp; incognita ipsa laesione, absque tamen eo quod  
+       <lb ed="#B" n="41"/>calefiat. secundum quod concludit secunda ratio.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

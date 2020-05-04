@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 21</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 21</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="20-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e367">
+      <head xml:id="n3av8a-c1e367-Hd1e96">Quaestio 21</head>
+      <p xml:id="n3av8a-c1e367-d1e99">
+       <!--81.xml-->
+       <pb ed="#B" n="20-v"/>
+       <lb ed="#B" n="1"/>SEquuntur quaestiones de homine pertinentes ad statum culpae. Et proponebantur quaedam per  
+       <lb ed="#B" n="2"/>tinentia ad statum culpae originalis: quaedam vero pertinentia ad statum culpae actualis. 
+       <lb ed="#B" n="3"/>
+      </p>
+      <p xml:id="n3av8a-c1e367-d1e112">
+       CIRca primum quaerebantur quatuor. PRImum. vtrum generatus per miraculum ex 
+       <lb ed="#B" n="4"/>aliqua portione hominis infecti originali contrahat originale. SEcundum. vtrum paruulus 
+       <lb ed="#B" n="5"/>delatus ad ecclesiam moriens ante baptismum damnetur. TERtium. vtrum paruulus iste aequa-  
+       <lb ed="#B" n="6"/>lem poenam sustineat cum paruulo sarraceni decedentis in solo originali. QVARtum  
+       <lb ed="#B" n="7"/>vtrum debeat sepeliri in cimiterio.
+      </p>
+      <p xml:id="n3av8a-c1e367-d1e123">
+       CIRca primum arguebatur quod generatus miracu- 
+       <lb ed="#B" n="8"/>lo adhuc contrahat originale ex Adam, quia secundum apostolum omnes fuerunt in Adam: &amp; in ipso omnes peccauerunt. 
+       <lb ed="#B" n="9"/>ergo &amp; generatus miraculo. Sed omnes tales contrahunt ab illo originale. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e367-d1e130">
+       CONtra. nullus contra 
+       <lb ed="#B" n="10"/>hit originale nisi fuerit in Adam secundum seminalem rationem. Ideo enim Christus originale non contraxit, vt di-  
+       <lb ed="#B" n="11"/>cit <name ref="#Augustine">Augustinus</name> libro. x. super Gen. ca. xxvii. Generatus autem miraculo non fuit in eo secundum seminalem rationem 
+       <lb ed="#B" n="12"/>quia illa est vis generationis naturalis in semine: qua iste non fuit generatus. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e367-d1e143">
+       DIcendum ad  
+       <lb ed="#B" n="13"/>hoc: quod in semine de quo formatur hominis corpus, non est originale peccatum: nisi quasi in materiali radice, &amp; qua  
+       <lb ed="#B" n="14"/>si quaedam infectio morbosa existens in semine contracta a parentibus propter fomitem manentem in ipsis in poe 
+       <lb ed="#B" n="15"/>nam post originalis ablutionem in eis. In anima autem tali corpori coniuncta est quasi in formali complemento. Sed  
+       <lb ed="#B" n="16"/>illam morbosam infectionem aliqui dicunt non procedere a voluntate primi parentis nisi mediante voluntate pro- 
+       <lb ed="#B" n="17"/>ximi. &amp; hoc dupliciter. Vno modo, vt ex voluntate primi parentis dicatur procedere dicta infectio morbosa 
+       <lb ed="#B" n="18"/>in semine inquantum omnes qui ab eo descendunt mouet motione generationis per virtutem actiuam in generatione  
+       <lb ed="#B" n="19"/>quae principaliter a patre procedit. Ita quod peccatum originale non contraheret foetus a matre infecta, patre non 
+       <lb ed="#B" n="20"/>infecto. Alio modo vt quia ex voluntate libidinosa primus parens post peccatum suum generauit: &amp; generatus 
+       <lb ed="#B" n="21"/>libidinose, similiter libidinose generat: per hoc ex libidine generati contrahunt originale. Secundum istas 
+       <lb ed="#B" n="22"/>positiones formatus miraculose de carne digiti non contraheret originale. 
+      </p>
+      <p xml:id="n3av8a-c1e367-d1e167">
+       SED modus ponendi origi 
+       <lb ed="#B" n="23"/>nalem traductionem dictis modis non videtur conueniens. Peccatum enim originale dicitur peccatum quasi naturae.  
+       <lb ed="#B" n="24"/>Ephesi. ii. Eramus natura filii irae. Simile autem est quodammo de traductione naturae humanae ex primo 
+       <lb ed="#B" n="25"/>parente, &amp; originalis peccati. Ita quod sicut secundo generantes non traducunt naturam, vt natura est, nisi quia talem 
+       <lb ed="#B" n="26"/>receperunt a primo parente: nec eam, propria actione immutare possunt in aliquo: sic &amp; peccatum originale 
+       <lb ed="#B" n="27"/>non traducunt nisi vt ipsum in natura ex primo parente acceperunt: vt propria actione nihil in ipsa origina-  
+       <lb ed="#B" n="28"/>lis peccati natura immutare possunt. In quibuscumque ergo inuenitur natura ab Adam per proximos parentes tra 
+       <lb ed="#B" n="29"/>ducta: illi radici originalis peccati obnoxii sunt: quia ipsa natura infecta quasi materialiter originalis pec 
+       <lb ed="#B" n="30"/>cati in se habet radicem. Ita quod quicquid de illa formatur necesse est quod anima eius ex coniunctione cum illo contrahat ori 
+       <lb ed="#B" n="31"/>ginale. Vnde apostolus traductionem originalis non nisi primo parenti attribuit in epistola ad Romanos 
+       <lb ed="#B" n="32"/>per totum. Vnde &amp; de poenalibus dispositionibus in nobis ex originali peccato, dicit <ref xml:id="n3av8a-c1e367-Rd1e190">Augustinus libro iii. de libero ar-  
+       <lb ed="#B" n="33"/>bitrio</ref>: quod ideo dicuntur peccata: quia de peccato illo primo. liberae voluntatis originem ducunt. voluntati vero 
+       <lb ed="#B" n="34"/>aut actioni alicuius, proximi parentis eas non attribuit. 
+      </p>
+      <p xml:id="n3av8a-c1e367-d1e199">
+       DIcendum ergo quod traductio originalis est pro 
+       <lb ed="#B" n="35"/>pter dispositionem morbosam naturae ex voluntate peccatrice primi parentis traductae, non ex aliquam actione 
+       <lb ed="#B" n="36"/>proximi generantis. Ita quod quacumque substantia materiali traducta per generationem naturalem per medios genito- 
+       <lb ed="#B" n="37"/>res ex primo parente siue sit in semine vnius parentis: vel amborum: siue in substantia membri: vt in manu  
+       <lb ed="#B" n="38"/>vel pede: quicquid ex illa generetur: siue miraculose: siue quocumque alio modo, nisi substantia illa materialis prius 
+       <lb ed="#B" n="39"/>purgetur a dicta morbosa dispositione, ex coniunctione cum corpore formato ex illa materia contrahit anima ori- 
+       <lb ed="#B" n="40"/>ginale peccatum: ad modum quo si aliquis lepra infectus esset, quicquid ex eius substantia procederet ab illa 
+       <lb ed="#B" n="41"/>formatum lepra inueniretur infectum. Si vero aliquis generetur per miraculum de alia substantia quia a primo paren 
+       <lb ed="#B" n="42"/>te traducta, vel de aliqua substantia ab illo traducta prius tamen a dicta infectione purgata: ille nullum origina 
+       <lb ed="#B" n="43"/>le contraheret. Per hoc patet quomodo procedit argumentum primum.
+      </p>
+      <p xml:id="n3av8a-c1e367-d1e221">
+       AD secundum: quod sic generatum non fuisset in  
+       <lb ed="#B" n="44"/>Adam per seminalem rationem sicut neque Christus: Dicendum ad hoc quod illud generatum dicitur fuisse in Adam per semi 
+       <lb ed="#B" n="45"/>nalem rationem: quoniam ex suo principio materiali sub eadem ratione &amp; dispositione existente formatur sub quaerat in  
+       <lb ed="#B" n="46"/>Adam: &amp; ex ipso traductum est: vt sicut sub morbosa dispositione in illo fuit: &amp; sub tali ab illo traductum 
+       <lb ed="#B" n="47"/>est: sic ab eadem dispositione aliud generetur ex eo. Quando autem sub alia dispositione ex illo aliquid generetur quam  
+       <lb ed="#B" n="48"/>ex Adam traductum est, dicitur corpus generatum non fuisse in Adam secundum seminalem rationem. Et hoc modo Christus fuit in 
+       <lb ed="#B" n="49"/>Adam secundum substantiam corporalem, quia substantia sanguinis virginei de quae formatum fuit corpus Christi, tra 
+       <lb ed="#B" n="50"/>ducta fuit substantialiter de Adam: non tamen secundum seminalem rationem, quia non sub eadem dispositione erat: cum 
+       <lb ed="#B" n="51"/>Christus formatus erat de illa: sub quae descendit de Adam. Immo vel mater Christi prius purgata erat 
+       <lb ed="#B" n="52"/>&amp; sanctificata a fomite originalis priusquam Christus de ea conciperetur: vt non haberet nisi semen mundum &amp; 
+       <lb ed="#B" n="53"/>purum: aut ipsum semen in virgine purificatum fuit omnino vt ex puro semine formaretur corpus Christi. vt 
+       <lb ed="#B" n="54"/>sic anima eius ex coniunctione cum corpore illo nullum originale contrahere potuerit. Non sic autem oportet po- 
+       <!--82.xml-->
+       <pb ed="#B" n="21-r"/>
+       <lb ed="#B" n="1"/>nere in generato per miraculum. bene enim potest per miraculum generari aliquid ex morbosa substantia: quae seminaliteri 
+       <lb ed="#B" n="2"/>Adam fuit, &amp; per seminalem rationem: licet non naturaliter &amp; seminaliter ex illo generatum sit: hoc est modo  
+       <lb ed="#B" n="3"/>nat uralis generationis patre seminante in matre.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

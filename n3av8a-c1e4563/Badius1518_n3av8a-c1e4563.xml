@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 24</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 24</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="476-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4563">
+       <head xml:id="n3av8a-c1e4563-Hd1e96">Quaestio 24</head>
+       <p xml:id="n3av8a-c1e4563-d1e99">
+        <lb ed="#B" n="17"/>SEquuntur pertinentia ad administrationem sacramenti poenitentiae specialiter:  
+       <lb ed="#B" n="18"/>quorum vnum pertinebat ad illusionem confessoris passiuam. Vtrum si confessus pec 
+       <lb ed="#B" n="19"/>cata quae dicit se habere, recipiat poenitentiam satisfactoriam pro illis ex confessoris in-  
+       <lb ed="#B" n="20"/>iunctione, &amp; reuersus sequenti die in confessione alia dicat eidem confessori quod in praecedem 
+       <lb ed="#B" n="21"/>ti confessione fuit omnino mentitus: &amp; confiteatur alia cum illo mendacio, pro quibus pe 
+       <lb ed="#B" n="22"/>tit sibi iniungi poenitentiam salutarem: vVtrum inquam confessor poenitentiam satisfactoriam in  
+       <lb ed="#B" n="23"/>iunctam in prima confessione debeat reuocare &amp; nouam in illa secunda confessione iniungere. Alia autem duo perti 
+       <lb ed="#B" n="24"/>nebant ad illusionem confessoris actiuam. Primum per actum confitendi: vtrum clericus non existens in sacris 
+       <lb ed="#B" n="25"/>ordinibus assumens habitum confessoris: si audiat sic alicuius confessionis: fingens se esse sacerdotem 
+       <lb ed="#B" n="26"/>&amp; confessorem: qua audit a dicit se delusisse confitentem &amp; deridet eum: vtrum inquam clericus 
+       <lb ed="#B" n="27"/>ille sit suspensus: vt non possit de caetero ad sacros ordines promoueri. Secundum per actum deti-  
+       <lb ed="#B" n="28"/>nendi fidei commissum: vtrum confessus habens rem alienam quam iusto metu non audet restitue- 
+       <lb ed="#B" n="29"/>re illi cui est restituenda: si committat eam confessori suo vt eam restituat: confessor autem eam 
+       <lb ed="#B" n="30"/>non restituit: Vtrum inquam confessus ille sit absolutus a debito illius rei. 
+      </p>
+      <p xml:id="n3av8a-c1e4563-d1e132">
+       CIRca primum arguitur 
+       <lb ed="#B" n="31"/>quod ille confessor debet primam satisfactionem reuocare, &amp; nouam iniungere: quia reuocata causa 
+       <lb ed="#B" n="32"/>debet reuocari effectus: &amp; noua causa superueniente debet sequi nouus effectus. Peccata autem 
+       <lb ed="#B" n="33"/>hic sunt reuocata propter quae facta fuit illa iniunctio: &amp; noua sunt confessa propter quae debet fieri 
+       <lb ed="#B" n="34"/>noua satisfactionis iniunctio. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4563-d1e143">
+       CONtra. confessor non debet reuocare quod nescit: sed nec 
+       <lb ed="#B" n="35"/>scit illa peccata prioris confessionis, nec quod iniunxerat pro illis: quia vt dicit Augustinus, nihil minus 
+       <lb ed="#B" n="36"/>scitur quam quod in confessione scitur. ergo &amp;c. Item confessor non debet reuocare quod nescit an sit re- 
+       <lb ed="#B" n="37"/>uocandum: sed nescit an illa iniunctio sit reuocanda an non: Nec debet illi super hoc credere: quia  
+       <lb ed="#B" n="38"/>qua ratione dixit se fuisse mentitum in prima confessione: eadem ratione posset dicere se fuisse men 
+       <lb ed="#B" n="39"/>titum in secunda, &amp; sic de caeteris: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4563-d1e156">
+       DIcendum: quod confessor aut percipere potest quod sana 
+       <lb ed="#B" n="40"/>vel non sana mente fecerit primam confessionem: aut non: sed manet semper in dubio. Si potest per 
+       <lb ed="#B" n="41"/>cipere quod non sana, totum quod factum est in illa prima confessione, pro nihilo debet reputari &amp; pro 
+       <lb ed="#B" n="42"/>non facto: &amp; debet iniungi noua satisfactio pro confessis in secunda confessione. Si autem manet in  
+       <lb ed="#B" n="43"/>dubio, debet potius praesumere quod non sana mente fecerit primam confessionm: sed secundam: quia 
+       <lb ed="#B" n="44"/>non est praesumendum quod in secunda confessione in qua percipitur esse sanae mentis sit immemor suae 
+       <lb ed="#B" n="45"/>salutis. et tunc redit in idem ac si percipere posset ipsum tunc fuisse sanae mentis. Propter quod etsi non  
+       <lb ed="#B" n="46"/>multum debet ei credere: debet tamen secundae confessioni magis inhaerere: quia semper praesumendum 
+       <lb ed="#B" n="47"/>est quod confitens sanae mentis verum dicat in confitendo retroacta. Et ideo magis debet reputare satisfa-  
+       <lb ed="#B" n="48"/>ctionem primo iniunctam non fuisse iniungendam tamquam tunc fuisset mentitus, &amp; non in secunda confessione. Non  
+       <lb ed="#B" n="49"/>tamen debet illud simpliciter reputare: quia forte in prima confessione non est mentitus: sed in secunda:  
+       <lb ed="#B" n="50"/>et ideo potius primam debet reuocare &amp; nouam secundam iniungere, quam illam primam ratam habere &amp; quam 
+       <lb ed="#B" n="51"/>secundam confessionem pro nihilo reputare: nec pro ea aliquid iniungere, non tamen simpliciter: sed dicendo com 
+       <lb ed="#B" n="52"/>fesso sub conditione. Si verum dixisti in prima confessione, non reuoco tibi iniuncta in illa: nec habeo 
+       <lb ed="#B" n="53"/>ratam confessionem quam modo facis: &amp; quod tibi iniungam. Si autem mentitus es in illa confessione, vt dicis 
+       <lb ed="#B" n="54"/>nihil habeo ratum de factis a me in illa confessione: sed reuoco totum. &amp; tunc debet ei iniungere poe- 
+       <!--993.xml-->
+       <pb ed="#B" n="476-v"/>
+        <lb ed="#B" n="1"/>nitentiam secundum exigentiam secundae confessionis. 
+      </p>
+      <p xml:id="n3av8a-c1e4563-d1e199">
+       AD primum in argumentum: quod peccata prae 
+       <lb ed="#B" n="2"/>cedentis confessionis reuocantur. ergo &amp;c. Dicendum quod verum est forte verbo solum: sed nequaquam 
+       <lb ed="#B" n="3"/>secundum rem. propter quod iniuncta poenitentia pro ibi confessis non debet reuocari nisi sub condi 
+       <lb ed="#B" n="4"/>tione secundum iam dictum modum. 
+      </p>
+      <p xml:id="n3av8a-c1e4563-d1e208">
+       AD primum in oppositum quod confessor nescit facta in pri- 
+       <lb ed="#B" n="5"/>ma confessione secundum Augustinum. Dicendum quod verum est vt reuelanda, etiam si esset super reue- 
+       <lb ed="#B" n="6"/>latione facienda adiuratus in publico iudicio: nisi forte alio modo sciret eadem: quia quod in confes- 
+       <lb ed="#B" n="7"/>sione scit: non scit confessor vice personae propriae, sed solummodo vice dei. Scit tamen illa simpli- 
+       <lb ed="#B" n="8"/>citer vt memoriter retenta. Et debet confessor vt perfectius in qualibet confessione ex ordine ad  
+       <lb ed="#B" n="9"/>confessionem praecedentem agnoscat pecoris sui vultum niti vt memoriter retineat quae in con- 
+       <lb ed="#B" n="10"/>fessione audit &amp; facit poenitentias iniungendo. Per hoc enim melius cognoscendo statum eius cum 
+       <lb ed="#B" n="11"/>iterum ad confitendum ipsi reuertitur: melius &amp; discretius potest ei consulere. Ad secundum quod 
+       <lb ed="#B" n="12"/>nescit confessor an prima iniunctio sit reuocanda: quia nescit an sit confitenti credendum in con- 
+       <lb ed="#B" n="13"/>fessione secunda: Dicendum quod licet non sit ei simpliciter credendum in illa: potius tamen creden- 
+       <lb ed="#B" n="14"/>dum est ei quam non credendum. Et ideo alia satisfactio iniungenda est non simpliciter: sed sub condi- 
+       <lb ed="#B" n="15"/>tione, vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

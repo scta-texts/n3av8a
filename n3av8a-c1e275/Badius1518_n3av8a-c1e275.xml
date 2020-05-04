@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaesitio 14</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaesitio 14</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="11-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e275">
+      <head xml:id="n3av8a-c1e275-Hd1e96">Quaesitio 14</head>
+      <p xml:id="n3av8a-c1e275-d1e99">
+       <lb ed="#B" n="22"/>Equitur de quaestionibus pertinentibus coniter ad animam separatam &amp; coniunctam. Et erat vna de 
+       <lb ed="#B" n="23"/>comparatione duarum principalium potentiarum eius inter se: vtrum voluntas sit potentia 
+       <lb ed="#B" n="24"/>superior intellectum, an econuerso. Aliae vero erant quinque de comperatione actionum ipsa 
+       <lb ed="#B" n="25"/>irum.
+      </p>
+      <p xml:id="n3av8a-c1e275-d1e110">
+       CIRca primum arguebatur, quod intellectus esset altior potentia: Tum quia <name ref="#Aristotle">philosophus</name> dicit hoc 
+       <lb ed="#B" n="26"/>in. vi. ethicorum: Tum quia secundum ipsum ratio practica est primus motor in agendis per volunta 
+       <lb ed="#B" n="27"/>item: Tum quia <name ref="#Augustine">Augustinus</name> dicit. xxii. contra Faustum. Sine dubio in actionibus animae contemplatio praecellit 
+       <lb ed="#B" n="28"/>quae est intellectio: sum quia homo in ratione reformatur secundum imaginem: Tum quia dirigens superius est eo quid  
+       <lb ed="#B" n="29"/>dirigitur: &amp; iudicium rationis dirigit voluntatem.
+      </p>
+      <p xml:id="n3av8a-c1e275-d1e128">
+       CONtra est. quia voluntas est primum mouens se &amp; alia in toto re 
+       <lb ed="#B" n="30"/>gno animae, &amp; tale est supius.
+      </p>
+      <p xml:id="n3av8a-c1e275-d1e133">
+       DICENdum ad hoc quod potentiae animae cum nobis occultae &amp; ignotae sunt de se, si 
+       <lb ed="#B" n="31"/>cut &amp; ipsa substantia animae: a posteriori modo nobis congruo debemus omnem notitiam circa eas inuestigare, prae- 
+       <lb ed="#B" n="32"/>eminentiam ergo ponere super potentiam iudicare debemus ex illis quae sunt posteriora potentiis, &amp; 
+       <lb ed="#B" n="33"/>nobis via ad cognoscendum potentias: &amp; sunt tria, habitus, actus, &amp; obiectum. Et dicendum est sim- 
+       <lb ed="#B" n="34"/>pliciter: quod illa potentia praeeminet alteri, cuius habitus, actus, &amp; obiectum praeeminet habitui, actui 
+       <lb ed="#B" n="35"/>&amp; obiecto alterius. Nunc autem ita est quod omnino habitus &amp; actus &amp; obiectum voluntatis praeeminet actui, habitui 
+       <lb ed="#B" n="36"/>&amp; obiecto intellectus. Idcirco absolute dicendum quod voluntas praeeminet intellectui: &amp; est altior potentia illo. 
+       <lb ed="#B" n="37"/>Et patet assumptum: quoniam proprius habitus voluntatis quo fertur in bonum actum veri amoris, est habitus chari 
+       <lb ed="#B" n="38"/>tatis quo secundum <name ref="#Augustine">Augustinus</name> per se diligimus deum &amp; proximum in deo: &amp; propter deum. habitus autem supremus intellectus 
+       <lb ed="#B" n="39"/>est sapientia qua deum &amp; aeterna speculamur secundum <ref xml:id="n3av8a-c1e275-Rd1e157">Augustinus libro xiiii. de Trini.</ref> Quantum autem praeeminet habi 
+       <lb ed="#B" n="40"/>tus charitatis omni habitui sapientiali, &amp; cognitiuo, bene exprimit Apostolus prima Corin. xiii. vbi 
+       <lb ed="#B" n="41"/>dicit. Si linguis hominum loquar &amp; angelorum: charitatem autem non habeam &amp;c. Quantum  
+       <lb ed="#B" n="42"/>autem supereminet actus voluntatis qui est velle siue diligere, actui intellectus qui est scire siue 
+       <lb ed="#B" n="43"/>cognoscere: patet ex duplici comparatione. Primo ex comparatione vnius actus ad alterum. Secun- 
+       <lb ed="#B" n="44"/>do ex comparatione vtriusque ad suum subiectum perficiendum per obiectum. Ex prima compara- 
+       <lb ed="#B" n="45"/>tione patet intentum. quoniam vt dicit <ref xml:id="n3av8a-c1e275-Rd1e174">Augustinus libro xii. super Gen. ad literam</ref>: &amp; <name ref="#Aristotle">philosophus</name> libro iii. de anima, semper agens &amp; mo 
+       <lb ed="#B" n="46"/>uens nobilius est patiente. Voluntas autem est vniuersalis &amp; primus motor in toto regno animae, &amp; superior 
+       <lb ed="#B" n="47"/>&amp; primum mouens omnia alia ad finem suum, vt infra videbitur. Mouet enim rationem &amp; omnes vires animae, vt dicit An- 
+       <lb ed="#B" n="48"/>selmus libro de similitudinibus. &amp; <ref xml:id="n3av8a-c1e275-Rd1e186">Augustinus libro iii. de Libero arbitrio</ref>. Subiacet intentioni animi prius ipse ani 
+       <lb ed="#B" n="49"/>mus: deinde corpus quod administrat: vnde ad operandum quodlibet membrorum mouet: vnde vo- 
+       <lb ed="#B" n="50"/>luntas rationi imperat vt consideret, rtiocinetur, &amp; consilietur quando vult: &amp; de quibus. &amp; similiter facit vt desistat  
+       <lb ed="#B" n="51"/>Non sic vllo modo imperat aut mouet intellectus voluntatem, vt infra amplius patebit de comparatione ipsorum  
+       <lb ed="#B" n="52"/>amplius loquendo. 
+      </p>
+      <p xml:id="n3av8a-c1e275-d1e200">
+       EX secunda autem comparatione similiter patet intentum: quoniam actione voluntatis perficitur 
+       <lb ed="#B" n="53"/>voluntas ipsare dilecta vt in se habet esse. quia voluntas actione sua inclinatur in ipsam rem. actione autem 
+       <!--62.xml-->
+       <pb ed="#B" n="11-r"/>
+       <lb ed="#B" n="1"/>intellectus perficitur ipse intellectus ipsa re intellecta, vt habet esse in intellectum, quia intellectus actione  
+       <lb ed="#B" n="2"/>sua trahit in seipsum rem intellectam. voluntas autem actione sua transfert se in ipsum volitum propter se vt eo fruatur. &amp; 
+       <lb ed="#B" n="3"/>per hoc vt dicit Dionysius cap. iiii. de diuinis nominibus, intellectus actione sua assimilat se rei intellectae. vo 
+       <lb ed="#B" n="4"/>luntas vero transformat se in ipsum volitum. Cum ergo multo perfectius &amp; altius est transformari in ipsum. bonum  
+       <lb ed="#B" n="5"/>vt in se est secundum suam naturam, quam assimilari ipsi vero: vt est in intelligente per modum intelligentis: &amp; ita modo infe 
+       <lb ed="#B" n="6"/>riori: secundum quod dicit <ref xml:id="n3av8a-c1e275-Rd1e221">Augustinus libro ix. de Trini.</ref> cum deum intelligimus similitudo eius in nobis fit: inferioris 
+       <lb ed="#B" n="7"/>gradus tamen: quia in inferiori natura. Multo perfectior ergo &amp; altior est operatio voluntatis quam intellectus: quan 
+       <lb ed="#B" n="8"/>to melior est amor &amp; dilectio dei quam cognitio eius. Etsi respectu eorum quae sunt infra animam con 
+       <lb ed="#B" n="9"/>tingit econuerso quod intellectus actio sit altior voluntate: quia altior &amp; nobilior in anima est cognitio rerum cor 
+       <lb ed="#B" n="10"/>poralium quam amor earum. Ho: autem facit secundum quid intellectum esse nobiliorem voluntate: primus autem respectus 
+       <lb ed="#B" n="11"/>&amp; comparatio facit voluntatem esse supiorem simpliciter: quia primum bonum &amp; primum verum sunt per se &amp; per  
+       <lb ed="#B" n="12"/>prima obiecta voluntatis &amp; intellectus: &amp; alia respectu illorum secundario &amp; secundum quid: sicut &amp; in aliis verum 
+       <lb ed="#B" n="13"/>&amp; bonum est verum &amp; bonum secundum quid respectu primi veri &amp; primi boni: quia natura non habet ratio- 
+       <lb ed="#B" n="14"/>nem veri &amp; boni nisi ex impressione quadam primi veri &amp; primi boni, vt alibi habebit declarari: ita 
+       <lb ed="#B" n="15"/>quod voluntas nullum bonum appetit nisi sub aliqua ratione primi boni: neque intellectus aliquid verum 
+       <lb ed="#B" n="16"/>nouit nisi sub ratione aliqua primi veri: vt magis naturale sit voluntati perfici primo bono quam ali 
+       <lb ed="#B" n="17"/>quo alio, &amp; intellectui perfici primo vero. &amp; propter hoc in nullius boni perfruitione, vel veri co- 
+       <lb ed="#B" n="18"/>gnitione perfecte quiescere potest ratio &amp; intellectus quoadusque adipiscantur primum bonum &amp; pri 
+       <lb ed="#B" n="19"/>mum verum: secundum quod dicit <ref xml:id="n3av8a-c1e275-Rd1e253">Augustinus in primo confessionum</ref>: <quote xml:id="n3av8a-c1e275-Qd1e256" source="http://scta.info/resource/aconf-l1-d1e102">Fecisti nos ad te: &amp; inquietum est cor 
+       <lb ed="#B" n="20"/>nostrum donec requiescat in te</quote>. Quare cum simpliciter esse simpliciter tale, vel tale vnumquodque ma 
+       <lb ed="#B" n="21"/>gis iudicandum est respectu eius ad quod simpliciter est magis: &amp; secundum naturam, vt dicit <name ref="#Aristotle">philosophus</name> in  
+       <lb ed="#B" n="22"/>primo Politicae: simpliciter &amp; absolute melior iudicandus est actus voluntatis quam intellectus: tum respe 
+       <lb ed="#B" n="23"/>ctu sui primi obiecti simpliciter melior est illo. &amp; hoc iuxta considerationem philosophi in Topicis. Si 
+       <lb ed="#B" n="24"/>optimum in hoc genere est melius optimo in illo genere: &amp; hoc simpliciter est melius illo. Quia au-  
+       <lb ed="#B" n="25"/>tem obiectum voluntatis supereminet obiecto intellectus, patet: quia obiectum voluntatis quod est 
+       <lb ed="#B" n="26"/>bonum simpliciter, habet rationem finis simpliciter &amp; vltimi finis. obiectum autem intellectus quod est ve 
+       <lb ed="#B" n="27"/>rum habet rationem boni alicuius, vt intellectus: &amp; ita vt finis sub fine, &amp; ordinatum ad aliud vt 
+       <lb ed="#B" n="28"/>ad vltimum finem. Multis enim existentibus finibus particularibus omnes sub aliquo vno continentur: &amp; omnes 
+       <lb ed="#B" n="29"/>virtutes quarum sunt alii fines, sub vna quidem quadam virtute sunt, cuius est vltimus finis, vt dicitur 
+       <lb ed="#B" n="30"/>in principio ethicorum. Secundum hoc ergo intellectus omnino sub voluntate continetur. &amp; per hunc modum  
+       <lb ed="#B" n="31"/>sicut in omnibus potentiis actiuis ordinatis ad finem semper illa potentia quae respicit finem vniuersalem mouet 
+       <lb ed="#B" n="32"/>&amp; impellit in opus omnes alias potentias quae respiciunt fines particulares: &amp; regulat ipsas, vt facit architecto 
+       <lb ed="#B" n="33"/>nica alias artes in ciuitate: sicut dicitur in principio ethicorum: sic voluntas mouet rationem &amp; impel 
+       <lb ed="#B" n="34"/>lit, &amp; in opus dirigit &amp; omnes vires animae &amp; membra corporis. 
+      </p>
+      <p xml:id="n3av8a-c1e275-d1e295">
+       ABSOlute ergo dicendum quod volum 
+       <lb ed="#B" n="35"/>tas superior vis est in toto regno animae: &amp; ita ipso intellectu. 
+      </p>
+      <p xml:id="n3av8a-c1e275-d1e300">
+       AD argumenta in oppositum fa- 
+       <lb ed="#B" n="36"/>cile est respondere.
+      </p>
+      <p xml:id="n3av8a-c1e275-d1e305">
+       Ad primum: ad hoc quod dicit <name ref="#Aristotle">philosophus</name> libro sexto ethicorum, dicendum quod 
+       <lb ed="#B" n="37"/>comparatio eius ad literam intelligitur respectu potentiarum in quibus sunt alii habitus intellectu 
+       <lb ed="#B" n="38"/>ales: &amp; ita nihil de illo dicto ad voluntatem.
+      </p>
+      <p xml:id="n3av8a-c1e275-d1e315">
+       AD secundum quod ratio practica primo mouet, Dicen 
+       <lb ed="#B" n="39"/>dum quod aliquid dicitur mouere dupliciter. Vno modo metaphorice, finem in quem mouendum est 
+       <lb ed="#B" n="40"/>proponendo &amp; ostendendo. hoc modo ratio practica mouet: &amp; hoc volentem non proprie ipsam volunta 
+       <lb ed="#B" n="41"/>tem: quoniam mouet volens. neque adhuc proprie ratio mouet: sed ipsum obiectum mouens per se rationem ad 
+       <lb ed="#B" n="42"/>cognoscendum: &amp; per hoc se ostendendo tanquam bonum metaphorice mouet volentem ad appetendum. 
+       <lb ed="#B" n="43"/>bonum enim cognitum mouet volentem: non ipsa ratio cognoscens voluntatem. Alio modo dicitur aliquid  
+       <lb ed="#B" n="44"/>aliud mouere per modum agentis &amp; impellentis in opus. hoc modo voluntas mouet ipsam rationem: &amp; 
+       <lb ed="#B" n="45"/>hoc est verius mouere.
+      </p>
+      <p xml:id="n3av8a-c1e275-d1e333">
+       AD tertium, quod in actionibus animae contemplatio praecellit, dicendum quod hoc ve 
+       <lb ed="#B" n="46"/>rum est: sed hoc nihil ad voluntatem, quia loquitur de comparatione actiuae vitae &amp; contemplatiuae, quarum 
+       <lb ed="#B" n="47"/>vna regitur ratione speculatiua quae superior est: alia ratione practica quae inferior est: sed ambae reguntur a voluntate 
+       <lb ed="#B" n="48"/>quae est supe ambas.
+      </p>
+      <p xml:id="n3av8a-c1e275-d1e343">
+       AD quartum, quod in ratione reformatur imago, dicendum quod verum est: sed non solum. 
+       <lb ed="#B" n="49"/>Pars enim imaginis &amp; completiua pertinet ad voluntatem. vnde verbum mentis in quo relucet perfecta ratio imagi 
+       <lb ed="#B" n="50"/>nis secundum Augustinus. est in amore notitia. 
+      </p>
+      <p xml:id="n3av8a-c1e275-d1e350">
+       AD quintum, quod dirigens s pgrius est directo, dicendum quod dirigens 
+       <lb ed="#B" n="51"/>est duplex. vel auctoritate, sicut dominus seruum. ille est supior. sic voluntas dirigit intellectum. vel ministe- 
+       <lb ed="#B" n="52"/>rialiter: sicut seruus dominum praeferendo lucernam de nocte ne dominus offendat. tale dirigens est inferius. &amp; 
+       <lb ed="#B" n="53"/>sic intellectus dirigit voluntatem. vnde dirigendo &amp; intelligendo potest ipsum voluntas retrahe 
+       <lb ed="#B" n="54"/>re quando vult, sicut dominus seruum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

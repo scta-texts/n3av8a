@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 37</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 37</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="150-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1767">
+       <head xml:id="n3av8a-c1e1767-Hd1e96">Quaestio 37</head>
+       <p xml:id="n3av8a-c1e1767-d1e99">
+        <lb ed="#B" n="16"/>CIrca quartum arguitur, quod in sacramentis nouae legis sit virtus supernaturalis creati- 
+       <lb ed="#B" n="17"/>ua gratiae. videmus enim quod ignis naturalis agit in animam separatam vel in angelum super 
+       <lb ed="#B" n="18"/>naturaliter ad causandum dolorem, quare vt videtur potest sacramentum corporaliter super 
+       <lb ed="#B" n="19"/>naturaliter in animam ad creandum gratiam. 
+      </p>
+      <p xml:id="n3av8a-c1e1767-d1e110">
+       IN contrarium est, quod tunc creatura crearet vel con 
+       <lb ed="#B" n="20"/>municaret deo: quia gratia non sit nisi per creationem: quid non tenet ecclesia. 
+      </p>
+      <p xml:id="n3av8a-c1e1767-d1e115">
+       DIcendum ad  
+       <lb ed="#B" n="21"/>hoc: quod propter supereminentiam virtutis, quam necesse habemus secundum fidem ponere in sa- 
+       <lb ed="#B" n="22"/>cramentis nouae legis super sacramenta veteris legis, in hoc videlicet quod sacramenta veteris legis quia non  
+       <lb ed="#B" n="23"/>habebant adiutricem gratiam: sicut sacramenta nouae legis: occidere enim dicebantur transgressores: Sacra- 
+       <lb ed="#B" n="24"/>menta vero nouae legis viuificare, &amp; iustificare, secundum doctrinam apostoli, quaestio praesens a Theologis intro 
+       <lb ed="#B" n="25"/>ducta est. Non est enim euidens in quo consistit illa virtutis supereminentia: nisi consistat in aliqualiter cre- 
+       <lb ed="#B" n="26"/>ando gratiam: de quo tamen multum dubium est vtrum possit virtu scilicet sacramenti super hoc: cum sacramentum 
+       <lb ed="#B" n="27"/>sit creatura siue creatum quid, &amp; gratia non causatur nisi per creationem: in creando autem potius creditur crea- 
+       <lb ed="#B" n="28"/>turam nihil omnino posse cooperari creatori quam posse: licet credatur posse ministerium aliquod exhibere 
+       <lb ed="#B" n="29"/>vt orationis vel alicuius talis, ordinans &amp; disponens ad gratiae susceptionem quae habetur per creationem, quid  
+       <lb ed="#B" n="30"/>non solum creditur: immo rationabiliter asseritur. &amp; hoc ratione sumpta, &amp; ex parte ipsius actus crean 
+       <lb ed="#B" n="31"/>di generaliter, &amp; ex parte gratiae creatae specialiter. Ex parte autem actus creandi ratio est: quia creatio est actio 
+       <lb ed="#B" n="32"/>ex non subiecto, hoc est ex nihilo: &amp; omnis actio creaturae est ex subiecto susceptibili praesupposito, eo quod  
+       <lb ed="#B" n="33"/>est potentiae finitae: &amp; productio ex nihilo omnino est opus potentiae infinitae. Quia inter omnino nihilum  
+       <lb ed="#B" n="34"/>&amp; ens in actu est distantia infinita: quam non potest absoluere nisi potentia infinita. Inter vero id quod est ens 
+       <lb ed="#B" n="35"/>in potentia praecedens: &amp; ens in actum: non est nisi distantia finita: quae potest absolui per agens finitum. Ex par 
+       <lb ed="#B" n="36"/>te vero gratiae creandae etsi non haberet esse per creationem: ratio est: quia gratia eo quod eleuat animam ad esse 
+       <lb ed="#B" n="37"/>quoddam supernaturale, necessario est effectus quidam supernaturalis: licet in se sit natura &amp; creatura ali- 
+       <lb ed="#B" n="38"/>qua: in quem nulla creatura potest: quia virtus eius non est nisi virtus naturalis, &amp; nulla virtus natu-  
+       <lb ed="#B" n="39"/>ralis potest in effectum supernaturalem: inquanum. scilicet supernaturaliter habet fieri: licet in se sit natura aliqua  
+       <lb ed="#B" n="40"/>neque potest ad ipsum etiam vllo modo attingere. In quo ergo consistit supereminentia sacramentorum nouae  
+       <lb ed="#B" n="41"/>legis, quod habent adiutricem assistentem gratiam super sacrameta veteris legis quae illam non habebant, cum non  
+       <lb ed="#B" n="42"/>possit consistere in ipsam gratiam creando siue causando virtute sua naturali. Vtrum consistat in cre 
+       <lb ed="#B" n="43"/>ando ipsam supernaturaliter, &amp; ad hoc habeat virtutem supernaturalim: secundum quod quaerit propo- 
+       <lb ed="#B" n="44"/>sita quaestio, &amp; tenet communitas doctorum, &amp; in ipsis vniuersalis ecclesia: quod sacramenta veteris legis nul- 
+       <lb ed="#B" n="45"/>lo modo sunt effectiua gratiae praesentis: sed tantum signa significatiua vel figuratiua gratiae futurae: quae si 
+       <lb ed="#B" n="46"/>gnificatio quasi quaedam de futuris erat instructio: Sacramenta vero nouae legis non solum sunt significatiua gere 
+       <lb ed="#B" n="47"/>non dico futurae sed praesentis: vt in hoc tantum ponamus differentiam sacramentorum veteris legis &amp; nouae: sed si 
+       <lb ed="#B" n="48"/>mul sunt &amp; signa gratiae praesentis, &amp; causa eius. Quae tamen due scilicet esse signum &amp; causam gratiae, non l 
+       <lb ed="#B" n="49"/>bene determinauit illa opinio aliquorum quae dicebat quod sacramenta nouae legis non sunt causa gratiae 
+       <lb ed="#B" n="50"/>per virtutem aliquam eis inditam ipsam creando: sed quia deo assistente sacramentis cum exhibentur, gratiam cream 
+       <lb ed="#B" n="51"/>do confert. Sed hoc modo sacramentum non est causa gratiae propter quam sit: immo sine qua non. &amp; hoc non  
+       <lb ed="#B" n="52"/>sicut sine qua non posset fieri: quemadmodum figura non posset imprimi caerae a sigillo, nisi esset mollis: non  
+       <lb ed="#B" n="53"/>tamen propter ipsam imprimitur: sed solummodo sine qua ordinauit, quasi ex quadam pactione siue 
+       <lb ed="#B" n="54"/>statuto, ne imprimens eam imprimeret. Et sic quantum est ex se non agit, nisi quod gratiam praesentem esse 
+       <!--340.xml-->
+       <pb ed="#B" n="150-r"/>
+        <lb ed="#B" n="1"/>significat: vt secundum hoc in modo significandi differant solummodo sacramenta veteris legis, &amp; nouae 
+       <lb ed="#B" n="2"/>uod scilicet illa significabant gratiam futuram: ista vero iam praesentem. Quod quia est nimis modicum, praeferre sacramen 
+       <lb ed="#B" n="3"/>ta nouae legis sacramentis legis veteris: ideo est aliorum opinio quod sacramenta nouae legis aliquid ope- 
+       <lb ed="#B" n="4"/>rantur in creando genram: non sicut per se agens, &amp; praeer formam in se existentem: quemadmodum actione natura-  
+       <lb ed="#B" n="5"/>li calidum calefacit &amp; lucidum illuminat: sed sicut instrumentum motum ab agente per se: quemadmodum serra 
+       <lb ed="#B" n="6"/>operatur in sectione lignorum regulari: quid non competit ei, nisi inquantum est artificialiter mota ab artifice. 
+       <lb ed="#B" n="7"/>Quod non potest stare. quoniam quandocumque aliquid cooperatur ad aliquem effectum: vt instrumentum in virtute pri 
+       <lb ed="#B" n="8"/>cipalis agentis: oportet quod habeat aliquam virtutem propriam in agendo illud, quemadmodum agit calidum in  
+       <lb ed="#B" n="9"/>calido: propter hoc quod agit generando vt instrumentum in virtute agentis principalis, aut quod habeat in se ali 
+       <lb ed="#B" n="10"/>quam dispositionem naturalem qua attingit effectum in agendo. quemadmodum serra secundum suam formam si 
+       <lb ed="#B" n="11"/>ue figuram habet dispositionem qua attingit ligna in diuidendo ea. Cum ergo sacramenta nouae legis non 
+       <lb ed="#B" n="12"/>plus habeant propriam virtutem in agendo aliquid ad creandum gratiam, neque dispositionem supna-  
+       <lb ed="#B" n="13"/>turalem qua attingunt gratiam creatam, quam sacramenta veteris legis etiam supernaturaliter: quia quan 
+       <lb ed="#B" n="14"/>tuncumque esset supernaturaliter in esse productum: tamen aliqua creatura esset in natura sua, quae nullo modo at 
+       <lb ed="#B" n="15"/>tingere posset ad purum non ens, quale est omne creabile. Nullo ergo modo penes iam dictum modum  
+       <lb ed="#B" n="16"/>plus sunt causa gratiae sacramenta nouae legis quam veteris. 
+      </p>
+      <p xml:id="n3av8a-c1e1767-d1e230">
+       ET ideo dicendum est: quod sacramenta nouae le- 
+       <lb ed="#B" n="17"/>gis nullo modo aliquid agunt ad gratiam creandam: neque in creando attingunt eam plus quam sacramen 
+       <lb ed="#B" n="18"/>ta veteris legis: sed solum dicuntur esse causa gratiae praesentis, cuius sunt signa in hoc, quod sunt contenti 
+       <lb ed="#B" n="19"/>ua eius quod est per se causa creatiua gratiae inquantum creat eam. Licet enim deus qui est creator gra 
+       <lb ed="#B" n="20"/>tiae, per essentiam &amp; substantiam in omnibus sit, tamen quo ad aliquem effectum est in vna re: ita quod non 
+       <lb ed="#B" n="21"/>in alia: secundum quod deitas existens in carne Christi per gratiam vnionis ad tactum manus eius cura- 
+       <lb ed="#B" n="22"/>bat leprosos: vt deitas dicatur illud egisse: non vt deitas tantum: sed vt existens in manu Christi. &amp; per hoc quod  
+       <lb ed="#B" n="23"/>illa existens in manu Christi curabat illum sicut agens principale, dicitur quod curabat ipsum manus Chri- 
+       <lb ed="#B" n="24"/>sti vt agens instrumentale: vt secundum hunc modum dicamus quod sacramenta nouae legis sunt causa gra 
+       <lb ed="#B" n="25"/>tiae instrumentaliter, non quia aliquid agunt in producendo gratiam plus quam sacramenta veteris legis: sed  
+       <lb ed="#B" n="26"/>quia deus vt existens est in ipsis ad tactum eorum circa illos quibus administratur, confert gratiam 
+       <lb ed="#B" n="27"/>creando eam in ipsis. Et per hunc modum dicuntur esse instrumenta creatiua gratiae: inquantum scilicet ad  
+       <lb ed="#B" n="28"/>tactum eorum deus existens in eis confert gratiam: &amp; similiter vasa gratiae, inquantum continent eum 
+       <lb ed="#B" n="29"/>qui est fons &amp; origo, a quo emanat gratia vt est in eis. Vnde &amp; illud sacramentum nouae legis in quo  
+       <lb ed="#B" n="30"/>Christus continetur corporaliter, habens sibi vnitam diuinitatem corporaliter, cuiusmodi est sacramen 
+       <lb ed="#B" n="31"/>tum altaris, praecipue dicitur sacramentum gratiae &amp; contentiuum &amp; effectiuum. Alia vero sacramen- 
+       <lb ed="#B" n="32"/>ta inquantum aliquid virtutis eius participant: in continende scilicet virtualiter quod illud sacramentum prae- 
+       <lb ed="#B" n="33"/>cipuum continet realiter: secundum quod aqua baptismi habet virtutem sanguinis Christi. propter quid secundum 
+       <lb ed="#B" n="34"/>quod dicit Apostolus, quotquot baptizati sumus in sanguine eius baptizati sumus. 
+      </p>
+      <p xml:id="n3av8a-c1e1767-d1e273">
+       ET per hoc plane diffe- 
+       <lb ed="#B" n="35"/>runt sacramenta nouae legis a sacramentis veteris legis: quoniam ad tactum sacramentorum veteris legis aut non da-  
+       <lb ed="#B" n="36"/>batur regulariter gnra a deo: sicut contingebat in aliis sacramentis eius a circuncisione, aut si aliquando dabatur  
+       <lb ed="#B" n="37"/>hoc non erat instrumentaliter ex parte tactus illius: sed ex deuotione tangentis. Et ita dabatur a deo, non vt 
+       <lb ed="#B" n="38"/>erat in illis sacramentis: sed vt erat in corde deuoti. In sacramento vero circuncisionis: etsi regulariter 
+       <lb ed="#B" n="39"/>ad tactum dabatur genra a deo: hoc erat solummo quasi ex sola pactione habita cum Abraham: ad quam implendam deus 
+       <lb ed="#B" n="40"/>vt assistens sacramento dabat genram: non vt existens in ipso, &amp; de ipso. &amp; sic neque illud sacramentum vl- 
+       <lb ed="#B" n="41"/>lo modo dabat siue causabat gratiam instrumentaliter, sicut dant siue causant sacramenta nouae legis: vt 
+       <lb ed="#B" n="42"/>dictum est iam. 
+      </p>
+      <p xml:id="n3av8a-c1e1767-d1e293">
+       PER iam dicta in parte patet ad obiectum. Dicendum enim ad primum quod non est simile de agen 
+       <lb ed="#B" n="43"/>do supernaturaliter ignem in animam vel angelum &amp; creaturam in aliquid ad ipsum creandum: quoniam effectus 
+       <lb ed="#B" n="44"/>ille passionis quantuncumque supernaturaliter sit in aliquid subtractum, fit vt supernaturaliter tanquam instrumentum 
+       <lb ed="#B" n="45"/>virtute superiori possit illud attingere: actio autem quae est creatio in nuilum subtractum omnino fit. &amp; 
+       <lb ed="#B" n="46"/>ideo id nulla creatura omnino potest attingere, &amp; per hoc neque ad ipsum creandum instrumentaliter 
+       <lb ed="#B" n="47"/>agere vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e1767-d1e306">
+       AD secundum dicendum quod creatum creare vel coagere in creando vt agens principale, vel 
+       <lb ed="#B" n="48"/>aliqua dispositione sua attingendo creatum, inquantum creatur tanquam agens instrumentale, omnino est im 
+       <lb ed="#B" n="49"/>possibile: vt dictum est. Creare tamen instrumentaliter id quid creatur tanquam continens in se creans prin- 
+       <lb ed="#B" n="50"/>cipale: &amp; vt de quo agit creatura: non est inconueniens creaturae: vt iam expositum est. 
+       <lb ed="#B" n="51"/>Explicitae sunt Quaestiones. XXXVllde Quarto Quolibet. Magistri Henrici a Gandauo, Ar- 
+       <lb ed="#B" n="52"/>chidiaconi Tornacensis, disputatae in scholis eius.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 36</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 36</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="24-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e565">
+      <head xml:id="n3av8a-c1e565-Hd1e96">Quaestio 36</head>
+      <p xml:id="n3av8a-c1e565-d1e99">
+       <!--89.xml-->
+       <pb ed="#B" n="24-v"/>
+       <lb ed="#B" n="1"/>AD tertiam quaestionem nullum argumentum adducebatur. ideo ad ipsam expli 
+       <lb ed="#B" n="2"/>candam intelligendum est: quod in tractatu Compotus triplex distinguitur numerus: 
+       <lb ed="#B" n="3"/>numerus articulus, numerus digitus, numerus compositus ex vtroque, id est ex 
+       <lb ed="#B" n="4"/>articulo &amp; digito. Numerus articulus appellatur numerus iste, vnus, duo, tres, 
+       <lb ed="#B" n="5"/>&amp; caeteri vsque ad decem: qui est primus numerus digitus: a quo incipit numerus com 
+       <lb ed="#B" n="6"/>positus ex articulo &amp; digito. xi. &amp;. xii. &amp; caeteri vsque ad. xx. qui est secundus numerus 
+       <lb ed="#B" n="7"/>digitus: a quo cum articulo erit compositio secundi numeri compositi vsque ad. xxx. 
+       <lb ed="#B" n="8"/>qui est tertius numerus digitus. &amp; sic deinceps vsque ad centum: qui est decimus digitus. Et appel- 
+       <lb ed="#B" n="9"/>latur numerus articulus, &amp; digitus transsumptiue a digito &amp; articulo manus, in quibus antiquitus 
+       <lb ed="#B" n="10"/>solebat fieri computatio. Denarius enim numerus dicitur digitus, quia in quolibet digito manus: qui  
+       <lb ed="#B" n="11"/>sunt quinque, pollex, index, medius, medicus, &amp; auricularis: a trunco brachii vsque ad digiti extremitatem 
+       <lb ed="#B" n="12"/>sunt quinque articuli: vnus transiens per palmam manus, in qua digiti non separantur: &amp; alii tres 
+       <lb ed="#B" n="13"/>vsque ad digiti extremitatem: secundum quos digiti ab inuicem sunt separatieu. Isti autem quaetuor articuli sunt inter 
+       <lb ed="#B" n="14"/>ualla inter quinque diuisiones. Semper enim in vno diuisiones excedunt interualla, vt dicit <name ref="#Aristotle">Philosophus</name> in libro primo 
+       <lb ed="#B" n="15"/>Priorum. Et istarum quinque diuisionum duae sunt in extremitatibus digitorum: vna in extremitate in trum 
+       <lb ed="#B" n="16"/>co brachii: altera in extremitate opposit: in fine digiti: tres autem aliae diuisiones sunt intra digitum  
+       <lb ed="#B" n="17"/>in iuncturis articulorum. Vnde antiqui facientes computos suos in digitis manus: numeros articu 
+       <lb ed="#B" n="18"/>los appellabant illos qui signabantur super digiti &amp; articulorum diuisiones, &amp; faciebant computum 
+       <lb ed="#B" n="19"/>in manu super diuisiones dictas, &amp; intra manum &amp; extra, bis tangendo in numerando quamlibet di-  
+       <lb ed="#B" n="20"/>uisionem. Cum ergo in quolibet digito sunt quinque diuisiones, tangendo in numerando quamlibet di-  
+       <lb ed="#B" n="21"/>uisionem bis, semel intra manum &amp; semel extra, numerabant in quolibet digito bis quinque, &amp; ap- 
+       <lb ed="#B" n="22"/>pellabant totum numerum illum digitum: quoniam super omnes diuisiones digiti intra &amp; extra acceptus. Cum 
+       <lb ed="#B" n="23"/>ergo sint decem digiti in duabus manibus: decem numeri articuli id est decem denarii numerabantur 
+       <lb ed="#B" n="24"/>in duabus manibus: decies autem decem constituunt centum. &amp; sic numerus excrescens incipiendo  
+       <lb ed="#B" n="25"/>numerare ab extremitate pollicis manus dexterae, exterius in trunco brachii discurrendo per omnes 
+       <lb ed="#B" n="26"/>diuisiones pollicis vsque ad extremitatem eiusdem pollicis interius in trunco brachii, &amp; sic per caete 
+       <lb ed="#B" n="27"/>ros digitos quousque deueniatur ad extremitatem auricularis manus sinistrae in parte interiori in trum 
+       <lb ed="#B" n="28"/>cobrachii, excrescit numerus centenarius incipiendo computum a principio pollicis manus dextrae 
+       <lb ed="#B" n="29"/>exterius vsque ad principium auricularis manus sinistrae interius: signando bis numerum super quamli- 
+       <lb ed="#B" n="30"/>bet iuncturam cuiuslibet digiti, &amp; interius scilicet &amp; exterius. Et in hoc antiqui assignabant perfe- 
+       <lb ed="#B" n="31"/>ctionem numeri centenarii. Quia si vlterius oportet procedere numerando, oportet incipere a primo 
+       <lb ed="#B" n="32"/>articulo, &amp; ab vnitate: quia vltra centenarium in computando non procedit compositio numerorum, 
+       <lb ed="#B" n="33"/>&amp; sic oportebit vlteriorem computum reuerti ad manum dextram, &amp; iterato incipere vbi &amp; praece- 
+       <lb ed="#B" n="34"/>dens, &amp; eodem ordine procedere. Et hoc est vt puto quod Hieronymus &amp; Beda intelligunt circa perfe- 
+       <lb ed="#B" n="35"/>ctionem numeri centenarii, quod incipit a dextra &amp; terminatur in laeuam, &amp; hinc iterum reuertitur in  
+       <lb ed="#B" n="36"/>dextram si debeat vlterior fieri computatio numerorum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

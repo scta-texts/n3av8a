@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e808">
+      <head xml:id="n3av8a-c1e808-Hd1e96">Quaestio 12</head>
+      <p xml:id="n3av8a-c1e808-d1e99">
+       <lb ed="#B" n="12"/>SEquuntur quaestiones pertinentes ad aliquos homines specialiter: &amp; erant quaedam perti- 
+       <lb ed="#B" n="13"/>nentes ad eorum bona spiritualia: quaedam vero pertinentes ad eorum bona carna 
+       <lb ed="#B" n="14"/>llia. Et circa primum erat vnum pertinens ad bonum vitae futurae, &amp; duo alia pertinentia ad  
+       <lb ed="#B" n="15"/>bona vitae praesentis. PRImum erat: vtrum digni licentiari in theologia, qui non licenti 
+       <lb ed="#B" n="16"/>antur, adipiscantur aureolam. 
+      </p>
+      <p xml:id="n3av8a-c1e808-d1e112">
+       ET arguitur quod sic. quia virgo adipiscitur aureolam, etsi digni  
+       <lb ed="#B" n="17"/>tas eius ab hominibus non approbatur. sed promotio ad magisterium per licentiam non est nisi quaedam  
+       <lb ed="#B" n="18"/>approbatio dignitatis apud homines. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e808-d1e119">
+       CONtra. ludicium ecclesiae triumphan- 
+       <lb ed="#B" n="19"/>tis conforme est iudicio ecclesiae militantis. Si ergo ecclesia militans non approbat aliquem dignum ad  
+       <lb ed="#B" n="20"/>statum magisterii in quo meretur aureolam: ergo nec ecclesia triumphans, non ergo adipiscitur aureolam.
+      </p>
+      <p xml:id="n3av8a-c1e808-d1e126">
+       <lb ed="#B" n="21"/>DIcendum ad hoc: quod ad promerendum aureolam plus respicitur actus quo meretur, quam status. vnde cuiuscun 
+       <lb ed="#B" n="22"/>qued status &amp; conditionis sit homo, si mortem sustinet pro fide &amp; iustitia meretur aureolam martyrum. Si 
+       <lb ed="#B" n="23"/>militer cuiuscunque status aut conditionis sit virgo, si pudicitiam virginalem custodit propter deum me- 
+       <lb ed="#B" n="24"/>retur aureolam virginum. Similiter ergo docens verbo praedicationis &amp; lectionis alios, vt per viam ve 
+       <lb ed="#B" n="25"/>ritatis ad vitam aeternam eos perducat, cuiuscumque status sit siue magister siue non magister, meretur 
+       <lb ed="#B" n="26"/>aureolam doctorum. In talibus enim consideratur magis actus quam status. 
+      </p>
+      <p xml:id="n3av8a-c1e808-d1e143">
+       AD argumentum in oppo 
+       <lb ed="#B" n="27"/>situm, quod ecclesia militans non approbat eum dignum ad magisterium: ergo nec triumphans ad prae- 
+       <lb ed="#B" n="28"/>mium magistrorum: Dicendum quod si aliquis sit dignus promoueri ad magisterium omnibus conside 
+       <lb ed="#B" n="29"/>ratis, credo si non promouetur cum aliis error est non promouentis: &amp; ideo si alios docet, sicut ecclesiae expe 
+       <lb ed="#B" n="30"/>dit, extra statum magisterii, propter actum doctoris, licet non habet statum, aureolam, promeretur. Vn  
+       <lb ed="#B" n="31"/>de etsi non esset omnino dignus ad tam arduum statum doctoris cuiusmodi est magistri theolo- 
+       <lb ed="#B" n="32"/>giae: si tamen alias bene facit actum praedicando &amp; docendo, credo quod bene promeretur aureolam. Si vero 
+       <lb ed="#B" n="33"/>per hoc quod non admittitur tanquam dignus ad magisterium impeditur ne alias poterit habere locum vel op 
+       <lb ed="#B" n="34"/>portunitatem docendi, licet voluntatem bonam habeat docendi alios: licet propter bonam voluntatem 
+       <lb ed="#B" n="35"/>suam remuneretur in praemio essentiali, vt credo, tamen aureolam non obtinebit: quia ad promerendum au 
+       <lb ed="#B" n="36"/>reolam non sufficit voluntas: sed requiritur actus, vt credo, quod tamen bonam habet quaestion em.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

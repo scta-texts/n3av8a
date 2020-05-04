@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 10</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 10</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="37-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e781">
+      <head xml:id="n3av8a-c1e781-Hd1e96">Quaestio 10</head>
+      <p xml:id="n3av8a-c1e781-d1e99">
+       <lb ed="#B" n="42"/>SEquuntur quaestiones pertinentes ad homines. Quarum quaedam pertinent ad omnes 
+       <lb ed="#B" n="43"/>homines generaliter: quaedam vero ad aliquos aliquorum statuum specialiter. Perti 
+       <lb ed="#B" n="44"/>nentes ad omnes homines generaliter erant duae: vna pertinens ad naturam: altera vero 
+       <lb ed="#B" n="45"/>pertinens ad culpam. PRIma erat: vtrum aliquid nutrimenti conuertatur in verita 
+       <lb ed="#B" n="46"/>tem humanae naturae. SEcunda: vtrum paruuli a parentibus contrahunt aliquam cul 
+       <lb ed="#B" n="47"/>pam.
+      </p>
+      <p xml:id="n3av8a-c1e781-d1e115">
+       CIRca primum arguitur: quod nihil nutrimenti conuertitur in veritatem hu- 
+       <lb ed="#B" n="48"/>manae naturae. quoniam si sic: tunc homo esset perpetuus &amp; incorruptibilis: quid falsum 
+       <lb ed="#B" n="49"/>est. Probatio consequentiae est. quia nutrimentum restaurat deperditum. Posset ergo semper re- 
+       <lb ed="#B" n="50"/>staurari quicquid deperiret: &amp; sic nutrimentum necessario hominem in esse perpetuo conseruaret. 
+      </p>
+      <p xml:id="n3av8a-c1e781-d1e124">
+       IN con 
+       <lb ed="#B" n="51"/>trarium est <name ref="#Augustine">Augustinus</name> de vera religione, vbi dicit. Alimenta corrupta id est amittentia formam 
+       <lb ed="#B" n="52"/>suam in membrorum istorum fabricam migrant.
+      </p>
+      <p xml:id="n3av8a-c1e781-d1e134">
+       DIcendum ad hoc: quod forma quaestionis propo 
+       <lb ed="#B" n="53"/>sitae geminum potest habere intellectum: vtrum videlicet alimentum conuertitur in veritatem 
+       <lb ed="#B" n="54"/>humanae naturae, &amp; hoc vel ipsius quae attrahit sibi nutrimentum, vel prolis quam habet de se ge 
+       <!--115.xml-->
+       <pb ed="#B" n="37-v"/>
+       <lb ed="#B" n="1"/>nerare. Et quo ad vtrunque modum simul determinat <name ref="#Augustine">Augustinus</name> in auctoritate tacta vbi dicit. Alimenta 
+       <lb ed="#B" n="2"/>carnis corrupta, i i. amittentia formam suam in membrorum istorum fabricam migrant: &amp; corrupta 
+       <lb ed="#B" n="3"/>reficiunt in aliam formam per conuenientiam transeuntia: &amp; per vitalem motum diiudicantur quo  
+       <lb ed="#B" n="4"/>dammodo: vt ex eis in structuram huius corporis visibilis quae apta sunt assumantur: non apta vero 
+       <lb ed="#B" n="5"/>per congruos meatus eiiciantur: quorum aliud faeculentissimum redditur terrae ad alias formas 
+       <lb ed="#B" n="6"/>assumendas, aliud per totum corpus exhalat, aliud totius animalis latentes neruos accipit, &amp; inchoatur 
+       <lb ed="#B" n="7"/>in prolem, &amp; siue congruentia duorum corporum siue tali aliquo phantasmate commotum per ge- 
+       <lb ed="#B" n="8"/>nitales vias ab ipso vertice defluit in infima, voluptate. Iam vero in matre per certos numeros tem 
+       <lb ed="#B" n="9"/>porum coaptatur: vt suas regiones quaeque membra occupent. Etsi modum parilitatis seruauerint, nasci 
+       <lb ed="#B" n="10"/>tur formosum corpus: &amp; a suis dilectoribus amatur acerrime. Sed quia vt patet ex primo argumento 
+       <lb ed="#B" n="11"/>quaestio principaliter retorquetur ad conuersionem alimenti in veritatem naturae hominis aliti, non autem progeniti 
+       <lb ed="#B" n="12"/>illa parte de progenito hominis amissa: dicendum est dealito quod in veritatem naturae suae corporalis per 
+       <lb ed="#B" n="13"/>nutritionem conuertitur substantia alimenti. Nec differunt nutritio &amp; generatio nisi quod generatio formam 
+       <lb ed="#B" n="14"/>suam similem in specie aliam numero ex materia nutrimenti producit in genito. Nutritio vero sub forma 
+       <lb ed="#B" n="15"/>sua eadem numero corrumpendo formam alimenti sibi coniungit materiam alimenti: per quod nutritur &amp; augmen 
+       <lb ed="#B" n="16"/>tatur per actionem carnis secundum speciem, augmentando carnem illam quae deperditur: quae dicitur esse caro se 
+       <lb ed="#B" n="17"/>cundum materiam. de quo magnae sunt difficultates: de quibus nihil ad propositum. 
+      </p>
+      <p xml:id="n3av8a-c1e781-d1e186">
+       AD argumentum in oppo 
+       <lb ed="#B" n="18"/>situm: quod tunc homo posset esse perpetuus: dicendum quod non sequitur: tum quia calor naturalis in agendo  
+       <lb ed="#B" n="19"/>in nutrimentum quod primo est contrarium licet in fine sit simile in agendo, patitur: quia forma ali 
+       <lb ed="#B" n="20"/>menti contra agit: &amp; per hoc semper calor naturalis continue debilitatur: &amp; necesse est in finem eum omnino 
+       <lb ed="#B" n="21"/>extingui: tum quia in corpore humano calor viget in humido vnctuoso, sicut ignis ardet in oleo. Humi 
+       <lb ed="#B" n="22"/>dum autem huiusmodi, duplex est: radicale ex prima regeneratione a parentibus in semine contractum, &amp; nutrimen 
+       <lb ed="#B" n="23"/>tale per nutritionem a nutrimento attractum. in vtroque viget calor naturalis: sed in humido radicali 
+       <lb ed="#B" n="24"/>essentiae cui admiscetur humidum nutrimentale: &amp; fit cum ipso pabulum caloris naturalis: ne humi 
+       <lb ed="#B" n="25"/>dum radicale citius depascat: quia illo consumpto necesse est morte naturali hominem mori. Et quia 
+       <lb ed="#B" n="26"/>nunquam tantum interponit se humidum nutrimentale pro humido radicali, vt sit pabulum caloris, quin 
+       <lb ed="#B" n="27"/>semper simul cum humido nutrimentali necesse est aliquid consumi de humido radicali: ideo cum sit 
+       <lb ed="#B" n="28"/>finitum, necesse est ad vltimum consumi &amp; hominem mori: quia humidum nutrimentale per se ad conti 
+       <lb ed="#B" n="29"/>nuationem vitae &amp; conseruationem naturalis caloris non sufficit. &amp; quomodo hoc, grauem in se ha 
+       <lb ed="#B" n="30"/>bet quaestionem.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

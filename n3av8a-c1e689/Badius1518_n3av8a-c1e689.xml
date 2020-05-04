@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="31-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e689">
+      <head xml:id="n3av8a-c1e689-Hd1e96">Quaestio 3</head>
+      <p xml:id="n3av8a-c1e689-d1e99">
+       <lb ed="#B" n="41"/>CIrca secundum arguebatur quod caro Christi mortua &amp; viua non fuit eadem numero. quoniam ab  
+       <lb ed="#B" n="42"/>eadem forma re caro est caro: &amp; caro viua. quoniam etsi ab alio dicatur caro &amp; alio viua, il 
+       <lb ed="#B" n="43"/>a se habent per ordinem: &amp; formae per ordinem se habentes sub eodem genere necessario comncidunt. 
+       <lb ed="#B" n="44"/>si ergo caro Christi desinit esse viua: ergo desinit esse caro. sed si diceretur caro, hoc 
+       <lb ed="#B" n="45"/>esset aequiuoce.
+      </p>
+      <p xml:id="n3av8a-c1e689-d1e112">
+       IN oppositum est fides. quoniam sicut tenet quod erat idem corpus ita &amp; quod  
+       <lb ed="#B" n="46"/>erat eadem caro: dicente Dauid in psal. Caro mea requescet in spe.
+      </p>
+      <p xml:id="n3av8a-c1e689-d1e117">
+       IN hac quaestione plus 
+       <lb ed="#B" n="47"/>docet nos fides quam rerum natura, quia si ex natura rei eadem esset numero caro viui &amp; 
+       <lb ed="#B" n="48"/>mortui, hoc est ponendum in aliis hominibus. Quid perscrutari ad phiaesenus assumptum non est. Sed quodcumque se habeat 
+       <lb ed="#B" n="49"/>in aliis, circa carnem Christi firma fide tenendum est vt credo: quod eadem erat numero viua &amp; mortua: &amp; hoc 
+       <lb ed="#B" n="50"/>quia anima separata caro illa secundum formam illam quae erat caro mansit: nec iuit in interitum quo ad formam carnis: dicen 
+       <lb ed="#B" n="51"/>te Dauid in psalmo in persona Christi. Caro mea requescet in spe. Glossa. i, non deficiet in interitum: sed dor  
+       <lb ed="#B" n="52"/>miet: &amp; hoc somno mortis in spe resurrectionis: qua quidem resurrectione, reuersa est in eam forma vitae: vt 
+       <lb ed="#B" n="53"/>anima separata id formae substantialis quod recedens in carne &amp; corpore Christi reliquit mortuum, id ipsum reuer 
+       <lb ed="#B" n="54"/>sa inuenit in eadem disponne substantiali: &amp; eidem iterato coniuncta est: &amp; fecit viuum. Vtrum autem in separatione  
+       <!--102.xml-->
+       <pb ed="#B" n="31-r"/>
+       <lb ed="#B" n="1"/>animae aliquid corruptum fuit in interitum, propter quod corpus suum factum fuit improportionale: quid restaurabatur in  
+       <lb ed="#B" n="2"/>eius reuersione: nondum est manifestum: sed tantum ad praeosenus sit manifestum quod eadem numero omnino erat caro Chri- 
+       <lb ed="#B" n="3"/>sti prius viua &amp; deinde mortua &amp; postmodum iterato viua. Hinc dicit <name ref="#Augustine">Augustinus</name> de fide ad Petrum 
+       <lb ed="#B" n="4"/>De matris vtero idem homo factus exiuit: &amp; in cruce idem homo factus pependit: &amp; in sepulcro idem  
+       <lb ed="#B" n="5"/>factus iacuit: &amp; ab inferis idem homo factus resurrexit. sed in sepulcro secundum carnem idem deus  
+       <lb ed="#B" n="6"/>iacuit: &amp; in infernum secundum solam animam descendit de inferis ad carnem tertia die reuertentem. ldem 
+       <lb ed="#B" n="7"/>deus qui in sepulcro secundum carnem iacuit, de sepulcro surrexit: &amp; quia caro Christi sicut in morte reman 
+       <lb ed="#B" n="8"/>sit, ideo nec corporeitatis continuatio per putrefactionis incinerationem discontinuata fuit. Vnde sequitur 
+       <lb ed="#B" n="9"/>in eodem psalmo. Nec dabis sanctum tuum. Glossa. Corpus meum a te sanctificatum. Videre corruptionem. 
+       <lb ed="#B" n="10"/>Glossa, putrefactionem. Et sic patet quis gradus formae mansit in corpore Christi anima separata. Ex quo ve 
+       <lb ed="#B" n="11"/>re &amp; perfecte sicut alius homo fuit mortuus, nullum actum vitae in se habuit: neque vegetabilis, neque sensibilis, 
+       <lb ed="#B" n="12"/>neque rationalis. Sed si in hoc terminatur gradus naturalis formae in homine eductae de potentia materiae quae ani 
+       <lb ed="#B" n="13"/>mam intellectiuam praecedit, ex hoc non est manifestum: sed quod anima rationalis secundum intellectualem potentiam ab extriseco 
+       <lb ed="#B" n="14"/>est, nulli dubium est. Nec restat dubium nisi de vegetatiuo &amp; sensitiuo an in homine pertinent ad substantiam animae intel 
+       <lb ed="#B" n="15"/>lectiuae: &amp; sic tota vita corporis humani separatur cum anima, manente solo corpore carnis: vt sic ex duabus formis 
+       <lb ed="#B" n="16"/>naturaliter constituatur homo: vna naturali educta per naturam de potentia materiae quae est forma conmixtionis 
+       <lb ed="#B" n="17"/>aliqua: in qua vltimus gradus intentionis est eius quod per naturam eductum est de potentia materiae: in quo con 
+       <lb ed="#B" n="18"/>sistit ratio carnis: sub quae secundum gradus intentionis inferiores habent esse ratio mixti simpliciter vt mixtum est: &amp; 
+       <lb ed="#B" n="19"/>corporis simpliciter vt corpus est: &amp; substantiae simplicitur vt substantia est: &amp; altera supernaturali supna 
+       <lb ed="#B" n="20"/>turaliter infusa: quae est anima rationalis: quao id quid iam perfectum secundum quaedruplicem gradum per formam naturalem vnitam &amp; 
+       <lb ed="#B" n="21"/>simplicem secundum rem perficiat alio triplici gradu: vegetabilis: sensibili scilicet &amp; rationalis, quorum supsmus est ratio- 
+       <lb ed="#B" n="22"/>nalis dans actum vitae perfectum qui est, proprius hominibus, medius est sensibilis quem habet conmunem cum bestiis. vlti- 
+       <lb ed="#B" n="23"/>mus sed supra supremum gradum formae inductae per naturam est vegetabilis: quem habet conmunem cum plantis, quia  
+       <lb ed="#B" n="24"/>ab ipso est primus actus vitae imperfectus, et ideo occultus, qualis est in plantis: dicente <name ref="#Aristotle">philosopho</name> in libro de plam 
+       <lb ed="#B" n="25"/>tis. Vita in animalibus &amp; plantis inuenta est. In animalibus manifesta apparens. In plantis vero occulta non eui 
+       <lb ed="#B" n="26"/>dens. An vero vegetabile &amp; sensibile pertineant in homine ad formam mixti, vt sint duo gradus in ea super ratio- 
+       <lb ed="#B" n="27"/>nem carnis: an pertineant ad vnam formam mediam vel duas inter formam carnis quae manet coniuncta materiae, &amp; 
+       <lb ed="#B" n="28"/>animam rationalem quae manet separata: &amp; sic sit ponere in homine tres gradus vel quaetuor ad minus formarum diffe 
+       <lb ed="#B" n="29"/>rentium secundum rem: vt in morte Christi ponantur vegetabile &amp; sensibile secundum substantiam corrumpi: &amp; ideo ratio 
+       <lb ed="#B" n="30"/>nale separari: &amp; manere quod insimum est non vitale: vt sic facile sit ostendere quomodo Christus mortuus sit vere 
+       <lb ed="#B" n="31"/>&amp; naturaliter sicut alii homines. Quod valde difficile sit ostendere secundum alios duos modos. Sed de hoc ni 
+       <lb ed="#B" n="32"/>hil ad philosopnus: neque etiam de illo: quomodo manet in corpore Christi forma carnis eadem numero: am scilicet naturalitur 
+       <lb ed="#B" n="33"/>vt idem ponendum sit de aliis hominibus: an miraculose solum: vt hoc fuerit singulare in Christo. sed hoc dixeri 
+       <lb ed="#B" n="34"/>vt declararem qualitur in labyrinthum nos ponimus istam materiam nimium perscrutando. quia vnica difficuitate deci 
+       <lb ed="#B" n="35"/>sa statim pullulant grauiores. propter quid ab initio mihi displicuit eam alio anno inchoare: &amp; quasi intactam 
+       <lb ed="#B" n="36"/>reliqui. Quantum autem pertinet ad propositam quaestionem sufficit dicere quod caro remansit eadem numero in forma car- 
+       <lb ed="#B" n="37"/>nis. In ipsa enim est primus gradus in quo deficit ratio vitae. Vnde inter prima mixta post simplicia elemen 
+       <lb ed="#B" n="38"/>ta enumerat <name ref="#Aristotle">philosophus</name> carnem in fine quarti metaphysicae: &amp; hoc inter mineralia &amp; quae ex se sunt inanima-  
+       <lb ed="#B" n="39"/>ta, dicens. Dicamus quid caro aut os aut aliorum homogeneorum, habemus namque ex quibus homogeneorum 
+       <lb ed="#B" n="40"/>natura consistat per generationem. ex elementis namque homogenea. Ecce vult quod homogenea omnia inter quae sunt ca 
+       <lb ed="#B" n="41"/>ro &amp; os, mediate sint ex elementis: &amp; talia non sunt nisi illa quorum esse consistit in forma mixti. vnde etiam 
+       <lb ed="#B" n="42"/>subdit ibidem post modicum dicens. Igitur tales particulas algore &amp; calore &amp; eis quae ab istis sunt motibus contin 
+       <lb ed="#B" n="43"/>git fieri coagulata. Dico sane quaecumque homogenea vt carnem &amp; os &amp; crines &amp; neruum. cuncta enim differunt 
+       <lb ed="#B" n="44"/>prius dictis differentiis: &amp; aliis talibus motibus fiunt mixtis. &amp; in secundo de generatione dicit. Quoniam autem agunt 
+       <lb ed="#B" n="45"/>&amp; patiuntur contraria. est enim actu calidum potentia frigidum: &amp; actu frigidum potentia calidum. Quapropter si 
+       <lb ed="#B" n="46"/>non coaequantur, transmutantur in inuicem. Similiter autem &amp; in aliis contrariis. &amp; prius ita elementa transmu- 
+       <lb ed="#B" n="47"/>tantur: ex his autem caro &amp; ossa &amp; quae talia quando ad medium veniet. hoc enim neutrum. Similiter autem siccum &amp; hu 
+       <lb ed="#B" n="48"/>midum &amp; alia talia secundum medietatem faciunt carnem &amp; os &amp; alia. Ecce quam plane quod esse horum consistit in for 
+       <lb ed="#B" n="49"/>ma mixti. &amp; loquitur ibi ad literam de modo generationis mixti ex elementis, cum immediate subiungit, Omnia autem  
+       <lb ed="#B" n="50"/>mixta corpora. &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e689-d1e259">
+       AD Argumentum in oppositum dicendum quod ponentes vegetabile &amp; sensibile esse 
+       <lb ed="#B" n="51"/>gradus intentionum in forma mixti &amp; intellectu separato manere in re formam illam vnicam eductam de po 
+       <lb ed="#B" n="52"/>tentia materiae in qua sunt diuersi gradus intentionum, necesse habent dicere aut quod separato intellectu ma 
+       <lb ed="#B" n="53"/>net sensitiuum &amp; vegetatiuum propter formam illam manentem: cuius vegetabile &amp; sensibile sunt gradus: aut 
+       <lb ed="#B" n="54"/>licet non ab alia forma differenti re est caro &amp; viua: est tamen caro ab alia intentione secundum quam manet for 
+       <!--103.xml-->
+       <pb ed="#B" n="31-v"/>
+       <lb ed="#B" n="1"/>ma mixti anima intellectiua separata: &amp; quod corrumpatur per intentionem vegetabilis &amp; sensibilis. propter quod  
+       <lb ed="#B" n="2"/>necesse est intellectum separari tamquam a subiecto sibi indisposito. Secundum autem ponentes vegetabile &amp; sensibile esse 
+       <lb ed="#B" n="3"/>gradus intentionum in anima rationali: vel esse gradus vnius formae mediae: vel esse duas formas medias: patet quod fal 
+       <lb ed="#B" n="4"/>sum assumitur, quia omnino ab alia forma est caro: &amp; ab alia viua: &amp; quod illae formae per ordinem se habent 
+       <lb ed="#B" n="5"/>non tantum ordine intentionum sed ordine rerum. &amp; ideo non possunt coincidere. formas enim coinci- 
+       <lb ed="#B" n="6"/>dentes sola intentione differre necesse est, vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

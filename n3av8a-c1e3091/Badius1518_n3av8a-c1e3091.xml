@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 30</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 30</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3091">
+       <head xml:id="n3av8a-c1e3091-Hd1e96">Quaestio 30</head>
+       <p xml:id="n3av8a-c1e3091-d1e99">
+        <lb ed="#B" n="10"/>CIrca tertium arguebatur quod licet transire de statu habente bona communia immo- 
+       <lb ed="#B" n="11"/>bilia, ad statum illorum qui non habent illa. Quoniam canonicos regulares beati Au 
+       <lb ed="#B" n="12"/>gustini qui habent communia in communi: licet transire ad statum fratrum praedica 
+       <lb ed="#B" n="13"/>torum vel minorum: qui nulla habent immobilia in conmuni: nisi quod praedicatores habent 
+       <lb ed="#B" n="14"/>modica quae pertinent ad eorum claustra. 
+      </p>
+      <p xml:id="n3av8a-c1e3091-d1e112">
+       CONtra est. quia bona communia ecclesiae 
+       <lb ed="#B" n="15"/>nihil diminuunt de ratione perfectionis, etiam immobilia. xii. qu. i. Expedit. &amp; cap. 
+       <lb ed="#B" n="16"/>Videntes. sed non est licitum transire a statu in statum nisi propter maiorem persectionem. ergo &amp;c. 
+       <lb ed="#B" n="17"/>
+      </p>
+      <p xml:id="n3av8a-c1e3091-d1e121">
+       DIcendum ad hoc: quod status persectionis secundum quem ecclesia concedit &amp; licitum est ex iure diuino  
+       <lb ed="#B" n="18"/>ab vno in alterum transire: est ille qui est perfectionis acquirendae: quia ille solum electionis est. Status 
+       <lb ed="#B" n="19"/>vero persectionis exercendae, non electionis sed dispensationis &amp; necessitatis est aut esse deberet, nisi 
+       <lb ed="#B" n="20"/>cupiditas nostra faceret. &amp; hoc quia ille status bene recipit imperfectum: iste vero requirit iam perfe- 
+       <lb ed="#B" n="21"/>ctum. Nunc autem quilibet eligere &amp; anhelare debet vt fiat perfectus: opere. scilicet exercendo quae persectum con 
+       <lb ed="#B" n="22"/>stituunt: non autem debet praesumere aliquis quod iam sit perfectus vt possit exercere opera quae ex per- 
+       <lb ed="#B" n="23"/>fecto habitu procedere debent. Propter quod non conceditur regulariter vt possit fieri transitus a statu 
+       <lb ed="#B" n="24"/>perfectionis acquirendae ad statum perfectionis exercendae propria voluntate &amp; electione cuiuscumque: 
+       <lb ed="#B" n="25"/>sed econverso conceditur regulariter: licet specialiter interdicatur hoc episcopis, quia propter statum 
+       <lb ed="#B" n="26"/>eminentiorem praesumitur de eis quod sunt perfectiores aliis qui sunt de iure conmuni subditi eis: illis etiam 
+       <lb ed="#B" n="27"/>in statu perfectionis exercendae existentibus. dicente Grego. in primo Past. Tantum debet actionem po- 
+       <lb ed="#B" n="28"/>puli actio transcendere praesulis, quantum distare solet a grege vita pastoris. &amp; infra. Vt non sit eius 
+       <lb ed="#B" n="29"/>operatio vtilis sed etiam singularis: nec inter malos tantummodo quae recta sunt faciat: sed bene quoque  
+       <lb ed="#B" n="30"/>operantes subditos sicut honore ordinis superat: ita &amp; morum virtute transcendat. Quia tamen non prae 
+       <lb ed="#B" n="31"/>sumitur quod sit aliquis immemor suae salutis, de iure conmuni liceret eis sicut &amp; inferioribus ministris 
+       <lb ed="#B" n="32"/>ecclesiae: nisi esset specialiter eis interdictum, transire ad statum religionis acquirendae. &amp; hoc quia li 
+       <lb ed="#B" n="33"/>cet omnes ministri ecclesiae sunt in statu perfectionis exercendae ex ordine ecclesiastico ad quem assum 
+       <lb ed="#B" n="34"/>pti sunt: sicut religiosi ex professione: tamen quia bona temporalia quocumque titulo possessa magis so 
+       <lb ed="#B" n="35"/>lent circa se hominem reddere sollicitum sollicitudine superslua, quam non possessa aliis eisdem retentis:  
+       <lb ed="#B" n="36"/>idcirco licet absque omni diminutione perfectionis possideantur: quo ad hoc melius est tamen &amp; per 
+       <lb ed="#B" n="37"/>fectius pluribus ad perfectionem acquirendam ( pauci enim iam perfecti ad publicum ministerium ec- 
+       <lb ed="#B" n="38"/>clesiae veniunt) administrationem communium bonorum ecclesiae dimittere: &amp; ad statum perfectionis 
+       <lb ed="#B" n="39"/>acquirendae se transferre. Et propter hoc idem licitus est transitus a statu regulae laxioris &amp; minoris 
+       <lb ed="#B" n="40"/>abdicationis ad statum regulae strictioris &amp; abdicationis maioris, quantum est de iure conmuni: tanquam  
+       <lb ed="#B" n="41"/>a minori persectione ad maiorem quo ad statum. 
+      </p>
+      <p xml:id="n3av8a-c1e3091-d1e176">
+       PER haec patent ambo obiecta. licitum est enim ca- 
+       <lb ed="#B" n="42"/>nonicis beati <name ref="#Augustine">Augustinus</name> transire ad religiones mendicantes propter iam dictam causam: etiam si es- 
+       <lb ed="#B" n="43"/>sent canonici ecclesiae cathedralis: &amp; reciperent necessaria victus in communi. secundum quod omnibus 
+       <lb ed="#B" n="44"/>vtiliter voluit instituere <name ref="#Augustine">Augustinus</name> &amp; hoc non ex mendicitate sed pro suo seruitio, sicut accipiunt ca 
+       <lb ed="#B" n="45"/>nonici saeculares. 
+      </p>
+      <p xml:id="n3av8a-c1e3091-d1e195">
+       PER idem patet secundum. bene enim verum est quod bona ecclesiae etiam immobilia ni 
+       <lb ed="#B" n="46"/>hil diminuunt de ratione perfectionis scilicet exercendae: diminuunt tamen in aliquibus de ratione perfectio 
+       <lb ed="#B" n="47"/>nis acquirendae, vt dictum est. Propter quod illi qui nimio affectu in tractando eis alligantur: quid pluribus na 
+       <lb ed="#B" n="48"/>tum est contingere, quantum est ex parte communis fragilitatis: si tamen secundum praedeterminatum  
+       <lb ed="#B" n="49"/>modum patienter eis carere possent: illis expedit &amp; melius est ad perfectionem quam nondum habent 
+       <lb ed="#B" n="50"/>acquirendam, bona communia ecclesiae dimittere. alias enim despectus bonorum immobilium ecclesiae 
+       <lb ed="#B" n="51"/>damnabilis esset. vt. xii. qu. i. Videntes. in fine. &amp;. quid ii. capiau. Siquis. de clericis. in principio. 
+       <lb ed="#B" n="52"/>Explicitum est Septimum Quodlibet Magistri Henrici a Gandauo  
+       <lb ed="#B" n="53"/>continens Quaestiones. XXX.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="38-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e795">
+      <head xml:id="n3av8a-c1e795-Hd1e96">Quaestio 11</head>
+      <p xml:id="n3av8a-c1e795-d1e99">
+       <lb ed="#B" n="31"/>Irca secundum arguitur quod paruulus contrahat culpam secundum illud apo- 
+       <lb ed="#B" n="32"/>stoli. Omnes in Adam peccauerunt. &amp; hoc non nisi contrahendo culpam ab ipso. ergo  
+       <lb ed="#B" n="33"/>&amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e795-d1e108">
+       CONtra. Peccatum consistit formaliter in actu voluntatis. sed paruulus num 
+       <lb ed="#B" n="34"/>habuit actum voluntatis, propriae: neque aliquid voluntatis primi parentis potuit deuenire 
+       <lb ed="#B" n="35"/>ad paruulum. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e795-d1e115">
+       DIcendum ad hoc, omissa recitatione opinionum haereticorum  
+       <lb ed="#B" n="36"/>dicentium paruulos nullum peccatum contrahere a parentibus: nihilque esse originale pec 
+       <lb ed="#B" n="37"/>catum: &amp; disputatione contra illud: dicendum quod paruuli contrahunt culpam non solum 
+       <lb ed="#B" n="38"/>poenam pro reatu culpae: secundum quod <name ref="#Augustine">Augustinus</name> prolixe partractat in libris contra Donatistas, qui peccatum ori 
+       <lb ed="#B" n="39"/>ginale negabant. Sed quia vt visum fuit in opponendo, propter modum contrahendi originale quaestio fuit 
+       <lb ed="#B" n="40"/>principaliter proposita: idcirco ad huius intellectum intelligendum: quod originalis iustitia in primo parente ni 
+       <lb ed="#B" n="41"/>hil aliud fuit quam quaedam supernaturalis gratiam (vtrum gratuita, vel gratis data de hoc nihil ad praesens) 
+       <lb ed="#B" n="42"/>quae naturalem iustitiam roborabatl, &amp; pronitatem inclinandi ad bonum quasi ad dexteram dabat.  
+       <lb ed="#B" n="43"/>quam cum primus homo peruersitate voluntatis suae diuino praecepto contrariando contempsit, il- 
+       <lb ed="#B" n="44"/>lam iustitiam amisit qua inclinabatur, ad dexteram virtutis: sed econtra in rectitudine naturalise 
+       <lb ed="#B" n="45"/>voluntatis debilitatus est: ac pronitatem contrariam inclinationis ad sinistram peccati incurrit. Nunc autem formalit 
+       <lb ed="#B" n="46"/>virtus &amp; vitium siue culpa &amp; peccatum in voiuntate nihil aliud est quam dispositio quaedan dans, pronitatem 
+       <lb ed="#B" n="47"/>rectitudini naturali voluntatis inclinandi se ad bonum dextrae vel ad malum sinistrae: &amp; ab ista deor-  
+       <lb ed="#B" n="48"/>dinatione voluntatis in seipsa consecuta est statim in poenam quasi dyscrasia naturalis in carnem 
+       <lb ed="#B" n="49"/>qua caro cum sensibus suis coepit rebellare contra spiritum. Caro autem sic infecta cum virtute sua 
+       <lb ed="#B" n="50"/>semen informare debuit ad procreationem prolis, morbidam qualitatem suam ei impressit: quae  
+       <lb ed="#B" n="51"/>semper in ea remansit. Cumque complete dispositum esset &amp; organizatum ad animam rationalem: &amp; ei in  
+       <lb ed="#B" n="52"/>fundebatur: ex ipsius animae rationalis connexione cum tali carne in ipsa statim pronitatem ad consentiendum  
+       <lb ed="#B" n="53"/>carni in peccatum concepit: qua paruulus statim aptus erat ad concupiscendum: &amp; factus adultus actu 
+       <lb ed="#B" n="54"/>concupiscit. &amp; talis dispositio pronitatis ad peccatum non nisi culpa est: in ea enim consistit ratio formalis 
+       <!--116.xml-->
+       <pb ed="#B" n="38-r"/>
+       <lb ed="#B" n="1"/>omnis culpae tam actualis quam originalis. Quomodo tamen peccata alias distinguuntur per speciem, bonam habet quae  
+       <lb ed="#B" n="2"/>stionem. Simpliciter ergo dicendum quod paruuli contrahunt culpam peccati, non solum poenam reatus. 
+      </p>
+      <p xml:id="n3av8a-c1e795-d1e171">
+       AD 
+       <lb ed="#B" n="3"/>argumentum in oppositum, quod peccatum formaliter consistit in actum voluntatis qui numquam fuit in paruulo: nec suus 
+       <lb ed="#B" n="4"/>nec alterius: Dicendum quod illud dictum, Peccatum consistit in actum voluntatis, verum est tamquam in causante: non autem ramquam 
+       <lb ed="#B" n="5"/>in subiecto: sed in ipsa volitiua potentia. Sic ergo dicendum quod peccatum paruuli tanquam in causante primo 
+       <lb ed="#B" n="6"/>fuit in actu voluntatis Adae, in quo eramus omnes materialiter, sicut in quo omnes peccauimus secundum 
+       <lb ed="#B" n="7"/>Aposto. Vnde <name ref="#Augustine">Augustinus</name> in fine de Libero arbitrio, peccatum originale ostendit quodammodo fuisse vo 
+       <lb ed="#B" n="8"/>luntarium propter voluntatem Adae. Tanquam autem in subiecto peccatum paruuli originale consistit in sua 
+       <lb ed="#B" n="9"/>voluntate: non ex actu proprio: sed ex actu voluntatis Adae imprimentis in voluntate pueri mediante 
+       <lb ed="#B" n="10"/>natura carnis cui vnitur: licet per multos medios, per quos virtus generatiua &amp; simul seminis infectiua 
+       <lb ed="#B" n="11"/>descendit ab Adam vsque ad paruulum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="529-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5155">
+       <head xml:id="n3av8a-c1e5155-Hd1e96">Quaestio 7</head>
+       <p xml:id="n3av8a-c1e5155-d1e99">
+        <lb ed="#B" n="10"/>CIrca secundum arguitur: quod duobus instantibus in tempore angeli respondet vnum in  
+       <lb ed="#B" n="11"/>tempore nostro: quia duobus punctis in terminis duarum linearum respondet vnus in  
+       <lb ed="#B" n="12"/>linea ambobus superposita. Item si non posset eis respondere vnicum, aut hoc est ra- 
+       <lb ed="#B" n="13"/>tione minoris simplicitatis in vno quam in pluribus: aut quia in pluribus est mora. 
+       <lb ed="#B" n="14"/>Non ratione primi, quia plura instantia aeque simplicia sunt vt vnum. simplum enim 
+       <lb ed="#B" n="15"/>additum simplo nihil auget. Non ratione secundi, quia bene aliqua succedunt sibi si- 
+       <lb ed="#B" n="16"/>ne mora vt tempus &amp; instans. Contra. quia si ita esset cum primum instans temporis angeli sit simul cum in  
+       <lb ed="#B" n="17"/>stanti nino, tunc plura instantia temporis angeli essent simul inter se. Hic primo oportet videre quale 
+       <lb ed="#B" n="18"/>sit tempus angeli in se: &amp; qualiter differat a tempore nostro: quae alias declarauimus: quod videlicet tempus 
+       <lb ed="#B" n="19"/>angeli discretum est: sicut &amp; suae actiones siue motiones quarum est mensura, discretae sunt sibi succe 
+       <lb ed="#B" n="20"/>dentes absque medio continuante. Sed est aduertendum quod multum refert de actionibus angeli intrinse- 
+       <lb ed="#B" n="21"/>cus manentibus: cuiusmodi sunt eius volitiones &amp; intellectiones: &amp; de eius motionibus circa exterio 
+       <lb ed="#B" n="22"/>ra corpora: &amp; similiter de mensuris illarum. Primae enim actiones operationes, proprie sunt &amp; actiones parfe 
+       <lb ed="#B" n="23"/>cti secundum quod perfectum est, simplices, totae simul existentes, per moram comparatione nni temporis seu per comparationem 
+       <lb ed="#B" n="24"/>ad tempus nostrum permanentes: &amp; quaelibet illarum est producta in esse per coexistentiam in vnico instanti npi temporis. 
+       <lb ed="#B" n="25"/>Secundae vero actiones mutationes sunt, quibus voluntate sua mouet seipsum quando transfertur de situ in situm: quae  
+       <lb ed="#B" n="26"/>sunt actus imperfecti secundum quod imperfectum est. Tertiae autem actiones quas agit circa exteriora vt circa cor- 
+       <lb ed="#B" n="27"/>poralia. Et tam actiones de primo genere quam de secundo pro mensura habent tempus discretum, sed modus actionum  
+       <lb ed="#B" n="28"/>de primo genere pro mensura habet tempus compositum ex instantibus indiuisibilibus quae sunt tota simul cum discre 
+       <lb ed="#B" n="29"/>tis &amp; permanentibus in mora: sicut moram habent &amp; permanentiam ipsae actiones mensuratae &amp; discretionem, non 
+       <lb ed="#B" n="30"/>est enim in angelo intellectio aut volitio sine mora: sed immediatam sine mora media habent adinuicem suc- 
+       <lb ed="#B" n="31"/>cessionem: quia cum vna intellectio angeli praecesserit per aliquantulum morae nfi temporis, in vltimo instanti illius 
+       <lb ed="#B" n="32"/>producitur tota simul alia cogitatio eius: quae similiter durat per moram aliquantulam nri temporis: &amp; sic de caeteris. 
+       <lb ed="#B" n="33"/>Sed mora ista tam in actionibus quam in mensuris earum potest esse maior vel minor secundum quod angelus plus vel mi 
+       <lb ed="#B" n="34"/>nus voluit se tenere in vnica cogitatione. Et istud tempus est discreta quantitas sicut oro. partes enim ora 
+       <lb ed="#B" n="35"/>tionis quae consistunt principaliter in prolatione vocalium cum quibus mixtim sonant consonantes, totae simul sunt 
+       <lb ed="#B" n="36"/>sed non subito transeunt sed totae simul manent per aliquantulam moram nfi temporis: vt patet cum dicitur a, ei, 
+       <lb ed="#B" n="37"/>o, u, vel pa, pe, pi, po, pu, vel coniungendo haec in dictione &amp; dicendo papa, pape, papi, papo, papu. Et est in  
+       <lb ed="#B" n="38"/>stans quod est pars discreta talis temporis angeli indiuisibilis, simul cum aliquantula parte nii temporis: &amp; cum 
+       <lb ed="#B" n="39"/>omnibus instantibus quae sunt in illo. Et sic contingit contrarium eius quod quaesitum est in quaestionem scilicet quod vni instanti temporis 
+       <lb ed="#B" n="40"/>angeli respondet tempus nim, &amp; plura instantia illius: cum quibus simul coexistit illud instans temporis angeli in  
+       <lb ed="#B" n="41"/>mora permanens, in qua tempus nim &amp; instantia eius transeunt. Modus autem actionum quae de secundo genere, pro  
+       <lb ed="#B" n="42"/>mensura habet tempus compositum ex instantibus indiuisibilibus quae tota simul sunt &amp; discreta sed transeuntia 
+       <lb ed="#B" n="43"/>&amp; sine mora sicut transeunt absque mora &amp; permanentia ipsae mutationes mensuratae. In transitu enim angeli de 
+       <lb ed="#B" n="44"/>situ in situm nullam moram intelligo. Et est tempus mensurans istas mutationes angeli subitas quantitas discre 
+       <lb ed="#B" n="45"/>ta sicut numerus vnitatum quae simplices sunt. Sed partes eius quae sunt sicut vnitates simplices nullam ha 
+       <lb ed="#B" n="46"/>bent permanentiam sed solummodo sunt in transitu: &amp; coexistunt singulae instantibus nri temporis singulis: nec 
+       <lb ed="#B" n="47"/>habent continuationem inter se: quia inter quaelibet duo instantia &amp; dictas mutationes necesse est moram po 
+       <lb ed="#B" n="48"/>nere angeli in signo ad quod terminatur praecedens mutatio: in quo angelus non mutatur: sed quasi quiescit per ali 
+       <lb ed="#B" n="49"/>quam moram &amp; partem nostri temporis. &amp; mensuratur illa quies per accidens per instans vel per instantia intellectionis 
+       <lb ed="#B" n="50"/>vel intellectionum quam vel quas interim angelus in se operatur. vna enim mutatio angeli terminata in vnum  
+       <lb ed="#B" n="51"/>situm, non potest habere aliam mutationem continuam ab illo situ in alium: quaelibet enim mutationum talium sequitur  
+       <lb ed="#B" n="52"/>propriam cognitionem in angelo: quaerum cognitionum quaelibet est morosa vt dictum est. His praelibatis ad id quidquaeritur 
+       <lb ed="#B" n="53"/>vtrum duobus nunc existentibus in tempore angeli respondeat vnicum nunc siue instans existens in tempore nio: Dico 
+       <lb ed="#B" n="54"/>quod non loquendo de instantibus temporis angeli quod habet esse secundum rem &amp; veritatem extra animam, nisi secundum ima 
+       <!--1098.xml-->
+       <pb ed="#B" n="529-r"/>
+        <lb ed="#B" n="1"/>ginantes intellectiones angeli. secundum quarum formas mutatur de situ in situm, esse subitas: &amp; quod secundum 
+       <lb ed="#B" n="2"/>vnam transit per vnam partem spatii, secundum aliam per aliam, quid impossibile est ponere ex parte transituum. 
+       <lb ed="#B" n="3"/>Sicut enim in naturalibus secundum philosophum. vii. Physicae subitae mutationes non possunt fieri nisi in terminis motuum 
+       <lb ed="#B" n="4"/>sic istae mutationes angeli non possunt fieri nisi in terminis morarum intellectionum angeli. Si tamen angelus 
+       <lb ed="#B" n="5"/>habet situm in loco absque operatione in illo: quid ponit quidam articulus: cuius contrarium interdictum est: ita 
+       <lb ed="#B" n="6"/>quod aequaliter natus sit situari in quolibet signo medio sicut &amp; in extremis, sicut corpus natum est situari 
+       <lb ed="#B" n="7"/>sub quolibet signo sibi aequali in spatiis siue in extremis sit siue in medio, oportet quod angelus transeundo de si 
+       <lb ed="#B" n="8"/>tu ad situm, puta ab orientis puncto in punctum occidentis, transeat per omnes partes spatii intermedias: &amp; per omnia 
+       <lb ed="#B" n="9"/>puncta existentia in illis: quid tamen totum fit in eodem instanti temporis angeli &amp; similiter nii: quia in illis est solum in  
+       <lb ed="#B" n="10"/>transitu &amp; sic in potentia. Quemadmodum enim corpus motum in spatio in quolibet instanti temporis sui motus 
+       <lb ed="#B" n="11"/>est semper sibi aequale in spatio: &amp; sunt huiusmodi aequalia infinita: super quae corpus est in transitu &amp; in potentia:  
+       <lb ed="#B" n="12"/>&amp; ideo possibile est illa a corpore ptransiri in tempore finito: sic angelus transiens de termino in terminum semper 
+       <lb ed="#B" n="13"/>est super aequale sib scilicet in puncto, aut (uvt quidam dicunt) in indiuisibili minimo, quae licet sint infinita: quia tamen 
+       <lb ed="#B" n="14"/>solum sunt in potentia, &amp; de super illa est in transitu &amp; in potentia: ideo omnia illa possibile est eum transire in eodem 
+       <lb ed="#B" n="15"/>instanti temporis sui: &amp; nfi &amp; non est prius super vnum dictorum signorum quam super aliud, nisi natura &amp; conside 
+       <lb ed="#B" n="16"/>ratione nii intellectus. &amp; hoc quemadmodum si graue puta lapis pedalis descenderet in vacuo iuxta mu 
+       <lb ed="#B" n="17"/>rum vel per aerem non plus resistentem quam vacuum: &amp; sit spatium muri vel aeris trium pedum, puta a, b colapis il 
+       <lb ed="#B" n="18"/>le in vnico instanti transiret totum spatium: nec esset prius duratione aut tempore in a, signo quam in b, nec in 
+       <lb ed="#B" n="19"/>b, quam in c, nec prius transiret spatium a, quam spatium b, nec spatium b, quae spatium c. dico tempore: natura tamen prius 
+       <lb ed="#B" n="20"/>esset iuxta signum a, &amp; transiret id spatium, quam bo signum, &amp; quam transiret eius spatium. &amp; similiter. de b, ad c, &amp; si 
+       <lb ed="#B" n="21"/>militer in quolibet dictorum spatiorum pedalium prius natura intrat ipsum prima medietas lapidis quam vl 
+       <lb ed="#B" n="22"/>tima: &amp; similiter quarta pars praecedens quam aliae. vt sic secundum rationem intelligendi siue imaginationem  
+       <lb ed="#B" n="23"/>transit successiue per partes illius spatii: &amp; est totum illud tempus imagnatum cum omnibus instantibus suis 
+       <lb ed="#B" n="24"/>simul in eodem instanti reali in quo descendit. Et sic si angelus ponatur in vnico instanti temporis nri per- 
+       <lb ed="#B" n="25"/>transire aliquid spatium: sicut hic ponitur transire diuersa signa siue diuisibilia siue indiuisibilia in alio &amp; 
+       <lb ed="#B" n="26"/>alio instanti temporis sui, illa non sunt instantia temporis sui secundum veritatem, sed solummodo per ima- 
+       <lb ed="#B" n="27"/>ginationem tantum. Vnde qui ponit quod talia duo instantia temporis angeli simul sunt in eodem instanti temporis 
+       <lb ed="#B" n="28"/>nostri, verum dicit: sed si intelligit quod sunt secundum rem &amp; veritatem instantia temporis angeli:, ipse id quid  
+       <lb ed="#B" n="29"/>est phantasticum &amp; secundum imaginationem tantum, ponit esse aliquid secundum veritatem. Ad primum, quod 
+       <lb ed="#B" n="30"/>duobus punctis respondet vnus &amp;c. Dico quod hoc ideo contingit quia omnes sunt manentes in terminis li- 
+       <lb ed="#B" n="31"/>nearum suarum &amp; indiuisibiles sunt. vnde non plus occupat situs vnus illorum quam plures: non sic autem 
+       <lb ed="#B" n="32"/>est in instantibus quae sunt secundum veritatem transeuntia: licet sic possit esse in illis quae solum trans 
+       <lb ed="#B" n="33"/>eunt &amp; sunt secundum imaginationem: quae prius &amp; posterius natura in transitu dicti spatii distinguit 
+       <lb ed="#B" n="34"/>secundum considerationem quasi fuissent secundum actum. Ad secundum quod videtur arguere iam dictorum contra- 
+       <lb ed="#B" n="35"/>rium: dico secundum dicta quod non potest duobus instantibus secundum veritatem existentibus in tempore angeli secundum primum 
+       <lb ed="#B" n="36"/>aut secundum alium modum praedictos respondere vnicum nfi temporis: quia in primo modo temporis angeli instantia habent 
+       <lb ed="#B" n="37"/>moram, &amp; ideo vt dictum est vnum instans illius temporis angeli respondet parti temporis npri: &amp; omnibus instantibus quae  
+       <lb ed="#B" n="38"/>sunt in illa. In secundo autem modo temporis angeli instantia non habent moram sed transeunt mora quietis ange 
+       <lb ed="#B" n="39"/>li in medio vt dictum est: &amp; ideo singulis singula respondent instantia temporis nini. Quid autem assumitur: quod 
+       <lb ed="#B" n="40"/>instantia temporis angeli succedunt sibi sine mora, dico quod hoc est ipossibile in instantibus quae habent esse se 
+       <lb ed="#B" n="41"/>cundum veritatem: sed solummodo verum est in instantibus acceptis secundum imaginationem tantum. Et quid  
+       <lb ed="#B" n="42"/>arguitur quod aliqua sibi succedunt sine mora: vt tempus &amp; instans: dico quod succedere sine mora potest in  
+       <lb ed="#B" n="43"/>telligi vel sine mora media inter succedentia, vel potest intelligi sine mora in altero, vel in vtroque ex 
+       <lb ed="#B" n="44"/>tremorum. Primo modo succedunt sibi intellectiones angeli vt dictum est supra. &amp; sic verum est quod ali 
+       <lb ed="#B" n="45"/>qua sibi succedunt sine more. scilicet media. Sic sibi succedunt instans &amp; tempus, &amp; nox &amp; dies, &amp; veliter omnes partes 
+       <lb ed="#B" n="46"/>continuae successiuorum. similiter motus &amp; quies. Sed duo subito transeuntia non possunt sibi succede 
+       <lb ed="#B" n="47"/>re sine mora media, vt duo instantia vel duae mutationes in eodem: quia non est mutatio nisi terminus 
+       <lb ed="#B" n="48"/>vel principium morae vel medium morarum: vt mutatio inter duas intellectiones angeli quae sunt in mora 
+       <lb ed="#B" n="49"/>permanente: vel mutatio inter duos motus quorum est mora per successionem vel instans inter duo tempora: quorum  
+       <lb ed="#B" n="50"/>quodlibet est mora motus: vel potest huiusmodi indiuisibile esse principium &amp; terminus morae vt 
+       <lb ed="#B" n="51"/>instans temporis &amp; mutatio motus. &amp; sic secundo modo indiuisibile transiens numquam est sine mora. Ad argu-  
+       <lb ed="#B" n="52"/>mentum in oppositum quod plura instantia temporis angeli non possunt esse simul cum vno temporis nostri: quia essent 
+       <lb ed="#B" n="53"/>simul inter se: Dico quod verum est de instantibus veris. De instantibus autem imaginatis acceptis pro veris 
+       <lb ed="#B" n="54"/>verum est quod secundum veritatem sunt simul cum eodem temporis nostri vt dictum est, non tamen sunt simul
+       <!--1099.xml-->
+       <pb ed="#B" n="529-v"/>
+        <lb ed="#B" n="1"/>inter se: quia ordinem habent secundum imaginationem.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

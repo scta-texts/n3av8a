@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 34</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 34</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="211-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2220">
+       <head xml:id="n3av8a-c1e2220-Hd1e96">Quaestio 34</head>
+       <p xml:id="n3av8a-c1e2220-d1e99">
+        <lb ed="#B" n="31"/>SEquuntur duo quaesita circa hominis passiones. Quorum primum erat de poena 
+       <lb ed="#B" n="32"/>suscipienda pro delicto proprio: vtrum recidiuans in peccatum mortale quid prius 
+       <lb ed="#B" n="33"/>commiserat, si decedat prius quam pro illo priore persecte satisfecerit, de illo quod remam 
+       <lb ed="#B" n="34"/>sit satisfaciendum punietur perpetuo in inferno. Secundum erat de poena susti- 
+       <lb ed="#B" n="35"/>nenda pro peccato alieno: vtrum filius possit a deo puniri pro peccato patris. 
+       <lb ed="#B" n="36"/>
+      </p>
+      <p xml:id="n3av8a-c1e2220-d1e115">
+       CIRca primum arguitur quod non: quia in inferno nullus punitur temporaliter: &amp; 
+       <lb ed="#B" n="37"/>poena quae illi restat sustinenda, non est nisi temporalis. pro debito autem poenae 
+       <lb ed="#B" n="38"/>temporalis nullus debet puniri poena aeterna. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2220-d1e122">
+       CONtra, non est alius locus in quo dece- 
+       <lb ed="#B" n="39"/>dens in mortali habet puniri nisi infernus. Item semper manet obligatus, nec potest satisfacere: quia  
+       <lb ed="#B" n="40"/>non est poena satisfactoria nisi sit deo accepta, &amp; non potest esse accepta nisi sit in gratia, quam ha-  
+       <lb ed="#B" n="41"/>bere non poterit. 
+      </p>
+      <p xml:id="n3av8a-c1e2220-d1e131">
+       DIcendum quod aliqui putant esse distinguendum inter opera meritoria &amp; satisfa- 
+       <lb ed="#B" n="42"/>ctoria: quod videlicet meritoria non sunt opera nisi facta in charitate, quod tamen sunt satisfactoria 
+       <lb ed="#B" n="43"/>etiam si fiant extra charitatem. Sed cum in satisfaciendo non restat ex parte poenae siue fiat agendo  
+       <lb ed="#B" n="44"/>siue sustinendo, dummodo adsit poena: nisi quod poena est magis satisfactoria in agendo quam in sustinen- 
+       <lb ed="#B" n="45"/>do: secundum quod minor poena quam agimus siue nobis voluntarie infligimus plus satisfacit quam maior 
+       <lb ed="#B" n="46"/>quam in purgatorio patiemur: sequitur ergo secundum illorum opinionem quod sicut poena quam agimus extra 
+       <lb ed="#B" n="47"/>charitatem est satisfactoria: ita &amp; poena quam extra charitatem patimur. Secundum quos dicendum: quod sicut post 
+       <lb ed="#B" n="48"/>hanc vitam potest satisfactio compleri quae non est perfecta in hac vita in genra: similiter &amp; extra gratiam: &amp; quod secundum hoc 
+       <lb ed="#B" n="49"/>etiam si ille de quo est quaestiopuniatur in inferno pro satisfactione omissa in praesenti: non tamen aeternaliter: sed tantum 
+       <lb ed="#B" n="50"/>temporaliter pro illa puniretur: etsi forte diutius aut acerbius quam hic esset puniendus a seipso. Sed haec opinio sta 
+       <lb ed="#B" n="51"/>re non potest quia quod actio aut passio sit meritoria vel satisfactoria, hoc habet ex eadem radice scilicet ex hoc quod  
+       <lb ed="#B" n="52"/>sit deo grata. Quare cum non est deo grata nisi per charitatem: dico ergo absolute: quod sicut cum 
+       <lb ed="#B" n="53"/>fit extra charitatem, nullo modo est meritoria siue poenalis actio siue passio: sic cum fit extra cha- 
+       <lb ed="#B" n="54"/>ritatem, nullo modo potest esse satisfactoria. Et ideo vt procedit secunda obiectio, ille de quo est quaestio 
+       <!--463.xml-->
+       <pb ed="#B" n="211-v"/>
+        <lb ed="#B" n="1"/>semper manet obligatus ad poenam quae restat pro culpa commissa: per quam debet ordinari. Quare cum 
+       <lb ed="#B" n="2"/>non potest esse quin culpa sit per poenam ordinata ad quam obligat: poenam igitur quae restat vt cul 
+       <lb ed="#B" n="3"/>pa ordinetur, eum in inferno pati oportet, aut forte acerbiorem, quia vt dictum est, minus satisfa- 
+       <lb ed="#B" n="4"/>cit poena inflicta quam voluntarie acta. Et quia semper manet obligatus, &amp; semper manet culpae ordi- 
+       <lb ed="#B" n="5"/>natio quantum est ex se, quousque manet obligatio: non solum ergo vt culpa de qua non erat satis- 
+       <lb ed="#B" n="6"/>factum in praesenti, ordinetur per poenam, necesse est eum pati in inferno poenam aequalem, aut ma 
+       <lb ed="#B" n="7"/>iorem in acerbitate quam erat illa quaehic vel in purgatorio erat agenda vel sustinenda in gratia: sed  
+       <lb ed="#B" n="8"/>etiam necesse est eum pati illam poenam quousque reddat vniuersum debitum. Quare cum impossibile sit 
+       <lb ed="#B" n="9"/>eum de caetero reddere, quia numquam grata poterit esse deo poena quam sustinet: impossibile est ergo eum 
+       <lb ed="#B" n="10"/>esse fine illa poena: &amp; sic necesse est eum eam sustinere perpetuo. 
+      </p>
+      <p xml:id="n3av8a-c1e2220-d1e189">
+       AD argumentum in oppositum  
+       <lb ed="#B" n="11"/>quod poena debita non erat nisi temporalis: pro qua non debet reddi aeterna: Dicendum quod mortali pec 
+       <lb ed="#B" n="12"/>cato inquantum mortale est per se debetur poena aeterna. &amp; non solum forte inquantum mortale est: 
+       <lb ed="#B" n="13"/>sed etiam inquantum est peccatum: vt etiam veniali ratione qua peccatum est, poena debeatur aeter-  
+       <lb ed="#B" n="14"/>na, sicut tactum est supra. &amp; hoc propter immanitatem peccati, &amp; magnitudinem eius, inquantum  
+       <lb ed="#B" n="15"/>pecctatum deum offendit: &amp; debitum honorem &amp; reuerentiam ei subtrahit: &amp; hoc siue fuerit mor 
+       <lb ed="#B" n="16"/>tale siue veniale: siue peccatum conmissionis, siue omissionis. Adamnatione autem aeterna non liberat nisi 
+       <lb ed="#B" n="17"/>fructus bonus in charitate factus. dicente domino in euangelio. Omnis arbor quae non fecerit fructum 
+       <lb ed="#B" n="18"/>bonum, excidetur &amp; in ignem mittetur, scilicet aeternum. Quod exponens <name ref="#Anselm">Anselmus</name> in suis medita- 
+       <lb ed="#B" n="19"/>tionibus dicit. Arbor infructuosa vbi sunt fructus tui: Forte paruum quid putas aliquod peccatum: 
+       <lb ed="#B" n="20"/>sed heu me nonne omne pecctatum per praeuaricationem deum exhonorat: Quid ergo peccatum audebit 
+       <lb ed="#B" n="21"/>peccator dicere paruum: deum enim exhonorare quando est paruum: Vnde quod alicui peccato de-  
+       <lb ed="#B" n="22"/>betur poena temporalis, hoc est solum per accidens, scilicet ex diuina acceptatione qua acceptat exi 
+       <lb ed="#B" n="23"/>stentem in gratia, &amp; pro poena aeterna taxat ei saltem temporalem ne malefacta maneant omnino 
+       <lb ed="#B" n="24"/>impunita. Ita etiam quod si pecctatum de genere suo mortale posset secum compati gratiam: sicut com 
+       <lb ed="#B" n="25"/>patitur secum illud quod de genere suo est veniale, ei non deberetur nisi poena temporalis, sicut neque veniall 
+       <lb ed="#B" n="26"/>facto in charitate: dummodo in charitate finaliter perseueraret. Non enim meretur gratia tempora- 
+       <lb ed="#B" n="27"/>lem poenam peccato pro aeterna, nisi quatenus ipsa existente in ipsa poena soluitur. Ita quod si perse- 
+       <lb ed="#B" n="28"/>cte non sit soluta poena peccato debita siue mortali deleto per gratiam, siue veniali etiam facto in  
+       <lb ed="#B" n="29"/>gratia, gera deperdita pro eo quid restat de poena soluenda manet obligatio ac si homo nunquam fuisset in gra 
+       <lb ed="#B" n="30"/>tia. Vt non solum dicamus quod ex coniunctione cum peccato mortali ista poena siue quae restat pro mor 
+       <lb ed="#B" n="31"/>tali, siue quae debetur veniali sit aeterna: immo quod ex se debet esse aeterna: quia est sine gratia. licet enim 
+       <lb ed="#B" n="32"/>aeterna non posset esse si non esset coniuncta mortali: hoc tamen quod est aeterna non est principaliter ex 
+       <lb ed="#B" n="33"/>ipso mortali: sed ex gratiae defectum: quae non deficit nisi per existentiam mortalis. &amp; hoc etiam non  
+       <lb ed="#B" n="34"/>ex defectu gratiae illud agentis: sed recompensationem &amp; commutationem aeterni in temporale 
+       <lb ed="#B" n="35"/>non merentis per hoc quod non existit: ita quod poena ex natura ipsius peccati secundum se debet esse aeter 
+       <lb ed="#B" n="36"/>na nisi per gratiam recompensetur: &amp; hoc per efficaciam in re: sicut recompensatur cum tota in gra 
+       <lb ed="#B" n="37"/>tia peragitur: non solum per charitatis sufficientiam si perseueret in spe. Recompensatio enim an-  
+       <lb ed="#B" n="38"/>tequam fiat satisfactio cum effectu perfecta, non nisi conditionalis est: si scilicet contingat eam perfici in  
+       <lb ed="#B" n="39"/>gratia cum effectum: ita quod si deficiat conditio, non stat recompensatio: sed redit prima obligatio. &amp; 
+       <lb ed="#B" n="40"/>tunc non punitur aeternaliter pro debito temporali: sed pro debito aeterno. quod simpliciter quantum  
+       <lb ed="#B" n="41"/>erat de se semper erat aeternum &amp; non temporale nisi secundum quid: scilicet sub conditione praedi-  
+       <lb ed="#B" n="42"/>cta: qua non stante iam nullo modo est temporale sed aeternum tantum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

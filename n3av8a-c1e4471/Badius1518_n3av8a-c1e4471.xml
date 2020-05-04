@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 17</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 17</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="216-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4471">
+       <head xml:id="n3av8a-c1e4471-Hd1e96">Quaestio 17</head>
+       <p xml:id="n3av8a-c1e4471-d1e99">
+       <!--986.xml-->
+        <pb ed="#B" n="216-v"/>
+        <lb ed="#B" n="1"/>SEquuntur quaesita circa hominem viatorem pertinentia specialiter ad laicum vel ad clericum. Et 
+       <lb ed="#B" n="2"/>erant duo pertinentia specialiter ad hominem laicum. Primum in vexando proximum: vtrum &amp; 
+       <lb ed="#B" n="3"/>aici publica tenentes officia vexantes parentes clericorum, quia ipsi clerici nolunt 
+       <lb ed="#B" n="4"/>eis obedire: sint excommunicati. Secundum in occidendo proximum: vtrum in lege noua 
+       <lb ed="#B" n="5"/>liceat iudicem saecularem occidere quemquam pro solo furto. 
+      </p>
+      <p xml:id="n3av8a-c1e4471-d1e117">
+       CIRca primum arguitur, quod  
+       <lb ed="#B" n="6"/>illi laici sunt excommunicati, quia extra de sen. excommunicationis. Nouit. dicitur quod  
+       <lb ed="#B" n="7"/>statuentes contra ecclesiae libertatem sunt excommunicati: illi autem contra eam in sic 
+       <lb ed="#B" n="8"/>faciendo contra clericos &amp; eorum libertatem pugnant facto: quid maius est. ergo &amp;c. Contra, parentes il 
+       <lb ed="#B" n="9"/>li clericorum laici sunt in quos habent potestatem: &amp; sic licet eis hoc facere. pro licito autem facto nemo 
+       <lb ed="#B" n="10"/>est excommunicatus. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4471-d1e130">
+       DIcendum quod quaestio aut quaerit de: excommunicatione canonica pro iniectio 
+       <lb ed="#B" n="11"/>ne manus violenta in clericum: aut pro aliquo alio delicto. Si primo modo, dico quod propter illum canonem ex 
+       <lb ed="#B" n="12"/>tali facto non sunt excommunicati: quia talis canon loquitur de iniuria illata clerico in persona sua tantum. Si se 
+       <lb ed="#B" n="13"/>cundo modo: tunc distinguendum est de causa excommunicationis &amp; animo vexantium. Aut enim vexant parentes 
+       <lb ed="#B" n="14"/>clericorum vt cogant clericos subiicere se ipsorum iurisdictioni in illis in quibus non debent esse iudices 
+       <lb ed="#B" n="15"/>eorum: &amp; ne quaerant ecclesiasticum auxilium in talibus pro vexatione parentum clericorum: in isto casu dico quod sunt excom 
+       <lb ed="#B" n="16"/>municati auctoritate canonis allegati, &amp; expressius eodem titulo cap. Grauem. &amp; expressissime auctori 
+       <lb ed="#B" n="17"/>tate Bituricen. concilii in cap. Cum nonnulli. Aut vexant eos pro aliis causis, puta ne clerici iniurientur ciuibus 
+       <lb ed="#B" n="18"/>suis, aut ciuitati: in isto casu credo vel consimili, etsi forte grauiter peccarent, quod non sunt excommuni 
+       <lb ed="#B" n="19"/>cati. Breuiter enim credo quod pro tali facto non sunt excommunicati nisi vel directe vel indirecte infringunt 
+       <lb ed="#B" n="20"/>libertatem ecclesiae. Per haec patent obiecta vtriusque partis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

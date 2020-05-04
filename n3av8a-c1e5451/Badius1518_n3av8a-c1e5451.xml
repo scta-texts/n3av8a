@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="570-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5451">
+       <head xml:id="n3av8a-c1e5451-Hd1e96">Quaestio 12</head>
+       <p xml:id="n3av8a-c1e5451-d1e99">
+        <lb ed="#B" n="12"/>SEquuntur quaesita de peccatis. Et erat vnicum de peccato omissionis: Vtrum videlicet 
+       <lb ed="#B" n="13"/>doctores ecclesiae deberent facere conscientiam de peccato eo quod non laborant ad conuersionem 
+       <lb ed="#B" n="14"/>infidelium. Alia vero duo de peccato commissionis. Quorum primum erat in tutelis 
+       <lb ed="#B" n="15"/>Vtrum pupilli a tutoribus custodientibus bona sua praesent aliquid absque peccato 
+       <lb ed="#B" n="16"/>recipere occasione bonorum illorum vltra fortem salua forte. Secundum vero erat in con 
+       <lb ed="#B" n="17"/>tractibus, vtrum liceat vendere rem aliquam plus debito propter indigentiam emen 
+       <lb ed="#B" n="18"/>tis. 
+      </p>
+      <p xml:id="n3av8a-c1e5451-d1e117">
+       CIRca primum arguitur quod doctores ecclesiastici deberent facere conscientiam peccati 
+       <lb ed="#B" n="19"/>eo quod non laborant ad conuersionem infidelium, sic. quod doctores ecclesiastici non laborant ad conversionem infide- 
+       <lb ed="#B" n="20"/>lium hoc non omittunt nisi propter metum mortis, sed propter hoc non deberent omitter exemplo apostolorum, quos  
+       <lb ed="#B" n="21"/>misit deus sicut oues ad lupos, dicens eis. Nolite timere qui corpus occidunt. de quo plurima Matth. 
+       <lb ed="#B" n="22"/>x. Talis autem omissio non est fine peccato ergo &amp;c. Contra, non est bonum sumere panem filiorum &amp; dare cani 
+       <lb ed="#B" n="23"/>bus ad manducandum, panis filiorum qui sunt Christiani est verbum doctrinae &amp; praedicationis sanctae 
+       <lb ed="#B" n="24"/>quod mittitur illis quibus proponitur. infideles autem canes sunt. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5451-d1e133">
+       DIco quod doctores ecclesiasti 
+       <lb ed="#B" n="25"/>ci si accessus eis esset aptus proponendi verbum praedicationis, maxime si cum hoc probabiliter credere possent 
+       <lb ed="#B" n="26"/>quod ad praedicationem eorum infideles conuerterentur, licet cum hoc etiam probabile esset eis quod si in praedicatione verita 
+       <lb ed="#B" n="27"/>tis persisterent, ab illis quibus conuersio aliorum displiceret, deberent occidi (uncut patuit apostolis, &amp; sicut 
+       <lb ed="#B" n="28"/>probabile fuit eis quod ad eorum praedicationem infideles conuerterentur: tum quia ad hoc specialiter eos misit Chri- 
+       <lb ed="#B" n="29"/>stus &amp; miracula concessit dicens eis illud. Videte regiones quomodo albae sunt ad messem. Regiones quidem 
+       <lb ed="#B" n="30"/>albae ad messe erant infidelium multitudines paratae ad conversionem, magnam deberent sibi facere conscientiam 
+       <lb ed="#B" n="31"/>peccati si ad infidelium conversionem non laborarent. Sed nunc postquam sectae infidelium in sua infidelitate sunt obdu  
+       <lb ed="#B" n="32"/>ratae contra fidem christianorum, vt non sit spes de illorum conversione, nec signum conuersionis eorum fu- 
+       <lb ed="#B" n="33"/>turae percipiunt, nec ad hoc missionem specialem susceperunt, nequaquam super ista omissione debent sibi 
+       <lb ed="#B" n="34"/>facere peccati conscientiam, &amp; hoc maxime idcirco, quia ad liberam praedicationem contra ritus &amp; legen suam infi- 
+       <lb ed="#B" n="35"/>deles neminem admittunt, sed capitali sententia plectunt statim praedicare contraria illis attentantes. sm quod  
+       <lb ed="#B" n="36"/>super hoc Sarracenorum expressum hentedictum. Vnde in tali statu Sarracenos adire nihil aliquae esset quam propriam 
+       <lb ed="#B" n="37"/>mortem sine fructu procurare, quod non licet, dicente <name ref="#Augustine">Augustinus</name> in casu quasi consili ad Bonifacium. Quando ad-  
+       <lb ed="#B" n="38"/>huc cultus idolorum fuerat, ad Paganorum celeberrimas solennitates ingentia turbarum agmina venie 
+       <lb ed="#B" n="39"/>bant, non vt idola faterentur: sed vt interficerentur a cultoribus idolorum. Illud si accepta licentia a potestate facere vel- 
+       <lb ed="#B" n="40"/>lent, siquid eis accidisset possent hairne qualemcumque vmbram nominis martyrii, sed ad hoc veniebant vt integris 
+       <lb ed="#B" n="41"/>idolis ipsi perimerentur. Vnde sicut Iudaeis in sua pertinacia induratis per Paulum dixerunt apostoli illud Actum. xiiii, quia in  
+       <lb ed="#B" n="42"/>dignos vos fecistis verbo dei, ecce convertimur ad gentes, nec de caetero visi sunt regulariter praedicare lu 
+       <lb ed="#B" n="43"/>daeis, sed gentibus tantum: sic omnibus infidelibus modo in sua perfidia induratis, dicere debent illis ecclesiae docto- 
+       <lb ed="#B" n="44"/>res, quia indignos vos fecistis verbo dei, ecce convertimur ad fideles nios. Si tamen admitterentur absque legis 
+       <lb ed="#B" n="45"/>edicto de eorum punitione festina, sicut admittebantur apostoli quando licuit cuique sectam &amp; ritum viuendi eligere 
+       <lb ed="#B" n="46"/>quem voluit: secundum illud quod dicit Tullius libro primo de officiis. lpsi autem gerere quam personam velimus anostra 
+       <lb ed="#B" n="47"/>voluntate proficiscitur, vt nonnulli omissa imitatione maiorum suum quiddam institutum consequantur. Hoc igitur cum quaeri-  
+       <lb ed="#B" n="48"/>mus, hoc in primis constituendum est quos nos &amp; quales esse velimus, &amp; in quo genere vitae: quae deliberatio est omniumdit 
+       <lb ed="#B" n="49"/>ficillima. Nam Herculem Prodicus dicit vt est apud Xenophontem: cum primum pubesceret, quid tempors anatura ad  
+       <lb ed="#B" n="50"/>eligendum quam quisque viuendi viam sit ingressurus datum est, exisse in solitudinem, atque ibi sedentem diuse- 
+       <lb ed="#B" n="51"/>cum multumque dubitasse cum duas cerneret vias, vnam voluptatis, alteram virtutis, vtram in  
+       <lb ed="#B" n="52"/>gredi melius esset. In qua deliberatione ad suam cuiusque naturam omne consilium est reuocandum vt constare in pear  
+       <lb ed="#B" n="53"/>petuitate vitae possimus nobismetipsis, nec in vllo officio claudicare. Si inquam praedicatores nunc dictomodo 
+       <lb ed="#B" n="54"/>admitterentur, non video quind doctores ecclesiae deberent sibi facere conscientiam peccati si non aliquando laborarent &amp; 
+       <!--1180.xml-->
+       <pb ed="#B" n="570-r"/>
+        <lb ed="#B" n="1"/>tentarent an possent eos conuertere: qualem sibi tunc debuissent fecisse apostoli si tunc non laborassentur ad infi 
+       <lb ed="#B" n="2"/>delium conuersionem. Per quod patet responsio ad primum obiectum. Secundum autem quod est in oppositum, non procedit bene 
+       <lb ed="#B" n="3"/>quia nititur probare, quod nec apostoli debuissent laborasse ad conuersionem infidelium, quia canes erant and suam 
+       <lb ed="#B" n="4"/>conuersionem. Nisi forte velimus distinguere de canibus, dicendo quod sunt canes rabidi qui mordent pa- 
+       <lb ed="#B" n="5"/>nem eis apportantes, nec volunt illum comedere, sed potius pedibus suis eum conculcant, &amp; sunt canes non rabi 
+       <lb ed="#B" n="6"/>di qui non mordent panem eis afferentes, sed potius applaudunt, &amp; panem eis oblatum libenter comedunt. Primo 
+       <lb ed="#B" n="7"/>modo canes spiritaliter sunt infideles moderni temporis, quibus doctrina veritatis proponenda non est, quia contu 
+       <lb ed="#B" n="8"/>meliis &amp; blasphemiis quasi pedibus suis conculcarent: insuper &amp; praedicantem illico occiderent, sicut dictum est 
+       <lb ed="#B" n="9"/>Secundo modo canes fuerunt infideles tempore apostolorum: quibus doctrina veritatis proponenda fuit: quia absque in  
+       <lb ed="#B" n="10"/>iniuria praedicantium cum gaudio illam erat multitudo susceptura &amp; comestura, vt de canibus fierent 
+       <lb ed="#B" n="11"/>per fidem rationales homines. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

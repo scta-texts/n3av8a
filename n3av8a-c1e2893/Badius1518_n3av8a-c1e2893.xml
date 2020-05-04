@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="269-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2893">
+       <head xml:id="n3av8a-c1e2893-Hd1e96">Quaestio 15</head>
+       <p xml:id="n3av8a-c1e2893-d1e99">
+        <lb ed="#B" n="49"/>CIrca tertium arguitur: quod intellectus non potest informari specie aut habitu absque actu conside 
+       <lb ed="#B" n="50"/>randi. quia impossibile est habere formam &amp; non actum formae: quia vt dicitur in fine. iiii. Metap.  
+       <lb ed="#B" n="51"/>determinata sunt opere vniuersa in esse &amp; non esse. cum ergo species illa vel hintus sit in intellectu: 
+       <lb ed="#B" n="52"/>vt forma: si sit in ipso non potest esse in ipso sine suo actu considerandi. 
+      </p>
+      <p xml:id="n3av8a-c1e2893-d1e110">
+       CONtrarium appeet 
+       <lb ed="#B" n="53"/>in furioso, ebrio, &amp; dormiente: in quorum intellectu bene sunt species &amp; hintus absque eo quod actum con 
+       <lb ed="#B" n="54"/>siderent secundum illos. 
+      </p>
+      <p xml:id="n3av8a-c1e2893-d1e117">
+       DIcendum quod sm <name ref="#Aristotle">philosophum</name> in secundo de anima duplex est actus: &amp; hoc a for 
+       <lb ed="#B" n="55"/>ma in eo cuius est form. scilicet primus &amp; secunds. Et hoc verum est de quaecumque forma quae est principium alicuius operationis 
+       <!--579.xml-->
+       <pb ed="#B" n="269-v"/>
+        <lb ed="#B" n="1"/>siue fuerit substantialis, siue accidentalis. Et differunt illi duo actus in quaecumque natura creata: non sic autem in na 
+       <lb ed="#B" n="2"/>tura increata: quia in ipsa non est aliquis actus a forma nisi perfectus quasi in actum secundo: quia ipse est sua actio quae semper est 
+       <lb ed="#B" n="3"/>in actu secundo secundum se: nec ei convuenit alia actio: sed diuersa nominia fortitur secundum diuersitatem obiectorum, quem 
+       <lb ed="#B" n="4"/>admodum in se alia est actio intelligendi &amp; volendi: &amp; ad extrinsecum alia est actio creandi: alia gubernandi. In  
+       <lb ed="#B" n="5"/>creaturis autem nulla creatura ex forma sua quaecumque est sua actio: sed ex se &amp; ex sua forma, quam etiam iam habet 
+       <lb ed="#B" n="6"/>sm actum formae, est in potentia ad agere actum secundo absque eo quod agat in actum. Sed cum habet formam illam, non potest 
+       <lb ed="#B" n="7"/>habere sine actu eius primo. Est enim actus primus cuiuslibet formae dare esse illi composito quod constituitur ex 
+       <lb ed="#B" n="8"/>forma: &amp; substantia eius cui aduenit, siue substantialiter, siue accidentaliter. Esse dico quiditatiuum compe- 
+       <lb ed="#B" n="9"/>tens illi formae: vt forma humana dat actum primum illi cuius est actus: vt esse hominem: &amp; forma caliditatis 
+       <lb ed="#B" n="10"/>esse calidum illi cuius est. de quo esse locuti sumus iam superius in quaestione de anima separata. Est autem actus 
+       <lb ed="#B" n="11"/>secundus operatio debita illi formae: quae duplex potest esse: vel independens ab aliqua extra, vel ab illo, vel ab aliquo  
+       <lb ed="#B" n="12"/>dependens. Actus secundus primo modo non potest abesse formae cui debetur: quemadmodum lucere non potest ab  
+       <lb ed="#B" n="13"/>esse luci vel lucido: aut calere calori, aut calido. De actu autem secundo, modo secundo, proposita est quaestio. Actus enim 
+       <lb ed="#B" n="14"/>considerandi elicitus qui est actus secundus vt agere, necessario dependet ab aliquo non solum ab habitu: qui quantum  
+       <lb ed="#B" n="15"/>est de se ex se sufficit dare omnem actum praeter actum secundum: qui dependet ab aliquo: quemadmodum lux de se sola 
+       <lb ed="#B" n="16"/>dat actum essendi lucidum &amp; actum lucendi: licet quo ad actum illuminandi dependeat ab aliquo illuminabili. Sic 
+       <lb ed="#B" n="17"/>enim in proposito actus intelligendi dependet ab aliquo intelligibili: licet ibi illuminabile passiue se habeat ad  
+       <lb ed="#B" n="18"/>actum illuminandi: in proposito autem intelligibile actiue se habet ad actum intelligendi. Propter quod licet forma 
+       <lb ed="#B" n="19"/>sit in aliqua cui debetur operatio secundum illam formam: si tamen non sit in dispositione vt ei praesentetur obiectum secundum mo 
+       <lb ed="#B" n="20"/>dum quo nata est agere circa illud actum secundum qui est agere: non oportet vt secundum illud sit in suo actum secundo.  
+       <lb ed="#B" n="21"/>Propter quod dico quod intellectus bene potest informari specie aut habitu absque actu considerandi. &amp; secundum hoc 
+       <lb ed="#B" n="22"/>processit secunda obiectio de furioso, ebrio, &amp; dormiente: in quibus est impedimentum ne possit obiectum praesen- 
+       <lb ed="#B" n="23"/>tari intellectui &amp; ex parte intellectus &amp; ex parte phantasmatis: in quo intellectus videre debet suum obie- 
+       <lb ed="#B" n="24"/>ctum: sicut alias determinauimus. 
+      </p>
+      <p xml:id="n3av8a-c1e2893-d1e181">
+       AD primam rationem, quod formam habere est ipossibile sine actum formae: ve 
+       <lb ed="#B" n="25"/>rum est sine actu primo: bene tamen potest habere formam sine actu secundo: quia habens formam in actu quo ad actum pri 
+       <lb ed="#B" n="26"/>mum: bene potest esse in potentia secundum illam ad actum secundum qui dependet ab aliquo. Et apparet differentia istorum  
+       <lb ed="#B" n="27"/>actuum ex differentiis potentiarum quae ordinantur ad ipsos: quam ponit <name ref="#Aristotle">philosophus</name> vbi dicit secundo de anima: quod non eodem mo 
+       <lb ed="#B" n="28"/>do est in potentia sciens potens habere scientiam sed non habens: &amp; habens sed non secundum eam considerans. quia ille est 
+       <lb ed="#B" n="29"/>sicut materia carens forma: iste autem sicut possibilis considerare cum vult: nisi aliquid impediat. Et cum assumi 
+       <lb ed="#B" n="30"/>tur quod vniuersa opere determinantur in esse vel non esse: Dicendum quod verum est de opere actus primi: per quem pos- 
+       <lb ed="#B" n="31"/>sunt in actum secundum: licet non semper necessario sint in actu secundo: qui dependet ab aliquo. Quia vt dicit ibi 
+       <lb ed="#B" n="32"/>dem: quae possunt facere sui ipsius opus est singulum, quemadmodum oculus: quid vero non potest, aequiuoce:  
+       <lb ed="#B" n="33"/>quemadmodum mortuus. De opere autem actus secundi nequaquam est verum: quia vere posset aliquid es- 
+       <lb ed="#B" n="34"/>se oculus etsi nihil videret in actum: &amp; similiter vera specie vt habitu potest intellectus siue separatus 
+       <lb ed="#B" n="35"/>siue coniunctus quantum est de se esse informatus: vt tamen secundum illum vel illam nihil consideret.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

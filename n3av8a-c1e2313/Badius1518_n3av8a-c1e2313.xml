@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 41</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 41</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2313">
+       <head xml:id="n3av8a-c1e2313-Hd1e96">Quaestio 41</head>
+       <p xml:id="n3av8a-c1e2313-d1e99">
+        <lb ed="#B" n="33"/>CIrca tertium arguitur quod ignorans defectum fuisse praedictum in coniuge mortua, non debet bo 
+       <lb ed="#B" n="34"/>na illius diuidere, quia forte non erat matrimonium in rei veritate, &amp; ita priculum esset ne si 
+       <lb ed="#B" n="35"/>bi attraheret rem alienam. In contrarium est quod praesumitur fuisse matrimonium: &amp; hoc sufficit 
+       <lb ed="#B" n="36"/>ad bonorum communicationem. 
+      </p>
+      <p xml:id="n3av8a-c1e2313-d1e110">
+       DIcendum quod si mrimonium non sit eis de impedimento, sed placuit 
+       <lb ed="#B" n="37"/>etiam se stare absque conmixtione, standum est pro matrimonio: &amp; debent praesumere verum mfi 
+       <lb ed="#B" n="38"/>monium fuisse, nec facere aliquam conscientiam super impedimento incognito, quia scrutinium super  
+       <lb ed="#B" n="39"/>eo facere non debuerunt propter quod licite potest superstes defuncti bona diuidere. Et 
+       <lb ed="#B" n="40"/>patet ad argumentum in oppositum. quoniam etsi forte in rei veritate non fuit mrimonium propter impedimentum, fuit 
+       <lb ed="#B" n="41"/>tamen praesumptum: quid sufficit ad diuisionem bonorum absque omni scrupulo conscientiae. 
+       <lb ed="#B" n="42"/>Explicitae sunt quaestiones de Quolibet magistri Herici a Gandauo Archidiaconi Tornacen. quinto dispu 
+       <lb ed="#B" n="43"/>tatae in scholis suis &amp; determinatae ab ipso: &amp; erant. xl. &amp; vna. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

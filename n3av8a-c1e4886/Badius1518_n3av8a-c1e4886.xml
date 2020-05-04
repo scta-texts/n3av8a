@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 18</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 18</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="496-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4886">
+       <head xml:id="n3av8a-c1e4886-Hd1e96">Quaestio 18</head>
+       <p xml:id="n3av8a-c1e4886-d1e99">
+        <lb ed="#B" n="37"/>Irca Quartum arguitur: quod ille ad cuius manus veniunt tales literae, si eas aperiat &amp; 
+       <lb ed="#B" n="38"/>legat, &amp; lectas abbati tradat, mortaliter peccat: quia per hoc proximum suum scandalicat. 
+       <lb ed="#B" n="39"/>
+      </p>
+      <p xml:id="n3av8a-c1e4886-d1e108">
+       CONtra est: quod ille malum impedit ne fiat scilicet bonorum monasterii distractio contra re- 
+       <lb ed="#B" n="40"/>gulam. 
+      </p>
+      <p xml:id="n3av8a-c1e4886-d1e113">
+       DIco quod in tali facto est considerare duo: vn. scilicet &amp; literarum illarum aptionem &amp; 
+       <lb ed="#B" n="41"/>lecturam: aliud literarum ostensionem abbati. Quo ad primum articulum dico: quod nisi fir- 
+       <lb ed="#B" n="42"/>miter praesumeret ille quod literae deuenientes ad manus suas continerent illicitum: &amp; quod  
+       <lb ed="#B" n="43"/>vergere possent in detrimentum monasterii si non impediretur earum processus, ille multum peccaret qui se- 
+       <lb ed="#B" n="44"/>creta, proximi sui rimari contenderet curiose. An mortaliter an venialiter hoc iudicandum est secundum modum  
+       <lb ed="#B" n="45"/>libidinis &amp; intentionem quam habuit ad respiciendum contenta in illa, &amp; procedendi si posset contra mittentem, &amp; illum 
+       <lb ed="#B" n="46"/>cui mittuntur: nec in hoc certum quid determinare possumus. Si vero ille firmiter praesumeret quod literae il 
+       <lb ed="#B" n="47"/>lae continerent illicitum, &amp; aliquid quod posset vergere in detrimentum monasterii si non impediretur earum pro 
+       <lb ed="#B" n="48"/>cessus: puto quod licitum est literas illas apire &amp; respicere contenta in eis: &amp; quod peccaret si sic non faceret. Quo 
+       <lb ed="#B" n="49"/>ad secundum articulum dico, quod si literae illae non continerent illicitum, nec aliquid quod posset vergere in detrimen 
+       <lb ed="#B" n="50"/>tum monasterii: Dico quod peccaret eas ostendendo abbati: quia forte minus iuste posset prouocari abbas con- 
+       <lb ed="#B" n="51"/>tra alim. scilicet mittentem literas, &amp; eum cui mittebantur, vel contra vtrumque: et in hoc quoquo modo daret oc- 
+       <lb ed="#B" n="52"/>casionem scandali. Si vero continerent aliquid illicitum, aut aliquid quod posset vergere in detrimentum monaste- 
+       <lb ed="#B" n="53"/>rii: tunc si probabiliter praesumi posset quod absque ostensione facta abbati illicitum illud corrigi posset, &amp; periculo 
+       <lb ed="#B" n="54"/>obuiari: Dico quod in isto casu peccaret, &amp; materiam scandali daret illas lras ostendendo abbati. Sin autem 
+       <!--1032.xml-->
+       <pb ed="#B" n="496-r"/>
+        <lb ed="#B" n="1"/>aliter, puto quod non peccaret illas ostendendo abbati tamquam illi qui omnibus deberet velle prodesse &amp; nulli obesse: 
+       <lb ed="#B" n="2"/>immo vt puto multum peccaret illas non ostendendo abbati. Et per hoc patent obiecta ad vtramque partem.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

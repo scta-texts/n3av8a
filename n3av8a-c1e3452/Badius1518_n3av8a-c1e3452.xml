@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 27</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 27</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="335-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3452">
+       <head xml:id="n3av8a-c1e3452-Hd1e96">Quaestio 27</head>
+       <p xml:id="n3av8a-c1e3452-d1e99">
+        <lb ed="#B" n="48"/>Equitur de quaesitis circa praelatos ecclesiasticos. Vbi quaerebatur vnum perti 
+       <lb ed="#B" n="49"/>nens ad dispensationem temporalium. &amp; deinde quaedam alia pertinentia ad dis 
+       <lb ed="#B" n="50"/>pensationem spiritualium. Illud vnum erat, vtrum liceat eos superflua retinere 
+       <lb ed="#B" n="51"/>Ex arguitur quod non. Bernar. ad Henricum Senonem archiepiscopum. Clamant nudi 
+       <lb ed="#B" n="52"/>clamant famelici, conqueruntur &amp; dicunt. Dicitce pontifices in fraeno quid facit 
+       <lb ed="#B" n="53"/>aurum nobis fame &amp; frigore miserabiliter laborantibus: Quid conferunt tot mu 
+       <lb ed="#B" n="54"/>tatoria vel extensa in perticis vel plicata in manticis: Nostrum est quod effunditis: nobis crudeliter subtra 
+       <!--710.xml-->
+       <pb ed="#B" n="335-r"/>
+        <lb ed="#B" n="1"/>hitur quod inaniter expenditis: nostris necessitatibus detrahitur quicquid accedit vanitatibus ve- 
+       <lb ed="#B" n="2"/>stris. 
+      </p>
+      <p xml:id="n3av8a-c1e3452-d1e125">
+       CONtra est exemplum in loseph: qui ea quae tempori praesenti erant superflua retinebat. 
+      </p>
+      <p xml:id="n3av8a-c1e3452-d1e128">
+       HIC opor 
+       <lb ed="#B" n="3"/>tet videre quomodo temporalia pertinent ad ministros ecclesiae. Est igitur sciendum quod in temporalibus bo 
+       <lb ed="#B" n="4"/>nis ecclesiae non est dominus nisi lesus Christus. xii. q. i. Res ecclesiae non quasi propriae: sed quasi communes 
+       <lb ed="#B" n="5"/>&amp; domino oblatae. &amp; hoc quemadmodum in veteri testamento decimae a se sibi erant reseruatae, &amp; vsui mini 
+       <lb ed="#B" n="6"/>strorum templi deputatae. Possessio autem est ecclesiae vniuersalis. Defensio autem &amp; dominii &amp; possessio- 
+       <lb ed="#B" n="7"/>nis principaliter commissa est summo pontifici: &amp; sub ipso caeteris ecclesiis, &amp; personis ecclesiasticis: qui  
+       <lb ed="#B" n="8"/>bus vsus necessarius de sibi commissis concessus est. Vnde super illud. Non quasi propriae. glos. Si ergo de re 
+       <lb ed="#B" n="9"/>bus ecclesiae emisti equum vel aliud, illud non est tuum: sed dicas quod illud est solummodo clericorum: quid pro-  
+       <lb ed="#B" n="10"/>babili ratione consumunt. 
+      </p>
+      <p xml:id="n3av8a-c1e3452-d1e148">
+       AD cuius intellectum sciendum: quod ista sex per ordinem se habent circa bo 
+       <lb ed="#B" n="11"/>na temporalia vsui humano concessa: &amp; semper praecedens continet in se necessario sequentia &amp; non  
+       <lb ed="#B" n="12"/>econuerso: &amp; semper praecedens plus habet in re quam sequens: ita quod primum maximum, vltimum vero mini- 
+       <lb ed="#B" n="13"/>mum: quae sunt possessio iuris siue haereditaria: proprietas siue dominium: fructus: vsus: factum: possessio facti. 
+       <lb ed="#B" n="14"/>Possessio iuris a qua aliquis denominatur possessor est haereditaria quando haereditarie aliquis habet 
+       <lb ed="#B" n="15"/>alicuius rei proprietatem cum actuali eiusdem tentione. Proprietas a qua aliquis denominatur proprieta 
+       <lb ed="#B" n="16"/>rius: potest esse fine possessione actualis tentionis. Sed proprietarius habet in re ius: quo deberet pos 
+       <lb ed="#B" n="17"/>sidere ipsam: propter quid etsi non possideat: manet tamen verus dominus. Neutro istorum modorum tempo 
+       <lb ed="#B" n="18"/>ralia bona sunt ecclesiae sed solius dei. uaii. estid et capiaulo Si priuatum. Non nostra sunt quorum procuratio- 
+       <lb ed="#B" n="19"/>nem quodammodo gerimus: non proprietatem nobis vsurpatione damnabili vendicemus. glos. Quia tantum il 
+       <lb ed="#B" n="20"/>lius procuratio nobis commissa est. Ergo praelati dicuntur procuratores rerum ecclesiasticarum: &amp; quando  
+       <lb ed="#B" n="21"/>que dicuntur domini, &amp; quandoque defensores: non tamen habent generalem &amp; liberam administratio-  
+       <lb ed="#B" n="22"/>nem sicut &amp; procurator Caesaris. Modicum tamen dare possunt, &amp; loco domini habentur cum bene administrant: lo- 
+       <lb ed="#B" n="23"/>co praedonis cum male. Et quia sunt loco domini quo ad hoc, etiam quandoque in iure dicuntur domini: &amp; secundum 
+       <lb ed="#B" n="24"/>hoc in quaestione de perfectione attribui ministris ecclesiae dominium rerum ecclesiasticarum. 
+      </p>
+      <p xml:id="n3av8a-c1e3452-d1e182">
+       VNde nec 
+       <lb ed="#B" n="25"/>proprie dicuntur fructuarii. Fructuarius enim siue vsufructuarius dicitur aliquis a fructum: qui etsi non ha  
+       <lb ed="#B" n="26"/>bet dominium aut proprietatem in re: habet tamen liberum ius omnes fructus qui proueniunt de re, sibi 
+       <lb ed="#B" n="27"/>attrahendi &amp; dispensandi de eis prout vult. Puta qui in sylua caedua habet ad vitam suam vsum fru 
+       <lb ed="#B" n="28"/>ctus: potest omnes fructus singulis annis in vsum suum conuertere: &amp; aliis ipsos tribuere pro libi- 
+       <lb ed="#B" n="29"/>to suae voluntatis. Nonisic autem ministri ecclesiae possunt de fructibus bonorum ecclesiae sibi commis- 
+       <lb ed="#B" n="30"/>sis disponere: quia vt dictum est, non possunt nisi modica dare: nec habent generalem &amp; liberam ad  
+       <lb ed="#B" n="31"/>ministrationem. Quia tamen de bonis ecclesiae ea quae sunt vsibus suis necessaria possunt accipere: quo ad  
+       <lb ed="#B" n="32"/>hoc proprie dicuntur vsuarii ab vsu iuris. Est enim vsuarius qui ius vtendi habet in re: non tantum iu 
+       <lb ed="#B" n="33"/>ris habens in re quantum vsufructuarius. vsufructuarius enim omnes fructus sibi potest attrahere &amp; 
+       <lb ed="#B" n="34"/>alienare: Vsuarius autem non plus potest sibi attrahere quam in suum proprium vsum habet conuerte 
+       <lb ed="#B" n="35"/>re: &amp; de residuo nihil habet aut potest disponere: nisi quo ad hoc administratio sibi fuerit conces- 
+       <lb ed="#B" n="36"/>sa ab vsufructuario. Et quo ad hoc minister ecclesiae plus habet in bonis ecclesiae iuris, quam mere vsua 
+       <lb ed="#B" n="37"/>rius: quia habet ius administrandi de residuo eius quod in necessarium vsum suum habet necesse conuer 
+       <lb ed="#B" n="38"/>tere: vt licet sit vsuarius solum quo ad id quod in proprium vsum conuertit: minister tamen est pauperum quo ad  
+       <lb ed="#B" n="39"/>residuum eius quod debet conuertere in vsus illorum: vt aspiciendo ad vtrumque simul proprie possit dici mi- 
+       <lb ed="#B" n="40"/>nister vsuarius: non tamen generaliter &amp; libere: sed specialiter egenis &amp; indigentibus. xii. qud i. Epiritus ecclesiasti 
+       <lb ed="#B" n="41"/>carum rerum habeat potestatem ad dispensandum erga omnes qui indigent cum summa reuerentia &amp; timore dei. 
+       <lb ed="#B" n="42"/>Percipiet autem &amp; ipse quibus indiget si tamen indiget, tam in suis quam in fratrum qui ab eo suscipiuntur necessariis vsibus pro  
+       <lb ed="#B" n="43"/>futuris: ita vt nulla qualibet occasione fraudentur, iuxta sanctum apostolum sic dicentem: habentes victum 
+       <lb ed="#B" n="44"/>&amp; vestitum his contenti simus. Quia si contenti istis minime fuerint: conuertat autem res ecclesiae in suos 
+       <lb ed="#B" n="45"/>domesticos vsus, &amp; eius commoda: vel agrorum fructus non cum presbyterorum vel diaconorum con- 
+       <lb ed="#B" n="46"/>scientia pertractet: sed eorum potestatem domesticis suis aut propinquis, aut fratribus filiisque conmit 
+       <lb ed="#B" n="47"/>tat: vt per huiusmodi personas occulte laedantur res ecclesiae: synodo prouinciae poenas ipse persoluat. Su- 
+       <lb ed="#B" n="48"/>per illud. Indiget. x. q. ii. Episcopus. vbi fere idem cap, ponitur. glos. Nota qualiter exponitur ver- 
+       <lb ed="#B" n="49"/>bum Indiguerit: vt arctetur tantum ad victum &amp; vestitum: qui tamen melior vel peior dandus est secun- 
+       <lb ed="#B" n="50"/>dum qualitatem personarum. Et glos. super illud. xii. quoid i. dicit. Et ita refertur haec necessitas ad na-  
+       <lb ed="#B" n="51"/>turae necessitatem, quae tamen pensanda est secundum qualitatem personarum. hoc enim facere est 
+       <lb ed="#B" n="52"/>bonum ministrum ministerium suum honorificare. Alias autem dare potius est seipsum glorificare 
+       <lb ed="#B" n="53"/>Vnde dicit Bernard. in praefata epistola. Honorificabis ministerium tuum: ministerium inquam non  
+       <lb ed="#B" n="54"/>dominium. lpsum itaque honorificabis non vos: nam qui quaerit quae sua sunt, se cupit honorari non su 
+       <!--711.xml-->
+       <pb ed="#B" n="335-v"/>
+        <lb ed="#B" n="1"/>um ministerium. Honorificabis autem non cultu vestium: non equorum fastum: non amplis aedificiis: sed ornatis 
+       <lb ed="#B" n="2"/>moribus, studiis spiritalibus, operibus bonis. Aut fratribus. glos. x. causa, quid ii. Praesumitur enim quod 
+       <lb ed="#B" n="3"/>hoc carnali amore faciat: vnde eis danda non sunt nisi parua: nisi inquantum pauperes sunt. Tunc enim 
+       <lb ed="#B" n="4"/>eis porius prouidendum est quam aliis caeteris paribus: secundum Augu. epistola quadam ad Laetum diaconum. 
+       <lb ed="#B" n="5"/>Alias autem eis dare esset pauperes defraudare. Vnde. x. quid ii. in ca, praedicto subditur. Si autem episcopi, &amp; qui cum 
+       <lb ed="#B" n="6"/>eis sunt presbyteri vel diaconi accusentur: quod quae ex redditibus vel ex quolibet actu ecclesiae veniunt 
+       <lb ed="#B" n="7"/>in vsus suos colligunt, &amp; pauperes fraudant &amp; fame conficiunt: &amp; hoc quidem corripi oportet. In quo ca- 
+       <lb ed="#B" n="8"/>su intelligenda est auctoritas haec praedicta. Factuarius autem est a facto siue ab vsu facti dictus: cui circa 
+       <lb ed="#B" n="9"/>id cuius dominium ab alio habetur, vsus concessus est: &amp; tantummodo praebet quod facti est in vtendo, &amp; nihil iuris. 
+       <lb ed="#B" n="10"/>Talis factuarius, vt alias determinauimus, cum omni dominio renunciat: quanto est paucioribus conteii 
+       <lb ed="#B" n="11"/>tus: tanto est quo ad statum perfectior: comperatione caeterorum religiosorum qui bonis suis communibus siue mobilibus 
+       <lb ed="#B" n="12"/>siue immobilibus dominium retinent aliquale,. quia minori sollicitudine necessarius vsus facti per singulos dies acui  
+       <lb ed="#B" n="13"/>ritur quocumque modo siue per artem siue per mendicationem: siue alio modo, quemadmodum etiam ab habentibus so 
+       <lb ed="#B" n="14"/>lum mobilia in conmuni dominium simul acquiritur &amp; custoditur. Omnis enim sollicitudo in acquirendo vsum 
+       <lb ed="#B" n="15"/>facti necessarium, est necessaria naturae: illa vero quae est in custodiendo est praeternecessaria: quae neces- 
+       <lb ed="#B" n="16"/>sario prouenit ex minori confidentia: propter quod necessario de perfectione diminuit. Semper enim aliis eisdem 
+       <lb ed="#B" n="17"/>retentis praeternecessaria sollicitudo quam status aut factum maiorem requirit, de perfectione in statu vel in facto 
+       <lb ed="#B" n="18"/>diminuit, vt alibi exposuimus. Vnde etsi saepius maior fuerit sollicitudo in solo vsu facti acquirendo quam si 
+       <lb ed="#B" n="19"/>mul in acquirendo &amp; custodiendo mobilium aut immobilium dominium: quia tamen illa sollicitudo est omnino 
+       <lb ed="#B" n="20"/>necessaria: ista autem in parte praeternecessaria: idcirco illa sollicitudo etiam maior, quia est necessariae pro 
+       <lb ed="#B" n="21"/>uisionis: in nullo de persectione diminuit: sed ista minor quo ad hom. scilicet quod est praeternecessaria, &amp; ideo  
+       <lb ed="#B" n="22"/>cum minori confidentia de domino. Sed forte dices quod illi sollicitudini necessariae maiori prouidetur per istam 
+       <lb ed="#B" n="23"/>ne sit necesse eam esse tantam. propter quod &amp; ista quo ad custodiam reputanda est esse necessaria: sicut &amp; 
+       <lb ed="#B" n="24"/>illa: &amp; non minoris confidentiae. Sed non est ita: quia etsi saepius contingeret illam sollicitudinem neces 
+       <lb ed="#B" n="25"/>sariam in acquirendo vsum facti esse maiorm: semper tamen incertum est si debeat esse maior: quia 
+       <lb ed="#B" n="26"/>forte non erit opus ea omnino: aut forte poterit esse minor. Certum est autem quod semper custodia 
+       <lb ed="#B" n="27"/>boni temporalis aliquam apponit sollicitudinem. Vnde quamquam omnis sollicitudo distrahens ex se sit mala: quia  
+       <lb ed="#B" n="28"/>tamen illa propter omnimodam necessitatem naturae omnino est excusabilis: ista autem nequaquam: eligere autem  
+       <lb ed="#B" n="29"/>minus malum, certum tamen, ad euitandum maius malum incertum, non est fine diffidentia euadendi il 
+       <lb ed="#B" n="30"/>lud maius malum: &amp; ita cum spe diminuta in diuino adiutorio super necessariis vitae obtinendis: ideo  
+       <lb ed="#B" n="31"/>dominus in oratione dominica non docuit petere nisi quotidiano victui necessaria: quando dixit. Panem no-  
+       <lb ed="#B" n="32"/>strum quoti. da no. ho. Vbi cum dixit panem, explicat necessarium, excludendo circa delicata praeternecessa 
+       <lb ed="#B" n="33"/>ria auiditatem. Cum vero dixit quotidianum, explicat necessarium diei instanti, excludendo circa praeterne 
+       <lb ed="#B" n="34"/>cessaria custodienda auaritiam. Vnde <name ref="#Augustine">Augustinus</name> in sermo. de oratione dominica exponens illam petitionem 
+       <lb ed="#B" n="35"/>dicit sic. lam terrestria postulamus sed tamen necessaria: nam dicimus panem nostrum quo. da no. 
+       <lb ed="#B" n="36"/>ho. Osapientia vera &amp; diuina prouidentia: quae docuit &amp; panem solum petere &amp; hodie nominare. Hoc 
+       <lb ed="#B" n="37"/>enim dicto &amp; auiditas cum auaritia tollitur: &amp; humanae vitae insinuatur incertum. secundum illud. Nolite sol 
+       <lb ed="#B" n="38"/>liciti esse in crastinum. Vere enim inconueniens est: eum in multos annos &amp; tempora &amp; certe in alium dien 
+       <lb ed="#B" n="39"/>necessaria postulare: cui forte sub nocte est vita finienda. Competenter ergo oramus panem nostrum quo  
+       <lb ed="#B" n="40"/>tidianum dari nobis: quia crastinus dies quicquid pariat ignoramus. Idcirco ergo omnis sollicitudo in  
+       <lb ed="#B" n="41"/>custodiendo, quantuncumque sit minor, diminuit de perfectione: non autem illa quae est necessariae prouisionis. 
+       <lb ed="#B" n="42"/>Et sic semper quantum est ex parte sollicitudinum perfectior est status in quo quaeritur solum vsus facti quam  
+       <lb ed="#B" n="43"/>in quo quaeritur rerum qualecumque dominium. Et non solum quantum ex ratione sollicitudinum: sed etiam  
+       <lb ed="#B" n="44"/>semper quantum est ex natura rerum status est perfectior per se aliis eisdem retentis in solum quaerem 
+       <lb ed="#B" n="45"/>do de facto vtendo, quam in quaerendo &amp; custodiendo simul: quia plus naturaliter animum habita quam non 
+       <lb ed="#B" n="46"/>habita afficiunt: Dico per se &amp; ex natura rei: quanto habitum magis est coniunctum quam non habitum: 
+       <lb ed="#B" n="47"/>vt dicit <name ref="#Augustine">Augustinus</name> in epistola ad Paulinum: secundum quod alibi diximus: licet per accidenm scilicet ex aestimatio 
+       <lb ed="#B" n="48"/>ne sit econtra. Secundum <name ref="#Augustine">Augustinus</name> in fine primi de doctrina christiana, inter temporalia &amp; aeterna hoc 
+       <lb ed="#B" n="49"/>interest: quod temporale plus diligitur antequam habeatur: vilescit autem cum aduenerit. Aeternum aum  
+       <lb ed="#B" n="50"/>tem ardentius diligitur adeptum quam desideratum. Et hoc contingit, quia ex pronitate nostra ad  
+       <lb ed="#B" n="51"/>delectationem in temporali bono plus aestimatur quam est: &amp; creditur inueniri satietas vbi inueniri non 
+       <lb ed="#B" n="52"/>potest. Propter quod dicti sui circa temporale bonum causam subdit <name ref="#Augustine">Augustinus</name> dicens. Non enim satiat 
+       <lb ed="#B" n="53"/>animam cui vera est &amp; certa fides aeternitatis. Econtra autem ex excellentia aeterni boni contingit quod non  
+       <lb ed="#B" n="54"/>possumus ipsum aestimare quantum est. &amp; ideo minus aestimatur quam est: nec praesumitur tantum posse inueniri in  
+       <!--712.xml-->
+       <pb ed="#B" n="336-r"/>
+        <lb ed="#B" n="1"/>in ipso quantum inuenitur. Propter quod dicti sui circa aeternum bonum causam assignans <name ref="#Augustine">Augustinus</name> dicit 
+       <lb ed="#B" n="2"/>Nulli enim consideranti conceditur de illo aestimare quantum in se habet &amp;c. Caeteri autem ministri eccle 
+       <lb ed="#B" n="3"/>siae qui bonis proprietariis renunciantes publici ministri ecclsiae fiunt: non propter se principaliter: sed pro  
+       <lb ed="#B" n="4"/>pter pauperes: &amp; ministerium publicum ecclesiae sustinendo: in nullo ex hoc patiuntur status perfectio 
+       <lb ed="#B" n="5"/>nis diminutionem: sed potius sentiunt augmentum: vt. xii. quod i. Expedit facultates ecclesiae possideri &amp;c. 
+       <lb ed="#B" n="6"/>
+      </p>
+      <p xml:id="n3av8a-c1e3452-d1e404">
+       POSsessio facti est a qua dicitur aliquis facti possessorius: cuiusmodi est ille qui nihil omnino pos- 
+       <lb ed="#B" n="7"/>sidet nisi pro hora qua illud in vsum suum quo statim consumitur conuertit: nec vsum facti pro fu- 
+       <lb ed="#B" n="8"/>turo in aliquo cuius dominium est penes quemcunque alium, habet aut habere expectat. Tali posses- 
+       <lb ed="#B" n="9"/>sione facti contenti esse possent pauci &amp; vagi: qui si dicerent se non velle habere vsum facti pro futu 
+       <lb ed="#B" n="10"/>ro in re cuius dominium esset penes alium: tanquam hoc esset in diminutionem perfectionis &amp; status eorum,  
+       <lb ed="#B" n="11"/>error esset. quoniam sollicitudo necessariae prouisionis licet excusabilis sit, &amp; idcirco nullo modo quicquam de 
+       <lb ed="#B" n="12"/>statu perfectionis diminuat: vt dictum est: quia tamen ex se mala est, &amp; ad malitiam diei pertinet: tam 
+       <lb ed="#B" n="13"/>to perfectior est status: quanto in eo nata est esse minor absque omni alia sollicitudine praeternecessa-  
+       <lb ed="#B" n="14"/>ria: &amp; illud quod circa statum natum est diminuere huiusmodi sollicitudinem necessatiam, vergit potius in  
+       <lb ed="#B" n="15"/>augmentum quam in diminutionem perfectionis ipsius status. Quare cum aliquis habens dominium in  
+       <lb ed="#B" n="16"/>rebus necessariis ad vsum facti aliquorum, concedit illis vsum facti quandocunque necesse habent, vt 
+       <lb ed="#B" n="17"/>non oporteat aliunde sollicitari ad ipsum obtinendum: hoc multum natum est diminuere sollicitudi 
+       <lb ed="#B" n="18"/>nem circa necessariam prouisionem. Habere ergo vsum facti in eo cuius alius habet dominium: in nullo de per  
+       <lb ed="#B" n="19"/>fectione aut eius statu diminuit: sed potius augmentat: quemadmodum non diminueretur status per 
+       <lb ed="#B" n="20"/>fectionis eremitae: si per angelum administrarentur ei victus &amp; vestitus necessaria: vt non oporteret ipsum  
+       <lb ed="#B" n="21"/>sollicitari ad acquirendum illa vel artificio vel mendicatione aut alio modo. Sed dices quod verum esset 
+       <lb ed="#B" n="22"/>si illi iidem nullam apponerent sollicitudinem in procurando: vt bona conuertantur in illius dominium  
+       <lb ed="#B" n="23"/>a quo habent vsum facti in eisdem. Dicendum. reuera si nullam oporteret eis apponere sollicitudinem 
+       <lb ed="#B" n="24"/>iam dicto modo: hoc potius vt dictum est vergeret in augmentum perfectionis quam in diminutionem. 
+       <lb ed="#B" n="25"/>lpsa tamen sollicitudo in hoc apposita si non excedat necessariam prouisionem in eis quae sunt victui 
+       <lb ed="#B" n="26"/>&amp; officio status necessaria: omnino excusabilis est: nec de statu perfectionis diminuit: maxime respe 
+       <lb ed="#B" n="27"/>ctum omnium aliorum qui propter seipsos dominium habent in re quacunque. Si vero sollicitudo illa ex- 
+       <lb ed="#B" n="28"/>cedat necessariam prouisionem vsus facti: aut scilicet quia fiat prouisio ad vllam superfluitatem siue co- 
+       <lb ed="#B" n="29"/>piam vel thseaurizationem: aut sub colore aut intentione alicuius prouidentiae non necessariae in futu- 
+       <lb ed="#B" n="30"/>rum: bene potest ex hoc multum derogare statui persectionis de facto. Cum enim de iure hoc non de-  
+       <lb ed="#B" n="31"/>bet fieri: siqui sic superflue sollicitarentur, potius sibi quam statui derogarent: qui prohibere debet ne profi 
+       <lb ed="#B" n="32"/>tentes eum scienter consentiant plus pecuniae concedi ad aliquam rem necessariam comparandam quam 
+       <lb ed="#B" n="33"/>verisimiliter aestimari possit rem necessariam valituram: secundum quod hoc prohibet fratribus mi- 
+       <lb ed="#B" n="34"/>noribus Nicolaus papa. Vnde etsi communitas status hoc requireret, reuera multum statui per- 
+       <lb ed="#B" n="35"/>fectionis derogaret: &amp; bene posset esse perfectior status alius habens aliquod rerum dominium cum 
+       <lb ed="#B" n="36"/>sollicitudine praeternecessaria minore. Haec digrediendo diximus ad declarandum aliqua quae visa 
+       <lb ed="#B" n="37"/>sunt alias in quaestione de statu perfectionis a nobis obscure tractata. Reuertentes igitur ad propo 
+       <lb ed="#B" n="38"/>situm, ex praemissis respondemus quaestioni distinguendo: quod ministros ecclesiae contingere retinere 
+       <lb ed="#B" n="39"/>superflua vsui praesentis temporis intelligo dupliciter: quia duplici intentione. Vno modo propter 
+       <lb ed="#B" n="40"/>vsum priuatum suiipsius &amp; suorum solummodo. Alio modo propter vsum publicunm scilicet pauperum &amp; sui 
+       <lb ed="#B" n="41"/>ipsius inquantum est aut debet esse vnus ex pauperibus. Primo modo dico quod non licet: quia facerent se 
+       <lb ed="#B" n="42"/>vsufructuarios bonorum ecclesiae quaerendo quae sua sunt, defraudando pauperes, quorum debent esse 
+       <lb ed="#B" n="43"/>illa. Sed hoc possunt facere duplici de causa. Vne. scilicet ex nimio timore: quia timent quod sibi aliquid pro 
+       <lb ed="#B" n="44"/>futuro deficiat. Alia ex cupiditate. Secundo autem modo licet: quia haec est cautela: vt quod non est pro praesen- 
+       <lb ed="#B" n="45"/>ti tempore omnino necessarium reseruetur ad vsum pauperum magis opportunum, aut ad vsum etiam 
+       <lb ed="#B" n="46"/>proprium, prouidendo pro futuro pro minori, quam de bonis pauperum oporteret eos refundere in futu- 
+       <lb ed="#B" n="47"/>ro si non esset eis prius prouisum,. secundum quod has tres causas reseruandi in posterum bona eccle 
+       <lb ed="#B" n="48"/>siae tangit Hieronymus. xii. qud ii. Gloria episcopi est pauperum operibus prouidere. lgnominia sacer 
+       <lb ed="#B" n="49"/>dotis est propriis studere diuitiis. &amp; infra. Accipere pauperibus erogandum: &amp; esurientibus pluribus 
+       <lb ed="#B" n="50"/>reseruare: vel cautum vel timidum est: aut quod apertissimi sceleris est, exinde aliquid subtrahere: om- 
+       <lb ed="#B" n="51"/>nium praedonum crudelitatem superat: vel cautum. Ecce casus in quo licet reseruare. vnde glos. ibidem. Cum 
+       <lb ed="#B" n="52"/>ideo fit quia expectatur maior necessitas. hinc est quod secundum quod dicit <name ref="#Augustine">Augustinus</name> xii. estid i. habebat dominus lo- 
+       <lb ed="#B" n="53"/>culos: a fidelibus oblata conseruans: &amp; suorum necessitatibus &amp; aliorum indigentiis tribuebat. Tunc primum ec 
+       <lb ed="#B" n="54"/>clesiasticae pecuniae forma instituta est: vt intelligeremus quod praecepit, non esse cogitandum de crastino  
+       <!--713.xml-->
+       <pb ed="#B" n="336-v"/>
+        <lb ed="#B" n="1"/>non ad hoc fuisse praeceptum vt nil pecuniae seruetur a sanctis: sed ne deo propter ista seruiatur: &amp; propter in  
+       <lb ed="#B" n="2"/>opiae timorem iustitia deseratur. Et iste est casus primus propter quem non debent ministri ecclesiae serua- 
+       <lb ed="#B" n="3"/>re superslua. Vnde super illud, vel timendum. glos. ldeo sacit: quia timet ne sibi deficiat. Talis reuera pro- 
+       <lb ed="#B" n="4"/>pter timorem inopiae deserit iustitiam: qua pro tempore instanti quae seruat deberet pauperibus ero 
+       <lb ed="#B" n="5"/>gare. dicente Ambro. de officiis. Aurum habet ecclesia non vt seruet: sed vt eroget &amp; subueniat neces 
+       <lb ed="#B" n="6"/>sitatibus. &amp; infra. Cur passus es inopes fame mori, &amp; certe habebas aurum vnde ministrares alimo 
+       <lb ed="#B" n="7"/>niam: glos. i. ministrare debuisses. Propter talem ergo timorem non licet ministris ecclesiae qui perfecti 
+       <lb ed="#B" n="8"/>esse debent, publica bona ecclesiae reseruare in necessitate: licet ex cautela futurorum hoc licet: &amp; hoc 
+       <lb ed="#B" n="9"/>absque perfectionis eorum diminutione: quia in huius indicium ex vna causa Christus loculos habu 
+       <lb ed="#B" n="10"/>it: quamuis propter talem timorem licet imperfectis aut minus perfectis bona priuata personae vel commni- 
+       <lb ed="#B" n="11"/>tati alicui reseruare pro futuro, quorum infirmitati concedens Christus ex alia causa loculos ha-  
+       <lb ed="#B" n="12"/>buit: vt alibi dicit <name ref="#Augustine">Augustinus</name> 
+      </p>
+      <p xml:id="n3av8a-c1e3452-d1e547">
+       PER haec patent obiecta. Bernar enim loquitur in casu quando seruantur super 
+       <lb ed="#B" n="13"/>slua, &amp; ex cupiditate. loseph autem bona quae seruauit pro cautela futurorum seruabat: quod licitum est 
+       <lb ed="#B" n="14"/>secundum iam dictum modum: licet primum sit illicitum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

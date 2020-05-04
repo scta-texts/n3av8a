@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 24</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 24</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="245-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e330">
+       <head xml:id="n3av8a-d1e330-Hd1e96">Quaestio 24</head>
+       <p xml:id="n3av8a-d1e330-d1e99">
+        <lb ed="#B" n="20"/>Equuntur pertinentia ad restitutionem faciendam: &amp; erant quatuor. Primum erat, vtrum 
+       <lb ed="#B" n="21"/>qui habet penes se quod restituendum est alteri, teneatur ipsum statim restituere. 
+       <lb ed="#B" n="22"/>Secundum: vtrum receptores donorum aut eleemosynarum ab eis qui habent bona sua 
+       <lb ed="#B" n="23"/>partim bene, partim male acquisita, teneantur illa restituere. Tertium: vtrum recipiens 
+       <lb ed="#B" n="24"/>aliquid pro mutuo non ex pacto: teneatur illud restituere. Quartum: vtrum ille qui 
+       <lb ed="#B" n="25"/>recipit de bonis alterius tantum inquantum ille tenetur eidem, teneatur ad restitutionem illius 
+       <lb ed="#B" n="26"/>recepti. 
+      </p>
+      <p xml:id="n3av8a-d1e330-d1e117">
+       CIRca primum arguitur: quod habens penes se restituendum teneatur restituere 
+       <lb ed="#B" n="27"/>statim, quia <name ref="#Augustine">Augustinus</name> dicit de verbis domini. Non dimittitur peccatum, nisi restituatur ablatum. Sed statim 
+       <lb ed="#B" n="28"/>tenetur ad illud: sine quo non dimittitur ei peccatum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e330-d1e127">
+       IN contrarium est: quod ecclesia sic iudicat 
+       <lb ed="#B" n="29"/>restituendum ne egeat restituens. 
+      </p>
+      <p xml:id="n3av8a-d1e330-d1e132">
+       DIcendum est ad hoc simpliciter &amp; absolute: quod quantum est ex ratione 
+       <lb ed="#B" n="30"/>actus quo ille est iniustus possessor, statim debet restituere quicquid tenet de alieno. Eadem enim in-  
+       <lb ed="#B" n="31"/>iuria qua alienum aliquid recipit: illud detinet. Vnde sicut semper &amp; ad semper tenebatur non recipere alie 
+       <lb ed="#B" n="32"/>num (Dico inuito domino: quemadmodum intelligi debet in quaestione) sic semper &amp; ad semper tenetur alie 
+       <lb ed="#B" n="33"/>num restituere. Ad idem enim praeceptum negatiuum pertinet aliena non tollere, &amp; ablata non detinere. di 
+       <lb ed="#B" n="34"/>cente <name ref="#Augustine">Augustino</name> de verbis Apostoli. ser. xx. Quod non reddidisti rapuisti: quantum potuisti fecisti: quia plus 
+       <lb ed="#B" n="35"/>non potuisti, ideo non plus fecisti. qui alienum negat si possit, &amp; tollit. Si vero contingere possit quod in  
+       <lb ed="#B" n="36"/>casu non teneatur restituere: hoc solum euenit ex circunstantia vel ex parte detinentis, vel ex parte illius cui resti 
+       <lb ed="#B" n="37"/>tuendum est. qua contingente iudicante recta ratione non est statim restituendum. 
+      </p>
+      <p xml:id="n3av8a-d1e330-d1e156">
+       AD cuius intelle 
+       <lb ed="#B" n="38"/>ctum sic distinguendum primo est ex parte eius cui est facienda restitutio. Aut enim nociuum esset quod sta 
+       <lb ed="#B" n="39"/>tim fieret ei restitutio, aut non. Si primo modo, non est statim restituendum: vt si gladius sit re- 
+       <lb ed="#B" n="40"/>stituendus, &amp; conuersus est in furiam ille cui debet restitui: non licet ei statim restituere facto: sed  
+       <lb ed="#B" n="41"/>animo debet esse ad restituendum paratus: si aliud non obstet. Quia non excusaret detinendi necessi- 
+       <lb ed="#B" n="42"/>tas orta ex parte eius cui facienda est restitutio: si dominaretur detinendi cupiditas ex parte eius qui de 
+       <lb ed="#B" n="43"/>tineret. Si secundo modo, aut ergo detinet restituendum illo inuito cui est restituendum: aut eo consen 
+       <lb ed="#B" n="44"/>tiente &amp; annuente. Et isto secundo modo non oportet statim restituere: quia quod consentit detentioni  
+       <lb ed="#B" n="45"/>perinde est ac si accommodaret. dum tamen libere &amp; absolute consentiat. Si enim libere non consentiret:  
+       <lb ed="#B" n="46"/>sed ex timore quodam erga detentorem: perinde est ac si denegaret: &amp; oporteret statim restituere: nec 
+       <lb ed="#B" n="47"/>liceret diutius detinere, nisi aliquid aliud obstaret ex eis quae iam dicentur: maxime si detentor para 
+       <lb ed="#B" n="48"/>tum non haberet animum ad statim restituendum si ille non consentiret simpliciter detentioni. Si primo 
+       <lb ed="#B" n="49"/>modo: aut ergo detinet cum proposito aliquando restituendi totum &amp; integre: aut non: sed aut nihil 
+       <lb ed="#B" n="50"/>aut non totum intendit restituere. Si secundo modo, non licet detinere: sed statim tenetur hanc  
+       <lb ed="#B" n="51"/>voluntatem mutare in voluntatem de statim restituendo, et statim restituere nisi aliqua circunstantia assi 
+       <lb ed="#B" n="52"/>stat prout iam dicetur: &amp; hoc propter vim praecepti negatiui quod semper &amp; ad semper obligat ad non faciendum &amp; 
+       <lb ed="#B" n="53"/>non volendum illicitum. Si primo modo: aut ergo debens restituere expectat maiorem opportunitatem restituem 
+       <lb ed="#B" n="54"/>di cum maiori pace aut honestate quam si statim restitueret, aut non. Si primo modo, licitum est non  
+       <!--531.xml-->
+       <pb ed="#B" n="245-v"/>
+        <lb ed="#B" n="1"/>statim restituere: dum tamen quantum est ex se paratus sit omnino ad restituendum: puta si ille cui 
+       <lb ed="#B" n="2"/>restitutio est facienda, ignorat debitum, &amp; non sine scandalo aut dehonestate aliqua posset ille per 
+       <lb ed="#B" n="3"/>se &amp; statim sine alia occasione facere restitutionem: aut si forte sciret quod pro dilatione habita pro tem 
+       <lb ed="#B" n="4"/>pore vt nunc nimium exasperaretur erga restituentem. In primo enim casu licet expectare com- 
+       <lb ed="#B" n="5"/>modum tempus quo per alium possit occulte restituere, aut per seipsum nacta sufficienti occasione  
+       <lb ed="#B" n="6"/>qua possit restituere sic vt non percipiatur in mora fuisse. In secundo etiam casu licet expectare tempropus quo  
+       <lb ed="#B" n="7"/>illum magis pacatum possit inuenire. Si tamen detinens quo ad vtrumque casum in culpa sit ex nimia. 
+       <lb ed="#B" n="8"/>detentione, forte tenebitur illi ad suum interesse: ad quod omnis violentus detentor rei alienae tenetur cum. 
+       <lb ed="#B" n="9"/>hoc quod tenetur ad restitutionem. Si secundo modo: aut ille qui debet restituere multum indiget eo 
+       <lb ed="#B" n="10"/>quod restituendum est pro toto vel pro parte: aut non multum indiget eo: neque vt totum: neque vt par 
+       <lb ed="#B" n="11"/>tem detineat. Isto secundo modo tenetur statim restituere ex virtute praecepti negatiui: cui nul- 
+       <lb ed="#B" n="12"/>la rationabilis circunstantia obstat. Si primo modo, aut ergo ille cui tenetur restituere, similiter 
+       <lb ed="#B" n="13"/>multum indiget illo sibi restituendo: aut aequaliter illi qui tenetur restituere: aut prope: aut ille non  
+       <lb ed="#B" n="14"/>multum indiget. Si primo modo, dico quod statim tenetur restituere: quia nemini licet facere profe- 
+       <lb ed="#B" n="15"/>ctum suum de re aliena cum iactura illius cuius est ipso inuito. Si secundo modo: aut ergo detinens 
+       <lb ed="#B" n="16"/>tantum indiget re restituenda. Indiget dico pro toto vel pro parte. quod si ille cui est restituendum sciret 
+       <lb ed="#B" n="17"/>eius indigentiam &amp; necessitatem, secundum iudicium rectae rationis &amp; motum fraternae dilectionis 
+       <lb ed="#B" n="18"/>non deberet ei claudere viscera eius: sed compati &amp; misereri, et differre debitum vel pro toto vel 
+       <lb ed="#B" n="19"/>pro parte: tunc puto quod non tenetur statim totum restituere: sed pro toto, vel pro parte secundum statum. 
+       <lb ed="#B" n="20"/>indigentiae suae restitutionem differre. Sed hoc non propria auctoritate: sed iudicis ecclesiastici, vel in  
+       <lb ed="#B" n="21"/>foro contentioso si res deducatur ad iudicium, vel in foro conscientiae vt petat super hoc a confes- 
+       <lb ed="#B" n="22"/>sore consilium. Et puto quod sicut in foro contentioso iudex officialis debet prouidere illi qui omnino 
+       <lb ed="#B" n="23"/>paratus est ad restituendum debitum, ne egeat extrema necessitate: non cuilibet aequaliter: sed iuxta 
+       <lb ed="#B" n="24"/>statum &amp; conditionem personae omnibus circunspectis: sic in foro conscientiae iudex confessor vel 
+       <lb ed="#B" n="25"/>consiliarius potest permittere vt restitutionem differat non praecipiendo quod statim restituat: vel quod  
+       <lb ed="#B" n="26"/>amplius est insinuando quod in tali statu non tenetur restituere: sed quod paratus debeat esse animo ad  
+       <lb ed="#B" n="27"/>restituendum: si mutetur sua conditio vt amplius valeat, vel ne tantum indigeat: aut sic mute- 
+       <lb ed="#B" n="28"/>tur conditio illius cui est restituendum, vt scilicet amplius indigeat. Sed illud expresse insinuare non 
+       <lb ed="#B" n="29"/>esset securum: ne audacia &amp; confidentia nimia daretur debitori de detinendo restituenda. Aut deti 
+       <lb ed="#B" n="30"/>nens non tantum indiget siue pro toto siue pro parte restituendo: quin etsi ille cui est restituendum sci- 
+       <lb ed="#B" n="31"/>ret eius necessitatem &amp; indigentiam non teneretur differre debitum diutius secundum iudicium rectae 
+       <lb ed="#B" n="32"/>rationis &amp; motum fraternae pietatis siue pro toto siue pro parte. Dico quod in isto casu statim tenetur 
+       <lb ed="#B" n="33"/>restituere aut totum aut partem secundum exigentiam suae indigentiae: &amp; non potest vlterius differre. 
+      </p>
+      <p xml:id="n3av8a-d1e330-d1e271">
+       SE 
+       <lb ed="#B" n="34"/>cundum dictas igitur distinctiones patet quid oporteat ad istam quaestionem respondere. Et patet ex eis quo  
+       <lb ed="#B" n="35"/>modo in quatuor casibus non oportet statim restituere, sed potest restitutio differri. In aliis vero quae  
+       <lb ed="#B" n="36"/>tuor oportet statim restituere, &amp; non potest restitutio differri, &amp; quomodo, &amp; quare hoc. Siquid ve- 
+       <lb ed="#B" n="37"/>ro membrum omissum sit, aut aliquod restat subdistinguendum: apponat ille cui occurrit: mihi autem ad phiaosenus 
+       <lb ed="#B" n="38"/>non occurrit. 
+      </p>
+      <p xml:id="n3av8a-d1e330-d1e284">
+       PER haec patent obiecta. 
+      </p>
+      <p xml:id="n3av8a-d1e330-d1e287">
+       CVM ergo arguitur per Augustinum: Non dimittitur peccatum, 
+       <lb ed="#B" n="39"/>nisi restituatur ablatum: Dicendum quod verum est regulariter. Et hoc non tam propter factum siue facti omissionem 
+       <lb ed="#B" n="40"/>quam propter animum non paratum quantum est de se ad restituendum. In casibus tamen in quibus restitutionem 
+       <lb ed="#B" n="41"/>non differt voluntas, sed necessitas, bene dimittitur peccatum propter bonam &amp; paratam voluntatem ad resti- 
+       <lb ed="#B" n="42"/>tuendum quantum est de se: nisi obesset necessitas propter quam nondum restituitur ablatum, vt patet in qua  
+       <lb ed="#B" n="43"/>tuor casibus praedictis. Ad secundum: quod oportet prouidere ne egeat: Dicendum quod hoc pertinet ad vnum ca- 
+       <lb ed="#B" n="44"/>sum detinendi propter necessitatem, vt visum est. propter quod non potest ex hoc argui quod regulariter 
+       <lb ed="#B" n="45"/>licet non statim restituere, vt patet ex dictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

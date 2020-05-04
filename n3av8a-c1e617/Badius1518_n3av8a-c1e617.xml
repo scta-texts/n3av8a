@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 40</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 40</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="26-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e617">
+      <head xml:id="n3av8a-c1e617-Hd1e96">Quaestio 40</head>
+      <p xml:id="n3av8a-c1e617-d1e99">
+       <lb ed="#B" n="43"/>Irca secundum arguebatur: quod emere vilius vt vendatur carius incontinenti sit peccatum: quia dicit Chry s 
+       <lb ed="#B" n="44"/>sost. super illud Matth. xxi. Eiiciebat de templo omnes vedentes &amp; ementes. Qui comperat inquit rem 
+       <lb ed="#B" n="45"/>vt illam integram &amp; immutatam dando lucretur: ille est mercator qui de templo dei eiicitur. talis est qui 
+       <lb ed="#B" n="46"/>vilius emit vt stati vendat carius: de templo ergo dei debet eiici. &amp; hoc non nisi propter peccatum 
+       <lb ed="#B" n="47"/>sic emendo &amp; vedendo. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e617-d1e112">
+       ITem non licet vilius emere rem nec carius vendere quam ipsa 
+       <lb ed="#B" n="48"/>iusta aestimatione valeat. sed eadem res incontinenti non mutat suum valorem. Si ergo vilius 
+       <lb ed="#B" n="49"/>emit &amp; carius vendat: aut emit eam minus iusto praetio: aut vendit eam vltra iustum praetium. 
+       <lb ed="#B" n="50"/>Vtrunque autem peccatum est. ergo sic emere &amp; vendere omnino peccatum est.
+      </p>
+      <p xml:id="n3av8a-c1e617-d1e121">
+       CONtra. tunc omnis merca- i 
+       <lb ed="#B" n="51"/>tura quam aliquid emitur vt reuendatur, esset illicita: quia nullus volens reuendere emit nisi vt carius vendat: aut fa 
+       <lb ed="#B" n="52"/>tuus esset omnis mercator laborando sine lucro. 
+      </p>
+      <p xml:id="n3av8a-c1e617-d1e128">
+       DIcendum ad hoc: quod iustitia contractuum pertinet ad ius naturae  
+       <lb ed="#B" n="53"/>quod idem debet esse apud omnes gentes. Debet ergo in contractibus emptionis &amp; venditionis aequitas iuris naturalis 
+       <!--93.xml-->
+       <pb ed="#B" n="26-v"/>
+       <lb ed="#B" n="1"/>obseruari: &amp; penes illam determinari debet aequitas contractuum in iure positiuo. Nunc autem in aequitate iusti  
+       <lb ed="#B" n="2"/>tiae naturalis est secundum quod dicit Phus in quinto Ethicorum cap. secundo, quod iustum legale est &amp; aequale: iniustum  
+       <lb ed="#B" n="3"/>autem illegale &amp; inaequale. &amp; ideo iniustus est &amp; illegalis qui agit contra aequitatem legis scriptae, &amp; inaequalis qui agit 
+       <lb ed="#B" n="4"/>contra aequitatem legis naturae. &amp; hoc totum propterea contingit: quia iustitia quae est virtus moralis: medietas quaedam  
+       <lb ed="#B" n="5"/>est hominis ad alterum inter plus &amp; minus circa conmutationes inter eos &amp; communicationes: vt in mutua con 
+       <lb ed="#B" n="6"/>uersatione sua homines conseruent aequalitatem: vt non subtrahatur indebite vni quid addatur alteri, &amp; sic fiant inaequales. 
+       <lb ed="#B" n="7"/>Et sic iustus semper se tenet in medio pluris &amp; minoris: vt non sibi aliquid subtrahatur quid alteri indebite adda  
+       <lb ed="#B" n="8"/>tur: nec ipse alteri subtrahat quid sibi indebite addat. Iniustus autem nequaquam medium &amp; aequale eligit: sed sem 
+       <lb ed="#B" n="9"/>per sibi addit plus de bono quod debet esse alterius, &amp; minus de malo: &amp; hoc non vt malum: sed vt bonum 
+       <lb ed="#B" n="10"/>quoniam minus malum respectu maioris habet aliquam rationem boni. Huius autem iustitiae: vt dicit Phus in eodem  
+       <lb ed="#B" n="11"/>duplex est spens. Vna quae est mercedum distributiua: altera quae est conicationum directiua: quae iniustitias in con 
+       <lb ed="#B" n="12"/>mutationibus factas &amp; imaequalitates tentat aequare, &amp; in illis aequalitatem seruare. &amp; ad istam speciem prti 
+       <lb ed="#B" n="13"/>net omnis commutatio emptionis &amp; venditionis: in quibus inaequale lucri &amp; danni reducit ad medium. Vnde cum duo  
+       <lb ed="#B" n="14"/>conicationem habentes inaequales facti sunt, vt vni videatur quod dannum passus est: &amp; alter lucrum indebitum a se abstu 
+       <lb ed="#B" n="15"/>lit: &amp; super hoc dubitant: concurrunt ad iudicem: qui est quaedam animata iustitia, &amp;e libra in poesdere iustitiae ambos 
+       <lb ed="#B" n="16"/>commensurans: apponens vni &amp; subtrahens alteri quousque sint aequales. In isto ergo contractu emptionis &amp; 
+       <lb ed="#B" n="17"/>venditionis: sic debet seruari aequalitas inter mutuo dantem &amp; recipientem: quod neuter plus recipiat quam det. lste  
+       <lb ed="#B" n="18"/>enim contractus propter necessariam conmutationem rerum naturalium inuentus est: vt quia quae sunt necessaria vni in  
+       <lb ed="#B" n="19"/>ueniuntur apd alterum &amp; econuerso, &amp; apud neutrum ambo: puta vnus habet vinum in abundantia &amp; indiget 
+       <lb ed="#B" n="20"/>blado, alter vero abundat in blado &amp; indiget vino: sit mutua subuentio vt vnus det alteri de vino suo 
+       <lb ed="#B" n="21"/>quantum indiget, &amp; recipiat de blado eius econuerso: &amp; sic debet seruari aequalitas. Aequale debet esse omnino in va 
+       <lb ed="#B" n="22"/>lore datum &amp; receptum hinc &amp; inde. &amp; in hoc ambo debent esse iudices tanquam duo brachia librae &amp; animatae iusti 
+       <lb ed="#B" n="23"/>tiae: vt qui in potesdere praetii sentiat se plus recepisse de eo quod est alterius, rescindat &amp; reddat ei de suo quo  
+       <lb ed="#B" n="24"/>usque fiat aequale: &amp; sic stent quasi brachiis librae eleuatis &amp; depssis aequaliter. Quod <name ref="#Augustine">Augustinus</name> secribit fecisse quendam  
+       <lb ed="#B" n="25"/>iustum, qui sit nobis in hoc exemplum: de quo ait <ref xml:id="n3av8a-c1e617-Rd1e194">Aug. lib. xiii. de Trinitate cap. tertio</ref>. Scio hominem cum vena 
+       <lb ed="#B" n="26"/>lis codex ei fuisset oblatus: proptiique eius ignarum &amp; ideo quiddam exiguum poscentem cerneret venditorem, iustum praeti 
+       <lb ed="#B" n="27"/>um quod multo amplius erat nec opinanti dedisse. Vnde si accepisset librum pro oblato, &amp; non pro iusto praetio: in  
+       <lb ed="#B" n="28"/>aequalitas fuisset. lustus ergo iste tamquam libra iustitiae: ipatiens inaequalitatis: iustum praetium dando aequalitatem te- 
+       <lb ed="#B" n="29"/>nuit. Vnde iuxta aequitatem iuris naturalis tantundem res vendi debet &amp; emi quantum valet: et siquis plus ven 
+       <lb ed="#B" n="30"/>dit eam scienter quam valet pro tempore &amp; loco, vel minus eam emit: licet sic facere permittatur, proximo suo cum quo con 
+       <lb ed="#B" n="31"/>municat non contradicente, vel quia ignorat, vel quia necessitas ad minus iustum recipere se compellit: hoc inaequam  
+       <lb ed="#B" n="32"/>lis est &amp; iniusti. Non enim dico quod res tantum semper valeat pro tempore &amp; loco quantum vendi potnt, vel propter inscien 
+       <lb ed="#B" n="33"/>tiam, vel propter necessitatem ementis: sed quantum vendi debet. vt illud generale dictum, Tantum res valet quantum  
+       <lb ed="#B" n="34"/>vendi potest: intelligatur non de potentia facti: sed de potentia iuris, i, quantum de iure pro loco, &amp; tempore vendi de 
+       <lb ed="#B" n="35"/>bet. 
+      </p>
+      <p xml:id="n3av8a-c1e617-d1e220">
+       HIs visis breuiter dico ad quaestionem quod emens vilius re in nullo inmutata: nec ratione suae substantiae 
+       <lb ed="#B" n="36"/>nec ratione loci: nec ratione temporis: nec ratione vendentis: vel si aliqua alia conditio huiusmodi possit apponi, scien 
+       <lb ed="#B" n="37"/>ter vendat eam vel vendere appetat carius: etsi numquam eam vendat, iniustus est &amp; inaequalis, propter iniquam volun- 
+       <lb ed="#B" n="38"/>tatem vendendi rem plus quam valet. Si vero vendat eam talem non immutatam: siue statim: siue postmodum carius: in-  
+       <lb ed="#B" n="39"/>iustus est &amp; inaequalis propter factum inaequalitatis &amp; iniustitiae accipiendo plus ab emptore quam tradat eidem 
+       <lb ed="#B" n="40"/>Dico si scienter sic vendat: quia ignorantia in talibus facit inuoluntarium omnino, &amp; in toto excusat, quia est ignoram 
+       <lb ed="#B" n="41"/>tia non in electione propter malitiam obnubilantem rationem: neque in regulis vlibus legis: sed in singularibus in qui  
+       <lb ed="#B" n="42"/>bus &amp; circa quae cadit operatio. In his enim propter inuoluntarium est mia in parte: si forte non apponat diligen- 
+       <lb ed="#B" n="43"/>tiam omnem quam debet: vt cognoscat valorem rei suae: vel est venia in toto, si videatur res illa sibi amplius va 
+       <lb ed="#B" n="44"/>lere quam valeat, &amp; in nullo est causa suae ignorantiae. Vnde cum pauci sint mercatores qui cum tanto studio 
+       <lb ed="#B" n="45"/>seruandae aequitatis vendant &amp; emant: summe piculosa est venditionis &amp; emptionis negotiatio. &amp; hoc est quid di 
+       <lb ed="#B" n="46"/>cit Chrysostomus super illud Matthaei. exi. Eiiciebat omnes ementes &amp; vedentes de templo. Significans inquit quia  
+       <lb ed="#B" n="47"/>homo mercator numquam potest deo placere. &amp; ideo nullus Christianus debet esse mercator: aut si voluerit esse 
+       <lb ed="#B" n="48"/>mercator: proiiciatur de ecclia. Ego ergo inquit ostendam quis non est negotiator: vt qui secundum rsam non fuerit: intelli 
+       <lb ed="#B" n="49"/>gantur omnes negotiatores esse. &amp; sequitur rsa sua. ldem inquit. Quicumque ergo rem compeat: vt non ipsam rem integram, &amp; i 
+       <lb ed="#B" n="50"/>mutatam vendat: sed opus faciat ex ea: ille non est negotiator: quia qui materiam operandi sibi comparat vnde faciat 
+       <lb ed="#B" n="51"/>opus, ille non rem ipsam vendit: sed magis artificium suum. iet qui rem vendit, cuius aestimatio non est in ipsa re: sed in artifi 
+       <lb ed="#B" n="52"/>cio operis: ille non est mercator. puta faber compeat ferrum: facit ferramentum: quod secundum opus ferramenti apptiatur. fer 
+       <lb ed="#B" n="53"/>rum enim nin tantum valet quantum ferramentum. Qui autem comperat rem: vt illam integram imutatam dando lucretur: ille est mer 
+       <lb ed="#B" n="54"/>cator quide templo dei eiicitur. idem super illud ibidem Matthaei. exii. Dicite inuitatis: ecceprandium meum paraui 
+       <!--94.xml-->
+       <pb ed="#B" n="27-r"/>
+       <lb ed="#B" n="1"/>tauri mei, &amp; altilia occisa, &amp; omnia prata sunt: venite ad nuptias. Illi autem neglexerunt &amp; abierunt, alius in  
+       <lb ed="#B" n="2"/>villam suam, alius vero ad negotiationem suam. Omnis inquit actus quem agunt homines in hoc mundo, duplex est. Aut 
+       <lb ed="#B" n="3"/>villa: aut negotiatio est. Et quod labore quidem manuum nostrarum facimus ad aliquid opus terrenum: puta agrum 
+       <lb ed="#B" n="4"/>vel hortum, vel vineam exercemus: villam colere videmur. i. terram. Quia autem non labores manuum nostrarum: sed  
+       <lb ed="#B" n="5"/>alia lucra consequimur: puta honores gerere, aut diuitias parare: aut mercari: omne hoc negotiatio appel 
+       <lb ed="#B" n="6"/>latur. Duobus ergo verbis omne opus humanum conclusit: siue honestum: siue ihonestum. Honestum quippe est vil 
+       <lb ed="#B" n="7"/>lae cultura: inhonestum autem est apud deum opus negotiationis. Certe talis est maxime ille qui emit vilius vt stati 
+       <lb ed="#B" n="8"/>id idem omnino immutatum vendat carius. Idcirco dicendum absolute quod talis peccat: &amp; si omnes vendentes &amp; emen 
+       <lb ed="#B" n="9"/>tes hoc intendunt: proculdubio omnes iniqui sunt: nec multitudo peccantium excusare potest. Reuera multum timen- 
+       <lb ed="#B" n="10"/>dum est quod fere omnes tales sunt: &amp; quod ideo eos snima dicta inuoluit. Nullo enim modo licet secundum dictum modum  
+       <lb ed="#B" n="11"/>vilius emere &amp; carius vendere: vt expositum est. Vnde <name ref="#Augustine">Augustinus</name> libro xiii. de trinitate vbi supra, inducit quem 
+       <lb ed="#B" n="12"/>dam mimum: qui promisit in quodam spectaculo dicere omnibus quid vellent &amp; quid in animo haberent. Cum ad diem consti 
+       <lb ed="#B" n="13"/>tutum ingenti expectatione maior multitudo conflueret: suspensis &amp; silentibus omnibus: dixisse phibetur, vili vul- 
+       <lb ed="#B" n="14"/>tis emere &amp; care vendere. Vbi dicit <name ref="#Augustine">Augustinus</name> &amp; mimus quidem ipse: vel seipsum intuendo: vel alios quoque expe 
+       <lb ed="#B" n="15"/>riendo vili velle emere &amp; care vendere omnibus credidit esse commune. Sed quoniam reuera vitium est: potest quisque adipi 
+       <lb ed="#B" n="16"/>sci huiusmodi iustitiam quam huic vitio resistit &amp; vincit. &amp; statim inducit exemplum praedictum de emente librum. 
+      </p>
+      <p xml:id="n3av8a-c1e617-d1e309">
+       SED 
+       <lb ed="#B" n="17"/>quid est: danmnabimus omnes qui res integras emptas sic vendunt: vt solummo opus artificum &amp; eorum emptio &amp; 
+       <lb ed="#B" n="18"/>venditio licita sit, &amp; omnis negotiatio illicita: in quae emitur res vilius: vt integra vendatur carius: Reuera Ray- 
+       <lb ed="#B" n="19"/>mundus in Summa sua, vnica sententia danmnationis inuoluit omnes dicens. De quibusdam autem qui tempore messis vel vin  
+       <lb ed="#B" n="20"/>demiae emunt annonam: vt postea vendant carius: dico quod peccant &amp; turpe lucrum est: secus si aliquis propter 
+       <lb ed="#B" n="21"/>necessitatem emat &amp; postea non indiget sicut credebat. hic potest licite vendere prout communiter venditur in foro: 
+       <lb ed="#B" n="22"/>licet vendatur carius quam emerit. Salua pace sua non opertet sic generaliter danmnare omnes qui emunt res vtiles &amp; ne 
+       <lb ed="#B" n="23"/>cessarias: puta pannum, bladum, equum, &amp; caetera huiusmodi, non vt eis vtantur: sed vt lucrentur: &amp; de lucro viuant. bene 
+       <lb ed="#B" n="24"/>enim verum est quod talia mercimonia quibus quis emit aliquam: non vt vtatur eis: sed vt reuendat &amp; vt lucretur, ratione cu 
+       <lb ed="#B" n="25"/>piditati nimiae multiplicandi pecunias: ad quod non est commutatio emptionis &amp; venditionis instituta: sed ad ne- 
+       <lb ed="#B" n="26"/>cessariam conmutationem faciendam propter necessaria vitae habenda: vt praedictum est: bene praesent omnia esse peccata: ratione tamen 
+       <lb ed="#B" n="27"/>formae conmutationis &amp; contractus non oportet. aequaliter enim potest custodire medium &amp; aequum iustitiae: ne plus 
+       <lb ed="#B" n="28"/>emat pro tempore &amp; loco neque vendat: qui emit ad reuendendum, sicut &amp; ille qui emit ad vtendum, &amp; aeque faci 
+       <lb ed="#B" n="29"/>liter vterque potest in emendo fraudem conmittere vnus sicut alter. quia tamen mercatio immediate &amp; per se ordinatur 
+       <lb ed="#B" n="30"/>ad pecuniarum acquisitionem, &amp; vt in pluribus ad ipsarum congregationem quid est cupiditatis: licet secundario 
+       <lb ed="#B" n="31"/>mercator potest pecunias acquisitas ordinare ad necessarios vsus: emptio autem non vt reuendatur emptum per  
+       <lb ed="#B" n="32"/>se est ad necessarium vsum non ad pecuniarum congregationem: licet secundario de empto potest emptor intem 
+       <lb ed="#B" n="33"/>dere aliquando facere pecuniam: ipsa mercatio quae aliquid emitur vt reuendatur, magis est detestanda ex intentione  
+       <lb ed="#B" n="34"/>ementis &amp; modo negotiationis quae mens nimium occupatur: quam sit ipsa emptio: vt emptor vtatur re empta &amp; de 
+       <lb ed="#B" n="35"/>illa accipiat pecuniam vt emat rem aliam quam vtatur similiter sibi magis necessariam. propter quid <name ref="#Aristotle">Philosophus</name> in primo Po 
+       <lb ed="#B" n="36"/>liticae, distinguens species acquisitiuas pecuniarum, dicit quod mercatiua est magis translatiue dicta. Illam autem pecu 
+       <lb ed="#B" n="37"/>niatiuam quae pecunia accipitur de rebus ad vsum necessariis: vt alia vtilia emantur: vocat pecuniatiuam  
+       <lb ed="#B" n="38"/>vtilem. Ne ergo generaliter omnes ementes vt reuendant, inuoluamus in smima danmnationis propter modum negotiati 
+       <lb ed="#B" n="39"/>onis: poesderanda sunt verba Chrysostomi quibus dicit. Qui comparat rem vt ipsam integram &amp; immutatam dando  
+       <lb ed="#B" n="40"/>lucretur, ille mercator est qui de templo dei eiicitur. vt rem illam dicamus immutatam quae omnino manet immutata in manu  
+       <lb ed="#B" n="41"/>ementis, &amp; ratione suae substantiae, &amp; ratione loci: &amp; ratione temporis: &amp; ratione ipsius ementis. Sic enim istis tribus modis 
+       <lb ed="#B" n="42"/>immutatam rem, &amp; siquis alius rationabiliter possit apponi: carius vendere omnino peccatum est secundum modum praedictum. Si 
+       <lb ed="#B" n="43"/>tamen aliquo dictorum trium modorum fuerit mutata: carius ponst vendi: non vendendo principaliter ipsam rem: sed  
+       <lb ed="#B" n="44"/>quid actum est circa ipsam per illam mutationem: secundum quod ipse Chrysostomus de vna mutatione euidentiori po- 
+       <lb ed="#B" n="45"/>nit exemplum: de fabro qui ferrum emit &amp; facit ex eo ferramentum: quod vendit carius non vendendo carius ipsum fer 
+       <lb ed="#B" n="46"/>rum: sed vltra praetium ferri vendendo opus suum. &amp; sic ipsum ferramentum compositum ex ferro &amp; forma artis ve 
+       <lb ed="#B" n="47"/>dit carius quam emit ferrum. Et licet solum de vna mutatione ponat exemplum: alias non excludit, immo manet ea- 
+       <lb ed="#B" n="48"/>dem ratio in aliis: vt carius vendatur non ipsum primum emptum: sed super praetium ipsius vendatur id quod mutatum &amp; innoua 
+       <lb ed="#B" n="49"/>tum est circa rem, &amp; sic totum carius vendatur quam primo emptum sit: verbi gratia, in mutatione rei, &amp; ratione loci. se- 
+       <lb ed="#B" n="50"/>cundum enim quod dicit <name ref="#Aristotle">Philosophus</name> in primo Politicae: ad acquirendum pecuniam vtile est esse expartum circa possessibilia, quaelia in  
+       <lb ed="#B" n="51"/>quibus locis sunt rara &amp; praetiosa. alia enim in aliis regionibus abundant: &amp; quia omne rarum praetiosum. Vnde quae abundant in vna re- 
+       <lb ed="#B" n="52"/>gione: &amp; ideo sunt vilia: si transferantur ad aliam regionem vbi sunt rara, iam per loci mutationem facta sunt ibi praetio 
+       <lb ed="#B" n="53"/>sa. Et ideo sicut faber potest carius vendere ferramentum quam emptum fuerat ferrum, vendendo super praetium  
+       <lb ed="#B" n="54"/>ferri ipsum opus artis in ferro: sic mercator potest carius vendere merces translatas quam merces ipsae 
+       <!--95.xml-->
+       <pb ed="#B" n="27-v"/>
+       <lb ed="#B" n="1"/>nudae emptae fuerunt: vendendo super praetium mercium ipsam translationem. Et secundum hoc cum iuxta 
+       <lb ed="#B" n="2"/>Philosophum duae sint species mercatiuae scientiae merces transferendi de loco ad locum: Prima naucleria: quae exercetur 
+       <lb ed="#B" n="3"/>transferendo merces nauibus per mare: Secunda fortigia: quae exercetur transferendo merces equis &amp; mulis per 
+       <lb ed="#B" n="4"/>terras: Naucleria habet maiorem excrescentiam, &amp; facit maius lucrum pecuniarum: quia citius &amp; sub mino-  
+       <lb ed="#B" n="5"/>ribus expensis transfert merces ad loca remotiora in quibus fuerint magis praetiosae. Similiter in mutatione rei ratio 
+       <lb ed="#B" n="6"/>ne temporis: sicut in mutatione ratione loci. Sicut enim vtile est ad acquirendam pecuniam esse expartum circa possessi 
+       <lb ed="#B" n="7"/>bilia: qualia in quibus locis sunt rara &amp; praetiosa: quia in aliis &amp; aliis locis alia &amp; alia abundant, vt dictum est: 
+       <lb ed="#B" n="8"/>ita vtile est ad acquirendum pecuniam esse expartum qualia in quibus temporibus sunt rara &amp; praetiosa. alia enim in aliis 
+       <lb ed="#B" n="9"/>temporibus abundant. &amp; ideo empta vilius in tempore quo abundant: quando sunt vilia: custodita in aliquae tempus quando 
+       <lb ed="#B" n="10"/>sunt rara: iam per custodiam temporis facta sunt praetiosa: &amp; vendi praesent carius: sicut dictum est de translatis per loca. Si 
+       <lb ed="#B" n="11"/>militer &amp; in mutatione rei ratione ementis, &amp; hoc ratione industriae eius. vtile enim est vt dicit Philosophus, expartum esse 
+       <lb ed="#B" n="12"/>circa possessibilia quaelia sunt praetiosissima, vt puta equorum, boum, aut ouium, &amp; caeterorum animalium. Quod enim estprae 
+       <lb ed="#B" n="13"/>tiosius, carius vendi potest. Vnde si aliquis in foro vbi venduntur equi expertissimus sit circa equorum praetiositatem, 
+       <lb ed="#B" n="14"/>&amp; scit ipsos intercognoscere: vt in emendis equis quilibet certificari possit circa praetiositatem equorum: si decer 
+       <lb ed="#B" n="15"/>nat inter equos qui secundum commnem cursum fori valeant praetium quo offeruntur a venditore: aliis hoc ignoranti 
+       <lb ed="#B" n="16"/>bus: quia circa equorum valorem minus exparti sunt: si ille peritus equorum equos illos valentes praetium suum emat, 
+       <lb ed="#B" n="17"/>&amp; cum eos emerit: alii cognoscentes eius industriam circa equos statim certificati per eum &amp; eius industriam 
+       <lb ed="#B" n="18"/>sciunt quod equi illi valent praetium suum, &amp; ex hoc per opus industriae eius circa equos statim facti sunt praetiosio 
+       <lb ed="#B" n="19"/>res vt illis magis valeant propter securitatem valoris iusti quam prius: sic propter talem mutationem aestima 
+       <lb ed="#B" n="20"/>tionis circa valorem equorum bene potest iste statim equos suos aliquantulum carius vendere supra primum praetium 
+       <lb ed="#B" n="21"/>equorum vendendo opus industriae suae: quid circa equos illos exercuit in emendo eos. Istis igitur modis lici 
+       <lb ed="#B" n="22"/>tum est vilius emere, &amp; carius vendere: non ipsam rem nudam: sed immutatam dictis modis vel aliis consimilibus 
+       <lb ed="#B" n="23"/>si inueniantur. 
+      </p>
+      <p xml:id="n3av8a-c1e617-d1e454">
+       PER iam dicta patent obiecta.
+      </p>
+      <p xml:id="n3av8a-c1e617-d1e457">
+       Ad primum, quod vilius emens vt carius vendat est mercator qui 
+       <lb ed="#B" n="24"/>eiicitur de templo: Dicendum quod verum est quando carius vendit rem in nullo immutatam: non autem quando vendit eam muta 
+       <lb ed="#B" n="25"/>tam: vt dictum est.
+      </p>
+      <p xml:id="n3av8a-c1e617-d1e464">
+       Ad secundum: quod vilius emens, &amp; carius vendens aut emit minus iusto praetio: aut vendit:  
+       <lb ed="#B" n="26"/>Dicendum quod verum: quando res in nullo est mutata: quando vero est mutata aliquo dictorum modorum, non est verum 
+       <lb ed="#B" n="27"/>vnde si multis equis in multis nauibus deductis ad portum aliquis emat vnum equum iusto praetio iuxta pretium 
+       <lb ed="#B" n="28"/>equorum in praesenti venalium: si statim omnes habentes equos venales extollant vela, &amp; cum equis suis recedant, 
+       <lb ed="#B" n="29"/>&amp; propter raritatem ille vnus equus factus sit carior: non est illicitum vt statim eum multo plus vendat 
+       <lb ed="#B" n="30"/>quam emit, propter solius horae immutationem circa equum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

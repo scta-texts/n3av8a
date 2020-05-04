@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 29</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 29</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="294-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3078">
+       <head xml:id="n3av8a-c1e3078-Hd1e96">Quaestio 29</head>
+       <p xml:id="n3av8a-c1e3078-d1e99">
+        <lb ed="#B" n="35"/>CIrca secundum arguitur: quod habere bona aliqua in conmuni diminuat de perfectione, quia  
+       <lb ed="#B" n="36"/>cum abdicatio bonorum temporalium ponit perfectionem, &amp; summa abdicatio ponit summam per  
+       <lb ed="#B" n="37"/>fectionem, &amp; econuerso. sed habere bona in coni diminuit aliquid a summa abdicatione  
+       <lb ed="#B" n="38"/>quia deficit ab illa: quia aliqua est maior, vt qua abdicantur propria &amp; communia omnino. 
+       <lb ed="#B" n="39"/>ergo &amp; deficit &amp; diminuit aliquid de summa perfectione. ergo &amp; de perfectione sim- 
+       <lb ed="#B" n="40"/>pliciter. Contra. laco id ist super illud, Et diues in itineribus suis, dicit glos. Diuitem vo 
+       <lb ed="#B" n="41"/>cat qui totam spem habet in diuitiis. Non enim nocet habere diuitias, sed ama-  
+       <lb ed="#B" n="42"/>re. sed si diminueret de perfectione, noceret. ergo &amp;c. Suppositis determinatis in quaestione praecedenti de 
+       <lb ed="#B" n="43"/>ipsa perfectione &amp; perfectionis statu: sciendum est ergo primo: quod habere bona communia non diceretur 
+       <lb ed="#B" n="44"/>diminuere de perfectione nisi esset opus alicuius imperfectionis: cuius contrarum. scilicet abdicare commu 
+       <lb ed="#B" n="45"/>nia, esset opus alicuius perfectionis contrariae illi imperfectioni quam ponit possessio communium bonorum 
+       <lb ed="#B" n="46"/>Propter quod sciendum quod aliquid dicitur opus perfectionis tripliciter. Primo, quia procedit a perfecto secundum  
+       <lb ed="#B" n="47"/>quod perfectus est. &amp; sic opus perfectionis est opus praelatorum in regimine subditorum. Rectores enim 
+       <lb ed="#B" n="48"/>aliorum esse non debent nisi iam perfecti. dicente Grego. super Ezechie. par. i. homil. xi. Cui aliena cura con 
+       <lb ed="#B" n="49"/>mittitur, speculator vocatur, vt in mentis altitudine sedeat, atque vocabulum nominis ex virtute actionis trahat.  
+       <lb ed="#B" n="50"/>Secundo modo di opus perfectionis, quia perfectionem plus caeteris causat, quemadmodum opus perfectionis dicitur opus ma 
+       <lb ed="#B" n="51"/>gnae excellentiae, quia pilus proficit facere vnum opus tale quam plura parua, vt semel fortiter mori pro iustitia, quam plu 
+       <lb ed="#B" n="52"/>ries vincere. secundum philosophum. iiii. physi. Tertio modo dicitur aliquid opus perfectionis, quia est instrumen 
+       <lb ed="#B" n="53"/>tum efficiendi perfectionis statum, quemadmodum proprietaria dimittere propter deum opus perfectionis di, non quia  
+       <lb ed="#B" n="54"/>procedit a iam perfecto: neque quia iam facit perfectum, vt patet ex supra determinatis: sed quia sine 
+       <!--629.xml-->
+       <pb ed="#B" n="294-v"/>
+        <lb ed="#B" n="1"/>ipsa non est perfectionis status, eo quod fine ipsa non est homo dispositus, omnibus impedimentis abiectis, vt 
+       <lb ed="#B" n="2"/>ipsam perfectionem sibi acquirat. Propter hoc enim expedit &amp; melius est propria dimittere quam reti- 
+       <lb ed="#B" n="3"/>nere, vt determinatum est supra. Vnde super illud Luc. xiiii. Omnis ex vobis qui non renunciat omni 
+       <lb ed="#B" n="4"/>bus quae possidet non potest meus esse discipulus. dicit Glossa. Hoc distat inter renunciare omnibus 
+       <lb ed="#B" n="5"/>&amp; relinquare omnia: quia renunciare omnibus conuenit illis qui ita licite vtuntur mundanis quae possident, vt tamen men 
+       <lb ed="#B" n="6"/>te tendant ad aeterna. Relinquere omnia est tantummodo perfectorum: qui omnia temporalia postponunt: &amp; solis aeter 
+       <lb ed="#B" n="7"/>nis inhiant. Perfectorum intellige, hoc est tendentium sine impedimento ad perfectionem: quia iam 
+       <lb ed="#B" n="8"/>sunt in statu perfectionis. Sicut enim vt dictum est supra, aliud est perfectio: aliud vero status per 
+       <lb ed="#B" n="9"/>fectionis: sic aliud est esse perfectum: aliud vero esse in statu perfectionis. Perfectio enim qua quis est 
+       <lb ed="#B" n="10"/>perfectus, non necessario requirit abrenunciationem rerum: sed solummodo mentis interiorem. secundum quod  
+       <lb ed="#B" n="11"/>dicit Chrysostomus vbi supra. lob diues non pecuniae seruiebat: sicut patrimonii dispensator, ita 
+       <lb ed="#B" n="12"/>omnia illa possidebat. Esse vero in statu perfectionis: vel potius ipse status perfectionis potest consi- 
+       <lb ed="#B" n="13"/>stere in sola exteriori abdicatione: etsi non sit omnino interior. quia vt dicit quaedam glos. Margi. facii 
+       <lb ed="#B" n="14"/>lius saccus contemnitur quam voluntas. &amp; <name ref="#Augustine">Augustinus</name> super psal. lxxi. Sunt quidam qui facilius omnia sua pau 
+       <lb ed="#B" n="15"/>peribus distribuunt quam ipsi pauperes Christi fiant, quia non sunt humiles, sed superbi. Propter quod vt 
+       <lb ed="#B" n="16"/>dictum est supra, Pauper in turba quaeritur, &amp; vix inuenitur. &amp; super psal. xlviii. Pauperes &amp; diuites 
+       <lb ed="#B" n="17"/>in corde interrogat deus, non in arca. Existens autem in statu perfectionis, postquam propria abdicauerit 
+       <lb ed="#B" n="18"/>cum necessariis victui semper indigeat, necesse est vt illa ab aliquo habente &amp; possidente ea recipiat 
+       <lb ed="#B" n="19"/>nisi de solis terraenascentibus haerbis &amp; frugibus viuat. Accipere autem ab aliis necessaria, validis nisi 
+       <lb ed="#B" n="20"/>pro labore aliquo non licet. quia vt dicitur. ii. Thesc. vltimo. Siquis non vult operari, non manducet. Quid  
+       <lb ed="#B" n="21"/>licet vt dicit glos. intelligitur de opere manuali: necessaria tamen potest quis accipere, vel pro labo- 
+       <lb ed="#B" n="22"/>re corporali, vel spirituali. Secundum enim quod dicit Nicolaus papa in expositione regulae fratrum mino- 
+       <lb ed="#B" n="23"/>rum, vacantes studio, vel diuinis officiis &amp; ministeriis exequendis, manuali labori siue operi subiacere non 
+       <lb ed="#B" n="24"/>oportet, cum exemplo Christi &amp; multorum sanctorum patrum iste spiritualis illi praeponderet: quanto quaesunt 
+       <lb ed="#B" n="25"/>animae, corporalibus praeferuntur. Pro labore spirituali potest quis accipere vnde viuat, dupliciter. vel potestate, quia  
+       <lb ed="#B" n="26"/>cilicet laborat in ministerio publico populum purgando, illuminando, perficiendo: secundum Dioni. v. cap. eccle- 
+       <lb ed="#B" n="27"/>siasticae hierarchiae. vel mendicitate, vt laborans in obsequio priuato pro populo intercedendo. sm <name ref="#Augustine">Augustinus</name> de 
+       <lb ed="#B" n="28"/>opere monachorum. Primo modo accipiunt praelati, secundo religiosi. Qui dupliciter accipiunt, siue pro 
+       <lb ed="#B" n="29"/>opere manuali, siue mendicatione pro opere spiritali, de quibus ad praesens non distinguo. Quidam autem  
+       <lb ed="#B" n="30"/>accipiunt ad praecisum vsum instantis necessitatis tantum, qui abrenunciant omnibus temporalibus &amp; in pro  
+       <lb ed="#B" n="31"/>prio &amp; in communi: quidam autem cum hoc custodiendo aliquid ad necessitatem temporis futuri,. 
+       <lb ed="#B" n="32"/>qui etsi abrenunciant propriis: non tamen abrenunciant communibus, sed possident &amp; retinent ea: &amp; 
+       <lb ed="#B" n="33"/>hoc vel mobilia tantum, vel simul mobilia &amp; immobilia, de quibus proposita est quaestio, vtrum hatrne commnia di-  
+       <lb ed="#B" n="34"/>minuat aliquid in eis de persectione: &amp; hoc non de perfectione vitae interiori ex parte animae, quia. scilicet 
+       <lb ed="#B" n="35"/>possit esse simul cum possessione communium: quia constat quod etiam habere propria nihil de interiore perfectio- 
+       <lb ed="#B" n="36"/>ne diminuebat in Abraham, lob, &amp; aliis sanctis patribus: quare nec diminuit hatene bona communia: sed  
+       <lb ed="#B" n="37"/>quare de persectione, vt nominat perfectionis statum quo homo disponitur vt expeditius possit sibi animae  
+       <lb ed="#B" n="38"/>perfectionem acquirere: quam vt supra dictum est. constituit propriorum abrenunciatio, vt sine qua non  
+       <lb ed="#B" n="39"/>habet existere: quae cum sit exterius corporaliter, etiam debet respondere interior spiritualiter, vt sicut nihil 
+       <lb ed="#B" n="40"/>proprium possidet, vel possidere potest, sic nec possidere velit: nec etiam acquirere vt possideat. Quod totum 
+       <lb ed="#B" n="41"/>fit vt liberior sit facultas subtrahendi animum a cura &amp; sollicitudine praeternecessaria in custodien- 
+       <lb ed="#B" n="42"/>do ac procurando ea quae sunt necessaria vitae: ad quae magis solent mentem astringere bona, proprietaria. Pro- 
+       <lb ed="#B" n="43"/>pter quid etiam in possidendo, aut non possidendo commnia: considerandum est cui eorum nata sit annexa esse 
+       <lb ed="#B" n="44"/>maior aut minor cura &amp; sollicitudo. Generaliter enim quantum conditio statum liberiorem reudita 
+       <lb ed="#B" n="45"/>cura &amp; sollicitudine, maxime praeternecessaria non solum distractionis, sed &amp; prouidentiae, tanto est perfectior &amp; 
+       <lb ed="#B" n="46"/>magis idoneus vt in eo acquiratur perfectio animi. Est autem circa temporalia siue sint propria, fiuecomnia 
+       <lb ed="#B" n="47"/>in futurum reseruata, siue ad vsum facti pro instanti hora tantummo accepta, cura siue sollicitudo in duo  
+       <lb ed="#B" n="48"/>bus. Quorum vnum est in temporalia bona ad vsum futurum custodiendo siue possidendo: alterum in  
+       <lb ed="#B" n="49"/>eadem ad vsum necessarium praesentem, siue etiam futurum acquirendo siue procurando. Ab vtraque  
+       <lb ed="#B" n="50"/>enim oportet per statum perfectionis elongari quantum possibile est salua debita sustentatione naturae, qui tanto 
+       <lb ed="#B" n="51"/>perfectior erit quanto ex conditionibus status maior est opportunitas elongandi se ab illa, &amp; tanto imper 
+       <lb ed="#B" n="52"/>fectior quanto maior est necessitas implicandi se illi. Elongando enim a prima, disponitur animus vt 
+       <lb ed="#B" n="53"/>totum amorem suum conuertat ad aeterna. Elongando vero a secunda, disponitur vt in actu dilectionis circa illa se 
+       <lb ed="#B" n="54"/>conseruet, &amp; ab eis non diuertat propter quod vbi ista duo abundantius inueniuntur, &amp; status ille perfectioresm. Et si status 
+       <!--630.xml-->
+       <pb ed="#B" n="295-r"/>
+        <lb ed="#B" n="1"/>aliquis abundat in vno eorum, &amp; alter in altero: vbi ambobus libratis secundum proportionem hincinde, li- 
+       <lb ed="#B" n="2"/>berius custoditur homo in amore aeternorum, atque eleuatur in eundem, ille proculdubio perfectior est: &amp; 
+       <lb ed="#B" n="3"/>alter patitur in aliquo diminutionem. Et sunt circa hoc ab antiquo tres opiniones contrariae: Duae 
+       <lb ed="#B" n="4"/>quae aspiciunt ad sollicitudinem in requirendo necessaria non habita. Tertia vero quae aspicit ad ab  
+       <lb ed="#B" n="5"/>dicationem eorum quae sunt habita, vel possibilia haberi: &amp; per hoc ad sollicitudinem in habita custodi 
+       <lb ed="#B" n="6"/>endo. Primi enim dicunt quod habere per prouisionem bona mobilia modica ad modici temporis necessitatem 
+       <lb ed="#B" n="7"/>minoris est sollicitudinis quam habere in conmuni possessiones immobiles: quia de illis non sine magna sollici- 
+       <lb ed="#B" n="8"/>tudine &amp; distractione percipiuntur fructus ad vsum necessarium. quod est etiam vt dicunt minoris sollicitudinis 
+       <lb ed="#B" n="9"/>quam nihil omnino nec in proprio nec in comoni habere: vbi oportet de die in diem necessaria quaerere: nec semel quaesi 
+       <lb ed="#B" n="10"/>ta vnica prouisione custodire. Hoc enim vt dicunt imponit necessitatem semper aequaliter continuandi &amp; iteram 
+       <lb ed="#B" n="11"/>di sollicitudinem. Secundi dicunt quod aliis eisdem retentis, de bonis communibus immobilibus, vt agris vineis &amp; 
+       <lb ed="#B" n="12"/>huiusmodi, multo minore sollicitudine accipiuntur necessaria vitae in aequalibus expensis: quam totum emungere de 
+       <lb ed="#B" n="13"/>eleemosynis &amp; bursis aliorum: vt sic possessio conium immobilium potius adaugeat statum perfectionis super sta 
+       <lb ed="#B" n="14"/>tum aliorum: quam diminuat. Tertii dicunt: quod cum dimittere propter deum bona temporalia per se constituat statum 
+       <lb ed="#B" n="15"/>perfectionis amouendo sollicitudinem circa habita: plus ergo dimittere est maioris perfectionis: quia talis plus 
+       <lb ed="#B" n="16"/>se elongat a temporalium amore. 
+      </p>
+      <p xml:id="n3av8a-c1e3078-d1e312">
+       REuera nihil velit habere nisi ad vsum, &amp; ab omni dominio possessorum &amp; 
+       <lb ed="#B" n="17"/>possidendorum se expedire per omnimodam abdicationem: multum de illa sollicitudine subtrahit quae consistit 
+       <lb ed="#B" n="18"/>in possidendo mobilia tantum: aut cum illis etiam immobilia. Igitur si aspiciamus ad abdicationem &amp; sollicitudinem 
+       <lb ed="#B" n="19"/>quae nata est esse in temporalia possidendo: Dicendum est quod multo persectior est status nihil habentium 
+       <lb ed="#B" n="20"/>nec in proprio nec in commoni, quam aliquid habentium: &amp; magis sunt quo ad hoc isti expediti ad conuertendum to- 
+       <lb ed="#B" n="21"/>tum amorem suum in deum quam alii. Propter quid dominus Papa Nicolaus in expositione regulae praedictae dicit: quod  
+       <lb ed="#B" n="22"/>abdicatio proprietatis omnium rerum tam in speciali quam etiam in conmuni propter deum, meritoria est &amp; sancta. 
+       <lb ed="#B" n="23"/>Quam &amp; Christus viam perfectionis ostendens verbo docuit, &amp; exemplo firmauit: quamque primi fundatores mi 
+       <lb ed="#B" n="24"/>litantis ecclesiae, prout ab ipso fonte hauserunt, in volentes perfecte viuere, per doctrinae, &amp; vitae ipsorum  
+       <lb ed="#B" n="25"/>alueos deriuauerunt. &amp; infra. Verum condecens fuit ei professioni quae sponte deuouit Christum pauperem in tan 
+       <lb ed="#B" n="26"/>ta paupertate sectari: omnium abdicare dominium, &amp; rerum sibi concessarum necessario vsu fore contentam. &amp; 
+       <lb ed="#B" n="27"/>infra. Patet itaque regulam quo ad abdicationem huiusmodi non solum obseruabilem, possibilem, &amp; licitam: sed me 
+       <lb ed="#B" n="28"/>ritoriam &amp; perfectam: &amp; eo magis meritoriam quo per ipsam professores ipsius magis a temporalibus propter deum  
+       <lb ed="#B" n="29"/>elongantur. Ecce quia dicit &amp; proculdubio verum dicit regulam talem quo ad huiusmodi abdicationem meritoriam &amp; 
+       <lb ed="#B" n="30"/>perfectam: &amp; non solum meritoriam &amp; perfectam: sed &amp; eo magis meritoriam: quo &amp;c. &amp; ex hoc in rei veritate ma 
+       <lb ed="#B" n="31"/>gis perfectam. immo simpliciter perfectam, quantum est de perfectione regulae ex parte contentorum in illa. Quia licet duplex 
+       <lb ed="#B" n="32"/>subtractio sollicitudinis facit statum perfectionis vt dictum est: tamen plus efficit ipsum subtractio sollicitudi 
+       <lb ed="#B" n="33"/>nis ex omnimoda abdicatione: quia plus solet animus affici circa iam acquisita &amp; possessa: quam circa acqui-  
+       <lb ed="#B" n="34"/>renda. dicente <name ref="#Augustine">Augustinus</name> in epistola ad Paulinum &amp; Therasiam. Terrena diliguntur acrius adepta quam cupita constrin 
+       <lb ed="#B" n="35"/>gunt. Ista enim velut membra praeciduntur: illa velut extranea repudiantur. Propter quid etiam illa sollicitudo 
+       <lb ed="#B" n="36"/>quae subtrahitur per rerum abdicationem:caed scilicet erat in custodiendo &amp; possidendo: cadit sub professione vnius vo- 
+       <lb ed="#B" n="37"/>ti principalis in regula content scilicet paupertatis. Illa autem quae consistit in necessaria vitae acquirendo &amp; procurando  
+       <lb ed="#B" n="38"/>relinquitur conscientiae singulorum: vt super hoe scilicet curam gerant sicut necessitati viderint expedire: vt dicitur in  
+       <lb ed="#B" n="39"/>regula beati Francisci. Et hoc ideo, quia sine ista sollicitudine non potest esse humana infirmitas. Potest tamen  
+       <lb ed="#B" n="40"/>esse sfine omni sollicitudine in possidendo: sicut &amp; sine omni possessione. Quo ad ius dico, &amp; dominium  
+       <lb ed="#B" n="41"/>in rebus. 
+      </p>
+      <p xml:id="n3av8a-c1e3078-d1e372">
+       EST igitur in hoc talis professio seu regula perfectior caeteris habentibus aliquid in comni: quo vt dicit 
+       <lb ed="#B" n="42"/>Nicolaus papa, professores eius ad nonnulla euangelica consilia eo magis secundum exigentiam sui status 
+       <lb ed="#B" n="43"/>tenentur plus quam caeteri christiani: quo per statum perfectionis quem per professionem huiusmodi assumpserunt, se obtulerunt 
+       <lb ed="#B" n="44"/>holocaustum domino medullatum per contemptum omnium mundanorum. In quo impletur praecipue Christi consilium de non 
+       <lb ed="#B" n="45"/>esse sollicitum. Non ei dominus consuluit simpliciter, &amp; in summa non esse sollicitum: sed determinauit cum dixit. Nolite 
+       <lb ed="#B" n="46"/>solliciti esse in crastinum: vt videlicet non sit cura aut sollicitudo prouisionis nisi pro necessitate instan  
+       <lb ed="#B" n="47"/>tis temporis: vt scilicet cuilibet tempori tantum sollicitudinis exhibeatur quantum praesens necessitas requirit, non plus. quid si 
+       <lb ed="#B" n="48"/>gnificauit Christus cum subiunxit. Crastinus enim dies sollicitus erit sibiipsi. sufficit enim diei, cuilibet scilicet mali 
+       <lb ed="#B" n="49"/>tia sua. scilicet non eget alterius. Malitiam secundum Chrysost. appellat miseriam &amp; laborem sollicitudinis in prouidendo  
+       <lb ed="#B" n="50"/>de necessariis vniuscuiusque diei, quo satis homo oneratur: etsi vnum diem non oneret cura prouisionis pro plu- 
+       <lb ed="#B" n="51"/>ribus, quia vt dicit Greti. in fine. ix. mora. ab ea tunc mortifero vulnere pungitur cum in ea mensurae aequ-  
+       <lb ed="#B" n="52"/>tas non tenetur. Non enim mortali adhuc in carne viuentibus funditus cura carnis abscinditur: sed vt dis 
+       <lb ed="#B" n="53"/>crete animo conseruetur temperantia. Nam quia sollicitos nos esse veritas in crastinum prohibet, habere curam 
+       <lb ed="#B" n="54"/>in praesentibus non negat: quam extendi ad tempus quod post sequitur, vetat. Quia vt dicit libro xx. cum naturae  
+       <!--631.xml-->
+       <pb ed="#B" n="295-v"/>
+        <lb ed="#B" n="1"/>necessitatibus plaerunque plus quam expedit deseruimus: mentisque curam negligimus: ex miseria negli- 
+       <lb ed="#B" n="2"/>gentiae infirmitati nostrae addimus squalorem culpae. Sed licet status abdicantium omnia omnino per  
+       <lb ed="#B" n="3"/>fectior sit caeteris quo ad subtractionem sollicitudinis quae nata est esse in possidendo &amp; custodiendo ad  
+       <lb ed="#B" n="4"/>posteriorem vsum iam habita: potest tamen esse multo imperfectior, quo ad sollicitudinem inseparabiliter &amp; 
+       <lb ed="#B" n="5"/>necessario annexam circa acquisitionem ad necessarium victum, iliorum quae non sunt habita: secundum quod erat tactum in quae  
+       <lb ed="#B" n="6"/>stione praecedenti: &amp; vsque ad istam reseruatum. Vnde suppositis determinatis in praecedenti quaestione, quo ad illa quae  
+       <lb ed="#B" n="7"/>ex eis sunt opportuna in praecedenti quaestione, si velimus scire quae obseruantia secundum quem statum persectior 
+       <lb ed="#B" n="8"/>sit ex vtroque latere: tam ex parte abdicationis &amp; sollicitudinis quae nata est esse in possidendo: quam ex par 
+       <lb ed="#B" n="9"/>te sollicitudinis in acquirendo, siue procurando per sollicitudinem necessaria vel de comoni, vel omnino de 
+       <lb ed="#B" n="10"/>alieno: oportet ista duo inter se comparare, &amp; in statera ponere. Et est sciendum: quod ista duo compara- 
+       <lb ed="#B" n="11"/>re possumus vno modo comparando simpliciter vnum istorum ad alterum: quaerendo quid illorum con- 
+       <lb ed="#B" n="12"/>stituat principalius statum perfectionis: propter quid dicitur illorum status simpliciter esse perfectior. Alio modo 
+       <lb ed="#B" n="13"/>comparando ista duo prout sunt secundum vnam proportionem in vno statu ad seipsa, vt sunt secundum aliam 
+       <lb ed="#B" n="14"/>proportionem in alio statu, &amp; ex illa comparatione considerare quis illorum debeat dici perfectior. Sl 
+       <lb ed="#B" n="15"/>ergo comparemus illa duo primo modo: dico quod principalius statum perfectionis constituit subtractio 
+       <lb ed="#B" n="16"/>sollicitudinis in possidendo &amp; custodiendo communia, quod sit per abdicationem: quam facit illa quae est in acqui  
+       <lb ed="#B" n="17"/>rendo ea quae sunt necessarii victus: &amp; quod idcirco quo ad hoc perfectior est ille status in quo est ma-  
+       <lb ed="#B" n="18"/>ior abdicatio: &amp; hoc ideo, quia delectabile siue amabile praesens &amp; habitum inquantum huiusmodi magis af- 
+       <lb ed="#B" n="19"/>ficit &amp; allicit quam non habitum: aut saltem ex se magis natum est afficere &amp; allicere. Et ideo maius est peri 
+       <lb ed="#B" n="20"/>culum circa sollicitudinem in custodiendo &amp; possidendo, quam in acquirendo. facilius enim cauet a delectatio 
+       <lb ed="#B" n="21"/>ne qui non habet illecebram delinquendi. Propter quod &amp; vna illarum cadit sub regula profitentium 
+       <lb ed="#B" n="22"/>status perfectionis: alia vero non: vt patet ex habitis superius. Melior igitur subtractio illius sollicitu- 
+       <lb ed="#B" n="23"/>dinis quam istius: quia illa est peior quam ista. Dico quantum est ex natura huius sollicitudinis &amp; illius sim 
+       <lb ed="#B" n="24"/>pliciter: licet ista intantum possit excedere illam quod ista est peior: &amp; ideo non subtracta plus de ratione per- 
+       <lb ed="#B" n="25"/>fectionis diminueret quam illa augeret: &amp; esset in hoc casu perfectior status in quo esset minor abdicatio 
+       <lb ed="#B" n="26"/>Veruntamen distinguendum est hic de bonis communibus respectu eorum quibus habent esse communia 
+       <lb ed="#B" n="27"/>quia aut sunt communia toti humano generi, &amp; nulli propria: neque etiam alicui congregationi singu- 
+       <lb ed="#B" n="28"/>lari distinctae contra alias sub humano genere: aut sunt communia singulis: &amp; in singulari &amp; distin-  
+       <lb ed="#B" n="29"/>cta congregatione commorantibus: propria tamen illi congregationi ad praecisum vsum illius deputata. Primo 
+       <lb ed="#B" n="30"/>modo non potest homo esse fine possessione communium: nec pro statu moderno: nec pro statu innocen 
+       <lb ed="#B" n="31"/>tiae. sic enim communia homini fuissent ad vsum in statu innocentiae terraenascentia: secundum quod dictum  
+       <lb ed="#B" n="32"/>est Adae &amp; Euae Gen. i. Ecce dedi vobis omnem haerbam afferentem semen super terram, &amp; vniuersa li- 
+       <lb ed="#B" n="33"/>gna quae habent in semetipsis sementem generis sui, vt sint vobis in escam, quae non sunt subtracta homi 
+       <lb ed="#B" n="34"/>ni in statu peccati: immo adhuc ampliora sunt expresse concessa: secundum quod dictum est Noe &amp; si 
+       <lb ed="#B" n="35"/>liis suis Gen. ix. Terror vester ac tremor sit supe cuncta animalia terrae, &amp; super omnes volucres caeli cum 
+       <lb ed="#B" n="36"/>vniuersis quae mouentur in terra. Omnes pisces maris manibus vestris traditi sunt: &amp; omne quod mouetur 
+       <lb ed="#B" n="37"/>&amp; viuit erit vobis in cibum, quasi olera virentia tradidi vobis omnia. Propter quid dicit Grego. secundo pastor.  
+       <lb ed="#B" n="38"/>De qua sumpti sunt cunctis hominibus terra conmunis est: &amp; idcirco alimenta communia omnibus profert. Et 
+       <lb ed="#B" n="39"/>Tullius. i. de offic. Sunt nulla priuata natura. Et hoc igitur modo conmunia nullo modo renuncianda sunt: immo 
+       <lb ed="#B" n="40"/>ius accipiendi necessaria de ipsis est omnibus naturale. decretorum dist id est lus naturale. &amp; in tempore necessi- 
+       <lb ed="#B" n="41"/>tatis omnibus debet esse conseruatum: vt dicit Grego. ii. Pasto. Cum quaelibet necessaria indigentibus mi- 
+       <lb ed="#B" n="42"/>nistramus: sua illis reddimus non nostra largimur: iustitiae potius debitum soluimus quam misericordiae ope 
+       <lb ed="#B" n="43"/>ra implemus. Aliter enim via omnibus communis iure policoncessa etiam in extremae necessitatis articulo 
+       <lb ed="#B" n="44"/>detentis ad prouidendum sustentationi naturae praeclunderetur: quid omnino illicitum esset: quia ab omni lege 
+       <lb ed="#B" n="45"/>extrema necessitas est excepta. Per hunc ergo modum possessio communium habendo ius in illis ni 
+       <lb ed="#B" n="46"/>hil penitus de perfectione, aut statu perfectionis diminuit: sed ipsam vtilis status humanae naturae  
+       <lb ed="#B" n="47"/>quamdiu hic vixerit homo circa glorificationem corporum requirit. Iuxta hunc modum, vel prope communia 
+       <lb ed="#B" n="48"/>sunt bona ecclesiae: quorum dispensatio ordinariis ministris eius est commissa. propter quid huiusmodi  
+       <lb ed="#B" n="49"/>bona communia vel penitus de animi perfectione, aut de statu perfectionis diminuunt: secundum quod sta-  
+       <lb ed="#B" n="50"/>tim infra dicetur. Si vero sint communia singulis in vna communitate existentibus: sed propria ipsi communitati 
+       <lb ed="#B" n="51"/>tunc aut illa communia sunt vsui diurnae necessitatis opportuna, &amp; hoc siue quo ad necessitatem victus, in quo  
+       <lb ed="#B" n="52"/>res statim cum vsu consumitur: siue quo ad necessitatem vestitus: siue quo ad necessitatem officiorum: in quibus res 
+       <lb ed="#B" n="53"/>non statim sed paulatiue cum vsu consumitur: aut illa communia non sunt vsui diurnae necessitatis necessaria:  
+       <lb ed="#B" n="54"/>&amp; ideo non nisi ad vsum crastini opportuna. Communia primo modo sunt cuilibet congregationi neces 
+       <!--632.xml-->
+       <pb ed="#B" n="296-r"/>
+        <lb ed="#B" n="1"/>saria: quemadmodum conmunia primo modo sunt necessaria toti congregationi humani generis. Et ideo  
+       <lb ed="#B" n="2"/>dico quod nullo modo possessio eorum pro toto tempore durationis eorum diminuit de ratione persectionis 
+       <lb ed="#B" n="3"/>immo non possidere ea: multum derogaret perfectioni: &amp; esset impeditiuum acquisitionis eius. 
+      </p>
+      <p xml:id="n3av8a-c1e3078-d1e535">
+       SED 
+       <lb ed="#B" n="4"/>distinguendum est de modo possidendi ea: quia aut congregatio sic communia possidet quo ad dominium  
+       <lb ed="#B" n="5"/>&amp; proprietatem: aut quo ad vsum facti tantum. Et dicunt aliqui quod possessio communium primo modo dimi- 
+       <lb ed="#B" n="6"/>nuit de apice persectioni:, quae est de possessione communium secundo modo: quia illo modo possidendo non  
+       <lb ed="#B" n="7"/>abrenunciatur omni ei quo non eget tanquam praeternecessario humana fragilitas. solum enim vt prae 
+       <lb ed="#B" n="8"/>dictum est, &amp; secundum Nicolaum Papam, simplici vsu facti eget tanquam necessario. Sed cum possessio 
+       <lb ed="#B" n="9"/>simplex vsus facti haberi non potest nisi alio retinente dominium, &amp; ipso concedente aliis vsum vel ad  
+       <lb ed="#B" n="10"/>voluntatem suam vel simpliciter: &amp; in omne tempus futurum: si ergo nullus vellet vsum talem con 
+       <lb ed="#B" n="11"/>cedere, &amp; merum dominium sibi reseruare, &amp; congregatio plurium fratrum in magna multitudine fine 
+       <lb ed="#B" n="12"/>tali possessione communium non posset simul persistere: non posset ergo apicem perfectionis attingere: &amp; sic 
+       <lb ed="#B" n="13"/>nullo modo talis persectio posset attingi nisi a paucis qui vagi esse vellent: qui tamen non possent esse si 
+       <lb ed="#B" n="14"/>ne possessione vestium necessariarum. Quare si attingi potest in congregatione magnae multitudinis fratrum 
+       <lb ed="#B" n="15"/>simul conmorantium: etiam nullo volente obseruare dominium rerum quaruncumque &amp; quantaruncumque: quarum vsu 
+       <lb ed="#B" n="16"/>indigent: ne dicamus perfectionem ab alio quam a deo &amp; nobis dependere siue pro praesenti siue pro fu- 
+       <lb ed="#B" n="17"/>turo: accidit ergo apici persectionis abrenunciare dominio talium rerum conmunium: &amp; sic per se &amp; essen 
+       <lb ed="#B" n="18"/>tialiter non diminuit de apice perfectionis possessio communium praedictorum quo ad dominium &amp; proprie 
+       <lb ed="#B" n="19"/>tatem: quemadmodum etiam non diminuit de perfectione praelatorum quod canonice commissa est eis bonorum com 
+       <lb ed="#B" n="20"/>munium procuratio pro se &amp; pro aliis: quam papa si vellet posset eis committere ad suam voluntatem ad vsum 
+       <lb ed="#B" n="21"/>facti, retinendo sibi omnino dominium &amp; possessionem. Quia tamen quando alius sibi seruat dominium: &amp; congregationi concedi 
+       <lb ed="#B" n="22"/>tur simplex vsus facti quae renunciauit omni dominio: plus elongatur illa congregatio a temporalium 
+       <lb ed="#B" n="23"/>amore &amp; occasione amandi ipsa: ideo quo ad hoc licet accidentaliter perfectius est secundum hunc modum abre- 
+       <lb ed="#B" n="24"/>nunciare communibus quo ad omne dominium &amp; esse contentum simplici vsu facti: ita quod quo ad hoc esset ad  
+       <lb ed="#B" n="25"/>huc amplior perfectio: quanto paucioribus esset communitas illa quo ad vsum facti contenta. Si vero conmu- 
+       <lb ed="#B" n="26"/>nia praedicto modo non sunt vsui diurno necessaria: sed superslua: &amp; non nisi ad vsum crastini opportu 
+       <lb ed="#B" n="27"/>na: aut ergo obtento eo vel per artem vel per mendicationem, quod vsui diurno est necessarium, continuo alia 
+       <lb ed="#B" n="28"/>sollicitudo adhibetur ad obtinendum illud quod est supsluum &amp; non opportunum nisi in crastinum: aut eadem 
+       <lb ed="#B" n="29"/>sollicitudine qua obtinetur necessarium, obtinetur &amp; superfluum. Si primo modo: dico quod illud cederet in per 
+       <lb ed="#B" n="30"/>fectionis diminutionem: quia per se adhibet curam de crastino &amp; plus debita cura onerat diem instantem. 
+       <lb ed="#B" n="31"/>Si secundo modo: dico quod illa oblata sunt aut mobilia aut immobilia. Si immobilia: dico quod diminuunt de ra 
+       <lb ed="#B" n="32"/>tione perfectionis propter nimiam sollicitudinem in affectione circa talia ad quam nata sunt allicere quantum  
+       <lb ed="#B" n="33"/>est ex se inquantum sunt habita. Si vero sunt mobilia tantum: dico quod in nullo diminueret de ratione perfectio- 
+       <lb ed="#B" n="34"/>nis ipsa reseruare in crastinum: sed potius diminueret ipsa non reseruare sed proiicere. Minori enim 
+       <lb ed="#B" n="35"/>sollicitudine iam acquisita custodiuntur vsque in crastinum quam tunc de nouo acquirerentur. Propter quod contra Ma 
+       <lb ed="#B" n="36"/>nicheos qui dicebant quod non liceret aliquid custodire in crastinum, dicit <name ref="#Augustine">Augustinus</name> in libro contra adimantium. ca. xxiiii. 
+       <lb ed="#B" n="37"/>neque hoc intelligunt ad id pertinere vt temporalia non amemus neque timeamus ne nobis desint ne 
+       <lb ed="#B" n="38"/>cessaria: &amp; propter ipsa acquirenda vel deo vel hominibus seruiamus. Nam si hoc ideo dictum est vt non serue 
+       <lb ed="#B" n="39"/>tur in crastinum panis: magis hoc implent vagi Romanorum quos passiuos appellant: qui a nona 
+       <lb ed="#B" n="40"/>quotidiana satiato ventre: aut donant statim quod restat aut proiiciunt: quam vel domini discipuli &amp;c. Sl autem  
+       <lb ed="#B" n="41"/>secundo modo principali diu supradicto comparemus inter se duas dictas sollicitudines circa possess. scilicet &amp; 
+       <lb ed="#B" n="42"/>circa acquirenda: tunc possunt duo status: quorum vnus abdicat plura vel conmunia: alter autem pau 
+       <lb ed="#B" n="43"/>ciora, &amp; retinet aliqua: comparari inter se quadrupliciter. Simul enim in eodem statu sunt id est aut maior ab-  
+       <lb ed="#B" n="44"/>dicatio &amp; minor sollicitudo: aut econverso minor abdicatio &amp; maior sollicitudo: aut maior abdica- 
+       <lb ed="#B" n="45"/>tio, &amp; maior sollicitudo: aut econtra minor abdicatio, &amp; minor sollicitudo. Si igitur in statu aliqua sit ma 
+       <lb ed="#B" n="46"/>ior abdicatio &amp; minor in acquirendo necessaria sollicitudo: ille status omnino est perfectissimus. Talibus. nm mi 
+       <lb ed="#B" n="47"/>nima cura est aut nulla de eis quae sunt mundi &amp; summa de eis quae sunt dei, perfecti sunt illi quasi non indigentes de 
+       <lb ed="#B" n="48"/>eis quae sunt mundi: nec sapiunt eis: secundum quod ad hoc hortatur fidelem animam Prosper libro i. de vita contemplati 
+       <lb ed="#B" n="49"/>ua sparsim dicens. Sectator ad conditorem suum ipsum iugiter concupiscat: pro amore eius omnia quibus inde potest 
+       <lb ed="#B" n="50"/>auerti fugiat, a strepitu negotiorum saecularium remotissimus: amet otium sanctum: in quo exerceat ani 
+       <lb ed="#B" n="51"/>mae suae negotium: non metuat aliquid temporale: nec cupiat: ne aut metus amittendae rei temporalis aut cu 
+       <lb ed="#B" n="52"/>piditas acquirendae intentionem mentis eius emolliat: nec gaudeat de temporalibus omnino: nec lugeat: nec pe 
+       <lb ed="#B" n="53"/>ctoris eius stabilitatem firmitatemque quicquid promittit mundus aut minatur excutiat: sed idem semper ac fi 
+       <lb ed="#B" n="54"/>bi similis perseuerans mundi huius damna aut lucra simul non sentiat. De quo etiam dicit Bernar.  
+       <!--633.xml-->
+       <pb ed="#B" n="296-v"/>
+        <lb ed="#B" n="1"/>in fine de amore dei. Cum fidelis anima inceperit non indigere: &amp; a corporalibus transire ad spiritualia, &amp; 
+       <lb ed="#B" n="2"/>a spiritualibus ad spiritualium &amp; corporalium conditorem: hoc vere est exire a sarcinis. Relicto ergo corpo 
+       <lb ed="#B" n="3"/>re &amp; corporeis omnibus curis &amp; impedimentis, omnium quae sunt praeter deum obliuiscitur: nihilque praeter 
+       <lb ed="#B" n="4"/>deum attendens: quasi se solam solumque deum aestimans, dilectus inquit meus mihi: &amp; ego illi. Quid enim mihi est in caelo &amp; 
+       <lb ed="#B" n="5"/>a te quid volui super terram: Defecit caro mea &amp; cor meum: deus cordis mei, pars mea deus inaeternum.  
+       <lb ed="#B" n="6"/>Demum venitur ad mortem, morte ergo corporali perfecte moritur mundo: vt perfecte viuat deo. 
+      </p>
+      <p xml:id="n3av8a-c1e3078-d1e670">
+       SI ve 
+       <lb ed="#B" n="7"/>ro in statu aliquo sit minor abdicatio &amp; maior sollicitudo: ille status est omnium illorum qui sunt 
+       <lb ed="#B" n="8"/>intra latitudinem perfectionis imperfectissimus: quis sit ille, iudicet qui poterit. Si vero in statu vno  
+       <lb ed="#B" n="9"/>sit maior abdicatio &amp; maior sollicitudo, quam sit in statu in quo est minor abdicatio: hic opus est disti 
+       <lb ed="#B" n="10"/>guere: vt statera ponatur in aequa lance: quia aut illa sollicitudo quae est maior cum maiore abdicatione, est 
+       <lb ed="#B" n="11"/>modicum maior, aut mediocriter maior, aut multum maior. Si primo modo: dico quod status ille maioris ab  
+       <lb ed="#B" n="12"/>dicationis adhuc est perfectior, aliis eisdem retentis in victualibus, &amp; aliis necessariis: quia non potest esse quod  
+       <lb ed="#B" n="13"/>aliis eisdem retentis scilicet quod ambo status vellent aequaliter esse contenti in necessariis vitae: quin omnia abdicantes 
+       <lb ed="#B" n="14"/>omnino, vel omnia immobilia abdicantes, reseruantes mobilia tantum, siue sustententur de his quae offeruntur eis libera- 
+       <lb ed="#B" n="15"/>liter, vel de his quae mendicantur humiliter, vel de his quae acquiruntur per manuum laborem: magis oportet sol 
+       <lb ed="#B" n="16"/>licitari circa necessaria vitae acquirenda, quam illos qui capiunt ea de possessionibus communibus immobilibus, 
+       <lb ed="#B" n="17"/>quas dant colonis ad censum: vel excolunt propriis sumptibus ac laboribus: nisi esset tale opus manuale: vt 
+       <lb ed="#B" n="18"/>de opere modici laboris multum acciperetur de praetio: vel nisi populus fidelium ita esset voluntarius: quod  
+       <lb ed="#B" n="19"/>vltro liberaliter offerret irrequisitus. Sed non est ita: quod poterunt experiri si velint: quamquam iuxta, promissum 
+       <lb ed="#B" n="20"/>saluatoris numquam deficiet fides ecculsiae: nec per consequens opera misericordiae subtrahentur. Quomodo enim communitas fide 
+       <lb ed="#B" n="21"/>lium liberaliter offerret, &amp; per durabiliter, propria: cum vix inuenitur qui vult dimittere aliena: Si enim oporteat 
+       <lb ed="#B" n="22"/>eos manuum labore vel totum vel partem acquirere: &amp; vel totum vel partem mendicando de bursis aliorum extra- 
+       <lb ed="#B" n="23"/>here: non est verisimile quod hoc possit fieri cum aequali sollicitudine. Et cum hoc etiam non est verisimile quin illi qui quid  
+       <lb ed="#B" n="24"/>abundat eis ex acquisitis in vno tempore, prouident de futuro, cum aliquantula minore sollicitudine acquirunt 
+       <lb ed="#B" n="25"/>sibi necessaria quam illi qui nihil reseruant in crastinum. aliis dico eisdem retentis. Sed tamen non obstante modi-  
+       <lb ed="#B" n="26"/>ca maiore sollicitudine status illorum est perfectior: quia ille excessus pertinet ad dispensationem ne- 
+       <lb ed="#B" n="27"/>cessariae prouisionis: &amp; sic est eis meritorius. Si enim sine detrimento: immo cum profectu charitatis &amp; perfe 
+       <lb ed="#B" n="28"/>ctionis potest quis intermittere contemplationem aeternorum: &amp; propter necessitatem proximorum agere quae sunt vitae 
+       <lb ed="#B" n="29"/>actiuae: &amp; hoc non nisi cum maiore sollicitudine: quemadmodum Paulus carnalium cubilia ordinauit postquam  
+       <lb ed="#B" n="30"/>rimatus est secreta caelestia: vt dicit Greti. i. Pastor, multo fortius fine detrimento charitatis: immo cum eius profe 
+       <lb ed="#B" n="31"/>ctum: &amp; similiter perfectionis propter necessitatem, propriam potest sustinere sollicitudinem modicam maiorem. Talis enim vt dicit 
+       <lb ed="#B" n="32"/>Greti. i. Pasto. transitoria cuncta esse conspiciens: curam carnis ex necessitate tolerat: sed aeterna gaudia ex de 
+       <lb ed="#B" n="33"/>siderio spiritus expectat. Si vero sit mediocriter maior: maxime si cum hoc excedit temperamentum necessariae pro  
+       <lb ed="#B" n="34"/>uisionis: curam carnis gerendo: non praecise in necessitatibus: sed etiam in desideriis: aliis curam carnis non gerentibus 
+       <lb ed="#B" n="35"/>nisi in necessariis: Dico quod quamquam status illorum sit perfectior quo ad abdicationem &amp; praecisionem sollicitudinis in cu 
+       <lb ed="#B" n="36"/>stodiendo possessa: tamen faciunt ipsum imperfectiorem per excessum in praeternecessaria cum necessariis ac- 
+       <lb ed="#B" n="37"/>quirendo. Dico autem praeternecessaria: non tam ad vitae sustentationem, quam ad officiorum sui status executionem 
+       <lb ed="#B" n="38"/>quorum solummo moderatus vsus est eis concessus secundum eorum regulam &amp; necessitatem: vt tamen illis quae  
+       <lb ed="#B" n="39"/>statui suo sunt incompetentia penitus non vtantur. Non enim omnium rerum vsum habere debent: nec illarum qui- 
+       <lb ed="#B" n="40"/>bus vti licet eis, debent habere aliquam ad vllam copiam seu superfluitatem, quae deroget eorum paupertati: vt 
+       <lb ed="#B" n="41"/>semper in eorum actibus sancta paupertas reluceat. Si vero sollicitudo istorum esset maior vt sollicitudinem 
+       <lb ed="#B" n="42"/>aliorum multum excedat: &amp; maxime ad hoc vt lautius viuant: &amp; pretiosa atque curiosa magis quam decet 
+       <lb ed="#B" n="43"/>statum eorum ad vsus suos assumant: multum depressiorem, inferiorem, &amp; imperfectiorem faciunt sta 
+       <lb ed="#B" n="44"/>tum suum: vt forte in ipso numquam perfectionem attingere possint. Vt enim dicit Gretiu. in iiii. Moral. Nequaquam  
+       <lb ed="#B" n="45"/>mens ad superna tollitur: si continue curarum tumultibus in insimis occupatur. Et econtra (vt di  
+       <lb ed="#B" n="46"/>cit ibidem) omnes qui curis exterioribus spargi refugiunt, simplices in cogitatione, atque in conscientiae 
+       <lb ed="#B" n="47"/>habitatione consistunt. Vnde si existentes in maiori abdicatione multo maiori sollicitudine occupem 
+       <lb ed="#B" n="48"/>tur, quam existentes in minori, contingit in eis illud quod dicit Grego. ii. Paste. In examine recti iudicis mutat 
+       <lb ed="#B" n="49"/>merita ordinum qualitas actionum: &amp; quidam in meliori ordine deteriores sunt: &amp; quidam in deteriori me 
+       <lb ed="#B" n="50"/>liores: quia &amp; isti fortem extremi habitus bene viuendo transcendunt: &amp; illi superioris loci meritum mo- 
+       <lb ed="#B" n="51"/>ribus non exequendo diminuunt. Propter quod si talem distractionem siue occupationem circa personam 
+       <lb ed="#B" n="52"/>aliquam requireret conditio status abdicationis maioris: melius esset illi status abdicationis minoris. Quia 
+       <lb ed="#B" n="53"/>iuxta dictum Grego. in registro epistola. ccccxi. sic est aliquis ad altiora promouendus: vt dum ipse 
+       <lb ed="#B" n="54"/>exterius proficit: interius non decrescat: ne dum ad altiora perducitur: minor. ille seipso fieri 
+       <!--634.xml-->
+       <pb ed="#B" n="297-r"/>
+        <lb ed="#B" n="1"/>compellatur. Quare si status omnia abdicantium claudicare non debeat: &amp; ex vtroque latere sollicitudinis 
+       <lb ed="#B" n="2"/>aequa lance sint in apice perfectionis: quantum excedunt alios in temporalium abdicatione: tantum debent sal- 
+       <lb ed="#B" n="3"/>ua vitae sustentatione strictissima &amp; officiorum status sui executione necessaria, alios excedere in vi 
+       <lb ed="#B" n="4"/>ctus &amp; vsus omnium illorum quibus eis licet vti, parcitate: &amp; hoc quemadmodum ad nonnulla alia 
+       <lb ed="#B" n="5"/>consilia euangelica plus caeteris astringuntur: &amp; Christi semitas arctius sequi caeteris eligunt. Sicut enim ta 
+       <lb ed="#B" n="6"/>libus non licet habere in vsum quaecunque aliis licent, tam in mobilibus quam in immobilibus secundum quod Nico 
+       <lb ed="#B" n="7"/>laus papa exponit in regula fratrum Minorum: sic etiam circa eis licita nequamquam esset licitum eis talibus &amp; tali 
+       <lb ed="#B" n="8"/>modo vti, quibus &amp; qualiter licet illis vti pluribus aliis. hoc enim pertineret ad sollicitudinem ni 
+       <lb ed="#B" n="9"/>miam &amp; saecularem. secundum quod dicitur in collatione patrum: collatione. ix. Quia saeculares eurae etiam 
+       <lb ed="#B" n="10"/>in nos qui nullis actibus mundi admiscemur cadere nonnunquam possint, manifesta ratione monstratur 
+       <lb ed="#B" n="11"/>secundum regulam seniorum: qui quicquid necessitatem cultus quotidiani &amp; ineuitabilem vsum carnis ex 
+       <lb ed="#B" n="12"/>cedit, ad saecularem definierunt curam &amp; sollicitudinem pertinere. Vt verbi gratia. Si cum possimus 
+       <lb ed="#B" n="13"/>opere vnius solidi necessitatem corporis nostri expedire, ad duorum solidorum vel trium acquisi- 
+       <lb ed="#B" n="14"/>tionem nosmet ipsos propensiore opere &amp; labore distendere: &amp; cum velamen duarum fufficiat tunicarum, ad vsum 
+       <lb ed="#B" n="15"/>scilicet noctis &amp; diei: trium vel quatuor domini fieri procuremus: cum vnius siue duarum habitatio sufficiat 
+       <lb ed="#B" n="16"/>cellularum, ambitione saeculari eleuati atque amplitudine delectati quatuor siue quinque cellas: &amp; has eas 
+       <lb ed="#B" n="17"/>dem exquisiti ornatus &amp; capaciores quam vsus desiderat extractamus: passionem libidinis mundialis in  
+       <lb ed="#B" n="18"/>quibus possumus praeferentes: quae non fine instinctu daemonum fieri nos manifesta experimenta do-  
+       <lb ed="#B" n="19"/>cuerunt. Ex quibus vnico proposito continuo subdit. Et idcirco morbum ambitus saecularis nostris men- 
+       <lb ed="#B" n="20"/>tibus non inesse: non vtique eorum tantum abstinentia comprobabis: quae etiam si velimus expetere vel imple 
+       <lb ed="#B" n="21"/>re, non possimus: neque illarum despectu rerum: quas si affectauerimus: tam apud spirituales viros 
+       <lb ed="#B" n="22"/>quam apud saeculi homines notabiles prima fronte reddemur: sed etiam cum illa quae nostrae suppetunt potestati 
+       <lb ed="#B" n="23"/>&amp; honestate quadam videntur conmitti: rigida districtione respuimus. Et reuera non minus haec quae 
+       <lb ed="#B" n="24"/>parua videntur &amp; minima: quamque ab his qui nostrae professionis sunt, cernimus indifferenter admitti: pro 
+       <lb ed="#B" n="25"/>qualitate sua aggrauant animam: quam illa manifesta quae secundum suum statum saecularium sensus ine  
+       <lb ed="#B" n="26"/>briare consueuerunt: non sinentia deposita faece terrena ad deum in quo semper defixa debet esse in-  
+       <lb ed="#B" n="27"/>tentio monachum respirare: cui ab illo summo bono vel parua separatio mors praesens ac perniciosissi 
+       <lb ed="#B" n="28"/>mus interitus est credendus. Propter quid dominus Matth. vi. non dixit absolute: Nolite solliciti esse de 
+       <lb ed="#B" n="29"/>eo quod est manducandum vel vestiendum: sed dixit. Quid manducetis aut corpori vestro quid induami  
+       <lb ed="#B" n="30"/>ni. Licet enim aliquantulum sit sollicitandum de eo quod est manducandum aut vestiendum: non tamenquid  
+       <lb ed="#B" n="31"/>sit scilicet piscis an pultes: neque quid induendum: burellunm scilicet an scarletum. Habentes enim quibus vesci- 
+       <lb ed="#B" n="32"/>mur ad corporis sustentationem: &amp; quibus tegamur ad corporis defensionem: his secundum Apo- 
+       <lb ed="#B" n="33"/>stolum contenti simus. Vnde cum licitum modum vtendi licitis volunt excedere: necesse habent ex- 
+       <lb ed="#B" n="34"/>pensas ampliare: &amp; ideo sollicitudinem acquirendi eas augere. Non enim sunt occupationes nisi pro 
+       <lb ed="#B" n="35"/>pter occupationum pretia. Vt enim dicit Seneca epistola. ii. ad Lucilium. Facile est occupationes eua- 
+       <lb ed="#B" n="36"/>dere: si occupationum pretia contempserimus. Propter quod melius esset talibus in minore abdicatione  
+       <lb ed="#B" n="37"/>&amp; minore sollicitudine viuere. Qui enim secundum determinata in quaestione praecedente ino piam 
+       <lb ed="#B" n="38"/>maiorem non possunt patienter ferre in statu superiori omnia abdicando: melius esset eis habendo  
+       <lb ed="#B" n="39"/>communia viuere in statu inferiori cuius inopiam minorem forte possent patienter portare: ne qui in  
+       <lb ed="#B" n="40"/>planis stantes titubant, in praecipitio pedem ponant. secundum Grego i. pastines Non omnis enim qui esset 
+       <lb ed="#B" n="41"/>aptus ad statum inferiorem: esset aptus ad statum superiorm: sed magis econuerso est: quem acmo 
+       <lb ed="#B" n="42"/>dum non omnis qui deo humiliter seruiret in bonis proprietariis, patienter posset inopiam portare 
+       <lb ed="#B" n="43"/>&amp; deo seruire illis abdicatis vt dictum est supra. Vnde frequenter qui abdicauerunt magna, per im 
+       <lb ed="#B" n="44"/>patientiam meritum amittunt fracti circa parua. De quibus dicit lo. Casise collatio. i. Nonnullos huius 
+       <lb ed="#B" n="45"/>mundi maximas facultates, &amp; non solum multa auri &amp; argenti talenta, verunetiam praediorum magnificentiam contem 
+       <lb ed="#B" n="46"/>nentes: post hoc vidimus pro capillo, pro graphio, pro calamo, pro acu commoueri: qui si vtique contemplationem mundi 
+       <lb ed="#B" n="47"/>cordis fixam tenerent numquam vtique pro peruis rebus amitterent, quod ne pro magnis ac praetiosis incurrerent opibus, eas- 
+       <lb ed="#B" n="48"/>dem penitus abiicere maluerunt. Nam plaerumque nonnulli tanto zelo codicem seruant: ne eum leuiter quidem legi vel con 
+       <lb ed="#B" n="49"/>tigi sinant ab aliquo: &amp; inde occasiones impatientiae ac motus incurrunt: vnde monentur stipendia patientiae &amp; chari 
+       <lb ed="#B" n="50"/>tatis acquirere: cumque omnes diuitias suas pro amore Christi contempserunt: pristinum tamen cordis affectum 
+       <lb ed="#B" n="51"/>in rebus minimis retinentes: &amp; pro ipsis nonnunquam irascentes veluti qui non habeant aplicam charitatem ex omnibus 
+       <lb ed="#B" n="52"/>infructuosi sterilesque redduntur. Et in collatione. iii. dicit. Totum igitur in fine consistit: in quo potest quis etiam 
+       <lb ed="#B" n="53"/>optimae conuersationis initiis dedicatis inferior per negligentiam reperiri. Nihil enim nobis prode- 
+       <lb ed="#B" n="54"/>rit abrenunciatio corporalis: si renunciationem cordis quae sublimior &amp; vtilior est non voluerimus similiter 
+       <!--635.xml-->
+       <pb ed="#B" n="297-v"/>
+        <lb ed="#B" n="1"/>obtinere. De illa enim dixit Apostolus. Si distribuero omnes facultates meas in cibos pauperum: chari 
+       <lb ed="#B" n="2"/>tatem autem non habuero: nihil mihi prodest, quod nunquam dixisset: nisi quia futurum in spri praeuidebat vt aliqui  
+       <lb ed="#B" n="3"/>facultatibus vniuersis in pauperum alimenta dispersis: ad perfectionem euangelicam &amp; charitatis ar  
+       <lb ed="#B" n="4"/>duum culmen peruenire non possent. De quibus dicit in collatione quarta. Denique quid pudet dicere 
+       <lb ed="#B" n="5"/>ita plaerosque abrenunciasse conspicimus: vt nihil amplius immutasse de interioribus vitiis ac mori- 
+       <lb ed="#B" n="6"/>bus comprobentur: nisi ordinem tantum atque habitum saecularem. Nam &amp; acquirere pecunias gestiunt: quas  
+       <lb ed="#B" n="7"/>nec ante possederunt: sub hoc praetextu quod famulos suos exinde vel fratres alere se debere iustum esse 
+       <lb ed="#B" n="8"/>contendunt. Quibus profecto non proderit maiores opes, ac substantias contempsisse: qui affectus ea 
+       <lb ed="#B" n="9"/>rum ad quos illae contemnendae sunt, in res paruas atque exiguas transtulerunt. Nam vitium cu- 
+       <lb ed="#B" n="10"/>piditatis atque auaritiae quod erga species pretiosas exercere non possunt: circa viliores materias re- 
+       <lb ed="#B" n="11"/>tinentes non abdicasse, sed commutasse se probant pristinam possessionem. Nam nimia deuicti diligen- 
+       <lb ed="#B" n="12"/>tia erga: amorem psalterii, sportellae saccelli, codicis, aliarum similium rerum quamuis vilissimarum, eadem tamen qua  
+       <lb ed="#B" n="13"/>ante libidine detinentur: cum vel ea quibus vti necesse est propensius student habere quam caeteri: vel ex 
+       <lb ed="#B" n="14"/>cedentes diligentiae modum: peculiarius ea diligentiusque custodiunt, &amp; ab aliorum contrectatione de 
+       <lb ed="#B" n="15"/>fendunt quae vniuersis fratribus esse debent communia. ldeoque perfectionem cordis abrenunciatio ista 
+       <lb ed="#B" n="16"/>non obtinet: quia cum censum habeat pauperis: non abiecit diuitis voluntatem. Ecce quam parce de-  
+       <lb ed="#B" n="17"/>bent vti rebus ad necessitatem concessis abrenunciantes, &amp; tanto parcius quanto pluribus abrenunci 
+       <lb ed="#B" n="18"/>ant: &amp; quanto in eis quibus vtuntur minus habent iuris: vt ostendant facto exterius quod nulla affe- 
+       <lb ed="#B" n="19"/>ctione circa illa tenentur interius. Quia vt dicit Chrysostomus super illud Matth. xix. Diues difficile 
+       <lb ed="#B" n="20"/>intrabit in regnum caelorum. Vere non habet super terram quid amet qui bonum caeleste in veritate gusta 
+       <lb ed="#B" n="21"/>uerit. Sicut enim qui pretiosum manducauerit cibum, postmodum ei haec esca communis ingrata vi 
+       <lb ed="#B" n="22"/>detur: sic &amp; qui semel dulcedinem Christi gustauerit, terrenorum bonorum de caetero non multum sentit sa 
+       <lb ed="#B" n="23"/>porem Vnde patet quod modicum sapit eis dulcedo caelestium qui omnium abrenunciatione exeunt 
+       <lb ed="#B" n="24"/>mundum per vnum ostium, &amp; reingrediuntur ipsum per aliud, acrius quaerendo honorum potentiarum &amp; 
+       <lb ed="#B" n="25"/>vniuersaliter temporalium rerum abundantiam, saltem ad vsum. ad quae nec ausi fuissent aspira-  
+       <lb ed="#B" n="26"/>re manentes in saeculo. contra illud quod dicitur in principio regulae beati <name ref="#Augustine">Augustinus</name> Qui aliquid habebant 
+       <lb ed="#B" n="27"/>in saeculo antequam ingressi sunt monasterium libenter velint illud esse comune: qui autem non habebant: non ea quaerant 
+       <lb ed="#B" n="28"/>in monasterio quae nec foris habere poterant. 
+      </p>
+      <p xml:id="n3av8a-c1e3078-d1e966">
+       HIS visis quaestionem quantum poterit extendendo: am scilicet habe 
+       <lb ed="#B" n="29"/>re bona in conmmuni diminuat aliquid de perfectione: Dicendum quod bona communia possunt intelli 
+       <lb ed="#B" n="30"/>gi diminuere de ratione perfectionis dupliciter. Vno modo per se ex natura &amp; ratione suae substan- 
+       <lb ed="#B" n="31"/>tiae. Alio modo per accidens &amp; ratione nostrae infirmitatis, inquantum ipsa nata est allici per illa, &amp; per 
+       <lb ed="#B" n="32"/>hoc illa nata sunt ipsam allicere. Primo modo simpliciter bona sunt &amp; non abdicanda: sed potius re- 
+       <lb ed="#B" n="33"/>tinenda: nec diminuunt aliquid de ratione perfectionis: &amp; quod multo plus est nec bona proprieta 
+       <lb ed="#B" n="34"/>ria, quia quantum est ex parte naturae rerum, eadem &amp; aequalis ratio bonitatis est in ipsis: siue fu- 
+       <lb ed="#B" n="35"/>erint propria siue communia: nec ex se &amp; per se ab aeternorum amore sunt impeditiua: immo quantum  
+       <lb ed="#B" n="36"/>in se est ad eleuandum nos ad illum sunt ordinata. Quia quemadmodum creaturae veritas est adminiculum 
+       <lb ed="#B" n="37"/>ad diligendum humanum intellectum in cognitionem aeternae veritatis: sic &amp; bonitas creaturae est admi 
+       <lb ed="#B" n="38"/>niculum ad dirigendum humanam voluntatem in amorem aeternae bonitatis. dicente <name ref="#Augustine">Augustinus</name> iiii. confes. 
+       <lb ed="#B" n="39"/>Si placent corpora: deum ex illis lauda: &amp; in artificem retorque amorem. &amp;. ix. de trinitate. Non sic non amam 
+       <lb ed="#B" n="40"/>da creatura: sed si ad creatorem refertur ille amor, non iam cupiditas: sed charitas est, alias est cupidi 
+       <lb ed="#B" n="41"/>tas amor creaturae: &amp; minuit amorem dei: secundum illud. x. confes. Minus domine te amat qui aliquid te 
+       <lb ed="#B" n="42"/>cum amat: non propter te: sed propter se. Et super illud psal. xxxix. Beatus vir cuius est nomen domi 
+       <lb ed="#B" n="43"/>ni spes eius: &amp; non respexit in vanitates &amp; insanias falsas. dicit Augus. Disce amare in creatura crea 
+       <lb ed="#B" n="44"/>torem: non te teneat quod ab illo factum est: &amp; amittas eum a quo &amp; ipse factus es. Vnde mentitus est 
+       <lb ed="#B" n="45"/>Manicheus qui dixit quod omnia corporalia sunt a deo malo, &amp; a se mala, &amp; ideo propter se, &amp; per se 
+       <lb ed="#B" n="46"/>abdicanda. Vnde &amp; vetus testamentum malum esse dixit: &amp; a deo malo esse: quia temporalia bona 
+       <lb ed="#B" n="47"/>promisit &amp; omnino contrarium nouo &amp; promissionibus eius. Sed quod sunt impeditiua, hoc est per oc- 
+       <lb ed="#B" n="48"/>casionem: &amp; est causa huius per se &amp; ex parte nostre. scilicet nostra infirmitas: quae ipsa possidere vix 
+       <lb ed="#B" n="49"/>valet: neque circa ea sollicitari absque amore nimio, &amp; inordinato. Vnde quod abdicanda sunt non natura  
+       <lb ed="#B" n="50"/>rerum: sed infirmitas nostra qua sine libidine non possumus ea habere, in causa est. dicente <name ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="51"/>de doctrina christiana. In omnibus huiusmodi rebus non ex ipsarum rerum natura quibus vtimur 
+       <lb ed="#B" n="52"/>sed ex causa vtendi: vel modo appetendi: vel probandum vel improbandum quod facimus. Item Am 
+       <lb ed="#B" n="53"/>bro. libro octauo super Luc. Volumus offendere diuites: discant non in facultatibus crimen habe- 
+       <lb ed="#B" n="54"/>ri: sed in iis qui vti nesciunt. Nam diuitiae vt impedimenta, sunt improbis: ita bonis sunt 
+       <!--636.xml-->
+       <pb ed="#B" n="298-r"/>
+        <lb ed="#B" n="1"/>adiuuamenta virtutis. Item <name ref="#Augustine">Augustinus</name> super psal. ciiii. intelligendum est dei seruos propterea ista bo 
+       <lb ed="#B" n="2"/>na sumere a deo non vt in eis luxu defluant: aut peruersa securitate torpescant: sed vt habeant 
+       <lb ed="#B" n="3"/>haec omnia praeparata in quibus quaerendis possent negotiatissimis laboribus occupari. Vnde etiam 
+       <lb ed="#B" n="4"/>dicit philosophus. ii. Polis: quod oportet legislatorem prouidere bonis &amp; virtuosis in necessariis: vt non oporteat eos 
+       <lb ed="#B" n="5"/>operibus vilibus vacare. Vnde quod sancti viri temporalia per abdicationem fugiunt: hoc contingit eis quia conscii suae 
+       <lb ed="#B" n="6"/>infirmitatis sunt. dicente <name ref="#Augustine">Augustinus</name> super psal. xxxvi. Sunt qui neque actiones mundi pati volunt, sicut con 
+       <lb ed="#B" n="7"/>iugati habentes domos, familias, silios: nec aliquid in ecclesia agunt sicut praepositi: vel vt in agricultura 
+       <lb ed="#B" n="8"/>laborantes: sed velut ad hoc infirmi secedunt ad otium: &amp; quieti esse diligunt: velut memores infirmi- 
+       <lb ed="#B" n="9"/>tatis suae. Per amorem autem nimium &amp; inordinatum impediunt, &amp; ab amore aeternorum retrahunt: &amp; hoc 
+       <lb ed="#B" n="10"/>per curam &amp; sollicitudinem eis annexam. dicente Greti. in i. moral. Tantum nocent temporalia quantum  
+       <lb ed="#B" n="11"/>sollicitudo retrahens a diuinis eis est annexa. Quia si non retraherent, multum expedirent: dicente Augns  
+       <lb ed="#B" n="12"/>in epistola ad Romanianum. Pacatior atque tramquillior rerum temporalium administratio recipiendorum aeterno  
+       <lb ed="#B" n="13"/>rum meritum gignit: si non teneat cum tenetur: si non implicet cum multiplicatur. De diminutione vero perfe- 
+       <lb ed="#B" n="14"/>ctionis per possessionem bonorum conmunium per accidem scilicet ex parte ipsorum bonorum: &amp; per se ex parte infir 
+       <lb ed="#B" n="15"/>mitatis nostrae, possumus intelligere quaestionem istam dupliciter. Primo distinguendo ex parte bono 
+       <lb ed="#B" n="16"/>rum conmunium. Secundo ex parte perfectionum. Ex parte bonorum: quia aut sunt toti humano generi conmu 
+       <lb ed="#B" n="17"/>nia: sic inquantum huiusmodi nullo modo diminuunt: vt habitum est supra. Aut sunt communia commorantium in  
+       <lb ed="#B" n="18"/>aliqua communitate singulari: &amp; tunc distinguendum ex parte persectionum: quia perfectionis diminutio- 
+       <lb ed="#B" n="19"/>nem possumus intelligere dupliciter. Aut loquendo de persectione quae pertinet ad statum. Aut quae per- 
+       <lb ed="#B" n="20"/>tinet ad animum. Si primo modo: sic adhuc diminuere de ratione perfectionis possumus intelligere dupli 
+       <lb ed="#B" n="21"/>citer: quia aut diminuit de ratione perfectionis exercendae, quae propria est ministris ecclesiae. Aut quia 
+       <lb ed="#B" n="22"/>diminuit de ratione perfectionis acquirendae: quae proprie pertinet ad religiosos. Primo modo habere bo- 
+       <lb ed="#B" n="23"/>na in conmuni non diminuit de perfectionis ratione: quia habentur tantum a ministris ecclesiae: vt eis debita 
+       <lb ed="#B" n="24"/>ratione seruitii &amp; ordinis quem habent in ecclesia: &amp; hoc quo ad id quod pro hora convertunt in eorum vsum 
+       <lb ed="#B" n="25"/>necessarium. Quo ad residuum enim habent ea vt aliis qui nullum ius habent in eis dispensanda. Et neu- 
+       <lb ed="#B" n="26"/>tro modo possunt minuere aliquid de statu perfectionis eorum exercendae: quia requirit iam perfectum 
+       <lb ed="#B" n="27"/>cui sunt instrumenta virtutis. Veruntamen infirmum in tali statu existentem: ab omni statu boni operis eradi 
+       <lb ed="#B" n="28"/>cant: vt dicit Greti. in fine. xii. moral. 
+      </p>
+      <p xml:id="n3av8a-c1e3078-d1e1103">
+       PApa enim omnia bona ecclesiae habet vt vicarius Christi: qui  
+       <lb ed="#B" n="29"/>libet vero episcoporum in sua dicecesi vt vicarius apostolorum: &amp; quilibet sacerdotum parochialium 
+       <lb ed="#B" n="30"/>in sua parochia vt vicarii discipulorum, &amp; quilibet canonicorum &amp; aliorum ministrorum ecclesiae in sua 
+       <lb ed="#B" n="31"/>praebenda, qui sunt successores eorum. de quibus dicitur. Multitudinis autem credentium e. cor. v. vt. xii. 
+       <lb ed="#B" n="32"/>qid i. S. De rebus. Vnde de possidentibus bona communia ecclesiae, dicit Prosper. ii. libro de vita contemplatiua 
+       <lb ed="#B" n="33"/>cap. xi. Itaque sacerdos cui dispensationis cura conmissa est: non solum commissa est sub cupiditate: sed  
+       <lb ed="#B" n="34"/>etiam cum laude pietatis accipit a pposo dispensanda: &amp; fideliter dispensat accepta: quia omnia sua aut reliquit: aut 
+       <lb ed="#B" n="35"/>ecclesiae rebus adiunxit: &amp; se in numero pauperum paupertatis amore constituit: ita vt vnde pauperi 
+       <lb ed="#B" n="36"/>bus subueniatur: inde &amp; ipse tanquam pauper voluntarius viuat. lbidem. xvi. Nunc autem quod christianis tempori 
+       <lb ed="#B" n="37"/>bus sacerdotes magis sustinent quam curant possessiones ecclesiae: &amp; in hoc deo seruiunt: quia si dei sunt 
+       <lb ed="#B" n="38"/>ea quae confidens eccliae dei opus agit: qui res deo consecratas non alicuius cupiditatis: sed fidelissimae dis- 
+       <lb ed="#B" n="39"/>pensationis intentione non deserit, non sunt iam res mundi credendae: sed dei. Tales enim secundum apostolum  
+       <lb ed="#B" n="40"/>sunt nihil habentes: sed omnia possidentes. dicente Prospero in eodem. Hoc est possidendo contemnere: non  
+       <lb ed="#B" n="41"/>sibi: sed aliis possidere: nec habendi cupiditate facultates ecclesiae ambire: sed eas pietate subuenien- 
+       <lb ed="#B" n="42"/>di suscipere: nec aliquid inde eis qui sibi sufficiunt erogare. Secundo modo habent bona in conmuni re- 
+       <lb ed="#B" n="43"/>ligiosi solitariam vitam ducentes non deputati aut ordinati seruitio ecclesiae publico. Et distinguendum  
+       <lb ed="#B" n="44"/>est in hoc membro de bonis commumibus: quia aut sunt vsui quotidiano necessaria: &amp; non diminuunt ni 
+       <lb ed="#B" n="45"/>si per accidens: vt habitum est supra: aut sunt tantum vsui futuro reseruata: quae custodiuntur non vt 
+       <lb ed="#B" n="46"/>dispensanda: sed vt sibi necessaria. Et per illa diminutionem status perfectionis eorum scilicet acquirendae  
+       <lb ed="#B" n="47"/>possumus intelligere dupliciter: quia aut quod diminuunt de ratione perfectionis dictae simpliciter &amp; ab  
+       <lb ed="#B" n="48"/>solute ipsam omnino excludendo: aut quod diminuunt de apice huiusmodi persectionis: ne ad ipsam 
+       <lb ed="#B" n="49"/>attingi possit: in gradu. scilicet inferioris perfectionis ponendo. Primo modo bona proprietaria solummodo  
+       <lb ed="#B" n="50"/>diminuunt de perfectionis ratione:, ipsam scilicet omnino excludendo: ne scilicet homo habens proprietaria pos 
+       <lb ed="#B" n="51"/>sit esse infra ambitum, &amp; latitudinem perfectionis secundum aliquem statum aut gradum status: vt 
+       <lb ed="#B" n="52"/>patet ex supra determinatis. hoc autem est diminuere de ratione perfectionis: quemadmodum dici 
+       <lb ed="#B" n="53"/>mus quod homo pictus diminuit de ratione hominis. Sic autem non diminuunt de ratione perfectionis bona 
+       <lb ed="#B" n="54"/>R communia abdicatis propriis: quia abdicatio propriorum efficit statum perfectionis simpliciter &amp; 
+       <!--637.xml-->
+       <pb ed="#B" n="298-v"/>
+        <lb ed="#B" n="1"/>absolute: vt habitum est supra. Propter quid abdicatis, propriis habere conmunia non ponit hominem extra 
+       <lb ed="#B" n="2"/>ambitum perfectionis simpliciter. Sed quia minor abdicatio non potest esse quam abdicando propria tantum 
+       <lb ed="#B" n="3"/>retentis communibus: &amp; restant duae maiores: quarum vna cum, propriis abdicat communia immobilia, &amp; reti 
+       <lb ed="#B" n="4"/>net mobilia tantum: alia vero abdicat omnia, proprias. scilicet &amp; communia, tam mobilia quam immobilia: idcirco habe 
+       <lb ed="#B" n="5"/>re bona in conmuni diminuit de ratione perfectionis secundo mued scilicet impediendo secundum praedictum mo- 
+       <lb ed="#B" n="6"/>dum, per distractionem &amp; sollicitudiuem quam habet illorum possessio &amp; custodia, ne attingi possit quo ad  
+       <lb ed="#B" n="7"/>hoc apex &amp; supremus gradus in statu perfectionis acquirendae: sed necessario sistit citra illum, in inferiori 
+       <lb ed="#B" n="8"/>gradu perfectionis consistendo. habere, eni. in conmuni bona immobilia: ponit infimum gradum perfe- 
+       <lb ed="#B" n="9"/>ctionis: quia illorum custodia requirit maiorem sollicitudinem. Vnde de abbate Isaac dicitur in iii. 
+       <lb ed="#B" n="10"/>dialosti, quod cum crebro discipuli eius postularent: vt pro vsu monasterii possessiones quae offerebantur 
+       <lb ed="#B" n="11"/>acciperet, ille sollicitus suae paupertatis custos, fortem smnimam tenebat dicens. Monachus qui in terra pos 
+       <lb ed="#B" n="12"/>sessionem quaerit: monachus non est. Sicque metuebat paupertatis suae custodiam perdere. Habere vero 
+       <lb ed="#B" n="13"/>in communi bona mobilia tantum, ponit medium gradum perfectionis: quia requirunt quo ad suam custodi- 
+       <lb ed="#B" n="14"/>am minorem soillcitudinem. Communia autem omnino abdicare cum propriis, ponit gradum perfectio- 
+       <lb ed="#B" n="15"/>nis summum. Dico gradum persectionis generandae: quia omnino subtrahit sollicitudinem quae est circa ten- 
+       <lb ed="#B" n="16"/>poralium custodiam, &amp; curam de crastino. Iuxta illud quod dicitur collatione patrum. x. Quae maior 
+       <lb ed="#B" n="17"/>aut sanctior potest esse paupertas, quam quae nihil praesidii, nihil virium habere cognoscens: de aliena lar 
+       <lb ed="#B" n="18"/>gitate quotidianum poscit auxilium: &amp; vitam suam atque substantiam singulis quibuscumque momen- 
+       <lb ed="#B" n="19"/>tis in diuina ope intelligens sustentari: Poscit inquam auxilium, in hoc videlicet vt admittatur 
+       <lb ed="#B" n="20"/>ad aliquod manuale officium in quo lucretur necessaria pro instante necessitate: vel vt ipsi liberaliter tam 
+       <lb ed="#B" n="21"/>quam mendico tribuatur, quod maxime licitum est quando ad hoc necessitate aliqua vel circa seipsum vel 
+       <lb ed="#B" n="22"/>circa proximum existente compellitur ne sibi valeat necessaria manuum labore acquirere. Quia si etiam 
+       <lb ed="#B" n="23"/>licitum esset: &amp; simpliciter apicem perfectionis constitueret: omnibus &amp; propriis, &amp; communibus abdicatis 
+       <lb ed="#B" n="24"/>validos de mendicitate viuere: de quo nihil ad praesens: tamen tam in laborantibus manualiter quam in  
+       <lb ed="#B" n="25"/>mendicantibus per acciden scilicet per sollicitudinem excedentem circa necessariorum acquisitionem, possent 
+       <lb ed="#B" n="26"/>isti deprimi quo ad possibilitatem acquirendi perfectionem animi, infra quemlibet illorum: vt nihil omni 
+       <lb ed="#B" n="27"/>no prosit illis esse in statu qui per se est perfectior: si tamen per accidens faciunt eum imperfectiorem 
+       <lb ed="#B" n="28"/>immo multum eis obesset: quia tanto amplius in excedendo in sollicitudine peccant: &amp; plus caete- 
+       <lb ed="#B" n="29"/>ris a perfectione animi se elongant: &amp; a possibilitate acquirendi eam: vt patet ex supra determina-  
+       <lb ed="#B" n="30"/>tis. Et est modus iste diminuendi: quemadmodum si diceretur quod animal quod non habet omnes sensus 
+       <lb ed="#B" n="31"/>diminueret de ratione animalis: quia deficit a gradu animalis habentis omnes sensus. Si vero loqua 
+       <lb ed="#B" n="32"/>tur quaestio de perfectione pertinente ad animum: Dicendum quod de ratione talis persectionis nihil dimi 
+       <lb ed="#B" n="33"/>nuit: nisi diminuendo de ratione perfectionis ipsius charitatis: quia in charitate &amp; eius perfectione  
+       <lb ed="#B" n="34"/>consistit perfectio mentis: inquantum. scilicet ipsa informatur charitate perfecta: vt patet ex praedeterminatis. 
+       <lb ed="#B" n="35"/>De ratione autem charitatis potest intelligi aliquid dupliciter diminuere: vel in eius substantia: vel in eius 
+       <lb ed="#B" n="36"/>feruore, seu radicatione, seu aliquo alio huiusmodi. Primo modo de charitatis persectione aliquid potest 
+       <lb ed="#B" n="37"/>intelligi diminuere dupliciter. Vno modo quia impedit ne augeatur: &amp; ita ne perficiatur. Alio modo  
+       <lb ed="#B" n="38"/>quia subtrahit ei aliquid de sua substantia. Primo modo aliquid dupliciter de ratione perfectionis diminuit, per se scilicet vel 
+       <lb ed="#B" n="39"/>per accomens. Per se de ratione perfectionis in charitate, &amp; per hoc de ratione perfectionis animi diminuunt peccatam venialia:  
+       <lb ed="#B" n="40"/>&amp; cessatio a bonis operibus. Per accidens vero habere bona in comoni diminuit de ratione perfectionis religiosi: 
+       <lb ed="#B" n="41"/>quia. scilicet sunt occasio distrahendi animum a diuino amore, secundum praedeterminata: etsi forte ab il- 
+       <lb ed="#B" n="42"/>lo animum alicuius bene dispositi non distraherent in actum. Propter quod secundum praedicta expedit &amp; 
+       <lb ed="#B" n="43"/>melius est sic disposito: vt patienter possit esse fine illis omnino, tanquam abiicere illecebram delinquendi: vt 
+       <lb ed="#B" n="44"/>non ita de facili peccet non habendo ea sicut habendo: secundum quod habitum est supra. Si vero intelligamus dimi 
+       <lb ed="#B" n="45"/>nutionem fieri subtrahendo aliquid quid est de substantia, siue de essentia charitatis: sic dico quod habere bo 
+       <lb ed="#B" n="46"/>na in communi non diminuit de perfectione charitatis: &amp; ideo nec de persectione animi. Sicut nec 
+       <lb ed="#B" n="47"/>eam diminuit, nec potest diminuere aliquid aliud: quia charitas in sua substantia non est nata diminui: 
+       <lb ed="#B" n="48"/>sed solum corrumpi per peccatum mortale: vt alias determinauimus in quadam quaestione de Quolibet 
+       <lb ed="#B" n="49"/>Et ideo secundum hunc modum sicut habere bona in conmuni non diminuit de ratione perfectio- 
+       <lb ed="#B" n="50"/>nis: sic etiam nec habere bona proprietaria. 
+      </p>
+      <p xml:id="n3av8a-c1e3078-d1e1275">
+       PER iam dicta patet responsio ad obiecta. Primum enim argu 
+       <lb ed="#B" n="51"/>mentum bene procedit: ostendendo quod per se diminuit possessio bonorum conmunium de ratione status 
+       <lb ed="#B" n="52"/>perfectionis acquirendae quo ad apicem eius: non autem quin habendo communia abrenunciatis pro- 
+       <lb ed="#B" n="53"/>priis maneat in aliquo gradu infra latitudinem perfectionis, quamuis etiam per accidens superior possit esse 
+       <lb ed="#B" n="54"/>status in quo habentur communia: quam status ille in quo est omnium communium abdicatio: vt pa- 
+       <!--638.xml-->
+       <pb ed="#B" n="299-r"/>
+        <lb ed="#B" n="1"/>tet ex iam dictis. 
+      </p>
+      <p xml:id="n3av8a-c1e3078-d1e1293">
+       AD argumentum in oppositum, quod non nocet diuitias habere sed amare: noceret 
+       <lb ed="#B" n="2"/>autem si diminueret de persectione: Dicendum secundum iam determinata, quod habere diuitias &amp; vniuersaliter 
+       <lb ed="#B" n="3"/>bona temporalia, per se &amp; ratione substantiae suae non nocet: sed magis prodest: nec sic vt iam dictum est 
+       <lb ed="#B" n="4"/>talia bona de ratione persectionis diminuunt. Vnde in statu innocentiae nihil omnino potuissent di  
+       <lb ed="#B" n="5"/>minuere de ratione perfectionis vbi nuilum accidens infirmitatis nostrae fuisset: quia per accidens 
+       <lb ed="#B" n="6"/>tantum nocent: scilicet ratione infirmitatis passibilitatis: propter quam nimio amore nata est humana infirmi 
+       <lb ed="#B" n="7"/>tas illis habitis alligari. &amp; hoc est quod dicit Glos. illa. Non nocet habere diuitias sed amare. scilicet nimium 
+       <lb ed="#B" n="8"/>quod semper contingit quando quis amplius amat eas quam ad vsum instantis necessitatis pro se, secundum 
+       <lb ed="#B" n="9"/>quod supra expositum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="154-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1799">
+       <head xml:id="n3av8a-c1e1799-Hd1e96">Quaestio 2</head>
+       <p xml:id="n3av8a-c1e1799-d1e99">
+        <lb ed="#B" n="26"/>CIrca secundum arguebatur: quod essentia alicuius accidentis translati a creaturis C 
+       <lb ed="#B" n="27"/>ad deum maneat in deo. Quoniam relatio quae est vnum praedicamentum accidentis, &amp; A 
+       <lb ed="#B" n="28"/>transfertur a creatura in deum, duplicem habet respectum &amp; ad suum fundamen 
+       <lb ed="#B" n="29"/>tum &amp; ad suum oppositum: &amp; in deo secundum respectum ad suum fundamentum 
+       <lb ed="#B" n="30"/>cadit in substantiam: quia illud est diuina essentia, manet tamen in deo vera re- 
+       <lb ed="#B" n="31"/>atio ex comparatione ad suum oppositum. Sed ex tali comparatione habet essen 
+       <lb ed="#B" n="32"/>tiam &amp; esse essentiae: per quod constituit vnum praedicamentorum in creaturis. Genera 
+       <lb ed="#B" n="33"/>enim distinguuntur per essentias rerum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e119">
+       IN oppositum est Boetius de trinitate. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e122">
+       AD clari 
+       <lb ed="#B" n="34"/>orem intellectum: qualiter relatio est genus manens in deo, &amp; quarundam aliarum quaestionum sequentium: oportet redu- 
+       <lb ed="#B" n="35"/>cere ad memoriam aliqua quae alias determinauimus in quaestione de rationibus praedicamentorum in deo: &amp; ali 
+       <lb ed="#B" n="36"/>quantulum paulo altius inchoando, sciendum quod primus conceptus communissimus &amp; communis ad conceptum vanum quo  
+       <lb ed="#B" n="37"/>concipitur saltem modo priuatorio id cui nihil natum est respondere in re, vt est conceptus fictitius chi- 
+       <lb ed="#B" n="38"/>maerae vel hircocerui: &amp; ad conceptum verum quo concipitur modo positiuo id quod est aliquid per essentiam, &amp; natum exi- 
+       <lb ed="#B" n="39"/>stere extra intellectum in rerum existentia, vt est conceptus diuinae essentiae &amp; creaturae: 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e138">
+       PRImus inquam con 
+       <lb ed="#B" n="40"/>ceptus conissimus &amp; communis ad illum conceptum, &amp; ad istum, est conceptus quo concipitur res a reor reris dicta. 
+       <lb ed="#B" n="41"/>quae continet sub se rem imaginariam quae est purum non ens: quia neque ens per essentiam neque natum esse per ex- 
+       <lb ed="#B" n="42"/>istentiam. De quo dicit Philosophus: Quod non est non contingit scire. Et continet sub se rem vera quae est natura &amp; essentia ali 
+       <lb ed="#B" n="43"/>cuius vel rei increatae vel creatae habentis ideam in mente diuina &amp; natae existere extra: in quae non consideratur 
+       <lb ed="#B" n="44"/>ratio eius quod est esse aliquid per essentiam nisi ex respectu quodam ad rationem exemplaris in deo. Res enim quae  
+       <lb ed="#B" n="45"/>cumque siue existens siue non existens, si habet esse in deo secundum exemplarem rationem, non solum dicitur quod est res dicta 
+       <lb ed="#B" n="46"/>a reor reris: sed etiam quod sit natura &amp; essentia aliqua. Et ideo dicitur res a ratitudine. Et haec res est super 
+       <lb ed="#B" n="47"/>quam fundatur prima ratio praedicamenti. Inquantum enim habet rationem idealem in diuina essentia quae non est nisi 
+       <lb ed="#B" n="48"/>purum esse quod est necesse esse: secundum quod determinauimus in quaestionibus de esse dei: est in sua essen- 
+       <lb ed="#B" n="49"/>tia participatio quaedam diuini esse: quod nondum est esse existentiae: sed quiditatiuum: quod indicat definitio: ita quod in  
+       <lb ed="#B" n="50"/>tali re est consideraredifferentia per intentionem communem quae sunt vnum re. primo scilicet ratio realitatis, &amp; 
+       <lb ed="#B" n="51"/>ratio essentiae: quam non habet res ex se: sed ex participatione exemplaris sui. Item scilicet ratio ipsius 
+       <lb ed="#B" n="52"/>essentiae non secundum rationem essentiae: sed secundum rationem realitatis a reor reris dictae 
+       <lb ed="#B" n="53"/>quam in se includit &amp; ratio esse eius quiditatiui. Vnde res creata in simplicitate essentiae suae 
+       <lb ed="#B" n="54"/>absque existentia actuali considerata rationem compositionis habet ex quod est &amp; quo est: siue ex essen- 
+       <!--349.xml-->
+       <pb ed="#B" n="154-v"/>
+        <lb ed="#B" n="1"/>tia inquantum est ipsa realitas dicta: &amp; ipso esse participato: vt secundum hoc omnis essentia creaturae 
+       <lb ed="#B" n="2"/>recedit a diuina simplicitate in qua essentia est ipsum esse. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e183">
+       ET secundum illa duo quae cadunt in  
+       <lb ed="#B" n="3"/>creatura secundum esse quiditatiuum considerata, constituitur natura praedicamenti: &amp; hoc ex illis duo  
+       <lb ed="#B" n="4"/>bus quae sunt res praedicamenti &amp; ratio praedicamenti. Res enim siue essentia: inquantum res est: non 
+       <lb ed="#B" n="5"/>est praedicamentum: neque esse: neque ens inquantum ens est. tunc enim deus caderet sub praedicamento. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e192">
+       SED 
+       <lb ed="#B" n="6"/>cum aliquid ens dicatur dupliciter: aut quia est ipsum esse, vt deferens &amp; delatum differant secundum 
+       <lb ed="#B" n="7"/>rationem tantum: aut quia est habens esse participatum: vt deferens &amp; delatum differant intentione 
+       <lb ed="#B" n="8"/>esse primo modo convenit soli deo: esse secundo modo convenit enti creato: quod cum re cuius est. consti- 
+       <lb ed="#B" n="9"/>tuit naturam praedicamenti. Vnde dicit Auicenna, quod praedicamentum est res cui conuenit esse vt res dica 
+       <lb ed="#B" n="10"/>tur id quod in praedicamento subiicitur. Esse vero secundum quod participatum est, dicatur ratio praedicamen 
+       <lb ed="#B" n="11"/>ti qua praedicamentum est. Ita quod ratio participationis esse est ratio quae facit rem ipsam esse in praedica- 
+       <lb ed="#B" n="12"/>mento simpliciter. Res vero subiecta est quae facit determinatum praedicamentum. Ita quod distinctio praedica- 
+       <lb ed="#B" n="13"/>mentorum adinuicem sumitur penes diuersos modos ipsius esse in participando ipsum a diuersis essen 
+       <lb ed="#B" n="14"/>tiis rerum diuersimode: nisi quod in praedicamentis relationum non sunt diuersae res a rebus praedicamentorum  
+       <lb ed="#B" n="15"/>absolutorum super quas fundantur: quae sola intentione differunt: inquantum sunt res praedicamentorum abso- 
+       <lb ed="#B" n="16"/>lutorum &amp; relatiuorum. Distinctio vero cuiuslibet. x. praedicamentorum in se, sumitur penes diuersitatem 
+       <lb ed="#B" n="17"/>rerum quae sunt sub praedicamento esse participantium secundum praedicamenti determinatam rationem. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e221">
+       PRImo 
+       <lb ed="#B" n="18"/>ergo esse participatum inquantum est ratio cuiuslibet praedicamenti generalis, diuiditur penes duas ratio-  
+       <lb ed="#B" n="19"/>nes speciales: quae distinguunt praedicamentum substantiae a praedicamentis accidentium. Esse enim participatur 
+       <lb ed="#B" n="20"/>a re aut subsistendo: aut subsistenti inhaerendo. Primo modo est praedicamentum substantiae quae est praedicamen- 
+       <lb ed="#B" n="21"/>tum: quia nominat rem cui conuenit esse subsistendo. Secundo modo est generaliter praedicamentum acciden- 
+       <lb ed="#B" n="22"/>tis: quia nominat rem cui conuenit esse alteri inhaerendo. Vnde &amp; accidentia non definiuntur nisi sub- 
+       <lb ed="#B" n="23"/>stantiam includendo in sua definitione. secundum Philosophum. vii. metaphysicae. Ex quo est hic aduerten- 
+       <lb ed="#B" n="24"/>dum: quod sicut nomen accidentis quia imponitur a ratione praedicamenti: quae est modus essendi inhaeren 
+       <lb ed="#B" n="25"/>do alteri: ideo est nomen intentionis: non rei: sic nomen substantiae inquantum imponitur a ratione praedica- 
+       <lb ed="#B" n="26"/>menti, quae est modus essendi subsistendo, est nomen intentionis non rei. Generaliter enim verum est 
+       <lb ed="#B" n="27"/>quod nomen impositum a ratione praedicamenti nomen intentionis est inquantum huiusmodi. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e245">
+       PRAEdicamentum  
+       <lb ed="#B" n="28"/>vero accidentis distinguitur secundum duos modos principandi esse alteri inhaerendo. esse enim conuenit 
+       <lb ed="#B" n="29"/>alicui alteri inhaerendo: aut secundum se &amp; absolute: aut in respectu ad aliud. Primo modo sunt duo  
+       <lb ed="#B" n="30"/>praedicamenta accidentium: scilicet quantitas &amp; quaelitas. Secundo modo sunt alia septem praedicamenta rela- 
+       <lb ed="#B" n="31"/>tionis communiter dictae: quae ideo ad vnum praedicamentum habent reduci: vt expositum est in praenomina 
+       <lb ed="#B" n="32"/>ta quaestione. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e258">
+       PRAEdicamentum ergo relationis licet duo in se contineat: rem cui conuenit esse non 
+       <lb ed="#B" n="33"/>in se subsistendo, sed alteri inhaerendo: per quod communiter cum aliis praedicamentis accidentium distingui- 
+       <lb ed="#B" n="34"/>tur a substantia: nec absolute existendo, sed ad aliud se habendo: per quod distinguitur communiter 
+       <lb ed="#B" n="35"/>contra substantiam, quantitatem, &amp; qualitatems: tamen ratione rei subiectae non constituit praedicamen 
+       <lb ed="#B" n="36"/>tum determinatum quod est relatio. Quia quod praedicamentum significet rem cui convenit esse, hoc omnibus praedica 
+       <lb ed="#B" n="37"/>mentis comune est. Sed quod determinatum praedicamentum relationis distinctum contra alia tria dicit: hoc conue- 
+       <lb ed="#B" n="38"/>nit ei ratione modi determinati essendi quem dicit: qui sibi soli conuenit, qui est ratio praedicamenti. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e274">
+       NVnc 
+       <lb ed="#B" n="39"/>autem quamquam praedicamentum accidentis duo dicit sicut &amp; alia: scilicet rem subiectam &amp; determinatum modum essen 
+       <lb ed="#B" n="40"/>di: totam tamen accidentalitatem habet relatio ratione suae realitatis: quam non habet propriam: sed contrahit eam 
+       <lb ed="#B" n="41"/>a re alterius praedicamenti accidentis supra quam fundatur: vt supra determinatum est in quaestione praenomi- 
+       <lb ed="#B" n="42"/>nata. Ita quod ratione eius quid est esse ad aliud vt ad obiectum: nullam rationem accidentis habet: sed solum  
+       <lb ed="#B" n="43"/>ex comperatione quam habet ad subiectum in quo habet esse id a quo habet suam accidentalitatem. Quia enim 
+       <lb ed="#B" n="44"/>albedo accidens est in subiecto: ideo similitudo fundata super albedinem accidens est in eodem: ita quod quicunque re 
+       <lb ed="#B" n="45"/>spectus super nudam substantiam fundatur, nihil accidentalitatis omnino in se habet: sed est relatio substantialis 
+       <lb ed="#B" n="46"/>non accidentalis: sicut contingit de respectu omnium relationum quae sunt in deo: in quo praedicamentum rela 
+       <lb ed="#B" n="47"/>tionis cum transfertur ad deum, idcirco ratione rei subiectae &amp; accidentalitatis suae quam dicit in creaturis 
+       <lb ed="#B" n="48"/>non manet: sed transit in substantiam: &amp; manet solum ratione esse ad aliud. Ita quod esse ad aliud est com- 
+       <lb ed="#B" n="49"/>mune relationi in creaturis &amp; in deo. Sed ex parte realitatis quam contrahit relatio a suo funda 
+       <lb ed="#B" n="50"/>mento hic &amp; ibi, est tota diuersitas. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e304">
+       EST ergo dicendum simpliciter ad quaestionem: quod esse nul- 
+       <lb ed="#B" n="51"/>lius accidentis manet quocunque praedicamento translato ad deum etiam relatione de qua principa- 
+       <lb ed="#B" n="52"/>liter quaestio proponebatur: vt patet ex argumento pro sola relatione inducto. Qualiter autem omnis 
+       <lb ed="#B" n="53"/>ratio accidentis &amp; accidentalitatis transumitur in substantiam quocunque praedicamento translato in di-  
+       <lb ed="#B" n="54"/>uinam praedicationem, sufficienter in praedicta quaestione est expositum. Sed quaestio proposita aliquantulum est 
+       <!--350.xml-->
+       <pb ed="#B" n="155-r"/>
+        <lb ed="#B" n="1"/>arctata, non enim quaerit vtrum aliquod accidens manet in Deo: sed vtrum manet essentia alicuius ac- 
+       <lb ed="#B" n="2"/>cidentis: quasi etsi certum sit, quod nullum accidens manet in Deo, dubium tamen sit an maneat in ipso es- 
+       <lb ed="#B" n="3"/>sentia alicuius praedicamenti accidentis: licet ipsum accidens non maneat. quasi aliud sit essentia acci- 
+       <lb ed="#B" n="4"/>dentis &amp; ipsum accidens siue res accidentis. Quod non est verum: immo essentia tam substantiae quam acciden 
+       <lb ed="#B" n="5"/>tis est realitas sua: cui convenit modus essendi vt ratio praedicamenti sui propria. Quia tamen quicquid rei 
+       <lb ed="#B" n="6"/>est in praedicamento cuiuscumque accidentis: in eo consistit sua accidentalitas, propria: secundum quam distinguitur co- 
+       <lb ed="#B" n="7"/>ordinatio praedicamenti, manente eodem modo essendi tanquam ratione praedicamenti in tota coordinatione: &amp; res 
+       <lb ed="#B" n="8"/>nuiius praedicamenti accidentis translati ad Deum, nanet: idcirco etiam nuilius praedicamenti accidentis 
+       <lb ed="#B" n="9"/>essentia cum transfertur ad Deum, manet in Deo. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e339">
+       ET quod obiicitur de relatione quae est accidens 
+       <lb ed="#B" n="10"/>in creaturis: quod essentiam habet ab eo quod est esse ad aliud: &amp; quo ad hoc manet: quare manet eius essentia 
+       <lb ed="#B" n="11"/>&amp; sic essentia accidentis: Dicendum secundum iam dicta quod cum duo sunt in quolibet praedicamento, res praedicamenti, 
+       <lb ed="#B" n="12"/>&amp; ratio praedicamenti: quae in praedicamento relationis est esse ad aliud: &amp; essentia praedicamenti. secundum quam  
+       <lb ed="#B" n="13"/>procedit diuisio in sua coordinatione. consistit in sua realitate: patet quod essentia relationis non con- 
+       <lb ed="#B" n="14"/>sistit in suo esse ad aliud, sed in sua realitate. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e352">
+       ET Quia ARCVITVR quod relatio ex comparatione  
+       <lb ed="#B" n="15"/>&amp; esse ad aliud habet essentiam praedicamenti: quia per hoc in creaturis distinguitur ab aliis prae- 
+       <lb ed="#B" n="16"/>dicamentis: &amp; distinctio generum est per suas essentias: Dicendum quod in praedicamentis duplex est 
+       <lb ed="#B" n="17"/>generum distinctio. Vna qua vnum praedicamentum distinguitur ab alio. Alia qua quodlibet praedicamen 
+       <lb ed="#B" n="18"/>tum distinguitur in sua coordinatione. Prima, vt dictum est, sumitur penes rationem praedicamenti: vt in  
+       <lb ed="#B" n="19"/>praedicamentis accidentium penes modum inesse. Ita quod si omnis res &amp; omnes essentiae accidentium haberent vnum  
+       <lb ed="#B" n="20"/>&amp; eundem modum inhaerendi substantiae, omnes essent eiusdem praedicamenti. Vnde quia omnis res quae  
+       <lb ed="#B" n="21"/>qualitas appellatur vnum &amp; eundem modum habet inhaerendi: &amp; similiter omnis res quae appellatur quam  
+       <lb ed="#B" n="22"/>titas, alium habet modum inhaerendi substantiae quam illae quae dicuntur qualitates: ideo omnes illae res sunt 
+       <lb ed="#B" n="23"/>vnius praedicamenti: &amp; illae similiter vnius, sed alterius: nec dicerentur propter rerum &amp; essentiarum differen- 
+       <lb ed="#B" n="24"/>tiam esse diuersorum praedicamentorum nisi haberent diuersum modum inhaerendi substantiae siue essen 
+       <lb ed="#B" n="25"/>di in ea. Secunda vero distinctio sumitur penes rem praedicamenti: &amp; sit per rerum essentias diuersas sub 
+       <lb ed="#B" n="26"/>essentia communis generis, &amp; sub eadem ratione communi quae est ipsius praedicamenti: secundum modum inhaerendi substan 
+       <lb ed="#B" n="27"/>tiae siue essendi in eadem. In quo si non communicarent, non essent eiusdem praedicamenti. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e383">
+       DE praedica- 
+       <lb ed="#B" n="28"/>mento ergo relationis: verum est quod ad aliud esse constituit ipsum, distinguendo ipsum ab aliis praedicamen 
+       <lb ed="#B" n="29"/>tis. ld autem quod constituit ipsum tanquam illud per quod habet distingui in sua coordinatione, non est ad aliud esse 
+       <lb ed="#B" n="30"/>quia hoc est ratio communis quae circuit omnia quae sunt in eodem praedicamento. Nec est alia ratio essen 
+       <lb ed="#B" n="31"/>di ad aliud relationis quae est suppositionis, ab illa quae est suppositionis: quia tunc essent diuersorum prae 
+       <lb ed="#B" n="32"/>dicamentorum. Sed istae relationes &amp; similiter omnes aliae abinuicem distinguuntur penes ipsas res in quibus 
+       <lb ed="#B" n="33"/>consistit essentia earum: sicut est earum realitas. In nullo enim praedicamento est aliud res praedicamenti quam  
+       <lb ed="#B" n="34"/>eius essentia. 
+      </p>
+      <p xml:id="n3av8a-c1e1799-d1e401">
+       ET sic cum in praedicamento relationis in creaturis tria conveniant: Primum quod sit res aliqua 
+       <lb ed="#B" n="35"/>licet per illud super quod fundatur: vt dictum est: Secundum quod sit in alio vt in subiecto cui inhaeret: 
+       <lb ed="#B" n="36"/>Tertium quod cum hoc oportet quod hoc esse habeat in respectu ad aliud: quo ad prima duo quae commnia 
+       <lb ed="#B" n="37"/>habet cum aliis praedicamentis accidentium, cum transfertur ad diuina, mutatur res eius in rem substan 
+       <lb ed="#B" n="38"/>tiae super quam fundatur in deo: &amp; esse in subiecto in secundum se &amp; non in alio esse: &amp; manet solum 
+       <lb ed="#B" n="39"/>quo ad illud quod sibi proprium est: quo distinguitur &amp; a substantia &amp; a quolibet accidente alio: quid  
+       <lb ed="#B" n="40"/>est ratio praedicamenti relationis: scilicet ad aliud esse nudum. Non quod ista ratio sola sit ipsum praedicamentum 
+       <lb ed="#B" n="41"/>relationis in deo: sicut nec est in creaturis: sed praedicamentum relationis in deo est res cui conue 
+       <lb ed="#B" n="42"/>nit in se esse non absolute: sed in respectu ad aliud: quemadmodum in creaturis praedicamentum re 
+       <lb ed="#B" n="43"/>lationis est res cui conuenit in alio esse non absolute, sed in respectu ad aliud. Sed non est relationi 
+       <lb ed="#B" n="44"/>propria realitas alia a realitate sui fundamenti in deo: sicut neque in creaturis. Neque similiter essentia 
+       <lb ed="#B" n="45"/>alia est relationis in deo ab essentia sui fundamenti: sicut neque in creaturis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

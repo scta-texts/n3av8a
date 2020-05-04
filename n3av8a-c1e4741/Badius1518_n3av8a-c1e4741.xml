@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="488-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4741">
+       <head xml:id="n3av8a-c1e4741-Hd1e96">Quaestio 7</head>
+       <p xml:id="n3av8a-c1e4741-d1e99">
+        <lb ed="#B" n="16"/>SEquuntur quaesita tria pertinentia ad creaturam intellectualem incorpoream: quorum Primum 
+       <lb ed="#B" n="17"/>pertinet ad eius actionem: vtrum peccatum in ipsa secundum augmentum procedat in infinitum. 
+       <lb ed="#B" n="18"/>Secundum pertinet ad mensuram actionis eius: vtrum cogitationes ipsius mensurentur men  
+       <lb ed="#B" n="19"/>sura composita ex indiuisibilibus. Tertium vero pertinet ad eius passionem: vtrum pos- 
+       <lb ed="#B" n="20"/>sit pati ab igne absque hoc quod calefiat. 
+      </p>
+      <p xml:id="n3av8a-c1e4741-d1e112">
+       CIRca primum istorum arguitur: quod peccatum sub 
+       <lb ed="#B" n="21"/>stantiae intellectualis incorporeae puta daemonis aut animae separatae procedat in infini 
+       <lb ed="#B" n="22"/>tum: quia scribitur in psal. Superbia eorum qui te oderunt ascendit semper illi autem praecipue sunt daemones &amp; ani 
+       <lb ed="#B" n="23"/>mae danmnatorum: quorum superbia non ascendit semper nisi semper peccando: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4741-d1e121">
+       CONtra. Omne pec 
+       <lb ed="#B" n="24"/>catum adimit aliquid habilitatis ad bonum: quia non est malum nisi quia bonum adimit vt dicit <name ref="#Augustine">Augustinus</name> in libro de 
+       <lb ed="#B" n="25"/>natura boni, quare cum illa habilitas sit finita eo quod est in natura finita, si ipsa semper peccaret in infinitum 
+       <lb ed="#B" n="26"/>aliquando tota habilitas naturae ad bonum consumeretur: quia aliquid quantitatis eius quantumcunque modicum quod  
+       <lb ed="#B" n="27"/>libet peccatum adimeret: consequens est impossibile: quia impossibile est natura manente tolli ab ipsa omnem 
+       <lb ed="#B" n="28"/>habilitatem suam ad bonum: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4741-d1e138">
+       DIco quod in peccato tria consideranem scilicet actus quo fit: &amp; macula quam in pec- 
+       <lb ed="#B" n="29"/>cante imprimit: &amp; reatus siue debitum poenae ad quam peccantem obligat. Si consideremus peccatum 
+       <lb ed="#B" n="30"/>primo modo, dico quod procedit in illis in infinitum. Semper enim habent malos &amp; peruersos actus in voluntate inte- 
+       <lb ed="#B" n="31"/>rius, quos exterius exercent in opus secundum quod a deo permittuntur. Si autem consideremus peccatum secundo modo, non  
+       <lb ed="#B" n="32"/>video quomodo macula peccati, quae scilicet consistit in habitu vitioso, possit plus procedere in infinitum in au 
+       <lb ed="#B" n="33"/>gmentando ex actibus malis quam habitus virtutis in angelis bonis &amp; animabus sanctorum ex illorum acti- 
+       <lb ed="#B" n="34"/>bus bonis. hintus autem ille cum sit forma quaedam creata in infinitum augeri non potest. &amp; est eadem difficultas in hoc &amp; 
+       <lb ed="#B" n="35"/>in augmento charitatis. Si autem consideremus peccatum tertio modo, sic tenet fides quod non augmentatur demeri- 
+       <lb ed="#B" n="36"/>tum in danmnatis quo ad reatum poenae in infinitum: quia tunc deberet semper poena eorum crescere in infinitum: sicut 
+       <lb ed="#B" n="37"/>nec augmentatur meritum beatorum nec augmentatur eorum praemium. Quida ergo arguitur primo: quod superbia eorum qui te 
+       <lb ed="#B" n="38"/>oderunt ascendit semper &amp;c: Dico quod dictum illud si exponatur de daemonibus &amp; danmnatis non ascendit omnino secun 
+       <lb ed="#B" n="39"/>dum augmentum maculae &amp; reatus: sed solummo secundum actuum malorum multiplicationem quo ad eorum substan  
+       <lb ed="#B" n="40"/>tiam vt dictum est. Intelligendo autem illum ascensum secundum maculam peccati aut reatum secundum quod exponit <name ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="41"/>in originali &amp; habetur in glossa, tunc secundum ipsum exponitur ly semper pro toto tempore praesentis vitae. Vnde cum isto ver 
+       <lb ed="#B" n="42"/>bo exponendo verbum immediate praecedens. Ne obliuiscaris voces inimicorum tuorum. dicit. Noli eorum supbiam 
+       <lb ed="#B" n="43"/>obliuisci: nec obliuiscitur omnino aut punit aut corrigit. 
+      </p>
+      <p xml:id="n3av8a-c1e4741-d1e177">
+       AD secundum quod peccatum semper adimit de habilita 
+       <lb ed="#B" n="44"/>te &amp;c. Dicendum quod bene probat intentum quod non procedit peccatum in infinitum secundum maculam quia per illam solam ad  
+       <lb ed="#B" n="45"/>imit solum aliquid intrinsecus inclinans ad contrarium, non autem secundum substantiam actus: licet secundum eius deor  
+       <lb ed="#B" n="46"/>dinationem adimat ab extrinseco elongando ipsum a gratia. quia per hoc deus se elongat ab illo quod ille hoc 
+       <lb ed="#B" n="47"/>modo se elongat a deo. Vnde Gretgi, exponens de diabolo illud lob. xviii. Socii eius qui non est, dicit. xiiii. libro Mor. 
+       <lb ed="#B" n="48"/>Qui idcirco non est quia a summa essentia recedit &amp; per hoc quotidie excrescente defectu quasi ad non esse 
+       <lb ed="#B" n="49"/>tendit: quod semel ab eo qui vere est cecidit. Et hoc est quod aliter potest dici scilicet quod habilitas respicit duo: &amp; na 
+       <lb ed="#B" n="50"/>turam in quam est: &amp; actum ad quem est. Primo modo non tollitur aliquo modo naturae habilitas nisi tollendo naturam  
+       <lb ed="#B" n="51"/>vel aliquid iprimendo naturae quo inclinetur ad contrarium: sed solummo tollitur Secundo modo, &amp; hoc nihil aliquae est quam  
+       <lb ed="#B" n="52"/>impedire naturalem habilitatem ad bonum a progressu in actum bonum. &amp; est primus modus tollendi habilitatem fini 
+       <lb ed="#B" n="53"/>tus sicut est &amp; ipsa natura: sed secundus vadit in infinitum. &amp; sic tollitur per peccatum seu minuitur habili 
+       <lb ed="#B" n="54"/>tas ad bonum in infinitum etiam in daemonibus absque hoc quod in ipsis augetur macula peccati aut reatus, qui  
+       <!--1017.xml-->
+       <pb ed="#B" n="488-v"/>
+        <lb ed="#B" n="1"/>libet enim actus peccati in ipsis ponit in ipsis obstaculum progrediendi in actum bonum, &amp; est in ipsis poe 
+       <lb ed="#B" n="2"/>na quaedam fpiritualis ne deus eis impartiatur gratiam: sicut est in nobis excommunicatio ne admittamur 
+       <lb ed="#B" n="3"/>ad ecclesiasticam conmunionem: quae quanto plus plurificatur tanto magis homo habet obstaculum reconcili 
+       <lb ed="#B" n="4"/>andi ecclesiae, &amp; requirit quaelibet suam absolutionem. &amp; hoc etiam quemadmodum auis per pennas quae sunt 
+       <lb ed="#B" n="5"/>in alis suis habet habilitatem ad volandum: quam diminuitur secundum se per extractionem penarum, diminuitur etiam 
+       <lb ed="#B" n="6"/>per obstaculum impediens progressum ad actum vt per aliquid ponderosum, pennis appensum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

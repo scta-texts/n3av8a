@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 27</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 27</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="22-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e446">
+      <head xml:id="n3av8a-c1e446-Hd1e96">Quaestio 27</head>
+      <p xml:id="n3av8a-c1e446-d1e99">
+       <lb ed="#B" n="40"/>Equuntur quaestiones pertinentes ad homines constitutos in diuersis statibus ecclesiae. Et quaerebantur 
+       <lb ed="#B" n="41"/>quaedam pertinentia ad praelatos: quaedam vero pertinentia ad docto res: quaedam quidem  
+       <lb ed="#B" n="42"/>ad religiosos: quaedam autem ad mercatores. De primo quaerebantur septem. 
+       <lb ed="#B" n="43"/>PRImum: vtrum praelatus subdito suo audienti confessiones potest ei aliquos casus sub- 
+       <lb ed="#B" n="44"/>trahere ab illis quos iura communiter sacerdotibus concedunt. SEcundum: vtrum potest ei conce 
+       <lb ed="#B" n="45"/>dere plures casus a quibus absoluat quam iura concedunt. TERtium: vtrum confitentem quaedam ad  
+       <lb ed="#B" n="46"/>se pertinentia, quaedam ad praelatum superiorem, possit primo absoluere ab his quae pertinent ad se: &amp; tunc 
+       <lb ed="#B" n="47"/>remittere pro aliis absoluendum ad superiorem. QVARtum: vtrum potest ipsum absoluere de 
+       <lb ed="#B" n="48"/>eo quid pertinet ad superiorem sub conditione si superior ratum habeat. QVINtum: vtrum possit ipsum absoluere 
+       <lb ed="#B" n="49"/>de illo &amp; aliis ad tempors quousque superiori confiteatur. Vl. vtrum praelatus superior potest dare inferiori potestatem sic ab- 
+       <lb ed="#B" n="50"/>soluendi. Vll. Si inferior habet peccatum occultum de quo praesumit praelatus quod illud commisit: &amp; petat in capi- 
+       <lb ed="#B" n="51"/>tulo quod sub iuramento suo de illo peccato veritatem dicat coram capitulo suo si ipsum conmisit, vtrum teneatur ei 
+       <lb ed="#B" n="52"/>iurare &amp; veritatem dicere. &amp; si fecerit eum iurare in generali de dicendo veritatem de interrogatis: vtrue de illo 
+       <lb ed="#B" n="53"/>specialiter interrogatus teneatur dicere veritatem. Ista omnia sine argumentis erant proposita.
+      </p>
+      <p xml:id="n3av8a-c1e446-d1e132">
+       AD primum dicen 
+       <lb ed="#B" n="54"/>dum quod subditus ille cui committuntur a praelato superiori articuli &amp; casus in quibus debet absoluere 
+       <!--84.xml-->
+       <pb ed="#B" n="22-r"/>
+       <lb ed="#B" n="1"/>sibi confitentes, ante ex officio sibi commisso habet aliquam ordinariam iurisdictionem audiendi confes- 
+       <lb ed="#B" n="2"/>sionem, sicut habent sacerdotes curati, aut non, sicut non habent simplices canonici: quibus episcopus ali 
+       <lb ed="#B" n="3"/>quando eorum conmittit officium audiendi confessiones &amp; absoluendi. Si secundo modo, cum talis nihil 
+       <lb ed="#B" n="4"/>iuris habet in confessiones audiendo &amp; absoluendo: sed solum haec habet facere ex libera conmissione: sicut praela 
+       <lb ed="#B" n="5"/>tus superior aliquid libere commisit: sic libere potest totum subtrahere &amp; interdicere: vel partem conmittere 
+       <lb ed="#B" n="6"/>&amp; partem interdicere: secundum quod sibi placuerit iuxta liberum voluntatis arbitrium. Si primo mo- 
+       <lb ed="#B" n="7"/>do: cum praelatus quilibet tenetur generalem ecclesiae ordinationem custodire: nec potest solus eam im- 
+       <lb ed="#B" n="8"/>mutare: vbi officia ex communi iure ordinario vel ex consuetudine legitima &amp; praescripta(quod in hoc iu 
+       <lb ed="#B" n="9"/>ris habet vigorem) habent iurisdictionem sibi debitam &amp; annexam: illam non potent praelatus ille sub- 
+       <lb ed="#B" n="10"/>trahere subdito suo: nisi ex causa legitima, quia superiores tenentur inferioribus iura sua illaesa cu 
+       <lb ed="#B" n="11"/>stodire. Vnde si sacerdotes curati ex officio habent &amp; ex iure absoluere in omnibus casibus non reserua- 
+       <lb ed="#B" n="12"/>tis Episcopo vel summo pontifici, ex curae conmissione eis facta habent executionem absoluendi in  
+       <lb ed="#B" n="13"/>omnibus casibus officio curae debitis: &amp; de illis praelatus nuilum potest subtrahere. Dico potentia iu- 
+       <lb ed="#B" n="14"/>ris non facti. Id enim vere &amp; solum possumus quod de iure possumus. Dico etiam nisi ex causa: vt si 
+       <lb ed="#B" n="15"/>habeat eum suspectum de aliquo articulo: puta de furto quod sit particeps furti &amp; indifferenter fures 
+       <lb ed="#B" n="16"/>absoluit, &amp; facilem veniam promittit: tunc potest ei interdicere illum articulum &amp; alios consimiles: &amp; cae 
+       <lb ed="#B" n="17"/>teros dimittere: sicut si iusta suspitione sit omnino suspectus, potest ei omnino interdicere absolutionis 
+       <lb ed="#B" n="18"/>executionem. De casibus autem a iure superiori praelato reseruatis potest ei committere totum vel par 
+       <lb ed="#B" n="19"/>tem vel nihil, sicut alteri qui ex officio nullam habet iurisdictionem. Et sicut dictum est de sacerdote 
+       <lb ed="#B" n="20"/>curato vel simplici canonico sub Episcopo, sic intelligendum est de priore vel simplici monacho sub 
+       <lb ed="#B" n="21"/>abbate.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

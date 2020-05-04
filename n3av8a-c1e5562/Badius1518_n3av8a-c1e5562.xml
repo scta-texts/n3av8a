@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="576-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5562">
+       <head xml:id="n3av8a-c1e5562-Hd1e96">Quaestio 3</head>
+       <p xml:id="n3av8a-c1e5562-d1e99">
+        <lb ed="#B" n="5"/>CIrca secundum arguitur: quod omnis humana actio Christi sit supnaturalis, sic. Omnis i 
+       <lb ed="#B" n="6"/>actio quae elicitur ab agente supernaturali supnaturalis est: sicut omnis actio elicita 
+       <lb ed="#B" n="7"/>ab agente naturali naturalis est. omnis actio Christi etiam humana elicitur ab  
+       <lb ed="#B" n="8"/>agente supernaturali: quia a persona diuina quae supernaturalis est in duabus na-  
+       <lb ed="#B" n="9"/>turis subsistens. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5562-d1e112">
+       CONtra: sicut se habet actio ad Christum in agendo,  
+       <lb ed="#B" n="10"/>sic &amp; passio in patiendo. sed non omnis passio Christi humana, est supnaturalis:  
+       <lb ed="#B" n="11"/>puta illa qua ludas ipsum osculatus est. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5562-d1e119">
+       DICO: quod licet in qualibet actione tria concur- 
+       <lb ed="#B" n="12"/>rant consideranda: quae sunt agens, modus agendi, &amp; terminus actionis: actio tamen neque propter agens 
+       <lb ed="#B" n="13"/>neque propter terminum dicitur naturalis vel supernaturalis: sed solummodo propter modum agendi  
+       <lb ed="#B" n="14"/>naturalem vel supnaturalem. Cum enim Christus aquam conuertit in vinum, Ioannis. ii. licet vinum  
+       <lb ed="#B" n="15"/>illud idem in forma &amp; specie vini erat cum vino generato in vite: tamen actio illa productionis vini  
+       <lb ed="#B" n="16"/>de aqua existente in hydria, est &amp; dicitur non esse naturalis: sicut est &amp; dicitur esse naturalis produ- 
+       <lb ed="#B" n="17"/>ctio vini de humore aquoso existente in vite: &amp; hoc quia non est idem modus agendi in productio- 
+       <lb ed="#B" n="18"/>ne vini vtriusque. Vnde si in ligno esset vis nauis factiua &amp; produceret natura nauem de lignis in ea- 
+       <lb ed="#B" n="19"/>dem forma &amp; figura in qua modo de lignis ipsam producit ars: etiam econuerso si nunc ars ipsam 
+       <lb ed="#B" n="20"/>de lignis producit sicut tunc produceret natura: actio tamen producendi nauem ab artifice nunquam 
+       <lb ed="#B" n="21"/>diceretur naturalis propter hoc quod eiusdem formae &amp; figurae nauem produceret cum naui illa quae  
+       <lb ed="#B" n="22"/>esset producta a natura: nec econtrario. Similiter si ars Alchimiae posset producere aurum, &amp; es- 
+       <lb ed="#B" n="23"/>set eiusdem speciei cum auro quod producit per se natura: non tamen propterea quod esset eiusdem 
+       <lb ed="#B" n="24"/>speciei, illa productio naturalis diceretur prout fit ab Alchimista. diceretur tamen naturalis quia 
+       <lb ed="#B" n="25"/>idem esset agendi modus proximus in producendo speciem illius auri: sicut &amp; auri quod pro- 
+       <lb ed="#B" n="26"/>ducit natura absque ministerio artis. vbique enim producitur appropinquatione calidi &amp; frigidi ipsis ten- 
+       <lb ed="#B" n="27"/>peratis sicut principiis actiuis: humido &amp; sicco proportionalibus sicut principiis passiuis. In qua  
+       <lb ed="#B" n="28"/>applicatione Alchimista solum est minister naturae: sicut medicus sanitatis. Sola enim natura curat 
+       <lb ed="#B" n="29"/>morbos: &amp; similiter sola natura vt agens principale generat aurum. Consimiliter etiam si agens prin 
+       <lb ed="#B" n="30"/>cipale esset supernaturale: si tamen ageret modo actionis naturae, necessario actio illa dicenda esset na-  
+       <lb ed="#B" n="31"/>turalis: &amp; econuerso, si agens esset naturale aut artificiale, &amp; ageret modo supernaturali sicut agunt 
+       <lb ed="#B" n="32"/>verba sacramentalia in transubstantiatione Eucharistiae &amp; generatione gratiae, actio illa semper dicen 
+       <lb ed="#B" n="33"/>da esset supernaturalis. Descendendo ergo ad propositum: Dico, quod quamquam Christus sit agens superna- 
+       <lb ed="#B" n="34"/>turale ratione personae agentis. siue agat secundum naturam diuinam siue secundum humanam natu-  
+       <lb ed="#B" n="35"/>ram: quia tamen omnes actiones quas egit in statu mortalitatis, &amp; etiam quas adhuc agit in statu immor- 
+       <lb ed="#B" n="36"/>talitatis: agit modo naturae quo alii homines agunt illas in quocunque statu sint, cuiusmodi sunt come 
+       <lb ed="#B" n="37"/>dere, bibere, ambulare &amp; caetera huiusmodi: cuius signum est, quod eaedem passiones in Christo conse- 
+       <lb ed="#B" n="38"/>quutae sunt ex illis actionibus: sicut et in aliis hominibus. scilicet sedatio famis ex comestione, sitis ex 
+       <lb ed="#B" n="39"/>potatione: quae &amp; consimiles proprie dicuntur humanae: Idcirco ergo breuiter dico: quod nulla Chri- 
+       <lb ed="#B" n="40"/>sti actio humana, quae vere humana dicenda est, supernaturalis est: sed solummodo &amp; pure naturalis, 
+       <lb ed="#B" n="41"/>non obstante quod agens sit supernaturale: &amp; hoc quia ipse agens omnes illas actiones, agit modo na-  
+       <lb ed="#B" n="42"/>turae. Siquas enim actiones egit vel agit non modo naturae sed modo supernaturali, illae non sunt 
+       <lb ed="#B" n="43"/>dicendae humanae: neque naturales, &amp; secundum naturam humanam factae: sed diuinae &amp; super- 
+       <lb ed="#B" n="44"/>naturales, &amp; secundum naturam diuinam factae. Et econtrario est de eius operationibus diuinis siquas age  
+       <lb ed="#B" n="45"/>ret non modo supernaturali sed modo naturali. Vt enim dicit Damasc. libr. iii. cap. xv. Duas actio- 
+       <lb ed="#B" n="46"/>nes aimus in domino lesu Christo: habet enim vt deus diuinam actionem, &amp; vt homo est, nobis ho 
+       <lb ed="#B" n="47"/>mousian humanae habens naturae actionem. Sed vt idem ait ibidem capitu. xix. propter vnitatem 
+       <lb ed="#B" n="48"/>personae agentis &amp; in duabus naturis subsistentis habuit nouum &amp; ineffabilem modum natura-  
+       <lb ed="#B" n="49"/>lium actionum. Sed hoc intellige non nisi naturalem. vnde exponens in quo sit nouus &amp; ineffabi- 
+       <lb ed="#B" n="50"/>lis, subdit, dicens. Si enim deus ens perfectus factus est propter nos, &amp; secundum nos homo perfe- 
+       <lb ed="#B" n="51"/>ctus, manifestum est quod omnes habemus naturales diuinitatis proprietates. Et secundum hoc deus 
+       <lb ed="#B" n="52"/>perfectus, &amp; habebat naturales humanitatis proprietates, &amp; indiuisas aimus actiones: vnaquaque na 
+       <lb ed="#B" n="53"/>tura cum alterius communione agente hoc quod proprium habuit. Neque egit humana secundum homi 
+       <!--1193.xml-->
+       <pb ed="#B" n="576-v"/>
+        <lb ed="#B" n="1"/>nem solum: neque diuina secundum deum solum: sed Deus simul existens &amp; homo. Quemadmodum  
+       <lb ed="#B" n="2"/>enim naturarum vnionem &amp; differentiam naturalem cognoscimus: ita &amp; naturalium voluntatum  
+       <lb ed="#B" n="3"/>&amp; actionum. Per praedicta patet responsio ad obiectum primum: &amp; concedendum est argumentum 
+       <lb ed="#B" n="4"/>secundum: ponendo non solum quod aliqua passio Christi naturalis fuit &amp; aliqua non: sed etiam, quod ali 
+       <lb ed="#B" n="5"/>qua actio eius fuit naturalis &amp; aliqua non, secundum iam dicta. Vnde de passionibus Christi di-  
+       <lb ed="#B" n="6"/>co quod omnis passio eius quae vere erat humana, pure naturalis erat in ipso: sicut &amp; in quolibet alio, 
+       <lb ed="#B" n="7"/>quia vniformiter aliis, dormiuit, esuriit, sitiuit, lassus fuit: &amp; caeteras passiones humanas sustinuit. 
+       <lb ed="#B" n="8"/>Sed est aduertendum de passionibus sicut &amp; actionibus Christi: quod non dicitur passio aliqua natu-  
+       <lb ed="#B" n="9"/>ralis in ipso a modo quo illi infertur ab agente extra inferente illam: sed a modo quo in passo recipi- 
+       <lb ed="#B" n="10"/>tur. Vnde passio mortis Christi licet inquantum fuit illata a crucifixoribus, fuit violenta: tamen in-  
+       <lb ed="#B" n="11"/>quantum in Christo fuit recepta, erat pure naturalis: &amp; per illam pure naturaliter mortuus est: li- 
+       <lb ed="#B" n="12"/>cet voluntate consentiente vt in ipso recepta, &amp; permittente vt a crucifixoribus est illata. Et per hoc 
+       <lb ed="#B" n="13"/>licet actio crucifigentium deo patri displicuit: passio tamen Christi illi grata fuit. Hinc de natura-  
+       <lb ed="#B" n="14"/>libus passionibus Christi dicit Damascenus. libro dicto cap. xx. Confitemur quod omnes naturales passio- 
+       <lb ed="#B" n="15"/>nes hominis assumpsit. Totum enim hominem &amp; ea quae sunt hominis sumpsit: praeter peccatum. 
+       <lb ed="#B" n="16"/>Hoc enim non est naturae, puta fames, sitis, labor, dolor, &amp; caetera huiusmodi quae annumerat. 
+       <lb ed="#B" n="17"/>Vnde &amp; consimiliter loquens de eius passionibus &amp; actionibus: simul dicit. cap. xviii. Deum perfe- 
+       <lb ed="#B" n="18"/>ctum &amp; hominem perfectum dicentes Christum: omnia ei dabimus &amp; quae patris naturalia &amp; quae  
+       <lb ed="#B" n="19"/>matris.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

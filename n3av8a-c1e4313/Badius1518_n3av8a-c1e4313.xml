@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="451-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4313">
+       <head xml:id="n3av8a-c1e4313-Hd1e96">Quaestio 5</head>
+       <p xml:id="n3av8a-c1e4313-d1e99">
+        <lb ed="#B" n="31"/>SEquuntur proposita pertinentia ad creaturam, &amp; hoc intellectualem specialiter. Quo- 
+       <lb ed="#B" n="32"/>rum quaedam pertinebant communiter ad angelum &amp; ad hominem: quaedam vero proprie ad sin 
+       <lb ed="#B" n="33"/>gulos eorum. Pertinentium autem communiter ad vtrumque, vnum pertinebat ad solam partem cogni 
+       <lb ed="#B" n="34"/>tiuam. alia autem plura pertinebant coniter ad partem cognitiuam &amp; appetitiuam. Illud vnum erat, 
+       <lb ed="#B" n="35"/>Vtrum agens operationes vitales cognitiuas quales sunt visio, auditio, &amp; vniuersa- 
+       <lb ed="#B" n="36"/>liter sensatio ex parte sensus: &amp; intellectio ex parte intellectus, sit extra sentientem &amp; in  
+       <lb ed="#B" n="37"/>telligentem, an intra. 
+      </p>
+      <p xml:id="n3av8a-c1e4313-d1e117">
+       ET arguitur quod non est extra sed intra tantum, Primo sic. Agens per se operationem vitalem 
+       <lb ed="#B" n="38"/>non est nisi viuum, quale non est aliquid extra, vt obiectum de quo maxime videtur, quia nec in se, nec in  
+       <lb ed="#B" n="39"/>sua specie, nec in aliquo quid ab ipso sit in cognoscente, est viuum quid: ergo &amp;c. Secundo sic. Nullum agens 
+       <lb ed="#B" n="40"/>per se elicit actionem quae transcendit suam speciem, quia omnis actio est proportionalis agenti: sed actio vitalis, 
+       <lb ed="#B" n="41"/>cuiusmodi est sensatio aut intellectio, transcendit speciem omnis non viui in nobilitate, quia est nobilissi- 
+       <lb ed="#B" n="42"/>ma operatio: ergo est nobilissimi agentis cuiusmodi non est nisi viuum, quia non est aliquid extra existens, 
+       <lb ed="#B" n="43"/>sed intra tantum: ergo &amp;c. Tertio sic. actio quaecunque principaliter attribuitur agenti &amp; denominat 
+       <lb ed="#B" n="44"/>ipsum, vt calefactio calefacienti: ergo si aliquid extra causaret actionem sentiendi, vt calor, vel intelligendi. 
+       <lb ed="#B" n="45"/>vt intelligibile: tunc porius diceretur calor sentire quam sensus: &amp; intelligibile intelligere quam intellectus: con 
+       <lb ed="#B" n="46"/>sequens est falsum: ergo &amp;c. Quarto sic. nullius passionis sensibilis causa est natura corporalis, sed  
+       <lb ed="#B" n="47"/>anima format eam in seipsa ad praesentiam illius. vt dicit <name ref="#Augustine">Augustinus</name> in. vi. Musicae: ergo multo fortius 
+       <lb ed="#B" n="48"/>nec aliquid extra est cauam intellectionis. ergo &amp;c. Quinto sic. sicut actio calefaciendi attribuitur calido, sic 
+       <lb ed="#B" n="49"/>&amp; actio viuendi viuo: tale autem non est aliquid extra: ergo &amp;c. Sexto sic. cuiuslibet actionis na-  
+       <lb ed="#B" n="50"/>turalis principium est intra: actiones sentiendi &amp; intelligendi sunt naturales: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4313-d1e151">
+       CONtra. 
+       <lb ed="#B" n="51"/>tales actiones vitae passiones sunt respectu sensus &amp; intellectus: &amp; vt potentiae passiuae se habent ad  
+       <lb ed="#B" n="52"/>illas. secundum enim philosophum, sentire pati est, &amp; similiter intelligere. praeter sensum autem &amp; intelle 
+       <lb ed="#B" n="53"/>ctum non est aliud principium agens intra: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4313-d1e160">
+       DIcendum ad hoc, quod secundum <name ref="#Aristotle">philosophum</name> in secundo de anima  
+       <lb ed="#B" n="54"/>agere &amp; pati tripliciter dicuntur secundum tres modos alterationis diuersos. Est enim vnus modus altera-  
+       <!--942.xml-->
+       <pb ed="#B" n="451-r"/>
+        <lb ed="#B" n="1"/>tionis quae est secundum priuatiuas dispositiones mutatio, quae est a contrario in contrarium, per vnius 
+       <lb ed="#B" n="2"/>illorum corruptionem &amp; alterius generationem. vt est illa qua aliquid realiter mutatur a calido in frigi 
+       <lb ed="#B" n="3"/>dum, vel econuerso. &amp; dicitur haec mutatio contrarii abiectio. Alius vero modus est alterationis 
+       <lb ed="#B" n="4"/>quae est connaturalis dispositionis receptio, quae est a potentia in actum deductio, absque omni contra 
+       <lb ed="#B" n="5"/>rio: &amp; haec mutatio dicitur salutis receptio. &amp; haec est duplex. vna qua acquiritur dispositio in re ad suam 
+       <lb ed="#B" n="6"/>propriam operationem: &amp; est illa qua aliquid intentionaliter mutatur a sensibili, aut intelligibili. al- 
+       <lb ed="#B" n="7"/>tera vero est qua elicitur a re sua propria operatio: &amp; est illa qua aliquid dispositum seipso inducitur 
+       <lb ed="#B" n="8"/>in actum: vt qua non videns aut non intelligens secundum actum, factus est videns aut intelligens:  
+       <lb ed="#B" n="9"/>&amp; dicitur salutis adeptio proprie. Sed primus modus ex parte sensus duplex est. Est enim quamdam altera 
+       <lb ed="#B" n="10"/>tio sensitiui principaliter in ipso organo sentiendi, quae est per speciem sensibilis receptam in illo per  
+       <lb ed="#B" n="11"/>medium a sensibili extra. Est autem alia alteratio sensitiui principaliter in ipsa vi sensitiua quae in ipsa 
+       <lb ed="#B" n="12"/>est inclinatio quaedam ad actum operationis suae eliciendum: &amp; est specie dicta agente in virtute 
+       <lb ed="#B" n="13"/>sensibilis extra, &amp; hoc ex parte sensus: ex parte autem intellectus nostri est ab ipso intelligibili vniuer- 
+       <lb ed="#B" n="14"/>sali, quod seipso est praesens intellectui in phantasmate actione intellectus agentis, propter quod seip- 
+       <lb ed="#B" n="15"/>so inclinat intellectum non mediante specie, quam solummodo ponimus in sensu, quia sensibile in  
+       <lb ed="#B" n="16"/>seipso non potest esse phiaesoenus intra, vt inclinando sensum ducat ipsum in actum. &amp; est haec inclinatio 
+       <lb ed="#B" n="17"/>intellectus initium habitus cognitiui. Tamen circa praecedentia intelligendum, quod in primo ge- 
+       <lb ed="#B" n="18"/>nere alterationis, quae est contrarii abiectio, alteratur corpus, vt est corpus naturale simpliciter. In  
+       <lb ed="#B" n="19"/>secundo autem genere, quae est ex parte sensus per speciei receptionem, alteratur corpus naturale, non 
+       <lb ed="#B" n="20"/>vt corpus simpliciter, sed vt organum animae. In tertio autem genere ex parte sensus alteratur cor- 
+       <lb ed="#B" n="21"/>pus naturale organicum, non inquantum est corpus simpliciter, neque inquantum est organicum, sed  
+       <lb ed="#B" n="22"/>inquantum est corpus naturale organicum viuum: quoid dicit quid compositum ex corpore naturali 
+       <lb ed="#B" n="23"/>organico, &amp; anima: prout ipsa est potentia: &amp; etiam circa actum qui est operatio siue in sensu siue 
+       <lb ed="#B" n="24"/>in intellectum: quod minime habet rationem alterationis siue mutationis aut motus. Mutatio enim omnis 
+       <lb ed="#B" n="25"/>proprie dicta: &amp; similiter motus ex vna parte, &amp; operatio ex altera, magnam habent differentiam. Mo 
+       <lb ed="#B" n="26"/>tus enim omnis est actus siue dispositio imperfecti: sm quod imperfectum est, &amp; tendit ad aliquid aliud cau 
+       <lb ed="#B" n="27"/>sandum &amp; relinquendum in moto, quemadmodum calefactio est actus calefacti &amp; relinquit in ipso 
+       <lb ed="#B" n="28"/>calorem: &amp; sic omnis mutatio proprie dicta, &amp; similiter motus, ordinantur ad aliud vt ad finem, &amp; 
+       <lb ed="#B" n="29"/>non habent in se rationem finis, &amp; non habent rationem nisi actionis transeuntis in aliud secundum 
+       <lb ed="#B" n="30"/>quod est aliud. Operatio autem est actus siue dispositio perfecti secundum quod est perfectum &amp; non ordi- 
+       <lb ed="#B" n="31"/>natur ad aliud, sed est finis &amp; perfectio vltima eius cuius est. Actiones autem vitales quae sunt sen 
+       <lb ed="#B" n="32"/>satio &amp; intellectio, non sunt mutationes aut motus, sed sunt propriae operationes sensus &amp; intelle 
+       <lb ed="#B" n="33"/>ctus, &amp; habent rationem actionis manentis in agente, quemadmodum operatio lucis est lucere in  
+       <lb ed="#B" n="34"/>seipsa: non autem transeuntis in aliud, quemadmodum motus a luce est illuminare aliud a se, 
+       <lb ed="#B" n="35"/>&amp; quemadmodum calere est operatio calidi in seipso manens: non autem quemadmodum calefa- 
+       <lb ed="#B" n="36"/>ctio est motus a calido in aliquid extra egrediens. In huiusmodi autem propriam operationem suam non  
+       <lb ed="#B" n="37"/>potest res nisi postquam fuerit in actum secundum omnes dispositiones absolutas quae ad actum requiruntur 
+       <lb ed="#B" n="38"/>quae sunt duae ex parte sensus, vna substantialis quae prima est, &amp; altera accidentalis quae est secun- 
+       <lb ed="#B" n="39"/>da. Et similiter duae correspondentes ex parte intellectus. Prima enim immutatio qua sensus habet esse 
+       <lb ed="#B" n="40"/>in actu est a generante quo ad vim sensitiuam &amp; dispositionem organi naturalem, &amp; ita ab extra:  
+       <lb ed="#B" n="41"/>secunda autem immutatio eius est a sensibili secundum quod speciem suam immittit in organum: qua  
+       <lb ed="#B" n="42"/>existente in ipso non in hoc adhuc existit sensatio vt visio vel auditio: quia talem operationem vir 
+       <lb ed="#B" n="43"/>tus sensitiua in organo existens non elicit nisi excitata &amp; inclinata &amp; determinata ad actum respe- 
+       <lb ed="#B" n="44"/>ctu determinati obiecti, quam species existens in organo agit per virtutem eius a quo processit in vim 
+       <lb ed="#B" n="45"/>sensitiuam: cuius signum est, quod cum ipsa fuerit impedita magno impulsu debet excitari vt actum suum eli 
+       <lb ed="#B" n="46"/>ciat, &amp; illa est tertium ad quam sequitur visio vt quartum: quia ipsa est terminus alterationis qua  
+       <lb ed="#B" n="47"/>inclinatur vis sensitiua iam dicto modo. Illa enim inclinatione completa, totum compositum ex or- 
+       <lb ed="#B" n="48"/>gano &amp; specie &amp; visiua vi, statim operationem suam elicit, non vt motum aliquem successiuum, neque  
+       <lb ed="#B" n="49"/>vt mutationem transeuntem extra, sed vt simplicem actionem manentem intra. Hinc Augustinus. xi. 
+       <lb ed="#B" n="50"/>de Trini. cap. ii. declarando in sensu visus, dicta quinque necessaria in quolibet sensu, quae sunt, sensi 
+       <lb ed="#B" n="51"/>bile extra, species ab ipso impressa, excitatio per illam, vis sensitiua:, ipsa sensatio, dicit sic. Cum ali 
+       <lb ed="#B" n="52"/>quod corpus videmus, tria facillimum est considerare. Primum est ipsa res quam videmus. ecce pri 
+       <lb ed="#B" n="53"/>mum. Deinde visio, ecce secundum, vt iam patebit. sequitur tertium quod in ea re quae videtur quamdiu  
+       <lb ed="#B" n="54"/>videtur visum detinet oculorum. i. animi intentio, ecce tertium. Quod enim detinet sensum non est 
+       <!--943.xml-->
+       <pb ed="#B" n="451-v"/>
+        <lb ed="#B" n="1"/>nisi illa excitatio per dictam inclinationem, de qua post pauca subdit: Quae in ea re, quam videmus, seluntntun 
+       <lb ed="#B" n="2"/>atque vtrunque coniungit. Vocat autem <name ref="#Augustine">Augustinus</name> illam animi intentionem causaliter, quia per ipsam sit sensus aniniliten- 
+       <lb ed="#B" n="3"/>tus ad obiecta percipienda. Sequitur. Sensus autem qui iam existit in animante prius quam visibile aliquid occurret ad  
+       <lb ed="#B" n="4"/>animantis naturam pertinet, ecce quartum. Sequitur. Tum ex corpore quod videtur gignitur visio. i. sensus ipse for- 
+       <lb ed="#B" n="5"/>matur qui visio vocatur, ecce quintum. 
+      </p>
+      <p xml:id="n3av8a-c1e4313-d1e309">
+       EST autem hic aduertendum, quod <name ref="#Augustine">Augustinus</name> aequiuocatione inconsueto modo ser 
+       <lb ed="#B" n="6"/>monem suum inuoluens modo suo consueto in libro de Trini. aliter in isto quinto sumit visionem, quam iam 
+       <lb ed="#B" n="7"/>supra in secundo. lbi enim visionem appellat speciem sensibilis organo impressam. secundum quod de ea postquam indu-  
+       <lb ed="#B" n="8"/>xit tertium praedictorum, dicit sic. lpsaque visio quid aliud quam sensus ex ea re quae sentitur informatus ap 
+       <lb ed="#B" n="9"/>paret. Hanc autem informationem exponit subdens: Et ipsa forma quae imprimitur sensui ab eodem visio vocatur. 
+       <lb ed="#B" n="10"/>Quia autem in quinto appellat visionem ipsam visus operationem, patet cum declarat modum genitionis 
+       <lb ed="#B" n="11"/>eius subdens post praediata de illo quinto quod vocatur &amp; visio. Gignitur autem ex re visibili visio, sed non ex 
+       <lb ed="#B" n="12"/>se sola nisi adsit &amp; videns. Intelligo autem quod adest per tertium praedictorum: vnde illud comprhendendo sub- 
+       <lb ed="#B" n="13"/>dit continuo dicens. Quocirca ex visibili &amp; vidente gignitur visio. quomodo tamen differentur, qua. scilicet a sensu vidente qui  
+       <lb ed="#B" n="14"/>pertinet ad quartum praedictorum, vt est informatus principaliter tertio: a visibili autem vt ab imprimente speciem, quae 
+       <lb ed="#B" n="15"/>pertinet ad secundum, per quam tertium formatur in sensu, declarat subdens. Ita sane vt ex vidente sit sensus 
+       <lb ed="#B" n="16"/>oculorum &amp; aspectus, atque intuentis intentio: illa tamen informatio sensus quae visio dicitur, a solo impri 
+       <lb ed="#B" n="17"/>mitur corpore quod videtur id est a re aliqua visibili. &amp; infra. Itaque non possumus dicere quod sensum gignit res 
+       <lb ed="#B" n="18"/>visibilis, gignit tamen formam velut similitudinem suam quae sit in sensu cum aliquid videndo sentimus. 
+      </p>
+      <p xml:id="n3av8a-c1e4313-d1e343">
+       NO 
+       <lb ed="#B" n="19"/>ta quod cum dicit, non possumus dicere quod sensum gignit res, sensum ibi sumit pro visione siue sensati- 
+       <lb ed="#B" n="20"/>one quae pertinet ad quintum praedictorum: in qua agens principale est vis animae inclinata: agens autem 
+       <lb ed="#B" n="21"/>instrumentale est organum informatum specie, dicente Augutgis modicum ante iam dicta. Sensus autem 
+       <lb ed="#B" n="22"/>oculorum non ob aliud sensus corporis dicitur, nisi quia &amp; ipsi oculi membra sunt corporis: &amp; quamuis non 
+       <lb ed="#B" n="23"/>sentiat corpus ex anima, anima tamen commixta corpori per instrumentum sentit corporeum. &amp; infra. At 
+       <lb ed="#B" n="24"/>que in his tamen sensus non procedit ex corpore illo quod videtur, sed ex corpore sentientis animantis, cui anima suo  
+       <lb ed="#B" n="25"/>quodam miro modo contemparatur, tamen ex corpore quod videtur gignitur visio. i. sensus ipse formatur, vt iam 
+       <lb ed="#B" n="26"/>non tantum sensus, qui etiam in tenebris esse integer potest, sed etiam sensus informatus sit, qui visio vocatur. 
+       <lb ed="#B" n="27"/>Intelligo autem quod sit informatus ipsa sensatione quae est forma compositi ex sensu &amp; organo infor-  
+       <lb ed="#B" n="28"/>mato specie. &amp; tunc immediate sequitur quod iam dictum est: gignitur ergo &amp;c. Sic ergo visio &amp; vniuer- 
+       <lb ed="#B" n="29"/>saliter sensatio, actio est viuentis sm quod est viuens, quae est operatio non motus neque alteratio, nisi exten- 
+       <lb ed="#B" n="30"/>dendo nomen alterationis, vt dicitur secundo de anima: &amp; non dicitur sensatio passio, nisi quia sine passio 
+       <lb ed="#B" n="31"/>ne aliqua sensus informatus &amp; dispositus sentire non potest. Et est illa passio duplex, vna quae principaliter est 
+       <lb ed="#B" n="32"/>ipsius organi corporalis: quae est dictae speciei receptio: alia quae est ipsius virtutis sensitiuae, quae est dicta 
+       <lb ed="#B" n="33"/>inclinatio eius ad percipiendum. Quantumcumque enim organum sit specie sensibilis informatum: si tamen vis 
+       <lb ed="#B" n="34"/>sensitiua sit impedita, quia ligata vt in somno, vel detracta per aliam virtutem superiorem operi suo mul 
+       <lb ed="#B" n="35"/>tum intentam, vel quia est circa aliud intenta: nullo modo fit sensatio nisi tantum fit excitata &amp; quasi 
+       <lb ed="#B" n="36"/>vocata forti inclinatione per speciem fortiter organo impressam, vt conuertat se ad percipiendum  
+       <lb ed="#B" n="37"/>Vnde qui aliquando vocati voce summissa non audiunt, nec percipiunt licet organum auditus informetur spe 
+       <lb ed="#B" n="38"/>cie soni talis non sufficienter excitantis &amp; inclinantis &amp; quasi ad se vocantis vim auditiuam, vocati 
+       <lb ed="#B" n="39"/>voce vehementiori statim audiunt &amp; percipiunt inclinata vi illa sufficienter. 
+      </p>
+      <p xml:id="n3av8a-c1e4313-d1e391">
+       EST ergo sciendum 
+       <lb ed="#B" n="40"/>quod ad sensationem sm actum ante omnem motum aut mutationem ad illam, quatuor debent praesupponi dis 
+       <lb ed="#B" n="41"/>posita um congruentiam &amp; correspondentiam &amp; a natura: quae sunt obiectum sensibile extra, medium, orga 
+       <lb ed="#B" n="42"/>num, &amp; vis sensitiua. Secundum <name ref="#Aristotle">philosophum</name> enim in secundo de anima, debet esse congruentia &amp; corresponden 
+       <lb ed="#B" n="43"/>tia proportionalis organi, medii, &amp; obiecti. Et etiam sm <name ref="#Augustine">Augustinus</name> vt iam dictum est, anima quodam suo miro 
+       <lb ed="#B" n="44"/>modo contemperatur organo: &amp; ita etiam aliis duobus quibus organum contemperatur. His sic disu 
+       <lb ed="#B" n="45"/>positis a natura sequuntur alia quatuor: obiectum enim similitudinem suam generat in toto medio 
+       <lb ed="#B" n="46"/>vsque ad organum: &amp; deinde medium immediate tangens organum, per speciem qua informatur conge 
+       <lb ed="#B" n="47"/>nerat speciem consimilem in organo: tertio autem species in organo existens, inclinando vim visiuamla-  
+       <lb ed="#B" n="48"/>cit esse intentam ad percipiendum, &amp; tunc demum formatur in composito ex vi sensitiua &amp; organo specie in  
+       <lb ed="#B" n="49"/>formato ipsa operatio, quae dicitur sensatio: quam vis sensitiua elicit principaliter: sed organum informatum  
+       <lb ed="#B" n="50"/>specie, instrumentaliter. Ex parte autem intellectus sunt duo correspondentia duobus praedictis in sensu, quae  
+       <lb ed="#B" n="51"/>ad vitalem operationem requiruntur. Prima enim immutatio qua intellectus habet esse in actu est a causan  
+       <lb ed="#B" n="52"/>te ipsum, &amp; hoc quo ad nudam vim intellectiuam. Secunda autem eius immutatio est ab intelligibilisibi prae 
+       <lb ed="#B" n="53"/>sente, &amp; hoc non mediante aliqua specie ab illo impressa intellectui, sed ab ipso intelligibili immediate. In  
+       <lb ed="#B" n="54"/>quo differt secunda immutatio quae sit in intellectu, ab illa quae sit in sensu. cuius ratio est, quia sensibile eoquod non  
+       <!--944.xml-->
+       <pb ed="#B" n="452-r"/>
+        <lb ed="#B" n="1"/>pontper suam substantiam esse in organo &amp; praesens vi sensitiuae ad ipsam mouendam, oportet quod sit eiphisoenus 
+       <lb ed="#B" n="2"/>per suam speciem: &amp; quia non multiplicat suam speciem nisi per actum lucidi, &amp; in lucido, immediate non potest spe 
+       <lb ed="#B" n="3"/>cien suam facere in organo nisi per medium, vt dictum est. &amp; tunc organum per speciem illam habentem vim eius cuius est 
+       <lb ed="#B" n="4"/>immutat vim illam inclinando, vt dictum est. Intelligibile autem quia bene potest esse praesenus intellectui humano  
+       <lb ed="#B" n="5"/>&amp; angelico, licet aliter &amp; aliter sm quod alibi declaratur: &amp; infra dicetur in parte: res autem obiecta quando phiosenus potest 
+       <lb ed="#B" n="6"/>esse multo melius mouet quam eius species, &amp; est maioris virtutis &amp; actiuitatis in agendo: propter hoc ex 
+       <lb ed="#B" n="7"/>parte intellectus non debet poni species sicut ponitur ex parte sensus. Sed quemadmodumi sensu species 
+       <lb ed="#B" n="8"/>existens in organo siue organum per illam speciem immutat vim sensitiuam ipsam inclinando ad percipiendum  
+       <lb ed="#B" n="9"/>per actum sensationis ipsum obiectum sensibile: sic in intellectu intelligibile phieosephus sub ratione obiecti vniuer- 
+       <lb ed="#B" n="10"/>salis vel in phantasmate, vel in habitu immediate immutat vi sua actiua ipsum intellectum inclinando ipsum  
+       <lb ed="#B" n="11"/>ad se percipiendum peractum intellectionis: &amp; dispositione illa qua sic est inclinatus, est dispositus vltimate 
+       <lb ed="#B" n="12"/>ad eliciendum intellectionem tamquam suam, propriam operationem, non tanquam ad motum aut aliquam mutationem  
+       <lb ed="#B" n="13"/>quae est actus imperfecti sm quod imperfectum est: sed tanquam operationem quae est actus perfecti sm quod perfectum est. 
+       <lb ed="#B" n="14"/>
+      </p>
+      <p xml:id="n3av8a-c1e4313-d1e467">
+       PER haec patent argumenta. Cum enim arguitur ad vnam partem primo quod operationes huiusmodi sunt omnino ab agen 
+       <lb ed="#B" n="15"/>te intra absque cooperatione agentis extra, falsum concluditur: &amp; ad alteram partem quod sunt omnino ab agen 
+       <lb ed="#B" n="16"/>te extra, similiter falsum concluditur: &amp; sic ad singula respondendum est. Quid ergo arguitur primo quod actio vitalis 
+       <lb ed="#B" n="17"/>non procedit nisi a viuente: Dicendum quod verum est vt a proximo eliciente ipsam, quia tamen eam non elicit in  
+       <lb ed="#B" n="18"/>tellectus vel sensus nisi primo immutatus &amp; ad hoc inclinatus ab obiecto vt ab agente extra, in cuius vir 
+       <lb ed="#B" n="19"/>tute per dispositionem dictamactum elicit: ideo vt a primo agente dicitur esse ab obiecto. Quod quidem quia 
+       <lb ed="#B" n="20"/>est extra animae essentiam &amp; non in ipsa per aliquam impressionem, etiam si sit intra per praesentiam sm rationem ob  
+       <lb ed="#B" n="21"/>iecti mouentis ipsum, dicitur mouens extra: inquantum tamen intelligibile est intra, &amp; phaesenus sub ratione obiecti 
+       <lb ed="#B" n="22"/>dicitur mouens intra: non sic autem ipsum sensibile: ideo respectu obiecti sensibilis obiectum in-  
+       <lb ed="#B" n="23"/>telligibile dicitur esse mouens intra, &amp; obiectum sensibile dicitur esse mouens extra: dicente <name ref="#Aristotle">philosopho</name> in secundo de 
+       <lb ed="#B" n="24"/>anima &amp; comparante haec duo sic. Differt autem quod huius quidem accidentia operationis extra sunt visibile 
+       <lb ed="#B" n="25"/>audibile, similiter autem &amp; reliqua sensuum: cam autem est quia singularium sm actum sensus est, scientia autem vniuer- 
+       <lb ed="#B" n="26"/>salium: haec autem in ipsa quodammo sunt anima. &amp; ideo est quod quaelibet animae ex parte cognoscitiuae operatio, passio di  
+       <lb ed="#B" n="27"/>citur, quia non elicit eam nisi per illud quid primo passa recipit ab obiecto. Sic etiam contingit ex parte irascibilis 
+       <lb ed="#B" n="28"/>&amp; concupiscibilis tam sensualis quam intellectualis. Non sic autem ex parte volitiuae, quae non requirit nisi praesentiam 
+       <lb ed="#B" n="29"/>obiecti in cognitiua absque omni inclinatione facta in ipsa, qua necessario elicit suam: operationem, sicut 
+       <lb ed="#B" n="30"/>contingit ex parte cognitiuae. Ad secundum, quod nulla actio transcendit speciem agentis: Dicendum quod verum 
+       <lb ed="#B" n="31"/>est de actione quae est operatio quam operatur intra se: talis enim operatio propria est cuique sm suam speciem, vt de 
+       <lb ed="#B" n="32"/>terminatur in fine quarti Metaphysicae &amp; ideo obiectum siue sensibile siue intelligibile inquantum obiectum 
+       <lb ed="#B" n="33"/>etiam si esset nobilius quam sit ipse intellectus, nullo modo operatur in sehuiusmodi operationem, sed in alio tantum: &amp; hoc 
+       <lb ed="#B" n="34"/>dispositiue. De operatione autem quam operatur in alio extra se &amp; sicut agens primum disponens agens proximum, bene 
+       <lb ed="#B" n="35"/>pont transcendere suam speciem in hoc quod agat nobiliorem operationem quam sibi competat operari iinseipso: &amp; sic 
+       <lb ed="#B" n="36"/>obiectum non viuum bene operatur in alio operationem vitalem: quemadmodum &amp; caelum operatur in viuens per 
+       <lb ed="#B" n="37"/>generationem naturalem licet in se non sit viuens. 
+      </p>
+      <p xml:id="n3av8a-c1e4313-d1e523">
+       AD tertium, quod actio denominat agentem: Dicen- 
+       <lb ed="#B" n="38"/>dum quod verum est quando est ab ipso vt ab agente proximo, etiam si non sit in eo secundum quod agens denomi- 
+       <lb ed="#B" n="39"/>natur ab eo, quod non est secundum rem nisi in passo: quando autem est ab alio vt a proximoagente in quo est, non 
+       <lb ed="#B" n="40"/>oportet. Nulla enim operatio alium denominat quam illum in quomodo est. Per idem patet ad quartum. 
+       <lb ed="#B" n="41"/>Verum est enim quod nullius actionis sensibilis causa est natura corporalis vt agens proximo eliciens: be- 
+       <lb ed="#B" n="42"/>nie tamen est agens primum, secundum dictum modum. &amp; sic intelligitur dictum Augustini: quod anima ope 
+       <lb ed="#B" n="43"/>rationem suam format in seipsa &amp; sensibilem &amp; intelligibilem ad praesentiam sensibilis &amp; intelligi 
+       <lb ed="#B" n="44"/>bilis. Dico autem ad praesentiam sensibilis &amp; intelligibilis nonnihil facientis ad illam formationem, quia  
+       <lb ed="#B" n="45"/>per inclinationem qua ipsam ad actum determinat dat ei vim: quodammo ad informandum seip- 
+       <lb ed="#B" n="46"/>sam: &amp; ita informando seipsam est mouens mota. Sine enim determinatione quam habet intellectus 
+       <lb ed="#B" n="47"/>nunquam aliquid determinate intelligeret: Et si omnino nihil ab obiecto reciperet, omnino nihil intellige- 
+       <lb ed="#B" n="48"/>ret. Et similiter ex parte sensus. Per idem patet ad quintum. Attribuitur enim actio vitae viuo vt 
+       <lb ed="#B" n="49"/>actio calendi calido: quo ad hoc quod eius est vt principii proximi &amp; in ipso: non tamen sic quod absque alterius actio 
+       <lb ed="#B" n="50"/>ne praecedente a quo patiatur &amp; disponatur ad actum, sicut calor calet, &amp; lux lucet: in quo diffe- 
+       <lb ed="#B" n="51"/>runt operationes cognitiuarum virtutum ab omnibus aliis. Ad argumentum in contrarium, quod  
+       <lb ed="#B" n="52"/>tales operationes passiones sunt, Dicendum quod nec sunt passiones, nec proprie actiones, sed sunt proprie 
+       <lb ed="#B" n="53"/>operationes: sed dicuntur passiones quia non eliciuntur a virtute nisi per hoc quod est prius passa ab obie 
+       <lb ed="#B" n="54"/>cto: sicut dictum est. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

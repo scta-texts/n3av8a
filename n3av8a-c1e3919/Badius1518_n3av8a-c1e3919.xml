@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 25</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 25</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="390-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3919">
+       <head xml:id="n3av8a-c1e3919-Hd1e96">Quaestio 25</head>
+       <p xml:id="n3av8a-c1e3919-d1e99">
+        <lb ed="#B" n="34"/>CIrca quartum arguitur quod iudex saecularis neminem potest cogere ad confitendum aliquid ad quid  
+       <lb ed="#B" n="35"/>sequitur mors alterius, quoniam in hoc committitur frequenter mortale peccatum puniendo  
+       <lb ed="#B" n="36"/>iniuste innocentem: quia frequenter sperando cito euadere poenas, accusant innocentes. 
+       <lb ed="#B" n="37"/>In contrarium est iudicum saecularium consuetudo. Si liceat: poenis extorquaere veritatem a 
+       <lb ed="#B" n="38"/>teste vel accusatore: &amp; quomodo, secundum quod notatur. v. q. vii. super cap. llli qui. de hoc ni 
+       <lb ed="#B" n="39"/>hil ad praesens. Sed quaestio est de illis qui morti sunt adiudicati, vel in viculis seruam 
+       <lb ed="#B" n="40"/>tur condemnati: a quibus iudices per poenas nituntur exquirere complices suos male 
+       <lb ed="#B" n="41"/>factores: vtrum liceat hoc iudicibus. Et est dicendum quod talium complicum facta aut sunt omnino occulta: &amp; non  
+       <lb ed="#B" n="42"/>sunt super factis suis in iudicium vocati: aut tanquam infamati super factis suis ad iudicium sunt vocati:  
+       <lb ed="#B" n="43"/>quia diffamati sunt. Si primo modo: nullo modo debent eos ad confitendum sic occulta cogere per poe- 
+       <lb ed="#B" n="44"/>nas: quia prodere sic occulta peccatum mortale est: &amp; mortaliter peccat quicumque alium ad mortaliter 
+       <lb ed="#B" n="45"/>peccandum compellit. Vnde tales nullis poenis compulsi debent talia confiteri: &amp; debent sacerdotes 
+       <lb ed="#B" n="46"/>hoc inhibere qui audiunt eorum confessiones. Si vero sunt propter famam vocati ad iudicium: arbitror  
+       <lb ed="#B" n="47"/>quod super illis certis articulis qui eis imponuntur a iudice, si praesumeret quod absque poenis non vellent 
+       <lb ed="#B" n="48"/>dicere veritatem, posset eam poenis extorquere. Vt secundum quod dicitur in praedicto capitulo:  
+       <lb ed="#B" n="49"/>dum poenis corporalibus subiiciuntur, quae gesta sunt fideliter &amp; veraciter exprimantur, sed non  
+       <lb ed="#B" n="50"/>ad hoc vt isti sint testes: &amp; dictis eorum aliquis condemnetur: sed vt ex hoc praesumptio ali- 
+       <lb ed="#B" n="51"/>qua habeatur. 
+      </p>
+      <p xml:id="n3av8a-c1e3919-d1e141">
+       PER haec patet ad primum: dicendo quod ex eorum confessione nunquam debet sequi 
+       <lb ed="#B" n="52"/>mors. immo iniquus esset iudex qui propter talium confessionem aliquem morti addiceret, siue 
+       <lb ed="#B" n="53"/>esset innocens siue nocens, nisi aliter constaret facinus iudici: &amp; ei illa confessio aliquam prae- 
+       <lb ed="#B" n="54"/>sumptionem daret Nam plaerique ita. tormenta. contemnunt, vt exprimi veritas ab eis 
+       <!--820.xml-->
+       <pb ed="#B" n="390-r"/>
+        <lb ed="#B" n="1"/>nullo modo possit. Alii potius mentiri quam pati tormenta volunt. &amp; sanctius est impunitum relinqui fa 
+       <lb ed="#B" n="2"/>cinus nocentis: quam innocentem damnare. 
+      </p>
+      <p xml:id="n3av8a-c1e3919-d1e159">
+       AD secundum: quod si iudices seruant consuetudinem secundum 
+       <lb ed="#B" n="3"/>modum iam tactum: puto quod bona est: alias autem est corruptela.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

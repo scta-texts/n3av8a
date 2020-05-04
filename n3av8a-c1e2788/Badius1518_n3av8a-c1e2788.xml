@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="261-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2788">
+       <head xml:id="n3av8a-c1e2788-Hd1e96">Quaestio 7</head>
+       <p xml:id="n3av8a-c1e2788-d1e99">
+        <lb ed="#B" n="26"/>AD quartum quod sine argumentis proponebatur a latere: am scilicet laus vocalis erit in gloria 
+       <lb ed="#B" n="27"/>Dicendum quod quaestio ista non quaerit nisi quomodo ibi poterunt voces formari 
+       <lb ed="#B" n="28"/>cum non supponatur quod ibi sit medium aeris, in quo nata est vox formari &amp; defer- 
+       <lb ed="#B" n="29"/>ri ad aures audientium. Et est maior dubitatio quomodo ibi erit quam an erit. quia 
+       <lb ed="#B" n="30"/>si esset medium quomodo posset ibi formari, non dubitaretur an ibi esset: sed de 
+       <lb ed="#B" n="31"/>plano supponeretur: quia in vita illa gloriosa nihil remanebit imperfectum, quaeli 
+       <lb ed="#B" n="32"/>bet autem vis actiua imperfecta est secundum quod est in habitu: seu in potentia 
+       <lb ed="#B" n="33"/>respectu eius quod est, cum est perfecta in suo actum secundo. status enim ille sicut dormientis est respe 
+       <lb ed="#B" n="34"/>ctu istius, secundum philosophum. xii. metaphysicae. Oportet igitur quod in vita gloriosa omnes vires &amp; 
+       <lb ed="#B" n="35"/>corporales &amp; spirituales sint perfectae existentes in suo actu secundo: maxime cum actus secundus 
+       <lb ed="#B" n="36"/>est perfectus simpliciter. Quod dico propter aliquas vires quae ibi non erunt in sua operatione propter 
+       <lb ed="#B" n="37"/>imperfectionem eis annexam. vt nutritiua, generatiua, digestiua, augmentatiua, &amp; huiusmodi. Quare cum 
+       <lb ed="#B" n="38"/>propria operatio linguae, dentium, &amp; labiorum absque omni imperfectione annexa, sit locutio atque  
+       <lb ed="#B" n="39"/>vocum modulatio: sicut est operatio oculorum visio: quemadmodum igitur ibi ponemus sensum vi 
+       <lb ed="#B" n="40"/>sus in sua actione videndi: sic &amp; linguam in sua operatione voces modulandi: quibus mutuo sancti 
+       <lb ed="#B" n="41"/>in patria sese alloquentur: &amp; concinent hymnos diuinae laudis. Sed quomodo fiet hoc cum non sit 
+       <lb ed="#B" n="42"/>ibi aer inspiratus &amp; respiratus: sine quo vocis modulatio formari non habet nec deferrinisi esset ex 
+       <lb ed="#B" n="43"/>terius diffusus per totum medium: etsi forte formaretur in ore: Vt non valeat quod volunt aliqui di-  
+       <lb ed="#B" n="44"/>cere, quod sicut intestina corporum gloriosorum plena erunt aliquo humore: sic guttur trachea arte- 
+       <lb ed="#B" n="45"/>ria &amp; os aere, in quo sancti voces poterunt formare. Si ergo ponamus caelum empyreum in quo cre 
+       <lb ed="#B" n="46"/>duntur victura corpora beatorum sicut cameram magnam concauitatem habentem intra super 
+       <lb ed="#B" n="47"/>ficiem circundantem circunquaque corpora beatorum: &amp; illam plenam esse aere: &amp; in illo contineri 
+       <lb ed="#B" n="48"/>corpora beatorum: tunc quaestio nullam habet difficultatem. Sed quia nuilum elementare corpus 
+       <lb ed="#B" n="49"/>nisi gloriosum ibi futurum potius supponitur: quaestio habet difficultatem in quo formari possit 
+       <lb ed="#B" n="50"/>ibi vox: &amp; per quod medium formata deferri: &amp; hoc maxime supposito quod substantia empyrei sit so 
+       <lb ed="#B" n="51"/>lida non fluxibilis. Si enim fluida esset ad modum aeris, fine difficultate dici posset quod in ipsa vox for 
+       <lb ed="#B" n="52"/>maretur: quemadmodum &amp; in aere. Ponendo igitur substantiam empyrei solidam &amp; non intercisam:  
+       <lb ed="#B" n="53"/>nec concauitatem habentem, sed totam vndique continuam: quomodo vox ibi formabitur: Et est dicendum quod istis 
+       <lb ed="#B" n="54"/>suppositis si ibi vox formabitur non video quod istud per alium modum potest poni quam dicendo  
+       <!--562.xml-->
+       <pb ed="#B" n="261-r"/>
+        <lb ed="#B" n="1"/>quod corpora gloriosa simul erunt cum substantia empyrei: ac si corpora nostra modo essent in aere fine 
+       <lb ed="#B" n="2"/>aeris diuisione. Sed determinabunt in illo diuersos situs quid difficultatem magnam habet ad praesens. Sed  
+       <lb ed="#B" n="3"/>ipso supposito dico: quod corpore beati subintrante corpoream substantiam empyrei sine partium alterius 
+       <lb ed="#B" n="4"/>diuisione, beatus ipse existens in soliditate empyrei potest mouere linguam, labia, &amp; dentes mo- 
+       <lb ed="#B" n="5"/>tibus harmonicis, quibus moueret illa membra si esset in aere, interceptis absque discontinuatione  
+       <lb ed="#B" n="6"/>partibus empyrei: sicut ibi interceptis partibus a eris inter linguam, dentes, &amp; labia per ipsarum di-  
+       <lb ed="#B" n="7"/>uisionem. Quare sicut in partibus aeris interceptis per diuisionem: ex harmonico contactu dicto- 
+       <lb ed="#B" n="8"/>rum membrorum formatur vox in aere: similiter dicendum quod formabitur in partibus illis empyrei 
+       <lb ed="#B" n="9"/>corporis ex transitu dictorum membrorum per partes empyrei in suis motibus harmonicis vsque ad il- 
+       <lb ed="#B" n="10"/>las partes interceptas: quasi vsque ad illas repercuteret partes aeris: &amp; tunc postquam partes illae vocis 
+       <lb ed="#B" n="11"/>sonitum receperint, multiplicant eum per partes continuas circumquaque toto empyreo corpore resonam 
+       <lb ed="#B" n="12"/>te in summa melodia. Vnde &amp; quidam philosophi posuerunt quod corpora caelestia ex contactu in suis moti 
+       <lb ed="#B" n="13"/>bus dulcem sonitum redderent. secundum quod recitat Aristo. in secundo libro cae. &amp; mun. Sed si dictum il- 
+       <lb ed="#B" n="14"/>lud alicui videatur insufficiens: quia secundum determinationem philosophi in secundo de anima, Sonus non genera- 
+       <lb ed="#B" n="15"/>tur in aere nisi ex confractione &amp; coarctatione aeris per dicta instrumenta naturalia: quae non fiunt 
+       <lb ed="#B" n="16"/>in proposito: tunc cum non habemus quid amplius dicamus ex causis rerum naturalium: recurramus 
+       <lb ed="#B" n="17"/>ad miraculum: dicendo quod sicut miraculose non naturaliter sunt ibi gloriosa corpora simul cum cor 
+       <lb ed="#B" n="18"/>pore empyrei: sic miraculose ex dictis motibus linguae, dentium, &amp; labiorum formatur vox in empy- 
+       <lb ed="#B" n="19"/>reo: &amp; vlterius miraculose generata multiplicatur vt ad aures singulorum perueniat. Cui haec non suffi 
+       <lb ed="#B" n="20"/>ciunt, apponat de suo quod sibi placuerit.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

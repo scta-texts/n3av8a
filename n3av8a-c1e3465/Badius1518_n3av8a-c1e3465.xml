@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 28</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 28</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3465">
+       <head xml:id="n3av8a-c1e3465-Hd1e96">Quaestio 28</head>
+       <p xml:id="n3av8a-c1e3465-d1e99">
+        <lb ed="#B" n="15"/>Equuntur quaesita circa praelatos ecclesiasticos quo ad dispensationem spiritualium 
+       <lb ed="#B" n="16"/>Vbi quaerebatur vnum pertinens ad absolutionis poenitentialis ratihabitionem. Se 
+       <lb ed="#B" n="17"/>cundum vero ad curae spiritualis subtractionem. Tertium vero ad curae spiritualis com 
+       <lb ed="#B" n="18"/>missionem. Quartum autem ad confessorum reuelationem. Primum erat. Si habens potesta 
+       <lb ed="#B" n="19"/>tem absoluendi limitatam: absoluat de aliis, &amp; postm odum a superiori qui super 
+       <lb ed="#B" n="20"/>illis habet absoluendi potestatem, petat ratihabitionem: vtrum ratihabitio ob- 
+       <lb ed="#B" n="21"/>tenta sufficiat. Secundum erat. vtrum abbas sciens monachum suum per confes 
+       <lb ed="#B" n="22"/>sionem eius constitutum in cura parochiali esse corruptorem parochianarum suarum, teneatur eum 
+       <lb ed="#B" n="23"/>reuocare ad abbatiam suam, &amp; a cura amouere. Tertium, quis duorum fratrum vterinorum quo-  
+       <lb ed="#B" n="24"/>rum vnus genitus est ex matrimonio praecedente, tamen clandestino: alter vero genitus est ex matri- 
+       <lb ed="#B" n="25"/>monio sequente praesumpto, solenniter tamen facto in facie ecclesiae: legitimus est ad curam animarum 
+       <lb ed="#B" n="26"/>suscipiendam: si ambo sint sacerdotes. Quartum, si aliquis in confessione dixerit se alterum quem 
+       <lb ed="#B" n="27"/>nominauit occisurum: &amp; quod vellet non habere voluntatem occidendi: sacerdos cui confitetur poterit 
+       <lb ed="#B" n="28"/>dicere illi cui comminatus est, caueatis vobis: aliquis insidiatur vobis ad occidendum vos. 
+      </p>
+      <p xml:id="n3av8a-c1e3465-d1e132">
+       CIRca pri 
+       <lb ed="#B" n="29"/>mum arguitur quod ratihabitio sufficit ad hoc quod absolutio praefecta valeat: &amp; confitens sit vere absolu- 
+       <lb ed="#B" n="30"/>tus, quia extra de his quae fiunt a praelato fine consensu capituli. Cum vos. dicitur quod per ratihabitionem 
+       <lb ed="#B" n="31"/>capituli valet factum praelati, super quo per se potestatem non habuit. ergo a consimili in proposito 
+       <lb ed="#B" n="32"/>per ratihabitionem valet absolutio quae sine ea non valeret. 
+      </p>
+      <p xml:id="n3av8a-c1e3465-d1e143">
+       CONtra. si consecret qui non habet 
+       <lb ed="#B" n="33"/>potestatem consecrandi: &amp; nihil valet quod fecit: quia idem fecit: non potest valere &amp; efficax esse per ali 
+       <lb ed="#B" n="34"/>cuius potestatem habentis ratihabitionem. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3465-d1e150">
+       DIcendum ad hoc: quod ea quae sacramentaliter si i 
+       <lb ed="#B" n="35"/>unt per ecclesiam, in factis consistunt per verba circa sensibile elementum: &amp; hoc quantum est ex parte sa- 
+       <lb ed="#B" n="36"/>cramenti, &amp; in potentia quantum est ex parte administrantis sacramentum: ita quod etsi Christus effectum sacra 
+       <lb ed="#B" n="37"/>mentorum efficere potuit in illis quibus adhiberet sine sacramentis: &amp; etiam licet huiusmodi potestatem hominibus 
+       <lb ed="#B" n="38"/>puris &amp; ministris ecclesiae potuisset tribuisse: vt scilicet sola inuocatione &amp; intercessione absque sacramentis 
+       <lb ed="#B" n="39"/>effectum sacramentorum egisset: nulli tamen homini in ecclsia neque eccliae huiusmodi potestatem tribuit: vt dicit 
+       <lb ed="#B" n="40"/>Augustinus exponens illud loan i. Vidi spiritum descendentem quasi columbam &amp;c. &amp; sequitur. Et ego nesciebam. Propter 
+       <lb ed="#B" n="41"/>quid dico: cum in absolutione poenitentiali requiritur potestas ordinis &amp; eius executio ex parte ministri, &amp; verba 
+       <lb ed="#B" n="42"/>absolutoria applicata ad ipsum confessum vt ad propriam materiam: &amp; cum alterum deficit vel vtrumque  
+       <lb ed="#B" n="43"/>non habetur sacramentalis absolutio: In proposito autem ex parte sacerdotis absoluentis deficit potestas se 
+       <lb ed="#B" n="44"/>cundum positionem: ex parte autem superioris etsi sit sola ratihabitio, deficit tamen verbum cum applicatione  
+       <lb ed="#B" n="45"/>ad elementum: Idcirco non sufficit ratihabitio ad absolutionem confessi: immo vel debet accedere ad si- 
+       <lb ed="#B" n="46"/>periorem &amp; ab ipso absolui: aut debet supior potestatem alicui committere per quem absoluatur. Et secundum haec  
+       <lb ed="#B" n="47"/>concedendum est secundum argumentum. 
+      </p>
+      <p xml:id="n3av8a-c1e3465-d1e182">
+       AD primum in oppositum quod in alienatione sufficit ratiha- 
+       <lb ed="#B" n="48"/>bitio superueniens: ergo &amp; in proposito: Dicendum quod non est simile: quia alienatio dependet ex sola 
+       <lb ed="#B" n="49"/>voluntate habentis potestatem alienandi. Propter quiod cum alienatio dependet a voluntate plurium, si 
+       <lb ed="#B" n="50"/>voluntas vnius praecedat, sufficit ratihabitio qua habetur voluntas alterius subsequens, continuata ta 
+       <lb ed="#B" n="51"/>men voluntate prioris cum voluntate posterioris: &amp; non prius reuocata: quia tunc non est sola ra- 
+       <lb ed="#B" n="52"/>tihabitio: sed gemina concurrens voluntas. Vnde etsi absolutio in proposito dependeret a sola volum 
+       <lb ed="#B" n="53"/>tate superioris, similiter valeret per solam eius ratihabitionem: nunc autem non est ita vt dictum est: 
+       <lb ed="#B" n="54"/>ideo non sufficit sola ratihabitio. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

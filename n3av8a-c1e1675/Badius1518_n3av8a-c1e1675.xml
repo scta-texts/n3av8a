@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 30</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 30</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="146-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1675">
+       <head xml:id="n3av8a-c1e1675-Hd1e96">Quaestio 30</head>
+       <p xml:id="n3av8a-c1e1675-d1e99">
+        <lb ed="#B" n="19"/>CIrca secundum arguitur: quod qui acquisiuit beneficium ecclesiasticum per simu- 
+       <lb ed="#B" n="20"/>lationem &amp; hypocrisim, tenetur illud restituere siue resignare: quia non intra- 
+       <lb ed="#B" n="21"/>uit per ostium: quia non per Christum qui est ostium. loannis decimo. &amp; ideo 
+       <lb ed="#B" n="22"/>vt dicitur ibidem, fur est &amp; latro. Fur autem &amp; latro adepta per latrocinium te 
+       <lb ed="#B" n="23"/>netur restituere. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1675-d1e112">
+       CONTRA. Iacob benedictionem suam simulatio-  
+       <lb ed="#B" n="24"/>ne acquisiuit: &amp; tamen non tenebatur eam fratri sui: cui eam surripuit. restitue 
+       <lb ed="#B" n="25"/>re, sicut nec restituit. 
+      </p>
+      <p xml:id="n3av8a-c1e1675-d1e119">
+       DICENdum ad hoc quod in collatione &amp; receptione beneficiorum ecclesiastico 
+       <lb ed="#B" n="26"/>rum quae conferri debent ecclesiasticis personis considerandum est qui sunt apti &amp; idonei diuino  
+       <lb ed="#B" n="27"/>ministerio in ecclesia dei: ita quod huiusmodi conditionem debet respicere dans in recipiente ne sit per 
+       <lb ed="#B" n="28"/>sonarum acceptor in dando, &amp; recipiens in seipso ne sit mercenarius in recipiendo. Sed tunc distin-  
+       <lb ed="#B" n="29"/>guendum est. Aut enim iste simulauit se vt ille aspiceret ad id quod simulauit: &amp; propter illud be- 
+       <lb ed="#B" n="30"/>neficium ei conferret: &amp; ille in conferendo ad illud respexit. Aut iste propter aliud quidem se simu- 
+       <lb ed="#B" n="31"/>lauit, non intendendo per hoc ab illo obtinere beneficium: neque ille contulit aspiciendo ad simulationem 
+       <lb ed="#B" n="32"/>sed ad hoc quod simpliciter erat idoneus. Aut iste simulauit vt ille aspiceret ad simulationis: sed ille 
+       <lb ed="#B" n="33"/>non aspexit: aut econuerso ille aspexit, sed iste ad hoc non simulauit. Si primo modo, nullo modo te- 
+       <lb ed="#B" n="34"/>netur ad resignationem: quia simulatio impertinens erat collationi beneficii. Si secundo modo, aut 
+       <lb ed="#B" n="35"/>ergo simulatio fuit de illis vel super illis quae sunt simpliciter bona, &amp; pertinent ad illa quibus per- 
+       <lb ed="#B" n="36"/>sona est nata esse idonea diuino seruitio: vt sunt esse iustum, pudicum, timoratum, misericordem &amp; 
+       <lb ed="#B" n="37"/>huiusmodi: aut fuit super illis quae sunt ad hoc seruitium impertinentia &amp; indifferentia: vt sunt fa 
+       <lb ed="#B" n="38"/>uor &amp; amicitia humana, siue dilectio &amp; huiusmodi. Si primo modo: cum conferens etsi respiciat ad  
+       <lb ed="#B" n="39"/>id quod simulatur: quia tamen nullus sanae mentis in conferendo respiceret ad id inquantum simu- 
+       <lb ed="#B" n="40"/>latur, sed solum inquantum credit inesse secundum rei veritatem id quod simulatur: quod vt crede- 
+       <lb ed="#B" n="41"/>re faciat ille se simulat: etsi iste ergo peruersa intentione simulat &amp; fingit esse in se quod non est: quia 
+       <lb ed="#B" n="42"/>tamen conferens beneficium inquantum confert non respicit nisi illud quod inesse credit: etsi non  
+       <lb ed="#B" n="43"/>insit: ipse sancte confert: &amp; in conferendo non peccat: sed pro bona voluntate &amp; intentione probabi- 
+       <lb ed="#B" n="44"/>liter decepta potius meretur. Et si ille qui se simulat, alias sit ido neus in obtinendo beneficium, pec- 
+       <lb ed="#B" n="45"/>cat tamen in simulatione intendendo beneficium obtinere per simulationem: etsi non propter eam 
+       <lb ed="#B" n="46"/>obtineat: licet non sine simulatione. Et debet agere poenitentiam de simulatione. Sed nullo modo  
+       <lb ed="#B" n="47"/>tenetur ad resignationem. Et est simile de illo qui alias est idoneus obtinere beneficium, &amp; praelato of- 
+       <lb ed="#B" n="48"/>fert munus vt sibi beneficium conferatur: quod praelatus respuit &amp; non acceptat: aut si acceptat, non 
+       <lb ed="#B" n="49"/>tamen propter munus illud confert ei beneficium: sed pro eo quod est alias idoneus. Vnde si ille qui se si 
+       <lb ed="#B" n="50"/>mulat, non esset alias idoneus: ipse dupliciter peccaret: &amp; in simulando: &amp; in temerarie beneficium 
+       <lb ed="#B" n="51"/>sibi incompetens acceptando. Et si praelatus eum inidoneum sciret, multum in conferendo pecca- 
+       <lb ed="#B" n="52"/>ret. Ad resignationem tamen non tenetur ille: nisi ita sit quod mortaliter peccet omnis qui tenet benefi- 
+       <!--333.xml-->
+       <pb ed="#B" n="146-v"/>
+        <lb ed="#B" n="1"/>cium ad quod est &amp; scit se inidoneum esse ad deseruiendum. Quilibet enim tenetur a se amouere il 
+       <lb ed="#B" n="2"/>lud quod tenet ipsum in peccato mortali. de quo nihil ad praesens. Si vero simulatio fuit de eis quae per- 
+       <lb ed="#B" n="3"/>tinent ad fauorem &amp; amicitiam carnalem: cum fauor &amp; amicitia pertineant ad bona personalia tantum: 
+       <lb ed="#B" n="4"/>&amp; ideo sunt quasi munera oblata a lingua vel ex obsequio: in isto casu credo quod peccat conferens tanquam 
+       <lb ed="#B" n="5"/>acceptor personarum pro munere: &amp; ita quantum in ipso est symoniacus est. Et peccat etiam reci- 
+       <lb ed="#B" n="6"/>piens in simulatione: &amp; in vitio symoniaco incidenti pro muneris collatione. &amp; si per simulationem in-  
+       <lb ed="#B" n="7"/>tendebat obtinere beneficium, tenetur sicut symoniacus beneficium resignare: si tamen statutum 
+       <lb ed="#B" n="8"/>ecclesiae quod symoniaci beneficia ecclesiastica percipere non possunt: aut percepta tenentur resignare: in-  
+       <lb ed="#B" n="9"/>telligatur de omni genere symoniae. Super hoc enim est quorundam opinio quod statutum ecclesiae in-  
+       <lb ed="#B" n="10"/>telligitur de illo genere symoniae quae contrahitur per munus a manu vel ab obsequio proprie di-  
+       <lb ed="#B" n="11"/>cto: quia per vtrunque istorum aliquid reale recipitur a conferente beneficium: non autem de illo ge- 
+       <lb ed="#B" n="12"/>nere symoniae quae contrahitur per munus a lingua, &amp; in aliis modis simulationis, in quibus nihil 
+       <lb ed="#B" n="13"/>reale recipit conferens beneficium. Aliorum vero opinio est, quod statutum ecclesiae intelligitur de om 
+       <lb ed="#B" n="14"/>ni genere symoniae. Si vero non intendebat per illam simulationem obtinere beneficium: &amp; sit alias 
+       <lb ed="#B" n="15"/>idoneus: licet ad munus simulationis aspiceret conferens: &amp; ipse quantum in se est sit symoniacus:  
+       <lb ed="#B" n="16"/>non tamen credo quod symoniacus sit recipiens: nec beneficium tenetur resignare: nisi firmiter cre- 
+       <lb ed="#B" n="17"/>dat &amp; praesumat quod propter simulationem principaliter beneficium ei sit collatum: &amp; nisi symonia ex 
+       <lb ed="#B" n="18"/>altera parte, faceret collationem ex vtraque parte esse symoniacam. Si vero alias non sit idoneus, tunc 
+       <lb ed="#B" n="19"/>peccat recipiens: &amp; non tenetur aliter resignare nisi secundum iam tactum modum. 
+      </p>
+      <p xml:id="n3av8a-c1e1675-d1e226">
+       PER dicta 
+       <lb ed="#B" n="20"/>patet responsio ad obiectum primum. 
+      </p>
+      <p xml:id="n3av8a-c1e1675-d1e232">
+       AD Secundum de lacob, dicendum quod eius simulatio facta 
+       <lb ed="#B" n="21"/>est in prophetia &amp; mysterio: secundum quod exponit <name ref="#Augustine">Augustinus</name> contra Faustum. Vnde licet non  
+       <lb ed="#B" n="22"/>sine illa simulatione quo ad factum exterius obtinuit Iacob benedictionem: non tamen propter il- 
+       <lb ed="#B" n="23"/>lam sed propter mysterium quod forte pro hora lsaac latuit: sed tamen in ipso spiritus sanctus in-  
+       <lb ed="#B" n="24"/>tendebat.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

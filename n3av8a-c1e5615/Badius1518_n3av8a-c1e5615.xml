@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="579-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5615">
+       <head xml:id="n3av8a-c1e5615-Hd1e96">Quaestio 7</head>
+       <p xml:id="n3av8a-c1e5615-d1e99">
+        <lb ed="#B" n="48"/>SEquuntur quaesita de substantia. vbi quaerebatur vnicum pertinens ad substantiam crea 
+       <lb ed="#B" n="49"/>tam generaliter. Deinde plura pertinentia ad diuersas substantias intellectuales crea- 
+       <lb ed="#B" n="50"/>tas specialiter. Illud vnicum erat, vtrum aliquod agens creatum in agendo posset attin-  
+       <lb ed="#B" n="51"/>gere substantiam primae materiae. Ex arguitur quod sic, hoc modo. Quod aliquid educit de 
+       <lb ed="#B" n="52"/>substantia materiae, actione sua attingit illam, quia omne agens attingit illud in quid  
+       <lb ed="#B" n="53"/>agit: quia agens &amp; patiens debent esse simul, vt dicitur in primo de generatione. agens autem 
+       <lb ed="#B" n="54"/>creatum educit per generationem substantialem formam non de subiecto existente in actum, sicut educit per altera- 
+       <!--1198.xml-->
+       <pb ed="#B" n="579-r"/>
+        <lb ed="#B" n="1"/>tionem formam accidentalem, sed de materia existente in potentia tantum, vt dicitur in eodem. lpsa enim inest 
+       <lb ed="#B" n="2"/>materiae immediate. forma autem accidentalis non inest materiae nisi mediante forma substantiali. ergo &amp;c. 
+       <lb ed="#B" n="3"/>Contra. cum agens naturale non sit nisi quantum, non agit nisi in quanto: quia non agit nisi per conta- 
+       <lb ed="#B" n="4"/>ctum, &amp; quantum non tangit nisi quantum. Quantitas autem semper in subiecto media est inter agentem &amp; 
+       <lb ed="#B" n="5"/>substantiam materiae. agens autem non attingit substantiam materiae, quando aliquid aliud est medium inter 
+       <lb ed="#B" n="6"/>ipsam &amp; materiam. ergo &amp;c. Dico quod agens naturale in trasmutatione dicitur illud attingere, quid prae- 
+       <lb ed="#B" n="7"/>cise manet vnum &amp; idem in tota transmutatione, scilicet &amp; sub forma quae corrumpitur in termino a 
+       <lb ed="#B" n="8"/>quo, &amp; sub forma quae producitur in termino ad quem. Idcirco alterans dicitur attingere sua actione non  
+       <lb ed="#B" n="9"/>substantiam nudam primae materiae in sola potentia existentem, sed solummodo subiectum existens in actum com- 
+       <lb ed="#B" n="10"/>positum ex materia &amp; forma substantiali. licet enim substantia materiae maneat in alteratione, non tamen manet 
+       <lb ed="#B" n="11"/>sola, vt praecise vnum conmune vtrique termino trasmutationis. Et sic idem est quaerere quid sit subiectum 
+       <lb ed="#B" n="12"/>cone manens in tota transmutatione, &amp; quaerere quid sit illud quod agens sua actione attingit. Et quia 
+       <lb ed="#B" n="13"/>super hoc est maior dubitatio in transmutatione quae est generatio, quam in aliis, circa generationem ergo quaestio- 
+       <lb ed="#B" n="14"/>nis difficultatem prosequamur praecise. Circa generationem autem variatur responsio ad quaestionem secundum diuer- 
+       <lb ed="#B" n="15"/>sos modos ponendi modos generationis naturalis: Qui sunt. vi. quorum primus est ponentium formarum lati 
+       <lb ed="#B" n="16"/>tantiam, qui posuerunt generationem fieri sola congregatione &amp; segregatione partium materialium pu 
+       <lb ed="#B" n="17"/>ta atomorum. Dicebant enim, quod omnia secundum formas suas essent contenta in omnibus, &amp; commixta, puta li- 
+       <lb ed="#B" n="18"/>gnum, lapis, plumbum, aurum, caro, os, homo, leo, album, nigrum, dulce, amarum, &amp; caetera huiusmo- 
+       <lb ed="#B" n="19"/>di, &amp; quod generatio nihil aliud esset quam ad superficiem exteriorem congregatio partium ad eandem formam 
+       <lb ed="#B" n="20"/>pertinentium, &amp; aliarum partium segregatio ab illis ad interius: &amp; quod sic vnumquodque denominaretur, puta li- 
+       <lb ed="#B" n="21"/>gnum, vel lapis, aut aliquid caeterorum, prout partes formas vnius eorum, vel alterius continentes, 
+       <lb ed="#B" n="22"/>abundantius exterius apparent, sicut in olla bulliente in qua sunt commixta pisa, faba, vicia, seminium, 
+       <lb ed="#B" n="23"/>&amp; caeterae species leguminum, quandoque abundantius apparent superius in orificio ollae pisa, quandoque fa- 
+       <lb ed="#B" n="24"/>bae, aut aliquid caeterorum: &amp; per hoc modo apparet quod olla illa contineat sola pisa, modo quod solas fabas, 
+       <lb ed="#B" n="25"/>&amp; sic de caeteris. Secundum talem modum ponendi generationem dicendum esset quod agens in generatione  
+       <lb ed="#B" n="26"/>sua actione non attingit materiae substantiam nudam, sed quoddam admixtum continens in diuersis par- 
+       <lb ed="#B" n="27"/>tibus materiae singulorum formas. Secundus est ponentium gradum formarum substantialium in quolibet 
+       <lb ed="#B" n="28"/>generabili, &amp; corruptibili, &amp; aliquam formam. symbolam manentem communiter in generato, &amp; corrupto. qui 
+       <lb ed="#B" n="29"/>ponebant generationem fieri per appositionem formarum posteriorum, quibus generatum &amp; corruptum inter 
+       <lb ed="#B" n="30"/>se distinguuntur. Secundum talem modum ponendi generationem fieri, dicendum esset, quod agens in gene- 
+       <lb ed="#B" n="31"/>ratione sua actione attingit non substantiam materiae, sed subiectum quoddam compositum ex substantia ma-  
+       <lb ed="#B" n="32"/>teriae, &amp; forma substantiali incompleta, quae est forma generalissimae substantiae, puta substantialitas sola, 
+       <lb ed="#B" n="33"/>aut cum hoc forma secundi generis sub substantia, quae dicitur corporeitas. Tale enim compositum secundum 
+       <lb ed="#B" n="34"/>illos manet in tota transmutatione generationis, &amp; solum fiunt generatio &amp; corruptio secundum formas poste- 
+       <lb ed="#B" n="35"/>riores completiores. Tertius est ponentium gradus non formarum substantialium secundum sub &amp; supra secundum di 
+       <lb ed="#B" n="36"/>uersitatem generum &amp; specierum in linea praedicamentali, sed ponentium vnius formae manentis gradus 
+       <lb ed="#B" n="37"/>secundum esse perfectius &amp; completius penes illam generum &amp; specierum diuersitatem, qui dicebant generationem 
+       <lb ed="#B" n="38"/>fieri per acquisitionem ex generatione esse perfectius, &amp; completius vsque ad vltimum completiuum ipsi formae 
+       <lb ed="#B" n="39"/>manenti. Et secundum talem modum ponendi dicendum esset, vt iam prius, quod agens in generatione  
+       <lb ed="#B" n="40"/>non attingit substantiam materiae, sed subiectum quoddam compositum ex substantia materiae &amp; forma sub 
+       <lb ed="#B" n="41"/>stantiali sub esse incompletissimo competens vel generalissimo substantiae, vel alicui sub illo. Illud enim composi 
+       <lb ed="#B" n="42"/>tum manet, &amp; sit solummodo generatio secundum esse perfectius. Quartus est ponentium inchoationes for 
+       <lb ed="#B" n="43"/>marum in materia, quas vocabant potentias actiuas in materia, praecedentes omnino trasmutationem genera 
+       <lb ed="#B" n="44"/>tionis, quas quasi excitatas per actum generationis ponebant pullulare in formas perfectas, &amp; ipsas non  
+       <lb ed="#B" n="45"/>esse formas, sed quaedam semina formarum, quod aliqui ponebant sensisse Augustinum. Secundum istos dicendum  
+       <lb ed="#B" n="46"/>esset quod agens in generatione non attingeret compositum ex materia &amp; forma, nec nudam substantiam ma 
+       <lb ed="#B" n="47"/>teriae, sed medium quoddm scilicet substantiam materiae cum seminario formae. Quintus est ponentium dato-  
+       <lb ed="#B" n="48"/>res formarum &amp; generationem esse non productionem formae de materia, sed in materia tantum, quasi generatio 
+       <lb ed="#B" n="49"/>non esset aliud quam creatio formae in materia, prout Auerrois imponit Auicennae. secundum quem dicendum esset 
+       <lb ed="#B" n="50"/>quod agens sua actione generandi attingeret nudam substantiam materiae: quod secundum illum ipsa manet conmu 
+       <lb ed="#B" n="51"/>nis sola generato &amp; corrupto. Sextus est ponentium quod nihil sit formae aut seminarium eius, nec omnino for- 
+       <lb ed="#B" n="52"/>ma aliqua in generabilibus &amp; corruptibilibus quin sit generabile &amp; corruptibile, &amp; quod generatio non est per si 
+       <lb ed="#B" n="53"/>formae, sicut nec materiae, sed solius compositi ex materia &amp; forma, secundum totum quod est in illo, manem 
+       <lb ed="#B" n="54"/>te sola substantia materiae conmuni in generato, &amp; corrupto, quae secundum istos talis naturae est, quod ipsa disposi 
+       <!--1199.xml-->
+       <pb ed="#B" n="579-v"/>
+        <lb ed="#B" n="1"/>ta ad praesentiam agentis naturalis sibi proportionalis, nata sit stati affici dispositione formali, ad quam ordinatur 
+       <lb ed="#B" n="2"/>actio agentis: quemadmodum caera mollis afficitur figura sigilli sibi impressi. Nec refert, nisi quod ista 
+       <lb ed="#B" n="3"/>impressio est violenta passibili contrariante: illa vero est naturalis passibili per naturalem obedientiam conferente 
+       <lb ed="#B" n="4"/>ad impressionis susceptionem. vt sic quantum est ex parte materiae conferentis, forma sit ab intra: &amp; quantum  
+       <lb ed="#B" n="5"/>est ex parte agentis ipsa sit ab extra. vt secundum hoc sit forma partim ab intra, &amp; partim ab extra: pro  
+       <lb ed="#B" n="6"/>ut posuerunt Peripatetici. quorum positionem puto continere verum modum generationis naturalis. 
+       <lb ed="#B" n="7"/>Aliorum autem positiones praetactas sigillatim reprobare non est praesentis intentionis. Secundum istum vl- 
+       <lb ed="#B" n="8"/>timum &amp; verum modum ponendi naturalem generationem, Dico quod agens naturale generans sua actione attingit 
+       <lb ed="#B" n="9"/>puram &amp; nudam substantiam primae materiae absque omni forma, &amp; formae sbalis inchoatione existente: sic quod nihil 
+       <lb ed="#B" n="10"/>formae sbalis maneat in materia, quid sit commune generato &amp; corrupto: sed ipsa sola materia subiectum est genera- 
+       <lb ed="#B" n="11"/>tionis nalis, ex qua generans producit compositum ex materia &amp; forma: vt procedit primum argumentum. quod se 
+       <lb ed="#B" n="12"/>cundum hoc concedendum est. Adiargumentum secundum, quod erat in opposit. scilicet quod agens naturale, quia est quan-  
+       <lb ed="#B" n="13"/>tum, non agit nisi in quanto: materia ergo in tota transmutatione generationis est sub quantitate: &amp; sic agens 
+       <lb ed="#B" n="14"/>&amp; generans sua actione non attingit nisi quantum, non autem nudam substantiam materiae, quae de se indiuisibi 
+       <lb ed="#B" n="15"/>lis est, non quanta. secundum <name ref="#Aristotle">philosophum</name> in. i. Physic. &amp;. iii. Metaph. Dico quod reuera substantiam materiae nudam, vt ha 
+       <lb ed="#B" n="16"/>bet esse sub ratione simplicis &amp; indiuisibilis absque omni ratione partibilis eius, quod est praeter suam substantiam, nul 
+       <lb ed="#B" n="17"/>lum agens naturale sua actione attingere potest omnino de ipsa aliquid producendo, aut vsque ad ipsam aliquid cor- 
+       <lb ed="#B" n="18"/>rumpendo, &amp; ipsam denudando omnino. Sic enim ipsam attingere, &amp; eam denudare, vt etiam maneat in esse exi 
+       <lb ed="#B" n="19"/>stentiae denudata, solummodo possibile est agenti increato. Sed agens naturale ipsam solummodo ab omni 
+       <lb ed="#B" n="20"/>forma substantiali, &amp; etiam accidentali determiata formae substantiali denudare potest: non tamen sic, vt ipso agen 
+       <lb ed="#B" n="21"/>te in existentia maneat denudata etiam per momentum absque omni forma substantiali: quia nihil corrumpere po 
+       <lb ed="#B" n="22"/>test nisi generando, nec sic etiam denudare potest, vt omni forma accidentali indeterminata spolietur. immo 
+       <lb ed="#B" n="23"/>necesse est, vt omnes dispositiones accidentales symbolae generato, &amp; corrupto sub esse indeterminato ma-  
+       <lb ed="#B" n="24"/>neant. In omni autem generatione dispositio symbola vtrique est quantitas, quia non generatur, aut corrumpitur nisi 
+       <lb ed="#B" n="25"/>quantum. Idcirco ergo in omni generatione: coomune manens generato &amp; corrupto necessario est quantitas indeterminata 
+       <lb ed="#B" n="26"/>&amp; sic necesse est quod subiectum generationis sit quantum interminatum, siue indeterminatum, prout procedit argu- 
+       <lb ed="#B" n="27"/>mentum: nec attingit substantiam materiae nudam ab omni dispositione formae accidentalis, attingit tamen nudam  
+       <lb ed="#B" n="28"/>substantiam ab omni dispositione formae substantialis, qua ipsam denudat, non sic tamen, quod in aliquo momento 
+       <lb ed="#B" n="29"/>sit sine omni forma, pout infra in quaestione de conceptione virginis gloriosae declarabitur. Circa subiectum 
+       <lb ed="#B" n="30"/>igitur generationis, eo quod oportet quod sit quantum, est aduertendum: quod cum esse quantitatis continuae, qua subiectum ge 
+       <lb ed="#B" n="31"/>nerationis oportet esse quantum: consistit non nisi in ratione dimensionali, &amp; diuisibili: ratio autem diuisibilis di  
+       <lb ed="#B" n="32"/>mensionalis est quod habeat partem extra partem: secundum igitur duplicem rationem dimensionis duplex est esse quantitatis 
+       <lb ed="#B" n="33"/>continuae. Dimensio autem, aut est terminata, siue determinata secundum gradum, &amp; extensionem penes magnum 
+       <lb ed="#B" n="34"/>&amp; peruum in longo &amp; lato &amp; profundo, aut est interminata, siue indeterminata per indifferentiam se habens ad  
+       <lb ed="#B" n="35"/>extensionem in magnum, &amp; paruum secundum longum, &amp; secundum latum, &amp; secundum profundum. Secundum hoc ergo est vnum  
+       <lb ed="#B" n="36"/>esse quantitatis, quo habet esse determinatarum dimensionum, &amp; aliud quo habet esse dimensionum indeter-  
+       <lb ed="#B" n="37"/>miatarum. Quorum primum non habet quantitas continua, nisi ex composito ex materia &amp; forma, &amp; non nisi a 
+       <lb ed="#B" n="38"/>forma substantiali, quae quantitas ex se non est determinata. Vnde &amp; secundum diuersitatem formarum substantia-  
+       <lb ed="#B" n="39"/>lium diuersas habet terminationes: quia ex parte formae substantialis prouenit, quod omnium natura constantium statuta 
+       <lb ed="#B" n="40"/>est ratio, &amp; terminus magnitudinis, &amp; augmenti: sicut dicitur. ii. de Aima. Determinat enm sibi quaelibet forma 
+       <lb ed="#B" n="41"/>substantialis quantitatem terminatam, siue determinatam in maius, sic quod non posset esse aut conseruari in maio-  
+       <lb ed="#B" n="42"/>ri: similiter &amp; in minus, sic quod non posset esse aut conseruari in minori. Quantitatem tamen simpliciter fora quaelibet substan 
+       <lb ed="#B" n="43"/>tialis sic sibi determinat, quod possit esse, &amp; conseruari in maiori, &amp; minori inter illud maius in termi- 
+       <lb ed="#B" n="44"/>no, &amp; illud minus in termino: sed tamen non nisi in quanto &amp; in diuisibili. Esse autem secundum, quantitas continua 
+       <lb ed="#B" n="45"/>haberet etiam ex se si esset separata a composito, &amp; a materia &amp; forma. Et vtrumque istorum materia habet a quam  
+       <lb ed="#B" n="46"/>titate continua, a qua habet &amp; partibilitatem, siue diuisibilitatem: cum ex se sit impartibilis, &amp; indiuisibilis 
+       <lb ed="#B" n="47"/>diuisibilis tamen &amp; partibilis est, vt est sub quantitate secundum partibilitatem &amp; diuisibilitatem quantitatis.  
+       <lb ed="#B" n="48"/>Vt enim est sub quantitate continua, partes materiae respondent partibus quantitatis. Vnde ma-  
+       <lb ed="#B" n="49"/>teria vt est sub quantitate simpliciter non determinata per formam substantialem, interminata siue indetermina  
+       <lb ed="#B" n="50"/>ta est in suis partibus materialibus: sicut est quantitas in suis partibus quantitatiuis. vt vero est sub quantita-  
+       <lb ed="#B" n="51"/>te determinata per formam substantialem, ipsa similiter est determinata in suis partibus: vt est ipsa quantitas. Et sic 
+       <lb ed="#B" n="52"/>agens naturale creatum non attingit substantiam materiae: vt est omnino indiuisa, &amp; simplex, atque impartibilis: sed  
+       <lb ed="#B" n="53"/>solummo vt est sub ratione quanti indeterminati &amp; partibilis sub partibus talis quanti, quae ad instans enim in quo  
+       <lb ed="#B" n="54"/>completur generatio, &amp; materia spoliatur vna forma, &amp; induitur alia, illam qua materia induitur praecedunt natura et 
+       <lb ed="#B" n="55"/>si non duratione dimensiones interminatae in materia. Duratione. n. sicut nunquam est sine vna forma substan  
+       <!--1200.xml-->
+       <pb ed="#B" n="580-r"/>
+        <lb ed="#B" n="1"/>tia aut alia: sic nunquam duratione aliqua temporis aut instantis est sine terminatione quantitatis ab vna forma 
+       <lb ed="#B" n="2"/>vel ab alia. Et est aduertendum quod licet ipsum non sit subiectum generationis sicut dictum est, nisi sub ratione 
+       <lb ed="#B" n="3"/>quanti interminati: quia tamen quantitas illa interminata non sequitur ad rationem materiae: vt sit subiectum generatio 
+       <lb ed="#B" n="4"/>nis, tanquam cam per se, &amp; quasi sit aliquid de ratione subiecti per se: sed solummo tanquam cam sine qua non posset mate  
+       <lb ed="#B" n="5"/>ria habere rationem diuisibilis, &amp; partem extra partem in sua substantia, &amp; de sine qua non posset omnino esse subiectum 
+       <lb ed="#B" n="6"/>formae naturalis: idcirco sentiendum est secundum hoc, quod naturale agens non attingit substantiam, nisi vt est sub 
+       <lb ed="#B" n="7"/>quantitate interminata: hoc contingit per accomens iam dicto modo, per se autem attingit nudam substantiam materiae:  
+       <lb ed="#B" n="8"/>vt per se subiectum generationis: non vt in sua simplicitate existit: sed vt habet partes extra partes intermi- 
+       <lb ed="#B" n="9"/>natas sub partibus quantitatis interminatae, quod tamen non est nisi attingere per se solam substantiam materiae. Vt enim di 
+       <lb ed="#B" n="10"/>cit <name ref="#Aristotle">philosophus</name> in fine quarti Metaph,. si vltima materia sumatur, nihil est praeter ipsam. Materia enim siue suma 
+       <lb ed="#B" n="11"/>tur per considerationem sub ratione simplicitatis qua caret partibus, siue sub ratione partibilitatis qua habet partes 
+       <lb ed="#B" n="12"/>extra partes:, ipsa non est aliquid praeter ipsam. Et sic per se simpliciter &amp; absolute loquendo: Dico quod agens naturale sua 
+       <lb ed="#B" n="13"/>actione attigit substantiam materiae: licet non ratione illius simplicitatis quae illam attingit agens increatum: sed quod non 
+       <lb ed="#B" n="14"/>attingit nisi quantum interminatum, hoc non contingit nisi per accidens. Et per hoc patent ambo obiecta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

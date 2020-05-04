@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 30 et 31</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 30 et 31</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e486">
+      <head xml:id="n3av8a-c1e486-Hd1e96">Quaestio 30 et 31</head>
+      <p xml:id="n3av8a-c1e486-d1e99">
+       <lb ed="#B" n="11"/>AD quartum &amp; ad quintum dicendum simul quod inferior de illis quae pertinent ad 
+       <lb ed="#B" n="12"/>se statim potest &amp; debet absolute absoluere: non sub aliqua conditione si de illis 
+       <lb ed="#B" n="13"/>postmodum absoluatur a superiori: neque ad tempus quousque de illis absoluat eum su- 
+       <lb ed="#B" n="14"/>perior. Nec valeret absolutio facta hoc modo: quia verba sacramentalia effectum nul 
+       <lb ed="#B" n="15"/>lum habent nisi sub assertione illa &amp; forma verborum prolata sub qua sunt in  
+       <lb ed="#B" n="16"/>stituta. Cum igitur verba sacramentalia sint instituta sub assertione absoluta qua  
+       <lb ed="#B" n="17"/>dicit sacerdos in persona Christi acsi Christus diceret, Ego absoluo te: sicut ego  
+       <lb ed="#B" n="18"/>inungo te: nullo modo valet absolutio sub quacunque conditione vel protestatione facta. Quia si cir- 
+       <lb ed="#B" n="19"/>ca illa quae pertinent ad se non valet absolutio talis: multo minus valet de illis quae pertinent ad superiorem.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 21</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 21</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3866">
+       <head xml:id="n3av8a-c1e3866-Hd1e96">Quaestio 21</head>
+       <p xml:id="n3av8a-c1e3866-d1e99">
+        <lb ed="#B" n="10"/>Irca tertium arguitur: quod scandalizans in verbo otioso peccat mortaliter: quia si quis ope 
+       <lb ed="#B" n="11"/>ram exhibendo tali in quo esset peccatum veniale, occideret corporaliter: peccaret 
+       <lb ed="#B" n="12"/>mortaliter. ergo multo fortius in verbo otioso in quo est peccatum veniale scanda-  
+       <lb ed="#B" n="13"/>lizando: quia per hoc occiditur spiritualiter. 
+      </p>
+      <p xml:id="n3av8a-c1e3866-d1e110">
+       CONtra. Si in verbo otioso quis scanda-  
+       <lb ed="#B" n="14"/>lizetur non est scandalum datum: quia non est tale vnde quis deberet scandalizari: sed est scanda 
+       <lb ed="#B" n="15"/>lum acceptum tantum: in quo non peccat scandalizans sed scandalizatus tantum. 
+      </p>
+      <p xml:id="n3av8a-c1e3866-d1e117">
+       DIcendum quod omne 
+       <lb ed="#B" n="16"/>opus omittendum est de quo praesumi potest quod scandalum oriatur: nisi tale sit quod in ipso omisso veritas pericli- 
+       <lb ed="#B" n="17"/>tatur: quae propter scandalum quod posset oriri non est permittenda periclitari. Melius est enim, vt dicit Ber. vt scan 
+       <lb ed="#B" n="18"/>dalum oriatur quam veritas relinquatur siue vitae: siue iustitiae: siue doctrinae. Vnde &amp; opus alias licitum omitten- 
+       <lb ed="#B" n="19"/>dum est propter scandalum. primae Corinth. viii. Si esca scandalizat fratrem meum, non manducabo car 
+       <lb ed="#B" n="20"/>nes in aeternum ne fratrem meum scandalizem. Vnde Glos. super principium. ix. capitu. dicit. Inci- 
+       <lb ed="#B" n="21"/>pit proponere exemplum: vt sicut ipse abstinet a licitis, ita &amp; illi abstineant. Et intelligo quod quili- 
+       <lb ed="#B" n="22"/>bet abstinere debet: quod si non abstineat: &amp; periculum scandali percipiat: credo quod mortaliter peccat: et 
+       <lb ed="#B" n="23"/>si non ex genere operis: tamen ex circunstantia operantis. Quare &amp; multo fortius si quis consideret quod ex verbo 
+       <lb ed="#B" n="24"/>otioso quis scandalizatur &amp; non abstineat, arbitror quod mortaliter peccat. Si vero debitam diligentiam adhibeat 
+       <lb ed="#B" n="25"/>ne quis infirmus assistat qui scandalizari valeat: etsi facto peccati venialis operam exhibeat: eo quod non  
+       <lb ed="#B" n="26"/>est peccatum mortale ex genere facti, sed ex circunstantia ex parte facientis: non credo quod mortaliter peccet: 
+       <lb ed="#B" n="27"/>quia ex parte operantis non esset scandalum datum, sed solum acceptum ex parte scandaliczati: qui non deberet 
+       <lb ed="#B" n="28"/>scandalizari eo quod factum non est malum mortale de genere sui: secundum quod processit secunda obiectio. Si autem fa 
+       <lb ed="#B" n="29"/>ctum esset malum de genere suo, eo quod tale quantuncumque veniale est ex se, praebet infirmo occasionem ruinae: cre 
+       <lb ed="#B" n="30"/>do quod qualitercumque ex tali facto scandalum oriatur quod mortaliter peccet: sicut qui rei illicitae ex gene- 
+       <lb ed="#B" n="31"/>re facti operam adhiberet: quantumcunque esset veniale, si mors corporalis inde contingeret peccaret 
+       <lb ed="#B" n="32"/>mortaliter vt procedit prima obiectio. Si tamen non esset opus malum de genere suo, sed ex sola circunstantia 
+       <lb ed="#B" n="33"/>ex parte operantis, &amp; adhiberet diligentiam quam deberet: etsi sequeretur mors corporalis, non credo 
+       <lb ed="#B" n="34"/>quod mortaliter peccaret.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="371-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3708">
+       <head xml:id="n3av8a-c1e3708-Hd1e96">Quaestio 9</head>
+       <p xml:id="n3av8a-c1e3708-d1e99">
+        <lb ed="#B" n="36"/>Irca secundum arguitur, quod materia panis post conuersionem maneat: quia non  
+       <lb ed="#B" n="37"/>habet aliquid corrumpens, eo quod non habet contrarium: &amp; tale manet eo quod est 
+       <lb ed="#B" n="38"/>symbolum: quod in transmutatione naturali manet eo quod non habet contrarium 
+       <lb ed="#B" n="39"/>corrumpens. 
+      </p>
+      <p xml:id="n3av8a-c1e3708-d1e110">
+       CONtra. tunc non esset conuersio aut transubstantiatio, quod fal- 
+       <lb ed="#B" n="40"/>sum est. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3708-d1e115">
+       EIcendum quod aliud est quaerere vtrum materia maneat post com- 
+       <lb ed="#B" n="41"/>uersionem, &amp; vtrum aliquid maneat absolute in hoc sacramento. Haeretici enim 
+       <lb ed="#B" n="42"/>aliqui non ponentes aliquam conuersionem, aut transubstantiationem fieri in hoc sacramento, po- 
+       <lb ed="#B" n="43"/>nebant quod in hoc sacramento tota illa substantia panis manet post consecrationem. Putabant enim 
+       <lb ed="#B" n="44"/>illud Luc. xxii. Hoc est corpus meum, spiritualiter esse intelligendum: &amp; non esse sic dictum nisi vt 
+       <lb ed="#B" n="45"/>in signo &amp; figura: moti ex hoc, quod cum Christus dixisset Iudaeis. Ioan. vi. Nisi manducaueritis car- 
+       <lb ed="#B" n="46"/>nem filii hominis, &amp; biberitis eius sanguinem &amp;c. et dictum est ei. Durus est hic sermo. respondit eis. Spi 
+       <lb ed="#B" n="47"/>ritus est qui viuificat: caro non prodest quicquam, quasi diceret, quicquid de corpore meo &amp; sanguine di-  
+       <lb ed="#B" n="48"/>co intelligatis spiritualiter. Sed fide firma tenendum est in sacramento esse verum corpus Christi 
+       <lb ed="#B" n="49"/>sicut verba sonant quibus dicitur Hoc est corpus meum. vt non sit hic veritas sicut in solo signo, sicut erat 
+       <lb ed="#B" n="50"/>in sacramentis veteris legis. Vnde illud Matth. vlti. Vobiscum sum vsque ad consummationem saeculi, intellige 
+       <lb ed="#B" n="51"/>re debemus de veritate corporalis praesentiae in sacramento, vt corpus quid est vno modo essendi prae 
+       <lb ed="#B" n="52"/>sens solummodo in caelo, alio modo essendi praesens nobis est in sacramento. &amp; hoc in veritate ea 
+       <lb ed="#B" n="53"/>dem eiusdem corporis essendo praesens ibi &amp; hic. quod sola fide deprehenditur. Secundum enim 
+       <lb ed="#B" n="54"/>quod dicit <name ref="#Augustine">Augustinus</name> ursum est dominus: tamen hic nobiscum est dominus. Corpus enim in quo resur- 
+       <!--783.xml-->
+       <pb ed="#B" n="371-v"/>
+        <lb ed="#B" n="1"/>rexit vno in loco esse oportet. Veritas autem eius vbique diffunditur. Vnde istud: Hoc est corpus meum 
+       <lb ed="#B" n="2"/>nuiium requirit spiritualem intellectum. Sed illud, Nisi manducaueritis, quodammo literalem, quo  
+       <lb ed="#B" n="3"/>dammodo spiritualem requirit. Literalem quo ad id quod manducatur: quia secundum <name ref="#Ambrose">Ambrosium</name> 
+       <lb ed="#B" n="4"/>de sacra, sicut verus est dei filius dominus lesus Christus, ita vera Christi caro est quam accipimus. 
+       <lb ed="#B" n="5"/>Spiritualem quo ad modum manducandi: quia dicit <name ref="#Augustine">Augustinus</name> super psal. iiii. exponens verbum praedictum 
+       <lb ed="#B" n="6"/>spiritualiter. quae locutus sum: quia. scilicet non in propria specie dentibus laniando carnem Christi 
+       <lb ed="#B" n="7"/>manducamus, quemadmodum Iudaei intellexerunt manducationem, cum dictum est eis, Nisi ma 
+       <lb ed="#B" n="8"/>ducaueritis. Hoc enim modo caro non prodest quicquam: sed sub specie sacramenti manducandum cor 
+       <lb ed="#B" n="9"/>poraliter: illud verum corpus manducando spiritualiter. Propter quid dicit <name ref="#Augustine">Augustinus</name> super Ioan. Vt 
+       <lb ed="#B" n="10"/>quid paras dentes &amp; ventrem: crede &amp; manducasti. Vnde manducando sacramentum corporaliter, corpus 
+       <lb ed="#B" n="11"/>Christi manducandum est in fide spiritualiter. Sic enim spiritus est qui viuificat. Quare cum opor- 
+       <lb ed="#B" n="12"/>tet ipsum corpus Christi verum sub specie panis esse in sacramento: &amp; vt iam dictum est supra, non  
+       <lb ed="#B" n="13"/>habet ibi esse per aliquam loci mutationem, oportet quod hoc sit per alicuius mutationem quod prius 
+       <lb ed="#B" n="14"/>ibi erat, quemadmodum ignis per corruptionem aquae incipit esse vbi prius non erat, quod si nec sic, nec per loci 
+       <lb ed="#B" n="15"/>mutationem illuc adueniret, nullo modo esset ibi. &amp; tunc habet locum dubitatio magis generaliter 
+       <lb ed="#B" n="16"/>quam proposita est scilicet vtrum post conuersionem maneat substantia panis tota, vel aliquid eius, vt materia: de 
+       <lb ed="#B" n="17"/>qua proposita est quaestio. Et erat opinio aliquorum quod non manet: reputantium conuersionem vnius 
+       <lb ed="#B" n="18"/>naturae in aliam fore impossibilem. Cum enim necesse habebant ponere secundum iam dicta quod sub spe 
+       <lb ed="#B" n="19"/>ciebus sacramenti erat verum corpus Christi, &amp; quod non conuersa substantia panis, &amp; manente non posset 
+       <lb ed="#B" n="20"/>ibi esse verum corpus Christi absque loci mutatione illius quam non ponebant fieri, necesse habebant po- 
+       <lb ed="#B" n="21"/>nere quod substantia panis non maneret, &amp; per eius absentiam statim ibi fieret corpus Christi. Quorum ali 
+       <lb ed="#B" n="22"/>qui posuerunt quod substantia panis non manet, quia omnino adnihilatur. Alii vero quia resoluitur in pri 
+       <lb ed="#B" n="23"/>mam materiam. Primum horum non potenst poni, quia deus immediate &amp; solus est causa per se eius quod sit in  
+       <lb ed="#B" n="24"/>isto sacramento. lpse autem vt dicit <name ref="#Augustine">Augustinum</name> xxxiii, qod nullius est causa tendendi in non esse. Praeter 
+       <lb ed="#B" n="25"/>ipsum non est causa aliqua sufficiens ad hoc. Similiter secundum non potest poni. quia resolu- 
+       <lb ed="#B" n="26"/>tio in materiam primam non est nisi formae quae erat in potentia in illa. Ista ergo resolutio non  
+       <lb ed="#B" n="27"/>potest esse nisi formae panis in materiam panis, ita quod ipsa materia panis existat sine forma panis 
+       <lb ed="#B" n="28"/>quia materia vlterius in materiam resolui non potest. In illa ergo materia resoluta forma panis 
+       <lb ed="#B" n="29"/>ipsa materia aut manet intra species illas, aut exit. Quia exiens de sub illis speciebus, siue fiat sub 
+       <lb ed="#B" n="30"/>aliis speciebus, siue non, siue materia maneat sine forma substantiali, siue non: hoc non po- 
+       <lb ed="#B" n="31"/>test poni: quia hoc est respectu specierum sacramenti purus defectus &amp; priuatio: qui ex se nullius 
+       <lb ed="#B" n="32"/>est positiuus. Per hoc ergo non posset poni ibi de nouo esse corpus Christi. Si vero materia illa ma 
+       <lb ed="#B" n="33"/>net sub illis speciebus: aut ergo in illa fit alia forma sub speciebus illis, aut non. Si sic, tunc erit idem 
+       <lb ed="#B" n="34"/>impedimentum quid prius, ne possit ibi de nouo esse corpus Christi: quia resolutio formae panis non 
+       <lb ed="#B" n="35"/>est causa essendi ibi nisi illius alterius formae. quia corruptio vnius formae quam concomitatur generatio 
+       <lb ed="#B" n="36"/>alterius, non est causa nisi generationis illius. Si autem non sit alia forma in illa materia subillis spe 
+       <lb ed="#B" n="37"/>ciebus, adhuc ipsa sola tantum impediet praesentiam corporis Christi quantum si fieret sub noua for 
+       <lb ed="#B" n="38"/>ma: quia sic manere forma resoluta in ipsam, non est nisi purus defectus: qui ex se nullius positiuus 
+       <lb ed="#B" n="39"/>est: neque ex aliquam virtute procedit: sed potius ex virtutis defectu. Praesentia autem corporis Christi sub speciebus 
+       <lb ed="#B" n="40"/>panis debet esse agente virtute illa quae agit quod sub speciebus panis nihil habet esse substantiae panis. Nec 
+       <lb ed="#B" n="41"/>est ergo dicere quod substantia panis aut annihilatur, aut in primam materiam resoluitur. Propter 
+       <lb ed="#B" n="42"/>quid alii omnes ponunt substantiae panis conuersionem in corpus Christi: &amp; per illam ibi esse de nouo cor 
+       <lb ed="#B" n="43"/>pus Christi: &amp; quod ad hoc nulla alia transmutatio circa substantiam panis sufficeret, quemadmodum nulla 
+       <lb ed="#B" n="44"/>sufficeret transmutatio vt sub speciebus symbolis aeris cum igne fieret ignis quam generatio ignis ex aere. Sed  
+       <lb ed="#B" n="45"/>dicunt aliqui quod ista conversione facta non manet substantia panis conuersa, licet non annihiletur. sicut non 
+       <lb ed="#B" n="46"/>sequitur quod si aer ex quo generatus est ignis non sit ibi vbi erat: sed aliud vice ipsius: quod sit annihilla- 
+       <lb ed="#B" n="47"/>tus. sed cum non maneat, in eo quod non manet, aliquo modo ad minus est non ens: quia si nullo modo  
+       <lb ed="#B" n="48"/>esset non ens factum, omnino maneret ens non annihilatum: aut in eo quod non annihilatum, ad mi 
+       <lb ed="#B" n="49"/>nus aliquo modo est ens. Aliter enim esset omnino nihil factum, &amp; ideo annihilarum. Non est ergo  
+       <lb ed="#B" n="50"/>dicendum simpliciter quod ista conuersione facta substantia panis non manet, sicut nec est simpliciter 
+       <lb ed="#B" n="51"/>dicendum quod manet, sed est dicendum quod quodammodo manet, &amp; quodammodo non manet. Et quia  
+       <lb ed="#B" n="52"/>quid sic manet vt dicunt aliqui non potest manere secundum rationem formae, sed tantum secundumra 
+       <lb ed="#B" n="53"/>tionem materiae: Materia enim quia est ens in potentia: medium est inter non ens simpliciter, &amp; omnino ens. 
+       <lb ed="#B" n="54"/>actum, secundum <name ref="#Aristotle">philosophum</name> secundo Metaphysicae: idcirco dicunt quod forma panis resoluitur in  
+       <!--784.xml-->
+       <pb ed="#B" n="372-r"/>
+        <lb ed="#B" n="1"/>suam materiam, &amp; materia ipsa sic vnitur materiae corporis Christi vt fiat vna materia cum illa, vir 
+       <lb ed="#B" n="2"/>tute diuina vniente materiam panis cum materia corporis Christi: quemadmodum sit vna materia nu  
+       <lb ed="#B" n="3"/>trimenti cum materia eius quod nutritur,: conuersione facta virtute agentis naturalis. Hoc non potest stare quo ad  
+       <lb ed="#B" n="4"/>primum articulum scilicet quod forma panis resoluatur in materiam: quoniam non est tenendum quod hic fiat 
+       <lb ed="#B" n="5"/>aliqua transmutatio nisi virtute verborum, quibus dicitur, Hoc est corpus meum, quae non signant conuer- 
+       <lb ed="#B" n="6"/>sionem fieri nisi in id quid demonstratur per ly hoc. Quare cum per ly hoc demonstratur vniformiter compositum, aut de 
+       <lb ed="#B" n="7"/>monstrationi praesupponitur non tam materia panis quam forma: vniformiter ergo sit conuersio tam materiae in  
+       <lb ed="#B" n="8"/>corpus Christi quam formae. Non ergo resoluitur forma in materiam: nec vlterius materia panis in materiam cor 
+       <lb ed="#B" n="9"/>poris Christi vnitur: sed totum conuertitur, immo totum toto. Illud enim repugnaret formae verbo- 
+       <lb ed="#B" n="10"/>rum qua dicitur, Hoc est corpus meum. Corpus enim vt dictum est non puram materiam, sed formam cum ma-  
+       <lb ed="#B" n="11"/>teria signat. Quo ad secundum autem articulum, quod sit conuersio materiae panis in materiam corporis 
+       <lb ed="#B" n="12"/>Christi manente materia panis, sic quod vna fiat materia ex illis: inconueniens est. quia tunc sequaeretur quod Chri- 
+       <lb ed="#B" n="13"/>stus materia panis adueniente nutriretur, aut saltem augeretur, aut aliquid haberet virtute sacramen 
+       <lb ed="#B" n="14"/>ti de substantia sua quod prius non habuit: &amp; esset in ipso plus de materia quam prius: &amp; sic semper toto 
+       <lb ed="#B" n="15"/>tempore quo sacramentum hoc conficitur, materia Christi esset habens plus &amp; plus in substantia, vel aliquid  
+       <lb ed="#B" n="16"/>quid prius non habuit, &amp; esset mutatio realis ex hoc sacramento circa Christum. quod vt credo haereticum est 
+       <lb ed="#B" n="17"/>dicere. ldeo videtur mihi esse dicendum quod tota substantia panis, &amp; secundum materiam, &amp; sm formam conuer- 
+       <lb ed="#B" n="18"/>titur in corpus Christi, non ambo in materiam solam, nec ambo in formam solam: quia hoc est contra formam verborum  
+       <lb ed="#B" n="19"/>quibus dicitur, Hoc est corpus meum. Corpus enim non signat materiam tantum, nec formam tantum, sed compositum 
+       <lb ed="#B" n="20"/>ex materia &amp; forma, non forma in materiam, quia tunc esse formae panis innouaretur quodammo, vt dictum 
+       <lb ed="#B" n="21"/>est iam supra. Relinquitur ergo ponendum quod materia panis conuertatur in materiam corporis Christi: &amp; 
+       <lb ed="#B" n="22"/>forma in formam, &amp; quod neutrum illorum manet id quid erat prius, ita tamen quod neutrum eorum desinat esse simplici- 
+       <lb ed="#B" n="23"/>ter. immo vtrumque illorum desinendo esse id quid erat in se, iam conversum est in aliud. &amp; hoc quemadmodum dicit Ausginus 
+       <lb ed="#B" n="24"/>loquendo de conversione seu convertibilitate animae rationalis in corpus. dicit, nm ante finem de immortalitate  
+       <lb ed="#B" n="25"/>animae. Videtur effectum esse ratiocinatione hac vt animus ad nihilum peruenire non possit: conuerti autem in  
+       <lb ed="#B" n="26"/>corpus forsitan possit. Si enim quid erat animus in corpus fuerit effectum, non vtique omnino non erit. Et sic 
+       <lb ed="#B" n="27"/>sm quod dicit magister Guilielmus Altisi. panis transit in corpus Christi, ita quod nihil de pane remaneat 
+       <lb ed="#B" n="28"/>sed transit in id quid prius erat. in quo non annihilatur. Quorum vtrumque bene inuenitur sigillatim in creaturis, 
+       <lb ed="#B" n="29"/>licet non ambo simul. Primum enim, vt dicit, inuenitur in transitu formarum, quia nihil de transeunte manet. 
+       <lb ed="#B" n="30"/>Secundum non, quia non sit transitus in id quid erat scilicet quo ad eius esse completum respectu esse eius quod non ma-  
+       <lb ed="#B" n="31"/>net in se, sed in alio: quid tamen prius non erat. propter quod non annihilatur. &amp; hoc sm ponentes in eodem gra- 
+       <lb ed="#B" n="32"/>dus formarum modo praedicto in quaestione de compositione scientiae. Cum enim, vt dicit, in generatione ho 
+       <lb ed="#B" n="33"/>minis primo est materia sub vili forme. scilicet sub forma seminis: postea recipit meliorem formam quo-  
+       <lb ed="#B" n="34"/>usque habilitata sit habilitatione vltima siue organizatione ad receptionem animae, ibi manifestum est quod 
+       <lb ed="#B" n="35"/>forma transit in formam: &amp; tamen nihil de forma transeunte remanet. Secundum vero inuenitur in nutrimento 
+       <lb ed="#B" n="36"/>Nutrimentum enim transit in corpus quid erat, sed primum non inuenitur: quod aliquid de nutrimento relin 
+       <lb ed="#B" n="37"/>quitur in nutrito. Vnde ista duo simul non inueniuntur in naturis, sed in differentiis quo ad conversionem 
+       <lb ed="#B" n="38"/>dictam: &amp; fit illa conuersio sic, quod in toto tempore prolationis verborum substantia panis est id quid prius 
+       <lb ed="#B" n="39"/>erat in se, sed in vltimo instanti conuersa est in aliud non manens aliquid quid ipsa prius erat, aut quod iam 
+       <lb ed="#B" n="40"/>facta est, sed tantum manet in alique scilicet in quod iam conuersa est. Et conuenit ista transmutatio cum aliis quod  
+       <lb ed="#B" n="41"/>est in ea ordo huius post hoc, sicut &amp; in aliis. Est enim sub illis speciebus corpus Christi postquam sub eis 
+       <lb ed="#B" n="42"/>fuit corpus panis, sicut in creatione id quod prius non est postea est: &amp; in generatione quid prius est aer, 
+       <lb ed="#B" n="43"/>postea est ignis. Et conuenit ista conversio cum creatione, quia in neutra est aliquid commune subiectum praeexistens 
+       <lb ed="#B" n="44"/>in actum, &amp; subsistens ambobus terminis. In quo ambo differunt a transmutatione naturali quae non est si 
+       <lb ed="#B" n="45"/>ne communi subiecto. Propter quod cum dicitur in generatione naturali, quid prius erat aliud modo est hoc 
+       <lb ed="#B" n="46"/>ly quod supponit pro subiecto communi. Cum vero dicitur in creatione, quid prius non erat nec est, ly quod sup  
+       <lb ed="#B" n="47"/>ponit pro essentia: quae est quasi commune ad esse &amp; ad non esse. Cum autem dicitur in ista conversione, quid prius 
+       <lb ed="#B" n="48"/>erat substantia panis modo conversum est in corpus Christi, lv quod primo supponit substantiam panis 
+       <lb ed="#B" n="49"/>pro substantia panis secundum se: secundo supponit substantiam panis non pro substantia panis, sed pro 
+       <lb ed="#B" n="50"/>eo in quod est conuersa: quid est corpus Christi, &amp; non est substantia panis. Et sic sicut in creatione de eo 
+       <lb ed="#B" n="51"/>quod est nihil in existentia actuali, sit aliquid: sic in hac conuersione id quid est aliquid secundum se: convertitur in  
+       <lb ed="#B" n="52"/>aliud: nec fit annihilatio eius: non tamen mediante aliquo eius quod prius in se erat. Et differunt 
+       <lb ed="#B" n="53"/>specialiter in hoc termini huius conuersionis &amp; generationis naturalis: quod in hac conuersione ter 
+       <lb ed="#B" n="54"/>minus transit in terminum, vt panis in corpus Christi: ibi vero non transit terminus in terminum 
+       <!--785.xml-->
+       <pb ed="#B" n="372-v"/>
+        <lb ed="#B" n="1"/>vt aer in ignem, sed subiectum commune transit ab vno in alterum. In quo conuenit quodammen 
+       <lb ed="#B" n="2"/>haec conuersio cum generatione naturali: quod hic accidentia conmunia modo habent sub se vnam substantiam 
+       <lb ed="#B" n="3"/>modo aliam, sicut ibi subiectum modo habet in se vnam formam modo aliam. Differt autem specialiter anutritione  
+       <lb ed="#B" n="4"/>quia in nutritione aliquid corrumpitur in potentiam materiae vt forma nutrimenti: &amp; aliquid manet in alio 
+       <lb ed="#B" n="5"/>vt materia in nutrito: hic autem nihil corrumpitur in potentiam materiae, nihilque manet substantiae 
+       <lb ed="#B" n="6"/>panis: nec ipsa manet aliquid omnino: vel quod prius erat, vel quod postea facta est: nec tamen annihilatur, quia  
+       <lb ed="#B" n="7"/>manet in aliquo, quia in eo in quod est conuersa: quid tamen nec prius erat: nec postmodum facta est. 
+      </p>
+      <p xml:id="n3av8a-c1e3708-d1e429">
+       EX praedi-  
+       <lb ed="#B" n="8"/>ctis sequitur modus praedicandi inter terminos. quia enim se habent per ordinem, vnus eorum non praedicatur 
+       <lb ed="#B" n="9"/>de alio absolute per verbum essendi. Non enim dicimus quod panis est corpus Christi, aut econverso, sicut nec 
+       <lb ed="#B" n="10"/>quod ens est non ens, aut aer est ignis, vel econuerso. Praedicatur tamen vnum de altero mediante praepositione  
+       <lb ed="#B" n="11"/>ex, dicendo ex pane factum est sub speciebus corpus Christi: vt tamen omnem transmutationemin 
+       <lb ed="#B" n="12"/>telligamus circa panem, &amp; nullam circa corpus Christi. &amp; hoc per lu ex denotando ordinis circunstan 
+       <lb ed="#B" n="13"/>tiam non subiecti circa istam conversionem. Quaecumque, n. circunstantia connotans subiectum manens, non admittitur 
+       <lb ed="#B" n="14"/>in praedicatione huius conuersionis aut creationis. Vnde nec in hac conuersione sicut nec in creatione  
+       <lb ed="#B" n="15"/>dicitur quod vnum potest esse aliud, inquantum ly potest est nota subiecti, sicut dicitur in generatione, quod aer potest 
+       <lb ed="#B" n="16"/>esse ignis. &amp; eadem ratione non recipitur in istis praedicatio per de, dicendo de pane sit corpus Christi, si 
+       <lb ed="#B" n="17"/>cut recipitur illa: de aere sit ignis. nec similiter praedicatio de praeterito, aut futuro, dicendo corpus 
+       <lb ed="#B" n="18"/>Christi fuit panis: vel panis erit corpus Christi, sicut dicitur aer fuit ignis, vel erit ignis. Similiter nec per 
+       <lb ed="#B" n="19"/>verbum fieri, dicendo panis sit corpus Christi, vel factus est corpus Christi: licet propter accidentia communia 
+       <lb ed="#B" n="20"/>aliquo modo praedicationes hic possent recipi quae ibi recipiuntur, propter commune subiectum. Magi 
+       <lb ed="#B" n="21"/>ster tamen Quilielmus Altisi. concedit praedicationes quae fiunt per ly sit, dans talem regulam. Omnes locutiones quae  
+       <lb ed="#B" n="22"/>signant transitum concedendae sunt, sicut hae: panis transit in corpus Christi, vel transfertur, vel tran- 
+       <lb ed="#B" n="23"/>substantiatur, vel mutatur, vel sit corpus Christi. Omnes illae negandae sunt, in quibus non signaturtransi- 
+       <lb ed="#B" n="24"/>tus, sicut istae: panis est corpus Christi: panis erit corpus Christi: panis potest esse corpus Christi. Sed  
+       <lb ed="#B" n="25"/>mirum est quod concedit illam, panis sit corpus Christi. quia fieri non dicitur aliquid nisi sicut ter- 
+       <lb ed="#B" n="26"/>minus ad quem, quemadmodum dicitur creatura fieri cum creatur, vel sicut subiectum cone ma- 
+       <lb ed="#B" n="27"/>nens, vt dictum est. Non autem dicitur fieri terminus a quo, nisi sumendo fieri ordinaliter, sicut si dice- 
+       <lb ed="#B" n="28"/>remus quod mane sit meridies. i. post mane. Et sic forte concedit illam, panis sit corpus. Sed ordinaliter non 
+       <lb ed="#B" n="29"/>solet poni ly sit nisi mediante praepositione, dicendo ex mane sit meridies. Et secundum hoc sumendo  
+       <lb ed="#B" n="30"/>V ex ordinaliter, &amp; non subiectiue: quidam concedunt istas: ex pane sit corpus Christi, corpus Christi 
+       <lb ed="#B" n="31"/>factum est ex pane. &amp; hoc tota transmutatione importata per fieri intellecta circa panem, &amp; nulla 
+       <lb ed="#B" n="32"/>circa corpus Christi, vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e3708-d1e487">
+       AD primum in oppositum, quod substantia vel materia panis ma 
+       <lb ed="#B" n="33"/>net, quia non habet contrarium corrumpens: Dicendum quod verum esset si ista conuersio fieret actionena 
+       <lb ed="#B" n="34"/>turae: quae non sit sine contrario corrumpente quod non manet. Nunc autem quia sit actione supernaturali, licet non 
+       <lb ed="#B" n="35"/>sit proprie corruptio: tamen bene potest non manere in se, quia manet quoquo modoin opposito ter- 
+       <lb ed="#B" n="36"/>mino: quod in nulla alia transmutatione contingit. Et quod assumitur, materia panis est symbolum commu 
+       <lb ed="#B" n="37"/>ne pani &amp; corpori Christi: Dicendum quod in transmutatione naturali, quia sit per contrarium, non sit 
+       <lb ed="#B" n="38"/>alicuius corruptio nisi quatenus est contrarium. Nunc autem secundum <name ref="#Aristotle">philosophum</name> quito Metaphysicae 
+       <lb ed="#B" n="39"/>Contrarium est vel extremum extremo, vt calidum frigido, vel medium extremo. Quorum primum est per se con 
+       <lb ed="#B" n="40"/>trarium formaliter. Propter quod non cessat forma agentis quousque illud omnino corrumpat. Secundum 
+       <lb ed="#B" n="41"/>vero non est contrarium nisi propter dispositionem intensi vel remissi in forma. propter quod cessat for- 
+       <lb ed="#B" n="42"/>ma agentis a corrumpendo, cum intensum vel remissum ad aequale &amp; sibi proportionale perduxit. 
+       <lb ed="#B" n="43"/>Talium enim neutrum ab altero natum est pati, aut corrumpi, sed potius conseruari, non enim corrumpunt 
+       <lb ed="#B" n="44"/>nisi excellentiae. Quare cum materia nulli habet contrarietatem, nec primo modo, nec secundo, oportet quod  
+       <lb ed="#B" n="45"/>maneat in omni actione agentis naturalis: quale non est agens in ista conversione: sed supernaturale: quid  
+       <lb ed="#B" n="46"/>potestatem habet super totam substantiam. propter quid potest ipsam substantiam panis in substantiam:  
+       <lb ed="#B" n="47"/>corporis Christi conuertere, ne maneat id quid erat, aut aliquid eius, non tamen annihiletur. quia tunc non com- 
+       <lb ed="#B" n="48"/>uerteretur, nec per eius annihilationem inciperet esse corpus Christi vbi prius non erat. &amp; quia non an-  
+       <lb ed="#B" n="49"/>nihilatur, manet quoquo modo in eo in quid convertitur, vt propterea videatur posse dici, quid tamen non assero 
+       <lb ed="#B" n="50"/>quod ly hoc, dicendo, Hoc est corpus meum: non solum demonstrat quod est sub speciebus pro instanti finitae pro  
+       <lb ed="#B" n="51"/>lationis &amp; conuersionis factae, vt ipsum corpus Christi in quod facta est conuersio, secundum quod alias 
+       <lb ed="#B" n="52"/>exposuimus: sed quod pro toto tempore prolationis demonstrat substantiam panis pro ipsa, &amp; in dicto 
+       <lb ed="#B" n="53"/>instanti demonstrat eam vt iam conuersa est in corpus Christi: &amp; sic non pro substantia panis, led  
+       <lb ed="#B" n="54"/>tantummodo pro eo in quod iam conuersa est, &amp; in quo manet quo ad hoc quod non annihilatur. Ex hoc 
+       <!--786.xml-->
+       <pb ed="#B" n="373-r"/>
+        <lb ed="#B" n="1"/>hoc enim solo quod manet in illo, quoquo mod dicitur non annihilari: &amp; per hoc demonstrat ipsum corpus 
+       <lb ed="#B" n="2"/>Christi in quod facta est conuersio: pro quo &amp; verificat locutionem, nullatenus annihilato aliquo  
+       <lb ed="#B" n="3"/>quid prius erat de substantia panis: nec tamen aliquo eius permanente, sed totaliter in corpus Christi 
+       <lb ed="#B" n="4"/>conuerso: &amp; hoc potestate diuina: cui in hoc obediens est omnis creatura: vt in quamlibet conuerti possit 
+       <lb ed="#B" n="5"/>pro libito suae voluntatis absque omni annihilatione, &amp; cuiusquam permanentia conversi. 
+      </p>
+      <p xml:id="n3av8a-c1e3708-d1e555">
+       ARgumentum in  
+       <lb ed="#B" n="6"/>oppositum concedendum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

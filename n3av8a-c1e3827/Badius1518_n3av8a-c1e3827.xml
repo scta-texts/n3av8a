@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 18</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 18</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="387-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3827">
+       <head xml:id="n3av8a-c1e3827-Hd1e96">Quaestio 18</head>
+       <p xml:id="n3av8a-c1e3827-d1e99">
+        <lb ed="#B" n="40"/>CIrca tertium arguitur quod nobilis semper procedit ab initio ab aliquo nobili: quia cauam semper 
+       <lb ed="#B" n="41"/>nobilior est suo effectu. ergo quanto. quis recedit a primo stipite: tanto est minus 
+       <lb ed="#B" n="42"/>nobilis stipite. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3827-d1e108">
+       IN contrarium est <name ref="#Aristotle">philosophus</name> secundo rheto. 
+      </p>
+      <p xml:id="n3av8a-c1e3827-d1e114">
+       DIcendum quod secundum 
+       <lb ed="#B" n="43"/>philosophum primo politic. Nihil aliud quam virtus &amp; malitia determinant seruum &amp; li- 
+       <lb ed="#B" n="44"/>berum: &amp; nobiles &amp; ignobiles. Sed hoc non est tam aspiciendo ad habitus generatos, quam ad na 
+       <lb ed="#B" n="45"/>aturales dispositiones quibus homines nati sunt recipere eos: vt habetur secundo Ethicoru. nec tam 
+       <lb ed="#B" n="46"/>aspiciendo ad dispositionem huiusmodi vt habita est absolute ab aliquo: quam vt diu tracta est per multos medios 
+       <lb ed="#B" n="47"/>ab antiquis progenitoribus nobilibus: qui propter naturalem nobilitatem quao bene vsi sunt in actus nobiles exercen 
+       <lb ed="#B" n="48"/>do: &amp; per hoc habitus nobiles acquirendo: meruerunt praefici populis, &amp; post haeredes sui iure haeredita 
+       <lb ed="#B" n="49"/>rio. Et secundum hoc <name ref="#Aristotle">philosophus</name> determinat quod nobilitas requirit antiquitatem. Cum ergo quaeritur vtrum nobilitas generis proce 
+       <lb ed="#B" n="50"/>dat ab aliquam nobili an ignobili: Dicendum quod si loquamur de nobilitate simpliciter secundum naturam rei: sic non opor 
+       <lb ed="#B" n="51"/>tet quod nobilis procedat a nobili. immo ignobilis natura &amp; moribus bene potest generare nobilem natura: qui bono  
+       <lb ed="#B" n="52"/>vsu naturae sit vere nobilis habitu: sicut econuerso a vere nobili potest procedere vere ignobilis: vt 
+       <lb ed="#B" n="53"/>iam dicetur. Si vero loquamur de nobilitate generis secundum quam vulgo solent appellari nobiles, qui sae 
+       <lb ed="#B" n="54"/>pius secundum rei veritatem multum sunt ignobiles: sic nobilitas includit antiquitatem. Et tunc disti 
+       <!--815.xml-->
+       <pb ed="#B" n="387-v"/>
+        <lb ed="#B" n="1"/>guendum de initio: quia aut est sermo de initio generis: vel de initio simpliciter. Si primo modo: sic 
+       <lb ed="#B" n="2"/>dico quod nobilitas semper procedit a nobili. Non enim inchoauit genus nobilitatis ab initio in quocum 
+       <lb ed="#B" n="3"/>qued genere nobilium nisi nobilis vere aut aestimatus. nullus enim ab initio incipit dominari aut im- 
+       <lb ed="#B" n="4"/>perare populo nisi propter aliquam probitatem qua praefertur eis. par enim in parem nullum debet 
+       <lb ed="#B" n="5"/>habere imperium. Vnde Nenroth, secundum magistrum hist,. primo sibi subiecit populum: propter quod  
+       <lb ed="#B" n="6"/>dicitur fuisse venator robustissimus: hoc est bellator fortissimus. Qui si vere nobilis fuit vt probit 
+       <lb ed="#B" n="7"/>te sua primo inceprit dominari in regno Assyriorum: &amp; accepit vxorem sibi in nobilitate respondem 
+       <lb ed="#B" n="8"/>tem, naturaliter genuerunt prolem nobilem. dicente <name ref="#Aristotle">philosopho</name> in primo politic. Ex ambobus diuinis 
+       <lb ed="#B" n="9"/>id est virtuosis &amp; nobilibus progenitricibus radicibus quis vtique dignificabit aliquid dicere seruum 
+       <lb ed="#B" n="10"/>cilicet generari ex illis: quasi dicat, nullus. cuius rationem subdit. Dignificant enim. i. dignum dicunt homines &amp; iustum 
+       <lb ed="#B" n="11"/>esse quemadmodum ex homine hominem, &amp; ex bestiis bestiam fieri: sic &amp; ex bonis bonum. Et hoc quia mo 
+       <lb ed="#B" n="12"/>res boni et nobiles informant nobiliter virtutem imaginatiuam: quae hora conceptus cum habetur 
+       <lb ed="#B" n="13"/>affectio ad prolem generandam: in teneram materiam imprimit secundum conditionem imaginationis 
+       <lb ed="#B" n="14"/>dispositionem ad procreandum foetum: secundum naturalem dispositionem respondentem nobilitati ge- 
+       <lb ed="#B" n="15"/>nerantium. &amp; hoc ideo quia anima simpliciter non solum se habet ad corpus vt forma ad materiam:  
+       <lb ed="#B" n="16"/>aut vt mouens ad motum: sed vt artifex ad artificiatum. Sicut enim artifex mediante forma exemplari 
+       <lb ed="#B" n="17"/>artis per instrumentum consimilem speciem imprimit artificiato: sic anima forma nobili virtutis &amp; pro  
+       <lb ed="#B" n="18"/>bitatis affecta per virtutem generatiuam in calore naturali vt per instrumentum, similem aut respondentem 
+       <lb ed="#B" n="19"/>dispositionem corporalem imprimit nato: cuius dispositione habilitetur &amp; inclinetur ad consimilem ac 
+       <lb ed="#B" n="20"/>quirendam: secundum quod oues lacob: per imagines receptas a virgis conceperunt foetus respondentes in  
+       <lb ed="#B" n="21"/>colore imaginanti. Quod ibidem in Glos. exponens <name ref="#Augustine">Augustinus</name> dicit. Inhaeserat animae discolor phantasia ex con i 
+       <lb ed="#B" n="22"/>tuitu variarum virgarum per oculos impressa. Hinc dicit Chrysosto. super Matth. xxiii. Quales fuerit 
+       <lb ed="#B" n="23"/>parentes tales erunt &amp; nati. Et ex hoc procedit quod filii bonorum &amp; vere nobilium honorati sunt a poste 
+       <lb ed="#B" n="24"/>ris loco parentum veluti vere boni &amp; nobiles similes parentibus: consuetudine in hoc consequentenatu  
+       <lb ed="#B" n="25"/>ram. Nititur enim natura proles assimilare parentibus: non solum in dispositionibus corporis sed  
+       <lb ed="#B" n="26"/>etiam animae: vt pulchri generent pulchros: &amp; turpes generent turpes: &amp; iracundi iracundos: mansue- 
+       <lb ed="#B" n="27"/>ti mansuetos: licet in hoc frequenter propter occurrens impedimentum deficiat. Propter quod conti 
+       <lb ed="#B" n="28"/>nuo <name ref="#Aristotle">philosophous</name> subdit dicens. Natura autem vult hoc facere: multotiens tamen non potest, quiavt dicit 
+       <lb ed="#B" n="29"/>in secundo rhetoricae, quod quidem in pluribus non accidit nobilibus: sed sunt multi leuis valoris. Vn 
+       <lb ed="#B" n="30"/>de dicit Chrysosto. vbi supra. Si autem ambo fuerint aequales, aliquando sit vt de bonis parentibus mali ex- 
+       <lb ed="#B" n="31"/>eant filii: &amp; de malis boni: sed raro: quia hoc est praeter naturae intentionem. Vnde continuo sub- 
+       <lb ed="#B" n="32"/>dit. Ecce regula est humanae naturae vt omnis homo nascatur duos oculos habens &amp; quinos digitos:  
+       <lb ed="#B" n="33"/>aliquando tamen nascitur homo sex digitos habens: aut oculos omnino non habens. Sicut ergo extra na 
+       <lb ed="#B" n="34"/>turalem regulam naturae raro euenit vt de formosa nascatur deformis: sic extra regulam naturae ra 
+       <lb ed="#B" n="35"/>ro procedit vt dissimilis nascatur filius parentibus. Multotiens tamen accidit, vt per malam consuetu 
+       <lb ed="#B" n="36"/>dinem &amp; prauam disciplinam non sequantur naturalem dispositionem impressam a parentibus: &amp; sibi com 
+       <lb ed="#B" n="37"/>trarios habitus adgenerant: vt licet naturaliter essent nobiles, vsu &amp; habitu facti sunt ignobiles: &amp; 
+       <lb ed="#B" n="38"/>solum nobiles sunt vulgi opinione: &amp; generant proles minus nobiles secundum dispositiones corporales, quam  
+       <lb ed="#B" n="39"/>ipsi erant geniti a suis genitoribus: &amp; sic vadit nobilitas in defectum si filii in prauis moribus imi- 
+       <lb ed="#B" n="40"/>tantur parentes: sicut econuerso cum sequuntur in vsu, nobilitatem quam acceperunt a parentibus: trans 
+       <lb ed="#B" n="41"/>fundunt in posteros, &amp; maiorem quam habeant in seipsis si tamen geniti sunt a parentibus ambobno  
+       <lb ed="#B" n="42"/>bilibus, quia mixta virtus vtriusque nititur similem impressionem facere in foetum, &amp; nobilitatem am  
+       <lb ed="#B" n="43"/>borum genitorum proli immittere: vt ex hoc filii nobilium semper sunt nobiliores parentibus ni 
+       <lb ed="#B" n="44"/>si degenerent: &amp; tanto nobiliores quanto magis recedunt a primis radicibus, si tamen ambo semper 
+       <lb ed="#B" n="45"/>generantes sint nobiles. Propter quid dicit <name ref="#Aristotle">philosophus</name> in ii. rhetoricae. Longe magis quam prope factaho 
+       <lb ed="#B" n="46"/>norabiliora &amp; magis iactabilia. Si vero alter generantium fuerit vere nobilis &amp; alter non tunc ut 
+       <lb ed="#B" n="47"/>dicit Chrysostomus vbi supra, si pater fuerit bonus &amp; mater fuerit mala, aut pater malus &amp; ma-  
+       <lb ed="#B" n="48"/>ter bona, interdum filii patrem sequuntur, interdum matrem. &amp; tunc minus nobiles sunt quam si ambo 
+       <lb ed="#B" n="49"/>nobiles essent &amp; boni. Et quamuis sic quandoque sequuntur patrem, quandoque matrem: tamen sicut dicit Chnso- 
+       <lb ed="#B" n="50"/>sto. frequentius est vt nati patrem sequantur. Et inde est (ut arbitror) quod nobiles plus reputantno-  
+       <lb ed="#B" n="51"/>bilitatem generis paterni quam materni. Si vero circa nobilitatem generis loquamur de initio simpli- 
+       <lb ed="#B" n="52"/>citer: sic secundum intentionem philosophi in quaestione praecedente tactam, quodlibet genus nobillum 
+       <lb ed="#B" n="53"/>infinities potuit secundum carnem a nobili &amp; ignobili simpliciter, &amp; similiter genus nobilium praecesislu ge 
+       <lb ed="#B" n="54"/>nus ignobilium, &amp; similiter sequi infinities tam a parte ante quam a parte post. Pont enim ignobilis aliquis procrea 
+       <!--816.xml-->
+       <pb ed="#B" n="388-r"/>
+        <lb ed="#B" n="1"/>re vere nobilem &amp; bonum, vt dictum est: &amp; ille nobilis incipere genus nobilium quod terminatur in aliquo igno-  
+       <lb ed="#B" n="2"/>bili: &amp; ille prior ignobilis potuit processisse ab ignobilibus secundum genus: &amp; iste secundus ignobilis potest 
+       <lb ed="#B" n="3"/>incipere vnum genus ignobilium: ita quod secundum <name ref="#Aristotle">philosophum</name> genus nobile &amp; ignobile in eadem linea sese generantium 
+       <lb ed="#B" n="4"/>infinities poterit variari &amp; ex parte ante &amp; ex parte post. 
+      </p>
+      <p xml:id="n3av8a-c1e3827-d1e296">
+       AD primum probans quod nobilitas semper incipit 
+       <lb ed="#B" n="5"/>a nobili: quia causa semper nobilior est causato: Dicendum quod hoc verum est in essentialiter ordinatis: vt 
+       <lb ed="#B" n="6"/>corpus caeli nobilius est mixto. In accidentaliter autem ordinatis sicut ordinatur homo generans ad generatum 
+       <lb ed="#B" n="7"/>non oportet, vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

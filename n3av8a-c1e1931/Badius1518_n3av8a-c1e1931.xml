@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="171-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1931">
+       <head xml:id="n3av8a-c1e1931-Hd1e96">Quaestio 12</head>
+       <p xml:id="n3av8a-c1e1931-d1e99">
+        <lb ed="#B" n="48"/>CIrca secundum arguitur quod diuersitas intentionum non semper facit compositionem 
+       <lb ed="#B" n="49"/>in qualibet re: quoniam tunc esset compositio in deo: quia in ipso est diuersitas intentio 
+       <lb ed="#B" n="50"/>hunm scilicet relationis &amp; sui fundamenti: quae faciunt compositionem: vt patet de esse 
+       <lb ed="#B" n="51"/>&amp; essentia in creaturis. 
+      </p>
+      <p xml:id="n3av8a-c1e1931-d1e110">
+       CONtra. quae possunt aliquando abinuicem remoueri, di  
+       <lb ed="#B" n="52"/>cendo quod hoc non est hoc, necessario faciunt compositionem in eodem, quia vbi nul 
+       <lb ed="#B" n="53"/>la est omnino compositio, nulla est diuersitas: sed penitus idem &amp; econuerso: secum 
+       <lb ed="#B" n="54"/>dum Boetium de Trini. Talia sunt quae diuersa sunt secundum intentioneem. scilicet quod semper vnum contingit 
+       <!--382.xml-->
+       <pb ed="#B" n="171-r"/>
+        <lb ed="#B" n="1"/>remoueri ab altero: vt patet inducendo per singula. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1931-d1e126">
+       DIssolutio huius Quaestionis patet 
+       <lb ed="#B" n="2"/>in parte ex dictis supra in dissolutione. vi. quaestionis. Vt enim patet ibidem diuersa intentione sunt quae  
+       <lb ed="#B" n="3"/>fundata in simplicitate eiusdem rei diuersos de se formant conceptus. Qui ex hoc intelliguntur esse di-  
+       <lb ed="#B" n="4"/>uersi quod vnus eorum alterum excludit vel totaliter: vt patet in duobus primis modis differentium in  
+       <lb ed="#B" n="5"/>tentione ibi distinctis: vel in parte: vt patet in quatuor aliis. Et differunt differentia secundum inten- 
+       <lb ed="#B" n="6"/>tionem ab illis quae differunt secundum rem: &amp; similiter ab illis quae differunt secundum rationem 
+       <lb ed="#B" n="7"/>tantum: quod haec in eadem simplici re fundantur: non sic illa, vt forma generis &amp; differentia in forma speciei: ita 
+       <lb ed="#B" n="8"/>quod illa res in significato vtriusque intentionis continetur secundum alium &amp; alium modum concipien 
+       <lb ed="#B" n="9"/>di. in quo conueniunt cum differentibus sola ratione. Sed in hoc differunt: quod in diuersis secundum intentio 
+       <lb ed="#B" n="10"/>nem vnus conceptus secundum vnum modum excludit alium secundum alium modum: non sic autem 
+       <lb ed="#B" n="11"/>differentia sola ratione. Ex quo contingit: vt patet ex dictis in illa quaestione: quod quaecunque differunt in  
+       <lb ed="#B" n="12"/>tentione differunt ratione, non econuerso. propter quod frequenter intentio ratio appellatur. Quare cum 
+       <lb ed="#B" n="13"/>quaecunque se habent in eodem secundum diuersitatem tantam quod vnum eorum vere potest ab altero remoueri: dicen 
+       <lb ed="#B" n="14"/>do quod non est hoc: illa non se habent in illo secundum rationem summae simplicitatis &amp; vnitatis: quia non secun 
+       <lb ed="#B" n="15"/>dum rationem summae identitatis. Identitas enim sequitur vnitatem &amp; diuersitas multitudinem siue plu- 
+       <lb ed="#B" n="16"/>ralitatem: vt etiam dictum est ibi. Quae talia autem sunt, non possunt esse in eodem absque aliqua compo 
+       <lb ed="#B" n="17"/>sitione. Dicendum igitur simpliciter: quod quaecunque diuersitas intentionum in quocumque sit semper in eo facit ali- 
+       <lb ed="#B" n="18"/>quam compositionem: secundum quod de pluribus modis compositionum circa creaturas in quaestionibus de dei 
+       <lb ed="#B" n="19"/>simplicitate exposuimus. Multo tamen minor est ista compositio quam illa sit quae ex differentibus re: quan  
+       <lb ed="#B" n="20"/>to maior est diuersitas differentium re quam differentium intentione. Ita quod quia illa vt sunt in re abso- 
+       <lb ed="#B" n="21"/>lute habent perfecte differentiam suam in se, &amp; absolute res illa in perfecto actu habet illam realem con 
+       <lb ed="#B" n="22"/>positionem: ista vero quae in re eadem, differunt intentione: quia vt sunt in re absolute non persecte ha 
+       <lb ed="#B" n="23"/>bent suam differentiam: sed solum vt res illa cadit in consideratione intellectus circa idem concipien- 
+       <lb ed="#B" n="24"/>tis illos diuersos conceptus actu suo diuidendi quae secundum se sunt indiuisa, &amp; vt in simplici intel 
+       <lb ed="#B" n="25"/>ligentia tantum vnicum conceptum formant: vnde &amp; intentio non est nisi opus rationis inquantum intentio est: Idcir- 
+       <lb ed="#B" n="26"/>co res eadem in se &amp; absolute in perfecto actum non habet compositionem huiusmodi intentionum: nisi virtute &amp; qua-  
+       <lb ed="#B" n="27"/>si in potentia tantum: quemadmodum genus habet in potentia quodammodo contrarias differentias. Quae opere in-  
+       <lb ed="#B" n="28"/>tellectus producibilis est in actu circa rem, non vt extra intellectum &amp; secundum se existens: sed vt est in actuali 
+       <lb ed="#B" n="29"/>eius consideratione: quemadmodum ratiovniversalis in re extra est in potentia: actu vero est in ea secundum quod cadit in  
+       <lb ed="#B" n="30"/>eius actuali consideratione. Vnde &amp; intentio non dicitur esse aliquid in re vt est extra: sed solum vt cadit in  
+       <lb ed="#B" n="31"/>actuali intellectus consideratione considerantis vnum in re vt duo intentione, quid vere non fictitie duo est in  
+       <lb ed="#B" n="32"/>tentione. Quia in natura illius rei vt in fundamento, &amp; quasi in radice est vtraque intentio educenda de ea opere in  
+       <lb ed="#B" n="33"/>tellectus tamquam res rationis &amp; intellectus, quemadmodum in ligno velut in radice sunt folia &amp; fructus vt diuersa edu 
+       <lb ed="#B" n="34"/>cenda opere naturae tanquam res naturae. Quod patet sic gera exempli in intentionibus absolutis: vt per hoc pateat in  
+       <lb ed="#B" n="35"/>intentionibus quarum vna est absoluta alia respectiua. Cum. nm quaeque secundum gradus diuersos perfectionum se ha 
+       <lb ed="#B" n="36"/>bent per ordinem in creaturis: semper quicquid est perfectionis in inferiori secundum gradum virtute, est &amp; in superiori cum 
+       <lb ed="#B" n="37"/>aliquo virtutis superaddito: ita quod idem secundum rem simplex vere dicitur differre ab aliquo secundum vnum illorum  
+       <lb ed="#B" n="38"/>&amp; conuenire cum illo secundum aliud: vt cum ista se habent secundum gradus &amp; ordinem. scilicet mixtum vegeta- 
+       <lb ed="#B" n="39"/>bile sensibile, in lapide, in arbore, &amp; bruto: mixtum eo quod mixtum non est vegetabile: sed omne vegetabile eo quod  
+       <lb ed="#B" n="40"/>vegetabile est mixtum: ita quod vegetabile secundum rationem mixti conuenit cum lapide, &amp; secundum propriam rationem qua  
+       <lb ed="#B" n="41"/>dicitur vegetabile: vt arbor, differt ab eodem simpliciter. Sensibile vt brutum se habet ad mixtum simpliciter: 
+       <lb ed="#B" n="42"/>&amp; similiter ad vegetabile: sicut se habet vegetabile ad mixtum quod scilicet sensibile cum aliquo convenit cum vegetabili, &amp; 
+       <lb ed="#B" n="43"/>aliquo differt ab eodem. hoc autem non contingit, nisi quia perfectius in vno &amp; eodem simplici virtute continet quic 
+       <lb ed="#B" n="44"/>quid continent gradus imperfectiores, etsi indistincte secundum actum quantum est de se, distinguibimiliter tamen secundum intentio 
+       <lb ed="#B" n="45"/>nes per intellectum. Quam distinctionem in nullo vere facere potest, nisi quid sic est distinguibile: qualis solummo est 
+       <lb ed="#B" n="46"/>est res creata: quia creaturae convenientia &amp; differentia sunt reales: ita quod aliquam realem naturam participent 
+       <lb ed="#B" n="47"/>coniter si conueniant: et quod vna aliquid virtute participet quod non alia. Non autem res increata: vt deus: qui cum 
+       <lb ed="#B" n="48"/>nullo essentialiter convenit: vt alibi declarauimus. Propter hoc enim in omni creatura habent considerari ratio 
+       <lb ed="#B" n="49"/>vniversalis &amp; particularis: in deo autem nequaquam: vt alibi habet declarari. &amp; sic huiusmodi compositionis in re cauam originalis 
+       <lb ed="#B" n="50"/>est ex parte rei: perfectio vero eius ex opere, &amp; consideratione intellectus. Et ideo quod illius compositionis causa est ex par 
+       <lb ed="#B" n="51"/>te rei, est ipsa perfectio eius virtute continens perfectionem inferiorum, quae est ipsi rei essentialis: &amp; per nostrum intelle 
+       <lb ed="#B" n="52"/>ctum perficitur: ita quod si intellectus noster illam perfectionem non conciperet: licet illa perfectio perfe 
+       <lb ed="#B" n="53"/>cta res naturae esset absque intellectum: non tamen esset perfecta secundum rationes illarum intentionum  
+       <lb ed="#B" n="54"/>quae quantum est de se solum sunt in ipsa virtute: vt dictum est. Non enim est inconueniens quod aliquid perfe 
+       <!--383.xml-->
+       <pb ed="#B" n="171-v"/>
+        <lb ed="#B" n="1"/>ctum secundum se quo ad esse naturae, sit imperfectum &amp; perficiendum quo ad esse rationis. Sic enim definitum quod est 
+       <lb ed="#B" n="2"/>perfectum in esse naturae, imperfectum est quo ad esse definitiuum: antequam cadit sub operatione rationis actua- 
+       <lb ed="#B" n="3"/>liter definientis. Et sicut est in isto modo compositionis intentionum: sic per simile intelligatur in omnibus 
+       <lb ed="#B" n="4"/>aliis. &amp; secundum hoc concedenda est ratio ad hanc partem inducta. 
+      </p>
+      <p xml:id="n3av8a-c1e1931-d1e256">
+       AD rationem in oppositum quod esset tunc 
+       <lb ed="#B" n="5"/>compositio in deo: quia in ipso sunt relatio &amp; eius fundamentum quae in creaturis semper differunt in-  
+       <lb ed="#B" n="6"/>tentione: Dicendum secundum praedeterminata in dissolutione sextae quaestionis: quod licet in creaturis diffe- 
+       <lb ed="#B" n="7"/>rant intentione, in deo tamen solum differunt ratione. quoniam in creaturis fundatur non super essentiam rei al 
+       <lb ed="#B" n="8"/>terius praedicamenti: vt similitudo super albedinem ratione qua albedo est: sed ratione alicuius intentionis extra 
+       <lb ed="#B" n="9"/>intentionem albedinis simpliciter: quae est inhaerentia eius in subiecto: cum quo habet aliquam compositionem 
+       <lb ed="#B" n="10"/>propter quod fundatum super albedinem secundum illam intentionem necessario intentione differt ab ipsa. In deo autem fun 
+       <lb ed="#B" n="11"/>datur relatio super essentiam deitatis ratione qua est deitas simpliciter: &amp; hoc quo ad relationes personarum constituti- 
+       <lb ed="#B" n="12"/>uas, aut ratione qua est in persona determinata: &amp; hoc quo ad relationes importatas nominibus relationum 
+       <lb ed="#B" n="13"/>potentiarum &amp; actionum diuinarum maxime personalium. Quae ratie scilicet essendi in persona: tantum est alia a ratio- 
+       <lb ed="#B" n="14"/>ne essentiae simpliciter: quia persona &amp; essentia in deo, non intentione: sed tantum differunt ratione propter quid  
+       <lb ed="#B" n="15"/>&amp; illa relatio fundata super essentiam: etsi non ratione qua est essentia simpliciter: sed ratione qua est in  
+       <lb ed="#B" n="16"/>in persona: non nisi sola ratione ab essentia potest differre.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

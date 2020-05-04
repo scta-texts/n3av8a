@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="90-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1293">
+      <head xml:id="n3av8a-c1e1293-Hd1e96">Quaestio 1</head>
+      <p xml:id="n3av8a-c1e1293-d1e99">
+       <lb ed="#B" n="42"/>In superiori disputatione no 
+       <lb ed="#B" n="43"/>stra generali quaerebantur trigita septem. Quaedam circa deum. Quaedam cirea 
+       <lb ed="#B" n="44"/>creaturas. Circa deum quaesita pertinebant ad personales relationes. Quorum vnum  
+       <lb ed="#B" n="45"/>erat de eis in communi. Alia vero duo circa relationem filiationis in speciali. 
+      </p>
+      <p xml:id="n3av8a-c1e1293-d1e110">
+       DE 
+       <lb ed="#B" n="46"/>primo ergo erat quaestio, vtrum relatio prius sit in diuina essentia quam in persona.  
+       <lb ed="#B" n="47"/>Quia in essentia, arguitur: quia videmus quod in creaturis relatio prius est in  
+       <lb ed="#B" n="48"/>eo in quo fundatur, vt similitudo in albedine quam in supposito albo, quod re 
+       <lb ed="#B" n="49"/>fert ad aliud. Non enim est in supposito, nisi quia albedo inest illi supposi 
+       <lb ed="#B" n="50"/>to. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1293-d1e123">
+       CONtra. relatio distinguit per se &amp; primo suppositum, er 
+       <lb ed="#B" n="51"/>go per se &amp; primo inest ei. 
+      </p>
+      <p xml:id="n3av8a-c1e1293-d1e128">
+       DIcendum quod relatio in diuinis non est nisi respe 
+       <!--220.xml-->
+       <pb ed="#B" n="90-r"/>
+       <lb ed="#B" n="1"/>ctus quidam vnius personae ad aliam fundatarum in eadem essentia, quas distinguit abinuicem. propter quod necessario 
+       <lb ed="#B" n="2"/>hent esse in duobus, licet diuersimode, scilicet in diuina essentia inquantum existit in ipsa persona, vt in suo fun 
+       <lb ed="#B" n="3"/>damento: &amp; in ipsa persona inquantum persona subsistit in essentia, vt in constituto per eam. Quia igitur simul natu  
+       <lb ed="#B" n="4"/>ra &amp; naturali intelligentia essentia habet existere in persona, &amp; persona subsistere in essentia: ideo similiter natu  
+       <lb ed="#B" n="5"/>ra &amp; naturali intelligentia relatio personalis simul hent esse, &amp; aeque primo in essentia diuina vno modo: &amp; 
+       <lb ed="#B" n="6"/>in persona alio modo: &amp; sic quaestio falsum supponebat. 
+      </p>
+      <p xml:id="n3av8a-c1e1293-d1e149">
+       AD primum ergo arti. dicendum, quod non est simile de rela- 
+       <lb ed="#B" n="7"/>tione in deo &amp; in creaturis: quia relatio supposito creaturae iam in esse constituto accidentaliter aduenit: &amp; 
+       <lb ed="#B" n="8"/>suum fundamentum similiter, licet vnum eorum per alterum insit, vt ponit argumentum. Relatio vero &amp; essentia in deo  
+       <lb ed="#B" n="9"/>substantialiter constituunt ipsum suppositum per hoc quod relatio habet esse in essentia, ita quod in eo ipso quo habet esse in  
+       <lb ed="#B" n="10"/>essentia hent constituere personam, &amp; esse in persona. Per ambo enim aeque primo &amp; immediate persona constituta est: &amp; 
+       <lb ed="#B" n="11"/>relatio in vtroque habet esse. Si vero relatio non esset personae constitutiua: &amp; non per hoc in ipsa esset: sed solum quia res 
+       <lb ed="#B" n="12"/>super quam relatio fundatur est in ipsa persona: tunc oporteret concedere vt argumentum concludit, quod esset prius relatio 
+       <lb ed="#B" n="13"/>in essentia quam in persona. 
+      </p>
+      <p xml:id="n3av8a-c1e1293-d1e167">
+       AD secundum dicendum, quod licet relatio distinguit primo &amp; per se personam: &amp; sic primo &amp; per se A 
+       <lb ed="#B" n="14"/>hent esse in persona, vt in constituto &amp; distincto per ipsam: non tamen sequitur ex hoc quin etiam primo, &amp; per se habeat esse 
+       <lb ed="#B" n="15"/>in essentia vt in suo fundamento. Sequaeretur autem si eodem modo haberet esse in persona &amp; in essentia. scilicet vt in subiecto 
+       <lb ed="#B" n="16"/>siue in fundamento, scilicet vt primo esset in essentia vt in subiecto: &amp; per illam in persona vt in subiecto, vel vt in disti 
+       <lb ed="#B" n="17"/>cto per ipsam, vt scilicet primo distingueret personam, &amp; distinguendo personam distingueret essentiam: quid non est verum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

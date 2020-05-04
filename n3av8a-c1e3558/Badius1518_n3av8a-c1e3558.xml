@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 35</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 35</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3558">
+       <head xml:id="n3av8a-c1e3558-Hd1e96">Quaestio 35</head>
+       <p xml:id="n3av8a-c1e3558-d1e99">
+        <lb ed="#B" n="40"/>CIrca secundum nullum proponebatur argumentum. 
+      </p>
+      <p xml:id="n3av8a-c1e3558-d1e104">
+       AD quid dicendum quod vis diaboli naturali- 
+       <lb ed="#B" n="41"/>ter omnem corpoream creaturam excedit: nec est aliqua vis in lapidibus aut haerbis 
+       <lb ed="#B" n="42"/>quae ipsum cogere potest vel fugare vllo modo: licet fingere possit se cogi per 
+       <lb ed="#B" n="43"/>haerbas aut lapides aut carmina. Hoc ex se nullum horum facere posset nisi deus su 
+       <lb ed="#B" n="44"/>pernaturaliter eis virtutem huiusmodi indidisset: quemadmodum indidit eam sacramentis 
+       <lb ed="#B" n="45"/>&amp; verbis sacramentalibus. Vnde nec ex verbis euangelicis nisi meritorie fugari 
+       <lb ed="#B" n="46"/>posset: quia nec sunt ad hoc ordinata: sicut nec ad sanandos languores corporales ad quos Sortiariae 
+       <lb ed="#B" n="47"/>mulieres frequenter eis vtuntur, quod non licet.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

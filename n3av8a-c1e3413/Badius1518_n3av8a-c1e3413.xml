@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 24</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 24</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="334-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3413">
+       <head xml:id="n3av8a-c1e3413-Hd1e96">Quaestio 24</head>
+       <p xml:id="n3av8a-c1e3413-d1e99">
+        <lb ed="#B" n="19"/>Irca secundum arguitur, quod non licet emere redditus perpetuos. quia qui pecu- 
+       <lb ed="#B" n="20"/>niam dat sub pacto vt plus recipiat, committit vsuram: quam illicita est, dicente <name ref="#Augustine">Augustinum</name>  
+       <lb ed="#B" n="21"/>in origi. super illud psal. xxxvi. Tota die miseretur &amp; foeneratur. secundum transia. 
+       <lb ed="#B" n="22"/>lxx. Si foeneraueris homini. i. mutuam pecuniam tuam dederis, a quo aliquid  
+       <lb ed="#B" n="23"/>plus quam dedisti expectes accipere, non pecuniam solam, siue illud sit triticum siue 
+       <lb ed="#B" n="24"/>vinum siue oleum siue quodlibet aliud, si plus quam dedisti expectas recipere foene 
+       <lb ed="#B" n="25"/>rator es. Attende quid facit foenerator: minus vult dare certe, &amp; plus accipere. hoc 
+       <lb ed="#B" n="26"/>facit emens redditus perpetuos. ergo &amp;c. Contra. praelati &amp; viri religiosi tales redditus emunt vel 
+       <lb ed="#B" n="27"/>emere consulunt: quod non facerent si vsura esset, &amp; non liceret. 
+      </p>
+      <p xml:id="n3av8a-c1e3413-d1e124">
+       DIco ad hoc secundum quod alias de 
+       <lb ed="#B" n="28"/>terminaui, quod differunt mutuum &amp; venditio seu emptio. Mutuum enim de natura sua debet esse omni 
+       <lb ed="#B" n="29"/>no liberale fine spe amplius percipiendi, iuxta illud euangelicum. Mutuum dantes nihil inde spe 
+       <lb ed="#B" n="30"/>rantes. Nihil nec pecuniam, nec quicquam aliud, vt iam dictum est secundum Augustinu. Emptio autem si 
+       <lb ed="#B" n="31"/>ue venditio deber et esse omnino aequalis secundum rationem medii iustitiae commutatiuae. Vn- 
+       <lb ed="#B" n="32"/>de <name ref="#Augustine">Augustinus</name> xiii. de trinitate dixit de quodam. Vili velle emere, &amp; carius vendere omnibus credidit 
+       <lb ed="#B" n="33"/>adesse commune, quod reuera vitium est, vt dicit. de quo alibi satis tractauimus. Nunc autem pecunia 
+       <lb ed="#B" n="34"/>tale quid est in qua per se non cadit emptio &amp; venditio vt extremum, sed vt medium vtriusque, sicut 
+       <lb ed="#B" n="35"/>ibidem exposuimus: &amp; ideo vbicunque &amp; quandocunque traditur pecunia in contractu tanquam extremum 
+       <lb ed="#B" n="36"/>non tanquam medium emptionis &amp; venditionis, mutuo traditur propter quod spes accipiendi pro huiusmodi  
+       <lb ed="#B" n="37"/>pecuniae traditione: procul dubio secundum dictum <name ref="#Augustine">Augustinus</name> vsura est. Si ergo pecunia nuda datur  
+       <lb ed="#B" n="38"/>&amp; nulla omnino emptio &amp; venditio interueniant siue vt tota simul recipiatur post lapsum temporis &amp; ali 
+       <lb ed="#B" n="39"/>quid amplius, de quo nullus dubitat quin sit vsura, siue vt per quotam aliquam singulis annis re- 
+       <lb ed="#B" n="40"/>cipiatur intentione plus recipiendi recepta forte (plus dico recipiendi, vel per se quo ad vitam suam, vel par  
+       <lb ed="#B" n="41"/>se &amp; per haeredes siue successores suos quo ad vitam plurium, aut ad perpetuum) proculdubio non video quin sit 
+       <lb ed="#B" n="42"/>vsura. Nec enim in aliquo differt emere tales redditus ad vitam vel ad perpetuum nisi quod maior est cu 
+       <lb ed="#B" n="43"/>piditas amplius recipiendi vltra fortem ad perpetuum quam ad vitam. Nec in rei veritate est emptio: licet sic 
+       <lb ed="#B" n="44"/>solet appellari vt pallietur vitium, quia vt dictum est extrema huius contractus &amp; obligationis per se 
+       <lb ed="#B" n="45"/>sunt pecunia simul data: &amp; per quotas recipienda: sed est purum mutuum. Si enim esset emptio 
+       <lb ed="#B" n="46"/>&amp; venditio: vt vere posset dici quia pro data pecunia emerentur redditus, tunc oporteret interue 
+       <lb ed="#B" n="47"/>nire contractum alium immo duos contractus circa rem aliam quae per se extremum nata est esse emptio 
+       <lb ed="#B" n="48"/>nis &amp; venditionis, vt videlicet res illa puta fundus aut mensura terrae, vel signata &amp; determi-  
+       <lb ed="#B" n="49"/>nata vel indeterminata in maiore mensura terrae contenta primo pro pecunia iusta ematur: &amp; de 
+       <lb ed="#B" n="50"/>inde pro aliqua quota pecuniae annuatim, vel ad vitam, vel ad perpetuum reuendatur, vel haeredi- 
+       <lb ed="#B" n="51"/>tarie concedatur, vel quota huiusmodi a tali ematur cui debetur iure venditionis: puta 
+       <lb ed="#B" n="52"/>qui fundum aut men suram terrae vendidit communitati alicuius ciuitatis vel domui religioso- 
+       <lb ed="#B" n="53"/>rum pro certa quota pecuniae annuatim in perpetuum reddendae: aut dedit proprietatem reserua 
+       <!--708.xml-->
+       <pb ed="#B" n="334-r"/>
+        <lb ed="#B" n="1"/>do sibi pro vsu illos redditus. Si enim velit redditus istos vendere: &amp; omne ius quod habet in eis: li- 
+       <lb ed="#B" n="2"/>citum est alteri quod emat eos, nec. reputabitur dare pecuniam pro redditibus: sed pro iure tempo- 
+       <lb ed="#B" n="3"/>rali quod ille habuit, in recipiendo scilicet redditus illos pro fundo suo, vel pro perpetuo vsu eius 
+       <lb ed="#B" n="4"/>ita quod ambo isti in recipiendo illos redditus reputentur eadem persona: &amp; venditionem quam  
+       <lb ed="#B" n="5"/>fecit primus, reputetur fecisse &amp; secundus. Vnde istis duobus modis licet emere redditus, siue per 
+       <lb ed="#B" n="6"/>petuos, siue ad vitam absque peccato. Nec emuntur redditus nisi in recompensationem alterius rei 
+       <lb ed="#B" n="7"/>in quam per venditionem &amp; emptionem res data ab emente eos commutari potuit: vt non pro- 
+       <lb ed="#B" n="8"/>prie emantur redditus vel pecunia pro pecunia: sed pro re alia. Vnde incconsimilibus factis ex so 
+       <lb ed="#B" n="9"/>lo modo contractus vnum licet fieri, alterum non licet. Puta si vnus vendit fundum suum pro 
+       <lb ed="#B" n="10"/>aliqua quota pecuniae in perpetuum soluendae, vel concedit proprietatem, &amp; retinet tantundem pro  
+       <lb ed="#B" n="11"/>vsu: &amp; velit alteri concedere pro certa summa pecuniae ius omne quod habet in recipiendo il- 
+       <lb ed="#B" n="12"/>lam quotam in perpetuo, bene ilicet emere. Si vero alius habens fundum consimilem: &amp; vult pro 
+       <lb ed="#B" n="13"/>tanta summa pecuniae eidem obligare fundum suum ad soluendum in perpetuos redditus aequa  
+       <lb ed="#B" n="14"/>lem quotam: non licet: quia hic nullius rei venditio est, sed sola obligatio fundi in pignus. Sed si 
+       <lb ed="#B" n="15"/>iste primo emeret fundum, ita quod suus esset, posset licite concedere, vel reuendere eundem eidem pro 
+       <lb ed="#B" n="16"/>praedicta quota in perpetuum annuatim recipienda. Caetera autem materiam istam tangentia dit 
+       <lb ed="#B" n="17"/>fusius declarauimus. Ex argumento quod plures tales redditus emunt, aut consulunt aliis vt eos emant 
+       <lb ed="#B" n="18"/>respondendum sicut ibi responsum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 14</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 14</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5477">
+       <head xml:id="n3av8a-c1e5477-Hd1e96">Quaestio 14</head>
+       <p xml:id="n3av8a-c1e5477-d1e99">
+        <lb ed="#B" n="5"/>CIrca tertium arguitur: quod propter indigentiam emptoris licet vendere rem plus 
+       <lb ed="#B" n="6"/>debito, sic. tantum res valet quantum vendi potest, quaere cum res possit vendi plus debito propter in  
+       <lb ed="#B" n="7"/>digentiam emptoris tantum valet quantum haberi potest pro ipsa ab emptore indi-  
+       <lb ed="#B" n="8"/>gente. sed licet rem quancumque vendere tantum quantum valet. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5477-d1e110">
+       CONtra. iste 
+       <lb ed="#B" n="9"/>vendens in hoc quod rem suam vendit plus propter indigentiam emptoris, vendit quod  
+       <lb ed="#B" n="10"/>suum non est scilicet necessitatem vel indigentiam alterius: in hoc videlicet quod illam po 
+       <lb ed="#B" n="11"/>nit in parte pretii, rem suam propter illam plus pretiando: quod nequaquam licet. ergo  
+       <lb ed="#B" n="12"/>&amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5477-d1e121">
+       DIco quod secundum quod alias declaraui in quadam quaestione de Quolibet: am scilicet liceat emere rem 
+       <lb ed="#B" n="13"/>pro minori pretio quam valeat propter ignorantiam vendentis, aequalitas debet obseruari quo ad pretium 
+       <lb ed="#B" n="14"/>inter emptum &amp; venditum siue datum &amp; acceptum, prout requirit iustitia commutatiua. scilicet secundum 
+       <lb ed="#B" n="15"/>qualitatem siue dispositionem aut circunstantiam temporum &amp; locorum in quibus fiunt emptio 
+       <lb ed="#B" n="16"/>&amp; venditio, &amp; hoc prout dicta aequalitas de propius potest seruari iuxta aestimationem rectae ra- 
+       <lb ed="#B" n="17"/>tionis. Idcirco igitur, quia talis aequalitas in proposito non seruatur, quia indigentia emptoris non  
+       <lb ed="#B" n="18"/>est circunstantia propter quam debet augeri pretium venditi, immo est circunstantia qua debet ven 
+       <lb ed="#B" n="19"/>ditor moueri ad libentius vendendum rem suam &amp; facilius, &amp; sic propter quam potius pretium excha 
+       <lb ed="#B" n="20"/>ritate diminui deberet quam ex aliqua cupiditate augeri, Dico quod omnino illicitum est plus vendere rem 
+       <lb ed="#B" n="21"/>suam propter emptoris indigentiam, &amp; pro eo quod accipit venditor vltra iustum pretium ad aestima 
+       <lb ed="#B" n="22"/>tionem viri iusti, non est venditio, sed extorsio: &amp; ita species rapinae. &amp; secundum hoc concedenda 
+       <lb ed="#B" n="23"/>est ratio secunda. Ad primam in oppositum quod tantum res valet quantum vendi potest: Dico quod verum 
+       <lb ed="#B" n="24"/>est de potentia iuris quae debet esse recta ratione regulata, quia id solum possumus licite &amp; absque peccato 
+       <lb ed="#B" n="25"/>quod de iure possumus, non autem verum est de potentia facti siue de potentia absoluta qua id posse 
+       <lb ed="#B" n="26"/>dicimur quod ex circunstantia in aliquo casu licite possumus &amp; in alio non: quae vere dicitur potentia 
+       <lb ed="#B" n="27"/>absoluta. Dicitur etiam potentia facti quando per ipsam fit quod non licet pro loco &amp; tempore, licet alias 
+       <lb ed="#B" n="28"/>licere possit. Potentia autem facti simpliciter die illa quae sit quid omnino illicitum est &amp; in nullo casu licitum: vt adulterari 
+       <lb ed="#B" n="29"/>vel occidere innocentem. Quare cum in proposito res ista non possit plus vendi de potentia iuris, sed solummo de 
+       <lb ed="#B" n="30"/>potentia facti, aut de potentia absoluta, quia forte in aliquo casu licitum est ista vendere tantum, puta 
+       <lb ed="#B" n="31"/>propter circunstantiam communem temporis aut loci: nullo igitur modo res dicta tantum valet quam  
+       <lb ed="#B" n="32"/>tum tali potentia vendi potest: &amp; ideo talis venditio non est licita secundum dictum modum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

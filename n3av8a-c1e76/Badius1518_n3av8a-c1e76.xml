@@ -1,140 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Quaestio 1 [Badius 1518 Transcription]</title>
-        <author ref="#HenryOfGhent">Henry of Ghent</author>
-        <editor xml:id="JW">Jeffrey C. Witt</editor>
-      </titleStmt>
-      <editionStmt>
-        <edition n="0.0.0-dev">
-          <title>Quaestio 1 [Badius 1518 Transcription]</title>
-          <date when="2019-12-29">December 29, 2019</date>
-        </edition>
-      </editionStmt>
-      <publicationStmt>
-        <authority>SCTA</authority>
-        <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <listWit>
-          <witness xml:id="B" n="Badius1518">Badius 1518</witness>
-        </listWit>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-      <editorialDecl>
-        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
-      </editorialDecl>
-    </encodingDesc>
-    <revisionDesc status="draft">
-      <listChange>
-        <change when="2019-12-29" status="draft" n="0.0.0">
-          <p>Created file for the first time.</p>
-        </change>
-      </listChange>
-    </revisionDesc>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
   </teiHeader>
   <text xml:lang="la">
-    <front>
-      <div xml:id="starts-on">
-        <pb ed="#B" n="42"/>
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="1-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e76">
+      <head xml:id="n3av8a-c1e76-Hd1e96">Quaestio 1</head>
+      <p xml:id="n3av8a-c1e76-d1e99"><!--42.xml-->
+       <pb ed="#B" n="1-r"/>
+       <lb ed="#B" n="1"/>QVAEREBANTVR In nostra disputatione generali quaestiones qua-  
+       <lb ed="#B" n="2"/>dragintaduae. Quaedam circa pertinentia ad primum principium. Quaedam  
+       <lb ed="#B" n="3"/>circa pertinentia ad processum rerum ab ipso. Quaedam circa pertinentia ad  
+       <lb ed="#B" n="4"/>res procedentes ab ipso.
+      </p>
+      <p xml:id="n3av8a-c1e76-d1e113">
+       Circa primum quaerebantur duo: vnum pertinens ad  
+       <lb ed="#B" n="5"/>eius diuinitatem, alia quaedam pertinentia ad eius assumptam humanitatem. De 
+       <lb ed="#B" n="6"/>primo ergo erat prima quaestio. VTRVM in deo sit ponere bonitatem per- 
+       <lb ed="#B" n="7"/>sonalem.
+      </p>
+      <p xml:id="n3av8a-c1e76-d1e122">
+       Ex arguebatur quod sic. PRImo: quia vt videtur non minus est distin  
+       <lb ed="#B" n="8"/>guibilis in deo bonitas quam vnitas. Sed in deo distinguitur vnitas: quod quaedam est 
+       <lb ed="#B" n="9"/>essentialis, &amp; quaedam personalis: ergo de bonitas.
+      </p>
+      <p xml:id="n3av8a-c1e76-d1e129">
+       SECVNdo quia licet 
+       <lb ed="#B" n="10"/>idem sint re in deo essentia &amp; persona: alia est tamen conceptio quam mens sibi 
+       <lb ed="#B" n="11"/>format de essentia: alia quam sibi format de persona. Potest igitur concipere 
+       <lb ed="#B" n="12"/>illud quod est personae non concipiendo illud quod est essentiae. De quo quaero an sit bonum. Si dictatur quod sic, ha-  
+       <lb ed="#B" n="13"/>beo propositum: &amp; erit aliqua bonitas personalis: cum illud conceptum non sit nisi personale. Si dicatur quod non:  
+       <lb ed="#B" n="14"/>Contra. Non potest negari quin illud personale sit ens aeternum. &amp; tunc arguitur primo ex parte entis. 
+       <lb ed="#B" n="15"/>Cum enim ens &amp; bonum conuertantur: si est ens personale, ergo &amp; bonum personale. Secundo ex parte aeterni. Cum enim 
+       <lb ed="#B" n="16"/>eternum non minus est essentiale in diuinis quam bonum, si illud est personale aeternum, erit &amp; personale bonum.
+      </p>
+      <p xml:id="n3av8a-c1e76-d1e148">
+       CON- 
+       <lb ed="#B" n="17"/>tra: cum in deo sint idem omnino deitas &amp; bonitas &amp; non sit in ipso deitas personalis sed tantum essentialis: neque  
+       <lb ed="#B" n="18"/>similiter bonitas.
+      </p>
+      <p xml:id="n3av8a-c1e76-d1e155">
+       Dicendum ad hoc sicut &amp; ad omnia alia sequentia breuiter &amp; quasi summatim, non per 
+       <lb ed="#B" n="19"/>declarationes euagando nisi in paucis occultioribus: quod aliquid distingui in diuinis penes essentiale &amp; per 
+       <lb ed="#B" n="20"/>sonale hoc non contingit nisi quia ipsum alia &amp; alia ratione convenit personae &amp; essentiae: ita quod si aliquid sub  
+       <lb ed="#B" n="21"/>vna &amp; eadem ratione conveniat personae &amp; essentiae: ipsum solum est essentiale non personale. Si vero aliquid so 
+       <lb ed="#B" n="22"/>lum vnicam habeat rationem qua solum vni eorum conuenit &amp; no alteri: puta personae non essentiae: solum  
+       <lb ed="#B" n="23"/>erit personale &amp; non essentiale. verbi gratia. Quia vnitas de formali significato suo in deo dicit indistin-  
+       <lb ed="#B" n="24"/>ctionis: sicut in creaturis dicit indiuisionem: &amp; alia est ratio indistinctionis essentiae alia vero indistin  
+       <lb ed="#B" n="25"/>ctionis personae: ideo in deo duplex distinguitur vnitas, essentialis &amp; personalis. Essentialis, propter sub 
+       <lb ed="#B" n="26"/>stantiae simplicitatem, qua deus est in se vnus &amp; indiuisus, a quolibet autem alio vt a creaturis diuisus. Per- 
+       <lb ed="#B" n="27"/>sonalis, propter simplicitatem personalis, proprietatis, qua persona quaelibet in se est vna &amp; indistincta: &amp; ab  
+       <lb ed="#B" n="28"/>aliis distincta. Deitas vero quia sub ea ratione qua convenit essentiae: convenit &amp; personae: non enim conue 
+       <lb ed="#B" n="29"/>nit personae, nisi quia in ipsa habet esse essentia: idcirco in deo non est deitas nisi essentialis non persona-  
+       <lb ed="#B" n="30"/>lis. Paternitas vero quia solum habet rationem principii generatiui qua per se convenit soli patri &amp; non essen 
+       <lb ed="#B" n="31"/>tiae: idcirco in deo paternitas solum est personale non essentiale. Nunc autem ita est de bonitate: quod in deo  
+       <lb ed="#B" n="32"/>non est alia ratio bonitatis in essentia: &amp; alia in persona: immo vna &amp; eadem: quia deus ex hoc habet ra- 
+       <lb ed="#B" n="33"/>tionem boni, quod habet rationem finis &amp; vltimi, a quo omne quod est habet esse bonum inquantum est, vt probat  
+       <lb ed="#B" n="34"/>Boetius in libro de Hebdomadibus: &amp; ad quem reducitur inquantum bonum est. Deus enim vt dicit Augusti 
+       <lb ed="#B" n="35"/>nus non est alio bono bonum: sed per se bonum: &amp; omnis boni bonum. Et <name ref="#Aristotle">philosophous</name> dicit in tertio Metaphy- 
+       <lb ed="#B" n="36"/>sicae. Quod est bonum per se &amp; per suam naturam, est finis &amp; complementum. Et causa secundum hunc modum est. 
+       <lb ed="#B" n="37"/>Res enim sunt propter illud. &amp; ideo dicit in secundo eiusdem, quod illi qui negant finem vltimum ponendo cau 
+       <lb ed="#B" n="38"/>sas finales infinitas, destruunt naturam boni. In deo autem non est alia &amp; alia ratio qua sinis &amp; vltimum omnium bo 
+       <lb ed="#B" n="39"/>norum est essentia &amp; persona: sed vna &amp; eadem: quia omnis dispositio diuina (ut ita loquar) secundum quam crea 
+       <lb ed="#B" n="40"/>tura habet respectum ad deum, vna &amp; eadem ratione conuenit essentiae &amp; tribus personis.
+      </p>
+      <p xml:id="n3av8a-c1e76-d1e208">
+       ABSOlute 
+       <lb ed="#B" n="41"/>ergo dicendum est, quod in deo non est ponendum esse bonitatem personalem sed tantum essentialem. Per iam dicta 
+       <lb ed="#B" n="42"/>patet, quod bene procedit tertium argumentum. Et quod primum non procedit, quia non est simile de bonitate &amp; 
+       <lb ed="#B" n="43"/>vnitate in deo vt dictum est.
+      </p>
+      <p xml:id="n3av8a-c1e76-d1e217">
+       AD Secundum vero agumentum, quod alia est conceptio quam mens sibi format 
+       <lb ed="#B" n="44"/>de essentia, &amp; de alia quam de persona: dicendum quod verum est. quia alia est ratio essentiae &amp; alia personae. Essen- 
+       <lb ed="#B" n="45"/>tia enim dicit quid absolutum: persona vero quid relatiuum. &amp; propter hoc alia ratione concipitur essentia:  
+       <lb ed="#B" n="46"/>alia vero persona, &amp; ipsis format mens diuersos conceptus. Hoc enim est generale in diuinis, quod de iis 
+       <lb ed="#B" n="47"/>quae sub diuersis rationibus concipimus diuersos conceptus formamus: &amp; econuerso de iis quae sub eadem 
+       <lb ed="#B" n="48"/>ratione concipimus, eundem conceptum formamus. verbi gratia: concipimus ingenitum, genitum, &amp; proce 
+       <!--43.xml-->
+       <pb ed="#B" n="1-v"/>
+       <lb ed="#B" n="1"/>dens, diuersis conceptibus: quia sub diuersis rationibus. Concipimus autem de tribus personis quod sunt deus vni  
+       <lb ed="#B" n="2"/>ca conceptione: quia sub vnica ratione. De deo ergo concipimus alia conceptione essentiam: alia personam: quia alia 
+       <lb ed="#B" n="3"/>ratione: sicut alia est ratio essentiae, alia personae. Non autem concipimus de essentia, quod sit bona: &amp; de persona, quod sit  
+       <lb ed="#B" n="4"/>bona: alia &amp; alia conceptione, sed eadem: quia non alia &amp; alia ratione conuenit eis esse bonum sed eadem. Concipiendo  
+       <lb ed="#B" n="5"/>igitur bonitatem personae non concipimus aliam quam bonitatem essentiae inclusae in persona. Cuius quidem essentiae con 
+       <lb ed="#B" n="6"/>ceptus licet sit alius a conceptu personae: non tamen potest ab eo excludi non concipiendo id quod est essentiae con 
+       <lb ed="#B" n="7"/>cipiendo illud quod est personae, vt supposuit argumentum. &amp; ita bonitas quam concipimus concipiendo personam, non 
+       <lb ed="#B" n="8"/>est nisi bonitas essentialis: sicut deitas quam concipimus concipiendo personam, non est nisi deitas essentialis: &amp; 
+       <lb ed="#B" n="9"/>similiter de aeternitate &amp; entitate: ex quibus processit argumentum: quia sunt essentialia tantum &amp; non personalia.
+      </p>
       </div>
-    </front>
-    <body>
-      <div xml:id="n3av8a-c1e76">
-        <head xml:id="n3av8a-c1e76-Hd1e95">Quaestio 1</head>
-        <head xml:id="n3av8a-c1e76-Hd1e98" type="question-title">Utrum in deo sit ponere bonitatem personalem</head>
-        <p xml:id="n3av8a-c1e76-d1e101"><!--42.xml-->
-          <pb ed="#B" n="42"/>
-          <lb ed="#B" n="1"/>QVAEREBANTVR In nostra disputatione generali quaestiones qua-  
-          <lb ed="#B" n="2"/>dragintaduae. Quaedam circa pertinentia ad primum principium. Quaedam  
-          <lb ed="#B" n="3"/>circa pertinentia ad processum rerum ab ipso. Quaedam circa pertinentia ad  
-          <lb ed="#B" n="4"/>res procedentes ab ipso. Circa primum quaerebantur duo: vnum pertinens ad  
-          <lb ed="#B" n="5"/>eius diuinitatem, alia quaedam pertinentia ad eius assumptam humanitatem.
-        </p>
-        <p xml:id="n3av8a-c1e76-d1e118">
-          De 
-          <lb ed="#B" n="6"/>primo ergo erat prima quaestio. VTRVM in deo sit ponere bonitatem per- 
-          <lb ed="#B" n="7"/>sonalem. Ex arguebatur quod sic.
-        </p>
-        <p xml:id="n3av8a-c1e76-d1e125">
-          PRImo: quia vt videtur non minus est distin  
-          <lb ed="#B" n="8"/>guibilis in deo bonitas quam vnitas. Sed in deo distinguitur vnitas: quod quaedam est 
-          <lb ed="#B" n="9"/>essentialis, &amp; quaedam personalis: ergo de bonitas.
-        </p>
-        <p xml:id="n3av8a-c1e76-d1e133">
-          SECVNdo quia licet 
-          <lb ed="#B" n="10"/>idem sint re in deo essentia &amp; persona: alia est tamen conceptio quam mens sibi 
-          <lb ed="#B" n="11"/>format de essentia: alia quam sibi format de persona. Potest igitur concipere 
-          <lb ed="#B" n="12"/>illud quod est personae non concipiendo illud quod est essentiae. De quo quaero an sit bonum. Si dictatur quod sic, ha-  
-          <lb ed="#B" n="13"/>beo propositum: &amp; erit aliqua bonitas personalis: cum illud conceptum non sit nisi personale. Si dicatur quod non:  
-          <lb ed="#B" n="14"/>Contra. Non potest negari quin illud personale sit ens aeternum. &amp; tunc arguitur primo ex parte entis. 
-          <lb ed="#B" n="15"/>Cum enim ens &amp; bonum conuertantur: si est ens personale, ergo &amp; bonum personale. Secundo ex parte aeterni. Cum enim 
-          <lb ed="#B" n="16"/>eternum non minus est essentiale in diuinis quam bonum, si illud est personale aeternum, erit &amp; personale bonum.
-        </p>
-        <p xml:id="n3av8a-c1e76-d1e151">
-          CON- 
-          <lb ed="#B" n="17"/>tra: cum in deo sint idem omnino deitas &amp; bonitas &amp; non sit in ipso deitas personalis sed tantum essentialis: neque  
-          <lb ed="#B" n="18"/>similiter bonitas.
-        </p>
-        <p xml:id="n3av8a-c1e76-d1e158">
-          Dicendum ad hoc sicut &amp; ad omnia alia sequentia breuiter &amp; quasi summatim, non per 
-          <lb ed="#B" n="19"/>declarationes euagando nisi in paucis occultioribus: quod aliquid distingui in diuinis penes essentiale &amp; per 
-          <lb ed="#B" n="20"/>sonale hoc non contingit nisi quia ipsum alia &amp; alia ratione convenit personae &amp; essentiae: ita quod si aliquid sub  
-          <lb ed="#B" n="21"/>vna &amp; eadem ratione conveniat personae &amp; essentiae: ipsum solum est essentiale non personale. Si vero aliquid so 
-          <lb ed="#B" n="22"/>lum vnicam habeat rationem qua solum vni eorum conuenit &amp; no alteri: puta personae non essentiae: solum  
-          <lb ed="#B" n="23"/>erit personale &amp; non essentiale. verbi gratia. Quia vnitas de formali significato suo in deo dicit indistin-  
-          <lb ed="#B" n="24"/>ctionis: sicut in creaturis dicit indiuisionem: &amp; alia est ratio indistinctionis essentiae alia vero indistin  
-          <lb ed="#B" n="25"/>ctionis personae: ideo in deo duplex distinguitur vnitas, essentialis &amp; personalis. Essentialis, propter sub 
-          <lb ed="#B" n="26"/>stantiae simplicitatem, qua deus est in se vnus &amp; indiuisus, a quolibet autem alio vt a creaturis diuisus. Per- 
-          <lb ed="#B" n="27"/>sonalis, propter simplicitatem personalis, proprietatis, qua persona quaelibet in se est vna &amp; indistincta: &amp; ab  
-          <lb ed="#B" n="28"/>aliis distincta. Deitas vero quia sub ea ratione qua convenit essentiae: convenit &amp; personae: non enim conue 
-          <lb ed="#B" n="29"/>nit personae, nisi quia in ipsa habet esse essentia: idcirco in deo non est deitas nisi essentialis non persona-  
-          <lb ed="#B" n="30"/>lis. Paternitas vero quia solum habet rationem principii generatiui qua per se convenit soli patri &amp; non essen 
-          <lb ed="#B" n="31"/>tiae: idcirco in deo paternitas solum est personale non essentiale. Nunc autem ita est de bonitate: quod in deo  
-          <lb ed="#B" n="32"/>non est alia ratio bonitatis in essentia: &amp; alia in persona: immo vna &amp; eadem: quia deus ex hoc habet ra- 
-          <lb ed="#B" n="33"/>tionem boni, quod habet rationem finis &amp; vltimi, a quo omne quod est habet esse bonum inquantum est, vt probat  
-          <lb ed="#B" n="34"/>Boetius in libro de Hebdomadibus: &amp; ad quem reducitur inquantum bonum est. Deus enim vt dicit Augusti 
-          <lb ed="#B" n="35"/>nus non est alio bono bonum: sed per se bonum: &amp; omnis boni bonum. Et philosophous dicit in tertio Metaphy- 
-          <lb ed="#B" n="36"/>sicae. Quod est bonum per se &amp; per suam naturam, est finis &amp; complementum. Et causa secundum hunc modum est. 
-          <lb ed="#B" n="37"/>Res enim sunt propter illud. &amp; ideo dicit in secundo eiusdem, quod illi qui negant finem vltimum ponendo cau 
-          <lb ed="#B" n="38"/>sas finales infinitas, destruunt naturam boni. In deo autem non est alia &amp; alia ratio qua sinis &amp; vltimum omnium bo 
-          <lb ed="#B" n="39"/>norum est essentia &amp; persona: sed vna &amp; eadem: quia omnis dispositio diuina (ut ita loquar) secundum quam crea 
-          <lb ed="#B" n="40"/>tura habet respectum ad deum, vna &amp; eadem ratione conuenit essentiae &amp; tribus personis. ABSOlute 
-          <lb ed="#B" n="41"/>ergo dicendum est, quod in deo non est ponendum esse bonitatem personalem sed tantum essentialem.
-        </p>
-        <p xml:id="n3av8a-c1e76-d1e210">
-          Per iam dicta 
-          <lb ed="#B" n="42"/>patet, quod bene procedit tertium argumentum.
-        </p>
-        <p xml:id="n3av8a-c1e76-d1e215">
-          Et quod primum non procedit, quia non est simile de bonitate &amp; 
-          <lb ed="#B" n="43"/>vnitate in deo vt dictum est.
-        </p>
-        <p xml:id="n3av8a-c1e76-d1e220">
-          AD Secundum vero argumentum, quod alia est conceptio quam mens sibi format 
-          <lb ed="#B" n="44"/>de essentia, &amp; de alia quam de persona: dicendum quod verum est. quia alia est ratio essentiae &amp; alia personae. Essen- 
-          <lb ed="#B" n="45"/>tia enim dicit quid absolutum: persona vero quid relatiuum. &amp; propter hoc alia ratione concipitur essentia:  
-          <lb ed="#B" n="46"/>alia vero persona, &amp; ipsis format mens diuersos conceptus. Hoc enim est generale in diuinis, quod de iis 
-          <lb ed="#B" n="47"/>quae sub diuersis rationibus concipimus diuersos conceptus formamus: &amp; econuerso de iis quae sub eadem 
-          <lb ed="#B" n="48"/>ratione concipimus, eundem conceptum formamus. verbi gratia: concipimus ingenitum, genitum, &amp; proce 
-          <!--43.xml-->
-          <pb ed="#B" n="43"/>
-          <lb ed="#B" n="1"/>dens, diuersis conceptibus: quia sub diuersis rationibus. Concipimus autem de tribus personis quod sunt deus vni  
-          <lb ed="#B" n="2"/>ca conceptione: quia sub vnica ratione. De deo ergo concipimus alia conceptione essentiam: alia personam: quia alia 
-          <lb ed="#B" n="3"/>ratione: sicut alia est ratio essentiae, alia personae. Non autem concipimus de essentia, quod sit bona: &amp; de persona, quod sit  
-          <lb ed="#B" n="4"/>bona: alia &amp; alia conceptione, sed eadem: quia non alia &amp; alia ratione conuenit eis esse bonum sed eadem. Concipiendo  
-          <lb ed="#B" n="5"/>igitur bonitatem personae non concipimus aliam quam bonitatem essentiae inclusae in persona. Cuius quidem essentiae con 
-          <lb ed="#B" n="6"/>ceptus licet sit alius a conceptu personae: non tamen potest ab eo excludi non concipiendo id quod est essentiae con 
-          <lb ed="#B" n="7"/>cipiendo illud quod est personae, vt supposuit argumentum. &amp; ita bonitas quam concipimus concipiendo personam, non 
-          <lb ed="#B" n="8"/>est nisi bonitas essentialis: sicut deitas quam concipimus concipiendo personam, non est nisi deitas essentialis: &amp; 
-          <lb ed="#B" n="9"/>similiter de aeternitate &amp; entitate: ex quibus processit argumentum: quia sunt essentialia tantum &amp; non personalia.
-        </p>
-      </div>
-    </body>
+   </body>
   </text>
 </TEI>

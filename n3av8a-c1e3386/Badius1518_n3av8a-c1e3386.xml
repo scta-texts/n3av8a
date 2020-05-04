@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 22</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 22</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="332-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3386">
+       <head xml:id="n3av8a-c1e3386-Hd1e96">Quaestio 22</head>
+       <p xml:id="n3av8a-c1e3386-d1e99">
+        <lb ed="#B" n="14"/>SEquuntur pertinentia circa hominem ad statum culpae praesentis. Quorum vnum  
+       <lb ed="#B" n="15"/>erat ex facto praeterito. Quaedam vero alia ex facto praesente. Primum illorum 
+       <lb ed="#B" n="16"/>erat, vtrum res praescripta in bona fide, cum notum fuerit de mala fide, statim 
+       <lb ed="#B" n="17"/>tenens eam teneatur restituere illam ei ad quem alias de iure debet pertinere. Et 
+       <lb ed="#B" n="18"/>arguitur quod non quia res iuste teneri potest eius auctoritate qui eam potest dare.  
+       <lb ed="#B" n="19"/>sed Codice de praescriptione quadragennali bene a Xenone dicitur quod princeps 
+       <lb ed="#B" n="20"/>omnium rerum dominium habet quo ad proprietatem, &amp; talis bene potest remdare: &amp; auctoritate eius 
+       <lb ed="#B" n="21"/>bene potest retineri. Sed tenens rem mala fide praescriptam non vi aut clam, &amp; caeteris huiusmodi, retinet 
+       <lb ed="#B" n="22"/>eam auctoritate principis: qui in lege de praescriptione supe hoc auctoritatem suam adhibuit. ergo &amp;c. 
+       <lb ed="#B" n="23"/>Contra. illud debet restitui quid absque peccato mortali non potest retineri. sed talis res absque peccato 
+       <lb ed="#B" n="24"/>mortali non potest retineri. <ref xml:id="n3av8a-c1e3386-Rd1e125" target="http://scta.info/resource/cice-l2t26-d1e407">extra de praescriptione cap. vlt.</ref> vbi dicit quod <quote xml:id="n3av8a-c1e3386-Qd1e128">qui praescribit nullo tempo 
+       <lb ed="#B" n="25"/>re debet scire rem alienam</quote>. ergo quam cito scit alienam iam non valet ei praescriptio. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3386-d1e134">
+       DIcendum  
+       <lb ed="#B" n="26"/>ad hoc quod omnis praescriptio ad ius positiuum pertinet, quod debet valere, aut ad iuris naturalis declaratio-  
+       <lb ed="#B" n="27"/>nem, aut ad eius efficaciorem obseruationem, aut ad transgressionis eius punitionem. De primis duo  
+       <lb ed="#B" n="28"/>bus modis nihil ad propositum. Sed de tertio sciendum: quod ad transgressionis punitionem ius posi 
+       <lb ed="#B" n="29"/>tiuum dupliciter poenalia statuta constituit. Vno modo poenas certas delictis imponendo, vt quod volun 
+       <lb ed="#B" n="30"/>tarius homicida captus occidatur. de quo adhuc nihil ad praesens. Alio modo in detestationem vnius 
+       <lb ed="#B" n="31"/>criminis punitioni alterius sese non intromittendo. de quo ponit Augus. exemplum. i. de libero ar-  
+       <lb ed="#B" n="32"/>bitrio dicens. Discutiendum videtur, vtrum hostis irruens vel infidiator sicarius siue pro vita, siue pro  
+       <lb ed="#B" n="33"/>libertate, siue pro pudicitia, siue vlla interficiatur libidine. Et si dicatur quod non, contra hoc statim con 
+       <lb ed="#B" n="34"/>cludit. Non ergo lex iusta est quae dat potestatem vel viatori vt latronem ne ab eo ipse occidatur occidat, vel 
+       <lb ed="#B" n="35"/>cuipiam viro, vel foeminae, vt violentum stupratorem irruentem ante illatum stuprum si possit inter- 
+       <lb ed="#B" n="36"/>imat. Et infra. Quapropter (inquit <name ref="#Augustine">Augustinus</name> legem non reprehendo quae tales permittit interfici. &amp; 
+       <lb ed="#B" n="37"/>infra. Videtur mihi legem istam quae populo regendo scribitur recte ista permittere, &amp; per diui- 
+       <lb ed="#B" n="38"/>nam prouidentiam vindicari. Ea enim vindicanda sibi haec assumit quae satis sunt conciliandae paci ho 
+       <lb ed="#B" n="39"/>minibus imperitis: &amp; quanta possunt per hominem regi. Illud ergo quod isto modo statuitur in dete  
+       <lb ed="#B" n="40"/>stationem criminis non puniendum, sed permittendum, statui non debet nisi propter bonum &amp; pa- 
+       <lb ed="#B" n="41"/>cem reipublicae: &amp; quatenus vergit in pacem &amp; bonum reipublicae. Vnde si essent casus aliqui in qui-  
+       <lb ed="#B" n="42"/>bus legem huiusmodi statuti obseruare nullo modo vergeret in pacem &amp; bonum reipubli. casus huiusmodi ex 
+       <lb ed="#B" n="43"/>cipi deberent. quia iniquum esset ipsos sub generali statuto comphendi: ita quod etsi in prima legis conm 
+       <lb ed="#B" n="44"/>stitutione legislator eos non exciperet: postmodum tamen legis directiuus siue correctiuus eos debe- 
+       <lb ed="#B" n="45"/>ret excipere. vt si in primo statu de praescriptione non essent excepti casus illi quibus aliqui vi vel clam 
+       <lb ed="#B" n="46"/>praescriberent: postquam conpartum esset quod vergerent in detrimentum &amp; disturbationem reipublicae, excipi deberent 
+       <lb ed="#B" n="47"/>nec vnquam debuit legislator sapiens eos velle aut intendere includi. Vnde quia lex de praescriptione in  
+       <lb ed="#B" n="48"/>ste instituta est ex intentione instituentis, ne lites fierent immortales, &amp; in poenam differentium per totum 
+       <lb ed="#B" n="49"/>tempus praescriptionis sua repetere, sic debet lex intelligi de praescriptione vt in his legislatoris inten 
+       <lb ed="#B" n="50"/>tio obseruetur: &amp; cum hoc quantum possibile est indemnis innocentia conseruetur. Et est duplex sta 
+      <lb ed="#B" n="51"/>tuti de praescriptione expositio sm duplicem opinionem circa ipsum, tacta <ref xml:id="n3av8a-c1e3386-Rd1e195" target="http://scta.info/resource/cice-l2t26-d1e180">extra de praescrip. Vigilanti</ref> 
+        <lb ed="#B" n="52"/>vt infra videbitur. Vna quod res praescripta continue nec vi, nec clam, nec contra aliquam conditio- 
+       <lb ed="#B" n="53"/>nem casus cuiuscunque quibus iura determinant legem &amp; modum praescribendi, iure praescriptio 
+       <lb ed="#B" n="54"/>nis facta est praescribentis finito tempore praescribendi a iure praefinito: in&amp; iam desinit esse illius 
+       <!--704.xml-->
+       <pb ed="#B" n="332-r"/>
+        <lb ed="#B" n="1"/>contra quem praescribitur, ita quod conquerens de caetero non est audiendus. Et sm leges ciuiles, vt dicit 
+       <lb ed="#B" n="2"/>
+        <ref xml:id="n3av8a-c1e3386-Rd1e214">Glos. extra de praescrip. cap. vlti.</ref> etiam praescribens licet currente tempore praescriptionis fuit malae fidei possessor 
+       <lb ed="#B" n="3"/>&amp; iniuste atque in peccato mortali scienter detinuit alienum: tamen elapso tempore praescriptionis iam factus est 
+       <lb ed="#B" n="4"/>bonae fidei possessor, &amp; iuste, &amp; fine omni peccato incipit detinere, non alienum, sed quod suum ei: &amp; hoc legis 
+       <lb ed="#B" n="5"/>latoris, &amp; legis auctoritate qua nemo peccat. Sed an ita possit esse perscrutandum est. Est planum omnibus 
+       <lb ed="#B" n="6"/>quod facere illud quod est alicuius, non esse suum, sed alienum, &amp; esse alterius, nullus potest nisi vna de causa ex his 
+       <lb ed="#B" n="7"/>duabus. Aut quia ille qui hoc facit maius habet dominium in re illa, ita quod inferior nuilum ius habet 
+       <lb ed="#B" n="8"/>in ea re nisi de voluntate illius: &amp; quamdiu ipse voluerit. Sic deus fecit quod illud quod erat aegyptiorum esset 
+       <lb ed="#B" n="9"/>Hebraeorum quando praecepit eis vt spoliarent aegyptios. Exod. xii. Sic etiam dominus potest facere quod bona quae sunt ser 
+       <lb ed="#B" n="10"/>ui, sint non sua, sed alterius. Aut quia est aliquid ius legis naturae &amp; diuinae aut humanae, propter quid quid suum  
+       <lb ed="#B" n="11"/>est debet esse non suum, sed alienum: &amp; hoc non nisi propter delictum illius cuius est: quod vergit in detri-  
+       <lb ed="#B" n="12"/>mentum &amp; disturbationem reipublicae, &amp; quo laeditur innocentia, &amp; de fouetur malitia. Hoc modo auctorita- 
+       <lb ed="#B" n="13"/>te legis naturae iudex minister legis facit quod illud quod est illius qui non vult reddere mutuum, fiat non  
+       <lb ed="#B" n="14"/>suum, sed illius cui mutuo tenetur. Hoc etiam modo per edicta ecclesiastica in certis criminibus commis 
+       <lb ed="#B" n="15"/>sis contra ecclesiam, feudum quod est alicuius quod tenet de ecclesia, fiat non suum, sed ecclesiae a qua tenet 
+       <lb ed="#B" n="16"/>illud. Vnde in casu in quo laeditur innocentia, &amp; de fouetur malitia, absque omni bono quod inde possit pro  
+       <lb ed="#B" n="17"/>uenire reipublicae, nec est, nec debet esse intentionis legis, aut legislatoris, aut ministri legis, quod id quid  
+       <lb ed="#B" n="18"/>est alicuius fiat non suum, sed alienum, nec debet legislator hoc statuere fieri, aut dare occasionem quod  
+       <lb ed="#B" n="19"/>fiat, immo potius non permittere &amp; statuere ne possit fieri. In proposito autem casu praescriptionis quid  
+       <lb ed="#B" n="20"/>est suum non sit non suum, sed alienum, nisi ex vltima cause. scilicet ex legis statuto, vt ponit praedicta opinio 
+       <lb ed="#B" n="21"/>Sed quod non sic debet intelligi lex de praescriptione, sicut exponit eam dicta opinio, hic ex iam dictis videtur de 
+       <lb ed="#B" n="22"/>clarari sic. Vt enim patet ex iam dictis, statutum poenale faciens de suo non suum, hoc debet facere pro  
+       <lb ed="#B" n="23"/>pter culpam veram, vel praesumptam tali praesumptione, contra quam non admittitur exceptio eius cuius 
+       <lb ed="#B" n="24"/>res primo est, vergentem in detrimentum reipublicae vere vel praesumptiue: ita quod idcirco ex hoc non lae 
+       <lb ed="#B" n="25"/>datur innocentia, neque foueatur malitia, neque detur occasio huiusmodi absque euidentissima vtilitate reip. 
+       <lb ed="#B" n="26"/>quae alias obtineri non posset. Vnde statutum de praescriptione sic debet intelligi: vt per ipsum procuretur 
+       <lb ed="#B" n="27"/>reipublicae vtilitas: &amp; non laedatur innocentia, nec foueatur malitia prout est possibile fieri. Ita quod  
+       <lb ed="#B" n="28"/>ille non sit rectus intellectus statuti per quem ex statuto in aliquo casu si possit contingere laederetur 
+       <lb ed="#B" n="29"/>innocentia, &amp; de foueretur malitia absque euidentissima vtilitate reipublicae: quae alias obtineri non pos 
+       <lb ed="#B" n="30"/>set. Nunc autem ita est in casu nostro proposito. Posset enim contingere quod aliquis intendens pere 
+       <lb ed="#B" n="31"/>grinari in remotis partibus, fundum aliquem locet vicino suo vsque ad annum sub tali conditione  
+       <lb ed="#B" n="32"/>quod extunc restituat eum haeredibus quos relinquit, &amp; statim recedere. Ille autem non seruat pa- 
+       <lb ed="#B" n="33"/>ctum: &amp; anno elapso non restituit fundum: sed mala fide poslidet tanquam suum, haeredibus forte par 
+       <lb ed="#B" n="34"/>uulis, aut negligentibus, restitutionem fundi non petentibus nec reclamantibus: &amp; sic praescri- 
+       <lb ed="#B" n="35"/>bit: tempore vero praescriptionis elapso reuertitur peregrinus, &amp; petit fundum: ille autem qui tenet di 
+       <lb ed="#B" n="36"/>cit quod non reddet: quia suus factus est iure praescriptionis. Ecce si ille iuste detinet quomodo inno-  
+       <lb ed="#B" n="37"/>centia laeditur, &amp; malitia fouetur per praedictum intellectum statuti. Sed dices quod etsi laedatur si 
+       <lb ed="#B" n="38"/>ne culpa sua: non tamen sine culpa suorum. Sed esto quod non dixisset haeredibus suis in suo recessu 
+       <lb ed="#B" n="39"/>quod fundus ille suus esset: &amp; quod eis post annum restituendus esset: sed totum hoc bonae fidei alterius 
+       <lb ed="#B" n="40"/>commisisset, tunc sine culpa sua &amp; suorum, innocentia laederetur. Sed dices, debuisset dimisisse 
+       <lb ed="#B" n="41"/>procuratorem diligentem. Sed ponatur quod non proposuisset morari nisi per tam modicum temporis in  
+       <lb ed="#B" n="42"/>tra quod iura non iudicarent eum debere dimisisse procuratorem, &amp; interim captus violenter 
+       <lb ed="#B" n="43"/>vel etiam in domo sua occulte, &amp; inde clam ad loca remotissima per totum tempus praescri- 
+       <lb ed="#B" n="44"/>ptionis absens vt a nullo possit sciri quo ipse deuenit: sic adhuc nullo modo est in culpa. Sed dices 
+       <lb ed="#B" n="45"/>adhuc: quod etsi in isto casu laeditur innocentia sine culpa: non tamen sine causa: quae est praedicta pro-  
+       <lb ed="#B" n="46"/>pter quam statutum editum est: quod propter vnum casum non debet infringi. qui etiam excipi a statuto 
+       <lb ed="#B" n="47"/>non debet, quia praedictam causam absentiae suae forte probare non posset: &amp; ideo non credere- 
+       <lb ed="#B" n="48"/>tur ei. Sed esto quod probare posset: &amp; hoc in iure proponit: reuera videtur quod audiri deberet. Vnde 
+       <lb ed="#B" n="49"/>de praescripti. capitulo vltimo super illud. Nulla valeat praescriptio absque bona fide. dicit Glos 
+       <lb ed="#B" n="50"/>sa. Bene debet audiri qui vult probare malam fidem ab initio habuisse, quia postea praescri- 
+       <lb ed="#B" n="51"/>bere non potuit. Vnde talis casus si praecogitatus fuisset a legislatore, excipi debuisset, aut opor- 
+       <lb ed="#B" n="52"/>tet assignare euidentem vtilitatem reipublicae inde prouenientem quam alias non obtineret. Sed  
+       <lb ed="#B" n="53"/>dices quod illa est ne lites fiant immortales. ergo saltem salua ista vtilitate sic debet temperari intel- 
+       <lb ed="#B" n="54"/>lectus edicti: vt obseruata ista vtilitate, vel quacunque alia, sic debet intelligi edictum quo potius 
+       <!--705.xml-->
+       <pb ed="#B" n="332-v"/>
+        <lb ed="#B" n="1"/>&amp; magis consulitur innocentiae ne laedatur: &amp; obuiatur malitiae ne foueatur, hoc autem sit si cum 
+       <lb ed="#B" n="2"/>hoc quod lex publica non assumit sibi huius facti correctionem propter publicam pacem: dimittat 
+       <lb ed="#B" n="3"/>tamen eius correctionem legi superiori scilicet diuinae, dimittendo scilicet conscientiae detento-  
+       <lb ed="#B" n="4"/>tis, vt si habeat conscientiam quod mala fides fuit in praescribendo, aut ab initio detentionis reia pri 
+       <lb ed="#B" n="5"/>mo detentore: quod restituat detentum sicut alienum. Sinautem, quod reseruet si velit. Per hoc enim quod 
+       <lb ed="#B" n="6"/>sic conscientiae suae relinquitur, non minus consulitur paci reipublicae quam si assecuretur in conscien 
+       <lb ed="#B" n="7"/>tia. Sed minus consulitur innocentiae: &amp; minus resistitur malitiae. Propter quod est aliorum opinio, quod res 
+       <lb ed="#B" n="8"/>secundum omnes conditiones praescribendi legitime praescripta hoc solo deficiente quod aliquando in praescribem 
+       <lb ed="#B" n="9"/>do, vel ab initio in detinendo, vel ipse qui nunc rem detinet, vel aliquis praedecessorum eius fuerit malae fidei pos 
+       <lb ed="#B" n="10"/>sessor, non est iure praescriptionis sic facta praescribentis, aut tenentis eam quod desinat esse illius contra quempr 
+       <lb ed="#B" n="11"/>scribitur: sed quod de caetero coram iudice super illius rei repetitione non est audiendus, quia vt dici 
+       <lb ed="#B" n="12"/>tur de praescrip. cap. Ad aures. Quadragennalis praescriptio omnem prorsus actionem excludit. Et sic lex 
+       <lb ed="#B" n="13"/>permittit conscientiae suae restituere, vel non restituere: et similiter correctionem si contra conscien 
+       <lb ed="#B" n="14"/>tiam non reddat, legi diuinae, &amp; iudicio dei. Ita quod si habeatur conscientia quod ab initio ipse vel aliquis 
+       <lb ed="#B" n="15"/>praedecessorum suorum in illa re fuit malae fidei possessor, confidendo in iure praescriptionis non debet 
+       <lb ed="#B" n="16"/>super hoc conscientiam deponere qua putat se male detinere: immo debet eam sibi informare,. quia in  
+       <lb ed="#B" n="17"/>rei veritate eam male detinet. Hanc opinionem puto esse veriorem: &amp; credo quod magis concordat iuri ca- 
+      <lb ed="#B" n="18"/>nonico: etsi forte alia magis concordet iuri ciuili, quod in hoc debet imitari ius canonicum, vt <ref xml:id="n3av8a-c1e3386-Rd1e373" target="http://scta.info/resource/cice-l2t26-d1e407">extra 
+       <lb ed="#B" n="19"/>de praescript. cap. vlti.</ref> vnde argumentum secundum assumptum est: vbi dicitur. Quoniam omne quid non est ex fide, pec 
+       <lb ed="#B" n="20"/>catum est, synodali iudicio definimus, vt nulla valeat absque bona fide praescriptiotam canonica quam ci- 
+       <lb ed="#B" n="21"/>uilis, cum generaliter sit omni constitutioni atque consuetudini derogandum quae absque mortali peccato non 
+       <lb ed="#B" n="22"/>potest obseruari. Vnde oportet vt qui praescribit in nulla temporis parte rei habeat conscientiam alienae. Quod  
+       <lb ed="#B" n="23"/>non est ex fide. glos. i. ex conscientia. Tam canonica quam ciuilis. Glos. Videtur quod papa voluit praeiudica 
+       <lb ed="#B" n="24"/>re praescriptioni laicorum: quae locum habet, vbi etiam habuit malam fidem in praescriptione. Dicebat loannem. 
+       <lb ed="#B" n="25"/>quod ratione peccati hoc statuit papa de praescriptionibus laicorum, quia omnis causa ratione peccati saltem indi  
+       <lb ed="#B" n="26"/>recte pertinet ad ecclesiam, supra de iudiciis. Nouit. &amp; secundum hoc omnia iura ciuilia quae tractant de prae- 
+       <lb ed="#B" n="27"/>scriptionibus non tenent hodie. Sed hoc non credo: sed quo ad ius diuinum verum est illud, quia si 
+       <lb ed="#B" n="28"/>ne mortali peccato laicus praescribens talem rem retinere non potest: &amp; ille qui praescribit, bonam fidem debet habe 
+       <lb ed="#B" n="29"/>&amp; lex aliud considerauit quam canon. Lex enim considerauit negligentiam non petentis rem suam. supra eodem. Vigi 
+       <lb ed="#B" n="30"/>lanti. sed canon considerauit peccatum praescribentis mala fide: quid non excusat negligentiam non petentis rem suam 
+       <lb ed="#B" n="31"/>&amp; ideo dicit hic quod nulla valet praescriptio canonica vel ciuilis quae fine peccato mortali obseruari non potest 
+       <lb ed="#B" n="32"/>Vnde potius standum est canoniquam legi in hoc casu: quia praescribens non excusatur per rationemlegis: &amp; ideo  
+       <lb ed="#B" n="33"/>concilium voluit propter periculum animarum leges in hoc corrigere. Ecce plane quod concilium per hanc 
+       <lb ed="#B" n="34"/>literam voluit praeiudicare praescriptioni legum quae malam fidem habuit in praescriptione, vel in detentione rei 
+       <lb ed="#B" n="35"/>alienae ab initio: non quo ad hoc quod in nullo tenerent hodie: immo tenent quo ad hoc quod contra malae fi 
+       <lb ed="#B" n="36"/>dei praescribentem post praescriptionem nemo auditur: etiam licet aliquis velit probare malam fidem: sedsm cano  
+       <lb ed="#B" n="37"/>nes debet audiri, vt dictum est iam. &amp; quo ad hoc iura canonica corrigunt leges non reuocant. Ii- 
+       <lb ed="#B" n="38"/>cet enim sic seruetur in iudicio saeculari: vt sequitur in glos. praedicta, tamen secundum iura diuina quae cano  
+       <lb ed="#B" n="39"/>nes imitantur, non permittitur, sed vindicatur illud quod leges permittunt de praescriptionibus: &amp; in hoc non te 
+       <lb ed="#B" n="40"/>net secundum legem diuinam, quod tenet secundum legen ciuilem. Non tamen in hoc illae leges vituperandae 
+       <lb ed="#B" n="41"/>sunt, vt dictum est supra sm <name ref="#Augustine">Augustinus</name> vbi subdit dicens. Laudo &amp; prbo istam quamuis inchoatam minusque perfectam. 
+       <lb ed="#B" n="42"/>Videtur enim lex ista quae regendis ciuitatibus fertur, multa concedere atque impunita relinquere: quae per E 
+       <lb ed="#B" n="43"/>diuinam tamen prouidentiam vindicantur, &amp; recte. Neque enim quia non omnia facit: ideo quae fa 
+       <lb ed="#B" n="44"/>cit improbanda sunt. Vnde quia leges de praescriptione permittunt impunes mala fide praescri- 
+       <lb ed="#B" n="45"/>bentes, non ideo malae sunt, nec sic reuocatae vt non teneant in bene dictis suis, quemadmodum ma 
+       <lb ed="#B" n="46"/>lae sunt leges permittentes vsuras, &amp; per canones hodie non tenent, sed reuocatae sunt omnino: 
+       <lb ed="#B" n="47"/>quia in nullo habent bene dicta. vt notatur de vsuris. capitulo. Quia in omnibus. Et hoc ideo quia 
+       <lb ed="#B" n="48"/>edicto publico permittere quod omnino malum est, iniquum est: licet quandoque de facto possit 
+       <lb ed="#B" n="49"/>dissimulari. Si vero leges ciuiles intellexissent, sicut dixit praecedens opinio: quod praescriptio praeseriben 
+       <lb ed="#B" n="50"/>tes in mala fide assecuraret &amp; excusaret ne deberent post praescriptionem rem restituere, haec iniquitas 
+       <lb ed="#B" n="51"/>fuisset. &amp; quo ad hoc propter periculum animarum nequis praescribens putaret se excusari: ca- 
+       <lb ed="#B" n="52"/>non dictus corrigit leges. Vnde si per legem praescriptionis debeat aliquis excusari detinendo  
+       <lb ed="#B" n="53"/>rem alienam, oportet quod in praescribendo in nulla parte temporis ab initio quo incipit praescribe 
+       <lb ed="#B" n="54"/>re vsque in finem habeat conscientiam rei alienae: quod si contingat, tunc post praescriptionemnonte 
+       <!--705.xml-->
+       <pb ed="#B" n="332-v"/>
+        <!--706.xml-->
+        <pb ed="#B" n="333-r"/>
+        <lb ed="#B" n="1"/>netur sibi facere conscientiam de re quod sit aliena, siue quod sit ab aliquo praedecessorum suorum ab ini  
+       <lb ed="#B" n="2"/>tio male detenta: aut in mala fide praescripta: immo debet eam deponere si potest tanquam erro- 
+       <lb ed="#B" n="3"/>neam. Sed si omnino non potest: vt euitet mortale quod incurreret detinendo rem contra conscien- 
+       <lb ed="#B" n="4"/>tiam, debet eam restituere: secundum illud cap. de praescriptionibus. Vigilanti studio cauendum est 
+       <lb ed="#B" n="5"/>ne malae fidei possessores simus in praediis alienis. quoniam nulla antiquorum dierum possessio 
+       <lb ed="#B" n="6"/>iuuat aliquem malae fidei possessorem nisi resipuerit postquam se nouerit aliena possidere, cum bonae fi 
+       <lb ed="#B" n="7"/>dei possessor dici non possit. Vbi tamen glossa tangit duas opiniones praedictas super illud. Se no 
+       <lb ed="#B" n="8"/>uerit. dicens sic. Quod intelligendum est si ante completam praescriptionem habuit malam fidem, quo  
+       <lb ed="#B" n="9"/>niam qui mala fide praescribit non possidet. Sed pone quod post completam praescriptionem incipiat habe 
+       <lb ed="#B" n="10"/>re malam fidem: nunquid tenetur ipsam rem reddere vero domino: Videtur quod sic. quia iam scit quod  
+       <lb ed="#B" n="11"/>res sua non est. quia non dimittitur peccatum. xiiii. quaestio. tertia. Si res. Sed contra videtur. quia con 
+       <lb ed="#B" n="12"/>pleta praescriptione iam tutus est secundum vtrunque ius: ergo iure possidet. Si iure: ergo &amp; iuste 
+       <lb ed="#B" n="13"/>&amp; bene. Item conditor canonis vel legis potest mihi dare rem alienam, &amp; tutus ero. fr de euict. 
+       <lb ed="#B" n="14"/>Lucius. &amp;. De quadriennali praescriptione. bene a Xenone. &amp; per totum: &amp; sic multo fortius potuit indu  
+       <lb ed="#B" n="15"/>cere hanc praescriptionem in odium negligentium. Quidam dicunt quod quandocumque habeat conscientiam 
+       <lb ed="#B" n="16"/>rei alienae tenetur eam reddere, alias peccat. Alii dicunt (quod videtur verius) quod non tenetur eam amplius. 
+       <lb ed="#B" n="17"/>reddere: quoniam iam non est aliena, immo sua: &amp; iuste eam possidet, quia iure. Sed mihi videtur verius 
+       <lb ed="#B" n="18"/>secundum praedicta illud quod dicit prima opinio. Vnde potius exponendum illud. Nouerit. quan- 
+       <lb ed="#B" n="19"/>docunque habuit malam fidem, &amp; maxime si ante completam praescriptionem. Et quod dicitur 
+       <lb ed="#B" n="20"/>quod tutus est secundum vtrunque ius: Dicendum quod verum est secundum ius ciuile, non autem secundum ca- 
+       <lb ed="#B" n="21"/>nonicum, vt patet ex dictis. Quia ergo arguitur primo: quod conditor legis potest dare legen alienam: Dicendum quod  
+       <lb ed="#B" n="22"/>non puto ita. Principes enim sunt non domini rerum subditorum nisi essent serui: sed tutores ac defensores 
+       <lb ed="#B" n="23"/>habentes, propria stipendia sibi deputata in prima institutione, non natura, sed de populi voluntate: qui  
+       <lb ed="#B" n="24"/>regem sibi instituendo non subiecit se seruituti eius, neque quo ad personas, neque quo ad res suas. Vnde  
+       <lb ed="#B" n="25"/>propriis stipendiis debet esse contentus, nec pro voluntate sua facere potest de iure, quod est alienum vt fiat 
+       <lb ed="#B" n="26"/>suum. dicente Augustinusm de verbis domini serm. xix. ldeo agere rempu. vt diuitias augeas, videtur esse 
+       <lb ed="#B" n="27"/>damnabile. Propterea enim quadam prouidentia militibus sunt stipendia constituta, ne dum sumptus quaeritur 
+       <lb ed="#B" n="28"/>praedo grassetur. &amp;. xxiii. quid i. . Reddite. dicitur. Quod Caesar praecipit ferendum est, quod imperat toleran- 
+       <lb ed="#B" n="29"/>dum est. Sed sit intolerabile dum praedam exactores accumulant. quicunque sibi stipendia decreta conse 
+       <lb ed="#B" n="30"/>quitur si amplius quaerit, tanquam calumniator &amp; concussor, loannis sententia condemnatur. In vsum 
+       <lb ed="#B" n="31"/>tamen reipublicae princeps posset si opus esset bona subditorum conuertere cuius sunt pars: &amp; 
+       <lb ed="#B" n="32"/>ideo debitum est quod singuli. de populo contribuant in vsum publicum. Conditor vero canonum vt sum 
+       <lb ed="#B" n="33"/>mus pontifex, quia aliam potestatem habet super bona ecclesiastica quae tenent singuli, quam princi 
+       <lb ed="#B" n="34"/>pes super bona, proprietaria singulorum, fortasse posset facere quod meum fieret tuum, &amp; sine statuto 
+       <lb ed="#B" n="35"/>&amp; per statutum praescriptionis. Sed non videtur statutum fore multum rationabile, vt patet ex 
+       <lb ed="#B" n="36"/>praedictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

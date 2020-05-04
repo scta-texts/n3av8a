@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="487-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4715">
+       <head xml:id="n3av8a-c1e4715-Hd1e96">Quaestio 5</head>
+       <p xml:id="n3av8a-c1e4715-d1e99">
+        <lb ed="#B" n="24"/>Irca quintum arguitur quod deus potest facere quod intellectus videat ipsum: ita tamen quod vo 
+       <lb ed="#B" n="25"/>luntas non diligat ipsum: quia intelligere &amp; videre sunt diuersi actus secundum rem: deus 
+       <lb ed="#B" n="26"/>autem quaecunque realiter diuersa potest ab inuicem separare secundum esse: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4715-d1e108">
+       ITem vo 
+       <lb ed="#B" n="27"/>luntas fertur in obiectum suum libere: in eius ergo potestate est ferri in ipsum vel non ferri 
+       <lb ed="#B" n="28"/>etiam quandocunque intelligitur: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4715-d1e115">
+       CONtra. in deo est ratio omnis boni: a quo quando vi 
+       <lb ed="#B" n="29"/>detur, voluntas auerti non potest: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4715-d1e120">
+       DIco quod voluntas licet ad quodcunque in l 
+       <lb ed="#B" n="30"/>volendo ordinetur illud libere velit: aliter tamen ordinatur in volendo finem: aliter autem in  
+       <lb ed="#B" n="31"/>volendo id quod est ad finem. Ad finem enim licet ordinetur vt velit ipsum libere: non tamen sic ordinatur vt possit 
+       <lb ed="#B" n="32"/>ipsum velle ex libero arbitrio vt est flexibile secundum effectum ad opposita: sed sic ordinatur solummo- 
+       <lb ed="#B" n="33"/>do ad ea quae sunt ad finem: &amp; hoc ideo: quia omne quod vult ex tali libero arbitrio, vult per electi- 
+       <lb ed="#B" n="34"/>onem: quod autem quis vult libere per electionem, potest illud libere velle &amp; non velle. Nunc autem 
+       <lb ed="#B" n="35"/>non potest aliquis libere non velle siue nolle per electionem aliquid nisi ex duplici causa. Vna 
+       <lb ed="#B" n="36"/>quia intellectus cum eo quod in aliquo videt rationen boni, simul etiam videt in eodem rationem 
+       <lb ed="#B" n="37"/>mali: puta cum intelligit fornicationem sub ratione delectabilis inordinati. Alia: quia intellectus 
+       <lb ed="#B" n="38"/>cum eo quod videt in aliquo rationem boni, simul videt in eo etiam rationem diminuti: puta cum in  
+       <lb ed="#B" n="39"/>telligit fornicationem sub ratione delectabilis tantum, simul intelligit quod delectatio in fornicatione est 
+       <lb ed="#B" n="40"/>bonum diminutum: quae diminutio ponit rationem mali quod est defectus. Tale autem bonum 
+       <lb ed="#B" n="41"/>diminutum est omne bonum quod est ad finem, &amp; ideo libero arbitrio semper potest voluntas ipsum 
+       <lb ed="#B" n="42"/>indifferenter velle &amp; nolle, siue simul appareat cum ipso in eodem ratio mali simpliciter adiuncta 
+       <lb ed="#B" n="43"/>siue sola ratio diminuti: nec potest aliquid non velle siue nolle nisi propter aliquam istarum duarum  
+       <lb ed="#B" n="44"/>causarum: ita quod sicut voluntas non potest aliquid velle per se nisi aspiciendo ad bonum: quia nihil 
+       <lb ed="#B" n="45"/>potest velle per se aspiciendo ad malum vt dicit Dyonisius: sic non potest aliquid nolle per se 
+       <lb ed="#B" n="46"/>nisi aspiciendo ad malum: quia nihil potest nolle per se aspiciendo ad bonum. Quare cum in deo  
+       <lb ed="#B" n="47"/>intellecto sub ratione boni, &amp; in intellectu sub ratione qua practicus est non: potest fieri aspe- 
+       <lb ed="#B" n="48"/>ctus nisi ad bonum: &amp; impossibile est quod in ipso fiat aspectus ad malum, quia in ipso est persecta 
+       <lb ed="#B" n="49"/>ratio omnis boni &amp; nulla ratio mali aut defectus: idcirco dico quod simpliciter est impossibile quod intel 
+       <lb ed="#B" n="50"/>lectus videat deum vt finem: quod proprie pertinet ad intellectum practicum circa amabile, cum 
+       <lb ed="#B" n="51"/>sit finis in quo est perfecta ratio omnis boni: &amp; quod voluntas nolit ipsum: immo necesse est quod sta- 
+       <lb ed="#B" n="52"/>tim velit ipsum siue diligat: secundum quod processit vltima ratio. 
+      </p>
+      <p xml:id="n3av8a-c1e4715-d1e173">
+       AD primam rationem in oppositum. 
+       <lb ed="#B" n="53"/>quod intelligere &amp; diligere sunt diuersae actiones: ergo &amp;c. Dico quod aliqua differunt re quae tamen nul l 
+       <lb ed="#B" n="54"/>lam habent naturalem connexionem in esse: scilicet nec ex parte vnius nec ex parte alterius, quin vnum eorum 
+       <!--1015.xml-->
+       <pb ed="#B" n="487-v"/>
+        <lb ed="#B" n="1"/>quantum est ex ordine naturae suae possit esse sine altero &amp; econtrario: quemadmodum si sic re differunt 
+       <lb ed="#B" n="2"/>substantia &amp; quantitas continua: quod planum est sic esse ex parte quantitatis: licet naturaliter sit posterior 
+       <lb ed="#B" n="3"/>substantia. ex natura enim sua habet quantitas quod non sic ordinatur ad substantiam quin quantum est de po 
+       <lb ed="#B" n="4"/>tentia obedientiae suae possit esse sine ea si sit agens qui supra talem potentiam habet vim agendi. &amp; omnia 
+       <lb ed="#B" n="5"/>talia potest deus separare &amp; facere quod vnum eorum possit esse sine altero: quia ipse vim habet agendi 
+       <lb ed="#B" n="6"/>super omnem potentiam obedientiae in omni creatura. Alia autem differunt re quae tamen habent naturalem 
+       <lb ed="#B" n="7"/>connexionem in esse: sic quod vnum eorum quantum est ex ordine naturae suae non possit esse fine altero. &amp; hoc 
+       <lb ed="#B" n="8"/>quia vnum eorum in esse dependet ab altero vel ambo a tertio. Primo modo non est factibile quod vnum  
+       <lb ed="#B" n="9"/>relatiuorum sit sine altero: quia relatiua sunt: quorum esse est ad aliud quodammodo se habere. Secun 
+       <lb ed="#B" n="10"/>do modo in proposito voluntas &amp; intellectus praedictus sic se habent in intelligendo &amp; volendo deum quod in  
+       <lb ed="#B" n="11"/>obiecto sic connectuntur quod vnum eorum sine altero esse non potest: quantumcunque intelligere deum &amp; velle siue 
+       <lb ed="#B" n="12"/>diligere ipsum differant secundum rem. Vtrum autem intelligere deum speculatiue &amp; diligere ipsum siue 
+       <lb ed="#B" n="13"/>velle, possit separari deo agente, vt scilicet beatus possit intelligere deum pure speculatiue &amp; non velle siue ama 
+       <lb ed="#B" n="14"/>re ipsum, de hoc potest esse alia quaestio. 
+      </p>
+      <p xml:id="n3av8a-c1e4715-d1e215">
+       AD secundum quod voluntas fertur libere in obiectum: ergo in po 
+       <lb ed="#B" n="15"/>testate eius est ferri &amp; non ferri in ipsum: Dico quod reuera in potestate eius est ferri &amp; non ferri quando obiectum est 
+       <lb ed="#B" n="16"/>aliquid ad finem. &amp; hoc non solum ex libertate: sed ex libero arbitrio vt dictum est. Sed quando obiectum eius est 
+       <lb ed="#B" n="17"/>finis sub ratione omnis boni, in potestate eius est ferri in ipsum: quia ferri in bonum sub ratione boni potesta 
+       <lb ed="#B" n="18"/>tis simpliciter voluntatis est: quia non est ordinata ferri nisi ad aliquid sub ratione boni: sed non est in  
+       <lb ed="#B" n="19"/>porestate eius non ferri in ipsum: quia non ferri in tale bonum ostensum sub ratione boni non est potesta 
+       <lb ed="#B" n="20"/>tis voluntatis simpliciter, nec etiam potestatis obedientiae vt a tali actu suo suspendatur ab alio: quia non  
+       <lb ed="#B" n="21"/>est ordinata diuerti nisi ab aliquo sub ratione mali secundum dictos suos modos. &amp; ideo licet libere fertur 
+       <lb ed="#B" n="22"/>in ipsum, non tamen libero arbitrio, &amp; quia non libero arbitrio, ideo necessitate non coactionis antecedentis, quia  
+       <lb ed="#B" n="23"/>illa excluderet libertatem, sed immutabilitatis concomitantis fertur: in ipsum. &amp; sic posse ferri in bonum sub 
+       <lb ed="#B" n="24"/>omni ratione boni scilicet in bonum quod est finis &amp; simil ter in bonum quod est ad finem sub ratione boni, est pote- 
+       <lb ed="#B" n="25"/>statis simpliciter: vnum libertatis &amp; alterum liberi arbitrii. Posse autem non ferri in bonum quid est finis subomni 
+       <lb ed="#B" n="26"/>ratione boni aut in malum sub omni ratione mali non est potestatis omnino: quia vtrunque eorum est impossibile 
+       <lb ed="#B" n="27"/>posse autem non ferri in bonum quod est ad finem sub ratione boni, licet sit ei diminutio annexa, aut in bonum 
+       <lb ed="#B" n="28"/>cui est malum annexum, non est potestatis simpliciter sed defectus libertatis arbitrii.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

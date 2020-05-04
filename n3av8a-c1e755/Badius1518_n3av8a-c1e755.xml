@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="33-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e755">
+      <head xml:id="n3av8a-c1e755-Hd1e96">Quaestio 8</head>
+      <p xml:id="n3av8a-c1e755-d1e99">
+       <lb ed="#B" n="11"/>SEquuntur quaestiones pertinentes ad species ipsarum creaturarum rationalium: &amp; erant quaedam per- 
+       <lb ed="#B" n="12"/>tinentes ad angelos: quaedam vero ad homines. De pertinentibus ad angelos quaerebantur duo. Vnum  
+       <lb ed="#B" n="13"/>pertinens ad comparationem eorum inter se. Alterum vero pertinens ad comparationem eorum ad lo  
+       <lb ed="#B" n="14"/>acum. Primum erat: vtrum possunt fieri a deo duo angeli solis substantialibus distincti. 
+       <lb ed="#B" n="15"/>Secundum vero: vtrum angelus secundum substantiam suam sine operatione est in loco.
+      </p>
+      <p xml:id="n3av8a-c1e755-d1e112">
+       CIRca 
+       <lb ed="#B" n="16"/>primum arguitur sic, quid potest fieri per causam secundam: &amp; per primam. sed per causam secundam vt per quanti 
+       <lb ed="#B" n="17"/>tatem. secundum philosophos, materia quae vna est secundum essentiam, per quantitatem diu iditur siue distin-  
+       <lb ed="#B" n="18"/>guitur in plures numero: &amp; similiter per mater iam forma materialis vna in plures. ergo &amp; per agens primum 
+       <lb ed="#B" n="19"/>forma etiam omnino immaterialis vel forma materialis vna per essentiam sine materia: vel etiam ipsa materia si 
+       <lb ed="#B" n="20"/>ne quantitate potest distingui in plures secundum numerum.
+      </p>
+      <p xml:id="n3av8a-c1e755-d1e125">
+       CONtra. nihil distinguitur nisi per differentias 
+       <lb ed="#B" n="21"/>&amp; ea quae sunt diuersa in distinctis. sed forma vna per essentiam in puris substantialibus nulllo addito non potest 
+       <lb ed="#B" n="22"/>habere differentias neque diuersitatem. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e755-d1e132">
+       QVAEstio ista tangit difficultatem de causam indiuiduatio-  
+       <lb ed="#B" n="23"/>nis: quomodo scilicet illud quod ex se est vnum simplex indiuisibile secundum essentiam, possit fieri plura secundum numerum. 
+       <lb ed="#B" n="24"/>De qua diuersimode loquuntur philosophi. Aristote. enim in duodecimo metaphysicae ponit causam eius fuisse mate- 
+       <lb ed="#B" n="25"/>riam, vbi dicit. Quaecumque sunt multa numero habent materiam. in quo sistit: &amp; nihil pilus dicit: per quid dat in  
+       <lb ed="#B" n="26"/>telligere quod in solis materialibus possibile est sub eadem specie &amp; natura simplici per essentiam esse plura in  
+       <lb ed="#B" n="27"/>diuidua. &amp; hoc ideo: quia cum materia quantum est de se, omnino est in potentia: &amp; de natura sua est esse sub forma 
+       <lb ed="#B" n="28"/>corporea quantitatiua vt probat Auicenna: forma autem corporea quantitatiua per se diuisibilis est: naturae igitur 
+       <lb ed="#B" n="29"/>materiae est vt sit diuisibilis per quantitatem sub qua est. forma ergo materialis cum necessario sequitur con 
+       <lb ed="#B" n="30"/>ditiones suae materiae, ex se multiplicabilis est per materiam. Vnde dicit in primo caeli &amp; mundi. Omne cuius for 
+       <lb ed="#B" n="31"/>ma est in materia, res illa habet multas partes infinitas. Quid dicit ex sermone illorum qui volebant ostendere 
+       <lb ed="#B" n="32"/>quod mundi possent esse multi, argumentando sic. Omnis res quae ex natura sua absoluta est forma sola praeter dispo 
+       <lb ed="#B" n="33"/>sitionem suam cum materia, sicut est forma orbis quando est per se praeter dispositionem qua est cum aere &amp; auro: nam 
+       <lb ed="#B" n="34"/>non ingreditur in sermone suo aurum aut aes: quantum est de se possibile est vt ipsa sit in materiis multis. aut 
+       <lb ed="#B" n="35"/>ergo est multa: aut possibile est vt sit multa. cum ergo caelum siue mundus est huiusmodi. ergo &amp;c. Vbi dicit Commen 
+       <lb ed="#B" n="36"/>tator. Bene potest concedere inductionem ex omni habente formam in materia: quod in essentia ineniuntur plura in  
+       <lb ed="#B" n="37"/>diuidua aut infinita. ideo enim dicitur in definitione vniversalis quod est innatum dici de pluribus. forma enim est sub 
+       <lb ed="#B" n="38"/>iectum vniuersalitatis. Et reuera bene concedit istud <name ref="#Aristotle">philosophus</name> quod verum sit quantum est ex parte formae. vnde dicit 
+       <lb ed="#B" n="39"/>quod istud est rectum ex sermone cui non est contradicere. vult tamen quod quantum est ex parte materiae, potest esse impedi 
+       <lb ed="#B" n="40"/>mentum. Vnde dicit ibi Commentator: et est contradictio: quia forte hoc possibile est secundum formam, impossibile se 
+       <lb ed="#B" n="41"/>cundum materiam: cum possibile sit quod materia tota sit inclusa in hac forma. Vnde <name ref="#Aristotle">philosophus</name> respondendo illorum rationi dicit. 
+       <lb ed="#B" n="42"/>Verumtamen caeli non sunt multi propter hunc sermonem: nec possibile est vt sint mlti. quoniam caelum est factum ex materia to 
+       <lb ed="#B" n="43"/>ta. In formis ergo materialibus continentibus in se totam materiam suam possibilem ad suam formam, &amp; in formis in  
+       <lb ed="#B" n="44"/>materialibus patet quod <name ref="#Aristotle">philosophus</name> plura indiuidua non posuit sub eadem forma &amp; essentia. Quicquid tamen dicit cir 
+       <lb ed="#B" n="45"/>ca hoc siue quantum ad formas materiales, siue quantum ad imateriales: nullam habet necessitatem. Quid primo 
+       <lb ed="#B" n="46"/>patet ex parte materialium. licet enim aliquae forma materialis vt huius caeli contineat totam materiam iam existentem 
+       <lb ed="#B" n="47"/>quae possibilis est ad suam formam possibilitate naturae: non tamen continet simpliciter omnem materiam possibilem ad  
+       <lb ed="#B" n="48"/>ipsam, posset enim deus illi consimilem creare: quid tamen multum abhorreret philosophus: qui nihil poneret possi 
+       <lb ed="#B" n="49"/>bile in rerum natura nisi quid actum &amp; formaliter vel materialiter &amp; in potentia materiae esset iam in  
+       <lb ed="#B" n="50"/>vniuerso: nec deum posse facere alia in naturis &amp; essentiis rerum quam fecit: neque noua aliqua convenien- 
+       <lb ed="#B" n="51"/>tia in natura &amp; essentia cum eis quae sunt, nisi ex materia per motum caeli vt alibi debet ostendi. 
+       <lb ed="#B" n="52"/>Nulla est ergo forma materialis qui simpliciter quantum est ex se possit sub se habere plura indiui 
+       <lb ed="#B" n="53"/>dua materia non impediente. Secundo patet idem ex parte formarum immaterialium. quoniam essentia crea 
+       <lb ed="#B" n="54"/>turae cuiuslibet quantuncumque immaterialis neque est existens neque subsistens: neque habet rationem suppositi ex hoc quod  
+       <lb ed="#B" n="55"/>in natura sua absoluta essentia quaedam est. quia de se non habet esse nisi de conceptu mentis &amp; intellectus diuini  
+       <!--106.xml-->
+       <pb ed="#B" n="33-r"/>
+       <lb ed="#B" n="1"/>vel angelici &amp; humani: si fuerint homo aut angelus in esse: ita quod extra intentionem essentiae creaturae 
+       <lb ed="#B" n="2"/>vt essentia est: sit intentio existentiae subsistentiae &amp; suppositi. &amp; sunt quaedam duo entia. scilicet in supposito subsi- 
+       <lb ed="#B" n="3"/>stentia: quorum coniunctio si fuerit: vt quod ipsa essentia sit in supposito subsistens per existentiam: quia non potest hoc esse 
+       <lb ed="#B" n="4"/>per ipsam essentiam facientem seipsam subsistentem in supposito per existentiam. tunc enim quilibet ex eo quod est aliquid par  
+       <lb ed="#B" n="5"/>essentiam, esset aliquid per existentiam: quod est impossibile: quia nihil seipsum producit ad esse vt sit. secundum <name ref="#Augustine">Augustinum</name>  
+       <lb ed="#B" n="6"/>in primo de trinitate. Necesse est igitur vt coniunctio illorum sit per aliam causam facientem ipsam essentiam fore subsi- 
+       <lb ed="#B" n="7"/>stentem in existentia actualis suppositi. Nulla ergo essentia creaturae ratione ea quae essentia est habet rationem sup- 
+       <lb ed="#B" n="8"/>positi, aut actualiter subsistentis: ita quod nulla earum quantum est ex se de se sit singularitas quaedam: nullaque ea 
+       <lb ed="#B" n="9"/>rum sicut neque effectiue sic nec formaliter est suum esse, siue sua existentia. sed hoc est priuilegium solius 
+       <lb ed="#B" n="10"/>essentiae diuinae, quod ipsa ex se formaliter sit singularitas quaedam: &amp; idem in eo sunt essentia &amp; existentia. Quod  
+       <lb ed="#B" n="11"/>autem non ex se sed solum ab alio agente singulare est in supposito subsistens: quia ex se nulli appropriatur: &amp; est 
+       <lb ed="#B" n="12"/>essentia tantum: quantum est ex se indifferenter natum est esse singulare subsistendo in vnico supposito, vel vel 
+       <lb ed="#B" n="13"/>subsistendo in pluribus. Quid etiam bene dicit Auicenna, &amp; declarat in. v metaphysicae suae. Ex quo sequitur apartis 
+       <lb ed="#B" n="14"/>sime quod necesse est vt non sit essentia creaturae inquantum creatura est, qui possit quantum est ex se, in plura in  
+       <lb ed="#B" n="15"/>diuidua multiplicari quantuncumque sit abstracta a materia. Quod necesse etiam concedere habebat philosophus. sicut 
+       <lb ed="#B" n="16"/>enim, vt iam dictum est, omnis res quae ex natura sua absoluta est forma solum praeter disponnem suam cum materia, consi- 
+       <lb ed="#B" n="17"/>derata secundum se absque disponne cum materia quantum est de se possibile est vt sit in multis materiis: &amp; ita 
+       <lb ed="#B" n="18"/>aut est multa numero in materia, aut possibile est vt sit multa: sic omnis res quae ex sua natura absoluta est 
+       <lb ed="#B" n="19"/>forma solum praeter disponnem suam in supposita. secundum se absque disponne quam habet in supposito quantum est de se 
+       <lb ed="#B" n="20"/>possibile est vt sit in multis suppositis. Quia quantum est de se non magis determinatur ad vnum quam ad multa 
+       <lb ed="#B" n="21"/>Aut ergo est multa numero in suppositis, aut possibile est vt sit multa. sicut enim illud necesse habet com 
+       <lb ed="#B" n="22"/>cedere in formis respectu materiae: ita &amp; hoc respectu suppositi. consimilis enim est ratio vtrobique. Quia ergo  
+       <lb ed="#B" n="23"/>omnem huius formam quae ex natura sua absoluta est aliquid praeter disponnem suam cum materia, aut cum supposito 
+       <lb ed="#B" n="24"/>posuit esse formam materialem: etiam omnem formam creaturae inquantum creatura est necesse habuit ponere esse 
+       <lb ed="#B" n="25"/>talem, vt dictum est. ldeo etiam necesse habuit ponere omnem formam creaturae esse materialem: &amp; sic omnem esse 
+       <lb ed="#B" n="26"/>velm vel multiplicatam vel multiplicabilem per plura supposita. et si non esset multiplicabilis, non esset impe 
+       <lb ed="#B" n="27"/>dimentum ex parte sui: sed ex parte materiae, vt dictum est. &amp; sic posuit causam quaere in formis quondoque non est nisi vni 
+       <lb ed="#B" n="28"/>cum indiuiduum sub vna specie: sed quondoque sunt plura indiuidua sub ea: licet semper possint esse plura quantum  
+       <lb ed="#B" n="29"/>est ex parte formae: non esse nisi materiam: vt quod non sit neque potest esse sub specie nisi vnicum indiuiduum, hoc sit 
+       <lb ed="#B" n="30"/>solum ex parte materiae: quando forma continet totam suam in vnico indiuiduo: &amp; quod aut sint aut possint esse plura 
+       <lb ed="#B" n="31"/>quantum est ex parte materiae, quando forma non continet totam materiam possibilem ad suam speciem in vnico indiuiduo  
+       <lb ed="#B" n="32"/>Vnde ex hoc fundamento suo arguit in. xii. metaphysicae: quod si plures essent caeli, principium quod est circa vnum  
+       <lb ed="#B" n="33"/>quidquae scilicet deus est specie vnum numero plura. sed quaecumque sunt numero plura habent materiam. Deus ergo  
+       <lb ed="#B" n="34"/>haberet materiam. quid falsum est. &amp; sic <name ref="#Aristotle">philosophus</name> vnumquidque eo solo quod separatum est a materia posuit esse vnum nu-  
+       <lb ed="#B" n="35"/>mero: &amp; cum hoc etiam non esse creaturam: sed quandam diuinam naturam, vt alibi oninsum est. Et ex hoc quod ponit quod-  
+       <lb ed="#B" n="36"/>libet eorum esse deum quendam, ponit quemlibet eorum esse ex se singularitatem quandam &amp; quoddam necesse esse tam 
+       <lb ed="#B" n="37"/>propter separationem a materia quam propter indifferentiam essentiae a supposito, &amp; essentia sua, vt alibi declaratum  
+       <lb ed="#B" n="38"/>est. Vnde ponendo plura esse separata a materia: ipse plures deos &amp; plura necesse esse posuit: quid omnino est in  
+       <lb ed="#B" n="39"/>possibile vt bene probat Auicena. viii. metaphysicae, &amp; alibi expositum est. Quid mirum ergo si <name ref="#Aristotle">philosophus</name> dicit quod  
+       <lb ed="#B" n="40"/>in formis separatis in vna specie id est essentia non est nisi vnicum indiuiduum: hoc enim de necessitate sequitur non  
+       <lb ed="#B" n="41"/>tam ex illo quod falso posuit non esse plura indiuidua sub eadem specie nisi per materiam: quam ex alio sacrilego quod  
+       <lb ed="#B" n="42"/>tamquam sacrilegus posuit quod scilicet quaelibet earum deus quidam sit &amp; quoddam necesse esse. Nostri ergo philosophan  
+       <lb ed="#B" n="43"/>tes si velint sequi <name ref="#Aristotle">philosophum</name> in hoc consequante quod scilicet in formis separatis sub vna specie id est essentia, quia proprie non habet 
+       <lb ed="#B" n="44"/>ibi esse ratio speciei, non potest esse nisi vnicum indiuiduum, necesse est vt eum sequantur non tam in an cedente primo 
+       <lb ed="#B" n="45"/>quod propter defectum materiae non sint plura indiuidua sub eadem specie: quam in ancedente secundo, quod quaelibet earum sit 
+       <lb ed="#B" n="46"/>deus quidam &amp; quoddam necesse esse: in quo non differunt essentia &amp; esse &amp; suppositum &amp; existentia. Aut si ne 
+       <lb ed="#B" n="47"/>gant hoc primum ancedens &amp; ponant secundum quod scilicet formae separatae sunt essentiae creabiles: &amp; nihil de se nisi solum 
+       <lb ed="#B" n="48"/>essentiae in intellectu diuino existentes ab aeterno sicut erant essentiae aliarum creaturarum: &amp; quod extra intentio 
+       <lb ed="#B" n="49"/>nem essentiae earum, vt essentiae sunt absolute, sit intentio suppositi subsistentiae &amp; existentiae: necesse habent 
+       <lb ed="#B" n="50"/>ponere quod quaelibet earum quantum est de se multiplicabilis sit per plura supposita, vt patet ex iam declaratis 
+       <lb ed="#B" n="51"/>et si non multiplicentur actum: qui vel actu multiplicari poterint: quod in hoc non est defectus nisi ex parte materiae 
+       <lb ed="#B" n="52"/>quia nullam habent. Vnde &amp; <name ref="#Aristotle">philosophus</name> si posuisset aliquam essentiam creaturae immaterialem, hoc posuisset per hunc mo- 
+       <lb ed="#B" n="53"/>dum, videlicet quod si essent aliquae formae creaturarum immateriales omnino separatae a materia, licet quantum  
+       <lb ed="#B" n="54"/>est ex parte ipsius formae essent multiplicabiles per plura supposita: quod tamen numquam essent actu multiplicatae 
+       <!--107.xml-->
+       <pb ed="#B" n="33-v"/>
+       <lb ed="#B" n="1"/>nec vnquam possent esse actu multiplicatae. &amp; hoc propter defectum eius quo habet fieri huiusmodi multi 
+       <lb ed="#B" n="2"/>plicatio: quid secundum ipsum non potuit esse nisi materia &amp; quantitas materialis: quia non vidit aliud quo vna 
+       <lb ed="#B" n="3"/>&amp; eadem forma specifica in sua essentia esset diuersa in hoc supposito &amp; in illo. Vnde nec posuisset aliquam  
+       <lb ed="#B" n="4"/>formam separabilem habere esse post non esse nisi per materiam &amp; subiectum in quo reciperetur, vt dictum est supra par  
+       <lb ed="#B" n="5"/>Auicennam, in anima rationali. Sed ex tali potesne sequuntur duo magna inconuenientia: quorum vnum est quod aliquid esset 
+       <lb ed="#B" n="6"/>in potentia in fundamento naturae &amp; creaturae scilicet possibilitas multiplicationis per plura supposita, quae esset 
+       <lb ed="#B" n="7"/>in eius essentia, de numquam per quidcumque agens posset deduci ad actum: &amp; ita esset ibi frustra &amp; otiosum. Iuxta 
+       <lb ed="#B" n="8"/>illud quod dicit Commentator supe principium metaphysicae: quod si essent aliquam intelligibilia abstracta, &amp; non pos 
+       <lb ed="#B" n="9"/>set esse aliquis intellectus qui ea posset intelligere, tunc natura in hoc otiose egisset: qua. scilicet secit illud quod in se est 
+       <lb ed="#B" n="10"/>naturaliter intelligibile: quid tamen a nullo intellectum posset intelligi. Similiter otiose egisset si fecisset quod in se 
+       <lb ed="#B" n="11"/>naturaliter est multiplicabile, quid tamen nullo agente posset aliquando esse multiplicatum. Sed hoc falsum est, 
+       <lb ed="#B" n="12"/>quoniam, vt dicit ibidem Commentator, concessum est ab omnibus quod nulla res est otiosa in fundamento naturae &amp; crea 
+       <lb ed="#B" n="13"/>turae. sed reuera talem potentiam numquam posuit in fundamento naturae &amp; essentiae creaturae. Numquam enim posuisset 
+       <lb ed="#B" n="14"/>aliquid multiplicari, qui simul posuisse t per aliquod agens potuisse actu fore multiplicatum. Et ideo cum non  
+       <lb ed="#B" n="15"/>posuit formam omnino posse multiplicari nisi per materiam: &amp; tamen ponendo essentiam creaturae separatam necesse 
+       <lb ed="#B" n="16"/>erat ponere ipsam multiplicabilem, vt dictum est, planissime patet quod <name ref="#Aristotle">philosophus</name> nullam formam creaturae posuit 
+       <lb ed="#B" n="17"/>separatam a materia, sed omnem formam creaturae posuit esse materialem, &amp; omnem formam separatam esse quandam diui  
+       <lb ed="#B" n="18"/>nam naturam, vt dictum est. Secundum vero inconueniens est, quod aliquid esset possibile in fundamento creaturae, quod non 
+       <lb ed="#B" n="19"/>esset reducibile in actum per virtutem infinitam creatoris: et sic sequaeretur quod non esset vere omnipotens: quia non posset 
+       <lb ed="#B" n="20"/>agere quicquid ex parte rei possibile esset fieri. Sed adhuc diceret hic aduersarius, quod non sequitur: quia illud  
+       <lb ed="#B" n="21"/>non est possibile ex parte rei completa possibilitate: quia ad hoc quod forma esset multiplicabilis completa possi- 
+       <lb ed="#B" n="22"/>bilitate ad actum reducibili requiritur quod ipsa esset ad materiam possibilis, &amp; quod esset possibile esse materiam eius 
+       <lb ed="#B" n="23"/>susceptibilem. Et ideo cum forma huiusmodi non est possibilis ad materiam, quia nulla potest esse in rerum natura eius 
+       <lb ed="#B" n="24"/>susceptibilis: ipsa quantum est de se multiplicabilis est potentia incompleta. &amp; non est defectus a potentia comple 
+       <lb ed="#B" n="25"/>ta nisi ex parte materiae, sine quae secundum ipsum forma multiplicari non possit. Et sic deus quantum est ex parte sui 
+       <lb ed="#B" n="26"/>bene posset illam potentiam ad actum deducere si esset completa possibilitas rei susceptibilis. &amp; hoc non derogat 
+       <lb ed="#B" n="27"/>diuinae omnipotentiae: sicut quod non potest facere id quid in rerum natura non est essentia aliquae: &amp; ita omnino fieri non  
+       <lb ed="#B" n="28"/>pont. Sed in hoc vnum inconueniens ponitur: videlicet quod possibilitas multiplicandi saltem quo ad potentiam incomple 
+       <lb ed="#B" n="29"/>tam esset in natura praedictae formae, &amp; otiose, vt dictum est. quod est inconueniens tam quo ad possibilitatem incompletam 
+       <lb ed="#B" n="30"/>quam quo ad possibilitatem completam. Nihil enim omnino debet esse otiosum in fundamento naturae &amp; creaturae quin  
+       <lb ed="#B" n="31"/>saltem per diuinam sapientiam &amp; potentiam ad finem suum debitum sit ordinabile. Aliud vero falsum ibi supponitur 
+       <lb ed="#B" n="32"/>videlicet quod non possit fieri formae multiplicatio nisi per materiam, immo per rationem suppositi &amp; subsistentiae in  
+       <lb ed="#B" n="33"/>existentia actuali quam non habet essentia formae de se, sed sumit eam ab alio, vt ab efficiente: a quo &amp; potest 
+       <lb ed="#B" n="34"/>illam sumere absque omni materia quantum est de se: bene potest vnius &amp; eiusdem formae specificae per essentiam fieri mul 
+       <lb ed="#B" n="35"/>tiplicatio &amp; diuersificatio per plura supposita, vt iam dictum est, &amp; continuo amplius dicetur. Vnde &amp; inter errone 
+       <lb ed="#B" n="36"/>os articulos nuper ab epso Parisiensi danmnatos est illa positio. Vnus enim illorum articulorum dicit sic: Quia deus 
+       <lb ed="#B" n="37"/>non possit multiplicare plura indiuidua sub vna specie fine materia, error. Alius vero dicit sic. Quia for- 
+       <lb ed="#B" n="38"/>mae non recipiunt diuisionem nisi secundum materiam, error: nisi intelligatur de formis eductis de potentia ma- 
+       <lb ed="#B" n="39"/>teriae. Tertius dicit sic: quod quia intelligentiae non habent materiam, deus non posset plures eiusdem speciei face 
+       <lb ed="#B" n="40"/>re, error. Quia si hoc error est: patet reuera quod illi multum errant qui ponunt in angelis esse materiam: vt per ipsam  
+       <lb ed="#B" n="41"/>materiam vnusquisque habeat suam indiuiduationem: &amp; per multiplicationem, siue per materiae diuisionem ponant 
+       <lb ed="#B" n="42"/>angelorum abinuicem distinctionem sub eadem specie: quasi sine materia illa nec indiuiduatio nec distinctio huiusmodi  
+       <lb ed="#B" n="43"/>fieri posset: cuius contrarium sententiant iam dicti articuli. Et in hoc quantum est ex parte essentiae creaturae abso- 
+       <lb ed="#B" n="44"/>lutae, vt essentia est excedit in simplicitate in infinitum essentia dei essentiam cuiuslibet creaturae: quia. scilicet essen 
+       <lb ed="#B" n="45"/>tia deitatis inquantum huiusmodi non nisi singularitas quaedam esse potest non multiplicabilis omnino. Essentia autem cuiusli 
+       <lb ed="#B" n="46"/>bet creaturae inquantum huiusmodi per infinita supposita multiplicabilis est: quod est ratio magnae perfectionis in diui 
+       <lb ed="#B" n="47"/>na essentia, &amp;e imperfectionis in essentia creaturae, vt alibi ostensum est. Vnde dicit Commentator super principium 
+       <lb ed="#B" n="48"/>caeli &amp; mundi: Quod inuenitur plus quam vnum, est diminutum: quia si esset perfectum, sufficeret esse vnum. Et haec est cau 
+       <lb ed="#B" n="49"/>sa multorum indiuiduorum vnius specie scilicet quod propter diminutionem non fuit natura contenta in esse vnius: quid procul 
+       <lb ed="#B" n="50"/>dubio solida veritas est non solum in materialibus &amp; corporalibus, de quibus intendit: sed etiam in spirituali- 
+       <lb ed="#B" n="51"/>bus creaturis, in quibus contrarium sentit. &amp; hoc quia Commentator cum <name ref="#Aristotle">philosopho</name> sentit, nec creaturas eas po- 
+       <lb ed="#B" n="52"/>nit, vt dictum est. Sed sancti nostri qui vere sciunt eas esse creaturas, sentiunt hoc in eis factum esse a deo quid est. 
+       <lb ed="#B" n="53"/>natura naturans omnia: quia. scilicet sunt multa indiuidua in qualibet earum specie. Iuxta illud quid dicit Damasc. 
+       <lb ed="#B" n="54"/>in libro de duplici natura &amp; vna hypostasi Christi. Sapienter conditor naturarum plurimam differentiam 
+       <!--108.xml-->
+       <pb ed="#B" n="34-r"/>
+       <lb ed="#B" n="1"/>fecit ad ostensionem ipsius &amp; sapientiae &amp; virtutis, vt vtique admiratus desideretur amplius: desideratus autem 
+       <lb ed="#B" n="2"/>vniatur: vnitus autem deiforme operetur illis, &amp; intellectuale propter quid &amp; multitudines specierum ordinauit. inui 
+       <lb ed="#B" n="3"/>sibilia enim ipsius a creatura mundi intellecta conspiciuntur: &amp; ex pulchritudine creaturarum, analogicae 
+       <lb ed="#B" n="4"/>generationis factor comphenditur. Hypostasim autem rursus secundum vnamquamque speciem, differentiam, &amp; copulatio- 
+       <lb ed="#B" n="5"/>nem fecit. Copulationem quidem naturalem, omnes enim sub eadem specie hypostases ratione naturae vnitae sunt. Diffe 
+       <lb ed="#B" n="6"/>rentiam autem hypostasiam habent. discernuntur enim abinuicem characteristicis quibusdam proprietatibus. Propter hoc 
+       <lb ed="#B" n="7"/>autem secundum vnumquemque ordinem angelicarum virtutum differentes hypostases condidit non solum: sed &amp; secundum  
+       <lb ed="#B" n="8"/>vnamquamque speciem: vt vtique communicantes adinuicem naturam, gaudeant adinuicem, &amp; naturali habitudine copu 
+       <lb ed="#B" n="9"/>lati se curent: &amp; amicabiliter adinuicem disponantur. Hypostasum autem differentia, proprium discernit ab alie 
+       <lb ed="#B" n="10"/>no: vt vtique vnusquisque proprium cognoscens curet, &amp; non superueniat alieno vt proprio: &amp; vt vtique vniuscu 
+       <lb ed="#B" n="11"/>iusque existentia cognoscatur. Patet igitur clarissime quod materia &amp; quantitas non possunt dici praecisa ratio &amp; causa 
+       <lb ed="#B" n="12"/>indiuiduationis &amp; distinctionis indiuiduorum duorum eiusdem speciei: licet sunt cauam eius in istis rebus materia  
+       <lb ed="#B" n="13"/>libus &amp; corporalibus: in quibus <name ref="#Aristotle">philosophus</name> solum posuit vnam materiam multiplicari in plura supposita: quia solummo 
+       <lb ed="#B" n="14"/>talia posuit esse creata, vt dictum est. Quomodo ergo &amp; penes quid accipitur in incorporalibus &amp; immateriali 
+       <lb ed="#B" n="15"/>bus indiuiduatio &amp; specierum distinctio, Damasc. iam tetigit cum dixit characteristicis, proprietatibus. Quid  
+       <lb ed="#B" n="16"/>autem appellat characteristicam, proprietatem, exposuit prius, vbi dixit in eodem libro. Omnis res quae differt species 
+       <lb ed="#B" n="17"/>ab altera specie, substantialis &amp; naturalis &amp; constitutiua differentia dicitur, &amp; qualitas naturalis, vel natura 
+       <lb ed="#B" n="18"/>lis, proprietas, &amp; proprium naturae. veluti differunt homo &amp; bos adinuicem: quoniam homo rationalis est: bos autem irro 
+       <lb ed="#B" n="19"/>nalis. &amp; est rationale substantialis differentia &amp; constitutiua hominis: irrtionale autem bouis. Similiter autem &amp; in reliquis 
+       <lb ed="#B" n="20"/>speciebus substantiis &amp; naturis &amp; formis. Omnis autem res in quae differt hypostasis ab eiusdem speciei consub- 
+       <lb ed="#B" n="21"/>stantiali hypostasi, dicitur aduentitia differentia &amp; qualitas, &amp; hypostatica &amp; catharacteristica, proprietas:  
+       <lb ed="#B" n="22"/>hoc autem est accidens. Et hoc est quid etiam dicit Auicenna in primo metaphysicae suae. Singula induidua eius 
+       <lb ed="#B" n="23"/>dem speciei postquam non sunt diuisa intellectu essentiae vnum sunt: sed debent esse diuersa accidentibus. ldem in. v 
+       <lb ed="#B" n="24"/>Et equinitas ex hoc quod in definitione eius conueniunt multa est communis: sed ex hoc quod accipitur cum, proprietati- 
+       <lb ed="#B" n="25"/>bus &amp; accidentibus signatis est singularis. Equinitas autem in se est equinitas tantum. Quomodo autem hoc contin- 
+       <lb ed="#B" n="26"/>git, &amp; quae sunt huiusmodi accidentia, magis explicat Auicenna in eodem, dicens. Species est natura termiata in esse 
+       <lb ed="#B" n="27"/>&amp; intellectu simul: videlicet quoniam cum terminatum fuerit esse generis per illa, quae terminant ipsum, erit in effectu: 
+       <lb ed="#B" n="28"/>&amp; non erit opus postea poni nisi signatum tantum, nec requiritur aliquae ad determiationem eius nisi designatio tantum. 
+       <lb ed="#B" n="29"/>Postquam vero deiminata est species specialissima, erit tunc natura: sic quod accidunt ei comitantia ex accidenti- 
+       <lb ed="#B" n="30"/>bus &amp; proprietatibus, per quae natura indiuiduatur, &amp; fit designata. Sed intelligendum quod accidens accipitur hic lar 
+       <lb ed="#B" n="31"/>gissime. Secundum quod iuxta modum loquandi Auicennae accidens rei appellatur omne quid convenit ei, &amp; est extra inten 
+       <lb ed="#B" n="32"/>tionem suae essentiae. Vnde dicit Damasc. vbi supra. Et simpliciter dicere quaecumque in omnibus quae sunt eadem specie 
+       <lb ed="#B" n="33"/>hypostasibus similiter considerantur, &amp; sine quibus impossibile est substantiam &amp; speciem constitui, substantialis dei diffe 
+       <lb ed="#B" n="34"/>rentia. Quaecumque autem in aliquibus quae earum quae vnius speciei hypostasum sunt: in aliquibus autem non sunt, accidentia &amp; 
+       <lb ed="#B" n="35"/>aduentitia sunt. Quae quidem accidentia Auicena distinguit in tria genera: &amp; secundum quod tangit tres modos di 
+       <lb ed="#B" n="36"/>uersos, quibus diuersa diuersimode indiuiduantur: tunc dicit immediate post illud quod iam dictum est de quinto 
+       <lb ed="#B" n="37"/>metaphysicae. lpsae vero proprietates &amp; accidentia, aut erunt aduentitia tantum: ita vt non sint de essentia vllo 
+       <lb ed="#B" n="38"/>modo: &amp; haec sunt accidentia quae accidunt indiuiduis rerum simplicium: aut erunt disponnes superadditae, ex quibus qua-  
+       <lb ed="#B" n="39"/>dam sunt quibus intellectis remotis ab hoc signato, necesse est vt non habeat esse hoc signatum: quid est praeter 
+       <lb ed="#B" n="40"/>alia, quia continget destrui veritatem suae alietatis concomitantis. &amp; quaedam sunt quibus intellectis remotis non est 
+       <lb ed="#B" n="41"/>necesse prouenire destructionem sui esse postquam habuit esse, vel corruptionem suae essentiae post eius appro- 
+       <lb ed="#B" n="42"/>priationem: sed destruetur alietas, &amp; eius diuersitas ad alia. secundum quod diuersum est ab aliis absque destructione 
+       <lb ed="#B" n="43"/>singularis. Fortassis autem hoc obscurum est penes nos, &amp; non determinatur. Noster autem sermo non est de hoc 
+       <lb ed="#B" n="44"/>quidscitur: sed secundum quod res est in se. Dictum autem Auicennae satis obscurum est: ad eius igitur intellectum sciendum quod vo 
+       <lb ed="#B" n="45"/>cat accidentia aduentitia tantum, illa quaecumque sunt extra intentionem intellectus essentiae rei, vt essentia est absolute 
+       <lb ed="#B" n="46"/>dicta: licet disponnem realem aliam ab ipsa non dicant, ad modum quo accidentia essentiae rei dicuntur ratio sup- 
+       <lb ed="#B" n="47"/>positi &amp; subsistentia in esse actuali. Nulla enim re alia addita essentiae rei ipsamet sit suppositum subsistens 
+       <lb ed="#B" n="48"/>in existentia actuali: hac sola intentione adiecta quae ipsa habet esse effectus dei, &amp; hoc in natura &amp; essentia 
+       <lb ed="#B" n="49"/>ipsam de non esse in esse producendo. Quidquidem esse omnis creatura participat: ex hoc quod ipsa in sua essentia est dei 
+       <lb ed="#B" n="50"/>factura. Non quod ipsi essentiae quasi praecedenti deus imprimat esse quo denominetur existens: sicut praeexistente pariete 
+       <lb ed="#B" n="51"/>aliquis imprimit ei albedinem siue creando siue non, quae denominatur albus. hoc enim falsum est &amp; omnino haereticum. 
+       <lb ed="#B" n="52"/>Deus enim totum quod aliquid est in creatura ab initio de nihilo fecit. Quantum ergo ad distinctionem vnius 
+       <lb ed="#B" n="53"/>essentiae secundum indiuidua per tale accidens: quid sic appellat Auicenna aduentitium tantum, dicendum est, descendendo ad  
+       <lb ed="#B" n="54"/>nostram quaestionem: quod duo angeli in solis substantialibus existentes, posito etiam quod nullum accidens reale differes 
+       <!--109.xml-->
+       <pb ed="#B" n="34-v"/>
+       <lb ed="#B" n="1"/>re ab eorum essentia in se habeant: nequoed scilicet potentiam, neque habitum, neque aliquid huiusmodi, sunt indiuidualiter 
+       <lb ed="#B" n="2"/>distincti hoc solo quod subsistunt in effectu. vbi extra communitatem essentiae in ambobus, subsistere vnius non est 
+       <lb ed="#B" n="3"/>subsistere alterius: cum vnus eorum subsistere posset sine altero. Et sic per hoc abinuicem differunt: quod iste non est 
+       <lb ed="#B" n="4"/>ille, duplicate. scilicet natura speciei siue essentiae angelicae eis per rationem subsistendi siue existendi in actu aliam in vno 
+       <lb ed="#B" n="5"/>&amp; aliam in altero: quae est praeter intellectum essentiae communis in vtroque. &amp; ita sicut continuum ex se est diuisibile in per  
+       <lb ed="#B" n="6"/>res quantitatiuas quaes virtute continet in se indiuisas, &amp; eo solo diuiditur secundum eas quod abinuicem separantur 
+       <lb ed="#B" n="7"/>vtraque partium recipiente in se persectam rationem continui: sed pertialiter quantitatem molis: sic essentia speciei 
+       <lb ed="#B" n="8"/>angelicae ex se est diuisibilis in partes essentiales quas virtute continet in se indiuisas: &amp; eo solo diuiditur 
+       <lb ed="#B" n="9"/>secundum eas: quod per subsistentiam actualem appositam separantur abinuicem, vtroque eorum recipiente in se perfectam rationem 
+       <lb ed="#B" n="10"/>essentiae, sed pertialiter quantitatem virtutis eius: quia non est in aliquo illorum ad modum essentiae absolute di  
+       <lb ed="#B" n="11"/>uisibilis: sed est in vtroque eorum vt aliqua decisio eius indiuisibilis. Et sic non est dicendum quod non hoc solo 
+       <lb ed="#B" n="12"/>differunt: quod natura vnius eorum non est natura alterius: eadem dico secundum numerum: sed quia subsistentia vnius 
+       <lb ed="#B" n="13"/>non est subsistentia alterius: quae facit differre essentiam vt est in vno, ab ipsa vt est in altero, &amp; eam quae vna est 
+       <lb ed="#B" n="14"/>&amp; simplex in essentia, facit esse plures in existentia. lpsa enim existentia in supposito omnino necessaria est ad  
+       <lb ed="#B" n="15"/>essentiae existentiam actualem tam in vno quam in altero: non secundum idem numero, sed secundum aliud &amp; aliud nume 
+       <lb ed="#B" n="16"/>ro: consimile tamen specie: vt sic sit per aliud &amp; aliud quod vterque illorum dicatur esse angelus simpliciter, &amp; quod di-  
+       <lb ed="#B" n="17"/>catur esse iste vel ille. quia intentio essentiae simpliciter: qua vterque dicitur Angelus, est alia ab intentione 
+       <lb ed="#B" n="18"/>subsistentiae huius &amp; illius qua dicuntur iste angelus &amp; ille. Patet ergo quomodo per intentiones subsistentiae 
+       <lb ed="#B" n="19"/>duorum angelorum sit essentiae commnis indiuiduatio in eis. Sed quia coniunctio istorum duorum scilicet essentiae &amp; subsi- 
+       <lb ed="#B" n="20"/>stentiae in vno &amp; in altero non potest esse ex seipsis: quia ex se non habent quod subsistunt in effectum, vt dictum est, 
+       <lb ed="#B" n="21"/>sed oportet quod fiat in eis per aliam causam facientem vtrumque eorum esse alterum per essentiam existentem in actum: &amp; hunc 
+       <lb ed="#B" n="22"/>non esse illum, &amp; econuerso, vt sit totum causatum quod est in vtroque: ideo causa indiuiduationis eorum efficiens 
+       <lb ed="#B" n="23"/>dicendus est deus: qui dat vtrique eorum subsistentiam in effectu &amp; seorsum. Et hoc est, vt videri posset alicui, 
+       <lb ed="#B" n="24"/>quid dicit <ref xml:id="n3av8a-c1e755-Rd1e660">Damasc. secundo sententiarum. cap. x.</ref> Interminatum est natura, &amp; principaliter, &amp; solum quod increatum 
+       <lb ed="#B" n="25"/>est. i. deus. Omne enim creatum ab eo qui creauit. i. deo terminatur. &amp; infra post modicum. Sed quales secundum  
+       <lb ed="#B" n="26"/>substantiam sunt differentes abinuicem, nescimus. Solus autem deus qui fecit eos, nouit. Differunt autem abinuicem 
+       <lb ed="#B" n="27"/>illuminatione &amp; statione, siue secundum illuminationem stationem habentes: siue secundum stationem illuminatio 
+       <lb ed="#B" n="28"/>nem percipientes: propter esse se inuicem illuminantes eminentia ordinis aut naturae. Manifestum est enim quod qui 
+       <lb ed="#B" n="29"/>eminent, inferioribus tradunt illuminationem &amp; cognitionem. In quo insinuat quod secundum differentiam statio 
+       <lb ed="#B" n="30"/>num differentes sumant illuminationes. Appellat stationem subsistentiam in natura, &amp; supposito. Scd quia 
+       <lb ed="#B" n="31"/>hoc dictum eius referri potest ad angelos diuersarum specierum: in quibus est eminentia manifesta ordinis 
+       <lb ed="#B" n="32"/>naturae: non multum valet ad propositum. Vtrum autem sub eadem specie, gradus possunt esse naturae: vt in  
+       <lb ed="#B" n="33"/>eis locum habeat dictum illud: non pertinet ad propositum. Accidentia vero quae Auicenna vocat non aduen- 
+       <lb ed="#B" n="34"/>titia tantum, sed aduentitia accidentia: illa sunt quaecunque aliquid rei addunt alteri vt subiecto: licet in rei 
+       <lb ed="#B" n="35"/>veritate non sunt accidentia, sed substantiae quandoque. vnde vocat ea dispositiones superadditas. Inter 
+       <lb ed="#B" n="36"/>talia autem accidentia illa quibus remotis necesse est remoueri ab esse ipsum signatum, sunt illa per quae 
+       <lb ed="#B" n="37"/>aliquid habet esse hoc in existentia sua: ita quod fine illo omnino non posset existere: sicut secundum 
+       <lb ed="#B" n="38"/>ipsum Auicennam, materia existere non habet in effectum sine forma materiali &amp; corporali, nec econver 
+       <lb ed="#B" n="39"/>so: quia mutuo perinuicem sub quantitate indiuiduantur &amp; multiplicantur. Illa autem quibus remotis non est necesse 
+       <lb ed="#B" n="40"/>remoueri ipsum signatum: licet signatum recipiat esse actuale per illud: sunt sicut animae rationales quae in- 
+       <lb ed="#B" n="41"/>diuiduantur per corpora: quibus creando infunduntur &amp; infundendo creantur: nec omnino crearentur 
+       <lb ed="#B" n="42"/>nisi corporibus dispositis quibus infunderentur, vt dictum est supra. secundum Auicennam. Dico secundum conen 
+       <lb ed="#B" n="43"/>cursum diuinae ordinationis: licet deus per seipsas posset indiuiduas creare, quae modo sic per corpo- 
+       <lb ed="#B" n="44"/>ra esse incipiunt, vt non cum ipsis esse desinunt. Vnde cum fides tenet quod animae rationales sunt substantiae spi 
+       <lb ed="#B" n="45"/>rituales per se substare potentes: &amp; quod sunt plures numero secundum hominum pluralitatem, &amp; quod deus 
+       <lb ed="#B" n="46"/>potest eas creare sine corporibus per se subsistentes antequam corporibus vniantur: quid omnino fieri non 
+       <lb ed="#B" n="47"/>posset nisi essentia talis creaturae huiusmodi multiplicationem secundum numerum absque corpore 
+       <lb ed="#B" n="48"/>pateretu: rnulli fidelium debet prouenire in dubium: quin sub eadem specie possunt esse plura indiui- 
+       <lb ed="#B" n="49"/>dua in substantia spirituali solis substantialibus distincta, etiam absque omni quantitate &amp; materia. Sic er- 
+       <lb ed="#B" n="50"/>go dicendum quod non repugnante essentia naturae angelicae, vel cuiuscumque creaturae, essent duo indiui 
+       <lb ed="#B" n="51"/>dua etiam absoluta ab omni accidente. Si tamen possibile sit substantiam aliquam creatam existere sine omni 
+       <lb ed="#B" n="52"/>accidente, potest fieri a deo sub vna specie specialissima in solis sibi substantialibus distincta per di-  
+       <lb ed="#B" n="53"/>uersas subsistentias in effectu. 
+      </p>
+      <p xml:id="n3av8a-c1e755-d1e728">
+       AD argumentum in oppositum: quod nullo addito in essentia non po- 
+       <lb ed="#B" n="54"/>test habere diuersitatem aut distinctionem: dicendum quod secus est in diuersitate distinctionis eius 
+       <!--110.xml-->
+       <pb ed="#B" n="35-r"/>
+       <lb ed="#B" n="1"/>in diuersis indiuiduis ex parte rei, &amp; ex parte nostrae cognitionis. Propter quid dicit Auicenna huiusmodi disti 
+       <lb ed="#B" n="2"/>ctionem esse nobis obscuram, &amp; non determinari penes nos: hoc est penes intellectum nostrum: licet determinetur 
+       <lb ed="#B" n="3"/>ex parte rei. propter quid addidit. Nunc autem sermo noster non est de eo quid scitur: sed secundum quod res est in se. qd d. etsi 
+       <lb ed="#B" n="4"/>illa distinctio obscura est quomodo sit ex parte nostra: tamen certum est sic eam esse in ipsa re. Verumtamen intelligendum  
+       <lb ed="#B" n="5"/>quod apposuit fortassis: quia vno modo a nobis apud itellectum nostrum potest deterimari: alio autem modo non potest: 
+       <lb ed="#B" n="6"/>sed quod indiuiduum singulare vno modo est intelligibile a nobis, alio autem modo non est. Intelligitur enim a nobis vt 
+       <lb ed="#B" n="7"/>linea reflexa, non autem vt linea recta: secundum quod deiminat <name ref="#Aristotle">philosophus</name> in iii. de anima: vt stati declarabitur.
+      </p>
+      <p xml:id="n3av8a-c1e755-d1e755">
+       DIcendum igi 
+       <lb ed="#B" n="8"/>tur ad argumentum: quod vnam &amp; eandem essentiam ex se omnino simplicem nullo addito, nec re nec intentione diffe- 
+       <lb ed="#B" n="9"/>rens ab ea distingui &amp; multiplicari per plura indiuidua, est omnino inintelligibile: &amp; secundum rem impossibile. sic enim 
+       <lb ed="#B" n="10"/>quaecumque essentia in se considerata nullam potest omnino intelligi habere distinctionem, multiplicationem, aut di-  
+       <lb ed="#B" n="11"/>uersitatem. Sic enim considerata intelligitur: vt neque in vnico indiuiduo existens, neque vt in pluribus, neque vt vniversalis 
+       <lb ed="#B" n="12"/>neque vt particularis: sed vt cui ambo nata sunt accidere. Si ergo huiusmodi essentia debeat distingui per plu 
+       <lb ed="#B" n="13"/>ra indiuidua numero, oportet quod hoc sit per aliquid additum distinguens, diuersitate sua diuersificans essen 
+       <lb ed="#B" n="14"/>tiam &amp; multiplicans hincinde. Sed tale additum potest intelligi diuersum ab essentia ipsa, vel re vel intentione 
+       <lb ed="#B" n="15"/>tantum, additione diuersi. Primo modo non conuenit essentiam separatam immaterialem numero distingui: quia neque per  
+       <lb ed="#B" n="16"/>diuersum additum substantiale, neque accidentale. Non per substantiale, quia illud non posset esse nisi materia aut for 
+       <lb ed="#B" n="17"/>ma: quia per potesnem haec essentia est immaterialis &amp; specifica, sub quae non est vlterior forma substantialis, &amp; cui 
+       <lb ed="#B" n="18"/>non est subiecta materia. Neque per accidentale diuersum hincinde: quia neque per diuersum specie, neque per di 
+       <lb ed="#B" n="19"/>uersum numero. Non per diuersum specie, quia ad eandem essentiam substantialem species necessario sequuntur 
+       <lb ed="#B" n="20"/>quantum est ex ratione speciei eadem accidentia specie. eidem enim inquantum idem semper natum est accidere idem. Nec 
+       <lb ed="#B" n="21"/>numero solo: quia accidens potius numeratur &amp; indiuiduatur per suum subiectum quam econverso. Vniuersaliter ergo  
+       <lb ed="#B" n="22"/>verum est, quod per nulla accidentia realia, neque specie, neque numero diuersa sit indiuiduatio eiusdem essentiae siue 
+       <lb ed="#B" n="23"/>formae in specie: quoniam omnis substantia in se recipiens accidentia oportet quod in se prius subsistat, ita quod sit indiuidua-  
+       <lb ed="#B" n="24"/>ta, quam subiectum alterius fiat. Quia secundum philosophum, substantia prior est accidente, definitione, cognitione, &amp; tempore. 
+       <lb ed="#B" n="25"/>Et ideo substantia indiuiduata potius est cauam indiuiduationis cuiuscumque accidentis quam econuerso. &amp; sic nullo 
+       <lb ed="#B" n="26"/>modo potest intelligi multiplicatio essentiae immaterialis per additionem diuersi secundum rem. Oportet ergo quod sit  
+       <lb ed="#B" n="27"/>additione diuersi secundum intentionem solum. &amp; hoc est possibile, immo necessarium, vt supra est expositum. Hic tamen 
+       <lb ed="#B" n="28"/>distinguendum quod ista distinctio potest considerari ex parte rei in se: &amp; sic est omnino possibilis, vt dictum est: vel 
+       <lb ed="#B" n="29"/>respectu nostri intellectus, vt est distinguendum distinctione praetacta, quod intellectus noster tendere potest super essentiam 
+       <lb ed="#B" n="30"/>ad ipsam apprihendendam aspectu recto vel reflexo. Primo modo intellectus noster non intelligit essentiam rei spe 
+       <lb ed="#B" n="31"/>cificae nisi vt essentia est, &amp; vniversalis, vel indifferens ad vel &amp; perticulare, &amp; vt in ipsa omnia indiuidua quotquot 
+       <lb ed="#B" n="32"/>sub ipsa sunt, vnum sunt: &amp; sic vt est omnino abstracta, non vt aliquibus accidentibus est deiminata. Vnde attendem 
+       <lb ed="#B" n="33"/>tes per intellectum essentiam hoc modo solummo: &amp; nullo modo reflectentes eum ad intentionem suppositi &amp; existentiae, vt 
+       <lb ed="#B" n="34"/>ad differens ab essentia ipsa: sicut neque reflectunt intellectum suum ad materiam neque ad accidentia realia in ipsa 
+       <lb ed="#B" n="35"/>essentia, nullo modo potest capere quomodo forma immaterialis in puris naturalibus nullo realiter diuerso ad  
+       <lb ed="#B" n="36"/>dito possit multiplicari per indiuidua, quia talis intellectus omnino rectus nullo modo capit intentionem indiuidualem. 
+       <lb ed="#B" n="37"/>Auicenna tamen vult in quarto metaphysicae, quod species quae est in vnico indiuiduo, recto aspectu intelligitur indiuidua  
+       <lb ed="#B" n="38"/>ta. vbi dicit. Si autem fuerit species etiam apud itellectum indiuiduum, erit tunc intellectui via ad illud descri 
+       <lb ed="#B" n="39"/>ptum. &amp; hoc est indiuiduum, quod est vnum in vna specie, cui non est alterum, sicut sol vel lupiter. Sed cum di-  
+       <lb ed="#B" n="40"/>cat in libro tertio, quod tale vno modo species, &amp; alio modo non est species: eo quod vno modo est vel, &amp; alio modo non 
+       <lb ed="#B" n="41"/>est vel: &amp; obiectum recto aspectu intellectus non est nisi vel. secundum quod vl, magnam dubitationem habet illud  
+       <lb ed="#B" n="42"/>dictum Conmentatoris, de quo nihil ad praesens. Quia tamen non sit verum quod sit aliquid tale indiuiduum vnicum sub spe 
+       <lb ed="#B" n="43"/>cie, ita quod non possunt esse plura: manifestum est ex praedeterminatis. Intellectu autem reflexo conuenit intelli 
+       <lb ed="#B" n="44"/>gere essentiae indiuiduationem &amp; diuersificationem a nobis secundum dictum modum: &amp; est in materialibus illa 
+       <lb ed="#B" n="45"/>reflexio ad accidentia: licet non realiter diuersa ab essentia, derminantia ipsam. Hinc autem dicit Auicenna 
+       <lb ed="#B" n="46"/>in. vii metaph. Si autem fuerit species dilatata in indiuiduis, tunc non erit via intellectui ad descriptionem ali 
+       <lb ed="#B" n="47"/>cuius sui indiuidui: nisi prius designet ei. &amp; sit ista designatio per accidentia essentiae, quae apprihendit circa 
+       <lb ed="#B" n="48"/>essentiam intellectus reflexus, vt sunt quantitas &amp; materia in corporalibus, &amp; in incorporalibus intentio sub 
+       <lb ed="#B" n="49"/>sistentiae &amp; suppositi. Sed quia intellectus pluriumista non decernit: ideo recurrit ad accidentia posteriora: &amp; 
+       <lb ed="#B" n="50"/>secundum illorum diuersitatem distinguit indiuidua sub eadem specie: &amp; hoc vel singula accidentia posteriora 
+       <lb ed="#B" n="51"/>iuxta illud quod dicit Damasc. vbi supra. Hypostatica, proprietas est quae diuidit hypostasim ab alia hy- 
+       <lb ed="#B" n="52"/>postasi: velut simum, album, nigrum, caluum, &amp; talia. vel propter plurium illorum coniunctionem in vnum: secundum quod  
+       <lb ed="#B" n="53"/>dicitur Porphyrius. Indiuidua dicuntur: quoniam ex proprietatibus constat vnumquodque eorum, quorum collectio 
+       <lb ed="#B" n="54"/>numquam in alic eadem erit. Socratis enim, proprietates numquam in alio erunt particularium.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

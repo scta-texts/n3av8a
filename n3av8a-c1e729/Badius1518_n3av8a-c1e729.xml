@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="32-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e729">
+      <head xml:id="n3av8a-c1e729-Hd1e96">Quaestio 6</head>
+      <p xml:id="n3av8a-c1e729-d1e99">
+       <lb ed="#B" n="50"/>Equuntur quaestiones pertinentes ad creaturam rationalem. Quarum quaedam pertinebant ad ipsam sim- 
+       <lb ed="#B" n="51"/>plicitur acceptam. Aliae vero ad singulas species eius. CIRca primum quaerebantur duo. Vnum  
+       <lb ed="#B" n="52"/>pertinens ad actum intelligendi generalitur quodcunque. Secundum vero specialitur ad actum intelligendi 
+       <lb ed="#B" n="53"/>deum a beatis. PRImum erat: vtrum per actum intelligendi necesse sit formare verbum. Secundum  
+       <lb ed="#B" n="54"/>vtrum beati vnico intuitu videant tres personas in trinitate distinctas.
+      </p>
+      <p xml:id="n3av8a-c1e729-d1e112">
+       CIRca primum 
+       <lb ed="#B" n="55"/>arguitur quod non quia ad actionem quamlibet sufficiunt agens, ratio agendi, &amp; materia possibilis 
+       <!--104.xml-->
+       <pb ed="#B" n="32-r"/>
+       <lb ed="#B" n="1"/>sicut patet in visu, vbi ad actum videndi sufficiunt color, &amp; lux agens: species eius vt ratio videndi in oculo: &amp; 
+       <lb ed="#B" n="2"/>eius dispositio. Ista tria concurrunt in actu intelligendi: etsi nullum verbum formetur: scilicet ipsum intelligibi 
+       <lb ed="#B" n="3"/>le: species eius in intellectum: &amp; ipse intellectus possibilis. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e729-d1e128">
+       ITEM filius &amp; spiritus intelligunt: &amp; tamen 
+       <lb ed="#B" n="4"/>non formant verbum.
+      </p>
+      <p xml:id="n3av8a-c1e729-d1e133">
+       IN contrarium est. quia tunc in diuinis non differrent pater &amp; filius. quia non est filius nisi ver l 
+       <lb ed="#B" n="5"/>bum formatum paterno intellectum.
+      </p>
+      <p xml:id="n3av8a-c1e729-d1e139">
+       DIcendum: quod sicut est in omni actione naturali: quod patiens non solum patitur: E 
+       <lb ed="#B" n="6"/>sed agit aliquo modo: &amp; tanto magis agit &amp; minus patitur quanto magis est formale: &amp; econuerso magis pa 
+       <lb ed="#B" n="7"/>titur &amp; minus agit: quanto magis est materiale. Et ideo passiones sensus &amp; intellectus cum sint natura 
+       <lb ed="#B" n="8"/>les a sensibili &amp; intelligibili: non solus sensus &amp; intellectus patiuntur a sensibili: sed etiam in patiendo a sen 
+       <lb ed="#B" n="9"/>sibili &amp; intelligibili quodammo contra agunt circa ipsum: minus autem sensus: quanto magis sensus est ma 
+       <lb ed="#B" n="10"/>terialis. Vnde sensus particularis, quia omnino est materialis, haobens particulare proprium sensibile materialiter 
+       <lb ed="#B" n="11"/>obiectum extra: maxime per se patitur a sensibili: minime agit. Et ideo dicitur quod sensus maxime in pa 
+       <lb ed="#B" n="12"/>tiendo perficitur: aliquid tamen agit. cum enim ab obiecto patitur in recipiendo, convertit se super ipsum in cognoscendo si- 
+       <lb ed="#B" n="13"/>ue percipiendo, quod patet in visu &amp; auditu ex hoc: quod quamuis obiectum per speciem suam agit imprimedo se orga- 
+       <lb ed="#B" n="14"/>no: ex hoc tamen non videt &amp; audit homo nisi vis visiua vel auditiua ad percipiendum obiectum per motum speciei se 
+       <lb ed="#B" n="15"/>conuertat ad obiectum. secundum quod dicit <name ref="#Aristotle">philosophus</name> in libro de sensu &amp; sensato. Superlatum ad oculos lumen non sen 
+       <lb ed="#B" n="16"/>tiunt: si accidit illos esse vehementer intendentes vel timentes vel audientes multum strepitum. Nec potes di 
+       <lb ed="#B" n="17"/>cere quod talis recipiendo videt: licet interiori virtute non iudicat. quoniam etsi dormienti apartis oculis lux 
+       <lb ed="#B" n="18"/>esset praesens: ipsa organo imprimeretur &amp; tamen nihil videret: quia vis particularis visus ligata est: &amp; tamen patitur. 
+       <lb ed="#B" n="19"/>Cuius signum est quod magno splendore oculis impresso, vi passionis excitatur: &amp; tunc primo videt, quid etiam pa 
+       <lb ed="#B" n="20"/>tet in dormientibus qui non audiunt peruos sonos etiam auribus impressos: &amp; cum magno strepitu excitantur. 
+       <lb ed="#B" n="21"/>Post sensum particularem magis agit sensus vniversalis, quid patet: quia non solum mouetur ad cognoscendum obiecta omnium 
+       <lb ed="#B" n="22"/>sensuum particularium: sed post cognitionem confert comparando ea secundum conuenientiam &amp; differentiam, vt vult 
+       <lb ed="#B" n="23"/>philosophus. Deinde amplius agit imaginatiua: quae mota format quamplurimas imaginationes quaes numquam percepit. Dein 
+       <lb ed="#B" n="24"/>de similiter dicendum est de intellectum: quod quia virtus est maxime immaterialis, in patiendo maxime agit: &amp; 
+       <lb ed="#B" n="25"/>perfectissime per cognitionem conuertit se super suum obiectum non solum percipiendo id quod verum est a quo mouetur 
+       <lb ed="#B" n="26"/>sicut etiam apprehendit sensus: sed ipsam veritatem quo est ipsa quiditas rei intellecta, proprium enim obiectum 
+       <lb ed="#B" n="27"/>intellectus est quidquid est, quod quidem vt in notitia actuali vt notius existit: est quasi quaedam lux in intellectu conce 
+       <lb ed="#B" n="28"/>pta: &amp; qua rem mentaliter videt &amp; discernit: quod appellatur verbum eius: sine quo actio intellectualis nul 
+       <lb ed="#B" n="29"/>lo modo perficitur: sine quo non plus haberet notitiam veritatis rei quam sensus: neque post receptionem speciei pos- 
+       <lb ed="#B" n="30"/>set inuestigare &amp; conferre &amp; elicere conclusionem ex principiis. Dicendum igitur quod in omni actu intelligendi quan 
+       <lb ed="#B" n="31"/>tuncumque modicus sit: necesse est formare verbum. Hoc enim est de natura &amp; perfectione intellectus: quod motus 
+       <lb ed="#B" n="32"/>non conuertit se super obiectum per abstractam apphensionem: sed necesse est eum aut nihil intelligere: aut quod quid  
+       <lb ed="#B" n="33"/>est de re in se formare.
+      </p>
+      <p xml:id="n3av8a-c1e729-d1e205">
+       AD primum in oppositum patet per iam dicta quod in actu quolibet cognitiuo du  
+       <lb ed="#B" n="34"/>plex est actio: vna ab obiecto in virtutem cognitiuam, quam est passio tantum altera ab ipsa virtute mota:, conver 
+       <lb ed="#B" n="35"/>tendo se per notitiam super obiectum: &amp; si perfecta sit notitia, concipiendo quidquid est obiecti. Quid ergo assumpsit per  
+       <lb ed="#B" n="36"/>simile circa sensum, partim falsum est: quoniam sensus non solum patitur: sed quodammodo agit: partim non est 
+       <lb ed="#B" n="37"/>simile. quia propter maiorem immaterialitatem necesse est intellectum agere concipiendo verbum cum intelli- 
+       <lb ed="#B" n="38"/>git: licet sensus nullum verbum concipit cum sentit: &amp; hoc quia propter maiorem materialitatem suam minus est acti 
+       <lb ed="#B" n="39"/>uus.
+      </p>
+      <p xml:id="n3av8a-c1e729-d1e221">
+       AD Secundum: quod filius &amp; spiritus sanctus intelligunt &amp; tamen non concipiunt: Dicendum quod etsi non  
+       <lb ed="#B" n="40"/>concipiunt tamen intelligere eorum non est fine conceptu. vnico enim intelligere essentiali aeternaliter in  
+       <lb ed="#B" n="41"/>telligunt tres personae. sed in illo actu intelligendi verbum concipitur persona patris, in quo ipse, &amp; filius 
+       <lb ed="#B" n="42"/>conceptus, &amp; spiritus sanctus intelligunt. Ita quod sine actum concipiendi verbum in quo tres personae intel 
+       <lb ed="#B" n="43"/>ligunt, impossibile est esse filium &amp; ita intelligere. Similiter neque spiritus sanctus. quia velle praesupponit 
+       <lb ed="#B" n="44"/>necessario intelligere. Vnde non sequitur: quod licet non formant verbum, quod intelligant sine verbo for- 
+       <lb ed="#B" n="45"/>mato. Arduum est: &amp; latet in eo difficilius: sed sufficit ad praesens hoc.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

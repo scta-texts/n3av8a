@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="438-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4260">
+       <head xml:id="n3av8a-c1e4260-Hd1e96">Quaestio 1</head>
+       <p xml:id="n3av8a-c1e4260-d1e99">
+        <lb ed="#B" n="15"/>Incipit Quodlibet Vndecimum. M. Henrici a Gandauo.  
+       <lb ed="#B" n="16"/>sputatio nostra generalio 
+       <lb ed="#B" n="17"/>vndecima continebat triginta proposita: Quorum quaedam erant per 
+       <lb ed="#B" n="18"/>tinentia ad deum &amp; ad creaturam communiter: quaedam vero ad creatu 
+       <lb ed="#B" n="19"/>ram intellectualem specialiter. De primo proposita pertinebant ad dei 
+       <lb ed="#B" n="20"/>actionem circa creaturam. Quorum quaedam pertinebant ad creatu- 
+       <lb ed="#B" n="21"/>rarum productionem, quae proponebantur primum: deinde proponeba- 
+       <lb ed="#B" n="22"/>tur vnum pertinens ad creaturarum reductionem in ipsum. Adhuc 
+       <lb ed="#B" n="23"/>de primo proponebantur tria: quorum vnum pertinens principaliter ad  
+       <lb ed="#B" n="24"/>rem productam erat: Vtrum deus possit facere sub vna specie specia- 
+       <lb ed="#B" n="25"/>lissima angeli. aliquem alium angelum aequalem in natura &amp; essentia 
+       <lb ed="#B" n="26"/>speciei, angelo iam facto sub illa. Alia vero duo pertinebant principaliter ad modum producendi ali 
+       <lb ed="#B" n="27"/>quid a deo, siue ad modum agendi aliquid circa creationem. Quorum vnum erat. Vtrum deus 
+       <lb ed="#B" n="28"/>posset facere aliquid quod non decet, siue quod non deceret illum facere. Alterum vero erat: Vtrum in con 
+       <lb ed="#B" n="29"/>posito ex materia &amp; forma educibili de potentia materiae creato. principalius creetur materia an  
+       <lb ed="#B" n="30"/>forma. 
+      </p>
+      <p xml:id="n3av8a-c1e4260-d1e136">
+       CIRca primum arguebatur. quod angelo nunc existente sub aliqua specie angeli specialissi- 
+       <lb ed="#B" n="31"/>ma, deus posset facere alium angelum aequalem in forma &amp; natura speciei: Primo ex parte ipsius 
+       <lb ed="#B" n="32"/>formae siue naturae speciei: quia forma quantum est ex se non magis nata est esse in vno supposito 
+       <lb ed="#B" n="33"/>quam in alio, &amp; sic aequaliter ergo nata est esse in vno supposito &amp; in alio siue in pluribus: quare quia  
+       <lb ed="#B" n="34"/>deus potest quicquid natum est esse aut fieri: deus potest facere alium angelum &amp;c. Secundo a si 
+       <lb ed="#B" n="35"/>mili sic. Non minus potest deus facere alium angelum aequalem in forma speciei ei qui nunc fa- 
+       <lb ed="#B" n="36"/>ctus est sub specie, quam potest facere alium solem aequalem isti qui modo factus est in forma speciei so 
+       <lb ed="#B" n="37"/>lis. sed potest facere alium solem aequalem iam facto: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4260-d1e154">
+       CONTRA. hoc esse quod habet 
+       <lb ed="#B" n="38"/>angelus iam factus per se &amp; essentialiter consequitur speciem angeli, quare non potest esse aliud  
+       <lb ed="#B" n="39"/>esse ipsius speciei angelicae quam huius angeli, vt ideo necessarium sit vnicum esse &amp; speciei &amp; indiui- 
+       <lb ed="#B" n="40"/>duo siue supposito eius. sed esse non plurificatur aut communicatur nisi plurificato aut communi- 
+       <lb ed="#B" n="41"/>cato eo cuius est esse, quare si fieret alius angelus in quo esse speciei communicaretur aut plurifi 
+       <lb ed="#B" n="42"/>caretur, oporteret ipsum suppositum huius angeli iam facti communicari alteri angelo fiendo aut 
+       <lb ed="#B" n="43"/>plurificari: consequens autem est impossibile: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4260-d1e170">
+       HANC quaestionem alias tetigimus in  
+       <lb ed="#B" n="44"/>aliis quaestionibus de Quolibet, in quibus etiam declarauimus quomodo genus in angelis aliter 
+       <lb ed="#B" n="45"/>per differentias descendit in species quam in corporalibus. Quibus suppositis quantum ad praesens 
+       <lb ed="#B" n="46"/>sufficit: oporter scire quod sententia philosophorum fuit quod in separatis non esset aliud esse speciei &amp; 
+       <lb ed="#B" n="47"/>suppositi: &amp; sic quod essentia non subsisteret nisi in vnico supposito: &amp; quod vlterius non esset illius aliud  
+       <lb ed="#B" n="48"/>esse essentiae &amp; aliud existentiae: sed quod ipsa essentia esset ex se quoddam necesse esse &amp; quaedam existen 
+       <lb ed="#B" n="49"/>tia. &amp; sic quod quodlibet suppositum subsistens in essentia separata esset deus quidam. licet in diis est vnus a 
+       <lb ed="#B" n="50"/>primus &amp; summus. Quod omnino est absurdum apud catholicos vt alibi tractauimus. ldeo sunt ali-  
+       <lb ed="#B" n="51"/>qui catholici dicentes quod angelus vera creatura est, habens ab alio esse. Dicunt tamen quod licet  
+       <!--917.xml-->
+       <pb ed="#B" n="438-v"/>
+        <lb ed="#B" n="1"/>non habetur esse existentiae effectiue nisi a deo, tamen non subsistit nisi in vnico supposito in quo est par  
+       <lb ed="#B" n="2"/>fecta ratio speciei: cum in nullo sit aliud esse speciei &amp; aliud suppositi: &amp; sic quod non possit esse aliud sup- 
+       <lb ed="#B" n="3"/>positum angeli sub illa. 
+      </p>
+      <p xml:id="n3av8a-c1e4260-d1e202">
+       SED quia hoc damnatum est rationabiliter: quia essentia siue naturasiue 
+       <lb ed="#B" n="4"/>forma specifica ex se non est nisi ipsa: nec habet esse aliquod quod est aliud re ab ipsa: quia esse quod dicitur 
+       <lb ed="#B" n="5"/>essentiae quod definitiua ratione exprimitur, cum dicitur quod definitio est oratio indicans quid est esse: omnino 
+       <lb ed="#B" n="6"/>essentiale &amp; naturale est ipsi essentiae, &amp; est idem cum ipsa re, differens ab ea sola ratione: caetera autem 
+       <lb ed="#B" n="7"/>omnia sunt ei aliquo modo accidentalia: cuiusmodi sunt esse in anima siue in intellectu vt in cognoscente: &amp; esse 
+       <lb ed="#B" n="8"/>in supposito existente extra animam vt in subsistente: cui non solum accidit esse existentiae quod habet in sup 
+       <lb ed="#B" n="9"/>posito existente extra animam: sed etiam accidit ei quodammodo esse in ipso supposito. secundum quod hoc alias 
+       <lb ed="#B" n="10"/>saepius exposuimus secundum Auic. Species enim ex se non habet esse in supposito, sed esse omnino indetermi  
+       <lb ed="#B" n="11"/>natum: esse autem in supposito nullo modo habet nisi per hoc quod est effectus: &amp; per hoc habet esse determina 
+       <lb ed="#B" n="12"/>tum per quod descendit in suppositum, non per aliquid reale pertinens vllo modo ad naturam formae speciei: 
+       <lb ed="#B" n="13"/>quemadmodum forma generis descendit in speciem per differentiam additam: vt aliquid reale pertinens ad  
+       <lb ed="#B" n="14"/>formam generis, eo quod forma generis in potentia habet essentialiter in se formam quae est differentia, &amp; de est 
+       <lb ed="#B" n="15"/>essentialiter in potentia totum quod est forma speciei: secundum quod etiam alias sufficienter declarauimus: sed per  
+       <lb ed="#B" n="16"/>idipsum vt consideratur sub ratione determinati. Quare cum formaiquae ex se comnmunis est &amp; indeter  
+       <lb ed="#B" n="17"/>minata, non potest descendere in suppositum nisi aliquo modo determinetur in illud, quia aliter non  
+       <lb ed="#B" n="18"/>esset suppositum quid determinatum sub specie quid tamen omnis ratio suppositi requirit: ita quod si ponatur suppo 
+       <lb ed="#B" n="19"/>situm subsistere in re extra sine omni determinatione, implicantur contradictoria: scilicet quod esset de-  
+       <lb ed="#B" n="20"/>terminatum &amp; indeterminatum: &amp; illa determinatio fit per aliquod esse non aliud ab ipso esse indetermi-  
+       <lb ed="#B" n="21"/>nato: quod quidem esse determinatum non est vere accidens: licet sit extra rationem speciei: determinatio ne-  
+       <lb ed="#B" n="22"/>cessario fit per aliquid. Si enim illud esset vere accidens, tunc suppositum sub specie non esset vnum nisi per acci- 
+       <lb ed="#B" n="23"/>dens &amp; nuilum per se: quod falsum est. Vnde secundum diuersum modum ponendi esse indeterminatum speciei i 
+       <lb ed="#B" n="24"/>determinari in supposito. secundum hoc diuersimode ponitur species descendere in suppositum aut in sup 
+       <lb ed="#B" n="25"/>posita. Sed hoc alio &amp; alio modo dicunt fieri in formis materialibus &amp; in formis separatis a materia.  
+       <lb ed="#B" n="26"/>In materialibus enim dicunt quod verum est quod forma determinatur per materiam in qua habet esse &amp; recipi: non 
+       <lb ed="#B" n="27"/>vt consideratur ipsa materia in sua essentia simplici, sed vt est sub dimensionibus. Et hoc dupliciter 
+       <lb ed="#B" n="28"/>quoniam in quibusdam formam substantialem in materia naturaliter praecedunt dimensiones interminatae: vt 
+       <lb ed="#B" n="29"/>in generabilibus &amp; corruptibilibus. In quibusdam vero forma substantialis in materia naturaliter praece- 
+       <lb ed="#B" n="30"/>dit omnem rationem dimensionum, vt in corporibus caelestibus. secundum quod hoc plane dicit Auerro. in libel- 
+       <lb ed="#B" n="31"/>lo de substantia orbis. In primis autem quia dimensiones quodammodo praecedunt formam substantialem in mate- 
+       <lb ed="#B" n="32"/>riai materia sub ratione diuisibilis est subiectum suae formae: ita quod secundum vnam partem sui potest esse 
+       <lb ed="#B" n="33"/>subiecta formae specificae secundum vnam determinationem quam habet ab illa: &amp; non secundum aliam. sed secundum illam 
+       <lb ed="#B" n="34"/>aliam potest esse aequaliter subiectum eiusdem formae specificae secundum aliam determinationem quam habet ab illa. 
+       <lb ed="#B" n="35"/>Et ideo in talibus quia forma secundum vnam determinationem non necessario continet sub se totam suam 
+       <lb ed="#B" n="36"/>materiam possibilem ad sui susceptionem, per materiam sit indiui duorum plurificatio sub vna specie spe 
+       <lb ed="#B" n="37"/>cialissima: &amp; recipit ipsa forma per hoc diuersa esse in diuersis suppositis. Et sunt aliqui sequentes di-  
+       <lb ed="#B" n="38"/>cta philosophorum qui dicunt quod nullo modo alio potest species determinari ad supposita nisi per materiam &amp; per 
+       <lb ed="#B" n="39"/>consequens quod non nisi per materiam potest fieri formae specificae indiuiduatio: neque plurificatio per plura sup 
+       <lb ed="#B" n="40"/>posita. Sed aliter in formis caelestium corporum &amp; aliter in formis separatis immaterialibus. In primis enim 
+       <lb ed="#B" n="41"/>dicunt quod etsi forma speciei quantum est ex se sit plurificabilis: vt forma solis &amp; lunae, quia tamen continet 
+       <lb ed="#B" n="42"/>in se totam materiam possibilem ad ipsam secundum vnicam determinationem: &amp; hoc quia vt dictum est forma sub 
+       <lb ed="#B" n="43"/>stantialis in talibus praecedit omnem rationem dimensionum &amp; est materia subiectum eius subratione indi  
+       <lb ed="#B" n="44"/>uisibilis: idcirco (ut dicunt) secundum <name ref="#Aristotle">philosophum</name> in secundo de caelo &amp; mundo: impossibile est formas talium plu 
+       <lb ed="#B" n="45"/>rificari, &amp; impossibile est omnino plures esse soles aut plures lunas: &amp; quod deus non posset facere solem 
+       <lb ed="#B" n="46"/>alium ab isto, neque lunam aliam ab ista. In formis autem separatis angelicis dicunt quod quia illae non sunt na 
+       <lb ed="#B" n="47"/>tae determinari per materiam neque esse actus materiae, in ipsis nulla omnino est determinatio per materiam ne- 
+       <lb ed="#B" n="48"/>que indiuiduatio: sed ipsae formae singulae in seipsis sunt quaedam supposita absque omni determinatione  
+       <lb ed="#B" n="49"/>formae: ita quod in ipsis non differt essentia simpliciter &amp; haec essentia: neque est aliud esse essentiae simpli- 
+       <lb ed="#B" n="50"/>citer &amp; huius essentiae, siue sermo fiat de esse essentiae siue de esse existentiae secundum quod iam tactum est. 
+       <lb ed="#B" n="51"/>
+      </p>
+      <p xml:id="n3av8a-c1e4260-d1e312">
+       SED hoc totum falsum est &amp; erroneum atque damnatum Parisii: &amp; hoc rationabiliter vt iam tactum est 
+       <lb ed="#B" n="52"/>circa formam separatam principaliter. Quid etiam falsum est circa formam corporum caelestium eteni licet sol 
+       <lb ed="#B" n="53"/>continet totam materiam suam (quae ad formam solis est possibilis) iam factam: non tamen continet totam facien 
+       <lb ed="#B" n="54"/>dam siue possibilem fieri adeo. Propter quid sicut deus potest facere materiam de nouo possibilem ad  
+       <!--918.xml-->
+       <pb ed="#B" n="439-r"/>
+        <lb ed="#B" n="1"/>formam solis talem qualis est illa quae modo est sub forma solis, sic potest facere nouum solem si velit. 
+       <lb ed="#B" n="2"/>Sed philosophi nihil posuerunt de nouo posse fieri a deo immediate sed ab aeterno fuisse factum quic 
+       <lb ed="#B" n="3"/>quid ab ipso potest fieri immediate: &amp; ideo posito tali antecedente, nullo modo poterunt ponere quod pos 
+       <lb ed="#B" n="4"/>sibile esset plures esse soles aut fieri a deoilicet ipsa forma solis quantum est ex se plurificabilis esset si plu 
+       <lb ed="#B" n="5"/>rificari posset eius materia. Similiter forma angeli ita habet rationem vniuersalis secundum rationem spe 
+       <lb ed="#B" n="6"/>ciei specialissimae, sicut est forma hominis aut asini: &amp; ita rationem conmunis &amp; abstracti per intellectum &amp; 
+       <lb ed="#B" n="7"/>indeterminati atque determinabilis, etsi non per materiam, tamen per esse in supposito: quia vt dictum est, 
+       <lb ed="#B" n="8"/>non est suppositum nisi per determinationem aliquam: vt impossibile sit dicere quod non sit aliud esse essentiae 
+       <lb ed="#B" n="9"/>angeli simpliciter &amp; huius angeli: immo oportet quod sint differentia secundum rationem determinati &amp; 
+       <lb ed="#B" n="10"/>indeterminati, quam quidem determinationem effectiue non habet forma nisi a producente ipsam in existentia 
+       <lb ed="#B" n="11"/>actuali: quia non terminatur actus productionis ad essentiam rei simpliciter vt est essentia sub ratione inde-  
+       <lb ed="#B" n="12"/>terminati: sed solummodo vt est haec essentia: quia omnis actus &amp; operatio est circa singularia. formaliter au 
+       <lb ed="#B" n="13"/>tem habet determinationem in hoc supposito: quia in ipso est secundum hoc esse proprium huic supposito:  
+       <lb ed="#B" n="14"/>&amp; sic positiua eius indiuiduatio non sit effectiue nisi per producentem, &amp; formaliter non nisi per hoc esse 
+       <lb ed="#B" n="15"/>Qualiter autem habeat fieri indiuiduatio negatiue, alibi sufficienter exposuimus. Vnde quia arti- 
+       <lb ed="#B" n="16"/>culus iste quod non possint esse plures angeli sub eadem specie, damnatus est: aliqui volentes fugere illam 
+       <lb ed="#B" n="17"/>danmnationis sententiam, ponunt quod angelica species plurificabilis est secundum determinationem esse diuer- 
+       <lb ed="#B" n="18"/>sorum in supposito, &amp; quod non est in aliquo supposito nisi secundum aliquod esse determinatum. Et dicunt 
+       <lb ed="#B" n="19"/>quod essentia siue forma specifica angeli potest descendere in plura supposita quantum est de se: sed tamen secun 
+       <lb ed="#B" n="20"/>dum rationem persectam speciei, tantum in vnicum suppositum potest descendere, sicut &amp; ipsa forma speciei est 
+       <lb ed="#B" n="21"/>vnica: sed quod a ratione perfectionis illius esse, potest deficere pluribus modis, &amp; secundum plures gradus im 
+       <lb ed="#B" n="22"/>perfecti. ldeo enim (ut dicunt) cum illo primo angelo in quo est forma speciei secundum esse completum &amp; perfe- 
+       <lb ed="#B" n="23"/>ctum, possunt esse plures alii secundum esse imperfectum &amp; incompletum: sed hoc dupliciter. Vno modo quod  
+       <lb ed="#B" n="24"/>prius quam deus aliquem angelum fecit ipse potuit plures angelos fecisse sub vna specie, ita quod quilibet eorum  
+       <lb ed="#B" n="25"/>haberet aliquid de perfectione speciei, sed semper aliud &amp; aliud. Alio modo quod primo &amp; vnico facto sub per 
+       <lb ed="#B" n="26"/>fecta ratione speciei, deus potuit facere plures alios sub eadem, deficientes a perfectione illius secundum gra 
+       <lb ed="#B" n="27"/>dus diuersos. Ita (sicut dicunt) quod quia decet deum facere quod perfectum est: non autem decet eum facere quid  
+       <lb ed="#B" n="28"/>imperfectum, idcirco sub vna specie solum fecit vnicum angelm. scilicet qui secundum esse perfectum contineret formam 
+       <lb ed="#B" n="29"/>speciei, &amp; nullum alium. Etenim si plures possent fieri sub ipsa, non tamen fecit: quia alium aequalem illi qui  
+       <lb ed="#B" n="30"/>secundum esse perfectum continet essentiam, facere non potuit: alium secundum esse imperfectum continen- 
+       <lb ed="#B" n="31"/>tem in se essentiam non fecit: non quia illum facere non potuit, sed quia facere eum non decuit: super  
+       <lb ed="#B" n="32"/>quo mota fuit quaestio sequens. Quod omnino falsum est quo ad esse perfectum angeli facti. &amp; per con- 
+       <lb ed="#B" n="33"/>sequens ex parte aliorum fiendorum. Cum enim illud esse speciei in angelo perfecto quantuncumque sit perfectum 
+       <lb ed="#B" n="34"/>&amp; consequens speciem, &amp; in illo supposito sit determinatum, &amp; formaliter determinans formam specificam 
+       <lb ed="#B" n="35"/>ad suppositum, necessario differt ab esse essentiae speciei simpliciter: quod est indeterminatum. Sicut etiam 
+       <lb ed="#B" n="36"/>secundum rationem determinati &amp; indeterminati differunt esse incompleta, possibilia fieri. secundum illos. 
+       <lb ed="#B" n="37"/>in aliis angelis, &amp; esse ipsum essentiae simpliciter: ita quod omnino falsum sit dicere quod in aliqua creatura 
+       <lb ed="#B" n="38"/>subsistente in supposito non est aliud esse simpliciter &amp; esse huius: &amp; quod in nullo differunt essetia &amp; haec 
+       <lb ed="#B" n="39"/>essentia,. quia essentia simpliciter propter sui esse omnimodam indeterminationem est in potentia ad  
+       <lb ed="#B" n="40"/>quodlibet esse determinatum, siue fuerit perfectum siue imperfectum: &amp; sic est in potentia ad esse de 
+       <lb ed="#B" n="41"/>terminata diuersa secundum perfectum et imperfectum: similiter ad esse diuersa secundum rationem aequa-  
+       <lb ed="#B" n="42"/>lem perfecti &amp; imperfecti: etiam si non posset deus facere angelum, nec posset angelus esse omnino nisi 
+       <lb ed="#B" n="43"/>secundum rationem esse perfecti: &amp; hoc quemadmodum forma est plurificabilis secundum diuersas mate- 
+       <lb ed="#B" n="44"/>rias: si possibile esset illas esse. Et ideo sicut ex parte solis deum possibile est facere aliam materiam secun 
+       <lb ed="#B" n="45"/>dum quam forma solis est in potentia ad alium solem, etsi non est nisi vnica, &amp; aequalem illi: &amp; sic cum 
+       <lb ed="#B" n="46"/>effectum potest facere plures soles aequales: sic ex parte angeli possibile est deum facere angelum secundum  
+       <lb ed="#B" n="47"/>aliud esse aeque perfectum illi esse quod habet angelus iam factus, acsi non esset alius factus: quia se 
+       <lb ed="#B" n="48"/>cundum illud esse forma angeli est in potentia ad alium angelum. Quod autem dicunt quod plures 
+       <lb ed="#B" n="49"/>angelos potest deus facere secundum esse imperfectum: hoc omnino falsum est, quia species angeli- 
+       <lb ed="#B" n="50"/>ca in simplici &amp; indiuisibili consistit, non recipiens magis aut minus: ergo in quocunque est, tota est, &amp; 
+       <lb ed="#B" n="51"/>aequaliter tota est quo ad essentialia formae. Quid addunti quod deus non facit illos angelos imperfectos. 
+       <lb ed="#B" n="52"/>quia non decet eum facere illos: de hoc videbitur in sequenti quaestione. 
+      </p>
+      <p xml:id="n3av8a-c1e4260-d1e438">
+       SIC ergo simpliciter di  
+       <lb ed="#B" n="53"/>co ad quaestionem, quod deus quocunque angelo iam facto potest facere aequalem in forma &amp; natura &amp; 
+       <lb ed="#B" n="54"/>esse speciei. Et secundum hoc concedenda sunt duo prima obiecta pro ista parte. Ad tertium 
+       <!--919.xml-->
+       <pb ed="#B" n="439-v"/>
+        <lb ed="#B" n="1"/>quod est in contrarium i quod esse quod habet angelus perfectus iam factus, per se &amp; essentialiter sequitur  
+       <lb ed="#B" n="2"/>speciem angeli: dicendum quod aliquid sequitur speciem angeli aut ex praecisa natura &amp; forma speciei 
+       <lb ed="#B" n="3"/>angelicae, aut non nisi per aliquid aliud. De illo quod primo modo sequitur verum est quod non est nisi vni 
+       <lb ed="#B" n="4"/>cum sicut vnica est essentia: &amp; tale est esse essentiae indeterminatum: nequaquam autem esse essentiae deter  
+       <lb ed="#B" n="5"/>minatum: illud enim non sequitur essentiam nisi per accidem scilicet per hoc quod est effectus dei &amp; determi-  
+       <lb ed="#B" n="6"/>nata in supposito. Vnde si secundum primum esse haberet species rationem suppositi, verum esset quod  
+       <lb ed="#B" n="7"/>dicunt. hoc enim dixerunt philosophi. Et ideo dicebant quod in formis separatis non differrent essentia sim 
+       <lb ed="#B" n="8"/>pliciter &amp; haec essentia: neque esse essentiae simpliciter &amp; huius essentiae: &amp; quod omnino in eis non differunt 
+       <lb ed="#B" n="9"/>essentia siue species. &amp; suppositum: quod falsum esse patet ex iam dictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

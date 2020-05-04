@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 38</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 38</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2273">
+       <head xml:id="n3av8a-c1e2273-Hd1e96">Quaestio 38</head>
+       <p xml:id="n3av8a-c1e2273-d1e99">
+        <lb ed="#B" n="5"/>Equuntur pertinentia ad vsum sacramentorum. Vbi primum erat vnum cmoniter pertinens 
+       <lb ed="#B" n="6"/>ad sacramentum ordinis &amp; matrimonii, vtrum clericus post matrimonium celebratum &amp; 
+       <lb ed="#B" n="7"/>per verba de praesenti in facie ecclesiae: sed nondum consummatum per carnalem copulam sub 
+       <lb ed="#B" n="8"/>secutam, si postmodum promoueatur in sacerdotem, possit debitum reddere vxori peten- 
+       <lb ed="#B" n="9"/>ti, aut petere illud ab ipsa. Alia vero tria erant specialiter circa sacramentum mrimonii. 
+       <lb ed="#B" n="10"/>
+      </p>
+      <p xml:id="n3av8a-c1e2273-d1e115">
+       CIRca primum arguitur quod sic, quia illud non est prohibitum. 
+      </p>
+      <p xml:id="n3av8a-c1e2273-d1e118">
+       IN contrarium est quod sacer ordo  
+       <lb ed="#B" n="11"/>in continendo comparatur voto castitatis, quare cum post votum castitatis non possit illi 
+       <lb ed="#B" n="12"/>debitum reddere, aut ab ea petere, nec potest post ordinem sacrum assumptum. 
+      </p>
+      <p xml:id="n3av8a-c1e2273-d1e125">
+       DIcendum quod in hac quaestione &amp; in  
+       <lb ed="#B" n="13"/>consimilibus est aliquid considerandum quod pertinet ad naturam matrimonii, &amp; similiter sacramenti ordis, inquantum pertinent 
+       <lb ed="#B" n="14"/>adius diuinum &amp; institutionem Christi, quid per se pertinet ad considerationem theologi, &amp; aliquid quod pertinet ad eius. 
+       <lb ed="#B" n="15"/>accidentalem obseruantiam, inquantum pertinet ad ius humanum &amp; hominis puri institutionem, quod per se pertinet 
+       <lb ed="#B" n="16"/>ad considerationem canonistae. Quantum quidem est ex natura matrimonii secundum quod est institutum a Christo, nulla est 
+       <lb ed="#B" n="17"/>repugnantia actus mrimonialis post ordies sacros susceptos, neque ipsius ordinis suscipiendi post mii 
+       <lb ed="#B" n="18"/>monium iam contractum. Et ideo talis quantum est ex natura institutionis matrimonii a Christo, posset debi 
+       <lb ed="#B" n="19"/>tum reddere &amp; petere. Si ergo in aliquo sit impedimentum ne possit reddere, aut petere, hoc prouenit ex ali 
+       <lb ed="#B" n="20"/>qua institutione ecclesiae. Circa constitutionem autem ecclesiae sciendum quod quousque ecclesia circa aliquid aliqua 
+       <lb ed="#B" n="21"/>statuat, vtendum est eo secundum modum quo permittit vti eo ius comune diuinum. Cum autem in casu proposito nihil ecclesia 
+       <lb ed="#B" n="22"/>statuit nisi quod castitatis obseruantia ordinibus sit annexa: non autem quod eorum susceptio separet matrimo- 
+       <lb ed="#B" n="23"/>nium prius contractum: sed per carnalem copulam non consummatum: sicut statuit hoc de religionis ingressu: 
+       <lb ed="#B" n="24"/>ideo tenendum quod talium matrimonium non separatur per ordinum sequentem susceptionem, &amp; stante matrimonio mu 
+       <lb ed="#B" n="25"/>lier per viri factum non debet suo iure priuari. ldeo dico quod tenetur aut religionem intrare vt sit absolutus 
+       <lb ed="#B" n="26"/>a muliere, &amp; ipsa poterit alteri nubere, aut tenetur debitum reddere mulieri petenti. quia non potest ei obli 
+       <lb ed="#B" n="27"/>gatio viri ad castitatem per ordinum susceptionem in aliquo derogare. Nisi forte ei possit obiicere forni 
+       <lb ed="#B" n="28"/>cationem carnalem, aut spiritualem. Sed quia voluntarie ordinibus susceptis se secundum statutum eccle 
+       <lb ed="#B" n="29"/>siae obseruantiae castitatis obligauit, ideo quantum est ex se: ipsam custodire debet, &amp; non petere debitum  
+       <lb ed="#B" n="30"/>ab vxore. 
+      </p>
+      <p xml:id="n3av8a-c1e2273-d1e168">
+       PER iam dicta patet responsio ad argumentum in oppositum: quod inquantum est ex parte viri 
+       <lb ed="#B" n="31"/>ordo comparatur voto, vt tantum teneatur custodire castitatem propter statutum annexum susceptioni or 
+       <lb ed="#B" n="32"/>dinum, quantum propter votum solenne. Quantum autem est ex parte mulieris &amp; substantiae 
+       <lb ed="#B" n="33"/>matrimonii, non est verum. quia circa ordinis susceptionem nuilum est statutum ad dissoluendum 
+       <lb ed="#B" n="34"/>matrimonium: sicut est circa votum, non quodcunque, sed quod sit per religionis ingressum. Quantumcumque  
+       <lb ed="#B" n="35"/>enim solenniter voueret sine religionis ingressu, cum circa illud nullum sit statutum de matrimonio sol- 
+       <lb ed="#B" n="36"/>uendo per ipsum, sicut neque circa ordines, nullo modo impediret quin deberet ius suum reddere mu 
+       <lb ed="#B" n="37"/>lieri petenti, licet non petere ab ea, quemadmodum dictum est de ordine.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

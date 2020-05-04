@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 24</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 24</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="83-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1222">
+      <head xml:id="n3av8a-c1e1222-Hd1e96">Quaestio 24</head>
+      <p xml:id="n3av8a-c1e1222-d1e99">
+       <lb ed="#B" n="31"/>SEquuntur pertinentia ad commissionem peccati proprii. &amp; erant tria. Vnum de 
+       <lb ed="#B" n="32"/>peccato quod videtur commissum ex praenuntiatione diuina. Secundum de eo 
+       <lb ed="#B" n="33"/>quod videtur conmissum ex pietate &amp; misericordia. Tertium de eo quod videtur 
+       <lb ed="#B" n="34"/>acommissum ex ebrietate &amp; ignorantia. PRImum erat. Vtrum Petrus potuit 
+       <lb ed="#B" n="35"/>Anon negare Christum, postquam dixit ei: priusquam gallus cantet, ter me negabis. Se- 
+       <lb ed="#B" n="36"/>cundum. Vtrum liceat mentiri causa humilitatis. Tertium. Vtrum commit 
+       <lb ed="#B" n="37"/>tens homicidium in ebrietate, peccet. 
+      </p>
+      <p xml:id="n3av8a-c1e1222-d1e117">
+       CIRca primum arguitur quod Petrus non  
+       <lb ed="#B" n="38"/>potuit Christum non negare postquam ei dixit, ter me negabis. Quia veritas ipsa non potuit falli. Chri 
+       <lb ed="#B" n="39"/>stus ipsa veritas est. Ioan. decimoquarto. Ego sum via veritas &amp; vita. falleretur autem in eo quod  
+       <lb ed="#B" n="40"/>praedixit, si Petrus non negasset ipsum: quod potuit fecisse si potuisset eum non negasse. ergo &amp;c. 
+       <lb ed="#B" n="41"/>
+      </p>
+      <p xml:id="n3av8a-c1e1222-d1e128">
+       CONtra. qui facit quod non potest non facere, in eo non peccat. si ergo Petrus non potuit non negare 
+       <lb ed="#B" n="42"/>non peccauit in negando. consequens falsum est. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1222-d1e133">
+       DIcendum quod difficultas huius quaestio 
+       <lb ed="#B" n="43"/>nis eadem est cum difficultate quaestionis de praedestinatione: vtrum praedestinatus potest danmna-  
+       <lb ed="#B" n="44"/>ri. Et est distinguendum vtrobique de potentia: quod ipsa potentia ad actum aliquem exercendum po- 
+       <lb ed="#B" n="45"/>test comparari dupliciter. Vno modo secundum respectum ad actum simplicem &amp; praecisum. Alio 
+       <lb ed="#B" n="46"/>modo secundum respectum ad actum vnum: vt habet ordinem ad aliquem alium actum. verbi gra 
+       <lb ed="#B" n="47"/>tia, dicitur Sedentem ambulare est possibile. Ista multiplex est secundum <name ref="#Aristotle">philosophum</name> in elenchis. 
+       <lb ed="#B" n="48"/>quia potest esse diuisa: vt ly possibile determinet actum ambulandi secundum se &amp; absolute vt sepa 
+       <lb ed="#B" n="49"/>ratus est ab actu sedendi. &amp; sic est vera sub hoc sensu: qui nunc sedet habet potestatem vt aliquando  
+       <lb ed="#B" n="50"/>ambulet. Vel potest esse composita: vt ly possibile determinet actum ambulandi vt coniunctum actui sedendi.  
+       <lb ed="#B" n="51"/>sic est falsa sub hoc sensu: aliquis habet potestatem vt sedendo ambulet. Dico igitur ad propositam quaestionem de ne- 
+       <lb ed="#B" n="52"/>gatione Petri secundum quod dicendum est ad quaestionem de praedestinatione: quod potentia respectu actus negandi 
+       <!--207.xml-->
+       <pb ed="#B" n="83-v"/>
+       <lb ed="#B" n="1"/>potest considerari vt dicit respectum ad ipsum actum negandi praecise &amp; absolute: vel secundum 
+       <lb ed="#B" n="2"/>quod dicit respectum ad ipsum vt ordinem quendam habet ad actum praenuntiationis Christi. Sl pri 
+       <lb ed="#B" n="3"/>mo modo, dicendum simpliciter quod Petrus potuit post illam Christi praenuntiationem libere non negare 
+       <lb ed="#B" n="4"/>Christum: sicut potuisset si Christus illud non praenuntiasset. Quia Christi praenuntiatio nullam  
+       <lb ed="#B" n="5"/>necessitatem vel inclinationem omnino posuit in Petri voluntate ad ipsum negandum. Sl secundo modo  
+       <lb ed="#B" n="6"/>hoc similiter contingit intelligi dupliciter. Quoniam potentia negandi potest considerari secundum quod 
+       <lb ed="#B" n="7"/>dicit respectum ad ipsum actum negandi: vt ordinem quendam habet ad actum praenuntiationis Chri 
+       <lb ed="#B" n="8"/>sti dupliciter: vel inquantum actus ille praenuntiationis Christi consideratur in se &amp; absolute vt actus 
+       <lb ed="#B" n="9"/>est: vel sub respectu quodam ad possibilitatem sui oppositi: secundum quod Christus potuit non prae- 
+       <lb ed="#B" n="10"/>nuntiasse de negatione Petri id quod ipse praenuntiauit. Si primo modo, sic dicendum quod Petrus post 
+       <lb ed="#B" n="11"/>praenuntiationem illam factam a Christo non potuit non negare Christum. quoniam non potuerunt illa 
+       <lb ed="#B" n="12"/>simul stare: quod Christus praenuntiasset Petrum negaturum se, &amp; quod tamen ipse omnino non negasset. 
+       <lb ed="#B" n="13"/>tunc enim Christus falleretur vt procedit obiectio prima. Praenuntiatio tamen illa nullo modo fuit 
+       <lb ed="#B" n="14"/>causa negationis Petri: nec Petro aliquam necessitatem negandi imposuit. verbi gratia, in simili, si 
+       <lb ed="#B" n="15"/>ego videam aliquem currentem non est possibile ipsum non currere: ita quod omnino necessitatur stan 
+       <lb ed="#B" n="16"/>te actu videndi quo eum video, currere: &amp; tamen visio mea nihil facit ad hoc quod ipse currat: neque im 
+       <lb ed="#B" n="17"/>pedit quin possit dimittere actum currendi, &amp; cessare ab ipso. Si secundo modo, sic dicendum vt prius 
+       <lb ed="#B" n="18"/>quod Petrus simpliciter &amp; absolute potuit non negare Christum etiam postquam ipse eum negaturum prae- 
+       <lb ed="#B" n="19"/>nuntiauit. quia &amp; ipse Christus illud quod de negando ipsum praenuntiauit simpliciter, libere &amp; ab  
+       <lb ed="#B" n="20"/>solute potuit non praenuntiasse. Vnde nisi in isto tertio modo &amp; primo praedicto habuisset po- 
+       <lb ed="#B" n="21"/>tentiam non negandi Christum postquam erat praenuntiatum, sequeretur quod de necessitate eum nega 
+       <lb ed="#B" n="22"/>uit: nec peccauit vt procedit secundum obiectum. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 14</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 14</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="494-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4833">
+       <head xml:id="n3av8a-c1e4833-Hd1e96">Quaestio 14</head>
+       <p xml:id="n3av8a-c1e4833-d1e99">
+        <lb ed="#B" n="31"/>Equuntur quaesita pertinentia ad homines fideles pro statu huius vitae. vbi quae  
+       <lb ed="#B" n="32"/>rebatur vnicum pertinens ad habitum virtutis: vtrum. scilicet prudentia possit generari si 
+       <lb ed="#B" n="33"/>ne generatione virtutis moralis. Et plura alia pertinentia ad exercitium actus. 
+       <lb ed="#B" n="34"/>
+      </p>
+      <p xml:id="n3av8a-c1e4833-d1e110">
+       CIRca illud vnicum arguitur quod prudentia possit generari fine virtute morali: quia 
+       <lb ed="#B" n="35"/>dictante recta ratione aliquid faciendum: voluntas potest non eligere illud cum ef- 
+       <lb ed="#B" n="36"/>fectum: &amp; qua ratione hoc potest fieri semel ex parte intellectus, &amp; similiter ex parte 
+       <lb ed="#B" n="37"/>voiuntatis: eadem ratione &amp; pluries. sed hoc faciendo generatur prudentia in ratione sine genera- 
+       <lb ed="#B" n="38"/>tione virtutis moralis in voluntate: quia in ratione conseruatur generatiuum virtutis: in volun- 
+       <lb ed="#B" n="39"/>tate vero generatiuum vitii. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4833-d1e123">
+       CONtra. si sic esset, tunc virtutes non essent comnexae cum pru 
+       <lb ed="#B" n="40"/>dentia: quod est contra philosophum. vii. Ethicorum. Sequeretur etiam quod essent contraria in eodem: scilicet vitium in vo 
+       <lb ed="#B" n="41"/>luntate: quod non remouetur vno actum: &amp; prudentia generata fine morali virtute. 
+      </p>
+      <p xml:id="n3av8a-c1e4833-d1e130">
+       DIco quod duplex est 
+       <lb ed="#B" n="42"/>prudentia in hominis intellectu practico. Vna naturalis: quae est origo alterius &amp; principium acquiren 
+       <lb ed="#B" n="43"/>di illam. Alia vero acquisita. Prudentia illa naturalis est naturale iudicatorium circa operabilia in in  
+       <lb ed="#B" n="44"/>tellectu practico: sicut est naturale iudicatorium circa speculabilia in intellectu speculatiuo, quod  
+       <lb ed="#B" n="45"/>est quaedam speculatiua naturalis. de qua dicit Augustinus. x. de trinitate in principio. Nisi breui 
+       <lb ed="#B" n="46"/>ter impressam in animo cuiusque doctrinae haberemus notionem, nullo ad eam discendam studio 
+       <lb ed="#B" n="47"/>flagraremus: quia rem omnino incognitam amare nullus potest omnino. &amp; <name ref="#Aristotle">philosophous</name> dicit. ix, me 
+       <lb ed="#B" n="48"/>taphysicae. Necesse est vt addiscens habeat aliquid de cognitione: quia non mouetur aliquid ad aliquae ni 
+       <lb ed="#B" n="49"/>si habeat aliquid in se de eo ad quod mouetur. Vbi dicit Commentator id est omne quod generatur &amp; 
+       <lb ed="#B" n="50"/>sit aliquid, impossibile est hoc fieri nisi habeat aliquid naturaliter ex eo quod habebit in postremo. 
+       <lb ed="#B" n="51"/>verbi gratia: quoniam citharizando cithazcedi simus: &amp; impossibile est vt citharizet aliquis nisi ha 
+       <lb ed="#B" n="52"/>beat aliquid de arte citharizandi. Et ideo asinus non addiscit citharizare: nec homo qui non est na-  
+       <lb ed="#B" n="53"/>tus citharizare. De prudentia autem naturali circa operabilia, dicit Hieronymus in epistola ad Demetriadem. 
+       <lb ed="#B" n="54"/>Bonum generaliter cunctis institutum est. Est enim in animis nnis naturalis quaedam, vt ita dixerim, sctintas: quae velut 
+       <!--1028.xml-->
+       <pb ed="#B" n="494-r"/>
+        <lb ed="#B" n="1"/>in arce animi praesidens exercet boni malique iudicium: &amp; vt honestis rectisque actibus fauet, ita finistra quae  
+       <lb ed="#B" n="2"/>que opera condemnat. Et sicut se habet in hoc ex parte intellectus quod in ipso sunt quaedam seminaria 
+       <lb ed="#B" n="3"/>scientiarum: sic se habet ex parte voluntatis quod in ipsa sunt quaedam seminaria moralium virtutum: quia  
+       <lb ed="#B" n="4"/>vt iam dictum est, aliter impossibile esset vt ad ipsas acquirendas moueretur. Dicta autem prudentia natu-  
+       <lb ed="#B" n="5"/>rali intellectus practicus ab initio primitiuo operis determinat ea quae sunt ad finem: sicut voluntas 
+       <lb ed="#B" n="6"/>dictis principiis seminalibus virtutum moralium determinat &amp; praestituit ipsum finem. Cumque autem volum 
+       <lb ed="#B" n="7"/>tas ab initio praestituerit finem: &amp; intellectus practicus id quod est ad finem: &amp; hoc ante operis inchoationem:  
+       <lb ed="#B" n="8"/>tunc voluntas incipiendo operari incipit velle ic quod est ad finem: &amp; operando illud tendere in finem. Sic 
+       <lb ed="#B" n="9"/>autem operante voluntate incipit generari virtus moralis in voluntate: &amp; incipit intellectus practicus ex 
+       <lb ed="#B" n="10"/>opere voluntatis experiri in singularibus operabilia: qualiter possint &amp; debeant operari &amp; dirigi in fi 
+       <lb ed="#B" n="11"/>nem: &amp; statim incipit generari prudentia practica in intellectum: &amp; tunc intellectus per id quod naturali- 
+       <lb ed="#B" n="12"/>ter sibi est insitum simul, &amp; per id quod sibi ex primo actu est acquisitum, praestituit ad operandum ad finem: &amp; vo 
+       <lb ed="#B" n="13"/>luntas illud eligit &amp; operatur vt prius: &amp; augetur virtus moralis in volutate &amp; prudentia in intellectum: &amp; 
+       <lb ed="#B" n="14"/>sic deinceps vsque ad perfectionem habituum. Et ideo dico quod mixtim generatur virtus moralis cum pru- 
+       <lb ed="#B" n="15"/>dentia practica, quae vere practica est dicenda: ita quod vna earum nullo modo sine altera generari potest: &amp; 
+       <lb ed="#B" n="16"/>secundum rationem eiusdem mensurae: vt quantum quisque acquirit de virtute morali, tantum acquirnt &amp; de 
+       <lb ed="#B" n="17"/>prudentia. &amp; per hoc necesse est omnes virtutes in prudentia esse comnexas: secundum quod hoc alias in quaestio 
+       <lb ed="#B" n="18"/>ne quadam de virtutum connexione latius declarauimus, quinto Quolibet quaestione. xvi. &amp;. xvii. &amp; se 
+       <lb ed="#B" n="19"/>cundum hoc bene procedit prima pars rationis ad secundam partem quaestionis. 
+      </p>
+      <p xml:id="n3av8a-c1e4833-d1e210">
+       AD rationem in contrarium quod A 
+       <lb ed="#B" n="20"/>qua ratione semel recta ratione iudicante aliquid agendum voluntas potest illud non eligere, eadem ratione &amp; 
+       <lb ed="#B" n="21"/>pluries: Dico quod falsum est: quia cum primo eligit contra rectam rationem, inficitur vitio: a qua infectione vo 
+       <lb ed="#B" n="22"/>luntatis statim incipit obscurari ratio &amp; obliquari a sua rectitudine: &amp; sic incipit deficere a rectitu 
+       <lb ed="#B" n="23"/>dine iudicii gradatim &amp; interscalatim quousque voluntate in vitio obstinata ratio sit excaecata. Et vi 
+       <lb ed="#B" n="24"/>dentur talia bona simpliciter ad qualia voluntas est infecta: &amp; iudicat opposita principiorum in morali- 
+       <lb ed="#B" n="25"/>bus esse eligenda. dicente Grego, nono moral. super illud lob. Vir vanus in superbiam erigitur. Aleuibus 
+       <lb ed="#B" n="26"/>(inquit) malis incipiens cum ad grauiora peruenitur: vanitas mentem obnubilat: iniquitas caecat, quia vt di 
+       <lb ed="#B" n="27"/>cit libro. xi. moralium, iuxta mensuram vniuscuiusque peccati, intelligentiae caecitas generatur. Quia assumitur A 
+       <lb ed="#B" n="28"/>in secunda parte rationis in contrarium: quod nisi simul generarentur virtus moralis &amp; prudentia, essent si- 
+       <lb ed="#B" n="29"/>mul contraria virtus &amp; vitium in eodem: Dico quod reuera simul generantur: sed hoc potest intelligi duplici o 
+       <lb ed="#B" n="30"/>ter. Vno modo sic quod in primo actu quo intellectus experitur operanda generetur prudentia quo ad sub- 
+       <lb ed="#B" n="31"/>stantiam: licet sub ratione incompletissima: &amp; in primo actu voluntatis similiter moralis virtus sub 
+       <lb ed="#B" n="32"/>ratione dispositionis incompletissimae. Alio modo sic quod nihil virtutis quod natum est fieri dispositio 
+       <lb ed="#B" n="33"/>vel habitus generatur in primis actibus: sed solummod dispositio aliqua, quae tamen non est nata fieri habi 
+       <lb ed="#B" n="34"/>tus, quae est difficultatis ad bonum amotio, quae est annexa habitui vitioso. Quae cum sufficienter fue 
+       <lb ed="#B" n="35"/>rit amota &amp; subiectum per hoc factum est quasi materia: quae est necessitas ad vitii corruptionem &amp; virtu- 
+       <lb ed="#B" n="36"/>tis generationem: tunc primo generantur simul prudentia &amp; virtus moralis. Sed si ita est, vt dicitur in isto 
+       <lb ed="#B" n="37"/>secundo modo, vera actio per se terminaretur non ad aliquid positiuum sed solum ad priuatiuum: quid  
+       <lb ed="#B" n="38"/>est contra naturam rei,. quia semper agens &amp; patiens etsi sint in principio contraria, in fine tamen sunt similia: &amp; 
+       <lb ed="#B" n="39"/>ideo quantum amouetur de contrario, &amp; terminatur actio ad aliquid priuatiuum: tantum necesse est vt generetur 
+       <lb ed="#B" n="40"/>de simili: &amp; terminatur ad aliquid positiuum: quod etsi illud non sit forma principaliter generanda, est tamen ali 
+       <lb ed="#B" n="41"/>qua dispositio positiua manens cum illa: vt est caliditas quando generatur de aqua ignis: ita quod in tali trasmu 
+       <lb ed="#B" n="42"/>tatione terminatur actio per se ad positiuum: per accidens autem ad priuatiuum. &amp; sicut hoc contingit in  
+       <lb ed="#B" n="43"/>naturalibus: sic &amp; in voluntariis. Sed in generatione habituum non est dare aliquid positiuum genera- 
+       <lb ed="#B" n="44"/>ri per quid cum amotione contrarii subiectum fiat quasi materia quae est necessitas ad habitum, nisi ipsam  
+       <lb ed="#B" n="45"/>dispositionem quae nata est fieri habitus. ergo &amp;c. Quod plane patet per hoc: quod in hominibus in statu 
+       <lb ed="#B" n="46"/>innocentiae habitus fuissent generati consimiliter secundum modos agendi intellectus &amp; volunta- 
+       <lb ed="#B" n="47"/>tis licet ibi expeditius: &amp; tamen ibi non fuisset omnino aliqua difficultas ex vitio amouenda. Dico ergo quod  
+       <lb ed="#B" n="48"/>secundum quod alias determinaui, in primo actu generationis habitus generatur id quod natum est fieri habi 
+       <lb ed="#B" n="49"/>tus completus per augmentum ex cunctis actibus sequentibus. Et quid assumitar: quod vitium non remoue 
+       <lb ed="#B" n="50"/>tur vno actu: verum est. attamen remittitur secundum modum eius: &amp; id quod natum est fieri habitus ge- 
+       <lb ed="#B" n="51"/>neratur &amp; augmentatur. Et quod ex hoc concluditur: quod tunc contraria simul sunt in eodem: Dico quod hoc 
+       <lb ed="#B" n="52"/>est necessarium in omni generatione &amp; corruptione formarum recipientium magis &amp; minus: citra tamen 
+       <lb ed="#B" n="53"/>ipsorum excellentias in quibus sese non compatiuntur: vt dictum est supra. citra enim suas excellem 
+       <lb ed="#B" n="54"/>tias omnia talia sese bene compatiuntur.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

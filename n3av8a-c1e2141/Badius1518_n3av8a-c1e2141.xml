@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 28</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 28</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="83-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2141">
+       <head xml:id="n3av8a-c1e2141-Hd1e96">Quaestio 28</head>
+       <p xml:id="n3av8a-c1e2141-d1e99">
+       <!--454.xml-->
+        <pb ed="#B" n="83-v"/>
+        <lb ed="#B" n="1"/>SEquuntur quaesita de actibus voluntariis in speciali. Vbi primo quaerebatur vnum  
+       <lb ed="#B" n="2"/>de actibus interioribus scilicet de voto: Vtrum circa votum continentiae solennizatum per &amp; 
+       <lb ed="#B" n="3"/>professionem vel religionis ingressum cadat dispensatio. Deinde quaedam alia de 
+       <lb ed="#B" n="4"/>actibus exterioribus. 
+      </p>
+      <p xml:id="n3av8a-c1e2141-d1e115">
+       CIRca primum arguitur quod non quia extra de sta, mo. &amp; A 
+       <lb ed="#B" n="5"/>can. reg. Cum ad monasterium. dte quod abdicatio proprietatis sicut &amp; custodia ca 
+       <lb ed="#B" n="6"/>stitatis a deo annexa est regulae monachali vt nec summus pontifex contra eam 
+       <lb ed="#B" n="7"/>possit licentiam indulgere. 
+      </p>
+      <p xml:id="n3av8a-c1e2141-d1e124">
+       CONtra. in simili dispensatur scilicet in voto pauperta- 
+       <lb ed="#B" n="8"/>tis &amp; obedientiae: cum multi post professionem ad episcopatus assumantur. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2141-d1e129">
+       HIC sunt opi- 
+       <lb ed="#B" n="9"/>niones. Super decretalem enim inductam dicit glossator. In his duobus: scilicet in abdicatione proprie 
+       <lb ed="#B" n="10"/>tatis &amp; custodia castitatis papa dispensare non potest: quia nuiium inuenitur aequale bonum in quo  
+       <lb ed="#B" n="11"/>possit commutatio fieri. Iuxta illud Ecclesiasti. xxvi. Omnis ponderatio non est digna animae conti 
+       <lb ed="#B" n="12"/>nentis. Ratio ista falsum supponit &amp; ex parte rei secundum se &amp; absolute, &amp; ad propositum. Primo 
+       <lb ed="#B" n="13"/>supponit quod non sit maius bonum quam continentia aut abdicatio proprietatis: quod falsum est. Immo ora- 
+       <lb ed="#B" n="14"/>tio, contemplatio, deuotio praetiosiora sunt: quia nec fine ipsis &amp; consimilibus valeret continentia cor 
+       <lb ed="#B" n="15"/>poralis. Secundo supponit falsum ad propositum: scilicet quod non potest recompensari. Si enim hoc verum esset: 
+       <lb ed="#B" n="16"/>nec in eo deberet nec posset papa de iure dispensare, quoniam non habet locum dispensatio: vbi locum non habet re 
+       <lb ed="#B" n="17"/>compensatio. Aliter enim secundum dictum Bernar, non esset dispensatio sed dissipatio. Illud autem bonum pro tempo- 
+       <lb ed="#B" n="18"/>re &amp; loco recompensari potest dupliciter, secundum duos modos recompensandi. Vno enim modo  
+       <lb ed="#B" n="19"/>recompensatur bonum quod amittitur per euitationem mali: quo maius bonum ne amittatur praeseruatur 
+       <lb ed="#B" n="20"/>quemadmodum cum proiiciuntur merces in mare vt saluetur vita. Alio modo per adeptionem ma-  
+       <lb ed="#B" n="21"/>ioris boni: quemadmodum dat quis denarium argenteum vt recipiat aureum. Nec restat in ipsa recom 
+       <lb ed="#B" n="22"/>pensatione facienda: vtrum principaliter cedat in vsum personae priuatae: aut reipublicae: quia in bo 
+       <lb ed="#B" n="23"/>no publico consistit bonum vnuscuiusque. immo non potest cedere in vsum &amp; in bonum reipublicae 
+       <lb ed="#B" n="24"/>quin cedat in maius bonum personae priuatae cum qua dispensatur, quam sit bonum quod amittitur: licet dispem 
+       <lb ed="#B" n="25"/>sans ad hoc non debet principaliter aspicere, sed ad bonum publicum. Verbi gra: in primo enim modo dispe 
+       <lb ed="#B" n="26"/>sandi recompensatur bonum castitatis solenniter professae quando ne fiat seditio in ecclesia regibus 
+       <lb ed="#B" n="27"/>adinuicem sese debellantibus &amp; rempub. &amp; ecclesiam deuastantibus virgo professa solenniter filia 
+       <lb ed="#B" n="28"/>vnius alteri datur in vxorem: vt per hoc pax &amp; concordia habeatur. Similiter in secundo modo quando  
+       <lb ed="#B" n="29"/>virgo professa datur regi infideli in vxorem si huius occasione conuertatur ipse &amp; populus suus ad  
+       <lb ed="#B" n="30"/>fidem: aliter non conuertendus. In quo non solum fit abundans recompensatio reipublicae sicut patet 
+       <lb ed="#B" n="31"/>sed etiam pro continentia sua ipsi personae cum qua dispensatur. Plus enim habet de merito in hoc 
+       <lb ed="#B" n="32"/>praelato superiori ecclesiae obediendo, &amp; bonum reipublicae obedienter procurando: quam continentiam 
+       <lb ed="#B" n="33"/>priuatam quantuncumque deuote custodiendo. immo si se in hoc ecclesiae opponeret, meritum castita- 
+       <lb ed="#B" n="34"/>tis amitteret. dicente <name ref="#Augustine">Augustinus</name> in sermone de obedientia. Vna obedientia plus valet quam omnes virtu 
+       <lb ed="#B" n="35"/>tes. leiunium aut continentia nisi diligenter attenderis superbiam tibi facit. Multa ergo sunt bona 
+       <lb ed="#B" n="36"/>maiora quam continentia: in quae potest fieri eius commutatio &amp; recompensatio. &amp; si non esset aliud, suf- 
+       <lb ed="#B" n="37"/>ficeret bonum &amp; meritum obedientiae. Cum ergo caetera bona vt oratio, deuotio, &amp; contemplatio 
+       <lb ed="#B" n="38"/>recipiant dispensationem quantumcunque sint sub voto: vt quis contemplatiua vita dimissa transfe- 
+       <lb ed="#B" n="39"/>rat se ad actiuam: recipiet ergo &amp; continentia. Vnde in illo Ecclesiasti. Omnis poesderatio &amp;c. sumitur 
+       <lb ed="#B" n="40"/>continentia large pro omni virtute comparata ad temporalia bona quibus non potest recompensa 
+       <lb ed="#B" n="41"/>ri. vnde super illud Ponderatio glos. inter. Opes scilicet mundi &amp; sapientia saecularis. &amp; super illud Com 
+       <lb ed="#B" n="42"/>tinentis glos. inter. Quae Christo fuerit in spirituali scientia iuncta, quia sapientia dei animas ele- 
+       <lb ed="#B" n="43"/>ctorum imbuit: &amp; tribuit eis custodiam oris: et efficaciam operis: nec eos a se declinare permittit 
+       <lb ed="#B" n="44"/>Vnde cum virgo post votum ex dispensatione &amp; obedientia nubit, non contrarium vitium, scilicet incon 
+       <lb ed="#B" n="45"/>tinentiae incurrit: sed vnam continentiam in aliam mutat: quae licet sit minor ex genere, maior ta- 
+       <lb ed="#B" n="46"/>men sit obedientiae connexione, quemadmodum maioris meriti est ex genere ieiunare quam carnes come- 
+       <lb ed="#B" n="47"/>dere. Neutrum tamen pertinet ad vitium inabstinentiae: &amp; illud quod minoris meriti est in se, ma- 
+       <lb ed="#B" n="48"/>ioris potest fieri ex dispensatione &amp; obedientiae opportunitate. Per quod patet quod non habet efficaciam 
+       <lb ed="#B" n="49"/>illud quod alii dicunt: scilicet quod semel sanctifictatum deo non potest in alios vsus commutari, vt di-  
+       <lb ed="#B" n="50"/>citur Leuiti. vlt. &amp; non potest fieri vt sanctificatum sanctificationem amittat etiam in rebus inani  
+       <lb ed="#B" n="51"/>matis: puta in calice si maneret integer. Solennitas autem voti consistit in quadam consecratione  
+       <lb ed="#B" n="52"/>qua anima deo sanctificatur. Non ergo potest non esse sanctificata: &amp; ita neque deo esse per votum non 
+       <lb ed="#B" n="53"/>obligata: sicut semel factus sacerdos non potest non esse sacerdos. Non ergo potest papa facere vt 
+       <lb ed="#B" n="54"/>sit non sanctificata: neque potest facere quod religiosa sit non religiosa. Vt sic sequatur quod nec possit in vo- 
+       <!--455.xml-->
+       <pb ed="#B" n="207-v"/>
+        <lb ed="#B" n="1"/>to continentiae dispensare. &amp; hoc quando continentia est per se sub voto, vel essentialiter ei annexa 
+       <lb ed="#B" n="2"/>quid est sub voto. Secus autem est si sit accidentaliter annexa: quemadmodum est annexum ordini sa- 
+       <lb ed="#B" n="3"/>cro, scilicet ex statuto ecclesiae. In tali enim potest permanere sanctificatio fine continentia. Propter 
+       <lb ed="#B" n="4"/>quod in eo potest cadere continentia sub dispensatione: non autem in illa quae habet continentiam ex vo- 
+       <lb ed="#B" n="5"/>to principaliter vel ex essentiali connexione: quemadmodum habet religiosa professa. &amp; ideo non po- 
+       <lb ed="#B" n="6"/>test in ea dispensari vt nubat. 
+      </p>
+      <p xml:id="n3av8a-c1e2141-d1e253">
+       EST enim dicendum quod deo sanctificatum manens sanctificatum 
+       <lb ed="#B" n="7"/>non potest commutari per dispensationem in alios vsus: scilicet contrarios. Potest tamen commu- 
+       <lb ed="#B" n="8"/>tari in vsum magis proficuum in quo virtute saluat votum, nec soluitur: quemadmodum si ne- 
+       <lb ed="#B" n="9"/>cessitate vrgente lapides altaris in aliquem alium vsum magis proficuum dispensatiue conuerte- 
+       <lb ed="#B" n="10"/>rentur. Nec est in aliquo differentia siue essentialiter siue accidentaliter sub voto cadat, qualitercum- 
+       <lb ed="#B" n="11"/>que enim quis ad indifferentia se obligat siue voto, siue iuramento, siue facto, in omnibus intelligitur 
+       <lb ed="#B" n="12"/>excepta superioris auctoritas. vt extra de lureiurando. Venientes. Est autem aduertendum quod bonum 
+       <lb ed="#B" n="13"/>est conditio finis: ita quod nihil est simpliciter &amp; per se bonum nisi omnium finis. Iuxta illud Christi in  
+       <lb ed="#B" n="14"/>euangelio Matth. Nemo bonus nisi solus deus: alia autem nec dicenda sunt bona nisi ex ordine ad  
+       <lb ed="#B" n="15"/>illud bonum vt ad finem. Econuerso autem malum non est simpliciter &amp; per se (Dico moris de quo  
+       <lb ed="#B" n="16"/>ad praesens loquimur) nisi quia auertit aut retrahit ab illo fine cuius est cupiditas in creatura vo- 
+       <lb ed="#B" n="17"/>litiua vel praeferens bonum temporale quod est ad finem, per amorem, bono finis: cuius est cupiditas 
+       <lb ed="#B" n="18"/>mortalis quae a fine auertit: vel laxans amorem finis propter amorem temporalem: cuius est cupi- 
+       <lb ed="#B" n="19"/>ditas venialis a fine retrahens. In tali malo nulla cadit dispensatio nec dei, nec hominis. Sicut enim 
+       <lb ed="#B" n="20"/>deus in se peccare non potest: nec a se retrahi vel auerti: sic nec potest facere vt creaturam a se per 
+       <lb ed="#B" n="21"/>cupiditatem auerti vel retrahi liceat vt non peccet. Talia mala sunt quae pertinent ad strictam le- 
+       <lb ed="#B" n="22"/>gem naturae: &amp; propter quae cauenda &amp; contraria agenda sunt praecepta &amp; prohibita legis natu-  
+       <lb ed="#B" n="23"/>rae. Aliud vero est malum quod fragili voluntati creaturae maxime hominis post pecctatum de faci- 
+       <lb ed="#B" n="24"/>li est occasio mali simpliciter primo modo dicti: vt est vsus plurium rerum temporalium, &amp; quo ad  
+       <lb ed="#B" n="25"/>substantiam vsus, &amp; quo ad modum vtendi vel non vtendi. Super quo malo cauendo inducta sunt 
+       <lb ed="#B" n="26"/>statuta legis positiuae. Quorum quaedam sunt immediate instituta a deo: vt sunt ea quae pertinent ad  
+       <lb ed="#B" n="27"/>sacramenta, et siqua alia sunt quae pertinent ad credenda &amp; agenda. In talibus solus deus habet dispe 
+       <lb ed="#B" n="28"/>sare. Talia sunt mala quae pertinent ad legem diuinam: quae largo nomine pertinent ad legem natu-  
+       <lb ed="#B" n="29"/>rae, quia lex diuina explicat edicta legis naturae. 
+      </p>
+      <p xml:id="n3av8a-c1e2141-d1e305">
+       INstituta per hominem sunt illa quae pro loco &amp; 
+       <lb ed="#B" n="30"/>tempore &amp; circa personas expedit praecipi fieri vel prohiberi. consuli aut permitti. Quae licet ratione  
+       <lb ed="#B" n="31"/>circunstantiarum loci &amp; temporis &amp; personarum habeant reduci ad ius naturae: accidentalem tamen 
+       <lb ed="#B" n="32"/>ordinem habent ad ipsum, quia circunstantiae illae accidentales sunt &amp; variabiles. Vnde illa quae re- 
+       <lb ed="#B" n="33"/>ducuntur ad prima principia naturae habendo essentialem ordinem ad ipsa, simpliciter ad ius na-  
+       <lb ed="#B" n="34"/>turae pertinent, &amp; non ad ius positiuum. nisi quatenus replicantur in ipso iure positiuo ad statuto- 
+       <lb ed="#B" n="35"/>rum ipsius confirmationem. In omnibus talibus quae sunt proprie institutionis hominis, homo le 
+       <lb ed="#B" n="36"/>gis conditor potest dispensare: &amp; hoc ex causis contrariis eius propter quae edicta sunt condita: se- 
+       <lb ed="#B" n="37"/>cundum quod clarius exposuimus alias in quaestione de pluralitate praebendarum. Quia si maneant 
+       <lb ed="#B" n="38"/>eaedem circunstantiae ratione locorum, temporum, &amp; personarum, &amp; etiam cessantibus omnibus quae  
+       <lb ed="#B" n="39"/>iuste debent mouere legislatorem ad contrarium statuendum, aut dispensandum, nullo modo de 
+       <lb ed="#B" n="40"/>berent mutari neque statuto contrario neque dispensatione: quemadmodum ab initio nec debet sta- 
+       <lb ed="#B" n="41"/>tuere nisi quod iuxta circunstantias praedictas extantes recta ratione iudicatur esse statuendum. 
+       <lb ed="#B" n="42"/>Quod neque debet omitti a prudenti &amp; iusto legislatore ne statuatur: quamuis in libera potestate eius 
+       <lb ed="#B" n="43"/>sit statuere vel non statuere &amp; statuta reuocare vel non reuocare: ita quod non obligatur nisi sicut sta 
+       <lb ed="#B" n="44"/>tuta nulla dispensatione habita circa ea. Quia ergo omnia humana facta quae non sunt de gene 
+       <lb ed="#B" n="45"/>re suo contra legem naturae aut diuinae edicta, vt in continentia virginali viuere, vel in matri- 
+       <lb ed="#B" n="46"/>monio propria habere vel non habere &amp; caetera huiusmodi quae pertinent ad consilia legis natu  
+       <lb ed="#B" n="47"/>rae, &amp; quaecunque alia quo ad legem naturae &amp; diuinam sunt indifferentia vt fieri possint &amp; non  
+       <lb ed="#B" n="48"/>fieri: &amp; non sunt mala nisi quia aut lege humana sunt prohibita, aut ex voto vel iuramento sus 
+       <lb ed="#B" n="49"/>cepta: nec debent prohiberi nec ex voto vel iuramento suscipi nisi quia pro loco, &amp; tempore 
+       <lb ed="#B" n="50"/>et huiusmodi sunt occasio mali aut promotio boni vel simpliciter vel huic: idcirco dico quod cum 
+       <lb ed="#B" n="51"/>pro loco &amp; tempore &amp; huiusmoni sunt occasio mali &amp; impedimentum boni vel huic vel simpliciter 
+       <lb ed="#B" n="52"/>reipublicae: tunc non solum potest, sed debet in eis fieri dispensatio. Cum igitur votum quan-  
+       <!--456.xml-->
+       <pb ed="#B" n="208-r"/>
+        <lb ed="#B" n="1"/>tumcunque solenne &amp; quaecunque huiusmodi, sint de genere talium: dico quod occurrentibus causis dispensatio 
+       <lb ed="#B" n="2"/>nis in talibus, non solum potest superior legislator in eis dispensare: immo debet &amp; reuocare quic-  
+       <lb ed="#B" n="3"/>quid in contrarium actum est: &amp; ad hoc cogere si est opus. 
+      </p>
+      <p xml:id="n3av8a-c1e2141-d1e368">
+       AD illud quod dicit decretalis quod nec 
+       <lb ed="#B" n="4"/>summus pontifex possit licentiam indulgere. Dicendum quod illud secundum communem vsum lo- 
+       <lb ed="#B" n="5"/>quendi censetur impossibile ad quod homo non debet inclinari vt faciat nisi in summa necessitate: &amp; 
+       <lb ed="#B" n="6"/>cum summa difficultate: quemadmodum de assuetis ad mala dicitur quod bene agere non possunt, sic su 
+       <lb ed="#B" n="7"/>mitur hic. Et ideo dicit glossator. Non potestid iest non consueuit. Et ideo tales dispensationes debent ra- 
+       <lb ed="#B" n="8"/>rissime fieri &amp; cum difficultate: nec in consuetudinem deduci.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 36</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 36</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="149-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1754">
+       <head xml:id="n3av8a-c1e1754-Hd1e96">Quaestio 36</head>
+       <p xml:id="n3av8a-c1e1754-d1e99">
+        <lb ed="#B" n="32"/>lrca tertium arguitur quod species in sacramento altaris non nutriant: quia non sunt 
+       <lb ed="#B" n="33"/>substantiae. ex eisdem enim sumus &amp; nutrimur: vt dicitur secundo de generatione.  
+       <lb ed="#B" n="34"/>
+      </p>
+      <p xml:id="n3av8a-c1e1754-d1e108">
+       CONtra est experimentum quod species sacramenti nutriant. 
+      </p>
+      <p xml:id="n3av8a-c1e1754-d1e111">
+       OPORtet credere: 
+       <lb ed="#B" n="35"/>quod secundum quod dicitur hoc habet experimentum si in magna quantitate fieret con- 
+       <lb ed="#B" n="36"/>secratio. Et quod species illae huiusmodi virtutem habeant, hoc multum congruit aenigma 
+       <lb ed="#B" n="37"/>ti fidei: ne scilicet si nutrire non possent, experientia sensibilis doceret quod substantia quae  
+       <lb ed="#B" n="38"/>ibi prius erat, translata esset. Quod solummodo ex fide tenendum est. Non solum ergo credere, sed simplici 
+       <lb ed="#B" n="39"/>ter debemus ponere quod sic debet esse: quod scilicet species illae nutriant: ne carendo vi nutritiua fidei aenigma 
+       <lb ed="#B" n="40"/>detegerent. 
+      </p>
+      <p xml:id="n3av8a-c1e1754-d1e127">
+       SED quomodo nutriant, in hoc consistit difficultas tota. Et est manifestum quod secundum quod  
+       <lb ed="#B" n="41"/>concludit primum argumentum, non nutriunt naturaliter: quia non sunt nisi accidentia: &amp; illud quod augmen 
+       <lb ed="#B" n="42"/>tat &amp; nutrit debet esse in potentia tale secundum formam substantialem quale est in actu augmentabile &amp; 
+       <lb ed="#B" n="43"/>nutribile. Dicente <name ref="#Aristotle">philosopho</name> in primo de generatione: Secundum quod est potentia vtrumque: verbi gratia quan-  
+       <lb ed="#B" n="44"/>ta caro, auget. purum autem accidens ad formam substantialem in potentia non est. Et iterum. Forma quaecumque  
+       <lb ed="#B" n="45"/>ad formam non est in potentia: quia ipsa in se est actus quidam: sed quod est in potentia ad formam quancumque non 
+       <lb ed="#B" n="46"/>est nisi materia, vel habens in se maximam partem sui per ipsam materiam: sub speciebus autem illis non est 
+       <lb ed="#B" n="47"/>omnino materia: quia translata est vt fides tenet. 
+      </p>
+      <p xml:id="n3av8a-c1e1754-d1e149">
+       POnendum est ergo quod species illae nutriant: sed quod superna-  
+       <lb ed="#B" n="48"/>turaliter nutriant: ponendo scilicet quod diuinitus &amp; supernaturaliter a deo data sit eis eadem vis in agen- 
+       <lb ed="#B" n="49"/>do &amp; patiendo quam haberent verus panis &amp; verum vnum. Et ideo secundum illum eundem modum quo panis 
+       <lb ed="#B" n="50"/>&amp; vinum ponuntur nutrire, dicimus quod nutriunt illae species. 
+      </p>
+      <p xml:id="n3av8a-c1e1754-d1e158">
+       ET non restat videre nisi quomodo in speciebus illis 
+       <lb ed="#B" n="51"/>sit possibilitas recipiendi in se talem virtutem. In eis enim qua deus facit in rebus creatis supnaturaliter vel per ips- 
+       <lb ed="#B" n="52"/>sas, non restat videre nisi quomodo in ipsis possit fieri: aut per ipsas. deus enim in ipsis &amp; per ipsas potest facere quicquid  
+       <lb ed="#B" n="53"/>in ipsis vel per ipsas potest fieri, quid enim in ipsis vel per ipsas non potest fieri, hoc nec deus per ipsas vel in ipsis 
+       <lb ed="#B" n="54"/>potest facere. quia nec est fieri possibile occurrente contradictione. &amp; ideo illud defectui nullius poten- 
+       <!--338.xml-->
+       <pb ed="#B" n="149-r"/>
+        <lb ed="#B" n="1"/>tiae in deo debet ascribi. 
+      </p>
+      <p xml:id="n3av8a-c1e1754-d1e176">
+       CIRca modum igitur augmenti, &amp; per illud circa modum nutrimenti: quia simul fiunt 
+       <lb ed="#B" n="2"/>vt videbitur: sciendum quod sententia philosophi in primo de generatione est quod augmentum fit adueniente 
+       <lb ed="#B" n="3"/>aliquo. &amp; cum omne habens speciem in materia, &amp; materia est &amp; species: vt caro &amp; os: augmentum conue- 
+       <lb ed="#B" n="4"/>nit augmentato secundum speciem, non autem secundum materiam: &amp; illud quo augetur oportet esse illud in  
+       <lb ed="#B" n="5"/>potentia quid augetur: actum autem aliud. quo corrupto generatum est illud. Verbi gratia, corrupta forma 
+       <lb ed="#B" n="6"/>panis &amp; vini, &amp; vniuersaliter nutriti &amp; augmentati. Nec differt haec generatio a generatione vera: nisi 
+       <lb ed="#B" n="7"/>quia non est secundum se separatim, sed in alio. Cum enim est separatim secundum se, est solum generatio non nu 
+       <lb ed="#B" n="8"/>tritio neque augmentatio. Sed cum sit in alio, tunc non dicitur generatio: sed nutritio &amp; augmentatio 
+       <lb ed="#B" n="9"/>&amp; hoc secundum quod adueniens est in potentia vtrumque eorum quae sunt in eo cui aduenit scilicet quid secundum for 
+       <lb ed="#B" n="10"/>mam substantialem, &amp; quantum. Verbi gratia, caro quanta. nutrit enim secundum quod est caro in potentia: &amp; au 
+       <lb ed="#B" n="11"/>get secundum quod est in potentia quantum. Haec est in summa sententia philosophi vera sed occulta. 
+      </p>
+      <p xml:id="n3av8a-c1e1754-d1e200">
+       DIcit 
+       <lb ed="#B" n="12"/>tamen <name>Alexander</name>. Quia augmentum fiat secundum formam, &amp; non secundum materiam, inuentum fuit ab <name>Aristotele</name> non  
+       <lb ed="#B" n="13"/>per viam rationis probantis: sed quia pauciora ad hoc videbantur sequi inconvenientia. Et secundum suam 
+       <lb ed="#B" n="14"/>opinionem determinans modum augmenti, dicit quod materia quia est pars compositi, semper manens est in  
+       <lb ed="#B" n="15"/>re: nec vnquam secundum totum dissoluitur: quia aliter esset possibile formam separari: &amp; ipsa augmentatur &amp; 
+       <lb ed="#B" n="16"/>nutritur. Et ideo vt dicit, ad hoc quod fiant augmentum &amp; nutritio oportet quod in partibus augmentati &amp; nu- 
+       <lb ed="#B" n="17"/>triti sit humiditas dispersa: cum qua admiscetur cibus adueniens: &amp; quando mutatur in naturam illius hu  
+       <lb ed="#B" n="18"/>miditatis, augetur figura partis per augmentum illius humiditatis in omnibus partibus, &amp; diminuitur per eius 
+       <lb ed="#B" n="19"/>diminutionem, &amp; natura est quae conseruat formam illius partis hora augmenti. &amp; sumpsit hunc modum  
+       <lb ed="#B" n="20"/>ex eo quod dicit philosophus: quod oportet augmentum intelligere quemadmodum siquis mensurabit eadem 
+       <lb ed="#B" n="21"/>mensura aquam. ipsa enim mensura tunc se habet sicut pars membrum dictum secundum formam: &amp; aqua ex ipsa flu- 
+       <lb ed="#B" n="22"/>ens &amp; refluens sicut pars secundum materiam. Et sit mensura illa, vas de corio molli: cui si multum aquae  
+       <lb ed="#B" n="23"/>infundatur multum extenditur: &amp; quando aliquid effluit contrahitur. sic &amp; membra principalia &amp; for- 
+       <lb ed="#B" n="24"/>malia primo generata habent in se poros &amp; concauitates recipientes humores implentes illas: per quarum in  
+       <lb ed="#B" n="25"/>gressum diffunduntur formalia, &amp; egressum diminuuntur. Sed manifestum est quod in tali modo augmenti nihil 
+       <lb ed="#B" n="26"/>subintrat intra substantiam augmenti, nisi sicut in vas continens, &amp; sic nihil accrescit substantiae eius 
+       <lb ed="#B" n="27"/>neque quantitati realiter, nisi sicut corio cum modo extenditur, modo contrahitur, quod nec augmentum verum est, nec nutri 
+       <lb ed="#B" n="28"/>tio quam quarimus. 
+      </p>
+      <p xml:id="n3av8a-c1e1754-d1e246">
+       ET ideo dicendum secundum <name>Auic.</name> quod <name>Aristo.</name> dicens augmentum esse secundum formam, &amp; non secundum 
+       <lb ed="#B" n="29"/>materiam, non vult dicere formam augeri, secundum quod forma est: augmentum. n. est secundum magnitudinem, forma 
+       <lb ed="#B" n="30"/>autem est substantialis quaelitas: sed id quid augetur, non augetur secundum quod est quantum tantum: sed in eo quod est quantum habens 
+       <lb ed="#B" n="31"/>formam. Et est secundum Aristotelem augmentum in re augmentata secundum formam, non secundum materiam. Non quin  
+       <lb ed="#B" n="32"/>vtrumque simul secundum materiam &amp; formam extendatur tanquam subiectum augmenti: sed id quid augetur inquantum augetur.- 
+       <lb ed="#B" n="33"/>debet esse permanens. sed non permanet nisi per formam. Vnde non dixit <name>Aristoteles</name> quod augmentum est in materia 
+       <lb ed="#B" n="34"/>siue forma: vel econverso: sicut intellexit <name>Alexander</name>: sed quod in omnibus partibus fiat augmentum secundum for 
+       <lb ed="#B" n="35"/>mam non secundum materiam: quia partes in fluxu sunt secundum materiam: in permanentia autem secundum 
+       <lb ed="#B" n="36"/>formam. &amp; augmentum non est augmenti: nisi inquantum est permanens. Et cum hoc quid amplius est: 
+       <lb ed="#B" n="37"/>quia non est augmentum in aucto, nisi a virtute quam habet agendi in cibum, &amp; conuertendi ipsum &amp; vniendi 
+       <lb ed="#B" n="38"/>sibi: actio autem omnis a forma est &amp; pati a materia: ideo augmentum non est augmentum: nisi secundum actio- 
+       <lb ed="#B" n="39"/>nem suae formae. Et sic secundum vtrumque modum etsi auctum augetur secundum materiam &amp; secundum formam: proprie 
+       <lb ed="#B" n="40"/>tamen quod augetur in eo est forma non materia. Vnde vt dicit <name ref="#Augustine">Augustinus</name> si imaginamur vnam mensuram, quae  
+       <lb ed="#B" n="41"/>aliquando crescit per id quod intrat, &amp; aliquando diminuitur conseruando formam eius: recte imaginamur 
+       <lb ed="#B" n="42"/>dispositionem formae in suo cremento respectu materiae, quod si materia cresceret principaliter, aut corpus in  
+       <lb ed="#B" n="43"/>traret corpus, aut praeesset vacuum, &amp; esset augmentum per accumulationem: quia materia vt materia 
+       <lb ed="#B" n="44"/>nec ex se mansiua est nec actiua. 
+      </p>
+      <p xml:id="n3av8a-c1e1754-d1e299">
+       AD maiorem autem intellectum iam dictorum secundum <name ref="#Aristotle">philosophos</name> cir 
+       <lb ed="#B" n="45"/>ca augmentum &amp; nutritionem: sciendum quod pars formalis quae proprie dicitur augeri in augmento, habens 
+       <lb ed="#B" n="46"/>formam in materia sibi determinatam in quam formatur, sumptam ex humido radicali &amp; seminali, ex quo for 
+       <lb ed="#B" n="47"/>matur totum corpus physicum organicum, cuius actus &amp; perfectio est anima, cuius virtus est existens 
+       <lb ed="#B" n="48"/>in partibus siue membris: agit in humidum nutrimentale attractum &amp; diuisum in minutis foraminibus, 
+       <lb ed="#B" n="49"/>siue poris per omnes partes corporis. agit autem transmutando illam humiditatem a propria forma illam 
+       <lb ed="#B" n="50"/>corrumpendo, &amp; formam suam ei imprimendo: ita quod si materia humiditatis illius separata maneret &amp; 
+       <lb ed="#B" n="51"/>separatim reciperet formae agentis impressionem, esset vera generatio. Nunc autem quia materiam illam 
+       <lb ed="#B" n="52"/>vnit sua materiae, &amp; illi vnita subintrat formam illius praeexistentem: nutritio dicitur non generatio. vnde  
+       <lb ed="#B" n="53"/>quia humiditas illa in poris facta est necessitas: vel quasi necessitas: vt subintret formam membri, discin 
+       <lb ed="#B" n="54"/>ditur portio eius &amp; deriuatur ad genitalia vt formetur in prolem. portio autem residua propria forma 
+       <!--339.xml-->
+       <pb ed="#B" n="149-v"/>
+        <lb ed="#B" n="1"/>substantiali omnino expoliatur sine omni eductione alterius de potentia materiae. Sed in instanti illius 
+       <lb ed="#B" n="2"/>expoliationis materia illa vnitur materiae membri: &amp; in illa forma illius informatur: &amp; sic quasi mixtio quaedam sit ibi 
+       <lb ed="#B" n="3"/>cibi cum cibato. In qua etiam expoliatione formae substantialis expoliatur simul suo accidente, &amp; etiam quantitate  
+       <lb ed="#B" n="4"/>vsque ad potentiam, per quam habet fieri augmentatio absque omni accumulatione &amp; penetratione. Mate- 
+       <lb ed="#B" n="5"/>ria autem addita materiae cui aduenit, dat virtutem extensibilis maioris sub quantitate, manente aequali dem 
+       <lb ed="#B" n="6"/>sitate, quod requiritur ad verum augmentum materiae. &amp; sic materia illa adueniens inquantum est in potentia quam 
+       <lb ed="#B" n="7"/>ta, vt scilicet potens subintrare quantitatem materiae cui aduenit, auget: inquantum vero est in potentia caro po 
+       <lb ed="#B" n="8"/>tens subintrare formam carnis praecedentem, nutrit. 
+      </p>
+      <p xml:id="n3av8a-c1e1754-d1e349">
+       NONrestat ergo difficultas quo ad propositam quaestionem 
+       <lb ed="#B" n="9"/>nisi quod in speciebus non est materia quae est in potentia quid &amp; quantum (uvt dictum est) materiae augmentabilis. 
+       <lb ed="#B" n="10"/>Sed est dicendum quod species illae quo ad accidentia quae subsistunt in se miraculose, &amp; habent in se virtutem 
+       <lb ed="#B" n="11"/>nutriendi &amp; augmentandi: sicut habuisset eorum substantia: miraculose reducuntur in potentiam materiae illi 
+       <lb ed="#B" n="12"/>us: quemadmodum naturaliter fuissent reductae in illa sua materia in potentiam suae materiae, quae facta esset 
+       <lb ed="#B" n="13"/>vna materia cum materia nutriti. &amp; sic recipit materia illa per accidentia illa reducta in eius potentiam, idem 
+       <lb ed="#B" n="14"/>esse sub forma sua substantiali: vt per ipsam fiant augmentatio &amp; nutritio ad modum quo facta fuissent si 
+       <lb ed="#B" n="15"/>materia aliqua eidem vnita fuisset. 
+      </p>
+      <p xml:id="n3av8a-c1e1754-d1e367">
+       PER haec patent obiecta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

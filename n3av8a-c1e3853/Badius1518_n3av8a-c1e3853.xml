@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 20</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 20</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="388-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3853">
+       <head xml:id="n3av8a-c1e3853-Hd1e96">Quaestio 20</head>
+       <p xml:id="n3av8a-c1e3853-d1e99">
+        <lb ed="#B" n="44"/>CIrca secundum arguitur quod eleemosyna elargita existenti in peccato mortali ab illo qui similiter 
+       <lb ed="#B" n="45"/>est in peccato mortali, non proficit defuncto pro quo elargitur. quia datum non placet ex datquie 
+       <lb ed="#B" n="46"/>sed aut ex dantis animo aut recipientis. hic non placet ex animo alterius horum: quia nihil quid  
+       <lb ed="#B" n="47"/>sit ab animo existentis in mortali placet ratione anim. immo magis displicet. dicente Grego.  
+       <lb ed="#B" n="48"/>Cum is qui displicet ad intercedendum mittitur, irati animus ad deteriora prouocatur. ergo  
+       <lb ed="#B" n="49"/>&amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3853-d1e115">
+       CONtra. Omnis eleemosyna principaliter datur deo qui semper paratus est reddere: non 
+       <lb ed="#B" n="50"/>autem nisi illi pro quo datur. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3853-d1e120">
+       DIcendum quod secundum <name ref="#Augustine">Augustinus</name> uffragia non prosunt defunctis nisi qua-  
+       <lb ed="#B" n="51"/>tenus merebantur dum viuerent vt eis proficerent si pro eis fierent. Propter quod eleemosyna elargita non prodest 
+       <lb ed="#B" n="52"/>defuncto ex animo dantis aut recipientis nisi per accamens: sed per se solummo ex animo qui fuit in defuncto cum viueret: li 
+       <lb ed="#B" n="53"/>cet substantia facti ex animo facientis eleemosynam dependeat. Et idcirco dico quod licet ambo sint in peccato 
+       <lb ed="#B" n="54"/>mortali, &amp; dans eleemosynam &amp; recipiens, tamen proficit defuncto pro quo datur: sicut &amp; prosiceret missa 
+       <!--817.xml-->
+       <pb ed="#B" n="388-v"/>
+        <lb ed="#B" n="1"/>illi pro quo ordinata est ad dicendum: licet sacerdos dicat eam in peccato mortali existens. 
+      </p>
+      <p xml:id="n3av8a-c1e3853-d1e141">
+       AD argumen 
+       <lb ed="#B" n="2"/>tum in oppositum: quod datum non placet ex dato sed ex animo: Dicendum quod verum est secundum dictum modum. Cum au 
+       <lb ed="#B" n="3"/>tem assumitur quod non proficit nisi ex animo: verum est. illi enim cui proficit oportet quod ex animo eius proficiat: sed  
+       <lb ed="#B" n="4"/>non oportet quod profectus iste ex animo alterius dependeat. Vnde si debet eleemosyna proficere danti eam, opor 
+       <lb ed="#B" n="5"/>tet quod proficiat ex animo eius qui placet: &amp; ideo danti eam in mortali non proficit: vt probat ratio proficit tamen defun 
+       <lb ed="#B" n="6"/>cto ex animo illius: vt dictum est. Vnde quid dicit Greg. Cum is qui displicet &amp;c. Dicendum quod verum est quod contra mis 
+       <lb ed="#B" n="7"/>sum prouocatur: non autem contra mittentem prouocatur etiam si mittat malum: de quo tamen multum praesumit quod sit  
+       <lb ed="#B" n="8"/>bonus non prouocatur dominus contra mittentem: sed potius contra missum qui praesumit orare cum displiceat. Vnde  
+       <lb ed="#B" n="9"/>mittenti prouidendum est qualem mittat, ne tam contra mittentem quam contra missum prouocetur.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

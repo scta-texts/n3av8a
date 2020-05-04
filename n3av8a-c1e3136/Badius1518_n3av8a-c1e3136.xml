@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="304-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3136">
+       <head xml:id="n3av8a-c1e3136-Hd1e96">Quaestio 3</head>
+       <p xml:id="n3av8a-c1e3136-d1e99">
+       <!--649.xml-->
+        <pb ed="#B" n="304-v"/>
+        <lb ed="#B" n="1"/>CIrca tertium: quod non est possibile aliquem agere id quod impossibile est fieri: arguitur sic. 
+       <lb ed="#B" n="2"/>Actiuum &amp; passiuum sunt relatiua: quorum vnum ponit alterum: nec est vnum sine altero. 
+       <lb ed="#B" n="3"/>si ergo non est alicuius potentia passiua vt fiat: nulla est respectu illius potentia 
+       <lb ed="#B" n="4"/>actiua: quae illud esse faciat. 
+      </p>
+      <p xml:id="n3av8a-c1e3136-d1e115">
+       CONtra. deus facit aliquid ex nihilo: in quo nulla 
+       <lb ed="#B" n="5"/>omnino est potentia passiua. 
+      </p>
+      <p xml:id="n3av8a-c1e3136-d1e120">
+       DIcendum ad hoc: quod aliquid dicitur impossibile fieri dupli 
+       <lb ed="#B" n="6"/>citer. Vno modo obiectiue tanquam illud quod habet ab alio fieri. secundum quod dicitur 
+       <lb ed="#B" n="7"/>posse generari id quod est terminus generationis. Hoc modo quod impossibile est fieri nullum agens potest facere. &amp; 
+       <lb ed="#B" n="8"/>sic nihil dicitur impossibile fieri nisi purum nihil: quod non est aliquid per essentiam: non solum per existentiam. tale impos 
+       <lb ed="#B" n="9"/>sibile fieri nec deus potest facere: non propter defectum alicuius potentiae: sed quia ad tale non ordinatur aliqua  
+       <lb ed="#B" n="10"/>actiua potentia. Alio autem mod dicitur aliquid impossibile fieri subiectiue: &amp; hoc dupliciter. Vno mo 
+       <lb ed="#B" n="11"/>do quia non est aliquod subiectum in potentia de qua possit aliquid fieri respectu cuiuscunque agen-  
+       <lb ed="#B" n="12"/>tis. Alio modo quia non est aliquid subiectum in potentia vno modo respectu vnius agentis: est tamen in  
+       <lb ed="#B" n="13"/>potentia alio modo &amp; respectu alterius agentis. Ponere impossibile primo modo simpliciter impli 
+       <lb ed="#B" n="14"/>cat contradictionem: &amp; repugnat factioni secundum omnem cursum &amp; ordinem rerum. Repugnat est agenti simpli 
+       <lb ed="#B" n="15"/>citer: vt si determinari ad situm siue locum secundum substantiam non sit nisi ratione quantitatis: &amp; aliquid  
+       <lb ed="#B" n="16"/>quid ex sua natura &amp; substantia nullo modo in se habet aliquid pertinens ad quantitatem vt punctum aut li 
+       <lb ed="#B" n="17"/>nea aut huiusmodi: ponatur secundum substantiam determinari ad situm vel locum: vel si distingui indiuiduali  
+       <lb ed="#B" n="18"/>ter siue numeraliter aliqua duo sub eadem specie non sit nisi ratione quantitatis aut materiae: &amp; aliquid quid in se 
+       <lb ed="#B" n="19"/>nullo modo habet quantitatem aut materiam nec habere potest: ponatur modo dicto distingui aut posse distingui 
+       <lb ed="#B" n="20"/>ab alio suae speciei. Impossibile vero secundo modo etsi esset impossibile fieri respectu alicuius agentis &amp; secundum ali 
+       <lb ed="#B" n="21"/>quem ordinem &amp; cursum rerum: non tamen secundum omnem: vt cum aliquid dicitur fieri ex nihilo quid solum possibile est facere 
+       <lb ed="#B" n="22"/>agentem supernaturaliter. Impossibile modo tertio est vbi est aliqua potentia in subiecto reducibilis ad  
+       <lb ed="#B" n="23"/>actum per agens supernaturale: non autem per agens naturale: vt quod naturaliter caecus fiat videns: aut quod mortuus. 
+       <lb ed="#B" n="24"/>resurgat. Isto autem secundo &amp; tertio modo ipossibile fieri non dicitur impossibile fieri simpliciter: sed solum impossi 
+       <lb ed="#B" n="25"/>bile primo modo Non ei est ipossibile simpliciter nisi quid est ipossibile simpliciter potenti: non autem quod est ipossibile ali 
+       <lb ed="#B" n="26"/>cui non simpliciter potenti. quemadmodum non est simpliciter dulce aut amarum nisi quod est dulce aut amarum respectu 
+       <lb ed="#B" n="27"/>gustus simpliciter bene dispositi. Et illud est solummo impossibile primo modo: ita quod nihil sit impossibi 
+       <lb ed="#B" n="28"/>le deum agere: quin illud sit impossibile fieri: &amp; econuerso nihil est impossibile fieri quin sit impossibi 
+       <lb ed="#B" n="29"/>le deum agere illud. &amp; sic nihil potest deus agere quod est impossibile fieri. Ita quod magnum incon-  
+       <lb ed="#B" n="30"/>ueniens est dicere deum posse aliquid agere secundum quemcunque cursum &amp; ordinem rerum, quod  
+       <lb ed="#B" n="31"/>secundum se simpliciter impossibile est fieri. Est etiam magnum inconueniens dicere de tali impossibi 
+       <lb ed="#B" n="32"/>li puta quod contradictoria sunt simul in eodem: quod non est ipossibile quia deus non potest facere hoc: sed quia 
+       <lb ed="#B" n="33"/>hoc non potest fieri: quasi restet non ex parte dei quin in ipso sit potentia actiua ad hoc faciendum 
+       <lb ed="#B" n="34"/>sed ex parte facti: quia non est in ipso potentia ad hoc fieri. immo nec in eo est potentia ad hoc facere: sicut non est 
+       <lb ed="#B" n="35"/>in eo potentia ad peccare: quia illud esset omnem ordinem rerum confundere: quid posse non esset potentiae sedi  
+       <lb ed="#B" n="36"/>potentiae: nec est propter impotentiam aut defectum potentiae: sed propter potentiae abundantiam: vt de 
+       <lb ed="#B" n="37"/>talibus bene dicatur quod deus potenter non possit ea facere. Vnde in eis quae potest facere ipsum facere est vo 
+       <lb ed="#B" n="38"/>luntas facientis: nec ab alio dependet ipsum fieri. Ita quod non est verum dicere de impossibili simpli- 
+       <lb ed="#B" n="39"/>citer quod deus non potest illud facere quia non potest fieri: sed potius non potest fieri quia deus non potest facere 
+       <lb ed="#B" n="40"/>sicut &amp; in affirmatiua non dicitur deum possibile aliquid facere quia illud possibile est fieri: sed econversoquia  
+       <lb ed="#B" n="41"/>deus potest illud facere, ideo possibile est fieri: aut obiectiue aut subiectiue. Vnde de correspondentia po 
+       <lb ed="#B" n="42"/>tentiae actiuae &amp; passiuae dicit Commentator super primum cae. &amp; mundi. Notum est per se quod illud quod est possibile ab extri 
+       <lb ed="#B" n="43"/>seco est possibile per se. concessum est enim quod omne impossibile in se est impossibile secundum extrinsecum: &amp; impossi 
+       <lb ed="#B" n="44"/>bile est imaginari aliquid esse possibile in respectu patientis: &amp; impossibile in respectu agentis: &amp; possibi 
+       <lb ed="#B" n="45"/>le non est possibile nisi in respectu agentis &amp; patientis. 
+      </p>
+      <p xml:id="n3av8a-c1e3136-d1e209">
+       AD primum in oppositum: quia non est potentia actiua cuinum puo 
+       <lb ed="#B" n="46"/>respondet potentia passiua: dicendum quod verum est vel obiectiue vel subiectiue. vtroque modo respectu agentis 
+       <lb ed="#B" n="47"/>naturalis quod nihil agit nisi ex subiecta materia. obiectiue solum respectu agentis supernatural quod agiton- 
+       <lb ed="#B" n="48"/>nullo subiecto. Non agit tamen nisi quid est natura &amp; essentia aliqua potens esse obiectum &amp; terminus factionis in 
+       <lb ed="#B" n="49"/>diuinae: in cuius essentia est ista potentia essentialiter: inquantum essentia cuiuslibet creaturae inquantum  
+       <lb ed="#B" n="50"/>est de se, est possibile esse &amp; non esse. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

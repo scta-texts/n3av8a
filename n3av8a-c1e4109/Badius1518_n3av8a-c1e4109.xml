@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="415-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4109">
+       <head xml:id="n3av8a-c1e4109-Hd1e96">Quaestio 7</head>
+       <p xml:id="n3av8a-c1e4109-d1e99">
+        <lb ed="#B" n="42"/>SEquuntur quaesita pertinentia ad non sacra: vbi proponebantur quaedam pertinen 
+       <lb ed="#B" n="43"/>tia ad omnes creaturas generaliter: &amp; quaedam pertinentia ad hominem speciali- 
+       <lb ed="#B" n="44"/>ter. De primo autem horum proponebantur tria: quorum primum erat de identitate essentiae 
+       <lb ed="#B" n="45"/>&amp; esse simpliciter: Vtrum scilicet ponens essentiam creaturae esse idem re cum suo esse, potest 
+       <lb ed="#B" n="46"/>saluare creationem. Secundum vero erat de identitate esse accidentis cum esse sui sub 
+       <lb ed="#B" n="47"/>iecti. Vtrum. scilicet accidentis existentis in subiecto sit aliud esse existentiae quam sit esse existen 
+       <lb ed="#B" n="48"/>tiae sui subiecti. Tertium autem erat de modo causandi esse accidentis a suo subiecto. Vtrunm scilicet subiectum 
+       <lb ed="#B" n="49"/>per se possit esse causa sufficiens sui accidentis. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e119">
+       CIRca primum arguitur quod ponens essentiam creatu- 
+       <lb ed="#B" n="50"/>rae esse idem re cum suo esse: non potest saluare creationem: primo sic. sicut se habet materia ad for- 
+       <lb ed="#B" n="51"/>mam in generatione: sic se habet essentia ad esse in creatione. sicut, n materiae acquiritur forma per gene- 
+       <lb ed="#B" n="52"/>rationis: sic essentiae acquiritur esse per creationem. sed ponens materiam idem esse re cum sua for- 
+       <lb ed="#B" n="53"/>ma, non potest saluare generationem licet alterationem: quia tunc per generationem non acquirere 
+       <lb ed="#B" n="54"/>tur formae esse in materia: sicut nec materiae: quid est contra naturam generationis. ergo &amp;c. Secundo  
+       <!--871.xml-->
+       <pb ed="#B" n="415-v"/>
+        <lb ed="#B" n="1"/>sic. ponens essentiam idem cum suo esse, ponit non posse intelligi essentiam sub non esse: quia etsi ali- 
+       <lb ed="#B" n="2"/>qua sint idem: &amp; licet vnum possit intelligi sine altero cointellecto: non tamen potest intelligi sub illius op- 
+       <lb ed="#B" n="3"/>posito. Verbi gratia: Si animal siue sensibile &amp; rationale idem sint in homine secundum rem: &amp; possit animal siue sensibile 
+       <lb ed="#B" n="4"/>intelligi fine rationali cointellecto: non potest tamen intelligi sub irrationali. Aliter enim opposita intelligerentur 
+       <lb ed="#B" n="5"/>simul in eodem: quid est ipossibile. sed ponens quod essentia non potest intelligi sub non esse: ponit quod non potest esse sub 
+       <lb ed="#B" n="6"/>non esse: quia sic potest intelligi sicut potest esse. talis autem non potest saluare creationem: quia non est crea 
+       <lb ed="#B" n="7"/>tio nisi mutatio de non esse essentiae in eius esse., ergo &amp;c. Tertio sic. In omni mutatione subiectum 
+       <lb ed="#B" n="8"/>differt ab vtroque termino: sicut materia differt a forma corrupta &amp; generata in mutatione quae est generatio 
+       <lb ed="#B" n="9"/>quare cum in creatione essentia sit subiectum: &amp; termini sint non esse &amp; esse: oportet ergo quod ab vtroque  
+       <lb ed="#B" n="10"/>differat: &amp; ideo quod cum neutro sit idem, quare si ponatur cum altero, vt cum esse, idem: deficit creatio. ergo &amp;c. 
+       <lb ed="#B" n="11"/>
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e160">
+       CONtra. si essentia esset aliud ab esse, tunc essentiae per creationem acquireretur esse sicut subiecto: quemadmodum  
+       <lb ed="#B" n="12"/>materiae acquiritur forma per generationem vt subiecto, quare cum in omni trasmutatione habente subiectum, id  
+       <lb ed="#B" n="13"/>quid acquiritur per ipsam, de subiecto producitur: vt forma de materia per generationem: esse ergo in creatione produce 
+       <lb ed="#B" n="14"/>retur de ipso esse per creationem. Quia si sic: non igitur creatio esset de nihilo: sed de aliquo, quid est contra natu-  
+       <lb ed="#B" n="15"/>ram creationis. Ponens ergo essentiam non esse idem cum esse suo, non potest saluare creationem. Dicunt aliqui: quod  
+       <lb ed="#B" n="16"/>ab inferioribus naturalibus &amp; sensibilibus debemus manuduci ad superiora supernaturalia: quae solum nunc a fine 
+       <lb ed="#B" n="17"/>intelligibilia sunt. In naturalibus autem est ita: quod illud quod per seipsum solum est in potentia ad aliquid per se: non est 
+       <lb ed="#B" n="18"/>secundum actum illud: neque participat illo. nihil enim habet esse secundum actum aliquid per illud quo est in po- 
+       <lb ed="#B" n="19"/>tentia illud: vt patet in materia &amp; forma. Quare si secundum actum est illud: oportet quod illud per quod habet 
+       <lb ed="#B" n="20"/>esse secundum actum illud, sit aliud secundum rem ab illo per quod potest esse illud. Cum ergo essentia creaturae per se ex eo 
+       <lb ed="#B" n="21"/>quod est essentia creaturae sit in potentia ad esse: per se ergo non est habens esse: neque ex se secundum actum: sed per aliquid  
+       <lb ed="#B" n="22"/>quod re est aliud ab illa, quare cum per esse formaliter habet esse: est ergo esse re aliquid aliud ab essentia creatu- 
+       <lb ed="#B" n="23"/>rae. Quod confirmant per hoc: quod opposita circa genus sunt differentiae positiuae: quae habent aliquid conmu 
+       <lb ed="#B" n="24"/>ne secundum intellectum. Opposita materiae sunt forma quae est positiua, &amp; priuatio quae non est positiua 
+       <lb ed="#B" n="25"/>quae idcirco non communicant conmunem materiam. sunt tamen circa idem in actum positum. Opposita cir- 
+       <lb ed="#B" n="26"/>ca essentiam sunt esse quid est positiuum: &amp; non esse quid est negatiuum: quae nec habent aliquid commune: nec 
+       <lb ed="#B" n="27"/>habent esse circa idem conmune existens extra intellectum. &amp; ideo plus distant ab eo quod habent commune, quam op 
+       <lb ed="#B" n="28"/>posita praedicta. Quare cum actualitas generis differt a potentialitate eius: eo quod est extra rationem illius 
+       <lb ed="#B" n="29"/>&amp; actualitas materiae quae est forma, a materia: sic quod re sit alia ab illa: multo ergo fortius &amp; actuali 
+       <lb ed="#B" n="30"/>tas essentiae quae est esse, differt ab essentia: sic quod sit re aliud ab illa. super quo fundatur tertia ratio propo 
+       <lb ed="#B" n="31"/>sita supra. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e206">
+       ITEM essentia de se non est necesse esse: quia tunc non posset non esse: neque impossibile 
+       <lb ed="#B" n="32"/>esse: quia tunc non posset esse, est ergo possibile esse &amp; non esse de se. Sed nihil existit per hoc quod possi- 
+       <lb ed="#B" n="33"/>bile est esse &amp; non esse: essentia existit per esse: ergo essentia per se &amp; ex se non est esse. Quid etiam confirmatur per Boe 
+       <lb ed="#B" n="34"/>tium: qui dicit de hebdo. Diuersum est quod est esse &amp; id quid est, quod necessario intelligitur de esse creatu- 
+       <lb ed="#B" n="35"/>rae non creatoris: quia consequitur continue. lpsum vero est nondum est: at vero quod est, accepta forma 
+       <lb ed="#B" n="36"/>essendi est atque subsistit. Item ibidem. In omni composito aliud est esse: aliud est ipsum quod est. Vnde sicut in na 
+       <lb ed="#B" n="37"/>turalibus per trasmutationem naturalem acquiritur forma: &amp; ideo transmutatio naturalis in naturalibus fecit sci 
+       <lb ed="#B" n="38"/>re materiam differre secundum rem a forma: sic cum in creatis per creationem in essentia creaturae ac 
+       <lb ed="#B" n="39"/>quiritur esse: ideo &amp; creatio necessario facit scire essentiam creaturae differre secundum rem ab esse. 
+       <lb ed="#B" n="40"/>Sicut enim materia est in potentia ad formam &amp; ad eius priuationem secundum rem absque intelle- 
+       <lb ed="#B" n="41"/>ctus consideratione: quemadmodum genus quod est idem cum vtraque differentiarum, est in potentia ad  
+       <lb ed="#B" n="42"/>illas sola consideratione intellectus: sic essentia secundum rem absque consideratione intellectus est in potem 
+       <lb ed="#B" n="43"/>tia ad esse &amp; non esse. Vnde cum potentialitas generis de qua minus videtur non reducatur ad actum ni 
+       <lb ed="#B" n="44"/>si per aliquid ei additum quod est extra rationem generis scilicet per differentiam: &amp; similiter materia non re 
+       <lb ed="#B" n="45"/>ducitur ad actum formae &amp; priuationis nisi per realiter differens ab ea: eodem ergo modo essentia non 
+       <lb ed="#B" n="46"/>reducitur ad actum essentialem nisi per aliquid quid est extra rationem eius, differens re ab ipsa: cuius 
+       <lb ed="#B" n="47"/>modi est esse eius. necessario ergo re differt essentia ab esse. Sicut ergo vt dicunt oportet dare aliquid  
+       <lb ed="#B" n="48"/>realiter differens a materia si sit generatio: ita oportet dare aliquid realiter differens ab essentia: si 
+       <lb ed="#B" n="49"/>sit creatio. Omnis. nm mutatio habet suum potentiale &amp; suum actuale: ergo &amp; creatio cum sit vera mu 
+       <lb ed="#B" n="50"/>tatio. Vnde sicut ponendo materiam esse idem cum forma substantiali: vt potentiale cum actuali: non 
+       <lb ed="#B" n="51"/>potest aliquis saluare generationem: licet posset saluare alterationem ponendo formam accementalem esse 
+       <lb ed="#B" n="52"/>aliud a suo subiecto: sic ponens idem essentiam cum esse, cum non potest saluare potentiale differens ab actu 
+       <lb ed="#B" n="53"/>ali &amp; ipsum actuale differens ab illo: nullo modo potest saluare creationem: secundum quod processit pri- 
+       <lb ed="#B" n="54"/>ma ratio. Ex ista etiam positione (ut dicunt) sequuntur multa quae non possunt saluari in entibus. 
+       <!--872.xml-->
+       <pb ed="#B" n="416-r"/>
+        <lb ed="#B" n="1"/>Quorum primum est: quod essentia non posset intelligi non esse sicut processit secunda ratio ad principale. Secun 
+       <lb ed="#B" n="2"/>dum vero est: quod essentia creaturae non est quid diminutum &amp; incompletum: neque esse eius: quia non  
+       <lb ed="#B" n="3"/>est quid participans aut participatum. Diminutio autem non est nisi in participatione. Participare, enm idem 
+       <lb ed="#B" n="4"/>est quod partem capere. Pars autem respectu totius imperfectum est, vel proximum secundum naturam. v. Me- 
+       <lb ed="#B" n="5"/>taph. Quia autem non esset participatio patet: quia non est participatio nisi in natura potentiali, aut actuali 
+       <lb ed="#B" n="6"/>secundum quod recipitur in potentiali, quare si tollis potentiale, &amp; actuale receptum in potentiali: &amp; par 
+       <lb ed="#B" n="7"/>ticipationem per hoc tollis. Potentiale autem &amp; actuale tollis ponendo esse idem essentiam creaturae &amp; esse 
+       <lb ed="#B" n="8"/>eius: quia nihil participat seipso: nec est potentiale respectu suiipsius. &amp; sic in creatura tollis omnem 
+       <lb ed="#B" n="9"/>defectum: primo rei in se: secundo in comparatione: quia res prius defuit in se quam in comparatione.  
+       <lb ed="#B" n="10"/>Tertium vero est: quod non esset ens per accidens: quia prius res participat esse quam aliis quae sequuntur esse: 
+       <lb ed="#B" n="11"/>&amp; non est ens per accidens nisi participando illa quae sunt post esse. dicente Boetio de hebdo. Omne quod  
+       <lb ed="#B" n="12"/>est, participat eo quod est esse vt sit: alio vero participat vt aliquid sit. Ac per hoc id quod est participat esse 
+       <lb ed="#B" n="13"/>vt sit: est vero vt participet alio quolibet. Quartum est: quod non esset genus in creaturis: quia genus 
+       <lb ed="#B" n="14"/>non est nisi quid potentiale respectu differentiarum. Si ergo non differunt potentiale &amp; actuale, genus non est 
+       <lb ed="#B" n="15"/>Vnde in deo: quia idem sunt actuale &amp; potentiale, essentia &amp; esse: in ipso non est ratio generis. Quintum 
+       <lb ed="#B" n="16"/>est: quod non esset distinctio praedicamentorum substantiae ab accidentibus sub analogia entis: quia tunc 
+       <lb ed="#B" n="17"/>non esset idem esse quod substantiae conveniret primo &amp; per se tanquam illi quid est primo ens: &amp; accidenti 
+       <lb ed="#B" n="18"/>tanquam illi quid non est ens nisi quia entis. immo accidens haberet proprium esse aliud ab esse substantiae. 
+       <lb ed="#B" n="19"/>
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e305">
+       HIC oportet primo videre quomodo se habet esse ad essentiam. Secundo ex hoc principale quaesitum. Super iden- 
+       <lb ed="#B" n="20"/>titate esse, &amp; essentiae in creaturis: habita est quaedam quaestio determinata in nostro primo Quolibet. vbi 
+       <lb ed="#B" n="21"/>diximus &amp; adhuc dicemus: quod esse creaturae non est aliquid re absoluta aliud ab ipsa essentia creatu 
+       <lb ed="#B" n="22"/>rae additum ei vt sit in effectu: immo ipsa creatura essentia sua qua est id quod est, habet esse, non inquam  
+       <lb ed="#B" n="23"/>tum est essentia secundum se &amp; absolute considerata: sed vt considerata est in ordine &amp; comparatio- 
+       <lb ed="#B" n="24"/>ne ad diuinam essentiam. Inquantum. n. ipsa re ipsa absque omni absoluto addito est similitudo diuinae es 
+       <lb ed="#B" n="25"/>sentiae secundum rationem causae formalis conuenit ei esse essentiae. Inquantum autem ipsa in seipsa absque omni ab  
+       <lb ed="#B" n="26"/>soluto addito est effectus diuinae essentiae: vel immediate vel mediante agente naturali secundum rationem 
+       <lb ed="#B" n="27"/>efficientis, conuenit ei esse existentiae. vt sic nec esse essentiae: nec esse existentiae super essentiam in ipsa essen 
+       <lb ed="#B" n="28"/>tia creaturae addat super essentiam creaturae aliquid formale absolutum: sed solummo respectum ad aliud  
+       <lb ed="#B" n="29"/>Quid tamen esse essentiae non proprie dicitur addi essentiae: quia non est essentia, proprie nisi illo esse: sed potius 
+       <lb ed="#B" n="30"/>dicitur addi aliquo quod est de propria ratione generis sui: quid cum ratione esse constituit essentiam composi 
+       <lb ed="#B" n="31"/>tam ex eo quod est, &amp; esse quid est ipsum quo est: vt iam infra plus patebit. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e334">
+       SED arguit contra nos in hoc ad- 
+       <lb ed="#B" n="32"/>uersans nobis. Illud quod est efficiens potentiale esse ex se, non potest illud facere esse actum nisi seipsum illi 
+       <lb ed="#B" n="33"/>imprimat vel aliud quod est actus eius quo formaliter habet esse. seipsum autem non imprimit vt constat: 
+       <lb ed="#B" n="34"/>imprimit ergo aliud. impressum autem tale non potest esse nisi absolutum: quia relatio non potest esse per se termi 
+       <lb ed="#B" n="35"/>nus actionis. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e345">
+       ITEM ex eo quod aliquid habet respectum ad aliud, non existit: sed est ad aliquid: quid prae 
+       <lb ed="#B" n="36"/>supponit existere: quia potentiale non existit seipso. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e350">
+       ITEM materia est in respectu ad esse ex- 
+       <lb ed="#B" n="37"/>tensum. sed non sine alio sibi adueniente vt quantitate est actu extensa. ergo similiter essentia non ex so 
+       <lb ed="#B" n="38"/>lo respectu est actu sub esse sine alio addito. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e357">
+       DIcendum quod aliquid ex se est potentiale esse dupliciter. Vno  
+       <lb ed="#B" n="39"/>modo vt solum per se subiectum transmutationis a non esse in esse: &amp; non vt per se terminus. Alio modo 
+       <lb ed="#B" n="40"/>vt terminus eius. Primo modo in naturalibus sola materia est potentiale esse. Secundo vero modo sola forma 
+       <lb ed="#B" n="41"/>educta de potentia materiae: vel ipsum compositum ex materia &amp; forma, est potentiale esse. De potentiali 
+       <lb ed="#B" n="42"/>esse primo modo verum est quod efficiens siue agens quodcumque non potest illud facere esse in actum nisi imprimendo  
+       <lb ed="#B" n="43"/>se vt formam illi: vel aliquid aliquae: quia illo modo non die aliquid potentiale esse nisi respectu formae a quae sumit a ctu 
+       <lb ed="#B" n="44"/>ale esse. Et tali modo potentiale esse bene potest esse in actu existentiae: cum hoc quod est sic potentiale esse: vt materia prima 
+       <lb ed="#B" n="45"/>in naturalibus: quae inquantum est subiectum transmutationis naturalis: non est potentiale ad esse simplici 
+       <lb ed="#B" n="46"/>ter: sed habet esse existentiae a deo per creationem vt terminus eius. quod quidem esse existentiae supponit in ma 
+       <lb ed="#B" n="47"/>teria omne agens naturale. Sed tale potentiale esse non est essentia respectu esse actualis existentiae: quia non 
+       <lb ed="#B" n="48"/>pont existere in actum sine tali esse: sicut non potest aliquid esse simile sine similitudine. Secundo autem modo  
+       <lb ed="#B" n="49"/>falsum est. Illo. n modo dicitur aliquid esse potentiale esse non respectu alicuius formae sibi imprimendae:  
+       <lb ed="#B" n="50"/>respectu efficientis vt eius actionem quae est productio terminantis. Vnde forma substantialis per 
+       <lb ed="#B" n="51"/>generationem est secundum actum sub esse: quia est terminus actionis quae est generatio: vnde ha-  
+       <lb ed="#B" n="52"/>bet esse non vt per formam sibi impressam per transmutationem generationis: quia tunc simul essent duae genera- 
+       <lb ed="#B" n="53"/>tiones: vna qua materia habet in se actum qui est forma: altera qua forma habet in se actum qui est 
+       <lb ed="#B" n="54"/>esse: neque per creationem: qualiter ponit ille essentiam habere esse per actum creationis: quia tunc in omni 
+       <!--873.xml-->
+       <pb ed="#B" n="416-v"/>
+        <lb ed="#B" n="1"/>generatione coincidet actio creationis. Sic ergo essentia per creationem est actu sub esse: quia est ter- 
+       <lb ed="#B" n="2"/>minus eius: non habendo esse vt formam sibi impressam &amp; eductam de potentia essentiae: quod  
+       <lb ed="#B" n="3"/>supponit ille in suo argumento: quia tunc esse non haberetur in sua essentia per creationis: sed per ge 
+       <lb ed="#B" n="4"/>nerationem, quia secundum Commen. xii. Metaphysice. quando forma educitur de potentia materiae: tunc 
+       <lb ed="#B" n="5"/>est generatio: si autem produceretur in materia non ex materia, esset creatio: sicut patet de creatione gratiae 
+       <lb ed="#B" n="6"/>in animae: &amp; non esset creatio cum ipsa essentia creaturae producitur in effectu: nisi quia ipsa essentia produce- 
+       <lb ed="#B" n="7"/>retur de nihilo. Nec potest dicere quod habet esse vt per formam sibi impressam per creationis: sicut gra- 
+       <lb ed="#B" n="8"/>tia imprimitur animae: vt duo sint simul creata. scilicet essentia &amp; esse. quia cum secundum hoc essentia creatur 
+       <lb ed="#B" n="9"/>vt subiectum: esse vero vt forma in subiecto: &amp; forma in subiecto existens necessario praesupponit na-  
+       <lb ed="#B" n="10"/>tura vel duratione subiectum: prius ergo natura esset essentia creata quam esse, etsi simul duratione: &amp; sic 
+       <lb ed="#B" n="11"/>non esset verum quod prima rerum creatarum est esse: quod tamen oportet ponere: vt infra declarabitur. Non er- 
+       <lb ed="#B" n="12"/>go habendo esse vt formam sibi impressam essentia est actu sub esse per creationem: sed habendo esse in sua es- 
+       <lb ed="#B" n="13"/>sentia ex respectu ad creantem: inquantum est producens eam: &amp; illa est effectus eius. Quod arguit secundo quod ex re 
+       <lb ed="#B" n="14"/>spectu est res ad aliquid: non quod existat: Dicendum quod reuera existere creaturae non est existere simpliciter &amp; 
+       <lb ed="#B" n="15"/>absolute: sed solius esse creatoris est tale. sed esse creaturae non est existere nisi sub quadam dependentia ad  
+       <lb ed="#B" n="16"/>manutenentiam creatoris: &amp; ita in quodam respectu quem creatura habet ad deum, primo ex actu crea 
+       <lb ed="#B" n="17"/>tionis: secundo ex actum conseruationis. &amp; est respectus idem: si idem re sint actus creationis passiuae &amp; 
+       <lb ed="#B" n="18"/>conseruationis. &amp; sic idem est creaturam existere: &amp; ad aliud existere: &amp; eodem ad aliud existit &amp; existit sim 
+       <lb ed="#B" n="19"/>pliciter. absoluto enim tali respectum non existit omnino. Ad tertium: quod materia est in potentia ad  
+       <lb ed="#B" n="20"/>extensionis: sed non sine alio ei adueniente &amp;c. Dicendum quod non est simile: quia materia non est in po- 
+       <lb ed="#B" n="21"/>tentia ad extensionem nisi vt subiectum. &amp; ideo non vadit ad actum extensionis nisi per aliud: quo vt essen 
+       <lb ed="#B" n="22"/>tialiter extenso informatur. Essentia vero est in potentia ad esse non vt subiectum vadens ad actum par  
+       <lb ed="#B" n="23"/>alicuius informationis: sed solum vt terminus existens in actum: per hoc quod terminat actum creatio- 
+       <lb ed="#B" n="24"/>nis: &amp; est effectus creatoris vt dictum est. Quia autem super essentiam creaturae nihil absolutum reale in 
+       <lb ed="#B" n="25"/>formans ipsam apponit ipsum esse: probaui sufficienter triplici medio in praedicta quaestione. Quorum 
+       <lb ed="#B" n="26"/>primum est: quod veritas, bonitas, vnitas nihil addunt super essentiam rei absolutam: quare nec entitas 
+       <lb ed="#B" n="27"/>Cui respondet ille dicendo quod vno modo dicitur ens quod diuiditur in decem praedicamenta: quod est ens 
+       <lb ed="#B" n="28"/>ab esse essentiae. &amp; hoc nihil addit super essentiam rei: sicut nec veritas, vnitas, aut bonitas. Alio mo 
+       <lb ed="#B" n="29"/>do dicitur ens quid existit in rerum natura: &amp; hoc est forma addita ipsi essentiae rei. aliter enim creatura tan  
+       <lb ed="#B" n="30"/>tae actualitatis esset quod ex se posset existere: quid falsum est. Vnde licet de se sit sufficientis actualitatis 
+       <lb ed="#B" n="31"/>ad mouendum intellectum: non tamen de se est sufficientis actualitatis ad existendum secundum se ex 
+       <lb ed="#B" n="32"/>tra intellectum. Sed assumptum in hac responsione plane patet esse falsum scilicet quod esse quo aliquid exi- 
+       <lb ed="#B" n="33"/>stit in rerum natura: est forma absoluta addita essentiae. Aliter. nmex se posset existere sua actualitate.  
+       <lb ed="#B" n="34"/>quoniam dato quod non sit forma superaddita: sed solus respectus fundatus in essentia rei: non vt est essentia rei 
+       <lb ed="#B" n="35"/>absolute: sed solummo vt est creatoris effectus: numquam tamen ex se est tantae actualitatis quod ex se possit existere in es 
+       <lb ed="#B" n="36"/>fectu: sed hoc solum habet a creatore inquantum eius effectus: quia ab hoc habet quod respectus ille funda 
+       <lb ed="#B" n="37"/>tur in ipsa essentia: nequaquam autem ex seipsa: quod tamen supponit illa responsio. Secunda ratio mea est: quod  
+       <lb ed="#B" n="38"/>si essentia non habet esse nisi per aliquid absolutum additum ipsi essentiae: cum illud existat in illa 
+       <lb ed="#B" n="39"/>essentia &amp; non est creator: est ergo creatura, de se non habens existere: nec secundum se: nec in alio. er 
+       <lb ed="#B" n="40"/>go ei esse aliud a se acquiritur per creationem: &amp; eadem ratione illi esse aliud: &amp; sic in infinitum. 
+       <lb ed="#B" n="41"/>
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e487">
+       IVxta hoc arguit ille ad idem contra se sic. Sicut essentia est possibile esse &amp; non esse: quia non est 
+       <lb ed="#B" n="42"/>necesse esse: nec impossibile esse: sic &amp; illud esse, ergo non nisi per aliquid sibi additum habet existere 
+       <lb ed="#B" n="43"/>sicut neque essentia: &amp; sic in infinitum. Et respondet dicens: quod illud esse est possibile esse cui acquiritur esse. 
+       <lb ed="#B" n="44"/>sed hoc est per accidenm scilicet quia non habet esse nisi in possibili esse. Veruntamen quantum est de se, semper 
+       <lb ed="#B" n="45"/>est: quemadmodum dicunt philosophi quod omnis forma quantum est de se est actus quidam &amp; necesse 
+       <lb ed="#B" n="46"/>esse. sed quod non est necesse esse: hoc est per accidem scilicet quia recipitur in possibili esse quid est materia: &amp; ideo 
+       <lb ed="#B" n="47"/>non vadit processus in infinitum: quia illud esse primum non recipit aliud esse a se: quia non reci- 
+       <lb ed="#B" n="48"/>pit esse nisi quia recipitur in alio quid eo habet esse. Sed secundum dictum hoc apparet statim falsi 
+       <lb ed="#B" n="49"/>tas periculosior quod scilicet formae creaturarum ex se &amp; esse quo creatura formaliter existit, non sunt possibi 
+       <lb ed="#B" n="50"/>le esse: sed necesse esse: nisi quia sunt in possibili esse: cum tamen non sit nisi vnicum necesse esse: 
+       <lb ed="#B" n="51"/>cuiusmodi est esse diuinum. Nec potest plurificari vt probat Auicen. &amp; alibi in quaestionibus ordinariis 
+       <lb ed="#B" n="52"/>declarauimus. Ex quo sequitur quod omnis forma creaturae &amp; esse eius quantum est de se sit quaedam diuina essentia &amp; esse 
+       <lb ed="#B" n="53"/>dei: &amp; quod sunt possibile esse: quia recipiuntur in possibili esse Quod quam absurdum sit pta omnibus. absurdum est ergo illud in  
+       <!--874.xml-->
+       <pb ed="#B" n="417-r"/>
+        <lb ed="#B" n="1"/>quo fundatur dicta solutio. Quia si forte dicat quod illud solummodo dixit secundum opinionem philosophorum 
+       <lb ed="#B" n="2"/>non sic sentiendo: tunc reuera non habet ex hoc dicto vnde soluat argumentum siue rationem loquans 
+       <lb ed="#B" n="3"/>vt christianus: sed manet insoluta. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e527">
+       TERtia ratio est: quod tale esse non potest esse accidens nec substantia, 
+       <lb ed="#B" n="4"/>materia, aut forma, aut compositum. Et respondet dicens: quod licet non sit substantia recipiendo de se substantiae 
+       <lb ed="#B" n="5"/>praedicationem: est tamen de genere substantiae sicut principium &amp; forma, dans actualitatem essentiae: sicut forma dat 
+       <lb ed="#B" n="6"/>actualitatem: &amp; hoc suo modo: quemadmodum punctus est de genere quantitatis: licet quantitas non prae 
+       <lb ed="#B" n="7"/>dicetur de ipso. Quod non potest stare: quoniam non est vt forma substantialis de praedicamento substantiae. tunc enim 
+       <lb ed="#B" n="8"/>essentiae rerum seipsis &amp; suo esse essentiae non constituerent praedicamentum: sed suo esse existentiae: nec esset 
+       <lb ed="#B" n="9"/>aliquod praedicamentum nisi essentiis existentibus in rerum natura. cuius contrarium vult Auicen. &amp; in quae  
+       <lb ed="#B" n="10"/>stionibus ordinariis declarauimus, quod etiam dicit Simplicius super praedicamenta idem, in quaestione de relatio 
+       <lb ed="#B" n="11"/>ne in praecedente Quolibet tetigimus. Item Algazel in logica sua expresse dicit quod huiusmodi esse existentiae ac- 
+       <lb ed="#B" n="12"/>cidens est entis. &amp; Auicen. vult quod essentiae rei accidit esse quid non est quod ipsa: vt quod sit vniversalis vel particularis in anima  
+       <lb ed="#B" n="13"/>vel extra animam: &amp; velite quod sit &amp; quod non sit: vt in quaestionibus ordinariis sufficienter declarauimus. Auer. 
+       <lb ed="#B" n="14"/>etiam super quintum Metaph. dicit quod istud esse est de praedicamento accamentis: &amp; illud quod est esse essentiae, est de 
+       <lb ed="#B" n="15"/>praedicamento generis. Quod &amp; ipse sufficienter confessus est iam supra: cum dixit quod esse existentiae est forma addi  
+       <lb ed="#B" n="16"/>ta ipsi essentiae: non sic autem esse essentiae. &amp; constat quod non substantialis: quia tunc nullo modo pertineret ad praedica- 
+       <lb ed="#B" n="17"/>mentum accidentis sed generis. quod si est accidentalis non substantialis nullo modo est de genere substantiae sicut pri 
+       <lb ed="#B" n="18"/>cipium: sicut nec esse essentiae: quid extra omne genus est: &amp; ideo non cadit in compositione cum aliquo quod est in  
+       <lb ed="#B" n="19"/>genere, ad constituendum aliquod compositum quod sit in genere. Vnde super illud Boetii de Trini. ca. iii. Vnumquidque  
+       <lb ed="#B" n="20"/>habet esse suum ex his ex quibus est id est ex partibus suis. dicit Commen. Esse namque &amp; id quid eo est, nullo pror 
+       <lb ed="#B" n="21"/>sus conueniunt genere. Item super illud de duabus naturis. Quae est hominis deique coniunctio. Commen. Esse &amp; id quod est 
+       <lb ed="#B" n="22"/>nec eiusdem generis nec eiusdem rationis sunt: &amp; ideo ipsorum compositio esse non potest. Intelligo constituendo ali- 
+       <lb ed="#B" n="23"/>quod totum quod sit in genere per se. tunc enim esse aut formam generis aut differentiae diceret. Compositum. en. in genere 
+       <lb ed="#B" n="24"/>non est nisi species specialissima aut subalterna. constituta ex genere &amp; differentia: constituit tamen esse cum eo 
+       <lb ed="#B" n="25"/>quod est compositum: vt infra dicetur. quod non est aliquid in genere ratione totius: quia neque vt genus generalissimum: 
+       <lb ed="#B" n="26"/>neque vt differentia neque vt species specialissima aut subalterna: sed solum ratione partis eius quae est ipsum  
+       <lb ed="#B" n="27"/>quod est cuius est esse: non vt pars eius: sed vt forma extra genus: quae est quaedam diuina participatio. Propter 
+       <lb ed="#B" n="28"/>quid alias in quaestione de praedicamentis diximus quod esse non est genus: sicut &amp; modo quod non est aliquid in genere: sed  
+       <lb ed="#B" n="29"/>solum id cui conuenit esse. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e586">
+       SIC ergo sentiendum est quod esse non sit aliquid absolutum additum essentiae creatu- 
+       <lb ed="#B" n="30"/>rae: &amp; inhaerens ei per creationem: vt forma inhaeret materiae per generationem. &amp; hoc non solum esse essentiae: vt 
+       <lb ed="#B" n="31"/>ille confitetur: sed etiam esse existentiae: quod negare contendit. Nec tamen dicendum est quod ipsa essentia ex se sola &amp; pro  
+       <lb ed="#B" n="32"/>prietate sua sit ipsum esse suum: &amp; hoc secundum hunc modum: sicut est idem esse &amp; essentia: hoc, eni soli diuinae essen 
+       <lb ed="#B" n="33"/>tiae convenit: vt iam amplius dicetur: sed solum ex hoc quod est effectus dei: &amp; hoc quo ad esse existentiae. de esse 
+       <lb ed="#B" n="34"/>autem essentiae iam erit sermo inferius. Vt secundum hoc esse existentiae non addat super essentiam nisi respectum ad  
+       <lb ed="#B" n="35"/>efficientem: inquantum. n. essentia vt creata est participat in effectu diuina similitudine: vt a deo trans 
+       <lb ed="#B" n="36"/>formata: ipsa in se esse existentiae participat: quod non potest dici esse ipsa: nec tamen aliud ab ipsa: nisi sicut respe 
+       <lb ed="#B" n="37"/>ctus similitudinis fundatus in albedine non est ipsa albedo: nec tamen aliud re ab ipsa: sed idem re, differens 
+       <lb ed="#B" n="38"/>autem solo modo: secundum quod declarauimus in quaestione de relatione, non quod esse sub suo nomine 
+       <lb ed="#B" n="39"/>dicat respectum: &amp; esse sit ille respectus: sed quod ipsa essentia vt est sub tali respectu, est quaedam existen 
+       <lb ed="#B" n="40"/>tia participatione quadam. &amp; hoc non participatione alicuius aduenientis ei &amp; absoluti vt intendit 
+       <lb ed="#B" n="41"/>aduersarius: qui intendit probare quod esse aliquid absolutum addit super essentiam: sed quia respectus non ac 
+       <lb ed="#B" n="42"/>quiritur: nisi quia fundamentum acquiritur. Quando nm aliquid est immediatum fundamentum 
+       <lb ed="#B" n="43"/>alicuius respectus: si illud esset immobile &amp; extremum in quo natus est fundari: correspondens simili- 
+       <lb ed="#B" n="44"/>ter respectus esset immobilis: vt in proposito, vbi deus est alterum extremum, non posset annihilari ille re 
+       <lb ed="#B" n="45"/>spectus: ex quo fundamentum maneret. Quare si essentia in eo quod est essentia est incorruptibilis: &amp; ille respectus 
+       <lb ed="#B" n="46"/>si non sit ibi aliud absolutum fundatur in sola essentia: ergo &amp; ille respectus esset immobilis. Vnde a contrario: quia  
+       <lb ed="#B" n="47"/>per esse fundatur respectus in essentia ad deum: ideo quia esse potest separari ab essentia: &amp; ille respe 
+       <lb ed="#B" n="48"/>ctus: sed aliter non. Dicendum quod dicere sicut ipse dicit: quod respectus non acquiritur nisi quia fundamen 
+       <lb ed="#B" n="49"/>tum acquiritur: verum est. Sed quid assumitur: quando aliquid est immediatum fundamentum alicuius &amp;c. 
+       <lb ed="#B" n="50"/>Dicendum quod hoc est verum in omnibus illis respectibus qui fundantur in extremis ex natura pro 
+       <lb ed="#B" n="51"/>pria ipsorum: vt contingit in actiuis &amp; passiuis naturaliter, secundum quod in praecedente Quolibet de 
+       <lb ed="#B" n="52"/>clarauimus in quaestione longa de relationibus. In illis vero respectibus qui fundantur in vno extre 
+       <lb ed="#B" n="53"/>mo, non solum ex natura ipsius fundamenti: sed cum hoc ex actione libera alterius extremi circa illud: non  
+       <lb ed="#B" n="54"/>est verum: vt contingit in proposito. esse, no quod fundatur in essentia &amp; ponit solum respectum super essentiam: quo  
+       <!--875.xml-->
+       <pb ed="#B" n="417-v"/>
+        <lb ed="#B" n="1"/>ad sstum respectum non fundatur in essentia ex sola natura ipsius essentiae: sed tantum ex actione alterius extre 
+       <lb ed="#B" n="2"/>mi scilicet voluntatis dei immobilis circa ipsam essentiam: ita quod iste respectus nouus secundum rem in ipsa 
+       <lb ed="#B" n="3"/>essentia potius causatur ab altero extremo sub illo respectu immobili secundum rationem: quam econverso: vt 
+       <lb ed="#B" n="4"/>supra in dicta quaestione declaraui. Quod ergo asseruit: quod per esse fundatur res ad deum in ipsa essentia: falsum 
+       <lb ed="#B" n="5"/>est: nisi inquantum esse est idem cum essentia: &amp; per ipsum esse essentiae quod a deo acquiritur: non vt alia res: sed  
+       <lb ed="#B" n="6"/>vt alia intentio: qua. scilicet est effectus dei: secundum quam essentiae acquiritur respectus ad deum vt ad suum princi 
+       <lb ed="#B" n="7"/>pium efficiens: &amp; hoc quasi materialiter per ipsam essentiam, &amp; effectiue per actionem dei circa eam: vt ipsum esse 
+       <lb ed="#B" n="8"/>nihil addat super essentiam nisi solum respectum: aut potius quod ipsum esse nihil aliud sit quam id quid est essen- 
+       <lb ed="#B" n="9"/>tia: vt est effectus dei. Quid ergo concludit: quod quia esse quid ponit esse absolutum potest separari ab essentia, similiter &amp; ille 
+       <lb ed="#B" n="10"/>respectus per ipsius esse separationem: &amp; aliter falsum est: quia sicut ille respectus causatus est in essentia per dei actionem cir 
+       <lb ed="#B" n="11"/>ca illam: sic per subtractionem actionis dei circa illam in conseruando separatur ille respectus ab essentia, &amp; ipsa essentia in  
+       <lb ed="#B" n="12"/>seipsa corrumpitur &amp; annihilatur quo ad esse existentiae. Vnde quod essentia est quaedam existentia participatione quaedam: hoc est 
+       <lb ed="#B" n="13"/>ex praesuppositione similitudinis diuini esse in ipsa essentia essentialiter per creationem: &amp; quo ad hoc dicitur essen 
+       <lb ed="#B" n="14"/>tia esse quadam extrinsecus participatione. secundum quod dicit Boetius de Trinitate loquens de deo. Est forma 
+       <lb ed="#B" n="15"/>quae esse ipsum est: &amp; ex qua omne est. Vbi dicit Conmetatio ni , quae non ab alio hanc mutuat dictionem: &amp; quae  
+       <lb ed="#B" n="16"/>caeteris omnibus eandem quadam extrinsecus comparticipatione communicat: non de qualibet suae essentiae proprie 
+       <lb ed="#B" n="17"/>tate dicitur est: sed ab eo qui non aliena sed sua essentia proprie est: quoniam ex eo tanquam ex principio dictio ista 
+       <lb ed="#B" n="18"/>transumitur: vt de vnaquaque diuinae formae participatione proprie recte dicatur est. Per quod patet responsio ad  
+       <lb ed="#B" n="19"/>illud quod arguit sic, quando aliquid de se non est tale, ex sola relatione ad efficiens non habet esse tale. Si ergo  
+       <lb ed="#B" n="20"/>essentia de se non habet esse: ex sola relatione ad efficiens non habebit esse: sed requiritur aliquid formale in  
+       <lb ed="#B" n="21"/>formans: nec aliquid aliud sufficeret. Dicendum est. enm quod solus deus est talis quod suae essentiae proprietate de 
+       <lb ed="#B" n="22"/>ipso dicitur est. lpse, n. sua essentia est ipsum esse, non solum essentiae, sed etiam existentiae suae: quod nulli creaturae con 
+       <lb ed="#B" n="23"/>uenire potest. Et in hoc simplicitas diuinae essentiae excedit simplicitatem essentiae creaturae: quia nulla creatura 
+       <lb ed="#B" n="24"/>proprietate suae essentiae est: &amp; ideo non est ipsum esse suum: sed participat ipsum non alio informante re ab  
+       <lb ed="#B" n="25"/>ipsa essentia: sicut concludit: sed sola resolutione ad efficiens: non quacunque sed qua est effectus &amp; similitu 
+       <lb ed="#B" n="26"/>do eius quo ad esse existentiae. &amp; hoc non propter aliquid additum, sed in ipsa essentia fundata absque om- 
+       <lb ed="#B" n="27"/>ni aduentitio praeter solum respectum. Et propter istam extrinsecus participationem istud esse pertinet ad prae 
+       <lb ed="#B" n="28"/>dicamentum de accidente: &amp; hoc secundum modum quo relationes accidunt suis fundamentis: vt est declaratum in  
+       <lb ed="#B" n="29"/>quaestione de relatione. cum tamen esse essentiae pertineat ad praedicamentum de genere: vt distinguit Commentato super. v Meta. Nec 
+       <lb ed="#B" n="30"/>tamen esse essentiae omnino est absque extrinsecus participatione: vt iam declarabitur. Quae tamen non potest essentiae ab  
+       <lb ed="#B" n="31"/>esse: etiam secundum intellectum: sed ab illa habet essentia quod sit essentia: vt alibi ptractauimus: licet 
+       <lb ed="#B" n="32"/>possit abesem per intellectum ei quod est aliquid: quid cum esse cadit in compositione essentiae creaturae: cum dicitur quod con- 
+       <lb ed="#B" n="33"/>ponitur ex quod est &amp; quo est. Participatio autem quae consistit in esse existentiae, essentiae potest omnino adesse 
+       <lb ed="#B" n="34"/>&amp; abesse. &amp; propter hoc tale esse est extra rationem &amp; intellectum essentiae: vt licet non sit res addita 
+       <lb ed="#B" n="35"/>ipsi essentiae vt non differat re ab ipsa: nec etiam differat sola ratione: quia in eis quae sola ratione dif 
+       <lb ed="#B" n="36"/>ferunt, vnum eorum non potest intelligi sub contrario alterius: differunt tamen medio mode scilicet inten- 
+       <lb ed="#B" n="37"/>tione, &amp; in his quae sunt eadem re. &amp; quae sic differunt, vnum eorum bene potest intelligi sub contratio al- 
+       <lb ed="#B" n="38"/>terius. Sed dicit ille: non intelligo quid sit differre intentione aliud quam differre ratione. Declaro vt intelli- 
+       <lb ed="#B" n="39"/>gat. ecce rationale &amp; album inter se differunt: rationale &amp; animal inter se differunt: animal rationa 
+       <lb ed="#B" n="40"/>le &amp; homo inter se differunt. Videt ne primo quod animal rationale &amp; homo differunt sola ratione sicut de 
+       <lb ed="#B" n="41"/>finitio &amp; definitum: &amp; tali modo differendi quo differentia nullam faciunt compositionem: neque ex eis sit 
+       <lb ed="#B" n="42"/>aliquod compositum omnino: &amp; quod idcirco non compatitur homo secum oppositum animalis aut oppositum ratio 
+       <lb ed="#B" n="43"/>nalis: neque quo ad essentiam neque quo ad existentiam suam: vt neque esse neque intelligi possit sub composito alteri 
+       <lb ed="#B" n="44"/>us illorum: Videt ne secundo quod rationale &amp; album differunt re: sicut substantia &amp; accidens: &amp; hoc tali modo dir 
+       <lb ed="#B" n="45"/>ferendi quo differentia faciunt compositionem: &amp; fit ex eis aliquod compositum realiter: &amp; quod idcirco 
+       <lb ed="#B" n="46"/>compatitur secum rationale oppositum albi: &amp; quo ad suam essentiam, &amp; quo ad suam existentiam: vt 
+       <lb ed="#B" n="47"/>&amp; esse possit &amp; intelligi sub opposito albi: Et quaero vtrum videat tertio quod rationale &amp; animal non diffe 
+       <lb ed="#B" n="48"/>runt sola ratione sicut definitio &amp; definitum: vt nullam faciant compositionem: neque omnino ex eis 
+       <lb ed="#B" n="49"/>fiat aliquod compositum: sed plus non solum quo ad differre secundum magis &amp; minus in eodem modo 
+       <lb ed="#B" n="50"/>differendi secundum speciem: quemadmodum in deo plus differunt sapientia d bonitas quam esse &amp; viuere: sed quo ad  
+       <lb ed="#B" n="51"/>differre alio &amp; alio modo differendi secundum speciem: quia faciunt aliquam compositionem in specie constituta ex 
+       <lb ed="#B" n="52"/>ipsis: &amp; hoc ideo quia nullo modo definitio est extra rationem &amp; intellectum definiti nec econuerso: sicut genus est 
+       <lb ed="#B" n="53"/>extra rationem &amp; intellectum differentiae &amp; econuerso: nec etiam differunt re tantum quantum differunt substantia &amp; 
+       <lb ed="#B" n="54"/>accomens: quia tunc species ex ipsis constituta non esset vnum per se: sed tantum per accidens: aut saltem non esset vnum sim 
+       <!--876.xml-->
+       <pb ed="#B" n="418-r"/>
+        <lb ed="#B" n="1"/>plex in forma secundum rim: sed medio mode. scilicet plus quam ratione sola, &amp; minus quam re. Reuera nisi clau 
+       <lb ed="#B" n="2"/>dat oculum rationis luci veritatis, non potest hoc non videre. clarum enim est quod differunt plus quam ra 
+       <lb ed="#B" n="3"/>tione sola. Aliter enim genus posset praedicari de differentia &amp; econuerso: sicut definitio praedicatur 
+       <lb ed="#B" n="4"/>de definito &amp; econuerso: nec esset differentia extra rationem generis nec econuerso: sicut definitio 
+       <lb ed="#B" n="5"/>non est extra rationem definiti nec econuerso, quae plane falsa sunt. Clarum enim est quod differunt mi 
+       <lb ed="#B" n="6"/>nus quam differentia re. Aliter enim ex genere &amp; differentia non constitueretur vnum in forma sim- 
+       <lb ed="#B" n="7"/>plici quod est species: sicut non constituitur ex substantia &amp; accidente., quod falsum est. Non potest ergo non 
+       <lb ed="#B" n="8"/>videre quin medio modo differant. &amp; hoc non secundum magis &amp; minus differre in eodem modo  
+       <lb ed="#B" n="9"/>differendi secundum speciem, vt aliquis diceret: sed secundum alium modum differendi secundum spe 
+       <lb ed="#B" n="10"/>ciem ab extremis. Est enim alius modus differendi secundum speciem quo substantia differt ab ac- 
+       <lb ed="#B" n="11"/>cidente: quia est facientium compositionem realem ab illo quo definitio differt a definito: vel quo in deo  
+       <lb ed="#B" n="12"/>differunt sapientia d bonitas: quia non faciunt compositum omnino. Et est medius modus differem 
+       <lb ed="#B" n="13"/>di secundum speciem quo genus differt a differentia: quia aliquam faciunt compositionem in specie: sed  
+       <lb ed="#B" n="14"/>non realem vt prius. Vnde licet in dictis tribus modis differendi est differentia secundum magis &amp; 
+       <lb ed="#B" n="15"/>minus: non tamen omnes tres vel duo eorum sunt in eodem modo differendi secundum speciem: sed in  
+       <lb ed="#B" n="16"/>diuersis necessario. Et propter hoc animal quod est genus, potest intelligi esse sub opposito rationalis. Ba 
+       <lb ed="#B" n="17"/>ptizetur ergo ille modus medius: &amp; detur ei nomen: &amp; si non competenter possit appellari differentia se 
+       <lb ed="#B" n="18"/>cundum intentionem: vt omnino idem sit differre intentione &amp; ratione: detur ei aliud nomen. Fatuum 
+       <lb ed="#B" n="19"/>enim est disputare de nomine quando notum est de re. Et isto medio modo dixi &amp; dico essentiam &amp; esse 
+       <lb ed="#B" n="20"/>suum existentiae differre inter se: &amp; quod propterea vnum illorum, vt essentia, potest intelligi sub oppo- 
+       <lb ed="#B" n="21"/>sito esse existentiae, non dico quod possit esse nisi in mente tantum. Aliter nim simul existeret &amp; non existeret. Quia  
+       <lb ed="#B" n="22"/>ergo quaeritur in quaestione principali: vtrum ponens essentiam creaturae esse idem cum suo esse, potest saluare 
+       <lb ed="#B" n="23"/>creationem: Dicendum quod ponens essentiam proprietate qua est essentia absque omni extrinsecus partici 
+       <lb ed="#B" n="24"/>patione esse idem cum suo esse: vt de re cuius est essentia, suae essentiae proprietate sola dicatur est si 
+       <lb ed="#B" n="25"/>ue esse, talis nullo modo potest saluare creationem. Sic enim sola essentia creatoris est idem cum suo esse, 
+       <lb ed="#B" n="26"/>&amp; nullius creaturae: vt iam dictum est. Ponens autem essentiam proprietate sua non qua est absolute 
+       <lb ed="#B" n="27"/>esse natura: sed quam habet quadam extrinsecus participatione: esse idem cum suo esse existentiae:  
+       <lb ed="#B" n="28"/>vt de re cuius est essentia, tali proprietate essentiae suae dicatur est vel esse: talis bene potest saluare 
+       <lb ed="#B" n="29"/>creationem. sic enim omnis essentia creaturae est idem cum suo esse. Veruntamen sciendum vt in pri 
+       <lb ed="#B" n="30"/>mo Quolibet exposui, quod ista extrinsecus participatio ipsius esse, bene &amp; male potest intelligi. Vno mo 
+       <lb ed="#B" n="31"/>do intelligendo essentiam creaturae aliquid potentiale substratum: vt materiam: de qua vel in qua ali  
+       <lb ed="#B" n="32"/>quid habet produci actione agentis: ipsum vero esse aliquid receptum in illo aut de illo productum 
+       <lb ed="#B" n="33"/>actione agentis vt formam &amp; actum quo dicitur essentia &amp; esse: ad modum quo dicitur corpus esse 
+       <lb ed="#B" n="34"/>album recepta in se forma albedinis: vel materia prima dicitur aliquid esse in actu etiam recepta in  
+       <lb ed="#B" n="35"/>se forma substantiali: vel anima dicitur grata recepta in se forma gratiae. &amp; hoc participando albe- 
+       <lb ed="#B" n="36"/>dine vel forma aut gratia: non totalitatem veritatis eius: sed partem solummodo eius in se continendo  
+       <lb ed="#B" n="37"/>Quod videntur sonare verba Boetii cum dicit. Quod est, accepta forma essendi est atque subsistit. quae infra ex 
+       <lb ed="#B" n="38"/>ponemus. Hoc modo intelligunt participationem qui dicunt quod esse secundum rem differt ab essen- 
+       <lb ed="#B" n="39"/>tia. Alio vero modo intelligitur ista participatio intelligendo essentiam creaturae aliquid potentia- 
+       <lb ed="#B" n="40"/>le obiectum: vt terminum actionis de nihilo productum. lpsum vero esse intelligendo eandem essentiam, 
+       <lb ed="#B" n="41"/>vt est actuale obiectum &amp; terminus actionis de nihilo ipsum producentis sicut similitudinem suam: vt 
+       <lb ed="#B" n="42"/>ipsa essentia inquantum est similitudo producta, sit esse quoddam participatum ratione huius fi 
+       <lb ed="#B" n="43"/>militudinis deficientis ab ipso diuino esse, quo in tali esse participat: nec totalitatem nec partem veri 
+       <lb ed="#B" n="44"/>tatis eius, sed solummodo similitudinem atque imitationem eius in se continendo: non quod esse sit ali 
+       <lb ed="#B" n="45"/>quid acquisitum aut receptum in ipsa essentia vt in subiecto. Et est iste verus modus participatio-  
+       <lb ed="#B" n="46"/>nis ipsius esse: praecedens autem phantastica imaginatio, quodammodo fingens modum creationis 
+       <lb ed="#B" n="47"/>procedere secundum modum naturalis generationis: praeter hoc quod generatio naturalis praesuppo- 
+       <lb ed="#B" n="48"/>nit subiectum: creatio vero non tantum producit aliquid in subiecto: sed etiam producit ipsum subiectum. Et isto secundo  
+       <lb ed="#B" n="49"/>modo ponendo participationem differunt secundum speciem modus quo essentia participat esse: &amp; quo participat 
+       <lb ed="#B" n="50"/>aliis post esse. Primo vero modo ponendo participationem idem est modus secundum speciem quo substantia partici 
+       <lb ed="#B" n="51"/>pat esse, &amp; accidentibus sequentibus esse. Qui ponunt participationem esse primo modo, non possunt sic perfecte saluare cre 
+       <lb ed="#B" n="52"/>ationem proprie dictam: sicut possunt ponentes participationem esse secundo modo. proprie, n creatio non  
+       <lb ed="#B" n="53"/>est de aliquo: sed de nihilo procedit quicquid per eam producitur: quare &amp; proprie creatum non de aliquo: sed  
+       <lb ed="#B" n="54"/>de nihilo creatum est. Vnde si aliquis vellet ponere per creationem esse productum non de nihile 
+       <!--877.xml-->
+       <pb ed="#B" n="418-v"/>
+        <lb ed="#B" n="1"/>sed de aliquo: vt de essentia tanquam de potentiali suo: &amp; ipsam essentiam de potentia nihilo: ipsum ergo  
+       <lb ed="#B" n="2"/>esse non est proprie creatum sed ipsa essentia. Vnde volens dicere quod esse sit aliquid productum in essen 
+       <lb ed="#B" n="3"/>tia, re differens ab eadem, melius saluat creationem dicendo non quod esse producatur de essentia vt 
+       <lb ed="#B" n="4"/>de suo potentiali subiectiue: sed quod esse producatur in essentia cum ipsa: &amp; quod vtrunque eorum sit po- 
+       <lb ed="#B" n="5"/>tentiale quiddam: vt producatur obiectiue de nihilo ipsa quidem essentia in se: ipsum vero esse in essen 
+       <lb ed="#B" n="6"/>tia: non de essentia. Si enim deus creet ignem compositum ex materia &amp; forma: non est dicendum quod 
+       <lb ed="#B" n="7"/>creet materiam solam de nihilo, &amp; creando producat formam ignis de materia: sed quod vtrumque aeque  
+       <lb ed="#B" n="8"/>de nihilo producat, materiam sub forma, &amp; formam in materia: non de materia: quamuis productione  
+       <lb ed="#B" n="9"/>naturali materia supposita nata sit forma produci de materia, Quid etsi hoc ille intendat, adhuc non po 
+       <lb ed="#B" n="10"/>test proprie saluare creationem. Ad cuius intellectum oportet primo scire modum creationis pro- 
+       <lb ed="#B" n="11"/>prie dictae: videlicet quod licet res siue essentia creaturae ab eodem secundum rem habet esse essentiale &amp; 
+       <lb ed="#B" n="12"/>esse aliquid per essentiam: inter se tamen differunt intentione: quemadmodum animal &amp; rationale inter se dif- 
+       <lb ed="#B" n="13"/>ferunt intentione: vt dictum est: quia quid est aliquid generis alicuius secundum se, esse participat vt est 
+       <lb ed="#B" n="14"/>similitudo quaedam diuinae essentiae secundum rationem causae formalis: praeter hoc quod animal simpliciter 
+       <lb ed="#B" n="15"/>est genus ad hominem simpliciter: de cuius ratione sunt animal &amp; rationale. Esse autem essentiae simplici 
+       <lb ed="#B" n="16"/>ter quod consequitur decem praedicamenta, non est genus omnino: cuius causam alibi declarauimus: sed  
+       <lb ed="#B" n="17"/>solummodo rationem generis habet, home scilicet aliquid cui conuenit esse, nec tamen aliquid cui conuenit esse ha 
+       <lb ed="#B" n="18"/>bet rationem vnius generis ad substantiam &amp; accidens: quia non eadem ratione eis conuenit esse: vt in qua  
+       <lb ed="#B" n="19"/>dam quaestione de praedicamentis declaraui: &amp; iam patebit aliquantulum inferius. Licet ergo res siue es 
+       <lb ed="#B" n="20"/>sentia creaturae ab eodem secundum rem habet esse &amp; esse aliquid: tamen differunt inter se intentio- 
+       <lb ed="#B" n="21"/>ne: ita quod ab alio secundum intentionem habet esse: &amp; ab alio habet esse aliquid. Esse, n, habet eo quod est diuina simi. 
+       <lb ed="#B" n="22"/>litudo: esse vero aliquid habet ratione illius in quo fundatur respectus similitudinis illius. Vnde super il 
+       <lb ed="#B" n="23"/>lud de hebdo. Diuersum est esse: &amp; id quod est. dicit Commen. Cum enim dicimus homo est: theologi hoc 
+       <lb ed="#B" n="24"/>esse intelligunt quadam extrinseca denominatione ab essentia sui principii: qua vnumquodque prae- 
+       <lb ed="#B" n="25"/>dicant non esse aliquid: sed esse, non enim dicunt humanitate hominem esse: sed esse aliquid. Vnde esse ali- 
+       <lb ed="#B" n="26"/>quid dicitur quadam ratione sui generis: esse autem diuina quadam participatione. Et omnino consimi 
+       <lb ed="#B" n="27"/>liter sentiendum est de existere siue esse per existentiam simpliciter, &amp; de existere aliquid siue de esse 
+       <lb ed="#B" n="28"/>per existentiam aliquid. praeter hoc quod vt dictum est, esse essentiae est quaedam diuina participatio se- 
+       <lb ed="#B" n="29"/>cundum rationem causae formalis, quasi forma substantialis eius quod est aliquid per essentiam. Existe 
+       <lb ed="#B" n="30"/>re vero secundum rationem causae efficientis: qua in existentia producuntur ipsum esse essentiae &amp; id cuius 
+       <lb ed="#B" n="31"/>est, productione ipsius essentiae in esse existentiae: &amp; est aliquid accidentale ipsi essentiae. Vnde esse essentiae in ip 
+       <lb ed="#B" n="32"/>sa essentia est quoddam potentiale: vt per creationem essentiae producatur obiectiue in esse existentiae: vt exi 
+       <lb ed="#B" n="33"/>stat simpliciter extra intellectum. Esse vero aliquid per essentiam consimiliter est quoddam potentiale: 
+       <lb ed="#B" n="34"/>vt per creationem essentiae producatur in esse existentiae: vt existat aliquid extra intellectum. Sed sicut 
+       <lb ed="#B" n="35"/>in eodem prius natura est esse quam esse aliquid: &amp; prius existere quam existere aliquid: sic prius creatur esse vt existat 
+       <lb ed="#B" n="36"/>quam esse aliquid vt existat aliquid: secundum illam quartam propositionem libri de causis. Prima rerum creatarum est esse: &amp; 
+       <lb ed="#B" n="37"/>non est an ipsum creatum aliud. Creatione scilicet qua producitur esse in existentia. cum. n. in eodem secundum rem 
+       <lb ed="#B" n="38"/>sint plures intentiones secundum esse, viuere, sentire, intelligere: &amp; aliae huiusmodi: esse ante se nullam aliam 
+       <lb ed="#B" n="39"/>supponit: &amp; est propinquius esse primo puro &amp; vero secundum naturam &amp; intellectum. Si enim fiat resolutio com- 
+       <lb ed="#B" n="40"/>positi ex pluribus intentionibus, semper stabit resolutio in esse: &amp; ideo est primum in omnibus quae proce 
+       <lb ed="#B" n="41"/>dunt a primo: &amp; proprie causae primae effectus per creationis actum, &amp; nihil aliud in re. Esse, n. in re est 
+       <lb ed="#B" n="42"/>primus &amp; simplex mentis conceptus ad nihil formatus, vel determinatus, nec formatiuus nec declara 
+       <lb ed="#B" n="43"/>tiuus alicuius alterius: quia nihil ipsum praecedit: sed formabilis &amp; in quo incipit informabilitas per ea quae edu  
+       <lb ed="#B" n="44"/>cuntur ab ipso. Vt enim dicitur in Commento dictae propositionis: sicut ex vna forma specifica propter hoc quod  
+       <lb ed="#B" n="45"/>diuersificatur in mundo inferiori, veniunt infinita indiuidua: similiter ex esse creato primo propterea quod  
+       <lb ed="#B" n="46"/>diuersificatur apparent formae intelligibiles infinitae: nec seiunguntur abinuicem sicut est seiunctio in-  
+       <lb ed="#B" n="47"/>diuiduorum: quoniam sunt vnum habens multitudinem: &amp; multitudo in vnitate est. semper nm eodem secundum rem 
+       <lb ed="#B" n="48"/>dicitur quaelibet res esse &amp; esse aliquid: vt dicitur in Commento illius propositionis. Diuersum est esse &amp; quid est, &amp; est prius 
+       <lb ed="#B" n="49"/>esse quam esse aliquid: quemadmodum quod diuinum est eo quod nec genus est, ab esse, nm educitur viuere: &amp; ex viuere 
+       <lb ed="#B" n="50"/>sentire: &amp; ex sensu rationale. &amp; semper quodlibet sequentium in intellectu suo &amp; ratione supponit quodlibet praecedens 
+       <lb ed="#B" n="51"/>se: vt non ex nihilo, sed ex aliquo producatur: in quo est inchoatio sui scilicet ex ipso esse: quid proprie in craturis producitur 
+       <lb ed="#B" n="52"/>ex nihilo. Nihil ergo sequentium proprie sit per creationem: sed potius per informationem. &amp; solum ipsum esse sit proprie 
+       <lb ed="#B" n="53"/>per creationem: vt actus primus simplex a causa prima in actu existendi productus: vt potius esse 
+       <lb ed="#B" n="54"/>dicatur creatum a primo quam ens: &amp; esse aliquid creatum tanquam illud quod est causa prima formalis 
+       <!--878.xml-->
+       <pb ed="#B" n="419-r"/>
+        <lb ed="#B" n="1"/>entis vehementius illi vnita: vt dicitur in conmento propositionis dictae: &amp; plus formaliter influens 
+       <lb ed="#B" n="2"/>illi: vt dicit prima propositio de causis: quae vt dicit commentum non remouet virtutem suam a re: cum 
+       <lb ed="#B" n="3"/>remouet eam causa secunda. Et exemplificamus illud per esse &amp; viuum hominem: quia oportet quod sit rei esse 
+       <lb ed="#B" n="4"/>&amp; in primis: deinde viuum: deinde homo. viuum ergo est causa hominis propinqua: &amp; esse remota. Esse igi 
+       <lb ed="#B" n="5"/>tur vehementius est causa hominis quam viuum, quoniam non solum est causa hominis, sed etiam viui. Similiter 
+       <lb ed="#B" n="6"/>etiam quando ponimus rationalitatem causam hominis, esse est vehementius causa hominis quam rationalitas: quoniam  
+       <lb ed="#B" n="7"/>causa eius est esse. lpsum ergo esse non est creatum nisi a deo: &amp; ideo est diuina participatio secundum 
+       <lb ed="#B" n="8"/>praedictum modum. Quod vero ei additur ipsum determinando, ad propriam naturam cuiusque rei perti 
+       <lb ed="#B" n="9"/>net vt dictum est. Vnde vita ante se supponit ens secundum naturam &amp; intellectum: &amp; ex esse producitur 
+       <lb ed="#B" n="10"/>sicut ex confuso: nec dicit viuere ita simplicem conceptum: sed formatum ad aliquid. Vita ergo per crea- 
+       <lb ed="#B" n="11"/>tionem fieri non potest: quia fit ex aliquo. relinquitur ergo quod fiat per informationem. dico proprie lo- 
+       <lb ed="#B" n="12"/>quendo. Esse ergo primum omnibus dat esse per modum creationis. Vita autem prima omnibus viuentibus dat  
+       <lb ed="#B" n="13"/>vitam non per modum creationis sed per modum informationis. Vnde super propositione de causis. xviii. 
+       <lb ed="#B" n="14"/>Omnes res entia sunt propter ens primum: &amp; res viuae sunt propter vitam primam: &amp; scientiam habentr pro-  
+       <lb ed="#B" n="15"/>pter intelligentiam suam. dicit Commenta. Dat omnibus rebus ens per modum creationis: dat eis vitam non 
+       <lb ed="#B" n="16"/>per modum creationis: sed per modum formalem: &amp; similiter non dat eis quae sunt sub ea: vt de scientia &amp; 
+       <lb ed="#B" n="17"/>reliquis rebus: nisi per modum formae. Sic ergo dico quod ponens in creatura idem esse secundum rem di 
+       <lb ed="#B" n="18"/>cto modo esse &amp; essentiam: potest saluare creationem dictam proprie: &amp; dicere quod prima intentio rerum 
+       <lb ed="#B" n="19"/>creatarum in esse existentiae est esse essentiae: &amp; quod omnes aliae intentiones in eadem essentia fiunt a crean 
+       <lb ed="#B" n="20"/>te: non ita proprie per creationem sed potius per ipsius esse creati quandam informationem: &amp; ita quasi per ali 
+       <lb ed="#B" n="21"/>qualem generationem. &amp; hoc quodammodo secundum modum quo dicit Commenta. super. v. Metaphysica. Mate 
+       <lb ed="#B" n="22"/>ria primo recipit formam vniuersalem: &amp; mediante forma vniuersali recipit alias formas. Omnis enim 
+       <lb ed="#B" n="23"/>forma quae per agens de potentia ad actum deducitur, in eo quod de potentia vadit ad actum producendo  
+       <lb ed="#B" n="24"/>vnum de altero procedit per viam generationis aliqualis: etiam si non differunt secundum esse: &amp; si- 
+       <lb ed="#B" n="25"/>mul habent fieri secundum rem &amp; essentiam: &amp; per eandem indiuisibilem transmutationem: sicut contingit 
+       <lb ed="#B" n="26"/>in creatione secundum istam positionem, quare &amp; multo fortius si differunt secundum esse: sicut contingit 
+       <lb ed="#B" n="27"/>in creatione secundum aliam opinionem circa esse &amp; esse aliquid respectu esse existentiae. Vnde ponentes 
+       <lb ed="#B" n="28"/>gradus formarum secundum diuersa esse, &amp; differentia secundum completum &amp; incompletum in eadem re: 
+       <lb ed="#B" n="29"/>non simul sed per transmutationem successiuam educendo vnum ex altero: dicunt huiusmodi transmutatio 
+       <lb ed="#B" n="30"/>nem esse generationem: &amp; generationem non esse mutationem subitam sed motum successiuum: Dicendo quod  
+       <lb ed="#B" n="31"/>omnis forma quae per agens naturale de potentia ad actum deducitur: in eo quod primo vadit ad actum per 
+       <lb ed="#B" n="32"/>naturalem transmutationem, secundum esse &amp; esse diuiditur: vt si idem re sit in bruto viuens, spirans, sensibile, in  
+       <lb ed="#B" n="33"/>mutatione generationis secundum formam primo descenditur ab esse in viuum: deinde a viuo in spirans 
+       <lb ed="#B" n="34"/>&amp; ex spirante in sensibile: &amp; non est medium mutationis simul cum principio: nec finis simul cum medio. 
+       <lb ed="#B" n="35"/>qamuis enim habent esse constitutum in eodem substantiali formali secundum rem: vt tamen habent illa di-  
+       <lb ed="#B" n="36"/>uersa esse substantiae simul: quae recipiuntur per motum, complete non habent esse nisi in vltimo. Quare 
+       <lb ed="#B" n="37"/>si transmutatio talis ab vno esse in aliud a sola intentione in eadem forma secundum rem: genera 
+       <lb ed="#B" n="38"/>tio est: quia vnum de altero educitur vt de suo potentiali: multo fortius si aliquis dicat quod esse dedu  
+       <lb ed="#B" n="39"/>citur ex aliquo diuerso a se secundum rem ipsius esse, productio non erit creatio: sed potius generatio 
+       <lb ed="#B" n="40"/>quae alia est mutatio a creatione. Et sic qui ponunt esse existentiae in creaturis esse aliud secundum rem ab  
+       <lb ed="#B" n="41"/>essentia &amp; ab eius esse naturali, nullo modo siue ponant quod producatur in essentia siue de essentia, possunt ita 
+       <lb ed="#B" n="42"/>proprie &amp; perfecte ponere essentiam &amp; esse existentiae in ea, habere esse per creationem: sicut ponentes quod  
+       <lb ed="#B" n="43"/>idem secundum rem sunt esse natura, esse essentiae, &amp; esse existentiae secundum praedictum modum: etsi ali- 
+       <lb ed="#B" n="44"/>quo modo imaginatio possit ponere essentiam creatam de nihilo: de qua vel in qua creans per aliqua-  
+       <lb ed="#B" n="45"/>lem generationem producat esse existentiae non proprie per creationem. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1108">
+       AD dicta autem eius &amp; simul ad  
+       <lb ed="#B" n="46"/>argumenta in contrarium adducta, respondendum est per ordinem. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1113">
+       AD primum ergo de quo dicitur: si 
+       <lb ed="#B" n="47"/>cut se habet materia ad formam in generatione: sic essentia ad esse in creatione: Dicendum quod non est ve 
+       <lb ed="#B" n="48"/>rum: immo contrario modo se habent materia respectu formae in generatione: &amp; essentia respectu es- 
+       <lb ed="#B" n="49"/>se in creatione, quoniam in generatione materia supponitur: &amp; per eius informationem forma in ea acquiritur 
+       <lb ed="#B" n="50"/>vt in subiecto: &amp; de ipsa. In creatione vero nihil supponitur: sed tota natura rei in instanti producitur. Sed  
+       <lb ed="#B" n="51"/>esse essentiae in esse existentiae proprie producitur per creationem: non in essentia vt in subiecto ei, &amp; de 
+       <lb ed="#B" n="52"/>ipsa, sed in essentia vt aliquid eius &amp; prima intentio in ipsa, &amp; de qua per ipsius informationem producan 
+       <lb ed="#B" n="53"/>tur omnes aliae. vt habendo respectum ad alias intentiones, ipsa essentia potius dicatur produci de es- 
+       <lb ed="#B" n="54"/>se: &amp; esse fore in potentia ad essentiam quam econverso. Et ideo ponens materiam idem re cum forma: nullo modo  
+       <!--879.xml-->
+       <pb ed="#B" n="419-v"/>
+        <lb ed="#B" n="1"/>potest ponere generationem: quia productum per propriam generationem aliud re debet esse ab eso de quo  
+       <lb ed="#B" n="2"/>producitur. Ponens vero esse idem cum essentia re secundum dictum modum, bene potest ponere creatio 
+       <lb ed="#B" n="3"/>nem: quia proprie creatio non est de aliquo omnino. Ponens vero esse diuersum re ab essentia: nullo modo  
+       <lb ed="#B" n="4"/>pont ponere ita proprie creationem ipsius essentiae &amp; esse existentiae in ea. sicut si compositum aliquid ex materia &amp; 
+       <lb ed="#B" n="5"/>forma producatur: &amp; in creando forma induceretur in materia: non diceretur proprie creari totum: sed ma 
+       <lb ed="#B" n="6"/>teria. Et sic manuductio illius a sensibili generatione ad creationem, deceptoria est: &amp; falsa imaginatio. 
+       <lb ed="#B" n="7"/>non enim semper quae apparent in sensibilibus applicari possunt ad creationem. secundum quod dicit Commenta. super 
+       <lb ed="#B" n="8"/>de duplici natura &amp; vna persona Christi. Neque omnia, neque nulla quae in naturalibus aut mathemati 
+       <lb ed="#B" n="9"/>cis intelliguntur: in theologicis accipienda sentimus. ldeoque subtilissimae atque exercitatissimae intelligen- 
+       <lb ed="#B" n="10"/>tiae est communes vtriusque &amp;, prprias singulorum rationes notare. Et hoc quidem propter imperitos qui  
+       <lb ed="#B" n="11"/>diuersarum facultatum rationes communicant, proprias, aut communes appropriant, tetigimus. Reuera ti 
+       <lb ed="#B" n="12"/>mendum est ne hoc moderno tempore multos cogat errare in theologia. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1163">
+       PER hoc etiam patet ad illud  
+       <lb ed="#B" n="13"/>quid secundum illum inductum est in principio responsionis ad corpus quaestionis: quod per se est in potentia 
+       <lb ed="#B" n="14"/>aliquid, per se non est secundum actum illud: neque participat eo: sed solummodo per aliquid aliud re ab illo. Di- 
+       <lb ed="#B" n="15"/>cendum enim quod verum est, quando quod est in potentia non est nisi subiectum transmutationis: quod ipsa 
+       <lb ed="#B" n="16"/>transmutatio supponit. tunc enim productum per transmutationem necessario est aliud a subiecto quod est 
+       <lb ed="#B" n="17"/>in potentia ad productum de ea. secundum quem modum materia est in potentia ad formam, secundum quod ille exempli- 
+       <lb ed="#B" n="18"/>ficat de ea. Quando vero quod est in potentia non tam est subiectum transmutationis quam obiectum distinctionis: licet 
+       <lb ed="#B" n="19"/>non alicuius actus acquisiti per transmutationem: distinguendum. quoniam quod per se in potentia aliquid, per se 
+       <lb ed="#B" n="20"/>sit secundum actum illud: potest intelligi dupliciter. quia per se esse secundum actum illud, potest intelligi vel 
+       <lb ed="#B" n="21"/>secundum genus causae efficientis, vel secundum genus causae formalis. Primo modo verum est quod illud quod  
+       <lb ed="#B" n="22"/>per se est in sola potentia aliquid: nunquam per se est secundum actum illud, aut participat illo. aliter enim res 
+       <lb ed="#B" n="23"/>per se iret de non esse ad esse: quod est impossibile: nihil enim est suiipsius causa vt sit: neque conducit ad es 
+       <lb ed="#B" n="24"/>se secundum <name ref="#Augustine">Augustinus</name> i. de trinitate. &amp; hoc modo essentia quae per se est in sola potentia ad esse, per se non ha-  
+       <lb ed="#B" n="25"/>bet esse. Secundo modo subdistinguendum: quia per se formaliter esse secundum actum illud, potest intel- 
+       <lb ed="#B" n="26"/>ligi vel secundum eandem rationem, vel secundum aliam &amp; aliam rationem siue intentionem. Primo modo adhuc numquam 
+       <lb ed="#B" n="27"/>per se est secundum actum illud: quia non potest esse eadem ratio entis in potentia &amp; entis in actum. secundum  
+       <lb ed="#B" n="28"/>quod huiusmodi. Secundo autem modo bene verum est: quod illud quod per se obiectiue est in potentia ad aliquid vt 
+       <lb ed="#B" n="29"/>ad esse per se formaliter secundum aliam rationem, est secundum actum illud. Sic enim essentia creaturae 
+       <lb ed="#B" n="30"/>vt est aliquid per essentiam, per se est in potentia ad esse per existentiam simpliciter: &amp; quo ad esse per essentiam 
+       <lb ed="#B" n="31"/>simpliciter: &amp; ad esse aliquid per existentiam. Et non differunt esse simpliciter per essentiam, &amp; esse per existentiam 
+       <lb ed="#B" n="32"/>simpliciter, secundum rem sed secundum intentionem solum: neque similiter esse aliquid per essentiam, &amp; esse aliquid  
+       <lb ed="#B" n="33"/>per existentiam: &amp; vtroque modo quod est in potentia, non per se sed per agens vadit ad actum. Secundum hunc 
+       <lb ed="#B" n="34"/>ergo modum bene saluatur creatio: &amp; datur ei suum potentiale &amp; suum actuale: &amp; sufficit in creatio- 
+       <lb ed="#B" n="35"/>ne quod differant sola intentione: &amp; non requirit ipsa creatio plus. Si plus assumat: quod oportet quod diffe 
+       <lb ed="#B" n="36"/>rant realiter: quemadmodum talem differentiam inter suum actuale &amp; suum potentiale requirit ge- 
+       <lb ed="#B" n="37"/>neratio: Ita quod etsi in creatione totum scilicet essentia &amp; esse, quasi producatur simul obiectiue: tamen quan-  
+       <lb ed="#B" n="38"/>documque aliquid producitur obiectiue per se &amp; primo vt puta essentia &amp; esse simul: ibi est aliquid productum in  
+       <lb ed="#B" n="39"/>alio in quo producitur: &amp; aliquid productum in alio vt in subiecto: quid est formale in illo alio in quo producitur: &amp; 
+       <lb ed="#B" n="40"/>aliquid productum vt subiectum in quo producitur aliud: quid subiectum est quasi materiale respectu illius. Et sic 
+       <lb ed="#B" n="41"/>licet aliud sit potentiale obiectiue &amp; aliud subiectiue: vnum tamen eorum non est sine alio: quia creare 
+       <lb ed="#B" n="42"/>materiam non est facere quod materia sit materia: Materia enim ad hoc quod sit materia: ad hoc non indiget 
+       <lb ed="#B" n="43"/>produci: sed creare materiam est facere quod materia sit sub forma. Et eodem modo creare formam non est fa 
+       <lb ed="#B" n="44"/>cere quod forma sit forma: sed quod forma sit in materia: &amp; eodem modo creare essentiam non est facere quod es- 
+       <lb ed="#B" n="45"/>sentia sit essentia: sed quod essentia sit sub esse. &amp; creare esse non est facere quod esse sit esse: sed quod esse sit in  
+       <lb ed="#B" n="46"/>essentia. Et ita licet potentiale subiectiue tantum: quale est ipsum materiale, non sit ipsum potentiale terminatiue 
+       <lb ed="#B" n="47"/>tantum quale est ipsum formale: nec econverso: tamen vnum eorum nunquam esset sine altero: sed vtrumque eorum simul 
+       <lb ed="#B" n="48"/>est vnum potentiale obiectiue. &amp; propter hoc vlterius, quia forma per suam corruptionem potest separari a 
+       <lb ed="#B" n="49"/>materia vel composito: potest ipsum compositum siue materia corrumpi aut annihilari. eodem modo quia 
+       <lb ed="#B" n="50"/>esse per suam corruptionem potest separari ab essentia: potest &amp; ipsa essentia annihilari. Vnde actus si- 
+       <lb ed="#B" n="51"/>ue formale quodcumque non potest produci nisi cum suo potentiali: nec econuerso. vnde nisi productum esset com- 
+       <lb ed="#B" n="52"/>positum aut productibile esse alterius componibile: vt pars parti: nunquam esset productibile in esse: aut redu- 
+       <lb ed="#B" n="53"/>ctibile in non esse. Et est respondendum: quod illa propositio, quandocumque aliquid producitur obiectiue per se &amp; pri 
+       <lb ed="#B" n="54"/>mo: vt puta essentia &amp; esse simul &amp;c. falsa est. Non enim oportet quod ibi sit aliquid productum in alio: vt re 
+       <!--880.xml-->
+       <pb ed="#B" n="420-r"/>
+        <lb ed="#B" n="1"/>differens ab illo: sed sufficit quod sit differens ab illo sola intentione vt patet ex dictis. Et sic licet aliquid sit 
+       <lb ed="#B" n="2"/>possibile obiectiue &amp; aliquae subiectiue: sie scilicet quod vnum eorum non sit sine alio: non oportet quod sit aliud &amp; aliud  
+       <lb ed="#B" n="3"/>nisi sola intentione. Et sic ponere materiam creari siue essentiam non est facere quod materia sit materia: aut quod  
+       <lb ed="#B" n="4"/>essentia sit essentia. secundum modum quem ponit: sed hoc est ponere quod materia si per se sine forma producatur in esse: 
+       <lb ed="#B" n="5"/>sit sub esse differenti a se sola intentione. Vnde falsum est quod asseruit: quod creare materiam est facere quod ma 
+       <lb ed="#B" n="6"/>ria sit sub forma &amp;c. tunc enim neutrum eorum posset creari per se sine altero, quod inconveniens reputatur ex 
+       <lb ed="#B" n="7"/>parte materiae. Et similiter falsum est quod asseruit de essentia &amp; esse: intelligendo quod sic essentia cretur sub 
+       <lb ed="#B" n="8"/>esse quod differt ab ipsa secundum rem. sufficit enim vt dictum est, quod creetur sub ipso vt sub differenti 
+       <lb ed="#B" n="9"/>ab illa secundum intentionem. &amp; hoc modo vnum istorum non potest esse aut creari sine altero: sed vtrumque simul. 
+       <lb ed="#B" n="10"/>Quid ergo asseruit vlterius: quod forma per suam corruptionem &amp;c. supponendo quod materia non potest annihila- 
+       <lb ed="#B" n="11"/>ti nisi per hoc quod forma separatur ab ea: neque essentia nisi per hoc quod esse differens secundum rem ab illa potest se- 
+       <lb ed="#B" n="12"/>parari ab ea: falsum est. quoniam sicut materia &amp; forma differunt per essentiam: sic habent diuersa esse: propterea 
+       <lb ed="#B" n="13"/>differentia per essentiam vt dicetur in sequenti quaestione. Et ideo si forma separata a materia diuina virtute 
+       <lb ed="#B" n="14"/>conseruatur in suo esse proprio: licet priuetur illo esse quid forma communicauit composito: &amp; materiae in composito: ad  
+       <lb ed="#B" n="15"/>huc matia potest corrumpi siue annihilari propria corruptione &amp; annihilatione ipsius materiae quae ad suum, proprium 
+       <lb ed="#B" n="16"/>esse: quid sola intentione differt a materia. Et consimiliter ponendo quod essentia &amp; esse differant sola intentione  
+       <lb ed="#B" n="17"/>ipsius corruptione quo ad illud esse corrumpitur essentia ne essentia sit: licet essentia semper maneat essen 
+       <lb ed="#B" n="18"/>tia. Quia si ponatur materia non corrumpi nisi per corruptionem formae in illa: nec essentia nisi per corruptionem 
+       <lb ed="#B" n="19"/>esse, quod est re aliud ab illa: tunc neque materia quantum est de ratione naturae suae: neque essentia quantum est 
+       <lb ed="#B" n="20"/>de natura essentiae, nata est corrumpi vel annihilari postquam habuerint esse. &amp; sequeretur opinio philosophorum: quod  
+       <lb ed="#B" n="21"/>materia &amp; essentiae rerum non sunt potentiale esse nisi quia sunt cum alio, vt materia cum forma &amp; essentia 
+       <lb ed="#B" n="22"/>cum esse differenti secundum rem ab ipsa: per quorum separationem ab ipsis solummodo corrumpuntur: secundum quod superius 
+       <lb ed="#B" n="23"/>tactum est. Vnde quid addit quod actuale siue forale quidcumque non potest produci nisi cum suo potentiali: nec econuerso:  
+       <lb ed="#B" n="24"/>Dicendum quod verum est, non tamen semper oportet quod re differant actus &amp; potentiale vt dictum est. Quid etiam addit 
+       <lb ed="#B" n="25"/>vlterius: nisi productum esset compositum &amp;c. Dicendum quod verum est nisi illud esset compositum saltem ex diuer- 
+       <lb ed="#B" n="26"/>sis secundum intentionem: vel componibile alteri vt diuerso a se secundum intentionem. hoc enim sufficit. Vnde ve 
+       <lb ed="#B" n="27"/>rum est quod non potest proprie saluari creatio aut annihilatio nisi talis differentia ponatur inter actuale et 
+       <lb ed="#B" n="28"/>suum potentiale. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1325">
+       AD secundum quod ponens essentiam esse idem cum esse: ponit eam non posse intelligi sub non esse &amp;c. 
+       <lb ed="#B" n="29"/>Dicendum quod verum esset si poneret eam omnino idem: sic vt de proprietate ipsius essentiae creatae competeret ei esse: 
+       <lb ed="#B" n="30"/>&amp; esset idem cum ipso esse etiam intentione, &amp; differens ab illo sola ratione: sicut contingit in essentia diuina 
+       <lb ed="#B" n="31"/>&amp; suo esse. Nunc autem cum ponitur idem re, differens autem intentione: sic vt non de proprietate essentiae creatae 
+       <lb ed="#B" n="32"/>competat ei esse: nec esse est idem cum ipso omnino: sed differt intentione ab ipso: non est verum vt patet ex di  
+       <lb ed="#B" n="33"/>ctis. Quid autem assumitur in argumento: quod sensibile quia est idem cum rationali in homine: non potest in eodem in-  
+       <lb ed="#B" n="34"/>telligi sub irrationali: Dicendum quod verum est vt sensibile est in homine contractum per rationale secundum rem &amp; 
+       <lb ed="#B" n="35"/>secundum intellectum: quia sic non differt intentione sed sola ratione a rationali. Si tamen consideretur secundum se 
+       <lb ed="#B" n="36"/>vt est differentia animalis: &amp; se tenet ex parte generis, extra cuius intentionem non est rationale: propter quid tunc 
+       <lb ed="#B" n="37"/>differt ab eo secundum intentionem: bene potest intelligi sensibile quod est in homine sub opposito rationalis: li 
+       <lb ed="#B" n="38"/>cet non vt in homine: vt dictum est supra. Et sic verum est quod ponens essentiam &amp; esse idem re &amp; intentione: non po 
+       <lb ed="#B" n="39"/>test saluare creationem. bene tamen potest saluare eam ponendo illa esse eadem secundum rem: differentia vero se 
+       <lb ed="#B" n="40"/>cundum intentionem. Ex quo patet solutio confirmationis quae posset induci ad roborandum medium in dicto 
+       <lb ed="#B" n="41"/>argumento: quae talis est. Quaecumque sunt eadem numero re in eodem numero re: vnum eorum non potest intelli- 
+       <lb ed="#B" n="42"/>gi cum opposito alterius: quod patet per syllogismum expositorium talem, si b, puta sensibile in isto homine est a, pu 
+       <lb ed="#B" n="43"/>ta rationale: &amp; b, puta idem sensibile in eodem homine est c, puta irrationale. ergo c, est a, id est irroionale est rationale, quaere 
+       <lb ed="#B" n="44"/>si sensibile quod est in homine potest intelligi sub irroionali: ergo &amp; irrationale potest intelligi sub rationali: &amp; sic 
+       <lb ed="#B" n="45"/>oppositum sub opposito: quid est ipossibile. impossibile est ergo &amp; prim. scilicet quod sensibile in homine potest intelligi 
+       <lb ed="#B" n="46"/>sub irrationali. Dicendum est enim quod cum dicit, quaecumque sunt eadem numero re &amp;c. verum est si considerentur 
+       <lb ed="#B" n="47"/>vt sunt in eodem re: &amp; vt vnum contractum est per aliud secundum rem &amp; intellectum: quia sic sensibile vt est in homine 
+       <lb ed="#B" n="48"/>cum rationali: sola ratione differt a rationali vt dictum est. ldem tamen quod est in eodem numero &amp; re cum alio: &amp; est 
+       <lb ed="#B" n="49"/>idem numero re cum illo alio: si consideretur non vt est contractum per illud secundum intellectum, non est verum: quia sic sen 
+       <lb ed="#B" n="50"/>sibile quod est in homine &amp; idem re cum illo: differt intentione a rationali. Vnde ad syllogismum expositorium dicendum  
+       <lb ed="#B" n="51"/>quod sensibile in vtraque praemissarum potest considerari dupliciter. Vno modo vt est contractum in homine vel in hoc homine 
+       <lb ed="#B" n="52"/>secundum rem &amp; intellectum. Alio modo non vt est contractum in homine vel in hoc homine secundum intellectum. Si primo 
+       <lb ed="#B" n="53"/>modo: sic maior est vera: quia sensibile vt in homine est contractum per rationale: aut in hoc homine per hoc ratio- 
+       <lb ed="#B" n="54"/>nale est idem cum rationali: aut cum hoc rationali &amp; re &amp; intentione: differens solum ab eo sola ratione. &amp; sic 
+       <!--881.xml-->
+       <pb ed="#B" n="420-v"/>
+        <lb ed="#B" n="1"/>est bona forma syllogismi expositorii talis. si hoc b, est a, &amp; hoc b, est c, ergo c, est a. sed minor est fal 
+       <lb ed="#B" n="2"/>sa: quia hoc sensibile non compatitur secum irrationale: &amp; hoc concessum est iam supra. Si secundo modo: sic &amp; 
+       <lb ed="#B" n="3"/>maior &amp; minor sunt verae: quia sensibile in illis habet rationem conmmunis: quod compatitur secum secundum in-  
+       <lb ed="#B" n="4"/>tellectum illa opposita quae sunt rationale &amp; irrationale. &amp; sic non est bona forma syllogismi expositorii: in  
+       <lb ed="#B" n="5"/>quo medius terminus debet esse idem numero signatum respectu vtriusque extremorum: nec sufficit quod sit idem comune: 
+       <lb ed="#B" n="6"/>quia syllogismus expositorius non tenet nisi per illam regulam. Quaecumque vni &amp; eidem numero sunt eadem, in-  
+       <lb ed="#B" n="7"/>ter se sunt eadem. Et quae dicta sunt de sensibili respectu rationalis &amp; irrationalis: intelligenda sunt consi 
+       <lb ed="#B" n="8"/>militer de essentia respectu esse &amp; non esse. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1407">
+       AD illud quod ille ad idem adducit iuxta hoc: quod magis distant 
+       <lb ed="#B" n="9"/>inter se esse &amp; non esse quae sunt opposita circa eandem essentiam, quam differentiae diuersae, quae sunt opposita circa 
+       <lb ed="#B" n="10"/>idem genus: &amp; quam forma &amp; priuatio quae sunt opposita circa eandem materiam: quaere cum actualitas generis 
+       <lb ed="#B" n="11"/>quae est per differentiam quancumque, differt sic a potentialitate eius quod est omnino extra rationem eius apud intelle 
+       <lb ed="#B" n="12"/>ctum: nec est idem cum illa apud intellectum: &amp; actualitas matiae quae est fora sic differt ab eius potentialitate quod in  
+       <lb ed="#B" n="13"/>re extra animam non est idem re cum illa: ergo nec actualitas essentiae quae est esse, est idem re cum sua potentialitate 
+       <lb ed="#B" n="14"/>quae fundatur in ipsa essentia: Dicendum est secundum praedicta quod non est simile, nisi secundum ipsum falso ponentem quod esse 
+       <lb ed="#B" n="15"/>natura est potentialitas subiectiue: de qua habet produci ipsum esse vel in qua: sicut producitur differentia in  
+       <lb ed="#B" n="16"/>specie de potentialitate generis: &amp; fora in composito de potentialitate matiae: vel in matia. Secundum ponentes autem  
+       <lb ed="#B" n="17"/>quod essentia non est potentialitas ad esse nisi obiectiue: non est simile, vt patet ex praedictis. Et propter illam simili 
+       <lb ed="#B" n="18"/>tudinem contingit quod etsi actus &amp; potentiale necessario differrent re: quid tamen non contingit omnino in genere &amp; 
+       <lb ed="#B" n="19"/>differentia: non tamen oportet quod in proposito differant re. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1433">
+       AD illa quae idem inducit ad idem ex dictis Boetii de 
+       <lb ed="#B" n="20"/>hebdo. improbando expositionem quam illis dedi in alio Quolibet: dico per ordinem. Et primo ad primum quod di  
+       <lb ed="#B" n="21"/>cit Boetius: Diuersum est esse &amp; id quod est: dico exponendo hoc secundum quod in alio Quolibet breuius teti 
+       <lb ed="#B" n="22"/>gi: quod secundum Conment. cum dicitur: diuersum est esse &amp; id quod est: secundum theologos quidem intelligitur per esse 
+       <lb ed="#B" n="23"/>id quod est principium: id vero quid est, illud quod est ex principio: &amp; sic nihil ad propositum. Sed quod non  
+       <lb ed="#B" n="24"/>sic debet exponi probat ille per hoc quod immediate sequitur. lpsum vero esse nondum est. quod nullo modo  
+       <lb ed="#B" n="25"/>pont convenire esse principii quod deus est: quia illud semper est. Et est respondendum per hoc quod dicit ibi Commenta. 
+       <lb ed="#B" n="26"/>Non ait (inquit) non est: sed nondum est. quod sic intelligo: licet esse principii semper sit: tamen nondum est scilicet in eo quid  
+       <lb ed="#B" n="27"/>est participatum ab eo. in se enim est ab aeterno: participatio autem ex tempore. Aliam vero expositionem addit 
+       <lb ed="#B" n="28"/>Commenta. dicens. Diuersum est esse id est subsistentia quae est in subsistente. &amp; id quod est d est subsistens: vt corporei 
+       <lb ed="#B" n="29"/>tas &amp; corpus: humanitas &amp; homo. lpsum vero esse nondum est: eo quod non qualiter attenditur est: etsi enim 
+       <lb ed="#B" n="30"/>abstractum: est tamen in abstracto. Ecce licet abstractum &amp; concretum etiam in substantiis non differant re: sed tantum 
+       <lb ed="#B" n="31"/>consideratione: tamen de diuersitate illorum bene exponitur illud, Diuersum est esse &amp; id quod est. Consimiliter si 
+       <lb ed="#B" n="32"/>illud velimus exponere de esse creaturae quid acquiritur per creationem, &amp; ipsa essentia cui acquiritur: non obstante 
+       <lb ed="#B" n="33"/>quod idem sunt re: cum tamen differant ratione vel potius intentione: bene dicitur de ipsis: quod diuersum est esse &amp; id  
+       <lb ed="#B" n="34"/>quod est: intelligendo per quod est essentiam: &amp; per esse existentiam eius in effectum: quae per creationem ei acquiritur: vt patet 
+       <lb ed="#B" n="35"/>ex supradictis. Cui concordat dominus Albertus in libro suo de causis. iii. c. ii. vbi hanc propositionem exponit 
+       <lb ed="#B" n="36"/>dicens sic. In eo quid est. secundum aliud est esse &amp; quod est. sed nec per esse: nec per id quod est aliquo modo cadit in di  
+       <lb ed="#B" n="37"/>uisionem: quae diuisio sit per essentiarum multitudinem vel diuersitatem. in quam tamen diuisionem necessario cade 
+       <lb ed="#B" n="38"/>ret si in creatura existente quae est secundum post primum, essent re diuersa esse &amp; essentia. Quid autem sequitur. At 
+       <lb ed="#B" n="39"/>vero quod est accepta forma essendi est atque consistit. exponit Commenta. de generatione compositi dicens. At ve 
+       <lb ed="#B" n="40"/>ro id quod est in se fora essendi quam abstractam intellectus concepit. Accepta quae acceptio dicitur generatio. Est atque  
+       <lb ed="#B" n="41"/>consistit. vt corpus eo quod corporalitatem habet: est: &amp; homo eo quod humanitatem. Sed ex hoc nullam possumus. 
+       <lb ed="#B" n="42"/>ponere diuersitatem realem inter corpus &amp; corporeitatem: hominem &amp; humanitatem: sicut enim homo est animal  
+       <lb ed="#B" n="43"/>rationale: sic humanitas est animalitas rationalitas. Consimiliter si velimus exponere de essentia creata &amp; 
+       <lb ed="#B" n="44"/>forma essendi quam accipit per creationem dicto modo: nullo modo ex hoc potest argui diuersitas ipsorum rea 
+       <lb ed="#B" n="45"/>lis. Et iuxta hunc modum possunt exponi alia sequentia: &amp; praecipue illud quod ille assumpsit. Omni composito 
+       <lb ed="#B" n="46"/>aliud est esse: alique ipsum quod est. vbi dicit Comment. Quoniam alio est: alio aliquid est: etsi non ex diuersis compositum est. i 
+       <lb ed="#B" n="47"/>secundum rem. Omni composito. i, omni subsistenti: aliud est esse, quaed scilicet est. lpsum vero est aliud alio quodam. quoi is 
+       <lb ed="#B" n="48"/>aliquid est. &amp; quomodo hoc, patet ex praedictis. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1498">
+       AD tertium quod in omni trasmutatione alia subiectum differt se- 
+       <lb ed="#B" n="49"/>cundum rem ab vtroque termino: quaere &amp; in creatione: vbi secundum subiectum est esse natura: termini vero esse &amp; 
+       <lb ed="#B" n="50"/>non esse: Dicendum quod verum est de eo quid est subiectum tantum &amp; non terminus sed aliquid per trasmutationem acquisitum in 
+       <lb ed="#B" n="51"/>subiecto: sicut contingit de materia in generatione &amp; corruptione formarum: in quibus non esset generatio si ma 
+       <lb ed="#B" n="52"/>teria subiecta esset eadem re cum altero terminorum. De eo vero quod non tam est subiectum transmutationis quam per  
+       <lb ed="#B" n="53"/>se terminus, non est verum. vt contingit in proposito &amp; in generatione quae sit per informationem secundum diuersa esse 
+       <lb ed="#B" n="54"/>in eadem fora secundum rem: vt dictum est supra de esse viuere &amp; sentire. Et ideo in istis sustinetur vera creatio: li- 
+       <!--882.xml-->
+       <pb ed="#B" n="421-r"/>
+        <lb ed="#B" n="1"/>cet subiectum sit idem re cum altero terminorum. Et sic docet creatio scire essentiam creaturae qua ali- 
+       <lb ed="#B" n="2"/>quid est: licet non differentem ab esse quod acquiritur per creationim: sicut generatio facit scire materiam 
+       <lb ed="#B" n="3"/>differentem re a forma. Et est falsum quod ille assumit: quod sicut materia est in potentia ad formam &amp; eius pri 
+       <lb ed="#B" n="4"/>uationem secundum rim: sic essentia ad esse &amp; non esse. haec enim falsa imaginatio est: vt habitum est su- 
+       <lb ed="#B" n="5"/>pra. Est tamen quodammodo simile de potentia generis ad formas contrarias secundum considerationem 
+       <lb ed="#B" n="6"/>intellectus: &amp; essentiae ad esse &amp; non esse: quia differentia sola intentione differt a forma generis: non 
+       <lb ed="#B" n="7"/>secundum rem: &amp; essentia qua creatura est quod est, similiter sola intentione secundum praedicta differt 
+       <lb ed="#B" n="8"/>ab esse quo est. Et est ipsum quod est, extra rationem ipsius quo est: sicut differentia extra rationem gene- 
+       <lb ed="#B" n="9"/>ris. Non dico extra rem generis: sed extra rationem considerationis: quia intellectus capiendo formam vt 
+       <lb ed="#B" n="10"/>indeterminatam, capit ipsam sub ratione generis: non capiendo rationem determinationis quam apponit 
+       <lb ed="#B" n="11"/>differentia: &amp; econuerso. &amp; ita vtrumque est extra rationem vtriusque. Et similiter est de esse quo res est: &amp; 
+       <lb ed="#B" n="12"/>de essentia qua est aliquid. Quomodo autem essentia creata est subiectum &amp; terminus transmutationis quae est crea 
+       <lb ed="#B" n="13"/>tio, exposuimus in quaestione de potentia generandi passiue vtrum sit in filio. ex qua aliquid breuiter extra 
+       <lb ed="#B" n="14"/>hendo dico: quod licet in generatione &amp; corruptione naturali formarum circa materiam in eodem instanti se 
+       <lb ed="#B" n="15"/>cundum rem forma vna cum priuatione alterius abiicitur: &amp; transmutatio fit in materia: per quam alia induci  
+       <lb ed="#B" n="16"/>tur: istud tamen instans distinguitur in tria signa secundum rationem. Quia enim naturaliter prius fit formae 
+       <lb ed="#B" n="17"/>prioris abiectio quam alterius inductio: illa abiectio fit in priore signo: &amp; similiter quia naturaliter prior 
+       <lb ed="#B" n="18"/>est transmutatio materiae quae sit in materia propinqua ad formam inducendam: &amp; est sub illa medium in-  
+       <lb ed="#B" n="19"/>ter ens &amp; non eni scilicet inter non esse formae praecedentis, &amp; esse formae subsequentis: illa trasmutatio fit in me 
+       <lb ed="#B" n="20"/>dio signo: &amp; ipsa formae inductio in tertio signo. Sic dico quod in creatione in eodem instanti secundum rem 
+       <lb ed="#B" n="21"/>non esse ab essentia rei creatae abiicitur: &amp; transmutatio fit, per quam in esse producitur. Sed istud in-  
+       <lb ed="#B" n="22"/>stans secundum rationem distinguitur in tria signa, quia enim naturaliter prior est non esse abiectio quam ip 
+       <lb ed="#B" n="23"/>sius esse per creationem acquisitio: illa abiectio fit in priore signo. Similiter quia naturaliter essentia 
+       <lb ed="#B" n="24"/>prius est medium inter esse &amp; non esse secundum rationis considerationem, quam post non esse recipiat esse: 
+       <lb ed="#B" n="25"/>&amp; vt est medium, proprie est subiectum transmutationis in potentia propinqua: ideo creatio vt est transmu 
+       <lb ed="#B" n="26"/>tatio quae disponit ad acquisitionem, est in signo medio: &amp; ipsius esse acquisitio est in signo vltimo. Et in  
+       <lb ed="#B" n="27"/>hoc signo essentia non est signum sed terminus creationis: quemadmodum neque materia vt est actu sub for- 
+       <lb ed="#B" n="28"/>ma generati, est subiectum transmutationis quae est generatio: sed potius est terminus eius vt aliquid gene 
+       <lb ed="#B" n="29"/>rati. Et sic essentia creaturae vt est medium inter esse &amp; non esse proprie est ens in potentia propinqua: &amp; sub 
+       <lb ed="#B" n="30"/>iectum transmutationis quae est creatio. Vt vero est secundum actum sub esse acquisito, est terminus creationis:  
+       <lb ed="#B" n="31"/>vt aliquid creati: quid ratione acquisiti in illo per creationem habet non esse aliquid sed esse tantum. &amp; non est il- 
+       <lb ed="#B" n="32"/>lud esse existentiae aliquid de essentia creaturae vt creatura est: sed accidit ei. Et idcirco ex tali esse &amp; es- 
+       <lb ed="#B" n="33"/>sentia: vt ex quo est &amp; quid est, componitur vnum per accidens: cum tamen ipsa essentia componatur ex esse existen 
+       <lb ed="#B" n="34"/>tiae &amp; re sui generis: vt ex quo est &amp; quod est: sicut vnum per se compositum est ex quo est scilicet ex esse: &amp; quod est scilicet ex 
+       <lb ed="#B" n="35"/>eo quo aliquid est: non tanquam ex diuersis rebus sed tanquam ex diuersis intentionibus quoquo modo: vt ha  
+       <lb ed="#B" n="36"/>bitum est supra. Vnde ipsa essentia simpliciter quae vt est indifferens ad esse existentiae &amp; non esse, est 
+       <lb ed="#B" n="37"/>subiectum creationis: vt est aliquid creati terminus eius est. &amp; nuilum est inconueniens quod sic secundum 
+       <lb ed="#B" n="38"/>diuersum genus causae idem est prius &amp; posterius seipso: &amp; causa atque causatum suiipsius. i. subiectum 
+       <lb ed="#B" n="39"/>siue materia &amp; finis: vt secundum hoc quoquo modo materia &amp; finis coincidant in idem. Et quod magis mi 
+       <lb ed="#B" n="40"/>randum est, id cui conuenit esse materiale, quod est respectu essentiae &amp; esse: determinat ipsum esse 
+       <lb ed="#B" n="41"/>sicut materia determinat formam: &amp; vlterius determinatur per sibi addite. scilicet per differentias: vt materia 
+       <lb ed="#B" n="42"/>siue materiale per formas. Idcirco enim verum est in metaphysicalibus quod genus sumitur a materia: differentia ve 
+       <lb ed="#B" n="43"/>ro a forma. non a forma quae est esse: ab hac enim nec ratio generis: nec ratio differentiae sumitur: sed a forma 
+       <lb ed="#B" n="44"/>quae determinat id cui convenit esse. respectu enim esse omnes differentiae in genere materialia sunt: &amp; se tenent 
+       <lb ed="#B" n="45"/>ex parte eius quid est. Vnde esse existentiae est primum formale in rebus, &amp; ipsum quod est res. lpsum autem quod  
+       <lb ed="#B" n="46"/>est communissime acceptum quod est proprium cuique generi, formam generis generalissimi importat: hoc est 
+       <lb ed="#B" n="47"/>materiale quoddam sub esse per quid esse: ipsum quod est habet quod sit essentia: aliter enim esset sicut figmentum: 
+       <lb ed="#B" n="48"/>licet extra intellectum esse naturae &amp; eius quid est ipsum quod est, sit ipsum esse: &amp; per consequens extra om 
+       <lb ed="#B" n="49"/>ne quod est aliquid in genere sub ipso generalissimo: quod per differentias descendit in species subalternas &amp; 
+       <lb ed="#B" n="50"/>specialissimas. Ex quo plane patet defectus dicentis quod creatio passiua formaliter idem est quod esse existen 
+       <lb ed="#B" n="51"/>tiae rei creatae. immo secundum rem &amp; naturam differt ab ipso sicut &amp; ab ipsa essentia. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1628">
+       AD id quid arguit pro-  
+       <lb ed="#B" n="52"/>bando quod creatio passiua sit idem quod esse existentiae acquisitum per creationem: vt concludit es- 
+       <lb ed="#B" n="53"/>se non posse idem esse cum essentia, postquam manifestum est quod creatio passiua non possit esse idem re cum 
+       <lb ed="#B" n="54"/>ipsa essentia: primo ex comparatione eius ad essentiam: quia est eius perfectio vt naturae recipientis 
+       <!--883.xml-->
+       <pb ed="#B" n="421-v"/>
+        <lb ed="#B" n="1"/>cuius perfectio est esse: ergo creatio &amp; esse idem: Dicendum quod non valet: quoniam creatio secundum quod est transmutatio quae  
+       <lb ed="#B" n="2"/>dam est perfectio essentiae secundum quod est in potentia ad esse: &amp; vt in potentia est &amp; media inter esse &amp; non esse 
+       <lb ed="#B" n="3"/>sicut transmutatio generationis est actus &amp; perfectio materiae vt est media inter formam &amp; formam: &amp; in poten- 
+       <lb ed="#B" n="4"/>tia inquantum est in potentia: quia est actus imperfecti secundum quod imperfectum. Esse autem existentiae est perfectio essentiae in  
+       <lb ed="#B" n="5"/>quantum est terminus huiusmodi transmutationis: quemadmodum forma est perfectio &amp; actus materiae. Vnde non ma 
+       <lb ed="#B" n="6"/>gis sunt idem re creatio &amp; esse quam generatio &amp; forma. Licet enim motus non sit nisi acquisitio partis post partem 
+       <lb ed="#B" n="7"/>eius quod acquiritur per motum: non tamen pars motus est pars illa quae acquiritur secundum rem: nec vniuersalitur mutatio est id  
+       <lb ed="#B" n="8"/>quid acquiritur per mutationem. Vnde licet ambe scilicet creatio &amp; esse, sint actus essentiae: si esse existentiae est aliud re absolu 
+       <lb ed="#B" n="9"/>ta ab essentia: non oportet quod sint idem re: quia secundum aliam &amp; aliam rationem essentiae sunt actus eius. sicut neque  
+       <lb ed="#B" n="10"/>qualitas &amp; quantitas sunt idem licet sint actus eiusdem: quia diuersimode sunt actus eius. Vnde conseruatio &amp; esse quia  
+       <lb ed="#B" n="11"/>non sunt circa penitus idem: quia conseruatio non est actus nisi compositi ex essentia &amp; esse: esse vero est actus 
+       <lb ed="#B" n="12"/>solius essentiae: idcirco conseruatio &amp; esse non sunt omnino idem: neque forte etiam creatio &amp; conseruatio: licet 
+       <lb ed="#B" n="13"/>sit idem esse creatum &amp; conseruatum: vt propter hoc non eadem relatione referatur creatura ad creatorem &amp; secundum  
+       <lb ed="#B" n="14"/>actum creationis &amp; secundum actum conseruationis. Quid vero ad idem arguit secundo ex comparatione creatio- 
+       <lb ed="#B" n="15"/>nis ad motum penes conuenientiam: quia licet motus ipse non est motus vt subiecti aut termini: tamen motus 
+       <lb ed="#B" n="16"/>est idem in re cum eo cuius est motus: vt albatio cum albedine: ergo &amp; ipsa creatio cum esse: quod est terminus 
+       <lb ed="#B" n="17"/>eius: Dicendum quod non est verum quid supponit de motu secundum iam dicta: quia motus nunquam est circa idem re: 
+       <lb ed="#B" n="18"/>vt circa subiectum &amp; circa terminum, quia quid producitur per motum producitur ex ipso subiecto motus: ipsum au-  
+       <lb ed="#B" n="19"/>tem subiectum supponitur: quid vero producitur vt terminus per creationem est ipsum subiectum eius. &amp; ideo si- 
+       <lb ed="#B" n="20"/>cut idem re est subiectum creationis &amp; terminus: sic idem re est ipsum subiectum creationis &amp; acquisitum per 
+       <lb ed="#B" n="21"/>ipsam: vt esse existentiae: qualemcunque differentiam habeant ambo ad creationem passiuam. Quod vero ad idem 
+       <lb ed="#B" n="22"/>arguit tertio ex comparatione creationis ad motum penes differentiam: quia motus est actus existentis in po 
+       <lb ed="#B" n="23"/>tentia &amp; imperfecti secundum quod huiusmodi: &amp; respicit essentialius potentiam: creatio vero est actus existentis in actu 
+       <lb ed="#B" n="24"/>&amp; perfecti per esse: &amp; essentialius respicit actum quam potentiam: actus autem existentis in actum secundum quod huiusmodi non  
+       <lb ed="#B" n="25"/>est nisi esse: ergo &amp;c. Dicendum secundum iam dicta quod hoc plane falsum est: creatio enim non est actus nisi 
+       <lb ed="#B" n="26"/>essentiae vt est in potentia ad esse: &amp; media inter esse &amp; non esse: sicut generatio est actus materiae vt est in potem 
+       <lb ed="#B" n="27"/>tia: &amp; media inter formam &amp; formam: siue inter formam &amp; eius priuationem. Vnde tam generatio quam creatio vtrumque  
+       <lb ed="#B" n="28"/>respicit vt subiectum essentialius potentiam. sed actum essentialius vt terminum respiciunt quam potentiam. Quid autem  
+       <lb ed="#B" n="29"/>arguit vlterius: quod ponens esse &amp; essentiam esse idem re non potest saluare multa quae necessario oportet concedere in 
+       <lb ed="#B" n="30"/>entibus: Quorum primum est: quod potentia non posset intelligi non esse: super quod fundata est secunda ratio ad  
+       <lb ed="#B" n="31"/>principale: &amp; patet ex responsione praeposita ad illam, quod hoc falsum est: Secundum est quod essentia creaturae aut 
+       <lb ed="#B" n="32"/>eius esse non sit aliquid diminutum &amp; incompletum: quia secundum hoc non est ponere quod sit in esse &amp; essentia ali- 
+       <lb ed="#B" n="33"/>qua participatio siue participans &amp; participatum vt supra inductum est: Dicendum quod falsum est: immo be 
+       <lb ed="#B" n="34"/>ne contingit ponere participationem secundum esse in essentia creaturae secundum praedicta: etsi non ratione alicuius ei 
+       <lb ed="#B" n="35"/>inhaerentis. Quia autem adducit ad illius probationem: quod idem seipso non participat: nec est possibile respectu sui 
+       <lb ed="#B" n="36"/>ipsius: sine quo non est participatio: Dicendum quod duplex est participatio in creaturis: vna qua creatura 
+       <lb ed="#B" n="37"/>participat esse vt sit: alia qua participat aliquo alio vt aliquid sit: secundum quod dicit illa regula Boetii de 
+       <lb ed="#B" n="38"/>hebd. Omne quod est participat eo quod est esse vt sit: alio vero participat vt aliquid sit. Ac per hoc id quod est 
+       <lb ed="#B" n="39"/>participat esse vt sit: est vero vt participat alio quolibet. Esse autem vt sit potest res intelligi participa 
+       <lb ed="#B" n="40"/>re secundum duos modos supra expositos. Vel in sua essentia vt ipsa essentia sit quaedam participatio: &amp; diui 
+       <lb ed="#B" n="41"/>num esse sit ipsum participatum non in seipso: sed in sua similitudine: quae est ipsa rei essentia. &amp; est ve 
+       <lb ed="#B" n="42"/>rus modus participandi esse: &amp; non sic participat idem seipso: sed creatura participat creatore. Hinc 
+       <lb ed="#B" n="43"/>Boetius. i. de trinitate. c. iii. Ex iis formis quae praeter materiam sunt, istae formae veniunt quae sunt in materia &amp; 
+       <lb ed="#B" n="44"/>corpus efficiunt. Nam formis quae in corporibus sunt abutimur formas vocantes dum imagines sunt. assimi- 
+       <lb ed="#B" n="45"/>lantur enim formis iis quae non in materia. scilicet ideis in deo. Sed idem secundum rem est potentiale respectu sui 
+       <lb ed="#B" n="46"/>ipsius secundum aliam intentionem: quid non est inconueniens. Sic enim genus est in potentia ad differentias: et 
+       <lb ed="#B" n="47"/>esse ad viuere: vt habitum est supra. Vel potest intelligi participatio ipsius esse in re alia ab ipsa essen 
+       <lb ed="#B" n="48"/>tia participante: vt res illa sit quaedam participatio in ipsa essentia. et est falsa imaginatio: et coincidit 
+       <lb ed="#B" n="49"/>quodammodo in secundum membrum principalis diuisionis: qua aliquid dicitur participare alio a seipso 
+       <lb ed="#B" n="50"/>quod recipit in se. secundum quod dicit. iiii. regula Boetii. ld quod est, habere aliquid praeterquam quid ipsum est: po- 
+       <lb ed="#B" n="51"/>test. Quem tamen modum secundum Boetius omnino remouet a modo quo participatur esse: cum dicit in iii. 
+       <lb ed="#B" n="52"/>regula. Fit enim participatio cum aliquid iam est. Vnde participatio esse omnino est alia a modo quo  
+       <lb ed="#B" n="53"/>participatur, inhaerens participanti vt res alia ab ipso. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1756">
+       ET nota quod aliquid esse aequiuocatur in ista 
+       <lb ed="#B" n="54"/>regula: &amp; cum superius diximus quod res alio est, vt quadam diuina participatione: alio aliquid est, vt eo 
+       <!--884.xml-->
+       <pb ed="#B" n="422-r"/>
+        <lb ed="#B" n="1"/>quid est sui generis. Hic enim dicitur res aliquid esse non nisi secundum accidens sibi inhaerens vt corpus albedine:  
+       <lb ed="#B" n="2"/>ibi vero dicitur res aliquid esse eo quod est sui generis determinante ipsum esse. Respectu autem modi quo dicitur 
+       <lb ed="#B" n="3"/>res aliquid esse per accidens sibi inhaerens, dicitur res esse sua essentia: &amp; eo quid est sui generis. Et secundum hoc Com- 
+       <lb ed="#B" n="4"/>menta. exponit illam secundam regulam: Diuersum est esse &amp; quid est. dicens. Secundum <name ref="#Aristotle">philosophos</name> esse subsistentium dicuntur 
+       <lb ed="#B" n="5"/>solae quae praedicantur substantiae: quae sunt ea tantum quae alia in se habendo subsistunt. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1779">
+       TERtium quod inducit est 
+       <lb ed="#B" n="6"/>quod non esset ens per accidens si esse esset idem cum essentia. Dicendum quod verum est si sic esset idem cum illa quod non es 
+       <lb ed="#B" n="7"/>set aliquo modo participatio eius. sic enim in solo deo idem sunt esse &amp; essentia: &amp; ideo in ipsum nullum 
+       <lb ed="#B" n="8"/>per accidens cadit. Nunc autem non sic est idem quin differat intentione: &amp; est in essentia vt quaedam parti- 
+       <lb ed="#B" n="9"/>cipatio eius vt dictum est. llle autem intelligit quod nulla est participatio nisi habendo in se aliquid differens 
+       <lb ed="#B" n="10"/>secundum rem: cuius plenitudinem in se non habet: vt homo iustitia vel albedine dicitur participare quia non 
+       <lb ed="#B" n="11"/>omnem plenitudinem secundum rationem iustitiae aut albedinis in se habet. sic enim non habet iustitiam nisi qui  
+       <lb ed="#B" n="12"/>est per essentiam ipsa iustitia: nec albedinem nisi qui est per essentiam ipsa albebo. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1798">
+       QVARtum est: quod tunc 
+       <lb ed="#B" n="13"/>in entibus non esset genus: quia non est genus nisi potentiale quid praeter rationem actualis, quid non posset esse 
+       <lb ed="#B" n="14"/>si potentiale &amp; actuale in se essent idem. Quod non valet: ponendo enim quod sint idem re: differentia autem intentione  
+       <lb ed="#B" n="15"/>bene saluatur genus: quia genus non est potentiale nisi respectu differentiarum quae dant ei actuale suum: 
+       <lb ed="#B" n="16"/>quod non differt a genere re sed sola intentione. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1809">
+       QVINtum est: quod tunc non esset distinctio praedicamentorum  
+       <lb ed="#B" n="17"/>secundum analogiam sub ente. Dicendum quod ille supponit quod non potest esse analogia in participando esse: nisi 
+       <lb ed="#B" n="18"/>sit vnum numero in eodem: quid per se convenit substantiae &amp; non aliis nisi quia sunt in substantia. Et est falsum 
+       <lb ed="#B" n="19"/>quod non est nisi vnum &amp; idem esse in eodem: vt patebit in sequenti quaestione. Falsum etiam est quod aliter non pos 
+       <lb ed="#B" n="20"/>sent substantia &amp; accidens analogiam habere in esse. Immo esse substantiae existente alio ab esse accidentis: si 
+       <lb ed="#B" n="21"/>cut &amp; essentia substantiae est alia ab essentia accidentis &amp; econuerso: esse est quid conmune analogum abstra 
+       <lb ed="#B" n="22"/>ctum ab ipsis: inquantum substantia verius participat esse diuinum: verius existendo diuina similitudo quam sit 
+       <lb ed="#B" n="23"/>accidens. Vnde esse analogum ad substantiam non est aliquid idem singularitate: sed solum comonitate quadam supe 
+       <lb ed="#B" n="24"/>riore quam sit communitas generis: quia continet sub se. x. genera: &amp; diuersiticatur secundum diuersitatem rerum, propriarum 
+       <lb ed="#B" n="25"/>ipsis. Vnde philosophi ascribentes esse naturae rerum &amp; non diuinae participationi, cui ipsum attribuunt theolo- 
+       <lb ed="#B" n="26"/>gi: dicunt quod eodem quo res dicuntur esse: dicuntur aliquid esse: &amp; inde est quod hoc verbum est dicunt aequiuo-  
+       <lb ed="#B" n="27"/>ce praedicari de omnibus. vt dicit Commenta. super illud. Diuersum est esse &amp; quod est. 
+      </p>
+      <p xml:id="n3av8a-c1e4109-d1e1835">
+       SEXtum: quod non esset 
+       <lb ed="#B" n="28"/>mutatio in rebus: quia non est mutatio nisi diuersum sit actuale a potentiali. Dicendum quod verum est diuer 
+       <lb ed="#B" n="29"/>sitate reali circa illud quod est potentiale subiectiue tantum respectu sui actualis quod producitur de illo per veram 
+       <lb ed="#B" n="30"/>generationem. Sed circa illud quid est potentiale obiectiue: quale est essentia respectu esse: &amp; de potentiali 
+       <lb ed="#B" n="31"/>de quo producitur actuale suum per solam intentionem, sicut de esse viuere: sufficit ad mutationem a potentiali 
+       <lb ed="#B" n="32"/>ad actuale sola diuersitas secundum rationem inter illa. vt patet ex supra determinatis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

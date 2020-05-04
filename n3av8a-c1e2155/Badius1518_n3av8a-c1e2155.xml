@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 29</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 29</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="208-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2155">
+       <head xml:id="n3av8a-c1e2155-Hd1e96">Quaestio 29</head>
+       <p xml:id="n3av8a-c1e2155-d1e99">
+        <lb ed="#B" n="9"/>SEquuntur quaesita de actibus voluntatis exterioribus. Et erant quaedam perti 
+       <lb ed="#B" n="10"/>nentia ad actus virtutis: quaedam vero ad actus peccati. 
+      </p>
+      <p xml:id="n3av8a-c1e2155-d1e106">
+       CIRca primum duo quae  
+       <lb ed="#B" n="11"/>runtur. Primum: vtrum omnes teneantur ad correctionem fraternam. Secundum: 
+       <lb ed="#B" n="12"/>vtrum liceat dimittere diuitias sub proposito mendicandi in saeculo. 
+      </p>
+      <p xml:id="n3av8a-c1e2155-d1e113">
+       CIRca pri. 
+       <lb ed="#B" n="13"/>mum arguitur quod non quia nec de peccato occulto debet vnus corripere alium: 
+       <lb ed="#B" n="14"/>nec de manifesto. &amp; non sunt plura corrigenda. Non occulto: quia dicitur Mat 
+       <lb ed="#B" n="15"/>thaei. xiiii. de peccato corripiendo. Aduoca vnum vel duos testes. tale autem pec 
+       <lb ed="#B" n="16"/>ctatum de quo possunt haberi testes, occultum non est. Non de manifesto: quia dicit, Dic ecclesiae. Ma 
+       <lb ed="#B" n="17"/>nifestum autem dici non oportet. Item nec inferior debet corripere superiorem, quia. ii. Retinus iiii. dicitur 
+       <lb ed="#B" n="18"/>de Asm,a quod morte punitus est quia tetigit arcam: quae tamen se inclinauit. Per arcam inclinatam signi 
+       <lb ed="#B" n="19"/>ficatur praelatus delinquens: per Asa vero subditus. Nec superior inferiorem: quia in actuum. v. Petrus 
+       <lb ed="#B" n="20"/>Ananiam &amp; aphyram non corripuit: sed statim damnauit. Nec par parem: quia nec de occulto nec de 
+       <lb ed="#B" n="21"/>manifesto, vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e2155-d1e135">
+       IN contrarium est glossa quae dicit super illud, Si peccauerit in te. Tantum peccat 
+       <lb ed="#B" n="22"/>qui fratrem suum peccare videt &amp; tacet: sicut qui peccanti non indulget. Quilibet autem tene- 
+       <lb ed="#B" n="23"/>tur indulgere ne peccet. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2155-d1e143">
+       DIcendum ad hoc: quod si aliquis alium diligit, bonum eius pro- 
+       <lb ed="#B" n="24"/>curare satagit. quia secundum Greti. probaito dilectionis exhibitio est operis. Nunc autem eiusdem 
+       <lb ed="#B" n="25"/>rationis sunt bonum dilecto procurare, &amp; eum a malo liberare. Cum ergo omnes ad proximi dilectio- 
+       <lb ed="#B" n="26"/>nem teneantur iuxta illud Matthaei. xxiii. Diliges proximum tuum sicut teipsum: sicut ergo ex prae- 
+       <lb ed="#B" n="27"/>cepto de dilectione proximi omnes tenentur ad fraterni boni procurationem: omnes ergo tenen- 
+       <lb ed="#B" n="28"/>tur ad fraterni mali amotionem: hoc autem fit fraterna correptione: Dico ergo quod omnes ad frater- 
+       <lb ed="#B" n="29"/>nam correptionem tenentur. Hinc dicitur Ecclesiastici. xxvii. Mandauit deus vnicuique de proximo 
+       <lb ed="#B" n="30"/>suo. Modus autem corrigendi dependet ex solutione argumentorum. 
+      </p>
+      <p xml:id="n3av8a-c1e2155-d1e161">
+       AD primum in opposi- 
+       <lb ed="#B" n="31"/>tum quod nec de occulto debet fieri correptio nec de manifesto: Dicendum quod duplex est peccati cor- 
+       <lb ed="#B" n="32"/>reptio, quaedam charitatiua, ad solam emendationem peccantis: alia vero est potestatiua ad terrorem 
+       <lb ed="#B" n="33"/>aspicientis. Prima est correptio admonitionis: quae tantum debet esse de occultis &amp; in occulto. ad quam  
+       <lb ed="#B" n="34"/>quilibet tenetur inquantum est peccanti proximus. Secunda est correptio punitionis: quae tantum de-  
+       <lb ed="#B" n="35"/>bet esse de manifestis: aut per rei euidentiam: aut per testes: aut per propriam confessionem. &amp; de-  
+       <lb ed="#B" n="36"/>bet fieri in aperto: ad quam solum tenentur praelati. de qua dicit Paulus primae Timo. v Peccantem 
+       <lb ed="#B" n="37"/>coram omnibus argue vt caeteri timorem habeant. vbi dicit glos. Quando in te peccauerit corripe 
+       <lb ed="#B" n="38"/>eum inter te &amp; ipsum solum i, i. quando tu scis quod peccauerit tunc secreto argue: ne si publice ar- 
+       <lb ed="#B" n="39"/>gueris, non sis corrector sed proditor. Hinc dicit <name ref="#Augustine">Augustinus</name> sermo. xv. de verbis domini. Corripe in-  
+       <lb ed="#B" n="40"/>ter te &amp; ipsum intuens correptionem non pudorem. Forte enim prae verecundia incipit defendere pec 
+       <lb ed="#B" n="41"/>catum suum: &amp; quem vis facere correctiorem facis deteriorem. Et quod obiicitur contra hoc de eo quid di  
+       <lb ed="#B" n="42"/>cit dominus: Aduoca vnum: vel duos testes: tale autem non est occultum: Dicendum quod aduo-  
+       <lb ed="#B" n="43"/>cari possunt testes dupliciter. vel coram iudice vt testificentur illud. Sic non est occultum: nec sic in-  
+       <lb ed="#B" n="44"/>telligit dominus. vel ad percipiendum peccatum soli correptori notum: quibus adhuc est occultum 
+       <lb ed="#B" n="45"/>Et sic intelligit dominus quod post secretam correptionem si peccatum defenderit &amp; se emendare nolue- 
+       <lb ed="#B" n="46"/>rit, ante denunciationem debet vocare illos quos nouit velle prodesse &amp; non obesse vt cognoscant 
+       <lb ed="#B" n="47"/>peccatum quod ipse nouit, attendendo facta illius correpti: vt postquam testes habuit iudici denunciet: vt habeat 
+       <lb ed="#B" n="48"/>iudex testes per quos factum sibi notorium fiat vt ipsum: corrigat, melius est enim vt per dispendium 
+       <lb ed="#B" n="49"/>aliquantulum famae suae emendetur quam in peccato suo permaneat. Ad secundum quod nec superior de-  
+       <lb ed="#B" n="50"/>bet corripere nec inferior: Dicendum quod omnes indifferenter fraterne tenentur corripere. Et quod indu  
+       <lb ed="#B" n="51"/>citur de Asa: dicendum quod immundus erat &amp; indignus tangere arcam iuxta praecepta legis Mosai 
+       <lb ed="#B" n="52"/>cae. Et significat subditum qui imperiose &amp; cum scandalo praelatum corripit &amp; in aperto. Non il 
+       <!--457.xml-->
+       <pb ed="#B" n="208-v"/>
+        <lb ed="#B" n="1"/>n lum qui in occulto modeste &amp; verecunde corripit ipsum. 
+      </p>
+      <p xml:id="n3av8a-c1e2155-d1e221">
+       AD illud inductum de Petro, Dicen- 
+       <lb ed="#B" n="2"/>dum quod Petrus illud non fecit vt homo sed vt minister dei: cui reuelatum fuit quod sic puniendi essent 
+       <lb ed="#B" n="3"/>Et ideo factum illud ad consequentiam trahi non debet.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

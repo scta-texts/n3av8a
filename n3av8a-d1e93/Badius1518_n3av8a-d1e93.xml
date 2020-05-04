@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="220-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e93">
+       <head xml:id="n3av8a-d1e93-Hd1e96">Quaestio 3</head>
+       <p xml:id="n3av8a-d1e93-d1e99">
+        <lb ed="#B" n="26"/>CIrca secundum arguitur, quod impossibilitas circa fieri rerum debet dici oriri ex parte dei: quia ex 
+       <lb ed="#B" n="27"/>parte dei est sicut ex parte actiui: ex parte rei sicut ex parte passiui, quid autem est in passi- 
+       <lb ed="#B" n="28"/>uo tantum est ab actiuo: quia secundum auctorem sex principiorum passio est effectus illatioque  
+       <lb ed="#B" n="29"/>actionis. ergo &amp;c. Item quod contractoria non possunt esse in eodem contingit quia non ha  
+       <lb ed="#B" n="30"/>bent seminalem rationem in se. illam autem non habent: quia deus eam non dedit: quia si de-  
+       <lb ed="#B" n="31"/>disset: eam haberent, &amp; possent ex ipsa contradictoria esse simul, quod ergo non possunt 
+       <lb ed="#B" n="32"/>esse simul: ratio est pura ex parte dei. 
+      </p>
+      <p xml:id="n3av8a-d1e93-d1e117">
+       IN contrarium est illud quod dicit Auicenna. iiii. 
+       <lb ed="#B" n="33"/>Metaphysicae Agens non potest: quia non est possibile in se. 
+      </p>
+      <p xml:id="n3av8a-d1e93-d1e122">
+       DIcendum ad haec: quod in omnibus quae deo at-  
+       <lb ed="#B" n="34"/>tribuuntur considerandum est an illud quod ei attribuitur significat secundum rationem sui nominis aliquid quod est dignita 
+       <lb ed="#B" n="35"/>tis simpliciter: quod debet esse tale quid quod in quolibet simpliciter melius est esse ipsum quam non ipsum. secundum regulam 
+       <lb ed="#B" n="36"/>Anseins quam exposuimus alibi. Quia si tale fuerit, qualia sunt illa quae significantur nominibus diuinorum attri 
+       <lb ed="#B" n="37"/>butorum essentialium: vt sunt sapientia, bonitas &amp; huiusmodi: tunc simpliciter illud secundum se &amp; primo 
+       <lb ed="#B" n="38"/>deo attribuendum est tanquam illi a quo ortum habet: &amp; habet esse ab illo in aliis secundum rationem rei: licet 
+       <lb ed="#B" n="39"/>secundum nominis impositionem primo conveniat creaturis: quae nomina eis quae videntur in creatu- 
+       <lb ed="#B" n="40"/>ris, primo sunt imposita. Si vero illud quod attribuitur deo secundum rationem sui nominis significat aliquid quid  
+       <lb ed="#B" n="41"/>non est dignitatis simpliciter: etsi tale deo attribuitur: hoc non est secundum se &amp; primo: sed quia aliquid at-  
+       <lb ed="#B" n="42"/>tribuitur creaturae: &amp; ex respectu eius ad deum, illud deo attribuitur. Sed tale quod non est dignitatis simplici 
+       <lb ed="#B" n="43"/>ter, est tale: aut quia si sit dignitatis: non tamen simpliciter &amp; absolute melius est deum esse ipsum quam non ip 
+       <lb ed="#B" n="44"/>sum: aut quia non est aliquid dignitatis: quia nihil positiue dicit: sed priuatiue solum. Primo modo deo at 
+       <lb ed="#B" n="45"/>tribuuntur omnia nomina quae respectum dicunt in eo ad creaturas: quia creaturae respectum dicunt ad ipsum 
+       <lb ed="#B" n="46"/>secundum quod deo attribuitur esse dominum: quia ex tempore habet seruum. Et oritur iste respectus a creatura in quae est relatio se 
+       <lb ed="#B" n="47"/>cundum rem &amp; esse: &amp; non a deo, in quo est relatio secundum rationem &amp; secundum dici. Vnde deus de dominus: quia habet creatu- 
+       <lb ed="#B" n="48"/>ram seruam: &amp; non econuerso creatura dicitur serua: quia habet deum dominum. &amp; sic etiam attribui 
+       <lb ed="#B" n="49"/>tur deo posse aliquid super creaturam actiue: quia creatura est in se possibilis ad recipiendum in se actio- 
+       <lb ed="#B" n="50"/>nem creatoris. Sed est aduertendum tam ex parte possibilitatis dei actiue quam creaturae passiue: quod vtrumque est 
+       <lb ed="#B" n="51"/>dupliciter considerare, aut in comparatione ad suum subiectum in quo est, vel in comparatione ad suum 
+       <lb ed="#B" n="52"/>obiectum ad quod est. vt potentiam passiuam creaturae possumus considerare in comparatione ad substan  
+       <lb ed="#B" n="53"/>tiam creaturae: vel in respectu ad deum qui aliquid potest actiue super ipsam: &amp; similiter potentiam dei acti 
+       <lb ed="#B" n="54"/>nam ad ipsum vt ad subiectum: &amp; ad creaturam vt ad obiectum. Et sic se habet ipsa potentia creaturae 
+       <!--481.xml-->
+       <pb ed="#B" n="220-v"/>
+        <lb ed="#B" n="1"/>in isto duplici respectu quod idem est secundum rem &amp; subiectum, differens sola ratione, &amp; ratio comparationis suae 
+       <lb ed="#B" n="2"/>ad subiectum est ratio comparationis suae ad obiectum. Et similiter est de potentia dei actiua: praeter hoc quod non di  
+       <lb ed="#B" n="3"/>citur deus ad creaturam per suam potentiam actiuam: nisi quia creatura dicitur ad ipsum per suam potentiam 
+       <lb ed="#B" n="4"/>passiuam. Vnde quia prior est secundum rationem comparatio cuiuslibet potentiae ad subiectum quam ad obiectum: ideo  
+       <lb ed="#B" n="5"/>dicit Auicen. vi. Metaphysicae Omne quod incipit esse antequam sit necesse est vt sit in se possibile. Si enim non fue 
+       <lb ed="#B" n="6"/>rit possibile in se: illud non erit vllo modo: quia non est potentia actiui in respectu ad passiuum: nisi quia 
+       <lb ed="#B" n="7"/>passiuum habet respectum sua potentia ad ipsum. ldeo continuo subdit. Non est autem possibilitas sui esse eo quod agens 
+       <lb ed="#B" n="8"/>sit potens super illud: quia agens non est potens super illud: cum ipsum non fuerit possibile in se. Et appellat possibile 
+       <lb ed="#B" n="9"/>in se: ex respectu potentiae comperatae ad ipsum: vt ad subiectum. Vnde postquam induxit probationem suam super iam praemissa 
+       <lb ed="#B" n="10"/>subdit. Aperte igitur manifestum est quod intentio essendi rem in se possibilem, non est intentio ipsam essendi 
+       <lb ed="#B" n="11"/>sic vt sit possibile supe eam, quamuis quantum ad subiectum sunt vnum. ipsam. n. sic esse vt sit possibile supe eam con- 
+       <lb ed="#B" n="12"/>municans est ad ipsam esse possibile in se est ratio suiipsius. &amp; ipsam esse sic &amp; sic possibile super eam: est 
+       <lb ed="#B" n="13"/>respectu suae relationis ad datorem essendi. Et secundum hoc deus non dicitur posse super creaturam aliquid: nisi quia  
+       <lb ed="#B" n="14"/>simpliciter est potens in se: &amp; quia ipsa est potens respectu eius. &amp; ipsa non dicitur potens respectu eius: nisi quia 
+       <lb ed="#B" n="15"/>simpliciter est potens in se. Simpliciter tamen &amp; absolute ipsa creatura non dicitur potens in se aliquo modo pas 
+       <lb ed="#B" n="16"/>siue: nisi quia deus est in se potens potentia actiua respondente illi potentiae passiuae, quod ideo contingit: quia sic pos 
+       <lb ed="#B" n="17"/>se in deo respectu sui ipsius &amp; in se consideratum, est deo dignitatis simpliciter &amp; absolutae, posse, n. acti 
+       <lb ed="#B" n="18"/>ue secundum se melius est simpliciter cuique quam non posse. Sed quia posse hoc consideratur in respectu ad creaturam: 
+       <lb ed="#B" n="19"/>quamuis sit dignitatis: non tamen est dignitatis simpliciter: quia nihil dignitatis simpliciter potest deo inesse ex respe- 
+       <lb ed="#B" n="20"/>ctu ad creaturas: quia in seipso non minus dignitatis habet si secundum se absolute consideratur, quam si consideretur in re 
+       <lb ed="#B" n="21"/>spectu ad creaturas: eo quod nihil dignitatis recipit a creaturis: quia bonorum nostrorum non eget. Et quod pos 
+       <lb ed="#B" n="22"/>se dei in respectu ad creaturas consideratum: aliquid dignitatis dicit licet non simpliciter hoc contingit quia  
+       <lb ed="#B" n="23"/>idem posse vt habet secundum se &amp; respectu sui: est posse simpliciter. propter quid creatura habet in se &amp; secundum se 
+       <lb ed="#B" n="24"/>&amp; respectu sui posse passiuum illi respondens: a quo habet quod dicitur posse respectu dei: &amp; propter illud pos- 
+       <lb ed="#B" n="25"/>se quo dicitur creatura respectu dei, dicitur vice versa deus posse respectu creaturae. Et sic absolute loquen 
+       <lb ed="#B" n="26"/>do, non est posse passiuum in creatura: nisi quia est posse actiuum in deo. Vnde cum quatuor sunt respe 
+       <lb ed="#B" n="27"/>ctus secundum posse: duo secundum posse actiuum: vnus quo posse dei comparatur ad deum: vt cuius est: alius quo  
+       <lb ed="#B" n="28"/>comparatur ad creaturam: vt ad quam est: &amp; duo secundum posse passiuum: vnus quo comparatur ad creaturam vt cu- 
+       <lb ed="#B" n="29"/>ius est: alius secundum quem comparatur ad deum vt ad quem est: in ipsis talis est ordo: quoniam ex posse dei actiuo secundum 
+       <lb ed="#B" n="30"/>se est posse passiuum in creatura secundum se: &amp; ex posse passiuo creaturae secundum se: conmunicatur posse passiuum 
+       <lb ed="#B" n="31"/>creaturae respectu dei: ex posse creaturae passiue respectu dei, dicitur deus posse actiue respectu creatu 
+       <lb ed="#B" n="32"/>rae: vt secundum hoc in creatura non est simpliciter posse passiue secundum se: nisi quia posse actiue est in deo: non autem quiae  
+       <lb ed="#B" n="33"/>posse aliquod actiue respondens illi posse passiue in vna creatura sit in alia creatura: vt dicatur aliquid passiue per se 
+       <lb ed="#B" n="34"/>&amp; simpliciter possibile in creatura, respectu potentiae creatoris scilicet quia ipse habet potentiam actiuam ad illud ad  
+       <lb ed="#B" n="35"/>quid creatura habet potentiam passiuam: non respectu potentiae alicuius alterius creature. scilicet quia habet potentiam 
+       <lb ed="#B" n="36"/>actiuam ad illud ad quod alia creatura habet potentiam passiuam: nisi per accidens. Vt quemadmodum cibus 
+       <lb ed="#B" n="37"/>non dicitur sanus simpliciter, nisi respectu simpliciter sani: non autem respectu aegroti nisi per accidens: est enim sa- 
+       <lb ed="#B" n="38"/>nus simpliciter qui est sanus sano: non autem qui est sanus aegroto: sic posse siue possibile passiue per se &amp; sim 
+       <lb ed="#B" n="39"/>pliciter non dicitur in creatura nisi in respectu ad illud quod est simpliciter posse potentia actiua, quale 
+       <lb ed="#B" n="40"/>est in solo deo: non autem respectu illius quod est posse actiue secundum quid. cuiusmodi est posse actiue cuiusli 
+       <lb ed="#B" n="41"/>bet creaturae respectu posse dei actiue. Potest enim passiue simpliciter creatura quid potest, &amp; quid potest agen 
+       <lb ed="#B" n="42"/>te illo qui est potens simpliciter: non autem quod potest seu quia potest agente illo qui non est simpliciter potens attingit 
+       <lb ed="#B" n="43"/>cuiusmodi est omnis creatura. Etenm potentia actiua creaturae non est nisi quaedam participatio potentiae actiuae crea 
+       <lb ed="#B" n="44"/>toris. Si vero iuxta secundum membrum supra positum aliquid non est dignitatis simpliciter: quia nihil dignita- 
+       <lb ed="#B" n="45"/>tis habet omnino aut importat scilicet quia nihil positiue dicit: sed tantum priuatiue: hoc modo nihil deo attribuitur 
+       <lb ed="#B" n="46"/>secundum se, aut ex se: neque primo &amp; principaliter: sed solum attribuitur per se &amp; ex se &amp; primo &amp; principaliter 
+       <lb ed="#B" n="47"/>creaturae secundum se, &amp; exinde in respectu ad deum: &amp; ex hoc tertio deo in respectu ad creaturam. Vnde  
+       <lb ed="#B" n="48"/>alibi declaratum est quomodo illa quae modo priuationes dicuntur de deo secundum se: vt incorruptibi 
+       <lb ed="#B" n="49"/>le, &amp; inuisibile &amp; huiusmodi reales potentiae important multum inconfallibiles a nobis. 
+      </p>
+      <p xml:id="n3av8a-d1e93-d1e281">
+       DEscendendo ergo ad  
+       <lb ed="#B" n="50"/>propositum dicimus de impossibili quod dicitur priuatiue, &amp; realiter: non impotentia nisi a priuatione  
+       <lb ed="#B" n="51"/>eius quod est vere positiuum cuiusmodi est potentia actiua aut passiua: quod in creaturis habet esse secundum se, 
+       <lb ed="#B" n="52"/>&amp; per se in respectu ad deum: cum impossibile attribuitur ex respectu impossibilis in creatura ad ipsum 
+       <lb ed="#B" n="53"/>&amp; nullo modo secundum se, &amp; ex se. &amp; sic modo converso: sicut possibile simpliciter primo attribuitur deo  
+       <lb ed="#B" n="54"/>actiue secundum se: &amp; ex hoc attribuitur creaturae posse passiue secundum se primo: &amp; deinde in respectu 
+       <!--482.xml-->
+       <pb ed="#B" n="221-r"/>
+        <lb ed="#B" n="1"/>ad deum: ex quo demum attribuitur deo in respectu ad creaturam sicut iam dictum est: sic impossibile simpliciter 
+       <lb ed="#B" n="2"/>primo attribuitur creaturae secundum se: &amp; ex hoc in respectu ad deum. ex quo deinde attribuitur deo in respectu ad  
+       <lb ed="#B" n="3"/>creaturas. Nullo autem modo attribuitur ipsi secundum se &amp; ex seipso. Et hoc quoniam quemadmodum non posse illumi 
+       <lb ed="#B" n="4"/>nare aliquid extra extremam circunferentiam caeli attribuitur soli: quia impossibile est ibi esse aliquid illuminabile: non quia  
+       <lb ed="#B" n="5"/>ipse in se secundum se habeat aliquam impotentiam ad illud: immo quantum est in se: ipse sol aeque potens est ad illuminandum  
+       <lb ed="#B" n="6"/>supra caelum sicut infra: sic non posse facere contradictoria esse simul attribuitur deo: quia impossibile est quod ipsa 
+       <lb ed="#B" n="7"/>in se recipiant simultatem. Nec est huius aliqua ratio quaerenda ex parte dei, siue ex parte idearum, siue alio 
+       <lb ed="#B" n="8"/>modo: quia non habet rationem nisi pure priuatiuam: quae ex parte dei secundum se inueniri non potest. vt pa- 
+       <lb ed="#B" n="9"/>tet in exemplo de sole. Ex quo patet quod licet impossibile simpliciter dicatur in creatura passiue ex respe- 
+       <lb ed="#B" n="10"/>ctu ad deuem. scilicet quia est impossibile deo: &amp; secundum quid ex respectu ad creatura. scilicet quia impossibile est 
+       <lb ed="#B" n="11"/>creaturae: Ezechiam enim superuiuere licet erat impossibile respectu potentiae actiuae creaturae: non ta 
+       <lb ed="#B" n="12"/>men erat impossibile simpliciter: quia non erat impossibile respectu dei. Et hoc quemadmodum possibile sim 
+       <lb ed="#B" n="13"/>pliciter non dicitur passiue in creatura ex respectu ad creaturam: sed solum ex respectu ad deum: vt iam 
+       <lb ed="#B" n="14"/>dictum est &amp; expositum: Non tamen eodem modo possibile &amp; impossibile in creatura: dicuntur respectu possibilis &amp; impos 
+       <lb ed="#B" n="15"/>sibilis in deo. Quoniam possibile in creatura passiue, dicitur respectu possibilis in deo actiue: vt a quo habet esse 
+       <lb ed="#B" n="16"/>in creatura: quia habet esse primo in deo. Impossibile vero in creatura passiue dicitur respectu impossibi 
+       <lb ed="#B" n="17"/>lis in deo actiue: non vt a quo habet esse in creatura: sed quia ex eo quod impossibile creaturae dicitur in respe- 
+       <lb ed="#B" n="18"/>ctu ad deum, ideo econuerso dicitur esse impossibile in deo in respectu creaturae. Et hoc alio modo quam  
+       <lb ed="#B" n="19"/>ab eo quod impossibile passiue vnius creaturae dicitur in respectu ad impossibile actiue alterius creaturae. 
+       <lb ed="#B" n="20"/>Dicitur econuerso impossibile actiue in illa altera creatura respectu prioris: quoniam impossibile pas 
+       <lb ed="#B" n="21"/>siue vnius creaturae est impossibile secundum quid respectu impossibilis actiue alterius creaturae: sim 
+       <lb ed="#B" n="22"/>pliciter vero est impossibile respectu impossibilis in deo. Non enim sequitur: Ezechias non potuit superui 
+       <lb ed="#B" n="23"/>xisse agente potentia naturali, ergo non potuit supuixisse simpliciter &amp; absolute: sed sequeretur non po- 
+       <lb ed="#B" n="24"/>tuit superuixisse potentia supernaturali diuina agente: ergo simpliciter &amp; absolute non potuit supui- 
+       <lb ed="#B" n="25"/>xisse. Vnde quid est ipossibile respectu agentis creati est possibile simpliciter: non quia est ipossibile illi: 
+       <lb ed="#B" n="26"/>sed quia est possibile respectu agentis increati, maior enim virtus includit minorem: si enim sit aliquid pos- 
+       <lb ed="#B" n="27"/>sibile agenti increato: simpliciter est possibile: etsi non sit possibile agenti creato. Similiter quod est ipossibile agenti 
+       <lb ed="#B" n="28"/>increato, est impossibile agenti creato: &amp; est simpliciter ipossibile: non quia est ipossibile agenti increato: sed quia est 
+       <lb ed="#B" n="29"/>impossibile agenti creato, quod enim impossibile agenti creato: ex hoc non est ipossibile simpliciter: si sit so- 
+       <lb ed="#B" n="30"/>lum possibile agenti increato. Quid ergo arguitur primo in contrarium: quod impossibile in actiuo est causa im 
+       <lb ed="#B" n="31"/>possibilis in passiuo: dicendum quod non est verum: nec est simile de possibili quod in actiuo est causa possibilis in  
+       <lb ed="#B" n="32"/>passiuo: quia possibile dicit aliquid pure positiuum: &amp; positio in effectu non est nisi a positione in sua per 
+       <lb ed="#B" n="33"/>se causa. Impossibile nihil dicit nisi priuatiue. priuatio autem &amp; defectus bene habet esse in effectu absque  
+       <lb ed="#B" n="34"/>omni defectum &amp; priuatione in sua per se causa. creatura enim ex se habet defectum licet non profectum. 
+      </p>
+      <p xml:id="n3av8a-d1e93-d1e373">
+       AD 
+       <lb ed="#B" n="35"/>secundum quod creatura non recipit contradictoria simul: quia non habet seminale principium ad illud: Dicen- 
+       <lb ed="#B" n="36"/>dum quod verum est: &amp; illud si haberet, a deo haberet: &amp; hoc non nisi quia posset agere quod contradictoria essent si 
+       <lb ed="#B" n="37"/>mul. Et quid assumitur: non habet illud seminale principium nisi quia deus non dedit: Dicendum quod falsum 
+       <lb ed="#B" n="38"/>est. immo ex natura rei inquantum est res communissime dicta, prouenit quod non habet seminale principium 
+       <lb ed="#B" n="39"/>ad contradictoria esse simul scilicet quia ipsa ex se non habet potentiam ad habendum illud. Et hoc quia illud  
+       <lb ed="#B" n="40"/>est tale quod non potest haberi: quia nec est res etiam a reor reris dicta: &amp; ex hoc contingit quod non habet ideam in  
+       <lb ed="#B" n="41"/>deo. licet enim res a ratitudine dicta ex hoc est res &amp; natura vel essentia aliqua quod habet ideam in deo:  
+       <lb ed="#B" n="42"/>illud tamen quod non est res a ratitudine dicta: &amp; maxime nec a reor reris dicta: non ex hoc non est res 
+       <lb ed="#B" n="43"/>quia non habet ideam in deo: sed potius non habet ideam in deo quia secundum se non est res. Positiuum 
+       <lb ed="#B" n="44"/>enim in essentia creaturae non est nisi a positione in deo. Priuatiuum vero in creatura aut etiam pure negati- 
+       <lb ed="#B" n="45"/>uum circa creaturam non est ab alio priuatiuo vel negatiuo in deo: sed ex seipso. secundum quod malum &amp; non  
+       <lb ed="#B" n="46"/>ens priuatiuum non habet nisi causam priuatiuam: malum vero vel non ens negatiuum nullam causam 
+       <lb ed="#B" n="47"/>omnino habet. dicente Dionysi. iiii. c. de diui. no. Malum est sine causa &amp; indefinitum: &amp; sine germine. vbi dicit 
+       <lb ed="#B" n="48"/>alia transi. Causale infinitum infoecundum. Est autem infoecundum &amp; sine germine quod est sine principio seminali 
+       <lb ed="#B" n="49"/>secundum quod alias exposuimus loquendo in alio quolibet de principio seminali. Vnde patet quod non sequi  
+       <lb ed="#B" n="50"/>tur illud quod illud vltimo assumitur: si deus dedisset rei principium seminale ad contradictoria, habuisset. er 
+       <lb ed="#B" n="51"/>go non habet illud quia deus non dedit. &amp; hoc propter causam iam dictam. Ex quo sumitur regula philosophi in  
+       <lb ed="#B" n="52"/>Topi. quod in contradictoriis quae sunt per se non tenet consequentia in ipso, sed econtrario. Non enim se 
+       <lb ed="#B" n="53"/>quitur: si album est: coloratum est: ergo si non album est, non coloratum est: sed si non est coloratum non est 
+       <lb ed="#B" n="54"/>album. Similiter in proposito sequitur: si deus dedisset rei seminarium ad esse contradictoria simul, habuisset 
+       <!--483.xml-->
+       <pb ed="#B" n="221-v"/>
+        <lb ed="#B" n="1"/>illud. Non tamen sequitur in ipso: ergo quia deus non dedit ipsa, non habuit: sed econtrario quia non habuit 
+       <lb ed="#B" n="2"/>ideo non dedit. Non dare, eni non est ratio non habere: sed econtrario non habere est ratio eius quid est non dare.  
+       <lb ed="#B" n="3"/>Ratio dico non essendi sed consequendi seu denominandi. Et hoc iuxta determinationem Anselu. de casudia  
+       <lb ed="#B" n="4"/>boli. vbi per totum. c. iii. determinat: quod non sequitur si angelus bonus ideo perseuerauit quia perseuerantiam ha  
+       <lb ed="#B" n="5"/>buit: &amp; ideo habuit quia accepit: &amp; ideo accepit quia deus dedit: ergo consequens est vt ille qui in veri 
+       <lb ed="#B" n="6"/>tate non stetit, quemadmodum non perseuerauit quia perseuerantiam non habuit: &amp; ideo non habuit quia non ac-  
+       <lb ed="#B" n="7"/>cepit: sic ideo non accepit quia deus non dedit.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

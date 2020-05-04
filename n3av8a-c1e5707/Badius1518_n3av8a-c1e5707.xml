@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 14</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 14</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="589-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5707">
+       <head xml:id="n3av8a-c1e5707-Hd1e96">Quaestio 14</head>
+       <p xml:id="n3av8a-c1e5707-d1e99">
+        <lb ed="#B" n="12"/>CIRCA secundum arguitur: quod indulgentiae a praelatis ecclesiae concessae fidelibus tantum  
+       <lb ed="#B" n="13"/>valent eis, quantum sonant sic. cum duo aliqua se habent sicut principale &amp; accessorium, illud  
+       <lb ed="#B" n="14"/>quod attingit principale attingit &amp; accessorium. Corpus Christi verum quod assumpsit de vir 
+       <lb ed="#B" n="15"/>gine, &amp; meritum passionis suae in illlo se habent, sicut principale &amp; accessorium, quia non 
+       <lb ed="#B" n="16"/>erat meritum passionis, nisi ratione innocentiae corporis, &amp; immunitatis a contagio originalis. 
+       <lb ed="#B" n="17"/>Vnde ratione innocentiae dictus est agnus dei, &amp; ratione meriti tollere peccata mundi 
+       <lb ed="#B" n="18"/>dicente Ioanne Baptista. Ioan. primo. Ecce agnus dei, ecce qui tollit peccata mundi. Praelati autem ecclesiae 
+       <lb ed="#B" n="19"/>attingunt principale, puta corpus Christi, in sacramento ex commissione Christi, sic vt possit ipsum libere &amp; 
+       <lb ed="#B" n="20"/>plene dispensare, quando volunt, quibus volunt, &amp; quantum volunt. praelati ergo ecclesiae attingunt &amp; accesso- 
+       <lb ed="#B" n="21"/>rium puta meritum christi ex commissione christi, sic vt possint ipsis fidelibus libere &amp; plene dispensare, quando 
+       <lb ed="#B" n="22"/>volunt, quibus volunt, &amp; quantum volunt ex eadem conmissione. Hoc autem non esset nisi tantum valerent, quantum  
+       <lb ed="#B" n="23"/>sonant: quia ista dispensatio non sit nisi ex concessione indulgentiarum, quia non fiunt nisi de thesauro meriti 
+       <lb ed="#B" n="24"/>passionis christi &amp; membrorum suorum fidelibus, qui meruerunt non sibi, sed nobis poenae remissionem: &amp; volun 
+       <lb ed="#B" n="25"/>tatem suam super quantitate indulgentiarum exprimunt praelati ecclesiae personum verborum, quibus eas conferunt. va 
+       <lb ed="#B" n="26"/>lent ergo tantum, quantum sonant. 
+      </p>
+      <p xml:id="n3av8a-c1e5707-d1e134">
+       CONtra. deus non acceptat factum dispensationis praelatorum ecclesiae: nisi 
+       <lb ed="#B" n="27"/>secundum iustitiam, quia non placet ei nisi iustum: &amp; nihil acceptat nisi iuxta suam complacentiam. sed non est iu- 
+       <lb ed="#B" n="28"/>stitia indulgentiam aeque valere inaequaliter dispositis secundum dignitatem &amp; meritum, puta magis, &amp; 
+       <lb ed="#B" n="29"/>minus meritis, seu dignius. ergo deus non acceptat factum dispensationis praelatorum ecclesiae, quo  
+       <lb ed="#B" n="30"/>dispensant indulgentiam aequaliter valere his, &amp; illis. Si autem non acceptat illam tantum valere his, &amp; il 
+       <lb ed="#B" n="31"/>lis non tantum valent quantum sonant: quia sic sonant acsi aequaliter valerent omnibus, &amp; his &amp; il- 
+       <lb ed="#B" n="32"/>lis, puta cum dicit praelatus ecclesiae, omnibus visitantibus talem, vel talem locum, concedimus singulis diebus. xl. 
+       <lb ed="#B" n="33"/>aut centum dies indulgentiarum, aut aliquid talium. ergo &amp;c. Quaestionem istam de indulgentiis, quantum valent, prae 
+       <lb ed="#B" n="34"/>cedunt aliae duae scilicet an valeant, &amp; quid valeant, &amp; ante omnes has prima est quaestio de indulgentia quid sit, &amp; sic in  
+       <lb ed="#B" n="35"/>ista materia oportet videre ante omnia descriptionem indulgentiae talem, vt ex membrorum eius declaratione pa 
+       <lb ed="#B" n="36"/>tere possit veritas eorum quae circa illam sentienda sunt, &amp; siqua sunt dubia, &amp; contraria omnia soluantur. 
+       <lb ed="#B" n="37"/>
+      </p>
+      <p xml:id="n3av8a-c1e5707-d1e160">
+       EST autem indulgentia remissio poenae temporalis debitae peccatis actualibus poenitentium. Temporalis dico non re- 
+       <lb ed="#B" n="38"/>missae in absolutione sacramentali facta a praelato ecclesiae rationabili rationabiliter &amp; ex causam per recompensationem de 
+       <lb ed="#B" n="39"/>poena indebita iustorum. Et in hac descriptione ponitur remissio loco generis. est enim omnis indulgentia remissio, 
+       <lb ed="#B" n="40"/>sed non econuerso. vnde reliqua membra descriptionis sunt loco differentiae, quia indulgentia de qua ad prae-  
+       <lb ed="#B" n="41"/>sens loquimur, non est remissio nisi poenae, &amp; hoc ad differentiam remissionis culpae, seu peccati, pro quo de-  
+       <lb ed="#B" n="42"/>beret solui poena, quid nequaquam remitti potest a praelato ecclesia, nisi mediante sacramento ecclesiae ad hoc 
+       <lb ed="#B" n="43"/>a christo instituto, sed immediate solo verbo aut voluntate a solo deo, &amp; ita a christo inquantum deus est. 
+       <lb ed="#B" n="44"/>Est etiam indulgentia remissio poenae: sed non nisi temporalis: &amp; hoc ad differentiam poenae aeternalis, super quam 
+       <lb ed="#B" n="45"/>praelati ecclesiae non habent potestatem nisi commutandi eam in temporalem mediante sacramento poenitentiae cum re- 
+       <lb ed="#B" n="46"/>missione peccatorum. Est etiam indulgentia remissio poenae temporalis, sed non nisi debitae, &amp; hoc ad differentiam 
+       <lb ed="#B" n="47"/>indebitae poenae, qualem sustinuerunt multi martyres, quae non est remissionis indulgentialis materia: sed causa 
+       <lb ed="#B" n="48"/>meritoria, vt declarabitur in vltima differentia posita in descriptione. Et non est remissio poenae temporalis debitae 
+       <lb ed="#B" n="49"/>nisi peccatis: &amp; hoc ad differentiam poenae, qua deus punit aliquos non ex culpa, quae etiam non est materia indulgentiae 
+       <lb ed="#B" n="50"/>Non est etiam indulgentia remissio poenae temporalis debitae peccatis nisi actualibus, &amp; hoc ad differentiam poenae de 
+       <lb ed="#B" n="51"/>bitae peccatis originalibus, quae non remittuntur nisi cum peccato in baptismo, aut immediate a deo. Non est etiam remissio 
+       <lb ed="#B" n="52"/>poenae temporalis debitae peccatis actualibus nisi poenitentium, &amp; hoc ad differentiam poenae aeternalis debitae peccatis 
+       <lb ed="#B" n="53"/>actualibus non poenitentium, quae quandoque hic incipit temporaliter, &amp; in tartaro completur aeternaliter. &amp; est omnino irremissibi 
+       <lb ed="#B" n="54"/>lis a praelato ecclesiae. Est etiam indulgentia remissio poenae temporalis, sed non nisi non remissae vere poenitentibus 
+       <!--1219.xml-->
+       <pb ed="#B" n="589-v"/>
+        <lb ed="#B" n="1"/>in absolutione sacramentali. &amp; hoc ad diam poenae debitae temporalis remissae illis in absolutione sacramen 
+       <lb ed="#B" n="2"/>tali per sacerdotem, in qua aboletur, siue remittitur peccati macula, &amp; commutatur poena aeterna peccatis debita 
+       <lb ed="#B" n="3"/>in temporalem: &amp; illius temporalis poenae pars per absolutionem sacramentalem factam a sacerdote remittitur, &amp; hoc virtu 
+       <lb ed="#B" n="4"/>te clauis sacramentalis potestatis. Cuius etiam poenae temporalis pars remittitur per meritum contritionis ipsius poenitem 
+       <lb ed="#B" n="5"/>tis, &amp; forte tota. tanta posset esse contritio. Quia si non tota, per sacramentalem absolutionem, &amp; per sacramentalem con 
+       <lb ed="#B" n="6"/>tritionem remittatur, ipse absolutus deleta macula culpae debitor manet poenae residuae soluendae. cuius quanti 
+       <lb ed="#B" n="7"/>tas &amp; quo ad acerbitatem &amp; quo ad durationem in tempore in vnoquoque iusto poenitente apud diuinam iusti- 
+       <lb ed="#B" n="8"/>tiam definita &amp; determiata est: &amp; deo eam soluere tenetur poenitens vno trium modorm scilicet redemptione, luitione, 
+       <lb ed="#B" n="9"/>aut indulgentiae remissione. Redemptione scilicet eleemosynarum elargitione. secundum illud Dan. x. Peccata tua 
+       <lb ed="#B" n="10"/>eleemosynis redime. Luitione scilicet poenas illas in propria persona sustinendo. secundum illud lob. xx. Luet quaecumque se 
+       <lb ed="#B" n="11"/>cerit. lsta autem solutio quae sit luitione, dupliciter habet fieri. secundum duplex forum, quorum vnum est hominis poeniten- 
+       <lb ed="#B" n="12"/>tis, aliud vero dei. Est autem forum hominis poenitentis in praesenti vita, in quo soluit satisfaciendo per poenam volum- 
+       <lb ed="#B" n="13"/>tarie assumptam, absque eo quod a sacerdote sacramentaliter iniungatur, aut in contritione sacramentali soluatur. Est ve 
+       <lb ed="#B" n="14"/>ro forum dei in purgatorio, in quo soluit satiffaciendo per poenam a deo inflictam. Et se habent poenae soluendae  
+       <lb ed="#B" n="15"/>in isto duplici foro, &amp; soluendae seu solutae per sacramentalem contritionem, aut per sacramentalem sacerdotis iniun  
+       <lb ed="#B" n="16"/>ctionem, quae potest dici solutio poenae in foro christi hominis, per ordinem in praetio. quia poena in foro christi soluta di  
+       <lb ed="#B" n="17"/>uina reputatione chara est &amp; pretiosa valde, quia sacramentalis, minus autem est chara &amp; praetiosa illa, quae soluitur in  
+       <lb ed="#B" n="18"/>foro poenitentis. vilis autem &amp; mime chara, seu pretiosa est illa, quae soluitur in foro dei. quia in istis tribus foris 
+       <lb ed="#B" n="19"/>poenis inaequalibus non soluitur nisi aequale debitum. Vnde siquis non soluerit totam poenam temporalem, cuius debitor est pro peccatis 
+       <lb ed="#B" n="20"/>suis, in sacramenali contritione, aut sacramenali iniunctione a sacerdote, si vult pro poena satisfactoria vnius diei in foro 
+       <lb ed="#B" n="21"/>christi satisfacere poena vnius diei in foro poenitenti, acerbitas poenae diei illius erit maior. Si est aliquis non sol 
+       <lb ed="#B" n="22"/>uit totam poenam praedictam temporalem, cuius est debitor, nec in foro christi, nec in foro poenitenti, si oporteat illum pro poe 
+       <lb ed="#B" n="23"/>na satisfactoria vnius diei in foro christi, aut in foro poenitentis, satisfacere poenavnius diei in foro dei, acerbi 
+       <lb ed="#B" n="24"/>tas poenae vnius diei satisfactoriae in foro dei erit multo maior. De solutione autem poenae debitae per indulgentiae 
+       <lb ed="#B" n="25"/>remissionem est quaestio proposita, quae remissio non sit ab homine nisi per potestatem super hoc illi a deo commissam, propter 
+       <lb ed="#B" n="26"/>quid additur in descriptione indulgentiae, Apraelatis ecclesiae facta. illis enim solis super hoc commissa est auctori- 
+       <lb ed="#B" n="27"/>tas, siue potestas. &amp; hoc quando christus Matth. xviii. vni dixit pro omnibus, &amp; omnibus in vno: Quodcumque solueris 
+       <lb ed="#B" n="28"/>super terram erit solutum &amp; in caelis. Et super isto articulo posito in descriptione indulgentiae praedicta mota est 
+       <lb ed="#B" n="29"/>quaestio proposita: an indulgentiae praelatorum tantum valeant, quantum sonant. &amp; tangit potestatem ipsorum in conferendis 
+       <lb ed="#B" n="30"/>indulgentiis an possint ipsas pro libito voluntatis conferre, quando volunt, quibus volunt, &amp; quantum volunt, prout tangitur 
+       <lb ed="#B" n="31"/>in primo argumento. 
+      </p>
+      <p xml:id="n3av8a-c1e5707-d1e271">
+       AD cuius intellectum, quantum pertinet ad propositum, est aduertendum, quod ista tri.asi ice donatio, 
+       <lb ed="#B" n="32"/>redditio, &amp; dispensatio, differunt inter se. quia donatio respicit solum voluntarium in donante, quaeliscumque fuerit acci 
+       <lb ed="#B" n="33"/>piens. Redditio autem respicit debitum in dante, &amp; meritum in recipiente. Dispensatio vero respicit volunta 
+       <lb ed="#B" n="34"/>rium in dispensante, &amp; dignum in eo cui dispensatur. Quia autem donatio respicit solummo voluntarium in donante, propter 
+       <lb ed="#B" n="35"/>ea solum ille, qui plenam, &amp; liberam habent potestatem super rem conferendam, potest eam donare, hoc est dare, absque culpa sua, &amp; 
+       <lb ed="#B" n="36"/>omni iniuria alterius quibuscumque indifferenter dignis &amp; indignis, bene meritis &amp; male meritis: modo quo deus solem 
+       <lb ed="#B" n="37"/>suum facit oriri supebonos &amp; malos: &amp; pluit super iustos, &amp; iniustos, vt de Matth. v. Si igitur praelati talem habe 
+       <lb ed="#B" n="38"/>rent potestatem super indulgentiis conferendis, tunc certum esset penitus, quod tantum valerent quantum sonarent: quia tantas confer- 
+       <lb ed="#B" n="39"/>rent cuique, quantas valent, &amp; sic tantum cuique valerent, quantum vellent, est si non subesset rationabilis cauam conferendi 
+       <lb ed="#B" n="40"/>indulgentias tales. Sed quod talem potestatem christus concesserit praelatis ecclsiae super collationem bonorum ecclesiae siue 
+       <lb ed="#B" n="41"/>temporalium, siue spiritalium, vt scilicet absque rationabili cauam, absque culpa eorum conferre possint illa pro voluntate eorum ma- 
+       <lb ed="#B" n="42"/>xime male meritis, &amp; indignis, non est verisimile, quia hoc vergeret non in ecclesiae aedificationem: sed po 
+       <lb ed="#B" n="43"/>tius in eius destructionem, &amp; esset contrarium illi, quid apostolus instruendo Corinthios super potestate praelato- 
+       <lb ed="#B" n="44"/>rum ecclesiae sibi, &amp; aliis a deo concessae: dicit. ii. Corinth. x. Quam dedit dominus in aedificationem &amp; non  
+       <lb ed="#B" n="45"/>in destructionem vestram. vbi dicit glos. id est vt vos aedificemus in virtutibus, non vt praua doctrina, vel 
+       <lb ed="#B" n="46"/>exemplo corrumpamus. Vnde sicut praelati non habent potestatem corrumpendi impune &amp; absque peccato suo subditos praua 
+       <lb ed="#B" n="47"/>doctrina secundum illud. ii. Corinth. xiii. Non possumus aliquid aduersus veritatem: sed pro veritate: sic non habent 
+       <lb ed="#B" n="48"/>ptantem corrumpendi illos impune, &amp; absque peccato, prauo exemplo operis, quaele esset praua administratio bonorum 
+       <lb ed="#B" n="49"/>spiritalium, &amp; temporalium ecclesiae. Vnde super illud. i. Corith. iii. Omnia ei vra sunt, vos autem Christi, Christus autem dei. glos. 
+       <lb ed="#B" n="50"/>Nam &amp; vita &amp; mors doctorum ad aedificationem subditorum esse debent. hoc ideo dicit apostolus: vt sicut haec vro iu 
+       <lb ed="#B" n="51"/>dicio concessa sunt, &amp; subiecta, ita &amp; nos Christo subiiciamur. Christus autem dei piaris, proprius est filius 
+       <lb ed="#B" n="52"/>faciens eius voluntatem, vt &amp; nos faciamus ipsius. Nunc autem voluntas christi non est nisi bona admini 
+       <lb ed="#B" n="53"/>stratio bonorum ecclesiae, quam facere habet in persona christi praelatus ecclesiae, &amp; facere eam debet pro 
+       <lb ed="#B" n="54"/>posse suo, sicut christus eam faceret si praesens esset, vt iam inferius dicetur. Quia vero redditio respi 
+       <!--1220.xml-->
+       <pb ed="#B" n="590-r"/>
+        <lb ed="#B" n="1"/>cit debitum in dante, &amp; meritum in recipiente propter quod ipsi quicquam conferendum est: meritum dico vel ipso acqui  
+       <lb ed="#B" n="2"/>sito in opere praeterito, de quo nihil ad piaosenus, vel acquirendo in opere futuro, atque promisso, quod valet ad propositum 
+       <lb ed="#B" n="3"/>eo quod indulgentiae non conceduntur, nec concedi debent nisi pro aliquo pio opere exercendo: aliter enim pro mera 
+       <lb ed="#B" n="4"/>voluntate conferentis conferrentur, contra iam declarata: Dicunt igitur aliqui quod indulgentiarum concessio est quae-  
+       <lb ed="#B" n="5"/>dam praemii redditio pro bono opere exercendo &amp; pollicito: &amp; quod indulgentiae non valent quantum sonant, nisi hito 
+       <lb ed="#B" n="6"/>respectu ad meritum operis secundum aequalitatem meriti in opere, &amp; praemii in indulgentiarum retributione. vt ideo  
+       <lb ed="#B" n="7"/>non plus valeant indulgentiae, quam vir bonus secundum rectam regulam iustitiae iudicare deberet eas valere, &amp; hoc ha 
+       <lb ed="#B" n="8"/>bito respectu ad meritum cuiusque cui dantur, &amp; valorem ad executionem operis pro quo dantur. Et sic compen- 
+       <lb ed="#B" n="9"/>satis indulgentiis vniuscuiusque secundum meritum suum &amp; valorem, vt secundum hoc aliquis indulgentias consequatur in  
+       <lb ed="#B" n="10"/>toto, &amp; ei simpliciter valeant quantum sonant, &amp; aliquis in parte, sed secundum plus &amp; minus. secundum quod plus &amp; minus meretur 
+       <lb ed="#B" n="11"/>in opere, &amp; perficit ad operis executionem, &amp; ei non valeant quantum sonant nisi proportionaliter operi, non possunt ei tan- 
+       <lb ed="#B" n="12"/>tum valere simpliciter quantum sonant, quia vt dicunt, aliter absque rationabili causa viderentur fieri: quia. scilicet ipsis in  
+       <lb ed="#B" n="13"/>dulgentiis non fieret debita recompensatio in opere. Et sic dicunt quod illis solis tantum valent quantum sonant qui tanta fi 
+       <lb ed="#B" n="14"/>de deuotione &amp; opere ad indulgentias, promerendas se exhibuernt, quanti pretii, vel valoris sunt ipsae indulgentiae 
+       <lb ed="#B" n="15"/>&amp; quod ecclesia quadam pia fraude praedicat illas cunctis valere plusquam valeant multis, vt sic illos saltem ad ali 
+       <lb ed="#B" n="16"/>quid de indulgentiis alliciat. Sed hoc vltimum dicum. scilicet ecclesiam vti quocumque mendacio, perniciosum est valde: 
+       <lb ed="#B" n="17"/>sicut hoc esset perniciosum dicere de sacra scriptura non ei mior est auctoritas ecclulsiae in agibilibus, quam scripturae 
+       <lb ed="#B" n="18"/>in credibilibus. Vnde simile dicendum est de auctoritate ecclulsiae illi, quod de auctoritate scripturae dicit <name ref="#Augustine">Augustinus</name> in  
+       <lb ed="#B" n="19"/>prima epistola ad Hiero. Admisso semel in tantum auctoritatis fastigium officioso aliquo mendacio, nulla illo 
+       <lb ed="#B" n="20"/>rum librorum particula manebit quae non vtique videbitur vel ad mores difficilis, vel ad fidem incredibil. Sed quod indul  
+       <lb ed="#B" n="21"/>gentiae aliquam diuersis diuersimode possint valere secundum diuersitatem meritorum, certe bene posset esse ita in  
+       <lb ed="#B" n="22"/>indulgentiis collatis in opere determiato secundum quantitatem a praelato, puta quod centum dies indulgentiarum 
+       <lb ed="#B" n="23"/>haberet, quicumque ad fabricam alicuius ecclsiae piam conferret eleemosynam, &amp; praelatus intenderet, &amp; ma 
+       <lb ed="#B" n="24"/>xime si exprimeret verbis, quod ille qui conferret secundum facultatem habret illas indulgentias in totum, qui vero 
+       <lb ed="#B" n="25"/>offerret citra facultatem suam, hirnet illas non in totum: sed partem illarum: &amp; hoc maiorem, vel minorem, secundum 
+       <lb ed="#B" n="26"/>quod plus, vel minus attingeret datum secundum vires facultatum suarum. Etiam bene posset ita esse 
+       <lb ed="#B" n="27"/>in opere determiato secundum quantitatem ad percipiendam totam indulgentiam, maxime si praelatus exprimeret casus, in  
+       <lb ed="#B" n="28"/>quibus vellet &amp; intenderet, quod totas perciperet: &amp; in quibus vellet, &amp; intenderet quod non nisi partem secundum exigentiam 
+       <lb ed="#B" n="29"/>impensi operis. secundum quod exprimit Nicolaus papa. iiii. in quibusdam literis suis generalibus, per quas ad sub  
+       <lb ed="#B" n="30"/>uentionem terrae sanctae post subuersionem nouissimam ciuitatis Acconen. vniuersos christicolas exhor- 
+       <lb ed="#B" n="31"/>tatur, quae sic incipit. Illuminet dominus super nos vultum suum. In illis enim literis exprimit tres casus trium operum, pro 
+       <lb ed="#B" n="32"/>quibus obtinentur plenae indulgentiae, quas exprimit &amp; determinat, sic inquiens. Vt eiusdem terrae negotium 
+       <lb ed="#B" n="33"/>eo libentius eoque feruentius prosequi studeatis, quo potiorem fructum ex vestris laboribus vos noueritis parce 
+       <lb ed="#B" n="34"/>pturos, nos de omnipotentis diuina mia, &amp; beatorum Petri &amp; Pauli apitlorum eius auctoritate confisi, &amp; illa 
+       <lb ed="#B" n="35"/>quam nobis licet indignis deus ipse ligandi atque soluendi contulit potestatem, omnibus qui vexilli dominici chara- 
+       <lb ed="#B" n="36"/>ctere insigniri personaliter, propriis sumptibus in praedictae terrae sanctae subsidium proficisci curauerint, plenam 
+       <lb ed="#B" n="37"/>suorum peccaminum, de quibus veracitur fuerint corde contriti, &amp; ore confessi, veniam indulgemus: &amp; in retributione 
+       <lb ed="#B" n="38"/>iustorum salutis aeternae pollicemur augmentum. Ecce primus casus. &amp; sequitur continuo secundus, &amp; tertius, 
+       <lb ed="#B" n="39"/>Eis autem qui licet in alienis expensis, in propriis tamen illuc personis accesserint: &amp; illis similiter quo iuxta quaelitatem &amp; facul 
+       <lb ed="#B" n="40"/>tatem suam personas idoneas in expensis, propriis destinabunt, quamuis personaliter ipsi non vadant, plenam sucrum concedi 
+       <lb ed="#B" n="41"/>mus veniam peccaorum. Intellige quae ad reatum poenae debitae peccatis, non autem quae ad maculam. Illa enim non est materia  
+       <lb ed="#B" n="42"/>indulgentiae, nec peccatam ratione illius, vt hitum est supra. Continuo autem exprimit alios quaetuor casus quaetuor operum pro 
+       <lb ed="#B" n="43"/>quibus obtinentur partialiter dictae indulgentiae: sic inquiens. Himodi quoque remissionis indulgentiae volumus &amp; concedimus 
+       <lb ed="#B" n="44"/>esse principes iuxta quantitatem subsidii, &amp; deuotionis affectum eos, qui licet non iuxta quaelitatem, &amp; facultatem suam 
+       <lb ed="#B" n="45"/>aliquam tamen, seu aliquas personas in subsidium dictae trae, propriis sumptibus destinabunt. Ecce primus casus. &amp; sequuntur 
+       <lb ed="#B" n="46"/>continuo secundus &amp; tertius, &amp; quartus. Vel de suis bonis temporalibus contribuent ad aliquas destinandum, nec non omnes, qui  
+       <lb ed="#B" n="47"/>ad subuentionem ipsius trae de bonis eisdem aliqua mistrabunt, pout sinpieosis diuia fuerit inspiratone suggestum, aut 
+       <lb ed="#B" n="48"/>alias ad promotionem praesentis negotii consilium &amp; auxilium impenderint opportunum. In liris ant suis executoriis super 
+       <lb ed="#B" n="49"/>signi crucis praedicatione exercenda quae sic incipiunt. Terrae sctem misabilem statum. exprimit idem papa duos alios 
+       <lb ed="#B" n="50"/>casus, in quibus pertialiter obtinentur dictae indulgentiae, quintum videlicet, cum aliqui in praedictis tribus casibus, in quibus plena 
+       <lb ed="#B" n="51"/>obtinetur indulgentia, signum crucis susceptae de consilio ecclsiae redement, sic inquiens. Qui crucem susceperint 
+       <lb ed="#B" n="52"/>in praedictae terrae subsidium, vel personaliter in propriis aut alienis expensis accedere, vel iuxta qualitatem, &amp; faculta 
+       <lb ed="#B" n="53"/>tem suam bellatores, seu alias personas idoneas destinare, vel saltem si ex causis legitimis ecculiae opportunum 
+       <lb ed="#B" n="54"/>fore videbitur susceptae crucis ad arbitrium apstlicae sedis, seu eorum qui ad hoc fuerint deputati per ipsam de 
+       <!--1221.xml-->
+       <pb ed="#B" n="590-v"/>
+        <lb ed="#B" n="1"/>facultatibus suis redimere tenebuntur. Hos autem, qui taliter huiusmodi votum redemerint remissionis &amp; indulgentiae quae 
+       <lb ed="#B" n="2"/>transfretantibus in subsidium antedictum conceditur, volumus &amp; concedimus esse participes iuxta quantitatem subsi 
+       <lb ed="#B" n="3"/>dii quod impendent, &amp; eius qua hoc facient deuotionis affectum. Sextum, videlicet in illis praedicatoribus qui ne- 
+       <lb ed="#B" n="4"/>gotium crucis pposo proponent, sic inquiens. Porro quia dignus est operarius mercede sua, in hoc diuino fide- 
+       <lb ed="#B" n="5"/>liter laborantibus opere praeter mercedem aeternam, quam merito sperare potestis, quotiens studueritis pphilosophus ad  
+       <lb ed="#B" n="6"/>hoc spanliter convocati proponere verbum crucis, centum dierum indulgentias elargimur, ac indulgentiae menoratae quae  
+       <lb ed="#B" n="7"/>transfretantibus i subsidium supradictum conceditur iuxta labori mensuram volumus pricipatione gaudere. Et est ad-  
+       <lb ed="#B" n="8"/>uertendum quod plena indulgentia in solis illis casibus obtinetur, in quibus expresse conceditur: in aliis autem nequaquam 
+       <lb ed="#B" n="9"/>nec etiam plus quam conceditur. secundum quod idem in eadem lira executoria dicit sic. Cum omnibus autem Christifidelibus qui  
+       <lb ed="#B" n="10"/>eidem terrae succursum impenderint opportunum, vnicuique secundum proprium meritum indulgentiam salutarem, 
+       <lb ed="#B" n="11"/>ac maxime illis, qui cruce suscepta in ipsius terrae subsidium vel personaliter ibunt, vel personas idoneas iuxta 
+       <lb ed="#B" n="12"/>qualitatem, &amp; facultatem suam destinabunt in propriis sumptibus, multiplicium grarum beneficia concedamus, sicut 
+       <lb ed="#B" n="13"/>in aliis lris niris praelibatis seriosius continetur, earundem literarum tenorem volumus pphilosophus christianis frequenter 
+       <lb ed="#B" n="14"/>&amp; diligenter exponi, ita prouide quod &amp; beneficia supradicta, quae ipsis in terra concedimus, &amp; copiosam merce 
+       <lb ed="#B" n="15"/>dem, quae ipsis praeparatur in caelo, cognoscere valeant, &amp; amare, nec tamen ex verbis nostris concipiant 
+       <lb ed="#B" n="16"/>se, aut plenam in casibus in quibus nequaquam conceditur, aut maiorem quam concedatur indulgentiam promereri. 
+       <lb ed="#B" n="17"/>
+      </p>
+      <p xml:id="n3av8a-c1e5707-d1e490">
+       EST autem hic aduertendum, quod licet dominus papa solum sex exprimat casus, qui pertinent ad materiam, de qua scri 
+       <lb ed="#B" n="18"/>bit, in quibus non principatur tota indulgentia, sed percipit eam quisque partialiter, &amp; proportionaliter secundum laborem suum 
+       <lb ed="#B" n="19"/>in opere, &amp; secundum deuotionem suam in mente: possunt tamen esse quamplurimi alii in diuersis materiis. Licet etiam 
+       <lb ed="#B" n="20"/>in talibus casibus indulgentiae non valent, nisi habito respectu ad meritum, &amp; deuotionem personae: siue 
+       <lb ed="#B" n="21"/>iuxta quantitatem subsidii, &amp; deuotionis affectum: prout vir bonus secundum rectam regulam iustitiae iu 
+       <lb ed="#B" n="22"/>dicare deberet: non tamen verum est dicere praelatos ecclesiae non habere ampliorem potestatem super indulgentiis con- 
+       <lb ed="#B" n="23"/>ferendis vt valeant, nisi habito respectum, vt non possint plus valere quam requirunt meritum operis, &amp; de-  
+       <lb ed="#B" n="24"/>uotio mentis, seu affectus, nec aliter tantum valere, quantum sonant, nec vniuersaliter possint plus concedere 
+       <lb ed="#B" n="25"/>in indulgentiis, quam ecclesia esset receptura in seruitiis. Si enim ita esset, tunc indulgentiae non darentur nisi ex 
+       <lb ed="#B" n="26"/>debito, secundum aequitatem iustitiae conmutatiuae, non autem secundum aliquam gratiam. &amp; sic indulgentia nomen 
+       <lb ed="#B" n="27"/>indulgentiae amitteret, quia perciperetur ex puro debito, &amp; nequamquam ex genera. quia secundum apostolum Ro. iiii. ei qui operatur, merces 
+       <lb ed="#B" n="28"/>non imputatur secundum gratiam, sed secundum debitum: ei vero, qui non operatur, reputabitur secundum propositum geirae dei, nomen 
+       <lb ed="#B" n="29"/>enim indulgentiae implicat gratiam: &amp; ex hoc solo indulgentia de indulgentia, quod conceditur de genera, sicut nomen de-  
+       <lb ed="#B" n="30"/>biti excludit gratiam, &amp; includit meritum, a quo debitum haet rationem debiti, cui redditur merces. secundum illud  
+       <lb ed="#B" n="31"/>apostoli. i. Corinth. iii. Vnusquisque propriam mercedem accipiet secundum suum laborem, alius plus, alius vero minus, quia  
+       <lb ed="#B" n="32"/>vt dicit. ii. Corith. ix. Qui perce seminat, parce &amp; metet. Et sic etiam praelati diuersis personis secundum inaequalitatem  
+       <lb ed="#B" n="33"/>operis &amp; subsidii, atque deuotionis affectum non possent indulgentias aequales concedere: quid falsum est. Nam 
+       <lb ed="#B" n="34"/>in praedictis tribus casibus, dominus papa concedit aequalem indulgentiam scilicet omnium peccatorum re- 
+       <lb ed="#B" n="35"/>missionem, &amp; tamen opus, &amp; subsidium in illis est inaequale. Plus enim est transfretare in propria persona, &amp; d in pr- 
+       <lb ed="#B" n="36"/>priis expensis, minus vero est transfretare in propria persona, &amp; in alienis expensis. Minimum autem non transfre 
+       <lb ed="#B" n="37"/>tare in propria persona, sed in propriis expensis mittere alium, etiam aequali existente deuotionis affe- 
+       <lb ed="#B" n="38"/>ctum, qui etiam potest esse maior in minori opere, potest etiam contingere, quod pauciora peccata ei in-  
+       <lb ed="#B" n="39"/>dulgentur, quam aliis, quia forte pauciora commisit. 
+      </p>
+      <p xml:id="n3av8a-c1e5707-d1e540">
+       SIC ergo dico, quod concessio indulgentiarum men- 
+       <lb ed="#B" n="40"/>suranda non est ex voluntate conferentis illas, vt tantum valeant quantum velit eas valere, tantas conferendo quan 
+       <lb ed="#B" n="41"/>tas conferre voluerit, &amp; sic dicendo. Sic volo, sic iubeo sit pro ratione voluntas. hoc enim est contra rationem. Neque  
+       <lb ed="#B" n="42"/>similiter mensuranda est ex conditione personae cui conceduntur, neque etiam ex aliquibus circa ipsam, quae debitum inducunt 
+       <lb ed="#B" n="43"/>ad conferendum illas, quasi reddant personam dignam, aut condignam ad recipiendum illas ex puro debito. Hoc enim 
+       <lb ed="#B" n="44"/>est praeter rationem, quia est contra naturam indulgentiae. Et primum dictum vt videtur, nimis extendit praelatorum 
+       <lb ed="#B" n="45"/>ptantem in conferendis indulgentiis. Secundum vero illam nimis attenuat. Et sic dico, quod nec conferuntur donatione 
+       <lb ed="#B" n="46"/>nec redditione, sed dispensatione, quae mediam viam tenet. Vnde quia dispensatio respicit voluntatem in dispensante, &amp; 
+       <lb ed="#B" n="47"/>dignum congruitatis in eo cui fit dispensatio, aliter enim non esset dispensatio, sed dissipatio, secundum quod alias in  
+       <lb ed="#B" n="48"/>quaestionibus de Quolibet declaraui, circa dispensationem supe aliis: concessio igitur in indulgentiarum dispensatione 
+       <lb ed="#B" n="49"/>perti mensuratur secundum voluntatem conferentis illas, perti vero secundum meritum, &amp; debitum operis illius cui dispensantur, vt 
+       <lb ed="#B" n="50"/>nec fiat concessio indulgentiarum abundans nimium, nec nimis diminuta: sed secundum regulam rectae rationis. Proptur 
+       <lb ed="#B" n="51"/>quod antepenultima conditio, siue dia in descriptione indulgentiae est, quod remissio in ipsa fiat rationabimiliter. &amp; 
+       <lb ed="#B" n="52"/>sic praelatus concedens indulgentias, in conferendo eas non debet se imputare donatorem illarum nec retributorem, sed  
+       <lb ed="#B" n="53"/>dispensatorem. dicente apstolo. i. Corinth. iii. Sic nos existimet homo: vt mistros christi. vbi dicit glo, Deus auctor  
+       <lb ed="#B" n="54"/>nos coadiutores sumus: nec nimis, nec minus de nobis arbitremur. Et super illud quod continue sequitur in epistola 
+       <!--1222.xml-->
+       <pb ed="#B" n="591-r"/>
+        <lb ed="#B" n="1"/>Et dispensatores ministeriorum dei. dicit Glos. Quia secundum modum cuiusque ministeria diuidimus. Ali- 
+       <lb ed="#B" n="2"/>ter autem non esset bonus dispensator. Proptur quid apostolus distinguens inter dispensatores, ibi continue subdit dicens. 
+       <lb ed="#B" n="3"/>Hic autem quaeritur inter dispensatores vt fidelis quis inueniatur. Glossa. Cui possit credi si bene 
+       <lb ed="#B" n="4"/>dispenset. vbi praemittit Glossa dicens. Sciendum quod non solum boni, sed &amp; mali dispensatores sunt. 
+       <lb ed="#B" n="5"/>Vt autem recta ratione dispensentur indulgentiae a praelato, nec maiores, nec minores quam con- 
+       <lb ed="#B" n="6"/>gruat, conferantur, sciendum quod praelatus in conferendo illas, vt &amp; valere, &amp; tantum valere possint, quan 
+       <lb ed="#B" n="7"/>tum sonant, ad duo debet aspicere, &amp; secundum illa quantitatem illarum mensurare, &amp; voluntatem suam informare 
+       <lb ed="#B" n="8"/>Quorum primum est, vt sit vrgens necessitas conferendi illas, &amp; hoc ex parte causae propter quam sunt conferendae 
+       <lb ed="#B" n="9"/>Secundum vero est, vt sit euidens vtilitas, si conferantur, &amp; hoc ex parte illorum quibus sunt conferendae. In quibus duobus 
+       <lb ed="#B" n="10"/>saluatur intentio illorum, qui thesaurum ecclesiae spiritalem, de quo distribuuntur indulgentiae, accumulauerunt, puta 
+       <lb ed="#B" n="11"/>sctorum perfectorum, qui ad honorem dei, &amp; ecclesiae vtilitatem opera satisfactoria pro peccatis in angustiis, tribulationibus 
+       <lb ed="#B" n="12"/>ieiuniis, eleemosynis, &amp; caeteris operibus mimae, atque martyriis super quantitate poenarum eis debitarum pro suis 
+       <lb ed="#B" n="13"/>peccatis erogauert. qui vt legitur Heb. xi. per fidem vicerunt regna, operati sunt iustitiam, adepti sunt repromissio 
+       <lb ed="#B" n="14"/>nes: alii autem distenti sunt: alii vero ludibria &amp; verbera exparti sunt, insuper &amp; vicula, &amp; carceres, lapidati sunt, 
+       <lb ed="#B" n="15"/>secti sunt, tentati sunt, in occisione mortui sunt, circuierunt in melotis, in pellibus caprinis, egentes, angu- 
+       <lb ed="#B" n="16"/>stiati, afflicti, quibus dignus non erat mundus, in solitudinibus errantes, in modotibus &amp; in speluncis, &amp; in ca- 
+       <lb ed="#B" n="17"/>uernis terrae. De suprerogatiua enim perpessione poenarum indebitarum ad honorem dei, &amp; prfectum vniversalis ecclesiae 
+       <lb ed="#B" n="18"/>istorum, vt membrorum ipsius ecclesiae, &amp; praecipue Christi, vt capitis eiusdem, qui nullius peccati reus aut debitor  
+       <lb ed="#B" n="19"/>existens omnia prospera mundi contempsit: &amp; aduersa sustinuit, quae contrario modo appetendo aut fugiendo omnia peccata 
+       <lb ed="#B" n="20"/>committuntur (dicente <name ref="#Augustine">Augustinus</name> de vera religione. Nullum peccatum conmitti potest, nisi dum appetantur ea quae ille con 
+       <lb ed="#B" n="21"/>tempsit, aut fugiantur quae ille sustinuit) thesaurus ecclesiae, de cuius distributione indulgentiae fieri praesent. 
+       <lb ed="#B" n="22"/>collectus est. Primum ergo ad quod praelatus debet aspicere in conferendo indulgentias, est vrgens necessitas 
+       <lb ed="#B" n="23"/>conferendi eas: quae pertinet ad causam finalem propter quam conferendae sunt indulgentiae, quae debet mouere 
+       <lb ed="#B" n="24"/>praelatum ad indulgentias conferendas, quae quidem cauam finalis est honor dei, &amp; profectus ecclesiae, qui sperantur consequi ex 
+       <lb ed="#B" n="25"/>opere, pro quo faciendo conferuntur indulgentiae. propter quod penultia conditio in descriptione indulgentiae apposita est 
+       <lb ed="#B" n="26"/>quod remissio in indulgentia debet fieri exrationabili causam. Secundum autem ad quod praelatus debet aspicere in conferendo in  
+       <lb ed="#B" n="27"/>dulgentias, est euidens vtilitas in conferendo eas, quae pertinet ad causam materialem, cui dispensandae sunt in  
+       <lb ed="#B" n="28"/>dulgentiae, quae sunt personae illae, quibus conferendae sunt indulgentiae. In quibus praelatus considerare debet prius quam  
+       <lb ed="#B" n="29"/>conferat eis indulgentias, vt sint congruae &amp; idoneae ad exequendum opus pro quo indulgentiae conferuntur: &amp; est vt 
+       <lb ed="#B" n="30"/>ipsum opus sit tale per quod honor dei, &amp; profectus ecclesiae proueniant. ad quod exequendum, non nisi idoneis indulgen 
+       <lb ed="#B" n="31"/>tiae sunt conferendae, dicente domino Nicolao papa in lra executoria praedicta. Huiusmoni ministerium soller 
+       <lb ed="#B" n="32"/>ter &amp; efficacitur exequi studeatis omnes fidei orthodoxae cultores ad tam pii negotii prosecutionem per idoneos 
+       <lb ed="#B" n="33"/>praedicationibus crebris ac seduel exhortando. Vnde si aliquae indulgentiae essent spaliter dispensandae pro opere manu 
+       <lb ed="#B" n="34"/>alis conflictus, solummo idoneis ad bellandum deberent dispensari, sicut &amp; soli idonei ad bellandum deberent eli- 
+       <lb ed="#B" n="35"/>gi, &amp; caetis denegari, sicut a manuali conflictu deberent repelli. dicente Vegetio. li. de arte militari primo 
+       <lb ed="#B" n="36"/>ca. viii. Hoc est in quo totius reipublicae salus versatur, vt tyrones non tantum corporibus, sed &amp; anims praestantissimi de 
+       <lb ed="#B" n="37"/>ligantur. luuentus enim cui defensio prouinciarum, cui bellorum committenda est fortuna, &amp; generesi copia suppe- 
+       <lb ed="#B" n="38"/>tat, &amp; moribus debet excellere. Honestas enim idoneum militem reddit, &amp; verecundia dum prohibet fugetur, facit 
+       <lb ed="#B" n="39"/>esse victorem. Quid enim prodest si exerceatur ignauus: si pluribus stipendiis moretur in castris: numquam exercitus proficit 
+       <lb ed="#B" n="40"/>tempore cuius in probandis tyronibus claudicauit electio. Amagnis ergo viris magna diligentia idoneos 
+       <lb ed="#B" n="41"/>eligi conuenit. Sed tamen quaelescumque sint illi, quibus indulgentiae sunt conferendae, &amp; etiam quamlecumque &amp; quantuncumque sit 
+       <lb ed="#B" n="42"/>magnum opus pro quo sunt conferendae, non sunt congrui seu idonei ad illud opus exequendum, vt pro illo in  
+       <lb ed="#B" n="43"/>dulgentias mereantur percipere, nisi sint fidei &amp; charitatis deuotione inflammati, quae illis a quibus thesaurus ec 
+       <lb ed="#B" n="44"/>clesiae, vnde indulgentiae conferuntur, collectus est, sunt coniuncti vt membra membris in corpore ecclesiae sub 
+       <lb ed="#B" n="45"/>capite Christo. &amp; quicumque tales sunt, ad illud exequendum quoquo modo vtiles sunt, vel corporaliter, vel spirita 
+       <lb ed="#B" n="46"/>liter: et ideo ipsis sunt indulgentiae conferendae. Vnde continue post iam dicta subdit dominus papa dicens. Quid qui-  
+       <lb ed="#B" n="47"/>dem venerabile signum volumus vt cunctis deuote petentibus concedatis, generaliter omnibus praedicentes, quod qui eandem 
+       <lb ed="#B" n="48"/>crucem susceperint, in praedictae terrae subsidium, &amp;c. vt iam supra habitum est. Quid dominus papa vult valde rationa 
+       <lb ed="#B" n="49"/>biliter, quia plerumque multum proficiunt reipub. occulti non apparentes in publico, suis oronibus ac deuotionibus. 
+       <lb ed="#B" n="50"/>dicente <name ref="#Augustine">Augustinus</name> in libro de moribus eccle. Secretissimi penitus ab omnium hominium aspectu pane solo, qui eis per certa inter 
+       <lb ed="#B" n="51"/>ualla temporum affertur, &amp; aqua contenti desertissimas terras incolunt, perfruentes colloquio dei, cui puris men 
+       <lb ed="#B" n="52"/>tibus inhaeserunt, &amp; eius pulchritudinis contemplatione beatissimi, quae non nisi sanctorum intellectibus percipi 
+       <lb ed="#B" n="53"/>pont, videntur nonnullis res humanas plus quam oporteret deseruisse, non intelligentibus quantum nobis eorum ani 
+       <lb ed="#B" n="54"/>mus in orationibus prosit. Et ideo pro solis oronibus talium quibus interpellant deum pro negotii prosparatione, &amp; pr  
+       <!--1223.xml-->
+       <pb ed="#B" n="591-v"/>
+        <lb ed="#B" n="1"/>illis quam illud exequuntur, rationabiliterindulgentiae possunt concedi. Quae quidem duo, ad quae debet praelatus aspice 
+       <lb ed="#B" n="2"/>re, ambo illorum simul referendo ad opus intentum, vt scilicet sit ex parte finis qui intenditur pietas, puta in honorem dei 
+       <lb ed="#B" n="3"/>&amp; profectum ecclesiae: &amp; exparte materiae, puta operantis &amp; operis vtilitas ad talem finem assequendum, sufficiens. 
+       <lb ed="#B" n="4"/>sunt cam, siue ratio distribuendi indulgentias siue maiores siue minores pro voluntate praelati dispensantis il 
+       <lb ed="#B" n="5"/>las. &amp; hoc aequaliter disperibus personis &amp; inaequaliter idoneis ad operis intenti executionem. Vnde in praedictis sex casi- 
+       <lb ed="#B" n="6"/>bus in quibus dominus papa concedit indulgentias particulariter, quae in aliis tribus casibus concedit velite 
+       <lb ed="#B" n="7"/>potuisset etiam concessisse illas velit si voluisset, &amp; aequaeliter perceptae fuissent in omnibus illis casibus. Sed cum 
+       <lb ed="#B" n="8"/>praedictis duobus supponendum est, quod in conferente indulgentias sit auctoritas: ex hoc quod legitime praefectus est mul 
+       <lb ed="#B" n="9"/>titudini populorum. Ex hoc enim illa quae communia sunt multitudini, habet eidem dispensare. Et sic est in dispensatione 
+       <lb ed="#B" n="10"/>indulgentiarum vt valeant, &amp; tantum valeant quantum sonant, quaetuor simul debent concurrere: videlicet pietas in  
+       <lb ed="#B" n="11"/>fine ad quem dantur: vtilitas in opere pro quo dantur: charitas in operante cui dantur: &amp; auctoritas in dispensatore  
+       <lb ed="#B" n="12"/>a quo dantur, quibus concurrentibus, praelati factum deus approbat &amp; acceptat, sanctique omnes, de quorum meritis 
+       <lb ed="#B" n="13"/>indulgentiae fiunt. quia in merendo quod aliis de poenis suis indulgentiae fierent, idipsum finaliter intendebant tunc 
+       <lb ed="#B" n="14"/>quid praelatus nunc intendit, &amp; per hoc praelatus vice illorum indulgentias confert, &amp; personas illorum reputat, &amp; vice illo 
+       <lb ed="#B" n="15"/>rum facit quod ipsi facerent, si praesentes essent: vt possit praelatus in conferendo indulgentias dicere cum apostolo illud. ii. 
+       <lb ed="#B" n="16"/>Corinth. ii. Ego quod donaui, siquid donaui, proptur vos in persona Christi (supple donaui. i. condonaui, siue 
+       <lb ed="#B" n="17"/>remisi, aut indulsi. vbi dicit Glos. Vt ratum quod donauit ostenderet apud deum, subdit. Et hoc feci in persona 
+       <lb ed="#B" n="18"/>Christi, id est ac si ipse Christus condonauerit: quia nihil sine spiritu dei agebat apostolis. Quia si sic condona- 
+       <lb ed="#B" n="19"/>rent praelati eccliae &amp; distribuerent indulgentias dispensando, proculdubio tantum valerent quantum sonarent, singu 
+       <lb ed="#B" n="20"/>lis, quibus conferuntur, in charitate positis, &amp; finem praedictum intendentibus, fideque operante per dilectionem, &amp; ad illius 
+       <lb ed="#B" n="21"/>finis consecutionem operis iniuncti sedula executione tendentibus, etiam non aequaliter operantibus, aut subsidium con 
+       <lb ed="#B" n="22"/>ferentibus in opere ad finis illius consecutionem, proportionabiliter tamen operantibus: &amp; subsidium conferentibus secundum  
+       <lb ed="#B" n="23"/>modum congruentem sibi pro quaelitate &amp; facultate personarum. Puta si detur indulgentia centum dierum offerenti pias 
+       <lb ed="#B" n="24"/>eleemosynas secundum quaelitatem &amp; facultatem suam alicui fabricae: offerentibus autem non secundum quaelitatem, &amp; facultatem 
+       <lb ed="#B" n="25"/>iuxta quantitatem subsidii &amp; deuotionis affectum: si pauper vnam pictam offert de sibi ad victum necessario, ita 
+       <lb ed="#B" n="26"/>integre indulgentias centum dierum obtinet: vt diues qui offert vnam marcham de suo abundanti: qui si vnum solum 
+       <lb ed="#B" n="27"/>denarium offerret, non totam illam indulgentiam: sed partem proportionalem quantitati subsidii &amp; deuotionis affectui 
+       <lb ed="#B" n="28"/>obtineret. Sed si vnum &amp; idem opus esset deterimatum a praelato, tunc quicumque illud faceret in charitate existens, 
+       <lb ed="#B" n="29"/>aequaliter acciperet caeteris indulgentias statutas, &amp; quilibet illorum totas etiam caeteris omnibus disperibus, puta 
+       <lb ed="#B" n="30"/>in transfretando cum signo crucis aequaliter perciperet omnium peccaminum indulgentiam rusticus pauper &amp; debilis 
+       <lb ed="#B" n="31"/>si faciat quod in se est ad liberandum terram sanctam de manibus Sarracenorum, sicut &amp; rex strenuus &amp; diues 
+       <lb ed="#B" n="32"/>cum forti suo exercitu debellans Sarracenos. Et si dentur indulgentiae visitantibus ecclesiam aliquam, ita integre 
+       <lb ed="#B" n="33"/>obtinet illas veniens a propimquam ad modicum &amp; visitando, &amp; veniens a remotl, ac multum laborans. Et hoc quia indul  
+       <lb ed="#B" n="34"/>gentiae simpliciter concessae &amp; deteriatae a praelato, non proportionantur aut mensurantur secundum statum aut qualitatem aut 
+       <lb ed="#B" n="35"/>meritum seu opus recipientium: sed secundum praedicta duo: ad quae debet praelatus aspicere in conferendo indulgentias, 
+       <lb ed="#B" n="36"/>&amp; sm beneplacitum voluntatis suae illis iam suppositis. Sed est hic aduertendum quod quamuis inaequales secundum quaelitatem  
+       <lb ed="#B" n="37"/>operandi, aut conferendi subsidium, &amp; secundum quantitatem operis, inaequales recipiant indulgentias, non tamen plus operan 
+       <lb ed="#B" n="38"/>tes, aut amplius subsidium conferentes, frustrantur mercede pro illo quod plus erogant caeteris: quia quicquam erogans vl- 
+       <lb ed="#B" n="39"/>tra ad minimum ex charitate procedens, quo quisque sm statum, qualitatem, &amp; facultatem personae suae obtineret totas 
+       <lb ed="#B" n="40"/>indulgentias concessas pro opere aut subsidio determinato, totum illud quod superogat reputatur ei a deo ad cu 
+       <lb ed="#B" n="41"/>mulum meriti vitae aeternae. Non enim opus iniunctum pro indulgentiis obtinendis ad remissionem poenae debitae 
+       <lb ed="#B" n="42"/>peccatis factum ex charitate solum valet ad promerendum illas indulgentias: sed cum hoc est valet ad promerendum prae- 
+       <lb ed="#B" n="43"/>mium essentiale vitae aetnae, ac si pro illa sola fieret: &amp; non pro induigentiis. Hic dominus papa in lra executiua praedicta 
+       <lb ed="#B" n="44"/>proecipit praedicatoribus crucis, quod diligenter &amp; frequenter exponant populis literam, quam exhortatur vniuersos ad  
+       <lb ed="#B" n="45"/>susceptionem crucis: quaetenus beneficia quae pro crucis susceptione efficaci promittit illis in terris, puta remis- 
+       <lb ed="#B" n="46"/>sionem peccatorum, &amp; immunitates priuilegiorum, &amp; copiosam mercedem, quae etiam cum illis praeparatur in caelis, cognosce- 
+       <lb ed="#B" n="47"/>re valeant &amp; amare, sicut iam habitum est supra. Vnde &amp; in illa lra hortatoria eisdem indulget plenam suorum pec- 
+       <lb ed="#B" n="48"/>caminum veniam: &amp; insuper pollicetur salutis aeternae augmentum: vt similiter iam habitum est supra. Quaproptur si di  
+       <lb ed="#B" n="49"/>cto modo praelatus indulgentias dispensaret, nemo ipsum iuste obiurgare posset, tamquam abusorem potestatis suae:  
+       <lb ed="#B" n="50"/>ac dissipatorem, non dispensatorem misericordiae dei, atque derogatorem iustitiae dei, quasi ipsa dei iustitia tole- 
+       <lb ed="#B" n="51"/>rare non posset, acceptando quod tantas indulgentias &amp; tam crebras indifferenter omnibus etiam pro modico opere si 
+       <lb ed="#B" n="52"/>ue subsidio dispensaret: quasi peccatam per hoc manerent impunita. Sed non est ita, quia per indulgentias illi qui eas susce 
+       <lb ed="#B" n="53"/>perit, nihil de poena peccatis debita sic remittitur: vt pecca alterius quo ad minimum culpae cuiusquam maneant in-  
+       <lb ed="#B" n="54"/>punita simpliciter: licet puniantur in illo qui peccauit: quia poenae aliorum reputantur illi pro suis &amp; sibi com- 
+       <!--1224.xml-->
+       <pb ed="#B" n="592-r"/>
+        <lb ed="#B" n="1"/>putantur atque reputantur tamquam atisfactoriae deo pro peccatis illius loco poenarum, propriarum: ac si debitum, quod vnus ali 
+       <lb ed="#B" n="2"/>cui domino debet, alter pro eo illi domino solueret, aut illi daret de suo de quo solueret. Sic enim i persona Christi. 
+       <lb ed="#B" n="3"/>&amp; sctorum: de quorum poenis meritoriis superogatis vltra poenas debitas peccatis illorum ad dei honorem &amp; 
+       <lb ed="#B" n="4"/>ecclesiae vtilitatem fiunt indulgentiae: praelatus minister ecclsiae, quod vnus merebatur &amp; in poenis sustinuit, alti tribuit, 
+       <lb ed="#B" n="5"/>vt ille de illo pro poenis sibi debitis, deo satisfaciat, aut vt praelatus ipse de illo quod vnus merebatur, &amp; in poenis 
+       <lb ed="#B" n="6"/>sustinuit, quid iam in potestate sua positum est. secundum iam dicta, pro altero deo satisfaciat, &amp; deus iuste siml &amp; mise 
+       <lb ed="#B" n="7"/>ricorditur huiusmodi satisfactionem acceptat. &amp; sic per indulgentias remittuntur poenae debitae vni per recompensationem 
+       <lb ed="#B" n="8"/>factam deo de poenis indebitis aliorum aut alterius, vt dicit vltima conditio siue differentia superius posita 
+       <lb ed="#B" n="9"/>in descriptione indulgentiae. Si vero praelatus non pensatis illis ad quae, vt diximus, debet aspicere, indulgentias 
+       <lb ed="#B" n="10"/>distribuat: non video quomodo omnino valeant: aut tantum valeant quantum sonant: &amp; non sit potius dissipator bonorum  
+       <lb ed="#B" n="11"/>spiritalium ecclesiae, quam dispensator. Hoc tamen determinando non assero, nec diminuere volo potestatem praelatorum, &amp; prae 
+       <lb ed="#B" n="12"/>cipue summi ponstificis, sed pie supponere quod praelati &amp; praecipue summus potestifex indulgentias dispensant consi 
+       <lb ed="#B" n="13"/>deratis his &amp; pensatis: quae in his conferendis debent considerari &amp; pensari. 
+      </p>
+      <p xml:id="n3av8a-c1e5707-d1e857">
+       VT autem aliquid in summa tenere va 
+       <lb ed="#B" n="14"/>leamus de potestate praelatorum, Sciendum quod praelatorum ecclesiae duplex est potesta scilicet vna sacramentalis, &amp; alia iuris 
+       <lb ed="#B" n="15"/>dictionalis, &amp; vtraque dicitur clauis. Prima quidem dicitur clauis ordinis: quia potestatem illam non habentnisi per ordinum 
+       <lb ed="#B" n="16"/>susceptionem. Secunda vero dicitur clauis auctoritatis, &amp; illam habent per canonicam electionem &amp; institutionem in  
+       <lb ed="#B" n="17"/>ministerium ecclesiasticum. Et potestate sacramentali siue claue ordinis habent efficaciam operandi sacramen 
+       <lb ed="#B" n="18"/>taliter, &amp; mediantibus sacramentis ecclesiae tantum. Quorum effectus quia sunt deteriati a deo &amp; inditi sensibi 
+       <lb ed="#B" n="19"/>libus elementis scilicet rebus &amp; verbis: idcirco praelati tali potestate non habent potestatem operandi nisi deterimatum quid: &amp; 
+       <lb ed="#B" n="20"/>quasi mouentur secundum vim a deo sacramentis inditam. Vnde ad libitum, effectum operis sui per talem potentiam taxare non 
+       <lb ed="#B" n="21"/>praesent, nec circa sacramenta ecclesiastica, quae ad essentialia illis, sicut neque circa diuina mandata quicquam immuta 
+       <lb ed="#B" n="22"/>re praesent. Sed si ausu temerario (quod absit) quisquam illorum circa illa sacramenta vltra, aut praeter diuinitus ordi 
+       <lb ed="#B" n="23"/>nata quicquam attentaret, nihil omnino esset quod ageret, quo ad spiritualem effectum ligandi atque soluendi 
+       <lb ed="#B" n="24"/>
+      </p>
+      <p xml:id="n3av8a-c1e5707-d1e883">
+       POtestate vero auctoritatis, siue claue iurisdictionis, ad quam pertinent indulgentiae, &amp; collatio bene  
+       <lb ed="#B" n="25"/>ficiorum ecclesiasticorum, totusque correctionis ordo atque ecclesiastici regiminis, habent praelati efficaciam ope 
+       <lb ed="#B" n="26"/>randi ciuilitur immediate &amp; voluntarie modo liberi arbitrii, pout deus totum ecclesiasticum regimen dispositioni eorum  
+       <lb ed="#B" n="27"/>reliquit, circa illud modicum, aut nihil determinando, &amp; hoc in illo generali, quid dictum est omnibus in Petro. Quidcumque  
+       <lb ed="#B" n="28"/>solueris super terram &amp;c. Licet enim nullibi in canone bibliae spanliter scriptum sit potestatem conferendi indulgentias 
+       <lb ed="#B" n="29"/>collatam fuisse praelatis ecclesiae, tamen postquam in vniversal ecclesia obseruatum est quod praelati indulgentias confert, firmitur credem 
+       <lb ed="#B" n="30"/>dum est quod super hoc potestatem datam a Christo, aut intellectam dari in illo generali, licet non specialiter scriptam acceperunt 
+       <lb ed="#B" n="31"/>&amp; sic quod indulgentiae quaes conferunt, valeant. Indulgentiae dico datae a praelatis, quia nisi valerent non essent indulgentiae 
+       <lb ed="#B" n="32"/>omnino. Si quid tamen in regimine suo in ecclesia non recte sm rationis &amp; iustitiae normam disponant, &amp; non in persona Christi 
+       <lb ed="#B" n="33"/>i. non acsi Christus disponeret (quid absit) etsi id quod agunt efficaciam habeat, &amp; ratum sit: ipsi tamen peccant. Cir 
+       <lb ed="#B" n="34"/>ca dispositionem enim temporalium bonorum ecclesiasticorum &amp; iurium in illis obtinendis, eo quod mior est cura deo de 
+       <lb ed="#B" n="35"/>illis, quicquid praelati disponunt, maxime ille qui habet executionem plenitudis potestatis, etsi erret non dispensando illa ta 
+       <lb ed="#B" n="36"/>libus personis quaelibus deberet illa dispensare, nihilominus tenet &amp; ratum est quid faciunt: nec deus vult quod quisquamin ecclesia 
+       <lb ed="#B" n="37"/>illud retractet. Vt enim de in lris legum sclarium, sacrilegii instar est dubitare an is dignus sit quem elegerit imparator 
+       <lb ed="#B" n="38"/>sicut esnt vult quod a nemineretractetur quid ab ipso fuerit iudicatum. ix. quaest. vltia. Somla. ii. &amp; capitulis sequen- 
+       <lb ed="#B" n="39"/>tibus vsque in finem. &amp; hoc nisi iudicium illud fuerit erroneum in fide, vel in praeiudicium vniversalis ecclesiae. vt. xxv.a euid i. Sut 
+       <lb ed="#B" n="40"/>quidam. &amp; notatur super. xi. distiana super cap. Si papa. &amp; id est q. vii. super cap. Nisi vigor. Et aestimant aliqui quod similiter est in dis 
+       <lb ed="#B" n="41"/>ponne seu dispensatione bonorum spiritalium ecclesiae, cuiusmoni sunt merita suprerogationis Christi, &amp; sctonrum, 
+       <lb ed="#B" n="42"/>de quibus fiunt indulgentiae. Dicunt enim quod simpliciter &amp; absolute indulgentiae praelatorum tantum valent quantum sonant, &amp; scribuntur 
+       <lb ed="#B" n="43"/>siue praedicantur valere. ita est quod si praelati tam inordinate remittant poenas debitas peccatis siue indulgentias effum- 
+       <lb ed="#B" n="44"/>dant, quod homines intantum confidant de indulgentiis quaes abundanter defacili obtinent, quod, ab operibus poenitentiae, satisfa- 
+       <lb ed="#B" n="45"/>ctionis, &amp; misericordiae penitus reuocentur, tamen quod remittunt remissum est apud deu, &amp; quod indulgent indultum est. &amp; 
+       <lb ed="#B" n="46"/>hoc siue absque omni opere iniuncto, siue iniuncto opere minimo, quod nec vergit in honorem dei, nec in vtilitatem eccle 
+       <lb ed="#B" n="47"/>siae, puta si summus pontifex dicat alicui, leua festucam de terra, &amp; de plenitudie potestatis niae relaxamus, re 
+       <lb ed="#B" n="48"/>mittimus, siue indulgemus tibi omnem poenam peccatis tuis debitam ad quam deo es obligatus. Si ita sit, deus nouit 
+       <lb ed="#B" n="49"/>Ego tamen nescio: nec video quomodo aliquam indulgentiae datae tantum a praelato eccliae ratae possint esse aut valere, &amp; ma 
+       <lb ed="#B" n="50"/>xime tantum valetur quantum sonant, nisi adsit finis mouem scilicet honor dei, &amp; profectus eccluesiae velvniversalis vel alicuius particula 
+       <lb ed="#B" n="51"/>ris pro se aut pro aliquae eius membro: quae debent vrgetur praelatum ad conferendum indulgentias pro opere quid sic euidentur sit vtile 
+       <lb ed="#B" n="52"/>ad consequandum illum finem. Quia si non fieret honor dei &amp; prfectus ecclesiae, qui per illud curari possent, omnino deficerent 
+       <lb ed="#B" n="53"/>vel in ecclesia vniversal, vel in aliqua ecclesia particulari, aut in aliquo eius membro. quemadmodum moderno tempore defi 
+       <lb ed="#B" n="54"/>cerent in vniversal ecclesia honor dei &amp; perfectus ecclesiae vniversalis procurandi per dei gratiam in passagio generali: cui dominus 
+       <lb ed="#B" n="55"/>papa Nicolaus in dicta lfa exhortatoria dixit praefigendum omnibus cruce signatis, &amp; cruce signandis terminum 
+       <!--1225.xml-->
+       <pb ed="#B" n="592-v"/>
+        <lb ed="#B" n="1"/>festum videlicet natiuitatis beati Ioannis Baptistae, quod erit in anno domini. M. cc. xciii. nisi pro opere transfretandi. 
+       <lb ed="#B" n="2"/>&amp; liberandi terram sanctam de manibus Sarracenorum largissimae indulgentiae conferrentur talibus qui vtiles sunt adta 
+       <lb ed="#B" n="3"/>le opus exequendum: et nisi secundum modum finis &amp; laboris in opere rationabiliter mensuretur quantitas indulgentia 
+       <lb ed="#B" n="4"/>rum, vt per hoc in illarum dispensatione concurrant simul genra seu misericordia &amp; iustitia. lustitia propter meritum operis 
+       <lb ed="#B" n="5"/>gratia propter veniam poenae debitam peccatis super mercedem aeternae retributionis proportionalem quantitati operis: quae  
+       <lb ed="#B" n="6"/>principalius ab operante debet attendi &amp; expectari ex opere, quam indulgentia poenarum debita peccatis. Sed si talis 
+       <lb ed="#B" n="7"/>finis adsit: &amp; secundum ipsum &amp; sm quantitatem laboris in opere rationabiliter moderentur indulgentiae: aliter enim fine 
+       <lb ed="#B" n="8"/>frustrari possent per contemptum earum aut nimiam confidentiam in ipsis, vt dictum est: non solum valent, sed &amp; tantum valent 
+       <lb ed="#B" n="9"/>quantum sonant. Et hoc omnibus in charitate existentibus ad iiuncti operis executionem laborantibus. &amp; sic aequaliter va 
+       <lb ed="#B" n="10"/>lent inaequalibus &amp; inaequaliter laborantibus. Et mensurantur indulgentiae non sm meram voluntatem conferentis eas, vt di  
+       <lb ed="#B" n="11"/>cit vna opinio, ponentua. scilicet quod indulgentiae possint esse mere gratuitae absque omni merito operis: nec est mensurantur 
+       <lb ed="#B" n="12"/>m meritum operantis recipientis eas, vt dicit alia opinio ponentium quod indulgentiae sunt simpliciter debitae: sed men 
+       <lb ed="#B" n="13"/>surantur medio me. scilicet sm modum &amp; necessitatem finis, &amp; quantitatem laboris in genere operis: sed aliquando principalitur 
+       <lb ed="#B" n="14"/>pm necessitatem finis: puta quando potior honor dei, &amp; ecclesiae profectus ex minus laborioso opere spantur, possunt 
+       <lb ed="#B" n="15"/>pro illo exequendo dari indulgentiae abundantiores quam pro alio opere magis laborioso: ex quo minus honor dei 
+       <lb ed="#B" n="16"/>&amp; ecclesiae profectus spantur. Aliquando vero principalitur mensurantur indulgentiae sm quantitatem laboris in genere operis:  
+       <lb ed="#B" n="17"/>puta quando non potior honor dei &amp; ecclesiae profectus sprantur ex opere minus laborioso, sm quod dominus papa in generali 
+       <lb ed="#B" n="18"/>absolutione in coena domini plures dies indulgentiae consueuit concedere aduenientibus de partibus trasma- 
+       <lb ed="#B" n="19"/>rinis quam aliis, &amp; adhuc plures venientibus de vltra montes quam venientibus de citra motes. Et ita secure potest 
+       <lb ed="#B" n="20"/>dici, quod indulgentiae praelatorum tantum valent quantum sonant &amp; praedicantur valere, &amp; simul concurrant ista quaetuor: ve- 
+       <lb ed="#B" n="21"/>ex parte dispensantis auctoritas: ex parte recipientis charitas: ex parte operis vtilitas: &amp; ex parte finis, siue causa 
+       <lb ed="#B" n="22"/>pietas. Et cum debitum poenale cuiusque vnum sit &amp; idem: &amp; quo ad durationem in tempore aequalitur soluendum in quaecumque  
+       <lb ed="#B" n="23"/>foro licet multum iaequaliter quae ad acerbitatem poenae in foro Christi, &amp; in foro poenitentis, &amp; in foro ecclsiae, sicut 
+       <lb ed="#B" n="24"/>superius est expositum: Aduertendum credo quod cum praelatus non distinguat neque determinet indulgentias dari 
+       <lb ed="#B" n="25"/>puta decem dies de iniunctis sibi poenitentiis: sed decem dies simpliciter intelligitur indulgentia fieri. x. dierum de poe 
+       <lb ed="#B" n="26"/>na purgatorii: vt per. x. dies indulgentiae citius liberetur a poenis purgatorii: quam si fine illis indulgentiis decessis 
+       <lb ed="#B" n="27"/>set: sicut citius liberaretur a purgatorio per decem dies: si hic decem dies voluntariae poenae peregisset: quam si non peregis 
+       <lb ed="#B" n="28"/>set. Et hoc prouenit ex magna dei mima, qui minores poenas in duplici foro vult nos sustinere, &amp; ad maio  
+       <lb ed="#B" n="29"/>res poenas purgatorii soluendas, indulgentias nobis concessas praseruat. Et puto quod praelatus per intentionem potest con 
+       <lb ed="#B" n="30"/>ferre indulgentias dierum poenae a sacerdote iniunctorum: puta si poenitenti iniunctum sit sacramentalitur per sacerdotem 
+       <lb ed="#B" n="31"/>ieiunare centum dies, praelatus pesatis causis praedictis potest indulgere. xl. dies de iniunctis sibi poenitentiis: ita quod  
+       <lb ed="#B" n="32"/>si ieiunauerit alios dies vsque. xl, non peccat ieiunium illorum omittendo. vel potest ex cauam omnem poenam iniunctam in  
+       <lb ed="#B" n="33"/>dulgere, sicut facit in indulgentiis generalibus omnium criminum, nec delinquit illam poenam iniunctam omittendo, si- 
+       <lb ed="#B" n="34"/>cut per inobedientiam delinquaret si illam omitteret absque in dulgentia, &amp;e cum hoc omnes dies illius poenae omissa- 
+       <lb ed="#B" n="35"/>sustinere deberet in purgatorio si non impleret illam in vita ista: sicut cum in foro Christi, &amp; in foro poenitentis 
+       <lb ed="#B" n="36"/>non agit dies poenae cum acerbitate competenti, aut dimittit eam agere per aliquam partem diei, acerbitas illa omis 
+       <lb ed="#B" n="37"/>sa addetur acerbitati poenae in purgatorio: et similiter portio diei omissa adiungetur diebus poenae purgatorii 
+       <lb ed="#B" n="38"/>vt sic vel per poenas, proprias vel in praesenti, vel in futuro, vel per indulgentias oporteat poenitentem reddere quaecum 
+       <lb ed="#B" n="39"/>que deliquit vsque ad minimum inclusiue: vt nihil mali culpae maneat impunitum. Ad argumenta pro &amp; contra 
+       <lb ed="#B" n="40"/>respondendum est. Argumentum enim pro parte affirmatiua procedit probando indulgentias fore mensurandas sm meram 
+       <lb ed="#B" n="41"/>voluntatem conferentis eas. argumentum autem pro parte negatiua probat eas fore mensurandas sm meritum cuiusque in  
+       <lb ed="#B" n="42"/>opere, cum tamen non mensurentur nisi secundum modum finis &amp; genus operis, vt dictum est. Quia ergo arguitur primo, quod in  
+       <lb ed="#B" n="43"/>dulgentiae praelatorum tantum valent quantum sonant: quia corpus Christi principale est respectu meriti ipsius: sed prae 
+       <lb ed="#B" n="44"/>lati habent liberam dispensationem secundum meram voluntatem suam corporis Christi faciendam populo: ergo &amp; meriti 
+       <lb ed="#B" n="45"/>ipsius: &amp; sic indulgentiarum, quae praecipue de merito operum poenalium Christi indebitorum dispensantur: Dicoquoe prae 
+       <lb ed="#B" n="46"/>lati quo ad hoc habent potestatem dispensandi corpus Christi: quod videlicet si sint ordinati in sacerdotes, &amp; ha-  
+       <lb ed="#B" n="47"/>bzant debitam materiam consecrandi corpus Christi, puta panem de frumento, possunt illud consecrare quando  
+       <lb ed="#B" n="48"/>volunt, &amp; quantum indigent fideles: sed non habent potestatem consecrandi illud in alia materia. Possunt &amp; ipsum  
+       <lb ed="#B" n="49"/>consecratum dispensare quando volunt, &amp; quibus volunt bonis &amp; malis: sed non possunt determinare quantum eius 
+       <lb ed="#B" n="50"/>conio debeat cuiquam illorum valere: quia hoc dependet a solo deo, &amp; disponne communicantis. Nec possunt facere quod  
+       <lb ed="#B" n="51"/>valeat &amp; non obsit non existenti in genera. Et sicut quo ad aliquam praelati habent liberam dispensationem corporis Christi 
+       <lb ed="#B" n="52"/>&amp; quo ad aliqua non: sic &amp; indulgentiarum iuxta modum iam expositum: praecipue quo ad indulgentiarum va- 
+       <lb ed="#B" n="53"/>lorem. secundum quem sunt accessoria ad corpus Christi, vt dicit argumentum. Sicut enim non possunt facere quod  
+       <lb ed="#B" n="54"/>valeat corpus Christi non existenti in gratia, sic nec possunt facere quod illi valeant indulgentiae. Possunt tamenplus 
+       <lb ed="#B" n="55"/>super induigentias: siue super merita poenarum Christi, quae sunt accessoria: quam super corpus Christi 
+       <!--1226.xml-->
+       <pb ed="#B" n="593-r"/>
+        <lb ed="#B" n="1"/>quod est principale: quia praesent plures indulgentias concedere aut pauciores, saluis praedictis quaetuor: &amp; sic face- 
+       <lb ed="#B" n="2"/>re quod indulgentiae pro aliquo opere valeant pilus vel minus. sed non praesent plus quam vnum corpus Christi dispensare, licet 
+       <lb ed="#B" n="3"/>sub pluribus speciebus panis: nec etiam possunt facere vt aliquibus in eadem dispositione manentibus modo plus 
+       <lb ed="#B" n="4"/>valeat, modo minus: licet sub pluribus speciebus panis, vel sub paucioribus possint illud aliquibus 
+       <lb ed="#B" n="5"/>ministrare: sicut possunt plures vel pauciores indulgentias pro aliquo opere aliquibus conferre, non tamen omnino 
+       <lb ed="#B" n="6"/>sic. eo enim quod operantur in consecratione vi ordinis, &amp; modo naturae secundum praedicta, in tot specibus consecrare pos- 
+       <lb ed="#B" n="7"/>sunt, quot eis proponuntur, &amp; consecratum populo ministrare: operantur autem in indulgentiarum dispensatione modo li- 
+       <lb ed="#B" n="8"/>beri arbitrii. secundum regulam rectae rationis, quae non sinit quod tantum indulgentiarum dispensare possunt quantum velle 
+       <lb ed="#B" n="9"/>possent absque regula rationis, vt patet ex dictis. Et sic non est simile de dispensatione secundum quantum corporis Chri 
+       <lb ed="#B" n="10"/>sti, &amp; indulgentiarum: si tamen tantum &amp; in tanta quantitate, &amp; in tot speciebus panis quantum vellent vltra vsum ne 
+       <lb ed="#B" n="11"/>cessarium &amp; honestum ecclesiae corpus Christi consecrare &amp; ministrare possent: quod aliquinegant. Quia si illud non 
+       <lb ed="#B" n="12"/>praesent circa corpus Christi: falsum est ergo medium assumptum in argumente scilicet quod possunt dispensare corpus 
+       <lb ed="#B" n="13"/>Christi in sacramento quantum volunt, sicut falsum est quod possunt dispensare indulgentias quantum volunt absque  
+       <lb ed="#B" n="14"/>E rationabili cauam, quod nititur probare argumentum, sed non potest. 
+      </p>
+      <p xml:id="n3av8a-c1e5707-d1e1111">
+       AD secundum: quod deus non acceptat facta praelatorum, nisi 
+       <lb ed="#B" n="15"/>secundum iustitiam, quia non placet ei nisi iustum: non est autem iustitia quod aequaliter valeant singulis, quod esset si 
+       <lb ed="#B" n="16"/>passim tantum valerent quantum sonant: non ergo tantum valent quantum sonant: Dico quod in dispensandis indulgentiis 
+       <lb ed="#B" n="17"/>pont considerari iustitia duplex, &amp; secundum vtramque potest earum dispensatio moderari. Est enim in dispensandis illis 
+       <lb ed="#B" n="18"/>quaedam iustitia consideranda: quam iustum est quod illas praelatus pro loco &amp; tempore dispenset: vt honor dei &amp; profectus ec 
+       <lb ed="#B" n="19"/>clesiae per illarum dispensationem procurentur. quia si quandoque non pro loco &amp; tempore illas dispensaret, aut non tantas dispem 
+       <lb ed="#B" n="20"/>saret quod honor dei &amp; profectus ecclesiae dispensando illas procurari possent, non dispensando, aut non tantas dis g 
+       <lb ed="#B" n="21"/>pensando, sed minores, aut non procuraretur, aut non intantum procuraretur: quantum si ampliores dispensaret: quid  
+       <lb ed="#B" n="22"/>iniquum &amp; iniustum esset, &amp; peccaret praelatus, non dispensans illas aut non tantas: econtra si quanidoque pro loco &amp; tempore il 
+       <lb ed="#B" n="23"/>las dispensaret, aut tantas, quod honor dei, &amp; prfectus ecclesiae dispensando illas, aut dispensando tantas, non pro  
+       <lb ed="#B" n="24"/>curaretur omnino, aut non maior propter maiores indulgentias, vanum esset illas dispensare, aut tantas dispensare, at 
+       <lb ed="#B" n="25"/>que irrationabile, &amp; iterum peccaret praelatus in dispensando illas. Alia autem iustitia potest considerari in dispen- 
+       <lb ed="#B" n="26"/>sandis indulgentiis qua iustum est quemquam recipere tot indulgentias, quot ipse recipit: ita quod non esset aequitas 
+       <lb ed="#B" n="27"/>iustitiae ipsum recipere plures vel pauciores. Prima iustitia semper in distribuendis indulgentiis a praelato consi- 
+       <lb ed="#B" n="28"/>deranda est, &amp; obseruanda: quia vt dictum est, aliter peccaret: nec deus factum suum acceptaret: maxime quo  
+       <lb ed="#B" n="29"/>ad actionem qua ab ipso talis dispensatio fit, licet forte aliquibus quibus dispensarentur, merito deuotionis illorum  
+       <lb ed="#B" n="30"/>valerent: &amp; sic quo ad illarum receptionem deus alias acceptaret: sed hoc non secundum rationem qua indulgentiae 
+       <lb ed="#B" n="31"/>sunt indulgentiae, &amp; dona gratuita potius quam debita. secundum modum superius determinatum: sed potius secundum  
+       <lb ed="#B" n="32"/>rationem quae sunt quaedam debita ratione iustitiae, &amp; hoc sum iustitiam secundo modo dictam, quam non opertet praelatum considerare  
+       <lb ed="#B" n="33"/>neque obseruare: &amp; potest si velit: sicut quando mensurat indulgentias secundum quantitatem laboris in genere operis. et 
+       <lb ed="#B" n="34"/>hoc vel indefinite siue in quantitate infinita: sicut in sex casibus supius expositis: vel definite, siue in quantitate  
+       <lb ed="#B" n="35"/>definita mensurando indulgentias: vt quando in casu iam superius exposito mensurat indulgentias smquantitatem laborim  
+       <lb ed="#B" n="36"/>in genere operis, diuersimode quaerentibus eas alonge &amp; quaerentibus illas deprope. sm quam mensurare indulgentias sub 
+       <lb ed="#B" n="37"/>tali quantitate: vel sub tali, &amp; hoc vel ifinite, vel definite vel diuersimode sm diuersitatem temporm, locorum, &amp; 
+       <lb ed="#B" n="38"/>personarum esset optia earum dispensatio: dum tamen non minus procuraretur honor dei &amp; profectus eccliae in dispensando eas 
+       <lb ed="#B" n="39"/>diuersimode sm diuersitatem temporm, locorum, &amp; personarum: &amp; in dispensando illas per omniaaequalitur: aut in dispensando  
+       <lb ed="#B" n="40"/>eas miores: quam in dispensando eas maiores. quia simpliciter &amp; absolute taul &amp; tanta dispensatio indulgentiarum est opti 
+       <lb ed="#B" n="41"/>ma, &amp; summe a deo acceptatur: quali &amp; quanta honor dei maior &amp; maior profectus ecclesiae valent procurari. Et 
+       <lb ed="#B" n="42"/>sic simpliciter principalior modus mensurandi dispensationem indulgentiarum est secundum modum finis &amp; necessitatem 
+       <lb ed="#B" n="43"/>eius. Secundarius autem secundum modum operis &amp; quantitatem laboris in illo. Sed non est modus iste deteriatus in na 
+       <lb ed="#B" n="44"/>tura rei: sed sm diuersitatem causarum, &amp; temporum, locorum, &amp; personarum deteriari debet secundum iudicium rectae 
+       <lb ed="#B" n="45"/>rationis prout sapiens deteriaret: &amp; hoc iustum est secundum regulas iustitiae primo modo dictae, quae propria est indul  
+       <lb ed="#B" n="46"/>gentiis, licet non. secundum regulas iustitiae secundo modo dictae: quae repugnat indulgentiis, vt patet ex praedeteriatis 
+       <lb ed="#B" n="47"/>Vnde non est medium strictum: sed immensae latitudinis in mensurando hoc modo indulgentias: &amp; potest prae- 
+       <lb ed="#B" n="48"/>latus pro penitus vno &amp; eodem negotio bene secundum libitum voluntatis suae dare maiores vel 
+       <lb ed="#B" n="49"/>minores indulgentias &amp; aequales inaequaelibus quo ad conditiones personarum, &amp; operum: vt tantum simplici- 
+       <lb ed="#B" n="50"/>ter valeant quantum sonant tecipientibus. Si vero medium illud transeat, abundantiores siue pauciores indul  
+       <lb ed="#B" n="51"/>gentias conferendo quam honor dei &amp; ecclesiae profectus requirat: non video quomodo valeant, &amp; maxime tantum 
+       <lb ed="#B" n="52"/>quantum sonant. Sed &amp; ne peccet praelatus in mensurando illas, diligentissime debet attendere vt tali modo mensu- 
+       <lb ed="#B" n="53"/>ret eas ex quali amplius honor dei &amp; ecclesiae profectus procurentur. Et quid assumitur in argumento: quod non est iusti. 
+       <lb ed="#B" n="54"/>tia indulgentias aequaliter dispensare inaequalibus: quare deus non acceptat talem dispenlationem, nec valent illis i 
+       <lb ed="#B" n="55"/>aequaliter quantum sonant valere. Dico quod verum est in dispensatione quae mensuranda est secundum  
+       <!--1227.xml-->
+       <pb ed="#B" n="593-v"/>
+        <lb ed="#B" n="1"/>meritum personarum penes secundum modum iustitiae quae est ex debito. Sed non est verum in dispensatione quae men 
+       <lb ed="#B" n="2"/>suranda est principaliter secundum modum &amp; necessitatem finis penes primum modum iustitiae: quae est non tam ex de 
+       <lb ed="#B" n="3"/>bito quam ex gratia: qualiter mensuranda est dispensatio indulgentiarum, vt patet ex praedeterminatis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

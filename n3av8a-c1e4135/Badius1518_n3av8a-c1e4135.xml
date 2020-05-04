@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="426-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4135">
+       <head xml:id="n3av8a-c1e4135-Hd1e96">Quaestio 9</head>
+       <p xml:id="n3av8a-c1e4135-d1e99">
+        <lb ed="#B" n="11"/>CIrca tertium arguitur: quod subiectum non potest esse causa accidentis existentis in  
+       <lb ed="#B" n="12"/>eo, sic. Quod est in potentia ad aliquid, eo quod inquantum huiusmodi est non ens, illud non 
+       <lb ed="#B" n="13"/>potest esse causa vt secundum actum sit illud: sicut non ens non potest esse causa 
+       <lb ed="#B" n="14"/>suae entitatis. subiectum ex se solum est in potentia ad suum accidens. ergo non  
+       <lb ed="#B" n="15"/>potest esse causa vt secundum actum sit illud. Sic autem esset cauam, si esset causa sui ac- 
+       <lb ed="#B" n="16"/>cidentis. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e115">
+       CONtra est: quod voluntas est mouens seipsam in actum vo- 
+       <lb ed="#B" n="17"/>lendi, qui est accidens eius in quo est causa sui actus volendi. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e120">
+       DIcendum quod quaestio ista pro  
+       <lb ed="#B" n="18"/>posita est de causa efficiente accidentis generaliter: sed specialiter propter accidens quod est ipse actus 
+       <lb ed="#B" n="19"/>volendi: quomodo possit causari effectiue ab ipsa voluntate quae est subiectum eius. Et est ratio du-  
+       <lb ed="#B" n="20"/>bitationis in ea: cum subiectum sit causa materialis respectu accidentis sui: &amp; ita licet sit in actum quan 
+       <lb ed="#B" n="21"/>tum ad formam substantialem: tamen quantum est ex se: non est nisi in potentia ad formam accidenta- 
+       <lb ed="#B" n="22"/>lem: &amp; ideo necessario eget aliquo existente in actu tale, quale est illud in potentia, quo reducatur de potem 
+       <lb ed="#B" n="23"/>tia in actum. Dico autem existente in actu tale, saltem virtute etsi non formaliter: quemadmodum sol qui cali- 
+       <lb ed="#B" n="24"/>dus est in potentia: facit calidum in actu virtute etsi non formaliter calidus est. Et videtur mihi hic 
+       <lb ed="#B" n="25"/>esse dicendim quod secundum philosophum. vii. metaphysicae vt tactum est in quaestione praecedente: substantia est cau- 
+       <lb ed="#B" n="26"/>sa essentiae &amp; esse suorum accidentium non solum vt materialis sed etiam vt efficiens: sed aliter &amp; ali- 
+       <lb ed="#B" n="27"/>ter. Quia enim est causa accidentium materialis: hoc habet a se &amp; natura sua: quod vero sit causa efficiens 
+       <lb ed="#B" n="28"/>eorundem: hoc habet a generante &amp; producente essentiam substantiae in esse. Producens enim ipsam 
+       <lb ed="#B" n="29"/>in esse imprimit ei virtutem causandi effectiue in se omnia sua accidentia. Et sic videtur mihi hic 
+       <lb ed="#B" n="30"/>esse distinguendum: dicendo quod substantia subiecta accidenti considerari habet dupliciter. Vno mo- 
+       <lb ed="#B" n="31"/>do vt habet in se perfecte virtutem agentis sibi influxam: qua natum est illud accidens producere 
+       <lb ed="#B" n="32"/>de potentia ad actum. &amp; sic est in se summe dispositum &amp; in potentia accidentali ad illud accidens 
+       <lb ed="#B" n="33"/>Alio modo vt est aliquid in natura secundum se. Si secundo modo: de hoc membro breuiter me ex 
+       <lb ed="#B" n="34"/>pedio dicendo quod subiectum nullo modo est causa sui accidentis nisi sicut materia &amp; causa materia  
+       <lb ed="#B" n="35"/>lis, existendo ad illud in potentia remota &amp; essentiali. propter quod eget vt vadat de potentia in actum 
+       <lb ed="#B" n="36"/>secundum illud accidens essentiali transmutante extra. Si primo modo: in quo consistit difficultas 
+       <lb ed="#B" n="37"/>quaestionis: sic dico diuidendo quaestionem in duo membra. Quorum primum est de ratione &amp; mo 
+       <lb ed="#B" n="38"/>do causandi accidens quod iam est actu in ipso subiecto. Secundum vero de ratione &amp; modo causandi ac 
+       <lb ed="#B" n="39"/>cidens quod nondum est actia in subiecto. Quo ad primum membrum dico: quod sic procedit cursus &amp; or 
+       <lb ed="#B" n="40"/>do naturae quod quandocunque ad aliquam formam consequuntur naturaliter aliquae per se proprietates 
+       <lb ed="#B" n="41"/>aut actiones, generans rem secundum illam formam in generando sic eam summe disponit quod quan  
+       <lb ed="#B" n="42"/>tum est de se sit in potentia accidentali ad illud accidens &amp; ex parte materiae &amp; ex parte formae. Ex 
+       <lb ed="#B" n="43"/>parte materiae disponendo ipsam vt sit necessitas ad receptionem illius accidentis: &amp; ex parte for- 
+       <lb ed="#B" n="44"/>mae disponendo eam vt sit necessitas ad illius accidentis productionem de potentia materiae. Vn- 
+       <lb ed="#B" n="45"/>de generans ignem quia leuitas &amp; caliditas sunt per se proprietates sequentes formam ignis: simul 
+       <lb ed="#B" n="46"/>disponit materiam ignis vt sit necessitas ad recipiendum leuitatem &amp; caliditatem: &amp; similiter formam 
+       <lb ed="#B" n="47"/>ignis vt sit necessitas producendi illam de sua materia. Et hoc totum procedit de virtute agentis im 
+       <lb ed="#B" n="48"/>pressa igni: &amp; quo ad materiam &amp; quo ad formam: &amp; ideo ignis statim cum generatus est quo ad  
+       <lb ed="#B" n="49"/>suam formam substantialem de potentia materiae cui adhaeret, immediate generat de potentia quae  
+       <lb ed="#B" n="50"/>suae materiae adhaeret mediante potentia ad formam substantialem ipsas formas accidentales: leui- 
+       <lb ed="#B" n="51"/>tatere. scilicet &amp; caliditatem. Sed quia hoc non facit nisi in virtute generantis ignem secundum formam 
+       <lb ed="#B" n="52"/>ignis: ideo formarum accidentalium generatio attribuitur generanti formam substantialem: quando  
+       <lb ed="#B" n="53"/>dicitur quod generans rem dat ei accidentia per se: &amp; operationem illius propriam. attribuitur autem 
+       <lb ed="#B" n="54"/>formae substantiali vt sequelae suae: quando dicitur quod formam substantialem generatam necessario  
+       <!--892.xml-->
+       <pb ed="#B" n="426-r"/>
+        <lb ed="#B" n="1"/>consequuntur suae proprietates &amp; propriae operationes: Quia autem ad formam accidentalem quae  
+       <lb ed="#B" n="2"/>est leuitas per eundem modum sequitur propria operatio quae est moueri sursum: ideo similiter di  
+       <lb ed="#B" n="3"/>citur quod generans leue dat motum leui: &amp; per motum locum proprium illi. Tamen causa proxima agens 
+       <lb ed="#B" n="4"/>talium accidentium &amp; operationum sunt ipsae formae rerum siue totum compositum ratione for- 
+       <lb ed="#B" n="5"/>mae tantum. Et sic quo ad istud membrum quaestionis respondeo dicens: quod omne subiectum per suam 
+       <lb ed="#B" n="6"/>formam est causa agens &amp; efficiens suorum accidentium propriorum: &amp; similiter communium, con 
+       <lb ed="#B" n="7"/>currentibus circa ipsum agentibus primis, quae ipsum ad hoc disponunt secundum iam dictum mo- 
+       <lb ed="#B" n="8"/>dum. Quo ad secundum membrum quaestionis in quo principaliter erat proposita: scilicet de ratio 
+       <lb ed="#B" n="9"/>ne &amp; modo causandi accidens quid nondum est in subiecto secundum actum: sed secundum po- 
+       <lb ed="#B" n="10"/>tentiam tantum: in quo videtur esse maior difficultas: Dico quod subiectum generatum secundum for 
+       <lb ed="#B" n="11"/>mam substantialem, si dicto modo non fuerit causa secundum actum suorum accidentium &amp; operationum. 
+       <lb ed="#B" n="12"/>hoc non contingit nisi quia sustinet impedimentum: quo remoto( quia de se a generante extra, licet 
+       <lb ed="#B" n="13"/>iam cessauerit a sua actione &amp; sit absens, summe dispositum est retinendo in se &amp; secundum materiam 
+       <lb ed="#B" n="14"/>&amp; secundum formam virtutem generantis, secundum praedictum modum) statim causat secun- 
+       <lb ed="#B" n="15"/>dum formam suam actiue, &amp; secundum materiam suam passiue huiusmodi accidentia &amp; operatio- 
+       <lb ed="#B" n="16"/>nes: vt si ignis secundum formam substantialem posset sustinere aliquod impedimentum ne simul consequere 
+       <lb ed="#B" n="17"/>tur eum caliditas aut leuitas: &amp; sic esset ignis: sed non calidus aut non leuis: amoto impedimento sta- 
+       <lb ed="#B" n="18"/>tim seipso agente secundum praedictum modum fieret calidus aut leuis. Sed hoc magis clarum est 
+       <lb ed="#B" n="19"/>in propriis operationibus quae natae sunt sequi ipsas formas: quoniam per impedimentum retardan- 
+       <lb ed="#B" n="20"/>tur quandoque patenter: ne possint in suas proprias operationes: vt patet de graui &amp; leui: quae gene 
+       <lb ed="#B" n="21"/>rata secundum formam grauis &amp; leuis, cessante impedimento per suas formas grauitatis &amp; leuitatis 
+       <lb ed="#B" n="22"/>mutantur &amp; transferuntur, hoc sursum, illud deorsum: secundum quod hoc sufficienter declaraui in  
+       <lb ed="#B" n="23"/>praecedente Quolibet. Quando vero sustinent impedimentum, &amp; sunt in potentia tantum ad suas 
+       <lb ed="#B" n="24"/>operationes, amoto impedimento statim feruntur de potentia in actum secundum praedictum modum  
+       <lb ed="#B" n="25"/>Sic etiam habens habitum considerandi secundum aliquam scientiam, cessante impedimento semper quando vult 
+       <lb ed="#B" n="26"/>(per hoc enim amouetur impedimentum) considerat: praesente vero impedimento etsi cesset ad tem 
+       <lb ed="#B" n="27"/>pus: amoto impedimento statim per habitum suum sit in actum considerandi. Et est. omnino aliud  
+       <lb ed="#B" n="28"/>genus transmutationis qua generatur habitus &amp; addiscens fit sciens: &amp; qua sciens secundum ha-  
+       <lb ed="#B" n="29"/>bitum sit considerans &amp; sciens secundum actum: &amp; quo modo est ille in potentia sciens ante generationem 
+       <lb ed="#B" n="30"/>habitus: &amp; iste post habitus generationem. dicente enim <name ref="#Aristotle">Philosopho</name> secundo de anima: vterque eorum 
+       <lb ed="#B" n="31"/>non eodem possibilis: sed hic quidem quoniam materia est: ille autem possibilis considerare nisi ali 
+       <lb ed="#B" n="32"/>quid prohibeat: &amp; hic quidem per doctrinam alteratus est: ille autem alio modo. quod vere non est alte- 
+       <lb ed="#B" n="33"/>rari: in seipsum enim est inductio &amp; in actum aut alterum genus alterationis. Quia autem non est pro- 
+       <lb ed="#B" n="34"/>prie alteratio cum: sciens secundum habitum sit considerans: ex hoc claret: quod operatio secundum 
+       <lb ed="#B" n="35"/>actum minus. distat a potentia sua quam habitus. haec enim est causa quare exitus in actum consideran-  
+       <lb ed="#B" n="36"/>di de potentia non est proprie alteratio: quae est proprie corruptio alicuius contrarii: sicut 
+       <lb ed="#B" n="37"/>est exitus de potentia ad habitum: sed proprie salus &amp; perfectio operantis. absque contrario. Pro- 
+       <lb ed="#B" n="38"/>pter quid tale accidens quid est operatio, praecipue potest subiectum in se causare de nouo post impedi- 
+       <lb ed="#B" n="39"/>mentum remotum. Et per omnem eundem modum dico quod voluntas forma libertatis suae quae est 
+       <lb ed="#B" n="40"/>vis quaedam in ipsa: vt alibi declarauimus: a causante voluntatem liberam in anima &amp; imprimer- 
+       <lb ed="#B" n="41"/>te ei in hoc virtutem suam ad causandum suas proprias operationes secundum iam expositum me- 
+       <lb ed="#B" n="42"/>dum, potest mouere seipsam: &amp; educere de potentia volendi ad actum volendi: &amp; est tota voluntas 
+       <lb ed="#B" n="43"/>mouens &amp; mota tota: sed mouens ratione qua est libera: quae libertas est formale in ipsa: mota au 
+       <lb ed="#B" n="44"/>tem ratione qua est natura: quae est materiale in ipsa: &amp; hoc cessante impedimento. quemadmodum  
+       <lb ed="#B" n="45"/>dictum est de graui &amp; leui respectu translationis sursum &amp; deorsum. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e308">
+       AD cognoscendum autem 
+       <lb ed="#B" n="46"/>modum quo voluntas pati possit: impedimentum ne possit velle: quo amoto seipsa libere vadit in  
+       <lb ed="#B" n="47"/>actum volendi: Sciendum est quod aliquid a suo actu qui operatio est. cum sit imperfectio actum secundum for 
+       <lb ed="#B" n="48"/>mam qua natum est operari: potest impediri dupliciter. quia per impedimentum positiuum: quem 
+       <lb ed="#B" n="49"/>admodum impeditur graue per obstaculum ne descendat: &amp; per impedimentum priuatiuum: quem  
+       <lb ed="#B" n="50"/>admodum impeditur lux ne illuminet quando non habet. illuminabile sibi praesens. Primo modo ime 
+       <lb ed="#B" n="51"/>peditur voluntas, ne: velit per coactionem. Secundo autem modo impeditur per ignorantiam: qua 
+       <lb ed="#B" n="52"/>obiectum volitum est sibi absens: quod non est natum esse ei praesens nisi per scientiam siuae notitiam: in: in  
+       <lb ed="#B" n="53"/>tellectu. Et secundum hoc accipitur duplex inuoluntarium secundo Ethico. scilicet per violentiam  
+       <!--893.xml-->
+       <pb ed="#B" n="426-v"/>
+        <lb ed="#B" n="1"/>&amp; per ignorantiam. Vnde cessante coactione libere de non volente cum effectu sit volens: &amp; cessan 
+       <lb ed="#B" n="2"/>te ignorantia per praesentiam obiecti in cognitione libere seipsa de non volente fit volens ipsum bo- 
+       <lb ed="#B" n="3"/>num cognitum: &amp; est mouens non motum prius: &amp; agens non passum prius ab alio, nisi forte secun- 
+       <lb ed="#B" n="4"/>dum exigentiam suae naturae: vt infra dicetur: sicut potentia simpliciter actiua: &amp; primo actiua: &amp; 
+       <lb ed="#B" n="5"/>secundo passiua. Et hoc dupliciter: sed ordine quodam primo a seipsa quando de potentia volente sit 
+       <lb ed="#B" n="6"/>actu volens: vt dictum est. Secundo ab obiecto: quando ex obiecto per actum volendi sibi coniuncto 
+       <lb ed="#B" n="7"/>suscipit delectationem &amp; gaudium &amp; huiusmodi. Et secundum hoc concedendum est secundum 
+       <lb ed="#B" n="8"/>argumentum quod super hoc erat fundatum. Quamuis sint aliqui dicentes quod voluntas simplici- 
+       <lb ed="#B" n="9"/>ter passiua est: &amp; prius passiua quam actiua: licet sit secundario aliquo modo actiua: in quo excedit vires 
+       <lb ed="#B" n="10"/>inferiores &amp; sensitiuas &amp; appetitiuas: quae omnino sunt passiuae. Quia enim (ut dicunt aliqui) ex se sit in po- 
+       <lb ed="#B" n="11"/>tentia aliquid siue ad aliquid, &amp; seipso fiat in actu illud nullo alio agente &amp; mouente ipsum: hoc omnino 
+       <lb ed="#B" n="12"/>est inconueniens. Quod probant per rationes: quarum prima est illa, quae supra ad partem negati- 
+       <lb ed="#B" n="13"/>uam quaestionis est producta. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e361">
+       SEcundo per hoc: quod illud quod facit aliquid in actum secundum aliquid  
+       <lb ed="#B" n="14"/>ad quid prius erat in potentia: oportet quod prius sit in actum secundum illud: vt quod facit aliud calidum  
+       <lb ed="#B" n="15"/>oportet quod in seipso sit calidum. Voluntas ergo si seipsam de potentia faceret in actum volendi: prius 
+       <lb ed="#B" n="16"/>vellet antequam hoc faceret. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e370">
+       TERtio per hoc: quod si aliquid ens in potentia, aliquid seipsum faceret in actum 
+       <lb ed="#B" n="17"/>secundum quod est in actu esset causatum: &amp; secundum quod in potentia esset causa: &amp; ita effectus esset 
+       <lb ed="#B" n="18"/>perfectior sua causa. Elsdem etiam videtur quod modus ponendi praetactus non est conueniens: scilicet quod in  
+       <lb ed="#B" n="19"/>voluntate sit aliquid mouens, &amp; aliquid motum: &amp; aliquid potentiale: &amp; aliquid actuale: &amp; hoc sicut contingit in gra 
+       <lb ed="#B" n="20"/>ui &amp; leui: &amp; quod aliter periret liberum arbitrium. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e381">
+       IMprobant enim primum sic: quoniam dicunt quod graue non mouetur a 
+       <lb ed="#B" n="21"/>se nisi quia mouet aliud per se: &amp; ideo se per accidens: &amp; tale si mouet se: oportet primo moueri ab alio 
+       <lb ed="#B" n="22"/>a se: quare &amp; sic oportet sentire de voluntate. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e388">
+       ITem quod dicatur graue moueri ratione materiae, &amp; 
+       <lb ed="#B" n="23"/>mouere ratione formae: hoc est inconueniens: quia subiectum motus non est nisi ens in actum secundum 
+       <lb ed="#B" n="24"/>quod est in actum: ita etiam quod moueatur ratione eius quo est in actum: quale non est materia: quia est 
+       <lb ed="#B" n="25"/>in potentia tantum. Si ergo graue mouetur, totum compositum ex materia &amp; forma est subiectum 
+       <lb ed="#B" n="26"/>motus ratione totius &amp; vtriusque partis in eo tam formae quam materiae simul. Quid auten sie subiectum motus 
+       <lb ed="#B" n="27"/>est, non ratione totius neque alicuius partis eius est principium aut ratio mouendi actiue. neque ergo  
+       <lb ed="#B" n="28"/>forma grauis: neque compositum ex materia &amp; forma ratione formae est mouens aut ratio mouendi 
+       <lb ed="#B" n="29"/>actiue: sed solummodo aliquid extrinsecum. Eodem modo &amp; de voluntate est: quia tota cedit in ratio 
+       <lb ed="#B" n="30"/>ne possibilis. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e408">
+       ITem sicut dicunt: si graue aut voluntas mouet se per se propter potentiale &amp; actua 
+       <lb ed="#B" n="31"/>le in se: eadem ratione omne compositum ex materia &amp; forma moueret se per se. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e413">
+       ITem non mouet se 
+       <lb ed="#B" n="32"/>per se secundum totum: quia simpliciter &amp; realis differentia debet esse inter mouens &amp; motum. 
+       <lb ed="#B" n="33"/>
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e421">
+       ITem tunc semper moueret se. quia semper est sibi praesens. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e424">
+       SEcundum autem propter quod voluntas 
+       <lb ed="#B" n="34"/>dicitur mouere se: quia aliter periret liberum arbitrium: improbant sic: quoniam voluntas vult quod non 
+       <lb ed="#B" n="35"/>potest non velle: &amp; tamen libere vult. vniuersaliter enim bonum quid est simpliciter bonum cum est visum non  
+       <lb ed="#B" n="36"/>potest non velle: &amp; tamen libere vult. Similiter bonum particulare pro hora qua illud vult, non potest non velle: &amp; 
+       <lb ed="#B" n="37"/>tamen libere vult. Vnde idem inconueniens sequitur ponendo voluntatem a se moueri &amp; ab alio, si sit incon- 
+       <lb ed="#B" n="38"/>ueniens. aequali enim necessitate mouetur a se &amp; ab alio: vniuersaliter enim volens quando vult necessa-  
+       <lb ed="#B" n="39"/>rio vult non coacte sed libere. Isti autem imponendo voluntatem partim actiuam &amp; partim passiuam, sed  
+       <lb ed="#B" n="40"/>principaliter passiuam dicunt quod passiua est ab obiecto secundum determinationem actus: actiua autem ex se quo  
+       <lb ed="#B" n="41"/>ad exercitium actus: illud scilicet quod ei determinatum est a ratione exequendo: sic enim eligere &amp; 
+       <lb ed="#B" n="42"/>imperare formaliter sunt actus intellectus &amp; principaliter: sed executiue &amp; ministraliter voluntatis. 
+       <lb ed="#B" n="43"/>Vnde completa electione per iudicium &amp; determinationem actus a ratione &amp; voluntatis consensu, 
+       <lb ed="#B" n="44"/>voluntas agit praecipiendo executionem imperati &amp; prosecutionem eius quod electum est viribus in  
+       <lb ed="#B" n="45"/>ferioribus, &amp; etiam rationi vt exquirat modum vtrunque, &amp; si standum est in electione &amp; imperio 
+       <lb ed="#B" n="46"/>&amp; caetera huiusmodi. Quia autem non metaphysice moueatur ab obiecto siue a fine, arguunt: quia  
+       <lb ed="#B" n="47"/>obiectum quod est finis non mouet metaphysice nisi materiam: &amp; hoc non nisi quia mouet per se agen 
+       <lb ed="#B" n="48"/>tem: qui vlterius per se mouent materiam: vt patet in operibus artis. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e459">
+       SImiliter quod obiectum in eo quod  
+       <lb ed="#B" n="49"/>voluntas mouet seipsam non est causa sine qua non, arguunt sic. Duplex enim est causa sine qua  
+       <lb ed="#B" n="50"/>non. Vna quae nihil agit, vt albedo in aedificando: quando dicitur album aedificat. talis causa non est 
+       <lb ed="#B" n="51"/>obiectum respectu actus volendi: quia voluntas sine obiecto nihil vellet: sine illa autem causa 
+       <lb ed="#B" n="52"/>aedificans aedificaret. Alia est quae aliquid agit: quia agit aliquid quo facto aliud exit: in actum: 
+       <lb ed="#B" n="53"/>vt scamonea expellit choleram: quo facto virtus naturae infrigidat quae prius erat impedita, 
+       <!--894.xml-->
+       <pb ed="#B" n="427-r"/>
+        <lb ed="#B" n="1"/>Sed sic obiectum non agit: quia nihil potest facere aliquid quo facto aliud moueat seipsum: S 
+       <lb ed="#B" n="2"/>quia aliquid per se mouere seipsum, est per se impossibile. Vnde exemplum de scamonea est 
+       <lb ed="#B" n="3"/>contra illos qui ipsum adducunt pro se: quia scamonea non facit aliquid quo facto virtus naturae  
+       <lb ed="#B" n="4"/>agat in seipsam sed in aliquid aliud. Virtus enim quae est in vna parte corporis, agit in aliam par- 
+       <lb ed="#B" n="5"/>tem. Item ad idim: si obiectum non aliter agit quam mouendo intellectum: quo facto voluntas mouet A 
+       <lb ed="#B" n="6"/>se: eadem ratione posset probari quod appetitus bruti esset actiuus: quia non mouetur nisi sensu prius 
+       <lb ed="#B" n="7"/>moto ab obiecto sensibili. Dicit igitur quod obiectum est causa per se mouens voluntatem: quia non potest C 
+       <lb ed="#B" n="8"/>aliter probari quid est causa per se: nisi quia ea posita necessario sequitur effectus: &amp; ea remota nul 
+       <lb ed="#B" n="9"/>lo modo sequitur. Aliter enim non posset probari quod ignis esset per se causa agens in comburendo li- 
+       <lb ed="#B" n="10"/>gna: quia posset dici quod ligna comburerent seipsa ad praesentiam ignis: vt ignis non poneretur esse cau- 
+       <lb ed="#B" n="11"/>sa combustionis nisi sine qua non: quia non potest inueniri exemplum quod aliquo praesente aliud mouetur 
+       <lb ed="#B" n="12"/>&amp; eo absente non mouetur, quin ipsum sit causa mouens per se. Ista nobis restant pertractanda per  
+       <lb ed="#B" n="13"/>ordinem: dicendo quod voluntas simpliciter &amp; omnino actiua est quo ad actum volendi, &amp; nullo modo  
+       <lb ed="#B" n="14"/>passiua nisi a seipsa quo ad actum volendi, secundum quod de potentia ducitur in actum: &amp; quo ad affectio 
+       <lb ed="#B" n="15"/>nes gaudii &amp; delectationis &amp; huiusmodi ab obiecto, vt dictum est. Quod ergo arguitur contra hoc ad  
+       <lb ed="#B" n="16"/>principalem quaestionem: quod est in potentia aliquid: quia inquantum huiusmodi est non ens: illud non po- 
+       <lb ed="#B" n="17"/>test esse causa vt secundum actum sit illud: Dicendum quod verum est: nullo modo recipiendo ad hoc 
+       <lb ed="#B" n="18"/>virtutem ab alio prius quam illud facit. Si tamen ad hoc prius recepit virtutem ab alio &amp; est impedi- 
+       <lb ed="#B" n="19"/>tum: amoto impedimento bene potest illud, vt patet ex praedictis. Et quid assumitur in argumento: quod  
+       <lb ed="#B" n="20"/>non ens non potest esse causa suae entitatis: dicendum quod verum est: dum tamen nullo modo est: quia tale nul 
+       <lb ed="#B" n="21"/>lam virtutem habet omnino nec a se nec ab alio quae possit se de potentia facere in actum. Si tamen 
+       <lb ed="#B" n="22"/>actu est secundum formam substantialem in ea habendo virtutem primi agentis post amotionem 
+       <lb ed="#B" n="23"/>impedimenti potest se ducere in actum essendi aliquid, ad quem prius erat in potentia: sicut &amp; cessan 
+       <lb ed="#B" n="24"/>te omni impedimento ducit se in actum per eandem virtutem ad praesentiam primi mouentis. Sic enim 
+       <lb ed="#B" n="25"/>generans graue mouet graue: quia ab illo est virtus ad mouendum in graui: &amp; graue seipsum mo 
+       <lb ed="#B" n="26"/>uet quia continet virtutem quam ad mouendum se accepit: &amp; sic mouens semper se: non sicut illi dicunt 
+       <lb ed="#B" n="27"/>facit seipsum in actum nullo alio agente &amp; mouente ipsum: absque enim omni alio mouente prius 
+       <lb ed="#B" n="28"/>impossibile est omnino quod aliquid moueat seipsum in creaturis: quemadmodum potest aliquid moue 
+       <lb ed="#B" n="29"/>ri ab alio sic quod nullo modo moueatur a se: quemadmodum graue per violentiam mouetur sursum. 
+       <lb ed="#B" n="30"/>
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e542">
+       AD secundum quod illi adducunt: faciens aliquid de potentia in actum secundum aliquid, oportet 
+       <lb ed="#B" n="31"/>quod prius sit in actum secundum illud: Dicendum quod verum est: vel formaliter sicut calidum est in actu 
+       <lb ed="#B" n="32"/>prius calidum quando de potentia calido vt de frigido facit calidum: de quo procedit agumentum: 
+       <lb ed="#B" n="33"/>vel virtualiter: quemadmodum sol est prius calidus quando suo radio de potentia calido facit actu 
+       <lb ed="#B" n="34"/>calidum. Et secundum hunc modum, vt dictum est, faciens se de potentia in actum secundum ali 
+       <lb ed="#B" n="35"/>quid, prius est actu tale licet alio modo: &amp; secundum hunc modum voluntas faciens se de potentia 
+       <lb ed="#B" n="36"/>volente, actu volentem: prius erat volens virtualiter: scilicet habendo vnde se potuit facere in actum 
+       <lb ed="#B" n="37"/>voleudi: licet non formaliter qualem se facit illa virtute. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e560">
+       AD tertium: Si ens in potentia faceret se 
+       <lb ed="#B" n="38"/>ipsum actum secundum aliquid: effectus esset dignior causa: Dicendum quod verum est si nec virtu- 
+       <lb ed="#B" n="39"/>te esset prius illud. Nunc autem est virtute prius illud, &amp; in hoc quia ipsum primum mouens in  
+       <lb ed="#B" n="40"/>quo est, perfectius licet secundum aliam rationem, habet esse ipse effectus quam in eo in quo eaufatur for 
+       <lb ed="#B" n="41"/>maliter: quemadmodum vnumquodque perfectius habet esse in sua causa prima: licet secundum aliam ratio 
+       <lb ed="#B" n="42"/>nem quam in seipso secundum propriam rationem: quae enim in seipsis non sunt vita: in deo sunt vita: 
+       <lb ed="#B" n="43"/>vt dicit <name ref="#Augustine">Augustinus</name> super illud lonnem. primo. Quod factum est in ipso vita erat. &amp; quo ad hoc faciens 
+       <lb ed="#B" n="44"/>seipsum de potentia in actum: perfectius est secundum alium actum quam secundum actum quem facit. 
+       <lb ed="#B" n="45"/>pertinet tamen vterque actus ad integritatem suae perfectionis. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e583">
+       AD illa quibus illis videtur incon 
+       <lb ed="#B" n="46"/>ueniens modus ponendi voluntatem mouere seipsam in actum volendi: Primo quo ad hoc quod in ips 
+       <lb ed="#B" n="47"/>sa est potentiale &amp; actuale vt in graui &amp; leui: &amp; secundo quo ad hoc quod aliter periret liberum ara  
+       <lb ed="#B" n="48"/>bitrium: Aduertendum est circa primum quod non ponitur potentiale &amp; actuale in voluntate 
+       <lb ed="#B" n="49"/>circa diuersa: re sicut in graui &amp; leui, vbi totum ponitur potentiale ratione materiae: &amp; to- 
+       <lb ed="#B" n="50"/>tum actuale ratione formae: quae per essentiam differunt inter se: sed solummodo circa diuer- 
+       <lb ed="#B" n="51"/>sa ratione: ponendo totam voluntatem esse potentiale ratione qua natura est simpliciter: &amp; 
+       <lb ed="#B" n="52"/>actuale ratione qua est libera: quae scilicet natura &amp; libertas non differunt secundum rem in voluntate: 
+       <!--895.xml-->
+       <pb ed="#B" n="427-v"/>
+        <lb ed="#B" n="1"/>etsi secundum rationem aut intentionem. &amp; propter hoc potentiale &amp; actuale minus distant in  
+       <lb ed="#B" n="2"/>voluntate quam in graui &amp; leui. secundum quod in Quolibet praecedente declarauimus distinguendo diuersa 
+       <lb ed="#B" n="3"/>genera mouentium &amp; motorum. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e613">
+       AD primum: quod non est ita de graui &amp; leui quod suo actuali mo- 
+       <lb ed="#B" n="4"/>uent se per se: quia non mouent se nisi aliud moueat: &amp; ideo se non mouent nisi per accidens: er- 
+       <lb ed="#B" n="5"/>go nec voluntas mouet se per se: Dicendum quod motus quandoque dicitur stricte pro translatione cor 
+       <lb ed="#B" n="6"/>porali successiua habente partem &amp; partem: aliquando large pro translatione subita &amp; simplice non 
+       <lb ed="#B" n="7"/>habente partes: aliquando vero largissime pro operatione spirituali ab agente spirituali in passum spi 
+       <lb ed="#B" n="8"/>rituale. Loquendo de motu primo modo: verum est quod graue &amp; leue non mouentur a se nisi per acci 
+       <lb ed="#B" n="9"/>dens. Impellitur enim ab eis cum sic mouentur medium resistens: quod statim quodam fluxu mouetur 
+       <lb ed="#B" n="10"/>&amp; secum defert id quid ipsum impulit motu vectionis: ac si nauis seipsa impelleret aquam &amp; aqua  
+       <lb ed="#B" n="11"/>suo fluxu motu vectionis secum deferret nauem: &amp; sic mouetur a se per accidens: quia impellit 
+       <lb ed="#B" n="12"/>motum per se: per cuius motum mouetur per accidens. Quid autem sic mouetur per motum alteri- 
+       <lb ed="#B" n="13"/>us quod impulsu alterius mouetur: mouetur omnino per accidens: vt graue sursum. Loquendo autem 
+       <lb ed="#B" n="14"/>de motu secundo modo: graue &amp; leue mouentur a se per se, quia tota mouentur: licet ratione par 
+       <lb ed="#B" n="15"/>tis principaliter: &amp; tota mouent licet ratione partis principaliter: &amp; hoc per virtutem quam habent in  
+       <lb ed="#B" n="16"/>se sibi propriam, licet eam a generante receperint. Vnde cessante prohibente vel amoto, si non es- 
+       <lb ed="#B" n="17"/>set medium resistens: graue in instanti faceret se deorsum &amp; leue sursum. &amp; hoc per se: non per aliquae  
+       <lb ed="#B" n="18"/>extra se. Nunc autem quod graue descendit successiue, hoc est propter impediens sua resistentia ne de 
+       <lb ed="#B" n="19"/>scendat subito, &amp; propter deferens quid ab impellente mouetur successiue: &amp; ideo successiue defert ali 
+       <lb ed="#B" n="20"/>ud. Vbi est aduertendum quod deferens mouetur per accidens, quia violenter ab impellente ipsum: 
+       <lb ed="#B" n="21"/>&amp; similiter delatum mouetur cum deferente accidentaliter per accidens: quia propter deferens quid  
+       <lb ed="#B" n="22"/>mouetur per accidens absolute. &amp; sic delatum est per se mouens deferens: &amp; accidentaliter per acci 
+       <lb ed="#B" n="23"/>dens motum &amp; a se &amp; a deferente: licet alio modo accidentaliter. Per accidens enim mouetur a de 
+       <lb ed="#B" n="24"/>ferente: quia est in ipso per accidens. Ase: quia non nisi per actionem qua ipsum delatum mouet de 
+       <lb ed="#B" n="25"/>ferens. Per seenim non moueretur a se nisi subito. Et est aduertendum tamen quod graue minus per ace 
+       <lb ed="#B" n="26"/>cidens mouetur a se deorsum: quam a violentante sursum: quia a violentante mouetur omnino per acci- 
+       <lb ed="#B" n="27"/>dens: scilicet &amp; quo ad sursum lationem, &amp; quo ad successionem: in latione. Ase mouetur deorsum 
+       <lb ed="#B" n="28"/>quoquo modo per se: scilicet quo ad descensum simpliciter: licet quo ad successionem in descensum 
+       <lb ed="#B" n="29"/>moueatur a se per accidens, vt dictum. est. Loquendo autem de tertio modo motus: voluntas moue 
+       <lb ed="#B" n="30"/>tur a se: &amp; hoc conuersione quadam spirituali ad seipsam, secundum illam. xvii. propositionem Pro 
+       <lb ed="#B" n="31"/>cli. Omne seipsum mouens: primo ad seipsum est conuersum. &amp; tale vt dicit Commen non vna par 
+       <lb ed="#B" n="32"/>te mouet &amp; alia mouetur: quid contingit in motu progressiuo animalium secundum quod alias exposui 
+       <lb ed="#B" n="33"/>mus: quid non est simpliciter seipsum mouens: quia simpliciter se mouens non secundum alteram par 
+       <lb ed="#B" n="34"/>tem est mouens secundum alteram motum: sed secundum totam suam substantiam est mouens &amp; 
+       <lb ed="#B" n="35"/>motum: neque totum mouetur parte: aut mouet: neque econuerso: quod contingit quodammodo in  
+       <lb ed="#B" n="36"/>graui &amp; leui: totum enim in eis mouetur: sed parte altera principaliter mouet &amp; econuerso: vt pa- 
+       <lb ed="#B" n="37"/>tet ex dictis. Non enim secundum totum est ipsum motum aut seipso motum: sed secundum par 
+       <lb ed="#B" n="38"/>tem eius: &amp; hanc &amp; illam. Sed tale quod est seipsum mouens, primo secundum vnum. &amp; idem. totum mo 
+       <lb ed="#B" n="39"/>uet &amp; mouetur: &amp; eam quae est ipsius mouerecp:rationem ad seipsum habet: &amp; sic motiuum sui 
+       <lb ed="#B" n="40"/>ipsius ad seipsum conuersum est. Vnde quandocumque philosophi probant quod nihil seipsum per seipsum mouet: 
+       <lb ed="#B" n="41"/>loquuntur de motu in corporalibus proprie dicto. propter quod dicta ipsorum circa illa non valent ad  
+       <lb ed="#B" n="42"/>propositum circa voluntatem: nec omnino consimiliter mouet voluntas seipsam: &amp; graune aut le- 
+       <lb ed="#B" n="43"/>ue: sed multo verius. Et secundum hoc omnes rationes quas Aristo. inducit primo de auima con- 
+       <lb ed="#B" n="44"/>tra Platonem, quod anima est. seipsam mouens: quae veritatem concludunt in motibus corporalibus pri 
+       <lb ed="#B" n="45"/>mo modo dictis: in motibus autem spiritualibus tertio modo dictis nihil omnino concludunt: sol 
+       <lb ed="#B" n="46"/>uit Macrobius in fine libri sui sic dicens. Aristoteles animam non solum ex se moueri: sed nec moueri 
+       <lb ed="#B" n="47"/>penitus conatur asserere. Plato autem dicit ex se moueri animam: non a causa quae intra se. latet:  
+       <lb ed="#B" n="48"/>vt mouentur animalia: &amp; arbores: sed ita dicit animam ex se moueri vt non aliam causam: vel ex 
+       <lb ed="#B" n="49"/>trinsecus accedentem vel intrinsequs latentem. Anima enim per se mouetur: vt ignis per: se calet 
+       <lb ed="#B" n="50"/>motu essentiae conueniente. Sed Aristoteles etiam motuum genera in ipsa quaerit: in quibus aliud  
+       <lb ed="#B" n="51"/>est quod mouetur, aliud quod mouet: cum. nihil horum in anima cadere possit: in qua nulla discretio est 
+       <lb ed="#B" n="52"/>mouentis &amp; moti. Motus enim eius est. quod desiderio rapitur: quod cupiditatibus. alligaturo-a 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e722">
+       AD se- 
+       <lb ed="#B" n="53"/>cundum quod graue non mouetur ratione materiae quia motum est in actum: Dicendum quod differt dicere aliquid  
+       <!--896.xml-->
+       <pb ed="#B" n="428-r"/>
+        <lb ed="#B" n="1"/>moueri: &amp; ratione cuius aliquid moueri. Verum enim est: quod in graui materia nec est motum nec mu 
+       <lb ed="#B" n="2"/>tatum per se: sed totum compositum. hoc tamen ratione materiae: quia non inest toti potentia ad motum ni 
+       <lb ed="#B" n="3"/>si fundamenliter ratione materiae. Quid autem assumitur quod est subiectum motus non principium eius neque  
+       <lb ed="#B" n="4"/>aliquid eius &amp;c. Dicendum quod verum est ratione totius: potest tamen ratione partis: ita tamen quod pars 
+       <lb ed="#B" n="5"/>non est principium motus sed totum: vt patet ex dictis iam: &amp; sic totum graue est mouens &amp; to- 
+       <lb ed="#B" n="6"/>tum motum: &amp; multo verius voluntas: vbi non nisi ratione differunt: ratione cuius mouet &amp; ratio 
+       <lb ed="#B" n="7"/>ne cuius mouetur, vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e746">
+       AD tertium: quod si voluntas propter potentiale &amp; actuale &amp; simi 
+       <lb ed="#B" n="8"/>liter graue &amp; leue mouerent se: eadem ratione &amp; omne compositum ex materia &amp; forma: Hoc bene con 
+       <lb ed="#B" n="9"/>cedimus motu per formam substantialem ad proprietates &amp; proprias operationes suas, vt habitum est 
+       <lb ed="#B" n="10"/>supra: licet non semper motu locali. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e755">
+       AD quartum: quod nihil mouet se per se: quia realis debet esse dif- 
+       <lb ed="#B" n="11"/>ferentia inter mouens &amp; motum: dicendum quod non oportet nisi in aliquo modo motus: vt determina 
+       <lb ed="#B" n="12"/>uimus in praecedente Quolibet. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e762">
+       AD quintum: si aliquid per se mouet se: semper mouet se: dicendum  
+       <lb ed="#B" n="13"/>quod verum est in mouentibus se naturaliter nisi sit impedimentum vel finis motus adeptus: vt patet 
+       <lb ed="#B" n="14"/>in graui &amp; leui: non autem in mouentibus se libero arbitrio: qualiter mouet se voluntas, vt iam di  
+       <lb ed="#B" n="15"/>cetur. Quid autem inducunt contra secundum datum pro ratione quare voluntas mouet se scilicet quia 
+       <lb ed="#B" n="16"/>aliter periret liberum arbitrium: dicendum secundum quod in quaestionibus ordinariis declaraui- 
+       <lb ed="#B" n="17"/>mus: quod differunt libertas &amp; libertas arbitrii. Libertas enim est vbicumque nulla occurrit coactio: licet non 
+       <lb ed="#B" n="18"/>sit libera electio valens ad opposita. liberum arbitrium autem non est nisi vbi est contrariorum li- 
+       <lb ed="#B" n="19"/>bera electio. licet enim posse malum non sit libertas arbitrii nec pars eius: tamen non est fine hac: &amp; 
+       <lb ed="#B" n="20"/>vtrumuoe scilicet tam libertas quam liberum arbitrium requirit quod motum non moueatur ab alio per coactionem. 
+       <lb ed="#B" n="21"/>Per quod patet ad primum obiectum contra hoc cum dicunt. voluntas vult quod non potest non velle vt 
+       <lb ed="#B" n="22"/>summum bonum simpliciter: &amp; bonum aliud ad horam quando vult: &amp; tamen non nisi libere vult 
+       <lb ed="#B" n="23"/>Dicendum quod verum est simpliciter quo ad summum bonum: &amp; etiam pro hora quo ad aliud: vo- 
+       <lb ed="#B" n="24"/>lende scilicet cum effectu illud aliud bonum cum isto: quia tunc contraria vellet simul, vt iam ampli- 
+       <lb ed="#B" n="25"/>us declarabitur: si tamen non ponatur sic moueri ab alio a se quin possit contraire. Vnde scien- 
+       <lb ed="#B" n="26"/>dum est: quod voluntatem ponere moueri ab alio non reputatur inconueniens propter ab alio moue 
+       <lb ed="#B" n="27"/>ri simpliciter: sed solummodo propter moueri de necessitate ab alio: quae &amp; libertatem arbitrii tol 
+       <lb ed="#B" n="28"/>lit. Simpliciter autem necessitate immutabilitatis bene potest moueri a se circa summum bonum: quia cir- 
+       <lb ed="#B" n="29"/>ca summum bonum necessitas immutabilitatis stat cum libertate: licet non cum libero arbitrio: quia statim prae- 
+       <lb ed="#B" n="30"/>sente summo bono per apertam visionem non potest voluntas non moueri in illud. Vnde licet de 
+       <lb ed="#B" n="31"/>necessitate poneretur moueri simpliciter circa summum bonum: &amp; hoc a se: tamen est inconveniens 
+       <lb ed="#B" n="32"/>ponere ipsam de necessitate moueri ab alio vel a se circa aliud bonum pro hora: quia a se mouetur de 
+       <lb ed="#B" n="33"/>necessitate immutabilitatis circa summum bonum: quae non excludit libertatem. Ab alio autem mo- 
+       <lb ed="#B" n="34"/>ueri vel a se circa aliud pro hora: de necessitate excludit omnino liberum arbitrium. Intelligo si sic 
+       <lb ed="#B" n="35"/>ab alio ponatur moueri vel a se quod in illa motione nihil coagat &amp; non possit contraire. Si tamen po- 
+       <lb ed="#B" n="36"/>natur coagere, &amp; quod possit contraire ne motio procedat: nec velit: sicut coagit in omni motu quo mo 
+       <lb ed="#B" n="37"/>uetur in bonum a gratia: non remouetur libertas circa summum bonum: neque etiam liberum arbi- 
+       <lb ed="#B" n="38"/>trium circa bonum aliud. Si ergo ponatur hoc modo moueri ab obiecto &amp; intellectum: dicendo quod hoc sit 
+       <lb ed="#B" n="39"/>naturae voluntatis &amp; intellectus: sicut illud est naturae voluntatis &amp; gratiae: ita quod non moueatur ab  
+       <lb ed="#B" n="40"/>alio nisi secundum modum congruentem naturae suae: &amp; quod sic voluntas ponatur moueri ab alio: non 
+       <lb ed="#B" n="41"/>impugnamus: sed potius quod non possit se mouere ex se: &amp; quod solummodo moueatur ab alio: cuius mo 
+       <lb ed="#B" n="42"/>tioni non possit contraire: etiam pro hora: nec possit mouere ex se sola contra motionem illius: hoc 
+       <lb ed="#B" n="43"/>impugnamus. Quid ergo dicunt quod voluntas simpliciter passiua est ab obiecto &amp; a ratione determi 
+       <lb ed="#B" n="44"/>nante actum: non potest stare si sic ab illis intelligatur moueri: vt nihil coagat nec possit contraire: 
+       <lb ed="#B" n="45"/>quia tunc necessitaret eam, liberum arbitrium &amp; libertatem tollendo: quemadmodum calor ignis 
+       <lb ed="#B" n="46"/>necessitat combustibilia vt comburantur. Aliter autem secundum dictum modum non est nobis 
+       <lb ed="#B" n="47"/>inconueniens ipsam moueri ab alio: sed in hoc simpliciter actiua est: non autem passiua nisi secun- 
+       <lb ed="#B" n="48"/>dum quid. Quod arguunt: quod obiectum non mouet metaphysice nisi materiam: dicendum quod ve- 
+       <lb ed="#B" n="49"/>rum est quod materiam mounet metaphysice: quia non imprimit in materiam: sed secundum eius 
+       <lb ed="#B" n="50"/>exigentiam agens imprimit in eam: nihilominus etiam mouet metaphysice agentem: tam in arti 
+       <lb ed="#B" n="51"/>ficialibus quam in naturalibus: quia sine illo non mouet quodcunque agens: licet non motus ab illo: 
+       <lb ed="#B" n="52"/>nec est vere mouens aliud quam ipse appetitus, primo seipsum ad volendum: deinde materiam vo 
+       <lb ed="#B" n="53"/>litam exequendo, nisi iam dicto modo. Quia dicunt quod nihil est dicta causa sine qua non. i 
+       <lb ed="#B" n="54"/>quia non est causa nisi agat per se aut per accidens: Dicendum: quod reducitur ad causam i 
+       <!--897.xml-->
+       <pb ed="#B" n="428-v"/>
+        <lb ed="#B" n="1"/>per accidens: non sicut per accidens calor generat: quia agit in materiam ipsam praeparando ad gene 
+       <lb ed="#B" n="2"/>rationem: non sic enim agit obiectum in voluntatem: scilicet praeparando ipsam ad volendum: 
+       <lb ed="#B" n="3"/>nisi iam dicto modo: nec sicut musicum aedificat: quia non musicus posset aedificare: sine obiecto autem 
+       <lb ed="#B" n="4"/>cognito voluntas nihil potest velle: sed sicut remouens prohibens priuatiue: quia non potest aliquid  
+       <lb ed="#B" n="5"/>velle nisi in notitia intellectus praesens sit sibi obiectum: quid non cognitum erat absens. Quia dicunt quod  
+       <lb ed="#B" n="6"/>passiua est a ratione per determinationem actus: &amp; in libertate eius dimittitur actus exercitium: di  
+       <lb ed="#B" n="7"/>cendum quod non determinatur voluntas in suo actu volendi: sic vt necesse habeat ipsum exequi: sed  
+       <lb ed="#B" n="8"/>manet in suo libero arbitrio de non volendo vel volendo determinatum: sicut in aliis quaestionibus 
+       <lb ed="#B" n="9"/>declarauimus. Et sic ratio sua determinatione non est respectu actus volendi nisi dicto modo: aut non 
+       <lb ed="#B" n="10"/>nisi sicut causa siue qua non. nisi enim ratio ostenderet obiectum: voluntas non posset illud velle vel 
+       <lb ed="#B" n="11"/>eligere propter aliqua quae placent: aut refutare propter aliqua quae displicent. &amp; sic electio &amp; im- 
+       <lb ed="#B" n="12"/>perium praecise &amp; formaliter sunt in volutate &amp; a voluntate: nec vllo modo in se concludunt actum 
+       <lb ed="#B" n="13"/>rationis: sed supponunt tantum. &amp; quid amplius est, si eligibile determinaret suo iudicio &amp; diceret hoc es 
+       <lb ed="#B" n="14"/>se eligendum &amp; imperandum: sic quod necesse haberet voluntas eligere &amp; imperare secundum ratio- 
+       <lb ed="#B" n="15"/>nis iudicium: nondum tamen ex hoc in ratione esset aliquid electionis aut imperii: sed solum dictamen 
+       <lb ed="#B" n="16"/>eorundem: &amp; non eligeret aut imperaret ratio nisi quia voluntati actus istos imprimeret: quemadmo 
+       <lb ed="#B" n="17"/>dum lux determinando visibile: actum visionis imprimit visui. non tamen videre est operatio seu 
+       <lb ed="#B" n="18"/>perfectio lucis. Et praeterea ratio non magis dictat actus determinationem quam exercitium: quia volun- 
+       <lb ed="#B" n="19"/>tas non vult nisi cognitum: si ergo non est libera quo ad actus determinationem: nec quo ad exerci- 
+       <lb ed="#B" n="20"/>tium. Ad cuius intellectum sciendum est: quod libertas arbitrii voluntatis nihil aliud est quam indifferen 
+       <lb ed="#B" n="21"/>tia quaedam circa actus voluntatis: qui sunt velle &amp; nolle siue non velle. &amp; est duplex secundum quod duplex 
+       <lb ed="#B" n="22"/>est indifferentia circa actus voluntatis. Quarum vna consistit inter contradictorios actus volunta 
+       <lb ed="#B" n="23"/>tis circa idenm scilicet in aliquod bonum determinatum volendo vel nolendo siue non volendo. &amp; secundum hoc di-  
+       <lb ed="#B" n="24"/>citur libertas quo ad exercitium actus. Alia vero consistit inter contraria siue disparata volita respe 
+       <lb ed="#B" n="25"/>ctu diuersorum actuum volendi vel nolendi scilicet in volendo hoc vel illud: vel in nolendo hoc vel illud. &amp; haec 
+       <lb ed="#B" n="26"/>dicitur esse libertas quo ad determinationem siue specificationem actus. Quare cum voluntas nihil pont velle vel 
+       <lb ed="#B" n="27"/>nolle nisi cognitum per intellectum &amp; rationis: si nihil omnino sit cognitum: nulla omnino potest esse li 
+       <lb ed="#B" n="28"/>bertas arbitrii voluntatis in effectu: neque quo ad exercitium actus: neque quo ad determinationem eius 
+       <lb ed="#B" n="29"/>Et sic si ratio nihil cognoscit quia voluntas non agit volendo vel nolendo nisi cognitum: ideo non  
+       <lb ed="#B" n="30"/>magis dictat actus determinationem quam exercitium: eo quod neutrum dictat. Si ergo ratio dictat alterum 
+       <lb ed="#B" n="31"/>illorum: hoc non est nisi cognoscendo aliquid: sed hoc vel simplici intelligentia comprehendendo incon 
+       <lb ed="#B" n="32"/>plexum sub ratione incomplexi: vel intelligentia collatiua compositiua aut diuisiua, comprehenden 
+       <lb ed="#B" n="33"/>do complexum sub ratione complexi. Si primo modo: cum in tali comprehensione ratio non est nisi 
+       <lb ed="#B" n="34"/>passiua: ipsa sua actione nihil omnino dictat aut determinat ex parte actus voluntatis aut ex parte 
+       <lb ed="#B" n="35"/>voliti. Sed si determinat aliquid, hoc est ipsum obiectum siue bonum cognitum: quod per actum co 
+       <lb ed="#B" n="36"/>gnoscendi seipsum proponit voluntati. Sed tale bonum sic cognitum &amp; propositum voluntati, aut est 
+       <lb ed="#B" n="37"/>vnum solum per se cognitum &amp; voluntati propositum, aut non: sed cum alio: quod consimiliter 
+       <lb ed="#B" n="38"/>cognitum est aratione &amp; propositum voluntati. Si secundo modo: cum vtrunque aequaliter cogni- 
+       <lb ed="#B" n="39"/>tum sit &amp; propositum voluntati: aequaliter determinationem faciunt: vel non faciunt: vt non ma- 
+       <lb ed="#B" n="40"/>gis moueat liberum arbitrium voluntatis quo ad actus exercitium in volendo vel nolendo per in  
+       <lb ed="#B" n="41"/>differentiam hoc vel illud: quam quo ad actus determinationem in volendo vel nolendo potius hoc quam  
+       <lb ed="#B" n="42"/>illud. &amp; sic ratio in isto casu non magis dictat determinationem actus quam eius exercitium. immo aequa 
+       <lb ed="#B" n="43"/>liter est voluntas liberi arbitrii &amp; non liberi arbitrii quo ad actus determinationem &amp; quo ad actus 
+       <lb ed="#B" n="44"/>exercitium, &amp; econuerso. Si vero primo modo cognitum est vnum solum per se fsine altero cogni- 
+       <lb ed="#B" n="45"/>to: &amp; sic propositum voluntati: tunc cum voluntas non potest velle vel nolle nisi cognitum: etsi 
+       <lb ed="#B" n="46"/>istud cognitum possit liberum arbitrium velle vel nolle indifferenter: vt sic omnino maneat libe- 
+       <lb ed="#B" n="47"/>rum arbitrium quo ad actus exercitium: nullo modo tamen potest velle aut nolle aliud ab hoc. im- 
+       <lb ed="#B" n="48"/>mo si aliquid velit aut nolit: oportet quod sit istud &amp; non aliud. vt sic non omnino maneat liberum ar 
+       <lb ed="#B" n="49"/>bitrium quo ad actus determinationem siue specificationem. Sed cum illa propositio, cognitum est 
+       <lb ed="#B" n="50"/>vnum solum siue tantum vnum, continet hanc affirmatiuam: hoc est cognitum: &amp; hanc negatiuam, nul 
+       <lb ed="#B" n="51"/>lum aliud ab hoc est cognitum: quaero an illa determinatio actus circa quam voluntas non manet liberi at 
+       <lb ed="#B" n="52"/>bitrii, sicut manet liberi arbitrii circa exercitium actus, procedat ab illo quod ratio cognoscit vnum solum pro 
+       <lb ed="#B" n="53"/>positum per hoc voluntati, ratione affirmatiuae scilicet quia cognoscit illud vnum sic propositum voluntati: a ratione  
+       <lb ed="#B" n="54"/>negatiuae scilicet quia ratio non cognoscit aliud: nec aliud est propositum voluntati. Si primo modo: vt scilicet ra- 
+       <!--898.xml-->
+       <pb ed="#B" n="429-r"/>
+        <lb ed="#B" n="1"/>tio dicatur dictare actus determinationem de volendo hoc &amp; non aliud, potius quam actus exercitium 
+       <lb ed="#B" n="2"/>de volendo hoc vel nolendo: quia hoc est ei cognitum: hoc non potest stare, quoniam si ratio dicta- 
+       <lb ed="#B" n="3"/>ret illud quia hoc est ei cognitum: aut: ergo hoc dictat propter illud tanquam propter causam per se: aut 
+       <lb ed="#B" n="4"/>tanquam propter causam per accidens. Non tanquam propter causam per se: quia cum illucaequaliter est ei co 
+       <lb ed="#B" n="5"/>gnitum quando est ei cognitum. &amp; aliud similiter: &amp; quando est ipsum solum ei cognitum: aequaliter ergo dicta 
+       <lb ed="#B" n="6"/>ret actus determinationem hoc modo quando est cognitum &amp; aliud similiter: sicut &amp; quando est cognitum 
+       <lb ed="#B" n="7"/>per se solum. consequens falsum est vt patet ex profecutione secundi membri. ergo &amp; antecedens. Nectam 
+       <lb ed="#B" n="8"/>quam propter causam per accidens: quia tunc propter aliquid aliud vt propter: causam per se, dictaret illam 
+       <lb ed="#B" n="9"/>actus determinationem. Illud autem vt dictum est non potest esse aliquae nisi dicta negatiuae. scilicet quia non 
+       <lb ed="#B" n="10"/>est ei cognitum aliud: quae tamen non potest esse illius causa per se: quia illud dictamen quid positi- 
+       <lb ed="#B" n="11"/>uum est: &amp; pura negatio nunquam est per se causa alicuius positiui. Si ergo illa negatiua est causa: illius:  
+       <lb ed="#B" n="12"/>hoc solum est per accidens. Quod non potest stare: quia cum illud dictamen sit positiuum quid: oportet 
+       <lb ed="#B" n="13"/>habere sui aliam causam per se. Quare cum hoc est impossibile, vt patet ex dictis: falsum ergo &amp; impos 
+       <lb ed="#B" n="14"/>sibile est dicere quod cum ratio cognoscit vnum solum quod dictat actus determinationem potius quam exer- 
+       <lb ed="#B" n="15"/>citium. Immo manet liberum arbitrium voluntatis &amp; quo ad actus determinationem de volendo  
+       <lb ed="#B" n="16"/>hoc vel aliud: sicut quo ad exercitium actus de volendo vel non volendo hoc: Sed quod potest cum effectu 
+       <lb ed="#B" n="17"/>velle hoc &amp; non potest cum effectu velle aliud, illius affirmatiuae cauam sine qua non, est illa affirmatiua: s. 
+       <lb ed="#B" n="18"/>illud cognitum est a rationer. Istius autem negatiuae causa est non positiua sed negatiua: quia. scilicet non est aliquae  
+       <lb ed="#B" n="19"/>cognitum a ratione: quid est causa eius quod non potest velle cum effectu aliud, sicut impedimentum prae 
+       <lb ed="#B" n="20"/>bens. Quo quidem impedimento ignorantiae siue nescientiae aut non cognitionis remonto per illud positiuum quod  
+       <lb ed="#B" n="21"/>est cognitio causa alterius a ratione, iam liberum arbitrium potest cum effectu velle aut nolle non solum illud  
+       <lb ed="#B" n="22"/>sed etiam aliud ab illo, quod &amp; prius liberum arbitrium velle aut nolle potuit sed non cum effectum. &amp; hoc non nisi 
+       <lb ed="#B" n="23"/>propter dictum impedimentum eius negatiuum: non autem propter aliquod dictamen rationis: quo praeo- 
+       <lb ed="#B" n="24"/>tius dictat actus determinationem quam exercitium. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e1033">
+       SI vero ratio comprehendens intelligentia collatiua 
+       <lb ed="#B" n="25"/>compositiua aut diuisiua dicatur potius dictare vnum illorum quam alterum: hoc similiter non potest 
+       <lb ed="#B" n="26"/>stare, quoniam sicut talis ratio ex iudicio potest dictare quod hoc est volendum &amp; non aliud: siue vno co 
+       <lb ed="#B" n="27"/>gnito siue pluribus: &amp; hoc quo ad actus determinationis: sic potest dictare quod voluntas debeat hoc 
+       <lb ed="#B" n="28"/>cognitum velle &amp; non nolle aut econtrario: &amp; hoc quo ad exercitium actus. Et praeterea dictando  
+       <lb ed="#B" n="29"/>quod hoc est volendum &amp; non aliud: simul quo dictatur quod est volendum, dictatur quod non est nolendum: quia 
+       <lb ed="#B" n="30"/>qui vnum oppositorum affirmat, negat reliquum. Et sic nullo modo ratio magis dictat actus determi 
+       <lb ed="#B" n="31"/>nationem quam executionem. propter quod neutrum sic dictat quin maneat omnino liberum arbitrium  
+       <lb ed="#B" n="32"/>in voluntate &amp; quo ad actus determinationem, sicut &amp; quo ad exercitium circa aliud a summo bo- 
+       <lb ed="#B" n="33"/>no viso. &amp; circa summum bonum visum sicut non manet liberum arbitrium in voluntate quo adactus 
+       <lb ed="#B" n="34"/>determinationem: sic nec quo ad actus exercitium: sed libertas pura quo ad vtrumque. Vnde si expone- 
+       <lb ed="#B" n="35"/>retur ille articulus danmnatus: Quia voluntas passiua est &amp; non actiua, error: sic: verum est quo ad exerci 
+       <lb ed="#B" n="36"/>tium actus sequentis: non autem quo ad determinationem actus praecedentis: non est sustinendum. 
+       <lb ed="#B" n="37"/>Quia enim ille articulus intelligatur quo ad actus praecedentis determinationem, manifeste explicat alius articu 
+       <lb ed="#B" n="38"/>lus qui dicit sic: quod voluntas de necessitate mouetur ab appetibili cessantibus impedimentis, error, quae motio 
+       <lb ed="#B" n="39"/>non pertinet nisi ad actus primi determinationem secundum illos, qui articulus sic exponeretur. dicendo  
+       <lb ed="#B" n="40"/>quod verum est simpliciter circa obiectum quod non habet omnem rationem boni: quia videlicet prius potuitid 
+       <lb ed="#B" n="41"/>velle &amp; non velle &amp; postmodum similiter esse circa aliud: sed non pro hora quando vult: tunc enim de necessitate mo 
+       <lb ed="#B" n="42"/>uetur ab appetibili. Vnde solum vult de necessitate quando determinatur ab intellectu siue simpliciter si 
+       <lb ed="#B" n="43"/>ue pro hora. Sed quaero: aut intendit istud pro illa hora ratione illius reduplicationis: aut simpliciter ra 
+       <lb ed="#B" n="44"/>tione actionis obiecti in voluntatem in illa hora absque reduplicatione. Si primo modo: illud non est 
+       <lb ed="#B" n="45"/>mirabile: quia nulla actio est ita contingens quin per talem reduplicationem habeat necessitatem 
+       <lb ed="#B" n="46"/>circa subiectum: modo qui iam dicetur. Sortes enim quando currit: necessario currit. &amp; sic nihil est 
+       <lb ed="#B" n="47"/>illud ad propositum. Si secundo modo: quaero an illa hora qua determinatur ab intellectu, de neces 
+       <lb ed="#B" n="48"/>sitate moueatur ab obiecto vt velit: &amp; sic necessario vult pro illa hora absque reduplicatione: quamuis 
+       <lb ed="#B" n="49"/>non simpliciter &amp; necessario vult. quia potuit prius impedimentum fuisse ne voluisset: &amp; postea 
+       <lb ed="#B" n="50"/>poterit cadere ab illa voluntate. Si dicas quod non: ergo nullo modo voluntas de necessitate mouetur ab appe- 
+       <lb ed="#B" n="51"/>tibili sicut nec pro alia hora: sic nec pro illa: &amp; sic habet libertatem arbitrii, quae libertate arbitrii non solum li 
+       <lb ed="#B" n="52"/>bere vult quid pro illa hora vult: sed etiam libero arbitrio vult sic quod possit pro hora velle oppositum: licet non  
+       <lb ed="#B" n="53"/>ponendo illud in effectu cum primo: quia contraria siml vellet. Et sic dicere quod voluntas moueatur ab intellectu 
+       <lb ed="#B" n="54"/>sicut &amp; agens modo iam dicto: ita quod pro hora non possit velle contrarium cum effectu ex causa iam 
+       <!--899.xml-->
+       <pb ed="#B" n="429-v"/>
+        <lb ed="#B" n="1"/>dicta: non tamen quod pro illa hora moueatur de necessitate vt velit: neque a se neque ab alio: nullum est 
+       <lb ed="#B" n="2"/>inconueniens: quia eadem libertate ponitur moueri a se sola: sicut &amp; a se cum alio mouentesecum: 
+       <lb ed="#B" n="3"/>vt patet ex praedictis. Et hoc est contra illorum intentionem in illa expositione. Intendunt enim quod vo 
+       <lb ed="#B" n="4"/>luntas illa hora necessario vult quod vult: quid danmnat articulus, non dico quando vult: quod non damnat. 
+       <lb ed="#B" n="5"/>Nullus enim est ita fatuus. quod credat quod a tali obiecto moueatur de necessitate pro illa hora: ergo hoc 
+       <lb ed="#B" n="6"/>non intendit articulus damnare: sed aliue. scilicet quod de necessitate mouetur illa hora propter intellectus 
+       <lb ed="#B" n="7"/>determinationis: sic quod non possit motui resistere: quae est necessitas eoactionis. Aut forte cum hoc 
+       <lb ed="#B" n="8"/>damnat quod pro hora moueatur a se necessitate immutabilitatis. quoniam nec pro hora in alio bono a sum 
+       <lb ed="#B" n="9"/>mo inuenit boni plenitudinem vt necessario se in illud transferat: sed libero arbitrio tantum quod magis 
+       <lb ed="#B" n="10"/>credo esse verum. Adhuc amplius declarat tertius articulus qui. dicit sic. Manente scientia parti- 
+       <lb ed="#B" n="11"/>culari in actum &amp; passione, quod voluntas non possit velle siue agere oppositum: error: Sed si expone- 
+       <lb ed="#B" n="12"/>retur articulus iste per hoc quod ista conceditur a magistris: non est malitia in voluntate nisi sit ne- 
+       <lb ed="#B" n="13"/>scientia siue error in intellectum: quia loquuntur de simultate temporis: non autem de causalitate: quia si 
+       <lb ed="#B" n="14"/>mul tempore est deordinatio in vtroque: siue ab intellectu causetur in voluntate siue econverso: nun  
+       <lb ed="#B" n="15"/>quam potest esse in vno quin simul sit in altero: si illa propositio magistrorum sit vera. Sed habendo aspe 
+       <lb ed="#B" n="16"/>ctum ad causalitatem: si diceretur quod voluntas non pont velle nisi cognitum: &amp; sicut est cognitio in generali, &amp; 
+       <lb ed="#B" n="17"/>velle cognitum in generali: &amp; sicut est cognitio in speciali &amp; velle in speciali: &amp; si est error in intellectu in generali: 
+       <lb ed="#B" n="18"/>&amp; in generali est in voluntate: &amp; si in speciali: &amp; in speciali: vt semper prius causalitate ponatur error in ra 
+       <lb ed="#B" n="19"/>tione: &amp; causalitas erroris semper magis attribuatur rationi quam voluntati: simul similiter necessario 
+       <lb ed="#B" n="20"/>sunt error in ratione &amp; in voluntate. Et dicere quod hoc sequeretur si illud poneretur, in hoc non est 
+       <lb ed="#B" n="21"/>error. Quia tamen voluntas non possit in contrarium pro alio tempore, error est: sicut sedens dum  
+       <lb ed="#B" n="22"/>sedet non potest ambulare sed postea. Sicut enim sciens pro nunc quo est sciens non potest errare:  
+       <lb ed="#B" n="23"/>postea autem potest: similiter manente scientia in actum &amp; passione pro illa hora voluntas non po- 
+       <lb ed="#B" n="24"/>test velle oppositum: postmodum autem potest. Vnde quod ista: sedens manens sedens: siue sedens dum se 
+       <lb ed="#B" n="25"/>det non potest ambulare, non est distinguenda: sed est falsa: et in sensu composito: est quia frustra 
+       <lb ed="#B" n="26"/>adderetur illa determinatio manens sedens: licet quantum est ex natura rei bene posset distingui. 
+       <lb ed="#B" n="27"/>Sed illa est distinguenda: sedens non potest ambulare, secundum vsum philosophorum. Similiter &amp; 
+       <lb ed="#B" n="28"/>illa: sedens manens sedens, siue sedens dum sedet potest ambulare: quantum est ex natura rei distingui 
+       <lb ed="#B" n="29"/>posset, licet non sit consuetum: ne frustra videretur additum lymanens sedens: vel lv dum sedet. Vnde si 
+       <lb ed="#B" n="30"/>cut istae se consequuntur: si ignis est: calidus est: &amp; econuerso: similiter si scientia est recta, &amp; volun- 
+       <lb ed="#B" n="31"/>tas. dico necessitate consequentiae sed non consequentis. Dico si illa propositio magistralis sit vera: non 
+       <lb ed="#B" n="32"/>est malitia in voluntate nisi sit error in ratione. Ecce quod innuitur distinctio illius: sciens manens sciens 
+       <lb ed="#B" n="33"/>non potest velle siue agere oppositum: quia potest esse composita vel diuisa: &amp; si composita sit est vera 
+       <lb ed="#B" n="34"/>sub conditione tamen si illa est vera, non est malitia in voluntate nisi sit error in ratione: quia si sic, 
+       <lb ed="#B" n="35"/>ista: si scientia est recta: voluntas est recta: est necessaria necessitate consequentiae: quia necessario simul 
+       <lb ed="#B" n="36"/>sunt: licet non necessitate consequentis. Licet enim scientia sit recta: non tamen: necessitate con- 
+       <lb ed="#B" n="37"/>sequentis voluntas de necessitate est recta: quia sic in nullo tempore vlteriore posset esse non  
+       <lb ed="#B" n="38"/>recta: quod falsum est. Si vero illa, sciens manens &amp; caetera sit diuisa, dicitur quod est falsa: quia sic in  
+       <lb ed="#B" n="39"/>nullo tempore vlteriore posset velle oppositum. Et sic secundum huiusmodi expositionem expone 
+       <lb ed="#B" n="40"/>articulum dictum errorem esse pro sensu diuiso &amp; pro necessitate consequentis: sub hoc sensu, manente 
+       <lb ed="#B" n="41"/>scientia in actum &amp; passione: necessarium est voluntatem non posse velle oppositum: errorem, quia non est 
+       <lb ed="#B" n="42"/>illud consequens necessarium: quia tunc pro nullo tempore alio posset velle oppositum: quod aperte erroneum 
+       <lb ed="#B" n="43"/>est, &amp; de quo nullus dubitat. Pro sensu autem composito, &amp; pro necessitate consequentiae secundum di 
+       <lb ed="#B" n="44"/>ctam expositionem exponitur articulum illum non esse erroneum sub hoc sensu, manente scientia &amp; 
+       <lb ed="#B" n="45"/>passione in actum: necessario sequitur voluntatem non posse pro eodem tempore vel hora velle opposi 
+       <lb ed="#B" n="46"/>tum: &amp; quod hoc non sit error: consequentia enim est necessaria eo quod necessario simul sunt error &amp; directio 
+       <lb ed="#B" n="47"/>in vtroque: &amp; non essent necessario simul prohora illa si non sequeretur. An autem possit concedi hocro 
+       <lb ed="#B" n="48"/>tum &amp; quomodo: patebit in determinatione habenda in sequenti quaestione. Si tamen non ponatur causalitas ex 
+       <lb ed="#B" n="49"/>parte rationis: quia voluntatis malitiam necessario sequitur error in ratione communiter dictus: etiam 
+       <lb ed="#B" n="50"/>si non causatur a ratione in voluntate: sed econverso: si tamen ill a sit vera: non est malitia in volunta- 
+       <lb ed="#B" n="51"/>te nisi sit error in ratione. super quam fundat se ista expositio: quia aliter non possent ista simul stare &amp; es- 
+       <lb ed="#B" n="52"/>se sil vera, articulus ille &amp; propositio magistrorum. Sed ponendo causalitatem semper in ratione, omnino contrariatur 
+       <lb ed="#B" n="53"/>articulo. Propterea enim dannatus est ille articulus: quia sic daretur rationi quod sic pro hora necessitatet &amp; determi 
+       <lb ed="#B" n="54"/>naret voluntatem: vt ad errorem vnius sequeretur error alterius. Per hoc enim in tali actu volendi tollitur libertas.  
+       <!--900.xml-->
+       <pb ed="#B" n="430-r"/>
+        <lb ed="#B" n="1"/>liberi arbitrii in eo quod non potest contraire. Sed non sic posuit dicta opinio causalitatem in ratione:  
+       <lb ed="#B" n="2"/>sed solummo dixit quod si ita poneretur: sic sequeretur: &amp; sic vt dictum est, deberet articulus exponi. Et quod  
+       <lb ed="#B" n="3"/>amplius est, si causalitas motionis voluntatis ponatur in ratione mouente cum voluntate: sic tamen 
+       <lb ed="#B" n="4"/>quod non moueat nisi secundum modum congruentem suae naturae: quemadmodum dictum est de mo- 
+       <lb ed="#B" n="5"/>tione gratiae: nullo modo necessitarentur voluntatem, nec contrariaretur articulo. Ad illud quo arguitur 
+       <lb ed="#B" n="6"/>obiectum voluntatis in eo quod voluntas mouet seipsam, non esse causam sine qua non: quia non est cau- 
+       <lb ed="#B" n="7"/>sa per accidens: vt albedo in aedificando: Bene verum est: quia illa nihil agit per se omnino: causa autem 
+       <lb ed="#B" n="8"/>quae proprie dicitur sine qua non: semper aliquid agit per se vt iam dicetur. Similiter quod neque est causa per  
+       <lb ed="#B" n="9"/>accidens quae agit, quo facto aliud exit in actum suum: dico quod immo. ad modum enim quo postquam scamo 
+       <lb ed="#B" n="10"/>nea expulit choleram quae impediuit virtutem naturae ne posset infrigidare: statim virtus naturae infri- 
+       <lb ed="#B" n="11"/>gidat: obiectum postquam per se mouerit intellectum ad actum cognoscendi: &amp; per hoc expulerit igno  
+       <lb ed="#B" n="12"/>rantiam quae impediuit voluntatem ne posset velle aliud obiectum: statim voluntas libere pont vel 
+       <lb ed="#B" n="13"/>le. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e1255">
+       SED arguit contra hoc quod scilicet obiectum non agit sicut scamonea: quia nihil potest facere aliquid  
+       <lb ed="#B" n="14"/>quo facto aliquid potest mouere seipsum: quia aliquid per se mouere seipsum, est per se impossibile: &amp; nihil po- 
+       <lb ed="#B" n="15"/>test facere aliquid quo facto aliud agat aliquid quod est impossibile agere: sed aliquid bene potest face- 
+       <lb ed="#B" n="16"/>re aliquid quo facto aliquid potest mouere aliquid aliud a se: quod est per se possibile: sicut contingit 
+       <lb ed="#B" n="17"/>in proposito, quando virtus naturae infrigidat expulsa cholera per scamoneam. virtus enim naturae non  
+       <lb ed="#B" n="18"/>agit mouendo seipsam: neque partem in qua est: sed existens in vna parte puta in corde, mouet ad infri 
+       <lb ed="#B" n="19"/>gidandum partem proximam. &amp; sic scamonea non facit aliquid quo facto virtus naturae moueat 
+       <lb ed="#B" n="20"/>seipsam vel id in quo est. Vnde (ut dicit) exemplum de scamonea directe est contra illos qui ipsum. 
+       <lb ed="#B" n="21"/>adducunt pro se. Dico ad haec: quod vt dictum est, obiectum omnino agit sicut scamonea: quia sicut sca- 
+       <lb ed="#B" n="22"/>monea nihil agit nisi expellere choleram a membro: sic nihil agit obiectum nisi expellere ignorantiam 
+       <lb ed="#B" n="23"/>ab intellectu. sicut enim obiectum nullam vim ad mouendum se dat voluntati quando ab intellectu 
+       <lb ed="#B" n="24"/>expellit ignorantiam: sic scamonea nullam vim ad mouendum dat virtuti naturae quando a mem 
+       <lb ed="#B" n="25"/>bro expellit choleram &amp; econuerso. Sed sicut scamonea expellente choleram praecise, exposita est virtus 
+       <lb ed="#B" n="26"/>naturae potestati suae naturali ad mouendum aliquid secundum exigentiam naturae suae absque omni 
+       <lb ed="#B" n="27"/>impedimento: sic obiecto expellente ignorantiam ab intellectu praecise, exposita est vis voluntatis 
+       <lb ed="#B" n="28"/>potestati suae naturali absque omni impedimento ad mouendum aliquid secundum exigentiam 
+       <lb ed="#B" n="29"/>suae naturae, nec vlterius hic intelligitur aliquid facere obiectum in intellectu: sicut nec ibi scamo- 
+       <lb ed="#B" n="30"/>nea. Aliter enim non essent causae sine quam non: sed propter quam sic. Et ideo sicut ibi expulsa cholera a men 
+       <lb ed="#B" n="31"/>bro potest virtus naturae membrum infrigidare aliud a se: eo quod hoc pertinet ad potentiam natu  
+       <lb ed="#B" n="32"/>ralem eius, quam nullatenus dat ei scamonea: ad quam potentiam virtutis naturae quia corporalis est: nullo 
+       <lb ed="#B" n="33"/>modo pertinet mouere seipsam vel id in quo est: sed solummodo aliquid aliud: sic hic expulsa igno-  
+       <lb ed="#B" n="34"/>rantia ab intellectum, potest voluntas seipsam mouere: eo quod hoc pertinet ad potentiam naturalem 
+       <lb ed="#B" n="35"/>eius: quam consimiliter nullatenus dat ei obiectum. Ad quam potentiam voluntatis quia spiritualis est &amp; li- 
+       <lb ed="#B" n="36"/>bera: nullo modo pertinet motu spirituali qui est operatio &amp; perfectio entis in actum secundum quod 
+       <lb ed="#B" n="37"/>est in actu, moueri ab alio a se necessitante ipsam: &amp; quid amplius est: non potest voluntas mouere aliud  
+       <lb ed="#B" n="38"/>a se siue spiritualiter siue corporaliter priusquam seipsam moueat primo spiritualiter: quemadmodum:  
+       <lb ed="#B" n="39"/>lux nullo modo illuminat aliud: nisi primo in seipsa luceat: neque quodcunque agens spirituale agit ali 
+       <lb ed="#B" n="40"/>quid in alio priusquam agat suam propriam operationem in seipso. dicente Proclo. cxxxi. propositio 
+       <lb ed="#B" n="41"/>ne. Omnis deus a seipso propriam operationem orditur. Commen. Proprietatem enim eius quae in  
+       <lb ed="#B" n="42"/>secundo, in seipso primo intendit. Cum igitur assumit quod obiectum non agit sicut scamonea: quia ni 
+       <lb ed="#B" n="43"/>hil potest facere aliquid quo facto aliquid potest mouere seipsum: Dicendum quod verum est, si illam 
+       <lb ed="#B" n="44"/>potentiam mouendi seipsum non haberet naturaliter a se: &amp; esset omnino impossibile voluntatem 
+       <lb ed="#B" n="45"/>habere illam: sicut supponit in argumento. Si tamen illam habet a se naturaliter: &amp; est impedita ab  
+       <lb ed="#B" n="46"/>executione eius in opus, bene potest remouens prohibens aliquid facere quo facto potest mouere se 
+       <lb ed="#B" n="47"/>ipsum: quid prius non potuit: non quia illam potentiam non habuit: sed quia impedita fuit. Consimi- 
+       <lb ed="#B" n="48"/>liter omnino in exemplo de scamonea. sicut enim obiectum non potest facerem aliquid quo facto vo- 
+       <lb ed="#B" n="49"/>luntas potest mouere seipsam: quia non potest ei dare hanc potentiam: eo quod solum potest expellere 
+       <lb ed="#B" n="50"/>prohibens: sed illam virtutem naturaliter habet ex se: &amp; ideo expulso prohibente mouet seipsam: &amp; 
+       <lb ed="#B" n="51"/>sic facit obiectum aliquid quo facto voluntas potest potestate quam prius habuit sed impeditam: &amp; mo 
+       <lb ed="#B" n="52"/>do habet, sed solutam: mouere seipsam: sic nec scamonea potest facere aliquid quo facto virtus naturam: potest 
+       <lb ed="#B" n="53"/>infrigidare partem sibi proximam: quia non potest ei dare hanc potentiam: eo quod solum potest expellere prohibens. sed illam 
+       <lb ed="#B" n="54"/>virtutem habet naturaliter ex se: &amp; ideo expulso prohibente infrigidat partem sibi proximam. &amp; sic 
+       <!--901.xml-->
+       <pb ed="#B" n="430-v"/>
+        <lb ed="#B" n="1"/>facit consimiliter scamonea aliquid, quo facto virtus naturae potest potestate quam habuit prius, sed impedi 
+       <lb ed="#B" n="2"/>tam: &amp; modo habet, sed solutam, mouere aliud a se. Et sic plane exemplum de scamonea est pro me 
+       <lb ed="#B" n="3"/>secundum modum iam dictum quo ipsum alibi induxi: sed incomplete intellectum ab illo qui ipsum ni 
+       <lb ed="#B" n="4"/>sus est retorquere contra me. Vnde cum dicit quod nihil potest facere aliquid quo facto aliquid potest mouere 
+       <lb ed="#B" n="5"/>seipsum: quia aliquid per se mouere seipsum est per se impossibile: manifeste petit illud quod debet probare. scilicet 
+       <lb ed="#B" n="6"/>quod aliquid mouere seipsum est per se impossibile: Ad secundum: Si obiectum non aliter agit quam mouen- 
+       <lb ed="#B" n="7"/>do intellectum: quo facto voluntas mouet se: eadem ratione posset dici quod appetitus bruti esset actiuus &amp; 
+       <lb ed="#B" n="8"/>moueret se: quia mouetur sensu prius moto ab obiecto sensibili, &amp; non aliter: Dico secundum praedicta quod re- 
+       <lb ed="#B" n="9"/>uera obiectum non aliter agit quam mouendo intellectum: &amp; per hoc expellendo tenebras ignorantiae ab intel 
+       <lb ed="#B" n="10"/>lectum: quo facto voluntas mouet se: quia hoc habet a natura sua non ab obiecto, nisi secundum mo- 
+       <lb ed="#B" n="11"/>dum congruentem naturae suae praetactum: nec a prohibentis expulsione: licet a prohibentis expulsione habeat 
+       <lb ed="#B" n="12"/>quod libere possit in actum suae potentiae mouendo se: quod prius non potuit propter impedimenti praesentiam. Sed non 
+       <lb ed="#B" n="13"/>eadem ratione potest dici quod appetitus bruti esset actiuus in mouendo se: quia non mouetur nisi sensu prius 
+       <lb ed="#B" n="14"/>moto a sensibili. quoniam appetitus bruti quod moueat secundum actum: hoc non habet a natura sua etiam post sensum 
+       <lb ed="#B" n="15"/>nisi prius fuerit motus a virtute naturae secundum passiones qualitatum sensibilium. Et ideo licet non po 
+       <lb ed="#B" n="16"/>test moueri nisi sensu prius moto a sensibili: cum hoc tamen quando sensus motus est a sensibili, bene requirit aliud  
+       <lb ed="#B" n="17"/>mouens: &amp; sic non est omnino simile: nec potest ille dicere quod illud est omnio simile nisi petat &amp; supponat 
+       <lb ed="#B" n="18"/>quod debet probare. 
+      </p>
+      <p xml:id="n3av8a-c1e4135-d1e1390">
+       AD tertium quid dicit quod obiectum est per se causam mouens voluntatem: quia aliter non 
+       <lb ed="#B" n="19"/>posset probari causam mouens per se nisi quia ea posita ponitur effectus: &amp; ea non posita non ponitur: vt patet in  
+       <lb ed="#B" n="20"/>igne &amp; ligni combustione: Dicendum quod verum est vbi nuilum restat impedimentum amouendum: vt contin 
+       <lb ed="#B" n="21"/>git in veris motibus corporalibus: qui sunt actus imperfecti secundum quod imperfectum: vbi corporale mouens 
+       <lb ed="#B" n="22"/>corporalem motum mouet per contactum absque omnis impedimenti amotione. Propter quod necessario sequitur quod si tali 
+       <lb ed="#B" n="23"/>sic posito ponitur effectus: &amp; ipso remoto remouetur effectus: hoc est cauameffectus per se. In motibus vero qui proprie 
+       <lb ed="#B" n="24"/>sunt operationes &amp; perfectiones, &amp; ideo actus perfecti secundum quod perfectum est: quemadmodum lucere est proprie actus lucis 
+       <lb ed="#B" n="25"/>quibus mouens semper se mouet nisi sit impedimentum, &amp; in quibus potest interuenire impedimentum: non est verum 
+       <lb ed="#B" n="26"/>si tali posito ponitur effectus &amp; eo remoto remouetur: quod sit causa effectus per se. Illud enim quod est remo 
+       <lb ed="#B" n="27"/>uens prohibens est tale. Vnde lux si posset impediri ne luceret: amoto impedimento per se exit in actum lu- 
+       <lb ed="#B" n="28"/>cendi absque omni alio mouente. &amp; tamen posito remouente prohibens ponitur effectus lucendi: &amp; eo non posi- 
+       <lb ed="#B" n="29"/>to non ponitur: licet non sit cam per se. Vnde &amp; ignis ligna quae tangit non comburit si impedimentum sit in lignis, ni 
+       <lb ed="#B" n="30"/>si praecedente actione eius quod remouet prohibens: quo non posito nec impedimento remoto non comburit: eo autem po 
+       <lb ed="#B" n="31"/>sito &amp; impedimento remoto, statim comburit. &amp; sic non probatur per hoc aliquid esse cauam per se quod simplicitur eo posito 
+       <lb ed="#B" n="32"/>ponitur effectus, &amp; non posito non ponitur: sed quod cessante impedimento eo posito ponitur effectus, &amp; non posito non 
+       <lb ed="#B" n="33"/>ponitur. Et sic probatur quod ignis est per se causam comburens ligna: quia cessante impedimento antequam tangit ligna, cum tangit 
+       <lb ed="#B" n="34"/>comburit &amp; prius non comburit. Sic est probatur quod voluntas est cauam per se mouendi seipsam: quia cessante impedimento 
+       <lb ed="#B" n="35"/>ignorantiae: priusquam velit, per hoc quod obiectum est praesens in cognitione libere potest illud velle vel non velle. 
+       <lb ed="#B" n="36"/>Et sic multo essentialius voluntas per se potest in mouendo se motu volendi qui est eius operatio propria: quam  
+       <lb ed="#B" n="37"/>graue per se inclinatur deorsum: quae inclinatio est ei accidentalis, eo quod est extra locum, proprium. Quid au  
+       <lb ed="#B" n="38"/>tem adiungit in fine quod exemplum inueniri non potest quod aliquo praesente aliquid mouetur, &amp; eo absente non 
+       <lb ed="#B" n="39"/>mouetur quin illud sit ei cauam mouens per se: dicendum quod falsum est: quia exemplum habetur in omnibus in quibus agens 
+       <lb ed="#B" n="40"/>coniunctum est patienti &amp; patitur aliquod impedimentum: quemadmodum contingit in scamonea &amp; virtu 
+       <lb ed="#B" n="41"/>te naturae. Si vero nullum patiatur impedimentum: non est instantia quin illud sit causa per se quo posito po- 
+       <lb ed="#B" n="42"/>nitur effectus: &amp; quo non posito non ponitur. Sed hoc differenter in agente naturaliter, &amp; in agente vo 
+       <lb ed="#B" n="43"/>luntarie: quia in agente naturaliter amoto impedimento effectus necessario ponitur agente per se con 
+       <lb ed="#B" n="44"/>iuncto patienti. In agente autem voluntarie, nequaquam. Propter quod voluntas dominan ter agit in volendo  
+       <lb ed="#B" n="45"/>natura vero seruiliter: puta ignis in comburendo: quod nullo modo potest applicari ad motus spiritales 
+       <lb ed="#B" n="46"/>qui aequiuoce sunt motus cum illis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

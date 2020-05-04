@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 29</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 29</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="250-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e386">
+       <head xml:id="n3av8a-d1e386-Hd1e96">Quaestio 29</head>
+       <p xml:id="n3av8a-d1e386-d1e99">
+        <lb ed="#B" n="49"/>SEquuntur duae quaestiones pertinentes ad praelatos ecclesiasticos. Quarum prima pertinet 
+       <lb ed="#B" n="50"/>ad actum corripiendi specialiter: vtrum sacerdos debeat corripere sumbditos suos facto 
+       <lb ed="#B" n="51"/>Secunda vero pertinet ad diuersos actus ecclesiasticos generalitur: vtrum praedicans, 
+       <lb ed="#B" n="52"/>baptizans, &amp; alios actus ecclesiasticos exercens in peccato mortali occulto, peccet 
+       <lb ed="#B" n="53"/>mortaliter. 
+      </p>
+      <p xml:id="n3av8a-d1e386-d1e112">
+       CIRca primum arguitur quod sic: quia Hely filios suos corripuit verbo: &amp; 
+       <lb ed="#B" n="54"/>tamen propter defectum correctionis eorum percussit cum deus. Praeter illam quae est verbo, non  
+       <!--540.xml-->
+       <pb ed="#B" n="250-r"/>
+        <lb ed="#B" n="1"/>restat nisi illa quae est facto: ergo percussus est quia in illa defecit, hoc non esset nisi ad illam teneretur 
+       <lb ed="#B" n="2"/>ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e386-d1e125">
+       CONtra. talis correctio non fit nisi per iurisdictionem: quam sacerdos simplex non habet. 
+       <lb ed="#B" n="3"/>
+      </p>
+      <p xml:id="n3av8a-d1e386-d1e130">
+       DIcendum ad hoc: quod factum quo quis corripitur, multiplex potest esse scilicet factum boni exempli: vel fa- I 
+       <lb ed="#B" n="4"/>ctum subtractionis, illorum a quibus habet quis occasionem peccati: vel factumpercussionis aut vinculatio 
+       <lb ed="#B" n="5"/>nis, seu incarcerationis. Loquendo de facto boni exempli, illo debet summe corrigere subditos, &amp; si- 
+       <lb ed="#B" n="6"/>militer facto quo subtrahit eis occasionem delinquendi: &amp; praebet eis occasionem desistendi. Si vero lo- 
+       <lb ed="#B" n="7"/>quamur de facto percussionis: hoc nullo modo pertinet ad viros ecclesiasticos. iuxta regulam Apo- 
+       <lb ed="#B" n="8"/>stoli qua dicit quod oportet episcopum esse non percussorem. Si vero loquamur de facto vinculationis 
+       <lb ed="#B" n="9"/>vel incarcerationis, hoc non licet nisi habentibus superiorem iurisdictionem: quam non habent sa- 
+       <lb ed="#B" n="10"/>cerdotes curati: &amp; ideo ipsis nullo modo licet hoc: sed tantum sacerdotibus superioribus: &amp; debent ta 
+       <lb ed="#B" n="11"/>li facto corripere rebelles maleficos, maxime cum incorrigibiles sunt. 
+      </p>
+      <p xml:id="n3av8a-d1e386-d1e151">
+       AD primum de Heli: quod per 
+       <lb ed="#B" n="12"/>cussus est a domino quia non corripuit eos facto: bene verum est: &amp; forte etiam quia non corripuit 
+       <lb ed="#B" n="13"/>verbo vt debuit: sed facto vinculationis seu incarcerationis corripere eos non debuit nec potuit, 
+       <lb ed="#B" n="14"/>nisi iurisdictionem super eos habendo, aut quia pater eorum carnalis erat, aut spiritualis: quia 
+       <lb ed="#B" n="15"/>summus sacerdos in lege erat. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

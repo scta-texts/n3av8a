@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 33</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 33</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="149-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3531">
+       <head xml:id="n3av8a-c1e3531-Hd1e96">Quaestio 33</head>
+       <p xml:id="n3av8a-c1e3531-d1e99">
+       <!--716.xml-->
+        <pb ed="#B" n="149-r"/>
+        <lb ed="#B" n="1"/>CIrca secundum arguitur quod species in medio non accipit numerum ab obiecto: quia non 
+       <lb ed="#B" n="2"/>est in ipso. Quia etiam non a subiecto: quia duae species lucis sunt in eodem: vt in perspe- 
+       <lb ed="#B" n="3"/>ctiua probatur per diuersas vmbras. 
+      </p>
+      <p xml:id="n3av8a-c1e3531-d1e112">
+       ALIqui adhaerentes experientiae tactae in secun- 
+       <lb ed="#B" n="4"/>do argumento dicunt quod species in medio non numeratur a subiecto: sed ab obiecto: &amp; 
+       <lb ed="#B" n="5"/>hoc quia debile esse habet non fixum &amp; stans in subiecto: sed transiens quantum est ex 
+       <lb ed="#B" n="6"/>natura subiecti: ita quod non conseruatur in esse nisi ad praesentiam ipsius obiecti. ab illo 
+       <lb ed="#B" n="7"/>autem res numeratur a quo habet esse &amp; conseruari. Quid omnino stare non potest: quia quantum  
+       <lb ed="#B" n="8"/>cumque debile esse habet: tamen non est nihil: sed aliquid in natura &amp; essentia. Quod cum ad praesentiam obiecti ab ips 
+       <lb ed="#B" n="9"/>so tanquam ab agente habet fieri &amp; esse de nouo in medio: hoc non potest intelligi nisi vno ex tribus mo- 
+       <lb ed="#B" n="10"/>dis. Aut per migrationem: vt videlicet species illa primo fuerit in obiecto: &amp; ab obiecto migret in me- 
+       <lb ed="#B" n="11"/>dium: quid est impossibile: quia accidens est. &amp; accidentia secundum Boetium perimi possunt: alterarie. scilicet per mi 
+       <lb ed="#B" n="12"/>grationem,) non possunt. Aut per productionem de nihilo, quid est similiter impossibile: quia hoc esset creare 
+       <lb ed="#B" n="13"/>quid est supra potestatem creaturae. Quia autem illud esset creare, patet per Commen. qui super. xii. Meta. di-  
+       <lb ed="#B" n="14"/>cit contra datores formarum. Si forma fieret a generante in materia non ex materia, generatio esset crea 
+       <lb ed="#B" n="15"/>tio. Aut per veram generationem: &amp; hoc non nisi de potentia materiae &amp; medii ex se dispositi, sicut ma 
+       <lb ed="#B" n="16"/>teria quae est necessitas. Quia si sic: cum ea quae sunt eiusdem naturae specificae de eadem potentia materiae ge 
+       <lb ed="#B" n="17"/>nerantur in diuersis temporibus intercedente corruptione: vt de potentia eiusdem subiecti numero diuer 
+       <lb ed="#B" n="18"/>sae albedines: sicut ea quae sunt diuersarum specierum de diuersis potentiis eiusdem subiecti: vt de alia potentia 
+       <lb ed="#B" n="19"/>materiae album: &amp; de alia nigrum: si tamen uigrum sit color positiuus. Quaecumque autem de eadem potentia materiae ge 
+       <lb ed="#B" n="20"/>nerantur diuersa: quia secundum eundem modum &amp; rationem habent esse in subiecto: simul eidem inesem non possunt: sed  
+       <lb ed="#B" n="21"/>quaecunque sese compatiuntur in eodem subiecto debent produci de diuersis potentiis materiae: &amp; per hoc 
+       <lb ed="#B" n="22"/>alio &amp; alio modo habere esse in subiecto: quia cum diuersae species lucis non differunt plus quam numero: si 
+       <lb ed="#B" n="23"/>cut nec diuersae luces: similiter nec diuersae species albedinum: sicut nec diuersae albedines, quod enim dicuntur di-  
+       <lb ed="#B" n="24"/>uersae species, idem est ac si dicerentur diuersae rei intentiones: non quia differentia specifica differunt: sed  
+       <lb ed="#B" n="25"/>quia non sunt verae res: sed tantum idolum rei &amp; quo ad hoc species. Diuersae igitur species lucis aut albedinis 
+       <lb ed="#B" n="26"/>siue cuiuscumque sensibilis vnius secundum speciem nullo modo possunt esse simul in eadem parte medii: immo 
+       <lb ed="#B" n="27"/>quotquot ponantur vel appareant esse simul in eadem parte medii, sunt vna secundum numerum: licet a 
+       <lb ed="#B" n="28"/>diuersis obiectis secundum numerum, quemadmodum in eodem non est nisi vna lux secundum numerum: sed cum sint 
+       <lb ed="#B" n="29"/>diuersa lumina obiecta medio: in quo lumen generatur: omnia illa in generatione illius concurrunt qua  
+       <lb ed="#B" n="30"/>si essent vnum numero: ita quod quodlibet illorum secundum modum &amp; proportionem intensionis suae &amp; virtu- 
+       <lb ed="#B" n="31"/>tis agat in illius luminis intensione: sed diuersimode si simul apponantur: &amp; aeque primo agunt in me- 
+       <lb ed="#B" n="32"/>dium: etsi successiue vnum post alterum. quoniam si simul: tunc in illo puncto medii vniuntur virtutes omni 
+       <lb ed="#B" n="33"/>um: &amp; fiunt vna virtus quae generat speciem quae lumen est in puncto illo sub intensione proportionali illi- 
+       <lb ed="#B" n="34"/>us virtutis, sub qua generasset ipsum vnicum agens luminosum aequalis virtutis &amp; intensionis illis 
+       <lb ed="#B" n="35"/>pluribus. Si vero successiue vnum luminosum adueniat post alterum: tunc prius adueniens generat ibi lu 
+       <lb ed="#B" n="36"/>men intensum secundum proportionem virtutis suae: &amp; secundum nihil facit nisi augmentare intensionem lu- 
+       <lb ed="#B" n="37"/>minis iam generati: &amp; hoc secundum proportionem virtutis suae: &amp; sic de caeteris quotquot successiue appo 
+       <lb ed="#B" n="38"/>nuntur. Et si plura apponantur simul post primam illius generationem in virtute vna augmentant secundum pro  
+       <lb ed="#B" n="39"/>portionem virtutis vtriusque: sicut dictum est de eius generatione a pluribus simul. Et sicut hoc contingit in  
+       <lb ed="#B" n="40"/>vno puncto medii: etiam sic contingit in quolibet puncto eius, &amp; in toto medio se habente ad diuersas lu 
+       <lb ed="#B" n="41"/>ces, siue corpora diuersa lucida ad rectam oppositionem. Sed dices: ergo eadem ratione in visu a medio fit vni 
+       <lb ed="#B" n="42"/>us speciei luminis generatio in oculo a diuersis corporibus luminosis: quare cum secundum speciem acceptam 
+       <lb ed="#B" n="43"/>de re iudicat visus: plura ergo luminosa visa non iudicaret nisi vnum: sicut est species vnica quae iudicat 
+       <lb ed="#B" n="44"/>Sed non est ita: nec hoc sequitur ex posito: quoniam bene verum est quod non est a diuersis corporibus luminosis nisi vni  
+       <lb ed="#B" n="45"/>ca species luminis generata in oculo: secundum tamen quod habet in sua substantia intensionem proportionalem singulis 
+       <lb ed="#B" n="46"/>luminosis vt dictum est: secundum hoc nullum corporum luminosorum se habentium secundum rectam oppositionem ad  
+       <lb ed="#B" n="47"/>oculum mouet ipsum generando, vel intendendo speciem luminis in ipso secundum maiorem luminis intensionem: quantum  
+       <lb ed="#B" n="48"/>ab ipso si esset per se solum natum esset generare in oculo. &amp; propterea illa species non immutat oculum ad videndum 
+       <lb ed="#B" n="49"/>aliquid luminosum nisi secundum illam proportionem quae ab ipso est generatum aut intensum, siue sit aequalis, siue in  
+       <lb ed="#B" n="50"/>aequalis proportioni secundum quam est generatum ab altero luminoso. Propter quod licet illud lumen sit vnum in sub- 
+       <lb ed="#B" n="51"/>stantia: per ipsum tamen videntur diuersa corpora luminosa, &amp; vt diuersa &amp; distincta. Cuius declaratio est: quia vt 
+       <lb ed="#B" n="52"/>probatur in perspectiua, omne quid videtur sub angulo pyramidis videtur: cuius basis est in extremitatibus rei visae: &amp; 
+       <lb ed="#B" n="53"/>conus in puncto interiori nerui optici: in quo concurrunt nerui duorum oculorum: &amp; in quo viget virtus sen 
+       <lb ed="#B" n="54"/>sitiua visiua de visis iudicatiua, de visibili iudicans secundum quod tota superficies eius contenta inter bases 
+       <lb ed="#B" n="55"/>pyramidis offertur virtuti visiuae in angulo coni sub illo puncto &amp; in illo. Aliter enim res visa duo  
+       <!--717.xml-->
+       <pb ed="#B" n="338-v"/>
+        <lb ed="#B" n="1"/>bus oculis, non vna sed duae semper iudicaretur: vt similiter probatur ibidem. Nunc autem ita est quod  
+       <lb ed="#B" n="2"/>quaecunque diuersa corpora luminosa directe obiecta visui in illo puncto vigente habent bases diuer 
+       <lb ed="#B" n="3"/>sas inter se distinctas &amp; distantes abinuicem: quarum vna est semper extra aliam: sicut &amp; vnum eo 
+       <lb ed="#B" n="4"/>rum extra aliud &amp; distans ab ipso. Ita quod licet singulae pyramides concurrunt in praedictum eundem 
+       <lb ed="#B" n="5"/>punctum: tamen semper ex alio &amp; alio respectu, &amp; secundum diuersos conos inter diuersas pyrami 
+       <lb ed="#B" n="6"/>des &amp; distantes, intra quorum lineas superficies obiectorum, &amp; lumina ad ipsis diffusa in distinctis 
+       <lb ed="#B" n="7"/>conis distincte praesentantur: ita quod intra lineas eiusdem pyramidis in vno cono impossibile est repre- 
+       <lb ed="#B" n="8"/>sentari species aut lumina diuersa diuersorum visibilium. Propter quod quodlibet illorum sub suo co- 
+       <lb ed="#B" n="9"/>no distinctum &amp; diuersum videtur ab alio: &amp; solummodo secundum modum claritatis &amp; luminis pro  
+       <lb ed="#B" n="10"/>prii quod immutat per se visum sub illo cono, non commixtum cum lumine alterius: licet in eodem pun 
+       <lb ed="#B" n="11"/>cto medii sint commixta vt medium est: &amp; vt punctus est simpliciter. Vnde si in illo puncto esset vis 
+       <lb ed="#B" n="12"/>visiua: quamquam in illo essent simul quasi commixtum in vnum lumen a diuersis corporibus luminosis: quia  
+       <lb ed="#B" n="13"/>tamen vt videns non iudicaret: nisi vt sub diuersis conis inter lineas pyramidales praesentaretur: non 
+       <lb ed="#B" n="14"/>iudicaret nisi distincte, &amp; secundum proportionem qua a singulis procederet. Et iuxta hunc modum  
+       <lb ed="#B" n="15"/>contingit: quod licet a diuersis sit secundum praedictum modum vnum lumen in toto medio: si tamen inter ali 
+       <lb ed="#B" n="16"/>quod luminosorum corporum &amp; medium illuminatum interponatur corpus opacum: proiiciet vm 
+       <lb ed="#B" n="17"/>bram in medio illuminato ab aliis secundum proportionem: qua corpus luminosum patiens obsta 
+       <lb ed="#B" n="18"/>culum natum est augmentare lumen generatum in medio: &amp; sic de singulis. ita quod cuilibet propria 
+       <lb ed="#B" n="19"/>vmbra respondebit. Licet enim non sit nisi vnum lumen secundum numerum in re: est tamen plura lu 
+       <lb ed="#B" n="20"/>mina in virtute &amp; intentione. Propter quod per vmbras non potest probari quod in medio sunt diuer- 
+       <lb ed="#B" n="21"/>sa lumina numero secundum rim: sed quod virtute solum. vtrolibet enim modorum singulis corpori- 
+       <lb ed="#B" n="22"/>bus luminosis per singula obstacula singulas vmbras necesse est respondere. 
+      </p>
+      <p xml:id="n3av8a-c1e3531-d1e279">
+       PER haec patent obiecta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

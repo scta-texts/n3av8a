@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="489-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4754">
+       <head xml:id="n3av8a-c1e4754-Hd1e96">Quaestio 8</head>
+       <p xml:id="n3av8a-c1e4754-d1e99">
+        <lb ed="#B" n="7"/>CIrca secundum arguitur quod cogitationes substantiae incorporalis separatae mensu- 
+       <lb ed="#B" n="8"/>rentur mensura composita ex indiuisibilibus: quia omnis mensura debet esse vnigenea &amp; 
+       <lb ed="#B" n="9"/>correspondens mensurato, secundum <name ref="#Aristotle">philosophum</name> in. x. Metaphysicae quare cum quaelibet illarum 
+       <lb ed="#B" n="10"/>cogitationum sit indiuisibilis &amp; tota simul sic quod inter duas illarum non cadat medium 
+       <lb ed="#B" n="11"/>sui generis: similiter ergo erit de mensuris: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4754-d1e116">
+       CONfirmatur autem ratio 
+       <lb ed="#B" n="12"/>quia sicut se habet aeuum ad esse, &amp; instans ad mutatum esse, &amp; tempus ad motum 
+       <lb ed="#B" n="13"/>&amp; aeternitas ad aeternum: sic &amp; mensura illarum cogitationum ad illas. sed omnes hae  
+       <lb ed="#B" n="14"/>mensurae sunt re eaedem cum mensuratis, &amp; differunt secundum rationem &amp; animae considerationem. Illae enim men- 
+       <lb ed="#B" n="15"/>surae se habent ad sua mensurata sicut enter esse ad esse, &amp; sicut aeternaliter esse ad esse aeternum. Sed  
+       <lb ed="#B" n="16"/>ista inter se differunt sola ratione: ergo &amp; illa. Similiter prius &amp; posterius in motu sunt idem quid motus: quia  
+       <lb ed="#B" n="17"/>sunt partes eius. Tempus autem non est nisi prius &amp; posterius in motu secundum <name ref="#Aristotle">philosophum</name> &amp; Commentatorem 
+       <lb ed="#B" n="18"/>quarto Physicorum. Sicut ergo ex illis cogitationibus non est aliquod vnum constitutum nisi ex indiuifi- 
+       <lb ed="#B" n="19"/>bilibus: quare nec ex mensuris illarum. 
+      </p>
+      <p xml:id="n3av8a-c1e4754-d1e139">
+       CONtra, Indiuisibile in tempore vt instans sic se habet ad instans 
+       <lb ed="#B" n="20"/>aliud quod si inter quaelibet duo cadat aliquod continuum vt tempus medium quod non componitur ex indiuisi- 
+       <lb ed="#B" n="21"/>bilibus: ergo &amp; similiter inter duo indiuisibilia mensurantia dictas cogitationes: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4754-d1e146">
+       CON- 
+       <lb ed="#B" n="22"/>firmatur autem ratio: quia angelus potest continuare tanto tempore vnam cogitationem quanto sibi succedunt 
+       <lb ed="#B" n="23"/>plures: quid non esset nisi esset aliquod continuum inter duo indiuisibilia. 
+      </p>
+      <p xml:id="n3av8a-c1e4754-d1e154">
+       DIco quod mensura omnis quae est 
+       <lb ed="#B" n="24"/>duratio, nihil aliud est nisi modus &amp; forma qua res cuius est mensura perseuerat in suo esse. &amp; secun 
+       <lb ed="#B" n="25"/>dum hoc debet esse ei proportionalis. &amp; est mensura rei permanentis permanens, &amp; rei in suo esse fluentis &amp; 
+       <lb ed="#B" n="26"/>non permanentis secundum eundem modum fluens &amp; non permanens. Quia ergo vt procedit prima ratio cogita 
+       <lb ed="#B" n="27"/>tiones dictae singulae sunt indiuisibiles &amp; totae simul: sed transeuntes ordine quodam vna post aliam absque  
+       <lb ed="#B" n="28"/>omni comnexione illarum inter se: quia vna earum non succedit ex alia: eo quod intellectus substantiae separatae  
+       <lb ed="#B" n="29"/>non est discursiuus cogitando vnum ex alio: sicut intellectus noster: licet cogitet diuersa &amp; vnum post 
+       <lb ed="#B" n="30"/>aliud: propter hoc oportet quod mensurae illarum cogitationum sint singulae indiuisibiles &amp; totae simul: sed  
+       <lb ed="#B" n="31"/>transeuntes consimili modo &amp; absque omni comnexione illarum inter se. Quia tamen ordinem quendam inter se habent 
+       <lb ed="#B" n="32"/>vna quaedam mensura ex illis constituitur vt ex discretis, quam Aug. appellat tempus quando dicit. xii. 
+       <lb ed="#B" n="33"/>super Gen. quod deus mouet spiritalem creaturam per tempus licet non per locum. Et est tempus discretum &amp; ex 
+       <lb ed="#B" n="34"/>discretis, habens potius rationem numeri quam temporis. de quo loquitur Aristo. Non tamen est quantitas illa 
+       <lb ed="#B" n="35"/>quae est numerus, sicut nec oratio, licet sit quantitas discreta: sed magis conuenit cum oratione eo quod non 
+       <lb ed="#B" n="36"/>permanent partes eius simul, sicut nec orationis. partes autem numeri simpliciter permanentes sunt, &amp; si 
+       <lb ed="#B" n="37"/>non permanent hoc accidit eis. tale autem tempus <name ref="#Aristotle">Philosophus</name> ponere non potuit: quia actionem cuiuslibet substantiae 
+       <lb ed="#B" n="38"/>separatae posuit esse suam substantiam: posuit enim quamlibet illarum esse deum quendam vt alias declarauimus 
+       <lb ed="#B" n="39"/>Secundum hoc ergo dico quod mensura cogitationum angelorum composita est ex indiuisibilibus discretis trans 
+       <lb ed="#B" n="40"/>euntibus sicut &amp; oratio, &amp; distinguitur secundum speciem ab oratione. quia partes orationis licet sint discretae 
+       <lb ed="#B" n="41"/>inter se quaelibet in se potest habere rationem continui &amp; mensurari vero tempore secundum quod morari possumus 
+       <lb ed="#B" n="42"/>in prol atione cuiuslibet syllabae, vt eius prolatio mensuretur tempore sicut &amp; nostra cogitatio quando  
+       <lb ed="#B" n="43"/>in ea persistimus, &amp; non est tota simul: sicut &amp; quaelibet cogitatio angelica. &amp; sic concedenda est prima ra 
+       <lb ed="#B" n="44"/>tio. Confirmatio autem eius falsum supponit quod semper mensura idem est in re cum mensurato: hoc enim 
+       <lb ed="#B" n="45"/>contingit in solo deo. Vnde non fuit (ut puto) illa confirmatio adducta propter argumentum: sed propter 
+       <lb ed="#B" n="46"/>ipsam difficultatem in se: quam alias satis declaraui in aeuo &amp; in aeuiterno ostendendo quod non sunt idem re. &amp; idem 
+       <lb ed="#B" n="47"/>sentio de instante &amp; mutatione &amp; tempore &amp; motu. Nec obstat quod tales mensurae sint intrinsecae suo proprio 
+       <lb ed="#B" n="48"/>mensurato: vt aeuum aeuiterno, instans mutationi, tempus motui primi mobilis quod per illum est mensura extrinse 
+       <lb ed="#B" n="49"/>ca aliorum motuum quorum ille est mensura. Frequenter enim alia accidentia intrinseca sunt suo subiecto. Sed  
+       <lb ed="#B" n="50"/>quaeret aliquis in quo praedicamento sit, &amp; dico quod est in praedicamento quantitatis sicut principium eius: quemadmodum  
+       <lb ed="#B" n="51"/>vnitas &amp; punctum &amp; instans sunt in praedicamento quantitatis. Quemadmodum enim ex diuersis indiuisibi 
+       <lb ed="#B" n="52"/>libus mensurantibus diuersas cogitationes cuiuscunque angeli constituitur vna mensura discreta 
+       <lb ed="#B" n="53"/>quae tempus appellatur: quia constituitur ex transeuntibus mensurantibus esse rei transeuntis:  
+       <lb ed="#B" n="54"/>sic ex diuersis indiuisibilibus aeuorum mensurantibus substantiam &amp; esse secundum substantiam  
+       <!--1018.xml-->
+       <pb ed="#B" n="489-r"/>
+        <lb ed="#B" n="1"/>plurium angelorum numero differentium in vna specie angelorum constituitur vna mensura dis- 
+       <lb ed="#B" n="2"/>creta: quae non meretur appellari tempus: quia non constituitur ex transeuntibus mensurantibus esse rei trans- 
+       <lb ed="#B" n="3"/>euntis vt transiens est, sed potius ex permanentibus mensurantibus esse rei permanentis vt permanens 
+       <lb ed="#B" n="4"/>est. Et ideo est non vna species temporis: sed potius numeri. Et est iste numerus ex discretis vnitatibus 
+       <lb ed="#B" n="5"/>in spiritualibus, sicut est ille numerus quem ponunt Philosophi ex discretis in corporalibus. Quia si contingat quod  
+       <lb ed="#B" n="6"/>non sit nisi vnicus angelus in vnica specie: quia tamen plures possunt esse secundum quod alias declarauimus: ni 
+       <lb ed="#B" n="7"/>hil refert ad ponendum talem numerum esse aliquam speciem quantitatis, sicut si omne corporale esset vnum con 
+       <lb ed="#B" n="8"/>tinuum, nihil referret ad ponendum numerum naturalem esse speciem quantitatis: cum continuum illud diuidi posset 
+       <lb ed="#B" n="9"/>saltem per intellectum: &amp; de continuo fiat discretum. Sic ergo aeuum in specie continens in se aeua diuersa men- 
+       <lb ed="#B" n="10"/>surantia esse diuersorum angelorum, eiusdem speciei est quantitas discreta &amp; diuisibilis in indiuisibilia: quae sunt 
+       <lb ed="#B" n="11"/>aeua singulorum angelorum differentia inter se secundum numerum. &amp; si ab aeuis diuersorum angelorum 
+       <lb ed="#B" n="12"/>differentium specie fieri possit abstractio mathematica, sicut a numeris diuersarum rerum corporalium 
+       <lb ed="#B" n="13"/>differentium specie, tunc forte sicut est vnus. x. hominium denarius &amp;. x. equorum, licet. x. non sunt eadem, sic idem 
+       <lb ed="#B" n="14"/>est aeuum in specie omnium angelorum diuersorum specie, licet ipsa aeuiterna non essent eadem specie. Quod autem 
+       <lb ed="#B" n="15"/>assumitur in confirmatione: quod enter esse &amp; esse sunt idem re: Dico quod si per enter intelligas mensuram 
+       <lb ed="#B" n="16"/>entis creati vt sit aduerbium temporis, non est verum, sicut nec verum est quod temporaliter esse idem est quod esse 
+       <lb ed="#B" n="17"/>Si autem enter sit aduerbium qualitatis sicut si dicatur currenter currit: tunc idem significat enter &amp; esse sicut 
+       <lb ed="#B" n="18"/>currenter &amp; currere. Sed tunc esset nugatorium dicere iste enter est sicut est nugatorium dicere iste currem 
+       <lb ed="#B" n="19"/>ter currit. Quia autem assumitur specialiter de tempore: quod prius &amp; posterius in motu sunt ipse motus 
+       <lb ed="#B" n="20"/>&amp; prius &amp; posterius in motu sunt ipsum tempus: ergo tempus est idem re quod ipse motus: Dico quod esse in  
+       <lb ed="#B" n="21"/>aliquo multis modis dicitur secundum philosophum. iiii. metaphysicae &amp; sunt duo: scilicet esse in vt pars in toto, &amp; 
+       <lb ed="#B" n="22"/>vt accidens in subiecto. Dico ergo quod prius &amp; posterius in motu vt pars in toto sunt ipse motus quia  
+       <lb ed="#B" n="23"/>sunt ambae partes eius, prius autem &amp; posterius in motu vt accidens in subiecto non sunt ipse motus nec 
+       <lb ed="#B" n="24"/>partes eius: sed sunt accidentia &amp; mensurae partium eius: &amp; per hoc totius motus. &amp; hoc secundo modo  
+       <lb ed="#B" n="25"/>intelligunt <name ref="#Aristotle">Philosophus</name> &amp; Commentator siquis diligenter inspiciat ipsos, quod tempus est prius &amp; posterius in mo 
+       <lb ed="#B" n="26"/>tu, &amp; non primo modo. Quid autem arguitur primo ad partem quaestionis contrariam: quod inter duo instantia in  
+       <lb ed="#B" n="27"/>diuisibilia est continuum medium quod est tempus non compositum ex indiuisibilibus: ergo similiter inter duo  
+       <lb ed="#B" n="28"/>indiuisibilia mensurantia diuersas cogitationes angelorum: Dico quod non est simile. quia mensuratum ibi ab  
+       <lb ed="#B" n="29"/>indiuisibili non est nec potest esse manens in se: sed non est nisi fluens in aliud vt prima mutatio in mo 
+       <lb ed="#B" n="30"/>tum: vel fluxum alterius terminans vt vltima mutatio motum. propter quod ibi inter duo indiuisibilia opor 
+       <lb ed="#B" n="31"/>tet ponere continuum ad indiuisibilia terminatum: mensura enim proportionatur mensurato, Mensuratum  
+       <lb ed="#B" n="32"/>autem hic ab indiuisibili potest esse manens in se, etiam si fluat desinendo esse, non tamen fluit in aliud cuius est 
+       <lb ed="#B" n="33"/>terminus: licet aliud similiter fluat post ipsum, vt vna cogitatio angeli post aliam: sed nulla fluit in aliam 
+       <lb ed="#B" n="34"/>vel terminat fluxum illius: propter quod nullum continuans omnino cadit inter illa: sed manent omnino discre- 
+       <lb ed="#B" n="35"/>ta, &amp; constituunt tempua discretum ex indiuisibilibus. Quia additur ad rationis confirmationem quod angelus 
+       <lb ed="#B" n="36"/>potest continuare suam cogitationem vnam tanto tempore quanto sibi succedunt vel prasent succedere plures 
+       <lb ed="#B" n="37"/>quod non esset nisi esset continuum interceptum inter plures: Dico quod quaelibet cogitatio angeli est tota simul 
+       <lb ed="#B" n="38"/>in simplici duratione stans, sicut suo modo est aeternitas dei tota simul: nec quantum est ex se &amp; ex mensu 
+       <lb ed="#B" n="39"/>ra suae durationis est maius vel minus: nec magis vel minus in duratione vnius &amp; alterius. Sed si haec 
+       <lb ed="#B" n="40"/>in ea intelliguntur, hoc est in ordine ad tempors quid currit cum aeuo, simplici stante &amp; aeternitate. Sic enim deus 
+       <lb ed="#B" n="41"/>dicitur plus durasse aut angelus quam Adam: &amp; similiter cogitatio vna vnius angeli quam duae alterius angeli: nulla tamen 
+       <lb ed="#B" n="42"/>continuatione interueniente ex parte sui in indiuisibili mensurante vnam cogitationem multum durantem: nec inter 
+       <lb ed="#B" n="43"/>duo indiuisibilia mensurantia duas cogitationes tantundem durantes vt vna durat, sicut nec aliquam continuatio 
+       <lb ed="#B" n="44"/>cadit in aeternitate licet ipsa complectatur totum tempus.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

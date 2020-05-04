@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="53-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e972">
+      <head xml:id="n3av8a-c1e972-Hd1e96">Quaestio 5</head>
+      <p xml:id="n3av8a-c1e972-d1e99">
+       <lb ed="#B" n="6"/>Equitur de pertinentibus ad assumptam humanitatem a primo principio, deo scilicet 
+       <lb ed="#B" n="7"/>Et quaerebantur quatuor. Duo pertinentia ad animam: vnum ad corpus: tertium ad coniunm- 
+       <lb ed="#B" n="8"/>ctum ex vtroque. PRImum pertinebat per se ad substantiam partis animae eius intelle- 
+       <lb ed="#B" n="9"/>ctiuae. Vtrum anima Christi circunscripta omni dispositione corporis &amp; circunscriptis 
+       <lb ed="#B" n="10"/>donis gratuitis: scilicet solum vt in puris naturalibus existens, sit nobilior quali- 
+       <lb ed="#B" n="11"/>bet anima cuiuslibet alterius. Secundum pertinebat ad partem animae vegetatiuam &amp; i 
+       <lb ed="#B" n="12"/>sensitiuam. Vtrum vegetatiua &amp; sensitiua in Christo infusae erant cum intellectiua 
+       <lb ed="#B" n="13"/>vel erant eductae de potentia materiae. Tertium erat de fieri corporis Christi in sacramento. Vtrum con 
+       <lb ed="#B" n="14"/>uersio substantiae panis in ipsum fiat subito, vel successiue. Quartum erat de morte Christi: Vtrum  
+       <lb ed="#B" n="15"/>fuerit naturaliter mortuus. 
+      </p>
+      <p xml:id="n3av8a-c1e972-d1e123">
+       CIRca Primum arguitur: quod anima Christi in puris naturalibus non po- 
+       <lb ed="#B" n="16"/>tuit esse nobilior quam anima alterius. Quia in natura animae non sunt nisi natura speciei &amp; essentiae eius 
+       <lb ed="#B" n="17"/>&amp; essentiales siue naturales, proprietates. Si ergo anima Christi fuisset nobilior alia: aut ergo ratione  
+       <lb ed="#B" n="18"/>naturae speciei &amp; essentiae suae, vel naturalium proprietatum. Non ratione essentiae. Quia in essentia &amp; natu  
+       <lb ed="#B" n="19"/>ra speciei non est gradus vel ordo, nisi secundum speciem: sicut neque in numeris, vt vult <ref xml:id="n3av8a-c1e972-Rd1e133" target="http://scta.info/resource/aristmet-l7">philosophus. viii metaphy- 
+       <lb ed="#B" n="20"/>sicae</ref>. Aut ergo non est anima Christi in alio gradu dignitatis &amp; naturae quam sint aliae animae: aut non est 
+       <lb ed="#B" n="21"/>eadem specie cum eis: quod est inconveniens. Neque ratione essentialium, proprietatum, quia tales, proprietates non di 
+       <lb ed="#B" n="22"/>uersificantur nisi propter diuersitatem naturae: quia sunt diuersae &amp; eaedem secundum quod natura est eadem vel di 
+       <lb ed="#B" n="23"/>uersa. Si ergo non potest esse gradus in natura &amp; essentia, neque in istis, proprietatibus. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e972-d1e146">
+       IN con in 
+       <lb ed="#B" n="24"/>trarium est articulus episcopalis, qui dicit quod opinio illa quae dicit quod inconueniens est ponere aliquos in  
+       <lb ed="#B" n="25"/>tellectus nobiliores aliis, error est: quia sic anima Christi non esset nobilior anima Iudae. Quaestio i 
+       <lb ed="#B" n="26"/>ista licet quaesita fuit de anima Christi, generaliter tamen habet locum de qualibet anima, &amp; generaliter de 
+       <lb ed="#B" n="27"/>qualibet separata a materia: &amp; quodammodo etiam de qualibet forma materiali, vt patebit prosequendo  
+       <lb ed="#B" n="28"/>vtrum scilicet poterit esse aliqua diuersitas secundum gradus dignitatis substantialis vel accidentalis sup- 
+       <lb ed="#B" n="29"/>positorum existentium in puris naturalibus sub eadem specie. 
+      </p>
+      <p xml:id="n3av8a-c1e972-d1e162">
+       AD intellectum difficultatis in hac quaestione  
+       <lb ed="#B" n="30"/>intelligendum quod triplex est forma. Quaedam pure spiritualis non vnibilis materiae: vt essentia angelorum 
+       <lb ed="#B" n="31"/>si tamen angeli carent materia, aut aliqua essentia creata. Quaedam vero pure materialis semper materiae 
+       <lb ed="#B" n="32"/>vnita: vt formae rerum naturales. Quaedam partim spiritualis separabilis a materia, &amp;e partim materia-  
+       <lb ed="#B" n="33"/>lis vnibilis materiae: sicut sunt animae humanae rationales, vt infra patebit magis. De primis formis 
+       <lb ed="#B" n="34"/>certa est sententia philosophi in octauo metaphysicae. sed de aliis est dubia. dicit enim sic. Quemadmodum in nume 
+       <lb ed="#B" n="35"/>ro non est magis vel minus, nec in substantia quae est cum forma: nisi sit substantia quae est cum materia. vbi dicit 
+       <lb ed="#B" n="36"/>Commentator id est quemadmodum in forma numeri: verbi gratia, trinitas &amp; quaternitas, non recipit magis 
+       <lb ed="#B" n="37"/>aut minus: scilicet quod non est vna trinitas magis quam alia trinitas, neque dualitas quam alia dualitas: ita for- 
+       <lb ed="#B" n="38"/>ma substantialis non recipit magis &amp; minus. Non enim est homo vnus maioris humanitatis quam alius ho 
+       <lb ed="#B" n="39"/>mo secundum formam: sed si fuerit, erit secundum quod forma est in eo in materia. Si ita sit, sicut dicit, in formis omnino 
+       <lb ed="#B" n="40"/>immaterialibus sicut est in numeris: hoc est ideo quia esse illarum formarum consistit in indiuisibili, sicut 
+       <lb ed="#B" n="41"/>&amp; esse numeri, eo quod forma talis in se subsistens non est in sua essentia, nisi ipsa species non habens in se nisiesse 
+       <lb ed="#B" n="42"/>ipsius speciei. Vnde si aliud suppositum eiusdem speciei ponatur in esse: quamuis <name ref="#Aristotle">philosophus</name> in talibus sub vna specie 
+       <lb ed="#B" n="43"/>non posuit nisi vnum indiuiduum: cum eadem ratione non est in sua essentia, nisi ipsa species non habens in se ni 
+       <lb ed="#B" n="44"/>si esse speciei, quicquid est in vno, &amp; in altero: &amp; sic neutrum erit maioris dignitatis altero. Si enim vnum eorum 
+       <lb ed="#B" n="45"/>ponatur esse maioris dignitatis altero: aut ergo illud quod dignius superaddit alteri est de ratione speciei 
+       <lb ed="#B" n="46"/>aut extra rationem speciei. Non de ratione speciei: quia ipsa tota est in altero. Quod ergo dignitatis est ex 
+       <lb ed="#B" n="47"/>natura speciei in vno, &amp; in altero. Si ergo vnum excedit alterum in dignitate, oportet quod illud sit extra rationem 
+       <lb ed="#B" n="48"/>speciei: &amp; ita in accidentalibus: non autem in essentialibus. Sed tunc illud accidentale, aut sequitur ex natura 
+       <lb ed="#B" n="49"/>speciei tamquam, proprium: &amp; tunc, vt argutum est, sequitur vniformiter dispositionem speciei: aut sequitur per adminicu 
+       <lb ed="#B" n="50"/>lum alicuius exterioris. Hoc licet forte <name ref="#Aristotle">philosopho</name> esset inconveniens: nobis tamen inconueniens non est: quia se- 
+       <lb ed="#B" n="51"/>cundum accidentia sub eadem specie diuersificarentur indiuidua: veluti si sub eadem specie angelorum in vno  
+       <lb ed="#B" n="52"/>essent maiora, &amp; plura genera gratiarum &amp; donorum quam in alio. Sed si huiusmodi ratio efficaciam habet in for 
+       <lb ed="#B" n="53"/>mis omnino immaterialibus, videtur quod consimiliter efficaciam habeat in animabus intellectiuis, licet aliquo  
+       <lb ed="#B" n="54"/>modo materiales sint. Sicut enim species in immaterialibus omnino consistit in indiuisibili sicut &amp; species nu- 
+       <!--147.xml-->
+       <pb ed="#B" n="53-v"/>
+       <lb ed="#B" n="1"/>meri: similiter, vt videtur, &amp; species animae intellectiuae: ita quod quodlibet suppositum eius essentiale non est 
+       <lb ed="#B" n="2"/>nisi ipsa species non habens in se nisi esse ipsius speciei, &amp; totum esse eius. Vnde supposita duo sub huiusmodi spe 
+       <lb ed="#B" n="3"/>cie, vt videtur, non possunt potius differre secundum gradum maiorem &amp; minorem dignitatis quam supposita duo  
+       <lb ed="#B" n="4"/>sub eadem specie angeli: iuxta hoc quod inductum est. Nunc, vt videtur, in aliquo restat in animabus ex parte ma 
+       <lb ed="#B" n="5"/>teriae sine adminiculo corporis: quia non nisi incorporando creentur: quia hoc accidit speciei, vt species est: quae  
+       <lb ed="#B" n="6"/>pont per se existere. Posset etiam deus animas quaes creando vnit corporibus, per se subsistentes creare. Propter ergo  
+       <lb ed="#B" n="7"/>coniunctionem in essentialibus speciei non trasmutabitur circa supposita secundum maiorem vel minorem gra- 
+       <lb ed="#B" n="8"/>dum dignitatis in essentia speciei: quamuis etiam non nisi per corpora fieret ipsorum distinctio &amp; indiuiduatio: si- 
+       <lb ed="#B" n="9"/>cut determinat Auicenna, quoniam indiuiduatio non sit per se per aliquid accidentale additum speciei, vt habitum est 
+       <lb ed="#B" n="10"/>in alio Quolibet. Videri ergo potest ex hoc alicui: quod sub specie animae rationalis non possunt esse duae animae: qua  
+       <lb ed="#B" n="11"/>rum vna excedit aliam in gradu dignitatis, essentiae, vel accidentium per se consequentium essentiam: sicut neque sub 
+       <lb ed="#B" n="12"/>eadem specie angeli, vt procedit prima obiectio. Qui hanc positionem vellet sustinere, diceret quod omnis diuer- 
+       <lb ed="#B" n="13"/>sitas actionis animarum in corpore ex parte intellectus conuenit ex diuersitate virium inferiorum animalium  
+       <lb ed="#B" n="14"/>&amp; naturalium: quibus vtitur tamquam adminiculis vis intellectiua in sua operatione. Vnde illi in quibus est 
+       <lb ed="#B" n="15"/>vis imaginatiua melius ordinata, melius sunt dispositi ad intelligendum. Sed hoc damnat alius arti 
+       <lb ed="#B" n="16"/>culus episcopalis: qui dicit sic. Quia nos melius vel peius intelligimus hoc prouenit ex intellectu passi 
+       <lb ed="#B" n="17"/>uo, qui est potentia sensitiua. error. Quia hic ponit vnum intellectum in omnibus aut aequalitatem  
+       <lb ed="#B" n="18"/>in omnibus animabus. Si etiam ita esset, videtur aliquibus quod non potest esse appropriatio animarum suis corpori 
+       <lb ed="#B" n="19"/>bus. Immo anima vna non magis determinaretur ad suum corpus: quam ad corpus alterius animae: si nulla differentia 
+       <lb ed="#B" n="20"/>vel distantia sit inter illas. Iuxta illud quod <name ref="#Aristotle">philosophus</name> reprehendit contra Pythocaua cum dicit in primo de anima. Copulant 
+       <lb ed="#B" n="21"/>&amp; ponunt in corpus animam nihil determinantes propter quam causam &amp; quomodo habente corpore. Et 
+       <lb ed="#B" n="22"/>tamen videtur vtique hoc necessarium esse. propter conmunitatem enim, hoc quidem agit, illud autem patitur: &amp; hoc quidem 
+       <lb ed="#B" n="23"/>mouet: illud autem mouetur. horum autem nihil inest adinuicem contingentibus. Quidam autem solum argumentantur dice 
+       <lb ed="#B" n="24"/>re quale aliquid anima sit: de susceptibili autem corpore nihil adhuc determinant: tamquam contingens sit secundum  
+       <lb ed="#B" n="25"/>Pythagoricas fabulas quamlibet animam quodlibet indui corpus. Quidam igitur in animabus vniformitatem non 
+       <lb ed="#B" n="26"/>ponunt, sed gradus in essentia speciei secundum maiorem dignitatem &amp; minorem: secundum quod ordinantur ad perficien 
+       <lb ed="#B" n="27"/>dum corpus bene vel melius dispositum: vt corpus quanto melius sit dispositum tanto meliorem in natura 
+       <lb ed="#B" n="28"/>&amp; dignitate speciei fortiatur animam. Et forte videri possit alicui quod ratio inducta pro opinione praecedenti 
+       <lb ed="#B" n="29"/>de formis separatis &amp; animabus rationalibus, quod non possunt habere supposita differentia secundum gradus di-  
+       <lb ed="#B" n="30"/>gnitatis in natura speciei, eandem efficaciam habet circa formas omnino materiales et accidentales. de quibus 
+       <lb ed="#B" n="31"/>manifestius videtur quod in natura speciei suae suscipiunt magis &amp; minus, intensionem videlicet &amp; remissionem 
+       <lb ed="#B" n="32"/>sicut patet in albedine. sicut enim species in materialibus omnino consistit in indiuisibili: sicut &amp; species 
+       <lb ed="#B" n="33"/>numeri: similiter, vt videtur, etiam species albedinis: ita quod si ponatur albedo per se separata in suppositis, 
+       <lb ed="#B" n="34"/>quodlibet illorum non est nisi ipsa species non habens in se nisi esse ipsius speciei &amp; totum eius esse. Ita quod non 
+       <lb ed="#B" n="35"/>sit magis in eis gradus dignitatis maioris &amp; minoris quo ad esse speciei, quam in duobus angelis eiusdem 
+       <lb ed="#B" n="36"/>speciei. Non enim vna albedo si esset separata esset magis albedo quam alia: sicut vnus angelus non est ma 
+       <lb ed="#B" n="37"/>gis angelus in natura speciei suae quam alter. Nec huiusmodi gradus, vt videtur, potest contrahi ex conium- 
+       <lb ed="#B" n="38"/>ctione huiusmodi formae cum materia, si ipsum non patitur ex se in sua essentia: quia super impossibile 
+       <lb ed="#B" n="39"/>non cadit potentia, vt deducatur in actum. Si ergo species in natura sua nullo modo patitur gra- 
+       <lb ed="#B" n="40"/>dus: coniunctio cum materia nullo modo potest ipsos ei dare. Vnde si habet eos in materia, natura 
+       <lb ed="#B" n="41"/>speciei patitur eos: vt si albedo in corpore vno superiori gradu formae albedinis sit quam alia in alio: vt 
+       <lb ed="#B" n="42"/>per hoc vnum corpus dicatur albius alio: patet plane quod natura speciei quantum est de se patitur 
+       <lb ed="#B" n="43"/>in se illos gradus. Et si natura albedinis patitur eos in materia &amp; non extra: quia non est nata esse ex 
+       <lb ed="#B" n="44"/>tra: similiter pateretur illos separata si posset separari. Quare consimili ratione nec vllius speciei 
+       <lb ed="#B" n="45"/>creaturae, vt videtur, repugnat: quin dicti gradus possunt esse in ea. Et sic non esset verum illud quod  
+       <lb ed="#B" n="46"/>dicit philosophus: quod sic est in formis sicut est in numeris. immo licet esse numeri consistit in simplici, non ta 
+       <lb ed="#B" n="47"/>men esse formarum. Immo latitudinem habet in qua possunt esse gradus, vt natura speciei tota exi 
+       <lb ed="#B" n="48"/>stat secundum vnum gradum in vno supposito: &amp; secundum alium in alio. hoc enim est non secundum 
+       <lb ed="#B" n="49"/>plures vel pauciores partes essentiae: quia ipsa nullas habet integrales, licet essentiales quae sunt ge- 
+       <lb ed="#B" n="50"/>nus &amp; differentia: quae tamen in simplicem rationem speciei cadunt in quolibet eius indiuiduo: sed est 
+       <lb ed="#B" n="51"/>secundum intensionem maiorem &amp; minorem vnius essentiae simplicis existentis in quolibet suo supposito 
+       <lb ed="#B" n="52"/>vt sic in formis substantialibus ponantur intensiones secundum magis &amp; minus: sicut in formis accidentalibus. 
+       <lb ed="#B" n="53"/>Quid tamen sentiendum sit iudicio rationis &amp; intellectus reuera ignoro: propter quod super hoc quia episco- 
+       <lb ed="#B" n="54"/>pus in hac quaestione sententiauit, nihil determino omnino.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

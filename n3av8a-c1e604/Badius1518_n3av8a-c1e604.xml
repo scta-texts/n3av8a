@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 39</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 39</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="25-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e604">
+      <head xml:id="n3av8a-c1e604-Hd1e96">Quaestio 39</head>
+      <p xml:id="n3av8a-c1e604-d1e99">
+       <lb ed="#B" n="38"/>Equuntur quaestiones pertinentes ad mercatores. Et proponebantur quaedam pertinentia ad mo 
+       <lb ed="#B" n="39"/>dum mercandi: quaedam vero pertinentia ad tempus mercandi. De primo proponebantur duo.  
+       <lb ed="#B" n="40"/>Primum: vtrum liceat emere redditus ad vitam. Secundum: vtrum emere vilius, &amp; incontinem 
+       <lb ed="#B" n="41"/>ti vendere carius, sit peccatum.
+      </p>
+      <p xml:id="n3av8a-c1e604-d1e110">
+       CIRca primum arguebatur quod non licet emere certos red  
+       <lb ed="#B" n="42"/>ditus ad vitam pro praetio statim dato. vbicumque datur minus sub spe recipiendi maius vsura 
+       <lb ed="#B" n="43"/>est, haec est enim natura contractus vsurarii. talis enim contractus est huiusmodi. ergo est vsura 
+       <lb ed="#B" n="44"/>rius. ergo non licet omnino: quia omnis vsura illicita est.
+      </p>
+      <p xml:id="n3av8a-c1e604-d1e119">
+       CONtra, vt dixit opponens, hoc com 
+       <lb ed="#B" n="45"/>sulunt religiosi viri, qui supponuntur esse peritiores, religiosis foeminis vt beguinis, quod non facerent nisi lici 
+       <lb ed="#B" n="46"/>tum esset, ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e604-d1e126">
+       HIC oportet primo videre naturam vsurae in quo consistit: vt ex hoc videatur: si 
+       <lb ed="#B" n="47"/>aliquid eius in isto contractu inueniatur. Est igitur intelligendum ad hoc: quod vsura graeco nomine Tocos appellatur. 
+       <lb ed="#B" n="48"/>sub quo nomine <name ref="#Aristotle">Philosophus</name> in primo Politicae annumerat eam inter species pecuniatiuae translatiuae. determinat 
+       <lb ed="#B" n="49"/>enim ibi quod est quaedam pecuniatiua, proprie dicta quae est pars oeconomicae: alia vero est pecuniatiua translatiua 
+       <lb ed="#B" n="50"/>quae non est pars ceconomicae. Prima pecuniatiua est acquisitiua pecuniarum de rebus naturalibus: vel de operi 
+       <lb ed="#B" n="51"/>bus artis factis circa res naturales: vt de vino, blado, &amp; huiusmodi, vel de opere fabrili facto ex ferro, vel 
+       <lb ed="#B" n="52"/>carpentarii facto ex ligno. cuius, proprietas est quod non est ad infinitam pecuniam: sed solum ad quantam indiget dis- 
+       <lb ed="#B" n="53"/>pensator ad bene disponendam domum. Secunda pecuniatiua est illa quae dicitur campsoria, &amp;e est acquisitiua pecu 
+       <lb ed="#B" n="54"/>niarum de pecunia, contra naturam &amp; inuentionem pecuniae. Non enim inuenta est pecunia ad eius multiplicationem:  
+       <!--91.xml-->
+       <pb ed="#B" n="25-v"/>
+       <lb ed="#B" n="1"/>sed ad faciendum per ipsam aliarum rerum conmutationem ad vitam necessariarum. Et talis campsoriae, vt ibidem di-  
+       <lb ed="#B" n="2"/>cit Philosophus, vna species est Tocos: hoc est vsura. Cuius opus determinans, dicit quod seipsam facit amplius: de 
+       <lb ed="#B" n="3"/>nummis scilicet paucioribus per mutuationem concessis recipiendo plures: quasi nummi ipsi quosdam nummos alios 
+       <lb ed="#B" n="4"/>generassent apud illum cui mutuati sunt: vt reddantur cum suo foetu. Vnde vsura hoc nomine Tocos vo- 
+       <lb ed="#B" n="5"/>catur apud graecos. T ocos enim graece idem est quod partus latine. quia in rebus naturalibus. parta hoc est generata similia 
+       <lb ed="#B" n="6"/>sunt in fora &amp; specie suis generantibus. &amp; ideo per Tocos quasi simile numisma generatur ex simili cum vsurarius accipit 
+       <lb ed="#B" n="7"/>nummos plures pro paucioribus: quid maxime est contra naturam nummi. ldeo dicit <name ref="#Aristotle">Philosophus</name> quod maxime praeter na- 
+       <lb ed="#B" n="8"/>turam est ista acquisitio pecuniarum. Hoc dixeri, quia non (vt quidam credunt, maxime Iudaei) vsura peccatum est &amp; iniqui 
+       <lb ed="#B" n="9"/>tas ex solo iure positiuo. immo est iniquitas ex lege naturae quam tractauerunt Philosophi: quia vt di-  
+       <lb ed="#B" n="10"/>cit I Tullius libro tertio de officiis. Aliter leges positiuae, aliter philosophi tolerant astutias. Leges 
+       <lb ed="#B" n="11"/>quaetenus manutenere non possunt. Philosophi quatenus ratione &amp; intelligentia. Vnde de vsura quod sit peccatum &amp; iniquitas 
+       <lb ed="#B" n="12"/>ex lege positiua non habemus nisi quia sic est. sed quaere sic est, hoc ratione ex lege naturae debemus inuestigare.  
+       <lb ed="#B" n="13"/>Quod vt iuestigare possimus, notandum, quod secundum <name ref="#Aristotle">philosophum</name> in quinto Ethicoaum, lustitiae quaedam est pars distributi 
+       <lb ed="#B" n="14"/>ua quaedam conmutatiua. Commutatiua est illa quae pertinet ad nim propositum. cuius natura est (ut determinat ibi 
+       <lb ed="#B" n="15"/>dem Philosophus, quod fiat per eandem dignitatem &amp; quantitatem praetii rei datae &amp; receptae: vt qui plus dedit de labore in cul 
+       <lb ed="#B" n="16"/>tura vineae, aliis eisdem existentibus: plus accipiat a patrefamilias in mercede: &amp; qui minus, minus. &amp; hoc iu- 
+       <lb ed="#B" n="17"/>xta aequitatem proportionis arithmeticae. Circa autem res quae conmutantur, sciendum: quod quaedam sunt talis naturae quod in eis 
+       <lb ed="#B" n="18"/>differunt suba rei &amp; vsus eius: ita quod sub alio praetio potest cadere suba: sub alio vsus: &amp; separati mutuari: vt 
+       <lb ed="#B" n="19"/>videlicet homo conmutet pro praetio suo subam rei transferendo in alterum proprietatem eius: retento penes se ad tempors 
+       <lb ed="#B" n="20"/>solo vsu: vel vt commutet vsum pro praetio suo: retenta suba &amp; proprietate in re: vel vt commutet rem pro suo praetio 
+       <lb ed="#B" n="21"/>vtroque modo: cuiusmoni sunt domus, agri, &amp; huiusmodi. Quaedam vero sunt talis naturae quod in eis sunt indifferen- 
+       <lb ed="#B" n="22"/>tia vlus rei &amp; suba eius: ita quod non cadit sub alio praetio vsus &amp; sub alio suba: nec pont vnum illorum conmutari 
+       <lb ed="#B" n="23"/>neque transferri sine alio: vt sunt illa quorum vsus est perfecta consumptio aut alienatio subae rei: sicut contingit 
+       <lb ed="#B" n="24"/>in pane &amp; vino. non ei est alius vsus proprius panis quam consumptio subae eius per comestionem: &amp; ita accommodans vel 
+       <lb ed="#B" n="25"/>commutans alteri panem pro praetio, simul transfert in eum spam panis &amp; vsum eius. Pecunia autem nummorum de modo 
+       <lb ed="#B" n="26"/>talium rerum est: quia nummus secundum <name ref="#Aristotle">philosophum</name> non est nisi praetium inuentum propter necessariam conmutationem rerum permutabilium 
+       <lb ed="#B" n="27"/>indigens enim calceis non semper habet aliam rem quam pro eis possit commutare: &amp; si haberet ouem conmutandam pro  
+       <lb ed="#B" n="28"/>calceis: non semper est aequalis valor ouis &amp; calceorum. propter quid nummus est inuentus ad aequandum conmutatio-  
+       <lb ed="#B" n="29"/>nes &amp; in praetium l conmutati. &amp; hoc non per vsum aliquem alium a suba eius: sed per translationem: &amp; ita per consumptionem 
+       <lb ed="#B" n="30"/>subae eius: vt sic in pecunia nullo modo sub alio praetio possit cadere suba: &amp; sub alio vsus eius. Et ideo dicit Phi 
+       <lb ed="#B" n="31"/>losophus quod numisma factum est translationis genra: vt non possit transferri vsus sine suba eius nec econverso. Di 
+       <lb ed="#B" n="32"/>co de vsu ad quem est per se: qui est translatio. <name ref="#Aristotle">Philosophus</name> enim distinguit duplicem rei vsum: vnum ad quem est per se: alium 
+       <lb ed="#B" n="33"/>ad quem est per accidens: vt sotular ad calceandum est per se: &amp; ad hauriendum aquam potest esse per accidens. sic nummi 
+       <lb ed="#B" n="34"/>vsus per se est translatio sua, per accidens autem vsus eius potest esse potespa &amp; apparentia. &amp; ideo ad talem vsum potest 
+       <lb ed="#B" n="35"/>aliquis alteri locare pecuniam numeratam in sacco, pro praetio, &amp; pecuniam integram reseruare. Quod nullo modo con 
+       <lb ed="#B" n="36"/>uenit in vsu eius proprio: quoniam talis est natura locationis vbi pro locatione aliquid potest iuste recipi cum suba rei. 
+       <lb ed="#B" n="37"/>quod aliquis sit fructus proueniens conducenti ex vsu rei: qui differt ab eius sa quam recipere posset ex suba rei ipse 
+       <lb ed="#B" n="38"/>locans: quod nullo modo contingit in nummis. propter quid pro nummi locatione nihil potest iuste vltra subam eius reci 
+       <lb ed="#B" n="39"/>pi. Quia si fiat, accipit aliquid pro quo nihil dedit: &amp; ita cum suo alienum tollit: quod est directe contra aequitatem  
+       <lb ed="#B" n="40"/>naturalis iustitiae conmutatiuae: in quae debet esse aequalitas omnimoda in praetio dati &amp; recepti, vt dictum est. &amp; hoc est 
+       <lb ed="#B" n="41"/>quid dicit Chrysostomus supe illud Matthaei. xxi. Eiiciebat de templo omnes ementes &amp; vendentes. Super omnes inquit  
+       <lb ed="#B" n="42"/>mercatores plus maledictus est vsurarius: quia mercator dat rem vt non illam repetat. lste autem postquam foenera 
+       <lb ed="#B" n="43"/>uerit: &amp; suum iterum repetit: &amp; alienum tollit cum suo. Ad haec (ut ait) dicet aliquis, qui agrum locat vt agrariam 
+       <lb ed="#B" n="44"/>accipiat, nonne est similis ei qui pecuniam suam dat ad vsuram: absit. Primum quidem: quoniam pecunia non ad aliquem  
+       <lb ed="#B" n="45"/>vsum deputata est: sed solum ad praetium emendi &amp; vendendi. secundum quod si agrum habet homo: arat eum &amp; fructum 
+       <lb ed="#B" n="46"/>accipit ex eo: &amp; qui habet domum, vsum mansionis accipit ex ea. ideo qui locat agrum vel domum: vsum suum 
+       <lb ed="#B" n="47"/>quem erat ipse accepturus dare videtur &amp; pecuniam accipere: &amp; quodammo quasi commutare videtur lucrum cum lu 
+       <lb ed="#B" n="48"/>cro. Pecuniam autem si in sacco repositam teneas apud te: nullum vsum capies ex ea. Si autem vti ea vis: necesse est vt 
+       <lb ed="#B" n="49"/>eam transseras: nec plus quam praetium &amp; valorem eius pro ea recipias, vt infra dicetur. Patet ergo manifeste si pecuniam 
+       <lb ed="#B" n="50"/>tuam alteri locare volueris vt aliquid vltra recipias, cum non sit in pecunia quam das aliquid quid pro illa vltra ac 
+       <lb ed="#B" n="51"/>cipiendo commutes &amp; conducenti tribuas: tu necessario pro aliquo quod simplum dedisti duplum repetis, &amp; sic 
+       <lb ed="#B" n="52"/>congregas vbi non sparsisti, &amp; meti vbi non seminasti: vt dicitur Lucae. xix. &amp; sumis aliquid pro nihilo quasi id quid  
+       <lb ed="#B" n="53"/>de tuo erat apud alium aliquid generasset, vt pecunia tua consimilem pecuniam: quod aprta iniquitas est &amp; omnino contra 
+       <lb ed="#B" n="54"/>legem naturae: quam vsurarius facit se inaequalem ei a quo accipit per iniustitiam auferendo ei pecuniam vsurariam quam  
+       <!--92.xml-->
+       <pb ed="#B" n="26-r"/>
+       <lb ed="#B" n="1"/>reddendo illi a quo accepit, ad aequalitatem reducuntur. Talis proculdubio locatio siue conmutatio est 
+       <lb ed="#B" n="2"/>cum quis emit redditus certos: vel certam pesionem ad vitam: pro certa summa pecuniae: vel pro valore eius: siquis 
+       <lb ed="#B" n="3"/>int erius inspiciat. Et vt in particulari aptior nobis fiat intellectus, det aliquis centum libras Parisien. vt ad vi 
+       <lb ed="#B" n="4"/>tam recipiat quolibet anno quindecim libras Turonem. hic intra nouem annos recipiet fortem, &amp; decem libras 
+       <lb ed="#B" n="5"/>Turonem. vltra. Quid refert recipere istas decem libras Turonem. vltra fortem, quolibet anno recipiendo por 
+       <lb ed="#B" n="6"/>tionem aliquam fortis secundum praedictam pactionem, &amp; recipere in nono anno simul totam fortem &amp; decem libras Tur. 
+       <lb ed="#B" n="7"/>vltra sub tali pactione: quod det aliquis modo alicui centum libras Turon. recepturus pro eis post nouemannos cum 
+       <lb ed="#B" n="8"/>tum libras Parisien. cum decem libris Turon: Reuera in nullo refert. immo videtur maioris pietatis totum ac- 
+       <lb ed="#B" n="9"/>commodare vsque ad nouem annos: quam singulis annis infra portionem recipere, tamen in isto vltimo contractu expressa &amp; 
+       <lb ed="#B" n="10"/>manifesta est vlura: secundum praedictum modum vsurariae conmutationis: multo fortius &amp; in isto contractu ergo quo  
+       <lb ed="#B" n="11"/>redditus emuntur ad vitam, expectando aliquid recipere vltra fortem: si forte supuixerit receptionem fortis. Sola eim 
+       <lb ed="#B" n="12"/>spe &amp; expectatione plus recipiendi, etsi aliquid numquam reciperetur de forte, vsurae tamen iniquitas in voluntate cu- 
+       <lb ed="#B" n="13"/>pida committitur. ldem est si pro certa summa pecuniae ab ecclesiis vel communitatibus pesiones accipiantur ad vi 
+       <lb ed="#B" n="14"/>tam, spe &amp; expectatione recipiendi aliquid vltra fottem. hoc enim solum facit vsuram, quod vltra datum aliquid speratur 
+       <lb ed="#B" n="15"/>secundum quod aparte dicit Gaufredus in summa sua. Quid, inquit, de quibusdam qui daemt pecuniam ecclesiis, &amp; ab eis reci 
+       <lb ed="#B" n="16"/>piunt certas pensiones tenendas toto tempore vitae suae: credo (dicit ipse, quod illicitus est contractus: eo quod diu ho 
+       <lb ed="#B" n="17"/>mines sperant viuere: &amp; sic taliter contrahentes credunt se amplius percepturos de prouentibus pensionum quam  
+       <lb ed="#B" n="18"/>sit pecunia quam dederunt. Sola autem spe contrahitur vitium vsurarium. Et Glossator summae Raymundi dicit. 
+       <lb ed="#B" n="19"/>Quid inquit de illis qui a communitatibus ciuitatum vel a monasteriis emunt certos annuos redditus ad vitam suan: 
+       <lb ed="#B" n="20"/>nunquid est vsura: Respondeo, dicit. Non est vsura ex forma contractus: cum tamen huiusmodi redditus annuus personalis sit 
+       <lb ed="#B" n="21"/>siue bursalis non praedialis. Credo tamen quod licet quidam legistae dicant contrarium: quod illicitus est contractus. &amp; subdit 
+       <lb ed="#B" n="22"/>causas suas, dicens quod venditor facile posset desiderare mortem emptori, vt sic liberatus esset. tum quia nullum est 
+       <lb ed="#B" n="23"/>emptoris periculum. Nec solum dico quod est contractus illicitus: sed quod est expresse ex fora sua contractus vsurarius: vt 
+       <lb ed="#B" n="24"/>patet ex natura contractus vsurarii. Nec debet fora huius contractus, in genere cuius contractus iniqui sit, peti a lu 
+       <lb ed="#B" n="25"/>ristl sed magis a Theologis &amp; Philosophis: cum sit iniquitas contra legem iurl diuini &amp; naturae: vt dictum est. Aliter enim 
+       <lb ed="#B" n="26"/>vsuram non danmnarent philosophi: nec dicerent eam esse opus vitii: sicut eam danmnat <name ref="#Aristotle">Philosophus</name> cum dicit in quarto Ethicorum. Secun 
+       <lb ed="#B" n="27"/>dum acceptionem inquit abundant in vndique accipiendo &amp; omne quid praesent: puta illiberales operationes operantes omnes vsu 
+       <lb ed="#B" n="28"/>rarii: &amp; in gruo &amp; in multo, omnes enim isti vnde non opertet accipiunt &amp; quantum non opertet. Sed quid ad propositum ad for 
+       <lb ed="#B" n="29"/>mam contractus quo peccat emptor si venditor desiderat eius mortem: certe nihil. Item quod nullum est pariculum enim 
+       <lb ed="#B" n="30"/>ptori nihil ad propositum: quia etsi adsit periculum: non tamen excusat vsuram: vt expresse dicit illa Decretalis. Naui 
+       <lb ed="#B" n="31"/>gantibus ad nundinas. Item numquid magnum est emptori priculum quod cito mori possit, &amp; amittere fortem &amp; lucrunt 
+       <lb ed="#B" n="32"/>&amp; tamen hoc non excusat vsuram quae est propter solam spe &amp; intentionem plus percipiendi: si forte contingeret superui 
+       <lb ed="#B" n="33"/>uere. Esto ei quod facit vsurarius contractum sub tali pacto: accommodo tibi decem libr. Parisien. vt reddas mi 
+       <lb ed="#B" n="34"/>hi in fine anni duodecim: quod si interim moriar, nihil reddas alicui ex parte mea: &amp; fors ipsa etiam sit tua, num- 
+       <lb ed="#B" n="35"/>quid est plana vsura propter spem supuiuendi &amp; amplius percipiendi: non obstante dubio mortis: certe ita. 
+       <lb ed="#B" n="36"/>Contractus ergo ille in quo emuntur redditus ad vitam vt praedictum est: cum sit idem in forma cum isto vt visum est:  
+       <lb ed="#B" n="37"/>simpliciter est vsurarius: nec in aliquo excusatur propter dubium mortis in emente. 
+      </p>
+      <p xml:id="n3av8a-c1e604-d1e372">
+       QVod arguitur in contrarium 
+       <lb ed="#B" n="38"/>quod sancti viri religiosi &amp; sapientes dant consilium emendi tales redditus religiosis foeminis vt beguinis: Di 
+       <lb ed="#B" n="39"/>co &amp; firmiter credo: quod si tale consilium dant in hoc sapientes non sunt: sed ignorantia iuris naturalis in vsura 
+       <lb ed="#B" n="40"/>rio contractu decepti decipiunt animas. immo vt verius credo: licet forte aliquando in hoc deceperit: in longo tem- 
+       <lb ed="#B" n="41"/>pore non fecerunt: nec facient decaetero iam melius instructi. Et forte licet mulierculae ad suae cupiditati 
+       <lb ed="#B" n="42"/>excusationem tale consilium a religiosis se accepisse dicant: mentiuntur in hoc.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="102-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1425">
+      <head xml:id="n3av8a-c1e1425-Hd1e96">Quaestio 11</head>
+      <p xml:id="n3av8a-c1e1425-d1e99">
+       <lb ed="#B" n="12"/>CIrca secundum arguitur: quod deus non possit diligi super omnia dilectione naturali, quia 
+       <lb ed="#B" n="13"/>dicit <name ref="#Aristotle">philosophus</name> in octauo Ethicorum. Amicabilia ad alterum procedunt ex eis quae  
+       <lb ed="#B" n="14"/>sunt amicabilia ad seipsum. sed origo amicitiae semper magis diligitur. ergo dilectio 
+       <lb ed="#B" n="15"/>semper maior est cuiuscumque ad seipsum quam ad alterum: &amp; sic plus quam seipsum nullus potest 
+       <lb ed="#B" n="16"/>diligere deum.
+      </p>
+      <p xml:id="n3av8a-c1e1425-d1e116">
+       CONtra. bonum per se &amp; naturaliter est diligibile. ergo magis bo- 
+       <lb ed="#B" n="17"/>num magis: &amp; maxime siue summe bonum, maxime siue summe est diligibile naturali  
+       <lb ed="#B" n="18"/>ter. deus est bonum huiusmodi, &amp; naturali dilectione diligitur bonum secundum quod 
+       <lb ed="#B" n="19"/>naturaliter diligibile. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1425-d1e125">
+       HIC oportet primo videre quid sit dilectio siue amor. Secundo qui  
+       <lb ed="#B" n="20"/>sunt gradus dilectionis siue amoris. Tertio quae sit differentia dilectionis naturalis &amp; liberalis siue vo 
+       <lb ed="#B" n="21"/>luntariae. Et ex hoc Quarto quomodo sunt duae species dilectionis. Quinto oportet videre modos dili 
+       <lb ed="#B" n="22"/>gendi: &amp; tunc demum per singulos discurrere: vt videamus quo vel quibus eorum deus diligi vel non di  
+       <lb ed="#B" n="23"/>ligi possit super omnia.
+      </p>
+      <p xml:id="n3av8a-c1e1425-d1e136">
+       CIRca primum sciendum: quod amor seu dilectio est inclinatio vel motus in bo 
+       <lb ed="#B" n="24"/>num. Bonum enim est proprium obiectum dilectionis: ita quod omnis dilectio est boni: &amp; quod nihil diligi- 
+       <lb ed="#B" n="25"/>tur nisi bonum: &amp; quod omne bonum quantum est ex se, diligibile est: ita quod dilectio simpliciter sit motus si 
+       <lb ed="#B" n="26"/>ue inclinatio in bonum. Dicente <name ref="#Augustine">Augustino</name> super psalmum nonum. Amore mouetur tanquam ad locum: ita 
+       <lb ed="#B" n="27"/>quod semper moueatur in ipsum: nisi habet impedimentum motus: quod non est nisi vnicum in dilectione  
+       <lb ed="#B" n="28"/>pure naturali: quae est absque cognitione, &amp; non est nisi appetitus quidam naturalis. Illud autem est com 
+       <lb ed="#B" n="29"/>trarium prohibens: secundum quod terrae nascens naturali amore inclinatur in actum pullulandi &amp; ger 
+       <lb ed="#B" n="30"/>minandi, quod est bonum suum, &amp; opus suae perfectionis. sed quandoque impeditur calor viuisicus quo  
+       <lb ed="#B" n="31"/>actus huiusmodi habet exequi, per frigus contrarium. Similiter graue naturali dilectione inclinatur deor  
+       <lb ed="#B" n="32"/>sum: tanquam vbi esse est sibi bonum &amp; perfectum: sed impeditur a determinante sursum, &amp; motum eius pro  
+       <lb ed="#B" n="33"/>hibente. In dilectione vero quae est per cognitionem, est duplex impedimentum motus, scilicet ignoram 
+       <lb ed="#B" n="34"/>tia boni in quod esset mouendum. Dilectio enim per cognitionem non mouetur nisi in cognitum vel 
+       <lb ed="#B" n="35"/>apprehensum. secundum quod determinat <name ref="#Augustine">Augustinus</name> nono de Trinitate vt iam dicetur. Vel violentia 
+       <lb ed="#B" n="36"/>aliqua metus, aut timoris, aut alicuius alterius: quae impedit motum exteriorem: licet non motum de-  
+       <lb ed="#B" n="37"/>siderii interiorem, qui est vel in bonum non habitum vt adipiscatur: vel in bonum habitum: &amp; hoc vel fruibi- 
+       <lb ed="#B" n="38"/>le: vt eo delectabiliter fruatur: vel visibile: vt ad operandum vel obtinendum id quo fruendum est, eo vta 
+       <lb ed="#B" n="39"/>tur, secundum quod patet ex definitionibus frui &amp; vti. Et secundum hoc sunt diuersi gradus dilectionis 
+       <lb ed="#B" n="40"/>quibus motus sit in bonum dupliciter: vel per impetum naturae cui non potest resistere motum: vel 
+       <lb ed="#B" n="41"/>per libertatem electionis. Motus in bonum primo modo est dilectionis naturalis, vt naturalis est, tam 
+       <lb ed="#B" n="42"/>in inanimatis &amp; insensibilibus: in quibus dilectio naturalis nihil aliud est quam naturalis inclina-  
+       <lb ed="#B" n="43"/>tio siue appetitus in sibi bonum &amp; conueniens: quam in animatis sensibilibus irrationalibus: vt in bru- 
+       <lb ed="#B" n="44"/>tis: in quibus motus naturalis, licet sit cum aliqua praecedenti cognitione: tamen vt vult loannes Da- 
+       <lb ed="#B" n="45"/>mascenus, in suis appetitibus plus aguntur quam agant. Vnde de appetitu duplici naturali in istis dicit 
+       <lb ed="#B" n="46"/>commentator super finem primi Physico. Appetitus alius est naturalis sine sensu: vt appetitus plan- 
+       <lb ed="#B" n="47"/>tarum ad nutrimentum: &amp; alius cum sensu: vt appetitus an imalium ad nutrimentum. Motus in bo- 
+       <lb ed="#B" n="48"/>num per libertatem electionis, est dilectionis liberalis vel deliberatiuae: &amp; est solum in mouentibus se &amp; 
+       <lb ed="#B" n="49"/>appetentibus aliquid per liberum arbitrium in omnibus talibus. Et quia motus dilectionis naturalis est per impe 
+       <lb ed="#B" n="50"/>tum naturae, dilectio naturalis est quasi pondus naturaliter inclinans ad motum: quemadmodum gra 
+       <lb ed="#B" n="51"/>ue inclinat deorsum. Et ideo <name ref="#Augustine">Augustinus</name> naturalem dilectionem comparat ponderi: cum dicit libro 
+       <lb ed="#B" n="52"/>Confessionum. Amor meus pondus meum: eo feror quocumque feror. Motus autem dilectionis liberalis 
+       <lb ed="#B" n="53"/>est quasi pes, voluntarie se extendens ad processum &amp; ad prosequendum bonum conueniens. Et ideo Au- 
+       <lb ed="#B" n="54"/>gustinus liberalem dilectionem comparat pedi. secundum quod dicit <name ref="#Augustine">Augustinus</name> super illud psal, noni. Com- 
+       <!--244.xml-->
+       <pb ed="#B" n="102-r"/>
+       <lb ed="#B" n="1"/>prehensus est pes eorum. Pes animae recte intelligitur amor. Ex quo patet quod dilectio naturalis &amp; deli- 
+       <lb ed="#B" n="2"/>beratiua differunt sicut impetuosum &amp; liberum ad motum. 
+      </p>
+      <p xml:id="n3av8a-c1e1425-d1e228">
+       PAtet etiam quomodo sunt duae speci 
+       <lb ed="#B" n="3"/>es dilectionis distinctae penes modos inclinationis &amp; motus in bonum. Non ergo de illa quae naturalis est 
+       <lb ed="#B" n="4"/>absque cognitione, neque de illa quae naturalis ex cognitiua sensitiua: sed de illa quae naturalis est ex cogni 
+       <lb ed="#B" n="5"/>tione rationali siue intellectiua: quae appellatur dilectio voluntatis vt natura est: &amp; per hoc etiam de illa 
+       <lb ed="#B" n="6"/>quae est voluntatis, est praesens quaestio pertractanda: vt libera vel deliberatiua. Cuius species &amp; mo- 
+       <lb ed="#B" n="7"/>dos oportet subdistinguere non penes modum mouendi se in bonum vt in obiectum: quia ille non est 
+       <lb ed="#B" n="8"/>nisi vnicu scilicet per impetum: sed penes modos boni in quod voluntas mouetur vt natura. Et est huiusmodi di 
+       <lb ed="#B" n="9"/>stinctio necessaria ad propositum: quiaicomperatio in diligendo aliquid naturaliter super alia diuersificatur secumn 
+       <lb ed="#B" n="10"/>dum diuersitatem bonorum quae diliguntur naturaliter, &amp; secundum rationes diligibilis in eis, &amp; mo 
+       <lb ed="#B" n="11"/>dos diligendi: vt patebit in prosequendo. 
+      </p>
+      <p xml:id="n3av8a-c1e1425-d1e250">
+       SCIENdum igitur: quod nihil diligitur siue amatur per se ni 
+       <lb ed="#B" n="12"/>si bonum simpliciter dilectione naturali. Natura enim non est nisi ad bonum simpliciter: licet voluntas vt 
+       <lb ed="#B" n="13"/>libera se habeat indifferenter ad bonum simpliciter &amp; apparens. Quod bonum simpliciter naturaliter di 
+       <lb ed="#B" n="14"/>ligibile ab aliquo, duplex est. Aut bonum simpliciter &amp; absolute quod simpliciter diligitur naturaliter: quia 
+       <lb ed="#B" n="15"/>bonum simpliciter: aut bonum simpliciter sibi quod diligitur naturaliter: quia est bonum ipsi qui di-  
+       <lb ed="#B" n="16"/>ligit. Et vtrunque horum potest diligi dupliciter vel afficiendo vel appetendo. Primo modo diligitur bo 
+       <lb ed="#B" n="17"/>num quod ipsum est: &amp; dicitur dilectio beneplacentiae. Secundo modo diligitur aliquid ad hoc vt sit illi bo 
+       <lb ed="#B" n="18"/>num: &amp; dicitur dilectio beniuolentiae. omnis. nm creatura intellectualis voluntaria voluntate naturali si- 
+       <lb ed="#B" n="19"/>ue vt natura est, diligit bonum quia bonum in illo sibi complacendo. sic diligit etiam esse suum, &amp; natu-  
+       <lb ed="#B" n="20"/>ram suam: diligit etiam vtrunque vtrique bonum volendo. Cum igitur quaeritur, vtrum dilectione natu  
+       <lb ed="#B" n="21"/>rali deus possit diligi super omnia: diuersimode respondendum est secundum diuersas species dilectio 
+       <lb ed="#B" n="22"/>nis naturalis, &amp; diuersa bona diligenda naturaliter. Sed quia tali dilectione, voluntatis, scilicet natu-  
+       <lb ed="#B" n="23"/>ralis, vt natura est, nihil potest diligi nisi cognitum: dicente <name ref="#Augustine">Augustino</name> octauo de Trinitate capitulo 
+       <lb ed="#B" n="24"/>quinto. Quis diligit quod ignorat: sciri enim aliquid &amp; non diligi potest. Diligi autem quod nescitur quaero 
+       <lb ed="#B" n="25"/>vnde possit: Et libro decimo capitulo primo. Quod quisque prorsus ignorat: amare nullo modo potest, Deus 
+       <lb ed="#B" n="26"/>igitur si diligitur, hoc est secundum quod cognoscitur &amp; scitur. Sed cognitio de deo duplex est. Vna in particu 
+       <lb ed="#B" n="27"/>lari: qua cognoscitur quod sit singularitas quaedam quae est ipsum necesse esse absolute: &amp; hoc ex creaturis se 
+       <lb ed="#B" n="28"/>cundum modum quem exposuimus in quaestionibus de esse &amp; vnitate dei: aut qua cognoscitur cum 
+       <lb ed="#B" n="29"/>hoc quod sit finis beatificans creaturam intellectualem. &amp; hoc vel nunc per fidem &amp; in aenigmate: vel in vi 
+       <lb ed="#B" n="30"/>ta gloriosa ab omnibus beatis per speciem nudae essentitiae suae, secundum modum quem iam supra expo 
+       <lb ed="#B" n="31"/>suimus in quaestionibus de modo sciendi. De cognitione siquidem dei in particulari vel per fidem vel per 
+       <lb ed="#B" n="32"/>speciem, propriam vel per speciem creaturae, nihil ad propositum: quia omnis talis cognitio dirigit solum 
+       <lb ed="#B" n="33"/>modo dilectionem deliberatiuam qua diligendus est deus in speciali: sicut illa cognitio est in speciali de 
+       <lb ed="#B" n="34"/>qua non erat principalis intentio quaestionis ( de hoc tamen infra aliquantuium videbitur) non autem  
+       <lb ed="#B" n="35"/>naturalem: nisi inquantum ipsa dilectio naturalis ab illa praesupponitur &amp; perficitur per deliberatiuam:  
+       <lb ed="#B" n="36"/>sed solummodo ad propositam quaestionem pertinet cognitio dei in creaturis aut in seipso: quae dirigit 
+       <lb ed="#B" n="37"/>dilectionem pure naturalem qua cognoscitur in vniuersali deus solummodo: vt dictum est: sicut &amp; di-  
+       <lb ed="#B" n="38"/>lectione pure naturali non habet diligi nisi dilectione in vniuersali. Eodem enim cursu currunt dilectio &amp; co 
+       <lb ed="#B" n="39"/>gnitio circa deum. &amp; sic de dilectione qua deus diligitur in vniversali, solummodo habet locum quaestio. Dilectione 
+       <lb ed="#B" n="40"/>enim in particulari nullo modo diligitur pura naturali dilectione, &amp; sic in particulari dilectione nulla pu 
+       <lb ed="#B" n="41"/>re naturali potest deus diligi super omnia: sed in vniuersali quadam dilectione naturali super omnia diligi 
+       <lb ed="#B" n="42"/>potest, &amp; quadam alia non, vt iam dicetur. Sl ergo quaestio de dilectione dei naturali super omnia alia 
+       <lb ed="#B" n="43"/>intelligatur de dilectione beneplacentiae: cum huiusmodi dilectione diligatur bonum simpliciter quia  
+       <lb ed="#B" n="44"/>bonum: &amp; nuilum bonum participatum diligitur nisi quia in ipso est participata aliqua ratio boni sim- 
+       <lb ed="#B" n="45"/>pliciter: quae perfecte habet esse in solo primo bono quod deus est: gratia cuius illud bonum participatum  
+       <lb ed="#B" n="46"/>diligitur tanquam gratia eius quod est in se per se &amp; primo dilectum, &amp; cuius cognitione bonum partici 
+       <lb ed="#B" n="47"/>patum cognoscitur esse bonum, tanquam illo quod in se est per se &amp; primo cognitum: vt patet plane ex di 
+       <lb ed="#B" n="48"/>ctis Augustini: quo ad cognitionem veri. octauo de Trinitate capitulo tertio, &amp; libro nono capit. sexto 
+       <lb ed="#B" n="49"/>&amp; septimo, &amp; quo ad amorem boni libro octauo capitulo tertio &amp; sexto. Vera est autem illa regula 
+       <lb ed="#B" n="50"/>generalis, Si simpliciter ad simpliciter &amp;c. Et similiter illa: propter quod vnumquidque tale, &amp; illud magis. Idcirco 
+       <lb ed="#B" n="51"/>igitur absolute dicendum est: quod dilectione naturali beneplacentiae deus diligitur a quacunque voluntate 
+       <lb ed="#B" n="52"/>intellectualis creaturae naturaliter super omnia alia inquantum. scilicet est bonus simpliciter, &amp; quia bonus est 
+       <lb ed="#B" n="53"/>&amp; ratio diligendi omnis alterius boni, &amp; bonum vel, cuiuscunque aliud bonum est quasi pars: &amp; sic quilibet 
+       <lb ed="#B" n="54"/>diligit magis bonum quod deus est: &amp; quia bonum est dilectione naturali complacentiae: quam bonum quod ipse 
+       <!--245.xml-->
+       <pb ed="#B" n="102-v"/>
+       <lb ed="#B" n="1"/>met diligens est: &amp; quia ipse illud est: quoniam non diligit bonum quod ipse est: &amp; quia ipse est: nisi quia habet aliquam 
+       <lb ed="#B" n="2"/>rationem boni simpliciter: quae primo diligitur: et in illa bonum quod deus est. ita quod in bono simpliciter quia 
+       <lb ed="#B" n="3"/>bonum nullo modo potest habere displicentiam. Potest. enm contingere quod sibi non complaceat in suo bono  
+       <lb ed="#B" n="4"/>propter displicentiam annexam ei alicuius quid odit sibi adesse, &amp; propter illud occidit se. secundum quod dicit 
+       <lb ed="#B" n="5"/>philosophus in nono Ethicorum. Quibus multa &amp; dura operata sunt, &amp; propter malitiam odiuntur, fugiunt viuere 
+       <lb ed="#B" n="6"/>&amp; interimunt seipsos. Idem in tertio Politicae. Inest aliqua boni particula: &amp; secundum ipsum viuere solum 
+       <lb ed="#B" n="7"/>si non diris secundum vitam excedatur valde. Palam autem quo perseuerant multa mala sustinentes multi homi- 
+       <lb ed="#B" n="8"/>num inuiscati ad viuere tanquam existente quodam solatio in ipso &amp; dulcedine naturali. 
+      </p>
+      <p xml:id="n3av8a-c1e1425-d1e371">
+       SED est aduer- 
+       <lb ed="#B" n="9"/>tendum quod dilectio dicta naturalis qua deus diligitur super omnia, est valde imperfecta: &amp; habet perfici 
+       <lb ed="#B" n="10"/>per dilectionem deliberatiuam, quae sequitur cognitionem dei in creaturis in speciali: &amp; hoc quo ad bo- 
+       <lb ed="#B" n="11"/>na moralia: &amp; cum informata fuerit charitate, quo ad bona gratuita. secundum quod dicit <name ref="#Augustine">Augustinus</name> octauo 
+       <lb ed="#B" n="12"/>de Trinitate cap, quarto. Tunc voluntas naturae congruit vt perficiatur in bono animus, cum illud bonum  
+       <lb ed="#B" n="13"/>diligitur conuersione voluntatis. vnde est &amp; illud quod non amittitur nisi auersione voluntatis. Sic ergo pa 
+       <lb ed="#B" n="14"/>tet quod dilectione naturali beneplacentiae deus naturaliter diligitur super omnia. Cum enim post deum 
+       <lb ed="#B" n="15"/>diligit quaelibet natura se super alia a se: quia bonum alterius non est ratio boni quod ipse est: necesse est quod  
+       <lb ed="#B" n="16"/>diligendo dilectione naturali complacentiae deum supra se diligat etiam post deum dilectione compla- 
+       <lb ed="#B" n="17"/>centiae se super alia a se. Et vlterius quia in dilectione amicitiae &amp; beniuolentiae nihil diligitur, nisi secundum ra- 
+       <lb ed="#B" n="18"/>tionem alicuius complacentiae: sequitur quod plus diligat deum naturali dilectione complacentiae, quam etiam di 
+       <lb ed="#B" n="19"/>ligat se, aut alium dilectione amicitiae aut beniuolentiae. Sed vtrum dilectione naturali amicitiae &amp; beniuo- 
+       <lb ed="#B" n="20"/>lntiae deus diligatur super omnia, non est ex hoc manifestum: quia nec est in se manifestum vtrum tali di-  
+       <lb ed="#B" n="21"/>lectione absolute diligendus sit. 
+      </p>
+      <p xml:id="n3av8a-c1e1425-d1e405">
+       ET est dicendum: quod cum amicitia secundum <name ref="#Aristotle">philosophum</name> quaerat aequalitatem: &amp; nimia 
+       <lb ed="#B" n="22"/>distantia amicitiam corrumpit: proprie loquendo deus nullo modo diligendus est dilectione amicitiae: quia  
+       <lb ed="#B" n="23"/>non decet eum. Sic ergo proprie loquendo dilectione deliberatiua amicitiae nulla creatura diligit deum:  
+       <lb ed="#B" n="24"/>quare multo fortius nec dilectione naturali amicitiae: cum dilectio deliberatiua perficiat naturalem: 
+       <lb ed="#B" n="25"/>&amp; ita nec dilectione amicitiae proprie dictae diligitur deus naturaliter super omnia. Nec sequitur propter 
+       <lb ed="#B" n="26"/>hoc quod dilectio naturalis amicitiae est peruersa, &amp; per charitatem non perficiatur: sed destruatur: immo 
+       <lb ed="#B" n="27"/>ipsam manentem in statu suo perficit, etiam illam quam habet homo ad seipsum respectu aliorum. quoniam or 
+       <lb ed="#B" n="28"/>dinata charitas a seipso incipit. Deo autem propter eminentiam bonitatis suae debetur maior dilectio quam sit ami 
+       <lb ed="#B" n="29"/>citiae proprie dictae. &amp; hoc quemadmodum secundum philosophum, felicitati non debetur laus: sed honor: quod est aliquid  
+       <lb ed="#B" n="30"/>maius. Et sic dilectio amicitiae &amp; naturalis &amp; deliberatiua recta est non peruersa in non diligendo plus 
+       <lb ed="#B" n="31"/>quod non tenetur omnino huiusmodi dilectione diligere. Non enim omnibus eadem &amp; aequalis debetur dilectio 
+       <lb ed="#B" n="32"/>vt amicis, cognatis, parentibus, &amp; diis: vt expresse dicit philosophus. Et sic charitas dilectionem amicitiae non de-  
+       <lb ed="#B" n="33"/>struit: sed perficit vbi eam inuenit scilicet in hominibus: vt ille qui diligebatur dilectione pure naturalis ami- 
+       <lb ed="#B" n="34"/>citiae vel deliberatiuae, diligatur &amp; charitatiue ad maius bonum quam diligi posset amicabiliter sine chari 
+       <lb ed="#B" n="35"/>tate: vt dicit <ref xml:id="n3av8a-c1e1425-Rd1e440">Augustinus octauo de Trinitate cap. vi.</ref> reducendo dilectionem amicitiae ad dilectionem charitatis. 
+       <lb ed="#B" n="36"/>Qui amat homines: aut quia iusti sunt, aut vt iusti sint amare debet. sic enim &amp; seipsum amare debet: aut quia  
+       <lb ed="#B" n="37"/>iustus est: aut vt iustus sit. Sic enim diligit proximum suum sine vllo periculo. Et dicit in tertio libro de Acad. ca. x. 
+       <lb ed="#B" n="38"/>Mecum est familiarissimus amicus meus non solum probabilitate humanae vitae. ecce dilectio amicitiae 
+       <lb ed="#B" n="39"/>verum etiam de religione ipsa concordat: quod est veri amici manifestum indicium. Sic quidem amicitia re- 
+       <lb ed="#B" n="40"/>ctissime atque sanctissime definita est rerum humarum &amp; diuinarum cum beniuolentia &amp; charitate con 
+       <lb ed="#B" n="41"/>sensio. 
+      </p>
+      <p xml:id="n3av8a-c1e1425-d1e457">
+       ET secundum hoc ad quaestionem quantum pertinet ad hanc speciem dilectionis: Dicendum quod dilectio 
+       <lb ed="#B" n="42"/>ne naturali amicitiae vt est proprie dicta amicitia, deus non diligitur super omnia: quia nec decens est 
+       <lb ed="#B" n="43"/>vt sic diligiat scilicet quasi par &amp; aequalis: sicut nec debet diligi dilectione vtilis, sed fruibilis. 
+      </p>
+      <p xml:id="n3av8a-c1e1425-d1e464">
+       SI vero quaestio 
+       <lb ed="#B" n="44"/>intelligatur de dilectione naturali beniuolentiae: Dicendum quod cum ista dilectio si proprie accipiatur 
+       <lb ed="#B" n="45"/>conspiciat bonum quidquis vult sibi &amp; alteri quod non est ipse: aut quod non habet in se: &amp; talis dilectio vere 
+       <lb ed="#B" n="46"/>pedissequa est dilectionis amicitiae proprie dictae. Sicut enim dilectione amicitiae diligit primo &amp; per se 
+       <lb ed="#B" n="47"/>seipsum &amp; extendit ex se huiusmodi dilectionem ad alium: sicut dictum est: diligendo primo bonum quod ipse 
+       <lb ed="#B" n="48"/>est in natura &amp; essentia sua: &amp; deinde bonum quid est alius: sic dilectione beniuolentiae primo vult sibi 
+       <lb ed="#B" n="49"/>bonum quod non est ipse: deinde alteri. Vnde dicit philosophus. Omnis intellectus eligit optimum sibi. 
+       <lb ed="#B" n="50"/>vbi dicit commentator. Per se naturaliter proprie loquendo: sicut deo non debetur dilectio amicitiae, sic 
+       <lb ed="#B" n="51"/>nec beniuolentiae. Quodammodo tamen debemus deo dilectionem beniuolentiae &amp; amicitiae: quia se- 
+       <lb ed="#B" n="52"/>cundum superabundantiam in omni modo dilectionis debemus habere ad deum dilectionem beniuolentiae. s 
+       <lb ed="#B" n="53"/>volendo ei bonum: immo optima bona. &amp; hoc vel volendo ei bonum quod ipse est scilicet volendo eum esse sum 
+       <lb ed="#B" n="54"/>mum bonum, vel volendo ei bonum quod non est ipse: non quia aliquibus bonis aliis a se egeat: sed quia 
+       <!--246.xml-->
+       <pb ed="#B" n="103-r"/>
+       <lb ed="#B" n="1"/>deceat vt omnis creatura ea ei ascribat &amp; exhibeat: &amp; in eis pro susceptis beneficiis debitum pro posse 
+       <lb ed="#B" n="2"/>reddat. Et similiter diligendus est superexcellenti amicitia: propter quod dicit <name ref="#Aristotle">philosophus</name> octauo Ethi 
+       <lb ed="#B" n="3"/>corum in fine loquens de amicitia analogiae: quae est secundum superabundantiam: secundum quod in se compre- 
+       <lb ed="#B" n="4"/>hendit dilectionem beniuolentiae. Possibile amicitia requirit non secundum dignitatem: non enim est pos 
+       <lb ed="#B" n="5"/>sibile in omnibus: quemadmodum in his quae ad deos &amp; parentes. Nullus enim secundum dignitatem aliquan-  
+       <lb ed="#B" n="6"/>do retribuet: secundum potentiam autem famulans epiices esse videtur. Tali ergo naturali dilectione ami 
+       <lb ed="#B" n="7"/>citiae &amp; beniuolentiae deus diligitur super omnia. Vniuersaliter enim quicquid recta ratione consulente 
+       <lb ed="#B" n="8"/>plus diligibile est aliis in quocumque genere dilectionis, hoc plus diligit voluntas naturalis vt natura est: 
+       <lb ed="#B" n="9"/>&amp; hoc inclinatione naturali absque omni motu inclinante in illud: dum diligibile nullam penitus habet 
+       <lb ed="#B" n="10"/>notitiam: &amp; inclinatione flexa in motum secundum gradum &amp; modum cognitionis, dum aliquam no-  
+       <lb ed="#B" n="11"/>titiam diligibilis accepit. Ita quod appetitus naturae vt natura est, semper est in melius simpliciter. cui si 
+       <lb ed="#B" n="12"/>voluntas deliberata concordaret, semper quod melius est eligeret &amp; magis diligeret. ad quod etiam eam 
+       <lb ed="#B" n="13"/>dirigit charitas perducendo eam perfecte ad id in quo natura se inclinat: sed motu proprio perduce- 
+       <lb ed="#B" n="14"/>re non potest. Et secundum hoc dicendum est in summa, quod non solum dilectione deliberatiua informata charitate de-  
+       <lb ed="#B" n="15"/>us a creatura intellectuali diligitur super se &amp; super omnia alia: verunetiam dilectione beneplacentiae 
+       <lb ed="#B" n="16"/>naturali, non solum pro statu naturae integrae: sed etiam nunc corruptae. In quocumque enim statu natura 
+       <lb ed="#B" n="17"/>habeat esse, semper eodem motu naturalis dilectionis fertur in deum siue in bonum, secundum quod bo 
+       <lb ed="#B" n="18"/>num: licet ex quacunque corruptione naturae aliquantulum in suo motu remittatur: ne ita perfecte vel 
+       <lb ed="#B" n="19"/>intense in bonum simpliciter feratur: &amp; in hoc etiam dilectione amicitiae supereminentis. i. diligendo  
+       <lb ed="#B" n="20"/>in deo bonum quid ipse est, plusquam in seipso quod ipse est: &amp; plus quia dei bonum est, quam quia suipsius bonum est: 
+       <lb ed="#B" n="21"/>ita quod si oporteret alterutrum ipsorum detrimentum pati, potius vellet detrimentum boni quod ipse est, quam quid  
+       <lb ed="#B" n="22"/>dei est: &amp; se opponeret inferenti nocumentum bono quod deus est: quam bono quod ipse est, &amp; optaret seruari 
+       <lb ed="#B" n="23"/>bonum quod deus est, quam bonum quod ipse est. Et similiter super omnia diligitur dilectione beniuolentiae scilicet vo 
+       <lb ed="#B" n="24"/>lendo deo, &amp; appetendo optima bona &amp; potiora quam sibiipsi secundum modum iam dictum. Vnde si esset possibile 
+       <lb ed="#B" n="25"/>dilectione recta voluntatis deliberatiuae deum diligi dilectione amicitiae proprie dictae, aut per se dilectio 
+       <lb ed="#B" n="26"/>ne vtilis aut delectabilis, secundum hos etiam modos, aut quoscumque alios si essent plures: cum similiter 
+       <lb ed="#B" n="27"/>de eisdem modis dilectione pure naturali diligeretur super omnia: ita quod si sit aliqua dilectio, qua non  
+       <lb ed="#B" n="28"/>diligitur super omnia, hoc non contingit nisi quia illo modo non est diligibilis. &amp; hoc aut propter 
+       <lb ed="#B" n="29"/>excellentiam: quia dilectio illa non attingit ad tam arduum: vt est dilectio amicitiae proprie di-  
+       <lb ed="#B" n="30"/>ctae: aut propter indecentiam: quia indignum est deum huiusmodi dilectione diligi: vt est dilectio de-  
+       <lb ed="#B" n="31"/>lectabilis vel vtilis: aut quod magis impossibile est, dilectione cupiditatis alicuius. Ex quo patet, quod fi 
+       <lb ed="#B" n="32"/>omnis dilectio deliberatiua dilectioni naturali congrueret, sicut congruit in omni statu in quo natu  
+       <lb ed="#B" n="33"/>ra est sine peccato: ordinata semper esset: &amp; deum super omnia diligeret. Propter quod dixit Tullius in  
+       <lb ed="#B" n="34"/>libro primo de officiis in persona philosophorum. Propositum nostrum est secundum naturam viuere. Quod re 
+       <lb ed="#B" n="35"/>uera bonum erat: &amp; ad gratiam charitatis ordinans. Sed propositum perfectissimum est secundum cha 
+       <lb ed="#B" n="36"/>ritatem viuere: quid est bonorum christianorum. Cum vero deprauata per vitium naturae non congru 
+       <lb ed="#B" n="37"/>it, tunc illo vel illis fruitur quae sunt obiecta sui peccati. Et ideo dilectione deliberatiua pro tali sta- 
+       <lb ed="#B" n="38"/>tu deum super omnia diligere non potest: &amp; hoc, quia deliberatiua dilectio determinata sequitur no 
+       <lb ed="#B" n="39"/>titiam determinatam illorum, qua stante in actum, non potest deum diligere super illa: nisi retrahendo ab illis amorem: 
+       <lb ed="#B" n="40"/>vt diligat illa sub deo. Super omnia vero alia quibus per talem fruitionem non inhaeret, dilectione delibe- 
+       <lb ed="#B" n="41"/>ratiua sicut &amp; naturali deum diligere potest. Sic ergo absolute concedendum, quod deus naturaliter di-  
+       <lb ed="#B" n="42"/>ligitur super omnia. Sed dilectione aliqua. scilicet dilectione amicitiae &amp; beniuolentiae proprie dicta: quae circa deum 
+       <lb ed="#B" n="43"/>non se extendunt diligit vnusquisque seipsum super caetera. Vnde voluntas rationalis in omnibus actionibus 
+       <lb ed="#B" n="44"/>suis, etiam quando iubetur bona aliqua proiicere &amp; mala sustinere: hoc facit propter sibi optimum quod eli 
+       <lb ed="#B" n="45"/>git. secundum quod dicit <ref xml:id="n3av8a-c1e1425-Rd1e594">philosophus in. ix. Ethicorum</ref>. Omnis intellectus eligit optimum sibi: epiices au 
+       <lb ed="#B" n="46"/>tem obedit intellectui. Verum enim est quod de studioso dicitur: &amp; amicorum gratia multa agere &amp; pati: &amp; 
+       <lb ed="#B" n="47"/>si oporteat mori. proiicit enim pecunias &amp; honores &amp; totaliter circumpugnabilia bona, procurans sibi ipsi 
+       <lb ed="#B" n="48"/>bonum. 
+      </p>
+      <p xml:id="n3av8a-c1e1425-d1e606">
+       SI C ergo patent obiecta. Primum enim bene probat quod dilectione amicitiae proprie dictae non  
+       <lb ed="#B" n="49"/>potest deus naturaliter diligi supe omnia: quia nec tali amicitia aliqua creatura intellectualis potest aut 
+       <lb ed="#B" n="50"/>debet deum diligere. indignum est enim ei huiusmodi genus amicitiae: vt dictum est: sicut &amp; quod diligatur dile 
+       <lb ed="#B" n="51"/>ctione vtilis aut delectabilis, quamuis enim &amp; ex ipso habent esse omnia vtilia: &amp; ex ipso &amp; in ipso omnia dele- 
+       <lb ed="#B" n="52"/>ctabilia: peruersa tamen est dilectio qua principaliter propter vtilitatem vel delectationem diligitur. so 
+       <lb ed="#B" n="53"/>lum autem propter seipsum diligendus esset, etsi nihil inde aliud boni nobis proueniret. Argumentum 
+       <lb ed="#B" n="54"/>in oppositum bene procedit secundum praedicta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

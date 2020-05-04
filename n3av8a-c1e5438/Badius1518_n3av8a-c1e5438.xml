@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="569-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5438">
+       <head xml:id="n3av8a-c1e5438-Hd1e96">Quaestio 11</head>
+       <p xml:id="n3av8a-c1e5438-d1e99">
+        <lb ed="#B" n="46"/>Irca quartum arguitur quod habens sufficienter vnde possit sustentarism statum suum non: tenetur re 
+       <lb ed="#B" n="47"/>ceptum in eleemosynam titulo paupertatis restituere. Primo sic. talis eleemosyna ab apostolo 
+       <lb ed="#B" n="48"/>ii. Corinth. ix. vocatur benedictio. Error autem personae non facit irritam benedictionem, vt patet 
+       <lb ed="#B" n="49"/>in benedictione quam Isaac contulit Iacob vice Esau. Gen. v, quaere etsi conferens dictam eleemo 
+       <lb ed="#B" n="50"/>synam erret circa personam credendo conferre illam pauperi idigenti: rata tamen est eleemosyna 
+       <lb ed="#B" n="51"/>quam tal non indigens rncipit. sa quando collatio rata est collatum non debet institui. ergo &amp;c. Secundo  
+       <lb ed="#B" n="52"/>sic, meretrix acquirens pecuniam ex fornicatione, ligcet eam ex peccato luxuriae acquirat, non tamen tenetur eam vlli restitue 
+       <lb ed="#B" n="53"/>re. ergo &amp; similiter iste l: acquirat eleemosynam expeccato cupiditatis, nulli tamen tenetur eam restituere. Tontra. cle 
+       <lb ed="#B" n="54"/>ricus acquirens beneficium ex peccato simulationis bonitatis tenetur illud restituere, quiae non in-  
+       <lb ed="#B" n="55"/>trauit per ostium, ergo &amp; similiter istae acquirens eleemosynam ex peccato simulationis paupertatis illam 
+       <!--1178.xml-->
+       <pb ed="#B" n="569-r"/>
+        <lb ed="#B" n="1"/>tenetur restituere. 
+      </p>
+      <p xml:id="n3av8a-c1e5438-d1e130">
+       DIco simpliciter: quod nullus tenetur restituere conferenti receptum titulo eleemosynae  
+       <lb ed="#B" n="2"/>quantumcunque habeat sufficientiam sustentationis, eo quod conferens liberaliter contulit intendens proui 
+       <lb ed="#B" n="3"/>dere indigentiae personae, cui conferre posset libere etiam si indigens non esset. &amp; hoc quemadmodum lsaac potuis 
+       <lb ed="#B" n="4"/>set libere &amp; sufficienter scienter contulisse illam benedictionem Iacob quam ei contulit propter quod non obest error  
+       <lb ed="#B" n="5"/>personae, quemadmodum pater qui libere potest haereditare filium quem elegit, &amp; non nisi vnum ex filiis suis, si hae 
+       <lb ed="#B" n="6"/>reditando vnum crederet haereditare alterum, rata esset haereditatio, quae tamen rata non esset si haereditaret ex 
+       <lb ed="#B" n="7"/>traneum. Et sic processit prima obiectio: quae secundum hoc concedenda est. Sed vtrum iste qui talem eleemosy 
+       <lb ed="#B" n="8"/>nam recipit poterit eam sibi reseruare, &amp; in vsum proprium conuertere, de hoc maior est dubitatio, &amp; credo quod  
+       <lb ed="#B" n="9"/>non, dum tamen recipienti sufficienter secundum statum suum sit prouisum non tam pro tempore praesenti quam etiam futu 
+       <lb ed="#B" n="10"/>ro: de quo probabiliter potest praesumere quod pro illo poterit ei sufficienter prouideri ex iam habito aut ex 
+       <lb ed="#B" n="11"/>propria industria seu labore. Sinautem, poterit illam eleemosynam sibi reseruare pro futuro: vt tunc de illa 
+       <lb ed="#B" n="12"/>viuat dum senio vel aliquo alio incommodo oppressus lucrari non poterit, vel dum diuino obsequio sine 
+       <lb ed="#B" n="13"/>distractione liberius vacare intendit. In quo casu credo quod illam eleemosynam fine peccato sibi poterit 
+       <lb ed="#B" n="14"/>reseruare. alias vero nequaquam, sed debet illam pauperi alicui restituere, quia in illa pauperem aliquem defrauda  
+       <lb ed="#B" n="15"/>uit qui eam erat accepturus: in quo in pauperem illum peccauit, &amp; quid illius futurum erat per fraudem subtraxit. 
+       <lb ed="#B" n="16"/>In quo tamen dantem in nullo defraudare potuit, quia intentio illius illi apud deum ad recipiendum remunera 
+       <lb ed="#B" n="17"/>tionem suffecit, propter quod illi nihil restitui debuit. Quietiam etsi ille eleemosynam restituere deberet, quia per  
+       <lb ed="#B" n="18"/>ipsum pauperi non conferretur: meretrix tamen nequaquam acquisitum per fornicationem deberet restituere illi a quo re- 
+       <lb ed="#B" n="19"/>cepit. vt non valeat ad propositum secundum argumentum, quia non est simile: eo quod meretrix aliquid de suo dat forni 
+       <lb ed="#B" n="20"/>catori. scilicet vsum sui corporis: pro quo per conmutationem pecuniam sumit, &amp; secundum aequitatem iusti 
+       <lb ed="#B" n="21"/>tiae commutatiuae illam recipit, licet per opus iniustitiae quod committit. lste autem accipiens eleemosynam 
+       <lb ed="#B" n="22"/>nihil de suo reddit, praeter dolum: qui non debet ei patrocinari. Ad argumentum in oppositum per simile de ac 
+       <lb ed="#B" n="23"/>cipiente beneficium per simulationem bonitatis, quod tenetur illud restituere, ergo &amp; iste eleemosynam, Di- 
+       <lb ed="#B" n="24"/>co quod non est verum quod acquirens beneficium per simulationem bonitatis teneatur illud restituere, dum tamen 
+       <lb ed="#B" n="25"/>non obsit aliud. Ad cuius intellectum sciendum est: quod cum aliquis acquirit beneficium per simulationem, decipit 
+       <lb ed="#B" n="26"/>conferentem illud, &amp; facit illum in conferendo errare contra eius intentionem. Et tunc simulatio &amp; er 
+       <lb ed="#B" n="27"/>ror hincinde possunt esse, aut quo ad personam simulantis &amp; beneficium recipientis, aut quo ad personae conditi 
+       <lb ed="#B" n="28"/>onem. Si quo ad ipsam personam, puta si conferens beneficium intendit illud conferre alicui certae personae, &amp; si 
+       <lb ed="#B" n="29"/>mulans simulat se esse illam personam, puto quod non valet collatio, nec recipiens ius habet in beneficio sibi sic col 
+       <lb ed="#B" n="30"/>lato, propter errorem conferentis. &amp; hoc adinstar matrimonii quod contrahit aliquis per errorem cum aliqua per 
+       <lb ed="#B" n="31"/>sona, &amp; intendit contrahere cum alia. Sicut enim ibi error personae impedit matrimonium, sic &amp; hic impe- 
+       <lb ed="#B" n="32"/>dit receptionem iuris in beneficio, &amp; tenetur recipiens per talem simulationem illud restituere conferenti, vt 
+       <lb ed="#B" n="33"/>conferat illi quem defraudauit. Et hoc idcirco praecipue: quia in collatione beneficiorum ecclesiasticorum non  
+       <lb ed="#B" n="34"/>tam debet esse intentio prouidentis prouidere personae cuiquam de beneficio, quam ecclesiae de seruitore 
+       <lb ed="#B" n="35"/>Beneficia enim sunt propter seruitia. Et ideo quia sic recipiens defraudauit ecclesiam de seruitore, de 
+       <lb ed="#B" n="36"/>quo conferens intendebat prouidere, &amp; praesumitur quod de idoneo, omnino iste qui sic recipittenetur re- 
+       <lb ed="#B" n="37"/>stituere beneficium: non sic autem recipiens dicto modo eleemosynam, quia conferens eam non in-  
+       <lb ed="#B" n="38"/>tendebat per eam prouidere nisi personae. Vnde quia ecclesiae cui debet prouideri multum posset dero  
+       <lb ed="#B" n="39"/>gari per errorem personae in collatione beneficii: nulli autem in collatione eleemosynae, quia dan  
+       <lb ed="#B" n="40"/>ti ad meritum sufficit sua bona intentio: &amp; pauperi defraudato simpliciter sufficit si pauperi re- 
+       <lb ed="#B" n="41"/>stituatur: dum defraudans non est indigens, nec pro praesenti, nec prao futuro: aut si indigens est pro futuro, 
+       <lb ed="#B" n="42"/>etsi non praesenti, in hoc conferens non debet credere se fuisse deceptum, quia saepe fructuo- 
+       <lb ed="#B" n="43"/>sius est tali conferre quam indigenti in praesenti. Si vero sit error quo ad conditionem personae si 
+       <lb ed="#B" n="44"/>mulantis &amp; beneficium recipientis: aut ergo conditio ista talis est, quod propter illam factus est in-  
+       <lb ed="#B" n="45"/>susceptibilis beneficii, aut talis est quod per illam factus est inidoneus ad exequendum beneficium 
+       <lb ed="#B" n="46"/>Si primo modo, puta si sit excommunicatus, &amp; simulat se non esse talem, adhuc non valet collatio 
+       <lb ed="#B" n="47"/>sicut non valet matrimonium foeminae cum foemina quae se finxit esse virum. &amp; tenetur restituere 
+       <lb ed="#B" n="48"/>beneficium. Si secundo modo, subdistinguo tripliciter. aut ergo est conditio talis, quod per illam est 
+       <lb ed="#B" n="49"/>omnino impotens implere seruitium ad quod confertur beneficium, puta si finxit se scire literas 
+       <lb ed="#B" n="50"/>&amp; literas omnino ignorat, &amp; beneficium requirit literaturam: aut si beneficiatus in vna ecclesia 
+       <lb ed="#B" n="51"/>tacens de beneficio impetrat a papa beneficium aliud in alia ecclesia, cum non possit simul seruire in  
+       <lb ed="#B" n="52"/>duabus ecclesiis. Et dico quod non valet collatio, &amp; tenetur restituere beneficium, sicut nec valet ma 
+       <lb ed="#B" n="53"/>trimonium cum viro carente membro virili, sed deberet separari. Aut est conditio talis quod per il- 
+       <lb ed="#B" n="54"/>lam potest impleri seruitium, licet non ita eminenter vt credebat conferens, &amp; vt ille se simula- 
+       <!--1179.xml-->
+       <pb ed="#B" n="569-v"/>
+        <lb ed="#B" n="1"/>uit posse implere. Et tunc dico quod bene valet collatio &amp; non tenetur restituere, quia sufficit idoneom 
+       <lb ed="#B" n="2"/>dare quantum est ex parte ecclesiae cui seruiendum est. &amp; hoc sicut valet matrimonium cum viro qui quoquo modo va 
+       <lb ed="#B" n="3"/>let actum matrimonialem exequ, licet non ita viriliter vt multi alii. Aut est talis conditio quod stante illa non potest 
+       <lb ed="#B" n="4"/>impleri salubriter seruitium ipsi seruienti maxime, puta si non sit bonae vitae, de qua conditione  
+       <lb ed="#B" n="5"/>sit mentio in argumento, &amp; quae solet esse regulariter in beneficiis impetrandis per simulationem. Dico quod va 
+       <lb ed="#B" n="6"/>let collatio, &amp; non tenetur restituere beneficium, &amp; hoc quia super tali conditione, quia respicit occulta 
+       <lb ed="#B" n="7"/>nuiius conferens beneficium ad plenum certificari potest: &amp; variantur homines m talem conditionem 
+       <lb ed="#B" n="8"/>frequenter: nec a tali conditione omnino dependet seruitii executio. Et est simile de matrimonio cum paupe 
+       <lb ed="#B" n="9"/>re qui simulauit se diuitem: propter qualem fictionem non est minus ratum mrimonium. Et in praedictis casibus in  
+       <lb ed="#B" n="10"/>quibus non valet collatio beneficii acquisiti per simulationem, non est simile de receptione eleemosy 
+       <lb ed="#B" n="11"/>nae per simulationem secundum praedicta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

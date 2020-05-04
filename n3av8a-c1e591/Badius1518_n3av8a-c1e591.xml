@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 38</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 38</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e591">
+      <head xml:id="n3av8a-c1e591-Hd1e96">Quaestio 38</head>
+      <p xml:id="n3av8a-c1e591-d1e99">
+       <lb ed="#B" n="23"/>Irca secundum arguebatur: quod non licet monachis nigris carnes edere. Dico sanis. quia G 
+       <lb ed="#B" n="24"/>quod non est concessum: vbi alia concedenda conceduntur: videtur esse prohibitum. In re 
+       <lb ed="#B" n="25"/>gula enim nigrorum monachorum non est concessum edere carnes nisi debilibus: ergo  
+       <lb ed="#B" n="26"/>est prohibitum. sed tale non licet eis. ergo &amp;c. In oppositum vero (dixit monachus niger 
+       <lb ed="#B" n="27"/>opponens) est abusus omnium nigrorum monachorum.
+      </p>
+      <p xml:id="n3av8a-c1e591-d1e112">
+       DIcendum ad hoc: quod in religionibus du-  
+       <lb ed="#B" n="28"/>plex est concessio esus carnium. Vna regularis: alia dispensationis. Regularis est illa quae est 
+       <lb ed="#B" n="29"/>ex concessione regulae. secundum quam quidam religiosi carnes edunt etiam in refectorio. 
+       <lb ed="#B" n="30"/>Dispensationis est illa quae posita est secundum regulam in dispensatione abbatis: vel quae indulgetur a prae 
+       <lb ed="#B" n="31"/>lato superiori vniuersalis ecclesiae. Quantum autem ad primam concessionem non licet omnino carnes comedere mo 
+       <lb ed="#B" n="32"/>nachis nigris nisi, infirmis aut illis qui reputantur infirmi: vt minutis, debilibus, forte etiam &amp; antiquis: secundum  
+       <lb ed="#B" n="33"/>quod arguebatur in primo argumento. Quantum autem ad secundam concessionem, bene licet aliis. quoniam (ut dicitur) in  
+       <lb ed="#B" n="34"/>regula nigrorum monachorum scribitur quod beatus Benedictus finaliter omnia de quibus regula non expressit 
+       <lb ed="#B" n="35"/>reliquit in dispositione abbatis. &amp; si non erat dimissum in dispositione abbatis, tamen dimissum fuit 
+       <lb ed="#B" n="36"/>in dispositione summi pontificis. Vnde si monachi nigri comedant carnes sani: non credo quod sit abusus:  
+       <lb ed="#B" n="37"/>salua pace eius qui opposuit: sed magis dispensatio superioris. Et sic patent obiecta vtriusque partis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

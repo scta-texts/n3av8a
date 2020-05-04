@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 23</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 23</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="476-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4550">
+       <head xml:id="n3av8a-c1e4550-Hd1e96">Quaestio 23</head>
+       <p xml:id="n3av8a-c1e4550-d1e99">
+        <lb ed="#B" n="35"/>Equuntur pertinentia ad diuini officii executionem, quorum quaedam pertinent ad  
+       <lb ed="#B" n="36"/>diuini officii executionem circa sacramentorum administrationem: quaedam vero 
+       <lb ed="#B" n="37"/>circa praedicationis instructionem: &amp; quaedam circa horarum obseruationem &amp; 
+       <lb ed="#B" n="38"/>missarum celebrationem. 
+      </p>
+      <p xml:id="n3av8a-c1e4550-d1e110">
+       DE primo quaerebatur vnum de administratione plurium 
+       <lb ed="#B" n="39"/>sacramentorum communiter: Vtrum obligatus ad audiendam subditorum suo- 
+       <lb ed="#B" n="40"/>rum confessionem &amp; aliorum sacramentorum ministrationem si relaxetur ab obli- 
+       <lb ed="#B" n="41"/>gatione prima aequaliter remaneat obligatus ad secundam. Deinde quaerebantur 
+       <lb ed="#B" n="42"/>quaedam pertinentia ad administrationem sacramenti poenitentiae specialiter. 
+      </p>
+      <p xml:id="n3av8a-c1e4550-d1e121">
+       ET circa primum argue- 
+       <lb ed="#B" n="43"/>batur quod non: quia sicut se habet confessio ad absolutionem cum satisfactionis iniunctione: sic se habet 
+       <lb ed="#B" n="44"/>ad aliorum sacramentorum administrationem: quia sicut est ordo essentialis absolutionis ad confessionem quod si 
+       <lb ed="#B" n="45"/>ne illa praecedente nullus potest salubriter absoluere, &amp; salubriter satisfactionem iniungere: sic est ordo admini 
+       <lb ed="#B" n="46"/>strationis aliorum sacramentorum ad eandem quod scilicet sine illa praecedente nullus salubriter potest alia admini- 
+       <lb ed="#B" n="47"/>strare sacramenta. Sed absolutus a confessione subditi audienda non potest aequaliter manere obli 
+       <lb ed="#B" n="48"/>gatus ad ei salubriter absolutionem cum satisfactione iniungendam: quia hoc esset impossibile fieri. se 
+       <lb ed="#B" n="49"/>cundum enim qualitatem &amp; quantitatem peccatorum quae confessa sunt debet iniugi satisfactio: er- 
+       <lb ed="#B" n="50"/>go &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4550-d1e141">
+       CONtra. essentialiter ordinantur diaconicatus ordo &amp; sacerdotii: sed tamen non praecedente 
+       <lb ed="#B" n="51"/>ordine diaconicatus aequaliter potest recipere ordinem sacerdotii sicut si praecessisset. vt extra de cleri. 
+       <lb ed="#B" n="52"/>ordi, per saltum. Veniens. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4550-d1e149">
+       DIcendum quod si aliquis sit obligatus ad duo: si secundum non potest 
+       <lb ed="#B" n="53"/>exequi sine primo, impossibile est eum postquam est relaxatus a primo aequaliter manere obligatum ad se- 
+       <lb ed="#B" n="54"/>cundum: aut esset obligatus ad impossibile sibi quod est inconveniens. Vnde vt procedit primum argumentum 
+       <!--992.xml-->
+       <pb ed="#B" n="476-r"/>
+        <lb ed="#B" n="1"/>&amp; bene, obligatus ad audiendum subditi confessionem: &amp; ad iniungendum ei salutarem satisfactionem im- 
+       <lb ed="#B" n="2"/>possibile est quod aequaliter maneat obligatus ad secundum vt prius. Sed in proposito circa administratio 
+       <lb ed="#B" n="3"/>nem aliorum sacramentorum post sacramentum poenitentiae, puta eucharistiae vice aliorum, est consi 
+       <lb ed="#B" n="4"/>derare due scilicet administrationemeius regularem secundum statutum ecclesiae: quod scilicet quilibet communicetur 
+       <lb ed="#B" n="5"/>ad minus semel in anne scilicet in paschate, vt dicitur extra de poe. &amp; remis. Omnis vtriusque sexus. &amp; ad  
+       <lb ed="#B" n="6"/>ministrationem eius peculiarem siue priuatam pluries in anno. Primo modo dico quod aequaliter ma 
+       <lb ed="#B" n="7"/>net obligatus ad eucharistiae administrationis: dum certificatus fuerit quod subditus suus confessus 
+       <lb ed="#B" n="8"/>fuerit ei qui habet priuilegium per quod relaxatur ei obligatio de confessione subditi audienda. Secun- 
+       <lb ed="#B" n="9"/>do modo dico quod nequaquam: quia non debet alicui priuatae personae pluries sacramentum eucharistiae ministra 
+       <lb ed="#B" n="10"/>re nisi constet ei de munditia cordis &amp; deuotione speciali: quae non possunt cognosci fine confessionis audi  
+       <lb ed="#B" n="11"/>tione. imma debet omnino denegare: &amp; exponeret se discrimini si pluries ministraret nesciens an sanctum 
+       <lb ed="#B" n="12"/>daret canibus: quia in tali administratione non excusaretur sicut excusatur in prima per statutum eccle- 
+       <lb ed="#B" n="13"/>siae &amp; dictum priuilegium. 
+      </p>
+      <p xml:id="n3av8a-c1e4550-d1e188">
+       AD rationem in oppositum: dicendum quod non est simile: quia licet diaconatus 
+       <lb ed="#B" n="14"/>&amp; sacerdotii ordo habent ordinem essentialem secundum gradum dignitatis: non tamen condependentiam in esse: 
+       <lb ed="#B" n="15"/>quoniam vtrumque illorum potest esse fine altero. Talem autem connexionem habent confessionis auditio &amp; salubris 
+       <lb ed="#B" n="16"/>eucharistiae administratio pluries in anno, vt patet ex dictis. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

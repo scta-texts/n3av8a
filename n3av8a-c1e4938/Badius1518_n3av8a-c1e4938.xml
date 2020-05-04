@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 22</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 22</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="499-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4938">
+       <head xml:id="n3av8a-c1e4938-Hd1e96">Quaestio 22</head>
+       <p xml:id="n3av8a-c1e4938-d1e99">
+        <lb ed="#B" n="31"/>SEquuntur quaesita pertinentia ad exercitium actus hominis pro statu huius vitae in compara 
+       <lb ed="#B" n="32"/>tione. Et erat primum &amp; vnicum comparando actum ad obiectum. scilicet de actu intelligendi intelle- 
+       <lb ed="#B" n="33"/>ctus practici: vtrum intelligere practicum possit absolui ab intentione operis. Alia ve- 
+       <lb ed="#B" n="34"/>ro plura erant comparando vnum actum ad alium. 
+      </p>
+      <p xml:id="n3av8a-c1e4938-d1e110">
+       CIRca illud primum arguitur: quod in-  
+       <lb ed="#B" n="35"/>telligere practicum non possit absolui ab intentione operis: quia per hoc distinguitur pra 
+       <lb ed="#B" n="36"/>cticum a speculatiuae scilicet fine, vt dicitur. iii. de anima. et idem dicitur in libro de motibus ani  
+       <lb ed="#B" n="37"/>malium. Item obiectum formale appetitus, vt finis, est principium intellectus practici, vt habetur ibidem: ap 
+       <lb ed="#B" n="38"/>petitus autem non potest absolui ab intentione operis: quare nec intelligere practicum. 
+      </p>
+      <p xml:id="n3av8a-c1e4938-d1e121">
+       CONtra. intelligere 
+       <lb ed="#B" n="39"/>discipuli in moralibus practicum est: quia secundum habitum practicum: &amp; hoc absque operis intentione: ergo &amp;c. 
+       <lb ed="#B" n="40"/>Dico quod secundum quod mihi videtur quaestio aequiuoca est: quia intentio operis dupliciter potest intelligi. Vno 
+       <lb ed="#B" n="41"/>enim modo dicitur intentio operis dispositio voluntatis qua tendit per opus in finem. &amp; sic intentio operis est 
+       <lb ed="#B" n="42"/>voluntas directa in opus ad consecutionem finis. Alio modo dicitur intentio operis ipsum opus in-  
+       <lb ed="#B" n="43"/>tentum: sicut dicitur creatura salis. i. creatura quae est sal. Primo modo bene potest intelligere pra 
+       <lb ed="#B" n="44"/>cticum absolui ab intentione finis: quia potest esse intelligere de operabilibus practice absque eo quod intendit 
+       <lb ed="#B" n="45"/>operari id quod intelligitur practice: qualiter intelligit artifex carpentarius practice dispositiones domus 
+       <lb ed="#B" n="46"/>possibilis operari &amp; modos operandi in particulari circa singularem materiam absque eo quod intendat illam operari exte 
+       <lb ed="#B" n="47"/>rius secundum modum quo ipsam concipit interius. Secundo autem modo nequaquam potest absolui ab intentione  
+       <lb ed="#B" n="48"/>operis: quia non est intelligere practicum nisi sit de operabilibus: licet non econuerso omne intelligere quid  
+       <lb ed="#B" n="49"/>est de operabilibus sit intelligere practicum: sed solum illud quod determinat modum operandi in particulari &amp; 
+       <lb ed="#B" n="50"/>circa particularia per habitum practicum acquisitum ex experientia operis secundum modum iam supra determinatum.  
+       <lb ed="#B" n="51"/>qui habitus est potentia directiua in opus: et habens eum potest operari secundum ipsum quando vult. Qui autem scit 
+       <lb ed="#B" n="52"/>operabilia non per habitum acquisitum ex experientia operis in addiscente, sed solummodo ex auditu a magistro 
+       <lb ed="#B" n="53"/>quantuncumque etiam magister doceat ex habitu vniuersali quem acquisiuit ex experientia singularium, non est pro  
+       <lb ed="#B" n="54"/>prie eius intelligere, intelligere practicum: quia per tale intelligere aut per habitum quo intelligit non est 
+       <!--1038.xml-->
+       <pb ed="#B" n="499-r"/>
+        <lb ed="#B" n="1"/>potens operari, quemadmodum ille qui non habuit experientiam instrumentalem citharizandi  
+       <lb ed="#B" n="2"/>quantuncumque habeat scientiam cithariandi ex auditu: illa non est proprie practica: nec intelligere 
+       <lb ed="#B" n="3"/>secundum illam est proprie practicum, sed potius speculatiuum, secundum quod haec latius in pluri 
+       <lb ed="#B" n="4"/>bus aliis quaestionibus declarauimus. Primum argumentum bene probat quod intelligere practicum 
+       <lb ed="#B" n="5"/>non potest absolui ab intentione operis secundo modo, quia non est nisi de operabilibus vt ostendunt 
+       <lb ed="#B" n="6"/>illa dicta philosophi: non tamen ex illis potest concludi quin possit absolui ab intentione operis modo pri 
+       <lb ed="#B" n="7"/>mo. Ad secundum quod finis appetitus est principium intellectus practici: dico quod finis appetitus 
+       <lb ed="#B" n="8"/>duplex est: quidam proximus &amp; immediatus cuiusmodi est eius actio siue operatio appetendi, secun- 
+       <lb ed="#B" n="9"/>dum quod vnaquaeque res dicitur esse finaliter propter suum opus. Alius vero est eius finis mediatus &amp; 
+       <lb ed="#B" n="10"/>vltimus, &amp; est bonum operabile quid consequitur per suam operationem. De primo fine appetitus non 
+       <lb ed="#B" n="11"/>est verum quod semper sit principium intellectus practici: quia pertinet ad intentionem operis primo mo 
+       <lb ed="#B" n="12"/>do. De secundo autem fine appetitus verum est quod semper est principium intellectus practici &amp; perti 
+       <lb ed="#B" n="13"/>net ad intentionem operis secundo modo, vt patet ex dictis. Ad argumentum in oppositum: quod in-  
+       <lb ed="#B" n="14"/>telligere discipuli est intelligere practicum in moralibus, quia est secundum habitum practicum &amp; 
+       <lb ed="#B" n="15"/>absque operis intentione: Dico quod bene verum est quod licet possit esse absque operis intentione primo modo 
+       <lb ed="#B" n="16"/>tamen nunquam est absque operis intentione secundo modo: quia non est nisi de operabilibus. falsum 
+       <lb ed="#B" n="17"/>tamen est quod sit intelligere practicum, &amp; secundum habitum practicum nisi simul addiscendo ex 
+       <lb ed="#B" n="18"/>aud itu a magistro vniuersalis artis operando in seipso experiatur illa in particularibus operibus. 
+       <lb ed="#B" n="19"/>quae qiudem experientia debet esse aliqualis antequam sit idoneus auditor moralis scientiae, vt de-  
+       <lb ed="#B" n="20"/>terminat Simplicius in principio commenti supe praedicamenta. Propter quod etiam dicit <name ref="#Aristotle">philosophus</name> in pri 
+       <lb ed="#B" n="21"/>cipio ethicorum. Huius scientiae non est auditor puer: quia non est expertus eorum quae sunt secundum 
+       <lb ed="#B" n="22"/>scientiam. &amp; sicut debet esse aliquantulum expertus a principio, sic ad hoc quod vere secundum habitum pra 
+       <lb ed="#B" n="23"/>cticum sciat moralem scientiam, oportet quod similia addiscendo vniuersalia a magistro, experiatur 
+       <lb ed="#B" n="24"/>illa penes seipsum in operibus particularibus: vt sicut de Christo dicitur. Incepit facere &amp; docere. Actum. i. 
+       <lb ed="#B" n="25"/>sic dictatur de idoneo discipulo moralis scientiae: incepit facere &amp; discere.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

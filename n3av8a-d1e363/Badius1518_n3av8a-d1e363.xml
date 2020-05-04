@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 27</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 27</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="249-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e363">
+       <head xml:id="n3av8a-d1e363-Hd1e96">Quaestio 27</head>
+       <p xml:id="n3av8a-d1e363-d1e99">
+        <lb ed="#B" n="28"/>CIrca quartum arguitur quod recipiens de bonis alterius quantum sibi ille tene- 
+       <lb ed="#B" n="29"/>tur, ad restitutionem teneatur, quia vt dictum est supra per Augustinum, Non 
+       <lb ed="#B" n="30"/>dimittitur peccatum &amp;c. Item si posset probari quod sic alienum detineret: co- 
+       <lb ed="#B" n="31"/>geretur per ecclesiam ad restitutionem: &amp; hoc non nisi quia tenetur restitue- 
+       <lb ed="#B" n="32"/>re. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e363-d1e112">
+       CONtra. per hoc esset reus in lucro &amp; innocens in damno: nec 
+       <lb ed="#B" n="33"/>haberet vnusquisque quod suum est. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e363-d1e117">
+       HIC oportet distinguere de mo 
+       <lb ed="#B" n="34"/>do quo iste occupauit bona eius qui obligatus est ei, &amp; de quibus pro debito sibi vult satisfieri per  
+       <lb ed="#B" n="35"/>detentionem, vt paulo altius prosequamur quaestionem quam fuerit proposita. Quoniam talis aut oc 
+       <lb ed="#B" n="36"/>cupauit bona illa de quibus vult satisfacere per detentionem, clam: aut violenter auferendo: aut ne 
+       <lb ed="#B" n="37"/>gotia eius gerendo. Si primo modo, tunc ad duo facta illius debe mus aspicere: scilicet &amp; ad bono-  
+       <lb ed="#B" n="38"/>rum illorum subtractionem &amp; modum subtrahendi, &amp; ad ipsorum detentionem absque animo resti 
+       <lb ed="#B" n="39"/>tuendi. Si vero respiciamus ad ipsam subtractionem &amp; modum subtrahendi: dicunt aliqui quod ta-  
+       <lb ed="#B" n="40"/>lis in subtrahendo non peccat: eo quod ille sua detinet iniuriose: &amp; bonum est illi vt subtrahantur, &amp; a de 
+       <lb ed="#B" n="41"/>bito liberetur. &amp; sic quid iste facit: iuste facit ex parte sui, &amp; misericorditer ex parte illius: &amp; ideo non 
+       <lb ed="#B" n="42"/>iniuriose. rationem autem peccati non haberet in subtrahendo, nisi iniuriose subtraheret. Hoc di 
+       <lb ed="#B" n="43"/>ctum suum videntur confirmare per Augustinum: qui in epistola ad Macedonium Comitem, vbi 
+       <lb ed="#B" n="44"/>casum huius quaestionis tangere videtur: sic dicit. Quaeris a me cur officium sacerdotii esse di-  
+       <lb ed="#B" n="45"/>cimus interuenire pro reis: &amp; nisi obtineamus offendi. &amp; infra. Neutri nostrum placeat quod res non  
+       <lb ed="#B" n="46"/>reddatur aliena: neque apud cor meum cui testis est deus, ausim dicere, sentire, decernere interue- 
+       <lb ed="#B" n="47"/>niendum esse pro aliquo vt quod scelere abstulit impunitate sceleris possideat: sed vt remissa iniu- 
+       <lb ed="#B" n="48"/>ria quod iniuriose abstulit reddat: si tamen habet quid abstulit vel aliud vnde illud restituat. &amp; tunc conti- 
+       <lb ed="#B" n="49"/>nuo sequitur intentum. Non sane quicquid ab inuito sumitur iniuriose aufertur. Nam plerique nec 
+       <lb ed="#B" n="50"/>medico volunt reddere honorem suum: nec operario mercedem. Nec tamen haec quae ab inuitis ca- 
+       <lb ed="#B" n="51"/>piunt per iniuriam recipiunt: quae potius per iniuriam non darentur. Sed hoc nullo modo potest sta 
+       <lb ed="#B" n="52"/>re: quoniam talia bona sic subtracta erant in dominio &amp; possessione illius ante subtractionem &amp; res ipsius:  
+       <lb ed="#B" n="53"/>non autem aliquo modo erant res ipsius subtrahentis: quamuis ille pro tanto debitor suus erat. Nunc 
+       <lb ed="#B" n="54"/>autem scriptum est in lege domini. Non concupisces rem proximi tui. Si non concupisces: multo 
+       <!--538.xml-->
+       <pb ed="#B" n="249-r"/>
+        <lb ed="#B" n="1"/>ergo fortius nec subtrahes. Contra diuinum mandatum est plane dicto modo illi debitori talia bona tali modo 
+       <lb ed="#B" n="2"/>subtrahere. Quare cum iterum sit de lege diuina: Non reddes malum pro malo: &amp; quia opertet potius omnia mala pa 
+       <lb ed="#B" n="3"/>ti quam malo consentire: quamquam ergo ille iniuriatur isti: &amp; iste iniuriam patitur ab illo in danmnis rerum: nullo tamen modo licet 
+       <lb ed="#B" n="4"/>isti ea quae sunt ipsius subtrahere ei. Et sic contra legen diuinam facit iniuriando ei: quia patitur ab ipso, &amp; ipsi malum 
+       <lb ed="#B" n="5"/>pro malo reddendo. Sed dices: quia ille tenetur isti: factum istud amittit rationem iniuriandi. Quod non potest stare: quia si in  
+       <lb ed="#B" n="6"/>isto casu amitteret factum tale rationem iniuriandi: consimiliter ergo &amp; in quolibet alio in quo aliquis alteri iniuriatus est, 
+       <lb ed="#B" n="7"/>amitteret rationem iniuriandi factum omne quo iniuriatus satisfactionem per seipsum expeteret. Quare cum aliquando satis 
+       <lb ed="#B" n="8"/>factio poenalis requiratur ab iniuriante: posset ergo omnis iniuriam passus, propria auctoritate &amp; absque peccato poena 
+       <lb ed="#B" n="9"/>lem satisfactionem ab iniuriante expetere, hoc autem non esset aliud nisi per iustitiam semet ipsum vindicare. Liceret 
+       <lb ed="#B" n="10"/>ergo quemlibet esse iudicem suiipsius &amp; in propria iniuria semet ipsum vindicare. Quod plane falsum est. hoc enim 
+       <lb ed="#B" n="11"/>nulli licet facere nisi sit functus publica auctoritate: secundum <name ref="#Augustine">Augustinus</name> i. de libe. arbi. Falsum est ergo quod  
+       <lb ed="#B" n="12"/>subtrahere illi dicto modo sua, amittit rationem iniuriandi. Dico ergo quod subtrahens modo praedicto: &amp; ad praedictam 
+       <lb ed="#B" n="13"/>intentionem bona quae sunt in dominio debitoris, peccat in subtrahendo &amp; iniuriose subtrahit, &amp; facit quod non licet 
+       <lb ed="#B" n="14"/>non solum secundum leges humanas: quae sunt propter pacem publicam: sed etiam secundum leges diuinas: quae sunt propter iusti 
+       <lb ed="#B" n="15"/>tiae aequitatem. Perpetuo ergo iste potius debet carere debito suo, quam sic ipsum recuparare. Quia si vellet poeni 
+       <lb ed="#B" n="16"/>tere in hoc casu, oporteret restituere ablatum &amp; detentum: &amp; etiam si huiusmodi ablatio contra eum in iudicio posset 
+       <lb ed="#B" n="17"/>probari, pro ea publice puniretur: &amp; ad restitutionem faciendam compelleretur. licet enim intentio quantum est ex se non esset 
+       <lb ed="#B" n="18"/>iniuriosa: propter actum tamen iniuriosum praecedentem sit quod numquam potest esse iustus detentor eo quod numquam possessionem 
+       <lb ed="#B" n="19"/>legitimam est adeptus. 
+      </p>
+      <p xml:id="n3av8a-d1e363-d1e214">
+       ALIqui tamen dicunt quod in isto casu subtractio non est mala nisi quia prohibita a iure posi 
+       <lb ed="#B" n="20"/>tiuo: nec propter aliud si super hoc conuinceretur a iudice puniretur. Et ideo posset in isto casu sic subtractum de 
+       <lb ed="#B" n="21"/>iure naturali in foro conscientiae retinere. Sed quantum est de iure positiuo, contra quod non debet aliquis attenta 
+       <lb ed="#B" n="22"/>re, sic subtractum restituere tenetur. Et sic in isto casu nullo modo potest retineri sic subtractum. Ad hoc, enim quod pos 
+       <lb ed="#B" n="23"/>set simpliciter licite teneri, oporteret quod hoc esset licitum non solum de iure naturali sed etiam positiuo. Et 
+       <lb ed="#B" n="24"/>debemus exponere Augustinum, immo intelligere in eo quid dicit: Non iniuriose aufertur, neque per iniuriam accipitur 
+       <lb ed="#B" n="25"/>vt iam dicetur. Si vero talis occupauit bona debitoris, negotia eius gerendo super huiusmodi bona: hoc contingit 
+       <lb ed="#B" n="26"/>dupliciter: vel ex illius commissione: vel alterius. Si secundo modo, puta quod aliquis committat isti aliqua  
+       <lb ed="#B" n="27"/>de bonis illius, vt det illi: in hoc casu dicunt aliqui quod licet eum detinere, &amp; non illi deferre: quia non iniurio-  
+       <lb ed="#B" n="28"/>se res deuenit ad ipsum: nec iniuriose detinet: si aliquo modo, iuxta dictum <name ref="#Augustine">Augustinus</name> non iniuriose possit au-  
+       <lb ed="#B" n="29"/>ferri: quia semper esset maior violentia in auferendo quam in detinendo. Sed hoc non potest stare: quoniam fides te- 
+       <lb ed="#B" n="30"/>nenda est ei a quo nobis committitur aliquid, vt impleamus illud quod ei promisimus. Quamquam ergo iniuriose non deti 
+       <lb ed="#B" n="31"/>neret habendo aspectum ad illum cui deberet restituere conmissum: iniuriose tamen detinet habendo aspectum ad  
+       <lb ed="#B" n="32"/>illum qui conmisit. Et ideo dico quod in isto casu non licet eum dicta bona detinere: nec proprie in hoc gerit nego  
+       <lb ed="#B" n="33"/>tium debitoris sed commissoris. Si vero gerat proprie negotia eius ex illius commissione per quam ad manus 
+       <lb ed="#B" n="34"/>eius deueniant bona ipsius: puta si sit administrator bonorum temporalium ipsius: in hoc casu patet quod iste 
+       <lb ed="#B" n="35"/>non iniuriose occupauit bona illius ab initio: nec in detinendo alicui iniuriatur ex hoc nisi illi. In hoc 
+       <lb ed="#B" n="36"/>ergo casu habet quaestio locum: vtrum sic recipiens bona illius possit ea sine peccato detinere. Et hoc suppo 
+       <lb ed="#B" n="37"/>sito quod ille non vult vllo modo debitum reddere: aut quia forte ignorat se debere: aut aliqua alia ex causa: suppo- 
+       <lb ed="#B" n="38"/>sito etiam quod talis sit a quo nullo modo per publicam iustitiam debitum suum possit obtinere. Et dicunt aliqui quod etiam  
+       <lb ed="#B" n="39"/>in isto casu non posset detinere: tum quia nullus debet esse suus iudex: tum quia iste assumendo admini- 
+       <lb ed="#B" n="40"/>strationem, promisit illi fidem seruare bona recepta ei restituendo: quod non faceret si aliquid propria auctoritate de 
+       <lb ed="#B" n="41"/>tineret. Si ita esset: esset illicitum sic huiusmodi bona detinere. Sed siquis inspiciat naturam rei, non inuenit aliquam 
+       <lb ed="#B" n="42"/>rationem iniuriae in hoc facto posse contingere: nec ex hoc quod non interuenit consensus debitoris. Si enim in- 
+       <lb ed="#B" n="43"/>terueniret, &amp; de consensu eius detineret, patet quod simpliciter liceret. Sed quod hoc non ponat per se rationem iniuriae 
+       <lb ed="#B" n="44"/>in tali facto: patet ex hoc: quod si auctoritate publicae iustitiae detineret etiam debitore inuito, non detineret 
+       <lb ed="#B" n="45"/>iniuriose. Sed dices quod publica auctoritas tollit iniuriae rationem. Quod non potest poni: quoniam publica auctori- 
+       <lb ed="#B" n="46"/>tas non est instituta per se nisi ad iniurias repellendas: vt per hoc publicam pacem conseruet. secundum Augustinum. i. 
+       <lb ed="#B" n="47"/>de libo arb. Vnde vt dicit ibidem: non omnia vindicanda assumpsit: sed solum ea quae satis sunt conciliandae paci 
+       <lb ed="#B" n="48"/>hominibus imperitis. Vnde si omnes essemus sapientes &amp; iusti, non indigeremus fortitudine publicae iustitiae. Et 
+       <lb ed="#B" n="49"/>tamen constat quod esset commutatio hominium inter se, &amp; seruaretur iustitia inter eos. Illud ergo sine quo habet esse 
+       <lb ed="#B" n="50"/>iustitia: &amp; non est nisi ad iniustitias repellendas: illud non facit quod actio de se iniusta fiat iusta: sed potius 
+       <lb ed="#B" n="51"/>ne in ea depereat iustitia, &amp; de succedat iniustitia. Quare si iustum sit illud debitum detinere non consentiente de-  
+       <lb ed="#B" n="52"/>bitore supueniente auctoritate publica compellente solum ne disturbetur iustitia: illud debitum detinere, est non  
+       <lb ed="#B" n="53"/>consentiente debitore, &amp; quid minus est non dissentiente eo, quia omnino ignorat: factum illud adhuc non erit iniu 
+       <lb ed="#B" n="54"/>stitia sed mera iustitia. Vnde in hoc casuent requirente iustitia naturali, vt puto licitum est quemlibet esse 
+       <!--539.xml-->
+       <pb ed="#B" n="249-v"/>
+        <lb ed="#B" n="1"/>iudicem in sua causa: teste fide &amp; bona conscientia. Nec est simile in aliis casibus in quibus debitori  
+       <lb ed="#B" n="2"/>aliquid oportet auferri: quia omnino non licet, vt dictum est. Quid autem dicitur quod recipiendo administra- 
+       <lb ed="#B" n="3"/>tionem promisit quod bona fide ei sua recepta restitueret: dicendum quod verum est quae iuste debent esse sua: 
+       <lb ed="#B" n="4"/>quale non est illud in quo est debitor alterius. Vnde in illa generali obligatione non excluditur: quin  
+       <lb ed="#B" n="5"/>possit detinere sibi debita, vt dictum est. Sed si specialiter obligasset eum sub hac forma: Tu restitues 
+       <lb ed="#B" n="6"/>mihi omnia recepta absque omnis debiti solutione: dico quod in isto casu non posset detinere: non propter actum deti-  
+       <lb ed="#B" n="7"/>nendi in se: sed propter specialem obligationem. Dico ergo quod in isto casu vltimo non est necesse receptum re- 
+       <lb ed="#B" n="8"/>stituere, sed licite potest teneri. 
+      </p>
+      <p xml:id="n3av8a-d1e363-d1e318">
+       AD intelligendum <name ref="#Augustine">Augustinus</name> ciendum quod aliquis potest aliquid auferre ab alio inuito 
+       <lb ed="#B" n="9"/>dupliciter: vel vere, vt in casu primo posito: in quo, vt dictum est, qui sic recepit, ad restitutionem ablati tenetur 
+       <lb ed="#B" n="10"/>quia illius numquam fuit verus &amp; legitimus possessor: vel interpretatiue, vt in hoc casu vltimo, in quo sic detinens 
+       <lb ed="#B" n="11"/>ab initio fuit verus possessor quia de domini voluntate. Sed cum habet voluntatem detinendi, &amp; non resti- 
+       <lb ed="#B" n="12"/>tuendi de bonis domini tantum quantum ei teneturdominus: iam interprentatiue iste aufert &amp; sumit ab inuito 
+       <lb ed="#B" n="13"/>quod restituere non proposuit. Vnde quia alias erat verus possessor, si dominus conquereretur de illo: &amp; 
+       <lb ed="#B" n="14"/>ageret contra ipsum ad restitutionem detenti: si ille exciperet contra ipsum quod in tanto tenetur ei: &amp; hoc 
+       <lb ed="#B" n="15"/>offerat se statim probaturum, &amp; probet: non cogetur restituere. Quare si non posset probare, &amp; tunc 
+       <lb ed="#B" n="16"/>restituere cogeretur: hoc contingit non quia deficiat ei ius de non restituendo: sed quia deficit probatio 
+       <lb ed="#B" n="17"/>debito. Propter quod si ad restitutionem non ageretur: iuste coram deo posset illud detinere: nec pecca- 
+       <lb ed="#B" n="18"/>ret sic detinendo, ac ab inuito sic interpretatiue auferendo: nisi specialiter ab initio eum ad hoc ex- 
+       <lb ed="#B" n="19"/>presse obligasset: vel etiam implicite secundum iam dicta de ablatione ab inuito. Et isto secundo mo- 
+       <lb ed="#B" n="20"/>do intelligendum est dictum Augustini. 
+      </p>
+      <p xml:id="n3av8a-d1e363-d1e350">
+       PER haecipatent obiecta. Cum enim arguitur primo, non di  
+       <lb ed="#B" n="21"/>mittitur peccatum &amp;c. Verum est de ablato per iniutiam primo modo: non secundo modo: propter 
+       <lb ed="#B" n="22"/>causam praedictam. Ad secundum: quod si posset probari cogeretur ad restitutionem &amp;c. Verum est in ablatione a 
+       <lb ed="#B" n="23"/>primo modo: non autem secundo modo, vt patet ex praedictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

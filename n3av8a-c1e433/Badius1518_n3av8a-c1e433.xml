@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 26</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 26</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e433">
+      <head xml:id="n3av8a-c1e433-Hd1e96">Quaestio 26</head>
+      <p xml:id="n3av8a-c1e433-d1e99">
+       <lb ed="#B" n="9"/>CIrca Secundum arguebatur. quod quilibet tenetur scire de quolibet an sit mortale pecca 
+       <lb ed="#B" n="10"/>tum: quia secundum Boetium, non vitatur malum nisi quia cognitum, quilibet tenetur vitare quodli-  
+       <lb ed="#B" n="11"/>bet peccatum mortale. ergo tenetur quodlibet cognoscere.
+      </p>
+      <p xml:id="n3av8a-c1e433-d1e108">
+       CONtra. tunc omnis peccans 
+       <lb ed="#B" n="12"/>ignorans grauius peccaret quam sciens: &amp; nulla esset ignorantia alleuians: quid est falsum 
+       <lb ed="#B" n="13"/>cum dicat Apostolus. <quote xml:id="n3av8a-c1e433-Qd1e114" source="http://scta.info/resource/Itim1_13">Misericordiam consecutus sum quia ignorans feci</quote>. 
+      </p>
+      <p xml:id="n3av8a-c1e433-d1e118">
+       DICENdum  
+       <lb ed="#B" n="14"/>ad hoc: quod peccatorum quaedam sunt ex genere suo mortalia: vt adulterari, furari. de quibus 
+       <lb ed="#B" n="15"/>hus, quod mox nominata mala sunt. Quaedam vero ratione contemptus solum superuenientis actui. 
+       <lb ed="#B" n="16"/>Quod enim ratione generis actus alias posset esse veniale, ratione contemptus potest esse mortale. Discretionem mor 
+       <lb ed="#B" n="17"/>talium isto secundo modo a venialibus non est hominis mensurare: nisi excessus fuerit multum notabilis. Vnde <name ref="#Augustine">Augustinus</name>  
+       <lb ed="#B" n="18"/>dicit libro primo Soliloq. Quantum miseri eramus: &amp; quo progressi fueramus nec cogitare nec sentire permit 
+       <lb ed="#B" n="19"/>timur. &amp; loquitur de progressu in peccatum. Discretionem ergo talium mortalium non tenetur homo scire nisi mul- 
+       <lb ed="#B" n="20"/>tum notabilis sit excessus. Loquendo autem de discretione mortalium primo modo, tunc distinguendum. aut enim sunt 
+       <lb ed="#B" n="21"/>diuina lege expressa: aut non, sed iuxta ea quae expressa sunt, ex rationis industria inuestiganda reliquuntur. 
+       <lb ed="#B" n="22"/>Secundum enim quod dicit <name ref="#Aristotle">Philosophus</name> in tertio Politicae, Lex vniuersalia instituit: reliquam iustissima sententia iudica- 
+       <lb ed="#B" n="23"/>re oportet &amp; disponere. Si sunt diuina lege expressa, tunc tenetur quilibet pro tempore quo capax est praecepti 
+       <lb ed="#B" n="24"/>scire ea: &amp; quod debet se cauere ab eis. tunc enim obligatur ad tenendum praecepta: vt dicitur libro tertio de libero ar-  
+       <lb ed="#B" n="25"/>bitrio. Horum ignorantia dicitur ignorantia iuris: quae neminem excusat. In talibus enim nullus debet praesumere 
+       <lb ed="#B" n="26"/>aliquid agere si non sit certus, nisi requisito consilio peritiorum. Si vero non sunt diuina lege expressa: sed in  
+       <lb ed="#B" n="27"/>expressis implicita: tunc secundum gradus &amp; conditiones personarum quaedam tenentur scire magis distincte &amp; in  
+       <lb ed="#B" n="28"/>particulari: quaedam vero minus distincte &amp; magis in vniuersali. sicut est de notitia articulorum fidei. Regu 
+       <lb ed="#B" n="29"/>lam autem vniuersalem communem omnibus de his nullus dare potest. Et quia in talium peccatorum distinctione an sint mortalia 
+       <lb ed="#B" n="30"/>an venialia, non est qui certam &amp; generalem ream distinguendi dare poterit: Delicta enim quis intelligit &amp;c. vt dicitur in  
+       <lb ed="#B" n="31"/>psal. cum cuiquam in dubium venerit de aliquo talium an sit mortale an veniale, debet a peritioribus quaerere: vel i 
+       <lb ed="#B" n="32"/>propter dubium de peccato tali tamquam de mortali poenitere. In hoc enim casu habet locum illud Gregorii. Bo- 
+       <lb ed="#B" n="33"/>narum mentium est ibi peccatum agnoscere vbi peccatum non est. scilicet tam grande quantum agnoscunt. 
+      </p>
+      <p xml:id="n3av8a-c1e433-d1e170">
+       PER hoc pa 
+       <lb ed="#B" n="34"/>tet ad obiecta.
+      </p>
+      <p xml:id="n3av8a-c1e433-d1e176">
+       Ad primum quod non vitatur malum nisi cognitum: verum est vel in generali vel in speciali. &amp; hoc modo quili 
+       <lb ed="#B" n="35"/>bet vsum liberi arbitrii habens obligatus ad vitandum omne mortale, debet omne agnoscere vel in generali vel 
+       <lb ed="#B" n="36"/>in speciali vt dictum est. Et de cognomento in generali cum occurrit in speciali satis respondet de illo testimoni 
+       <lb ed="#B" n="37"/>um conscientiae cuiquam nisi malitia impediat: vt vel omnino non agat vel agere non attentet, nisi prius peritio- 
+       <lb ed="#B" n="38"/>res consulat.
+      </p>
+      <p xml:id="n3av8a-c1e433-d1e187">
+       Ad secundum quod tunc omnis ignorantia esset aggrauans: dicendum quod verum est si omnes omnia tenerentur 
+       <lb ed="#B" n="39"/>scire expresse &amp; in speciali sicut illa quae exprimit lex diuina, quod non est ita.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

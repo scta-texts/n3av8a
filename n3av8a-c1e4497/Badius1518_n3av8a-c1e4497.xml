@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 19</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 19</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="474-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4497">
+       <head xml:id="n3av8a-c1e4497-Hd1e96">Quaestio 19</head>
+       <p xml:id="n3av8a-c1e4497-d1e99">
+        <lb ed="#B" n="37"/>Equuntur pertinentia specialiter ad hominem viatorem clericum. Et erant duo  
+       <lb ed="#B" n="38"/>specialiter pertinentia ad clericum religiosum, &amp; plura alia pertinentia communitertam 
+       <lb ed="#B" n="39"/>ad religiosum quam ad saecularem. Primum illorum duorum erat pertinens ad votum 
+       <lb ed="#B" n="40"/>simplex: vtrum qui vouit intrare religionem strictiorem liberatus est intrando laxio 
+       <lb ed="#B" n="41"/>rem. Secundum erat pertinens ad votum solenne: Vtrum de religionepriuilegia-  
+       <lb ed="#B" n="42"/>ta quod fratres eius non possunt transire ad aliam religionem aequalis arctitudinis aut  
+       <lb ed="#B" n="43"/>minoris, fratres alterius religionis quae non praesumitur esse maioris arctitudinis 
+       <lb ed="#B" n="44"/>sed potius minoris, possint recipere ad suam religionem fratrem professum in illa religione priuile- 
+       <lb ed="#B" n="45"/>giata. 
+      </p>
+      <p xml:id="n3av8a-c1e4497-d1e121">
+       CIRCAprimum arguitur, quod qui vouit intrare religionem arctiorem liberatus sit a suo vo 
+       <lb ed="#B" n="46"/>to intrando laxiorem: quia per hoc implet votum quo ad tria essentialia religioni: quia illa in om 
+       <lb ed="#B" n="47"/>ni religione obseruantur, &amp; per tale votum non videtur ille obligari ad plus quam se extendunt essentia. 
+       <lb ed="#B" n="48"/>lia religioni. Ad alia enim obseruanda solum obligantur professi. 
+      </p>
+      <p xml:id="n3av8a-c1e4497-d1e130">
+       CONtra. qui non implet inte 
+       <lb ed="#B" n="49"/>gre promissum non est liberatus a voto: iste talis est quia duo promisit: &amp; intrare &amp; talem regulam 
+       <lb ed="#B" n="50"/>seruare. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4497-d1e137">
+       HOC vltimum concedendum est: quia enim iste non solum vouit intrare religionem 
+       <lb ed="#B" n="51"/>sed talem religionem in qua tales sunt obseruantiae quales non sunt in alia: &amp; secundum quas diuersa 
+       <lb ed="#B" n="52"/>rum religionum professiones distinguuntur. Trium enim votorum principalium solennitas in quaelibet religione obser 
+       <lb ed="#B" n="53"/>uatur. Quia igitur ille in voto suo promisitiduo: &amp; intrando religionem laxiorem non soluit nisi vnum a voto suo non 
+       <!--988.xml-->
+       <pb ed="#B" n="474-r"/>
+        <lb ed="#B" n="1"/>est liberatus nisi super hoc dispensationem aut licentiam obtinuerit competentem. &amp; quid maius est: 
+       <lb ed="#B" n="2"/>si quis promisit intrare vnum monasterium ex religionibus habentibus bona temporalia mobilia &amp; im- 
+       <lb ed="#B" n="3"/>mobilia distincta secundum distinctionem monasteriorum, non soluit promissum intrando aliud  
+       <lb ed="#B" n="4"/>sicut aestimo, vt qui vouit intrare monasterium ordinis sancti Benedicti apud sanctum Dionysium 
+       <lb ed="#B" n="5"/>non soluit promissum complete intrando illud apud sanctum Germanum: quia etsi satisfaciat re 
+       <lb ed="#B" n="6"/>ligioni siue ordini simpliciter &amp; in hoc deo: non tamen satisfacit monasterio cui fecit suam promis 
+       <lb ed="#B" n="7"/>sionis: si non velit remittere promissum: quia aliquid iuris habet ex illo promisso illud monaste- 
+       <lb ed="#B" n="8"/>rium quod non habet aliud. secus autem est de religione in qua diuersa monasteria nihil sibi appro- 
+       <lb ed="#B" n="9"/>priant, sed quicquid habent proprium est toti religioni pro singulis fratribus eius: vt quantum iu-  
+       <lb ed="#B" n="10"/>ris habet singulus eorum in bonis vnius monasterii: tantum habet in bonis alterius. Propter quod  
+       <lb ed="#B" n="11"/>ex suo promisso nihil plus iuris in illum acquirit vnum monasterium quam aliud. propter quod vouens intra- 
+       <lb ed="#B" n="12"/>re vnum, sine omni iniuria illius potest intrare aliud &amp; soluit persecte promissum: vt contingit in  
+       <lb ed="#B" n="13"/>religionibus fratrum praedicatorum &amp; Minorum. Ad argumentum in oppositum quod sufficien 
+       <lb ed="#B" n="14"/>ter liberatus est: quia aequaliter soluit promissum quo ad tria essentialia in votis: Dicendum quod 
+       <lb ed="#B" n="15"/>non est verum: quia iste non solum promittit religionem vbi tria vota essentialia obseruantur: sed  
+       <lb ed="#B" n="16"/>vbi etiam cum talibus obseruantiis obseruantur. &amp; quid amplius est si eaedem obseruantiae custodi- 
+       <lb ed="#B" n="17"/>rentur: postquam tamen non essent eis omnia aequaliter conmunia sicut non sunt diuersis monasteriis in ea 
+       <lb ed="#B" n="18"/>dem religione quandoque, adhuc non satisfaceret quo ad eos quibus facta erat promissio licet satis- 
+       <lb ed="#B" n="19"/>faceret quo ad rem promissam. Non enim qui aliquid promittit vni &amp; in hoc debitor eius factus 
+       <lb ed="#B" n="20"/>est, satisfacit si hoc soluit alteri, immo si sit res quae potest ab eodem solui pluribus postquam soluerit 
+       <lb ed="#B" n="21"/>vni debet eam adhuc soluere alteri, vt si vni promisi denarium &amp; credens soluere siue satisface- 
+       <lb ed="#B" n="22"/>re dem denarium alteri puta pauperi in eleemosynam, adhuc teneor soluere denarium illi cui era 
+       <lb ed="#B" n="23"/>obligatus ex promisso. Vnde si talis subintrauit aliam religionem laxiorem: ante professionem de-  
+       <lb ed="#B" n="24"/>bet exire &amp; intrare religionem cui se deuouit nisi dispensationem vel licentiam competentem habue- 
+       <lb ed="#B" n="25"/>rit, etiam si scandalum ex hoc debeat oriri: quia hoc respectu illius scandalum passiuum est non  
+       <lb ed="#B" n="26"/>actiuum nisi quo ad hoc quod fatue egit ab initio in talem necessitatem se ponendo: &amp; de illa debet age 
+       <lb ed="#B" n="27"/>re poenitentiam: &amp; maxime si ex suo exitu postmodum scandalum oriatur: quia contra illud debuisset 
+       <lb ed="#B" n="28"/>sibi prouidisse. propter quod ei imputatur sicut ebrioso si committat homicidium. Post professio 
+       <lb ed="#B" n="29"/>nem autem per maius votum absolutus est a minori, debet tamen agere poenitentiam scilicet 
+       <lb ed="#B" n="30"/>pro transgressione minoris. 
+      </p>
+      <p xml:id="n3av8a-c1e4497-d1e216">
+       ET quod assumitur in argumento quod per simplex votum non obli- 
+       <lb ed="#B" n="31"/>gatur ad plus, quam ad tria essentialia: Dicendum quod nec ad illa tria nec ad alia obligatur, &amp; hoc 
+       <lb ed="#B" n="32"/>neque quo ad ipsorum obseruantiam finalem, nec quo ad ipsorum experientiam: sed solummodo ob  
+       <lb ed="#B" n="33"/>ligatur ad praecisum ingressum religionis vbi illa tria obseruantur cum talibus obseruantiis: &amp; 
+       <lb ed="#B" n="34"/>non satisfacit nisi intrando talem religionem: quo facto statim perfecte liberatus est &amp; satisfecit &amp; 
+       <lb ed="#B" n="35"/>recedere potest libere quandocunque ei placuerit ante voti solennizationis: secundum quod alibi pla- 
+       <lb ed="#B" n="36"/>nius declarauimus.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

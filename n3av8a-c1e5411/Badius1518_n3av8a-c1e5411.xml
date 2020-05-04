@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="568-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5411">
+       <head xml:id="n3av8a-c1e5411-Hd1e96">Quaestio 9</head>
+       <p xml:id="n3av8a-c1e5411-d1e99">
+        <lb ed="#B" n="49"/>CIrca secundum arguitur quod generalia interdicta in communitatibus non sunt licita, sic. Inno 
+       <lb ed="#B" n="50"/>centius dicit de sententia excommunicationis. c. Romana ecclesia. In vniuersitatem vero 
+       <lb ed="#B" n="51"/>vel collegium proferri excommunicationis sententiam penitus ihibemus volentes animarum vitare 
+       <lb ed="#B" n="52"/>periculum quod exinde sequi posset, cum nonnumquam contingeret innoxios in huiusmodi scientia irretiri, quid  
+       <lb ed="#B" n="53"/>vt dicit Greti. esse non debet: cum peccata tantum suos actores tenere debent. s, quando fiunt genera 
+       <lb ed="#B" n="54"/>lia interdicta in communitatibus, etiam multi inoxii huiusmodi interdicto irretiuntur. ergo &amp;c. Item 
+       <!--1177.xml-->
+       <pb ed="#B" n="568-v"/>
+        <lb ed="#B" n="1"/>illicitum est accipere beneficium sine seruitio, sed clerici in interdictis accipiunt sua beneficia. ergo &amp;c. 
+       <lb ed="#B" n="2"/>
+      </p>
+      <p xml:id="n3av8a-c1e5411-d1e123">
+       IN contrarium sunt vsus &amp; consuetudo ecclesiae. 
+      </p>
+      <p xml:id="n3av8a-c1e5411-d1e126">
+       DIco quod quia sim dicta in praecedenti quaestione princeps quodammo 
+       <lb ed="#B" n="3"/>repraesentat totam communitatem quo est sub ipso, ideo factum suum interpretatiue censetur factum totius communita 
+       <lb ed="#B" n="4"/>tis. propter quod pro deli cto principis contra ecclesiam vt citius ad emendam compellatur, licitum est interdictum 
+       <lb ed="#B" n="5"/>in communitatem. in quo nullus omnino innoxius punitur, quia illi qui in multitudine non sunt noxii, propria no  
+       <lb ed="#B" n="6"/>xa personali, sunt tamen noxii interpretatiue noxa sui capitis, sm quod membrum reputatur noxium noxa capitis: &amp; 
+       <lb ed="#B" n="7"/>quemadmodum quodammodo omnes sumus noxii noxa primi parentis, licet alias multum sit dissimile. Et ratio 
+       <lb ed="#B" n="8"/>ista veritatem habet in interdicto terrae ipsius principis. sed si princeps malefaciat contra ecclesiam aliquam: &amp; 
+       <lb ed="#B" n="9"/>propter hoc feratur interdictum in terram alienam: non video ibi rationabilem cauam, quia ibi nullus est noxius 
+       <lb ed="#B" n="10"/>nec vere, nec interpretatiue. Quod arguitur in oppositum de sententia excommunicationis, dico quod non ⁋ 
+       <lb ed="#B" n="11"/>est omnino simile, quia sententia excommunicationis multo grauior poena est quam interdicti, propter quod  
+       <lb ed="#B" n="12"/>maiori cautela ferenda est. propter quod licet interdictum feratur in conmunitatem pro delicto solius principis, non  
+       <lb ed="#B" n="13"/>tamen sententia excommunicationis, dum tamen non constet euidenter singulos fore in delicto, sicut sunt omnes &amp; sin 
+       <lb ed="#B" n="14"/>guli graecorum in delicto schismatis contra ecclesiam latinorum, in quam vt puto bene posset potentia iuris 
+       <lb ed="#B" n="15"/>sententiam excommunicationis ferre, non obstante edicto Innocentii quid loquitur in casu: cum praesumi potest quod in communita-  
+       <lb ed="#B" n="16"/>te sint aliqui innocentes. Ad secundum quod in interdictis clerici sumunt sua beneficia, quid non licet: Dico i 
+       <lb ed="#B" n="17"/>quod verum est si ipsimet ferrent interdictum in ecclesiam suam absque causam rationabili. sed si cauam rationabili ferant illud quod  
+       <lb ed="#B" n="18"/>feratur a suo superiori, non debent perdere sua beneficia, quia non stat per ipsos ne faciant officia.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

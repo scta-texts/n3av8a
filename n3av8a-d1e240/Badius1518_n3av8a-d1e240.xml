@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="238-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e240">
+       <head xml:id="n3av8a-d1e240-Hd1e96">Quaestio 16</head>
+       <p xml:id="n3av8a-d1e240-d1e99">
+        <lb ed="#B" n="45"/>SEquuntur quaesita de homine principaliter ex parte coniuncti. &amp; erant quaedam pertinentia ad  
+       <lb ed="#B" n="46"/>obligationem: quaedam ad poenam. De primo erant quaetuor proposita. Vnum per 
+       <lb ed="#B" n="47"/>tinens ad statum. Aliud ad regulam. Tertium ad votum. Quartum ad ingressum. 
+       <lb ed="#B" n="48"/>
+      </p>
+      <p xml:id="n3av8a-d1e240-d1e110">
+       PRImum, vtrum professus in regula arctiori interdicta nequis nouitius in ea de cae- 
+       <lb ed="#B" n="49"/>tero recipiatur: si de licentia papaetranseat ad laxiorem: poterit reuerti &amp; reacci- 
+       <lb ed="#B" n="50"/>pi ad suam regulam priorem. 
+      </p>
+      <p xml:id="n3av8a-d1e240-d1e117">
+       SEcundum: vtrum omnia quae continentur in  
+       <lb ed="#B" n="51"/>regula beati <name ref="#Augustine">Augustini</name> sint praecepta. 
+      </p>
+      <p xml:id="n3av8a-d1e240-d1e125">
+       TERtium vtrum sit licitum volentes 
+       <lb ed="#B" n="52"/>morari in saeculo inducere ad vouendum tria principalia vota religionis. 
+      </p>
+      <p xml:id="n3av8a-d1e240-d1e131">
+       QVARtum vtrum religionis in  
+       <lb ed="#B" n="53"/>gressum quis posset differre propter paupertatem parentum. 
+      </p>
+      <p xml:id="n3av8a-d1e240-d1e136">
+       CIRca primum arguitur quod non  
+       <lb ed="#B" n="54"/>quia non licet in illa recipere nouitium, quare eadem ratione nec alterius professionis religiosum. 
+       <!--516.xml-->
+       <pb ed="#B" n="238-r"/>
+        <lb ed="#B" n="1"/>CONtra,. non est existentibus in illa regula inhibitum ne suum professum postquam abscesserit reuo- I 
+       <lb ed="#B" n="2"/>cent: ergo licitum est eis reuocare &amp; recipere eum iterato. 
+      </p>
+      <p xml:id="n3av8a-d1e240-d1e149">
+       AD hoc dicendum: quod in omnibus edi- l 
+       <lb ed="#B" n="3"/>ctis ecclesiasticis &amp; saecularibus non tam inspicienda sunt verba edicti: quam causa siue ratio: vt potius ipsa a 
+       <lb ed="#B" n="4"/>obseruentur iuxta intentionem edicentis &amp; rationem propter quam sunt edicta: quam iuxta verba sonantia. Qua 
+       <lb ed="#B" n="5"/>re cum edictum quo regula aliqua sic interdicitur quod professores eius nuilum deinceps ad eorum  
+       <lb ed="#B" n="6"/>professionem admittant: vt in const. de relitgi. Domini Greti. x. non interdicitur nisi vt in se &amp; in  
+       <lb ed="#B" n="7"/>personis ipsis professis &amp; profiteri petentibus omnino deficiat. &amp; ob hoc datur omnibus iam potestas trans- 
+       <lb ed="#B" n="8"/>ferendi se ad regulam laxiorem. Quam cum aliquis istorum ingressus fuerit &amp; professus: iam omnino est 
+       <lb ed="#B" n="9"/>absolutus a regula illa interdicta: &amp; ipsa deficit in persona illa: ita quod si reuerteretur &amp; iterum eam 
+       <lb ed="#B" n="10"/>assumeret: iam contra edictum ageretur. 
+      </p>
+      <p xml:id="n3av8a-d1e240-d1e169">
+       IDcirco oportet simpliciter tenere quod talis non potest reuerti 
+       <lb ed="#B" n="11"/>etiam post regulae laxioris professionem: nec licitum est eum ad illam resumere. 
+      </p>
+      <p xml:id="n3av8a-d1e240-d1e174">
+       AD argumen 
+       <lb ed="#B" n="12"/>tum in oppositum, quod non est prohibitum ne recipiant nouitium: Dicendum quod verum est quantum  
+       <lb ed="#B" n="13"/>ad verba prohibitionis &amp; explicite. quantum tamen ad intentionem &amp; rationem prohibentis est prohi- 
+       <lb ed="#B" n="14"/>bitum de omnibus qualescunque fuerint: vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="270-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2906">
+       <head xml:id="n3av8a-c1e2906-Hd1e96">Quaestio 16</head>
+       <p xml:id="n3av8a-c1e2906-d1e99">
+        <lb ed="#B" n="36"/>CIrca quartum arguitur: quod resurrectio corporum humanorum non sit possibilis. quia non est resur- 
+       <lb ed="#B" n="37"/>rectio nisi eiusdem secundum numerum. ldem autem secundum numerum impossibile est resurgere, nisi 
+       <lb ed="#B" n="38"/>eadem trasmutatione, &amp; in eodem nunc recipiat idem esse iterato quod prius habuit: secundum artem 
+       <lb ed="#B" n="39"/>hilosophi in. v. Physi. illud autem omnino est ipossibile. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2906-d1e110">
+       IN contrarium est fides christia 
+       <lb ed="#B" n="40"/>na. 
+      </p>
+      <p xml:id="n3av8a-c1e2906-d1e115">
+       DIcendum ad hoc: quod carnis resurrectio non est nisi quaedam natiuitas eiusdem quid prius. 
+       <lb ed="#B" n="41"/>occidit. dicente Grego. A. Moral. s. Nisi ipsa carnis resurrectio quasi quaedam natiuitas esset 
+       <lb ed="#B" n="42"/>de ea veritas non dixisset, in regeneratione cum sederit filius hominis &amp;c. Et hoc, quia &amp; prima &amp; secundanatiuitas ex 
+       <lb ed="#B" n="43"/>praeexistente materia fit. Proptur quod minus mirabilis est resurrectio quam creatio. dicente eodem li. vi. ca. ix. Procul 
+       <lb ed="#B" n="44"/>dubio constet omnibus quia plus sit creari quid non erat: quam reparari quid erat. &amp; tamen de miraculis dei est: quae vt dicit 
+       <lb ed="#B" n="45"/>ibidem, semper debent considerari per studium, &amp; numquam discuti per intellectum. Saepe namque humanus sesus dum quarundam  
+       <lb ed="#B" n="46"/>rerum rationem quaerens non inuenit: in dubitationis se voraginem mergit. Vnde fit vt nonnulli homines mortuorum cor 
+       <lb ed="#B" n="47"/>pora in puluerem redacta considerent: dumque resurrectionis vim ex ratione colligere non possunt: hoc ad statum pri 
+       <lb ed="#B" n="48"/>stinum redire desperent. Sed homo de hoc non debet dubitare: etsi ratione non possit comprehendere: vt dicit super 
+       <lb ed="#B" n="49"/>Eze, per ii. homil. viii. c. vi: per totum. Quod probat per plurima scripturae testimonia ibidem. c. iiii. &amp; per similia circa crea 
+       <lb ed="#B" n="50"/>turas. capiaul v per totum: quia si illam homo non credit: omnia alia sine causa creduntur. ibidem caia. vi. Veruntamen etsi hoc non 
+       <lb ed="#B" n="51"/>possumus ratione comprhendere: tamen aliquantulum tentemus vt fidem vacillantium in hoc aliquantulum sustentemus. Nec 
+       <lb ed="#B" n="52"/>est in hoc dubitatio aliqua ex parte dei cuius virtute perficienda est: sed totaliter ex parte rei in qua perficien- 
+       <lb ed="#B" n="53"/>da est. Deo enim possibile est facere quicquid in creaturis possibile est fieri. Ex parte autem rei quo ad animam in  
+       <lb ed="#B" n="54"/>tellectiuam quae immortalis manet &amp; separata, retinens in se esse quod corpori prius communicauit: &amp; nata est quantum  
+       <!--580.xml-->
+       <pb ed="#B" n="270-r"/>
+        <lb ed="#B" n="1"/>est in se iterum communicare: licet sub aliqua ratione incompleta: vt habitum est iam supra: non est in hoc  
+       <lb ed="#B" n="2"/>magna difficultas, quin de facili intelligatur quomodo possibilis sit resurrectio. Ex hoc enim dicitur fieri 
+       <lb ed="#B" n="3"/>eius quod cecidit resurrectio: quod idem esse quod primum habuit ei restituatur. Quare cum id ipsum secundum iam deter  
+       <lb ed="#B" n="4"/>minata totaliter manet in anima: qui videre potest quomodo eadem anima corpori suo possit restitui: non est difficile 
+       <lb ed="#B" n="5"/>ei videre quomodo idem esse numero quid prius possit recuperari, non solum quod consistit in rei existentia, quod in 
+       <lb ed="#B" n="6"/>se conseruauit perseueranter anima. Vnde de huiusmodi esse conseruatione in anima manente loquitur beatus Grego. sub nomine 
+       <lb ed="#B" n="7"/>vitae quae non dicit super esse nisi determinatum modum essendi: vt alibi determinauimus. vnde dicit quomo- 
+       <lb ed="#B" n="8"/>do dominus reddidit lob in filiis &amp; filiabus duplicia: cum tamen tres filias &amp;. vii. filios habuit: &amp; cum. vii. filios 
+       <lb ed="#B" n="9"/>&amp; tres filias recepisse describitur: cum dicit. xxxv. libro Moralium. c. xv. Addidit dominus quaecumque fuerant lob du-  
+       <lb ed="#B" n="10"/>plicia: &amp; tamen tot filios ei restituit quot amisit: &amp; filios dupliciter addidit: qui. x. postmodum in carne re- 
+       <lb ed="#B" n="11"/>stituit. x. vero qui amissi fuerant in occulta animarum vita reseruauit. Vnde dubitatio tota de resurrectionis 
+       <lb ed="#B" n="12"/>possibilitate &amp; difficultas restat ex parte corporis resoluti in pluralitatem materiae. Sed in hoc apud po 
+       <lb ed="#B" n="13"/>nentes quod in homine cum nuda materia non est forma alia ab anima intellectiua: non magna restat dubitatio: cum 
+       <lb ed="#B" n="14"/>anima manet eadem numero quae prius: &amp; similiter materia: &amp; quantum est ex parte dei perfecta manet potentia 
+       <lb ed="#B" n="15"/>animam semel separatam eidem posse coniungere materiae: quae omnes easdem dispositiones materiales &amp; corpora 
+       <lb ed="#B" n="16"/>les secum adducat quae prius erant corruptae, quae etsi non essent eaedem numero, cum tamen sint accidentales: nihilomi- 
+       <lb ed="#B" n="17"/>nus esset vera &amp; perfecta resurrectio existente eodem substantialiter quid primo cecidit &amp; quod postea resurre- 
+       <lb ed="#B" n="18"/>xit. Idem enim numero manens mutatur secundum tempora. secundum diuersa accidentia. Magna autem restat dubi- 
+       <lb ed="#B" n="19"/>tationis occasio illis qui ponunt quod in homine praeter animam intellectiuam sit alia forma corporalis educta de 
+       <lb ed="#B" n="20"/>potentia materiae. secundum modum alias a nobis expositum. Isti enim debent ostendere quomodo forma prius cor- 
+       <lb ed="#B" n="21"/>rumpta postmodum possit eadem numero reparari. Sed in hoc non restat adhuc difficultas ex parte agen 
+       <lb ed="#B" n="22"/>tis resurrectionem scilicet dei: quia eidem possibile est agere quicquid omnino non est impossibile fieri ex parte naturae  
+       <lb ed="#B" n="23"/>&amp; rei extra. Ex parte autem naturae &amp; rei extra adhuc non potest esse difficultas nisi ex parte materiae 
+       <lb ed="#B" n="24"/>vel ex parte ipsius formae iam corruptae. Non ex parte materiae: quia ipsa manet secundum eandem potentiam in quam 
+       <lb ed="#B" n="25"/>forma corrupta est resoluta: ex qua prius erat educta: &amp; ex qua quantum est ex parte materiae, iterato  
+       <lb ed="#B" n="26"/>potest educi quantuncumque sit sub forma alia. Vnde cum in eadem materia numero omnes formae generabiles &amp; cor- 
+       <lb ed="#B" n="27"/>ruptibiles sunt in potentia: licet sub vna sit tantum in actum: &amp; licet etiam materia quae aliquando fuit sub forma 
+       <lb ed="#B" n="28"/>singulari alicuius hominis: postea habeat esse sub forma alicuius bestiae: manet tamen in potentia vt ex illa possit 
+       <lb ed="#B" n="29"/>educi forma hominis corrupta: inquantum erat in potentia ad illam: non autem inquantum erat in potentia ad aliam. dicen 
+       <lb ed="#B" n="30"/>te Grego, per ii. super Ezech. homil. viii. cauia. v. Carnem hominis lupus comedit: lupum leo deuorauit: leo moriens 
+       <lb ed="#B" n="31"/>in puluerem rediit: quomodo caro hominis a lupi &amp; leonis carne diuiditur: Quibus quid respondere aliud debe- 
+       <lb ed="#B" n="32"/>mus, nisi prius cogitent qualiter in hoc mundo venerunt: &amp; tunc inuenient qualiter resurgent: quod intelli- 
+       <lb ed="#B" n="33"/>gendo aspiciendo ad potentias diuersas materiae ex quibus educuntur in esse, &amp; in quas resoluuntur, &amp; 
+       <lb ed="#B" n="34"/>iterum possunt educi: Vnde addit post aliqua interposita. Quid mirum si possit omnipotens deus in illa resur 
+       <lb ed="#B" n="35"/>rectione mortuorum carnem hominis distinguere a carne bestiarum: &amp; vnus idemque puluis non resurgat in-  
+       <lb ed="#B" n="36"/>quantum puluis lupi &amp; leonis sed hominis: Reuera dubium non est quin per hunc modum possit reparari 
+       <lb ed="#B" n="37"/>idem specie per idem agens specie: &amp; per eandem secundum speciem actionem: sed diuersis numero ab illis quibus 
+       <lb ed="#B" n="38"/>forma corrupta fuit in esse producta. Sed de eodem numero est summa dubitationis: non ex parte materiae:  
+       <lb ed="#B" n="39"/>neque dei agentis: sed ex parte transmutationis qua de potentia materiae forma iterato educenda est: quae  
+       <lb ed="#B" n="40"/>cum non potest esse eadem numero cum illa quae primo fuit in esse producta: quia non potest esse in eodem tempore: non 
+       <lb ed="#B" n="41"/>videtur posse eadem forma numero reparari. iuxta illud quod hic determinat <name ref="#Aristotle">philosophus</name> circa sanitatem prius cor 
+       <lb ed="#B" n="42"/>ruptam: &amp; postmodum regeneratam: quod non possit reparari eadem numero nisi fuerit repetita eadem trasmu 
+       <lb ed="#B" n="43"/>tatio numero: quid est omnino impossibile: vt ibidem dicit Commen. Et est dicendum: quod licet hoc non sit pos- 
+       <lb ed="#B" n="44"/>sibile agenti naturali: quia proximum generans naturale non agit producendo aliquid de potentia in actum nisi 
+       <lb ed="#B" n="45"/>per aliquam sui transmutationem: quia trasmutatum transmutat materiam: ita quod propria transmutatio 
+       <lb ed="#B" n="46"/>est ad propriam formam: &amp; sicut ad albedinem est motus albationis non nigrationis, sic ad hanc albedinem iste 
+       <lb ed="#B" n="47"/>motus albationis &amp; non alius. Vnde quia agens naturale non potest repetere eandem transmutatio- 
+       <lb ed="#B" n="48"/>nem qua prius aliquid generauit: quia interrupta est: &amp; interruptum non potest esse vnum &amp; idem nume 
+       <lb ed="#B" n="49"/>ro prius &amp; posterius: sicut nec potest idem tempus prius corruptum reuerti: idcirco ergo non potest idem cor 
+       <lb ed="#B" n="50"/>ruptum iterato generari ab agente naturali. Est tamen possibile hoc multum agenti supnaturali: quia non 
+       <lb ed="#B" n="51"/>agit aliquid aliqua transmutatione qualis est in naturalibus: sed semper eodem modo manens &amp; non dependens ab  
+       <lb ed="#B" n="52"/>aliqua transmutatione circa subiectum praeexistens, qualiter dependet actio naturalis, immutat singula. Pro 
+       <lb ed="#B" n="53"/>pterea eodem modo se habet in prima rei productione &amp; in quacumque alia: &amp; ideo vlterius &amp; vniformiter potest 
+       <lb ed="#B" n="54"/>idem numero producere prima productione &amp; alia sequente: &amp; indifferenter etiam ex nihilo sicut ex aliquo: quia sua 
+       <!--581.xml-->
+       <pb ed="#B" n="270-v"/>
+        <lb ed="#B" n="1"/>actio &amp; vt est a se, &amp; vt recipitur secundum dictum modum in subiecto materiae primo &amp; secundo: est peni 
+       <lb ed="#B" n="2"/>tus vna actio: ac si agens naturale eandem transmutationem numero circa eandem materiam repeteret. 
+       <lb ed="#B" n="3"/>
+      </p>
+      <p xml:id="n3av8a-c1e2906-d1e283">
+       PER haec patet ad primum: quod non producitur idem iterato nisi repetita transmutatione eadem. Dicendum  
+       <lb ed="#B" n="4"/>quod verum est de agente naturali: quid eget transmutatione ad hoc quod agat: &amp; non agit actione quae ipsum 
+       <lb ed="#B" n="5"/>est. propter quod non potest vniformiter se habere in secunda productione &amp; in prima: &amp; ideo nec idem pro 
+       <lb ed="#B" n="6"/>ducere. Non tamen est verum de agente supernaturali quod non eget trasmutatione in sua actione: sed ipse 
+       <lb ed="#B" n="7"/>est agens actione quae ipse est. Propter quod potest se vniformiter habendo in secunda productione: &amp; 
+       <lb ed="#B" n="8"/>in prima idem numero producere.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

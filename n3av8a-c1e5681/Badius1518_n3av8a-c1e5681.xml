@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="583-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5681">
+       <head xml:id="n3av8a-c1e5681-Hd1e96">Quaestio 12</head>
+       <p xml:id="n3av8a-c1e5681-d1e99">
+       <!--1206.xml-->
+        <pb ed="#B" n="583-r"/>
+        <lb ed="#B" n="1"/>SEquuntur quaesita pertinentia ad hominem viatorem, quo ad opus moris. &amp; erat vnum pertinens 
+       <lb ed="#B" n="2"/>ad opus vitii seu peccati, &amp; quatuor alia pertinentia ad opus virtutis siue girae. Illud vnum erat. 
+       <lb ed="#B" n="3"/>Vtrum magister vel scholaris qui tenetur ad horas canonicas, si dimittat illas dicere i 
+       <lb ed="#B" n="4"/>vno die propter studium &amp; lectiones ex proposito &amp; spe recuperandi &amp; dicendi illas alio 
+       <lb ed="#B" n="5"/>die, peccet mortaliter. Ex arguitur quod sic. quia facit opus dei negligenter. tali autem 
+       <lb ed="#B" n="6"/>Hieremias indicit propheticam maledictionem: quam non indicitur nisi propeccato mortali. ergo  
+       <lb ed="#B" n="7"/>&amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5681-d1e121">
+       CONtra. non est peccatum mortale nisi auersio a bono incommutabili, iste autem ab illo non auertitur: quia 
+       <lb ed="#B" n="8"/>manet in voluntate bona explendi illud quod omittit. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5681-d1e126">
+       DIco supponendo illa quae quaestio supponit, quod  
+       <lb ed="#B" n="9"/>talis magister vel scholaris aut dimittit dicere horas cessante legitimo impedimento dicendi illas die 
+       <lb ed="#B" n="10"/>illo, aut obueniente legitimo impedimento. Si primo modo, dico quod crassa atque supina esset negligentia, &amp; 
+       <lb ed="#B" n="11"/>ideo peccaret mortaliter, put bene procedit prima ratio Si secundo modo, in quo quaestio habet bonam dubitationem  
+       <lb ed="#B" n="12"/>Vtrum. scilicet occupatio in studio, &amp; lectionibus possit esse legitimum impedimentum non dicendi horas, quale est quando  
+       <lb ed="#B" n="13"/>que grauis infirmitas. Et est dicendum ad hoc, &amp; per hoc respondendum ad principalem quaestionem, quod in scholari vel 
+       <lb ed="#B" n="14"/>magistro illo aut est tanta necessitas studii vel lectionis quod instante tempore debito dicendi horas non posset 
+       <lb ed="#B" n="15"/>vacare per aliquid spatium residuum diei illius dicendis horis postpositi studio &amp; lectionibus absque magno discri 
+       <lb ed="#B" n="16"/>mine, aut scandalo superueniente ex dimissione studii, &amp; lectionum ad tempopus, aut non est illi tanta necessitas studii 
+       <lb ed="#B" n="17"/>aut lectionum, quin absque magno discrimine, aut scandalo superueniente ex tali lectionum &amp; studii dimissione 
+       <lb ed="#B" n="18"/>posset vacare horis dicendis. Si primo modo, distinguo: quia aut potuit praeuenire dicendo horas priusquam  
+       <lb ed="#B" n="19"/>sic arctaretur ad studium, vel lectiones, vt oporteret eum illo die dimittere horas dicere, aut discrimen, vel 
+       <lb ed="#B" n="20"/>scandalum permittere prouenire: aut non potuit dicto modo praeuenire. Si sic: tunc quod non praeuenit, contingit ei 
+       <lb ed="#B" n="21"/>aut quia non potuit praeuidere rationabili coniectura quod praeueniendum esset: aut potuit praeuidere, sed non fecit. Si pri 
+       <lb ed="#B" n="22"/>mo istorum duorum modorum, videlicet si sit necessitas studii vel lectionis vt in primo membro distinctionis 
+       <lb ed="#B" n="23"/>principalis: &amp; potuit praeuenire dicendo horas vt in primo membro primae subdistinctionis: sed non praeuenit, quia non 
+       <lb ed="#B" n="24"/>potuit rationabili coniectura praeuidere quod praeueniendum esset, vt dicit primum membrum secundae subdistinctionis, aut 
+       <lb ed="#B" n="25"/>etiam nequaquam potuit dicto modo praeuenire, vt dicit secundum membrum primae subdistinctionis: Dico quod cum omitte 
+       <lb ed="#B" n="26"/>re horas debitas dicere de genere peccatum sit, &amp; similiter de genere peccatum sit dimittere discrimen aut scandalum super 
+       <lb ed="#B" n="27"/>uenire, cum illi quis possit facto suo obuiare, &amp; impedire ne proueniret, in his duobus casibus incidit homin perplexi 
+       <lb ed="#B" n="28"/>tas aliqualis, vt homines secundum quod dicit Gregorius. xxxv. moralium ca. xiiii. si forte peccatum effugere ap- 
+       <lb ed="#B" n="29"/>petant, hoc sine alio peccati laqueo non euadant. In quo casu faciendum est illud quod consulit concilium Toleta 
+        <lb ed="#B" n="30"/>num. viii. &amp; habetur <ref xml:id="n3av8a-c1e5681-Rd1e175" target="http://scta.info/resource/gd-p1d13-d1e123">decretorum distin. l. cap. i.</ref> vbi sic loquitur. <quote xml:id="n3av8a-c1e5681-Qd1e179">Duo mala licet omnino cautissime sunt praecauen 
+       <lb ed="#B" n="31"/>da, tamen si periculi necessitas vnum ex his perpetrare compulerit, id debemus resoluere, quid miori nexu noscitur 
+       <lb ed="#B" n="32"/>obligari. Quid autem leuius ex his quid ve grauius sit, purae rationis acumine intelligemus</quote>. Idem consulit Greg. 
+       <lb ed="#B" n="33"/>vbi supra. dicens. Cum mens inter minora &amp; maxima peccatam astringitur, si omnino nullus sine peccato euadendi 
+       <lb ed="#B" n="34"/>aditus patet, minora semper eligantur: quia &amp; quimurorum ambitu vndique ne fugiat clauditur, ibi se in fugam prae 
+       <lb ed="#B" n="35"/>cipitat, vbi breuior murus ingreditur. Sic ergo in casu nostro comparanda sunt duo dicta de genere peccati 
+       <lb ed="#B" n="36"/>opera: &amp; acumine rationis perpendendum est, quod illorum est maius peccatum pro tempore &amp; loco. Quia si maius peccatum esset di  
+       <lb ed="#B" n="37"/>mittere discrimen aut scandalum illud superuenire, quam horas omittere, dico quod non peccat omnino ho-  
+       <lb ed="#B" n="38"/>ras omittendo dicere: immo peccaret illas dicendo, &amp; discrimini, aut scandalo non occurrendo: non in  
+       <lb ed="#B" n="39"/>dicendo horas: sed in non occurrendo discrimini, aut scandalo. In tali enim casu semper illud quod pro tempore, &amp; 
+       <lb ed="#B" n="40"/>loco esset minoris peccati, si non occurreret necessitas vitandi maius, amittit rationem peccati, &amp; perplexi- 
+       <lb ed="#B" n="41"/>tas ad peccandum nihil est nisi secundum erroneam opinionem stultorum. Vnde super dicto verbo Greti. Sin alio peccatia 
+       <lb ed="#B" n="42"/>queo non euadant, quod habetur dist. praedicta in caia. Nerui. dicit Glos. ibidem. Secundum opinionem eorum stultam semper 
+       <lb ed="#B" n="43"/>intelligas. Item super illo verbo concilii Toleta. Duo mala &amp;c. dicit Glos. Intellige quantum ad fatuam opinio 
+       <lb ed="#B" n="44"/>nem illius qui se credit perplexum. Non enim vtrumque illorum malum est: licet ille opinetur vtrumque malum esse. Est tamen vtrum- 
+       <lb ed="#B" n="45"/>que quantu est de se, de genere malorum. Propter quod etiam dicuntur secundum vera opinionem duo mala: &amp; secundum  
+       <lb ed="#B" n="46"/>Grego. vtrumque illorum dicitur peccati laqueus. Et est alia expositio illorum dictorum, &amp; secundum hoc etiam intelli 
+       <lb ed="#B" n="47"/>gendum est illud quod dicit Greti. in fine illius capituli Nerui. Itaque plerumque neruorum Behemoth perplexitas sol 
+       <lb ed="#B" n="48"/>uitur, dum ad virtutes maximas per conmissa minora transitur. Si vero discrimen, aut scandalum dictum superueniens 
+       <lb ed="#B" n="49"/>tam modicum esset quod maius peccatum esset horas omittere, quam discrimen, aut scandalum permittere prouenire, dico quod pec 
+       <lb ed="#B" n="50"/>caret horas omittendo: sed secundum magis, aut minus. secundum quod maiori, vel minori discrimini occurren- 
+       <lb ed="#B" n="51"/>do illas omitteret. Quanto ei discrimen illud, aut scandalum esset maius, tanto omittendo horas peccaret 
+       <lb ed="#B" n="52"/>minus, dum tamen peccatum maius esset omittere horas, quam illud discrimen, aut scandalum permittere proueni- 
+       <lb ed="#B" n="53"/>re: ita quod tam modicum posset esse scandalum, aut discrimen, quod omittere horas esset peccatum mortale. 
+       <lb ed="#B" n="54"/>Veruntamen quia non tantum obligatur quisque ad horas dicendas, aut generalitur ad aliquam ad quae obligatur ex 
+       <lb ed="#B" n="55"/>sola consuetudie, aut edicto ecclesiae, sicut ad horas dicendas, quantum obligatur ad custodiam diui 
+       <lb ed="#B" n="56"/>norum mandatorum, de quorum numero est occurrere discrimini, aut scandalo. In illis enim omittendis posset 
+       <!--1207.xml-->
+       <pb ed="#B" n="583-v"/>
+        <lb ed="#B" n="1"/>ecclesia dispensare, licet non in istis &amp; iuxta illud quid dicit Toletanum concilium, vbi supra, dum horas emitu 
+       <lb ed="#B" n="2"/>mus &amp; peccamus, creatorem quidem offendimus, sed nos tantummodo maculamus: cum vero discrimen, aut 
+       <lb ed="#B" n="3"/>scandalum peruenire permittimus, &amp; dei iussa contenmnimus, &amp; proximis impia crudelitate nocemus, &amp; nos 
+       <lb ed="#B" n="4"/>ipsi crudeli mortis gladio trucidamus. Illic enim duplici telo culparum perimimur, hic triplici iugu 
+       <lb ed="#B" n="5"/>lamur. Quod vt dicit ibi Glos. ideo dicit, quod hic tria offendimus ibi duo: &amp; cum hoc argumentum quod qui plures or 
+       <lb ed="#B" n="6"/>fendit plus peccat. Veruntamen inquam, quia non tantum obligatur quisque ad horas dicendas, quantum obligatur ad prae 
+       <lb ed="#B" n="7"/>ueniendum proximi discrimen, aut scandalum: idcirco dico quod vix posset esse tantillum discrimen, aut scandalum, 
+       <lb ed="#B" n="8"/>nisi forte esset solummodo veniale peccatum illi non occurrere: vt omittere horas dicere, aut peccatum mor- 
+       <lb ed="#B" n="9"/>tale, aut etiam veniale: quia non auertit se a bono incommutabili vt dicitur in secundo argumento, quod bene proce- 
+       <lb ed="#B" n="10"/>dit quo ad hoc in istis duobus casibus: licet non bene probet quod non auertitur a bono incommutabili, per hoc quod 
+       <lb ed="#B" n="11"/>manet in voluntate bona explendi illud quod omittit, vt iam videbatur. Si vero vt dicit secundum membrum  
+       <lb ed="#B" n="12"/>principalis distinctionis non sit tanta necessitas studii: aut lectionum quin absque discrimine aut scanda-  
+       <lb ed="#B" n="13"/>lo saltem mortali superueniente ex tali lectionum aut studii dimissione posset vacare horis dicendis: autem 
+       <lb ed="#B" n="14"/>si potuit praeuenire dicendo horas: vt dicit primum membrum primae subdistinctionis, &amp; praeuidere rationabi 
+       <lb ed="#B" n="15"/>li coniectura quod praeueniendum esset, sed non praeuenit nec praeuidit, vt dicit secundum membrum secundae subdistinctio 
+       <lb ed="#B" n="16"/>nis: in his duobus casibus credo quod mortalitur peccaret: si tamen sub poena peccati mortalis obligaret edi 
+       <lb ed="#B" n="17"/>ctum seu consuetudo de horis dicendis: quia in vtroque casu negligens est omittendo dicere horas debitas. Nec 
+       <lb ed="#B" n="18"/>est hic distinguendum de negligentia simplici &amp; crassa seu supina, quae posset habere locum in dicendo ho- 
+       <lb ed="#B" n="19"/>ras tepide aut truncate aut intempestiue: quia omnis negligentia in omittendo id ad quod quis obligatur 
+       <lb ed="#B" n="20"/>sub poena peccati mortalis, crassa est &amp; supina, de qua loquitur Hiere. in primo argumento, quod bene proce- 
+       <lb ed="#B" n="21"/>dit in istis duobus casibus. Quali modo quilibet obligatur ad custodiam diuinorum mandatorum: licet non teneatur 
+       <lb ed="#B" n="22"/>aliquis tantam diligentiam adhibere ad horas dicendas: quantam tenetur adhibere ad explendum diuina mandata:  
+       <lb ed="#B" n="23"/>quia vt dictum est: non tantum obligatur ad illas: quantum ad haec: ita quod licet aliquanta diligentia faciens opera mandatorum  
+       <lb ed="#B" n="24"/>dei reputaretur facere illa negligenter: &amp; peccaret mortaliter: tanta tamen diligentia dicens horas non reputa 
+       <lb ed="#B" n="25"/>retur illas dicere negligenter: &amp; non peccaret omnino: aut si aliquo modo reputaretur illas dicere negligenter: non 
+       <lb ed="#B" n="26"/>tamen propter hoc peccaret mortaliter etsi forte venialiter: sicut negligendo dicere horas omnino, &amp; facere 
+       <lb ed="#B" n="27"/>diuina mandata ex aequali negligentia, minus peccaret in non dicendo horas, quam in non faciendo diuina 
+       <lb ed="#B" n="28"/>mandata. Quia ergo arguitur primo: quod ille qui omittit dicere horas debitas ex proposito &amp; spe recupe 
+       <lb ed="#B" n="29"/>randi &amp; dicendi illas die sequenti, facit opus dei negligenter: Dico quod ista quatuor differunt: videlicet 
+       <lb ed="#B" n="30"/>facere opus dei, puta horas dicere, prouidenter, prudenter, negligenter, malignanter. Prouidenter enim 
+       <lb ed="#B" n="31"/>facit opus dei in dicendo horas qui rationabili coniectura prouidendo occupationem diei futuram in negotiis ne 
+       <lb ed="#B" n="32"/>cessariis seu vtilibus, maxime ad publicum aut, proximi profectum pertinentibus, praeueniendo tempropus consuetum 
+       <lb ed="#B" n="33"/>&amp; ordinatum dicendi horas, horas dicit infra tamen praecinctum vnius diei naturalis. Hoc enim licitum est prout 
+       <lb ed="#B" n="34"/>in alio Quolibet determinaui alias. Prudenter autem facit opus dei in horis dicendis: qui nulla alia ra 
+       <lb ed="#B" n="35"/>tionabili occupatione detentus horis debitis diei singulis singulas horas dicit. Negligenter vero di  
+       <lb ed="#B" n="36"/>cit horas qui nulla rationabilioccupatione impeditus dicit singulas horas: sed aut tepide aut trun- 
+       <lb ed="#B" n="37"/>cate aut praepostere. Et est maius delictum incidente negligentia in his tribus simul, quam si in duobus aut  
+       <lb ed="#B" n="38"/>vno tantum: &amp; iterum maius si in duobus ex illis quam si in vnicotantum: &amp; iterum maius delictum est 
+       <lb ed="#B" n="39"/>si sic dicantur horae horis indebitis quam si debitis, quid etiam esset per se negligenter dicere: etsi nullus il- 
+       <lb ed="#B" n="40"/>lorum trium modorum negligentiae concurreret: &amp; cum hoc esset maius delictum si dicerentur altero die 
+       <lb ed="#B" n="41"/>vt in casu propositae quaestionis: &amp; velt modorum negligentiae in horis dicendis tanto est maius deli- 
+       <lb ed="#B" n="42"/>ctum: quanto sit maiori contemptu &amp; maiori libidine circa ea circa quae quis occupatur. &amp; secun- 
+       <lb ed="#B" n="43"/>dum hoc aliquando est delictum veniale: &amp; aliquando potest esse delictum mortale. sed hoc tantummo in duobus ca- 
+       <lb ed="#B" n="44"/>sibus iam expositis quo ad casum quaestionis propositae. In primis enim duobus casibus omittere dice 
+       <lb ed="#B" n="45"/>re horas debitas non est negligentiae sed prudentiae: quia operi meliori insistitur secundum praedicta, etiam si aliquis 
+       <lb ed="#B" n="46"/>in illis casibus omittat dicere horas debitas absque omni proposito &amp; spe recuperandi &amp; dicendi illas in die 
+       <lb ed="#B" n="47"/>sequenti. Tale enim propositum non est necessarium ad hoc quod fine peccato omittat dicere horas in die debi 
+       <lb ed="#B" n="48"/>to, si nulla necessitas occurreret. Si tamen tale propositum adsit, auget meritum: sicut maioris meriti esset pia 
+       <lb ed="#B" n="49"/>&amp; discreta deuotione bis dicere singulas horas: quam semel. &amp; sic tale propositum &amp; horarum recuperatio 
+       <lb ed="#B" n="50"/>die sequenti meritum addit: &amp; illarum omissio in illis duobus casibus peccatum non apponit. Ad secun 
+       <lb ed="#B" n="51"/>dum quod est in contrarium, quod sic omittens horas dicere non auertitur a bono incommutabili: dico quod in-  
+       <lb ed="#B" n="52"/>mo in casu propositae quaestionis: &amp; in duobus vltimis casibus dictarum distinctionum: in quibus peccaret 
+       <lb ed="#B" n="53"/>mortaliter secundum praedicta: sicut &amp; in casibus in quibus negligendo peccaret venialitur a bono incommutabili se di  
+       <lb ed="#B" n="54"/>uertens. In duobus autem primis casibus dictarum distinctionum nec se diuertit omnino nec auertita bo 
+       <!--1208.xml-->
+       <pb ed="#B" n="584-r"/>
+        <lb ed="#B" n="1"/>no incommutabili: sed directe se conuertit ad illud. Et quando arguitur quod etiam in aliis casibus non auertitur 
+       <lb ed="#B" n="2"/>ab illo: quia manet in bona voluntate recuperandi &amp; implendi illud quod omittit: Dico quod etsi manet in volum 
+       <lb ed="#B" n="3"/>tate bona bonitate naturae aut moris incompleta: non tamen manet in bona voluntate gerae: quia illis modis omit 
+       <lb ed="#B" n="4"/>tendo necessario cadit a gratia. Siquis enim ad duo sub vna poena tenetur copulatiue: si alterum illorum omit- 
+       <lb ed="#B" n="5"/>tit, poenam incurrit. Nunc ergo postquam dictus magister aut scholaris tenetur sub poena peccati mortalis 
+       <lb ed="#B" n="6"/>quod supponit quaestio, ad duo sub copulatione scilicet &amp; ad dicendum horas, &amp; ad dicendum singulas infra praecinctum 
+       <lb ed="#B" n="7"/>cuiuslibet diei naturalis: licet ergo proponat recuparare alio die, &amp; implere omissum, nisi alia necessitate  
+       <lb ed="#B" n="8"/>occurrente exposita in duobus primis casibus praedictis, eo ipso quod omittit horas dicere illo die quo debuit 
+       <lb ed="#B" n="9"/>illas dicere, incidit in peccatum mortale: &amp; auertitur a bono incommutabili. Sicut &amp; ille qui alteri obli 
+       <lb ed="#B" n="10"/>gauit se iuramento ad soluendum illi pecuniam aliquam infra spatium alicuius certae diei: &amp; cessante legitima 
+       <lb ed="#B" n="11"/>cam &amp; rationabili compellente ad non soluendum illa die, si infra illum diem non soluerit, licet soluere eam omittat cum pro  
+       <lb ed="#B" n="12"/>posito soluendi eam illi die sequenti, mortaliter peccat, etiam si in die sequenti eam perfecte &amp; benigne soluat.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

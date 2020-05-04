@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e229">
+       <head xml:id="n3av8a-d1e229-Hd1e96">Quaestio 15</head>
+       <p xml:id="n3av8a-d1e229-d1e99">
+        <lb ed="#B" n="19"/>CIrca secundum arguitur: quod ambo sunt baptizati: dicendo Ego te baptizc. quoniam sicut 
+       <lb ed="#B" n="20"/>se habent corporaliter ad generationem corporalem, sic se habent spiritaliter ad generationem 
+       <lb ed="#B" n="21"/>spiritualem. Sed vna generatione corporali simul fuerunt corporaliter generati: ergo similiter 
+       <lb ed="#B" n="22"/>vnico actum spirituali sunt simul spiritaliter generandi. talis autem actus spiritalis sit per ver 
+       <lb ed="#B" n="23"/>ba sacramenti quibus dicitur Ego te baptizo. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e229-d1e112">
+       CONtra. in baptismate de-  
+       <lb ed="#B" n="24"/>bet esse determinata intentio ad baptizatum: sed in isto actu ad neutrum illorum fit determi 
+       <lb ed="#B" n="25"/>nata directio intentionis vt supponit quaestio: quia aliter nihil dubii haberet: ergo &amp;c. 
+       <lb ed="#B" n="26"/>lSta quaestio supponit quod iam dictum modostrum sit duae personae: quid reuera bene debet a baptizante supponi in  
+       <lb ed="#B" n="27"/>dubio: &amp; baptizare ipsum sicut duas. Quare dico siml respondendo ad quaestionem: quod vt procedit obiectio, deter 
+       <lb ed="#B" n="28"/>minata debet esse intentio ad determiatum baptizatum: ita quod si deficiat determiatio nihil agitur. Quare si con 
+       <lb ed="#B" n="29"/>tingeret quod in rei veritate essent duae personae: &amp; dirigeret intentionem quasi ad vnum solum, non determinando 
+       <lb ed="#B" n="30"/>quemquam illorum: nihil omnino ageret: &amp; neuter eorum esset baptizatus. Vnde in dubio siue sint duo siue non:  
+       <lb ed="#B" n="31"/>vtrumque per se apparens secundum capita debet baptizari sigillatim: &amp; tunc si duo sunt ambo baptizati 
+       <lb ed="#B" n="32"/>sunt: &amp; si tantum vnus ille etiam baptizatus est: quia in quaecunque parte apparente puer si cognoscitur esse vi 
+       <lb ed="#B" n="33"/>uens: potest baptizari. 
+      </p>
+      <p xml:id="n3av8a-d1e229-d1e136">
+       AD argumentum dicendum quod generatio improprie appellatur seminis pro 
+       <lb ed="#B" n="34"/>iectio in matricem: quia non est nisi quaedam praeparatio ad generationem: qua scilicet ponitur sernmen in loco 
+       <lb ed="#B" n="35"/>formationis in matrice: sed proprie appellatur generatio formatio foetus per vim seminalem modo iam di 
+       <lb ed="#B" n="36"/>cto. Et si sunt duo generati: duae sunt generationes, &amp; duo generantia, proxima: scilicet duo principia 
+       <lb ed="#B" n="37"/>seminaria vt dictum est: licet sit vnus generans a quo descindebatur, qui non dicitur proprie generans ex 
+       <lb ed="#B" n="38"/>hoc quod semen effudit in matricem mulieris: sed ex hoc quod vim seminalem in semine ad generandum hominem 
+       <lb ed="#B" n="39"/>ex semine virtute caloris membrorum seminalium in ipso generauit: quae licet sit vna quia in vno semine: 
+       <lb ed="#B" n="40"/>cum effundebatur: semine tamen diuiso per partes vt sint duo semina, similiter &amp; diuiditur vis seminalis vna vt fiant 
+       <lb ed="#B" n="41"/>duo. Similiter dicendum est ex parte generationis spiritalis: quod improprie est generatio spiritalis positio pueri 
+       <lb ed="#B" n="42"/>in aquam. Et hoc modo sicut simul prasent poni in aquam: improprie simul &amp; vnico actu spiritali generantur 
+       <lb ed="#B" n="43"/>Proprie autem loquendo generantur spiritaliter per intentionem &amp; verba: &amp; ideo ipsa debent geminari in generatione spiritali:  
+       <lb ed="#B" n="44"/>sicut ibi seminalis vis geminatur in generatione corporali.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

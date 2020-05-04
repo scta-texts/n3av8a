@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="440-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4273">
+       <head xml:id="n3av8a-c1e4273-Hd1e96">Quaestio 2</head>
+       <p xml:id="n3av8a-c1e4273-d1e99">
+        <lb ed="#B" n="10"/>CIrca secundum arguebaturi quod deus posset aliquid facere quod nullo modo dece- 
+       <lb ed="#B" n="11"/>ret eum facere: primo ex parte factibilis sic, Deus potest facere plures angelos sub vna 
+       <lb ed="#B" n="12"/>specie, quia contrarium est articulus damnatus: quid tamen nullo modo decet deum  
+       <lb ed="#B" n="13"/>facere: quia illud repugnaret perfectioni angelicae qua tota species in vnico indi  
+       <lb ed="#B" n="14"/>uiduo potest perpetuari. Plurificatio enim indiuiduorum non est nisi propter imperfe 
+       <lb ed="#B" n="15"/>ctionem eius quod non potest perpetuari in vnico indiuiduo: vt patet in homini- 
+       <lb ed="#B" n="16"/>bus. ergo &amp;c. Secundo ex parte factibilis &amp; facientis simul, sic. Factum a deo factum est meliori mo- 
+       <lb ed="#B" n="17"/>do quo potest fieri secundum rectam rationem: vt patet per <name ref="#Augustine">Augustinus</name> qui dicit. iii. de libe. arbi. cap. vii. 
+       <lb ed="#B" n="18"/>Credit humana anima deum fecisse quod vera ratione ab eo faciendum fuisse cognouit i etiansi hoc in  
+       <lb ed="#B" n="19"/>rebus factis non videt. 
+      </p>
+      <p xml:id="n3av8a-c1e4273-d1e126">
+       CNeque enim tu potes aliquid melius in creatura cogitare quod creaturae artificem 
+       <lb ed="#B" n="20"/>fugerit) quare etsi caelum oculis videre non posset: &amp; tamen ratione vera tale aliquid faciendum fuisa 
+       <lb ed="#B" n="21"/>se colligeret, credere debuit factum esse quamuis id oculis non videret. Quare quod a deo factum est, me 
+       <lb ed="#B" n="22"/>liori modo factum est quo potest fieri simpliciter. quia quid est melius simpliciter, est melius secundum 
+       <lb ed="#B" n="23"/>rectam rationem: cuius contrarium nullo modo decet: &amp; tamen posset illud facere: quia quod deus fa 
+       <lb ed="#B" n="24"/>cit optimo modo potest facere modo minus bono tantum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4273-d1e139">
+       CONtra, quod non decet deum incom 
+       <lb ed="#B" n="25"/>ueniens est deum facere: quia omne indecens est inconueniens: minimum autem indecens in deo ma 
+       <lb ed="#B" n="26"/>ximum est impossibile. secundum Anseius in libro cur deus homo, pri. cap. xx. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4273-d1e146">
+       DICENDVM ad  
+       <lb ed="#B" n="27"/>hoc, quod secundum Tullium in primo de officiis, de officio duplex est quaestio. Vna pertinens ad finem: &amp; 
+       <lb ed="#B" n="28"/>est de bono &amp; eius opposito quod est malum: vtrum scilicet quod propositum est sit bonum an malum: &amp; duo-  
+       <lb ed="#B" n="29"/>bus bonis propositis, vtrum illorum sit melius. Altera pertinens ad ea quae sunt ad finem: &amp; est duplex 
+       <lb ed="#B" n="30"/>quaestio: vna am scilicet factum vel faciendum sit honestum an turpe: &amp; duobus honestis propositis vtrum 
+       <lb ed="#B" n="31"/>illorum sit honestius: altera an factum vel faciendum sit vtile an inutile: &amp; duobus vtilibus propo 
+       <lb ed="#B" n="32"/>sitis, vtrum illorum sit vtilius. vt sint tria de quibus sit omnis quaestio in agibilibus &amp; factibilibus 
+       <lb ed="#B" n="33"/>quae sunt bonum, honestum, &amp; vtile: quae sunt eadem cum illis, licens, decens, &amp; expediens. Omne enim 
+       <lb ed="#B" n="34"/>licens ex sua natura est bonum &amp; econtrario: &amp; omne decens est honestum &amp; econtrario: &amp; omne 
+       <lb ed="#B" n="35"/>vtile est expediens, &amp; econtrario. Omne autem decens siue honestum &amp; omne vtile siue expediens 
+       <lb ed="#B" n="36"/>est bonum: sed non econuerso. Aliqua enim ex se bona sunt &amp; licita, quae tamen nec honesta sunt nec vti- 
+       <lb ed="#B" n="37"/>lia. Omnia enim mihi licentidicit Apostolus: sed non omnia expediunt: &amp; vere addi potest: neque hone 
+       <lb ed="#B" n="38"/>sta sunt. Sed de vtili &amp; honesto dubitatio est an omne vtile sit honestum &amp; econuerso. de honesto 
+       <lb ed="#B" n="39"/>autem determinat Tullius quod conflatur ex quatuor virtutibus cardinalibus. In omnibus enim operi 
+       <lb ed="#B" n="40"/>bus virtutum consistit honestum: &amp; quod ideo omne quod est vtile simpliciter ex natura sua: quia virtus 
+       <lb ed="#B" n="41"/>consona est naturae est honestum, &amp; econuerso. Non sic autem de vtili ex tempore quod appellatur 
+       <lb ed="#B" n="42"/>commodum: quod in malis solummodo pugnat cum honesto. Quod enim est turpe, licet sit vtile, ne 
+       <lb ed="#B" n="43"/>quaquam est eligendum: quia hoc secundum rectam rationem fieri non potest. quare cum deus nihil agit 
+       <lb ed="#B" n="44"/>propter vtile commodum: &amp; omnia secundum rectam rationem: in dei opere idem sunt bonum hone- 
+       <lb ed="#B" n="45"/>stum &amp; expediens. Quare, quia deus nullo modo potest facere quid non est bonum &amp; expediens, nul 
+       <lb ed="#B" n="46"/>lo modo potest facere quid non est decens siue decorum aut honestum. Verum ad clariorem huius 
+       <lb ed="#B" n="47"/>intellectum habendum, Sciendum quod factum aliquod dicitur honestum siue decens ex duplici ordi- 
+       <lb ed="#B" n="48"/>ne. Primo ex ordine quem habet ad facientis: secundo ex ordine ad aliud factum. Secundum primum 
+       <lb ed="#B" n="49"/>ordinem bonus &amp; sapiens nunquam facit nisi quod statum eius decet &amp; honestum sit facere: &amp; nunquam fa- 
+       <lb ed="#B" n="50"/>cit quod non decet statum suum: quia illud est indecens statui suo. Vnde quia regem non decet in-  
+       <lb ed="#B" n="51"/>trare cauponam &amp; ganeam cum scurris &amp; caeteris vilibus hominibus, rex sapiens hoc nunquam face- 
+       <lb ed="#B" n="52"/>ret. Et secundum istum modum deus, quia est optimus &amp; sapientissimus, nec facit nec potest facere 
+       <lb ed="#B" n="53"/>aliquid quod non decet eum facere. Et de tali modo proprie proposita est quaestio. Secundum ordinem secundum 
+       <lb ed="#B" n="54"/>aliquid dicitur decens siue honestum dupliciter, quid patet ex eius contrario, quod est indecens siue in-  
+       <!--920.xml-->
+       <pb ed="#B" n="440-r"/>
+        <lb ed="#B" n="1"/>honestum. Quia vno modo dicitur inhonestum vel indecens secundum ordinem aliquem particula- 
+       <lb ed="#B" n="2"/>rem ad aliquam causam particularem, &amp; ad facta aliqua particularia. Alio modo secundum ordinem vni 
+       <lb ed="#B" n="3"/>uersalem ad aliquam causam vniuersalem: &amp; vniuersaliter ad omnia alia. Primo modo inhonestum est 
+       <lb ed="#B" n="4"/>aliquod malum poenae, puta quod aliquis sit caecus: vt erat ille de quo est sermo loan. ix. indecens est &amp; 
+       <lb ed="#B" n="5"/>inhonestum in ordine ad merita eius: quia vt ibidem dicitur, nec ipse nec parentes eius meruerunt 
+       <lb ed="#B" n="6"/>vt caecus nasceretur. Similiter indecens est in ordine ad persectionem aliorum sensuum in illo: quemad- 
+       <lb ed="#B" n="7"/>modum indecens esset quod patibulum latronum statueretur in medio foro ciuitatis, vbi nihil mali de 
+       <lb ed="#B" n="8"/>meruerunt ciues, aut maiores eorum. Decens autem est quod stet extra ciuitatem ad suspendendum la 
+       <lb ed="#B" n="9"/>trones. Et consimiliter decens est quod quandoque per publicam iustitiam excaecetur id meritus. Secundo  
+       <lb ed="#B" n="10"/>modo nihil est inhonestum nisi malum culpae. Nullum enim malum poenae contingit in particula- 
+       <lb ed="#B" n="11"/>ri quod non congruit vniuerso, &amp; est eius causa rationabilis &amp; certa, quamuis nobis incognita multo- 
+       <lb ed="#B" n="12"/>tiens. &amp; sic decens &amp; honestum fuit quod ille caecus nasceretur loan. ix. quia ex hoc est quiddam decens 
+       <lb ed="#B" n="13"/>&amp; honestum ortum scilicet dei glorificatio, vt ibidem dicitur. De illo ergo quod est indecens isto secun- 
+       <lb ed="#B" n="14"/>do modo: dico quod deus non potest facere quod non decet ipsum facere, sicut nullo modo potest pec 
+       <lb ed="#B" n="15"/>care. Et positio illorum implicare videtur quod hoc quod est facere angelum imperfectum sit tale 
+       <lb ed="#B" n="16"/>indecens. De illo autem quod est indecens primo modo quod tamen decens est &amp; honestum per op- 
+       <lb ed="#B" n="17"/>positionem ad indecens secundo modo: Dico quod deus potest facere quod est indecens: non tamen sub 
+       <lb ed="#B" n="18"/>ratione illa qua est indecens, aspiciendo ad ordinem &amp; causam particularim: sed sub ratione qua est 
+       <lb ed="#B" n="19"/>decens aspiciendo ad ordinem vniuersalem &amp; causam superiorem &amp; vniuersalm: secundum quem 
+       <lb ed="#B" n="20"/>modum alias declarauimus quomodo deus erat causa caecitatis &amp; mali poenae in illo caeco nato: &amp; quid  
+       <lb ed="#B" n="21"/>sic erat decens, licet secundum alium ordinem indecens, bene deum decuit facere non secundum quod 
+       <lb ed="#B" n="22"/>erat indecens sed solum secundum quod erat decens. Et sic absolute dico: quod deus nullo modo potest fa- 
+       <lb ed="#B" n="23"/>cere aliquid quod nullo modo &amp; secundum nuilum ordinem deceret eum facere: immo quicqnid facit 
+       <lb ed="#B" n="24"/>decet eum facere: &amp; quicquid facere potest, si faceret, deceret eum facere, &amp; non nisi secundum ordi- 
+       <lb ed="#B" n="25"/>nem decentem faceret. Vnde si potest deus Petrum damnare &amp; ludam saluare de potentia absoluta, 
+       <lb ed="#B" n="26"/>hoc non est nisi quia deceret eum facere hoc secundum ordinem aliquem iustitiae si faceret, nec aliter pos- 
+       <lb ed="#B" n="27"/>set illud facere. Et sic nihil potest deus facere de potentia absoluta, quin illud potest facere de poten- 
+       <lb ed="#B" n="28"/>tia ordinata: licet secundum alium ordinem quam sit ille propter quem dimittit illud facere: ita tamen 
+       <lb ed="#B" n="29"/>quod semper facit quod melius &amp; rationabilius est aspiciendo ad totum ordinem vniuersi, secundum 
+       <lb ed="#B" n="30"/>quem multa non facit quae posset facere. Ex quo patet quod valde inconueniens est dicere quod deus pos 
+       <lb ed="#B" n="31"/>set plures angelos facere sub eadem specie secundum dictum modum, quos tamen non facit, quia non  
+       <lb ed="#B" n="32"/>decet eum illos facere. Si autem intelligatur quod potest illos facere: &amp; absolute quod secundum nuilum 
+       <lb ed="#B" n="33"/>ordinem omnino decet eum illos facere, simpliciter falsum est &amp; erroneum. Si vero intelligatur quod  
+       <lb ed="#B" n="34"/>potest illos facere quod tamen deceret eum facere eos secundum aliquem ordinem si illos facit: sed quod non facit 
+       <lb ed="#B" n="35"/>hoc est quia secundum alium ordinem conuenientiorem non decet eum illos facere, nec decuit eum 
+       <lb ed="#B" n="36"/>illos fecisse, bene debet concedi. Sed vtrum iam fecerit plures sub eadem specie, an tantum singulos sub 
+       <lb ed="#B" n="37"/>singulis speciebus, vt sint tot species angelorum quot sunt angeli: an sint plures sub vna specie, an  
+       <lb ed="#B" n="38"/>omnes eiusdem speciei: de hoc nihil ad praesens: sed an possibile sit plures fieri sub eadem specie sem- 
+       <lb ed="#B" n="39"/>per tamen secundum esse perfectius &amp; imperfectius iuxta praedictum modum in quaestione praecedenti 
+       <lb ed="#B" n="40"/>an secundum aequalem perfectionem ipsius esse: de hoc similiter nihil ad praesens plus quam iam dictum 
+       <lb ed="#B" n="41"/>est. Concedenda est ergo ratio vltima probans quod deus nihil potest facere quod nullo modo deceret 
+       <lb ed="#B" n="42"/>ipsum facere. Ad primum in oppositum: quod repugnat perfectioni angelorum facere plures sub eadem 
+       <lb ed="#B" n="43"/>specie: dicendum secundum praedicta in praecedente quaestione quod falsum est quid assumit: &amp; ad illius 
+       <lb ed="#B" n="44"/>probationemi quod plurificatio indiuiduorum sub eadem specie non est nisi propter ipsius speciei im- 
+       <lb ed="#B" n="45"/>perfectionem: dicendum quod plurificatio indiuiduorum sub eadem specieiduo respicit scilicet &amp; pluralita- 
+       <lb ed="#B" n="46"/>tem multitudinis ex parte speciei, &amp; modum multiplicandi ex parte actus, quo multiplicantur. Quo  
+       <lb ed="#B" n="47"/>ad primum dico quod non est nisi propter perfectionem formae speciei. Quo ad secundum dico quod plurifica 
+       <lb ed="#B" n="48"/>tio per actionem alterius: vt per creationem, nullo modo repugnat perfectioni speciei: immo hoc est 
+       <lb ed="#B" n="49"/>de eius perfectione: plurificatio autem eius per actionem propriam scilicet per generationem non  
+       <lb ed="#B" n="50"/>est sine aliqua perfectione speciei, qua scilicet nopotest plurificari in vno secundum numerum. vt 
+       <lb ed="#B" n="51"/>procedit obiectio: non tamen est ipsa plurificatio effectiue propter illam imperfectionem, sicut nec ipsa 
+       <lb ed="#B" n="52"/>generatio simpliciter, sed potius propter perfectionem: perfectionis enim est generare &amp; perfectorum 
+       <lb ed="#B" n="53"/>tantum licet generare in aliena materia sit imperfectionis: sed hoc non propter ipsum generare, sed pro 
+       <lb ed="#B" n="54"/>pter ipsum aliud generatum &amp; alienam materiam: secundum quod amplius declarauimus hoc loquen- 
+       <!--921.xml-->
+       <pb ed="#B" n="440-v"/>
+        <lb ed="#B" n="1"/>do de generatione in diuinis. Ad secundum: quod factum a deo factum est meliori modo quo fieri 
+       <lb ed="#B" n="2"/>potest: dicendum quod verum est aspiciendo ad totum ordinem qui nunc est in rebus. Et quod assumi- 
+       <lb ed="#B" n="3"/>tur: quod contrarium illius nullo modo decet, dicendum quod verum est secundum illum ordinem qui  
+       <lb ed="#B" n="4"/>nunc est: si tamen potest illud facere &amp; faceret secundum alium ordinem esset decens &amp; melius quam non 
+       <lb ed="#B" n="5"/>facere. Nihil enim omnino potest fieri in rerum natura quod cadit extra ordinem diuinae sapien- 
+       <lb ed="#B" n="6"/>tiae atque iustitiae omnino.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

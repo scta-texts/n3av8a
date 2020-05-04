@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 10</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 10</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="532-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5194">
+       <head xml:id="n3av8a-c1e5194-Hd1e96">Quaestio 10</head>
+       <p xml:id="n3av8a-c1e5194-d1e99">
+        <lb ed="#B" n="22"/>CIrca tertium arguitur: quod actio volitionis moralis speciem moris fortiatur ab obiecto: quia a  
+       <lb ed="#B" n="23"/>cuius entitate habet actus entitatem: &amp; ab eius bonitate naturae, bonitatem naturae: &amp; ab  
+       <lb ed="#B" n="24"/>eius bonitate moris, bonitatem moris. sed aliquod est obiectum habens entitatem &amp; bonitatem 
+       <lb ed="#B" n="25"/>naturae d bonitatem moris: vt pascere esurientem: ergo cum entitate actio habet speciem 
+       <lb ed="#B" n="26"/>entitatis: quia potentiae distinguuntur per actus, &amp; actus per obiecta. ii. de Aima, quare &amp; a tali 
+       <lb ed="#B" n="27"/>obiecto actus habet speciem omnis bonitatis quam habet. ergo &amp;c. Contra, ab illo ha-  
+       <lb ed="#B" n="28"/>bet actus volitionis speciem moris a quo habet quod sit laudabilis: quia bonum moris &amp; 
+       <lb ed="#B" n="29"/>virtutis secundum philosophum. i. Ethi. de numero laudabilium est, hoc autem habet a libera electione voluntatis:  
+       <lb ed="#B" n="30"/>ergo &amp;c. Quia quaestio ista de specie volitionis moralis non est nisi de bonitate actionis: a que scilicet eam for 
+       <lb ed="#B" n="31"/>tiatur: ens autem &amp; bonum sub sua ratione generalissima accepta conuertuntur: ideo dico: quod sicut ens inquantum  
+       <lb ed="#B" n="32"/>ens speciem habet ab eo quod contrahit ipsum inquantum ens est: sic bonum inquantum bonum speciem habet ab  
+       <lb ed="#B" n="33"/>eo quid contrahit ipsum inquantum bonum est. Nunc autem ita est: quod ens prima diuisione distinguitur in ens indetermi 
+       <lb ed="#B" n="34"/>natum, &amp; in ens determinatum. Dicitur autem ens indeterminatum ens in sua simplicitate acceptum siue conside 
+       <lb ed="#B" n="35"/>ratum absque omni determinatione contrahente ipsum, quod ideo dmi ens simpliciter. Ens vero determinatum de ens per  
+       <lb ed="#B" n="36"/>aliquam determinationem contractum, sicut cum contrahitur determinationibus istis quae sunt in se &amp; in alio. Ens 
+       <lb ed="#B" n="37"/>enim indeterminatum prima diuisione distinguitur in substantiam quae primum praedicamentum est: &amp; in quam ens con 
+       <lb ed="#B" n="38"/>trahitur determinatione illa quae est in se, &amp; in accidens quod continet alia nouem praedicamenta: in quod ens contrahitur 
+       <lb ed="#B" n="39"/>determinatione illa quae est in alio. Consimili igitur modo dico quod bonum prima diuisione sua distinguitur in bo 
+       <lb ed="#B" n="40"/>num indeterminatum &amp; in bonum determinatum. Et dicitur bonum indeterminatum ipsum bonum in sua simpli- 
+       <lb ed="#B" n="41"/>citate acceptum siue consideratum absque omni determinatione contrahente ipsum, quod ideo dicitur bonum sim 
+       <lb ed="#B" n="42"/>pliciter. Bonum vero determinatum dicitur bonum quod per aliquam determinationem contractum. &amp; sicut ens sim- 
+       <lb ed="#B" n="43"/>pliciter siue indeterminatum habet speciem siue formam entis a ratione suae simplicitatis &amp; indetermina 
+       <lb ed="#B" n="44"/>tionis: siue a ratione quae est sua simplicitas &amp; indeterminatio: sic &amp; bonum simpliciter siue indeterminatum ha  
+       <lb ed="#B" n="45"/>bet speciem a ratione quae est sua simplicitas &amp; indetermiatio. Et sicut ens contractum habet speciem siue formam 
+       <lb ed="#B" n="46"/>entis a determinatione contrahente ipsum: sic &amp; bonum contractum habet speciem &amp; formam a determinatione com 
+       <lb ed="#B" n="47"/>trahente ipsum. Ens etiam simpliciter siue indeterminatum: hoc est absque aliquam determinatione acceptum, poest conside 
+       <lb ed="#B" n="48"/>rari dupliciter: Aut videlicet in quadam singularitate, aut in quadam vniversaltate. Et primo modo dicitur ens sim 
+       <lb ed="#B" n="49"/>pliciter solus deus. Secundo autem modo dicitur ens simpliciter ens quod consequitur decem praedicamenta. Consimili modo, dico quod bo 
+       <lb ed="#B" n="50"/>num simpliciter siue indeterminatum dicitur dupliciter: secundum quod expositum est in quaestione praecedente quae fuit de per se 
+       <lb ed="#B" n="51"/>&amp; primo obiecto voluntatis. De bono autem simpliciter primo modo dicto cuiusmodi est solus deus, quod nullo modo 
+       <lb ed="#B" n="52"/>natum est contrahi, nihil ad praesentem quaestionem: sed solum de bono simpliciter secundo modo dicto: quid est conuertibile 
+       <lb ed="#B" n="53"/>cum ente quod sequitur decem praedicamenta &amp; natum est contrahi diuersis determinationibus sicut &amp; illud ens. 
+       <lb ed="#B" n="54"/>Bonum autem simpliciter isto secundo modo duplici determinatione, &amp; duplici modo habet determinari. Vno  
+       <!--1104.xml-->
+       <pb ed="#B" n="532-r"/>
+        <lb ed="#B" n="1"/>quidem quae non apponit aliquam rationem, propriam bonitatis seu entitatis, seu realitatis solummo: vt cum dicitur 
+       <lb ed="#B" n="2"/>bonum hoc vel illud: puta lapis vel lignum vel homo: &amp; sic de caeteris rebus quae simul entia sunt &amp; bona:  
+       <lb ed="#B" n="3"/>a cuius determinationis subtractione per abnegationem, tollendo hoc &amp; illud, &amp; retinendo ipsum bonum, 
+       <lb ed="#B" n="4"/>intelligitur ipsum bonum simpliciter: quid deus est: vt habitum est in dicta quaestione. Ab eiusdem vero determinatio-  
+       <lb ed="#B" n="5"/>nis subtractione per priuationem, tollendo hoc &amp; illud, sicut prius, intelligitur bonum simpliciter alio modo: de 
+       <lb ed="#B" n="6"/>quo hic est sermo: sed inquantum est determinatum determinatione tali. hoc enim modo bonum simpliciter dicitur 
+       <lb ed="#B" n="7"/>actio quaecumque inquantum est res &amp; natura aliqua: vt velle, intelligere, pascere, comedere: &amp; sic de caeteris. 
+       <lb ed="#B" n="8"/>Alia vero determinatione habet hoc bonum simpliciter determinari quae apponit aliquam, propriam rationem bo 
+       <lb ed="#B" n="9"/>nitatis supra determinationem iam dictam: vt cum dicitur pascere hominem. &amp; hoc bonum generali nomine potest dici bo- 
+       <lb ed="#B" n="10"/>num ex circunstantia. Et determinatur bonum sic simpliciter dictum prima determinatione sub ratione incomplexi: quia 
+       <lb ed="#B" n="11"/>vnum incomplexum constituunt determinatio &amp; determinabile: sicut genus &amp; differentia constituunt vnum in  
+       <lb ed="#B" n="12"/>specie. Secunda vero determinatione determinatur sub ratione complexi: quia duos intellectus incomplexos &amp; 
+       <lb ed="#B" n="13"/>vnum complexum constituunt ipsa determinatio &amp; determinabile. Pascere, nm bonum est simpliciter, pascere autem ho 
+       <lb ed="#B" n="14"/>minem est bonum ex circunstantia. Bonum autem ex circunstantia generaliter dictum, distingui habet secundum diuersas 
+       <lb ed="#B" n="15"/>circunstantias apponentes diuersos modos bonitatis quasi forma &amp; specie per se distinguentes bonum ex 
+       <lb ed="#B" n="16"/>circunstantia generaliter dictum. Et sunt tres modi talium circunstantiarum. Quaedam. naccipiuntur ex parte obie- 
+       <lb ed="#B" n="17"/>cti ipsius actus: quaedam ex parte finis: quaedam vero ex parte efficientis siue agentis ipsum. Bonum autem ex circunstam 
+       <lb ed="#B" n="18"/>tia ex parte obiecti est sicut pascere hominem proximum. Est enim, proximus obiectum actus pascendi: vt ille qui pascitur 
+       <lb ed="#B" n="19"/>&amp; sic vt obiectum circunstans actum. Et sub tali modo circunstantiae continentur omnes circunstantiae pertinentes ad ob  
+       <lb ed="#B" n="20"/>iectum siue subiectum in quod recipitur actus seu exercetur: quarum vna bene est materialis respectu alterius: &amp; 
+       <lb ed="#B" n="21"/>se habent per ordinem circa subiectum. Proximus. nm qui pascitur potest esse diues vel pauper. Si diues, hoc non est cir- 
+       <lb ed="#B" n="22"/>cunstantia boni: propter quam pascendus est. Si pauper, aut validus potens lucrari vnde pascatur, nec est adhuc cir 
+       <lb ed="#B" n="23"/>cunstantia talis boni. Si pauper infirmus, hoc est circunstantia boni propter quam pascendus est: &amp; maxime cum cir- 
+       <lb ed="#B" n="24"/>cunstantia de quande. scilicet quando esurit, nec habet alium qui possit eum pascere: &amp; similiter circunstantia de vbi: vt quando recum 
+       <lb ed="#B" n="25"/>bit in lecto nec potest circumeundo ostiatim mendicare: &amp; sic de caeteris quae poterunt apponi. Atali autem  
+       <lb ed="#B" n="26"/>circunstantia ex parte obiecti siue subiecti actus habet speciem qua dicitur bonus ex genere. vbi genus ac- 
+       <lb ed="#B" n="27"/>cipitur non a genere praedicabili: sed a genere subiecti: quia bonum ex circunstantia tali est materiale ad bonum secundum 
+       <lb ed="#B" n="28"/>alios duos modos circunstantiae. Circunstantia enim ex fine non est nata apponere rationem bonitatis actui: quin  
+       <lb ed="#B" n="29"/>primo sit circunstantionatus circunstantia quae est bonus ex genere. Validus. nm mendicus, valens labore suo pa 
+       <lb ed="#B" n="30"/>stum lucrari, &amp; nolens propter otium quod amat, propter deum pasci non potest: licet multi hoc facere se fingant: vt 
+       <lb ed="#B" n="31"/>cum pascunt histriones. Propter circunstantiam autem ex parte finis additam bono ex genere: citur bonum virtu- 
+       <lb ed="#B" n="32"/>tis vt iam patebit: propter quid bonum ex genere solummo est materia virtutis carens forma eius inquantum hu-  
+       <lb ed="#B" n="33"/>iusmodi. Materia autem inquantum materia per indifferentiam se habet ad duo contraria: propter quid dico quod  
+       <lb ed="#B" n="34"/>bonum ex genere per indifferentiam se habet ad vitium &amp; virtutem: &amp; est de bonis infimis quibus contingit bene &amp; 
+       <lb ed="#B" n="35"/>male vti secundum <name ref="#Augustine">Augustinus</name> de libero arbitrio. Vnde non distinguit inter virtutes &amp; vitia talis circunstantia:  
+       <lb ed="#B" n="36"/>sed solummo inter contrarietates virtutum &amp; vitiorum: quorum ipsa vna &amp; eadem est obiectum: puta bellum 
+       <lb ed="#B" n="37"/>iustum, obiectum est fortitudinis &amp; timiditatis: foemina pulchra &amp; casta, temperantiae &amp; intemperantiae: pau 
+       <lb ed="#B" n="38"/>per infirmus liberalitatis &amp; auaritiae: &amp; penes diuersitatem talium obiectorum differunt dictae contrarie 
+       <lb ed="#B" n="39"/>tates &amp; distinguuntur: non autem extrema earum. Bonum autem ex circunstantia finis est sicut pascere pauperem 
+       <lb ed="#B" n="40"/>infirmum propter deum. Atali autem circunstantia, actus habet speciem qua proprie dicitur bonus ex circunstantia, quando  
+       <lb ed="#B" n="41"/>distinguitur bonum per tria membre. scilicet in bonum simpliciter: quale est quilibet actus ex eo quod est res &amp; natura aliqua:  
+       <lb ed="#B" n="42"/>&amp; in bonum ex genere: quale est actus cum circunstantia obiecti cum qua potest materia virtutis existere: licet 
+       <lb ed="#B" n="43"/>cum hoc possit esse materia vitii: &amp; in bonum ex circunstantia, quale est actus cum circunstantia finis boni. 
+       <lb ed="#B" n="44"/>&amp; penes illa distinguuntur virtutes &amp; vitia. Et dat actui ista circunstantia finis quod sit bonus bonitate virtu- 
+       <lb ed="#B" n="45"/>tis simpliciter: non autem illa circunstantia qua dicitur actus bonus ex genere: licet hoc sentiebat lulianus haereti 
+       <lb ed="#B" n="46"/>cus, ponens quod ad cognoscendum veras virtutes tantummodo intuendum est quod agitur: vtrum scilicet sit bonum ex ge- 
+       <lb ed="#B" n="47"/>nere: quod si sic, opus verae virtutis est: quocumque fine agatur: secundum quod <name ref="#Augustine">Augustinus</name> dicit recitando super hoc dicta 
+       <lb ed="#B" n="48"/>eius. li. iiii. contra lulianum. cap. xii. sic inquiens. Cum agitur fortiter, prudenter, temperanter, &amp; iuste: omnibus quatu-  
+       <lb ed="#B" n="49"/>or virtutibus agitur: quae secundum tuam disputationem verae virtutes sunt. Sed ad cognoscendum vtrum verae 
+       <lb ed="#B" n="50"/>sint: hoc tantummodo intuendum est quod agitur. Vnde ne tibi videar calumniari: ipsa tua verba iam ponam. Cuncta 
+       <lb ed="#B" n="51"/>rum inquis origo virtutum in rationali anima sita &amp; affectus omnes per quos aut fructuose aut steriliter bo- 
+       <lb ed="#B" n="52"/>ni sumus: in subiecto sunt mentis nostrae, prudentia, temperantia, fortitudo, et iustitia. Horum igitur 
+       <lb ed="#B" n="53"/>affectuum vis cum insit omnibus naturaliter, inquis, non tamen ad vnum finem in omnibus properat:  
+       <lb ed="#B" n="54"/>sed pro iudicio voluntatis eius nutu seruiant, aut ad aeterna, aut ad temporalia dirigitur: quid cum sit 
+       <!--1105.xml-->
+       <pb ed="#B" n="532-v"/>
+        <lb ed="#B" n="1"/>non in eo quod sunt, non in eo quod agunt: sed in eo solo variant quod merentur. Nec nominis sui igitur, inquis, possunt 
+       <lb ed="#B" n="2"/>nec generis sui sustinere dispendium: sed solius quod appetiuerunt praemii, aut amplitudine ditantur, aut exili- 
+       <lb ed="#B" n="3"/>tate frustrantur. Haec vbi didiceris nescio. Hanc autem sententiam tanquam erroneam Aug. reprobat: subdens conti 
+       <lb ed="#B" n="4"/>nue. lam tandem cernis (vt arbitror) consequens esse: vt vera virtus sit auarorum prudentia qua excogitant 
+       <lb ed="#B" n="5"/>genera lucellorum: &amp; auarorum iustitia: qua grauium damnorum metu sua nonnumquam contemnunt potius quam  
+       <lb ed="#B" n="6"/>vsurpant alienum: &amp; auarorum temperantia, quae luxuriae (quoniam sumptuosa est) cohibent appetitum: soloque  
+       <lb ed="#B" n="7"/>necessario victu, tegumentoque contenti sunt: &amp; auarorum fortitudo, qua (ut ait Horatius, per mare pau 
+       <lb ed="#B" n="8"/>periem fugiunt per fata per ignes. Ergo virtutes istae tali fine turpes atque deformes: &amp; ideo nullo modo ger- 
+       <lb ed="#B" n="9"/>manae veraeque virtutes, tibi tamen ita verae videntur, &amp; pulchrae: vt nec nominis sui nec generis possint sustinere 
+       <lb ed="#B" n="10"/>dispendium: sed solius quod appetierunt praemii exilitate frustrentur: Quis hoc sapiat nisi desipiat: Sed vide 
+       <lb ed="#B" n="11"/>licet homo eruditus eorum vitiorum verisimilitudine falleris: quae si intima videntur esse &amp; propinqua vir 
+       <lb ed="#B" n="12"/>tutibus: tam absunt ab eis, quam longe absunt a virtutibus vitia. Veram autem sententiam super veris virtutibus a 
+       <lb ed="#B" n="13"/>quo sunt formaliter, determinat <name ref="#Augustine">Augustinus</name> subdens. ca. xiii. Noueris itaque non officiis sed finibus a vitiis dis 
+       <lb ed="#B" n="14"/>cernendas esse virtutes. Officium autem est, quod faciendum est: finis vero, propter quod faciendum est. Cum itaque ho- 
+       <lb ed="#B" n="15"/>mo facit aliquid vbi peccare non videtur: si non propter hoc facit, propter quid facere debet, peccare convin 
+       <lb ed="#B" n="16"/>citur. Quae tum non attendens, fines ab officiis separasti: &amp; virtutes veras, officia sine finibus appellan- 
+       <lb ed="#B" n="17"/>das esse dixisti. Et subdit aliquantulum infra. Quales virtutes Epicurus induxit voluntatis ancillas. 
+       <lb ed="#B" n="18"/>Absit autem vt virtutes verae cuiquam seruiant: nisi illi vel propter illum: cui dicimus. Deus virtutum conuerte 
+       <lb ed="#B" n="19"/>nos. Quae autem nulli rei seruire volunt, nec ipsae verae sunt: verae quippe virtutes deo seruiunt. Quicquid autem  
+       <lb ed="#B" n="20"/>boni sit ab homine, &amp; non propter hoc sit, propter quid fieri debere vera sapientia praecipit: etsi officio vi 
+       <lb ed="#B" n="21"/>deatur bonum:, ipso non recto fine peccatum est. Possunt ergo aliqua bona fieri non tamen facientibus a 
+       <lb ed="#B" n="22"/>quibus fiunt. Bonum: est enim vt subueniatur homini periclitanti praesertim innocenti. Sed ille qui hoc facit 
+       <lb ed="#B" n="23"/>si amando gloriam hominum magis quam dei facit: non bene bonum facit: quia non bone facit quod non bona 
+       <lb ed="#B" n="24"/>voluntate facit. Absit enim vt sit vel dicatur voluntas bona quae in aliis vel in seipsa non in domino gloriatur. 
+       <lb ed="#B" n="25"/>Ac per hoc nec eius fructus iste dicendus est. arbor. nm mala, fructus bonos non facit. Sed potius bonum 
+       <lb ed="#B" n="26"/>opus est illius qui etiam per malos bene facit. Hic idem <name ref="#Augustine">Augustinus</name> dicit in libro de opere Monachorum. ca. xxvi. Ille 
+       <lb ed="#B" n="27"/>qui propter ista temporalia. scilicet euangelium praedicat, non deo, sed mammonae seruire convincitur: etsi deus illo ad aliorum pro  
+       <lb ed="#B" n="28"/>uectum, quomodo ipse noscit, vtatur. Eam quippe intentionem quare quid fiat, Christus oculum vocat. Si oculus 
+       <lb ed="#B" n="29"/>tuus fuerit simplex, totum corpus tuum lucidum erit: si vero oculus tuus nequam fuerit, totum corpus tuum 
+       <lb ed="#B" n="30"/>tenebrosum erit. i. talia erunt facta tua, qualis fuerit intentio tua cur ea facis. Nota quod dicit: quod subue 
+       <lb ed="#B" n="31"/>niens innocenti periclitanti bonum facit, non bene: &amp; hoc non nisi quia non est vere bonum virtutis: nisi 
+       <lb ed="#B" n="32"/>ex finis circunstantia: sed ex genere &amp; ex officio quid sit solummodo, quod nec ipse proprie facit: sed deus per ip- 
+       <lb ed="#B" n="33"/>sum: &amp; quod tunc solummodo bonum ex genere bene fit, quando ex circunstantia finis fit: quid solummodo est bona volum 
+       <lb ed="#B" n="34"/>tate fieri. Sed nec ex hoc habet actus quod sit bonus specie &amp; bonitate moris: quoniam si non esset datum vo- 
+       <lb ed="#B" n="35"/>luntati quod posset aliud velle quam bonum &amp; bene: vt secundum Anselua de casu diaboli. ca. xiiii. non possit velle 
+       <lb ed="#B" n="36"/>nisi quod iuste eam velle convenit: &amp; necesse sit ipsum hoc velle: ex hoc (vt vult ibi) nec iustam nec iniustam 
+       <lb ed="#B" n="37"/>haberet quis voluntatem: id est actum voluntatis. Dico iustitia morali siue virtute vt moralis est, quod ex 
+       <lb ed="#B" n="38"/>pressius determinat in fine capitis praecedentis sic inquiens. Voluntatem ipsam siue cum vult sum- 
+       <lb ed="#B" n="39"/>ma conmoda siue cum vult infima: constat esse opus &amp; donum dei: sicut est vita &amp; sensualitas: &amp; non 
+       <lb ed="#B" n="40"/>esse in ea siue iustitiam siue iniustitiam: &amp; loquitur de voluntate quae est vsus siue operatio, &amp; de operatio 
+       <lb ed="#B" n="41"/>ne quae sola data est ei vt velit es. scilicet conmoda summa vel infima, sicut patet inspicienti seriem literae eius. Non 
+       <lb ed="#B" n="42"/>restat ergo ex quo actio sit bona bonitate moris nisi circunstantia ex parte agentis, quae duplex est. Vna 
+       <lb ed="#B" n="43"/>procedens ex principio eidem naturaliter indito. Alia vero ex principio ei diuinae gratiae beneficio in  
+       <lb ed="#B" n="44"/>fuso. Quorum primum est arbitrii libertas. secundum est syncera fides. Quorum primum circa actum apponit cir 
+       <lb ed="#B" n="45"/>cunstantiam: qua actio sit bona bonitate moris: quae etiam ei dat speciem moris. Secundum vero apponit circunstam 
+       <lb ed="#B" n="46"/>tiam qua actio sit bona bonitate meritorii. De primo <name ref="#Anselm">Anselmus</name> vbi supra: determinans quomodo vo- 
+       <lb ed="#B" n="47"/>luntas potest esse iusta volendo sibi conueniens, videlicet quod iustum est &amp; bonum iuste &amp; bene, di-  
+       <lb ed="#B" n="48"/>cit sic. Necesse est ergo sic in voluntate conuenire vt velit &amp; iuste velit. &amp; quomodo hoc subdit: di-  
+       <lb ed="#B" n="49"/>cens. Quatenus sic temperet voluntatem ne resecet excessum, &amp; excedendi non amputet potestatem 
+       <lb ed="#B" n="50"/>vt scilicet per hoc quod volet, liberum arbitrium modum possit excedere: per hoc autem quod iuste volet non volet 
+       <lb ed="#B" n="51"/>excedere. vnde in conmendationem viri iusti dicitur. Qui potuit transgredi &amp; non est transgressus. Et 
+       <lb ed="#B" n="52"/>sic dico: quod actio volitionis moralis speciem moris &amp; bonitatis moralis fortitur: non ab obiecto nec a 
+       <lb ed="#B" n="53"/>fine: sed potius ab agente illam: inquantum scilicet liberum arbitrium illam velit agere &amp; bene agere:: 
+       <lb ed="#B" n="54"/>&amp; possit eam non agere aut non bene agere. Vt secundum hoc, ad hoc quod sit actio bona bonitate mo- 
+       <!--1106.xml-->
+       <pb ed="#B" n="533-r"/>
+        <lb ed="#B" n="1"/>ris, requiritur liberum arbitrium ad duo: quorum vnum est ad eliciendum actum ipsum bonum 
+       <lb ed="#B" n="2"/>ex genere: &amp; aliud est ad eliciendum ipsum boni finis intentione. Sed secundum est magis formale 
+       <lb ed="#B" n="3"/>in actione bona morali: primum autem magis materiale. Sed tamen aduertendum est: quod bonitas 
+       <lb ed="#B" n="4"/>actionis moralis sicut &amp; virtutes morales, vt politicae sunt, ponuntur bene fuisse in philosophis &amp; reipubli 
+       <lb ed="#B" n="5"/>cae rectoribus apud infideles: quorum actiones morales eliciebantur a libero arbitrio intentione boni, quid  
+       <lb ed="#B" n="6"/>erat honeste viuere in exercitio virtutum moralium secundum regulam prudentiae, &amp; sic propter deum:  
+       <lb ed="#B" n="7"/>deum attingendo per quandam assimilationem ad illum: in qua posuerunt finem hominis &amp; beati 
+       <lb ed="#B" n="8"/>tudinem eius hominis politicam: sed non intentione dirigendi eos ad deum vt est saluator &amp; re- 
+       <lb ed="#B" n="9"/>munerator in beatitudine vitae aeternae. Propter quod <name ref="#Augustine">Augustinus</name> etiam negat in illis veras virtutes 
+       <lb ed="#B" n="10"/>morales fuisse, dicens contra lulianum: vbi supra. cap. xi. ldeo veras virtutes habemus: quia verum 
+       <lb ed="#B" n="11"/>est propter quod facimus. i. naturae nostrae consentaneum ad salutem &amp; veram felicitatem. Non enim 
+       <lb ed="#B" n="12"/>absurde virtus definita est ab eis qui dixerunt: Virtus est animi habitus naturae modo atque ratio-  
+       <lb ed="#B" n="13"/>ni consentaneus. Verum dixerunt: sed quid sit perfecte consentaneum liberandae ac beatificandae na 
+       <lb ed="#B" n="14"/>turae mortalium nesciuerunt. Intelligo liberandae a iugo mortalitatis, quod valde est consentaneum hu 
+       <lb ed="#B" n="15"/>manae naturae. ad quod probandum continue addit. Neque enim omnes homines naturali instinctu im 
+       <lb ed="#B" n="16"/>mortales &amp; beati esse vellemus nisi esse possemus: sed hoc summum bonum praestari hominibus non  
+       <lb ed="#B" n="17"/>potest nisi per Christum &amp; hunc crucifixum: ideo enim iustus ex fide Christi viuit. Si ergo ad con 
+       <lb ed="#B" n="18"/>sequendam veram beatitudinem, quam nobis fides in Christo promittit: nihil prosunt homini virtu 
+       <lb ed="#B" n="19"/>tes, nullo modo possunt esse verae virtutes. &amp; infra. cap. xiiii. Quapropter non possunt dici virtutes 
+       <lb ed="#B" n="20"/>affectus esse, per quos aut infructuose aut steriliter boni sumus: sed tantum virtutes sunt illi affectus per 
+       <lb ed="#B" n="21"/>quos fructuosi &amp; boni sumus. Vnde subdit Augustinum. Fieri enim non potest vtsteriliter boni simus. 
+       <lb ed="#B" n="22"/>si boni non sumus: quicquid sumus steriliter sumus. Nullo ergo modo sunt homines steriliter bo- 
+       <lb ed="#B" n="23"/>ni: sed qui boni non sunt, possunt alii esse minus: alii magis mali. &amp; infra cap. xv. Vt tolerabilius pu 
+       <lb ed="#B" n="24"/>niantur qui naturaliter quae legis sunt vtique fecerunt, scriptum habentes in cordibus suis opus legis 
+       <lb ed="#B" n="25"/>vt aliis non facerent quod perpeti nollent: hoc tamen peccantes quod homines sine fide non ad eum fi 
+       <lb ed="#B" n="26"/>nem ista retulerunt ad quem referre debuerunt. Minus enim Fabricius quam Catilina punietur: non  
+       <lb ed="#B" n="27"/>quia iste bonus: sed quia ille magis malus &amp; minus impius quam Catilina Fabricius, non veras virtu- 
+       <lb ed="#B" n="28"/>tes habendo: sed a veris virtutibus non plurimum deuiando. Nota ad intellectum dictorum Au- 
+       <lb ed="#B" n="29"/>gust. quod officium de genere bonorum potest fieri non propter quod fieri debet, dupliciter. Vno mo 
+       <lb ed="#B" n="30"/>do quia sit propter contrarium finem: vt faciunt qui subueniunt innocenti periclitanti propter vanam 
+       <lb ed="#B" n="31"/>gloriam: qui sane peccant &amp; mali sunt &amp; nullo modo sunt opera eorum opera virtutis sed vitii, non 
+       <lb ed="#B" n="32"/>in omittendo sed in conmittendo. de quibus intelliguntur dicta <name ref="#Augustine">Augustinus</name> in cap. xii. &amp;. xiii. praesignatis. 
+       <lb ed="#B" n="33"/>Alio autem modo: quia sit propter illud non secundum illam rationem secundum quam fieri debuit 
+       <lb ed="#B" n="34"/>propter illud: vt qui subuenit innocenti periclitanti propter deum: modo quo ex naturali pietate 
+       <lb ed="#B" n="35"/>&amp; iudicio rectae rationis regulatae lege naturae, Philosophi &amp; rectores politiarum talia opera fecerunt 
+       <lb ed="#B" n="36"/>vt se in hoc deo conformarent: &amp; ipsum, prout possibile erat, attingerent. hoc secundo modo vt iam ta- 
+       <lb ed="#B" n="37"/>ctum est, isti procul dubio peccant secundum <name ref="#Augustine">Augustinus</name> sed peccato omissionis: vt dicit ca. xviii. Si genti 
+       <lb ed="#B" n="38"/>lis, inquit, nudos operuerit: nunquid quia non ex fide peccatum est: prorsus inquantum non est ex fide, 
+       <lb ed="#B" n="39"/>peccatum est: non quia per se ipsum factum quod est nudum operire, peccatum sit: sed de tali opere non in domino glo 
+       <lb ed="#B" n="40"/>riari. Sed solus impius negat esse peccatum. Vnde tales non peccant nec mali sunt committendo: sed  
+       <lb ed="#B" n="41"/>solummodo omittendo: &amp; in faciendo boni politici sunt: sed non boni simpliciter: quia infideles sunt. Pro- 
+       <lb ed="#B" n="42"/>pter infidelitatemlenim suam omittunt scientes quid quoquo modo sit naturae consentaneum: sed non  
+       <lb ed="#B" n="43"/>quid perfecte sit ei consentaneum: &amp; ideo opera eorum licet sint propter deum, non tamen perfecte. Et sic licet ope 
+       <lb ed="#B" n="44"/>ra eorum virtutes sint quia politicae: non tamen perfecte sunt virtutes quia non gratuitae. Cui videtur contrarium  
+       <lb ed="#B" n="45"/>quid statim addit <name ref="#Augustine">Augustinus</name> subdens. Si gentilis qui non viuit ex fide nudum operuerit, periclitantem libe 
+       <lb ed="#B" n="46"/>rauerit, aegri vulnera fouerit: diuitias honestate amicitiae impenderit, ad testimonium falsum nec tormen 
+       <lb ed="#B" n="47"/>tis poterit impelli: quaero abs te: vtrum haec opera bene faciat an male. Dicturus es: &amp; bona facit &amp; 
+       <lb ed="#B" n="48"/>bene: fructus ergo bonos facit arbor mala: quod fieri non posse veritas dicit. Sed dico ego: quod bona fa- 
+       <lb ed="#B" n="49"/>cit &amp; bene, non simpliciter &amp; absque distinctione: sed quod bene facit pro quanto ad bonum finem: &amp; pro 
+       <lb ed="#B" n="50"/>tanto est arbor bona &amp; facit fructus bonos. Sed propter omittere facere ad finem secundum ratio- 
+       <lb ed="#B" n="51"/>nem illam secundum quam deberet facere, propter illum non bene facit &amp; non est arbor bona: nec fa 
+       <lb ed="#B" n="52"/>cit fructus bonos: &amp; inquantum est arbor bona placet deo &amp; fructus eius: non vt pro eo remunere- 
+       <lb ed="#B" n="53"/>tur: sed ne pro eo puniatur: sicut puniretur qui faceret illa propter vanam gloriam. Punietur ta- 
+       <lb ed="#B" n="54"/>men: quia omittendo peccat: &amp; sic minus illo punietur. Et hoc est quod sibi respondet continuo 
+       <!--1107.xml-->
+       <pb ed="#B" n="533-v"/>
+        <lb ed="#B" n="1"/>subdens. An respondebis: non inquantum infelix est: sed inquantum homo est: arbor bona est: Addo tamen ego dicen 
+       <lb ed="#B" n="2"/>do: quod inquantum homo est non simpliciter: sed agens secundum rationem rectam naturalem ad finem bonum: licet non prout de 
+       <lb ed="#B" n="3"/>beret (ut dictum est) arbor bona est. Si enim ageret ad finem contrarium, licet sit homo: nequaquam tamen esset arbor  
+       <lb ed="#B" n="4"/>bona sed mala. Et de tali homine ait Despens. Non potest arbor mala, fructus bonos facere. Et sic homo inquantum  
+       <lb ed="#B" n="5"/>homo non est arbor bona: sed solummodo inquantum agit recta ratione ad finem bonum vel simpliciter vel quoquo  
+       <lb ed="#B" n="6"/>modo vt dictum est. Et similiter non est mala arbor inquantum est homo solummodo: sed inquantum malae volunta- 
+       <lb ed="#B" n="7"/>tis est vel simpliciter &amp; omnino, vt ille qui facit dicta opera propter vanam gloriam: vel etiam si simpliciter, non tamen om 
+       <lb ed="#B" n="8"/>nino, vt ille qui facit illa quoquo modo propter deum etiam in infidelitate: &amp; ideo multo magis vt ille qui  
+       <lb ed="#B" n="9"/>facit dicta opera propter deum vt redemptor est, ex fide informi extra charitatem: qui faciendo dicta opera nequa 
+       <lb ed="#B" n="10"/>quam dicendus est peccare: est tamen simpliciter arbor mala: licet non omnino. Sed contra haec statim videtur 
+       <lb ed="#B" n="11"/>Aug. arguere subdens. Sed forte dicturus es: misericors voluntas bona est. Recte istud diceretur: si quem- 
+       <lb ed="#B" n="12"/>admodum fides Christi. est fides quae per dilectionem operatur, semper bona est: ita misericordia bona esset semper. Si 
+       <lb ed="#B" n="13"/>autem reperitur &amp; misericordia mala qua persona pauperis accipitur in iudicio: propter quam rex Saul meru- 
+       <lb ed="#B" n="14"/>it a domino damnari: quia contra eius praeceptum regi per humanum pepercit affectum: si vitium est male misereri: procul 
+       <lb ed="#B" n="15"/>dubio vitium est misereri infideliter. Quia si &amp; ipsa misericordia per seipsam naturali compassione opus est 
+       <lb ed="#B" n="16"/>bonum, &amp; isto bono male vtitur qui infideliter vtitur: &amp; hoc bonum male facit qui infideliter facit. Qui autem ma 
+       <lb ed="#B" n="17"/>le facit aliquid, profecto peccat. Ex quo colligitur &amp; ipsa bona opera quae faciunt infideles, non ipsorum esse: sed illius 
+       <lb ed="#B" n="18"/>qui bene vtitur malis. lpsorum autem esse peccata, verum est: sed quondoque omissionis tantum: quondoque conmissionis: vt di  
+       <lb ed="#B" n="19"/>ctum est: sicut etiam contigit in Saul. Et secundum modum dictum peccantes per omissionem solum in dictis operibus 
+       <lb ed="#B" n="20"/>etsi boni homines politici, sunt tamen steriles: quia pro opere suo bono non consequuntur vitam aeternam: licet non steri 
+       <lb ed="#B" n="21"/>les sint inquantum euitant poenam quam incurrunt committendo in eisdem. &amp; sic tales bonos politice bene pro 
+       <lb ed="#B" n="22"/>omissione per infidelitatem mittit dominus in ignem aeternum. Et sic licet multa quae simpliciter dixit <name ref="#Augustine">Augustinus</name> in ca 
+       <lb ed="#B" n="23"/>pitulis dictis bene &amp; vere dicta sint contra lulianum qui posuit virtutes infidelium esse veras &amp; perfectas 
+       <lb ed="#B" n="24"/>virtutes, &amp; opera bona non ex fide facta nullo modo esse peccata: &amp; quod solo libero arbitrio posset homo ca 
+       <lb ed="#B" n="25"/>uere peccata, &amp; quod peccatum originale nihil esset: tamen bene indigent expositione &amp; distinctione modo iam di  
+       <lb ed="#B" n="26"/>cto. In quo videtur <name ref="#Augustine">Augustinus</name> consentire, &amp; ad hoc descendere: vbi dicit in ca. xix. Quoniam saltem concedis opera in  
+       <lb ed="#B" n="27"/>fidelium quae tibi videntur bona, non eos ad salutem sempiternam perducere, scito nos nullum hominem dicere bonum 
+       <lb ed="#B" n="28"/>nullam voluntatem bonam, nullum opus bonum sine dei genra. &amp; infra. Dicantur secundum te huiusmodi voluntates arbo 
+       <lb ed="#B" n="29"/>res bonae: sufficit quod apud deum steriles sint: &amp; per hoc non bonae. Et per hunc modum etiam loquitur Ansel. de iusti- 
+       <lb ed="#B" n="30"/>tia &amp; opere bono: vt patebit in sequenti quaestione. Et Grego. in moralibus super lob. Morai. enim libro 
+       <lb ed="#B" n="31"/>xvii. exponendo illud lob. xxviii. Non conferetur tinctis Indiae coloribus: dicit sic. Vt philosophorum sapientiam huiae scilicet a 
+       <lb ed="#B" n="32"/>pientiae diuinae modostraret longe subesse, intulit: Non conferetur tinctis Indiae coloribus. Vt ipsos quoque in eccle 
+       <lb ed="#B" n="33"/>sia haereticos increparet qui a gentilitatis errore venientes fidem quam suscipiunt per supbiam scindunt: addidit 
+       <lb ed="#B" n="34"/>Non aequabitur ei topazius de aethiopia, ac si patenter insinuaret, dicens: Hi qui ex peccati nigredine ad com 
+       <lb ed="#B" n="35"/>uersionem veniunt aequari deo homini non possunt quamuis multis colorum virtutibus resplendere videantur. 
+       <lb ed="#B" n="36"/>Quorum vt superbia refutetur apte subiungit: Nec tincturae mundissimae componentur. tincturae enim mundissimae 
+       <lb ed="#B" n="37"/>sunt veraciter humiles qui sciunt quod ex semetipsis virtutum speciem non habent: sed hanc ex dono gerae supeuenientis 
+       <lb ed="#B" n="38"/>tenent. Tincti etenim non essent si sanctitatem naturaliter habuissent: sed mundissimae tincturae sunt, quia humi 
+       <lb ed="#B" n="39"/>liter custodiunt superuenientem in se virtutum gratiam quam receperunt. Et notandum quod superius cum dixisset: 
+       <lb ed="#B" n="40"/>non conferetur tinctis Indiae coloribus, eosdem colores non intulit mundos: hoc vero in loco vt tincturam vera 
+       <lb ed="#B" n="41"/>cium virtutum ab illa philosophorum fucatione distingueret, tincturas dicens addit mundissimas. Tincturae, en mun 
+       <lb ed="#B" n="42"/>dissimae recte nominantur ii qui etsi prius per opera praua foedi fuerunt: superueniente tamen spiritu nitore grae 
+       <lb ed="#B" n="43"/>vestiuntur. Tincti autem colores Indiae sunt huius mundi sapientes: qui quamuis per infidelitatem, &amp; plerumque per actio- 
+       <lb ed="#B" n="44"/>nem foedi sunt: ante humanos tamen oculos superductae honestatis colore fucantur. Quales etiam sunt haeretici 
+       <lb ed="#B" n="45"/>philosophorum doctrinam potius quam Christi sequentes: de quibus immediate praemisit dicens. Fuere multi qui mundi huius 
+       <lb ed="#B" n="46"/>sapientium disciplinis dediti ea quae sunt inter homines honesta seruarent, &amp; saluandos seruata honestate se 
+       <lb ed="#B" n="47"/>crederent, nec iam mediatorem dei &amp; hominium quaererent, cum quasi sufficientem sibi philosophorum doctrinam tenerent. In  
+       <lb ed="#B" n="48"/>quorum despectum dicitur: non conferetur tinctis indiae coloribus. Siquis ergo aduertat praedicta, bonum 
+       <lb ed="#B" n="49"/>circa actionem quinque modis dicitur. Primo enim modo dicitur bonum simpliciter: &amp; talis est quae-  
+       <lb ed="#B" n="50"/>cunque actio ex eo quod est res &amp; natura aliqua. vnde potest dici bonum ex natura: puta pascere. Secundo  
+       <lb ed="#B" n="51"/>dicitur bonum ex genere, &amp; talis seu tale bonum est quaelibet actio ex circunstantia obiecti qua nata est 
+       <lb ed="#B" n="52"/>esse materia virtutis. Vnde potest dici bonum ex circunstantia generaliter: puta pascere pauperem 
+       <lb ed="#B" n="53"/>infirmum. Tertio diei bonum ex circunstantia finis. &amp; talis est quaelibet actio ex circunstantia specialiter finis boni 
+       <lb ed="#B" n="54"/>&amp; honesti. vnde potest dici bonum ex fine, puta pascere pauperem infirmum propter deum simpliciter &amp; a tali circunstam 
+       <!--1108.xml-->
+       <pb ed="#B" n="534-r"/>
+        <lb ed="#B" n="1"/>tia dicitur actus esse virtutis simpliciter. Quarto dicitur bonum ex circunstantia agentis quam habetur a natura, &amp; ta 
+       <lb ed="#B" n="2"/>lis est quaelibet actio moralis: &amp; ab illo de moralis, &amp; in ipso consistit ratio virtutis moralis vt moralis est. 
+       <lb ed="#B" n="3"/>&amp; potest dici hoc bonum: bonum ex libero arbitrio. Quito diei bonum ex circunstantia agentis quam habet ex gera 
+       <lb ed="#B" n="4"/>&amp; talis est quaelibet actio gratuita: &amp; illa dicitur gratuita: &amp; in ipsa consistit ratio virtutis gratuitae. Est autem 
+       <lb ed="#B" n="5"/>aduertendum quod circa talem actum operatur fides habita ex gera dupliciter: Vno modo determinando circunstantiam 
+       <lb ed="#B" n="6"/>ex parte finis inquantum sides, vt est fides simpliciter, determinat actionem omnem bonam debere fieri propter deum:  
+       <lb ed="#B" n="7"/>vt est reparator &amp; remunerator, &amp; propter beatitudinem increatam quae ipse est. Alio modo cooperando libero 
+       <lb ed="#B" n="8"/>arbitrio in eliciendo actionem moralem: vt ex debito amore finis eliciatur: quid facit forma fidei quae charitas est 
+       <lb ed="#B" n="9"/>in qua consistit radix. &amp; ideo potest bonum hoc dici bonum ex merito. Sic ergo simpliciter dico quod actio quae est vo 
+       <lb ed="#B" n="10"/>litio moralis, speciem moris &amp; bonitatem atque rationem virtutis moralis habet non ab obiecto: nec vt est prin- 
+       <lb ed="#B" n="11"/>cipium operationis sicut finis in intellectu practico: neque vt est principium eius a voluntate &amp; operationem suam 
+       <lb ed="#B" n="12"/>adeptum: sed potius ab agentis libero arbitrio: secundum modum iam dictum. Quia ergo arguitur primo in contrarium 
+       <lb ed="#B" n="13"/>quod ab obiecti entitate habet actus entitatem &amp;c. dico quod aliquid habet speciem suam ab alio tripliciter. Vno modo vt 
+       <lb ed="#B" n="14"/>a fine ad quem est. Alio modo vt a forma exemplari secundum quam est. Tertio modo vt ab efficiente a quo est. Pri 
+       <lb ed="#B" n="15"/>mo modo domus speciem siue formam suam habet a fine quae est inhabitatio eius. Sic enim debet formari vt sit 
+       <lb ed="#B" n="16"/>apta ad ihabitandum. Per hunc. nm modum finis determinat sibi formam in illo quod est ad finem. Et secundum hunc 
+       <lb ed="#B" n="17"/>modum bene potest concedi quod omnis actio etiam moralis formam suae entitatis &amp; bonitatis cuiuslibet habet ab  
+       <lb ed="#B" n="18"/>obiecto tanquam a fine ad quem est: &amp; sic a fine vt debet esse terminus actionis. debet enim formari actionis spe 
+       <lb ed="#B" n="19"/>cies modo quo per ipsam convenientius finis possit attigi. Secundo modo domus speciem siue formam suam habet a for 
+       <lb ed="#B" n="20"/>ma domus in mente artificis dirigente operantem. &amp; hoc modo a fine concepto cum aliis circunstantiis ex parte sub 
+       <lb ed="#B" n="21"/>iecti &amp; modo deueniendi per actionem in finem, habet speciem omnis actio etiam moralis entitatis &amp; bonitatis suae cu 
+       <lb ed="#B" n="22"/>iuslibet ab obiecto: vt per suam speciem existens in mente est principium actionis. Tertio modo domus suam speciem 
+       <lb ed="#B" n="23"/>&amp; formam ha ab aedificatore imprimente eam lignis &amp; lapidibus per eorum situm varium &amp; ordinem. &amp; hoc modo etiam 
+       <lb ed="#B" n="24"/>quaelibet actio etiam moralis entitatem &amp; speciem omnis bonitati suae ha ab agente eam: &amp; est agens ille voluntas ex so 
+       <lb ed="#B" n="25"/>lo libero arbitrio. Sed vt actio moralis etiam sit gratuita &amp; meritoria vitae aeternae, eget fide operante per di-  
+       <lb ed="#B" n="26"/>lectionem vt dictum est. Sed de modo isto habendi speciem ha quaestio difficultatem suam: propter quam vt existimo fuit pro  
+       <lb ed="#B" n="27"/>posita. Dicunt enim aliqui quod in intellectualibus semper actio voluntatis sequitur formam intellectus tanquam agentis pro  
+       <lb ed="#B" n="28"/>ximi &amp; per se, secundum quod tactum est supra in prima quaestione de angelis. Quod nequaquam verum est. Non nm forma 
+       <lb ed="#B" n="29"/>actionis voluntatis sequitur formam intellectus: sicut causam per se &amp; propter quam sic. Si tamen eam sequatur voluntas 
+       <lb ed="#B" n="30"/>in sua actione, hoc non est nisi sicut causam fine quam non: sicut saepius declarauimus alibi: &amp; etiam declarabitur 
+       <lb ed="#B" n="31"/>adhuc in sequenti quaestione. Ita etiam quod voluntas agens moraliter bene potest agere libero arbitrio contra for 
+       <lb ed="#B" n="32"/>mam rationis: licet secus sit de voluntate agente artificialiter in artificialibus. Licet enim in agibilibus &amp; morali 
+       <lb ed="#B" n="33"/>bus a forma rationis nequaquam dicenda sit voluntas aut actio eius habere formam &amp; speciem bonitatis moralis 
+       <lb ed="#B" n="34"/>vt ab illa voluntas dicatur bona bonitate morali, aut eius actio: neque ipse agens talem actionem tali voluntate di  
+       <lb ed="#B" n="35"/>catur ab illa bonus moralis: in factibilibus tamen &amp; artificialibus a forma rationis dicitur voluntas &amp; actio eius ha-  
+       <lb ed="#B" n="36"/>bere formam &amp; speciem bonitatis: vt ab illa dicatur voluntas bona bonitate artis: &amp; agens per voluntatem bonus ar  
+       <lb ed="#B" n="37"/>tifex: &amp; similiter actio bona &amp; artificialis. Ad cuius pleniorem intellectum est sciendum: quod secundum Aui. vi. Meta- 
+       <lb ed="#B" n="38"/>physicae finis qui acquiritur ex actione agentis in artificialibus duplex est. vnus qui est forma in patiente susceptibi 
+       <lb ed="#B" n="39"/>li actionis: &amp; alter qui non est forma in susceptibili: sed est intentio quaedam in cognitione agentis. Exemplum primi est 
+       <lb ed="#B" n="40"/>sicut forma domus in materia domus, quae est finis agentis ad quem peruenit eius actio &amp; eius motus: &amp; est finis 
+       <lb ed="#B" n="41"/>agentis propinquus contingens motum materiae. Exemplum secundi est sicut habitatio quae est principium mouens ad  
+       <lb ed="#B" n="42"/>essendum domum siue ad hoc vt sit domus: &amp; nullo modo est forma domus: sed est finis remotus ipsius artifi 
+       <lb ed="#B" n="43"/>cis agentis domum, licet sit finis propinquus volentis inhabitare domum, cuius econverso finis remotus est forma 
+       <lb ed="#B" n="44"/>domus in materia, intantum quod ille cuius non est finis forma in materia, non sit principium propinquum motui in  
+       <lb ed="#B" n="45"/>quantum sic est. Quia si ille idem cuius finis est forma in materia sit ille cuius finis est forma non in materia, hoc 
+       <lb ed="#B" n="46"/>est per accramens. sicut cum aliquis fabricat domum vt inhabitet in ea. tunc enim inquisitio hintationis inducit ad fabri- 
+       <lb ed="#B" n="47"/>candum eam: et est causa prima fabricandi inquantum est fabricator: &amp; est causatum inquantum est inha 
+       <lb ed="#B" n="48"/>bitator: vt secundum hoc proprie loquendo alius est finis eius inquantum est fabricator scilicet forma domus, etu alius 
+       <lb ed="#B" n="49"/>inquantum est inhitator scilicet inhabitatio domus. De fine autem quod est forma in materia, est aduertendum similiter 
+       <lb ed="#B" n="50"/>quod secundum Auicennam ibidem: ipse comperationem habet ad multa, quae praecedunt eum secundum eius acquisitionem 
+       <lb ed="#B" n="51"/>in effectu, et in esse: primo ad agentis: secundo ad recipiens, cum ipsum est in potentia: Tertio ad id vt 
+       <lb ed="#B" n="52"/>iam est in effectu recipiens: Quarto ad motum. Et respectu agentis consideratus est finis: respectu motus est ter 
+       <lb ed="#B" n="53"/>minus, respectu vero recipientis vt est in potentia est bonum eius, et perfectio: malum autem est priuatio 
+       <lb ed="#B" n="54"/>illi oppositum. respectu vero eius, vt est iam in effectu, est forma. Quia igitur talis forma, vt est in co 
+       <!--1109.xml-->
+       <pb ed="#B" n="534-v"/>
+        <lb ed="#B" n="1"/>gnitione existens, est finis respectu agentis, mouens ipsum ad actionem, qua inducitur in materia, &amp; dirigens ip 
+       <lb ed="#B" n="2"/>sum in eadem: ita quod nihil aliud requiritur ad bonitatem actionis artificialis, &amp; per hoc neque ad bonitatem artifi 
+       <lb ed="#B" n="3"/>cis, vt artifex est, quam vt secundum formam illam existentem in cognitione producatur forma consilis in materia. Idcir 
+       <lb ed="#B" n="4"/>co simpliciter dicendum est, &amp; confitendum, quod forma actionis, quae est factio, &amp; bonitas eius: &amp; per con- 
+       <lb ed="#B" n="5"/>sequens bonitas artificis, secundum quod est artifex, &amp; similiter artificiati, secundum quod artificiatum est, sit a forma ratio- 
+       <lb ed="#B" n="6"/>nis &amp; intellectus, &amp; ab illa habet formam, &amp; speciem: ita etiam quod si agens artificiale non posset aliter agere produ  
+       <lb ed="#B" n="7"/>cendo formam in materia, quam secundum formam rationis, sed naturali necessitate produceret secundum illam, quemadmo 
+       <lb ed="#B" n="8"/>dum philosophi posuerunt deum producere necessatio, &amp; naturaliter mundum sm formam mentis suae: tamen actio procedens se- 
+       <lb ed="#B" n="9"/>cundum formam illam, inquantum huiusmodi, diceretur actio artificialis bona: &amp; per consequens artifex bonus, &amp; artificiatum  
+       <lb ed="#B" n="10"/>bonum, quod nm artifex potest aliter agere, quam secundum formam rationis, hoc non conuenit ei inquantum est artifex: sed  
+       <lb ed="#B" n="11"/>inquantum est agens libero arbitrio, per quid potest esse negligens, aut maliuolus: &amp; ideo non agere secundum formam 
+       <lb ed="#B" n="12"/>artis &amp; rationis. Ad bonitatem autem actionis moralis non sufficit forma rationis nisi procedat liberum arbitrium se 
+       <lb ed="#B" n="13"/>cundum iam expositum modum. lon forma agibilis, siue moralis actionis in ratione existens nequaquam dicenda est da-  
+       <lb ed="#B" n="14"/>re formam &amp; speciem actioni morali, vt ab illa dicatur bona moraliter, aut agens bonus: sicut dictum est de for 
+       <lb ed="#B" n="15"/>ma artis. Ita quod habens formam agibilis, siue actionis moralis in rationem rectam, quam actu considerat, si aliter 
+       <lb ed="#B" n="16"/>agat quam secundum formam rationis, hoc non est inquantum prudens est, &amp; moralis, nec inquantum est liberi arbitrii 
+       <lb ed="#B" n="17"/>nec quia negligens: sed solum inquantum in libero arbitrio voluntatis est malitia ad agendum contrarium: vt per illam 
+       <lb ed="#B" n="18"/>sciens, &amp; prudens, &amp; potens non peccare, peccet nolens agere secundum formam prudentiae in ratione. Habens autem for 
+       <lb ed="#B" n="19"/>mam factibilis in ratione rectam, quam actu considerat, quod aliter agat, quam secundum formam artis, hoc non est nisi in-  
+       <lb ed="#B" n="20"/>quantum artifex, nec inquantum malitiam habens in libero arbitrio. Sed quandoque potest hoc contingere quia negligens est. 
+       <lb ed="#B" n="21"/>propter quid philosophus. vi. Ethi. assignans differentiam inter artem, &amp; prudentiam dicit, quod artis est virtus, prudentiae 
+       <lb ed="#B" n="22"/>vero non est. vbi dicit alia translatio. Ars indiget virtute, prudentia autem ipsa est virtus. quasi dicat, quod artifex 
+       <lb ed="#B" n="23"/>peccat agendo contra regulam artis in ratione, hoc non prouenit ex defectu artis aut artificis, inquantum arti- 
+       <lb ed="#B" n="24"/>fex est, aut etiam malitiae eius, sed quondoque ex negligentia absque malitia, propter quod indiget virtute morali in  
+       <lb ed="#B" n="25"/>stigante ipsum ne negligat agere, &amp; secundum rationem agere. Quia autem prudens considerans peccat, non est propter ali 
+       <lb ed="#B" n="26"/>quid talium, sed solummo propter suam malitiam: &amp; ideo non indiget virtute morali, ne negligat: quia contra hoc 
+       <lb ed="#B" n="27"/>sufficit sibi prudentia actualis. Et ne dicatur quod agens potest agere voluntarie, &amp; ex malitia contra regulas ar 
+       <lb ed="#B" n="28"/>tis, sicut contra regielas prudentiae, continuo addit in hoc secundam differentiam dicens. Et arte quidem volens peccans 
+       <lb ed="#B" n="29"/>eligibilior, circa prudentiam autem minus. q. d. Em Commnen, si pictor, vel statuifex, vel aedificator directus existens 
+       <lb ed="#B" n="30"/>contra, propriam artem peccat volens, &amp; inartificiose, vel male propriam operationem operatur, contemptiue ipsam partransiens 
+       <lb ed="#B" n="31"/>propter mercedis forte priuationem, vel aliquid tale, eligibilior erit eo, qui propter inartificiositatem, &amp; ignoran  
+       <lb ed="#B" n="32"/>tiam arti inuoluntarie non attingit. Econtra autem si prudens directiuus existens operabilium contra, propriam prudentiam pec 
+       <lb ed="#B" n="33"/>cat volens, &amp; imprudenter, vel male propriam operationem operetur: propter concupiscentiam forte vel aliquid tale ineligibilior 
+       <lb ed="#B" n="34"/>erit: immo etiam inculpabilior eo, qui propter imprudentiam inuoluntarie non attingit, quod non contingit in secunda dicta 
+       <lb ed="#B" n="35"/>rum differentiarum, nisi quia bonitas artificis inquantum artifex est, respectu sui operis nequaquam dependet ex libe- 
+       <lb ed="#B" n="36"/>ro arbitrio: sicut dependet bonitas prudentis, inquantum prudens est, respectu sui operis. Ex prima autem illarum dif 
+       <lb ed="#B" n="37"/>ferentiarum etiam claret quod sciens &amp; prudens potest peccare per malitiam, sicut &amp; artifex per solam negligentiam. In quo  
+       <lb ed="#B" n="38"/>clare videtur velle, quod malitia potest generari in voluntate absque errore praecedente in ratione, cui multi contrarian 
+       <lb ed="#B" n="39"/>tur, intendentes tamen sequi philosophum. Patet etiam, quod prudens propter malitiam, quae potest esse in voluntate ad bene exequendum 
+       <lb ed="#B" n="40"/>opus, potius indiget virtute, quam artifex, licet artifex magis indigeat virtute, ne negligat, quam prudens. Ratio 
+       <lb ed="#B" n="41"/>in oppositum, quod actio non habet rationem laudabilis, nisi a libero arbitrio, ergo nec bonitati, aut virtutl, licet 
+       <lb ed="#B" n="42"/>concedi possit loquendo proprie de virtute scilicet vt est moralis: quia tamen (ut patet ex praedictis) actio habet rationem 
+       <lb ed="#B" n="43"/>virtutl simpliciter, hoc potius habet ex circunstantia finis, quam liberi arbitrii. Quia autem sit laudabilis, non habet ni 
+       <lb ed="#B" n="44"/>si ex libero arbitrio. In eis. n quae naturaliter in nobis contingunt, neque laudamur, neque vituparamur. sm philosophum. ii. 
+       <lb ed="#B" n="45"/>Ethi. Et sic quoquo modo ab alio habet, quod sit actio virtuosa, &amp; ab alio quod sit laudabilis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

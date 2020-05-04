@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 20</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 20</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1169">
+      <head xml:id="n3av8a-c1e1169-Hd1e96">Quaestio 20</head>
+      <p xml:id="n3av8a-c1e1169-d1e99">
+       <lb ed="#B" n="4"/>Equuntur pertinentia ad votum professorum. Et erat vnum super eo quod pertinet 
+       <lb ed="#B" n="5"/>ad votum substantiale, scilicet de obedientia religiosorum. Alia vero duo pertinentia 
+       <lb ed="#B" n="6"/>ad votum accidentale: scilicet de statutis regulae ipsorum quo ad poenam &amp; culpam 
+       <lb ed="#B" n="7"/>in transgressione ipsorum. Primum erat. Vtrum religio illa sit perfectior in qua vo 
+       <lb ed="#B" n="8"/>uetur obedientia omnino, &amp; in omnibus, quam illa in qua vouetur solummo obedientia secundum  
+       <lb ed="#B" n="9"/>determinata praecepta regulae. Secundum erat. Vtrum transgrediens statuta circa ea 
+       <lb ed="#B" n="10"/>quae sunt alias licita, vt est statutum non loquendi post completorium, quid alias liceret, pec 
+       <lb ed="#B" n="11"/>cet mortaliter. Tertium. vtrum absque peccato liceat transgredi praecepta poenalia: dum tamen soluatur 
+       <lb ed="#B" n="12"/>poena pro illorum transgressione statuta. 
+      </p>
+      <p xml:id="n3av8a-c1e1169-d1e121">
+       CIRca primum arguitur: quod illa religio est perfectior in qua vo 
+       <lb ed="#B" n="13"/>uetur vniuersalis obedientia. Quoniam non minus facit votum obedientiae ad perfectionem religionis, quam  
+       <lb ed="#B" n="14"/>votum paupertatis. Sed religio illa iudicatur esse perfectior in qua sit vniuersalis abrenuntiatio tem 
+       <lb ed="#B" n="15"/>poralium etiam mobilium &amp; immobilium &amp; in proprio &amp; in communi: quam vbi in aliquo non fit abrenuntia- 
+       <lb ed="#B" n="16"/>tio omnium. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1169-d1e132">
+       IN contrarium est: quod tunc nulla religio esset perfecta: quia in qualibet sit profes- 
+       <lb ed="#B" n="17"/>sio siue votum obedientiae secundum certam regulam tantum. 
+      </p>
+      <p xml:id="n3av8a-c1e1169-d1e137">
+       DIcendum ad hoc: quod votum obedientiae F 
+       <lb ed="#B" n="18"/>ad hoc finaliter ordinatur, vt homo homini per votum obedientiae se subiiciat: quatenus ipsum alius 
+       <lb ed="#B" n="19"/>melius quam ipse seipsum regat: &amp; per hoc ex alterius regimine quam ex proprio magis proficiat: &amp; melius 
+       <lb ed="#B" n="20"/>deo &amp; perfectius seruiat: &amp; sic ei amplius placeat. sic enim se homini per obedientiam subiicere, est 
+       <lb ed="#B" n="21"/>se homini subiicere propter deum: alias non: &amp; hoc per illum modum quodammodo quo expedit 
+       <lb ed="#B" n="22"/>seruis vt sint sub regimine dominorum: secundum quod determinat <name ref="#Aristotle">philosophus</name> in Politicis. Vnde ecom 
+       <lb ed="#B" n="23"/>trario quod peritior committeret se regimini minus periti, hoc fatuitatis est. Sed quia cuilibet rationa 
+       <lb ed="#B" n="24"/>biliter praesumendum est quod in magna congregatione semper peritior se inueniatur: qui toti mul- 
+       <lb ed="#B" n="25"/>titudini praeficiatur: securum est ei se regimini religionis quo ad obedientiam committere: &amp; qua ra 
+       <lb ed="#B" n="26"/>tione hoc est securum quo ad aliquid, eadem ratione quo ad omnia. Vnde si votum obedientiae per se 
+       <lb ed="#B" n="27"/>pertinet ad religionis perfectionem qua homo se committit alterius regimini: quanto ergo est obe 
+       <lb ed="#B" n="28"/>dientia vniuersalior tanto maior est &amp; perfectior. Et sic absolute dicendum: quod religio illa perfector est in quae 
+       <lb ed="#B" n="29"/>vouetur vniuersalis obedientia in omnibus, quam particularis &amp; in aliquibus tantum: qualem obedientiam vni 
+       <lb ed="#B" n="30"/>uersalem petiuit Apostolus a Corinth. cum dixit. ii. Corin. ii. Cognoscam experimentum vestrum an in omnibus 
+       <lb ed="#B" n="31"/>obedientes sitis. Et hoc non propter argumentum a simili de paupertate. Votum enim paupertatis non est 
+       <lb ed="#B" n="32"/>nisi vt sollicitudo a rebus temporalibus abstrahatur: vt liberius possit homo diuinis vacare &amp; spiri 
+       <lb ed="#B" n="33"/>tualibus. vnde quanto abrenuntiatio temporalium est maior, dum tamen magis a sollicitudine libe 
+       <lb ed="#B" n="34"/>rat, tanto est perfectior. Sed quia homo viuere non potest sine necessariis corpori: nec spiritualibus 
+       <lb ed="#B" n="35"/>intendere: quoniam vt dicit Rabi Moyses in quarto libro, ad corpus pertinet praeparatio victus necessa 
+       <lb ed="#B" n="36"/>rii: homo nanque non potest apprehendere intelligibile dum esurit vel sitit vel frigus vel calorem pa- 
+       <lb ed="#B" n="37"/>titur: si igitur tanta esset abrenuntiatio omnium necessariorum vt necesse esset hominem cum ma-  
+       <lb ed="#B" n="38"/>iori sollicitudine alia via sibi quaerere necessaria, vt de proprio labore vel de alieno: quam haberet in dispem 
+       <lb ed="#B" n="39"/>sando cum bona societate communia, perfectius esset (uvt aestimo) in casu tali abrenuntiatio particula- 
+       <lb ed="#B" n="40"/>ris: scilicet propriorum, cum obseruata possessione sufficienti communium: &amp; hoc in tali mensura quae  
+       <lb ed="#B" n="41"/>minorem requirat sollicitudinem circa eius dispensationem. Sed de hoc aliquid determinare nihil parti 
+       <lb ed="#B" n="42"/>net ad praesentem intentionem.
+      </p>
+      <p xml:id="n3av8a-c1e1169-d1e198">
+       AD argumentum in oppositum: quod tunc nulla esset religio perfe- 
+       <lb ed="#B" n="43"/>cta: quia in omni religione fit votum obedientiae secundum aliquam certam regulam: Dicendum 
+       <lb ed="#B" n="44"/>quod illud non sequitur. Quoniam etsi certa regula sit in qualibet religione quo ad illa quae sunt acciden- 
+       <lb ed="#B" n="45"/>talia religioni: non tamen oportet quin in aliqua religione existente vel quae posset esse, quo ad arti- 
+       <lb ed="#B" n="46"/>culum obedientiae sit regula vniuersalis &amp; indeterminatae obedientiae quo ad omnia. Quod tamen 
+       <lb ed="#B" n="47"/>semper debet intelligi circa illa in quibus homini licitum est obedire tam in indifferentibus quam necessa 
+       <lb ed="#B" n="48"/>riis ad salutem. Quia si forte nulla religio sit in qua talis obedientia vniuersalis promittitur, nulla est 
+       <lb ed="#B" n="49"/>perfecta quo ad hoc.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

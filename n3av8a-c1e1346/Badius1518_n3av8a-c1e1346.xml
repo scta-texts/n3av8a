@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="92-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1346">
+      <head xml:id="n3av8a-c1e1346-Hd1e96">Quaestio 5</head>
+      <p xml:id="n3av8a-c1e1346-d1e99">
+       <lb ed="#B" n="48"/>SEquitur de pertinentibus ad numerum inuentum in creaturis. Et erant duo. Primum 
+       <lb ed="#B" n="49"/>de principio materiali eius, quod est vnitas: vtrum videlicet vnum principium numeri quantitatis 
+       <lb ed="#B" n="50"/>discretae sit alterius naturae quam vnitas rerum substantialis. Secundum vero erat de eius princi- 
+       <lb ed="#B" n="51"/>pio foruaili scilicet vtrum fora numeri denarii sit aliquid extra intellectum. 
+      </p>
+      <p xml:id="n3av8a-c1e1346-d1e110">
+       CIRca primum arguitur 
+       <lb ed="#B" n="52"/>quod vnitas principium quantitatis discretae sit alterius naturae quam vnitas rerum substantia 
+       <lb ed="#B" n="53"/>lis, quia sunt in diuersis praedicamentis: illa in praedicamento quantitatis accidenta 
+       <lb ed="#B" n="54"/>es: haec vero in praedicamento substantiae. 
+      </p>
+      <p xml:id="n3av8a-c1e1346-d1e119">
+       CONtra. eiusdem naturae sunt omnes proportiones 
+       <!--224.xml-->
+       <pb ed="#B" n="92-r"/>
+       <lb ed="#B" n="1"/>numerales in numero constituto ex vnitate vna saepius multiplicata, &amp; altera, vt patet. ergo &amp; ipsae vni 
+       <lb ed="#B" n="2"/>tates. 
+      </p>
+      <p xml:id="n3av8a-c1e1346-d1e130">
+       DIcendum, quod in quibusdam aliis quaestionibus niris de simplicitate dei, sufficienter exposita est a no 
+       <lb ed="#B" n="3"/>bis differentia in natura vnius quod est principium quantitatis discretae, &amp; vnius quod est rei substantiale. Secundo  
+       <lb ed="#B" n="4"/>enim modo res est vna vnitate fundata in eius entitate. de qua dicit <name ref="#Aristotle">philosophus</name> in iiii. metaphysicae. Non signat 
+       <lb ed="#B" n="5"/>vnum aliud ab ente. &amp; est etiam expositum in quaestionibus dictis, quomodo differt in modo signandi. Vnde vni 
+       <lb ed="#B" n="6"/>tas qua isto modo dicitur res vna, substantialis est. Primo autem modo res est vna vnitate creata in ea per aliquid ad  
+       <lb ed="#B" n="7"/>ditum suae essentiae. Vnde quia, vt dicit Auicenna in. iii, metaphysicae vnum est principium multitudinis: &amp; multitudo 
+       <lb ed="#B" n="8"/>est id quod numeratur per vnum: ideo secundum diuersitatem vnius progreditur per eius multiplicationem diuersitas nume- 
+       <lb ed="#B" n="9"/>rorum &amp;, eorum proprietatum. 
+      </p>
+      <p xml:id="n3av8a-c1e1346-d1e152">
+       AD intelligendum ergo diuersitatem vnius substantialis ab vnitate accidentali, Sci 
+       <lb ed="#B" n="10"/>endum quod secundum quod dicit Dionysius. capi. v. de diuinis nominibus, in monade omnis numerus subsistit. Sed  
+       <lb ed="#B" n="11"/>hoc potest esse dupliciter, vel secundum virtutem &amp; perfectionem in esse: vel secundum substantiam &amp; naturam 
+       <lb ed="#B" n="12"/>Primo modo monas omnino prima substantialis est vnitas diuinae essentiae: a qua primo intra se per sui 
+       <lb ed="#B" n="13"/>communicationem procedit primus numerus ternaris scilicet diuinarum personarum. de quo nihil ad phiaesenus. Secundo ab eadem 
+       <lb ed="#B" n="14"/>extra se procedit omnis numerus multitudinis creaturarum secundum gradus &amp; ordies naturarum specie 
+       <lb ed="#B" n="15"/>differentium. Et est vterque numerus ab illa vnitate procedens, vt dictum est in quaestionibus praedictis 
+       <lb ed="#B" n="16"/>substantialis. Secundo modo est duplex monas in creaturis: a qua duplex numerus procedit: vna sub  
+       <lb ed="#B" n="17"/>stantialis, &amp; alia accidentalis. Vnitas substantialis est quaelibet forma creaturae in esse specifico considerata  
+       <lb ed="#B" n="18"/>quae est pars numeri praedicti essentialis. Et talis vnitas est maxime forma specifica vniuscuiusque in esse 
+       <lb ed="#B" n="19"/>quiditatiuo absoluto considerata, vt est humanitas vel asinitas. cui accidit secundum Auicennam, vt alibi 
+       <lb ed="#B" n="20"/>expositum est, participari in supposito, siue sit in rebus materialibus &amp; corporalibus, siue in rebus immateria  
+       <lb ed="#B" n="21"/>libus &amp; incorporalibus. &amp; ab hac vnitate procedit numerus suppositorum diuersorum sub eadem spe 
+       <lb ed="#B" n="22"/>cie: qui in rei veritate substantialis est: quia idem re omnino sunt natura quae est essentia, &amp; res siue sup 
+       <lb ed="#B" n="23"/>positum naturae, vt in praecedenti quaestione dictum est. Est tamen accidentalis pro tanto, quantum accidit naturae &amp; 
+       <lb ed="#B" n="24"/>essentiae participari in supposito &amp; multiplicari per plura supposita. Vnitas vero accidentalis quae est pri 
+       <lb ed="#B" n="25"/>cipium numeri vere accidentis, qui est discretae quantitatis species, est in magnitudine continua solummo 
+       <lb ed="#B" n="26"/>&amp; est in re accidentalis: quia per formam continuitatis qua totum est aliquod vnum accidentaliter indiuisum secundum  
+       <lb ed="#B" n="27"/>actum tam quo ad separationem realem partium abinuicem, tam quo ad distinctam signationem earum in ipso 
+       <lb ed="#B" n="28"/>tamen natum diuidi vel signari in plura: quae ante diuisionem &amp; signationem actu in se continet con- 
+       <lb ed="#B" n="29"/>tinuata. Atali enim vno continuo, procedit numerus quantitatis discretae: cum illud vnum continuum actu 
+       <lb ed="#B" n="30"/>secundum suas partes diuiditur, vel signatur: qui accidentalis est: quia quaelibet vnitatum suarum accidentalis est: quia pro  
+       <lb ed="#B" n="31"/>pter naturam continui &amp; accidentaliter generatur: quia per diuisionem vel signationem quae accidit vni com- 
+       <lb ed="#B" n="32"/>tinuo in quo erant vnitates illae aggregatae: secundum quod dicit Boetius in libro de vnitate &amp; vno. Plura 
+       <lb ed="#B" n="33"/>litas non est nisi ex aggregatione vnitatum: quae si sunt disgregatae, faciunt multitudinis: si ve 
+       <lb ed="#B" n="34"/>ro fuerint congregatae, faciunt magnitudinem. Et haec est propria generatio numeri accidentalis, 
+       <lb ed="#B" n="35"/>de quo dicit <name ref="#Aristotle">philosophus</name> in tertio physicorum, quod non procedit secundum augmentum in infinitum nisi prae 
+       <lb ed="#B" n="36"/>cedente diuisione continui. Et sic licet secundum abstractionem intellectus prior est simplicitate quan  
+       <lb ed="#B" n="37"/>titas discreta in numeris creata ex diuisione continui per separationem partium abinuicem: quam conti 
+       <lb ed="#B" n="38"/>nua in magnitudine, ex cuius actuali diuisione talis discreta quantitas procedit, &amp; secundum hoc di  
+       <lb ed="#B" n="39"/>cit Boetius de vnitate &amp; vno: Continuum non est nisi ex discreto: quia intellectus continuitatis in continuo 
+       <lb ed="#B" n="40"/>non est nisi ex continuatione discretorum: re tamen &amp; natura prior est quantitas continua quam discre 
+       <lb ed="#B" n="41"/>ta facta per iam dictam diuisionem: quia non habet generari nisi ex continua in qua est in potentia. 
+       <lb ed="#B" n="42"/>Quantitas vero discreta per solam signationem partium in continuo abstractione &amp; natura prae- 
+       <lb ed="#B" n="43"/>cedit ipsum continuum: quia ex talibus discretis componitur ipsum continuum: &amp; est vtriusque quantitatis radix 
+       <lb ed="#B" n="44"/>vna, scilicet materia, vt alibi exposuimus. Geniatio autem ex continuo quantitatis discretae sit dupliciter, aut par  
+       <lb ed="#B" n="45"/>actualem signationem factam in continuo manente continuatione secundum actum. secundum quod aliqua magnitudo  
+       <lb ed="#B" n="46"/>dicitur pedalis, bipedalis, tripedalis: &amp; sic deinceps: vt sic magnitudines in semetipsis etiam numeri sint 
+       <lb ed="#B" n="47"/>secundum quod dicit <name ref="#Aristotle">philosophus</name> in libro posteriorum: aut alio modo per actualem separationem siue diuisionem: &amp; hoc 
+       <lb ed="#B" n="48"/>dupliciter, aut per actualem diuisionem natorum continuari, nunquam tamen continuatorum, aut per actualem diuisionem vnius 
+       <lb ed="#B" n="49"/>actualiter continui existentis in actum. Primo modo est vere numerus accidentalis in omnibus communicantibus 
+       <lb ed="#B" n="50"/>in materia. Omnis enim materia, &amp;de omnis magnitudo, vna materia &amp; vna magnitudo continua 
+       <lb ed="#B" n="51"/>nata est esse quantum est ex ratione materiae &amp; magnitudinis: sed diuisio fit per formas specificas &amp; indi 
+       <lb ed="#B" n="52"/>uiduales, vt dictum est. Et sic in illis in quibus quantum est ex ratione formae diximus esse numerum substantialem 
+       <lb ed="#B" n="53"/>ratione diuisionis secundum materiam &amp; magnitudinem: dicimus etiam esse quodammodo numerum 
+       <lb ed="#B" n="54"/>accidentalem. Secundo modo generatur numerus ex quolibet continuo per diuisionem procedentem in  
+       <!--225.xml-->
+       <pb ed="#B" n="92-v"/>
+       <lb ed="#B" n="1"/>infinitum. Ex his ergo patet, qumodo differunt in natura vnitas substantialis &amp; accidentalis: &amp; per con 
+       <lb ed="#B" n="2"/>sequens numeri ex vtraque procedentes. 
+      </p>
+      <p xml:id="n3av8a-c1e1346-d1e267">
+       AD argumentum in oppositum, quod eaedem sunt proportio 
+       <lb ed="#B" n="3"/>nes numerales in vtroque numero, &amp; numeri iidem natura: &amp; per consequens vnitates: Dicendum 
+       <lb ed="#B" n="4"/>est quod non est verum nisi secundum nomen. Proportiones enim numeri substantialis substantiales. 
+       <lb ed="#B" n="5"/>sunt rebus, sicut accidentalis accidentales. Est enim duplum, triplum, &amp; caetera huiusmodi, substantiale in nume- 
+       <lb ed="#B" n="6"/>ratis substantialiter: &amp; accidentale in numeratis accidentaliter.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

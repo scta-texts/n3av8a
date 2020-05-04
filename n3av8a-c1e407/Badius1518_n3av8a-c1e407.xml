@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 24</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 24</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e407">
+      <head xml:id="n3av8a-c1e407-Hd1e96">Quaestio 24</head>
+      <p xml:id="n3av8a-c1e407-d1e99">
+       <lb ed="#B" n="32"/>Imiliter &amp; quarta quaestio sine argumento proponebatur, &amp; ideo ad ipsam simi- 
+       <lb ed="#B" n="33"/>liter dicendum breuiter quod cimiterium non est nisi ad reuerenter custodiendum corpora filio 
+       <lb ed="#B" n="34"/>rum ecclesiae in terra vsque ad finalem resurrectionem: quorum animae requescunt cum deo in cae 
+       <lb ed="#B" n="35"/>lis: secundum quod aestimatur. vnde &amp; excommunicatorum corpora de quibus praesumitur. 
+       <lb ed="#B" n="36"/>ab ecclesia in foro exteriori quod animae eorum sunt separatae ab ecclesia triumphante 
+       <lb ed="#B" n="37"/>in cimiterio non sepeliuntur. Quare cum ecclesia supponit animam dicti paruuli da 
+       <lb ed="#B" n="38"/>mnatam: corpus eius in cimiterio sepeliri non debet: maxime ea de causa quod per sacramentum re- 
+       <lb ed="#B" n="39"/>enerationis nunquam ecclesiae membrum fuit. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

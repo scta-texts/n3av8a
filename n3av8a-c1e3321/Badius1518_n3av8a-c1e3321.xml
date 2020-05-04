@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 17</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 17</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3321">
+       <head xml:id="n3av8a-c1e3321-Hd1e96">Quaestio 17</head>
+       <p xml:id="n3av8a-c1e3321-d1e99">
+        <lb ed="#B" n="33"/>CIrca Secundum nihil arguebatur: sed proponebatur sine argumentis. Et est dia a 
+       <lb ed="#B" n="34"/>cendum quod vita religionis eo quod contemplatiua est, per se ordinatur ad augmen- 
+       <lb ed="#B" n="35"/>tum gloriae. &amp; hoc non nisi ex merito propriae deuotionis et charitate inbonis 
+       <lb ed="#B" n="36"/>operibus quae exercentur in religione. Negotium autem crucis tanquam poenale actiuum 
+       <lb ed="#B" n="37"/>per se ordinatur ad poenae debitae diminutionem, aut remissionem. &amp; hoc non tam 
+       <lb ed="#B" n="38"/>ex deuotione propriae charitatis in huiusmodi negotium exequendo: quam ex deuotione  
+       <lb ed="#B" n="39"/>&amp; merito Christi in sua passione: inquantum opus siue negotium istud indul- 
+       <lb ed="#B" n="40"/>gentiale est. Vnde quia tenet ecclesia quod summus pontifex habet potestatem pro tali negotio iam 
+       <lb ed="#B" n="41"/>assumpto cum proposito exequendi ipsum secundum consilium ecclesiae indulgere totampoenam 
+       <lb ed="#B" n="42"/>debitam omnibus peccatis quotcunque &amp; qualiacumque commisit: dum tamen vere poenitens fuerit &amp; 
+       <lb ed="#B" n="43"/>confessus: de quo nullus potest habere securitatem quantuncumque ad plurimos annos laboraueritur in  
+       <lb ed="#B" n="44"/>religione: idcirco absolute &amp; simpliciter tenendum quod prosequi negotium crucis secundum consilium 
+       <lb ed="#B" n="45"/>ecclesiae multo magis est proficuum ad remissionem poenae obtinendam &amp; securitatem habendam de 
+       <lb ed="#B" n="46"/>statim euolando: quam vita cuiuscunque religionis. licet illa magis possit esse proficua ad augmentum  
+       <lb ed="#B" n="47"/>gloriae.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="40-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e847">
+      <head xml:id="n3av8a-c1e847-Hd1e96">Quaestio 15</head>
+      <p xml:id="n3av8a-c1e847-d1e99">
+       <pb ed="#B" n="40-v"/>
+       <lb ed="#B" n="1"/>Equuntur quaestiones pertinentes ad aliquorum hominum bona carnalia siue 
+       <lb ed="#B" n="2"/>temporalia. Et erant quaedam pertinentes communiter ad bona ecclesiarum &amp; se 
+       <lb ed="#B" n="3"/>cularium personarum. Quaedam vero aliae pertinentes specialiter ad bona persona 
+       <lb ed="#B" n="4"/>rum ecclesiasticarum. CIRca primum erant duae: quarum prima erat de modo  
+       <lb ed="#B" n="5"/>acquirendi bona quorumcunque a quibuscunque. Secunda erat specialiter de mo- 
+       <lb ed="#B" n="6"/>do acquirendi bona subditorum a principibus &amp; praelatis. PRIma erat: vtrum  
+       <lb ed="#B" n="7"/>licitum sit vendere redditus ad vitam. SEcunda erat: vtrum princeps licite potest 
+       <lb ed="#B" n="8"/>tenere bona alicuius sibi per publicam iustitiam adiudicata propter culpam illi impositam, quem in rei 
+       <lb ed="#B" n="9"/>veritate scit esse innocentem.
+      </p>
+      <p xml:id="n3av8a-c1e847-d1e123">
+       CIRca primum arguitur, quod nullo modo licet vendere redditus ad vitam 
+       <lb ed="#B" n="10"/>quia non licet emere redditus ad vitam, vt alias determinatum fuit. &amp; eadem est ratio illiciti ex parte vedentis 
+       <lb ed="#B" n="11"/>quae est ex parte ementis: nisi quia plus expectat accipere de alieno per partes successiue quam dedit de suo 
+       <lb ed="#B" n="12"/>sperando diutius viuere postquam fortem receperit. &amp; eadem est ratio ex parte vendentis. Expectat ei 
+       <lb ed="#B" n="13"/>minus dare de suo per partes successiue quam recepit simul de alieno: sperando quod emptor citius moriatur 
+       <lb ed="#B" n="14"/>quam acceperit vltra fortem. 
+      </p>
+      <p xml:id="n3av8a-c1e847-d1e136">
+       IN contrarium est. quoniam facto approbatur a multis, &amp; verbo a nullo 
+       <lb ed="#B" n="15"/>contradicitur, quod non videtur posse fieri nisi esset licitum.
+      </p>
+      <p xml:id="n3av8a-c1e847-d1e141">
+       ISTA quaestio vt credo mota fuit pro 
+       <lb ed="#B" n="16"/>pter conuersam huius, an liceat emere redditus ad vitam: de qua determinaui quod non: quod vt intel- 
+       <lb ed="#B" n="17"/>lexi aliquibus displicuit. quod reuera non dixi in fauorem vel odium alicuius: sed teste deo loquar 
+       <lb ed="#B" n="18"/>ipsa veritate quantum mihi apparuerit coactus, iuxta hoc quod ibi declaratum fuit. iNec in rei veri- 
+       <lb ed="#B" n="19"/>tate adhuc mihi aliud quam tunc dixi apparet. Quid cum apparuerit, quocumque docente, vel etiam ecclesia 
+       <lb ed="#B" n="20"/>contrarium teneri praecipiente, absque omni confusione &amp; rebellione paratus ero obedire in hoc si 
+       <lb ed="#B" n="21"/>cut &amp; in omnibus aliis determinatis &amp; determinandis. aliquantulum tamen certior sum pro tunc 
+       <lb ed="#B" n="22"/>determinato quam tunc eram: quia scio quod magni viri idem sentiunt in dicta quaestione quid ego, secundum 
+       <lb ed="#B" n="23"/>quod dixerunt mihi. Dictum est etiam mihi a quodam quod vidit duas bullas papales impetratas contra emen 
+       <lb ed="#B" n="24"/>tes ad vitam ad restituendum perceptum vltra fortem. Sed haec hactenus. Ad intellectum ergo eius 
+       <lb ed="#B" n="25"/>quod dicendum est, in hac quaestione reducenda sunt ad memoriam quaedam tacta in quadam alia quae-  
+       <lb ed="#B" n="26"/>stione anni praecedentis, videlicet an liceat emere vilius vt incontinenti vendatur carius. de qua determi 
+       <lb ed="#B" n="27"/>natum fuit quod non. Contra quam determinationem similiter, vt intellexi multum fuit murmuratum 
+       <lb ed="#B" n="28"/>&amp; tamen vt credo non continet nisi naturalis iuris aequitatis: secundum quam pertinet ad theologos 
+       <lb ed="#B" n="29"/>huiusmodi quaestiones determinare. Si enim secundum aequitatem iuris ciuilis aut canonici possent 
+       <lb ed="#B" n="30"/>determinari, hoc non est nisi inquantum ortum habent ex regulis naturalis iuris &amp; diuini. Dictum  
+       <lb ed="#B" n="31"/>autem fuit in declaratione illius quaestionis, quod iustitia quae est moralis virtus, medietas quaedam est inter 
+       <lb ed="#B" n="32"/>plus &amp; minus circa conmutationes &amp; communicationes rerum faciendas hominium inter se, vt in mutua conversa 
+       <lb ed="#B" n="33"/>tione siue communicatione naturalem seruent aequitatem: nec indebite subtrahatur vni quid addatur alteri 
+       <lb ed="#B" n="34"/>&amp; sic fiant inaequales &amp; recedant ab aequalitate quam prius habuerunt inter se quando neuter alteri debebat  
+       <lb ed="#B" n="35"/>aliud quam mutuam charitatis dilectionem, iuxta illud quod dicit <ref xml:id="n3av8a-c1e847-Rd1e186">Apostolus Ro. xiii.</ref> 
+       <quote xml:id="n3av8a-c1e847-Qd1e189" source="http://scta.info/resource/rom13_8">Nemini quicquam de 
+       <lb ed="#B" n="36"/>beatis nisi vt inuicem diligatis</quote>. Talis enim est aequitas siue aequalitas: quae debet custodiri in mutuis contracti 
+       <lb ed="#B" n="37"/>bus inter homines, vt ibi bene (sicut credo) fuit probatum. &amp; hoc fit quando neuter plus recipit de eo quid est 
+       <lb ed="#B" n="38"/>alterius quam det de suo, vt similiter fuit ibi expositum. Dico igitur quod quia in mutuis contractibus com- 
+       <lb ed="#B" n="39"/>mutationis nullus voluntate absoluta &amp; sciens plus dare vellet quam reciperet, etsi daret vel quodam  
+       <lb ed="#B" n="40"/>modo iam coactum se sentiret propter necessitatem emendi alienum vel vendendi suum: vel post 
+       <lb ed="#B" n="41"/>modum cum perciperet deceptum se intelligeret: quid autem a quoquam obtinetur quasi coactum: &amp; ita per extortionem 
+       <lb ed="#B" n="42"/>vel per eius nescientiam: &amp; ita per deceptionem iniuste obtinetur: igitur in tali contractu quo quis vendit red  
+       <lb ed="#B" n="43"/>ditus ad vitam &amp; intendit minus dare de suo quam accipiat vel accepturus est de alieno sperans, vt di-  
+       <lb ed="#B" n="44"/>ctum est illum minus victurum: dicendum est idem cum eo quid dicit <name>Gaufridus</name> de ementibus ad vitam 
+       <lb ed="#B" n="45"/>Sicut enim vt ibi dictum fuit, <name>Gaufridus</name> inquit, Quid de quibusdam qui dant pecuniam ecclesiis &amp; ab  
+       <lb ed="#B" n="46"/>eis recipiunt certas possessiones tenendas toto tempore vitae suae: credo dicit quod illicitus est contra 
+       <lb ed="#B" n="47"/>ctus: eo quod homines sperant diu viuere: &amp; sic taliter contrahentes credunt se amplius percepturos 
+       <lb ed="#B" n="48"/>de prouentibus possessionum quam sit pecunia quam dederunt: sic non video ego, &amp; forte non video 
+       <lb ed="#B" n="49"/>quia decipior, &amp; res aliter se habet quam mihi apparet: quin hic dicendum sit de vendentibus quod ibi de 
+       <lb ed="#B" n="50"/>ementibus. Quid ergo inquit de quibusdam qui accipiunt pecuniam &amp; concedunt certas possessiones 
+       <lb ed="#B" n="51"/>tenendas toto tempore vitae illorum a quibus pecuniam accipiunt: non video aimo quomodo non sit illicitus com 
+       <lb ed="#B" n="52"/>tractus eo quod homines sperant alios cito mori: sic taliter contrahentes credunt illos minus accepturos de 
+       <lb ed="#B" n="53"/>prouentibus possessionum quam sit pecunia quam dederunt. Vnde etsi propter necessitatem habendi paratam 
+       <lb ed="#B" n="54"/>pecuniam istud ab initio fecerunt non sperando ementes minus percepturos: si tamen contingat illos citius 
+       <!--122.xml-->
+       <pb ed="#B" n="41-r"/>
+       <lb ed="#B" n="1"/>mori &amp; minus percipere, non video quo titulo naturalis iustitiae pont venditor tenere quid superest proquo  
+       <lb ed="#B" n="2"/>nihil dedit. Non enim ratione pactionis dedisset emptor aliquid de suo nisi sperasset se percepturum tantundem 
+       <lb ed="#B" n="3"/>vel amplius de alieno. Si autem praeter aequitatem iuris naturalis quae stat in medio indiuisibili secun 
+       <lb ed="#B" n="4"/>dum naturam inter emptum &amp; venditum, sicut lingua librae stat perpendiculariter inter brachia librae 
+       <lb ed="#B" n="5"/>aequaliter poesderantia: licet ex parte nostra medium illud est diuisibile: quia nescimus singula ad vnguen 
+       <lb ed="#B" n="6"/>aestimare: &amp; ideo relinquitur conscientiae ementium &amp; vendentium, ne plus quis vendat quod suum est, quam bona 
+       <lb ed="#B" n="7"/>fide credat pro tempore &amp; loco debere valere: neque similiter minus emant. Si inquam praeter talem aequitatem ius 
+       <lb ed="#B" n="8"/>humanum positiuum aliquid statuerit per illos qui omnes res humanae possessionis inter quas solent fieri contra 
+       <lb ed="#B" n="9"/>ctus habent in sua potestate: vt videlicet liceat vendentes &amp; ementes citra medietatem iusti praetii se decipere: &amp; 
+       <lb ed="#B" n="10"/>ius positiuum sic poterit vsque ad talem gradum terminare medium naturae, vel aliqua alia huiusmodi statuerit:  
+       <lb ed="#B" n="11"/>&amp; quomodo ex virtute iuris positiui talia liceant non me intromitto: omnino tamen statuta iuris positiui scio 
+       <lb ed="#B" n="12"/>a primis regulis naturae deriuari &amp; ad ipsas reduci: &amp; cum eis concordare. Siqua igitur discordare iura scri 
+       <lb ed="#B" n="13"/>pta videantur in aliquo ab eo quod credimus nunc &amp; alias circa hanc materiam ex regulis iuris naturalis 
+       <lb ed="#B" n="14"/>insinuasse: credo quod sane intellecta &amp; exquisite exposita in nullo discordabunt: quia vel habent casus suos 
+       <lb ed="#B" n="15"/>speciales alios ab hoc casu de quo quaestiones nostrae fuerunt propositae: in quibus suam habent veritatem 
+       <lb ed="#B" n="16"/>vel loquuntur de aliquibus donationibus seu praestationibus liberalibus vsusfructus aliquarum posses- 
+       <lb ed="#B" n="17"/>sionum factis aliquibus personis in recompensationem eorum quae liberaliter contulerunt ecclesiis vel piis 
+       <lb ed="#B" n="18"/>locis: non sub pactione alicuius contractus emptionis &amp; venditionis super iis quae contulerunt &amp; 
+       <lb ed="#B" n="19"/>acceperunt: etsi forte ea quae acceperunt sub forma alicuius pactionis de restituendo quandoque eccle- 
+       <lb ed="#B" n="20"/>siae id quid ab ea in vsum acceperunt: ne omnino ab ea alienetur. Si vero eccuesia virtute &amp; auctoritate ali 
+       <lb ed="#B" n="21"/>cuius canonici instituti iudicet aliter sentiendum esse de aequalitate iuris naturalis in dictis quaestio- 
+       <lb ed="#B" n="22"/>nibus quam ego insinuaui, paratus sum in hoc, &amp; in aliis consentire cum ea: qui nondum video: vt dixi: quo  
+       <lb ed="#B" n="23"/>modo aliquis contractuum dictorum licitus esse possit: nec quo modo siue persona siue ecclsia plusquam de 
+       <lb ed="#B" n="24"/>dit potest sumere scienter, contra liberam &amp; absolutam voluntatem eius a quo recipit. Super quo licet 
+       <lb ed="#B" n="25"/>non video quomodo licitum sit, an tamen ex parte vendentis plus accipere quam dedit licitum sit an non, ni 
+       <lb ed="#B" n="26"/>hil omnino sententiare curaui. videtur tamen mihi quod aeque illicitum sit vendere spe plus percipiendi: si 
+       <lb ed="#B" n="27"/>cut emere eadem spe: vt probat primum obiectum. 
+      </p>
+      <p xml:id="n3av8a-c1e847-d1e304">
+       AD obiectum in oppositum quod facto approbatur 
+       <lb ed="#B" n="28"/>dicendum: quod qui illud approbant faciendo ipsi viderint, mihi videtur quod perniciosum exemplum dant. 
+       <lb ed="#B" n="29"/>Quia vero additur: quod verbo non contradicitur: Dicendum vt credo quod hoc ideo est quia in iudicium non 
+       <lb ed="#B" n="30"/>deducitur &amp; multa per patientiam tolerantur.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

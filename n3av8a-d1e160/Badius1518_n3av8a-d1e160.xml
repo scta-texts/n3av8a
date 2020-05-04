@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="226-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e160">
+       <head xml:id="n3av8a-d1e160-Hd1e96">Quaestio 9</head>
+       <p xml:id="n3av8a-d1e160-d1e99">
+        <lb ed="#B" n="32"/>SEquitur de eis quae pertinent ad animam coniunctam. Quorum vnum erat ex parte po 
+       <lb ed="#B" n="33"/>tentiae cognitiuae: &amp; alia plura ex parte volitiuae. Illud vnum ex parte cognitiuae erat: vtrum 
+       <lb ed="#B" n="34"/>in somnis habeatur aliquam notitia intellectualis. Ex arguitur quod sic. quia relatio prophetica est ope 
+       <lb ed="#B" n="35"/>ratio seu notitia intellectualis: &amp; illa habetur in somnis. secundum illud Nume. xii. Si 
+       <lb ed="#B" n="36"/>quis propheta fuerit inter vos &amp;c. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e160-d1e112">
+       CONtra. in somno non est vsus liberi arbi 
+       <lb ed="#B" n="37"/>trii: sed non est cognitio intellectualis nisi simul adsit vsus liberi arbitrii. ergo &amp;c. 
+       <lb ed="#B" n="38"/>
+      </p>
+      <p xml:id="n3av8a-d1e160-d1e119">
+       DIcendum quod notitia intellectualis duobus modis potest haberi. Vno modo natu-  
+       <lb ed="#B" n="39"/>raliter, hoc est secundum conmunem cursum naturae. Alio modo supnaturaliter &amp; super conmunem cursum naturae. Pri 
+       <lb ed="#B" n="40"/>mo modo cognitio intellectualis nullo modo potest fieri in somnis: cuius ratio est: quia in soninis est liga 
+       <lb ed="#B" n="41"/>men communis particulae secundum philosophum, hoc est organi sensus communis: &amp; subtrahitur interius vis sen- 
+       <lb ed="#B" n="42"/>sitiua a sensibus particularibus: vt imaginatiua virtus quae viget interius: non possit percipere res sub ratio 
+       <lb ed="#B" n="43"/>ne rerum, quia illas non percipit nisi intentis in opus sensibus particularibus: quia non percipit eas neque nata est 
+       <lb ed="#B" n="44"/>percipere nisi in vigilia aliquo vel aliquibus sensibus particularibus existentibus in exercitatione ope- 
+       <lb ed="#B" n="45"/>ris. Vnde imaginatiua quae libera est &amp; extra ligamen somni, si operetur somniando: hoc non est nisi per 
+       <lb ed="#B" n="46"/>cipiendo imagines pro ipsis rebus: non imagines secundum quod habent esse in organo imaginatiuae  
+       <lb ed="#B" n="47"/>quod est interius. Nulla enim virtus organica percipit speciem in suo organo: quae est sibi ratio cognoscendi: 
+       <lb ed="#B" n="48"/>quemadmodum visus non videt speciem prout ea informatur oculus: quae est sibi ratio videndi rem extra. 
+       <lb ed="#B" n="49"/>Sed quod imaginatiua virtus videt imagines pro rebus, hoc contingit: quia cum in somnis sopiti sunt sen- 
+       <lb ed="#B" n="50"/>sus particulares extra, &amp; non fluunt ab organis eorum species sensibilium ab extra interius: tunc ad modum  
+       <lb ed="#B" n="51"/>aquae fluentis de fonte cum aqua de fonte hauritur, refluit ad fontem: species a memoria sensitiuaper 
+       <lb ed="#B" n="52"/>organum imaginatiuae refluunt vsque ad extremitatem organi sensus communis versus interius. vbi per species 
+       <lb ed="#B" n="53"/>similes existentes in imaginatiua videt imaginatiua species illas lucentes in extremitate organi sensus con- 
+       <lb ed="#B" n="54"/>munis: &amp; iudicat illas esse ipsas res quarum sunt: &amp; non potest non decipi: nec per ipsas species existentes in  
+       <!--492.xml-->
+       <pb ed="#B" n="226-r"/>
+        <lb ed="#B" n="1"/>imaginatiua potest ipsa virtus imaginatiua vllo modo percipere obiectiue ipsas res quarum sunt, quem- 
+       <lb ed="#B" n="2"/>admodum percipit ipsas in vigilia, vt ipsum verum colorem etiam clausis oculis. 
+      </p>
+      <p xml:id="n3av8a-d1e160-d1e165">
+       NVNC autem ita est, quod in  
+       <lb ed="#B" n="3"/>tellectus agentis est abstrahere vniuersale a particulari existente in phantasmate siue in imaginatione  
+       <lb ed="#B" n="4"/>non quacumque sed iam existente in actum, &amp; per speciem qua informatur apprehendente rem particularem 
+       <lb ed="#B" n="5"/>secundum quod est res: non imaginationem sub intentione rei: ita quod abstractio vniuersalis ad modum tanquam  
+       <lb ed="#B" n="6"/>proprium &amp; per se obiectum intellectui possibili non fit ab aliqua specie impressa in organo, siue in  
+       <lb ed="#B" n="7"/>ipso organo imaginatiuae quia imaginatur, siue in extremitate organi sensus comonis quem videt imaginatiua 
+       <lb ed="#B" n="8"/>sub ratione rei in somniando: &amp; hoc per speciem qua informatur: sed ipsa abstractio vniuersalis fit ab  
+       <lb ed="#B" n="9"/>ipsa re vt actualiter est imaginata: &amp; tanquam expressa existens in vi imaginatiua imaginante per actum 
+       <lb ed="#B" n="10"/>sicut cognitum in cognoscente: non autem sicut forma in materia. 
+      </p>
+      <p xml:id="n3av8a-d1e160-d1e186">
+       QVAre cum in somnis non potest 
+       <lb ed="#B" n="11"/>imaginari res sub ratione rei sed solummodo species sub ratione rei ab aliquo imaginato seu existen- 
+       <lb ed="#B" n="12"/>te in imaginatiua siue phantastica vi: nullo modo potest abstrahi vniuersale quod praesentetur in-  
+       <lb ed="#B" n="13"/>tellectui possibili sicut proprium &amp; primum eius &amp; per se obiectum. Sub cuius ratione apprehendit 
+       <lb ed="#B" n="14"/>singula, de non alio modo vt alibi declarauimus. Quare cum alio modo secundum cursum naturalem 
+       <lb ed="#B" n="15"/>cognitio intellectiua in homine haberi non potest: igitur nullo modo secundum cursum naturalem in-  
+       <lb ed="#B" n="16"/>telligendi potest cognitio intellectiua haberi in somno: &amp; non propter aliquod ligamentum suum aut ima 
+       <lb ed="#B" n="17"/>ginatiuae: sed propter defectum eius a quo debebat abstrahi suum obiectum. Si vero contingat aliquem 
+       <lb ed="#B" n="18"/>somniando quasi syllogizare, aut versus componere, aut facere exterius opera vigiliae, quasi directa a ra 
+       <lb ed="#B" n="19"/>tione: hoc non contingit nisi propter quandam impressionem quae per assuefactionem operis talis in vigilia 
+       <lb ed="#B" n="20"/>directi a ratione facta est in viribus sensitiuis cognitiuis currentibus imaginibus, &amp; vi imaginatiua 
+       <lb ed="#B" n="21"/>eas per quandam impressionem sibi factam dirigente: ac si ipsa esset directa a ratione. Vnde &amp; consimiliter ab ap- 
+       <lb ed="#B" n="22"/>petitiua sensitiua affectiones &amp; desideria ordinata secundum virtutem solent haberi in somnis ex as- 
+       <lb ed="#B" n="23"/>suefactione circa talia in vigilia. Propter quod dicit philosophus, quod somnia iustorum meliora sunt quam quorumlibet 
+       <lb ed="#B" n="24"/>aliorum. Per talia ergo quae sic fiunt &amp; apparent in somnis: nullo modo potest argui quod hoc sit per aliquam 
+       <lb ed="#B" n="25"/>notitiam intellectualem modo naturae procedentem. 
+      </p>
+      <p xml:id="n3av8a-d1e160-d1e221">
+       SVpernaturaliter autem &amp; supra conmunem cur 
+       <lb ed="#B" n="26"/>sum naturae &amp; per somnia &amp; per reuelationes bene potest haberi perfecta cognitio intellectualis: &amp; 
+       <lb ed="#B" n="27"/>hoc secundum quodcumque genus visionis &amp; intellectualis cognitionis. Et melius ad huiusmodi notitiam in se 
+       <lb ed="#B" n="28"/>recipiendam intellectus est dispositus quantum est de se propter suam vacationem ab operibus sensuum 
+       <lb ed="#B" n="29"/>secundum quod debet exponi loquendo de visione prophetica. Et secundum hoc concedenda est ratio pro ista 
+       <lb ed="#B" n="30"/>parte. 
+      </p>
+      <p xml:id="n3av8a-d1e160-d1e234">
+       AD rationem in oppositum quod in somnis non est vsus liberi arbitrii: Dicendum quod verum est se- 
+       <lb ed="#B" n="31"/>cundum communem cursum naturae: quia neque operatio intellectualis vt dictum est. Existente tamen co 
+       <lb ed="#B" n="32"/>gnitione supnaturaliter, &amp; iudicii discretione ex parte rationis, nullo modo est inconveniens inesse vsum 
+       <lb ed="#B" n="33"/>arbitrii in voluntate, vt per ipsum possit homo mereri &amp; demereri in somnis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

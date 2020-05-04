@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="575-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5549">
+       <head xml:id="n3av8a-c1e5549-Hd1e96">Quaestio 2</head>
+       <p xml:id="n3av8a-c1e5549-d1e99">
+        <lb ed="#B" n="44"/>Equuntur quaesita de creaturis. Quorum quaedam erant de creatura humana vnita diuini  
+       <lb ed="#B" n="45"/>tati in Christo: &amp; quaedam alia de creaturis absolutis non vnitis diuinitati. De pri 
+       <lb ed="#B" n="46"/>mo quaerebantur tria: Duo de quibusdam actionibus procedentibus a Christo secundum eius 
+       <lb ed="#B" n="47"/>naturam humanam. Quorum primum erat: vtrum Christus ascendit super omnes caelos. Secundum 
+       <lb ed="#B" n="48"/>erat: vtrum omnis actio Christi humana sit supernaturalis. Vnicum autem &amp; tertium erat de 
+       <lb ed="#B" n="49"/>quadam actione terminata in corpus Christi scilicet vtrum operatio qua convertebatur cibus 
+       <lb ed="#B" n="50"/>in corpus Christi, erat naturalis. Circa primum arguitur quod Christus non ascendit super omnes caelos, sic. secun 
+       <lb ed="#B" n="51"/>dum philosophum. v. Physi, omnis motus est a termino in terminum. illuc ergo vbi nullus est terminus nihil mo- 
+       <lb ed="#B" n="52"/>ueri potest: quia esset motus fine termino. super omnes caelos nullus est terminus: quia super omnes caelos nihil est 
+       <lb ed="#B" n="53"/>nisi quid est extra omnes caelos, non enim idem sunt esse supe omnes caelos &amp; extra omnes caelos. extra autem omnes caelos 
+       <lb ed="#B" n="54"/>nihil est omnino, nec plenum, nec vacuum, nec tempus, nec locus. secundum philosophum. i.t caeli &amp; mundi, terminus autem 
+       <!--1191.xml-->
+       <pb ed="#B" n="575-v"/>
+        <lb ed="#B" n="1"/>motus non est nihil. ergo &amp;c. Confirmatur autem ratio ista per illud quid Dauid propheta loquens in psal. 
+       <lb ed="#B" n="2"/>de Christi ascensione dicit sic. Asummo caelo egressio eius: &amp; occursus eius vsque ad summum eius. oc- 
+       <lb ed="#B" n="3"/>cursus iste ascensio eius fuit. Ascensio ergo Christi fuit vsque ad summum supremi caeli, quid est supe omnes 
+       <lb ed="#B" n="4"/>caelos. ergo &amp;c. In contrarium est illud quod dicit Grego. in praefatione pentecostes de Christi ascen 
+       <lb ed="#B" n="5"/>sione. Ascedens super omnes caelos sedensque ad dexteram &amp;c. quid assumpsit de ad Ephe. iiii. vbi dicit aposto 
+       <lb ed="#B" n="6"/>lus. Qui descendit ipse est qui ascendit super omnes caelos. Dico quod hoc quod Christus super omnes caelos 
+       <lb ed="#B" n="7"/>ascendisse scribitur: sanum requirit intellectum &amp; pium expositorem. Quia enim ascensus motum  
+       <lb ed="#B" n="8"/>dicit ad superius: superius autem semper dicitur respectu inferioris: et superius atque inferius duplici 
+       <lb ed="#B" n="9"/>ter possunt intelligi, vel loco vel dignitate: vtroque modo Christus intelligendus est ascendisse super 
+       <lb ed="#B" n="10"/>omnes caelos. Super illud Ephe. iiii. Ascendens Christus in altum. dicit Gloss. Et loco &amp; dignitate: quod Christus 
+       <lb ed="#B" n="11"/>vna persona deus &amp; homo ascendisse dicitur, secundum humanitatem eius dictum intelligitur. Super illud Ephe. iiii. 
+       <lb ed="#B" n="12"/>Quia autem ascendit quid est nisi quia &amp; descendit. dicit Glossa. Secundum corpus &amp; animam ad caelos ascendit. Ad 
+       <lb ed="#B" n="13"/>caelos spirituales trinitatis diuinarum personarum ascendit quando in sua incarnatione ad aequalitatem 
+       <lb ed="#B" n="14"/>dei patris humanitas eius est assumpta per vnionem naturae humanae cum diuina, secundum quam est aequa-  
+       <lb ed="#B" n="15"/>lis patri. Vnde super illud psal. xviii. Occursus eius vsque ad summum eius, dicit Augustinum. Occurrit ple 
+       <lb ed="#B" n="16"/>nitudini diuinitatis vsque ad aequalitatem patris. vt enim super illud loan iii. Nemo ascendit in caelum 
+       <lb ed="#B" n="17"/>nisi qui descendit de caelo. dicit Beda, filius hominis quod in sua natura habere non potuit hoc in dei filio a 
+       <lb ed="#B" n="18"/>quo assumptus est habuit. Et per hoc ascendit Christus vna persona existens in duabus naturis in cae 
+       <lb ed="#B" n="19"/>lum per eius humanitatem: sicut econuerso descendit de caelo secundum eius diuinam naturam. Vnde supe il- 
+       <lb ed="#B" n="20"/>lud psal. xvii. Inclinauit caelos &amp; descendit. dicit <name ref="#Augustine">Augustinus</name> Descendit ad hominum infirmitatem. De vtroque  
+       <lb ed="#B" n="21"/>autem simul dicit Glossa super illud. Quia autem descendit &amp;c. sic. Quomodo humanitas ascendere potuit nisi 
+       <lb ed="#B" n="22"/>quia diuinitas primum descendit: descendit quidem diuinitas non localiter: sed per exinanitionem sua. scilicet in  
+       <lb ed="#B" n="23"/>assumpta humanitate. Sic etiam econtra isto modo iam dicto ascendit humanitas non localiter: sed per re 
+       <lb ed="#B" n="24"/>pletionem sua. scilicet ex assumpta diuinitate quae est ascensio non loco sed dignitate: &amp; per istam ascensionem ad cae 
+       <lb ed="#B" n="25"/>los spirituales trinitatis ascendit super omnes caelos spiritales spiritalis creaturae &amp; loco &amp; dignitate. 
+       <lb ed="#B" n="26"/>secundum illud psal. xvii. Ascendit super cherubin &amp; volauit super pennas ventorum. Super cherubin dicit Au- 
+       <lb ed="#B" n="27"/>gust. exaltatus est super plenitudinem scientiae: &amp; super virtutes animarum: quibus se velut penis a terrenis ti- 
+       <lb ed="#B" n="28"/>moribus in auras libertatis attollunt. Hinc dicitur in psal. cxii. Excelsus super omnes gentes dominus &amp; super cae 
+       <lb ed="#B" n="29"/>los gloria eius. vbi dicit <name ref="#Augustine">Augustinus</name> Gentes homines sunt. Sed non solum excelsus super omnes gentes dominus, verum 
+       <lb ed="#B" n="30"/>etiam super caelos gloria eius. Sicut autem per gentes intelligit homines: sic per caelos intelligit angelicos spi- 
+       <lb ed="#B" n="31"/>ritus: inquantum respectu illorum homines dici possunt terra. Communiter tamen &amp; homines &amp; angeli caeli 
+       <lb ed="#B" n="32"/>dicuntur. Super quos Christum ascendisse intellexit Greti, quando dixit. Qui ascendens super omnes caelos. Quid  
+       <lb ed="#B" n="33"/>bene declarauit describendo terminum ascensionis vbi ascensus ille stetit, subdens. Sedensque ad dexre 
+       <lb ed="#B" n="34"/>ram dei patris, quod est in plenitudine diuinitatis aequalem patri residere. vnde super illud psal. xlvii. Asce 
+       <lb ed="#B" n="35"/>dit super caelum caeli. dicit Augu. Ergo super caelum caeli sedet ad dexteram dei patris. &amp; hoc est quod dicit apo- 
+       <lb ed="#B" n="36"/>stolus. Ascendit super omnes caelos. Quid amplius exponens loan. Damasce. libro iii. ca. xxxi. dicit sic. Ad dexteram 
+       <lb ed="#B" n="37"/>dei patris sedere aimus Christum corporaliter. Dexteram autem dicimus patris gloriam &amp; honorem diuini  
+       <lb ed="#B" n="38"/>tatis, in qua corporaliter sedet glorificata eius carne. Et sic loquendo de ascensione dignitate super omnes cae 
+       <lb ed="#B" n="39"/>los omnis spiritualis creaturae bene procedit vltima obiectio. De ascensione autem eius loco super omnes caelos si 
+       <lb ed="#B" n="40"/>intelligamus super caelos iam dictos creaturae spiritualis, adhuc bene habet veritatem caelos appellando  
+       <lb ed="#B" n="41"/>bonos homines qui creduntur post corporum resurrectionem in paradiso caelesti in diuersis sedibus corpo 
+       <lb ed="#B" n="42"/>ralibus corporaliter residere dispositi pro qualitate meriti: inter quas sedes Christi sedes erit supre 
+       <lb ed="#B" n="43"/>ma, vel situ locali, vel dignitate, vel potius vtroque modo. Vt sicut Christus corporaliter &amp; circunscri 
+       <lb ed="#B" n="44"/>pto corpore creditur ascendisse secundum Damalis. libro iii. ca. xxxi. in exponendo illud Actuum primo. Veniet 
+       <lb ed="#B" n="45"/>quemadmodum vidistis eum euntem in caelum. dicentem. Ascendere autem ex terra ad caelos, &amp; rursum descem 
+       <lb ed="#B" n="46"/>dere actiones sunt circunscripti corporis: Sic in corpore circunscripto a loco determinato creditur in  
+       <lb ed="#B" n="47"/>aliqua parte determinata caeli residere quaecumque sit illa. &amp; in quocumque situ. Si vero intelligere conetur 
+       <lb ed="#B" n="48"/>aliquis ascendisse Christum supe omnes caelos corporales vltra convexitatem extremi caeli: nescio qua aucto- 
+       <lb ed="#B" n="49"/>ritate aut ratione illud firmare poterit. Sed quin sic super omnes caelos corporales ascendisse potuis 
+       <lb ed="#B" n="50"/>set, si voluisset, non dubito. Vnde quod arguitur in primo argumento: quod Christus non ascendit super omnes 
+       <lb ed="#B" n="51"/>caelos, quasi super omnes caelos corporales dicto modo ascendere non potuisset, eo quod omnis motus est ad  
+       <lb ed="#B" n="52"/>terminum, &amp; vltra omnes illos caelos nullus est terminus: Dico quod hoc vltimum verum est de termino qui  
+       <lb ed="#B" n="53"/>est aliquod ens positiuum &amp; secundum se: quia vt procedit argumentum &amp; bene: extra caelum nullum tale ens 
+       <lb ed="#B" n="54"/>est. De termino autem qui est ens per accidens &amp; priuatiuum, cuiusmodi ens potest esse vacuum secundum 
+       <!--1192.xml-->
+       <pb ed="#B" n="576-r"/>
+        <lb ed="#B" n="1"/>praedicta: Dico quod bene est aut potest esse terminus super omnes caelos: ad quem Christus potuit ascen- 
+       <lb ed="#B" n="2"/>disse. Si enim Christus dicto modo super omnes caelos corporales ascendisset: etsi prius in termino ascem 
+       <lb ed="#B" n="3"/>sus sui neque plenum neque vacuum fuisset: extunc tamen plenum spatium ibi fuisset, quod quantum est ex se 
+       <lb ed="#B" n="4"/>natum fuisset fore vacuum: &amp; capabilitas erat corporis absque corpore existens. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

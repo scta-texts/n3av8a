@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 18</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 18</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="329-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3334">
+       <head xml:id="n3av8a-c1e3334-Hd1e96">Quaestio 18</head>
+       <p xml:id="n3av8a-c1e3334-d1e99">
+        <lb ed="#B" n="48"/>CIrca tertium arguitur: quod opera aequalia facta in charitate maiore &amp; minore non 
+       <lb ed="#B" n="49"/>aequaliter diminuunt de poena taxata: quae sufficit pro tota poena peccatis debita in  
+       <lb ed="#B" n="50"/>purgatorio: de quibus confessus est, &amp; pro quibus iniungitur. Quia substantia cha- 
+       <lb ed="#B" n="51"/>ritatis ex qua sit opus, per se respicit praemium gloriae. Poena vero quae consistit in  
+       <lb ed="#B" n="52"/>opere, per se respicit diminutionem poenae debitae. Quamuis ergo sit maior charitas: vt 
+       <lb ed="#B" n="53"/>ex ipsa plus mereatur de gloria in aequali opere: quam ex charitate minore: non tamen 
+       <lb ed="#B" n="54"/>plus diminuitur de poena. 
+      </p>
+      <p xml:id="n3av8a-c1e3334-d1e117">
+       CONtra. diminutio poenae non est nisi ex ratione merendi: quare cum 
+       <!--698.xml-->
+       <pb ed="#B" n="329-r"/>
+        <lb ed="#B" n="1"/>ratio merendi non consistit nisi in charitate: et ideo maior charitas magis meretur: plus ergo de 
+       <lb ed="#B" n="2"/>poena minuitur pro aequali opere ex maiore charitate facto quam ex minore. 
+      </p>
+      <p xml:id="n3av8a-c1e3334-d1e128">
+       DIcendum ad hoc: quod opus 
+       <lb ed="#B" n="3"/>ad hoc quod sit meritorium gloriae aut etiam satisfactorium poenae, oportet quod deo gratum sit &amp; acceptum. 
+       <lb ed="#B" n="4"/>Acceptum autem vel gratum deo esse non potest nisi factum sit in virtute illius qui factus est re- 
+       <lb ed="#B" n="5"/>conciliatio pro peccatis nostris: Christ scilicet lpse enim est principale agens in merendo toti generi hu 
+       <lb ed="#B" n="6"/>mano peccatorum &amp; poenae pro peccatis abolitionem &amp; gloriae collationem: quae sunt finis omnis 
+       <lb ed="#B" n="7"/>actionis Christi &amp; passionis in homine quam gessit. Agens autem organicum quilibet homo purus 
+       <lb ed="#B" n="8"/>est inquantum est membrum illius. Et agens secundarium quale est omne agens organicum siue instru 
+       <lb ed="#B" n="9"/>mentale, non attingit finem agentis principalis, nisi agat in virtute illius: quemadmodum calor non ge- 
+       <lb ed="#B" n="10"/>nerat nisi in virtute agentis impressa calori a generante. In virtute ergo Christi omne opus nostrum 
+       <lb ed="#B" n="11"/>debet esse factum si sit meritorium gloriae aut satisfactorium poenae. In virtute autem agentis prin 
+       <lb ed="#B" n="12"/>cipalis non potest agere agens secundarium organicum nisi sit ei coniunctum, &amp; virtutis ac influentiae 
+       <lb ed="#B" n="13"/>eius susceptiuum, quemadmodum membrum separatum a capite &amp; corpore virtutem capitis &amp; cor- 
+       <lb ed="#B" n="14"/>poris suscipere non potest: et ideo nec in virtute eius agere potest. Organum quale est quilibet nostrum 
+       <lb ed="#B" n="15"/>Christo capiti non coniungitur nisi sit membrum in corpore suo mystico quod est ecclesia: glutino spi 
+       <lb ed="#B" n="16"/>ritus sancti quae charitas est, ei coniunctum. Ephilosophi iiii. Qui est caput Christus: ex quo totum corpus 
+       <lb ed="#B" n="17"/>compactum &amp; connexum per omnem iuncturam subministrationis secundum operationem in mensuram 
+       <lb ed="#B" n="18"/>vniuscuiusque membri augmentum corporis facit in aedificationem sui in charitate. Glos. Qui est caput 
+       <lb ed="#B" n="19"/>nobis, prouidens &amp; regere potens: per quem totum corpus. i. ecclesiae compactum est per fidem, connexum 
+       <lb ed="#B" n="20"/>vinculis charitatis: quae faciunt membra inuicem subministrare secundum operationem non solum in voluntate 
+       <lb ed="#B" n="21"/>in mensuram vniuscuiusque membri. i. secundum quod vnumquodque membrum potest operare per gratiam sibi 
+       <lb ed="#B" n="22"/>datam. &amp; ipse facit augmentum corporis aedificando illos qui non sunt. &amp; hoc totum facit in charitate.  
+       <lb ed="#B" n="23"/>Ex hoc ergo solo opus nostrum est meritorium quod Christo sumus coniuncti in corpore, &amp; ecclesiae per  
+       <lb ed="#B" n="24"/>fidem &amp; charitatem: per quae in virtute eius meremur: &amp; in ipso augmentum spirituale accipimus. 
+       <lb ed="#B" n="25"/>Propter quod cum homo amissa charitate desinit esse membrum ecclesiae: grata non possunt esse deo  
+       <lb ed="#B" n="26"/>opera eius: nec alicui meritoria neque gloriae neque diminutionis poenae prius debitae: ita quod substantia 
+       <lb ed="#B" n="27"/>operis quantuncumque sit de genere virtutis siue poenale, siue non poenale, nec meritorium nec satisfactorium 
+       <lb ed="#B" n="28"/>est nisi ex virtute &amp; radice charitatis: ita quod deus non acceptat opus aut meritum aut satisfactionem 
+       <lb ed="#B" n="29"/>nisi propter dispositionem operantis. Vnde dictum est Gen. iiii. quod dominus respexit ad Abel &amp; munera eius, 
+       <lb ed="#B" n="30"/>ad Cain autem &amp; ad munera eius non respexit. Vbi ex ordine verborum coniicimus quod non tam 
+       <lb ed="#B" n="31"/>aspexit, vel non aspexit ad opera, quam aspexit vel non aspexit ad personas: non econuerso. Propter quid  
+       <lb ed="#B" n="32"/>super illud primae Corin. xiii. Si charitatem non habuero nihil mihi prodest. Glos. Opera bona non  
+       <lb ed="#B" n="33"/>ex quantitate sui: sed ex charitate plus vel minus prosunt. Sed intelligendum quod opus ex virtute 
+       <lb ed="#B" n="34"/>charitatis duplex habet esse. vnum interius quod consistit in feruore &amp; deuotione operantis. aliud ex 
+       <lb ed="#B" n="35"/>terius quod consistit in substantia actus. Et sic se habent inter se: quod sicut opus simpliciter non placet nisi 
+       <lb ed="#B" n="36"/>ex virtute charitatis: quia ex radice charitatis procedit: sic nec placet opus exterius plus vel mi- 
+       <lb ed="#B" n="37"/>nus nisi secundum feruorem maiorem vel minorem operis interioris: ita quod non mensuratur me- 
+       <lb ed="#B" n="38"/>ritum operis exterioris tam ex substantia charitatis secundum se, quam ex feruore &amp; deuotione quam eli 
+       <lb ed="#B" n="39"/>cit in opere interiori. 
+      </p>
+      <p xml:id="n3av8a-c1e3334-d1e211">
+       ET sciendum quod opus exterius quadruplex est: liberale, poenitentiale, indulgen- 
+       <lb ed="#B" n="40"/>tiale, &amp; suffragale. Liberale: quid quis agit ex propria voluntate. Poenitentiale: quod iniunctum est a sa- 
+       <lb ed="#B" n="41"/>cerdote. Indulgentiale: quid suadetur a praelato. Suffragale: quid vnus facit pro alio. Comparando igi- 
+       <lb ed="#B" n="42"/>tur opus exterius secundum istos quatuor modos ad opus interius: sciendum quod ex opere inte- 
+       <lb ed="#B" n="43"/>riore procedit opus exterius idem in specie &amp; aequale omnino ex maiore &amp; minore charitate in di  
+       <lb ed="#B" n="44"/>uersis dupliciter. Vno modo opere interiore existente aequali in diuersis vel inaequali: quia ex par 
+       <lb ed="#B" n="45"/>te habitus charitatis in se non oportet distinguere: quia non est meritum ex ipsa nisi secundum quod 
+       <lb ed="#B" n="46"/>se extendit in opus saltem interius: quia si est, operatur aut deficit: nequaquam vero proficit. Si vero 
+       <lb ed="#B" n="47"/>opus interius sit in diuersis aequale: tunc opus exterius factum est in singulis aut liberale: aut poeni- 
+       <lb ed="#B" n="48"/>tentiale: aut indulgentiale: aut suffragale: aut est in vno liberale, in alio vero vel aliis aut poenitem 
+       <lb ed="#B" n="49"/>tiale, aut indulgentiale, aut suffragale: aut est in vno poenitentiale: in alio vero aut aliis indulgentiale: 
+       <lb ed="#B" n="50"/>aut est tertio modo in vno poenitentiale aut indulgentiale: in alio vero vel aliis suffragale. Si primo modo 
+       <lb ed="#B" n="51"/>quod scilicet opus interius sit aequale in diuersis: sed exterius in singulis est liberale: aut poenitentiale, aut indulgentiale: 
+       <lb ed="#B" n="52"/>sic dico quod idem opus exterius &amp; aequale factum ex habitu maioris charitatis &amp; minoris aequaliter meretur &amp; 
+       <lb ed="#B" n="53"/>gloriae augmentum &amp; poenae diminutionem in diuersis. Si vero opus exterius in singulis sit suffragale 
+       <lb ed="#B" n="54"/>vt cum diuersi capellani dicunt missas suas pro viuis siue pro defunctis: quia huiusmodi opera prosunt &amp; sunt 
+       <!--699.xml-->
+       <pb ed="#B" n="329-v"/>
+        <lb ed="#B" n="1"/>meritoria tam facientibus ea quam illis pro quibus ea faciunt: tunc distinguendum ex parte facientium opus: &amp; ex 
+       <lb ed="#B" n="2"/>parte eorum pro quibus faciunt: quia comparari possunt inter se ipsi facientes, aut ipsi pro quibus faciunt, aut 
+       <lb ed="#B" n="3"/>facientes illis pro quibus faciunt. Si primo modo &amp; secundo, sic aequaliter merentur inter se illi qui fa- 
+       <lb ed="#B" n="4"/>ciunt ex aequali opere interiori: et similiter illi inter se qui opere interiore aequaliter meruerunt dum  
+       <lb ed="#B" n="5"/>viuerent vt eis valerent si pro eis per alios fierent: vel iam viuentes aequaliter mererentur. Si tertio modo:  
+       <lb ed="#B" n="6"/>sic semper plus merentur facientes: quod certum est quantum ad augmentum gloriae ipsius facientis. Quantum autem  
+       <lb ed="#B" n="7"/>ad diminutionem poenae plures credunt quod plus merentur illi pro quibus principaliter facit. Etem siquis ali- 
+       <lb ed="#B" n="8"/>quid de suo pro alio faciat: non ex hoc diminuitur meritum, proprium: &amp; semper maioris meriti est bonum facere 
+       <lb ed="#B" n="9"/>per se dum possibile est fieri: quam per alium secundum praedictum modum: licet quandoque amissum in vno opere non fa 
+       <lb ed="#B" n="10"/>cto, possit recompensari in alio. Si vero secundo modo principali opus exterius sit in vno liberale: in  
+       <lb ed="#B" n="11"/>alio vero vel in aliis sit poenitentiale aut indulgentiale: sic semper indulgentiale &amp; poenitentiale plus me- 
+       <lb ed="#B" n="12"/>rentur propter sacramenti virtutem in poenitentiali: &amp; clauium efficaciam in indulgentiali. Si vero in vno sit 
+       <lb ed="#B" n="13"/>liberale, in alio vero vel in aliis suffragale: sic est triplex comperatio, vt iam distinctum est in membro praecedente. 
+       <lb ed="#B" n="14"/>Et si primo illorum trium modorum comparem scilicet iter se facientes: vel secundo modo comparem scilicet iter se illi pro quibus fiunt: 
+       <lb ed="#B" n="15"/>sic illi inter se aequaliter merentur: &amp; similiter isti inter se. Si tertio modo comparentur facientes illi qui faciunt, &amp; illi pro quid 
+       <lb ed="#B" n="16"/>bus inter se: semper plus merentur facientes secundum determinatum modum. Si vero modo tertio principali 
+       <lb ed="#B" n="17"/>opus in vno sit poenitentiale: in alio vero indulgentiale: tunc de hoc iudicandum est secundum quantitatem  
+       <lb ed="#B" n="18"/>indulgentiae. Posset enim esse tanta quod plus mereretur quam opus poenitentiale: &amp; posset esse tanta quod aequa  
+       <lb ed="#B" n="19"/>liter: posset forte etiam esse tam modica quod minus. Si vero in vno fuerit suffragale: in altero vero poe- 
+       <lb ed="#B" n="20"/>nitentiale sit vel indulgentiale: sic semper plus meretur poenitentiale vel indulgentiale: sicut &amp; semper 
+       <lb ed="#B" n="21"/>plus meretur liberale, vt dictum est. Si vero opus interius sit inaequale: sic distinguendum vt supra 
+       <lb ed="#B" n="22"/>quando opus interius positum est aequale: quia primo modo in opere exteriori liberali poenitentiali &amp; indulgentiali &amp; 
+       <lb ed="#B" n="23"/>suffragali semper plus meretur operans interius intensius. Si vero secundo modo principali opus ex 
+       <lb ed="#B" n="24"/>terius fuerit in vno liberale, in alio poenitentiale aut indulgentiale: si poenitentiale &amp; indulgentia- 
+       <lb ed="#B" n="25"/>le fiant ex maiori intensione interius, semper plus merentur. Si vero econverso liberale fiat ex opere in-  
+       <lb ed="#B" n="26"/>teriore multo intensiore, bene potest plus mereri. Si modice intensiore, potest aequaliter aut etiam minus  
+       <lb ed="#B" n="27"/>mereri. Si vero opus fuerit in vno liberale in alio suffragale: sic triplex facienda est comperatio vt prius 
+       <lb ed="#B" n="28"/>&amp; in prima &amp; secunda comparatione semper plus meretur qui ex feruentiore actu interiori. In tertia ve 
+       <lb ed="#B" n="29"/>ro comparatione si suffragale sit ex multo feruentiore actu in illis pro quibus faciunt, sic isti plus merem 
+       <lb ed="#B" n="30"/>tur: si in modico: sic aequaliter. alias semper plus merentur agentes. Si vero tertio modo principali 
+       <lb ed="#B" n="31"/>opus in vno sit poenitentiale: in alio vero indulgentiale: &amp; poenitentiale fit ex maiore feruore in-  
+       <lb ed="#B" n="32"/>terius: distinguendum est de opere indulgentiali vt prius. Alias indulgentiale si fiat ex maiore feruore, 
+       <lb ed="#B" n="33"/>plus meretur. Si vero in vno fuerit suffragale: in alio vero poenitentiale vel indulgentiale: tunc poe 
+       <lb ed="#B" n="34"/>nitentiale vel indulgentiale ex maiore feruore semper plus meretur. Suffragale vero posset esse ex tanto 
+       <lb ed="#B" n="35"/>maiore feruore quod plus mereretur quam poenitentiale: &amp; tam modico maiore quod aequaretur: &amp; similiter quam indul-  
+       <lb ed="#B" n="36"/>gentiale: nisi valde abundantes essent indulgentiae. Et nota quod quamuis opus indulgentiale vel liberale posset 
+       <lb ed="#B" n="37"/>esse suffragale: hic tamen sumitur ipsum, proprie inquantum cum nullo eorum coincidit. Nota iterum: quod idem est iu-  
+       <lb ed="#B" n="38"/>dicium de suffragali respectu illius pro quo fit, &amp; de quocumque illorum quatuor modorum operis respectu il- 
+       <lb ed="#B" n="39"/>lius cui complacent. Complacendo enim opus alterius facit homo suum. Grego. in reti. epistola. xxii. Est mihi hoc 
+       <lb ed="#B" n="40"/>ex dei munere in magna consolatione quia opus factum quod in me non habeo diligo in te: cumque de tuis 
+       <lb ed="#B" n="41"/>actibus magna exultatione gaudeo, ea quae per laborem tua sunt: per charitatem mea fiut. Et post. cxv. 
+       <lb ed="#B" n="42"/>Nostra sunt quae etsi imitari non possumus amamus in aliis: &amp; amantium fiunt quaecumque amantur in nobis 
+       <lb ed="#B" n="43"/>Hinc ergo pensent mundani, charitas quantae virtutis est: quae alieni laboris opera nostra sine labo- 
+       <lb ed="#B" n="44"/>re facit. Vnde etiam in generali omnium bona aliorum diligentes participes eorum simus. Psali. dicente. Parti- 
+       <lb ed="#B" n="45"/>ceps ego sum omni. ti. te. &amp;c. Vnde etiam defunctis existentibus in purgatorio prosunt opera non solum quampro 
+       <lb ed="#B" n="46"/>eis fiunt: sed etiam quae generaliter pro defunctis. Sed hoc non nisi pro quanto meruerunt dum viuerent: vt eis 
+       <lb ed="#B" n="47"/>prodessent si pro eis fierent. dicente <name ref="#Augustine">Augustinus</name> de cura pro mortuis agenda. Vt hoc quod impenditur prodesse pos- 
+       <lb ed="#B" n="48"/>sit post corpus, in ea vita acquisitum est quam gessit in corpore. Quod ergo arguitur primo: quod substantia 
+       <lb ed="#B" n="49"/>operis respicit per se diminutionem poenae: &amp; quantitas charitatis augmentum gloriae: Dicendum quod non est verum 
+       <lb ed="#B" n="50"/>propter se: sed solum propter radicem charitatis: non secundum substantiam: sed secundum quod se extendit in opus interius labo 
+       <lb ed="#B" n="51"/>riosum. Vnde opus bonum quia de genere bonorum etiam quia poenitentialiter est iniunctum factum extra charitatem nul 
+       <lb ed="#B" n="52"/>lius est meriti propter solam substantiam operis. Opus est exterius factum ex habente charitatem: a charitate autem non eli 
+       <lb ed="#B" n="53"/>citum nec actum nec hintu, siquid tale procederet exterius, quantuncumque esset de genere operis boni nullo modo sset meri 
+       <lb ed="#B" n="54"/>torium. Vnde tantus posset esse feruor poenae interioris, quod habens charitatem minorem cumminore ope- 
+       <!--700.xml-->
+       <pb ed="#B" n="330-r"/>
+        <lb ed="#B" n="1"/>re exterius totam poenam debitam peccato diminueret: cum tamen alius habens maiorem charita 
+       <lb ed="#B" n="2"/>tem cum maiore opere exteriore &amp; minore feruore in opere interiore: non tantum de poena sibi debita 
+       <lb ed="#B" n="3"/>minueret quantum ille opere suo exteriore minore. Non ergo aliter se habet substantia operis exterioris ad  
+       <lb ed="#B" n="4"/>meritum gloriae, &amp; ad diminutionem culpae quantum est ex se, nec similiter substantia charitatis: licet substan  
+       <lb ed="#B" n="5"/>tiae charitatis secundum se debetur praemium maiori maius &amp; minori minus. Vnde ex parte operis interioris totum 
+       <lb ed="#B" n="6"/>iudicandum est principaliter: licet vt dictum est opus exterius aliquid apponat. In quo est duo consi 
+       <lb ed="#B" n="7"/>derare: ipsunm scilicet feruorem deuotionis, acerbitatem poenae, &amp; intentionem operantis. Et est feruor deuotio-  
+       <lb ed="#B" n="8"/>nis per se ad gloriae augmentum. Acerbitas poenae per se ad poenae debitae diminutionem. &amp; hoc in magna per  
+       <lb ed="#B" n="9"/>te secundum intentionem operantis: quae ambo dirigit in finem. Si enim principaliter aut plus dirigit ad poe- 
+       <lb ed="#B" n="10"/>ne diminutionem quam ad meriti gloriae augmentum: plus valent &amp; opus interius &amp; exterius ad diminu-  
+       <lb ed="#B" n="11"/>tionem poenae quam ad augmentum gloriae: vel econverso, si econverso: &amp; si aequaliter, aequaliter. Et secundum hoc 
+       <lb ed="#B" n="12"/>etiam idem opus factum a diuersis siue in aequali charitate: siue inaequali: potest indifferenter vni eorum esse ma 
+       <lb ed="#B" n="13"/>gis diminutorium poenae, quam augmentatiuum gloriae, &amp; alteri econverso. 
+      </p>
+      <p xml:id="n3av8a-c1e3334-d1e404">
+       PER idem patet ad secundum: dicendo  
+       <lb ed="#B" n="14"/>quod ratio merendi non consistit in substantia charitatis nisi prout se extendit in opus interius: vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

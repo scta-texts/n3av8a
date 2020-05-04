@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 29</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 29</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="148-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3479">
+       <head xml:id="n3av8a-c1e3479-Hd1e96">Quaestio 29</head>
+       <p xml:id="n3av8a-c1e3479-d1e99">
+       <!--714.xml-->
+        <pb ed="#B" n="148-v"/>
+        <lb ed="#B" n="1"/>CIrca secundum arguitur quod abbas ille non debet monachum suum a cura reuocare  
+       <lb ed="#B" n="2"/>quia <ref xml:id="n3av8a-c1e3479-Rd1e109" target="http://scta.info/resource/cice-l5t38-d1e286">extra de poe. in ca. Omnis vtriusque sexus</ref>, dicitur de confessoribus. <quote xml:id="n3av8a-c1e3479-Qd1e113" source="http://scta.info/resource/nhyjhg-d1e214-d1e101">Caueant omni 
+       <lb ed="#B" n="3"/>no ne verbo vel signo, aut alio quouis modo aliquatenus peccatorem prodant</quote>. per talem 
+       <lb ed="#B" n="4"/>autem amotionem peccatum illius proderet. ergo &amp;c. In contrarium est quod tunc ab- 
+       <lb ed="#B" n="5"/>bas viam aperiret malitiis: &amp; quodammo facto nefario consensum adhiberet quod pos- 
+       <lb ed="#B" n="6"/>set impedire. 
+      </p>
+      <p xml:id="n3av8a-c1e3479-d1e125">
+       DIcendum ad hoc: quod sigillum confessionis debet esse tantum, quod etsi confessor 
+       <lb ed="#B" n="7"/>super aliquo facto a suo superiore astrictus esset ad dicendum veritatem: non tamen de 
+       <lb ed="#B" n="8"/>beret circa illud reuelare in dicto suo aliquid quid sciuit ex sola confessione, per quod quocumque modo pec- 
+       <lb ed="#B" n="9"/>catum confitentis posset reuelari: licet etiam illud dictum &amp; scitum in confessione non esset per se per- 
+       <lb ed="#B" n="10"/>tinens ad confessionem. Quia quod in confessione scit, non scit nisi in persona dei: &amp; iuramentum non  
+       <lb ed="#B" n="11"/>obligat ipsum ad dicendum aliquid nisi quod nouit inquantum homo Propter quod illud quod nouit abbas in confes 
+       <lb ed="#B" n="12"/>sione, non debet mouere ipsum in agendis negotiis inquantum est homo: sed solummodo quae agit inquantum  
+       <lb ed="#B" n="13"/>est secretarius dei. Ea autem quae agit vt abbas in publico, agit inquantum homo: licet in hoc sit minister 
+       <lb ed="#B" n="14"/>dei publicus: ea autem quae agere habet circa subditum suum ne habeat occasionem corrumpendi paro 
+       <lb ed="#B" n="15"/>chianos, debet agere inquantum est secretarius dei. Et ideo in secreto potest habere intentionem illum 
+       <lb ed="#B" n="16"/>amouendi propter salutem eius &amp; illorum: sed in publico debet habere rationem &amp; occasionem 
+       <lb ed="#B" n="17"/>amouendi ipsum absque scandalo &amp; suspitione: quam si habere poterit ipsum debet deponere vt secretarius 
+       <lb ed="#B" n="18"/>dei: &amp; potest vt publicus minister: nec dat scandalo occasionem aut suspitionem: etsi forte alius conscius fa 
+       <lb ed="#B" n="19"/>cti aliquantulum posset sumere scandali aut suspitionis occasionem: propter quam bonum istud non 
+       <lb ed="#B" n="20"/>debet omitti: si alio modo aeque competenti absque omni suspitione accepta non possit fieri. Si vero il 
+       <lb ed="#B" n="21"/>lam habere non poterit: sed propter carentiam rationis, aut occasionis amouendi ipsum posset oriri 
+       <lb ed="#B" n="22"/>scandalum aut suspitio quod propter crimen aliquod ipsum amouisset, nullo modo debet ipsum depo- 
+       <lb ed="#B" n="23"/>nere: quia nullo modo sunt facienda mala a nobis vt eueniant bona. Immo in hoc casu deo negotium 
+       <lb ed="#B" n="24"/>totum committendum esset, firmiter tenendo quod non permitteret huiusmodi mala fieri nisi iustum esset ea 
+       <lb ed="#B" n="25"/>fieri: &amp; nisi ita potens esset quod sciret ea in bonum ordinare: vt quo ad hoc voluntatem nostram diuinae vo 
+       <lb ed="#B" n="26"/>luntati concordemus: in volendo saltem ex causa in generali quod ipse velit ex causa in particulari: ab  
+       <lb ed="#B" n="27"/>solute tamen volendo deum velle hoc non permittere fieri: in hoc concordando voluntatem nostram vo 
+       <lb ed="#B" n="28"/>luntati diuinae, in volende. scilicet quod ipse vult nos velle. In primo membro praedictae distinctionis procedit 
+       <lb ed="#B" n="29"/>secundum argumentum. tunc enim solum aperiret viam malitiis &amp; illi malo consentiret, si bonam haberet 
+       <lb ed="#B" n="30"/>rationem, siue occasionem deponendi illum &amp; non deponeret: alias autem nequaquam. immo aperiret viam 
+       <lb ed="#B" n="31"/>damnationi suae: et in peccatum proprium consentiret. In secundo vero membro procedit pri- 
+       <lb ed="#B" n="32"/>mum argumentum. Tunc enim solum proderet confitentem actiue si sine occasione &amp; causa deponeret il- 
+       <lb ed="#B" n="33"/>lum: alias nequaquam vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

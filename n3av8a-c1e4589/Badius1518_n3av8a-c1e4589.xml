@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 26</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 26</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="477-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4589">
+       <head xml:id="n3av8a-c1e4589-Hd1e96">Quaestio 26</head>
+       <p xml:id="n3av8a-c1e4589-d1e99">
+        <lb ed="#B" n="37"/>CIrca Tertium arguitur quod ille confessus est absolutus a debito: quia in hoc agit 
+       <lb ed="#B" n="38"/>secundum consilium ecclesiae, &amp; agens secundum consilium ecclesiae non ma-  
+       <lb ed="#B" n="39"/>net in aliqua obligatione peccati: quare nec debiti restituendi: quia secundum 
+       <lb ed="#B" n="40"/>Augustinum: Non dimittitur peccatum nisi restituatur ablatum: ergo &amp;c. 
+       <lb ed="#B" n="41"/>
+      </p>
+      <p xml:id="n3av8a-c1e4589-d1e112">
+       EX eodem arguitur ad oppositum: hic non est restitutum ablatum: ergo non 
+       <lb ed="#B" n="42"/>est remissum peccatum: quare adhuc ad restitutionem est obligatus. 
+      </p>
+      <p xml:id="n3av8a-c1e4589-d1e117">
+       DIcen 
+       <lb ed="#B" n="43"/>dum quod qui abstulit alienum sic est obligatus ad restituendum, vt secundum actum siue effectum con 
+       <lb ed="#B" n="44"/>sequatur restitutio. et vt hoc fiat, obligatus est procurare: aut semper manet obligatus. Et sic dico 
+       <lb ed="#B" n="45"/>quod iste confessus non est absolutus a debito: sed obligatus vt prius: et ad hoc pro posse suo procu- 
+       <lb ed="#B" n="46"/>rare tenetur restitutionem. 
+      </p>
+      <p xml:id="n3av8a-c1e4589-d1e128">
+       RAtiones autem ad vtramque partem non habent efficaciam: quia bene 
+       <lb ed="#B" n="47"/>potest contingere quod quis absolutus est a peccato quod commisit auferendo rem alienam: manet tamen 
+       <lb ed="#B" n="48"/>obligatus ad eius restitutionem: quia in firmo proposito quod habet quis ad restituendum vt primum 
+       <lb ed="#B" n="49"/>facultas se obtulerit, absoluitur quis a peccato: non tamen a debito quousque sequatur restitutionis 
+       <lb ed="#B" n="50"/>effectus. Quia si aliquando stet per ipsum ne soluatur, cadit a dicto proposito &amp; nouum peccatum incur- 
+       <lb ed="#B" n="51"/>rit. Si autem manet in proposito: &amp; facit quod in se est: semper manet obligatus ad restituendum: &amp; 
+       <lb ed="#B" n="52"/>numquam est in dicto peccato: ita quod si factus sit omnino impotens ad soluendum: semper tamen manet obliga 
+       <lb ed="#B" n="53"/>tus: &amp; debet esse in firmo proposito restituendi si facultas se offerret. Aliter enim recidiuaret in pri- 
+       <lb ed="#B" n="54"/>stinum peccatum. Quod ergo arguitur primum: quod iste agit. secundum consilium ecclesiae: dicendum quod verum 
+       <!--994.xml-->
+       <pb ed="#B" n="477-r"/>
+        <lb ed="#B" n="1"/>est. Sic enim consulendum est: &amp; bene. Et quid assumitur: ergo non manet obligatus obligatione pec 
+       <lb ed="#B" n="2"/>cati: dicendum quod verum est secundum iam dicta. Et quod assumitur: quare nec debiti: dicendum quod 
+       <lb ed="#B" n="3"/>falsum est. Quid arguitur ad illius probationem per Augustinum. Non dimittitur peccatum &amp;c. Verum 
+       <lb ed="#B" n="4"/>est nisi restituatur facto vel firmo proposito secundum dictum modum: &amp; alterum sufficit ad ab- 
+       <lb ed="#B" n="5"/>solutionem a peccato: sed solum factum sufficit ad absolutionem a debito, vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e4589-d1e164">
+       AD ar-  
+       <lb ed="#B" n="6"/>gumentum in oppositum ex eodem: dicendum quod non valet: quia hic ablatum restitutum proposi 
+       <lb ed="#B" n="7"/>to sufficit ad dimissionem peccati: &amp; manet obligatio debiti: non quia ab illa secundum actum non so 
+       <lb ed="#B" n="8"/>luta dependet obligatio peccati: sed obligationis debiti solutio dependet ab ipso actum solutionis. Pro 
+       <lb ed="#B" n="9"/>pter quod qui committit alteri restitutionem faciendam: bene debet esse cautus quod ipse fideliter agat 
+       <lb ed="#B" n="10"/>sibi commissum: quia quantocumque bono animo committat: non tamen absoluitur nisi commissum fiat 
+       <lb ed="#B" n="11"/>sicut qui in testamento committit vt de bonis suis sibi quaerantur indulgentiae, nunquam illas obtinet ni 
+       <lb ed="#B" n="12"/>si quod de bonis suis faciendum ordinauit fiat: nisi pro quanto ab initio meretur bona deuotio: quae  
+       <lb ed="#B" n="13"/>statim aliquid meretur: non tamen totum quod obtineret si quod ordinauit fieret. Et pro tan-  
+       <lb ed="#B" n="14"/>to vult <name ref="#Augustine">Augustinus</name> quod post mortem nihil recipit mortuus nisi quid merebatur viuus. Tali enim bona 
+       <lb ed="#B" n="15"/>deuorione merebatur: vt si quae ordinauit fiant: indulgentias recipiat: quas tamen non recipit nisi 
+       <lb ed="#B" n="16"/>fiant. Si autem nihil bona deuotione ordinando vel alio modo merebatur: vt si quid fieret ei vale- 
+       <lb ed="#B" n="17"/>ret: nihil omnino ei valet etsi fiat.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

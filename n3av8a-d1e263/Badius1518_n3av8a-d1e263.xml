@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 18</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 18</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="239-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e263">
+       <head xml:id="n3av8a-d1e263-Hd1e96">Quaestio 18</head>
+       <p xml:id="n3av8a-d1e263-d1e99">
+        <lb ed="#B" n="42"/>CIrca tertium arguitur quod licitum sit inducere ad tria vota religionis etiam vo- 
+       <lb ed="#B" n="43"/>lentes morari in saeculo. quia Anselua dicit in libro de similitudinibus. Melius est bo- 
+       <lb ed="#B" n="44"/>num agere cum voto quam sine voto. Agere autem melius bonum licitum est si lici- 
+       <lb ed="#B" n="45"/>tum sit agere minus bonum: quia magis bonum minus includit. sed licitum est te 
+       <lb ed="#B" n="46"/>nere illa tria in saeculo commorando sine voto: ergo &amp; cum voto. sed licitum 
+       <lb ed="#B" n="47"/>est hortari &amp; inducere ad illud quod licitum est. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e263-d1e115">
+       IN contrarium est quod il- 
+       <lb ed="#B" n="48"/>lud multis esset occasio ruinae: &amp; ad tale non licet inducere. 
+      </p>
+      <p xml:id="n3av8a-d1e263-d1e120">
+       DIcendum quod ma-  
+       <lb ed="#B" n="49"/>gna diuersitas est in proposita quaestione quo ad illa tria quae principaliter in religione vouentur. Discurren 
+       <lb ed="#B" n="50"/>do igitur per singula dicimus primo de virginitate: quod ad illius obseruantiam magis licitum est in  
+       <lb ed="#B" n="51"/>ducere volentes morari in saeculo: tum ex parte inducti: tum ex parte inducentis: quam alicuius aliorum, quia 
+       <lb ed="#B" n="52"/>pericula quo ad obseruantiam castitatis imminentia(pericula dico ab exteriori) potest persona quae  
+       <lb ed="#B" n="53"/>vouit facilius vitare, quam imminentia quo ad votum paupertatis aut obedientiae: quia ad castitatis ob  
+       <lb ed="#B" n="54"/>seruantiam minime indiget homo alterius adminiculo: &amp; melius custoditur in solitario quam in pu 
+       <!--518.xml-->
+       <pb ed="#B" n="239-r"/>
+        <lb ed="#B" n="1"/>blico. Ad paupertatis autem obseruantiam morando in saeculo multum indiget homo alterius adminiculo, a quo vel cu 
+       <lb ed="#B" n="2"/>ius adminiculo poterit acquirere necessaria vitae: ita quod vix potest custodiri in solitario. Vnde eremitae an  
+       <lb ed="#B" n="3"/>tiquitus necesse habebant frequenter propter victualia &amp; alia necessaria adire saecularium castra. Similiter obe- 
+       <lb ed="#B" n="4"/>dientiam nullus potest custodire in solitario absque coniuncto cui debeat obedire. Quia non est obe 
+       <lb ed="#B" n="5"/>dientia nisi sit qui obediat &amp; cui obediat: &amp; in eis quaecumque necesse est tenere conversando cum aliis, diffici 
+       <lb ed="#B" n="6"/>lius vitantur exteriora pericula: quam in eo quid potest tenere homo per se. 
+      </p>
+      <p xml:id="n3av8a-d1e263-d1e153">
+       AD illius autem obseruantiam 
+       <lb ed="#B" n="7"/>securius potest persona commorans in saeculo induci: quid magis sine periculo potest custodiri in saeculo. Ob 
+       <lb ed="#B" n="8"/>aliud autem non est illicitum inducere ad alicuius voti obseruantiam manendo in saeculo, nisi propter 
+       <lb ed="#B" n="9"/>periculum imminens de transgressione. Vnde dico quod si persona inducenda ad votum castitatis sit talis quod  
+       <lb ed="#B" n="10"/>omnibus consideratis non debet esse probabilis timor de periculo transgressionis: quod licitum est in-  
+       <lb ed="#B" n="11"/>ducere volentes morari in saeculo ad votum castitatis. Si autem probabile periculum transgressio- 
+       <lb ed="#B" n="12"/>nis immineat, vel propter aetatem, vel propter conuersationem, vel quacunque alia de causa: dico 
+       <lb ed="#B" n="13"/>quod nullo modo licet immo multum peccat inducens: non solum inducens ad castitatem morando  
+       <lb ed="#B" n="14"/>in saeculo: sed etiam inducens ad quodcunque votum intrando religionem. Quantum ad votum pauper- 
+       <lb ed="#B" n="15"/>tatis distinguo: aut inductio est ad votum renunciandi omnibus quae possidet. Renunciandi dico &amp; 
+       <lb ed="#B" n="16"/>quo ad proprietatem &amp; quo ad vsum. Vel quo ad proprietatem reseruato sibi vsu ad vitam. Si secundo modo  
+       <lb ed="#B" n="17"/>scilicet vt vouens proprietatem omnium bonorum suorum det pauperibus &amp; piis locis donatione inter 
+       <lb ed="#B" n="18"/>viuos: &amp; solum reseruet sibi vsum ad vitam: dico quod pium est &amp; licitum. Si primo modo: tunc sub- 
+       <lb ed="#B" n="19"/>distinguo: quia cum vouens indigeat vt postquam fuerit omnibus bonis temporalibus denudatus 
+       <lb ed="#B" n="20"/>sibi prouideatur de necessariis ad suam sustentationem: aut ergo denudat se omnibus bonis per vo 
+       <lb ed="#B" n="21"/>tum morando in saeculo, intendendo quaerere sibi necessaria mendicando: aut aliquam operam exercen 
+       <lb ed="#B" n="22"/>do: aut ab aliquibus amicis prouisionem expectando. Et in quolibet istorum casuum. dico: si maio-  
+       <lb ed="#B" n="23"/>rem sollicitudinem oporteat ipsum sustinere in sic sibi necessaria quaerendo: quam in propria ad necessa- 
+       <lb ed="#B" n="24"/>rium victum reseruando: quod nullo modo licet. Aliis enim eisdem retentis vbi est maior sollicitudo cir- 
+       <lb ed="#B" n="25"/>ca temporalium &amp; necessariorum acquisitionem: &amp; per consequens distractio a spiritualium vacatio 
+       <lb ed="#B" n="26"/>ne: &amp; sic bonorum operum &amp; meriti diminutio: ad quam nullo modo licitum est quemquam inducere: licet ipsi 
+       <lb ed="#B" n="27"/>liceat propria voluntate statum meriti minoris eligere. Si vero non oporteat ipsum sustinere ma-  
+       <lb ed="#B" n="28"/>iorem sollicitudinem in acquirendo sibi necessaria, aut forte minorem, dico quod adhuc non licet, in  
+       <lb ed="#B" n="29"/>tendendo quaerere sibi necessaria mendicando: nisi iuxta determinationem habitam in alio Quo- 
+       <lb ed="#B" n="30"/>libet in quaest. an liceat omnia sua dimittere intentione mendicandi in saeculo. In secundo vero casu &amp; ter- 
+       <lb ed="#B" n="31"/>tio bene licet: nisi probabile sit quoquo modo quod periculum aliquod aliud ex hoc magis immineat 
+       <lb ed="#B" n="32"/>vouenti: aut occasio aliqua amplius delinquendi, quam immineret bona sua reseruando. In tali enim 
+       <lb ed="#B" n="33"/>casu nullo modo licitum esset inducere. 
+      </p>
+      <p xml:id="n3av8a-d1e263-d1e215">
+       QVantum autem ad votum obedientiae dico: quod quaecumque  
+       <lb ed="#B" n="34"/>persona aliam habet sub obedientia sua &amp; cura, inquantum huiusmodi, superior suus &amp; praelatus in hoc 
+       <lb ed="#B" n="35"/>existit. Nunc autem quod quisque praelaturam quamcunque sibi assumat propria auctoritate: cum nullam or- 
+       <lb ed="#B" n="36"/>dinariam omnino habeat: nullo modo licet: iuxta illud Apostoli ad Heb. Nemo assumat sibi honorem ni 
+       <lb ed="#B" n="37"/>si qui vocatus fuerit a Deo. hoc est dictum: quod aliter honorem praelaturae sibi nullo modo assumere de-  
+       <lb ed="#B" n="38"/>bet etiam si ad hoc moueri videatur ex charitate. Vocatio autem ista debet fieri per ecclesiam: &amp; se- 
+       <lb ed="#B" n="39"/>cundum quod ecclesia ordinauit: immo Christus in ecclesia, vt amplius videbitur in quarta quaestione 
+       <lb ed="#B" n="40"/>sequente: videlicet quod prima auctoritas super totam ecclesiam consisteret in vno praelato &amp; supe- 
+       <lb ed="#B" n="41"/>riore vt in summo pontifice: &amp; ab illo secundum eius dispositionem gradatim descenderet per 
+       <lb ed="#B" n="42"/>omnes ecclesiasticos ordines ad inferiores praelatos. Ita quod illicitum sit praelaturam super quamcunque personam 
+       <lb ed="#B" n="43"/>accipere nisi vocetur ad eam, secundum aliquem modum vocationis siue electionis dispositum &amp; 
+       <lb ed="#B" n="44"/>ordinatum ad hoc per ecclesiam &amp; per auctoritatem summi pontificis. 
+      </p>
+      <p xml:id="n3av8a-d1e263-d1e241">
+       DE recipiente ergo perso- 
+       <lb ed="#B" n="45"/>nam tanlem ad dictam obedientiam: videlicet quod voueat in manu sua continentiam: &amp; omnibus re- 
+       <lb ed="#B" n="46"/>nunciet, ponendo omnia bona sua in manu eius &amp; dispositione, promittat etiam ei plenam obedien 
+       <lb ed="#B" n="47"/>tiam in omnibus: distinguo. quia aut alias per ecclesiae ordinationem &amp; vocationem praelatus ei constitutus est: aut 
+       <lb ed="#B" n="48"/>non. Si primo modo, scilicet vt sit eius sacerdos, curatus, aut episcopus: aut cui episcopus generalem 
+       <lb ed="#B" n="49"/>curam illius forte specialiter conmisit, puto quod in isto casu bene liceat ipsi praelato vel cuique alii inducere 
+       <lb ed="#B" n="50"/>quancumque aliam personam omnino absolutam ad vouendum obedientiam suo praelato praedicto modo: dum tamen 
+       <lb ed="#B" n="51"/>nuiium periculum amplius delinquendi ex hoc immineret. si enim immineret: nullo modo liceret 
+       <lb ed="#B" n="52"/>secundum quod iam dictum est de voto virginitatis &amp; paupertatis. Dico omnino absolutam: quia si esset 
+       <lb ed="#B" n="53"/>alteri obligata vel matrimonio vel aliter: omnino non liceret. Si secundo modo, dico quod etsi liceret 
+       <lb ed="#B" n="54"/>vouenti sic se obligare si vellet: nullo. tamen modo licet quemcunque talium personam quamcunque au-  
+       <!--519.xml-->
+       <pb ed="#B" n="239-v"/>
+        <lb ed="#B" n="1"/>ctoritate propria quam nullam ad hoc habet, sub sua obedientia recipere vt dictum est. Nulli autem 
+       <lb ed="#B" n="2"/>licitum est inducere personam ad promittendum obedientiam illi qui non potest eam recipere. Quia 
+       <lb ed="#B" n="3"/>hoc est illum qui eam debet recipere illaqueare: &amp; dare ipsi occasionem faciendi quod non licet ei. Idcirco di  
+       <lb ed="#B" n="4"/>co quod omnino illicitum est inducere personam quancumque ad promittendum obedientiam illi qui alias nullam habet iurisdi 
+       <lb ed="#B" n="5"/>ctionem super illam vel ordinariam vel conmissam. &amp; hoc non quin illi quantum est de se licitum esset se di  
+       <lb ed="#B" n="6"/>cto modo obligare: sed quia nullo modo licet eam illi assumere: etiam si videatur moueri ad hoc ex 
+       <lb ed="#B" n="7"/>charitate, quod tamen non potest esse: quia charitas ordinata est: immo talis motus potius esset ex elatio 
+       <lb ed="#B" n="8"/>ne aut ex aliqua cupiditate. Et praeterea si illicitum est quemquam sic inducere personam alteram ad obedi 
+       <lb ed="#B" n="9"/>endum alteri qui nullam habet iurisdictionem super eam: multo fortius est illicitum quemquam talium in  
+       <lb ed="#B" n="10"/>ducere personam quamcunque ad vouendum quod sic obediat sibi: &amp; adhuc multo amplius hoc esset illicitum 
+       <lb ed="#B" n="11"/>illi qui alias esset alteri obligatus: per quem posset distrahi eo inuito ne curam illius posset exercere 
+       <lb ed="#B" n="12"/>vel alteri exercitio a quo oporteret abstrahi si illius deberet curam gerere: qualiter sunt obligati omnes 
+       <lb ed="#B" n="13"/>viri religiosi: quibus vt puto summe illicitum est sibi velle quamcunque personam sic obligare siue vo 
+       <lb ed="#B" n="14"/>to obedientiae: siue voto paupertatis: accipiendo omnia bona illius in manu sua: &amp; distribuere ei necessaria 
+       <lb ed="#B" n="15"/>&amp; de residuo disponere prout libet. 
+      </p>
+      <p xml:id="n3av8a-d1e263-d1e302">
+       AD argumentum in oppositum quod bonum facere sub voto melius 
+       <lb ed="#B" n="16"/>est: dicendum quod verum est aliis omnibus circunstantiis licitis extantibus. Melius est tamen facere 
+       <lb ed="#B" n="17"/>bonum sine voto, quam cum voto facto ab eo a quo melius esset non fieri, vel cui non licet fieri, vel modo quae 
+       <lb ed="#B" n="18"/>non licet fieri. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

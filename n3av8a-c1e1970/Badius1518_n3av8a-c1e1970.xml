@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="180-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1970">
+       <head xml:id="n3av8a-c1e1970-Hd1e96">Quaestio 15</head>
+       <p xml:id="n3av8a-c1e1970-d1e99">
+        <lb ed="#B" n="9"/>CIrca secundum arguitur, quod vnus angelus non potest aliquid de nouo cognoscere per alterius 
+       <lb ed="#B" n="10"/>angeli operationem siue loquendo siue illuminando: quia tunc vnus ab alio aliquid reciperet: 
+       <lb ed="#B" n="11"/>&amp; vnus in alio aliquid ageret: quid esse non potest quoniam non potest agere in eo lumen spirita- 
+       <lb ed="#B" n="12"/>le aut speciem: quia hoc deus facit per creationem. Neque etiam praesentiam obiecti. quia ex se in  
+       <lb ed="#B" n="13"/>actum, proprio intelligendi quilibet angelus habet res obiectiue sibi praesentes. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e112">
+       IN 
+       <lb ed="#B" n="14"/>contrarium est doctrina fanctorum, Dionysi scilicet &amp; aliorum. Quaestio ista tres habet ar-  
+       <lb ed="#B" n="15"/>ticulos. Primus est de angelorum illuminatione. Secundus vero de eorum locutione. Tertius de vtriusque no-  
+       <lb ed="#B" n="16"/>uitate. De quibus per ordinem est prosequendum. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e121">
+       DE illuminatione igitur est sciendum: quod ad cognitiuam potentiam ange- 
+       <lb ed="#B" n="17"/>lorum illuminatio pertinet. Ita quod omnis cognitio ex illumiatione procedit: vt scire seu intelligere aut velite natura 
+       <lb ed="#B" n="18"/>litur cognoscere. Cum cognoscere nihil aliquae sit quam intellectum lumine quae illuminatus est in se spiritalitur lucere. Scie 
+       <lb ed="#B" n="19"/>tia ei secundum actum nihil aliquae est quam cogniti manifestatio apud intellectum. Iuxta illud quid dicit Apostolus ad Ephe 
+       <lb ed="#B" n="20"/>sios. Omnia a lumine manifestantur. Ita quod cum omnis scientia &amp; manifestatio intellectui secundum actum est per obiectum splem 
+       <lb ed="#B" n="21"/>dens secundum actum in intellectum: &amp; hoc sicut lumen in intellectum: &amp; per hoc ipsum secundum actum immutans secundum modum  
+       <lb ed="#B" n="22"/>expositum in praecedenti quaestione: omne obiectum cognitum secundum actum lumen dicitur. dicente apostlo. Omne quod manifestatur lu 
+       <lb ed="#B" n="23"/>men est. Et hoc quia sicut lumen in corporibus est visibile primum &amp; per se: per quid etiam alia videntur inquantum sunt 
+       <lb ed="#B" n="24"/>luminis pricipantia, &amp; inquantum sunt lumine exteriori illustrata: sic &amp; in spiritalibus lux prima quae deus 
+       <lb ed="#B" n="25"/>est, primum est &amp; per se intelligibile: cuius principatione in esse formali vniuscuiusque &amp; illustratione  
+       <lb ed="#B" n="26"/>omnia alia intelliguntur. Quare sicut illuminatione corporali ille dicitur domum illuminare: aut oculos corpora 
+       <lb ed="#B" n="27"/>les ad videndum: qui facit quocumque modo vt lumen in medio splendeat &amp; ad actum videndi immutet: sic in pro- 
+       <lb ed="#B" n="28"/>posito specialiter de illuminatione angelorum ille dicitur angelum illuminare qui quocumque modo facit in intel- 
+       <lb ed="#B" n="29"/>lectu angelico quo actu illustratur ad intelligendum: &amp; sic spiritaliter lucet. quia illud quo immutatur non est 
+       <lb ed="#B" n="30"/>nisi lumen: quo illuminatur vt luceat, sicut dictum est. Quod potest duplicitur fieri in spiritalibus proportionaliter 
+       <lb ed="#B" n="31"/>illuminationi quae sit in corporalibus. Vno modo lumen infundendo. Alio modo aliquid faciendo quo facto 
+       <lb ed="#B" n="32"/>lumen infunditur, ab alio tamen. Lumen infundendo contingit illuminare dupliciter tam in corporalibus 
+       <lb ed="#B" n="33"/>quam in spiritualibus. Vno modo ipsam lucem qua oculus illuminatur ad videndum alia ab ipso lumine per se in 
+       <lb ed="#B" n="34"/>oculo causando &amp; multiplicando: quemadmodum sol lumen suum infundit omni oculo corporali edirecto oppo- 
+       <lb ed="#B" n="35"/>sito. Alio modo aliquid lumen participans oculo vt eo illuminetur ad se videndum proponendo: quemadmodum an-  
+       <lb ed="#B" n="36"/>te ponens oculo aperto in tenebris piscium squammas aut lignum putridum: cuius lumen ex se vi 
+       <lb ed="#B" n="37"/>detur in tenebris. Secundum primum modum solus ille habet intellectum angelicum illumina-  
+       <lb ed="#B" n="38"/>re qui habet in eo tale lumen causare: quid non est nisi lumen naturale intellectus angelici quid solus deus 
+       <lb ed="#B" n="39"/>ei per creationem infundit: aut aliquid lumen supnaturale gratiae: aut gloriae: quid similiter solus deus insun- 
+       <lb ed="#B" n="40"/>dit non faciendo ipsum esse vbi non erat: sed faciendo ipsum ibi esse secundum alium modum quam prius erat scilicet aut tamquam rationem 
+       <lb ed="#B" n="41"/>&amp; medium cognoscendi obiectiue alia a se non autem seipsum: quemadmodum ponit <name ref="#Augustine">Augustinus</name> quod omne verum in lu 
+       <lb ed="#B" n="42"/>ce primae veritatis cognoscitur, maxime verum supernaturaliter cognoscendum. secundum quod exposuimus alibi: aut 
+       <lb ed="#B" n="43"/>tamquam obiectum cognitum sicut se manifestat beatis vel simplicitur vel ad horam. Vnde cum angeli non possuntesse 
+       <lb ed="#B" n="44"/>creatores luminis alicuius vel naturalis intellectui vel supnaturalis eidem: nec est ipsum lumen increa 
+       <lb ed="#B" n="45"/>tum manifestare potest aliquo dictorum modorum: dicendum simpliciter quod secundum istum modum vnus angelus alium  
+       <lb ed="#B" n="46"/>illuminare non potest. Sed philosophi qui ponebant intelligentias inferiores creari a superioribus, ponerent quod intelligen  
+       <lb ed="#B" n="47"/>tiae superiores illuminarent inferiores infundendo eis lumen intelligentiae naturalis. Illuminare autem proponendo 
+       <lb ed="#B" n="48"/>oculo intellectus aliquid participans lumen illuminans intellectum ad seipsum inquantum habet rationem luminis 
+       <lb ed="#B" n="49"/>cognoscendum: hoc modo angelus angelum potest illuminare: ea quae intelligenda sunt &amp; cognoscenda proponendo 
+       <lb ed="#B" n="50"/>&amp; manifestando eidem: quae proposita intellectum illius immutant ad se cognoscendum. Sed iste modus ad doctrinam 
+       <lb ed="#B" n="51"/>&amp; locutionem pertinet angelorum: de quibus erit sermo in secundo articulo. vnde <name ref="#Augustine">Augustinus</name> exponens illud psalmistae 
+       <lb ed="#B" n="52"/>Leuaui oculos meos in modotes: vnde veniet auxilium mihi &amp;c. per modotes intelligendo creaturas superiores 
+       <lb ed="#B" n="53"/>illuminatas a deo in quibus non est ponenda nostra spes: nec finale auxilium expetendum: de quorum montium  
+       <lb ed="#B" n="54"/>numero non tam erant apostoli &amp; maiores in ecclesia de quibus loquitur August, quam angeli sancti: dicitur ser 
+       <lb ed="#B" n="55"/>mo. secundo super Ioannem sic. Montes poterunt loqui vt non possint illuminare: quia &amp; ipsi illuminati sunt au 
+       <!--400.xml-->
+       <pb ed="#B" n="180-r"/>
+        <lb ed="#B" n="1"/>diendo. Si vero loquamur de illuminatione secundo modo principali, sic est dicendum quod angeli inferiores habent 
+       <lb ed="#B" n="2"/>a superioribus illuminari. possunt enim aliquid agere circa inferiores: quo facto lumen quod illuminat ad co 
+       <lb ed="#B" n="3"/>gnoscendum alia a se infundatur: quid, vt iam dictum est, angeli non possunt infundere. Et sic licet non possint 
+       <lb ed="#B" n="4"/>illo lumine illuminare ipsum principaliter infundendo: illo tamen illuminant aliquid operando, quo facto 
+       <lb ed="#B" n="5"/>lumen illud ifunditur. Quod dupliciter fieri potest: vel mere contrarium impediens amouendo, vel cum hoc dispo 
+       <lb ed="#B" n="6"/>sitionem necessariam inducendo. Primo modo qui facit fenestrae aprturam in pariete amouendo obstaculum clau- 
+       <lb ed="#B" n="7"/>surae impedientis ne scilicet lumen solis possit infundi: ille dicitur lumen infundere &amp; domum illuminare. Per hunc 
+       <lb ed="#B" n="8"/>modum dico angelum vnum alium illuminare. Vnde <name ref="#Augustine">Augustinus</name> super illud psalmi. cxviii. Da mihi intellectum, ostem 
+       <lb ed="#B" n="9"/>dens qualiter homo illuminetur ad cognitionem supnaturalem a deo mediante angelo illuminante: quod idem est 
+       <lb ed="#B" n="10"/>de illuminatione angeli inferioris a superiori: quia illuminatio non sit per se ad cognitionem naturalem 
+       <lb ed="#B" n="11"/>sed supernaturalem: eo quod talis illuminatio supernaturalis est &amp; lumine supernaturali, vt iam dictum est, di 
+       <lb ed="#B" n="12"/>cit sic. Qui dicit deo da mihi intellectum vt discam mandata tua, non omnino expers erat. Intellectum dari 
+       <lb ed="#B" n="13"/>petit qui iam scit intelligere. Sed si potest hoc &amp; angelus facere, quid est quod iste homo a deo sibi poscit vt fiat: &amp; respeon- 
+       <lb ed="#B" n="14"/>dens subdit, Deus itaque per seipsum, quia lux est, pias mentes illuminat, vt diuina intelligant. Et si ad hoc 
+       <lb ed="#B" n="15"/>ministerio vtitur angelorum, potest quidem aliquid agere angelus in mentem hominis, vt capiat lucem dei: &amp; per hanc intelli 
+       <lb ed="#B" n="16"/>gat: sed ita dicitur intellectum dare homin &amp; quasi (vt ita dicam) illuminare hominem: quemadmodum quisque dicitur lumen 
+       <lb ed="#B" n="17"/>dare domui vel illuminare domum cui fenestram: facit cum eam non sua luce penetret &amp; illustret: sed tantummo 
+       <lb ed="#B" n="18"/>aditum quo penetretur atque illustretur apiat. Secundo modo medicina in vitiato oculo amouens aegritudinis vi 
+       <lb ed="#B" n="19"/>tium &amp; sanitatem inducens necessariam ad hoc vt ab anima vim cernendi recipiat, quae est sicut lumen oculi naturale 
+       <lb ed="#B" n="20"/>dte oculum illuminare siue lumen ei infundere. Per hunc est modum dico angelum vnum alium illuminare: vt non 
+       <lb ed="#B" n="21"/>solum dicamus angelum agere aliquid in angelum quae facto illuminetur: &amp; hoc remouendo prohibens, hoc est dispositionem 
+       <lb ed="#B" n="22"/>contrariam luminis infusioni &amp; receptioni in intellectum: quemadmodum remouens ab aere fumum ei conmixtum 
+       <lb ed="#B" n="23"/>facit vt clarius illuminetur: sed cum hoc dicamus angelum vnum in alium agere, dispositionem contrariam lu 
+       <lb ed="#B" n="24"/>minis ab intellectu angeli remouendo, &amp; dispositionem contrariam congruentem luminis receptioni inducen- 
+       <lb ed="#B" n="25"/>do: qua adiuuatur quodammo vt lumen recipiat: &amp; hoc quemadmodum ille qui aerem densum rarificat ad susce- 
+       <lb ed="#B" n="26"/>ptionem luminis clarioris eum quodammo adiuuat. Vnde <name ref="#Augustine">Augustinus</name> post verba sua praedicta subdit. Deus &amp; 
+       <lb ed="#B" n="27"/>hominis mentem rationalem &amp; intellectualem fecit quae posset capere lumen eius: &amp; angelum talem fecit qui operari aliquid  
+       <lb ed="#B" n="28"/>tale possit: vnde ad capiendum lumen dei mens adiuuaretur humana: &amp; eandem sic adiuuat mentem vt ange 
+       <lb ed="#B" n="29"/>licam recipiat operationem: &amp; eam sic adiuuat de seipso vt non solum quae a veritate modostrantur: sed ipsam quoque  
+       <lb ed="#B" n="30"/>perficiendo prospiciat veritatem. Ad quorum ampliorem intellectum sciendum: cum omnia naturaliter &amp; ordinatim in  
+       <lb ed="#B" n="31"/>uicem sint comnexa secundum quod tactum est ex dictis Dionysii in praecedenti quaestione, illa connexio non tantum 
+       <lb ed="#B" n="32"/>est intelligenda secundum gradum &amp; ordinem naturarum, vt vbi deficit &amp; consummatur perfectio inferiorum ibi inci- 
+       <lb ed="#B" n="33"/>piat &amp; procedat ad gradum altiorem perfectio superiorum: vt ibi in parte expositum est: sed cum hoc intelligenda est prin- 
+       <lb ed="#B" n="34"/>cipalius secundum gradu scilicet &amp; influentiarum &amp; operationum: vt semper creatura inferior in gradu &amp; ordine 
+       <lb ed="#B" n="35"/>naturae quo ad aliquid naturaliter est in potentia secundum quod superior est in actum: per quam inferior reducibilis 
+       <lb ed="#B" n="36"/>est naturaliter de potentia ad actum. Et haec est influentia vniversalis quae incipit a principio primo: &amp; protenditur gra 
+       <lb ed="#B" n="37"/>datim per media vsque ad infimam creaturam quae est materia prima: quam philosophi appellauerunt cathenam auream 
+       <lb ed="#B" n="38"/>qua vniuersa ad inuicem connectuntur ad constituendum vniuersi vnitatem. Ita quod si connexio per influentiam talem 
+       <lb ed="#B" n="39"/>non esset in vniuerso, vniuersum non esset vnum nisi ordine aggregatorum, sicut est murus vnus vel lapi- 
+       <lb ed="#B" n="40"/>dum aceruus. Vnde dicit <name ref="#Augustine">Augustinus</name> ii. de trinitate capitulo v. Voluntas dei in spiritibus tamquam in excelsa &amp; sancta &amp; secre 
+       <lb ed="#B" n="41"/>ta sede praesidens in domo &amp; templo suo, inde se quibusdam ordinatissimis creaturae motibus primo spiritali 
+       <lb ed="#B" n="42"/>bus deinde corporalibus per cuncta diffundit. Sed quemadmodum corpora crassiora &amp; inferiora per subtiliora 
+       <lb ed="#B" n="43"/>&amp; potentiora ordine quodam reguntur: ita omnia corporalia per spiritum vitae rationalem, atque vniuersa creatura per  
+       <lb ed="#B" n="44"/>creatorem suum. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e323">
+       HINC etiam dicit philosophus. xii. metaphysicae Omnia ordinata sunt insimul aliquo me scilicet per mu- 
+       <lb ed="#B" n="45"/>tuam dependentiam influentiae. Vnde quia istam influentiam non ponebant philosophi nisi per motum caelestium corporum, ideo se- 
+       <lb ed="#B" n="46"/>cundum numerum motuum ponebant numerum intelligentiarum. Et quod si qua esset quae non moueret aliquid corpus 
+       <lb ed="#B" n="47"/>illa esset otiosa &amp; frustra. secundum quod dicit. xii. metaphysica. Commentator. Angelus ergo inferior quodam-  
+       <lb ed="#B" n="48"/>modo est in potentia &amp; imperfectus, reducibilis ad actum per naturalem influentiam superioris in ipsum, qua in statum 
+       <lb ed="#B" n="49"/>naturalis perfectionis vltimate constituatur. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e337">
+       CVM igitur perfectio omnis in naturalibus creaturarum est propter 
+       <lb ed="#B" n="50"/>opus sibi, proprium: quo habet suam perfectionem: solus enim deus habet suam perfectionem absque operatione alia a substan 
+       <lb ed="#B" n="51"/>tia sua. secundum <name ref="#Aristotle">philosophum</name> &amp; Commentatorem. ii. caeli &amp; mundi: vltima autem perfectio propter opus vltimum: opus autem an  
+       <lb ed="#B" n="52"/>geli inquantum est intellectualis natura, est intelligere: &amp; vltimum &amp; perfectissimum opus intelligendi est intel 
+       <lb ed="#B" n="53"/>iigere per diuinam illustrationem &amp; illuminationem super omnem cursum intelligendi lumine intellectus naturalis:  
+       <lb ed="#B" n="54"/>per illam ergo influentiamquam angelus superior agit in inferiorem ipsum, vt dictum est, de potentia reducendo in actum, agit 
+       <!--401.xml-->
+       <pb ed="#B" n="180-v"/>
+        <lb ed="#B" n="1"/>vt angelus inferior a deo illuminetur: quid appellauit <name ref="#Augustine">Augustinus</name> iuuamentum: quo angelus inferior a superio 
+       <lb ed="#B" n="2"/>ri adiuuatur vt a deo illuminetur. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e365">
+       CIRca secundum scilicet de angelorum locutione, sciendum: quod aliquorum est opinio quod  
+       <lb ed="#B" n="3"/>locutio in angelis aliud est ab intelligere, vt nutus quidam aut signum quo id quod per actum intelligendi vnius 
+       <lb ed="#B" n="4"/>concipitur alteri indicatur. secundum quod primae Corinth. xiii. super illud. Si linguis hominium loquar &amp; angelorum, di-  
+       <lb ed="#B" n="5"/>cit glos. Quibus angeli praepositi significant minoribus quod de dei voluntate praesentiunt: quid fit aliquibus nu 
+       <lb ed="#B" n="6"/>tibus. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e376">
+       SED si angelus loquatur angelo nutibus huiusmodi, necesse est quod sint aliquid operatum ab angelo opera 
+       <lb ed="#B" n="7"/>tione intellectuali: quia loqui intellectus est &amp; rationis. Si igitur loqui non est intelligere: nutus huiusmodi est aliquid  
+       <lb ed="#B" n="8"/>operatum ab intellectu praeter actum intelligendi, non ipse conceptus mentis. &amp; sic non esset verbum nisi quemad- 
+       <lb ed="#B" n="9"/>modum facta sensibilia verba dicuntur, &amp; nutus monachorum. Quare cum non est proprie loqui sine verbo pro 
+       <lb ed="#B" n="10"/>prie dicto, loqui ergo in angelis transumptiue &amp; non proprie diceretur: quid non est verum. Sic enim omnis crea 
+       <lb ed="#B" n="11"/>tura secundum <name ref="#Augustine">Augustinum</name> eo quod nutus dei quodammo est, loquitur &amp; clamat quia deus fecit eam. Si igitur lo- 
+       <lb ed="#B" n="12"/>qui proprie ponamus in angelis, dico secundum proprietatem rei non vsitationis nominis qua loqui dicuntur homines verbo 
+       <lb ed="#B" n="13"/>vocis: sed verbo mentis quod verius dicitur verbum quam verbum vocis: cum huiusmodi verbo mentis nemo loquatur, nisi 
+       <lb ed="#B" n="14"/>actu intelligendi: quo actum concipit ipsum verbum: non est dicendum quod aliud sit in angelo loqui quam intelligere. Et 
+       <lb ed="#B" n="15"/>hoc ideo maxime: quia non est proprie loqui fine proprio verbo. Et proprium maxime verbum in angelo non est nisi com 
+       <lb ed="#B" n="16"/>ceptus per operationem intelligendi. Nihil ergo re aliud est dicendum esse in angelo loqui quam intelligere. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e403">
+       SED 
+       <lb ed="#B" n="17"/>differt ab intelligere ratione: quia dicitur intelligere vt intelligentem respicit absolute, &amp; in verbo suo 
+       <lb ed="#B" n="18"/>aliquid apphendit. Dicitur autem loqui inquantum ordinatur ad indicandum alteri rem quae in ipso verbo concipitur: quam 
+       <lb ed="#B" n="19"/>ille secundum se non potest concipere. quemadmodum nos quia non possumus indicare alteri homin verbum mentis nostrae 
+       <lb ed="#B" n="20"/>vtimur verbo corporis ad illud indicandum pro ipso. Ita quod si homo posset verbum mentis nostrae videre, non vte 
+       <lb ed="#B" n="21"/>remur ad idicandum illud aliquo verbo vocis: sicut si angelus vnus omnem conceptum quem habet in se natu  
+       <lb ed="#B" n="22"/>raliter videret alius angelus, non vteretur alio conceptu ad illum indicandum, vt iam patebit. Et huiusmodi verbum si 
+       <lb ed="#B" n="23"/>ue conceptus patens indicatiuus alterius latentis: qui dicitur verbum locutionis: vt in intelligente absolute 
+       <lb ed="#B" n="24"/>consideratur, dicitur conceptus: vt vero ordinatur ad alium conceptum alteri indicandum, dicitur nutus. Quia igitur ver 
+       <lb ed="#B" n="25"/>bum quo angelus loquitur, est conceptus mentis angelicae ordinatus ad aliquid alteri indicandum per verbum illud: ad  
+       <lb ed="#B" n="26"/>videndum quomodo hoc fiat, &amp; quis conceptus dicatur verbum, aut loqui, &amp; quis non: oportet intelligere quod notitia an  
+       <lb ed="#B" n="27"/>geli est duplex. Quaedam pure naturalis: quaedam supernaturalis. Naturalis autem non est nisi quiditatum vniuersa 
+       <lb ed="#B" n="28"/>lium &amp; essentiarum omnium cre aturarum vel in verbo vel in propria natura. Viso enim verbo naturaliter videm 
+       <lb ed="#B" n="29"/>tur illae in ipso. Et pertinet quodammo ad beatitudinem essentialem cognitio huiusmodi essentiarum, quae etiam natura 
+       <lb ed="#B" n="30"/>liter in habitu angeli ipsi concreato intelliguuntur ab ipso: licet non simul sicut in verbo. Est etiam notitia 
+       <lb ed="#B" n="31"/>angeli naturalis singularium existentium participantium quiditates: quae statim cum sunt in rerum existentia, natu  
+       <lb ed="#B" n="32"/>raliter cognoscit. Sut ei vniversala cognita rationes cognoscendi singularia, vt iam declarabitur. Cognitio vero su 
+       <lb ed="#B" n="33"/>pernaturalis omnino est cognitio singularium futurorum dependentium a sola voluntate diuina &amp; praescientia. 
+       <lb ed="#B" n="34"/>Qualis erat notitia de quae gente &amp; in quo tempore &amp; in quo loco et de quae virgine Christus carnem erat assum 
+       <lb ed="#B" n="35"/>pturus priusquam ipsam assumpsit. Hoc enim non verbo naturaliter angelus concipere potuit: nec in propria na 
+       <lb ed="#B" n="36"/>tura: sed ad hoc indiguit speciali reuelatione. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e449">
+       DE eis quae naturaliter cognita sunt ab angelis beatis:  
+       <lb ed="#B" n="37"/>siue in verbo: siue in propria natura, non fit proprie locutio. Quia omnia illa quilibet angelus videt: li- 
+       <lb ed="#B" n="38"/>cet differenter secundum maiorem &amp; minorem lympiditateis: secundum quod lympidius vident ver 
+       <lb ed="#B" n="39"/>bum, et habitu simpliciori &amp; magis vniuersali superiores cognoscunt res creatas quam inferiores. Va- 
+       <lb ed="#B" n="40"/>num enim videtur angelum angelo indicare quiod ex se nouit tantum quantum posset illud nosse altero an-  
+       <lb ed="#B" n="41"/>gelo indicante: nisi forte ad admirationem: aut excitationem diuinae laudis: aut alicuius huiusmodi  
+       <lb ed="#B" n="42"/>ad instructionem autem nullo modo. Vnde locutio angelorum proprie non fit nisi de illis particu 
+       <lb ed="#B" n="43"/>laribus factis: quae scilicet speciali reuelatione ab vno supernaturaliter cognoscuntur, ita quod non ab alio: quae  
+       <lb ed="#B" n="44"/>non potest cognitione naturali videre angelus vnus in alio: neque in verbo: neque in existentia rerum. 
+       <lb ed="#B" n="45"/>licet enim angelus quilibet non solum in se videt rerum essentias, conceptus essentialiter forman- 
+       <lb ed="#B" n="46"/>do circa eas: sed etiam similiter in alio: cum ille de eis formet huiusmodi conceptus: videt etiam parti- 
+       <lb ed="#B" n="47"/>cularia naturaliter quaecunque sunt in existentia rerum: &amp; hoc in ipsis rebus extra: particularia ta- 
+       <lb ed="#B" n="48"/>men contingentia futura: &amp; conceptiones formandas circa ea aliorum nullus videre naturaliter po 
+       <lb ed="#B" n="49"/>test cum ea vni reuelantur. quoniam ratio intelligendi particularia: siue reuelentur: siue non, sic ex rerum 
+       <lb ed="#B" n="50"/>existentia cognoscuntur sicut obiecta vniversala intellecta: quia non repraesentantur intellectui angelico si- 
+       <lb ed="#B" n="51"/>cut neque hiumano nisi sub formis suorum vniuersalium indiuiduatis actualiter in ipsis. Vnde hu- 
+       <lb ed="#B" n="52"/>iusmodi indiuidua reuelata in ratione suorum vniuersalium supernaturaliter concipiuntur: sicut cum 
+       <lb ed="#B" n="53"/>postmodum fuerint facta in existentia rerum concipiuntur in ratione illorum vniuersalium natu-  
+       <lb ed="#B" n="54"/>raliter. Ita quod licet vnus angelus videt in alio formas vniuersales quae sunt rationes cogno scend 
+       <!--402.xml-->
+       <pb ed="#B" n="181-r"/>
+        <lb ed="#B" n="1"/>particularia quaecunque: non tamen per illas formas vniuersales quaes videt in illo: videt in illo particu 
+       <lb ed="#B" n="2"/>laria quaae videt ille, siue ille videat reuelatione: siue in existentia rerum, licet illa particularia quae sunt 
+       <lb ed="#B" n="3"/>in rerum existentia videat per vniuersalia quae videt in seipso. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e501">
+       ANgelus enim videns obiectiue in  
+       <lb ed="#B" n="4"/>se essentiam humanitatis priusquam fiat ille homo: verbi gratia, Antichristus: per illam nondum nouit 
+       <lb ed="#B" n="5"/>Antichristum: sed cum est in existentia habens humanitatem participatam, aut cum notitia eius ei su 
+       <lb ed="#B" n="6"/>pernaturaliter fuerit reuelata. Vnde cum reuelatum fuerit vni angelo: scilicet homo ille qui erit Anti 
+       <lb ed="#B" n="7"/>christus: &amp; hoc non fuerit alteri reuelatum: &amp; ille cognitione naturali non possit hoc scire: de tali proprie 
+       <lb ed="#B" n="8"/>habet locutio fieri: vt illud quod videt de illo particulari signato in atomo indiuisibili per reuelati- 
+       <lb ed="#B" n="9"/>onem in ratione sui vniuersalis absque omnis conceptus &amp; notitiae innouatione quam addat singulare vt 
+       <lb ed="#B" n="10"/>singulare cognitum super vel cognitum vt vniuersale, formet sibi vnum nouum conceptum intelle- 
+       <lb ed="#B" n="11"/>ctualem quem alius naturaliter possit conspicere de particulari vago: ad exprimendum illud particulare 
+       <lb ed="#B" n="12"/>signatum. Sicut enim nos singularia signata a nobis cognita sub ratione signati alteri loquendo ex- 
+       <lb ed="#B" n="13"/>primere non possumus nisi verbis indicantibus singularia vaga cum, qualibuscumque proprietatibus designam 
+       <lb ed="#B" n="14"/>tibus &amp; determinantibus exprimantur: consimiliter angelus singulare signatum cognitum a se di-  
+       <lb ed="#B" n="15"/>cta reuelatione alteri loquendo non potest exprimere nisi per verba sua, quae sunt conceptus indi-  
+       <lb ed="#B" n="16"/>cantes singulare vagum: ita quod semper de signatis singularibus sit locutio per singularia vaga: nec 
+       <lb ed="#B" n="17"/>pont vnus angelus sub eadem signatione sub qua ipsi reuelatum est, alteri loquendo manifestare. Quem 
+       <lb ed="#B" n="18"/>quidem conceptum de huiusmodi singulari vago: alius angelus videt in intellectu illius angeli: &amp; format 
+       <lb ed="#B" n="19"/>consimilem conceptum vagum in suo intellectu de illo particulari sub ratione sui vniuersalis. Et per  
+       <lb ed="#B" n="20"/>hoc ille angelus alius verbum locutionis alterius dicitur audire,. quia in angelis videre &amp; audire non 
+       <lb ed="#B" n="21"/>differunt. Et ita licet, vt iam diximus, loqui est intelligere: tamen intelligere quid est loqui, &amp; verbum 
+       <lb ed="#B" n="22"/>conceptum quo loquitur, quae sunt idem re: &amp; intelligere &amp; verbum conceptum quae indicantur per 
+       <lb ed="#B" n="23"/>illa, differunt re sicut diuersi conceptus: vnus vagus, alius signatus de eodem. Hoc enim intelligere quid est lo 
+       <lb ed="#B" n="24"/>qui, est nouus conceptus formatus ab angelo voluntarie secundum illud quod est ei reuelatum ad illud  
+       <lb ed="#B" n="25"/>indicandum. Et secundum hoc nutus eius proprie dici potest. Et iste conceptus indicatiuus in se ve 
+       <lb ed="#B" n="26"/>rus conceptus est: &amp; intelligere quoddam secundum se. Sed loqui dicitur vt in se accipit rationem nu-  
+       <lb ed="#B" n="27"/>tus ad illum conceptum indicandum. Et sic ille conceptus vt est intelligere, &amp; vt est loqui, inter se 
+       <lb ed="#B" n="28"/>differunt sola ratione. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e559">
+       ET quia ex natura sua non ordinatur neque concipitur nisi ad indicandum  
+       <lb ed="#B" n="29"/>alium conceptum occultum: qui non est nisi intelligere quoddam: sicut verbum vocis non ordinatur 
+       <lb ed="#B" n="30"/>nisi ad indicandum verbum occultum mentis: ideo ille secundus conceptus non proprie dicitur intel- 
+       <lb ed="#B" n="31"/>ligere sed loqui: licet re non sit nisi intelligere quoddam. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e568">
+       AD videndum autem quomodo vnus an  
+       <lb ed="#B" n="32"/>gelus reuelatione concipit conceptum de particulari signato futuro contingenti: quod latet omnino alterum 
+       <lb ed="#B" n="33"/>angelum: oportet videre quomodo angelus cognoscit singulare in ratione vniuersalis conspecti in sin- 
+       <lb ed="#B" n="34"/>gulari: &amp; non alia notitia noua quam illa qua nouit prius vniuersale sub ratione vniuersalis in se conside 
+       <lb ed="#B" n="35"/>rati. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e579">
+       AD cuius intellectum sciendum est quod quaelibet forma particularis in natura sua est tota essen 
+       <lb ed="#B" n="36"/>tia speciei: &amp; solum differens intentione: vt supra, &amp; alias sepius diximus: quia est vniversalis vt est sub in  
+       <lb ed="#B" n="37"/>determinatione considerata: particularis autem siue singularis vt in hoc est signata: &amp; hoc formaliter 
+       <lb ed="#B" n="38"/>&amp; completiue per solam appositam negationem quae forma de se vniversalis in hoc sic se habet esse haec vt in sua 
+       <lb ed="#B" n="39"/>natura non est nata continere aliqua quae secundum formam suae speciei possunt esse hoc &amp; hoc: sed quod ipsa 
+       <lb ed="#B" n="40"/>ita sit haec quod non illa, aut quaecumque alia siue existens siue non existens. Quare cum secundum <name ref="#Aristotle">Philosophum</name>  
+       <lb ed="#B" n="41"/>secundo metaphysicae, vnumquodque sicut se habet ad esse: sic se habet ad cognitionem: forma ergo  
+       <lb ed="#B" n="42"/>singularis sicut in esse nihil ponit super formam velm nisi negationis: sic neque in cognitione. Immo 
+       <lb ed="#B" n="43"/>illa eadem forma omnino prius cognita sub ratione vniversalis ipsa est postmodum cognita sub ratione sin- 
+       <lb ed="#B" n="44"/>gularis: nihil noui positiui secundum rem apposito in cognitione. Et hoc siue cognoscatur in particula 
+       <lb ed="#B" n="45"/>ri existente naturalite, rsiue in non existente per reuelationm: cuius quantitas, figura, &amp; caetera reue 
+       <lb ed="#B" n="46"/>lantur sub ratione vniversalis acsi existeret in re extra, quod specialiter declaratur in notitia singularium ab  
+       <lb ed="#B" n="47"/>angelo. Si enim non perciperet formam singularem indiuiduatam sub ratione sui vniversalis: cum praeter for- 
+       <lb ed="#B" n="48"/>mam vniuersalis vt vniversalis est, non habet in intellectu aliquam rationem intelligibilis qua intelligatur: quia 
+       <lb ed="#B" n="49"/>neque essentiam angeli: vt enim dictum est, illa non est ratio cognoscibilitatis alicuius alterius a se: neque  
+       <lb ed="#B" n="50"/>habitum scientialem: quia ipse non est per se &amp; primo nisi vniversalum: oporteret ergo quod seipso praesentaretur 
+       <lb ed="#B" n="51"/>intellectui ad mouendum ipsum tanquam per se &amp; primum obiectum: quia non moueret ipsum nisi secun 
+       <lb ed="#B" n="52"/>dum propriam rationem suae singularitatis. Quae autem sunt obiecta per se, sed non primo, non mouent nisi 
+       <lb ed="#B" n="53"/>sub ratione illorum quae sunt obiecta per se &amp; primo: secundum quod magnitudo &amp; figura non mouent 
+       <lb ed="#B" n="54"/>visum nisi simul cum colore. Illud autem est falsum: nihil enim est obiectum intellectus primo &amp; per 
+       <!--403.xml-->
+       <pb ed="#B" n="181-v"/>
+        <lb ed="#B" n="1"/>se nisi vel secundum rationem vniuersalis: vt dictum est supra. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e632">
+       PRAEterea si ponatur forma particularis 
+       <lb ed="#B" n="2"/>secundum rationem particularis praesentari intellectui angelico: vel per actualitatem existentiae suae in  
+       <lb ed="#B" n="3"/>re extra, vel operatione diuina: vt sit in ratione obiecti cognoscibilis tantum: priusquam habeat esse in  
+       <lb ed="#B" n="4"/>actuali existentia: &amp; sic praesentatum moueat intellectum angelicum primo &amp; per se: tunc mouebit ipsum  
+       <lb ed="#B" n="5"/>ducendo ipsum de potentia in actum: tanquam id quid est sicut materia: &amp; sicut addiscens ante habitum  
+       <lb ed="#B" n="6"/>scientiae, non possibile considerare nisi velut a didasco alteretur per doctrinam a contraria dispositione 
+       <lb ed="#B" n="7"/>quemadmodum intellectus noster mouetur ab vniuersali existente in phantasmate: vt patet ex di-  
+       <lb ed="#B" n="8"/>ctis. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e650">
+       EX quo sequuntur inconuenientia multa. Primo enim sequitur quod esset intellectus angeli se ha  
+       <lb ed="#B" n="9"/>bens ad singularia non solum incorporalia: sed etiam sensibilia corporalia: quia non est dare quod illa igno  
+       <lb ed="#B" n="10"/>ret: sicut intellectus noster se habet ad vniuersalia existentia in phantasmatibus. Et ideo sequitur quod  
+       <lb ed="#B" n="11"/>sit magis terminatus &amp; limitatus in essentia sua quam sit intellectus noster. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e659">
+       QVod patet: quoniam  
+       <lb ed="#B" n="12"/>vt dictum est, &amp; expositum in praecedenti quaestione, virtus cognitiua aliquid apprehendens secundum 
+       <lb ed="#B" n="13"/>rationem alicuius determinationis, oportet in apprehendendo eam esse determinatam proportio- 
+       <lb ed="#B" n="14"/>naliter illi quod apprehendere debet. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e669">
+       INtellectus ergo apprehendens singulare vel corporale vel in  
+       <lb ed="#B" n="15"/>corporale aut natura sua est determinata proportionaliter determinationi illius singularis: vt im- 
+       <lb ed="#B" n="16"/>mutari possit ab illo singulari sine speciei receptione: sicut immutatur intellectus noster a forma vni 
+       <lb ed="#B" n="17"/>uersali quae est in phantasmate: aut determinaretur per speciem singularis illius in se receptam si 
+       <lb ed="#B" n="18"/>cut recipitur in nostro sensu particulari a sensibili extra: vt sic mediante illa determinatione possit im 
+       <lb ed="#B" n="19"/>mutari determinate a forma singulari intelligibili: quemadmodum sensus noster particularis immuta 
+       <lb ed="#B" n="20"/>tur a forma singulari sensibili. Et si primo modo, tunc intellectus angeli magis esset determinatus 
+       <lb ed="#B" n="21"/>ad singulare &amp; limitatus non solum quam intellectus noster: sed etiam magis quam sensus noster. Et sic se- 
+       <lb ed="#B" n="22"/>quitur vlterius quod nullo modo vniuersale cognoscere poterit. Quia ratio vniuersalis quaerit rationem 
+       <lb ed="#B" n="23"/>indeter minationis in cognoscente: vt in praecedenti quaestione est dictum. Sl secundo modo, tunc in  
+       <lb ed="#B" n="24"/>natura sua esset vt specie singularis determinabilis foret: quid non est nisi per limitationem &amp; determina-  
+       <lb ed="#B" n="25"/>tionem aliquam in sua natura, quam non habet intellectus noster, qui sic determinabilis non est. &amp; im- 
+       <lb ed="#B" n="26"/>pediret, vt videtur, huiusmodi limitatio apprehensionem vniuersalis: sicut impedit eam in sensu: &amp; mul 
+       <lb ed="#B" n="27"/>to magis: quia in sensu non recipitur principaliter illa species nisi in organo: &amp; non in vi sensitiua: nisi prout 
+       <lb ed="#B" n="28"/>habet esse in organo. In intellectu autem angeli recipitur per se in intellectu &amp; in vi intellectiua: vt 
+       <lb ed="#B" n="29"/>sic etiam magis passiuus sit intellectus angeli a re particulari extra etiam sensibili quam sit sensus noster 
+       <lb ed="#B" n="30"/>&amp; multo amplius quam intellectus noster: quid omnino absurdum est. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e706">
+       PRAEterea si comprehensionem vni 
+       <lb ed="#B" n="31"/>uersalis non impediret comprehensio dicta particularis: quia vniuersalis comphensio, vt dictum est, sit 
+       <lb ed="#B" n="32"/>ab intra per habitum: qualem non habet ex se noster intellectus: particularis vero siue singularis appue 
+       <lb ed="#B" n="33"/>hensio fit ab extra: tunc sicut per apprehensionem vniuersalium ab extra in nostro intellectu gene 
+       <lb ed="#B" n="34"/>ratur habitus scientialis: consimiliter per cognitionem singularium ab extra in intellectu angeli 
+       <lb ed="#B" n="35"/>generaretur habitus scientialis acquisitus praeter vniuersalium suorum scientiam: quod falsum 
+       <lb ed="#B" n="36"/>est: quia non est alius habitus scientialis singularium &amp; vniuersalium: secundum <name ref="#Aristotle">Philosophum</name> septimo 
+       <lb ed="#B" n="37"/>&amp; octauo metaphysicae. Immo vt vult ibidem, singularia ab intellectu non cognoscuntur nisi suorum  
+       <lb ed="#B" n="38"/>vniuersalium cognitione. Et hoc vel in vniuersali cognoscendo obiectiue vniuersalia: &amp; vt vniuer 
+       <lb ed="#B" n="39"/>salia: vel in particulari cognoscendo obiectiue singularia per vniuersalia: vt per cognoscendi rationes 
+       <lb ed="#B" n="40"/>lta quod aliter nullo modo singulare cognoscere posset. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e733">
+       VT sic, sicut vna &amp; eadem in re extra est forma 
+       <lb ed="#B" n="41"/>vniuersalis &amp; singularis: quae in re de se non est nisi secundum actum singularis: vniuersalis autem 
+       <lb ed="#B" n="42"/>in potentia: per operationem enim intellectus fit vniuersalis: sic eadem re est notitia formae secun- 
+       <lb ed="#B" n="43"/>dum rationem vniuersalis &amp; singularis: quae in intellectu de se non est nisi vniuersalis: singularis 
+       <lb ed="#B" n="44"/>vero in potentia: per hoc quod habet esse in singulari extra in quo eam videt. Vnde secundum quod dictum 
+       <lb ed="#B" n="45"/>est supra, eadem re est forma quae est in intellectu vt obiectum in cognoscente: &amp; quae est extra vt for 
+       <lb ed="#B" n="46"/>ma in formato &amp; participante. Et differunt in eodem sola intentione ratio vniuersalis &amp; particu- 
+       <lb ed="#B" n="47"/>laris: vt patet ex supra determinatis. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e751">
+       ET secundum hoc forma qua obiectiue intelligitur angelus. 
+       <lb ed="#B" n="48"/>vnus ab altero: siue in vniuersali: siue in particulari, est forma qua singulariter in se subsistit. In quo  
+       <lb ed="#B" n="49"/>vilescit &amp; deficit modus intelligendi angeli, a modo intelligendi ipsius dei: qui obiectiue solum seipsum in  
+       <lb ed="#B" n="50"/>telligit. Licet enim simul cum hoc sit ratio intelligendi alia a se: illa tamen non sunt secundum se obiecta intelle 
+       <lb ed="#B" n="51"/>ctus dinini: sed solummo secundum quod sunt aliquid in diuina essentia. aliter enim intellectum dei perficeret aliquo modo 
+       <lb ed="#B" n="52"/>essentia creaturae, sicut dicit philosophous. xii. Metaphysicae Sed sic perficit intellectum angelicum licet non secundum  
+       <lb ed="#B" n="53"/>id quod est aliquid in natura &amp; essentia sua, sed secundum quod est aliquid in genere cognitiui in potentia existens illud quod in  
+       <lb ed="#B" n="54"/>telligibile secundum se est in actum. Sic enim non est inconueniens: quod secundum rationem esse intellectualis &amp; sensibilis subia 
+       <!--404.xml-->
+       <pb ed="#B" n="182-r"/>
+        <lb ed="#B" n="1"/>vt est quoddam intelligibile nobilior sit intellectu angelico inquantum intellectualis est: &amp; de se potentia intelli 
+       <lb ed="#B" n="2"/>gens: licet multo ignobilior sit inquantum est aliquid in natura existens. Quod non potest contingere deo: quia ex se 
+       <lb ed="#B" n="3"/>est intelligens secundum actum. Vbi ergo in ratione vniuersalis cogniti angelus singularia nullo mo 
+       <lb ed="#B" n="4"/>do cognoscit fine ipsa forma vniuersalis designatur naturaliter in singulari per existentiam eius vel per  
+       <lb ed="#B" n="5"/>reuelationem: vt cum vel secundum quod vniuersale sit obiectum primo &amp; per se intellectus: ita tamen 
+       <lb ed="#B" n="6"/>quod semper est abstractum per habitum scientialem: &amp; non accipit ipsum a singulari: econuerso ei quid  
+       <lb ed="#B" n="7"/>contingit vniuersali respectu intellectus nostri: quia respectu eius vniuersale primo non est nisi po- 
+       <lb ed="#B" n="8"/>tentia in phantasmate singulari ad abstrahendum per agens. Non quod separet re vniuersale a singula 
+       <lb ed="#B" n="9"/>ri: sed in eo quid secundum rem est singulare quo ad existentiam, concipit formam eandem secudum rati 
+       <lb ed="#B" n="10"/>onem vniuersalis non secundum rationem suae designationis. Ita quod id ipsum re comprehendit intellectus 
+       <lb ed="#B" n="11"/>&amp; imaginatiua secundum aliam &amp; aliam rationem siue intentionem. Et ex hoc contingit quod intellectus 
+       <lb ed="#B" n="12"/>noster &amp; angeli partim modo consimili comprehendunt singularia: partim modo dissimili. Quemadmodum  
+       <lb ed="#B" n="13"/>partim modo consimili comprehendunt vniuersalia: partim modo dissimili. Conveniunt enim circa comprehensio 
+       <lb ed="#B" n="14"/>nem vniuersalis in re comprehensa &amp; in modo comprehendendi: quia ambo eandem formam quae in re extra 
+       <lb ed="#B" n="15"/>est singularis, comprehendunt: sed sub ratione vniuersalis. Differunt autem in ordine comprehendendi: quia  
+       <lb ed="#B" n="16"/>intellectus noster eam capit a phantasmate singulari: ita quod naturaliter prius sit indiuiduata in illo, quam 
+       <lb ed="#B" n="17"/>ab intellectu sub ratione vniuersalis concepta. Circa comprehensionem vero singularis conueniunt in re compre 
+       <lb ed="#B" n="18"/>hensa &amp; in modo comprehendendi: quia eadem forma re quae est vniuersalis, vt primo &amp; per se comprehensa 
+       <lb ed="#B" n="19"/>ab intellectu, est signata in particulari. Quam sicut intellectus noster apprehendit in particulari phanta- 
+       <lb ed="#B" n="20"/>smate rei: sic intellectus angelicus apprehendit naturaliter in singulari supposito: quod existit extra in re: 
+       <lb ed="#B" n="21"/>vel supnaturaliter in singulari supposito, quod reuelatur supernaturaliter de re acsi existeret. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e819">
+       ET non est 
+       <lb ed="#B" n="22"/>differentia nisi in hoc quod intellectus noster non apprehendit formam secundum rationem vniuersalis nisi ab  
+       <lb ed="#B" n="23"/>ipso &amp; in ipso phantasmate actu existente in imaginatione actuali. Intellectus vero angelicus com 
+       <lb ed="#B" n="24"/>prehendit formam secundum rationem vniuersalis, non ab ipso supposito singulari vllo modo: sed  
+       <lb ed="#B" n="25"/>a suo habitu: vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e830">
+       SED postquam suppositum singulare habet esse vel exterius vel in reuela 
+       <lb ed="#B" n="26"/>tione, statim formam apprehendit in illo. Ita quod non sit alia re forma quam prius apprehendit secundum 
+       <lb ed="#B" n="27"/>se &amp; postmodum in illo: immo eadem penitus. Ita quod quodcunque sit suppositum existens participan  
+       <lb ed="#B" n="28"/>do formam in eo, comprehendit illam sub ratione vniuersalis primo &amp; per se, eadem comprehensione qua 
+       <lb ed="#B" n="29"/>eam apprehendit antequam fuit participata in illo: sicut intellectus noster in phantasmate. Et accidit 
+       <lb ed="#B" n="30"/>angelico intellectui quod comprehendit eam in illo: sicut accidit essentiae rei quod sit participata ab illo: cum ta- 
+       <lb ed="#B" n="31"/>men essentiale sit intellectui nostro quod comprehendat eam in illo: vt secundum hoc intellectus ange- 
+       <lb ed="#B" n="32"/>licus sequatur rei naturam: non tamen intellectus noster. Et ideo sicut intellectus noster etiam si esset 
+       <lb ed="#B" n="33"/>vnus numero omnium, a cuiuscumque phantasmate abstraheret idem vniuersale: postquam semel ipsum habet abstra 
+       <lb ed="#B" n="34"/>ctum: &amp; in illo a quo abstrahit illud intellexerit: si stante illo intellectum, in alio incipit illud intelligere 
+       <lb ed="#B" n="35"/>non nouo intellectu nouum vniuersale perciperet: sed solum antiquum perceptum perciperet sub nouo respectu: vt 
+       <lb ed="#B" n="36"/>in hoc phantasmate, &amp; etiam intellectus noster numeratus numero hominium &amp; imaginatiuarum virtutum: si vni 
+       <lb ed="#B" n="37"/>uersale postquam haberet semel perceptum &amp; abstractum posset conseruare in actuali notitia ad absentiam phan- 
+       <lb ed="#B" n="38"/>tasmatis singularis: &amp; cum hoc natus esset eam comprehendere in phantasmate, cum ipsum existe- 
+       <lb ed="#B" n="39"/>ret mutatis &amp; variatis phantasmatibus secundum numerum de eodem sensibili secundum speciem: 
+       <lb ed="#B" n="40"/>differentibus autem numero: non nouo intellectu siue actu intelligendi nouum vniuersale perciperet 
+       <lb ed="#B" n="41"/>sed solum antiquum &amp; antiquo actu intelligendi perciperet sub nouo respectu in hoc &amp; in illo phan- 
+       <lb ed="#B" n="42"/>tasmate: similiter dico de intellectu angelico: quia intelligit ex se vniuersale: vt dictum est: non autem 
+       <lb ed="#B" n="43"/>ex aliquo singulari. Sed suum obiectum in quocumque fuerit siue existente siue reuelato, non potest ei 
+       <lb ed="#B" n="44"/>latere: sicut neque intellectui nostro vniuersale suum in quocunque fuerit phantasmate, siue abstracto 
+       <lb ed="#B" n="45"/>a sensu particulari, siue in se formato: vt iam dicetur. Postquam ergo ex se prius intellexerit vniuersale se 
+       <lb ed="#B" n="46"/>cundum se: si postmodum in singulari existente de nouo extra vel in reuelatione incipit de nouo for- 
+       <lb ed="#B" n="47"/>mam vniuersalem intelligere in illo, non nouo intellectum nouum vniuersale percipiet: sed solum  
+       <lb ed="#B" n="48"/>prius conceptum sub nouo respectu percipiet: scilicet vt habet esse in hoc singulari. Vbi est aduertem 
+       <lb ed="#B" n="49"/>dum: quod intellectus angeli ex eo quod cognoscit vniuersale in hoc supposito singulari: non ex hoc cogno  
+       <lb ed="#B" n="50"/>scit singulare siue rationem singularitatis ipsius formae: sicut neque intellectus nimr ex eo quod cognoscit vni 
+       <lb ed="#B" n="51"/>uersale in phantasmate singulari, ex hoc cognoscit ipsam formam secundum rationem suae singula 
+       <lb ed="#B" n="52"/>ritatis: quia tunc in nullo differret omnino apud ipsum cognoscere vniuersale &amp; singulare: sed aeque  
+       <lb ed="#B" n="53"/>primo cognosceret singulare &amp; vniuersale: quid falsum est. Immo intellectus tam noster quam angelicus 
+       <lb ed="#B" n="54"/>primo &amp; per se cognoscit in singulari formam sub ratione vniuersalis, hoc est sub ratione esse indeter-  
+       <!--405.xml-->
+       <pb ed="#B" n="182-v"/>
+        <lb ed="#B" n="1"/>minati &amp; indesignati. Quod esse inquantum huiusmodi in nullo habet esse vt in subiecto: sed solum in in  
+       <lb ed="#B" n="2"/>tellectu vt in apprehendente &amp; cognoscente. Sed quia eadem ipsa forma vt est in ipso phantasmate  
+       <lb ed="#B" n="3"/>aut in ipsa re est determinata &amp; designata, intellectus secundario apprehendit illam designationem.  
+       <lb ed="#B" n="4"/>Quae quia, vt dictum est, non est nisi per negationem formaliter &amp; completiue: &amp; negatio sicut ni 
+       <lb ed="#B" n="5"/>hil rei addit super formam designatam quae de se habet rationem indesignati: sic neque notitia desi- 
+       <lb ed="#B" n="6"/>gnationis illius nihil rei potest apponere super illam notitiam qua prius cognoscitur indesignatum:  
+       <lb ed="#B" n="7"/>ideo sine aliqua immutatione reali vniuersale cognitum apud intellectum est ratio cognoscendi sin 
+       <lb ed="#B" n="8"/>gulare: immo quod plus est, penitus est eadem cognitio vniuersalis &amp; singularis: addito solo respectu 
+       <lb ed="#B" n="9"/>quo intelligitur forma in hoc singulari, &amp; negatione qua intelligitur vt in hoc designata secundum 
+       <lb ed="#B" n="10"/>praedictum modum. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e922">
+       ET non est differentia in hoc quo ad intellectum nostrum &amp; intellectum angelicum 
+       <lb ed="#B" n="11"/>Nisi quod intellectus noster sub ratione vniuersalis intelligit singulare: quasi secundum lineam circum 
+       <lb ed="#B" n="12"/>fexaim: sicut determinat Philosophus. Intellectus vero angelicus intelligit singulare quasi secundum line 
+       <lb ed="#B" n="13"/>am protensam: &amp; hoc propter diuersum modum intelligendi vniuersale. Verbi gratia, in nobis prius 
+       <lb ed="#B" n="14"/>est phantasma secundum actum in imaginatiua: &amp; deinde intellectus agens sua abstractione facit 
+       <lb ed="#B" n="15"/>de vniuersali in potentia vniuersale in actum: quod obiectum intellectui possibili immutat ipsum ad actum 
+       <lb ed="#B" n="16"/>intelligendi ipsum vniuer sale abstractum: sed in phantasmate. Et protrahitur quasi quaedam linea 
+       <lb ed="#B" n="17"/>spiritualis intelligibilis a phantasmate singulari ad vniuersale abstractum: vt ab a. in b. Et ab illo vni 
+       <lb ed="#B" n="18"/>uersali vlterius protenditur in intellectum: vt a b. in c. vt sit totum hoc quasi vna linea recta a. bc. De 
+       <lb ed="#B" n="19"/>inde postquam intellectus immutatus est ad actum intelligendi ab vniuersali existente in phantasma- 
+       <lb ed="#B" n="20"/>te, actu suo intelligendi terminato in illud vniuersale vt in obiectum, protrahitur quasi quaedam li 
+       <lb ed="#B" n="21"/>nea reflexa a c. in b. Postquam autem vlterius illam speciem primo intellectam in phantasmate secun- 
+       <lb ed="#B" n="22"/>dum rationem vniuersalis, intelligit secundum rationem suae designationis &amp; singularitatis quam habet 
+       <lb ed="#B" n="23"/>in ipso phantasmate, protrahitur quasi quaedam linea reflexa a b. in a. vt sit totum hoc quasi vnali 
+       <lb ed="#B" n="24"/>nea reflexa c. be a. vt si lineam hanc componamus lineae praecedenti: tunc illa erit linea vna circunfle- 
+       <lb ed="#B" n="25"/>xa: complens actum intelligendi reuertentem in id a quo incepit: vt sit in actu intelligendi quasi mo 
+       <lb ed="#B" n="26"/>tus a re in animam per lineam quae est a b. c. &amp; econuerso motus reflexus ab anima in rem super ean- 
+       <lb ed="#B" n="27"/>dem lineam vt est c. b. a. &amp; sic sit totus motus cognitiuus intellectualis noster circunflexus: quasi su- 
+       <lb ed="#B" n="28"/>per lineam circunflexam incipiens ab eodem signo: &amp; terminatus in idem quod est a. per eadem media bis 
+       <lb ed="#B" n="29"/>tacta: quae sunt b. c. In angelo vero primum est essentia &amp; quiditas rei vniuersalis mouens in ipso 
+       <lb ed="#B" n="30"/>habitu scientiali inclinante &amp; immutante primo sua inclinatione naturali intellectum angelicum 
+       <lb ed="#B" n="31"/>vt habitum est supra. Et per hoc intellectus immutatur ad actum intelligendi terminatum in essen l 
+       <lb ed="#B" n="32"/>tiam vt in obiectum cognitum existens in intellectum non vt in subiecto: sicut existit per habitum: inquan 
+       <lb ed="#B" n="33"/>tum mouet in ipso: sed vt in cognoscente tantum: ad quod primo terminatur actus intelligendi vt in ob  
+       <lb ed="#B" n="34"/>iectum cognitum indeterminate absque omni designatione. Aquo vlterius postquam forma obiecti habet esse 
+       <lb ed="#B" n="35"/>in supposito existente vel reuelato, habet ad ipsum adhuc terminari sub ratione vniuersalis: sed in sup- 
+       <lb ed="#B" n="36"/>posito designato: &amp; tandem ab ipsa in supposito sub ratione indesignati ad eandem: vt linea recta protensa ab  
+       <lb ed="#B" n="37"/>habitu scientiali in singulare intellectum. ab. c. d. e. cognitam secundum rationem designati: vt sic in actuali intellectu 
+       <lb ed="#B" n="38"/>angelico, protrahatur: quasi linea spiritalis intelligibilis recta ab habitu scientiali mouente ad intellectum motum: vt 
+       <lb ed="#B" n="39"/>ab a. in b. &amp; deinde ab intellectu cognoscente ad obiectum vt cognitum secundum se: quasi a b. in c. &amp; deinde ab  
+       <lb ed="#B" n="40"/>obiecto cognito secundum se ad seipsum vt cognitum in supposito: tamen sub ratione vniuersalis: quasi a 
+       <lb ed="#B" n="41"/>c. in d. &amp; tunc demum ab eodem vt in cognito in supposito sub ratione vniuersalis &amp; indesignati ad idem 
+       <lb ed="#B" n="42"/>vt cognitum sub ratione singularis designati: quasi a d. in e. vt sit totum hoc complens totum actum 
+       <lb ed="#B" n="43"/>intelligendi angelicum quasi linea recta protensa, ab habitu scientiali inhaerente angelico intellectui 
+       <lb ed="#B" n="44"/>quasi ab a. signo in singulare intellectum quasi in e. signum per media signa: quae sunt b c. d. vt sit 
+       <lb ed="#B" n="45"/>tota linea intellectualis angelica a. b. c. du. e. In quam nullam contingit inuenire reflexionem aut circunfle 
+       <lb ed="#B" n="46"/>xionem: nisi forte in hoc quod essentia rei in habitu intellectum immutat ad actum intelligendi qui  
+       <lb ed="#B" n="47"/>terminatur ad eandem. Sed non est ibi proprie circunflexio: quia in ipsa debet esse motus ab eodem 
+       <lb ed="#B" n="48"/>in idem secundum eandem rationem ipsius. Quoniam in cognitione nostra intellectiua motus est a phan 
+       <lb ed="#B" n="49"/>tasmate sub ratione obiecti singularis designati: &amp; terminatur ad idem secundum eandem rationem 
+       <lb ed="#B" n="50"/>hic autem essentia in habitu mouet, non sub ratione obiecti singularis: sed potius sub ratione inhaerentis in  
+       <lb ed="#B" n="51"/>habitu &amp; immutantis ad cognitionem. Terminat autem actum intelligendi sub ratione obiecti cogni- 
+       <lb ed="#B" n="52"/>ti &amp; non alicuius inhaerentis: vt patet ex dictis. Sic ergo ex eo quod obiectum intellectus per se &amp; pri- 
+       <lb ed="#B" n="53"/>mo est vel sub ratione vniuersalis, non oportet negare quod virtus intellectiua angelica vllo modo cogno-  
+       <lb ed="#B" n="54"/>scat singularia tanquam illa quae habent: in se rationem vniuersalis: sed oppositi magis. Neque oportet 
+       <!--406.xml-->
+       <pb ed="#B" n="183-r"/>
+        <lb ed="#B" n="1"/>dicere quod cognoscat singularia vniuersaliter: &amp; in vniuersali: non autem singulariter: neque in singu 
+       <lb ed="#B" n="2"/>lari: neque quod cognoscat singularia per aliquam applicationem formae vniuersalis ad formas singu- 
+       <lb ed="#B" n="3"/>lares existentes in rebus extra: neque etiam quod cognoscat singularia species abstrahendo ab eis. Sed  
+       <lb ed="#B" n="4"/>ex eo quod obiectum intellectus per se &amp; primo est vniuersale sub ratione vniuersalis, magis oportet 
+       <lb ed="#B" n="5"/>asserere quod ipse cognoscat singularia. Eo quod forma intellecta sub ratione vniuersalis efficax est ad  
+       <lb ed="#B" n="6"/>mouendum intellectum non solum ad cognitionem vniuersalium: sed etiam singularium: absque o- 
+       <lb ed="#B" n="7"/>mni abstractione alia &amp; applicatione: eo quod cognitio vniuersalis &amp; singularis non differunt ex par- 
+       <lb ed="#B" n="8"/>te rei cognitae &amp; actus cognoscendi: sed solum ex parte modi cognoscendi indesignate &amp; designate.  
+       <lb ed="#B" n="9"/>Quorum vnum super aliud non apponit nisi rationem negationis: vt dictum est. Et quia alia est 
+       <lb ed="#B" n="10"/>designatio vniuersalis in hoc singulari &amp; in illo, ideo cognoscendo vniuersale vt in hoc singulari si 
+       <lb ed="#B" n="11"/>gnificato, ex hoc non cognoscit in illo. Et sic cognoscendo vnum singulare non oportet quod alia cognoscat:  
+       <lb ed="#B" n="12"/>sed renouando conceptus multotiens concipiendo vniuersale in diuersis particularibus: non autem sub 
+       <lb ed="#B" n="13"/>conceptu vniuersali aliquid innouando vt concipiatur singulare: vt dictum est supra. Nec in hoc 
+       <lb ed="#B" n="14"/>est differentia ex parte intellectus nostri &amp; angelici: neque ex parte cognitionis singularium sensibili 
+       <lb ed="#B" n="15"/>um aut intelligibilium: quoniam forma quae est essentia &amp; quiditas &amp; per se obiectum intellectus no-  
+       <lb ed="#B" n="16"/>stri &amp; angelici, includit materiam sub ratione vniuersalis sicut &amp; formam: vt exposuimus alibi. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1059">
+       ET 
+       <lb ed="#B" n="17"/>ideo licet intellectus noster siue intellectus angelicus habeat formas in se expressas abstractas a con 
+       <lb ed="#B" n="18"/>ditionibus materiae singularis determinatae: ipsae tamen sunt similitudines rerum &amp; secundum for 
+       <lb ed="#B" n="19"/>mam &amp; secundum materiam simul: non secundum materiam tantum vt quidam dicunt. Vt quem 
+       <lb ed="#B" n="20"/>admodum deus rationibus suis idealibus quia sunt rationes rerum quo ad materiam &amp; formam, 
+       <lb ed="#B" n="21"/>cognoscit res non solum vniuersaliter secundum conditiones formae: sed etiam singulariter secun 
+       <lb ed="#B" n="22"/>dum conditiones materiae: scilicet in cognoscendo seipsum: sic intellectus angelicus &amp; humanus co 
+       <lb ed="#B" n="23"/>gnoscit sub ratione formarum vniuersalium res materiales sensibiles: non solum vniuersaliter, sed  
+       <lb ed="#B" n="24"/>etiam singulariter. Et per hunc modum a deo impressi sunt habitus cognitiui angelis ad cognoscendum  
+       <lb ed="#B" n="25"/>formas &amp; in sua vniuersalitate: &amp; in sua singularitate: quod nullo modo possibile est poni: ponendo quod 
+       <lb ed="#B" n="26"/>angelus res intelligit per species impressas alias ab habitu: vt dictum est supra. Et huic concordat 
+       <lb ed="#B" n="27"/>illud Dionysii cap. vii. de diuinis nominibus. Deus existentia cognoscit non scientia existentium: sed  
+       <lb ed="#B" n="28"/>ipsa sua. Etenim &amp; angelos scire aiunt eloquia quae sunt super terram: non sensibus haec cogno- 
+       <lb ed="#B" n="29"/>scentes sensibilia terrena: per propriam vero deiformis animi virtutem &amp; naturam. Secundum hoc 
+       <lb ed="#B" n="30"/>ergo reuertentes vnde sermo prius, dicimus quod locutio angelorum non est nisi aliquis conceptus ex 
+       <lb ed="#B" n="31"/>pressus in conceptu vnius angeli possibili videri in se ab intellectu alterius angeli: quemadmodum si 
+       <lb ed="#B" n="32"/>legeret in libro: quo eidem explicat conceptum aliquem: quem naturaliter in illo neque in rebus ex- 
+       <lb ed="#B" n="33"/>tra, neque in seipso videre posset. vt cum modo Antichristus non sit homo existens in rerum na- 
+       <lb ed="#B" n="34"/>tura, quis, qualis, &amp; quantus, quando &amp; vbi &amp; de quibus &amp; quid operaturus est: &amp; huiusmodi perti- 
+       <lb ed="#B" n="35"/>cularia nulla creatura secundum se &amp; ex naturalibus puris scire potest: sed solum ex pura reuelatione 
+       <lb ed="#B" n="36"/>diuina sub ratione formae humanitatis vniuersalis reuelando conditiones indiuiduales particularis il 
+       <lb ed="#B" n="37"/>lius acsi videret ipsum in re extra. Quod nulla alia creaturarum videre potest sic fuisse illi reue 
+       <lb ed="#B" n="38"/>latum: quia absque omni immutatione cognitionis &amp; sine nouo conceptu fit illa reuelatio: vt dictum 
+       <lb ed="#B" n="39"/>est. Exemplum autem talis reuelationis intellectualis qua cognoscatur res antequam fiat: acsi iam facta esset 
+       <lb ed="#B" n="40"/>potest videri in vi imaginatiua. Videmus enim quod virtus imaginatiua: cuius est comprehendere for- 
+       <lb ed="#B" n="41"/>mas sensibiles non sub ratione formae determinatae ad signatam materiam: sicut est sensus particu- 
+       <lb ed="#B" n="42"/>laris: sed tantum sub conditionibus particularibus situs, magnitudinis, figurae: &amp; aliorum huiusmo 
+       <lb ed="#B" n="43"/>di: eo quod potest formas sensibilium comprehensas transmutare &amp; diuersimode diuidere &amp; vnire: potest 
+       <lb ed="#B" n="44"/>fortuito deuenire ad hoc vt imaginetur formam alicuius indiuidui iam existentis: aut possibilis fieri 
+       <lb ed="#B" n="45"/>qualem accepisset ab illo si in existentia illud vidisset: quod tamen nunquam neque eius simile vidit. secun- 
+       <lb ed="#B" n="46"/>dum quod dicit Commentator supe tertium de anima. Possibile est vt homo cogitet in aliqua re adeo quod in-  
+       <lb ed="#B" n="47"/>ueniat aliquod indiuiduum quod ante non sensit: &amp; imaginationem veram cuius indiuiduum nunquam fuit 
+       <lb ed="#B" n="48"/>sensatum a cogitante. Virtus enim cogitatiua quando adiuuabit se cum informatiua &amp; memoratiua 
+       <lb ed="#B" n="49"/>innata est praesentare ex imaginibus specierum aliquam quam nunquam sensit in ea dispositione secun 
+       <lb ed="#B" n="50"/>dum quam esset si sensisset eam. Et tunc intellectus qui sequitur iudicabit primo illam imaginati 
+       <lb ed="#B" n="51"/>onem iudicio singulari secundum quod expositum est. Ita quod intellectualiter posset omnes dispositiones sensibiles 
+       <lb ed="#B" n="52"/>Antichristi cognoscere antequam fieret: sed non determinate quod illius esset aut alicuius futuri: &amp; qualia 
+       <lb ed="#B" n="53"/>esset operaturus: &amp; quando &amp; vbi &amp; de quibus nasciturus. Quae omnia pertinent ad reuelationem secre 
+       <lb ed="#B" n="54"/>tam. Cum quibus etiam intellectualiter absque sensus adminiculo nobis &amp; angelis intellectualiter 
+       <!--407.xml-->
+       <pb ed="#B" n="183-v"/>
+        <lb ed="#B" n="1"/>imaginabiliter posset illa imaginatio reuelari. quemadmodum reuelationes factae sunt prophetis 
+       <lb ed="#B" n="2"/>imaginariae &amp; intellectuales. Quia quod potest fieri a nobis vel in nobis naturaliter, multo for- 
+       <lb ed="#B" n="3"/>tius potest fieri in nobis &amp; in angelis deo reuelante supernaturaliter. Quia etiam illud naturaliter 
+       <lb ed="#B" n="4"/>fieri potest in nobis, testatur <name ref="#Augustine">Augustinus</name> vbi dicit de trinitate libro viii. cap. vi. Cum alicuius species, vel loci, vel 
+       <lb ed="#B" n="5"/>hominis, vel cuiuslibet corporis eadem occurrit oculis nostris quae occurrebat animo: cum eam pri 
+       <lb ed="#B" n="6"/>usquam videremus cogitabamus, non paruo miraculo mouemur: ita raro &amp; pene nunquam accidit: &amp; ta- 
+       <lb ed="#B" n="7"/>men firmissime credimus: quia secundum specialem generalemque notitiam quae certa nobis est co- 
+       <lb ed="#B" n="8"/>gitamus. Vnde si huiusmodi speciali notitiae intellectus apponatur in intellectu angeli vel hominis 
+       <lb ed="#B" n="9"/>de Antichristo designatio indiuiduationis per reuelationem, &amp; quo ad substantiam, &amp; quo ad acci  
+       <lb ed="#B" n="10"/>dentia determinantia substantiam indiuiduam quae potest homo in sensibilibus capere ex sensu: aut vi 
+       <lb ed="#B" n="11"/>cogitatiua sibi formare: vt dictum est: &amp; cum hoc reueletur ei modo consimili quod illa est persona Anti- 
+       <lb ed="#B" n="12"/>christi, &amp; quae, &amp; qualia futura sunt per eam &amp; circa eam: quae nulla creatura naturaliter absque reue 
+       <lb ed="#B" n="13"/>latione extra verbum potest concipere: talis cui huiusmodi sunt reuelata: potest in suo intellectu su- 
+       <lb ed="#B" n="14"/>per hoc nouos conformare conceptus: quos legere alius angelus potest in illo, &amp; formare in se conce- 
+       <lb ed="#B" n="15"/>ptus illis consimiles. Et sic per istos secundos conceptus apertos loquitur angelus angelo priores com- 
+       <lb ed="#B" n="16"/>ceptus occultos. Et sunt isti secundi conceptus verba &amp; nutus priorum: vt licet omne loqui sit intelligere: 
+       <lb ed="#B" n="17"/>non tamen econuerso. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1188">
+       ET per hunc etiam modum omnis angelus loquens docet vel illud cuius habet com- 
+       <lb ed="#B" n="18"/>ceptum occultum quem non nouit angelus cui loquitur &amp; qui quo ad hoc docetur: aut si consimi 
+       <lb ed="#B" n="19"/>li reuelatione illud nouit, &amp; non nouit quia illi similiter reuelatum est, illa locutione quo ad hoc eum instruit:  
+       <lb ed="#B" n="20"/>aut si vtrunque nouit, tunc est locutio tantum: non autem doctrina. Et sicut potest loquendo reuelare 
+       <lb ed="#B" n="21"/>sibi esse aliquid de aliquo particulari reuelatum: ita etiam cum per se cogitat aliquid de aliquo par- 
+       <lb ed="#B" n="22"/>ticulari signato: quod etiam alius angelus non potest percipere de se: scilicet illum de huiusmodi par- 
+       <lb ed="#B" n="23"/>ticulari cogitare: potest hoc quidem reuelare: scilicet se de huiusmodi cogitare. Clrca tertium arti 
+       <lb ed="#B" n="24"/>culum duo sunt consideranda. Vnum circa nouitatem illuminationis. Aliud circa nouitatem lo- 
+       <lb ed="#B" n="25"/>cutionis. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1208">
+       CIRca primum aduertendi sunt quatuor modi cognitionis angelorum praedicti: scili- 
+       <lb ed="#B" n="26"/>cet naturalis in verbo: naturalis quo ad rerum vniuersalia in propria natura: &amp; naturalis quo ad  
+       <lb ed="#B" n="27"/>singularia in rerum existentia: &amp; accidentalis quo ad singularia contingentia cognita non naturali 
+       <lb ed="#B" n="28"/>ter: sed speciali reuelatione. Cum igitur omnis illuminatio ordinatur ad modum alicuius cognitio 
+       <lb ed="#B" n="29"/>nis: &amp; prima illuminatio non sit nisi per primam praesentationem diuinae essentiae nudae angelico intellectui 
+       <lb ed="#B" n="30"/>ad ipsam aperte videndam: ad cuius praesentationem oportet intellectum angelicum disponi: etsi 
+       <lb ed="#B" n="31"/>non specie deitatis sibi impressa: quia nullam potest habere: vt ostendimus alibi: aliqua tamen dis- 
+       <lb ed="#B" n="32"/>positione supernaturali: qua intellectus angelicus eleuatur: &amp; spiritualiter quadam supernaturali 
+       <lb ed="#B" n="33"/>sanitate fortificatur &amp; clarificatur: quaecunque sit illa: vt lumen gloriae, vel aliquid huiusmodi: si igi- 
+       <lb ed="#B" n="34"/>tur angelus superior in inferiorem naturaliter aliquid agat transmutando ipsum in naturalibus 
+       <lb ed="#B" n="35"/>vt huiusmodi dispositionem in se recipiat per quam praeparetur ad illuminationem: Dicendum quod 
+       <lb ed="#B" n="36"/>sicut illa illuminatio facta fuit in primo instanti glorificationis angeli a deo se ipsum lumen quid ipse 
+       <lb ed="#B" n="37"/>est angelico intellectui praesentante: sic &amp; illa illuminatio inquantum dispositiue secundum praede 
+       <lb ed="#B" n="38"/>terminatum modum dicitur fieri ab angelo: non est facta de nouo: sed in prima eius glorificati- 
+       <lb ed="#B" n="39"/>one. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1241">
+       VNde quo ad illa quae per talem illuminationem cognoscit angelus, dicendum est ad quae-  
+       <lb ed="#B" n="40"/>stionem: quod vnus angelus non potest aliquid de nouo cognoscere per operationem alterius angeli 
+       <lb ed="#B" n="41"/>circa ipsum in illuminando. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1248">
+       SImiliter dicendum est de illuminatione quae habet fieri ad secundam 
+       <lb ed="#B" n="42"/>cognitionem. Cum enim illa sit in angeli creatione in eo quod datur ei lumen naturale intellectus: &amp; 
+       <lb ed="#B" n="43"/>imprimitur ei habitus scientialis: aut ergo angelus nihil operatur ad illam illuminationem: aut non 
+       <lb ed="#B" n="44"/>de nouo: sed in prima angeli creatione. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1258">
+       SImiliter dicendum est de illuminatione quae habet fieri N 
+       <lb ed="#B" n="45"/>ad tertiam cognitionem. Illa enim est naturalis sequela cognitionis secundae postquam rebus acquiritur 
+       <lb ed="#B" n="46"/>per deum immediate aut mediante agente naturali esse actualis existentiae: sicut patet ex praedetermi-  
+       <lb ed="#B" n="47"/>natis. Non restat igitur nisi de illuminatione quae sit ad quartam cognitionem: scilicet accidenta- 
+       <lb ed="#B" n="48"/>lem de singularibus contingentibus. Quae sit per reuelationem dupliciter. Vno modo in verbo cir 
+       <lb ed="#B" n="49"/>ca naturalem cognitionem essentiarum vniuersalium rerum: vt cognoscuntur in verbo. Alio modo  
+       <lb ed="#B" n="50"/>in propria natura circa cognitionem naturalem essentiarum vniuersalium rerum vt cognoscuntur ex ha-  
+       <lb ed="#B" n="51"/>bitu scientiali. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1276">
+       COOnitio autem talis: quia secundum neutrum modum pertinet ad beatitudi- 
+       <lb ed="#B" n="52"/>nem essentialem, non derogat in aliquo statui beatitudinis: vt fiat in angelo de nouo: &amp; vt sic ponatur 
+       <lb ed="#B" n="53"/>quod ad huiusmodi notitiam formaliter &amp; effectiue a deo illuminetur de nouo: per quam illuminationem 
+       <lb ed="#B" n="54"/>ei talis notitia reueletur: sed propter immutabilitatem, quae multum congruit illi cognitioni quae est. 
+       <!--408.xml-->
+       <pb ed="#B" n="184-r"/>
+        <lb ed="#B" n="1"/>in verbo, videtur mihi quod potius est sentiendum quod omnia talia quaecunque angelis super essentialem 
+       <lb ed="#B" n="2"/>beatitudinem reuelantur in verbo: a primo instanti suae beatitudinis sint reuelata: &amp; ita quod si alter 
+       <lb ed="#B" n="3"/>angelus operatus est aliquid circa eum ad huiusmoni illuminationem suscipiendam: &amp; per hoc ad  
+       <lb ed="#B" n="4"/>huiusmoni cognoscenda: illud non de nouo: sed ab initio operatus est. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1298">
+       VNde de talium notitia an  
+       <lb ed="#B" n="5"/>gelorum in verbo: quod non sit noua sed antiqua, <name ref="#Augustine">Augustinus</name> dicit expresse, xv. de trinitate cap. xiii. de 
+       <lb ed="#B" n="6"/>angelis inquiens sic. Bonum eorum est de operibus suis eius consulere veritatem. &amp; sequitur. Totum 
+       <lb ed="#B" n="7"/>ab illo per illud verbum eius audientes. i. in eius virtute inuenientes quid sibi faciendum quid qui  
+       <lb ed="#B" n="8"/>bus quando nunciandum sit. Et constat quod consulendo eam: hoc in ea non inuenirent: neque ab ea au 
+       <lb ed="#B" n="9"/>dirent, si noua in speciali reuelatione indigerent. Si tamen ponatur hoc de nouo audire &amp; inue- 
+       <lb ed="#B" n="10"/>nire: &amp; hoc speciali reuelatione: &amp; angelus ponatur ad illam aliquid operari: dicendum est quod ope- 
+       <lb ed="#B" n="11"/>ratur consimiliter illud de nouo: secundum quod inuenit in ipsa veritate illud operandum. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1319">
+       PLus tamen 
+       <lb ed="#B" n="12"/>credo quod ad reuelationem faciendam in verbo nulla noua requiritur illuminatio: immo sufficit ad hoc illu- 
+       <lb ed="#B" n="13"/>minatio antiqua: quam verbum vt verum lumen se ingerit angelicae menti: licet non statim reuelet. quia re 
+       <lb ed="#B" n="14"/>uelatio huiusmodi dependet a voluntate reuelantis: sicut &amp; omnis alia actio circa creaturas. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1328">
+       ET sic pu 
+       <lb ed="#B" n="15"/>to dicendum quod angelus vnus nihil potest de nouo cognoscere per alterius angeli operationem de 
+       <lb ed="#B" n="16"/>nouo circa ipsum illuminando. Pont tamen per eius operationem antiquam illuminando aliquid co 
+       <lb ed="#B" n="17"/>gnoscere de nouo. Si enim aliquid operatus est secundum iam dictum modum vnus angelus ad illumi 
+       <lb ed="#B" n="18"/>nationem alterius gloriosam: &amp; per illam secundum voluntatem dei aliqua de nouo alteri reuelantur:  
+       <lb ed="#B" n="19"/>hoc necessario fit per illius operationem antiquam in illuminando. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1341">
+       SI vero angelus intelligatur ali- 
+       <lb ed="#B" n="20"/>quod contingentium de nouo cognoscere circa cognitionem naturalem ex habitu scientiali: hic est 
+       <lb ed="#B" n="21"/>vna magna dubitatio: vtrum angelus potest ignorare in propria natura quid nouit in verbo. Quia si sic 
+       <lb ed="#B" n="22"/>cum notitia talium ex reuelatione sit supra naturalem dispositionem virtutis cognitiuae angelorum 
+       <lb ed="#B" n="23"/>oportet quod ad illam fiat aliqua supernaturalis illuminatio: quam principaliter non nisi deus infundit: &amp; 
+       <lb ed="#B" n="24"/>angelus operatur dispositiue secundum modum praedeterminatum. Et secundum hoc est dicendum 
+       <lb ed="#B" n="25"/>quod vnus angelus aliquid potest de nouo cognoscere per operationem alterius angeli: illuminando  
+       <lb ed="#B" n="26"/>scilicet de nouo. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1360">
+       AVT si forte tota illuminatio fuit facta in prima glorificatione: sed nouitas co- 
+       <lb ed="#B" n="27"/>gnitionis dependet a voluntate reuelantis: tunc est dicendum quod operatione antiqua angelus vnus 
+       <lb ed="#B" n="28"/>operatus est ad cognitionem nouam alterius angeli. Si vero angelus non potenst ignorare in propria na 
+       <lb ed="#B" n="29"/>tura de talibus postquam ea nouit in verbo: tunc iudicandum est de modo huius cognitionis sicut di-  
+       <lb ed="#B" n="30"/>ctum est de illa. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1371">
+       ET si ita est: tunc potius credo quod angeli quaecunque erant inaeternum scituri sciue 
+       <lb ed="#B" n="31"/>runt a primo instanti suae glorificationis. Dico notitia speculatiua. Sed postquam talia de nouo conti- 
+       <lb ed="#B" n="32"/>gerunt in esse: tunc de nouo sciuerunt illa notitia experimentali. Aut quod omnis illuminatio ad quae-  
+       <lb ed="#B" n="33"/>cunque scienda ab antiquo facta est. Sed reuelatio fiendorum fiat per illam illuminationis dispositio 
+       <lb ed="#B" n="34"/>nem praeuenientem: quia ipsa non necessario inducit notitiam reuelandorum: eo quod, sicut dictum est, re- 
+       <lb ed="#B" n="35"/>uelatio dependet a voluntate reuelantis. Et hoc quo ad superiores a deo immediate secundum no 
+       <lb ed="#B" n="36"/>titiam quam habent in verbo: quo ad inferiores autem per superiores: &amp; secundum notitiam quam ha 
+       <lb ed="#B" n="37"/>bent in propria natura. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1389">
+       ET huic magis concordat textus prophetalis iuxta expositionem catho 
+       <lb ed="#B" n="38"/>licorum: qui non de nouitate illuminationis: sed doctrinae &amp; reuelationis faciunt mentionem. Vn- 
+       <lb ed="#B" n="39"/>de &amp; de tali reuelatione de nouo facta a deo immediate angelis superioribus habetur Esa. lxiii. vbi 
+       <lb ed="#B" n="40"/>primo proponitur eorum interrogatio ignorantiam eorum insinuans: &amp; dicitur. Quis est iste qui  
+       <lb ed="#B" n="41"/>venit de Edom &amp;c. Et subditur Christi doctrinalis responsio. Ego qui loquor iustitiam &amp; pro- 
+       <lb ed="#B" n="42"/>pugnator ad saluandum. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1402">
+       QVod exponens Dionysius secundum Amb. cap. vii. Angelicae hierar. 
+       <lb ed="#B" n="43"/>dicit quod Theologi introducunt quosdam hierarchiarum apud lesum Christum quaerentes: &amp; eos 
+       <lb ed="#B" n="44"/>ipsum lesum immediate docentem. Ego inquit disputo iustitiam &amp; iudicium salutaris. Et quod illam in  
+       <lb ed="#B" n="45"/>terrogationem ex ignorantia &amp; desiderio sciendi fecerunt superiores iam illuminati, declarat sub- 
+       <lb ed="#B" n="46"/>dens. Miror autem quia &amp; caelestium essentiarum primae &amp; tantum simul omnes supereminentes 
+       <lb ed="#B" n="47"/>diuinis illuminationibus &amp;c. Vnde vt dicit ibidem Dionysius, non primo interrogant lesum 
+       <lb ed="#B" n="48"/>quare rubrum est vestimentum tuum: sed apud se primo deliberant ante interrogare ostendentes 
+       <lb ed="#B" n="49"/>quod discunt, &amp; deificam scientiam appetunt. Super quod dicit Hugo. Sciendum est quod haec quae-  
+       <lb ed="#B" n="50"/>stio non doctrinae inquisitio est: sed ignorantiae professio: &amp; quia doceri opus habent. Quaerunt er- 
+       <lb ed="#B" n="51"/>go intra se docendi supra se: nec audent interrogare quousque se offerat dicens. Ego qui loquor iusti- 
+       <lb ed="#B" n="52"/>tiam. Tunc demum assumpta fiducia ad ipsum quaestionem dirigunt: quare est rubrum vestimen- 
+       <lb ed="#B" n="53"/>tum tuum &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1428">
+       ET est hic aduertendum quod illuminatio aequiuoce dicitur. Vno modo luminis infu-  
+       <!--409.xml-->
+       <pb ed="#B" n="184-v"/>
+        <lb ed="#B" n="1"/>sio quo angeli mens disponitur &amp; eleuatur ad accipiendam scientiam per reuelationem. Alio vero 
+       <lb ed="#B" n="2"/>modo appellatur illuminatio ipsius scientiae assumptio. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1439">
+       PRImam intelligimus illuminationem pro  
+       <lb ed="#B" n="3"/>prie dictam: quae distinguitur contra locutionem. de qua Dionysius subdit. Num ergo prima caelesti- 
+       <lb ed="#B" n="4"/>um intellectuum Hierarchia ab ipso persectionis principe sanctificata: extenditur sanctissima pur- 
+       <lb ed="#B" n="5"/>gatione: Multo lumine ante perfecta consummatione porportionabiliter eam implens purgatur &amp; 
+       <lb ed="#B" n="6"/>illuminatur atque perficitur: omni quidem ignoratione pura: primi vero luminis plena: &amp; primo 
+       <lb ed="#B" n="7"/>data cognitione: &amp; scientia participans perfecta. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1453">
+       SEcundam vero illuminationem intelligimus 
+       <lb ed="#B" n="8"/>minus proprie dictam: sed potius locutionis: de qua subdit Dionysius comprehendens. Et hoc di-  
+       <lb ed="#B" n="9"/>xerim fortassis non immerito: quia purgatio est &amp; illuminatio &amp; perfectio diuinae scientiae assum- 
+       <lb ed="#B" n="10"/>ptio. Vt non dicamus secundum quod Hugo exponit, istam secundam clausulam esse expositoriam 
+       <lb ed="#B" n="11"/>praecedentis: sed vt per has duas clausulas duo genera illuminationum, perfectionum, &amp; purgatio- 
+       <lb ed="#B" n="12"/>num intelligamus: in angelis etiam supremis vnam per ipsum lumen proprie dictum: siue sit ipsum 
+       <lb ed="#B" n="13"/>lumen diuinae essentiae siue lumen gloriae: quod datum est ab initio glorificationis: &amp; per quod statim 
+       <lb ed="#B" n="14"/>facta sunt illuminatio, perfectio, &amp; purgatio, quae ad essentialem beatitudinem pertinent. Vnde signam 
+       <lb ed="#B" n="15"/>ter dicit in prima clausula: Multo lumine ante perfecta consummatione: &amp; primi luminis plena: &amp; primo 
+       <lb ed="#B" n="16"/>data cognitione: vt per hoc intelligat aliam sequentem perfectionem post secundo lumine &amp; secun 
+       <lb ed="#B" n="17"/>da cognitione: quae sit lumine scientiae habitae per reuelationem. Vbi dicit fortassis: quia non est ita 
+       <lb ed="#B" n="18"/>certum quod ista secunda illuminatio non sit simul facta cum prima: sicut est de illa prima quod ab initio 
+       <lb ed="#B" n="19"/>sit facta. Ita quod lumen illud proprie dictum illuminat, perficit, &amp; purgat proportionabiliter quemlibet 
+       <lb ed="#B" n="20"/>angelorum per scientiam quam confert pertinentem ad beatitudinem essentialem: quam totam simul 
+       <lb ed="#B" n="21"/>habuerunt: quam habituri sunt inaeternum. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1486">
+       VNde de tali eorum scientia praemisit Dionysius in  
+       <lb ed="#B" n="22"/>eodem cap. Perfectas autem similiter non vt sacra varietate analvticam scientiam illuminatas: sed vt prima 
+       <lb ed="#B" n="23"/>&amp; supereminente deificatione repletas secundum excellentissimam quantum in angelis diuinorum  
+       <lb ed="#B" n="24"/>operum scientiam. Vbi dicit Hugo. Perfectas aestimandum est: non tamen quasi illuminatas 
+       <lb ed="#B" n="25"/>siue eruditas scientiam analyticam, hoc est resolutoriam sacra varietateid est multiplici doctrina, sicut 
+       <lb ed="#B" n="26"/>homines multiplici sermone erudiuntur: sed per simplicem intus contemplationem illumina-  
+       <lb ed="#B" n="27"/>ti acceperunt vt ab eorum cognitione nihil eorum quae scire possunt abscondatur: lumen ve- 
+       <lb ed="#B" n="28"/>ro illud scientiae superadditae illuminet purget &amp; perficiat quo ad illa quae pertinent ad accidenta-  
+       <lb ed="#B" n="29"/>lem beatitudinem. Vnde Dionysius post illam clausulam comprehendens, &amp; hoc exponens quo  
+       <lb ed="#B" n="30"/>modo haec scientia superaddita purgat, illuminat, &amp; perficit, dicit sic. Ignorantiam quidem vt pote 
+       <lb ed="#B" n="31"/>purgans secundum ordinem indita scientia perfectorum doctrina. Illuminans autem ipsa diuina cogniti- 
+       <lb ed="#B" n="32"/>one: per quam &amp; purgat non prius contemplantem quam manifestat per altiorem illuminationem: &amp; per 
+       <lb ed="#B" n="33"/>ficiens iterum ipso lumine secundum habitum scientiarum lucidissimarum doctrinarum. Et per 
+       <lb ed="#B" n="34"/>huiusmodi scientiam dicitur fieri purgatio inquantum remouet praecedentem ignorantiam: &amp; ista 
+       <lb ed="#B" n="35"/>scientia dicitur doctrina: quia instructione spiritualis reuelationis habetur post praecedentem igno  
+       <lb ed="#B" n="36"/>rantiam: &amp; ideo dicitur indita secundum ordinem. Vnde &amp; subdit seipsum exponens. Per quam  
+       <lb ed="#B" n="37"/>&amp; purgat non prius contemplantem. Dicitur autem scientia perfectorum: quia illorum quae na-  
+       <lb ed="#B" n="38"/>turaliter sciri non possunt: vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1525">
+       VNde quia etiam ista scientia est post illam qua sciun 
+       <lb ed="#B" n="39"/>tur naturaliter cognoscenda: ideo etiam dicitur, Secundum ordinem: licet Hugo aliter hoc expo- 
+       <lb ed="#B" n="40"/>nat. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1532">
+       DIcitur autem illa scientia fieri illuminatio, inquantum dat diuinorum secretorum co- 
+       <lb ed="#B" n="41"/>gnitionem: &amp; ideo merito illuminatio per istam scientiam altior est quam illa: &amp; perficere secun- 
+       <lb ed="#B" n="42"/>dum habitum lucidissimarum doctrinarum. De illuminatione vero tali de nouo facta angelis se- 
+       <lb ed="#B" n="43"/>cundis per primos expresse Dionysius dicit capitulo septimo sic inquiens. Theologi aperte de-  
+       <lb ed="#B" n="44"/>clarant suppositas quidem caelestium essentiarum dispositiones super firmatis ordinate erudiri 
+       <lb ed="#B" n="45"/>deificas scientias: omnium vero altiores ab ipsa diuinitate quantum fas est doctrinam illumina-  
+       <lb ed="#B" n="46"/>ri. Illuminatio superiorum immediate a deo: iam exposita est secundum Dionysii exempla. De il- 
+       <lb ed="#B" n="47"/>luminatione vero doctrinali inferiorum per superiores inducit Dionysius exemplum Psalmistae 
+       <lb ed="#B" n="48"/>dicens. Quasdam enim earum introducunt a prioribus sacre eruditas: dominum esse caelestium 
+       <lb ed="#B" n="49"/>virtutum &amp; regem gloriae in caelum humanitus receptum. vbi dicit Hugo. Saluatore secun- 
+       <lb ed="#B" n="50"/>dum carnem acceptam ascendente in caelum quibusdam angelorum eius exaltationem adhuc 
+       <lb ed="#B" n="51"/>ignorantibus atque ideo admirantibus &amp; dicentibus: Quis est iste rex gloriae. Ab aliis autem 
+       <lb ed="#B" n="52"/>illuminatis dictum est. Dominus virtutum ipse est rex gloriae. Et erat ista dictio eorum locu- 
+       <lb ed="#B" n="53"/>tio secundum praeexpositum modum. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1563">
+       CIRCA nouitatem autem locutionis: &amp; hoc solum 
+       <!--410.xml-->
+       <pb ed="#B" n="185-r"/>
+        <lb ed="#B" n="1"/>circa quartum praedictorum modorum scientiae: circa quam solum ponimus locutionem, vt praedictum est, Scien 
+       <lb ed="#B" n="2"/>dum quod si omnia scienda omnibus angelis a principio sunt reuelata in verbo, &amp; in habitu notitiae naturalis com 
+       <lb ed="#B" n="3"/>creatae: tunc angelus, proprie nihil agit de nouo circa angelum loquendo quo de nouo aliquid cognoscat 
+       <lb ed="#B" n="4"/>&amp; hoc ad instructionem etiam, nisi ad admirationem, &amp; ad diuinae laudis prouocationem. Si ergo angeli in  
+       <lb ed="#B" n="5"/>feriores ab initio singula non sciuerunt: sed de contingentibus reseruabantur eis quaedam suis tem- 
+       <lb ed="#B" n="6"/>poribus per reuelationem scienda: ista reuelatio intelligitur fienda in verbo, sicut solus deus reue- 
+       <lb ed="#B" n="7"/>lat aliquid de nouo angelo loquendo, vt aliquid de nouo cognoscat. Quantum vero ad reuelationem 
+       <lb ed="#B" n="8"/>faciendam circa notitiam extra verbum, sic angelus superior secundum praedicta agit loquendo de 
+       <lb ed="#B" n="9"/>nouo angelo inferiori secundum modum praedeterminatum, vt aliquid ipse cognoscat de nouo. 
+      </p>
+      <p xml:id="n3av8a-c1e1970-d1e1589">
+       PER iam di 
+       <lb ed="#B" n="10"/>cta patet responsio ad obiectum in contrarium determinatis. Si vnus angelus agat aliquid loquendo vel 
+       <lb ed="#B" n="11"/>illuminando in alium vt cognoscat aliquid de nouo, tunc vnus aliquid ab alio reciperet quod ille in eo age 
+       <lb ed="#B" n="12"/>ret &amp; causaret. Dicendum quod verum est in illuminatione ipsum secundum aliquam dispositionem secundum  
+       <lb ed="#B" n="13"/>virtutem alterando, vt expositum est. Et similiter in locutione non agendo aliquid in illum per se &amp; immedia 
+       <lb ed="#B" n="14"/>te: sed in se locutionis conceptum nouum formando: quo tanquam aliquo existente in rerum natura secundum 
+       <lb ed="#B" n="15"/>se &amp; positiue immutatur intellectus alterius angeli non solum ad illud percipiendum tanquam rem aliquam secun 
+       <lb ed="#B" n="16"/>dum se, sed tanquam signum conceptus latentis: quemadmodum verbum nostrum vocale concipitur tanquam signum verbi 
+       <lb ed="#B" n="17"/>mentalis latentis. Et quod assumitur quod vnus angelus non potest agere in alium lumen intellectuale, aut 
+       <lb ed="#B" n="18"/>speciem aliquam: Dicendum secundum praedicta: quod etsi lumen intellectuale non possit agere in ipsum  
+       <lb ed="#B" n="19"/>effectiue lumen infundendo: potest tamen dispositiue illud efficiendo. quo facto lumen a deo effecti 
+       <lb ed="#B" n="20"/>ue recipitur, vt est praeexpositum. Quia similiter assumitur quod non potest agere praesentiam obiecti, quia angelus illam na 
+       <lb ed="#B" n="21"/>turaliter habet, quod pertinet ad locutionem: Dicendum quod licet ex habitu scientiae habeat naturaliter ob- 
+       <lb ed="#B" n="22"/>iecta praesentia ad cognitionem naturalem: non tamen ad cognitionem contingentium scibilium sola reuelatione 
+       <lb ed="#B" n="23"/>secundum quod plane patet ex supradeterminatis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

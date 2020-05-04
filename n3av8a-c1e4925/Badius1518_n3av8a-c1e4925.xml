@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 21</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 21</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="498-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4925">
+       <head xml:id="n3av8a-c1e4925-Hd1e96">Quaestio 21</head>
+       <p xml:id="n3av8a-c1e4925-d1e99">
+        <lb ed="#B" n="48"/>CIrca Septimum arguitur: quod non licet ecclesiae dare certam summam pecuniae ad terras 
+       <lb ed="#B" n="49"/>emendas vt detur illi certa summa pecuniae reddituum ad vitam suam: quia non licet eme 
+       <lb ed="#B" n="50"/>e redditus ad vitam. 
+      </p>
+      <p xml:id="n3av8a-c1e4925-d1e108">
+       IN contrarium est consuetudo. Dico quod bene licitum: st quod quisque  
+       <lb ed="#B" n="51"/>haereditatem suam precariae det ecclesiae secundum quod dictat concilium: sic dicens. x. qui. ii. Preca 
+       <lb ed="#B" n="52"/>riae a nemine de rebus ecclesia sticis fieri praesumantur nisi quantum de quantitate datur ex 
+       <lb ed="#B" n="53"/>proprio, duplum accipiant de rebus ecclesiae in suo tantum qui dederunt nomine: si res, proprias 
+       <lb ed="#B" n="54"/>&amp; ecclesiasticas fructuario vsu tenere voluerit. Si autem res, proprias ad praesens dimi- 
+       <!--1036.xml-->
+       <pb ed="#B" n="498-r"/>
+        <lb ed="#B" n="1"/>serint, ex rebus ecclesiae triplum fructuario vsu in suo tantum quisque nomine sumat. vbi dicit Glos. Precariae 
+       <lb ed="#B" n="2"/>hic dicuntur quaedam praestationes vsus rerum in recompensatione eius proprietatis quae datur ecclesiae duplum. Glos. videtur 
+       <lb ed="#B" n="3"/>contradicere supra eodem. Si oeconomus. vbi dicitur quod tantundem debet dari. sed lex illa benignior est canone.  
+       <lb ed="#B" n="4"/>Si autem sic licet quemquam haereditatem suam dare ecclesiae: &amp; illam fructuario vsu retinere ad vitam suam: &amp; cum 
+       <lb ed="#B" n="5"/>hoc duplum de rebus ecclesiae, aut triplum, aut tantundem: multo fortius licet rem suam quam dedit ecclesiae 
+       <lb ed="#B" n="6"/>vsu fructuario retinere, aut eam ad praesens dimittere: &amp; in ea vsufructum quantum valet retinere: eccle 
+       <lb ed="#B" n="7"/>sia quae illam haereditatem recipit se &amp; sua obligante ad tantundem ei annuatim soluendum. Quia ergo perinde 
+       <lb ed="#B" n="8"/>est pecuniam dare ecclesiae ad terras &amp; possessiones siue haereditates emendas vt detur certa summa pecu 
+       <lb ed="#B" n="9"/>niae, siue redditus ad vitam: &amp; dare haereditatem quam modo quis possidet &amp; seruare in vsufructum certam 
+       <lb ed="#B" n="10"/>summam pecuniae siue redditus ad vitam ab ecclesia accipiendi: Dico quod bene licet dare ecclesiae &amp;c. secundum  
+       <lb ed="#B" n="11"/>quod tenet consuetudo ecclesiae, vt dicit secunda ratio. 
+      </p>
+      <p xml:id="n3av8a-c1e4925-d1e147">
+       AD primam quae est in oppositum: quod non licet emere red  
+       <lb ed="#B" n="12"/>ditus ad vitam: Dico quod redditus ad vitam dupliciter possunt acquiri. Vno modo ex iure sibi debito. &amp; hoc 
+       <lb ed="#B" n="13"/>vel reseruando sibi vsufructum ad vitam suam pro haereditate, &amp; pro ipso vsufructu accipiendo certam summam 
+       <lb ed="#B" n="14"/>pecuniae ab illo in quem translata est haereditas: vel ex aliquo alio iusto titulo: quod bene licet, vt patet ex 
+       <lb ed="#B" n="15"/>iam dictis in illo qui sibi ius in haereditate sua reseruauit. lste enim non solum habet redditus ad vitam suam: sed  
+       <lb ed="#B" n="16"/>etiam habet ius percipiendi illos redditus: quia de suo sibi reseruato habet illos, quae ambo continentur: in vsufru 
+       <lb ed="#B" n="17"/>ctu. Vlterius autem quod iste habet in vsufructu que scilicet reseruauit: &amp; quo ad redditus, &amp; quo ad ius percipiem 
+       <lb ed="#B" n="18"/>di redditus: bene potest alteri vendere: qui ipso vendente vera emptione emit redditus ad vitam vel 
+       <lb ed="#B" n="19"/>ipsius qui vendit: vel si placuerit &amp; expediens &amp; rationabile videbitur tenenti haereditatem, ad vitam illius qui emit 
+       <lb ed="#B" n="20"/>commutando vitam in vitam: sed non emit solos redditus, sed emit etiam ius quod ille habuit &amp; retinuit sibi in  
+       <lb ed="#B" n="21"/>haereditate quam ab initio dedit: sine quo iure empto redditus emi ad vitam nullatenus (uvt puto) pos 
+       <lb ed="#B" n="22"/>sent. Et ex hoc perinde est in tali emente ac si ipse ab initio haereditatem illam dedisset ecclesiae, &amp; sibi reser 
+       <lb ed="#B" n="23"/>uasset vsufructum ad certam summam pecuniae annuatim: sicut fecit ille a quo ipse redditus illos emit. 
+       <lb ed="#B" n="24"/>Et sicut in talibus est de redditibus ad vitam: sic est de redditibus perpetuis. Sicut enim potest aliquis haeredi 
+       <lb ed="#B" n="25"/>tatem suam dare ecclesiae &amp; reseruare sibi aliquam portionem redditus ad vitam sibi tradendi ab ecclesia: sic 
+       <lb ed="#B" n="26"/>pont sibi reseruare aliquam portionem in redditibus perpetuis reddendis ab ecclesia: licet forte minorem quam sibi 
+       <lb ed="#B" n="27"/>reseruat ad vitam. Quare &amp; eadem ratione quae prius potest iste &amp; redditus &amp; ius percipiendi illos alteri vendere: &amp; il 
+       <lb ed="#B" n="28"/>le pont vtrumque licite emere: vt secundum hoc eo modo quo licet emere redditus ad vitam sm iam dictum modum, esnt 
+       <lb ed="#B" n="29"/>licet emere redditus perpetuos. Et sicut licitum est acquirere redditus ad vitam &amp; perpetuos vt ex iure sibi debi- 
+       <lb ed="#B" n="30"/>to ex reseruatione pro propria haereditate secundum iam dictum modum: consimiliter licet acquirere redditus ad vitam &amp; est 
+       <lb ed="#B" n="31"/>perpetuos ex iure sibi debito alio iusto titulo. lusto puta pro debito iure seruitii impensi: vel pure liberaliter 
+       <lb ed="#B" n="32"/>puta rex potest dare alicui pro seruitio ei impenso vel pure liberaliter. x. libras supra castelletum: quam sibi de iure 
+       <lb ed="#B" n="33"/>competunt: vel est potest tantundem, vel pilus aut minus alicui dare de bursa sua recipiendum: vel ad vitam vel ad perpe 
+       <lb ed="#B" n="34"/>tuum, ad hoc solummo obligando sicut ad seruitium personam suam &amp; personas successorum suorum, &amp; omnia bona sua, 
+       <lb ed="#B" n="35"/>&amp; illorum mobilia &amp; immobilia nunc existentia &amp; in futurum prouentura: vel partem illorum: quae etiam posset consimili 
+       <lb ed="#B" n="36"/>modo vendere. &amp; sic dando talia non dat pecuniam principaliter quae est res quaedam corporalis, sed potius 
+       <lb ed="#B" n="37"/>ius percipiendi pecuniam quod est res incorporalis: fundata tamen super rem corporalem obligatam &amp; ordinatam ad  
+       <lb ed="#B" n="38"/>rem corporalem percipiendam ratione illius iuris a re corporali obligata pro illo: &amp; vendendo talia non vendit 
+       <lb ed="#B" n="39"/>pecuniam principaliter, sed potius ius percipiendi pecuniam. In qua venditione nulla sit translatio rei cor 
+       <lb ed="#B" n="40"/>poralis a vendente in ementem: est tamen in ea translatio a vendente in ementem rei incorporalis fundatae  
+       <lb ed="#B" n="41"/>super rem corporalem puta super personam regis &amp; successorum eius: aut haereditatem aliquam illius: &amp; ordi 
+       <lb ed="#B" n="42"/>natae ad percipiendum aliam rem corporalem puta pecuniam: ad cuius solutionem obligantur personae regum aut bona 
+       <lb ed="#B" n="43"/>ipsorum. Vlterius autem ille cui datum est tale ius a rege seu venditum aut a quocumque alio, potest illud ius datum  
+       <lb ed="#B" n="44"/>vel emptum alteri dare vel vendere: scilicet secundum praedictum modum. Alio autem modo possunt acquiri red- 
+       <lb ed="#B" n="45"/>ditus ad vitam non sibi reseruando ius in haereditate, propria: quam aut libere contulit aut vendidit: nec 
+       <lb ed="#B" n="46"/>emendo ipsos cum iure illo quid habuit vendens in dictam haereditatem: nec recipiendo tale ius ex dono al  
+       <lb ed="#B" n="47"/>terius iam dicto modo: &amp; sic ex iusto titulo: sed absque omni reseruatione &amp; absque omni dono sibi fa 
+       <lb ed="#B" n="48"/>cto aut emptione secundum iam dictum modum facta. secundum quem modum alias determinauimus omnino illicitum 
+       <lb ed="#B" n="49"/>esse emere redditus ad vitam aut perpetuos, puta quando aliquis habet pecuniam &amp; dat communitati tantummo 
+       <lb ed="#B" n="50"/>do vt recipiat ab illa annuatim ad vitam suam vel perpetuo certam summam pecuniae annuatim sumendam  
+       <lb ed="#B" n="51"/>Est enim in illa acquisitione vera species vsurae quae certa est. Hoc declarandum est secundum quod alias de-  
+       <lb ed="#B" n="52"/>clarauimus. i. Quolibet, quaestione. xxxix. &amp;. viii. Quolibet, quaestione. xxiiii. Est igitur sciendum: quod si aliquis 
+       <lb ed="#B" n="53"/>habeat. xx. solidos Parit. videlicet vnam libram: &amp; mutuauerit proximo suo eam sub tali conditione si 
+       <lb ed="#B" n="54"/>ue pactione, quod quousque voluerit eam retinere dabit sibi aut haeredibus suis vnum denarium  
+       <!--1037.xml-->
+       <pb ed="#B" n="498-v"/>
+        <lb ed="#B" n="1"/>Parifien. in qualibet septimana: &amp; cum non voluerit libram illam diutius retinere: integre eam restituetr: 
+       <lb ed="#B" n="2"/>planum est quod sit plana vsura. Item si mutuauerit eam illi vsque ad annum sub tali conditione quod si volue 
+       <lb ed="#B" n="3"/>rit eam diutius tenere sub eodem pacto quod dabit sibi vel haeredibus suis cum forte in fine anni. lii. dena. Pa 
+       <lb ed="#B" n="4"/>ritu, quod est tantundem ac si pro qualibet septimana accepisset. i. dena, paritu. quia. lii. septimanae sunt in anno 
+       <lb ed="#B" n="5"/>&amp; sic de singulis annis vlterioribus quibus illam libram retinuerit: adhuc plana vsura est. Item si di  
+       <lb ed="#B" n="6"/>cat ille: mutuo tibi libram meam vsque ad annum vt qualibet septimana reddas mihi vnum denarium parif. 
+       <lb ed="#B" n="7"/>sub tali conditione quod si moriar infra annum: tota fors tua sit, nihilque restituere debeas haeredibus me 
+       <lb ed="#B" n="8"/>is: adhuc non puto aliquem rationalem esse virum qui non dicat quod iste in contractu suo sola spe recipiendi vltra 
+       <lb ed="#B" n="9"/>fortem committit vsuram. Quid ergo: numquid si iste dicat, mutuo tibi libram meam vt qualibet se- 
+       <lb ed="#B" n="10"/>ptimana reddas mihi vnum denarium parisien sem quousque vixero sub tali conditione quod cum mortuus fu 
+       <lb ed="#B" n="11"/>ero tota fors tua sit, nihilque restituere debebis haeredibus meis: numquid inquam plana vsura est: Puto 
+       <lb ed="#B" n="12"/>vtique quod sic. Si enim vsura sit recipiendo in vnico anno. lii. denarios amissa tota residua forte per mortem 
+       <lb ed="#B" n="13"/>in fine anni: &amp; hoc ex sola spe recipiendi amplius: multo ergo fortius vsura est recipiendo per quaedra 
+       <lb ed="#B" n="14"/>ginta annos quadragies. lii. denarios: qui in summa sunt quatuor librae. xiii. solidi &amp; quatuor dena 
+       <lb ed="#B" n="15"/>rii parisienses. vbi vltra fortem excrescunt. lxxiii. solidi &amp; quatuor denarii. Quia si ab initio pactio fieret 
+       <lb ed="#B" n="16"/>quod per se &amp; per haeredes suos in perpetuum mutuando vnam libram reciperet qualibet septimana vnum de 
+       <lb ed="#B" n="17"/>narium, vel quolibet anno. lii. denarios: adhuc esset maior vsura quae procederet vltra fortem secundum cre 
+       <lb ed="#B" n="18"/>mentum in infinitum. Nec in aliqua conventione tali aliquid potest accipi vltra fortem: quaere nec ius ali- 
+       <lb ed="#B" n="19"/>quod in conuentione emitur aut emi potest, licet emi simulatur: quemadmodum nec vsurarius si dicat 
+       <lb ed="#B" n="20"/>pauperi petenti sibi super vadiolum suum mutuari. xii. denarios: mutuabo tibi. xii. denarios: sed nolo  
+       <lb ed="#B" n="21"/>habere in re ius accipiendi vnum denarium praeter fortem in qualibet hebdomada quousque illos. xii. dena 
+       <lb ed="#B" n="22"/>rios tenere volueris. Et sic in tali mutuo vbi nihil praeter fortem potest accipi non est venditio aut emptio 
+       <lb ed="#B" n="23"/>sed solummodo esse fingitur: secundum quod alias latius declarauimus. Et sic velite verum est quod secundum modum  
+       <lb ed="#B" n="24"/>quo licet emere redditus perpetuos, etiam secundum eundem modum licet emere redditus ad vitam: &amp; secun 
+       <lb ed="#B" n="25"/>dum modum quo non licet emere redditus ad vitam: nec redditus perpetuos &amp; econuerso. Et sic licet verum sit 
+       <lb ed="#B" n="26"/>quod ius incorporale recipiendi aliquam pecuniae summam quae est aliud ab ipsa pecunia quae est res corporalis, &amp; 
+       <lb ed="#B" n="27"/>ratione illius iuris potest percipi summa pecuniae vel ad vitam vel ad tempus determinatum, vel ad perpetuum 
+       <lb ed="#B" n="28"/>&amp; possit vendi vel emi licite: vendi tamen &amp; emi non potest licite mediante nuda pecunia immediate data 
+       <lb ed="#B" n="29"/>sed solummo mediante liberalitate concedentis ius, aut seruitio vel fundo dato vel aliqua re huiusmodi a reci 
+       <lb ed="#B" n="30"/>piente: aliter enim non esset iustus titulus acquirendi ius.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

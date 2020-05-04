@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="568-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5398">
+       <head xml:id="n3av8a-c1e5398-Hd1e96">Quaestio 8</head>
+       <p xml:id="n3av8a-c1e5398-d1e99">
+        <lb ed="#B" n="16"/>Equuntur pertinentia specialiter ad statum meriti &amp; demeriti hominium in praesenti. Vbi 
+       <lb ed="#B" n="17"/>primo quaerebatur de agibilibus, in quibus cadunt meritum &amp; demeritum. Deinde de 
+       <lb ed="#B" n="18"/>demerito in quibusdam peccatis commisso. Tertio de quibusdam poenis pro demerito peccati. 
+       <lb ed="#B" n="19"/>
+      </p>
+      <p xml:id="n3av8a-c1e5398-d1e110">
+       CIRca primum primo quaerebantur duo circa statuta superiorum: deinde quaerebantur alia 
+       <lb ed="#B" n="20"/>duo circa, propria facta priuatarum personarum. Quorum primum erat de statutis positis in  
+       <lb ed="#B" n="21"/>illis quae sunt ad communem vtilitatem, qualia reuera ipsi statuere possunt, vtrum quisque sub 
+       <lb ed="#B" n="22"/>ditus statuta teneatur seruare, licet non sit euidens quod ad communem vtilitatem expediant 
+       <lb ed="#B" n="23"/>Secundum erat de interdictis, vtrum interdicta generalia in prouinciis, ciuitatibus, aut ecclesiis sint li- 
+       <lb ed="#B" n="24"/>cita. Tertium erat, Vtrum subditus cognoscens quod praelatus suus ex rancore ipsum punire intendit, de 
+       <lb ed="#B" n="25"/>beat ei obedire. Quartum erat, Vtrum is cui sufficienter prouisum est vnde secundum statum suum pos 
+       <lb ed="#B" n="26"/>sit sustentari, teneatur receptum in eleemosynam titulo paupertatis restituere largitori. 
+      </p>
+      <p xml:id="n3av8a-c1e5398-d1e128">
+       CIRca primum isto 
+       <lb ed="#B" n="27"/>rum arguitur, quod subditi tenentur seruare statutum superioris in eis quae sunt ad communem vtilitatem, licet non 
+       <lb ed="#B" n="28"/>sit euidens, sic. qua ratione tenentur seruare vnum ex talibus statutis, eadem ratione &amp; quodlibet aliquae  
+       <lb ed="#B" n="29"/>Aut ergo nullum talium tenentur seruare, aut quodlibet. Non nuilum: ergo quodlibet. Item talia 
+       <lb ed="#B" n="30"/>statuta sunt opera virtutis. In operibus autem virtutis subditi tenentur obedire superiori. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5398-d1e139">
+       CON 
+       <lb ed="#B" n="31"/>tra. subditi non tenentur obedire superiori in eis quae non pertinent ad speciale votum eorum nisi sint de necessitate  
+       <lb ed="#B" n="32"/>salutis, quia aliter nulla esset differentia obligationis ad ista quae cadunt sub voto, &amp; ad quaecunque alia quae non 
+       <lb ed="#B" n="33"/>cadunt sub voto. talia autem statuta non pertinent ad aliquod speciale votum subditorum, nec sunt 
+       <lb ed="#B" n="34"/>de necessitate salutis. ergo &amp;c. Item si ad talia statuta obseruanda tenerentur, cum soluere decimam 
+       <lb ed="#B" n="35"/>omnium bonorum de ratione talium statutorum sit, possent ergo principes statuere super laicos quod  
+       <lb ed="#B" n="36"/>soluerent eis decimam omnium bonorum suorum, &amp; illi tenerentur: sicut dominus papa hoc statuit super clericos soluen 
+       <lb ed="#B" n="37"/>tes decimas. hoc autem videtur inconueniens &amp; graue. ergo &amp;c. Item si talia possent statuere, tunc per su 
+       <lb ed="#B" n="38"/>periorum statuta laicis auferretur potestas disponendi de rebus suis pro voluntate, quod similiter videtur in  
+       <lb ed="#B" n="39"/>conueniens. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5398-d1e162">
+       DIco quod finis superiorum principum vel praelatorum debet esse pax &amp; salus reipublicae 
+       <lb ed="#B" n="40"/>qui etiam debet esse finis singulorum subditorum inquantum sunt partes communitatis, quem etiam tenentur 
+       <lb ed="#B" n="41"/>intendere vna cum principe, vt illum in quo consistit bonum principis, &amp; cuiuslibet etiam de conmunitate: ad  
+       <lb ed="#B" n="42"/>quem tenetur &amp; princeps &amp; quilibet de communitate referre bonum, proprium &amp; omnem suam actionem, cum opus 
+       <lb ed="#B" n="43"/>fuerit. Vt enim dicit <name ref="#Aristotle">philosophus</name> in primo Ethicorum amabile vni soli bonum: melius &amp; diuinius genti &amp; ci 
+       <lb ed="#B" n="44"/>uitatibus. Et Tullius in oratione populari ad senatum. Sic ab initio fui animatus vt non magis me 
+       <lb ed="#B" n="45"/>mea causa putarem esse natum quam reipublicae procreatum: nihil duri, nihil acerbi mihi erit quod rempublicam 
+       <lb ed="#B" n="46"/>tutabitur. Nec enim mors miseranda est quae ob rem publicam capitur: nec exercitium turpe est quod vir- 
+       <lb ed="#B" n="47"/>turae suscipitur. Nunc autem quia finis imponit necessitatem eis quae sunt ad finem, si ergo tenentur 
+       <lb ed="#B" n="48"/>intendere finem illum, etiam tenentur intendere ea quae sunt ad finem illum, &amp; operam exhibere 
+       <lb ed="#B" n="49"/>vt in finem ordinentur. Quare cum principis vel superiorum sit super talibus ordinare quae qualia 
+       <lb ed="#B" n="50"/>quando &amp; quomodo sunt necessaria ad illum finem secundum scientiam architectonicam, de qua dicit philo- 
+       <lb ed="#B" n="51"/>sophus in principio ethicorum. Quos debitum esse disciplinarum in ciuitatibus &amp; quales vnumquod 
+       <lb ed="#B" n="52"/>que addiscere &amp; vsquequo hoc praeordinat: Idcirco ergo dico quod quilibet subditus tenetur obedire sta- 
+       <lb ed="#B" n="53"/>tutis editis a superioribus super necessariis ad hunc finem, aut ad aliquid eorum sine quo finis ipse adi  
+       <lb ed="#B" n="54"/>pisci non potest, aut non commode, etiam si non sit euidens cuilibet quod statutum illudsit necessa-  
+       <!--1176.xml-->
+       <pb ed="#B" n="568-r"/>
+        <lb ed="#B" n="1"/>rium ad finem vel ad aliquid ordinatorum ad ipsum. &amp; hoc quia princeps eo quod omnium virtutum claritate debet esse par  
+       <lb ed="#B" n="2"/>spicuus super caeteros qui sunt in communitate, vt in ipso sit quodammo bonum totius communitatis &amp; eius bonum sit 
+       <lb ed="#B" n="3"/>bonum vniuscuiusque de ciuitate, a quo debet venire bonum super vnumquemque de communitate. dicente Tullio in omnio 
+       <lb ed="#B" n="4"/>ne populari ad lulium Caesarem. Illam tuam vocem Satis diu vixi, inuitus audiui: satis fortasse naturae, at quid ma 
+       <lb ed="#B" n="5"/>ximum est perimae parum. tibi satis te vixisse, credo, sed audirem si tibi soli viueres, aut si tibi soli etiam natus esses 
+       <lb ed="#B" n="6"/>omnium salutem ciuium cunctamque rempub. res tuae complexae sunt. Et sic comouniter sumendo vtilitatem princeps vtilis est 
+       <lb ed="#B" n="7"/>omnibus de communitate, &amp; secundum Auicennam primo Metaphysicae der effluxio vel profectus vel dominatio vel procuratio 
+       <lb ed="#B" n="8"/>Econtra autem subditi sunt vtiles principi vtilitate quae est pene seruitus, quae nequaquam princeps ordinatur ad alium  
+       <lb ed="#B" n="9"/>sicut neque liber homo vt habitum est supra in quaestione de libertate voluntatis &amp; intellectus: licet liber homo comoniter 
+       <lb ed="#B" n="10"/>loquendo vtilis sit aliis. Propter quod subditi debent tenere superiorum statuta in praedictis, etiam si ignorent, quod aut 
+       <lb ed="#B" n="11"/>quomodo vergant in communem vtilitatem propter dubium de hoc: quia ex confidentia de prudentia ac bonitate principis 
+       <lb ed="#B" n="12"/>ac suorum consiliariorum debent ei in hoc credere &amp; supponere quod talia sint quod vergant in publicam vti 
+       <lb ed="#B" n="13"/>litatem nisi constet de contratio, &amp; maxime ex aliis pluribus statutis consimilibus quae hactenus obseruata a sub- 
+       <lb ed="#B" n="14"/>ditis non vergebant in dictum finem, &amp; tunc ante omnia debent subditi supplicare superiori sup huiusmodi statu 
+       <lb ed="#B" n="15"/>ti reuocatione, quod si noluerit reuocare: etiam tunc nihilominus statutis superiorum obediendum est quousque in  
+       <lb ed="#B" n="16"/>statu superiori tolerantur. quod si non sit omnino spes correctionis in isto, debent subditi agere ad depositi 
+       <lb ed="#B" n="17"/>onem supioris potius quam tolerare ipsum &amp; non obedire. 
+      </p>
+      <p xml:id="n3av8a-c1e5398-d1e241">
+       PRIma duo argumenta procedunt &amp; bene supponen- 
+       <lb ed="#B" n="18"/>do de prudentia &amp; industria principis, quod vere praesumendum est ratione status. Secundum enim artem philosophi in primo Po 
+       <lb ed="#B" n="19"/>liticae, a domo procedit vicus, a vicis ciuitas, &amp; a ciuitatibus regnum. sic a regimine domus regimen vici 
+       <lb ed="#B" n="20"/>&amp; ciuitatis &amp; regni. Vt autem dicit omnis domus regitur a senissimo, quare &amp; vicus, quod intelligitur de senio men 
+       <lb ed="#B" n="21"/>tis quo quis naturaliter liber &amp; ingenuus est. Et quia quod princeps talis fuerit ab initio praesumendum est, ideo etiam  
+       <lb ed="#B" n="22"/>quod omnes progeniti successores sint tales praesumi debet. Vt enim dicit <name ref="#Aristotle">philosophus</name> in eodem, ex ambobus diui- 
+       <lb ed="#B" n="23"/>nis. i. liberis &amp; ingenuis progenitricibus radicibus quis dignificabit addicere seruum: Dignificant enim quen- 
+       <lb ed="#B" n="24"/>admodum ex homine hominem sic ex bonis bonum: natura autem vult hoc facere multotiens, &amp; tamen non potest. Non sup 
+       <lb ed="#B" n="25"/>posita autem principis industria, sed potius contrario, dum tamen adhuc esset toleratus, statuere posset &amp; ei obediem 
+       <lb ed="#B" n="26"/>dum esset, sed potius agendum ad eius depositionem quantuncumque haereditarie regnauerit a progenitoribus suis, vt de 
+       <lb ed="#B" n="27"/>positus non posset statuere, nec debitum esset ei obedire, quia non esset praesumendum quod sua statuta continerent 
+       <lb ed="#B" n="28"/>opera virtutis, quae tamen si non essent euidenter contraria virtuti, quoadusque toleraretur supior, statutis eius omni- 
+       <lb ed="#B" n="29"/>no obediendum esset. 
+      </p>
+      <p xml:id="n3av8a-c1e5398-d1e273">
+       AD primum in oppositum quod talia statuta non pertinent ad aliquod speciale votum, nec sunt 
+       <lb ed="#B" n="30"/>de necessitate salutis, quare non est obediendum eis, Dico quod pertinent ad speciale votum siue promissum communi 
+       <lb ed="#B" n="31"/>tatis &amp; singulorum in ipsa inquantum sunt partes illius, licet non inquantum sunt singulares personae potentes tanquam  
+       <lb ed="#B" n="32"/>liberi se libere transferre de communitate in communitatem prout eis placuerit, quidquidem votum siue promissum inter 
+       <lb ed="#B" n="33"/>praetatiue quilibet de communitate facit scilicet recipiendo illum in superiorem, &amp; hoc vel propria electione, vel aliquorum  
+       <lb ed="#B" n="34"/>vice omnium, vel ad prouisionem primi supioris, vel iure haereditariae successionis: etiam si nullam obedientiam ver 
+       <lb ed="#B" n="35"/>bo illi promittant, quam tamen aliquando maiores de communitate vice communitatis &amp; singulorum in illa superiori de nouo institu 
+       <lb ed="#B" n="36"/>to promittunt. Vnde multum errant commorantes incommunitatibus quae aliquo publico confilio reguntur siue in beghinasiis, si 
+       <lb ed="#B" n="37"/>ue congregationibus quibuscumque, si credant se non obligari ad tenendum publica edicta ad vtilitatem communi 
+       <lb ed="#B" n="38"/>tatis edita a superioribus suis. Ad secundum quod tunc subditi laici tenerentur soluere decimas principi sicut cle 
+       <lb ed="#B" n="39"/>rici papae: Dico quod verum est si necesse sit ad dictum finem, &amp; non solum decimam, immo medietatem, immo totum, immo 
+       <lb ed="#B" n="40"/>seipsos. Sed bene debent cauere sibi superiores quod nihil talium statuant aut exigant quin saltem euidens sit ip 
+       <lb ed="#B" n="41"/>sis quod sit ad communem vtilitatem seu publicam, non tantum ad priuatam: &amp; ponant statuta &amp; edicta tanrationabilia, 
+       <lb ed="#B" n="42"/>vt procedant ab ipsis non de potentia facti sed iuris, nec de potentia absolute, sed de potentia relata pensara 
+       <lb ed="#B" n="43"/>tionis non errante. Nec video in hoc circa clericos aut laicos respectu suorum superiorum aliquam esse diffe 
+       <lb ed="#B" n="44"/>rentiam, licet praelati clericorum eo quod nullum haereditarium ius habent in suis dignitatibus sicut principes, facilius pos 
+       <lb ed="#B" n="45"/>sunt deponi quam principes, &amp; laici nullo statuto superioris constricti liberiorem dispositionem de bonis suis 
+       <lb ed="#B" n="46"/>habent quam clerici, eo quod bona clericorum conmunicanda sunt pauperibus vltra id quid in proprios vsus assumunt, sicut 
+       <lb ed="#B" n="47"/>aliqui de numero pauperum, prout alias satis exposui. Ad tertium quod tunc subditi non possent disponere de rebus 
+       <lb ed="#B" n="48"/>suis: Dico quod verum est contra statuta superiorum: alias autem bene possent. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

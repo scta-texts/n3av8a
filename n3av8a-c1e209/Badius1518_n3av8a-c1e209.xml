@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="6-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e209">
+      <head xml:id="n3av8a-c1e209-Hd1e96">Quaestio 9</head>
+      <p xml:id="n3av8a-c1e209-d1e99">
+       <!--53.xml-->
+       <pb ed="#B" n="6-v"/>
+       <lb ed="#B" n="1"/>POst quaestiones de primo principio, &amp; de modo exitus rerum ab ipso, sequuntur quaestiones de ipsis re 
+       <lb ed="#B" n="2"/>bus secundum dictum modum ab eo productis. Et proponebatur vna quaestio de creatura in conmuni 
+       <lb ed="#B" n="3"/>&amp; in generali. Aliae vero plures de ipsa creatura in speciali. 
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e112">
+       IN generali autem erat quaestio 
+       <lb ed="#B" n="4"/>Vtrum creatura ipsa sit suum esse.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e117">
+       Ex arguebatur quod non. 
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e120">
+       PRImo, quia cum ipsa creatura sit 
+       <lb ed="#B" n="5"/>quid subsistens: si ipsa esset suum esse: ipsa esset subsistens esse. subsistens esse est esse purum 
+       <lb ed="#B" n="6"/>quod non est nisi deus. creatura ergo esset deus. hoc autem falsum est. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e128">
+       SEcundo, quia  
+       <lb ed="#B" n="7"/>si creatura non esset aliud re a suo esse: cum ipsum esse inquantum huiusmodi non est limitatum: &amp; ita infinitum  
+       <lb ed="#B" n="8"/>esset quaelibet creatura in natura sua infinita: quod falsum est, ergo &amp; primum similiter.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e135">
+       TERtio. quia si creatura non 
+       <lb ed="#B" n="9"/>est aliud re a suo esse: cum ipsum esse non potest a seipso separari, esse non posset separari a re creata: &amp; sic esset 
+       <lb ed="#B" n="10"/>omnino incorruptibilis. quid est falsum.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e142">
+       QVARto ad idem est auctoritas Boetii: quid dicit in libro de he 
+       <lb ed="#B" n="11"/>bdo. Ita diuersum est esse &amp; id quid est, quod non esset verum si idem re essent creatura &amp; esse eius. ergo &amp;c. Item 
+       <lb ed="#B" n="12"/>in eadem. Quod est, accepta essendi forma est atque consistit: sed quod accipit, aliud est re ab eo quod accipit. er 
+       <lb ed="#B" n="13"/>go &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e151">
+       ITEM in hebdomade secunda. Fit participatio cum aliquid iam est. &amp; in hebdomade. V Omne quod est par  
+       <lb ed="#B" n="14"/>ticipat eo quod est ese. vt sit ergo quod est in se, iam est aliquid ante se quod participat, hoc autem non esset nisi essent 
+       <lb ed="#B" n="15"/>diuersa re. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e158">
+       ITEM hebdomade. vi. Omni composito aliud est esse, aliud ipsum est. quod non esset 
+       <lb ed="#B" n="16"/>si idem essent re. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e163">
+       HIC primo ad excludendam falsam imaginationem de principatione esse: quia  
+       <lb ed="#B" n="17"/>prius oportet dediscere falsa: quam possint addisci vera: vt vult <name ref="#Augustine">Augustinus</name> de Aca. li. tertio: Sciendum tamen quod crea- 
+       <lb ed="#B" n="18"/>turam participare esse a deo quid est ipsum esse purum per essentiam, potest intelligi dupliciter. Vno modo intelli 
+       <lb ed="#B" n="19"/>gendo ipsam creaturae essentiam: vt aliquid subtractum: &amp; ipsum esse quo participat vt aliquid in illo receptum 
+       <lb ed="#B" n="20"/>tanquam forma quaedam essendi qua dicitur esse: ad modum quo dicitur corpus esse album recepta in se forma albedi- 
+       <lb ed="#B" n="21"/>nis, quod videntur sonare verba Boetii cum dicit. Quod est, accepta essendi forma est atque subsistit. Hoc modo in  
+       <lb ed="#B" n="22"/>telligunt creaturam participare esse illi qui dicunt quod in creaturis aliud est ipsa essentia creaturae: aliud ve- 
+       <lb ed="#B" n="23"/>ro re ipsum eius esse. Vnde dicunt quod creaturae se habent ad deum sicut aer ad solem illuminantem: vt sicut solem 
+       <lb ed="#B" n="24"/>qui est lucens per suam naturam, etiam ponamus per suam essentiam: vt non sit aliud quam ipsa lux. sed deus habet esse per 
+       <lb ed="#B" n="25"/>suam naturam &amp; essentiam: quia non est aliud nisi esse. &amp; sicut aer de se est obscurus, &amp; de sua natura non 
+       <lb ed="#B" n="26"/>est omnino particeps lucis, nisi a sole illuminetur participans per hoc lumen a sole: sic creatura de se &amp; sua 
+       <lb ed="#B" n="27"/>essentia non habet aliam rationem esse: sed est in tenebris non entitatis, nisi a deo illustretur &amp; detur ei esse su- 
+       <lb ed="#B" n="28"/>um quo participet.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e196">
+       ALIus vero est modus intelligendi creaturam participare esse intelligendo ipsam 
+       <lb ed="#B" n="29"/>essentiam creaturae: vt aliquid abstractum per intellectum indifferens ad esse &amp; non esse: quod de se est quoddam non  
+       <lb ed="#B" n="30"/>ens: habens tamen formalem ideam in deo: per quam in deo est ens quoddam antequam fiat ens in propria natura: ad mo 
+       <lb ed="#B" n="31"/>dum quo quaelibet res habet esse ens in deo: secundum illud loan i. Quod factum est in ipso vita erat. &amp; tunc sit 
+       <lb ed="#B" n="32"/>ens in actum: quando deus ipsum sua potentia facit ad similitudinem suae ideae formalis quam habet in se ipso: &amp; quod ex 
+       <lb ed="#B" n="33"/>hoc dicitur participare esse quod est eius similitudo expressa in effectu ab illo esse puro quod deus est, quae quidem similitudo 
+       <lb ed="#B" n="34"/>cadit in ipsa essentia rei: quia ipsa essentia rei inquantum est quidam effectus dei est quaedam sisitudo esse dei, non au 
+       <lb ed="#B" n="35"/>tem est ipsa similitudo dei qua esse participat creatura aliquid praeter essentiam ipsius creaturae differens re 
+       <lb ed="#B" n="36"/>ab ipsa &amp; ei impressa. Vnde errat praecedens modus intelligendi esse participari a creatura: qui non est intellectus 
+       <lb ed="#B" n="37"/>sed phantastica imaginatio. Non enim debet imaginari creaturae essentia sicut aer indifferens ad obscurita 
+       <lb ed="#B" n="38"/>tem &amp; luminositatis: sed sicut radius quidam in se natus subsistere a sole productus non necessitate naturae  
+       <lb ed="#B" n="39"/>sed libera voluntate. Vnde si sol libera voluntate posset radium per se subsistentem producere, radius ille quantum  
+       <lb ed="#B" n="40"/>est de se &amp; natura sua indifferens esset ad esse &amp; non esse: &amp; quantum esset de se esset non ens quoddam:  
+       <lb ed="#B" n="41"/>quantum autem est ex parte solis posset esse in se recipere: &amp; reciperet cum fieret in effectu a sole: &amp; esset ille ra 
+       <lb ed="#B" n="42"/>dius factus &amp; stans in se, &amp; lumen quoddam secundum suam essentiam, &amp; similitudo lucis solaris parti 
+       <lb ed="#B" n="43"/>cipans per hoc ipsa luce solis: &amp; ita esset ille radius quaedam participatio lucis solaris per suam essenti 
+       <lb ed="#B" n="44"/>am, &amp; in sua essentia non per aliquid additum suae essentiae receptum in ipsa re differens ab ipsa, sicut 
+       <lb ed="#B" n="45"/>lumen receptum in aere differt ab ipso. Et sicut est de isto radio lucis &amp; luce solis, quod participat solis lu 
+       <lb ed="#B" n="46"/>ce in eo quod est in sua essentia existens quaedam eius similitudo: sic est de creatura &amp; de deo quod ipsa par- 
+       <lb ed="#B" n="47"/>ticipat esse dei in eo quod est in sua essentia quaedam diuini esse similitudo: sicut imago sigilli si esset in  
+       <lb ed="#B" n="48"/>se subsistens extra caeram in sua essentia esset quaedam similitudo sigilli, non per aliquid additum ei. 
+       <lb ed="#B" n="49"/>Et sic in quacunque creatura esse non est aliquid re aliud ab ipsa essentia additum ei vt sit: immo ipsa 
+       <lb ed="#B" n="50"/>sua essentia qua est id quod est quaelibet creatura habet esse inquantum ipsa est effectus &amp; similitudo di  
+       <lb ed="#B" n="51"/>uini esse: vt dictum est. Nec est dubitandum in hoc magis de esse &amp; entitate rei, quam de bonitate, verita 
+       <lb ed="#B" n="52"/>te, &amp; vnitate eius. 
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e251">
+       AB eodem enim habet res esse, &amp; quod sit bona, &amp; vera, &amp; vna. &amp; hoc non nisi ex hoc 
+       <lb ed="#B" n="53"/>quod est similitudo &amp; imago quaedam in sua essentia esse dei bonitatis, veritatis, &amp; vnitatis. De bonita- 
+       <lb ed="#B" n="54"/>te eius probat hoc per intentionem Boetius in libro de Hebdomadibus. De veritate eius probat hoc, 
+       <!--54.xml-->
+       <pb ed="#B" n="7-r"/>
+       <lb ed="#B" n="1"/>August. libro de vera reli. De vno &amp; ente dicit hoc <name ref="#Aristotle">philosophus</name> aperte quarto Metaphysi. vbi vult quod in nullo 
+       <lb ed="#B" n="2"/>differt dicere homo, &amp; homo vnus, &amp; homo ens. Vbi dicit commentator. Cum dicimus homo vnus aut iste homo:  
+       <lb ed="#B" n="3"/>aut homo ens, istae dictiones conuertuntur. Et peccauit Auicenna multum cum aestimauit quod ens &amp; vnum signifi 
+       <lb ed="#B" n="4"/>cant dispositiones additas essentiae, &amp; vnum &amp; ens reducuntur ad essentiam dispositam, &amp; non sunt dispositio 
+       <lb ed="#B" n="5"/>nes additae essentiae sicut est dispositio in albo &amp; nigro. Mirum est ergo quod hoc non possunt videre quidam:  
+       <lb ed="#B" n="6"/>Theologi quod viderunt philosophi: maxime cum hoc conuincit ratio veridica.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e278">
+       PRImo. si nihil in creaturis ha  
+       <lb ed="#B" n="7"/>beret esse per suam essentiam: sed per rem additam suae essentiae: nihil in creaturis esset ens per se.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e283">
+       SEcundo. quoniam si il 
+       <lb ed="#B" n="8"/>lud esse sit res aliqua super essentiam creaturae: cum non sit dare quod sit deus, &amp; res increata: erit ergo res cre 
+       <lb ed="#B" n="9"/>ata. res autem quaelibet creata de se habet non esse: &amp; si habet esse, hoc est participatum &amp; acquisitum. Si ergo esse 
+       <lb ed="#B" n="10"/>acquisitum &amp; participatum semper aliud est in re ab eo cui acquiritur, &amp; a quo participatur, de illo esse illius rei 
+       <lb ed="#B" n="11"/>additae essentiae primae creaturae per quam habuit esse, quaero vtrum sit aliud re ab essentia illius rei cui ac- 
+       <lb ed="#B" n="12"/>quiritur. &amp; tunc aut erit procedere in infinitum, aut status erit in aliqua essentia cui acquiritur esse quod nul  
+       <lb ed="#B" n="13"/>lo modo est aliud re ab illa essentia cui acquiritur: &amp; qua ratione statur in vna essentia &amp; natura creata, 
+       <lb ed="#B" n="14"/>eadem ratione &amp; in qualibet.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e301">
+       TERtio, quoniam illud esse quod ponitur esse re aliud ab essentia, quae ipsum partici 
+       <lb ed="#B" n="15"/>pat, quaero, aut est substantia aut accidens: medium enim non est ponere nisi creatorem qui neque est substantia neque acci  
+       <lb ed="#B" n="16"/>dens praedicamenti alicuius. Et in libro Alph. de diuisione scientiarum dicitur: quod omne quod est aut est substantia. 
+       <lb ed="#B" n="17"/>aut accidens: aut creator substantiae &amp; accidentis. Sl dicas quod sit accidens: substantia ergo habet esse per 
+       <lb ed="#B" n="18"/>suum accidens: &amp; ita non per se &amp; primo: sed accidens illud per quod habet esse magis est ens per se &amp; primo. quod est. 
+       <lb ed="#B" n="19"/>contra philosophiam &amp; omnem rationem. Esto quod sit accidens: dic in quo praedicamento accidentis est. quod si attentes, no-  
+       <lb ed="#B" n="20"/>uem genera accidentium non sufficiunt tibi. Sl dicas quod est substantia: aut ergo substantia materia aut for 
+       <lb ed="#B" n="21"/>ma aut compositum: quia plures modos non habet. Sl dicas quod materia, tunc de essentia creaturae quaero an  
+       <lb ed="#B" n="22"/>sit materia an forma an compositum: &amp; habebit tunc materia materiam, aut forma habebit esse per mate 
+       <lb ed="#B" n="23"/>tiam, aut composito erit materia alia a qua habet esse: quae omnia sunt absurda. Sl dicas quod componitur, hoc non 
+       <lb ed="#B" n="24"/>pont esse: quia omnis talis substantia est per se subsistens. Sl dicas quod forma: quia ibi vis esse: aut ergo substantia 
+       <lb ed="#B" n="25"/>lis aut accidentalis. Si accidentalis: per illam non habet esse substantia vt dictum est. Si substantialis: aut est per se 
+       <lb ed="#B" n="26"/>subsistens: &amp; tunc est essentia quaedam &amp; intelligentia: quae habet esse per suam essentiam a se indifferen- 
+       <lb ed="#B" n="27"/>tem. Si vero sit alteri inhaerens &amp; informans: tunc ipsa est essentia rei vel pars essentiae quae in ipsa creatura 
+       <lb ed="#B" n="28"/>creatur. &amp; sic omnibus modis oportebit dare quod res quaelibet habet esse per suam essentiam vt esse non sit res ali 
+       <lb ed="#B" n="29"/>qua addita essentiae. 
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e336">
+       SED quid dicetur directe ad quaestionem: vtrum esse creaturae sit ipsum esse suum: Quod ipsa 
+       <lb ed="#B" n="30"/>essentia creaturae sit esse purum subsistens non est dicere: quia tale esse non est nisi deus. De quo Boetius 
+       <lb ed="#B" n="31"/>libro de Tri. quod est forma quae esse ipsum est, &amp; ex qua esse est: vbi dicit commentator id est quae non ab alio habeat 
+       <lb ed="#B" n="32"/>mutuam dictionem: &amp; quae caeteris omnibus eandem quadam extrinseca participatione communicat. Sed tamen quin  
+       <lb ed="#B" n="33"/>ipsa creatura sit esse suum: non omnino negandum est. quo ad hoc enim secundum iam ostensa necesse est con- 
+       <lb ed="#B" n="34"/>cedere quod sit esse suum: &amp; quod esse eius non est aliud re ab ipsa. 
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e350">
+       SED an recipienda sit ista praedicatio: essen 
+       <lb ed="#B" n="35"/>tia creaturae est suum esse: ad quod tendebant quaedam argumenta: de hoc potest esse dubitatio. Et est hic distinguen- 
+       <lb ed="#B" n="36"/>dum de esse secundum quod distinguit Auicenna in quinto in fine Metaphysicae suae, quod quoddam est esse rei quod habet 
+       <lb ed="#B" n="37"/>essentialiter de se: quod appellatur esse essentiae. Quoddam vero quod recipit ab alio: quod appellatur esse actualis existen 
+       <lb ed="#B" n="38"/>tiae. Primum esse habet essentia creaturae essentialiter: secundum tantum participatiue: inquantum habet formale 
+       <lb ed="#B" n="39"/>exemplar in deo. &amp; per hoc cadit sub ente quod est commune essentiale ad decem praedicamenta: quod a tali esse in con- 
+       <lb ed="#B" n="40"/>muni accepto imponitur: &amp; est illud esse rei desinitiuum quod de ipsa ante esse actuale solum habet existere in  
+       <lb ed="#B" n="41"/>mentis conceptu. de quo dicitur quod definitio est oratio indicans quid est esse. Secundum esse non ha-  
+       <lb ed="#B" n="42"/>bet creatura ex sua essentia: sed a deo: inquantum est effectus voluntatis diuinae iuxta exemplar eius 
+       <lb ed="#B" n="43"/>in mente diuina. Vnde quia istud esse non habet ex sua essentia: sed quadam extrinseca participatio-  
+       <lb ed="#B" n="44"/>ne: ideo illud esse modum accidentis habet quasi superueniens essentiae. Propter quod commentator super 
+       <lb ed="#B" n="45"/>quinto Metaphysicae: exponens differentiam vtriusque esse: dicit quod quaestio de esse vno modo pertinet ad prae 
+       <lb ed="#B" n="46"/>dictatum de genere: alio autem modo ad praedictatum de accidente. Vnde &amp; quamquam istud esse secundum redu- 
+       <lb ed="#B" n="47"/>catur ad praedicatum accidentis: quia modum accidentis habet: non tamen rem accidentis dicit: quia non  
+       <lb ed="#B" n="48"/>aduenit ipsi iam praeexistenti: sed per ipsum vt dictum est habet res existere. vnde participatio huius esse non  
+       <lb ed="#B" n="49"/>dicitur extrinseca per inhaerentiam sicut participatio veri accidentis: sed per creationis impressionem vt dictum est. 
+       <lb ed="#B" n="50"/>Vnde commentator supe illud libro de Tri. Boetii. Ex qua omne est, dicit. Non de qualibet suae essentiae proprie 
+       <lb ed="#B" n="51"/>tate dicitur est: sed ab eo qui non alieno: sed sua essentia proprie est. quoniam ex eo tanquam ex principio 
+       <lb ed="#B" n="52"/>dictio ista transumitur: vt de vnaquaque diuinae formae participatione recte dicatur est: ad modum  
+       <lb ed="#B" n="53"/>quo in caera dicitur esse forma: quam in se habet participatione impressionis a sigillo: a cuius for- 
+       <lb ed="#B" n="54"/>ma participatur, secundum quod ipse Boetius statim dictum suum declarat in simili. Si loquamur de primo 
+       <!--55.xml-->
+       <pb ed="#B" n="7-v"/>
+       <lb ed="#B" n="1"/>esse creaturae: illud sola ratione differt ab essentia creaturae, nec potest ei abesse: quia non habet illud ab  
+       <lb ed="#B" n="2"/>alio effectiue: sed solum formaliter. Vnde propter identitatem rei &amp; inseparabilem concomitantiam rationis vtriusque  
+       <lb ed="#B" n="3"/>esse scilicet talis &amp; essentiae rei: potest dici de essentia creaturae quod ipsa est suum esse participatum formaliter: li- 
+       <lb ed="#B" n="4"/>cet non effectiue: sicut de deo dicitur quod est ipsum esse simpliciter &amp; absolute non participatum neque for 
+       <lb ed="#B" n="5"/>maliter, neque effectiue. 
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e411">
+       SI vero loquamur de secundo esse creaturae: illud licet non differt re ab essentia 
+       <lb ed="#B" n="6"/>creaturae: non tamen differt ab illa sola ratione, inquantum intellectus diuersis conceptionibus capit de ea quod est: 
+       <lb ed="#B" n="7"/>&amp; quod tale quid est substantia vel accidens: sed etiam differt ab illa intentione: quia quantum ad tale esse ipsa essen 
+       <lb ed="#B" n="8"/>tia creaturae potest esse &amp; non esse. Esse enim habet inquantum alterius effectus quidem est: non esse autem habet de se. 
+       <lb ed="#B" n="9"/>&amp; in illud non esse cadit quoniam ille qui fecit quod est. conseruare desinit. &amp; ideo de tali esse non pont concedi quod  
+       <lb ed="#B" n="10"/>essentia creaturae est esse suum: quia esse essentiae nunc existens in actum potest esse non ens, sicut prius fuit 
+       <lb ed="#B" n="11"/>ens. In solo autem deo verum est quod de tali esse loquendo ipse est suum esse: &amp; in hoc excedit simplicitatem om 
+       <lb ed="#B" n="12"/>nis creaturae: vt exposuimus in aliis quaestionibus nostris: licet etiam in pluribus aliis adhuc omnem creaturae 
+       <lb ed="#B" n="13"/>simplicitatem excedat: vt non sit verendum dicere quod in creatura non differunt re esse &amp; essentia: ne nimium 
+       <lb ed="#B" n="14"/>ad dei simplicitatem creatura videatur attingere. in ipsius enim essentiae natura est inuenire compositionem cir 
+       <lb ed="#B" n="15"/>ca quamlibet creaturam: quam non caderet in diuina essentia. secundum quod dicit illa propositio Boetii de Trinitate. Di 
+       <lb ed="#B" n="16"/>uina enim substantia sine materia forma est: atque ideo vnum est: &amp; est illud quod est. reliqua autem non sunt id  
+       <lb ed="#B" n="17"/>quod sunt. Vnumquodcumque enim eorum habet esse suum ex quibus est id est ex partibus suis, &amp; est hoc atque hoc: sed non  
+       <lb ed="#B" n="18"/>hoc vel hoc singulariter. Quod quo modo exponatur, non est praesentis intentionis. sufficit autem ad praesens quod non 
+       <lb ed="#B" n="19"/>possit dici in creaturis quia essentia earum sit earum esse: quia sunt diuersa intentione licet sint idem  
+       <lb ed="#B" n="20"/>re: vt dictum est: vt clarius videmus in exemplis. Idem enim sunt omnino re: &amp; idem significant currens, cur- 
+       <lb ed="#B" n="21"/>sus, &amp; currere: lux, lucens, lucere: viuens, vita, &amp; viuere: sicut ens, essentia, &amp; esse: &amp; tamen non possum dicere 
+       <lb ed="#B" n="22"/>cursus est currere: vel lux est lucere. Similiter etiam non possum dicere: ens est suum esse: licet idem sint in re. 
+       <lb ed="#B" n="23"/>
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e453">
+       PER iam dicta patet in parte ad omnia obiecta.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e456">
+       AD primum: quod si essentia creaturae esset suum esse: esset 
+       <lb ed="#B" n="24"/>esse subsistens: dicendum quod non sequitur: nisi esset ipsum esse purum non participatum: vt patet ex dictis. &amp; hoc 
+       <lb ed="#B" n="25"/>de esse essentiae. De esse autem existentiae bene dictum est: quod esse natura non est ipsum esse: &amp; tamen quod non sit re 
+       <lb ed="#B" n="26"/>aliud.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e465">
+       AD secundum per idem patet quod non sequitur: licet esse natura sit suum esse quod non sit limitata sed  
+       <lb ed="#B" n="27"/>infinita, nisi poneretur esse ipsum purum non participatum, quod non ita est: quia omne esse quod attribuimus 
+       <lb ed="#B" n="28"/>creaturae, participatum est: vt dictum est, &amp; idec limitatum.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e472">
+       PER dicta patet etiam ad tertium, quis enim 
+       <lb ed="#B" n="29"/>esse existentiae de quo procedit argumentum, &amp; creaturae essentia non differunt re: immo essentia per hoc quod est 
+       <lb ed="#B" n="30"/>effectus creatoris habet esse nullo superaddito in re: Creatio enim vt supponimus &amp; verum est: nihil rei po 
+       <lb ed="#B" n="31"/>nit in creato: nisi respectum ad creatorem: tamen quia aduenit ab extrinseco essentiae rei non iam existenti: sed per  
+       <lb ed="#B" n="32"/>hoc quod sit effectus creatoris, esse recipienti: &amp; per hoc etiam habet modum accidentis vt dictum est: be- 
+       <lb ed="#B" n="33"/>ne potest ab ipsa essentia separari: ne extra in actu existat, sit tamen in se essentia quaedam ab intellectum concepta 
+       <lb ed="#B" n="34"/>inquantum habet rationem exemplarem per quam nata est fieri effectus creatoris. qua concepta: non est necesse simul con 
+       <lb ed="#B" n="35"/>cipere eius actualem existentiam: quod etsi mens concipiat hinc per se ipsam essentiam: hinc autem seor-  
+       <lb ed="#B" n="36"/>sum actualem existentiam: non potest vere componere &amp; dicere, essentia ista habet actualem existenti 
+       <lb ed="#B" n="37"/>tiam, quod tamen necesse est fieri vere in omnibus quae sola ratione differunt propter quod diximus supra 
+       <lb ed="#B" n="38"/>quod rei essentia &amp; actualis existentia non solum ratione differunt: sed etiam intentione.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e497">
+       AD auctorita 
+       <lb ed="#B" n="39"/>tes Boetii, nihil est dicendum: nisi quod exponantur: &amp; per hoc videatur quia nihil valet eas adducere ad  
+       <lb ed="#B" n="40"/>propositum. Vnde ad intelligendum. vii. hebdomades Boetii in quibus loquitur de ista materia: Scie 
+       <lb ed="#B" n="41"/>dum quod in principio expositionis earum commentator dicit sic. In Theologia diuina essentia quam de deo  
+       <lb ed="#B" n="42"/>praedicamus cum dicimus deus est, omnium creaturarum dicitur esse. Cum enim dicimus homo est, vel 
+       <lb ed="#B" n="43"/>corpus est, vel huiusmodi: Theologici hoc dictum esse intelligunt quaedam extrinseca denominatione ab essen 
+       <lb ed="#B" n="44"/>tia sui principii. Non enim dicunt corporeitate corpus esse: sed esse aliquid: nec humanitate hominem esse: 
+       <lb ed="#B" n="45"/>sed esse aliquid. &amp; ad eundem modum quicquid operante summo principio est, eadem principali &amp; increata essentia 
+       <lb ed="#B" n="46"/>dicitur esse: suo vero quolibet genere aliquid esse. Ergo cum dicitur diuersum est esse: &amp; id quod est: secundum Theologos intel 
+       <lb ed="#B" n="47"/>ligitur esse id quod principium est: id vero quod est, id quod est ex principio. Secundum hanc regulam caeteras quae sequun 
+       <lb ed="#B" n="48"/>tur hebdomades hoc loco accipi debere, sequentia nos docebunt. Quid ergo mirum si diuersum sit esse 
+       <lb ed="#B" n="49"/>&amp; quod est: quia diuersi sunt deus &amp; creatura. Vnde esse non supponit ibi pro esse creato: vt procedit ara 
+       <lb ed="#B" n="50"/>gumentum ex falso intellectu: sed pro esse increato. Alia autem via etiam in naturalibus expositione philosophica 
+       <lb ed="#B" n="51"/>prosequitur conmentator hebdomades illas: sed de hoc nihil ad propositum. Quod arguitur secundo ex eadem hebdo  
+       <lb ed="#B" n="52"/>made: Quod est accepta essendi forma, est atque consistit: Dicendum quod illud quod est in creatura vt essentia 
+       <lb ed="#B" n="53"/>eius, esse suo subsistens, est in effectu atque subsistit accepta forma essendi: non tanquam praeexistens ipsa es 
+       <lb ed="#B" n="54"/>sentia quae dicitur quod est, accipiat in se esse quod dicitur forma essendi per inhaerentiam: quia si esset 
+       <!--56.xml-->
+       <pb ed="#B" n="8-r"/>
+       <lb ed="#B" n="1"/>accidens ipsum esse vt dictum est, &amp; aliud re: sed tanquam effectus diuinus in effectu diuina similitudine informa-  
+       <lb ed="#B" n="2"/>tus per creationem, quod est forma essendi intrans ipsam essentiam rei vt dictum est. Vnde ad expositionem huius pri- 
+       <lb ed="#B" n="3"/>mae hebdomadis subdit statim secundam dicens. Quod est vt essentia creaturae participare aliquo potest scilicet ipso esse 
+       <lb ed="#B" n="4"/>actuali recepto a deo vt dictum est, sed ipsum esse scilicet purum &amp; increatum: nullo modo aliquo participat: quia esse 
+       <lb ed="#B" n="5"/>suum in quo habet omnia habet a se. Et tunc sequitur in eadem hebdomade: vnde sumptum est sextum argumentum. Fit enim 
+       <lb ed="#B" n="6"/>participatio esse scilicet cum aliquid iam est scilicet ex eo quod per creationem recipit participationem esse vt dictum est. Et hoc est quod  
+       <lb ed="#B" n="7"/>dicit illud quod assumptum fuit de quinta hebdomade: Omne quod est participat eo quod est esse vt sit. Non autem  
+       <lb ed="#B" n="8"/>est intelligenda illa prima regula. fit enim participatio cum aliquid iam est: vt scilicet prius existat in actu ipsum quod  
+       <lb ed="#B" n="9"/>est: &amp; tunc adueniat ei participatio esse: vt aeri illuminatio a sole: sicut procedit argumentum: sed vt participando  
+       <lb ed="#B" n="10"/>habeat quod existat. vnde sequitur. Est autem aliquid cum iam esse susceperit: non autem prius vel post id fit enim participa- 
+       <lb ed="#B" n="11"/>tio &amp;c. Exponitur de participatione accidentium in substantia praeexistenti quibus potest participare substantia crea 
+       <lb ed="#B" n="12"/>ta suscepto prius esse: vt corpus albo aut nigro. &amp; tunc habet argumentum locum: quia tale non potest partici 
+       <lb ed="#B" n="13"/>pare substantia increata. sed de hoc est sermo in sequenti tertia hebdomade: quia enim in istis duabus hebdo  
+       <lb ed="#B" n="14"/>madibus assignauit differentiam dei &amp; creaturae penes participare ipso esse &amp; non participare, ne credatur 
+       <lb ed="#B" n="15"/>quod non sit vlterior eorum differentia penes participare &amp; non participare addit differentiam eorum in tertia he  
+       <lb ed="#B" n="16"/>bdomade: dicens id quod est: vt creata substantia, habere aliquid: vt accidens in se praeterquam ipsum quod est: vt cor 
+       <lb ed="#B" n="17"/>pus colorem praeter suam corporeitatem. lpsum vero esse vt substantia increata nihil praeter se habet admixtum si- 
+       <lb ed="#B" n="18"/>bi tanquam accidens eius. Et ne credat aliquis quod nulla est differentia in participando esse a creatura: &amp; habere ali 
+       <lb ed="#B" n="19"/>quid praeter id quod ipsa est, subiungit quarta hebdomade: in qua assignat illorum differentiam dicens. Diuersum tamen 
+       <lb ed="#B" n="20"/>q.d. ita dictum est quod id quod est potest participare aliquo vt esse: vt dictum est in secunda hebdomade, &amp; habere 
+       <lb ed="#B" n="21"/>aliquid praeterquam id quod est: vt in tertia hebdomade. Et licet vtrumque sic conuenit ei: tamen diuersum est esse aliquid  
+       <lb ed="#B" n="22"/>scilicet habendo aliquid praeterquam quod ipsum est: vt in tertia hebdomade. &amp; esse aliquid in eo quod est: hoc est in partici 
+       <lb ed="#B" n="23"/>pante ipso esse: vt in secunda hebdomade. &amp; in quo est diuersum, subiungit. lllic enim scilicet in primo membro: acci 
+       <lb ed="#B" n="24"/>dens: hic scilicet in secundo membro substantia significatur. quod multum notandum est ad propositum nostrum: quod esse non sit acci- 
+       <lb ed="#B" n="25"/>dens: sed idem re cum essentia rei. &amp; hoc est quod magis exprimit hebdomas sequens: omne quod est subsistens participat 
+       <lb ed="#B" n="26"/>eo quod est esse: non quidem vt per hoc sit aliquid album nigrum aut huiusmodi: sed solummo vt eo sit: alio vero vt accidente 
+       <lb ed="#B" n="27"/>participat vt eo aliquid sit: vt ens album vel nigrum. at per hoc quod illa participatio qua est simpliciter, prior est 
+       <lb ed="#B" n="28"/>naturaliter quam illa qua est aliquid: id quod est participat eo quod est esse vt sit. Est vero prius naturaliter vt deinde  
+       <lb ed="#B" n="29"/>per accidens participet mediante esse aliquo quolibet quo sit aliquid: vt accidente. in quo apte declarat quod esse non 
+       <lb ed="#B" n="30"/>sit accidens.
+      </p>
+      <p xml:id="n3av8a-c1e209-d1e604">
+       SEquitur sexta hebdomas propter solutionem vltimae rationis fundatae super septima hebdo. dicit 
+       <lb ed="#B" n="31"/>ergo. Omne simplex cuiusmodi est solus deus, &amp; diuinae personae secundum conmentatorem, esse suum, &amp; id quod est vnum  
+       <lb ed="#B" n="32"/>habet: quia in deo idem sunt omnino ee &amp; essentia &amp; re &amp; intentione: vt in aliis quaestionibus expositum est. omni autem 
+       <lb ed="#B" n="33"/>composito: vt omni creaturae, aliud est esse quod est non re sed intentione, inquantum quod est, ad esse, non esse 
+       <lb ed="#B" n="34"/>indifferens est. quae diuersitas in deo non cadit vt dictum est: quia vt dicit commentator de creatura: quoniam alio 
+       <lb ed="#B" n="35"/>est, alio aliquid est: &amp; si non ex diuersis subsistentibus constat: ipsum concretum atque compositum est. &amp; haec  
+       <lb ed="#B" n="36"/>est illa compositio quae est ex esse, &amp; ex essentia.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

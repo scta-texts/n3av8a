@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="374-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3735">
+       <head xml:id="n3av8a-c1e3735-Hd1e96">Quaestio 11</head>
+       <p xml:id="n3av8a-c1e3735-d1e99">
+        <lb ed="#B" n="24"/>CIrca quartum arguitur: quod cum voto virginitatis simpliciter non stat verum &amp; per- 
+       <lb ed="#B" n="25"/>fectum matrimonium, quia tradens marito potestatem plenam sui corporis: consentit in carna 
+       <lb ed="#B" n="26"/>lem copulam: quia ad illam tradunt corpora sua in matrimonio mutuo inter se con- 
+       <lb ed="#B" n="27"/>trahentes. hoc autem repugnat voto virginitatis simpliciter. dicente Hiero. Vouen- 
+       <lb ed="#B" n="28"/>tibus non solum nubere, sed velle nubere damnabile est. sed sic tradit potestatem 
+       <lb ed="#B" n="29"/>sui corporis marito contrahens verum &amp; perfectum matrimonium. ergo &amp;c. 
+       <lb ed="#B" n="30"/>Contrarium apparet in dei genitrice virgine Maria: quae verum &amp; perfectum matrimonium contra- 
+       <lb ed="#B" n="31"/>xit cum loseph, &amp; habuit votum virginitatis simpliciter. 
+      </p>
+      <p xml:id="n3av8a-c1e3735-d1e119">
+       HIC solet distingui de tempore emissi voti. quia  
+       <lb ed="#B" n="32"/>aut emissum est ante matrimonium contractum, aut post. Et dicunt quod si primo modo (ut dicunt aliqui) quod cum  
+       <lb ed="#B" n="33"/>voto virginitatis simpliciter emisso non stat verum matrimonium: nec post tale votum potest ali- 
+       <lb ed="#B" n="34"/>qua persona sine peccato consentire matrimonio. tum quia priculo, immo necessitati amittendi virginitatem 
+       <lb ed="#B" n="35"/>se exponere vellet in dando viro potestatem plenam corporis sui, tum quia per hoc in carnalem copulam, &amp; virginita- 
+       <lb ed="#B" n="36"/>tis amissionem quoquo modo consentiret, ad minus implicite. Sed cum voto virginitatis simplici- 
+       <lb ed="#B" n="37"/>ter &amp; solenni emisso post matrimonium &amp; ante copulam, bene stat verum &amp; perfectum matrimonium 
+       <lb ed="#B" n="38"/>absque omni peccato &amp; discrimine. Vnde dicunt quod Maria sciens vtrunque bonum magnum, virginitatem 
+       <lb ed="#B" n="39"/>scilicet &amp; foecunditatem, vtrumque illorum amabat &amp; desiderabat, sed virginitatem tanquam optimum &amp; deo  
+       <lb ed="#B" n="40"/>acceptissimum praeferebat. dicente <name ref="#Augustine">Augustinus</name> in sermo. quodam de natiuitate virginis. Haec duo ipsa iu 
+       <lb ed="#B" n="41"/>cundius amabat: virginitatem scilicet &amp; foecunditatem. Virginitatem, quia hanc deo per omnia 
+       <lb ed="#B" n="42"/>placere intelligebat. Foecunditatem, quia sine hac maledictum legis quae adhuc carnaliter custodi  
+       <lb ed="#B" n="43"/>ebatur, incurrere metuebat. Vicit tamen amor in ea seruandae virginitatis. Virgo igitur totam 
+       <lb ed="#B" n="44"/>intentionem suam, totum amorem suum, totum studium suum ad hoc intendit vt corpus suum 
+       <lb ed="#B" n="45"/>&amp; animam deo virginitate perpetua consecraret. Sciebat quia quanto sanctius eam conseruaret, tan- 
+       <lb ed="#B" n="46"/>to sublimius ei qui omnium castissimus, immo qui ipsa castitas est, appropinquaret. Et quia sic vir 
+       <lb ed="#B" n="47"/>ginitatem praeferebat: studium habuit atque desiderium ipsam consecrandi per votum &amp; solenne 
+       <lb ed="#B" n="48"/>votum, quia sciebat opera perfectionis esse perfectiora &amp; magis laudabilia, cum ex voto celebran- 
+       <lb ed="#B" n="49"/>tur. Verum quia lex Moysi adhuc carnaliter obseruabatur: vt oporteret tam viros quam mulieres car- 
+       <lb ed="#B" n="50"/>nali generationi insistere per matrimonium: ideoque ipsa maledictum legis si non contraheret, &amp; 
+       <lb ed="#B" n="51"/>generationi prolis ex viro vacaret, metuebat incurrere, non creditur (vt dicunt) vouisse virginitatem 
+       <lb ed="#B" n="52"/>antequam desponsaretur loseph, licet eam in desiderio habuit, quod tamen diuino arbitrio committens, vt le- 
+       <lb ed="#B" n="53"/>gis maledictum euaderet se loseph matrimonio copulauit: secundum quod mores illius temporis 
+       <!--788.xml-->
+       <pb ed="#B" n="374-r"/>
+        <lb ed="#B" n="1"/>exigebant, sed postmodum simul cum eo votum virginitatis emisit. Aliis vero videtur quod ante ma 
+       <lb ed="#B" n="2"/>trimonium vouit, sed tantummodo voto simplici expresso in corde, cum firmo proposito tenendi 
+       <lb ed="#B" n="3"/>ipsum. &amp; hoc non absolute: sed sub conditione nisi deus aliter ordinaret. Et ideo diuinitus certi- 
+       <lb ed="#B" n="4"/>ficata ex speciali spiritus sancti consilio quod loseph erat in consimili proposito, virginitatem suam 
+       <lb ed="#B" n="5"/>deo committens, loseph se matrimonio coniunxit, &amp; potestati eius tradidit, &amp; consensit simplici- 
+       <lb ed="#B" n="6"/>ter &amp; absolute in copulam coniugalem, tradendo alteri corporis sui potestatem: in quo consensu 
+       <lb ed="#B" n="7"/>consistit verum &amp; perfectum matrimonium quantum est de prima perfectione rei quam attingit 
+       <lb ed="#B" n="8"/>ex forma sibi essentiali, &amp; ex fine suo intra. Forma enim essentialis matrimonii non est nisi indiuisibi 
+       <lb ed="#B" n="9"/>lis coniunctio animorum in traductione potestatis corporum, per quam coniuges sibi mutuo fidem 
+       <lb ed="#B" n="10"/>conseruare tenentur. In copulam autem carnalem (vt dicunt) non consensit simpliciter &amp; absolute, sed  
+       <lb ed="#B" n="11"/>solummodo sub conditione, si deo placeret quod scilicet copularetur carnaliter: quod &amp; deo non placuit: sed vt 
+       <lb ed="#B" n="12"/>voueret consensum viri obtinuit: qui in consimili desiderio erat: &amp; sic post contractum matrimonium cum ip 
+       <lb ed="#B" n="13"/>so solenne votum virginitatis emisit. Et est opinio magistri sententiarum libro quarto distinctione 
+       <lb ed="#B" n="14"/>xxx. cap. Praemissis. vbi dicit sic. Sane credi potest non solum Mariam, sed etiam loseph apud se dispo 
+       <lb ed="#B" n="15"/>suisse seruare virginitatem, nisi deus aliter iuberet: eosque sic consensisse in coniugalem societatem 
+       <lb ed="#B" n="16"/>vt vterque de altero reuelante spiritu sancto intelligeret quod virginitatem seruare vellet nisi deus 
+       <lb ed="#B" n="17"/>aliter inspiraret. Sed illam voluntatem verbis non expresserant: postea vero expresserunt, &amp; in vir 
+       <lb ed="#B" n="18"/>ginitate permanserunt. Consensit ergo Maria in maritalem societatem, sed non in carnalem copu- 
+       <lb ed="#B" n="19"/>lam, nisi de ea spiritus sanctus praeciperet: cuius consilio in maritalem consensit copulam &amp;c. Quod con 
+       <lb ed="#B" n="20"/>firmat ibidem auctoritate Augus. Vnde si prolem diuinitus non concepisset, matrimonium illud non 
+       <lb ed="#B" n="21"/>fuisset perfectum quantum est de perfectione rei secunda: quam attingit exercendo opus debitum for- 
+       <lb ed="#B" n="22"/>mae: quo consequitur finem suum extra. Opus enim extra est carnalis copula: quo proles quae fi 
+       <lb ed="#B" n="23"/>nis est extra, procreatur. Quae quidem copula quia non erat consecuta, quo ad hoc non fuit perfectum 
+       <lb ed="#B" n="24"/>matrimonium. Sed quia in actu qui est, propria rei operatio non consistit rei perf:ctio nisi quia per ip 
+       <lb ed="#B" n="25"/>sum assequitur finem, ita quod si absque omni operatione res aliqua finem suum consequitur, non est ex hoc imper- 
+       <lb ed="#B" n="26"/>fectior, immo multo perfectior quam si operatione illam attingeret: dicente <name ref="#Aristotle">philosopho</name> in secundo caeli &amp; 
+       <lb ed="#B" n="27"/>mundi: quod quaedam sunt res imperfectae quae nulla operatione perfectionem possunt attingere: quaedam vero plu 
+       <lb ed="#B" n="28"/>ribus operationibus suam perfectionem attingunt: quaedam vero paucioribus, aut vna, &amp; modica: quae ideo  
+       <lb ed="#B" n="29"/>perfectior est: quaedam vero habet suam perfectionem absque omni operatione, &amp; illa est perfectis- 
+       <lb ed="#B" n="30"/>sima: licet ergo matrimonium Mariae cum loseph operatione copulae carnalis perfectionem non  
+       <lb ed="#B" n="31"/>habuit: non minus tamen perfectum fuit. dicente <name ref="#Ambrose">Ambrosio</name> in libro de virginitate, vt habetur 
+       <lb ed="#B" n="32"/>xxvii. quaest. ii. cap. Cum initiatur. Defloratio virginis non facit coniugium, sed pactio coniu- 
+       <lb ed="#B" n="33"/>galis. Denique cum coniungitur viro coniugium est, non cum viri admixtione coniungitur. Super 
+       <lb ed="#B" n="34"/>illud Pactio est. Glos. scilicet consensus de praesenti. Sed hoc maxime in matrimonio Mariae: quia  
+       <lb ed="#B" n="35"/>licet matrimonium inter ipsam &amp; loseph ex matrimonio per carnalem copulam non habuit prolem 
+       <lb ed="#B" n="36"/>progenitam: tamen prolem habuit matrimonialiter a Maria &amp; loseph educandam: &amp; idcirco 
+       <lb ed="#B" n="37"/>simpliciter perfectionem matrimonii quo ad bonum prolis &amp; finem eius, licet absque copula carna 
+       <lb ed="#B" n="38"/>li: &amp; ideo perfectius habuit. Omne itaque (ur dicit <name ref="#Augustine">Augustinus</name> primo de nuptiis &amp; concupiscentia),  
+       <lb ed="#B" n="39"/>nuptiarum bonum impletum est in illis parentibus Christi, proles, fides, &amp; sacramentum. Prolem 
+       <lb ed="#B" n="40"/>cognoscimus ipsum dominum lesum. Fidem, quia nuiium adulterium. Sacramentum, quia nuiium  
+       <lb ed="#B" n="41"/>diuortium. Solus ibi nuptiarum concubitus non fuit, quia in carne peccati fieri non poterat sine 
+       <lb ed="#B" n="42"/>vlla carnis concupiscentia. Vnde &amp; per talem prolem sic conceptam virgo Maria maledictum 
+       <lb ed="#B" n="43"/>legis euasit. dicente <name ref="#Augustine">Augustino</name> in sermone praedicto. Dedit ergo ei vt &amp; virgo, quod magis optabat  
+       <lb ed="#B" n="44"/>permaneret, &amp; vt nemo illam a maledicto legis liberrimam dubitaret, foecunda fieret. Et vnde 
+       <lb ed="#B" n="45"/>foecunda: foecunda spiritu sancto qui omnia foecundat. vt secundum hoc edictum legis quantum  
+       <lb ed="#B" n="46"/>ad intentionem Legislatoris de matrimonium contrahendo non erat nisi propter prolem haben 
+       <lb ed="#B" n="47"/>dam ex copula, ita quod si posset ab aliqua haberi proles fine copula, casum istum intellexit Le- 
+       <lb ed="#B" n="48"/>gislator exceptum, vt simul existens perfectus Tegislator &amp; Epieices: vt talis mater intelligere 
+       <lb ed="#B" n="49"/>tur excepta a legis maledicto &amp; edicto si nec matrimonium contraxisset, sicut nec copulam susti- 
+       <lb ed="#B" n="50"/>nuit. Vnde in edicto legis &amp; maledicto non erant nisi sterilitas &amp; subtractio partus volunta- 
+       <lb ed="#B" n="51"/>ria. Deuter. sexto &amp; septimo. Non erit apud vos sterilis vtriusque sexus. Propter quod causa contrahen 
+       <lb ed="#B" n="52"/>di matrimonium in Maria non fuit proles ex matrimonio generanda, sed educanda, &amp; vt 
+       <lb ed="#B" n="53"/>suspitio tolleretur qua de incestu genuisse suspicaretur. Sic ergo dicunt quod votum Mariae quia simplex 
+       <lb ed="#B" n="54"/>fuit, verum matrimonium contraxit. quia non votum simplex, sed solenne impedit matrimonium 
+       <!--789.xml-->
+       <pb ed="#B" n="374-v"/>
+        <lb ed="#B" n="1"/>contrahendum. &amp; quia sub conditione fuit: super qua reuelatione diuina certificata eratu: &amp; in illa 
+       <lb ed="#B" n="2"/>conditione continebatur implicite dispositio dei de eius consensu in matrimonialem copulam: ideo 
+       <lb ed="#B" n="3"/>non peccauit. &amp; licet non consensit in carnalem copulam: quia talis huiusmodi consenlus non fuit 
+       <lb ed="#B" n="4"/>appositus &amp; expressus, ideo matrimonium non impediuit, quia expressus impediuisset: quia. scilicet est 
+       <lb ed="#B" n="5"/>contra bonum matrimonis scilicet prlem procurandam, &amp; omnis talis conditio apposita omnino tollit ma-  
+       <lb ed="#B" n="6"/>trimonium. &amp; sic nec implicite in carnalem copulam consensit: quia nec super hoc consilium spiritusan-  
+       <lb ed="#B" n="7"/>cti habuit. Quo ad hoc ergo quod dicunt aliqui Mariam ante matrimonium affectasse &amp; desideriumha i 
+       <lb ed="#B" n="8"/>buisse seruandae virginitatis: bene verum est, quia forte non continuo post habitam discretionem 
+       <lb ed="#B" n="9"/>habuit deliberationem de virginitate perpetuo conseruanda nisi statim habuisset reuelationem spi 
+       <lb ed="#B" n="10"/>ritus sancti: quam forte non habuit. Ex deliberatione enim virginitatem se seruaturam sine reuelatia 
+       <lb ed="#B" n="11"/>ne aut aliqua certificatione non disposuit, aut voluntate etiam absque voto firmauit. quoniam si absolutt 
+       <lb ed="#B" n="12"/>vouisset, aut disposuisset custodire perpetuam virginitatem absque aliqua certificatione, autreuela 
+       <lb ed="#B" n="13"/>latione super hoc habita: &amp; maxime si voluntatem suam super hoc voto etiam simplici confirmas 
+       <lb ed="#B" n="14"/>set, quamuis sub conditione tali, nisi deus aliter disponeret &amp; inspiraret ei quod eam vellet consentire in  
+       <lb ed="#B" n="15"/>copulam: tamen quantum est ex se, simpliciter copulam abnegauit. Talis enim conditio de voluntate su 
+       <lb ed="#B" n="16"/>perioris pro non adiecta habetur. Et sic quantum est de se legi contrariaretur voluntate, etsi non  
+       <lb ed="#B" n="17"/>voto solenni expresso verbis, &amp; voluntate etiam absque omni voto, siue contrahens matrimonium si 
+       <lb ed="#B" n="18"/>ue non contrahens peccasset: et non minus absque voto quam cum voto, &amp; sine matrimonio quam cum matri 
+       <lb ed="#B" n="19"/>monio: quia si cum matrimonio, tunc cum hoc quod contrariaretur legi per voluntatem, periculo 
+       <lb ed="#B" n="20"/>contrario voto se exponeret. Propter quod dicitur. xxvii. quaest. ii. in. &amp;. Sed quare. Quianunquam seco 
+       <lb ed="#B" n="21"/>gnituram proposuerat, sed contra suum propositum postea consensit in carnalem copulam, rea fa 
+       <lb ed="#B" n="22"/>cta est voti virginalis mente etsi non corpore violati, quod de ea sentire: nefas est. Propter quod quaestioni re 
+       <lb ed="#B" n="23"/>spondendo inducit cap. Augustinus. Beata virgo proposuit se seruaturam viginitatem nisi deus ali 
+       <lb ed="#B" n="24"/>ter reuelaret. Committens ergo virginitatem suam diuinae dispositioni consensit in carnalem co 
+       <lb ed="#B" n="25"/>pulam, non illam appetendo, sed diuinae inspirationi in vtroque obediendo. Glos. super illud. Reuel- 
+       <lb ed="#B" n="26"/>ret. Inde est quod licite potuit contrahere matrimonium deo reuelante: etsi vouisset etiam solenniter 
+       <lb ed="#B" n="27"/>quia votum fuit sub conditione. Immo quantumcunque absolutum sit votum, semper intelligitur excepta 
+       <lb ed="#B" n="28"/>auctoritas maioris, vt extra de iureiuram. Venientes. Sic ergo vt mihi videtur, beata virgo etsi an E 
+       <lb ed="#B" n="29"/>te matrimonium affectum &amp; desiderium seruandae virginitatis habuit absque reuelatione aut cer 
+       <lb ed="#B" n="30"/>tificatione, nihil super hoc firmauit siue voluntate simplici, siue voto. Sic ergo necesse est ponere quod re 
+       <lb ed="#B" n="31"/>uelationem aut certificationem habuit de praeseruantia in virginitate antequam super hoc aliquid vo 
+       <lb ed="#B" n="32"/>luntate firmauit, aut vouit: postquam autem talem certificationem habuit, aequaliter voluntate firma-  
+       <lb ed="#B" n="33"/>re, &amp; vouere etiam solenniter quantum est ex se potuit. Quare cum huiusmodi certificationem aequaliter po 
+       <lb ed="#B" n="34"/>tuit habuisse ante matrimonium, &amp; post: aequaliter ergo ante &amp; post potuit vouisse etiam solenni- 
+       <lb ed="#B" n="35"/>ter quantum erat ex se. Quia autem dicta opinio dicit secundum praedictum modum Matiamprius 
+       <lb ed="#B" n="36"/>se matrimonio loseph coniunxisse quam vouisse, non videtur mihi tenendum, quia <name ref="#Augustine">Augustinus</name> in principio 
+       <lb ed="#B" n="37"/>de sancta virginitate videtur significare eam primo vouisse, deinde contraxisse: &amp; tertio filium deicum 
+       <lb ed="#B" n="38"/>cepisse. dicit enim sic. Prius quam conciperetur iam deo dicatam de qua nasceretur elegit. Hoc indicantur 
+       <lb ed="#B" n="39"/>verba quae sibi foetum annuncianti angelo Maria reddidit. Quomodo (inquit) siet istud, quoniam vitum non 
+       <lb ed="#B" n="40"/>cognosco. Quod profecto non diceret nisi deo se. virginem ante vouisset. Ecce quia ante vouit quam concepit Qui-  
+       <lb ed="#B" n="41"/>vero ante vouit quam nupsit, indicat quod immediate sequitur. Sed quia hoc lsraelitarum mores adlucre 
+       <lb ed="#B" n="42"/>cusabant, desponsata est viro iusto. Sed ne aliquis posset dicere: verum est, sed prius quasouit: sequitur 
+       <lb ed="#B" n="43"/>continue. Non violenter ablatura: sed potius contra violentias custoditura quod illa iam vouerat non 
+       <lb ed="#B" n="44"/>violenter ablature. scilicet ne a viro volente eam violare, violaretur, vt Christus de ea virgine existente con 
+       <lb ed="#B" n="45"/>ciperetur, secundum quod praemisit ante verbum praeassumptum dicens. ldeoque virginitas eius gratior 
+       <lb ed="#B" n="46"/>&amp; acceptior: quia non eam conceptus Christus viro violaturo quam conseruaret, paripuit, sed prius quam  
+       <lb ed="#B" n="47"/>conciperetur &amp;c. vt iam supra. Non praeripuit voto castitatis post coniugium emisso, sediamdeo di-  
+       <lb ed="#B" n="48"/>catam ante scilicet. coniugium elegit. Quod bene indicat <name ref="#Augustine">Augustinus</name> in eo quod addit. lam illa vouerat. Quid inquam  
+       <lb ed="#B" n="49"/>vouerat de praeterito: nisi quod propter lsraelitarum mores desponsanda esset viro iusto non eam violatum 
+       <lb ed="#B" n="50"/>ro, sed custodituro: Quid eam vouisse prius nullo modo erat opportunum nisi vt prius quam sciret quod Chri s 
+       <lb ed="#B" n="51"/>stus de ea nasceretur voueret libere absque alterius consensu ante contractum matrimonium: ne iam 
+       <lb ed="#B" n="52"/>contracto matrimonio de eius consensu voueret, vt de caetero non haberet necessitatem seruim- 
+       <lb ed="#B" n="53"/>di ei in copula carnali etiam si vellet. &amp; in hoc exemplum esset virginum futurarum, vt scilicet an  
+       <lb ed="#B" n="54"/>te matrimonium vouerent. &amp; sic gratiosior esset virginitas Mariae dependens ex absoluta electione 
+       <!--790.xml-->
+       <pb ed="#B" n="375-r"/>
+        <lb ed="#B" n="1"/>propria: non ex consensu viri &amp; necessitate seruiendi eidem. vt sic secundum Ansel. virgo tanta pu 
+       <lb ed="#B" n="2"/>ritate polleret qua maior sub deo esse non posset. Vnde &amp; quod filium dei esset conceptura non prius no 
+       <lb ed="#B" n="3"/>uerat quam ipsi iam in matrimonio existenti hoc angelus nunciauit. Hinc <name ref="#Augustine">Augustinus</name> continue post verba prae 
+       <lb ed="#B" n="4"/>dicta. Quod ipsa iam nouerat, subdit. Quamquam etiam si hoc solum dixisset scilicet quomodo fiet istud: nec addidisset 
+       <lb ed="#B" n="5"/>quoniam virum non cognosco: non quaesiuisset vtique promissum sibi filium quomodo foemina paritura esset si 
+       <lb ed="#B" n="6"/>concubitura nupsisset. Poterat &amp; nubere &amp; virgo permanere: in qua dei filius formam serui congru 
+       <lb ed="#B" n="7"/>enti miraculo acciperet: sed exemplum sanctis futura virginibus, ne putaretur sola virgo esse de-  
+       <lb ed="#B" n="8"/>buisse, quae prolem etiam fine concubitu concipere meruisset, virginitatem deo dicauit: cum adhuc 
+       <lb ed="#B" n="9"/>quid esset conceptura nesciret: vt in terreno mortalique corpore caelestis vitae imitatio voto fieret, non 
+       <lb ed="#B" n="10"/>praecepto, amore eligendi, non necessitate seruiendi. Itaque Christus nascendo de virgine quae antequam 
+       <lb ed="#B" n="11"/>sciret quis de illa fuerat nasciturus, virgo statuerat permanere: virginitatem sanctam approbare ma-  
+       <lb ed="#B" n="12"/>luit quam imperare: &amp; sic etiam, vt in ipsa foemina in qua formam serui acciperet, virginitatem esse libe- 
+       <lb ed="#B" n="13"/>ram voluit. Vnde quia multo liberius est votum virginitatis non dependens ex consensu viri post 
+       <lb ed="#B" n="14"/>matrimonium: &amp; multo purior non consentiendo simpliciter in copulam carnalem quam sub quacun 
+       <lb ed="#B" n="15"/>que conditione: etiam sub illa si deo placeret: quae semper intelligeretur etsi non apponeretur: &amp; sic 
+       <lb ed="#B" n="16"/>vt dupliciter esset exemplum futura sanctis virginibus: vouit ante conceptum partus caelestis: ne puta 
+       <lb ed="#B" n="17"/>retur sola virgo esse debuisse: quae prolem fine concubitu concipere meruisset: &amp; etiam ante contra 
+       <lb ed="#B" n="18"/>ctum coniugium: ne putaretur consimili ratione nulla virgo esse debuisse quin prius coniugio co- 
+       <lb ed="#B" n="19"/>pularetur. Sic ergo dicendum quod Maria ante matrimonium vouit: sed non nisi certificata de perseue- 
+       <lb ed="#B" n="20"/>rantia sua in virginitate. Quod etiam intellexit Augus. per id quod dixit supra: Quod ipsa iam nouerat. Pro 
+       <lb ed="#B" n="21"/>pter quam certificationem contraxit absque omni periculo de virginitate amittenda: &amp; non consensit 
+       <lb ed="#B" n="22"/>in copulam carnalem: nisi sub conditione nisi deus aliter ordinaret: quam apposuit non quia dubitauit 
+       <lb ed="#B" n="23"/>se virginem perseueraturam: secundum, nm quod dicitur in S. sed quare, nouit se Maria virginem perseue 
+       <lb ed="#B" n="24"/>raturam. Vnde angelo ait. Quomodo fiet istud quoniam virum non cognosco: sed illam conditio- 
+       <lb ed="#B" n="25"/>nem apposuit: quia illam certitudinem a se ipsa non habuit. Sed est intelligendum quod in carnalem copu 
+       <lb ed="#B" n="26"/>lam potest esse consensus dupliciter: vel quo ad actum copulae, vel quo ad potentiam copulandi. Et 
+       <lb ed="#B" n="27"/>propter veritatem matrimonii secundum legem celebrandum, vt dictum est, consensit simpliciter 
+       <lb ed="#B" n="28"/>in potentiam copulandi si maritus petere vellet: &amp; hoc vel implicite vel explicite. Implicite enim il 
+       <lb ed="#B" n="29"/>la consentit quae nec omnino in contrahendo de copula cogitauit. Sed propter voti integritatem 
+       <lb ed="#B" n="30"/>non consensit in actum copulae carnalis: nisi sub conditione dicta: sciens quod nunquam peteret: aut si pete 
+       <lb ed="#B" n="31"/>ret quod deo disponente nunquam ad actus executionem perueniret. &amp; propter simplicem consensum in  
+       <lb ed="#B" n="32"/>potentiam: &amp; consensum in actum: licet sub tali conditione expressum: verum erat &amp; perfectum 
+       <lb ed="#B" n="33"/>matrimonium modo praedicto. Vnde qui per sponsalia promisit se contracturum matrimoni- 
+       <lb ed="#B" n="34"/>um, si propter promissum implendum contrahit de praesenti: &amp; nulla apponatur conditio expres- 
+       <lb ed="#B" n="35"/>sa: &amp; non consentiat in actum copulae omnino: verum contrahit matrimonium: si tamen consentiat 
+       <lb ed="#B" n="36"/>in potentiam tradendo se simpliciter potestati mulieris: licet cum firmo proposito sese statim sub- 
+       <lb ed="#B" n="37"/>trahendi propter ingressum religionis. Est tamen in proposito perfectum votum circa actum, quia 
+       <lb ed="#B" n="38"/>illa conditio votum non impedit: &amp; apponere eam necessarium non fuit. Licet enim conditio dependens 
+       <lb ed="#B" n="39"/>a voluntate humana apposita impedit votum simpliciter: vt siqua voueat virginitatem si placet 
+       <lb ed="#B" n="40"/>matri suae: illa tamen quae pendet omnino a voluntate diuina: non impedit: nec votum diminuit: quia  
+       <lb ed="#B" n="41"/>subintelligitur semper etsi non apponatur. Vnde siqua alia sub lege vouisset sicut Maria vouit, non  
+       <lb ed="#B" n="42"/>certificata: ipsa contra legem egisset &amp; peccasset: nec votum valuisset. Si qua vero modo post edictum 
+       <lb ed="#B" n="43"/>ecclesiae ne valeat matrimonium post solemnitatem voti quam instituit ecclesia, post votum tale contra 
+       <lb ed="#B" n="44"/>hat matrimonium non consentiendo in actum copulae: sed in alia &amp; etiam in potentiam ad copulam:  
+       <lb ed="#B" n="45"/>modo quo beata virgo consensit: etsi forte matrimonium contraheret verum, sicut &amp; beata virgo  
+       <lb ed="#B" n="46"/>contraxit: tamen si non esset certificata de actum: quod sic a domino prouideretur sibi ne vnquam veniendi ad  
+       <lb ed="#B" n="47"/>actum haberet necessitatem: ipsi sic velle nubere damnabile esset: quia contra edictum ecclesiae face- 
+       <lb ed="#B" n="48"/>ret: &amp; periculo faciendi contra votum se exponeret: &amp; sic etiam implicite in copulam consentiret fa 
+       <lb ed="#B" n="49"/>cto: licet explicite dissentiret animo. Sed vbi est certitudo de voluntate diuina. consensus in potentiam 
+       <lb ed="#B" n="50"/>nullo modo ponit consensum in actum: nec etiam implicite: quia tunc non dependet sic potentia a voluntate viri 
+       <lb ed="#B" n="51"/>quod possit reduci ad actum stante illa certificatione, quemadmodum praedestinatus licet absolute po- 
+       <lb ed="#B" n="52"/>test damnari: actum tamen impossibile est poni stante praedestinatione. Vnde quando consensus in po 
+       <lb ed="#B" n="53"/>tentiam propter certitudinem nullo modo implicat obligationem ad actum: nullo modo derogat 
+       <lb ed="#B" n="54"/>voto: quia votum non est nisi respectu actus &amp; intentionis exercendi actum. Econuerso autem dissensus 
+       <!--791.xml-->
+       <pb ed="#B" n="375-v"/>
+        <lb ed="#B" n="1"/>in actum nullo modo derogat matrimonio: quia petere vel non petere actum, relinquitur voluntati contra 
+       <lb ed="#B" n="2"/>hentium. Possunt enim ex consensu superueniente se obligare ad non petendum. Quia vt dicit Au- 
+       <lb ed="#B" n="3"/>gust. sanctiora sunt connubia pari voto continentium, in epistola ad Editiam. Et similiter ex consensu 
+       <lb ed="#B" n="4"/>praecedente eadem ratione: dum tamen sit in vtroque potentia: vt actum non excludat necessitas: sicut contingit 
+       <lb ed="#B" n="5"/>in spadonibus: cum quibus non contrahitur ma: rimonium: sed voluntas: sicut contingit quando am- 
+       <lb ed="#B" n="6"/>bo sufficientes essent ad copulam si vellent. Sed quid dicemus ad <name ref="#Augustine">Augustinus</name> cuius literam inducit magi 
+       <lb ed="#B" n="7"/>ster ad confirmationem suae opinionis: Ad cuius intellectum sciendum: quod circa votum beatae Mariae est com 
+       <lb ed="#B" n="8"/>siderare triplicem conditionem scilicet affectum siue desiderium de continendo: &amp; votum simpliciter emilis 
+       <lb ed="#B" n="9"/>sum per se deo siue mente sola, siue etiam voce emissa inter se &amp; deum: &amp; votum solenne verbo ex- 
+       <lb ed="#B" n="10"/>pressum in praesentia loseph ex communi consensu vtriusque. Affectum autem siue desiderium tale non est 
+       <lb ed="#B" n="11"/>dubium quin semper habuit postquam ad annos discretionis deuenit: quid tamen non vouit nec voluit siue dis 
+       <lb ed="#B" n="12"/>posuit firmato proposito quousque certificata praedicto modo fuit. vnde in &amp;. praedicto, Vvirum non cogno-  
+       <lb ed="#B" n="13"/>sco. i. me non cognituram proposui. Neque enim quia tunc virum non cognoscebat, necesse est inquiri 
+       <lb ed="#B" n="14"/>quomodo posset habere filium: sed quia nunquam se cognituram proposuerat. Intelligo quantum erat ex se: ni 
+       <lb ed="#B" n="15"/>si lex ad hoc constringeret. vnde dicit glos. Sic ergo patet quod Maria non vouebat continentiam: sed  
+       <lb ed="#B" n="16"/>proposuerat vouere &amp; virginitatem conseruare. intelligo quantum in se erat ex parte electionis suae, nec ta 
+       <lb ed="#B" n="17"/>men simpliciter proposuit: quin propter legis necessitatem disposuit contrahere: quae prolem suscitare praece 
+       <lb ed="#B" n="18"/>pit. Votum autem occultum simpliciter factum inter ipsam &amp; deum, secundum praedicta, emisit ante matrimo 
+       <lb ed="#B" n="19"/>nium, quando etiam quantum ex se erat potuisset ipsum solennizasse: siqua forma solemnizandi tunc fuis- 
+       <lb ed="#B" n="20"/>set: quod forte &amp; fecit vt esset perfectius votum: volens tamen satisfacere legi quantum potuit consentien 
+       <lb ed="#B" n="21"/>do in matrimonium: secundum praedictum modum, quod demum postquam Christum conceperat, vna cum marito solemnicauit 
+       <lb ed="#B" n="22"/>quantum potuit. Et de tali solemnizatione voti loquitur <name ref="#Augustine">Augustinus</name> in ca, quid magister inducit pro se. &amp; plane con 
+       <lb ed="#B" n="23"/>stat per eundem quod sic ex mutuo consensu amborum solemnizauit. loseph enim erat in consimili proposito: cum 
+       <lb ed="#B" n="24"/>Maria: quod forte ei loseph reuelauit: si tamen aliter super hoc certificata non fuit de sua virginitate: 
+       <lb ed="#B" n="25"/>vt iam supra habitum est: quod votum aliquid simpliciter emisit priusquam sciret quod filium dei conciperet. Vnde 
+       <lb ed="#B" n="26"/>litera <name ref="#Augustine">Augustinus</name> sic legenda est. Beata Maria proposuit se perseueraturam virginem etiam ex voto occulto simplici 
+       <lb ed="#B" n="27"/>quid tamen non excluditur per propositum: sed includitur: &amp; respicit voti solemnizationem cum marito su 
+       <lb ed="#B" n="28"/>turam. Caetera exponantur secundum praedicta: vsque ibi. Postea vero. vbi sequitur in litera magistri. Si 
+       <lb ed="#B" n="29"/>mul cum viro labiis expressit: &amp; vterque in virginitate permansit. Et magister intelligit quod prius nul 
+       <lb ed="#B" n="30"/>lum votum simpliciter expressit: quod non est verum. Magister ibi literam omittit qua <name ref="#Augustine">Augustinus</name> intelligit 
+       <lb ed="#B" n="31"/>quando votum illud labiis expressit: quam exprimit decretum: in quo integre ponitur dicta au-  
+       <lb ed="#B" n="32"/>ctoritas. S. praedicto. dicit enim sic. Postea vero quam filium genuit, quem corde conceperat simul cum 
+       <lb ed="#B" n="33"/>viro &amp;c. Ad quid etsi non esset auctoritas, ratio innitens auctoritati hoc declarat ex parte loseph: quoniamli 
+       <lb ed="#B" n="34"/>cet ipse quantum erat ex parte sua erat in simili desiderio vouendi virginitatem cum Maria: cum tamen pro illo 
+       <lb ed="#B" n="35"/>tempore non minus erat astrictus legi ad prolem in matrimonio procreandam quam Maria: quare nec vo 
+       <lb ed="#B" n="36"/>luntate firma nec dispositione nec voto debuit se astringere ad virginitatem custodiendam potius 
+       <lb ed="#B" n="37"/>quam Maria: quare cum illa sine peccato non disposuisset vel vouisset custodiam virginitatis nisi suphec 
+       <lb ed="#B" n="38"/>habuisset specialem reuelationem aut certitudinem: nec similiter loseph. Quare cum supponen- 
+       <lb ed="#B" n="39"/>dum sit quod sine peccato simul vouit cum Maria quia scriptura dicit eum virum iustum fuisse: suppo- 
+       <lb ed="#B" n="40"/>ponendum est quod votum illud non fecit simul cum Maria sine speciali super hoc reuelatione aut cer- 
+       <lb ed="#B" n="41"/>titudine: sicut nec fecit Maria. De loseph autem dicit Ambrs super illud psal. defectio tenuit melosephcui 
+       <lb ed="#B" n="42"/>desponsata erat Maria: cum eam grauem vtero vidisset, cum esset iustus noluit eam traducere: &amp; utique  
+       <lb ed="#B" n="43"/>nuiium adhuc audierat oraculum. ergo ante conceptum nuilum habuit oraculum siue reuelatio-  
+       <lb ed="#B" n="44"/>nem. Si ergo ex reuelatione vouit cum ipsa, non vouit nisi post Christi conceptum. &amp; quid Ambro dicit: 
+       <lb ed="#B" n="45"/>Quia nullum adhuc audierat oraculum: intelligatur de Christi conceptu. Quia si aliam ante habuerat deio 
+       <lb ed="#B" n="46"/>uendo: aut ergo sciuit quod Maria simile habuit oraculum: aut non. Si non, dimisisset eam vouere cum il- 
+       <lb ed="#B" n="47"/>stus esset: quia vt dictum est peccasset. Si vero sciuit quod oraculum de vouendo habuit: nullo ergo mo- 
+       <lb ed="#B" n="48"/>do suspitionem de adulterio contra ipsam habuisset: quam tamen habuit: vt ibidem textus <name ref="#Ambrose">Ambrosii</name> insinu  
+       <lb ed="#B" n="49"/>at. Reuelationem ergo de vouendo cum Maria nullo modo habuit ante oraculum, quo ipsam de spiritu 
+       <lb ed="#B" n="50"/>sancto impregnatam cognouit. Verum est ergo quod istud votum Maria cum losephtam solenniter non 
+       <lb ed="#B" n="51"/>fecit: nisi postquam filium genuit intus in vtero. Sed praeter istud expresse ponit <name ref="#Augustine">Augustinus</name> aliud precessisse 
+       <lb ed="#B" n="52"/>de sancta virginitate vt dictum est: de quo est dubitatio an fuerit ante matrimonium an post. Etea 
+       <lb ed="#B" n="53"/>dem dubitatio manet in litera Magistri: quia propter eius truncationem non determinat templus. 
+       <lb ed="#B" n="54"/>Sed tempore determinato sicut est in Decreto, de illo voto non manet dubitatio: &amp; sic nihil valet 
+       <!--792.xml-->
+       <pb ed="#B" n="376-r"/>
+        <lb ed="#B" n="1"/>ad probandum propositum suum. Ex quo patet quod Hugo cuius sententiam in quaestione proposita Magister 
+       <lb ed="#B" n="2"/>sententiarum tenuit, Bedam qui tenuit Mariam ante mrimonium vouisse, minus iuste reprehendit, sic in  
+       <lb ed="#B" n="3"/>quiens in sententiis suis. Beda in expositione super Lucam videtur affirmare beatam Mariam antequam inisset cum 
+       <lb ed="#B" n="4"/>loseph coniugium, decreuisse quod vitam duceret virginalem. Quod equidem a veritate videtur deuiare: cum beata vir 
+       <lb ed="#B" n="5"/>go prudentissima esset: &amp; nouisset quaecunque pie promitterentur esse fideliter persoluenda: verisimile est quod  
+       <lb ed="#B" n="6"/>ab adolescentia se deo totam conmiserat, parata siue ad nubendum siue ad continendum: quemadmodum deum  
+       <lb ed="#B" n="7"/>velle cognosceret, quid testatur <name ref="#Augustine">Augustinus</name> in libro de nup. &amp; concup. his verbis. Istud credendum est, quod beata vir 
+       <lb ed="#B" n="8"/>go mente duntaxat. i. consensu mentis fuerat coniunx loseph: &amp; quod proposuisset permanere in virginita- 
+       <lb ed="#B" n="9"/>te si placeret deo: &amp; aliter agere si ipse vellet. Ex hac auctoritate &amp; ex hoc quod ipsa non renuit despon  
+       <lb ed="#B" n="10"/>sari, manifeste apparet eam antequam desponsaretur continentiam non vouisse: quam tamen certum est eam &amp; vi 
+       <lb ed="#B" n="11"/>rum eius postea promisisse: ex quo vtrique mysterium dominicae incarnationis angelo reuelante innotuit. 
+       <lb ed="#B" n="12"/>Reuera prudentia virginis fecit eam praeeligere virginitatem vt dictum est: &amp; certificauit eam vt 
+       <lb ed="#B" n="13"/>etiam ante coniugium voueret, vt iam dicetur: parata cum hoc ad nubendum secundum quod prudentia sua de 
+       <lb ed="#B" n="14"/>um velle cognouerat: &amp; prius quam certificata erat: &amp; ante coniugium potius in virginitate permane- 
+       <lb ed="#B" n="15"/>re proposuit: licet aliter ageret si deus vellet. Vnde ex auctoritate <name ref="#Augustine">Augustinus</name> et quia certificata non renuit despon 
+       <lb ed="#B" n="16"/>sari, nullo modo eam apparet antequam desponsaretur continentiam non vouisse. Certum etiam est ex dictis eam vo- 
+       <lb ed="#B" n="17"/>uisse absque viro prius quam mysterium incarnationis alicui eorum innotuit: etsi ipsa postmodum cum vi 
+       <lb ed="#B" n="18"/>ro votum sub maiori solemnitate iterauit. Dicta autem auctoritas quam Hugo imponit <name ref="#Augustine">Augustinus</name> de nup. &amp; con 
+       <lb ed="#B" n="19"/>cup, non est in illo libro. vnde nescio an sit <name ref="#Augustine">Augustinus</name> &amp; vnde eam sumpserit. Sic ergo Mariae cum loseph sim 
+       <lb ed="#B" n="20"/>pliciter verum &amp; perfectum erat matrimonium propter prolem &amp; consensum vt dictum est: &amp; simpliciter 
+       <lb ed="#B" n="21"/>votum virginitatis etiam ante matrimonium propter reuelationem &amp; certificationem, nec matrimonii verita- 
+       <lb ed="#B" n="22"/>ti &amp; perfectioni est derogatum per praecedens votum: quia erat sub conditione stante ex certificatione super hoc 
+       <lb ed="#B" n="23"/>habita aut reuelatione. Nec ipsum votum in aliquo est violatum per sequens matrimonium: quia non 
+       <lb ed="#B" n="24"/>erat in copulam carnalem. Nec restat ergo dubitatio nisi de modo quo Maria super praedictis fuit certifica 
+       <lb ed="#B" n="25"/>ta. &amp; dicunt aliqui quod Maria super praemissis certificata fuit speciali spiritus sancti consilio. Cui non contra 
+       <lb ed="#B" n="26"/>dico ex parte virginis: quia contra hoc expressam auctoritatem non vidi: sicut nec dicentem hoc. Vi 
+       <lb ed="#B" n="27"/>detur tamen mihi quod alius modus certificationis eius conuenientior &amp; sufficiens fine illo potest sumi ex ver- 
+       <lb ed="#B" n="28"/>bis <name ref="#Augustine">Augustinus</name> in praedicto sermone: quibus dicit sic. Vicit amor in ea seruandae virginitatis: &amp; exclusit ab ea 
+       <lb ed="#B" n="29"/>timorem incurrendae maledictionis. &amp; infra post illa quae superius sunt posita in principio. Amplectem 
+       <lb ed="#B" n="30"/>do igitur quod acceptabilius esse cognouit domino legis sperauit &amp; credidit se plene euasuram male 
+       <lb ed="#B" n="31"/>dictum datae legis, reputans secum illum tantae bonitatis: tantae sapientiae: vt dum se nullatenus iuxta 
+       <lb ed="#B" n="32"/>conscientiam suam melius scire aut posse facere quam faciebat aduerteret, certum consilium ne quid pec 
+       <lb ed="#B" n="33"/>cati in istis subreperet inueniret. Nec decepta est: quis enim sperauit in domino &amp; derelictus est ab eo: Deni 
+       <lb ed="#B" n="34"/>que vbi tam sanctam intentionem eius, tam castum propositum eius, tam firmam fidem &amp; constantem spem 
+       <lb ed="#B" n="35"/>&amp; indeficientem vidit charitatem eius: eo misericordiae suae intuitu eius circa illam: vt nec sanctitas 
+       <lb ed="#B" n="36"/>intentionis eius frustraretur: nec castitas propositi eius violaretur: ne aut firmitas fidei infirmata a spei 
+       <lb ed="#B" n="37"/>constantia titubaret: aut charitatis in ea plenitudo deficeret. Dedit ergo ei vt &amp; virgo quod magis opta 
+       <lb ed="#B" n="38"/>bat permaneret: &amp; vt nemo illam a maledicto legis liberrimam dubitaret, foecunda fieret. Sic ergo ex 
+       <lb ed="#B" n="39"/>iudicio rectae rationis adiuta genra virginitatem melius quid iudicauit foecunditate ex copula mrimonialis Et 
+       <lb ed="#B" n="40"/>vt <name ref="#Augustine">Augustinus</name> dicit ibidem, licet per reuelationem spiritus sancti apostoli edocti fuerint omnem veritatem: incomparabili 
+       <lb ed="#B" n="41"/>ter tamen manifestius ac eminentius ipsa per eundem spiritum ipsius veritatis intelligebat profunditatem  
+       <lb ed="#B" n="42"/>&amp; hoc quantum pertinet ad propositum, quo ad distantiam inter bonum virginitatis &amp; foecunditatis 
+       <lb ed="#B" n="43"/>ex matrimonio: propter quod deliberata electione amplexata est eam, tanquam sciens per eam magis deo  
+       <lb ed="#B" n="44"/>placere: &amp; ex hoc confidens de eius sapientia &amp; bonitate quod ei prouideret vt virgo permanens maledi 
+       <lb ed="#B" n="45"/>ctum legis effugeret. Et sic domino ante mrimonium castitatem vouit absque omni alia speciali reuelatione, il 
+       <lb ed="#B" n="46"/>luminata sapientia naturalis industriae &amp; gerae: &amp; mota ad hoc faciendum voluntate bona, fide firmata: spe 
+       <lb ed="#B" n="47"/>roborata &amp; charitate inflammata prae caeteris mortalibus sub deo. Propter quod liberius &amp; gratiosius 
+       <lb ed="#B" n="48"/>eius votum erat. &amp; ideo magis deo placuit quam fecisset si motum &amp; instinctum aut reuelationem magis spe 
+       <lb ed="#B" n="49"/>cialem ad hoc habuisset. Vnde &amp; per hoc prius Christum concepit mente quam corpore: dicente Augus. 
+       <lb ed="#B" n="50"/>libro de virginitate. Materna propinquitas nihil Mariae profuisset, nisi felicius Christum fide quam carne 
+       <lb ed="#B" n="51"/>gestasset. lpsa quoque virginitas eius ideo gratior et acceptior &amp;c. vt habitum est supra. Sic enim eum 
+       <lb ed="#B" n="52"/>primo concipiendo promeruit quantum in se erat: vt eum postmodum conciperet carne. dicente Au 
+       <lb ed="#B" n="53"/>gust. in ser. praedicto. Nec summi sapientia dei vllam in massa generationis humanae viam inuenit: per quan 
+       <lb ed="#B" n="54"/>vt disposuerat in mundum veniens luctuosae perditioni subueniret: donec ad istam de qua loquimur 
+       <!--793.xml-->
+       <pb ed="#B" n="376-v"/>
+        <lb ed="#B" n="1"/>virginem ventum esset: sed haec mox vt in mundum per humanae generationis lineam venit, tanita 
+       <lb ed="#B" n="2"/>omnis boni virtute atque constantia perfecte resplenduit: vt ipsa dei sapientia vere dignum iudicaret  
+       <lb ed="#B" n="3"/>per quam in hominem veniens sola prae cunctis mediatrix effici meruit. Et sic quia Maria erat confinium ve 
+       <lb ed="#B" n="4"/>teris &amp; nouae legis, &amp; virgo erat &amp; nupta: vt inchoatio consilii de virginitatis obseruantia ab ipsa 
+       <lb ed="#B" n="5"/>inciperet ex libertate nouae legis: &amp; nuptiae virginum ex necessitate veteris legis in ipsam terminarem 
+       <lb ed="#B" n="6"/>tur: vt de caetero damnabile sit ex propria voluntate post votum nubere, siue fuerit simplex si- 
+       <lb ed="#B" n="7"/>ue solenne: cuius solennizatio secundum certos actus in quibus votum causetur, solennizari in-  
+       <lb ed="#B" n="8"/>stituta est ab ecclesia: &amp; statutum ne de caetero post talem solennizationem possit contrahi matri- 
+       <lb ed="#B" n="9"/>monium: &amp; impeditur omnino ne contrahi possit. Sed ante solennizationem ab ecclesia institutam, 
+       <lb ed="#B" n="10"/>nulla erat voti solennizatio: licet enim vnum potuit fuisse magis publice factum quam aliud, non erat 
+       <lb ed="#B" n="11"/>in hoc nisi accidentalis differentia: quemadmodum modo est votum simplex siue fiat priuatim: si- 
+       <lb ed="#B" n="12"/>ue publice, praeter actus illos in quibus ecclesia ordinauit votum solennizari: ita quod quomodocunque  
+       <lb ed="#B" n="13"/>fuisset factum, siue tempore legis Mosaicae, siue tempore euangelii, praeter actus solennizandi 
+       <lb ed="#B" n="14"/>quos statuit ecclesia, semper tenuisset matrimonium sequens sicut &amp; modo tenet: licet peccasset com 
+       <lb ed="#B" n="15"/>trahens post votum simplex. Vnde si hodie coniuges ex communi consensu vouent voto simpli- 
+       <lb ed="#B" n="16"/>ci, &amp; alter coniugum velit frangere votum, tam firmum est vinculum matrimonii quod alter debet red- 
+       <lb ed="#B" n="17"/>dere debitum, quod potest sine peccato: licet non possit petere. propter quod periculosum est coniugi 
+       <lb ed="#B" n="18"/>bus vouere voto simplici. Quia ergo arguitur quod votum virginitatis simpliciter non stat cum per- 
+       <lb ed="#B" n="19"/>fecto matrimonio: quia tradens plenam potestatem corporis sui viro. consentit saltem implicite in 
+       <lb ed="#B" n="20"/>carnalem copulam: qui consensus repugnat voto virginitatis simpliciter: quia post tale votum talis 
+       <lb ed="#B" n="21"/>consensus damnabilis est: immo etiam omnino tollit matrimonium ne possit fieri: Dicendum secun 
+       <lb ed="#B" n="22"/>dum praedicta quod tradens plenam potestatem corporis sui viro consentit in carnalem copulam dum  
+       <lb ed="#B" n="23"/>non est certificata quod sic prouideretur sibi a deo ne vnquam veniret ad actum: certificata autem nequaquam con- 
+       <lb ed="#B" n="24"/>sentit in actum copulae carnalis: licet consentiat in potentiam: quod non repugnat voto virginitatis 
+       <lb ed="#B" n="25"/>simpliciter: vt dictum est. Sicut enim virginem posse in actum copulae carnalis non repugnat voto virgi- 
+       <lb ed="#B" n="26"/>nitatis simpliciter: dum tamen perfecte non vult actum: sic dare alteri posse super corpus suum ad  
+       <lb ed="#B" n="27"/>copulam non repugnat eidm: dum tamen certitudo adsit quod nunquam actus continget. Talem autem certitu 
+       <lb ed="#B" n="28"/>dinem habuit virgo Maria iam dicto modo, sciens quod etsi loseph non fuisset sic iustus quin voluisset 
+       <lb ed="#B" n="29"/>petere ab ea actum copulae, quid potuit pro illo tempore fecisse sine periculo amittendae iustitiae: quod ta- 
+       <lb ed="#B" n="30"/>men dominus sic disponeret quod nunquam ad actum perueniret: absque tamen suo peccato in denegando-  
+       <lb ed="#B" n="31"/>Vnde quod sciret &amp; certa esset loseph fuisse in proposito simili cum ipsa seruandi virginitatem &amp; num 
+       <lb ed="#B" n="32"/>quam petendi actum copulae: hoc non erat necessarium vt sine peccato virginitatem simpliciter voue- 
+       <lb ed="#B" n="33"/>ret cum proposito contrahendi propter legis necessitatis: sed suffecit alia praedicta. Nunc autem ista 
+       <lb ed="#B" n="34"/>debet esse nobis regula, quod ad id quid potest fieri vnico non requiramus plura: nec hoc quod potest fieri 
+       <lb ed="#B" n="35"/>sine miraculo, imponamus miraculo: nec id quid potest fieri ex dono naturae imponamus dono gratiae 
+       <lb ed="#B" n="36"/>nec id quid potest fieri dono supernaturali dato modo communi, tribuamus dono supernaturali dato  
+       <lb ed="#B" n="37"/>modo speciali. Vnde cum ex scientia naturalis industriae cum dono gratiae datae modo communi quo  
+       <lb ed="#B" n="38"/>aliis solet dari, licet in maiori abundantia, potest poni Mariam certam fuisse secundum dictum mo 
+       <lb ed="#B" n="39"/>dum quod deo prouidente nunquam veniret ad actum copulae carnalis: licet non fuisset certa ex speciali 
+       <lb ed="#B" n="40"/>modo reuelationis sibi factae super hoc: &amp; licet non fuisset certa de loseph quod sic iustus erat quod esset in  
+       <lb ed="#B" n="41"/>consimili proposito cum ipsa: talem reuelationem sibi factam fuisse vt ante matrimonium simplici 
+       <lb ed="#B" n="42"/>ter voueret: &amp; postmodum perfectum matrimonium contraheret: non oportet ponere. Si tamen sciuit quod lo-  
+       <lb ed="#B" n="43"/>seph esset sic iustus vt eam non esset violaturus: sed tantummodo custoditurus, sicut dicit <name ref="#Augustine">Augustinus</name>  
+       <lb ed="#B" n="44"/>ad hoc bene requirebatur specialis reuelatio. Propter dictam igitur certitudinem non erat Mariae 
+       <lb ed="#B" n="45"/>damnabile matrimonium dicto modo contrahere. Quia tamen modo post votum simpliciter factum aliqua  
+       <lb ed="#B" n="46"/>contraheret, non liceret: sed secundum Hiero. velle nubere esset ei danmnabile: quia matrimonium modo nec in prae 
+       <lb ed="#B" n="47"/>cepto nec in consilio: sed in sola permissione: quia post simplex votum etsi teneret mrimonium, contrahens pecca 
+       <lb ed="#B" n="48"/>ret: quia non faceret hoc nisi quodammodo in actum carnalis copulae consentiret vt dictum est. post votum autem  
+       <lb ed="#B" n="49"/>solemne similiter peccaret. Et quamquam apud deum non minus obligat simplex quam solemne: tamen propter ecclsiae interdi- 
+       <lb ed="#B" n="50"/>ctum post votum solemne matrimonium non tenet. Vnde quod sub noua lege virgo contraheret post vo- 
+       <lb ed="#B" n="51"/>tum, ad hoc nihil omnino posset eam mouere nisi specialis reuelatio diuina: aut auctoritas eccle- 
+       <lb ed="#B" n="52"/>siae: cuius esset in hoc dispensare: quia ad damnationem suam quoquo modo in actum carnalis copulae 
+       <lb ed="#B" n="53"/>consentiret: &amp; periculo sustinendi illum se exponeret, quod non sic erat de Maria: quia erat confinium  
+       <lb ed="#B" n="54"/>vtriusque legis: vt dictum est. Propterea enim nulla speciali reuelatione indiguit (quantum mihi videtur) 
+       <!--794.xml-->
+       <pb ed="#B" n="377-r"/>
+        <lb ed="#B" n="1"/>sed solum certificatione praedicta ad faciendum quod fecit, vt patet ex dictis. Quin tamen cum tali certifica 
+       <lb ed="#B" n="2"/>tione reuelatio, quam multi ponunt, ei fuerit facta non penitus abnego: quia hoc in puro facto consistit. 
+       <lb ed="#B" n="3"/>Sed siue ex tali reuelatione siue alio modo certificata fuerit: siue post matrimonium vouerit siue non 
+       <lb ed="#B" n="4"/>de quo nihil est ponendum nisi secundum quod dictant recta ratio &amp; dicta sanctorum factum fuisse perfe- 
+       <lb ed="#B" n="5"/>ctius: quod ipsam praesumendum est fecisse: tamen ex dictis patet quod licite ante matrimonium perfectum subse 
+       <lb ed="#B" n="6"/>cuturum potuisset vouisse simpliciter absolute.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

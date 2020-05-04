@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="549-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5260">
+       <head xml:id="n3av8a-c1e5260-Hd1e96">Quaestio 15</head>
+       <p xml:id="n3av8a-c1e5260-d1e99">
+        <lb ed="#B" n="10"/>CIrca tertium arguitur quod ingressus religionem ex voto &amp; expertus post ingressum quod possit one 
+       <lb ed="#B" n="11"/>ra illius portare, teneatur in illa profiteri. quia sicut se hent votum ad ingressum sic expientia post 
+       <lb ed="#B" n="12"/>gressum se hent ad professionem, sicut enm non est votum nisi propter ingressum, sic non est experientia. 
+       <lb ed="#B" n="13"/>isi propter professionem. sed vouens se ingressurum religionem aliquam tenetur illam ingredi 
+       <lb ed="#B" n="14"/>ergo similiter expartus in illa quod possit onera eius poretare, tenetur in ea profiteri. ltem. ne S 
+       <lb ed="#B" n="15"/>mo mittens manum suam ad aratrum aspiciens retro aptus est regno dei, Lucae. ix. sed iste 
+       <lb ed="#B" n="16"/>expertus misit manum ad aratrum religionis: recedendo autem &amp; non profitendo aspicit retro. ergo non est aptus regno  
+       <lb ed="#B" n="17"/>dei. hoc autem non est nisi quia mortaliter peccat non profitendo, &amp; quilibet tenetur facere illud quod non faciendo mortaliter 
+       <lb ed="#B" n="18"/>peccat. ergo &amp;c. Contra. vouens intrare religionem non plus tenetur facere ratione voti quam sub voto continetur: sed  
+       <lb ed="#B" n="19"/>professio non continetur sub voto de ingressu: quia tunc vouens ingressum simul voueres professionem: quid fal 
+       <lb ed="#B" n="20"/>sum est, quia nec vouet experientiam. aliter enim non posset exire antequam esset expertus an fortis esset ad  
+       <lb ed="#B" n="21"/>portandum onera religionis, an intantum debilis quod non consequenter teneretur. quare &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5260-d1e128">
+       DIcunt aliqui quod qui  
+       <lb ed="#B" n="22"/>libet tenetur facere illud sine quo illud ad quod tenetur, siue ex voto, siue alio modo, non potest impleri: nisi vane 
+       <lb ed="#B" n="23"/>&amp; inutiliter: puta si miles, promittat regiquoe secum ibit siue veniet ad bellum contra aduersarios illius: va 
+       <lb ed="#B" n="24"/>ne &amp; inutiliter iret comparendo coram aduer sariis in bello, si non maneret &amp; manendo pugnaret &amp; 
+       <lb ed="#B" n="25"/>in pugna perseueraret, sed recederet: nec impleret promissum de eundo siue veniendo ad bellum fine 
+       <lb ed="#B" n="26"/>mora &amp; pugna &amp; perseuerantia, nisi rationabilis causa de recedendo superueniret: puta aegritudo aut 
+       <lb ed="#B" n="27"/>notitia quod rex iniustum bellum moueret, aut aliquid huiusmodi, quia sine illis vane veniret, quia nihil proficeret 
+       <lb ed="#B" n="28"/>&amp; inutiliter, quia aliis mitilibus exemplum recedendi praeberet: quid totum exercitum regis in timorem &amp; fu 
+       <lb ed="#B" n="29"/>gam conuertere posset. Sed ingressus religionis ad quem quis tenetur ex voto, non posset impleri nisi vane 
+       <lb ed="#B" n="30"/>&amp; inutiliter si non maneret &amp; manendo experiretur &amp; exprtus profiteretur &amp; perseueraret, sed recederet 
+       <lb ed="#B" n="31"/>quia sine illis vane &amp; sine profectu intraret atque experiretur, &amp; similiter inutiliter, quia aliis sibi consimilibus ex- 
+       <lb ed="#B" n="32"/>emplum recedendi consimiliter praeberet &amp; ad recessum quantum in se esset prouocaret, &amp; sic eos scandalizaret 
+       <lb ed="#B" n="33"/>Nec est causa rationabilis de recedendo superueniens de nunquam profitendo, quia neque ex parte sua, quid suppo 
+       <lb ed="#B" n="34"/>nitur, neque ex parte religionis. quia supponitur quod quaelibet religio quantum est ex parte sui sit conueniens cuili 
+       <lb ed="#B" n="35"/>bet valenti onera illius portare, ergo quilibet vouens ingressum religionis tenetur non solum ingredi illam, sed  
+       <lb ed="#B" n="36"/>etiam manere quousque sit expertus vires suas dicto modo, &amp; similiter profiteri si sit expertus quod onera illius religionis sut 
+       <lb ed="#B" n="37"/>ficit portate. &amp; sm hoc concedunt duas priores rationes. Ad rationem autem in oppositum dicunt quod licet profes- 
+       <lb ed="#B" n="38"/>sio non contineatur sub voto de ingressu principaliter, continetur tamen sub illo ex annexo, quia vouens ingressum 
+       <lb ed="#B" n="39"/>debet hire propositum de profitendo si expertus fuerit vires suas sufficere ad onera illius religionis portanda. &amp; ideo 
+       <lb ed="#B" n="40"/>professio futura cadit sub voto sub conditione si tales vires expartus fuerit fore in se, nec illis expartis pote- 
+       <lb ed="#B" n="41"/>rit exire. Et quia expertus sic esse non potest nisi prius experiatur, neque experiri nisi maneat, ideo etiam implicite &amp; ex 
+       <lb ed="#B" n="42"/>annexo sub voto de ingressu cadunt simpliciter &amp; absque vlla conditione manere &amp; expriri post ingressum 
+       <lb ed="#B" n="43"/>quousque super viribus suis dictam habuerit experientiam. 
+      </p>
+      <p xml:id="n3av8a-c1e5260-d1e178">
+       CIco ego quod in omni quaestione de quacunque  
+       <lb ed="#B" n="44"/>obseruantia regulari ex voto qualis est quaestio iam proposita, &amp; qualis erat quaestio quam habuimus in praecedem 
+       <lb ed="#B" n="45"/>ti Quolibet: vtrum videlicet ingressus religionem ex voto praecedente si statim exeat post ingressum votum suum 
+       <lb ed="#B" n="46"/>expleuerit, duo sunt consideranda. scilicet vis &amp; obligatio voti, &amp; vis atque obligatio statuti ecclesiastici, siqui- 
+       <lb ed="#B" n="47"/>dem circa illam obseruantiam sit editum: &amp; similiter vis et obligatio consuetudinis circa illam obser- 
+       <lb ed="#B" n="48"/>uantiam rationabilis &amp; praescriptae: quae merito vigorem iuris debeat obtinere. Si enim statutum aliquid circa 
+       <lb ed="#B" n="49"/>illam sit editum, aut consuetudo obseruata, sm illam votum illud interpretandum est: puta si quaeratur, vtrum ingressus 
+       <lb ed="#B" n="50"/>religionem ex voto praecedente post lapsum anni possit libere exire si statutum aliquid ecclesiae contineat quod talis 
+       <lb ed="#B" n="51"/>post lapsum anni statim teneatur pro professo seu teneatur profiteri, aut etiam consuetudo reli- 
+       <lb ed="#B" n="52"/>gionis, sentiendum est quod ille nequaquam possit de caetero exire. Si autem nullum statutum circa illam obseruantiam 
+       <lb ed="#B" n="53"/>editum sit, neque consuetudo aliqua obseruata, votum illud solummo &amp; praecise interpretandum est secundum vim 
+       <lb ed="#B" n="54"/>&amp; obligationem voti. Intentio igitur mea est respondere ad propositam quaestionem, quema dmodum etiam fuit in  
+       <lb ed="#B" n="55"/>responsione ad quaestionem dictam praecedenti Quodlibet, habendo respectum solummo &amp; praecise ad vi &amp; obligatio 
+       <lb ed="#B" n="56"/>nem voti saluo omnistatuto ecclesiastico circa obseruantiam regularem in quaestione propositam edito vel edendo, &amp; similite 
+       <!--1139.xml-->
+       <pb ed="#B" n="549-v"/>
+        <lb ed="#B" n="1"/>consuetudine obseruata vel conseruanda, quia &amp; ordinationi ecclesiae &amp; voluntati superioris &amp; statuto 
+       <lb ed="#B" n="2"/>ecclesiae atque consuetudini praedictae censemus in talibus omnino fore assentiendum. Hac ergo protestatione propo 
+       <lb ed="#B" n="3"/>sita &amp; intellecta semper in hac quaestione &amp; in consimilibus, Dico quod reuera ingressus religionem siue ex voto praecedente 
+       <lb ed="#B" n="4"/>de ingrediendo siue absque voto, debet prius experiri vires suas antequam profiteatur. Vnde &amp; ad hoc nequis in  
+       <lb ed="#B" n="5"/>discrete profiteatur, datus est ei annus probationis, sicut dicit illa decretalis, non solum in fauorem conuer 
+       <lb ed="#B" n="6"/>si. Vt enim dicit Ambro. in epistola ad Montanum, tempore indigemus vt aliquid maturius agamus nec praeci 
+       <lb ed="#B" n="7"/>pitemus consilia. Et idem ad Simplicium. Lenta est omnis virtus &amp; diuturna cunctatrix: ande iudicat priusque  
+       <lb ed="#B" n="8"/>examinat. &amp; hoc praecipue ad illa de quibus sunt consilia, quae vt dicit libro i. de virginitate, supra nos sunt 
+       <lb ed="#B" n="9"/>&amp; in voto magis sunt quam in magisterio siue praecepto. quae vt dicit <name ref="#Augustine">Augustinus</name> in libro de adulterinis coniu- 
+       <lb ed="#B" n="10"/>giis, facienda sunt non lege iubente, sed libera charitate, &amp; ea sunt in nostris officiis gratiora, quae cum 
+       <lb ed="#B" n="11"/>liceret nobis non impendere, tamen causa dilectionis impendimus. Et ideo vt dicit in libro de virginitate, in  
+       <lb ed="#B" n="12"/>maiori merito collocant propter quod de talibus dicit dominus, Qui potest capere capiat, non ex necessita 
+       <lb ed="#B" n="13"/>te, potestatem habentes vfae voluntatis, vt dicit ibidem. Igitur vt de proponente vouere seu profiteri dicit 
+       <lb ed="#B" n="14"/>Hiero. ad Demetriadem, sanctae ac spiritualis vitae fundamenta iaciantur vt vires suas agnoscat: quais de-  
+       <lb ed="#B" n="15"/>mum bene exercere poterit cum eas se didicerit habere. optima. n hortamenta sunt cum docetur aliquis posse 
+       <lb ed="#B" n="16"/>quod cupiat: ne nihil prosit ad ea vocari quae sibi forte impossibilia esse praesumpserit. &amp; Ambro. libro 
+       <lb ed="#B" n="17"/>de vidui. Mensura ergo oneris pro mensura debet esse gerentis. alioquin impositi hominis fit ruina vbi vectoris infir 
+       <lb ed="#B" n="18"/>mitas est, non supra vires abstinentiae grauioris vectura subeunda est, sed reliquendum est vt vnaquamque anima se pe- 
+       <lb ed="#B" n="19"/>set, non auctoritate aliquam praecepti, sed incremento gerae prouocata. Vbi praeceptum est lex est: vbi consilium gera est: praeceptum 
+       <lb ed="#B" n="20"/>ad naturam reuocat: consilium ad generam prouocat. sed hoc non omnibus iperatur, si ab omnibus flagitatur. etenim qui pesam dis 
+       <lb ed="#B" n="21"/>tribuit aequitatem debet examinis refuare: pesa est quae diuiditur: sapientia quae ita diuidit vt virtutes viresque aesti 
+       <lb ed="#B" n="22"/>met singulorum. &amp; ideo dicit dominus quod qui potest capere capiat. Scit enim creator omnium affectus esse varios singu- 
+       <lb ed="#B" n="23"/>lorum, &amp; ideo ad virtutem prouocat, non autem infirmitatem viculis alligat. Sed quoniam vt sicut dicit dominus, non omnis quae  
+       <lb ed="#B" n="24"/>ndo coepit deliberet: quae aggressa est perseueret: nulla detur occasio aduersatio, nulla subtrahatur Christo obla 
+       <lb ed="#B" n="25"/>tio: noli ergo vt ait Hiero. ad Alletam, subire onus quid ferre non poteris, ne vt ait Greg. li. i. Pasto, qui  
+       <lb ed="#B" n="26"/>in plano stantes titubant in praecipitio pedem ponant. Et licet vt dictum est ingressus religionem debeat expriri vires 
+       <lb ed="#B" n="27"/>suas prius quam profiteatur, vt non nisi discrete profiteatur: Dico tamen quod vouens ingressum religionis, &amp; illum solummodo expli 
+       <lb ed="#B" n="28"/>cans verbo cordis, siue explicet verbo cordis aut oris quod in vouendo habet propositum &amp; de intrando &amp; de 
+       <lb ed="#B" n="29"/>permanendo, &amp; de experiendo et de profitendo, siue neutro modo explicet, sed cointelligatur implicite, nisi vere 
+       <lb ed="#B" n="30"/>&amp; expresse intendat verbo cordis, aut oris se obligare ad permanendum &amp; ad experiendum &amp; ad profitendum  
+       <lb ed="#B" n="31"/>vel simpliciter, vel sub conditione si sufficientem se oneri inuenerit: ad nullum illorum se obligat per illud votum, nec com 
+       <lb ed="#B" n="32"/>tinentur sub eo ex annexo, sicut nec simpliciter, sed cadunt solummo sub modo proposito: quia nequamquam se obligat, sia est so 
+       <lb ed="#B" n="33"/>lummodo circunstantia voti, siue tamquam circunstans votum, sine quae votum ipsum non esset votum, nec etiam esset licitum, promissum 
+       <lb ed="#B" n="34"/>nisi in casu fieret puta occasione mortis, vel huiusmodi vel alicuius consimilis. vnde &amp; in praecedenti Quolibet si sic posset 
+       <lb ed="#B" n="35"/>voueri ingressus religionis sub dubitatione dimisi quaestionem. xx. Et sic dico quod ex ratione &amp; forma talis voti 
+       <lb ed="#B" n="36"/>sic vouens nihil amplius vouet quam merum ingressum, &amp; ad nihil amplius se obligat. Et sic vt mihi videtur nihil il 
+       <lb ed="#B" n="37"/>lorum verum est quae assumpta sunt in solutione vltimi argumenti, &amp; sicut professio sub dicta conditione scilicet si 
+       <lb ed="#B" n="38"/>expertus fuerit, non cadit sub voto, similiter secundum quod alias declaraui, nec mora, nec experien- 
+       <lb ed="#B" n="39"/>tia cadunt sub voto ingressus, quoniam si aliquod istorum implicite, aut ex annexo caderet sub vo 
+       <lb ed="#B" n="40"/>to, potius caderet sic sub voto ipsa professio quam mora vel experientia, quia professio est finis ingressus mo 
+       <lb ed="#B" n="41"/>rae &amp; experientiae. finis autem semper principalius cadit sub proposito &amp; intentione proponentl inquantum proponit: quam aliquid eo 
+       <lb ed="#B" n="42"/>rum quae sunt ad finem. Et sic quemadmodum siquis voueret se daturum pitantiam alicui religioni in aliqua certo die &amp; 
+       <lb ed="#B" n="43"/>siml proponeret illam intrare illo die, nec intenderet in proponendo se obligare ad ingressum, nec in vouen 
+       <lb ed="#B" n="44"/>do pitantiam, nullo modo dicendus esset talis esse obligatus ad ingressum, nec deberet dici quod ingres- 
+       <lb ed="#B" n="45"/>sus caderet vllo modo sub illo voto: sic, siquis vouet se ingressurum religionem, &amp; simul proponit 
+       <lb ed="#B" n="46"/>manere &amp; experiri &amp; profiteri, nullo modo dicendus est esse obligatus ad moram, experientiam, seu professio 
+       <lb ed="#B" n="47"/>nem, nec implicite, nec explicite, nec vere, nec interpraetatiue, nec principaliter, nec ex annexo quantum est 
+       <lb ed="#B" n="48"/>de vi voti simplicis ingressus, quia vota sunt stricti iuris: si siquis voueret se professurum, siue proponeret expresse 
+       <lb ed="#B" n="49"/>aut voueret se intraturum siue non, sper tamen iplicite &amp; interpretatiue &amp; ex annexo censendus esset vouere ingressum, &amp; 
+       <lb ed="#B" n="50"/>similiter moram ad experiendum &amp; experientiam si non velit in ingressu stati profiteri. &amp; hoc ideo quia posterius ordie non potest 
+       <lb ed="#B" n="51"/>impleri fine impletione prioris. prius tamen potest impleri fine posterioris impletione. Vnde cum ordine discretionis &amp; ratio 
+       <lb ed="#B" n="52"/>nis rectae atque statuti ecclesiae, post ingressum mora &amp; experientia quae haberi potest primo anno qui dicitur 
+       <lb ed="#B" n="53"/>probationis, debeant praecedere professionem: in quo tamen quisque potest ex permissione ecclesiae sibi praeiudica 
+       <lb ed="#B" n="54"/>re seipsum statim ad professionem futuram obligando, aut etiam statim profitendo, ideo profitens statim, aut 
+       <!--1140.xml-->
+       <pb ed="#B" n="550-r"/>
+        <lb ed="#B" n="1"/>obligans se ad professionem futuram, post talem obligationem aut professionem tenetur intrate &amp; 
+       <lb ed="#B" n="2"/>morari, sed non ad experiendum, sed ad votum implendum, non tamen econuerso post introi- 
+       <lb ed="#B" n="3"/>tum tenetur vllo modo morari experiri aut profiteri quantum est de vi voti. Et sicut iste ex vi 
+       <lb ed="#B" n="4"/>voti ingressus non tenetur experiri: sic religionem ingressus &amp; expertus quod potest onera eius por- 
+       <lb ed="#B" n="5"/>tare non tenetur profiteri. Quod dico: si solummodo expressit votum introitus. Si enim sic ex- 
+       <lb ed="#B" n="6"/>pertus teneretur ex hoc profiteri, videtur quod siquis esset perfecte exprtus quod sufficerent sibi vires ad portandum 
+       <lb ed="#B" n="7"/>onera religionis, sicut plurimi sunt clerici: qui morantur cum religiosis: qui secretis consiliis &amp; laboribus parti 
+       <lb ed="#B" n="8"/>nentibus ad onera religionis intersunt: qui etiam experientia visus &amp; auditus &amp; aliorum sensuum plus 
+       <lb ed="#B" n="9"/>possunt noscere onera religionis quam nouitii in illa quacunque experientia operis: talis inquam vouendo  
+       <lb ed="#B" n="10"/>introitum religionis statim esset obligatus ad faciendum professionem: quid falsum est, quia etiam tali 
+       <lb ed="#B" n="11"/>a iure concessus est annus probationis: qui frustra ei concederetur. Perinde enim esset talem statum profiteri &amp; 
+       <lb ed="#B" n="12"/>expectare vsque ad annum: nisi quod maior experientia esset in ipso, si cum experientia sensuum esset experi 
+       <lb ed="#B" n="13"/>entia operis in ipso, quam si non esset. Sed non videtur quod requiritur in hoc summa exprientia. Aliter enim nouitii de-  
+       <lb ed="#B" n="14"/>berent interesse secretis consiliis ordinis: in quibus grauia &amp; ardua ordinis tractantur: ad quae in plerisque or 
+       <lb ed="#B" n="15"/>dinibus nequaquam admittuntur. Falsum est ergo illud ex quo istud sequitum scilicet quod vouens simpliciter intrare tene 
+       <lb ed="#B" n="16"/>tur ad professionem si expertus fuerit se fore idoneum ad onera religionis portanda. Quare non plus vouens 
+       <lb ed="#B" n="17"/>intrare secundum dictum modum tenetur permanere expgriri aut profiteri si inuenerit se idoneum, quam intrans 
+       <lb ed="#B" n="18"/>simpliciter absque omni praecedenti voto. de quo omnino manifestum est quod ad nullum illorum tenetur, quia nihil omnino vouit 
+       <lb ed="#B" n="19"/>aut promisit nisi ex fallibili appentia facti, potest enim talis intrare derisorie cum intentione stati exeundi: qui gra 
+       <lb ed="#B" n="20"/>uiter peccaret: quemadmodum grauitur peccaret ille qui in facie ecclesiae duceret per verba de praesenti mulie 
+       <lb ed="#B" n="21"/>rem cui non esset in aliquo prius obligatus, cum intentione &amp; proposito ipsam statim dimittendi &amp; in  
+       <lb ed="#B" n="22"/>trandi religionem. &amp; tamen sicut iste non est obligatus ad standum cum illa muliere, quia nec est ei in vllo obli 
+       <lb ed="#B" n="23"/>gatus secundum rim: sic nec ille ad permanendum in religione. Vnde quod post introitum religionis, etiam ex vo 
+       <lb ed="#B" n="24"/>to, aliqua mora aut experientia expectanda sunt, hoc non est ex aliqua obligatione in voto de intram 
+       <lb ed="#B" n="25"/>do, sed solummo ne professio fiat indiscrete, vt patet ex dictis sanctorum praepositis. Nec etiam ecclesia ex 
+       <lb ed="#B" n="26"/>statuto suo tale tempus indulsit nisi praeuio iudicio rectae rationis naturalis quae sic debet fieri: sed quod tantum tem 
+       <lb ed="#B" n="27"/>pus, annuale scilicet ordinauit, &amp; sic limitauit, non similiter ex recto iudicio rationis naturalis fuit, quia vbi 
+       <lb ed="#B" n="28"/>vni vel in vna religione sufficeret ad experientiam tempus annuale, forte alteri vel in alia religio 
+       <lb ed="#B" n="29"/>ne non sufficeret tempus triennale: sed potius ex recto iudicio rationis coniecturalis tantum tempus 
+       <lb ed="#B" n="30"/>est praefixum: &amp; quia regulariter praesumendum est quod cuilibet homini habenti vsum rationis tantum temporis sut 
+       <lb ed="#B" n="31"/>ficiat ad capiendum experientiam duritiae &amp; status cuiuslibet religionis. Sic ergo adhuc dico re 
+       <lb ed="#B" n="32"/>uertendo iterum ad propositum: quod esto quod quis voueat intrare religionem cum proposito intrandi, per  
+       <lb ed="#B" n="33"/>manendi, experiendi, &amp; profitendi: tamen postquam ingressus est, &amp; soluit propositum de intrando, non tamen  
+       <lb ed="#B" n="34"/>quia proposuit, sed quia vouit: aliter enim ad soluendum non teneretur, sicut dictum est: absque omni calum 
+       <lb ed="#B" n="35"/>nia soluit totum promissum suum, maxime si intrauerit continuato proposito de intrando: quod proculdubio necesse 
+       <lb ed="#B" n="36"/>est iplere, vt dictum est. Nec tamen suit ei necesse ad soluendum votum quod intrando habet propositum de permanendo  
+       <lb ed="#B" n="37"/>experiendo &amp; profitendo, sed statim post introitum potest exire absque omni mora experientia &amp; 
+       <lb ed="#B" n="38"/>professione: &amp; in mera voluntate intrantis est permanere &amp; non permanere: &amp; etiam per aliquam per 
+       <lb ed="#B" n="39"/>manentiam experiri, &amp; non experiri, &amp; similiter post perfectam experientiam etiam si inuenerit se idoneum pro  
+       <lb ed="#B" n="40"/>fiteri &amp; non profiteri, ita quod quondocumque ei placuerit post ingressum libere possit exire absque omni peccato 
+       <lb ed="#B" n="41"/>Etenim si vouendo introitum simul voueret ex proposito annexo permanentiam experientiam &amp; pro  
+       <lb ed="#B" n="42"/>fessionem, hoc tamen non esset nisi sub conditione tali, scilicet si ei placeret, &amp; quousque ei simplici 
+       <lb ed="#B" n="43"/>ter placeret. Etiam licet ab initio praesumeret &amp; certitudinaliter sciret quod posset onera ordinis por 
+       <lb ed="#B" n="44"/>tare, nequaquam esset ex hoc ad profitendum obligatus: quia nequaquam vouet sub illa conditione, si inuenerit ex 
+       <lb ed="#B" n="45"/>experientia se idoneum ad portandum onera religionis. tunc enim illa conditione extante etiam sta- 
+       <lb ed="#B" n="46"/>tim obligatus esset ne posset postmodum, vel statim exire, vt dicunt in solutione vltimae rationis 
+       <lb ed="#B" n="47"/>Quid fallum est, quia in primo voto non plus vouet se professurum si experiatur se posse portare one 
+       <lb ed="#B" n="48"/>ra religionis, quam non professurum si experiatur se non posse portare illa: cum tamen esset ei licitum 
+       <lb ed="#B" n="49"/>de bonum non profiteri, si non posset onera religionis portare, &amp; malum profiteri, vt patet ex supra 
+       <lb ed="#B" n="50"/>dictis. Et quod amplius est non plus vouet se permansurum &amp; experturum &amp; professurum post ingressum si ve 
+       <lb ed="#B" n="51"/>lit quam non permansurum nec experturum neque professurum si nolit, cum tamen hoc liceat licet forte non  
+       <lb ed="#B" n="52"/>expediat. immo nullo modo omnino vouet aut obligat se permansurum aut non permansurum, experturum aut non exper- 
+       <lb ed="#B" n="53"/>turum, professurum aut non professurum, &amp; hoc neque simpliciter neque sub conditione vlla. Dico igitur tertio simpliciter 
+       <lb ed="#B" n="54"/>quod si talis exprtus sit post ingressum ex voto praecedente etiam de ingressu quod possit onera religionis 
+       <!--1141.xml-->
+       <pb ed="#B" n="550-v"/>
+        <lb ed="#B" n="1"/>portare, nequaquam tamen propter hoc tenetur profiteri, sicut nec fratres illius religionis tenentur ipsum 
+       <lb ed="#B" n="2"/>ex vllo voto vel promisso recipere ad professionem etiam si ille velit, licet forte illi peccarent volen 
+       <lb ed="#B" n="3"/>tem profiteri non admittendo nisi causa rationabilis esset. ille autem non peccaret exeundo. Quod ergo  
+       <lb ed="#B" n="4"/>dicunt praedicti: quod quilibet tenetur facere &amp;c. vt recitatum est iam supra: dico quod vtilitur &amp; fructuose ali 
+       <lb ed="#B" n="5"/>quod opus contingit implere dupliciter. Vno modo illi cui vouetur &amp; promittitur. Alio modo illi qui  
+       <lb ed="#B" n="6"/>vouet aut promittit. Et licet primo modo talis intrans &amp; non permanens neque experiens neque profitens 
+       <lb ed="#B" n="7"/>similiter neque experturus neque professurus non impleat promissum vtiliter seu fructuose illis quibus  
+       <lb ed="#B" n="8"/>vouit, immo occasionaliter illis quibus vouit magis obest talis introitus quam prodest: secundo tamen modo  
+       <lb ed="#B" n="9"/>vtiliter &amp; fructuose intrat dicto modo. Vtiliter dico &amp; fructuose non in acquirendo bonum, sed in fu 
+       <lb ed="#B" n="10"/>giendo malum, quia sic intrando non est transgressor voti primi, quod esset si non intraret etiam si mu 
+       <lb ed="#B" n="11"/>taret propositum de intrando &amp; haberet propositum de non intrando. quemadmodum econtra vouentibus 
+       <lb ed="#B" n="12"/>castitatem non solum nubere, sed velle nubere damnabile est, quid tamen nequaquam esset, si ante ingressum mu 
+       <lb ed="#B" n="13"/>taret propositum de non permanendo, aut non experiendo, aut non profitendo, quia vt dictum est 
+       <lb ed="#B" n="14"/>nuiium illorum omnino cadebat sub voto. &amp; ideo absque peccato potest tale propositum ad libitum  
+       <lb ed="#B" n="15"/>voluntatis mutari statim ante ingressum: nec peccat in introitu cum tali proposito contrario 
+       <lb ed="#B" n="16"/>proposito sub quo vouit, quia se liberat a praecedenti obligatione. sicut qui primo promisit ducere 
+       <lb ed="#B" n="17"/>mulierem, &amp; vouit intrare religionem: potest primo ducere illam absque peccato, non tam propter 
+       <lb ed="#B" n="18"/>aggressum melioris boni, quia hac de causa etiam consummato matrimonio post carnalem copu- 
+       <lb ed="#B" n="19"/>lam posset vxorem dimittere propter ingressum religionis: simpliciter enim semper melius bonum est 
+       <lb ed="#B" n="20"/>religio quam matrimonium: quam propter promissionem qua se prius obligauerat soluendam: licet vt 
+       <lb ed="#B" n="21"/>dictum est multum peccaret qui absque coactione voti praecedentis intraret religionem cum proposito sta 
+       <lb ed="#B" n="22"/>tim exeundi, aut duceret mulierem absque obligatione praecedente de ipsa ducenda, cum proposito statim 
+       <lb ed="#B" n="23"/>religionem intrandi. Maior ergo in ratione illorum simpliciter vera est quoniam illud ad quidquis tenetur 
+       <lb ed="#B" n="24"/>nullo modo potest impleri sine alio nisi vane &amp; inutiliter, &amp; illi qui promittit &amp; tenetur, &amp; illi cui promittitur 
+       <lb ed="#B" n="25"/>&amp; cui tenetur. Veruntamen si illud ad quod tenetur ex voto vel ex promissione non vergit in profectum 
+       <lb ed="#B" n="26"/>illius cui vouetur vel promittitur: nisi cum aliis impletis, &amp; fine aliis inutiliter impleturilli: si tamen il 
+       <lb ed="#B" n="27"/>lud vergit in profectum illius qui vouit aut promisit, bene ponst vtiliter impleri sine illis impletis, quia votum 
+       <lb ed="#B" n="28"/>siue promissum sic debet semper interpretari, vt vergat in fauorem illius in cuius profectum sit principaliter, sicut iam 
+       <lb ed="#B" n="29"/>dicetur. Et sic non est simile de milite qui ex promisso tenetur ire ad bellum cum rege, &amp; in proposito, quia  
+       <lb ed="#B" n="30"/>illa obligatio fit in commodum regis principaliter &amp; in eius fauorem: &amp; ideo secundum intellectum regis ratio 
+       <lb ed="#B" n="31"/>nabilem deberet interpretari, sicut iuramentum semper debet interpretari secundum rationabilem intellectum qui praesu- 
+       <lb ed="#B" n="32"/>mi debet fuisse in eo cui iuratur. Et ideo quia rationabiliter praesumitur, &amp; pro certo, quod rex militem non con- 
+       <lb ed="#B" n="33"/>duceret ad solum veniendum secum ad locum belli, sed ad pugnandum &amp; secum perseuerandum in bel- 
+       <lb ed="#B" n="34"/>lo, ideo miles ad hoc tenetur principaliter: &amp; implicite intelligitur fuisse promissum in promissione ve 
+       <lb ed="#B" n="35"/>niendi ad bellum. lsta autem promissio de intrando religionem sit principaliter in fauorem ipsius vouen 
+       <lb ed="#B" n="36"/>tis: &amp; ideo secundum eius intellectum rationabilem debet votum illud interpretari: &amp; ideo ratio- 
+       <lb ed="#B" n="37"/>nabiliter praesumitur quod ad tam arduum &amp; periculosum velit se statum obligare, si hoc specialiter 
+       <lb ed="#B" n="38"/>exprimat vel intendat, puta ad profitendum etiam, si se inueniat per experientiam idoneum, quia bene 
+       <lb ed="#B" n="39"/>fallit humana experientia, vel ad simpliciter permanendum post ingressum, aut etiam experien- 
+       <lb ed="#B" n="40"/>dum, postquam dubium est an placere debeat ipsum permanere aut experiri, etiam si nulla causa rationabilis oc 
+       <lb ed="#B" n="41"/>currat propter quam debeat rationabiliter displicere: sed maxime si aliqua causa etiam minus rationabilis ei 
+       <lb ed="#B" n="42"/>occurrat quare ei displiceat, inutile esset omnino illi permanere aut experiri sine complacentia. &amp; sic 
+       <lb ed="#B" n="43"/>non obstante quod tale votum posset impleri mutato proposito de permanendo experiendo &amp; profiten- 
+       <lb ed="#B" n="44"/>do: simpliciter tamen quantum est ex se tanti boni est, &amp; ideo intantum est materia voti quamuis postmodum mutetur proposi 
+       <lb ed="#B" n="45"/>tum dictum, quanti boni esset, &amp; quantum esset materia voti si maneret propositum dictum, quia mu- 
+       <lb ed="#B" n="46"/>tatio vel permanentia superueniens omnino est accidentalis voto: &amp; sufficit ei quod pro tempore voti sit propo 
+       <lb ed="#B" n="47"/>situm implendi illa tanquam circunstantia necessaria ad fieri voti, sed non necessario ad impletionem vo-  
+       <lb ed="#B" n="48"/>ti. Ad cuius intellectum est aduertendum: quod ad fieri voti necessario duo occurrunt. Quorum vnum  
+       <lb ed="#B" n="49"/>est materia voti siue actus: qui vouetur qui debet esse bonus ex genere. Alterum vero est circunstantia voti 
+       <lb ed="#B" n="50"/>propter quam actus sit bonus ex circunstantia. Et ad primum vouens obligatur simpliciter, non autem ad secundum nisi sub 
+       <lb ed="#B" n="51"/>conditione si velit assequi primum ex actum, quemadmodum in baptismo quilibet adultus vouet de facto 
+       <lb ed="#B" n="52"/>obseruare diuina mandata, puta honorare parentes, &amp; debet habere in proposito explicite, velimpli- 
+       <lb ed="#B" n="53"/>cite quod seruabit illa ex charitate. Aliter enim fictus ad baptismum accederet. Si vero postmodum ooc 
+       <lb ed="#B" n="54"/>currere necessitas honorandi parentes, si ipsos honoret ex solo timore poenae transgressionis legis quan 
+       <!--1142.xml-->
+       <pb ed="#B" n="551-r"/>
+        <lb ed="#B" n="1"/>incurreret: ipse mandatum impleret, sed praemium vitae aeternae non obtineret. Consimiliter siquis voueret 
+       <lb ed="#B" n="2"/>quod infirmum quem credit pauperem visitaret: &amp; cum hoc proponeret quod ei denarium daret: si statim post perci- 
+       <lb ed="#B" n="3"/>peret quod sufficientiam haberet, &amp; propositum mutaret de dando denarium, &amp; visitans: nihil daret, reue 
+       <lb ed="#B" n="4"/>ra votum impleret: licet cum proposito nihil dandi accederet. Et hoc est quod communiter dicitur: 
+       <lb ed="#B" n="5"/>quod sine charitate impleri potest substantia mandati: sed non finis mandati. Et sic iste in proposito 
+       <lb ed="#B" n="6"/>implet votum implendo substantiam introitus sed non finem, qui est praemium vitae aeternae pro me- 
+       <lb ed="#B" n="7"/>rito introitus: &amp; sic omnem poenam deuitat &amp; omnino non peccat. Et propter illa duo definitur vo- 
+       <lb ed="#B" n="8"/>tum quod est conceptus melioris propositi: vt materiam voti intelligamus per ln conceptus. i. res con 
+       <lb ed="#B" n="9"/>cepta: circunstantiam vero per lv melioris propositi. i. circa quod propositum est aliud quod est melius quam substan 
+       <lb ed="#B" n="10"/>tia actus sit: &amp; natum est facere ipsumactum meliorem quam sit ex substantia sua: vt sit definitio mate  
+       <lb ed="#B" n="11"/>rialis. Secundum dicta ergo concedenda est vltima ratio. Ad primum in oppositum: sicut se habet vo 
+       <lb ed="#B" n="12"/>tum ad ingressum, &amp;c. Dico quod verum est quo ad ordinem prioris &amp; posterioris: quia sicut votum prae- 
+       <lb ed="#B" n="13"/>cedit ingressum, sic experientia praecedit professionem: &amp; sic ingressus non posset esse sine voto praecedente: nec professio 
+       <lb ed="#B" n="14"/>sine praecedente experientia. Sed non est simile quo ad illorum connexionem in ordine: quia votumobligat 
+       <lb ed="#B" n="15"/>ad consecutionem ingressus: quia ipse est materia voti, non autem experientia ad professionem: quia neu 
+       <lb ed="#B" n="16"/>trum illorum cadit sub secundo. quod patet ex praedictis. Ad secundum: nemo mittens manum: &amp;c. 
+       <lb ed="#B" n="17"/>Dico quod ibi metaphorice loquitur Christus, per aratrum intelligit opus bonum: quid secundum glos. duritiem cordis 
+       <lb ed="#B" n="18"/>euertit: &amp; ad bonos fructus aperit, per manum intelligit voluntatis intentionem. per retrospicere intelli 
+       <lb ed="#B" n="19"/>git carniale desiderium ad vitia relicta. Et propter argumentum distinguendum est de aratro: sicut &amp; 
+       <lb ed="#B" n="20"/>de bona operatione. Est enim quaedam bonaoperatio praecepti: est alia bona operatio consilii. Ad aratrum operis 
+       <lb ed="#B" n="21"/>praecepti manum mittit qui voluntatem suam illi ad se in illo exercendum apponit: &amp; retro aspicere mis 
+       <lb ed="#B" n="22"/>sa manu ad istud aratrum est per desideria carnalia ad vitia relicta se conuertere. Ad aratrum vero operis 
+       <lb ed="#B" n="23"/>consilii manum mittit aliquis dupliciter: vel proposito proficiendi absque voto: vel cum voto. Primo modo  
+       <lb ed="#B" n="24"/>manum mittit ad aratrum qui proponit absque tamen omni promissione &amp; voto religionem intrare: quem retro  
+       <lb ed="#B" n="25"/>aspicere ad actiones mundi licitas relicto progressu in opere perfectionis proposito, peccatum non est: eo quod  
+       <lb ed="#B" n="26"/>nudum propositum talem nullo modo obligauit ad opus superogationis exequendum. Secundo autem modo  
+       <lb ed="#B" n="27"/>scilicet cum proposito vouendo manum mittit ad aratrum aliquis dupliciter. Vno modo per solum votum de intrando.  
+       <lb ed="#B" n="28"/>Alio modo per professionem de per seuerando. Quorum quilibet retro aspicit dupliciter. Aut videlicet de promis- 
+       <lb ed="#B" n="29"/>sione poenitendo, facto tamen quid promissum est iplendo: aut ad contraria eius quod quilibet secundum se, promi- 
+       <lb ed="#B" n="30"/>sit diuertendo, non implendo facto illud quod promisit. Et isto secundo modo quilibet praedictorum retro- 
+       <lb ed="#B" n="31"/>aspiciens non est aptus regno dei: sed peccat non adimplens quod promisit. Vterque enim talium post votum vel pro  
+       <lb ed="#B" n="32"/>fessionem tenetur manum apponere ad aratrum: quia vouens tenetur intrare: &amp; qui professus est tenetur professionis suae 
+       <lb ed="#B" n="33"/>opera adimplere: vt posteriorum oblitus ad anteriora quae professus est conuertat aspectum. Si autem primo 
+       <lb ed="#B" n="34"/>med scilicet de promisso poenitendo quilibet horum retro aspiciat, neuter aptus est regno dei: aliquid scilicet praemii promerem 
+       <lb ed="#B" n="35"/>do: quia vt dictum est qui vouit religionis ingressum, ex eo quod nudum votum implet ingrediendo absque propo 
+       <lb ed="#B" n="36"/>sito manendi, praemium non meretur apud deum inquantum huiusmodi: licet poenam transgredientis votum euadat.  
+       <lb ed="#B" n="37"/>Similiter in religione professus si opera suae perfessionis faciat quo ad substantia facti, poenitens tamen de professione &amp; 
+       <lb ed="#B" n="38"/>voto, in hoc faciendo praemium non meretur aeternum licet poenam transgressionis euitet. Et hoc dictum de 
+       <lb ed="#B" n="39"/>his duobus verum est: &amp; locum habet in astrictis voto &amp; prfessioni alicuius operis superogationis: quid qui  
+       <lb ed="#B" n="40"/>dem non est de necessitate salutis. In illis autem operibus quae sunt de necessitate salutis: qualia quis vouet as 
+       <lb ed="#B" n="41"/>sumendo baptismum, nullus aspiciens retro ilia. scilicet non faciendo, aptus est regno dei: quia talis non solum glo- 
+       <lb ed="#B" n="42"/>riam non meretur: sed poenam danmnationis incurrit. Quia si substantiam operis impleat: sed non ex charitate: pro tanto re 
+       <lb ed="#B" n="43"/>tro aspicit: quia etsi poenam transgredientis opus praecepti euadat: gloriam tamen quae debetur obseruationi prae- 
+       <lb ed="#B" n="44"/>ceptorum non meretur. Si quis autem supra opera praeceptorum ad quae de necessitate tenetur, voueat consilia, si 
+       <lb ed="#B" n="45"/>debeat mereri gloriam simul tenetur ad impletionem praeceptorum &amp; consiliorum modo quo promisit consilia, vo 
+       <lb ed="#B" n="46"/>lende. scilicet vel cum hoc etiam profitendo. talis enim non solum tenetur ad obseruationem praeceptorum: sed &amp; consiliorum: ita 
+       <lb ed="#B" n="47"/>quod retro aspicit: siue obseruatis consiliis mandata non obseruet: siue econverso obseruatis mandatis non 
+       <lb ed="#B" n="48"/>obseruet consilia. Vnde de talium obligatione dicit Hiero. ad Demetriadem, loquens de praeceptis &amp; consiliis. 
+       <lb ed="#B" n="49"/>Vtrumque debes &amp; virginitatem quam vltro obtulisti: &amp; iustitiam quam ipse praecepit: integrum vtrumque persolue. De 
+       <lb ed="#B" n="50"/>transgressione autem talium circa praecepta obseruati consiliis, subdit. Non earum te exempla decipiant: quae sibi in sola ca 
+       <lb ed="#B" n="51"/>stitate plaudentes, perpetuae castitati bonum non cum iustitia: sed pro iustitia offerre volunt: vt in compensatione pec 
+       <lb ed="#B" n="52"/>catorum praemium virginitatis annumerent: atque pro praemio impunitatem petunt, vel certe impudentiori verecundia co 
+       <lb ed="#B" n="53"/>ronandas esse putant &amp; in regno caelorum caeteris praeferendas quae sibi mandatorum transgressione aditum clauserunt caelo  
+       <lb ed="#B" n="54"/>rum. Et sicut hoc est verum de voto castitatis: sic &amp; de aliis: vt alibi determinaui circa praeceptum de 
+       <!--1143.xml-->
+       <pb ed="#B" n="551-v"/>
+        <lb ed="#B" n="1"/>honorando parentes. De transgressione autem talium circa consilia, dicit <name ref="#Augustine">Augustinus</name> super psal. lxxv. Quisque quid vo- 
+       <lb ed="#B" n="2"/>luerit voueat: &amp; illud attendat: vt quid vouerit reddat. Si aspiciat retro, malum est: quae autem respexit ad nu 
+       <lb ed="#B" n="3"/>ptias non quia voluit nubere damnatur: sed quia iam antecesserat. ldem ad Armentatium. Quia enim iam vo 
+       <lb ed="#B" n="4"/>uisti, iam te astrinxisti, aliud facere tibi non licet.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

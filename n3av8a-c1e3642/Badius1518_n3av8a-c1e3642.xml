@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="354-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3642">
+       <head xml:id="n3av8a-c1e3642-Hd1e96">Quaestio 4</head>
+       <p xml:id="n3av8a-c1e3642-d1e99">
+        <lb ed="#B" n="41"/>SEquuntur quaesita pertinentia ad diuersas creaturas specialiter. Primo pertinentia ad cre 
+       <lb ed="#B" n="42"/>aturas intellectuales. Secundo ad creaturas non intellectuales. 
+      </p>
+      <p xml:id="n3av8a-c1e3642-d1e106">
+       CIRca primum quaerebantur 
+       <lb ed="#B" n="43"/>quaedam pertinentia ad intellectuales communiter tam angelicam quam humanam: &amp; vnum cir 
+       <lb ed="#B" n="44"/>ca creaturam angelicam tantum: &amp; plurima circa creaturam humanam tantum. 
+      </p>
+      <p xml:id="n3av8a-c1e3642-d1e113">
+       CIRca primum 
+       <lb ed="#B" n="45"/>proponebatur vnum ex parte intellectus: vtrum scientia sit aliquid compositum in intellectu 
+       <lb ed="#B" n="46"/>&amp; duo ex parte voluntatis. Quorum primum erat de voluntate quo ad seipsam: vtrum 
+       <lb ed="#B" n="47"/>voluntas moueat seipsam. Secundum vero erat de voluntate respectu intellectus: vtrum imperare sit 
+       <lb ed="#B" n="48"/>actus voluntatis an rationis siue intellectus. 
+      </p>
+      <p xml:id="n3av8a-c1e3642-d1e124">
+       CIRca primum arguitur quod scientia sit aliquid compo 
+       <lb ed="#B" n="49"/>situm in intellectu. Primo sic. scientia successiue acquiritur. ergo habet partes, quarum vna acquiritur 
+       <lb ed="#B" n="50"/>post aliam. omne autem habens partes est compositum ex illis. ergo &amp;c. Secundo sic. per scientiam assimilatur 
+       <lb ed="#B" n="51"/>homo composito scito. composito autem non assimilatur nisi per aliquid compositum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3642-d1e134">
+       CON- 
+       <lb ed="#B" n="52"/>tra, non componitur ex materia &amp; forma, quia non est nisi forma, nec ex accidente &amp; subiecto, quia  
+       <lb ed="#B" n="53"/>non est subiectum alicuius: qui sunt duo modi compositionis ad quos alii habent reduci. quare &amp;c. 
+       <lb ed="#B" n="54"/>
+      </p>
+      <p xml:id="n3av8a-c1e3642-d1e143">
+       DIcendum secundum quod alibi exposuimus, loquendo de simplicitate dei: quod est quaedam composi- 
+       <!--749.xml-->
+       <pb ed="#B" n="354-v"/>
+        <lb ed="#B" n="1"/>tio qua aliquid componitur alteri: &amp; est quaedam compositio qua aliquid componitur ex aliis. Lo- 
+       <lb ed="#B" n="2"/>quendo de primo modo compositionis, clarum est quod scientia est compositum quid, quia componitur 
+       <lb ed="#B" n="3"/>intellectui scientis, sicut accidens subiecto. Loquendo vero de secundo modo compositionis, cum ille 
+       <lb ed="#B" n="4"/>multiplex sit, vt ibi est expositum, aliquis illorum conuenit scientiae, &amp; aliquis non. Est enim compositio 
+       <lb ed="#B" n="5"/>quae est ex diuersis secundum rem in nullo conuenientibus, cuiusmodi est illa quae est ex materia &amp; 
+       <lb ed="#B" n="6"/>forma, de qua vt procedit secundum argumentum, patet quod scientia non est composita, quia est forma accidem 
+       <lb ed="#B" n="7"/>talis non habens materiam ex qua, sed in qua tantum: &amp; non est dubitatio de scientia nisi an sit composita ex 
+       <lb ed="#B" n="8"/>partibus formalibus, vt scientia sit vna forma composita ex pluribus formis. &amp; est causa dubitationis ex 
+       <lb ed="#B" n="9"/>pressa in primo argumento. Et est dicendum quod omnis forma quae per agens naturale, aut modo natura  
+       <lb ed="#B" n="10"/>li, transmutatione quae motus est, educitur de potentia ad actum, partes habet in quibus successiue esse 
+       <lb ed="#B" n="11"/>aliud &amp; aliud sibi acquiritur, differens secundum completum &amp; incompletum, proficiscendo ab incon 
+       <lb ed="#B" n="12"/>pleto ad completum: ita quod vnum eorum procedat de altero, vt de eo quod est in potentia &amp; incompletum 
+       <lb ed="#B" n="13"/>id quod est in actum &amp; completum: vltimo stando in aliquo simpliciter perfecto &amp; completo secun- 
+       <lb ed="#B" n="14"/>dum naturam illius formae. Quarum partium diuersitas tripliciter potest intelligi, aut secundum 
+       <lb ed="#B" n="15"/>rationem, aut secundum intensionem, aut secundum rem. Primo modo partes habet omnis forma acquisita 
+       <lb ed="#B" n="16"/>per motum intensionis &amp; remissionis: quia procedit de imperfecto ad perfectum in eadem forma spe 
+       <lb ed="#B" n="17"/>cifica. Magis enim &amp; minus in forma nunquam differunt specie, sed numero tantum, sicut magis album &amp; 
+       <lb ed="#B" n="18"/>minus album: licet accidentaliter magis differt magis album &amp; minus album, quam aequaliter alba. Quin ergo  
+       <lb ed="#B" n="19"/>scientia sicut &amp; albedo &amp; quaelibet alia forma recipiens intensionem &amp; remissionem partes habeat 
+       <lb ed="#B" n="20"/>in sua essentia, quemadmodum &amp; omnis forma alia recipiens magis &amp; minus, negare non possu 
+       <lb ed="#B" n="21"/>mus: immo expresse concessimus &amp; exposuimus quomodo huiusmodi partes habeat talis forma in quaestio 
+       <lb ed="#B" n="22"/>ne quadam de formarum intensione &amp; remissione. Sed ex talibus partibus talis forma non est dicen 
+       <lb ed="#B" n="23"/>da esse composita: quia secundum declarata in iam tacta quaestione, partes formae recipientis in-  
+       <lb ed="#B" n="24"/>tensionem &amp; remissionem non manent in eadem distinctae abinuicem secundum suos gradus, in  
+       <lb ed="#B" n="25"/>quibus natae essent stare in diuersis, nisi secundum rationem tantum, semper minus intenso manente 
+       <lb ed="#B" n="26"/>in magis intenso virtutae solum, ita quod essentia formae eiusdem consideratae sm rationem intensi &amp; 
+       <lb ed="#B" n="27"/>remissi semper existit simplex, non habens partes differentes re aut intensione inquantum huius 
+       <lb ed="#B" n="28"/>modi, sed ratione tantum. ita quod in quocunque gradu sistat, gradus alii qui virtute sunt in illo, non sunt 
+       <lb ed="#B" n="29"/>differentes ab illo nisi secundum rationem solum. Quare cum differentia aliquorum in aliquo  
+       <lb ed="#B" n="30"/>secundum rationem solum non ponat compositionem in eodem, quemadmodum pluralitas rationum per  
+       <lb ed="#B" n="31"/>fectionalium in deo nullam compositionem ponunt in ipso: idcirco dico quod scientia in intellectu 
+       <lb ed="#B" n="32"/>nullo modo dicenda est esse composita ex talibus partibus quamquam successiue acquirantur, quia. scilicet non ma 
+       <lb ed="#B" n="33"/>nent nisi in eodem simplici, in quo non habent distinctionem nisi secundum rationem solum. Aliter 
+       <lb ed="#B" n="34"/>tamen secundum rationem sumitur hic differentia &amp; in deo secundum rationes persectionales 
+       <lb ed="#B" n="35"/>quia hic secundum rationem accipiuntur diuersi gradus in ipsa forma existentes virtute: qui si 
+       <lb ed="#B" n="36"/>bi in eadem forma nati sunt succedere &amp; seorsum stare: ibi vero secundum rationem in forma dei 
+       <lb ed="#B" n="37"/>tatis non concipiuntur rationes perfectionales vt diuersorum graduum, quia gradus in forma 
+       <lb ed="#B" n="38"/>deitatis nullo modo possunt esse nec intelligi neque imaginari nisi falso, sed solummodo vt diuer- 
+       <lb ed="#B" n="39"/>sae rationes: quibus respondent in aliis formis diuersi gradus stantes seorsum in diuersis, differentes se 
+       <lb ed="#B" n="40"/>cundum rem. Vnde in deo concipiuntur rationes perfectionales vt differentes secundum ratio 
+       <lb ed="#B" n="41"/>nem tantum: &amp; non secundum intensionem: nec secundum gradus. In formis recipientibus intensionem 
+       <lb ed="#B" n="42"/>concipiuntur partes essentiales vt differentes secundum rationem &amp; gradus. 
+      </p>
+      <p xml:id="n3av8a-c1e3642-d1e241">
+       SEcundo modo  
+       <lb ed="#B" n="43"/>partes habet omnis forma quae species est sub genere, &amp; sunt partes illae genus &amp; differentia, ex 
+       <lb ed="#B" n="44"/>quibus componitur, non vt ex differentibus re, sed intensione tantum. Et sunt aliqui qui ponunt 
+       <lb ed="#B" n="45"/>quod licet idem sint secundum rem, differentia sola intensione, genus, &amp; quaecunque differentiae eius 
+       <lb ed="#B" n="46"/>existentes in eodem bruto, puta in eodem animali corporeum viuens spirans &amp; sensibile: in generatione tamen 
+       <lb ed="#B" n="47"/>primo extenditur quod generatur ab esse substantiali in esse corporeum: &amp; ex corporeo in viuum, &amp; ex vi 
+       <lb ed="#B" n="48"/>uo in spirans, &amp; ex spirante in sensibile: &amp; sic de caeteris, siue plura siue pauciora ponan- 
+       <lb ed="#B" n="49"/>tur intermedia: vt sicut ex parte generationis non est medium mutationis simul cum principio nec 
+       <lb ed="#B" n="50"/>idem ipsi: nec finis simul cum medio nec idem ipsi: sic nec ex parte formae generata non simul ge- 
+       <lb ed="#B" n="51"/>neratur medium cum primo, nec vltimum cum medio: nec est idem ipsi secundum intensionem. Quamuis enim, vt di  
+       <lb ed="#B" n="52"/>cunt, in fine &amp; vltimo habent esse vnum constitutum in substantia: si tamen simul habent illa diuersa esse sub- 
+       <lb ed="#B" n="53"/>stantiae quae per motum recipiunt &amp; complete: non habent nisi in vltimo. Qui sic dicunt, generationem natu-  
+       <lb ed="#B" n="54"/>ralem dicunt esse motum &amp; formarum inchoationes in materia: ita quod de veritate formae nihil acquiritur 
+       <!--750.xml-->
+       <pb ed="#B" n="355-r"/>
+        <lb ed="#B" n="1"/>per generationem: sed solum esse aliud &amp; aliud: secundum quod alibi plenius pertractaui. vbi declaraui quomodo 
+       <lb ed="#B" n="2"/>mihi visum est quod generatio non sit motus: sed mutatio in fine motus alterationis praecedentis praepa- 
+       <lb ed="#B" n="3"/>rantis subiectum secundum accidentia vt sit materia necessitas ad generationem formae, quae tota secundum sub- 
+       <lb ed="#B" n="4"/>stantiam &amp; omne esse suum educitur de potentia materiae. Sed quocumque modo se habeat: de hoc planum 
+       <lb ed="#B" n="5"/>est quod id quid sic habet partes siue successiue generatas siue simul: est compositum ex diuersis non secun- 
+       <lb ed="#B" n="6"/>dum rem, sed secundum intensionem generis &amp; differentiae: sed talem compositionem ex partibus possumus pone 
+       <lb ed="#B" n="7"/>re in scientia: quia partes secundum intensionem differentes habet sicut albedo &amp; quaecumque alia forma substan 
+       <lb ed="#B" n="8"/>tialis existens in specie specialissima. 
+      </p>
+      <p xml:id="n3av8a-c1e3642-d1e291">
+       TERtio modo partes formales secundum rem habere aliquid in se 
+       <lb ed="#B" n="9"/>contingit intelligere dupliciter: vel quod partes huiusmodi sint eiusdem rationis in toto vel alterius &amp; alterius. 
+       <lb ed="#B" n="10"/>Primo modo linea est composita ex diuersis partibus: quarum quaelibet linea aliqua est: quas successiue 
+       <lb ed="#B" n="11"/>intelligunt lineam in se acquirere per motum qui intelligunt punctum fluentem lineam facere. Talis compositio 
+       <lb ed="#B" n="12"/>nullo modo est in scientia: quia non est nisi in simplici anima. Sed si aliquo modo intelligi possit esse 
+       <lb ed="#B" n="13"/>composita, hoc erit quemadmodum si intelligamus geometriam vnum habitum scientiae compositum ex diuersis 
+       <lb ed="#B" n="14"/>habitibus diuersorum principiorum &amp; diuersarum conclusionum, vt videlicet quodlibet principium &amp; quaeli- 
+       <lb ed="#B" n="15"/>bet conclusio habeat proprios habitus in anima re diuersos: ex quibus integratur vnus. Et de isto mo 
+       <lb ed="#B" n="16"/>do praetendit, vt credo, quaestio suam difficultatem. Et est sciendum: quod cum scientia sit habitus cognitiuus: qui 
+       <lb ed="#B" n="17"/>cum habitu affectiuo continetur in prima specie qualitatis: quae ex opposito distinguitur contra alias 
+       <lb ed="#B" n="18"/>species qualitatis sub eodem genere, quae est qualitas: genus autem non descendat in species nisi per differem 
+       <lb ed="#B" n="19"/>tias ex quibus cum genere componuntur species: necesse est ponere quod habitus simpliciter qui est vna 
+       <lb ed="#B" n="20"/>species qualitatis subalterna: componatur ex genere &amp; differentia. Cumque habitus cognitiui &amp; affecti 
+       <lb ed="#B" n="21"/>ui non sint eiusdem potentiae neque eiusdem rationis: necesse est ponere quod descendat habitus simpliciter 
+       <lb ed="#B" n="22"/>in illos per differentias: &amp; sic oportet ponere quod habitus scientialis simpliciter compositus sit ex genere 
+       <lb ed="#B" n="23"/>&amp; differentia simpliciter. Sed quaestio proposita non quaerit de compositione quae rationis est ex genere &amp; diffe 
+       <lb ed="#B" n="24"/>rentia: sed quaerit de compositione reali: an sit composita ex partibus re diuersis: quarum vna acquiritur post aliam: 
+       <lb ed="#B" n="25"/>vt primo pers vna in qua consistit habitus principii: deinde pars alia, in quae consistit habitus conclusionis primae, &amp; 
+       <lb ed="#B" n="26"/>sic deinceps. Quia si sic scientia intelligatur esse composita: hoc modo scientia simpliciter quae in eodem sciente conti 
+       <lb ed="#B" n="27"/>net omne genus scientiae: vt grammaticam, logicam, metaphysicam, &amp; caeteras omnes, dicetur esse composita ex illis. Et non 
+       <lb ed="#B" n="28"/>est haec compositio aliud quam quaedam aggregatio. Sed nec de hac quaerit quaestio: quia sic quantuncumque sunt scien- 
+       <lb ed="#B" n="29"/>tiae diuersae, scientia vna posset dici composita: &amp; sic vna ex illis. Sed quaerit de scientia illa quae secundum ve- 
+       <lb ed="#B" n="30"/>ritatem dicitur vna ab vnitate subiecti: &amp; non diuiditur: tamen successiue acquiritur pars eius post 
+       <lb ed="#B" n="31"/>partem. De quibus partibus est quaestio vtrum scientia sit aliquod compositum ex illis. Et est hic sciendum 
+       <lb ed="#B" n="32"/>secundum quod determinauimus in quaestione: an theologia sit vna scientia: quod scientia non dicitur vna propter 
+       <lb ed="#B" n="33"/>vnitatem realem secundum genus aut speciem eorum de quibus consyderat: sed propter vnitatem rationis &amp; 
+       <lb ed="#B" n="34"/>modi consyderandi circa subiectum vnum: ad quod plura attribuuntur propter vnam formalem rationem consy- 
+       <lb ed="#B" n="35"/>derandi omnibus conuenientem. dicente <name ref="#Aristotle">philosopho</name> in ii. Poste. Vnius inquantum vnm. scilicet secundum vnam rationem con- 
+       <lb ed="#B" n="36"/>syderandi, vna est scientia. Vnde secundum quod determinauimus in prima quaestione de diuersitate theologiae 
+       <lb ed="#B" n="37"/>ab aliis scientiis, si sint aliqua sic diuersa quod non communicant in ratione consyderandi: nullo modo habent 
+       <lb ed="#B" n="38"/>vnum habitum scientiae in anima: vt moralis scientia &amp; mathematica. Si vero fuerit subiectum idem secundum  
+       <lb ed="#B" n="39"/>rem: propter tamen diuersas rationes consyderandi, illud non habet vnum habitum scientiae in anima sed diuersos 
+       <lb ed="#B" n="40"/>Quemadmodum naturalis scientia &amp; astrologia: inquantum ambae consyderant motum caelestium: quia 
+       <lb ed="#B" n="41"/>non eodem modo: omnino sunt diuersi habitus in anima. Metaphysica autem quae consyderat de primo en- 
+       <lb ed="#B" n="42"/>te, &amp; ideo de ente simpliciter &amp; omnibus entibus secundum rationem conmunem consyderandi vt ens: vnicum ha-  
+       <lb ed="#B" n="43"/>bitum generat. aliarum autem scientiarum quaelibet secundum propriam rationem consyderandi, vnum habitum generat 
+       <lb ed="#B" n="44"/>Et inquantum metaphysica sub scientia simpliciter diuiditur contra alias, ipsa componitur ex genere quid  
+       <lb ed="#B" n="45"/>est scientia simpliciter &amp;, propria differentia compositione rationis. &amp; aliae similiter abinuicem distin-  
+       <lb ed="#B" n="46"/>guuntur speciebus specialissimis, in quibus stat distinctio. Et est quaelibet scientia stans in specia- 
+       <lb ed="#B" n="47"/>lissimo vnus habitus: compositione rationis compositus ex genere &amp; differentia, non diuisibilis vlterius 
+       <lb ed="#B" n="48"/>secundum formae additionem aut differentiam: sed in indiuidua: vt granmatica in grammaticam Sortis: &amp; gram 
+       <lb ed="#B" n="49"/>maticam Platonis. Et quia quilibet talium habituum scientialium non simul habetur sed successiue acquiren 
+       <lb ed="#B" n="50"/>do partem post partem: ideo de vnoquoque talium est quaestio vtrum sit compositus ex illis partibus: &amp; sic 
+       <lb ed="#B" n="51"/>vtrum scientia sit composita compositione reali praeter compositionem ex genere &amp; differentia quae est ra- 
+       <lb ed="#B" n="52"/>tionis. 
+      </p>
+      <p xml:id="n3av8a-c1e3642-d1e392">
+       ET est dicendum, quod quaelibet scientia quae est habitus in specialissimo scientiae consistens, vnicus 
+       <lb ed="#B" n="53"/>est &amp; simplex in re, carens omni compositione reali ex diuersis secundum rem vt partibus existentibus &amp; ma 
+       <lb ed="#B" n="54"/>nentibus in ipso. &amp; hoc aequali simplicitate illi quam habet quilibet habitus affectiuus: &amp; vniuersaliter 
+       <!--751.xml-->
+       <pb ed="#B" n="355-v"/>
+        <lb ed="#B" n="1"/>quaelibet forma vna recipiens intensionem &amp; remissionem. &amp; hoc secundum modum iam supra tactum. 
+       <lb ed="#B" n="2"/>Vnde non est minor simplicitas in habitu scientiae Metaphysicae in quocunque gradu habeat eam ali- 
+       <lb ed="#B" n="3"/>quis: quam in habitu temperantiae &amp; quam in albedine. Ita quod per primum actum generatiuum habitus habetur 
+       <lb ed="#B" n="4"/>tota realitas habitus: quemadmodum ex primo actu generatiuo albedinis habetur tota realitas al 
+       <lb ed="#B" n="5"/>bedinis: licet in gradu imperfectissimo: a quo habet procedere per intensionis motum ad gradum per 
+       <lb ed="#B" n="6"/>fectum. Sed habitus quousque sunt sub determinato gradu imperfectionis debiliter firmati in subie- 
+       <lb ed="#B" n="7"/>cto &amp; de facili mobiles, non dicuntur habitus sed dispositio: quae sit ipse habitus per profectum ad  
+       <lb ed="#B" n="8"/>gradum vlteriorem. Et non est differentia quo ad hoc in formis recipientibus magis &amp; minus nisi 
+       <lb ed="#B" n="9"/>in actibus sibi respondentibus: quibus diuersimode diuersae formae intenduntur: vt de imperfecto in  
+       <lb ed="#B" n="10"/>eis fiat perfectum. Propter quod maior videtur esse differentia partium in quibusdam, quam in aliis. et ideo  
+       <lb ed="#B" n="11"/>maior apparet in eis compositio ex illis partibus quam in aliis. Sunte enim de numero talium formarum 
+       <lb ed="#B" n="12"/>quaedam quae non nisi ex actibus conformibus &amp; eisdem secundum speciem generantur &amp; augmen- 
+       <lb ed="#B" n="13"/>tantur: vt sunt illae quae sunt naturales: puta albedo, quae ab actu infrigidandi generatur &amp; intendi- 
+       <lb ed="#B" n="14"/>tur in niue: &amp; hoc siue a diuersis infrigidantibus siue ab eodem, modo infrigidando intensius, mo 
+       <lb ed="#B" n="15"/>do remissius: aut lumen, quod ab actu illuminandi generatur &amp; intenditur. &amp; hoc siue a diuersis lumi 
+       <lb ed="#B" n="16"/>nosis eandem partem medii illuminantibus, siue ab eodem illuminante, modo remissius modo intem 
+       <lb ed="#B" n="17"/>sius. Sunt vero aliae formae recipientes magis &amp; minus: quae generantur &amp; augmentantur ex actibus 
+       <lb ed="#B" n="18"/>difformibus, vt sunt habitus cognitiui scientiarum specialium continentium cognitiones principiorum 
+       <lb ed="#B" n="19"/>&amp; conclusionum: quorum videntur esse diuersi habitus: vt alius sit habitus principiorum: alius conclusionum 
+       <lb ed="#B" n="20"/>&amp; diuersi habitus diuersorum principiorum &amp; diuersarum conclusionum: ex quibus componatur si 
+       <lb ed="#B" n="21"/>cut ex re diuersa: ipsa scientia tota horum cognitiua: puta metaphysica aut geometria: quali mo- 
+       <lb ed="#B" n="22"/>do non videntur in se habere compositionem formae naturales non ex actibus nostris sed ex actibus naturae  
+       <lb ed="#B" n="23"/>generatae &amp; augmentatae. Sed non est ita: quia vnius talium scientiarum specificatarum non est nisi 
+       <lb ed="#B" n="24"/>vnicus habitus simplex: &amp; non minus simplex quam formae naturales ex actibus vniformibus naturali- 
+       <lb ed="#B" n="25"/>bus generatae. Et est vnusquisque habitus talium scientiarum specificatarum generatus ex actibus nostris 
+       <lb ed="#B" n="26"/>cognitiuis &amp; augmentatus: ex quo etiam consimiles actus habent elici: quemadmodum &amp; singulae 
+       <lb ed="#B" n="27"/>virtutes quae sunt habitus affectiu i simplices, habitus sunt elicitiui talium actuum ex quibus gene- 
+       <lb ed="#B" n="28"/>rantur. Veruntamen si ordine recto acquirendi aliquem talium habituum cognitiuorum procedatur: pri- 
+       <lb ed="#B" n="29"/>mo habet generari ex actum cognitiuo: quo cognoscimus primum principium illius scientiae: &amp; est in  
+       <lb ed="#B" n="30"/>gradu insimo. &amp; inquantum huiusmodi est habitus principii primi, quod est principium cognoscendi alia 
+       <lb ed="#B" n="31"/>principia posteriora: vt semper praecedens secundum id quod de habitu generatum est sit principium 
+       <lb ed="#B" n="32"/>&amp; dispositio apud cognoscentem cognoscendi sequens: ita quod ex quolibet actum cognitiuo augetur &amp; 
+       <lb ed="#B" n="33"/>intenditur habitus cognitiuus generatus a primo actum cognitiuo cognoscendi primum principium 
+       <lb ed="#B" n="34"/>simpliciter primum. Et semper quo ad hoc quod per ipsum habitus primus est intensus, dicitur ille idem  
+       <lb ed="#B" n="35"/>habitus esse habitus principii illius vel conclusionis cuius est actus. Et sunt isti actus cognitiui di-  
+       <lb ed="#B" n="36"/>uersi, sicut &amp; ipsa principia cognitiua sunt diuersa: quorum quilibet plurificari potest secundum nu- 
+       <lb ed="#B" n="37"/>merum: &amp; sic firmare &amp; intendere habitum quo ad notitiam illius principii cuius actus plurifi- 
+       <lb ed="#B" n="38"/>cantur: vt per hoc magis vnum principiorum cognoscatur quam aliud. &amp; non solum sic augmentatur 
+       <lb ed="#B" n="39"/>habitus in cognoscendo plura principia pluribus actibus secundum speciem differentibus vel qua-  
+       <lb ed="#B" n="40"/>si: sed etiam in cognoscendo idem principium pluribus actibus solo numero differentibus. Cumque 
+       <lb ed="#B" n="41"/>habitus dictus sic sit generatus vsque ad certum gradum ex actibus cognitiuis principiorum: ipse 
+       <lb ed="#B" n="42"/>habitus principiorum est principium &amp; dispositio cognoscendi conclusiones per actus proprio- 
+       <lb ed="#B" n="43"/>cognitiuos: qui etiam sunt augmentatiui habitus praecedentis: &amp; nullius alterius generatiui. Et 
+       <lb ed="#B" n="44"/>quo ad hoc quod per actum cognoscendi conclusionem habitus primus est intensus: dicitur idei ha  
+       <lb ed="#B" n="45"/>bitus esse habitus illius conclusionis: &amp; etiam diuersarum conclusionum: secundum quod peractus co 
+       <lb ed="#B" n="46"/>gnitiuos diuersarum conclusionum augetur: qui sunt diuersi inter se quasi specie &amp; quasi genere 
+       <lb ed="#B" n="47"/>differentes ab actibus quibus habitus principiorum est generatus &amp; augmentatus. Quorum qui  
+       <lb ed="#B" n="48"/>libet qui est ad eandem conclusionem plurificari potest secundum numerum: et sic firmare &amp; inten 
+       <lb ed="#B" n="49"/>dere habitum eundem quo ad notitiam illius conclusionis: vt per hoc magis vna conclusio cogno  
+       <lb ed="#B" n="50"/>scatur quam alia. et sic non solum habitus augmentatur in cognoscendo plures conclusiones pluribus 
+       <lb ed="#B" n="51"/>actibus quasi secundum speciem differentibus: sed etiam in cognoscendo eandem conclusionem plu- 
+       <lb ed="#B" n="52"/>ribus actibus solo numero differentibus. Sed est aduertendum: quod tam circa principia qua circa conclu 
+       <lb ed="#B" n="53"/>siones varii sunt modi cognoscendi. et est circa principia triplex. Principia enim cognoscimus vno  
+       <lb ed="#B" n="54"/>modo inquantum terminos cognoscimus. Et est via definitiua, sciendo quid dicitur per nomen. Prin- 
+       <!--752.xml-->
+       <pb ed="#B" n="356-r"/>
+        <lb ed="#B" n="1"/>cipium etiam cognoscimus alio modo via sensus, memoriae, &amp; experientiae. Principia etiam cognosci 
+       <lb ed="#B" n="2"/>mus tertio modo ratione ducente ad impossibile. Conclusiones etiam cognoscimus syllogismo, sub 
+       <lb ed="#B" n="3"/>quo continetur enthymema, &amp; inductione, sub qua continetur exemplum: &amp; hoc vel habendo medium 
+       <lb ed="#B" n="4"/>demonstratiuum: vel habendo medium non demonstratiuum. &amp; omnibus mediis augmentatur habitus in suis actibus:  
+       <lb ed="#B" n="5"/>sed non nisi secundum intensionem &amp; remissionis: semper intenso &amp; remisso existente eodem simplici secundum  
+       <lb ed="#B" n="6"/>rem: differente solum secundum rationem vt dictum est supra de albedine. Cumque habitus fuerit ge- 
+       <lb ed="#B" n="7"/>neratus, ex ipso habent elici actus consimiles eis exquibus est generatus: &amp; in singulis intenditur ha-  
+       <lb ed="#B" n="8"/>bitus: vt perfectius cognoscantur tam principia quam conclusiones. Principia enim perfectius cognoscum 
+       <lb ed="#B" n="9"/>tur: cum ex ipsis cognoscuntur conclusiones elicitae: &amp; conclusiones perfectius cognoscuntur cum co- 
+       <lb ed="#B" n="10"/>gnoscuntur in principia resolutae: &amp; vnum principium perfectius cognoscitur iuxta alterum cogni- 
+       <lb ed="#B" n="11"/>tum: &amp; vna conclusio iuxta alteram: &amp; singula cognita iuxta singula, non solum in principiis &amp; com 
+       <lb ed="#B" n="12"/>clusionibus vnius scientiae sed plurium: siue sint penitus diuersae: siue se habeant vt pars &amp; totum: 
+       <lb ed="#B" n="13"/>siue vt subalternans &amp; subalternata. de quorum differentiis alibi loquuti sumus. Quia ergo ar- i 
+       <lb ed="#B" n="14"/>guitur primo: quod scientia est composita quia acquiritur pars post partem: Dicendum quod non opor- 
+       <lb ed="#B" n="15"/>tet hoc de scientia plus quam de albedine. Non enim habet partes plures nisi virtute &amp; ratione sola dif 
+       <lb ed="#B" n="16"/>ferentes sicut nec albedo, vt dictum est. Ad secundum: quod scientia est compositum quia per ipsam s 
+       <lb ed="#B" n="17"/>sciens assimilatur composito. Per idem posset probari quod deus esset compositus: quia sua scientia quae  
+       <lb ed="#B" n="18"/>est sua essentia assimilatur composito. ldeo dicendum quod forma in re composita sicut est principium 
+       <lb ed="#B" n="19"/>&amp; ratio essendi, &amp; sui ipsius vt est aliquid compositi: &amp; totius compositi inquantum est compositum: &amp; 
+       <lb ed="#B" n="20"/>materiae, vt est aliquid in ipso: sicut est principium cognoscendi eorundem: &amp; est per se mensura scien- 
+       <lb ed="#B" n="21"/>tiae quae habetur de scibili. Et ideo sicut ipsa simplex est: licet dat esse composito &amp; materiae: sic &amp; scien 
+       <lb ed="#B" n="22"/>tia mensurata secundum ipsam simplex est: licet per ipsam habeatur scientia de composito.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

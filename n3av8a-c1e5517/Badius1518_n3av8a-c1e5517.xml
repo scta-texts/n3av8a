@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 17</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 17</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5517">
+       <head xml:id="n3av8a-c1e5517-Hd1e96">Quaestio 17</head>
+       <p xml:id="n3av8a-c1e5517-d1e99">
+        <lb ed="#B" n="39"/>CIrca Tertium arguitur: quod multitudo defendens prauam consuetudinem antiquam  
+       <lb ed="#B" n="40"/>punienda est, tum quia peccat illam consuetudinem seruando, tum quia peccatum suum 
+       <lb ed="#B" n="41"/>ggrauat illam defendendo. 
+      </p>
+      <p xml:id="n3av8a-c1e5517-d1e108">
+       CONtra. assueti &amp; nutriti sunt in illa &amp; generati a 
+       <lb ed="#B" n="42"/>progenitoribus suis: vt contrarium diligere non possint nec discernere. in hoc ergo  
+       <lb ed="#B" n="43"/>eis percendum est. 
+      </p>
+      <p xml:id="n3av8a-c1e5517-d1e115">
+       DIco quod proculdubio talis consuetudo, quia in peccato est, vt alias deter  
+       <lb ed="#B" n="44"/>minaui: punienda est, &amp; a deo in futuro nisi poeniteant eam tenentes, &amp; ab ecclesia in  
+       <lb ed="#B" n="45"/>praesenti, nisi maius malum a tali punitione prouenturum timeret scilicet populi rebellionem 
+       <lb ed="#B" n="46"/>Propter quod in tali consuetudine frequenter tolerare oportet multitudinem: sed tamen debet eis a praedicatori 
+       <lb ed="#B" n="47"/>bus &amp; viris iustis reprobari. Sed istud tolerare non est proprie percere: quia non est percere nisi punire cum 
+       <lb ed="#B" n="48"/>mitigatione. Vnde de correctione talis consuetudinis puta fori aut commercionis in diebus festiuis aut 
+       <lb ed="#B" n="49"/>aliis huiusmodi, dicit <name ref="#Augustine">Augustinus</name> in epistola ad Aurelium. Non aspere quantum aestimo, non duriter, non imperiose 
+       <lb ed="#B" n="50"/>ista tolluntur, magis docendo quam iubendo, magis monendo quam minando. Sic enim agendum est cum multitudine  
+       <lb ed="#B" n="51"/>peccantium. et siquid minamur cum dolore fiat de scripturis comminando vidictam: ne nos in nostra potestate:  
+       <lb ed="#B" n="52"/>sed dominus in nostro sermone timeatur. itaque prius monebuntur spirituales vel spiritualibus, proximi: quo-  
+       <lb ed="#B" n="53"/>rum auctoritate caetera multitudo frangatur. Et sic patent argumenta primum &amp; secundum: 
+       <lb ed="#B" n="54"/>Finis. XIIlL. Quodlibet Magistri Henrici a Gandauo.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

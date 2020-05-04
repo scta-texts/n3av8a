@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="491-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4794">
+       <head xml:id="n3av8a-c1e4794-Hd1e96">Quaestio 11</head>
+       <p xml:id="n3av8a-c1e4794-d1e99">
+        <lb ed="#B" n="44"/>SEquuntur quaesita pertinentia ad accidentalia homin. Quorum primum &amp; vnicum erat de 
+       <lb ed="#B" n="45"/>accidentali homin pro statu damnationis &amp; hoc ex parte corporis: Vtrum corpus 
+       <lb ed="#B" n="46"/>hominis damnati in inferno possit simul esse summe calidum &amp; summe frigidum. 
+       <lb ed="#B" n="47"/>Alia autem plura erant pertinentia ad hominem pro statu vitae praesentis: de quibus statim. 
+       <lb ed="#B" n="48"/>
+      </p>
+      <p xml:id="n3av8a-c1e4794-d1e112">
+       CIRca primum arguitur quod corpus hominis damnati simul possit esse summe calidum 
+       <lb ed="#B" n="49"/>&amp; summe frigidum: quia in hoc non incidit contradictio: eo quod calidum &amp; frigi- 
+       <lb ed="#B" n="50"/>dum opponuntur contrarie non contradictorie. Deus autem potest facere quaecumque  
+       <lb ed="#B" n="51"/>non implicant contradictionem. Nec habent esse circa idem: quia circa aliam potentiam materiae habet esse 
+       <lb ed="#B" n="52"/>calidum &amp; circa aliam frigidum. 
+      </p>
+      <p xml:id="n3av8a-c1e4794-d1e123">
+       CONtra. super. iiii. metaphysicae dicit Commentator. Si non possunt esse l 
+       <lb ed="#B" n="53"/>simul contradictoria nec contraria: quia non compatiuntur se. 
+      </p>
+      <p xml:id="n3av8a-c1e4794-d1e128">
+       DIco quod illud impossibile est fieri quid omnino 
+       <lb ed="#B" n="54"/>repugnat rei naturae: nunc autem naturae rei &amp; quae inest &amp; cui inest omnino repugnat quod aliquid sibi in  
+       <!--1023.xml-->
+       <pb ed="#B" n="491-v"/>
+        <lb ed="#B" n="1"/>sit naturaliter ad quod est indisposita natura cui inest. Quare cum calidum &amp; frigidum &amp; vniuersaliter 
+       <lb ed="#B" n="2"/>contraria nata sint fieri circa idem naturaliter: &amp; materia vt est sub vno contrariorum excellenti omni 
+       <lb ed="#B" n="3"/>no est indisposita ad esse sub contrario excellenti: licet citra suas intensiones siue excellentias contraria 
+       <lb ed="#B" n="4"/>cmnia quae recipiunt magis &amp; minus, possint esse simul: idcirco dico quod impossibile est corpus danmnati 
+       <lb ed="#B" n="5"/>simul esse summe calidum &amp; summe frigidum. An autem pati possit ab vtroque simul absque calefactione &amp; 
+       <lb ed="#B" n="6"/>infrigidatione, de hoc dicendum, sicut iam dictum est de passione animae an pati possit a calore absque  
+       <lb ed="#B" n="7"/>eo quod calefiat. Quid ergo arguitur ad primam partem: quod deus hoc potest facere: Dico quod verum est si sit factibile 
+       <lb ed="#B" n="8"/>sed dico quod non est factibile. Quod arguitur, quod immo: quia non occurrit contradictio: Dico quod falsum est. Et quod  
+       <lb ed="#B" n="9"/>arguitur quod non: quia calidum &amp; frigidum sunt contraria non contradictoria: Dico quod verum est primo &amp; per se 
+       <lb ed="#B" n="10"/>sed quando sunt in excellentia reducuntur ad contradictoria &amp; habent in se vim contradictoriorum. calidum enim in sum  
+       <lb ed="#B" n="11"/>mo &amp; frigidum in summo opponuntur sicut calidum &amp; non calidum: &amp; sicut frigidum &amp; non frigidum. Quida ite- 
+       <lb ed="#B" n="12"/>rum arguitur quod non sunt contradictoria quia non sunt circa idem: Dico quod immo: quia ly circa dicit circunstan- 
+       <lb ed="#B" n="13"/>tiam subiecti &amp; materiae tantum: ly ex autem bene potest etiam dicere circunstantiam potentiae. &amp; sic sunt simpliciter cir 
+       <lb ed="#B" n="14"/>ca idem: quid ponit contradictionem: quamquam non sunt ex eadem potentia. illa enim potentia non ponit rem aliquam supra 
+       <lb ed="#B" n="15"/>substantiam sed solummodo respectum eius ad formam, vt alibi declarauimus.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

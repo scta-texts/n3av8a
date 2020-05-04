@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 22</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 22</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e380">
+      <head xml:id="n3av8a-c1e380-Hd1e96">Quaestio 22</head>
+      <p xml:id="n3av8a-c1e380-d1e99">
+       <lb ed="#B" n="4"/>Irca Secundum arguebatur Primo: quod paruulus delatus ad ecclesiam interim mo 
+       <lb ed="#B" n="5"/>riens saluatur. Matthaei octauo dicitur de ferentibus curandum ad lesum. Videns fidem illorum  
+       <lb ed="#B" n="6"/>misertus est eius, &amp; curauit eum. tam in corpore quam in anima. Si ergo adulto 
+       <lb ed="#B" n="7"/>potuit valere fides aliorum ad emundationem actualis peccati, multo fortius paruulo 
+       <lb ed="#B" n="8"/>ad emundationem originalis.
+      </p>
+      <p xml:id="n3av8a-c1e380-d1e112">
+       Contra. loannis tertio dicitur. Nisi quis renatus fue 
+       <lb ed="#B" n="9"/>rit ex aqua &amp; spiritu sancto &amp;c. lste autem non sic est renatus, ergo non intrabit 
+       <lb ed="#B" n="10"/>gnum. 
+      </p>
+      <p xml:id="n3av8a-c1e380-d1e119">
+       DIcendum ad hoc non praeiudicando diuina: potestati &amp; ordinationi qua potest salua- 
+       <lb ed="#B" n="11"/>re quemlibet qualitercumque vult, talem paruulum &amp; quemcunque alium: quod sicut in lege naturae non saluabatur 
+       <lb ed="#B" n="12"/>paruulus nisi in fide parentum, in lege Moysi a die octauo per circuncisionem, sic in lege Euangelii secun 
+       <lb ed="#B" n="13"/>dum communem cursum diuinae gratiae nullus saluatur, nisi ablutus aquis baptismi: &amp; hoc ex virtute 
+       <lb ed="#B" n="14"/>edicti legis diuinae. Modum autem &amp; rationem iustitiae talis edicti impertinens est ad propositum inten- 
+       <lb ed="#B" n="15"/>tum exponere.
+      </p>
+      <p xml:id="n3av8a-c1e380-d1e132">
+       AD Argumentum in oppositum dicendum: quod secundum conmunem cursum gratiae 
+       <lb ed="#B" n="16"/>prima gratia potest homini mereri per alios: vt per illam excitetur in libero arbitrio ad praeparandum  
+       <lb ed="#B" n="17"/>se ad suscipiendum motu propriae voluntatis secundam gratiam. Et sic fides aliorum potuit illi adulto 
+       <lb ed="#B" n="18"/>subuenire. sed non fine motu, propriae voluntatis interueniente. Quia ergo paruulus nuilum motum pro 
+       <lb ed="#B" n="19"/>priae voluntatis potuit adhibere: etsi primam gratiam recepisset merito fidei aliorum: ideo mediante 
+       <lb ed="#B" n="20"/>illa non potuit secundum commnem legem susceptionis gratiae: secundam gratiam recepisse ad emundationem  
+       <lb ed="#B" n="21"/>peccati originalis. &amp; sic non est simile de isto curato &amp; illo paruulo. Sl autem omnino fides aliorum  
+       <lb ed="#B" n="22"/>illum curauit: hoc fuit gratia specialis, &amp; talem potuit isti paruulo concedere &amp; eum saluare. &amp; de 
+       <lb ed="#B" n="23"/>hoc nihil habemus iudicare.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

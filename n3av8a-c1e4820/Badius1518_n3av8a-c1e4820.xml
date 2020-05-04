@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 13</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 13</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="492-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4820">
+       <head xml:id="n3av8a-c1e4820-Hd1e96">Quaestio 13</head>
+       <p xml:id="n3av8a-c1e4820-d1e99">
+        <lb ed="#B" n="8"/>Equitur de pertinentibus ad hominem purum pro statu huius vitae actiuae. Quorum pri 
+       <lb ed="#B" n="9"/>mum vnicum erat pertinens ad infideles: vtrum non sperans vitam futuram debeat 
+       <lb ed="#B" n="10"/>secundum rectam rationem eligere mori pro republica. Alia vero plura erant pertinen 
+       <lb ed="#B" n="11"/>tia ad homines fideles: de quibus statim. 
+      </p>
+      <p xml:id="n3av8a-c1e4820-d1e110">
+       CIRca illud primum arguitur quod non, quia 
+       <lb ed="#B" n="12"/>nuiius agens secundum rectam rationem debet eligere illud quo est miser: quia secun 
+       <lb ed="#B" n="13"/>dum <name ref="#Augustine">Augustinum</name> sicut omnes volumus naturaliter esse beati: sic omnes volu 
+       <lb ed="#B" n="14"/>mus non esse miseri: sed talis moriens pro republica inquantum huiusmodi est miser. dicente Augustinus. xiii. de 
+       <lb ed="#B" n="15"/>trinitate cap. xiii. vbi loquens de spe vitae suturae dicit sic. Qui spe beatus est expectat per patientiam 
+       <lb ed="#B" n="16"/>beatitudinem quam non tenet: qui autem sine spe rali, sine vlla tali mercede cruciatur quantamlibet adhi-  
+       <lb ed="#B" n="17"/>buerit tolerantiam non est beatus veraciter sed miser fortiter. ergo &amp;c. Item qui sine tali spe est non mi 
+       <lb ed="#B" n="18"/>nus debet diligere vitam suam naturalem: quam ille qui est cum tali spe debet diligere vitam suam spiritalem: qua. scilicet 
+       <lb ed="#B" n="19"/>viuit per gratiam &amp; charitatem, quia sicut iste in vita sua spirituali habet verum bonum sibi: ita ille in vi 
+       <lb ed="#B" n="20"/>ta sua naturali: sed habens talem spem non debet mortem ei contrariam quae est mors peccati, secundum 
+       <lb ed="#B" n="21"/>rectam rationem eligere pro republica: dicente Ansel. libro meditationum. Si peccare deum dehonorare est 
+       <lb ed="#B" n="22"/>hoc homo facere non deberet etiam si necesse esset quicquid est quod deus non est perire. ergo &amp;c. 
+       <lb ed="#B" n="23"/>
+      </p>
+      <p xml:id="n3av8a-c1e4820-d1e142">
+       CONtra. bonum commune secundum rectam rationem debet praeferri priuato: quare cum vita talis sit 
+       <lb ed="#B" n="24"/>bonum priuatum: salus reipublicae est bonum conmune. ergo &amp;c. Item sicut membra se habent in corpore: sic 
+       <lb ed="#B" n="25"/>se habent in republica diuersae personae. secundum Aposto. primae Corin. xii. sed membrum pro corpore de 
+       <lb ed="#B" n="26"/>bet vitam suam exponere. ergo &amp; quaelibet persona pro republica. Dico quod illud quod secundum rectam rationem 
+       <lb ed="#B" n="27"/>debet fieri, apud omnes aequaliter debet fieri: &amp; ab omnibus rectam rationem habentibus aequaliter de 
+       <lb ed="#B" n="28"/>bet iudicari debere fieri: nec in hoc diuersificari debent iudicia philosophorum &amp; catholicorum: nec 
+       <lb ed="#B" n="29"/>aliter del: t iudicare sperans aliam vitam quam non sperans nec econuerso. Sicut enim quod verum est apud  
+       <lb ed="#B" n="30"/>quosdam, verum est apud omnes: nec est aliquid verum secundum philosophiam vera quod non sit verum secundum theo 
+       <lb ed="#B" n="31"/>logiam nec econuerso: sic est de eo quod rectum est aut faciendum secundum rectam rationem. &amp; sic in ista quaestione 
+       <lb ed="#B" n="32"/>non debet aliter sentire bonus theologus quam sentiret verus philosophus: nec econuerso. &amp; consimili- 
+       <lb ed="#B" n="33"/>ter de eo quid est falsum, et contra rectam rationem. Nunc autem ita est quod secundum rectam rationem sperans 
+       <lb ed="#B" n="34"/>vitam aliam iudicare debet secundum rectam rationem quod praeeligendum est mori pro salute reipublicae non tam 
+       <lb ed="#B" n="35"/>quia sperat poenam mortis sibi restitui &amp; recompensari in praemio vitae futurae quam quia non eligens hoc pecca 
+       <lb ed="#B" n="36"/>ret, &amp; deum offenderet quicunque pro republica vitam suam temporalem non exponeret. quare &amp; idem debet 
+       <lb ed="#B" n="37"/>iudicare non sperans vitam futuram: quod scilicet. ecundum rectam rationem pro republica eligendum est mori. &amp; hoc 
+       <lb ed="#B" n="38"/>quia non eligens hoc peccaret, etsi dei offensam non timeret propter poenam futuram quia illam non 
+       <lb ed="#B" n="39"/>crederet. secundum autem rectam rationem semper opera virtutum eligenda sunt: &amp; opera vitiorum sunt fugienda etiam  
+       <lb ed="#B" n="40"/>si non speraretur vita alia. Hinc habendo respectum ad fugam dixit quidam philosophous. Si scirem deos 
+       <lb ed="#B" n="41"/>ignoscituros &amp; homines ignoraturos peccare dedignarer propter exercitium autem virtutum dicit Ber. 
+       <lb ed="#B" n="42"/>in epistola ad Garinum abbatem. Vera virtus finem nescit: nunquam iustus dicit satis est. si semper viueret sem 
+       <lb ed="#B" n="43"/>per quantum in se est iustior esse contenderet. &amp; hoc quia virtutes sunt secundum rectam rationem: secundum quan 
+       <lb ed="#B" n="44"/>homo secundum quod homo viuere debet. Hoc enim est ei secundum naturam suam viuere. Vitia vero sunt contra 
+       <lb ed="#B" n="45"/>rectam rationem. Sic ergo dico quod secundum rectam rationem etiam non sperans aliam vitam debet eligere mo 
+       <lb ed="#B" n="46"/>ri pro republica. Non addo autem cum necesse est: aut pro salute reipublicae, quia qui eligeret mori cum 
+       <lb ed="#B" n="47"/>non esset necesse eum mori pro salute rei publicae: vt quando ei aliter de facili posset prouideri: ille non eli 
+       <lb ed="#B" n="48"/>geret proprie mori pro republica: sed pro temeritate sua. Similiter qui eligeret mori non pro salute reipui 
+       <lb ed="#B" n="49"/>blicae scilicet non pro iustitia &amp; innocentia eius defendenda: sed pro honore &amp; gloria &amp; huiusmodi reipublicae con 
+       <lb ed="#B" n="50"/>tra iustitiam conseruandis: ille non diceretur eligere mori pro republica sed potius pro iactantia &amp; cupiditate. Est 
+       <lb ed="#B" n="51"/>enim talis non vere fortis sed solummodo assimilatur ei. Tales autem appellat, vt videtur, <name ref="#Aristotle">philosophus</name> fortes secun- 
+       <lb ed="#B" n="52"/>dum politicam fortitudinem. de quibus dicit ibidem. Videntur sustinere pericula propter eas quae ex legibus vi 
+       <lb ed="#B" n="53"/>tuperationes &amp; opprobria, &amp; propter homnores. tales autem Homerus facit fortes, puta Diomedem &amp; He 
+       <lb ed="#B" n="54"/>ctora. Vnde mortem &amp; alia mala poenae oportet declinare per se: dicente <name ref="#Augustine">Augustinus</name> xiii. de trinitate cap. 
+       <!--1025.xml-->
+       <pb ed="#B" n="492-v"/>
+        <lb ed="#B" n="1"/>vii. vbi loquens de bono iusto, Quamuis (inquit) per fortitudinem sit paratus excipere &amp; aequo ferre animon 
+       <lb ed="#B" n="2"/>quicquid aduersitatis acciderit: mauult tamen vt non accidat &amp; si possit facit. Intelligo nisi debeat de 
+       <lb ed="#B" n="3"/>clinatio ipsorum alicuius turpis nobis causa fieri. Turpe autem appellatur vitium: quod semper declinan- 
+       <lb ed="#B" n="4"/>dum est. &amp; ideo vt declinetur vitium mors declinanda non est. potius enim oportet omnia mala poenae 
+       <lb ed="#B" n="5"/>pati quam malo culpae consentire. Vnde vbi <name ref="#Aristotle">philosophus</name> in. iiii. Ethico. dixit. Nihil mortuis videbitur nec bo 
+       <lb ed="#B" n="6"/>num nec malum esse: quia vt dicit Commentator, mortuus nihil declinat vt malum nec desiderat vt bonum: 
+       <lb ed="#B" n="7"/>continuo addit: Non videtur autem fortis ille qui non timet quemquam per mortem sed quae in maximo &amp; opti- 
+       <lb ed="#B" n="8"/>mo periculo: siue, vt dicit Commentator, pro salute patriae, legum, amicorum, &amp; libertatis. In his ergo &amp; 
+       <lb ed="#B" n="9"/>sic factis periculis intimiditas est, propria fortis. Vnde &amp; addit philosophus. Principaliter autem dicetur 
+       <lb ed="#B" n="10"/>fortis qui circa bonam mortem impauidus, &amp; quaecumque eam inferunt. talia autem maxime sunt quae circa 
+       <lb ed="#B" n="11"/>bellum. &amp; infra. Fortis autem instupefactibilis vt homo, timebit igitur talia vt oportet &amp; vt ratio sustinebit 
+       <lb ed="#B" n="12"/>boni gratia. Hic enim est finis virtutis. ldem libro ix. Verum est quod de studioso dicitur: &amp; amicorum gratia mul 
+       <lb ed="#B" n="13"/>ta agere &amp; pati: &amp; si oportet mori. Vbi exponendo ly omnia dicit Commentator. Non omnia agit gra 
+       <lb ed="#B" n="14"/>tia amici: puta quaecumque verecundiam siue confusionem afferunt &amp; ad vtilitatem veri honoris non tem 
+       <lb ed="#B" n="15"/>dunt. Pro republica igitur secundum rectam rationem moriendum est: etsi non esset spes vitae futurae. Quod pro 
+       <lb ed="#B" n="16"/>cul dubio sentit ipse <name ref="#Aristotle">philosophus</name> circa felicem felicitate politica: de qua loquens in primo Ethico. dicit. Per 
+       <lb ed="#B" n="17"/>fectum bonum &amp; per se sufficiens dicimus non soli viuenti vitam solitariam: sed &amp; parentibus &amp; filiis &amp; 
+       <lb ed="#B" n="18"/>vxori &amp; amicis &amp; ciuibus. &amp; consistit bonum huiusmodi in imperturbabiliter operari secundum virtutem perfe 
+       <lb ed="#B" n="19"/>ctam quae est prudentia, opera virtutum moralium, quae sunt fortitudo, temperantia, &amp; de iustitia. cui 
+       <lb ed="#B" n="20"/>melius &amp; beatius est in breui hora vnum magnum opus agere secundum virtutem quam diu viuere in operibus 
+       <lb ed="#B" n="21"/>paruis. Propter hoc igitur mori pro republica non solum est simpliciter melius quia pluribus: sed etiam me 
+       <lb ed="#B" n="22"/>lius est ipsi. secundum quod dicit in. ix. Ethico. Omnis intellectus eligit optimum sibiipsi. epieices autem obedit 
+       <lb ed="#B" n="23"/>intellectui. Proiicit enim &amp; pecunias &amp; honores &amp; totaliter circumpugnantia bona: procurans sibiipsi bo- 
+       <lb ed="#B" n="24"/>num. Paucum etenim tempus delectari valde, magis eliget quam multum quiete: &amp; viuere bene annum  
+       <lb ed="#B" n="25"/>quam multos annos qualitercunque: &amp; vnam actionem bonam &amp; magnam quam multas paruas. Morientibus 
+       <lb ed="#B" n="26"/>hoc forte accidit. Eligunt vtique magnum bonum sibiipsis. Si ergo hoc sentit <name ref="#Aristotle">philosophus</name> de felicitate politica. scilicet quod  
+       <lb ed="#B" n="27"/>secundum rationem rectam debet eligere mori pro republica: quia in hoc eligit magis bonum vt tan  
+       <lb ed="#B" n="28"/>git per totum: Quaero quid sentit de felici felicitate speculatiua: de qua dicit in. x. Talis est melior vi 
+       <lb ed="#B" n="29"/>ta quam quae secundu hominem, non enim secundum quod homo est sic viuit: sed secundum quod diuinum aliquod in ipso 
+       <lb ed="#B" n="30"/>existit. Si enim sentit de ipso felici speculatiuo quod secundum rectam rationem debet eligere mori pro re 
+       <lb ed="#B" n="31"/>publica: quaero an hoc sentit quia est sibiipsi bonum: an quia simpliciter bonum licet non sibiipsi. Non quia si 
+       <lb ed="#B" n="32"/>biipsi bonum, quoniam cum hoc operatur secundum fortitudinem politicam ad modum politici: ergo hoc non 
+       <lb ed="#B" n="33"/>est ipsi bonum nisi ad modum quo dictum est politicum esse bonm. scilicet quod melius &amp; beatius est in breui hora 
+       <lb ed="#B" n="34"/>vnum opus magnum agere &amp;c. Quoid non est verum: quia ita nequaquam contingit in aliqua operatione 
+       <lb ed="#B" n="35"/>secundum virtutem politicam tantum delectari quantuncumque sit magna: quantum secundum virtutem specu 
+       <lb ed="#B" n="36"/>latiuam: quia illa habet mirabiles delectationes, vt dicit in libro. x. non ergo esset ipsi bonum: quia cade 
+       <lb ed="#B" n="37"/>ret a maiore &amp; permanentiore delectatione ad minorem &amp; breuiorem. Aut ergo sentit <name ref="#Aristotle">philosophus</name> quod felix feli 
+       <lb ed="#B" n="38"/>citate speculatiua non deberet eligere mori secundum rectam rationem pro republica quia est melius ipsi: 
+       <lb ed="#B" n="39"/>aut si hoc deberet eligere secundum rectam rationem, hoc esset quia esset melius simpliciter: licet non ipsi 
+       <lb ed="#B" n="40"/>secundum modum quo illud ponit <name ref="#Aristotle">philosophus</name> esse melius politico. Quicquid de hoc sentit philosophus, non cre 
+       <lb ed="#B" n="41"/>do ipsum recte sensisse de felici speculatiuo: aut sentit quia secundum rectam rationem speculatiuam debe 
+       <lb ed="#B" n="42"/>ret illud eligere quia illud est melius simpliciter &amp; etiam ipsi. quia etsi non ipsi melius est quo ad bo  
+       <lb ed="#B" n="43"/>ni alicuius acquisitionem nec omnino nec pro illa hora: est tamen melius ipsi quo ad euasionem 
+       <lb ed="#B" n="44"/>mali culpae. secundum quem modum &amp; politicus etiam si nullo modo esset melius ipsi quo ad boni acquisi  
+       <lb ed="#B" n="45"/>tionim: deberet tamen illud eligere quid est melius simpliciter: &amp; etiam melius illi quo ad euasionem ma 
+       <lb ed="#B" n="46"/>li culpae. 
+      </p>
+      <p xml:id="n3av8a-c1e4820-d1e338">
+       DIco ergo quod ad hoc vterque eoruum scilicet tam felix politicus quam speculatiuus tenetur de iure na-  
+       <lb ed="#B" n="47"/>turae: &amp; quod peccaret si illud non eligeret &amp; quod turpiter viueret, melius est autem bene mori quam turpi- 
+       <lb ed="#B" n="48"/>ter viuere. &amp; quo ad hoc etiam melius est ipsi. quia licet per talem mortem non acquireret bonum sibi sed po 
+       <lb ed="#B" n="49"/>tius omnia bona sua amitteret: secundum enim quod dicitur de politico in quarto Ethico. felicior in morte tri 
+       <lb ed="#B" n="50"/>stior est. tali enim maxime viuere dignum: &amp; iste maxime bonis priuatur sciens: triste autem hoc: &amp; sic 
+       <lb ed="#B" n="51"/>licet bonum ei non contingeret: quod innuit <name ref="#Aristotle">philosophus</name> per hoc quod sequitur ibidm: sed nihilo minus fortis: forsi 
+       <lb ed="#B" n="52"/>tan autem &amp; magis: quoniam in bello bonum pro illo eligit: tamen secundum rectam rationem deberet illud  
+       <lb ed="#B" n="53"/>eligere: quia per hoc euaderet turpitudinem vitii: vt enim dicitur in quarto: fortis autem erat terribi 
+       <lb ed="#B" n="54"/>lia homin existentia sustinere propter bonum vel turpe. Non propter bonem scilicet acquirendum vel propter non  
+       <!--1026.xml-->
+       <pb ed="#B" n="493-r"/>
+        <lb ed="#B" n="1"/>incurrendum turpe: hoc est turpitudinem culpae. Et sic secundum rectam rationem debet non sperans aliam vi 
+       <lb ed="#B" n="2"/>tam, eligere mori pro republica: sicut &amp; sperans illam ex charitate: &amp; sicut iste secundum rectam rationem debe 
+       <lb ed="#B" n="3"/>ret eligere mori pro republica secundum praedictum modum etiam si per huiusmodi mortem nihil merer- 
+       <lb ed="#B" n="4"/>tur quod esset recepturus in alia vita. Propter quod, vt dicit Tullius libro. i. de officiis, praeclare scriptum  
+       <lb ed="#B" n="5"/>est a Platone: Non nobis solum nati sumus: ortusque nostri partem patria vendicat partem amici. 
+       <lb ed="#B" n="6"/>Atque vt placet stoicis quae in terris gignuntur ad vsum hominium omnia creari: homines autem hominum cau 
+       <lb ed="#B" n="7"/>sa esse generatos: vt ipsi inter se alius alii prodesse posset. In hoc naturam debemus ducem sequi: con 
+       <lb ed="#B" n="8"/>munesque vtilitates in medium afferre mutatione officiorum. ldem in oratione populari ad senatum. Sic 
+       <lb ed="#B" n="9"/>ab initio fui animatus: vt non magis me mea causa putarem esse natum quam reipublicae procreatum. Nihil 
+       <lb ed="#B" n="10"/>duri vel acerbi mihi erit quo respublica curabitur. neque ei mors misera est quae ob rempublicam capitur: 
+       <lb ed="#B" n="11"/>neque exercitium turpe est quod virtutae suscipitur: praesertim cum hae poenae nonnullam habeant in se conso- 
+       <lb ed="#B" n="12"/>lationem. cum vt dicit libro primo inuectiuarum. Patria mihi vita mea multo charior est. Idem libro iiii. 
+       <lb ed="#B" n="13"/>Mihi quidem haec conditio data est vt omnes acerbitates omnes dolores cruciatusque perferam non solum  
+       <lb ed="#B" n="14"/>fortiter: sed etiam libenter dummodo meis laboribus vrbis pariterque reipublicae dignitas salusque pa- 
+       <lb ed="#B" n="15"/>riantur aequo animo paratoque moriar. Non enim turpis mors forti viro potest accidere: neque misera sa- 
+       <lb ed="#B" n="16"/>pienti. Itaque sapientes nunquam eam inuiti: fortes etiam saepe appetierunt. Vnde quia <name ref="#Aristotle">philosophous</name> secun 
+       <lb ed="#B" n="17"/>dum rectam rationem mori eligendum sentiebat pro republica politico forti &amp; sapienti contemplati 
+       <lb ed="#B" n="18"/>uo, etiam si nihil boni: sed solum amissio boni inde eis contingeret secundum modum iam expositum: 
+       <lb ed="#B" n="19"/>ideo quando dixit in. ix. libro vnam bonam actionem magnam quam multas paruas morientibus eligendam: eli 
+       <lb ed="#B" n="20"/>gunt vtique magnum bonum sibiipsis: addidit forte. quia etsi illud non contingeret, nihilominus tamen  
+       <lb ed="#B" n="21"/>mori sic secundum rectam rationem eligeret. Et secundum hoc concedendae sunt duae vltimae rationes inductae 
+       <lb ed="#B" n="22"/>ad istam partem. Quia si forte aliquis poneret quod <name ref="#Aristotle">philosophus</name> non poneret felicem speculatiuum 
+       <lb ed="#B" n="23"/>debere eligere mori dicto modo quasi sit omnino sequestratus ab humana societate non viuens qua  
+       <lb ed="#B" n="24"/>si homo mortalis: sed quasi diuinus &amp; immortalis, vt dicit <name ref="#Aristotle">philosophus</name> in quarto Ethicorum: &amp; quod ideo 
+       <lb ed="#B" n="25"/>non tenetur descendere a sua felicitate contemplatiua ad actionem politicam pro republica: &amp; sic 
+       <lb ed="#B" n="26"/>ponendo hoc diceret ad primam rationem quod verum est quod bonum publicum praeferendum est priuato: dum  
+       <lb ed="#B" n="27"/>tamen bonum priuatum includatur in publico: aliter non: licet simpliciter sit praeferendum quantum est 
+       <lb ed="#B" n="28"/>ex parte sui, non tamen quantum est parte illius cuius bonum priuatum non includitur in bono publico. Et simi 
+       <lb ed="#B" n="29"/>liter si diceret ad secundam: quod vnum membrum exponit se mortis periculo propter conseruationem totius: ve- 
+       <lb ed="#B" n="30"/>rum est quando membrum non habet proprium intellectum nec potest habere suum bonum, proprium separatum extra bonum 
+       <lb ed="#B" n="31"/>totius. si tamen pars vel membrum haberet proprium intellectum: et bonum quod separatim posset obtinere, qua  
+       <lb ed="#B" n="32"/>le habet speculatiuus, nequaquam eligeret illud. lsta non possunt stare: quia etsi <name ref="#Aristotle">philosophus</name> circa ea quae  
+       <lb ed="#B" n="33"/>sunt ad finem multa secundum rectam rationem sentiebat &amp; illa quae sentit fides catholica: circa illa tamen in or 
+       <lb ed="#B" n="34"/>dinando ipsa ad finem &amp; circa ipsum finem vitae humanae in multis errabat: sicut &amp; alii philosophi. quia vt 
+       <lb ed="#B" n="35"/>dicit <name ref="#Augustine">Augustinus</name> sibiipsi fabricabant quandam felicitatem percipiendam in vita praesenti: quae est finis operum 
+       <lb ed="#B" n="36"/>virtutis: &amp; sic ad alium finem ordinabant virtutum opera quam ordinet fides catholica: quae ordinat illa ad  
+       <lb ed="#B" n="37"/>beatitudinem percipiendam in vita futura: &amp; sic errauit, si tamen posuit (quod non credo) felicem speculatiuum 
+       <lb ed="#B" n="38"/>sic subtractum fuisse a focietate humana quod non teneretur in aliquo reipuca hoc enim est contra ius na- 
+       <lb ed="#B" n="39"/>turae, vt dictum est, a quo absolui non potuit nisi posuisset quod in felicitate illa speculatiua positus es 
+       <lb ed="#B" n="40"/>set extra statum peccandi sicut sunt beati in gloria: quid omnino erroneum est. quia ergo semper manet naturali 
+       <lb ed="#B" n="41"/>ter obligatus reipublicae &amp; est in statu merendi &amp; demerendi, tenetur semper eligere mori pro republica 
+       <lb ed="#B" n="42"/>secundum dictum modum. &amp; hoc quia licet bonum suum priuatum aliquod positiuum non includitur in illo bono pu- 
+       <lb ed="#B" n="43"/>blico, includitur tamen in illo bonum eius priuatum quasi negatiuum scilicet euasio turpitudinis &amp; mali culpae 
+       <lb ed="#B" n="44"/>vt dictum est: &amp; hoc sufficit ad propositum. Quia si in bono publico non sic includeretur bonum suum pri 
+       <lb ed="#B" n="45"/>uatum, puto quod nullo modo deberet eligere mori dicto modo sicut nec tenentur hoc eligere sancti in  
+       <lb ed="#B" n="46"/>patria: quia non esset in hoc debitor reipublicae sicut nec sancti in patria: quia sicut illi non sunt pars 
+       <lb ed="#B" n="47"/>ciuitatis ecclesiae militantis nec de foro eius: sic nec iste esset pars societatis humanae: secundum quod hoc vi 
+       <lb ed="#B" n="48"/>detur sentire <name ref="#Aristotle">philosophus</name> in nono metaphysicae. vbi dicit quod vir eremita neque est bonus neque malus. vbi 
+       <lb ed="#B" n="49"/>dicit Commentator: quia non est pars ciuitatis. Vir autem eremita secundum <name ref="#Aristotle">philosophum</name> erat felix felici 
+       <lb ed="#B" n="50"/>tate speculatiua. Similiter quid dicitur ad secundum quod membrum habens, proprium intellectum &amp; proprium E 
+       <lb ed="#B" n="51"/>bonum separatum non deberet eligere mori dicto modo nisi bonum suum includeretur in bono com a 
+       <lb ed="#B" n="52"/>muni: non valet. quia licet singula membra haberent singulos intellectus in iudicio secundum rectam ra- 
+       <lb ed="#B" n="53"/>tionem de eligendo illum actum, deberent plures intellectus illorum esse vnus. etenim licet, vt dictum est, 
+       <lb ed="#B" n="54"/>bonum illius priuatum positiuum non includatur in illo bono publico, includitur tamen in illo bonum eius 
+       <!--1027.xml-->
+       <pb ed="#B" n="493-v"/>
+        <lb ed="#B" n="1"/>quasi negatiuum. &amp; quid amplius est: licet bonum eius priuatum positiuum non includatur in illo bono publi 
+       <lb ed="#B" n="2"/>co: tamen intantum dependet ab illo, quod nisi eligeret mori dicto modo, per vitium &amp; turpe quod incurreret amit- 
+       <lb ed="#B" n="3"/>teret suum bonum priuatum: quia non potest stare bonum virtutis aut felicitatis cuiuscunque cum vitio. 
+       <lb ed="#B" n="4"/>Si vero dicatur secundum iam dicta quod iste speculatiuus non est pars ciuitatis &amp; ita non membrum: pro- 
+       <lb ed="#B" n="5"/>pter quod nullo modo tenetur se exponere morti pro republica: &amp; sic nec peccaret non eligendo illud:  
+       <lb ed="#B" n="6"/>Dico quod puto si ita esset quod nullo modo esset pars ciuitatis: quia moriendo amitteret omnia bona sua 
+       <lb ed="#B" n="7"/>&amp; nihil boni acquireret nihilque mali effugeret: quod nullo modo illud eligere deberet: sicut nec aliquis 
+       <lb ed="#B" n="8"/>homo viuens siue iustus siue peccator deberet eligere aliquod peccatum conmittere aut se perpetuo danmna  
+       <lb ed="#B" n="9"/>ri vt omnes alii perpetuo saluarentur: sicut tetigit secundum argumetum ad partem contrariam. Sed non 
+       <lb ed="#B" n="10"/>est ita. Vir enim eremita quantuncumque sit abstractus ab humana societate, semper tamen in aliquo illius 
+       <lb ed="#B" n="11"/>solatio indiget: &amp; ideo manet ei naturaliter obligatus semper. Vnde etsi non sit pars eius quo ad  
+       <lb ed="#B" n="12"/>exercitium multorum actuum qui pertinent ad vitam politicam circa regimen domus &amp; familiae &amp; cir- 
+       <lb ed="#B" n="13"/>ca amicos &amp; huiusmodi: est tamen semper manens pars eius quo ad exercitium actus necessarii ad salutem rei- 
+       <lb ed="#B" n="14"/>publicae conseruandae. Vnde si respublica indigeret quod vir eremita <name ref="#Aristotle">philosophus</name> speculatiuus &amp; sub- 
+       <lb ed="#B" n="15"/>tractus a conmuni vita esset rector regni prouinciae aut ciuitatis: ipse dimissa sua speculatione debe 
+       <lb ed="#B" n="16"/>ret descendere ad actionem &amp; fieri rector ciuitatis &amp; reipublicae, sicut hactenus fiebant philosophi vt ampli 
+       <lb ed="#B" n="17"/>us declarabitur inferius in quaestione antepenultima. 
+      </p>
+      <p xml:id="n3av8a-c1e4820-d1e550">
+       AD illud quod arguitur primo in contrarium: quod ne 
+       <lb ed="#B" n="18"/>mo debet eligere mori pro republica secundum rectam rationem: quia hoc eligendo esset miser vt di-  
+       <lb ed="#B" n="19"/>cit Augustinus: Dico secundum praedicta quod reuera miser esset simpliciter in hoc quod omnia bona sua &amp; na 
+       <lb ed="#B" n="20"/>turalia &amp; acquisita qualiacumque essent amitteret: &amp; secundum intentionem <name ref="#Augustine">Augustinus</name> ad poenas aeternas 
+       <lb ed="#B" n="21"/>descenderet. esset tamen miserior non eligendo illud: quia culpam incurreret: &amp; maior est miseria cul- 
+       <lb ed="#B" n="22"/>pae quam cuiuscumque poenae siue damni siue sensus. Secundum rectam autem rationem potius eligendum est id  
+       <lb ed="#B" n="23"/>quo quis minus miser est quam quo quis est magis miser: &amp; hoc sub conditione si alterum oporteret in  
+       <lb ed="#B" n="24"/>currere: vt contingit in proposito, licet neutrum illorum esset simpliciter eligendum. 
+      </p>
+      <p xml:id="n3av8a-c1e4820-d1e571">
+       AD secun 
+       <lb ed="#B" n="25"/>dum quod existens sine tali spe non debet eligere mortem suam naturalem, sicut nec existens in gratia mor- 
+       <lb ed="#B" n="26"/>tem spiritualem: Dico secundum praedicta quod non est simile: quia iste morte spirituali amitteret omne bo- 
+       <lb ed="#B" n="27"/>num suum &amp; incurreret omne malm. scilicet culpae &amp; poenae cui se obligaret: non sic autem ille qui morte 
+       <lb ed="#B" n="28"/>sua naturali saltem effugeret malum culpae quod incurreret non eligendo mori. &amp; ideo iste deberet eli 
+       <lb ed="#B" n="29"/>gere mori morte naturae: nullo tamen modo iste deberet eligere mori morte spirituali, vt patet ex 
+       <lb ed="#B" n="30"/>dictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

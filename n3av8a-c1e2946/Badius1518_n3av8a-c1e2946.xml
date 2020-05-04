@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 19</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 19</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="271-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2946">
+       <head xml:id="n3av8a-c1e2946-Hd1e96">Quaestio 19</head>
+       <p xml:id="n3av8a-c1e2946-d1e99">
+        <lb ed="#B" n="45"/>SEquitur de pertinentibus ad bene esse hominis singularis in ordine ad alium. Vbi 
+       <lb ed="#B" n="46"/>primo proponebantur tria pertinentia ad praedicationem: duo circa fugientem prae- 
+       <lb ed="#B" n="47"/>dicare: &amp; vnum circa ingerentem se ad praedicandum. Deinde quaerebantur quaedam  
+       <lb ed="#B" n="48"/>alia pertinentia ad poenitentiae sacramentum. Primum illorum trium erat, vtrum va- 
+       <lb ed="#B" n="49"/>dens ad praedicandum recepturus necessaria victus in loco vbi debet praedicare 
+       <lb ed="#B" n="50"/>videns autem villam desolatam, &amp; bono pastore destitutam, cum ibi non putat inue 
+       <lb ed="#B" n="51"/>nire bonum hospitium, pertransit, &amp; vadit ad aliam villam habentem bonum gubernatorem &amp; sufficien- 
+       <lb ed="#B" n="52"/>tem praedicatorem, apud quem credit bene hospitari, peccet mortaliter. Secundum erat: vtrum tacens veritatem pro 
+       <lb ed="#B" n="53"/>pter hospitem suum, vel alium diuitem a quo sperat refici, ne offendat eum &amp; amittat bonam re- 
+       <lb ed="#B" n="54"/>fectionem, peccet mortaliter. Tertium erat, si sacerdos curatus in parrochia sua paratus sit &amp; velit 
+       <!--583.xml-->
+       <pb ed="#B" n="271-v"/>
+        <lb ed="#B" n="1"/>praedicare: &amp; similiter frater habens priuilegium vt possit praedicare nullo eum impediente, quis eorum potior 
+       <lb ed="#B" n="2"/>sit in iure: &amp; debet cedere alteri. 
+      </p>
+      <p xml:id="n3av8a-c1e2946-d1e132">
+       CIRca primum arguitur: quod in illo casu posito praedicator peccaret mor 
+       <lb ed="#B" n="3"/>taliter, quia talis facit contra charitatem quaerendo quae sua sunt, non quae lesu Christi. secundum illud Apostoli Phil. 
+       <lb ed="#B" n="4"/>iii. Talis autem peccat mortaliter. Contra. victus necessarius est praedicatori, &amp; vnicuique licitum est quae-  
+       <lb ed="#B" n="5"/>rere necessarium: hoc autem non faceret nisi diuerteret se a loco vbi non putat illum inuenire, &amp; conuertat 
+       <lb ed="#B" n="6"/>se ad alium, vbi illum sperat inuenire. ergo &amp; hoc licitum est. sed in licito nullus peccat mortaliter. ergo  
+       <lb ed="#B" n="7"/>&amp;c. Hic respondendum est respiciendo ad statum &amp; conditiones populi, &amp; similiter praedicatoris: &amp; secundum 
+       <lb ed="#B" n="8"/>hoc distinguendum. Si enim populus multum bona praedicatione indiget: vel propter defectum scientiae 
+       <lb ed="#B" n="9"/>fidei, aut vitae fidei necessariae ad salutem, vel propter morum paruersitatem qui correctione indigent multum: &amp; 
+       <lb ed="#B" n="10"/>hoc sciret praedicator sufficiens ad instruendum ignorantes &amp; salubriter corripiendum delinquentes: &amp; 
+       <lb ed="#B" n="11"/>posset commode ad locum accedere, &amp; sustentationem vitae quoquo modo praesumeret ibi inuenire posse: aut 
+       <lb ed="#B" n="12"/>prius quam deficeret posse ad alium locum transire vbi necessaria sciret se inuenire: nec videret quod alius praedica 
+       <lb ed="#B" n="13"/>tor ad dicta exequenda idoneus illuc esset accessurus, &amp; in mora esset periculum, si in isto casu propter 
+       <lb ed="#B" n="14"/>victualia vberiora alibi expectata illuc se verteret vbi non multum eius praedicatione opus esset, credo  
+       <lb ed="#B" n="15"/>quod adulteraretur verbum dei. secundum illud Apost. ii. ad Corin. iiii. quia pro quaestu praedicaret, vt ibi dicit glos. &amp; 
+       <lb ed="#B" n="16"/>peccaret mortaliter, virulenta &amp; aprta vulnera sauciati telo ignorantiae vel perfidiae non mitigando, &amp; imminenti 
+       <lb ed="#B" n="17"/>morti spirituali non occurrendo. iuxta illud Hiero. Pasce fame morientem: quem si non pauisti occidisti. iu 
+       <lb ed="#B" n="18"/>xta etiam illud quid dicit Grego. libro ii. pastora. Qui proximorum mala respiciunt, &amp; in silentio linguam pre 
+       <lb ed="#B" n="19"/>munt, quasi conspectis vulneribus vsum medicaminis subtrahunt, &amp; eo mortis auctores fiunt quo vi 
+       <lb ed="#B" n="20"/>rus quid poterant curare nolunt. Et loquitur ad literam de vulneribus spiritualibus &amp; spirituali medica- 
+       <lb ed="#B" n="21"/>mine quod offertur in praedicatione &amp; correctione. In quo casu credo quod multo magis peccaret praelatus 
+       <lb ed="#B" n="22"/>habens curam loci supiorem, episcopus, vel archiepiscopus: &amp; post illos qui victum posset haine alias de 
+       <lb ed="#B" n="23"/>suo, vt canonicus, &amp; deinde praedicator mendicus: qui a se nihil haberet, sed victum mendicare ab aliis 
+       <lb ed="#B" n="24"/>necesse haberet. Si vero praedicator firmiter sciret quod accedendo ad locum prae defectum sustentationis eum 
+       <lb ed="#B" n="25"/>mori necesse esset, credo quod non peccaret, quia pro dubia alterius salute spirituali non deberet se certae 
+       <lb ed="#B" n="26"/>morti tradere corporali, quia illi modo alio possent suae saluti prouidere si vellent assistente diuio adiutorio. li 
+       <lb ed="#B" n="27"/>cet in dubio bene deberet se pro salute proximi periculo mortis corporalis exponere, maxime si illi per  
+       <lb ed="#B" n="28"/>alium non posset subueniri. In hoc casu credo quod non peccaret, immo potius peccaret ad locum illum acceden 
+       <lb ed="#B" n="29"/>do. Similiter si populus non multum praedicatione indigeret, in hoc casu credo quod peccaret venialiter ex ali- 
+       <lb ed="#B" n="30"/>quantula auida affectione ad victum: quam etiam tanta posset esse quod mortaliter peccaret: etiam si eius prae- 
+       <lb ed="#B" n="31"/>dicatione penitus opus non esset. 
+      </p>
+      <p xml:id="n3av8a-c1e2946-d1e197">
+       PER haec patent obiecta vtriusque partis. Quaerere enim quae sua sunt 
+       <lb ed="#B" n="32"/>ad vitae necessariae sustentationem, est prouisio necessaria, ad quam quilibet tenetur pro se in tempo- 
+       <lb ed="#B" n="33"/>re necessitatis maxime, &amp; etiam in aliis pro congruentia loci &amp; status &amp; conditionis personarum, &amp; quaeren 
+       <lb ed="#B" n="34"/>tium, &amp; illorum a quibus quaerunt: &amp; sic bene processit secunda obiectio. Quaerere autem super congruentiam 
+       <lb ed="#B" n="35"/>&amp; necessitatem status &amp; conditionis personarum, bene potest esse in peccato mortali, vt processit pri 
+       <lb ed="#B" n="36"/>ma obiectio, aut saltem veniali. De modo autem quaerendi necessaria vltra necessitatem, vel extra con 
+       <lb ed="#B" n="37"/>gruentiam status, aut conditionis personarum quaerentium, &amp; illorum a quibus quaeruntur, erit sermo in parte,. 
+       <lb ed="#B" n="38"/>infra in quaestionibus de statu perfectionis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

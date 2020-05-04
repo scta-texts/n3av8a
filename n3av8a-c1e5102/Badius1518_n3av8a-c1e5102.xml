@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="525-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5102">
+       <head xml:id="n3av8a-c1e5102-Hd1e96">Quaestio 3</head>
+       <p xml:id="n3av8a-c1e5102-d1e99">
+        <lb ed="#B" n="39"/>CIrca Tertium arguitur: quod deus non potest facere corpus extra mundum: quod non tan  
+       <lb ed="#B" n="40"/>gat vltimum caelum: quia non distaret ab illo. sicut enim non potest esse album sine al- 
+       <lb ed="#B" n="41"/>bedine: sic non possunt aliqua distare fine distantia: quare cum inter illud corpus &amp; 
+       <lb ed="#B" n="42"/>caelum nulla sit distinctio media, non distant: corpora autem quae inter se non distant 
+       <lb ed="#B" n="43"/>sese tangunt: ergo &amp;c. Item secundum philosophum. vi. physicorum. Corpora illa tangunt set 
+       <lb ed="#B" n="44"/>quorum nihil est medium: inter illud autem corpus &amp; extremum caelum nihil est me- 
+       <lb ed="#B" n="45"/>dium: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5102-d1e117">
+       CONtra: deus non est potentior intra caelum quam extra: sed intra caelum deus posset cae- 
+       <lb ed="#B" n="46"/>lum continue tenere in esse cadentibus elementis in nihilum: cum in nullo dependeat caelum ab elemen 
+       <lb ed="#B" n="47"/>tis in suo esse: sed magis econtrario. &amp; tamen latera caeli non concurrerent, nec se tangerent sed distarent sicut 
+       <lb ed="#B" n="48"/>modo: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5102-d1e126">
+       DIco quod deus bene potest facere corpus aliquod vel alium mundum extra vltimum caelum 
+       <lb ed="#B" n="49"/>sicut fecit terram infra mundum siue infra caelum: etisimiliter ipsum mundum &amp; vltimum caelum: &amp; hoc 
+       <lb ed="#B" n="50"/>non in aliquo sed in nihilo: non materialiter quasi nihil sit aliquid: sed post nihil, quia vbi nihil erat: &amp; hoc 
+       <lb ed="#B" n="51"/>non quia tunc illud vbi erat aliquid vt dimensio separata: in qua ipsum nihil erat: quasi nihil esset aliquid  
+       <lb ed="#B" n="52"/>&amp; in quae dimensiones corporis recipi possent post nihil prius ibi existens &amp; expulsum: sed totum debet 
+       <lb ed="#B" n="53"/>intelligi negatiue: ac si diceretur, non vbi erat aliquid: vt &amp; vbitas &amp; aliquitas simul negentur. vt in-  
+       <lb ed="#B" n="54"/>telligamus modo ipsum caelum vel corpus de quo loquimur factum esse in nihilo, intelligendo hoc, 
+       <!--1090.xml-->
+       <pb ed="#B" n="525-r"/>
+        <lb ed="#B" n="1"/>secundum modum quo intelligit <name ref="#Augustine">Augustinus</name> ipsum nihil: quando exponendo illud loan i. Sine ipso factum est 
+       <lb ed="#B" n="2"/>nihil: dicit sic. Videte ne cogitetis quia nihil aliquid est. Solent enim multi male intelligere: Sine ipso 
+       <lb ed="#B" n="3"/>factum est nihil, putantes aliquid esse nihil. Et secundum hoc dicitur de deo. lob. xxvi. Appendit terran 
+       <lb ed="#B" n="4"/>super nihilum, omnine scilicet quia non super plenum quod est aliquid per se vt corpus dimensionatum: nec super vacuum 
+       <lb ed="#B" n="5"/>quod est aliquid per accidens vt iam dicetur. Secundum hunc etiam modum deus extremum caelum fecit in nihile scilicet omnino: quia  
+       <lb ed="#B" n="6"/>secundum philosophum: extra caelum nihil est. i. non est aliquid. Dico neque per se existens aliquid neque per acciamens. propter quod specifi- 
+       <lb ed="#B" n="7"/>cando continue subdit. Neque plenum est vacuum, vt intelligatur omnino necesse extra caelum nihil esse: &amp; supremum 
+       <lb ed="#B" n="8"/>caelum factum in nihilo: &amp; terra appensa super nihilum. Vlterius dico: quod posset deus facere illud corpus 
+       <lb ed="#B" n="9"/>extra caelum distans ab vltimo caelo, vt procedit vltima ratio, nec est hic aliqua alia difficultas nisi in argu 
+       <lb ed="#B" n="10"/>mentis duobus ad oppositum. Quia ergo arguitur primo: quod caelum &amp; dictum corpus non distarent: quia nul 
+       <lb ed="#B" n="11"/>la est distantia inter illa &amp;c. dico quod aliqua contingit distare dupliciter. Vno modo per se scilicet quia est ali 
+       <lb ed="#B" n="12"/>qua distantia positiua dimensionis corporalis in medio eorum. Alio modo per accidens: quia etsi non sit 
+       <lb ed="#B" n="13"/>aliqua distantia positiua inter illa: tamen iuxta vel inter illa potest esse aliquid quod habet in se dimensionem 
+       <lb ed="#B" n="14"/>positiuam per quam potest aduerti distantia illorum, vt si iuxta extrema duorum corporum inter quae est va- 
+       <lb ed="#B" n="15"/>cuum, &amp; iuxta vacuum sit murus trium pedum: tunc distantia trium pedum dicendum est corpus quid est sub va- 
+       <lb ed="#B" n="16"/>cuo distare a corpore quid est super vacuum. quid etsi nihil sit intra, tamen quantae dimensionis corpus natum  
+       <lb ed="#B" n="17"/>est recipi inter dicta duo corpora, tantum secundum distantiam iudicandum est esse illud intermedium: sed per  
+       <lb ed="#B" n="18"/>accidens. &amp; ratione illius per accidens intermedium quod secundum se omnino nihil est, per accidens est quasi ali- 
+       <lb ed="#B" n="19"/>quid: propter quod appellatur vacuum: quasi non omnino nihil: sed per accidens distantia separata corporis receptiua 
+       <lb ed="#B" n="20"/>Et secundum hoc dicta duo corpora non distant nisi distantia non quae est secundum actum, &amp; per se iuxta vel inter illa 
+       <lb ed="#B" n="21"/>sed quae nata est esse inter illa per se: aut iuxta illa: et per hoc bene distantia quae est distantia, per accidens, &amp; 
+       <lb ed="#B" n="22"/>inter illa, quale est vacuum, sicut iam dictum est. Quia arguitur secundo: quod nihil est medium inter illa: dico 
+       <lb ed="#B" n="23"/>quod nihil esse medium inter aliqua potest intelligi dupliciter. Vno modo quia nulla distantia nec per se nec 
+       <lb ed="#B" n="24"/>etiam per accidens est in medio. Alio modo solum quia nulla distantia per se est in medio, vt nullum corpus: est tamen 
+       <lb ed="#B" n="25"/>in medio, vel quod est distantia per accidens: &amp; per hoc aliquid per accidem scilicet vacuum. De non habentibus medium 
+       <lb ed="#B" n="26"/>inter se primo modo verum est solummodo quod tangunt se, non autem verum est de non habentibus medium inter se 
+       <lb ed="#B" n="27"/>secundo modo. Sed contra hoc arguet forte per <name ref="#Aristotle">philosophum</name> qui dicit quod extra caelum nihil est nec plenum nec 
+       <lb ed="#B" n="28"/>vacuum: quare nec est ibi distantia per accidens: per hoe. scilicet quod in dicto vacuo intermedio natum esset esse 
+       <lb ed="#B" n="29"/>corpus. 
+      </p>
+      <p xml:id="n3av8a-c1e5102-d1e215">
+       AD quid dico: quod sicut vacuum non est distantia siue dimensio separata inter illa corpora nisi per 
+       <lb ed="#B" n="30"/>accramens secundum dictum modum: sic nec vacuum est omnino nec est aliquid omnino vt aliquam dimensio nisi per accramens. sed  
+       <lb ed="#B" n="31"/>hoc alio &amp; alio modo habet quod per accidens sit dimensio &amp; aliquid: &amp; quod per accidens sit, sumendo esse se- 
+       <lb ed="#B" n="32"/>cundo adiacens. Est enim vt dictum est vacuum dimensio siue distantia inter duo corpora dicta, 
+       <lb ed="#B" n="33"/>&amp; hoc peraccidens: vel quia dimensio positiua est iuxta vel nata est esse infra aut iuxta. lpsum autem  
+       <lb ed="#B" n="34"/>vacuum habet esse per accamens: quia corpora aliquam inter quae est, sic situata sunt quod dimensio aliquam corporis nata 
+       <lb ed="#B" n="35"/>est esse inter illa sed non est. Et proptrea si extra caelum extremum esset a deo aliquid corpus factum vel alius mun- 
+       <lb ed="#B" n="36"/>dus sine contactu ad caelum, tunc inter vtrumque dicendum esset esse vacuum secundum mensuram determinatam 
+       <lb ed="#B" n="37"/>corporis, quia natum esset inter illa recipi: sed alibi non. sicut nec modo extra dicendum est esse vacuum, si 
+       <lb ed="#B" n="38"/>cut nec plenum, sed purum nihil. Et ideo <name ref="#Aristotle">philosophus</name> loquens de vnitate mundi, &amp; supponens nuilum corpus 
+       <lb ed="#B" n="39"/>extra nostrum mundum esse: quid etiam nititur probare: Dicit (o bene) quod extra caelum nihil est, neque plenum neque  
+       <lb ed="#B" n="40"/>vacuum. &amp; hoc neque per se neque per accidens: puta nec aliquod corpus habens distantiam partium &amp; dimensiones 
+       <lb ed="#B" n="41"/>nec receptibile corporis determinatum inter duo corpora distantia. Vnde si deus modo crearet corpus extra 
+       <lb ed="#B" n="42"/>caelum tangens caelum, illud nec in pleno nec in vacuo crearetur sed in puro nihilo, &amp; esset ex opposito caeli subsi- 
+       <lb ed="#B" n="43"/>stens in puro nihilo negatiue accepto, sicut caelum creatum fuit in puro nihilo: &amp; purum nihil erat prius vbi 
+       <lb ed="#B" n="44"/>est illud corpus: &amp; hoc totum negatiue intelligendo secundum iam expositum modum. Et proptrea si elementa essent 
+       <lb ed="#B" n="45"/>amota de sub caelo, infra caelum ponendum esset esse vacuum: quid tamen nequamquam ponendum esset esse extra caelum. Et proptrea 
+       <lb ed="#B" n="46"/>licet numquam fuit caelum sine elementis contentis in ipso &amp; sub ipso: quia tamen caelum naturaliter prius est 
+       <lb ed="#B" n="47"/>elementis: ideo prius naturaliter creatum est elementis: licet simul duratione. &amp; propter hoc signam 
+       <lb ed="#B" n="48"/>ter dicit beatus lob de deo. Qui extendit aquilonem super vacuum, non autem dicit super elemen- 
+       <lb ed="#B" n="49"/>ta: quia naturaliter sunt creata post creationem caeli: licet simul duratione. Sed nunc postquam creata 
+       <lb ed="#B" n="50"/>sunt elementa sub caelo apparet caelum extensum super terram: sicut quoddam tabernaculum super 
+       <lb ed="#B" n="51"/>pauimentum. &amp; sic non dicit caelum extensum super aliquid positiuum: nec etiam super nihilum: si- 
+       <lb ed="#B" n="52"/>cut terra appensa est super nihilum: quam nec dicit appensam super vacuum aut super aliquid  
+       <lb ed="#B" n="53"/>Per aquilonem autem beatus lob intelligit caelum: quia pars caeli aquilonaris maxime apparet supra 
+       <lb ed="#B" n="54"/>nostrum habitabile.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

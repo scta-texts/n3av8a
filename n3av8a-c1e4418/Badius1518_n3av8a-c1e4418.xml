@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 13</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 13</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="468-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4418">
+       <head xml:id="n3av8a-c1e4418-Hd1e96">Quaestio 13</head>
+       <p xml:id="n3av8a-c1e4418-d1e99">
+        <lb ed="#B" n="27"/>CIrca quartum arguitur quod in daemonibus cadat obliuio, sic. <name ref="#Augustine">Augustinus</name> dicit sexto Musi- 
+       <lb ed="#B" n="28"/>cae. Species quae est in memoria quam cito inest incipit labi: &amp; hoc causat obliuionem: 
+       <lb ed="#B" n="29"/>quare quia daemon cognoscit per speciem siue quae est habitus siue aliquid aliud  
+       <lb ed="#B" n="30"/>(in hoc enim nulla est differentia) potest obliuisci. Contra, in ipso nulla euenit 
+       <lb ed="#B" n="31"/>deletio: nec per se naturaliter, quia in ipso nihil naturaliter productum est: nec par  
+       <lb ed="#B" n="32"/>accidens: quia nec per subiecti corruptionem: quia ipse incorruptibilis est: nec per 
+       <lb ed="#B" n="33"/>actus cessationem quia per actus nihil in ipso generatum est. ergo &amp;c. Dicendum quod in  
+       <lb ed="#B" n="34"/>diabolo sicut &amp; in angelis bonis duplex habetur scientia. Vna ab aeterno suo siue ab initio suae crea 
+       <lb ed="#B" n="35"/>tionis, pure speculatiua circa aeterna &amp; rerum omnium vels essentias: quae ei naturaliter est indita a producente ipsum  
+       <lb ed="#B" n="36"/>in esse. Altera ex tempore practica siue experimentalis, acquisita ex factis &amp; contingentibus particularibus. 
+       <lb ed="#B" n="37"/>De prima dico quod circa eam in daemonibus nulla omnino cadit obliuio: quia sicut integra ipsis manent natu  
+       <lb ed="#B" n="38"/>ralia vt dicit Dionysius. iiii. cap. de Di. no sic integra manet &amp; talis notitia. De secunda dico quod haec tria 
+       <lb ed="#B" n="39"/>differunt, nescientia, ignorantia, &amp; obliuio: quoniam omnis ignorantia &amp; obliuio est nescientia. sed non conuertitur: qui  
+       <lb ed="#B" n="40"/>enim ignorat aliquid aut oblitus est eius nescit illud: quod enim aliquis numquam sciuit, nescit: non tamen ignorat aut obli 
+       <lb ed="#B" n="41"/>tus est: quia nunquam illud sciuit. Ignorantia autem &amp; obliuio proprie loquendo praesupponunt habitum fuisse vel ad  
+       <lb ed="#B" n="42"/>minus quae ad ignorantiam potuisse fuisse. De nescientia verum est quod est in daemone: quia multa potuisset sciuisse 
+       <lb ed="#B" n="43"/>si stetisset quae nunquam postea sciuit. Multa etiam sunt scibilia deo de se ipso quae non possunt sciri modo quo deus  
+       <lb ed="#B" n="44"/>illa scit a creatura. Et sic quo ad illa diabolus habet nescientiam. Quae si largo modo possit dici obliuio 
+       <lb ed="#B" n="45"/>talis obliuio cadit in daemone ex merito peccati sui. dicente Grego. iiii. libro Moralis super illud lob. iii. 
+       <lb ed="#B" n="46"/>Obscurent eum tenebrae &amp; vmbra mortis. Per vmbram mortis obliuio debet intelligi: quia ergo apo 
+       <lb ed="#B" n="47"/>stata angelus aeternae obliuioni traditur, vmbra mortis obscuratur. Obliuio autem proprie dicta est. 
+       <lb ed="#B" n="48"/>carentia notitiae prius habitae per deletionem interius illius quo eam habuit, siue ponatur fuisse speci 
+       <lb ed="#B" n="49"/>es siue habitus. &amp; quia in ipso interius nulla potest fieri deletio eorum quae a creatura &amp; ex creatio- 
+       <lb ed="#B" n="50"/>ne naturaliter habuit, idcirco in ipso nulla, proprie loquendo cadit obliuio. Ignorantia autem tripliciter 
+       <lb ed="#B" n="51"/>causatur. Vno modo, quia aliquis nescit aliquid quod potuit scire &amp; addiscere: sed noluit, faciendo quod eum  
+       <lb ed="#B" n="52"/>ab addiscendo impediuit, vel impossibilem ad addiscendum reddidit. Alio modo quia per deletionem 
+       <lb ed="#B" n="53"/>alicuius quo sciuit interius est oblitus simpliciter. Tertio modo quia propter passionem superuenien 
+       <lb ed="#B" n="54"/>tem non aduertit ad tempus. Primo modo dico quod multa ignorat quae modo sciunt beati angeli. Se 
+       <!--977.xml-->
+       <pb ed="#B" n="468-v"/>
+        <lb ed="#B" n="1"/>cundo modo nihil ignorat sicut nec proprie est oblitus. vt enim alibi dixi: angelus per habitus innatos, co- 
+       <lb ed="#B" n="2"/>gnoscit rerum vniuersalia: per quae absque omni sua immutatione cognoscit eorum singularia secundum quod succedunt si 
+       <lb ed="#B" n="3"/>bi &amp; secundum quod contingunt in tempore. Sed ex illis Tertio modo aliquando cognoscit aliqua certa experiem 
+       <lb ed="#B" n="4"/>tia coniecturali quibus opinanter adhaeret. puta de Christo quod erat filius dei: supueniente tamen motu irae 
+       <lb ed="#B" n="5"/>&amp; inuidiae opinatus est contrarium: &amp; sic ad horam ignorauit quid prius sciuit. Aut forte quid aliquando ve 
+       <lb ed="#B" n="6"/>re sciuit ex habitu interiore: vt quod deus iustus esset: per passiones obnubilatus ad horam sine variato 
+       <lb ed="#B" n="7"/>tione facta in habitu: sed solum in actu mentis potuit aliquando ad horam ignorare quid prius sciuit. Quia enim 
+       <lb ed="#B" n="8"/>ad actus mentis &amp; voluntatis in ipso ponatur mutatio, nullum est inconueniens. Et hoc modo ignorando lar-  
+       <lb ed="#B" n="9"/>ge loquendo appellando ignorantiam hanc ad tempus obliuionem, in ipso cadit obliuio: alias autem non quae  
+       <lb ed="#B" n="10"/>in bonis angelis nequaquam cadit: quia in ipsis non prouenit aliqua passio obnubilans. Vnde Ioannes IDa 
+       <lb ed="#B" n="11"/>mascenus. iiii. cap. Cael. Hierarchca. loquens de daemonibus &amp; de obliuione ipsorum proprie dicta, di-  
+       <lb ed="#B" n="12"/>cit sic. Angeli semper discere possunt sed nunquam obliuisci, &amp; sequitur. Malitiam omnem superat &amp; obli- 
+       <lb ed="#B" n="13"/>uionem. Per iam dicta circa corpus quaestionis patent argumenta vtriusque partis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

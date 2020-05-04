@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 20</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 20</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="240-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e285">
+       <head xml:id="n3av8a-d1e285-Hd1e96">Quaestio 20</head>
+       <p xml:id="n3av8a-d1e285-d1e99">
+        <lb ed="#B" n="28"/>SEquuntur duo pertinentia ad poenam hominis coniuncti: scilicet ad poenam danmni. Quorum s 
+       <lb ed="#B" n="29"/>vnum pertinebat ad danmnum temporale: vtrum homicida ante baptismum, post susceptum 
+       <lb ed="#B" n="30"/>baptismum possit ad ordines, promoueri. SEcundum vero ad danmnum aeternum: vtrum  
+       <lb ed="#B" n="31"/>paruulus decedens non baptizatus habeat poenam danmni tantum, an etiam poenam sen 
+       <lb ed="#B" n="32"/>sus.
+      </p>
+       <p xml:id="n3av8a-d1e285-d1e112">
+       CIRca primum arguitur quod non: quia homicida irregularis est: &amp; irregulari- 
+       <lb ed="#B" n="33"/>tas poena est non peccatum: poena autem non remouetur per baptismum: baptizatus ergo ma 
+       <lb ed="#B" n="34"/>net irregularis. Irregularis autem non potest promoueri. ergo &amp;c.
+      </p>
+       <p xml:id="n3av8a-d1e285-d1e119">
+       IN contrarium est illud:  
+       <lb ed="#B" n="35"/>
+        <ref xml:id="n3av8a-d1e285-Rd1e123" target="http://scta.info/resource/gd-p1d50-d1e230">quiquagesima dist. Decrs. Siquis viduam.</ref> vbi dicitur. <quote xml:id="n3av8a-d1e285-Qd1e126">Post baptismum conscius homicidii deiiciatur</quote> ergo a con 
+       <lb ed="#B" n="36"/>trario si ante, non deiiciatur. ergo &amp;c.
+      </p>
+       <p xml:id="n3av8a-d1e285-d1e132">
+       DIFficultas nulla est in hac quaestione nisi an per baptismum tollatur 
+       <lb ed="#B" n="37"/>irregularitas. Est ergo hic primo videndum: quid tenendum est cum ecclesia. Secundo quare illud eccle- 
+       <lb ed="#B" n="38"/>sia tenet.
+      </p>
+       <p xml:id="n3av8a-d1e285-d1e140">
+       De primo dixit Rabanus, vt notatur super illud. Post baptismum. Siquis ante baptismum occi- 
+       <lb ed="#B" n="39"/>dit non peccando iudex: post baptismum non potest promoueri: sed potest si occiderit peccando. Sed sic meli- 
+       <lb ed="#B" n="40"/>or esset conditio peccantis: quam non peccantis: vt dicit ibidem Bartholomaeus. Propter quid dicit Raimundus 
+       <lb ed="#B" n="41"/>in summa sua. Alii doctores omnes dicunt quod siue cum peccato siue absque peccato occiderit ante baptismum: post ba 
+       <lb ed="#B" n="42"/>ptismum non imputatur. Et hoc sumunt a sensu contrario ex illa litera Post baptismum. Ex qua concludunt, 
+       <lb ed="#B" n="43"/>ergo si ante: habet post vt dicit ibidem glossa. Vnde sicut illud: Postbaptismum: generale est de omni occisore siue 
+       <lb ed="#B" n="44"/>cum peccato siue absque peccato: quod irregularis est: nec potest promoueri etiam iudex vel executor 
+       <lb ed="#B" n="45"/>vel assessor in causis criminalibus: &amp; hoc non ratione peccati quia non peccant: sed propter irregula- 
+       <lb ed="#B" n="46"/>ritatem: vt ibidem dicit Gloss. sic istud a contrario sensu ante baptismum: etiam generale est consimiliter. Et 
+       <lb ed="#B" n="47"/>hoc tenet ecclesia: &amp; tenendum est cum ipsa. Et tunc restat difficultas quare post baptismum non manet irre 
+       <lb ed="#B" n="48"/>gularitas contracta per homicidium an baptismum. Dicunt autem iuristae concorditer: quod hoc contingit ex virtute 
+       <lb ed="#B" n="49"/>sacramenti: quia vt dicunt sacramentum baptismum non tantum tollit peccatum sed etiam poenam &amp; sequalam peccati. &amp; erat 
+       <lb ed="#B" n="50"/>opinio Hiero. dicentis ad Oceanum. &amp; habetur dist. xxvi. ca, primo. Vnius vxori virum &amp; monogamum post ba 
+       <lb ed="#B" n="51"/>ptismum. si enim &amp; ante coniugem habuit quae obierit, non imputabitur ei prorsus nouo nec stupro: nec alia 
+       <lb ed="#B" n="52"/>quando fuerunt iam obsunt. 
+      </p>
+      <p xml:id="n3av8a-d1e285-d1e173">
+       SED obiicitur contra eos quod passibilitas &amp; mortalitas in nobis sequala peccati. ⁋ 
+       <lb ed="#B" n="53"/>&amp; poena ex peccato sunt. &amp; tamen non tolluntur in baptismo. 
+      </p>
+      <p xml:id="n3av8a-d1e285-d1e178">
+       SED dicent quod illa poena prouenit ex delicto alie l 
+       <lb ed="#B" n="54"/>no. sed loquimur de poena quae prouenit ex delicto proprio. Sed tunc iterum arguitur contra eos: quod iudex homi- 
+       <!--521.xml-->
+       <pb ed="#B" n="240-v"/>
+        <lb ed="#B" n="1"/>cida irregularis est ante baptismum sicut post: &amp; non ex proprio delicto: &amp; tamen tollitur irregularitas in ba-  
+       <lb ed="#B" n="2"/>ptismo: aut stabit opinio Rabani. Sed dicent quod proprium delictum dicitur aliquid aut quia in ipso facto particu- 
+       <lb ed="#B" n="3"/>lari est delictum: quale est in homicidio cum latro occidit vt merces habeat: aut est delictum in suo genere: qua  
+       <lb ed="#B" n="4"/>le est in homicidio iudicis. quia homicidium in genere facti simpliciter considerati est delictum quod non est deli 
+       <lb ed="#B" n="5"/>ctum in suo facto particulari: hoc est ex circunstantia: quia scilicet occidit vt iustitiam faciat. &amp; per hoc tenent quod bi  
+       <lb ed="#B" n="6"/>gamia contracta ante baptismum non deletur per baptismum: quia nec in se nec in suo genere est delictum. Et hoc 
+       <lb ed="#B" n="7"/>est contra sententiam Hiero. cum <name ref="#Augustine">Augustinus</name> qui dicit super epistolam ad Titum. Acutius intelligunt qui nec eum qui catechu 
+       <lb ed="#B" n="8"/>minus vel paganus habuit vnam &amp; post baptismum alteram, ordinandum censuerunt. 
+      </p>
+      <p xml:id="n3av8a-d1e285-d1e208">
+       SED contra. siquis 
+       <lb ed="#B" n="9"/>ergo ex peccato suo bigamiam contrahat and baptismum: vt puta si postquam duxit secundam, an copulam cum 
+       <lb ed="#B" n="10"/>ipsa, cognoscat illius consanguineam, &amp; postmodum suam: quam contra interdictum ecclesiae sine peccato non potest 
+       <lb ed="#B" n="11"/>cognoscere: et per hoc tum factus est iam bigamus: ergo talis posset promoueri post baptismum. quod non tenetur 
+       <lb ed="#B" n="12"/>sicut non tenetur quod corrupta per fornicationem and baptismum consecrari possit inter virgines: vt dicit <name ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="13"/>in praedicto cap. acutius. Quia ergo homicida and baptismum possit promoueri post baptismum: non autem biga-  
+       <lb ed="#B" n="14"/>mus: non est ratione baptismi tollentis sequelam aliquam peccati: quia peccato est annexa siue in se siue in suo 
+       <lb ed="#B" n="15"/>genere. si enim ex natura sua tolleret poenam annexam peccato, in tollendo vnum peccatum vt irregularitatem circa homi 
+       <lb ed="#B" n="16"/>cidium in tollendo peccatum homicidii: similiter in tollendo aliud vt irregularitatem circa fornicationem, vel adul- 
+       <lb ed="#B" n="17"/>terium in tollendo peccatum fornicationis vel adulterii. quod non est verum. Nullo ergo modo tenendum est quod ex vir 
+       <lb ed="#B" n="18"/>tute baptismi aliqua talium poenarum tollatur: sed quod praecisam efficaciam habet ad tollendum omne peccatum &amp; non  
+       <lb ed="#B" n="19"/>amplius: nisi quod charitate quam confert mitigat stimulum fomitis. Praeterea si baptismus talem poenam tolleret: 
+       <lb ed="#B" n="20"/>tunc quantuncumque eccle sia statueret quod homicida and baptismum non posset promoueri post baptismum: nihilo 
+       <lb ed="#B" n="21"/>minus posset promoueri in rei veritate &amp; bona conscientia coram Deo: qui videt baptismi efficaciam: &amp; quod omnem 
+       <lb ed="#B" n="22"/>poenam irregularitatis amouit. &amp; ita ecclesia non posset statuere vt homicida and baptismum non posset 
+       <lb ed="#B" n="23"/>promoueri post baptismum, quod falsum est. posset enim statuere quod habens vnicam &amp; virginem: siue and baptismum 
+       <lb ed="#B" n="24"/>siue non: irregularis esset ipso facto ita quod nunquam posset promoueri ad ordines sacros: sicut &amp; nunc statuit 
+       <lb ed="#B" n="25"/>quod habens vnicam quam virginem accepit non possit promoueri ipsa viuente: sicut antiquitus promouebatur. 
+      </p>
+      <p xml:id="n3av8a-d1e285-d1e251">
+       TEnen 
+       <lb ed="#B" n="26"/>dum est ergo quod baptismus non plus delet irregularitatem homicidii quam bigamiae: quia non ordinatur ad tale quid  
+       <lb ed="#B" n="27"/>tollendum: sicut neque poenitentia aut aliquid aliorum sacrmorum: de quibus non tenet ecclesia quod aliquam harum poena 
+       <lb ed="#B" n="28"/>rum tollant. Alia ergo ratio quaerenda est postquam irregularitas homicidii non manet post baptismum sicut irregu- 
+       <lb ed="#B" n="29"/>laritas bigamiae. Et dicunt aliqui: quod sicut duplex est infamia: quaedam scilicet ex natura facti proueniens: quaedam  
+       <lb ed="#B" n="30"/>vero circa factum ex statuto. Quaedam enim facta infamant ex natura enormitatis suae: vt factum simoniacum 
+       <lb ed="#B" n="31"/>circa prohibita quia sunt simoniaca ex natura rei. Quaedam vero facta non infamant ex enormitate quam ha 
+       <lb ed="#B" n="32"/>bent ex se: sed quam habent ex hoc solummo quod sunt prohibita: vt factum simoniacum circa simoniaca quia sunt prohi 
+       <lb ed="#B" n="33"/>bita. Sic est duplex irregularitas. Quaedam ex natura facti secundum se: quaedam ex statuto &amp; prhibitione circa fa 
+       <lb ed="#B" n="34"/>ctum. lito secundo modo dicunt quod irregularitas annexa est homicidio: &amp; quod irregularitas primo modo annexa 
+       <lb ed="#B" n="35"/>est bigamiae: &amp; hoc quia ordo ecclesiasticus quo persona ordinata praeponitur in gradu aliquo ecclesiae signat 
+       <lb ed="#B" n="36"/>vnitatem indiuiduam in spiritali vnione mrimoniali Christi &amp; ecclesiae, quae etiam signatur in vnione matrimoniali 
+       <lb ed="#B" n="37"/>vnius cum vna: a qua vir carnem suam non diuisit commiscendo se mrimonialitur cum aliqua alia: &amp; a quo carnem suam 
+       <lb ed="#B" n="38"/>non diuisit commiscendo se cum alio mulier propter quid in matrimonio vnius cum vna non deficit sacramentum: hoc est illius 
+       <lb ed="#B" n="39"/>sacrae rei signm. scilicet signatio &amp; expressio quae est in sacrameo ordinis signata &amp; expressa: vt est indiuidua vnio christi &amp; ec 
+       <lb ed="#B" n="40"/>clesiae. In mrermonio autem bigamiae illud sacramentum deficit: non sacramentum quod est vnum de. vii. tale enim sacramentum est 
+       <lb ed="#B" n="41"/>in mrimoniobigamiae sicut &amp; in alio: sed sacramentum quod est vnum de bonis mrimonii. Vnde quia mrimonium simpliciter 
+       <lb ed="#B" n="42"/>eandem signationem habet quam tenet ordo: non autem mrimonium bigamiae: ideo dicunt quod ex natura tael facti non ex 
+       <lb ed="#B" n="43"/>statuto ecclsiae contrahitur irregularitas in bigamia. &amp; ideo equaliter and baptismum &amp; post baptismum. ita quod siue 
+       <lb ed="#B" n="44"/>and baptismum siue post fuerit contracta: impedit promotionem ad ordines. homicidium autem ex genere facti in nul- 
+       <lb ed="#B" n="45"/>lo contrariatur ordinis sacrameno, propter quid neque conmissum and baptismum neque post impediret promotionem, nisi ex 
+       <lb ed="#B" n="46"/>statuto ecclsiae. Vnde quia ecclesia non statuit quod homicidium and baptismum conmissum impediret promotionem: sed so- 
+       <lb ed="#B" n="47"/>lum conmissum post baptismum: ideo sic, tenet adhuc ecclesia: &amp; non propter aliquam efficaciam sacramenti quae illa poena 
+       <lb ed="#B" n="48"/>deleatur: licet id quid in hoc statuit ecclesia circa poenam homicidis scilicet quod ando baptismum conmissum non grauat post 
+       <lb ed="#B" n="49"/>baptismum, statuit vt iam dicetur in fauorem &amp; reuerentiam baptismi. Quia si ita esset ex parte bigamiae vt dicunt: tunc 
+       <lb ed="#B" n="50"/>Papa non posset dispensare cum bigamo sicut potest dispensare cum homicida post baptismum. dist. li. Aliquan-  
+       <lb ed="#B" n="51"/>tos. Sed illud non tenetur: immo potius tenetur quod Papa posset dispensare cum bigamo contra apostolum: secundum quod  
+       <lb ed="#B" n="52"/>dispensauit Martinus Papa. xxxiiii. distin. Lector. de quo ibidem glossa: &amp; extra de bigamis. ca. Super  
+       <lb ed="#B" n="53"/>eo. super illud dispensare. Non ergo ex natura facti potius ex bigama contrahitur irregularitas quam ex homi 
+       <lb ed="#B" n="54"/>cidio: immo ex vtroque ex solo ecclesiae statuto, quod verumest. Quare ergo bigamia an baptismum impedit promo 
+       <lb ed="#B" n="55"/>uendum &amp; caunt irreglaritatem est pus baptismum potius quam homoicidium. Et domint aliqui quod non est ita: sed quod nlla irregelari 
+       <lb ed="#B" n="56"/>tas omnino neque ex statuto ecclsiae potest esse an baptismum: immo quod nec bigamia nec homoicidium impediunt promotionem 
+       <!--522.xml-->
+       <pb ed="#B" n="241-r"/>
+        <lb ed="#B" n="1"/>quia contrahatur aliquam irregularitas per ipsa ante baptismum: &amp; ideo post baptismum grauent: sed quia sic statuit ec 
+       <lb ed="#B" n="2"/>clesia vt quando ando baptismum contingat bigamia, post baptismum fiat irregularitas ad promotionem non an . Non 
+       <lb ed="#B" n="3"/>autem sic est circa homicidium. Et quod etiam nec ex statuto ecclesiae irregularitas contrahi possit and baptismum 
+       <lb ed="#B" n="4"/>huiusmodi rationem assignant, quia irregularitas non est nisi impedimentum ad ordinis susceptionem. Ordo autem non est na-  
+       <lb ed="#B" n="5"/>tus suscipi ante baptismum, sicut neque aliquid aliorum sacramentorum. Est enim baptismus ianua omnium sa- 
+       <lb ed="#B" n="6"/>cramentorum. Non est autem natum inesse alicui impedimentum alicuius dispositionis prius quam ipsa nata sit inesse. igitur 
+       <lb ed="#B" n="7"/>quia ordo non est natus recipi, aut inesse ante baptismum, neque irregularitas quae est impedimentum eius. Et patet 
+       <lb ed="#B" n="8"/>falsitas medii assumpti in ista ratione. quoniam non solum impedimentum ex humana institutione quod vnus essentialem habet 
+       <lb ed="#B" n="9"/>ordinem ad illud cuius est impedimentum, quale est irregularitas, natum est inesse prius quam natum est inesse illud respectu cuius 
+       <lb ed="#B" n="10"/>est impedimentum: sed est impedimentum naturale: secundum quod videmus quod visus non est natus inesse catulo ante nonum  
+       <lb ed="#B" n="11"/>diem. Impedimentum autem potest ei inesse a primo die natiuitatis suae ne vllo modo possit videre est post nonum dien 
+       <lb ed="#B" n="12"/>licet non sit nata ei inesse caecitas quae est visionis priuatio prius quam visio nata sit inesse. Vnde supponit illa ratio 
+       <lb ed="#B" n="13"/>quod eadem debet esse ratio de peiuatione alicuius dispositionis &amp; eius impedimento, quod non est verum. 
+      </p>
+      <p xml:id="n3av8a-d1e285-d1e353">
+       TEnendum  
+       <lb ed="#B" n="14"/>ergo est quod quantum est ex parte statuti ecclesiae, aequaliter possit esse irregularitas ante baptismum &amp; post: &amp; 
+       <lb ed="#B" n="15"/>quod similiter ex solo statuto ecclesiae est, quod homicidae ante baptismum, etiam si essent irregulares, post baptismum 
+       <lb ed="#B" n="16"/>non maneant irregulares: bigami vero etiam si ante baptismum non essent irregulares, post baptismum tamen sint 
+       <lb ed="#B" n="17"/>irregulares, &amp; hoc non ob aliquam derogationem baptismatis, sed ob reuerentiam sacramenti ordis: respectu 
+       <lb ed="#B" n="18"/>cuius ecclesia rationem accepit diuersimode statuendo circa irregularitatem homicidii &amp; bigamiae: quam rationem 
+       <lb ed="#B" n="19"/>quaerimus. 
+      </p>
+      <p xml:id="n3av8a-d1e285-d1e370">
+       AD cuius perceptionem sciendum est: quod si non esset prohibitio siue statutum ecclesiae, bigami &amp; homicidae 
+       <lb ed="#B" n="20"/>siue tales facti sint ante baptismum siue post, indifferenter possent promoueri. Vnde quod nunc non est sic, hoc com 
+       <lb ed="#B" n="21"/>tingit ex solo statuto ecclesiae. Et quod in ipsis quo ad legen promotionis est differentia, hoc ex nullo alio prouenit 
+       <lb ed="#B" n="22"/>nisi quia ecclesia diuersimode circa illos statuit: &amp; hoc non nisi rationabit scilicet quia vehementior ex natura 
+       <lb ed="#B" n="23"/>rei est ratio prohibendi bigamos a promotione quam homicidas. Homicidae enim prohibentur a, promotione solum hac 
+       <lb ed="#B" n="24"/>ratione scilicet quod personae eorum detestantur propter horrorem effusi sanguinis atque crudelitatis. propter quod in figura dictum 
+       <lb ed="#B" n="25"/>est Dauid quod non aedificaret templum domino: quia multum sanguinis effuderat. Bigami autem prohibentur a promotione 
+       <lb ed="#B" n="26"/>solummodo propter defectum sacramenti, vt iam expositum est propter quid <name ref="#Augustine">Augustinus</name> dist. xxvi. capicue Acutius, assignans ratio 
+       <lb ed="#B" n="27"/>nem quaere bigamus an baptismum non potest post baptismum, promoueri, dicit. quia de sacramento agitur non de peccato 
+       <lb ed="#B" n="28"/>propter sanctitatem sacramenti. Vnde dicit Glos. Sensus est. bigamus non repellitur quia peccauit, sed pro-  
+       <lb ed="#B" n="29"/>pter sacramenti defectum qui est in eo, vt extra de bigamis. Anobis, &amp; cap. Nuper. Et in quo consistit istud  
+       <lb ed="#B" n="30"/>sacramentum. continuo subdit iuxta illud quod iam expositum est. &amp; hoc est quid subdit <name ref="#Augustine">Augustinus</name> in simili. Sicut in foemi 
+       <lb ed="#B" n="31"/>na si catechumina &amp;c. vt patet inspicienti, neque oportet ad phiaeosophus exponere. Vnde quia multo maior est 
+       <lb ed="#B" n="32"/>causa ex parte bigamorum quaere debent arceri ab ordinibus quam homicidarum, eo quod ratio arcendi bigamos omnino 
+       <lb ed="#B" n="33"/>est ex parte re scilicet ipso facto bigamiae: quod caret sacramento praedicto: ratio vero arcendi homicidas est ex parte 
+       <lb ed="#B" n="34"/>rnria. scilicet quia detestamur eorum personas propter horrorem crimins: idcirco rationabimiliter magis arcentur bigami a promo- 
+       <lb ed="#B" n="35"/>tione ad sacros ordies quam homicidae: in hom. scilicet quod bigami and baptismum, nec post baptismum praesent promoueri: si- 
+       <lb ed="#B" n="36"/>cut praesent homicidae, non quia baptismus aliquid aufert quid prius erati bigano, aut homicida, nisi solum peccatum: sed  
+       <lb ed="#B" n="37"/>quia propter reuerentiam &amp; fauorem baptismi a cordibus fidelium aufertur omnis detestatio quam habebant erga infide 
+       <lb ed="#B" n="38"/>les propter horrorem homicidii postquam fuerunt baptizati. Propter aliud autem vt dictum est non erant prohibi 
+       <lb ed="#B" n="39"/>ti a promotione ad ordines. Idcirco cessante hac cauam prohibitionis debet cessare effectus. Vnde &amp; homi 
+       <lb ed="#B" n="40"/>cidae inuoluntarii omnino &amp; casu fortuito dando operam rei licitae, aut se defendendo cum mode- 
+       <lb ed="#B" n="41"/>ramine inculpatae tutelae non prohibentur ab ordinum susceptione, neque a iam susceptorum executione.  
+       <lb ed="#B" n="42"/>Non autem talis causa erat in bigamo, quia nullo modo erat ex parte nia, sed ex parte rei tantummo, vt dictum 
+       <lb ed="#B" n="43"/>est. Sic ergo ad quaestionem breuiter dico quod quantum est de iure diuino homicida ante baptismum 
+       <lb ed="#B" n="44"/>&amp; post promoueri potest: sed quantum est de iure humano &amp; statuto ecclesiae homicida and baptismum solummo 
+       <lb ed="#B" n="45"/>promoueri potest: &amp; non homicida post, non propter aliquem defectum baptismi, sed propter rationem statuti, vt dictum 
+       <lb ed="#B" n="46"/>est. 
+      </p>
+      <p xml:id="n3av8a-d1e285-d1e437">
+       PER dicta patent obiecta. Cum enim dicitur primo poena non remouetur in baptismo, Dicendum quod verum est ex 
+       <lb ed="#B" n="47"/>virtute baptismi. bene tamen remouetur in baptismo virtute statuti ex fauore &amp; reuerentia baptismi, vt di 
+       <lb ed="#B" n="48"/>ctum est. Et sic quantum est ex parte baptismi &amp; virtute eius, homicida irregularis ante baptismum, irre 
+       <lb ed="#B" n="49"/>gularis manet post baptismum, sicut &amp; bigamus, &amp; non posset plus promoueri quam bigamus, quemad-  
+       <lb ed="#B" n="50"/>modum diximus in determinando contra quosdam canonistas: qui virtute sacramenti baptismi ponunt aboleri 
+       <lb ed="#B" n="51"/>legen statuti ecclesiae, &amp; poenam eius, quod non plus potest, quam potest abolere legen copulae matrimonii praecedem 
+       <lb ed="#B" n="52"/>tem baptismum, neque consequentia ex ea, vt dicit Ambro. de offi. Et habetur. <ref xml:id="n3av8a-d1e285-Rd1e452" target="http://scta.info/resource/gd-p1d26-d1e175">xxvi. dist. cap. Vna tantum.</ref> Bene 
+       <lb ed="#B" n="53"/>tamen remouetur poena virtute statuti in baptismo, &amp; ob fauorem &amp; reuerentiam baptismi, sicut dictum 
+       <lb ed="#B" n="54"/>est.
+      </p>
+       <p xml:id="n3av8a-d1e285-d1e460">
+       Ad secundum <ref xml:id="n3av8a-d1e285-Rd1e462" target="http://scta.info/resource/gd-p1d50-d1e230">de. l dist. cap. Siquis</ref>. patet quid sentiendum est ex praedictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

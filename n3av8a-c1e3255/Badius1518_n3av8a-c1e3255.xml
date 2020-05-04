@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="142-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3255">
+       <head xml:id="n3av8a-c1e3255-Hd1e96">Quaestio 12</head>
+       <p xml:id="n3av8a-c1e3255-d1e99">
+       <!--688.xml-->
+        <pb ed="#B" n="142-r"/>
+        <lb ed="#B" n="1"/>SEquuntur specialiter quaesita circa naturam humanam. Vbi quaerebantur quaedam  
+       <lb ed="#B" n="2"/>ex parte animae: &amp; quaedam ex parte coniuncti ex corpore &amp; anima. Ex parte animae 
+       <lb ed="#B" n="3"/>quaerebantur pertinentia ad intellectum. vnum ex parte intelligentis: duo ex parte 
+       <lb ed="#B" n="4"/>intellecti: &amp; vnum pertinens ad voluntatem. Quorum primum erat: Vtrum in  
+       <lb ed="#B" n="5"/>tellectus agens intelligat. Secundum: vtrum intellectus possibilis noster intelligat phan- 
+       <lb ed="#B" n="6"/>tasmata. Tertium: vtrum aliquis articulus fidei possit demonstrari. Quartum: vtrum appeti 
+       <lb ed="#B" n="7"/>tus rationalis possit distingui in irascibile &amp; concupiscibile. Circa primum arguitur 
+       <lb ed="#B" n="8"/>quod intellectus agens intelligat: quia intellectus non dicitur nisi ab intelligendo. aut ergo ab intelligen- 
+       <lb ed="#B" n="9"/>do actiue aut passiue, non passiue: quia sic intelligit intellectus possibilis. ergo intelligit actiue. Com 
+       <lb ed="#B" n="10"/>tra. intelligere pati quiddam est. pati autem non est nisi intellectus possibilis, quare neque intelligere. 
+      </p>
+      <p xml:id="n3av8a-c1e3255-d1e128">
+       DIcen 
+       <lb ed="#B" n="11"/>dum est ad hoc: quod de intellectu agente plurimae erant opiniones: sed in summa quo ad duo. Quoniam qui  
+       <lb ed="#B" n="12"/>dam dicebant quod erat intelligentia separata alia a possibili. Alii vero communius: quod agens &amp; possibile sunt 
+       <lb ed="#B" n="13"/>duae potentiae animae. Ponentes primo modo, dicunt quod cum omnis substantia separata sit a materia: &amp; ideo est intelle 
+       <lb ed="#B" n="14"/>ctualis natura: ipsa intellectiuum &amp; intellectum quid est. Sed sciendum quod huiusmodi substantia dupliciter po 
+       <lb ed="#B" n="15"/>test considerari. Vno modo in se. Alio modo vt est cooperatiua ad actum intelligendi alterius. Primo 
+       <lb ed="#B" n="16"/>modo vt dictum est ipsa intelligit secundum se: inquantum est quaedam intellectualis natura: sed hoc sub ra 
+       <lb ed="#B" n="17"/>tione possibilis non agentis: &amp; in recipiendo obiectum: non autem agendo: quod pertinet ad agentem. Nunc 
+       <lb ed="#B" n="18"/>autem siue ponamus quod agens inquantum agens sit substantia separata, siue potentia in eadem substantia cum 
+       <lb ed="#B" n="19"/>possibili: in hoc nulla est differentia. Propter quod simul dicendum est de vtroque membro: quod agens secundum 
+       <lb ed="#B" n="20"/>philosophum est habitus quidam vt lux, large accipiendo habitum: &amp; se habet ad phantasmata sicut lux se ha 
+       <lb ed="#B" n="21"/>bet ad colores: &amp; ad possibilem sicut lux se habet ad visum. &amp; consimili necessitate se habet ad actum intel 
+       <lb ed="#B" n="22"/>ligendi agens: sicut lux ad actum videndi. De coloribus autem ita est quod licet color sit visibile per se secundum se 
+       <lb ed="#B" n="23"/>cundum modum dicendi per se: quia tamen non est ex se in perfecta actualitate: vt agat in visum &amp; in me- 
+       <lb ed="#B" n="24"/>dium: sed solum per actum lucis secundum definitionem coloris in secundo de anima: Color est motiuum  
+       <lb ed="#B" n="25"/>visus secundum actum lucidi: ideo ad hoc est lux necessaria in visu ex parte coloris quod ipsa possit se actu 
+       <lb ed="#B" n="26"/>facere in medium &amp; in organum: ex parte autem videntis est necessaria quia (ut probatur in perspectiua) co- 
+       <lb ed="#B" n="27"/>lor non videtur nisi admixtus luci. Per eundem modum intellectus agens necessarius est ad actum intelligendi: eo vide 
+       <lb ed="#B" n="28"/>licet quod phantasmata non sunt nisi potentia intellecta: quia in ipsis natura &amp; quiditas rei est sub ra 
+       <lb ed="#B" n="29"/>tione esse materialis, &amp; conditionibus particularibus: nec est aliquid natum mouere intellectum: nisi 
+       <lb ed="#B" n="30"/>sub ratione vniversalis. Est ergo actus intellectus agentis existentis in eadem substantia animae cum possibili in-  
+       <lb ed="#B" n="31"/>tellectu &amp; cum potentia phantastica in qua sunt phantasmata: quod cum existit in substantia animae: sicut 
+       <lb ed="#B" n="32"/>lux in medio, respicit phantasmata in phantasia: sicut lux illa colores in pariete: &amp; sicut corporaliter 
+       <lb ed="#B" n="33"/>illustrat colores: vt agant speciem suam in medio sine materia parietis &amp; sine substantia colorum: &amp; per me 
+       <lb ed="#B" n="34"/>dium defertur ad pupillam: &amp; eam informat actu visionis: sic spiritualiter agens illustrat phantasma 
+       <lb ed="#B" n="35"/>ta: vt apta sint agere in intellectum possibilem sub ratione qua essentiae simpliciter sunt: non secundum 
+       <lb ed="#B" n="36"/>conditiones particulares &amp; materiales. Quod appellatur denudare phantasmata ab istis conditionibus, &amp; 
+       <lb ed="#B" n="37"/>abstrahere eas, quae abstractio non sit per aliquam migrationem vel generationem ab eis in intellectu 
+       <lb ed="#B" n="38"/>possibili: praeter quod per huiusmodi abstractionem habent rationem vniuersalis actiui &amp; motiui intellectus possi 
+       <lb ed="#B" n="39"/>bilis: vt id quod moueat non sit in subiecto nisi in phantasia: licet non mouet nisi sub ratione vniuer- 
+       <lb ed="#B" n="40"/>salis per motum agentis vt dictum est. In intellectu autem possibili non est nisi sicut mouens in mo- 
+       <lb ed="#B" n="41"/>to ante actum intelligendi: quia per suam actionem generat in intellectu possibili intellectionem qua 
+       <lb ed="#B" n="42"/>sibi ipsum assimulat: per quam est in intellectu sicut cognitum in cognoscente, &amp; intellectum in intelligen 
+       <lb ed="#B" n="43"/>te. Et quia agens est quasi lumen in possibili: phantasma quasi mixtum cum lumine agentis mouet possibilem 
+       <lb ed="#B" n="44"/>sicut species coloris mixta luci mouet visum. Et est hic &amp; ibi differentia: quod lux facit vt praeter visionem 
+       <lb ed="#B" n="45"/>faciat color speciem in medio: qua vice coloris informat pupillam actu visionis. agens vero non fa 
+       <lb ed="#B" n="46"/>cit vt praeter intellectionem faciat aliquam aliam speciem suam in possibili. Est etiam differentia ex parte 
+       <lb ed="#B" n="47"/>visus &amp; intellectus respectu lucis &amp; agentis: quia ipsa lux est quoddam visibile natum per se videri:  
+       <lb ed="#B" n="48"/>licet non videtur nisi cum permixta est colori propter suam maiorem simplicitatem. Agens autem cum 
+       <lb ed="#B" n="49"/>est potentia quaedam non est per se intelligibile sicut lux visibile: sed solum efficaciam dat intelligibili vt 
+       <lb ed="#B" n="50"/>intelligatur: nisi secundum ponentes quod agens sit substantia separata. Illi enim ponunt quod agens cum 
+       <lb ed="#B" n="51"/>hoc quod est agens etiam intelligit quaecunque facit in intellectu possibili: &amp; retinet ea ad obliuionem possibi 
+       <lb ed="#B" n="52"/>lis. ita tamen quod quanto magis informatur intelligibilibus, tanto magis eleuatur ad cognoscendum agen- 
+       <lb ed="#B" n="53"/>tem, &amp; in ipso ea quae ipse intelligit: vt cum fuerit adeptus perfecte coniungitur agenti intelligen- 
+       <lb ed="#B" n="54"/>do ipsum: &amp; quaecunque ipse intelligit. Quod falsum est: quia ad hoc ex puris naturalibus intellectus 
+       <!--689.xml-->
+       <pb ed="#B" n="324-v"/>
+        <lb ed="#B" n="1"/>noster attingere non potest vt videat separata: aut etiam seipsum: nisi sicut alia a se, immaterialia. scilicet in  
+       <lb ed="#B" n="2"/>effectibus suis sensibilibus. Nec intelligo per abditam notitiam qua se anima semper intelligit: non au 
+       <lb ed="#B" n="3"/>tem semper se cogitat, nisi notitiam intelligendi in potentia: qua obiecta vniuersalium ex habitibus 
+       <lb ed="#B" n="4"/>innatis semper eius oculis praesentia sunt. Sed iudicare cogitando de illis nihil potest: quia coniun 
+       <lb ed="#B" n="5"/>cta secundum statum naturalem vitae praesentis non potest esse intenta aliis quam quae nata sunt intelligi 
+       <lb ed="#B" n="6"/>in phantasmate: quemadmodum si aliquis apertis oculis esset in lumine: &amp; pro statu aliquo viribus re- 
+       <lb ed="#B" n="7"/>tractis interius nullo modo posset anima esse intenta visibilibus: quamuis ipsa visibilia agerent se in  
+       <lb ed="#B" n="8"/>oculos illius: nihil omnino tamen pro illo statu posset videre, aut oculis aduertere. Quemadmodum er 
+       <lb ed="#B" n="9"/>go iste diceretur videre: nihil tamen aduertere: quae statim aduerteret in alio statu existens: sic anima 
+       <lb ed="#B" n="10"/>nera dicitur semper intelligere: nihil tamen cogitare: quae statim cogitaret in alio statu existen scilicet vel separata vel 
+       <lb ed="#B" n="11"/>in corpore incorruptibili. Et in rei veritate <name ref="#Augustine">Augustinus</name> quo ad dictum illud Platonicus erat. &amp; sicut anima nostra 
+       <lb ed="#B" n="12"/>vt est existens in corpore status huius, non potest naturaliter aliquid intelligere nisi in phantasma 
+       <lb ed="#B" n="13"/>te: sic nec etiam est naturae substantiae separatae: vt videat vniue rsale per abstractionem sicut videt 
+       <lb ed="#B" n="14"/>noster intellectus. Propter quod siue agens ponatur substantia separata: siue potentia coniuncta: cum 
+       <lb ed="#B" n="15"/>non sit nisi ratio coadiuuans ad rationem intelligendi, inquantum huiusmodi omnino non intelligit: nec na 
+       <lb ed="#B" n="16"/>tus est intellectus noster intelligere per potentiam agentis sed possibilis tantum: sicut procedit secunda 
+       <lb ed="#B" n="17"/>ratio. 
+      </p>
+      <p xml:id="n3av8a-c1e3255-d1e270">
+       AD primam rationem quod intellectus dicitur ab intelligendo: aut ergo actiue aut passiue: Di 
+       <lb ed="#B" n="18"/>cendum quod actiue: non quia sit obiectum mouens possibilm: sed quia agit circa phantasmata: vt ido  
+       <lb ed="#B" n="19"/>nea sint agere actum intelligendi in possibili secundum dictum modum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

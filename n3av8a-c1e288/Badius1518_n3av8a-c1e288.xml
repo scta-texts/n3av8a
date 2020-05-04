@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="11-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e288">
+      <head xml:id="n3av8a-c1e288-Hd1e96">Quaestio 15</head>
+      <p xml:id="n3av8a-c1e288-d1e99">
+       <!--63.xml-->
+       <pb ed="#B" n="11-v"/>
+       <lb ed="#B" n="1"/>POst quaestionem de comparatione intellectus &amp; voluntatis secundum suam essentiam, sequaban  
+       <lb ed="#B" n="2"/>tur quaestiones quinque de comparatione eorum secundum suas actiones. PRIMA: vtrum actus 
+       <lb ed="#B" n="3"/>voluntatis praecedat actum intellectus, an econuerso. SECVNDA: vtrum a ratione proposi 
+       <lb ed="#B" n="4"/>tis bono &amp; meliori possit voluntas eligere minus bonum. TERTIA: vtrum deordi-  
+       <lb ed="#B" n="5"/>natio voluntatis causetur ab errore rationis, vel econuerso. QVARTA: vtrum volun- 
+       <lb ed="#B" n="6"/>tas discordans a ratione errante sit mala. QVINTA: vtrum voluntas magis peccat 
+       <lb ed="#B" n="7"/>agendo contra rationem erroneam quam secundum ipsam.
+      </p>
+      <p xml:id="n3av8a-c1e288-d1e121">
+       CIRca primum arguebatur quod actus intellectus praecedit actum vo 
+       <lb ed="#B" n="8"/>luntatis: quoniam ita est in agentibus per naturam sine propria cognitione quod necesse est ea habere aliud cognoscens 
+       <lb ed="#B" n="9"/>supra se: quo diriguntur ab ipso in finem apprihensum antequam illa moueat. ergo quonidao in eadem sunt coniucta co- 
+       <lb ed="#B" n="10"/>gnoscens &amp; mouens, vt sunt intellectus &amp; voluntas, prius oportet cognoscens apphendere quam sit possibile al 
+       <lb ed="#B" n="11"/>terum mouere. 
+      </p>
+      <p xml:id="n3av8a-c1e288-d1e132">
+       CONtra. ex desiderio sciendi primo inuestigantur prima scientiarum principia. Desiderium 
+       <lb ed="#B" n="12"/>est actus voluntatis. praecedit ergo cognitionem principiorum: ergo &amp; omnium aliorum.
+      </p>
+      <p xml:id="n3av8a-c1e288-d1e137">
+       DICENdum ad hoc: quod si 
+       <lb ed="#B" n="13"/>loquamur de cognitione quacumque indiffcrenter, planum est quod sine aliqua cognitione praecedente voluntatem 
+       <lb ed="#B" n="14"/>impossibile est velle aliquid propter quid dicit Augus. Diligere iuisa possumus, incognita nequaquam. ld enim de 
+       <lb ed="#B" n="15"/>quo nulla habetur cognitio neque generalis, neque specialis, neque sensitiua, neque intellectiua, omnino sub volunta- 
+       <lb ed="#B" n="16"/>te non cadit. &amp; ita semper qualiscumque cognitio debet praecedere voluntatem: quae bene potest praecedere vlteriorem co 
+       <lb ed="#B" n="17"/>gnitionem, per cognitionem enim imperfectam inflammatur desiderium ad cognitionem vlteriorem perfectam, vt de 
+       <lb ed="#B" n="18"/>terminat <name ref="#Augustine">Augustinus</name> 
+      </p>
+      <p xml:id="n3av8a-c1e288-d1e157">
+       SED cum in homine duplex sit cognitio, vna sensitiua &amp; altera intellectiua: quaeritur an homo 
+       <lb ed="#B" n="19"/>possit moueri ad volendum aliquid sola sensitiua cognitione praecedente sine omni cognitione intellectiua. Quod 
+       <lb ed="#B" n="20"/>enim vtraque cognitione poterit voluntas hominis tangi ad volendum, dicit Augustinu. libro tertio de libero arbitrio. Fa 
+       <lb ed="#B" n="21"/>tendum (inquit) ex superioribus visis &amp; inferioribus animam tangi vt rationalis substantia ex vtroque sumat quod volu 
+       <lb ed="#B" n="22"/>erit. qui vult, profecto aliquid vult. nisi autem extrisecus per sensus corporis moueatur, aut occultis modis aliquid  
+       <lb ed="#B" n="23"/>in mentem veniat, velle non pont. Vnde dubium est an aliquo interiori corrupto quo corrumpitur intellectus in  
+       <lb ed="#B" n="24"/>homine: vt dicit Philosophus: tamen adhuc habet sensus sanos per quos multas rerum differentias cognoscit: ali- 
+       <lb ed="#B" n="25"/>quid velit per intellectum ex cognitis per sensum: an omnis appetitus circa illa sit sensitiuus &amp; brutalis. 
+      </p>
+      <p xml:id="n3av8a-c1e288-d1e175">
+       ET est 
+       <lb ed="#B" n="26"/>dicendum quod non solum appetitus requirit cognitionem in eis quae non mouentur sola naturali inclinatione: sed etiam 
+       <lb ed="#B" n="27"/>determinatus appetitus requirit determinatam cognitionem: ita quod si appetitus sensitiui essent distincti secum 
+       <lb ed="#B" n="28"/>dum distinctionem sensuum, deficiente sensu aliquo necesse est deficere appetitum respondentem illi sensui deter  
+       <lb ed="#B" n="29"/>minato. nunc autem sic appetitus rationalis respondet cognitioni rationali ac si sensui visus responderet aliquis pro  
+       <lb ed="#B" n="30"/>prius appetitus circa colores. 
+      </p>
+      <p xml:id="n3av8a-c1e288-d1e188">
+       ABSOlute igitur dicendum quod voluntatis actionem necessario praecedit cogni 
+       <lb ed="#B" n="31"/>tio intellectus: sine quae praeuia nihil pont velle. vnde in amentibus in quibus est corruptio intellectus, nullus 
+       <lb ed="#B" n="32"/>est appetitus voluntatis, sed solum sensualitatis brutalis. excepto enim eo quod intellectus est non manet homo 
+       <lb ed="#B" n="33"/>nisi bestia. secundum quod dicit <name ref="#Aristotle">Philosophus</name> in fine tertii Politicae: Qui intellectum iubet principari videtur iubere 
+       <lb ed="#B" n="34"/>principari deum &amp; leges: qui autem hominem iubet, apponit &amp; bestiam.
+      </p>
+      <p xml:id="n3av8a-c1e288-d1e202">
+       AD argumentum in oppositum patet per iam 
+       <lb ed="#B" n="35"/>dicta responsio. Quia enim ex desiderio sciendi procedit homo ad inuestigationem principiorum: hoc non est sine ali 
+       <lb ed="#B" n="36"/>qua generali cognitione qua voluntas excitatur ad sciendum in particulari. Vnde philosophi, videntes effectus &amp; 
+       <lb ed="#B" n="37"/>ignorantes causas: scientes in generali quia sine causa non fiebant: vt eclipses solis &amp; lunae, inceperunt philoso 
+       <lb ed="#B" n="38"/>phari: &amp; causas rerum inuestigare. vt dicitur. i. metaphysicae.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

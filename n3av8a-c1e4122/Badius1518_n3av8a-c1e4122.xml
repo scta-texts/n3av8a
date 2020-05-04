@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="422-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4122">
+       <head xml:id="n3av8a-c1e4122-Hd1e96">Quaestio 8</head>
+       <p xml:id="n3av8a-c1e4122-d1e99">
+        <lb ed="#B" n="33"/>CIrca secundum arguitur quod accidentis existentis in subiecto non sit aliud esse existentiae quam 
+       <lb ed="#B" n="34"/>esse existentiae sui subiecti. Primo sic. vii. Metaphysicae dicit <name ref="#Aristotle">philosophus</name> quod accidens non est ens 
+       <lb ed="#B" n="35"/>nisi quia est entis: quare eadem ratione non est existens nisi quia est existentis. hoc au 
+       <lb ed="#B" n="36"/>tem non sic esset nisi idem esse essentiae esset accidentis &amp; non aliud quam subiecti. ergo &amp;c. 
+       <lb ed="#B" n="37"/>
+      </p>
+      <p xml:id="n3av8a-c1e4122-d1e116">
+       SEcundo sic. si essent eorum plura esse cum se habent per ordinem essentialiter: vnum es- 
+       <lb ed="#B" n="38"/>se eorum esset perfectius altero: &amp; sic vnum eorum esset participatio alterius siue parti- 
+       <lb ed="#B" n="39"/>ciparet altero: consequens falsum est: quia esse est summa actualitas: quae nullo potest participare secundum illam 
+       <lb ed="#B" n="40"/>tertiam regulam de hebdo. Quod est: participare aliquo potest. sed ipsum esse nullo modo aliquo participat:  
+       <lb ed="#B" n="41"/>fit enim participatio cum aliquid iam est: est autem aliquid cum iam esse susceperit. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4122-d1e127">
+       TERtio sic. vi. 
+       <lb ed="#B" n="42"/>Topico. dicitur. Vnius rei tantum vnicum est esse. cum ergo substantia quotcumque in se habeat accidentia vnica est 
+       <lb ed="#B" n="43"/>ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4122-d1e134">
+       QVARto sic. Boetius de vnitate &amp; vno dicit. Omne quod est ideo est quia vnum numero 
+       <lb ed="#B" n="44"/>est: &amp; ex separatione res destruitur: in suo esse non nisi vnitione conseruatur, quare cum accidentis &amp; subie 
+       <lb ed="#B" n="45"/>cti non sit nisi vnitio vna: sicut materiae &amp; formae: vnum ergo tantum est esse accidentis &amp; subiecti: quemad- 
+       <lb ed="#B" n="46"/>modum &amp; compositi ex materia &amp; forma. 
+      </p>
+      <p xml:id="n3av8a-c1e4122-d1e144">
+       CONtra, si accidens non haberet aliud esse existentiae quam subiecti:  
+       <lb ed="#B" n="47"/>tunc transubstantiatione panis facta in corpus Christi, non maneret sine subiecto: quia non maneret nisi haben- 
+       <lb ed="#B" n="48"/>do aliquod esse existentiae. consequens falsum est: quia maneret existendo sine subiecto: falsum est ergo  
+       <lb ed="#B" n="49"/>&amp; anes: subdens quod non habet aliud esse existentiae ab esse sui subiecti: immo habet esse existentiae proprium sibi. Di 
+       <lb ed="#B" n="50"/>cunt aliqui quod vnius rei vnicum est esse existentiae quotquot formae fuerit in eo, siue substantiales, siue accidenta 
+       <lb ed="#B" n="51"/>les: &amp; quod ipsa substantia, siue fuerit forma, siue compositum ex materia &amp; forma, subsistit ipsi esse: &amp; ipsum  
+       <lb ed="#B" n="52"/>esse est illud in quo subsistit: &amp; accidentia subsistunt &amp; existunt quia sunt in existente. &amp; hoc totum est per vnum esse 
+       <lb ed="#B" n="53"/>existentiae, quemadmodum materia extensa est: quia subiicitur extensioni: quantitas extensa est quia est essentialiter 
+       <lb ed="#B" n="54"/>ipsa extensio qua materia extensa est: alia vero accidentia &amp; formae quaedam substantiales sunt exten- 
+       <!--885.xml-->
+       <pb ed="#B" n="422-v"/>
+        <lb ed="#B" n="1"/>sae: quia sunt in extenso. hoc tamen non nisi vna extensione formali quae est quantitas. Et ideo (vt di 
+       <lb ed="#B" n="2"/>cunt) quae diuersimode participant esse existentiae, diuersimode habent existere: sicut &amp; quae diuersimo 
+       <lb ed="#B" n="3"/>de participant esse essentiae: diuersimode dicuntur entia. Vnde substantia existit quia ei formaliter 
+       <lb ed="#B" n="4"/>competit existere: quantitas existit, quia est mensura existentis: qualitas existit, quia est modus quidam  
+       <lb ed="#B" n="5"/>existentis secundum se: relatio existit, quia est modus existentis in ordine ad aliud. &amp; similiter intelligen- 
+       <lb ed="#B" n="6"/>dum est de esse. Et per hoc vt dictum est supra, dicunt saluari analogiam in ente super. x. praedicamenta: &amp; 
+       <lb ed="#B" n="7"/>aliter non. Vnde vt dicunt, &amp; secundum quod habetur in superius nominata quaestione de gradu formarum, si plu- 
+       <lb ed="#B" n="8"/>res formae substantiales secundum rem differentes, ponantur in eodem, vt supra dictum est in homine: illud non ha  
+       <lb ed="#B" n="9"/>bet nisi vnum actum existendi per vltimam formam. homo enim aut corpus humanum non habet 
+       <lb ed="#B" n="10"/>actum existendi nisi per animam rationalem. Quando enim nobilitatur corpus ab anima secundum organizationem  
+       <lb ed="#B" n="11"/>&amp; harmoniam, corporeitas illa substantialis quae dabat esse desinit dare esse: &amp; anima quiditati corpo 
+       <lb ed="#B" n="12"/>ris communicat suum esse: in quo manet virtute esse quod dabat praecedens forma. &amp; hoc quemadmodum  
+       <lb ed="#B" n="13"/>cum in vna forma secundum rem sunt gradus intentionum quae dant diuersa esse, differentia secundum comple 
+       <lb ed="#B" n="14"/>tum &amp; incompletum: vt dictum est supra de esse vita, animatione, sensu &amp; rationalitate: in quibus imperfe 
+       <lb ed="#B" n="15"/>ctior intentio non est principium existendi completiue: sed inchoatiue &amp; dispositiue tantum: sed sola intentio vl 
+       <lb ed="#B" n="16"/>timae differentiae in forma dat esse existentiae perfectum &amp; completum: in quo virtute manent omnia esse incon 
+       <lb ed="#B" n="17"/>pleta praecedentia quae se tenebant ex parte generis: &amp; desinunt illae intentiones dare esse sub ratione in  
+       <lb ed="#B" n="18"/>completi. Nec est aliquo modo intelligendum quod in aliquo talium siue habeat plures formas re diffe 
+       <lb ed="#B" n="19"/>rentes siue intentione sola: quod in eodem sit ponere plura esse differentia secundum rem: vnum comple- 
+       <lb ed="#B" n="20"/>tum, &amp; aliud incompletum. Si enim vt dicunt sint duo esse existentiae, &amp; duo existentes. Vnde &amp; in Chri 
+       <lb ed="#B" n="21"/>sto dicunt non haberi esse existentiae ab anima vt in nobis: sed quod esse existentiae personae diuinae habuit 
+       <lb ed="#B" n="22"/>compositum ex corpore &amp; anima: &amp; anima atque corpus per animam. quod si in Christo esset duplex es- 
+       <lb ed="#B" n="23"/>se existentiae: vnum increatum &amp; aliud creatum: esset in ipso duplex suppositum. Vnde dicit scri- 
+       <lb ed="#B" n="24"/>ptor in dicta quaestione. Non pono formam esse principium essendi semper. oportet enim quod ponamus in  
+       <lb ed="#B" n="25"/>Christo naturam humanam sine suo esse: alias enim essent duae existentiae &amp; duo existentes: &amp; duo supposita: quod  
+       <lb ed="#B" n="26"/>est ipossibile. 
+      </p>
+      <p xml:id="n3av8a-c1e4122-d1e225">
+       HIC videtur mihi primo esse consideranda differentia inter esse essentiae &amp; esse existentiae: 
+       <lb ed="#B" n="27"/>quorum vtrumque est quo essentia est: &amp; inter essentiam, &amp; id quid ipsa est. Est autem id quod essentia est in  
+       <lb ed="#B" n="28"/>vnaquaque re conmuniter loquendo id quod ei conuenit ratione naturae suae secundum se. Esse vero est in  
+       <lb ed="#B" n="29"/>ipsa essentia participatio quaedam diuini esse: qua ipsa essentia in seipsa est quaedam similitudo diui 
+       <lb ed="#B" n="30"/>ni esse atque diuinae essentiae: non autem in aliquo superaddito ei, nisi quo ad respectum quem importat 
+       <lb ed="#B" n="31"/>huiusmodi similitudo. Est autem ista participatio diuini esse in essentia, esse essentiae: inquantum essentia 
+       <lb ed="#B" n="32"/>illa exemplatum est diuini esse secundum rationem causae formalis. quia per ipsum esse essentiae vt per actum 
+       <lb ed="#B" n="33"/>sibi proprium essentialem habet id quod res est ex ratione sui generis quod sit ens &amp; natura &amp; essentia pro- 
+       <lb ed="#B" n="34"/>prie dicta: non solum figmentum vt dictum est supra. Et componitur omnis essentia creaturae ex illo quod  
+       <lb ed="#B" n="35"/>est secundum se &amp; ex illo esse: sicut ex materiali &amp; formali: siue ex quod est &amp; quo est: &amp; dicitur compositum 
+       <lb ed="#B" n="36"/>huiusmodi ens. Et istud esse abstractum per intellectum ab illo quod est aliquid de genere substantiae, quanti 
+       <lb ed="#B" n="37"/>tatis, qualitatis, &amp; aliorum, est esse analogice participatum a rebus. x. praedicamentorum. Similiter abstra 
+       <lb ed="#B" n="38"/>ctum ab ente quod est substantia &amp; qualitas &amp; huiusmodi, est ens quod analogice praedicatur de. x. praedicamen 
+       <lb ed="#B" n="39"/>tis. Est vero dicta participatio diuini esse in essentia, esse existentiae: inquantum est similitudo produ- 
+       <lb ed="#B" n="40"/>cta a diuino esse secundum rationem causae efficientis: quia per ipsum vt per actum suum accidentalem 
+       <lb ed="#B" n="41"/>inquantum essentiae &amp; ratione eius quod est, &amp; ratione eius quo est, accidit esse productum, quod esse existentiae 
+       <lb ed="#B" n="42"/>abstractum ab essentiis. x. praedicamentorum analogice participatur ab eis. &amp; consimili analogia existens 
+       <lb ed="#B" n="43"/>praedictatur de rebus. x. praedicamentorum existentibus. Sed esse essentiae inquantum per essentiam entia 
+       <lb ed="#B" n="44"/>sunt apud intellectum, est esse diminutum: esse vero existentiae verum &amp; perfectum non habet nisi 
+       <lb ed="#B" n="45"/>extra intellectum in rerum natura. Et vtrumque horum esse, tam essentiae quam verae existentiae, duplex est. 
+       <lb ed="#B" n="46"/>Quoddam enim est esse tam essentiae quam existentiae simpliciter dictum: quale esse habent materia et forma. 
+       <lb ed="#B" n="47"/>siue substantialis, siue accidentalis in composito. Quoddam vero est esse tam essentiae quam existentiae: quid dicitur subsi 
+       <lb ed="#B" n="48"/>stentiae: quod est suppositi et rei in se subsistentis. Praeter autem istum modum vltimum scilicet subsi 
+       <lb ed="#B" n="49"/>stentiae, quo ad alteram eius partem quae est esse subsistentiae in existentia: omnes alii modi subsistendi 
+       <lb ed="#B" n="50"/>comprehendi possunt sub esse essentiae: secundum quod in aliis quaestionibus vsi sumus ipso esse essentiae. 
+       <lb ed="#B" n="51"/>appellando scilicet esse essentiae omne esse quod conuenit rei absque eo quod in se subsistat habendo in se es- 
+       <lb ed="#B" n="52"/>se perfectum subsistentiae actualis extra animam. Suppositum enim quod non habet esse existentiae nisi in  
+       <lb ed="#B" n="53"/>comprehensione intellectus: forma etiam et materia, licet in composito ex eis quod subsistit in perfecta 
+       <lb ed="#B" n="54"/>subsistentia actuali extra animam, habent existentiam naturae et essentiae suae qua sunt in existentia id quid  
+       <!--886.xml-->
+       <pb ed="#B" n="423-r"/>
+        <lb ed="#B" n="1"/>sunt. Similiter compositum ex materia &amp; form. scilicet ex corpore &amp; anima in Christo, licet subsistat in suppo 
+       <lb ed="#B" n="2"/>sito diuino perfecta subsistentia actuali extra animam: sic quod illud compositum extra animam habeat existen 
+       <lb ed="#B" n="3"/>tiam naturae suae &amp; essentiae qua est in existentia id quod est: plenam tamen actualitatem existentiae non habent ex 
+       <lb ed="#B" n="4"/>se: quia non habent eam nisi vt partes in toto: &amp; pars inquantum in toto habet esse, potentiale quid est &amp; 
+       <lb ed="#B" n="5"/>imperfectum. Per hoc enim quod in creaturis separate &amp; distincte a quolibet alio in se existit, perfectionem actua 
+       <lb ed="#B" n="6"/>litatis habet: quae dicitur esse subsistentiae in existentia extra intellectum. 
+      </p>
+      <p xml:id="n3av8a-c1e4122-d1e306">
+       AD quaestionem igitur descenden- 
+       <lb ed="#B" n="7"/>do dico quod si loquamur de esse essentiae simpliciter dicto: &amp; similiter de esse existentiae: cum essentia quae  
+       <lb ed="#B" n="8"/>cumque non est proprie essentia sine suo proprio esse essentiae: quid est, proprius actus eius quo essentia dicitur: simi 
+       <lb ed="#B" n="9"/>liter existentia non est proprie existentia sine proprio suo esse existente: quiod est proprius actus eius quo exi- 
+       <lb ed="#B" n="10"/>stentia dicitur: sicut albedo est proprius actus quo aliquid album dicitur. Sicut ergo nihil potest esse album hoc ni 
+       <lb ed="#B" n="11"/>si habeat hanc albedinis: sic nihil potest dici essentia haec, nisi habeat esse essentiae hoc sibi proprium. 
+       <lb ed="#B" n="12"/>&amp; similiter est de esse existentiae. Quotquot ergo sunt essentiae in eodem, siue de praedicamento substantiae 
+       <lb ed="#B" n="13"/>siue accidentis: tot necessario sunt esse essentiae in eodem, &amp; tot esse existentiae: etsi vnum eorum sit 
+       <lb ed="#B" n="14"/>principale respectu aliorum: sicut vna essentia est principalis respectu aliarum. Vnde esse substantiae tam 
+       <lb ed="#B" n="15"/>essentiae quam existentiae simplicitur principalius est quam esse accidentis: sicut substantia principalior est natura 
+       <lb ed="#B" n="16"/>quam accidens: &amp; similiter esse vtrumque quid est formae substantialis, principalius est quam quid materiae. Vnde &amp; in  
+       <lb ed="#B" n="17"/>quolibet composito forma materiae &amp; forma principalis, formae non principali suum esse communicat. &amp; 
+       <lb ed="#B" n="18"/>quo ad hoc in quolibet vno vnum est esse tam essentiae quam existentiae simpliciter &amp; non plura. In hoc enim 
+       <lb ed="#B" n="19"/>omnis forma substantialis est principium essendi composito in quo est, &amp; materiae. quoniam cum huiusmodi for- 
+       <lb ed="#B" n="20"/>ma consequuntur in composito proprietates &amp; passiones &amp; omnia accidentia illius: &amp; primo esse: quia  
+       <lb ed="#B" n="21"/>alia non sequuntur nisi mediante esse. secundum quod dicitur in. vi. regula de hebdo. ld quod est participat eo quod  
+       <lb ed="#B" n="22"/>est esse vt sit: est vero vt participet quolibet alio. vbi dicit Commen. Vtrumque ergo &amp; ipsum esse &amp; aliquae  
+       <lb ed="#B" n="23"/>aliquid cum ipso ab vno solo i i. ab eo quod est. Quod reuera dicit non secundum theologos sed secundum philosophos: vt 
+       <lb ed="#B" n="24"/>patet ex dictis in praecedenti quaestione. Sed redit ad idem: nihil enim intendit nisi quod sint idem re in eo quid est 
+       <lb ed="#B" n="25"/>ipsum quod est scilicet &amp; ipsum esse &amp; illud aliud aliquid cum ipso. &amp; sequitur in Commen. Sed illa partici- 
+       <lb ed="#B" n="26"/>patio qua eo quod est esse participat: natura prior est: altera vero posterior: quia non potest esse aliquid  
+       <lb ed="#B" n="27"/>nisi prius naturaliter sit. Vnde in quolibet composito per se ex materia &amp; forma sicut sunt duae essen 
+       <lb ed="#B" n="28"/>tiae: sic sunt duo esse vtroque modo. &amp; similiter in composito per accidens ex substantia &amp; accidente 
+       <lb ed="#B" n="29"/>quotquot sunt in eo essentiae diuersae substantiae &amp; accidentis: tot sunt in eo esse vtroque modo. Si enim 
+       <lb ed="#B" n="30"/>accidens non haberet esse proprium in subiecto sed solum esse subiecti: nullo modo compositum esset 
+       <lb ed="#B" n="31"/>vnum ens per accidens. Sicut enim dicitur aliquid ens vel vnum simpliciter a forma substantiali: in eo quod con 
+       <lb ed="#B" n="32"/>municat toti composito ex materia &amp; forma substantiali suum esse &amp; vnitatem: sic dicitur aliquid esse ens 
+       <lb ed="#B" n="33"/>&amp; vnum per accidens a forma accidentali in eo quod conmunicat toti composito ex substantia &amp; accidente suum 
+       <lb ed="#B" n="34"/>esse &amp; suam vnitatem. Vnde si accidens non haberet in subiecto proprium esse: nec, propriam vnitatem: quia vnum  
+       <lb ed="#B" n="35"/>&amp; esse consequuntur se: secundum Boetium. In Christo ergo sicut sunt tres essentiae scilicet caro, anima, deitas, vt 
+       <lb ed="#B" n="36"/>dictum est supra. secundum Hugustinus vel quatuordistinguendo carnem in materiam &amp; formam: sic sunt in eo tres 
+       <lb ed="#B" n="37"/>vel quatuor esse vtroque modo: essentiae scilicet &amp; existentiae simpliciter: licet principalius sit illud quod est 
+       <lb ed="#B" n="38"/>formae: &amp; hoc tam animae rationalis respectu corporis quam deitatis respectu totius humanae naturae  
+       <lb ed="#B" n="39"/>in Christo. sicut enim anima rationalis &amp; caro vnus est homo: ita deus &amp; homo vnus est Christus 
+       <lb ed="#B" n="40"/>maxime quo ad hoc, quod sicut anima rationalis suum esse communicat carni: sic deitas suum esse communicat natu  
+       <lb ed="#B" n="41"/>rae humanae. Verius enim &amp; vicinius vnitur diuinitas naturae humanae quam anima rationalis carni: licet il 
+       <lb ed="#B" n="42"/>la est absque informatione &amp; compositione. vnio enim naturae diuinae cum humana maior est post illam 
+       <lb ed="#B" n="43"/>quae est trium personarum in vnitate substantiae: vt dicit beatus Bernardus. Propter istam enim conmu 
+       <lb ed="#B" n="44"/>nicationem esse sui quam facit natura diuina humanae, de homine Christo vere dicitur quod est homo diuinus. Si 
+       <lb ed="#B" n="45"/>vero loquamur de esse quod est subsistentiae: tunc si vnumquidque essentialiter subsistit per vnicam formam 
+       <lb ed="#B" n="46"/>vel differentiam vltimam essentialem quae dat rei esse subsistentiae, si secundum se habet esse separatum, sic dico quod vnum  
+       <lb ed="#B" n="47"/>quodque subsistens esse subsistentiae vel per essentiam in solo intellectu: si non sit aliquid extra: vel per existentiam 
+       <lb ed="#B" n="48"/>extra intellectum, tantum vnicum habet esse quotcumque sint in eo esse essentiae vel existentiae simplicitur dicta. Hon enim 
+       <lb ed="#B" n="49"/>in solo intellectu existens suppositum vnum est hominis: habens vnum esse suppositi per formam. existens vero extra non nisi 
+       <lb ed="#B" n="50"/>vnicum suppositum est per existentiam vnum habens esse existentiae suppositi. cuius vnitas in nullo repugnat plurali 
+       <lb ed="#B" n="51"/>tati esse per essentiam &amp; per existentiam simplicitur dictam: sicut nec vnitas compositi repugnat vnitati formae &amp; 
+       <lb ed="#B" n="52"/>vnitati materiae. Immo si formale in re non haberet in se vnitatem, &amp; esse essentiae suae &amp; existentiae simpli- 
+       <lb ed="#B" n="53"/>citer sibi, proprium, nuilum esse posset communicare materiae &amp; composito: nec posset ab illo haberi 
+       <lb ed="#B" n="54"/>esse suppositi sicut nec vnitas suppositi aut compositi: sine qua nec esse compositi aut suppositi ha 
+       <!--887.xml-->
+       <pb ed="#B" n="423-v"/>
+        <lb ed="#B" n="1"/>betur. Hinc dicit Boetius in principio de vnitate &amp; vno. Vnitas est qua vnaquaeque res vna dicitur 
+       <lb ed="#B" n="2"/>nec potest esse vna nisi vnitate. Nec solum vnitate est vna: sed etiam tandiu est quicquid est, quamdiu in  
+       <lb ed="#B" n="3"/>se vnitas est: cum autem desinit esse vnum: desinit esse. Inde est quod quicquid est ideo est quia vnum est. &amp; in-  
+       <lb ed="#B" n="4"/>fra. Quapropter si res vnitate ducitur ad esse: &amp; vnitate in illo esse custoditur. Vnde esse &amp; esse vnum in  
+       <lb ed="#B" n="5"/>separabiliter concomitantur se, &amp; videntur esse simul natura. &amp; hoc intantum, quod vbi est maior vnitas, &amp; ma-  
+       <lb ed="#B" n="6"/>ior entitas: &amp; econuerso: &amp; vbi est minus de vnitate: &amp; minus de entitate, &amp; econuerso: &amp; quod verius &amp; 
+       <lb ed="#B" n="7"/>perfectius est vnum, veriorem &amp; perfectiorem habendo vnitatem: verius &amp; perfectius est ens veriorem &amp; per- 
+       <lb ed="#B" n="8"/>fectiorem habendo entitatis: siue verius &amp; perfectius esse secundum quencumque modum esse. Quare cum quaecunque  
+       <lb ed="#B" n="9"/>in eodem existunt differentia per essentiam, proprias vnitates habent sub vnitate totius: nec propter vnitatem 
+       <lb ed="#B" n="10"/>totius amittunt proprias vnitates: sic ergo &amp; habent propria esse sub esse totius: nec ipsa a mittunt propter 
+       <lb ed="#B" n="11"/>esse totius. immo magis per vnitates &amp; esse propria, quas habent manentes: sed non nisi effectiue a pri. 
+       <lb ed="#B" n="12"/>ma vnitate &amp; primo esse, causant esse &amp; vnitatem totius. dicente Boetio ibidem. Omne esse a forma 
+       <lb ed="#B" n="13"/>est in creatis cum vnita est materiae. Vnde philosophi sic describunt illud dicentes: Esse est existen- 
+       <lb ed="#B" n="14"/>tia formae cum materia. Cum autem forma materiae vnitur: necessario ex coniunctione vtriusque aliquod  
+       <lb ed="#B" n="15"/>vnum constituitur. &amp; infra. Forma igitur existens in materia: quae perficit &amp; custodit vniuscuiusque essentiam:  
+       <lb ed="#B" n="16"/>vnitas autem est descendens a prima vnitate quae creauit eam. Ecce plane quod forma etiam existens in ma 
+       <lb ed="#B" n="17"/>teria constituendo compositum vnitas est vnitate quam accepit a deo quando creauit eam: &amp; hoc secundum 
+       <lb ed="#B" n="18"/>modum praedictae participationis. Cum ergo in rebus essee &amp; vnum sint eiusdem rationis: sicut nullus potest 
+       <lb ed="#B" n="19"/>dicere quod in vno composito ex pluribus non sit alia vnitas quam vna quae est totius compositi ex pluri- 
+       <lb ed="#B" n="20"/>bus: immo materia &amp; forma &amp; quaecumque sunt in illo, sub vnitate illius retinent suas, proprias vnitates:  
+       <lb ed="#B" n="21"/>&amp; per vnitatem eius quod est formale &amp; principale in illo, causant vnitatem totius: sic nullus potest dice- 
+       <lb ed="#B" n="22"/>re quod in vno composito ex pluribus non sit aliud esse quam vnum quod est totius. immo materia &amp; forma 
+       <lb ed="#B" n="23"/>&amp; quaecumque sunt in illo, sub esse illius retinent sua propria esse: &amp; per esse formalis &amp; principalis in  
+       <lb ed="#B" n="24"/>illo, causant vnitatem totius. Et vt istud idem applicemus ad confirmationam dictorum in praecedenti 
+       <lb ed="#B" n="25"/>quaestione: sicut nullus potest dicere quod vnitas quaecumque in rebus est aliquid additum ei cuius est: aut 
+       <lb ed="#B" n="26"/>illis ex quibus componitur: vt enim dicit Commen. super. iiii. metaphysicae substantia cuiuslibet rei est vna 
+       <lb ed="#B" n="27"/>per se: non secundum rem additam illi: Sic nullus potest dicere quod entitas siue esse quodcunque in rebus sit 
+       <lb ed="#B" n="28"/>aliquid additum rei cuius est aut illis ex quibus componitur. Et causa deceptionis &amp; erroris in hoc  
+       <lb ed="#B" n="29"/>est, vt dicit <name ref="#Aristotle">philosophus</name> in fine. viii. metaphysicae quod ponunt rem cum est in actu diuersam a seipsa quando fuit 
+       <lb ed="#B" n="30"/>in potentia. Sed vt dicit ibi Commen. in rei veritate est vnum. illud enim quod fuit in potentia est in actu. 
+       <lb ed="#B" n="31"/>&amp; vt dicit philosophus, non habet in hoc aliam causam omnino praeter motorem producentem rem de potentia 
+       <lb ed="#B" n="32"/>in actum. &amp; sic si non habet res aliam causam suae vnitatis &amp; sui esse in actu existentiae, non est esse ad-  
+       <lb ed="#B" n="33"/>ditum essentiae vel vnum re differens ab illa: quia illud esset alia cause. scilicet formalis: sicut albedo esset cau 
+       <lb ed="#B" n="34"/>sa essendi album, praeter motorem. Sic ergo nullo modo tenendum est quod in vno non sit nisi vnicum es 
+       <lb ed="#B" n="35"/>se: nisi hoc inte lligatur de esse suppositi siue subsistentiae. tale enim esse est vnicum quo per se &amp; primo 
+       <lb ed="#B" n="36"/>subsistit &amp; existit ipsum totum continens in se plura: &amp; quo subsistunt &amp; existunt materia &amp; for- 
+       <lb ed="#B" n="37"/>ma substantialis siue vna siue plures: quia sunt aliquid subsistentis &amp; existentis: quo etiam subsistunt 
+       <lb ed="#B" n="38"/>&amp; existunt accidentia eius, quia sunt in existente &amp; subsistente: non per additum: secundum quod ille 
+       <lb ed="#B" n="39"/>dicit quod esse sit aliquid additum existenti re diuersum ab eo. Quod explicat dicendo: quod quae diuersimo 
+       <lb ed="#B" n="40"/>de fundantur in existente: diuersimode dicuntur existere: sicut &amp; quae diuersimode fundantur in  
+       <lb ed="#B" n="41"/>ente: diuersimode dicuntur esse &amp;c. vt supra. Vnde nisi poneret esse existentiae aliquid additum re 
+       <lb ed="#B" n="42"/>differens: non posset ponere idem esse in vno habente in se plura: nisi ponendo quod in eodem solum  
+       <lb ed="#B" n="43"/>vltima forma vel vltima differentia dat totum esse existentiae. In quolibet enim habente in se plura 
+       <lb ed="#B" n="44"/>dicit illud esse existentiae fore additum vt re differens ab eo cuius est. Quod si ita esset: non oporteret 
+       <lb ed="#B" n="45"/>ipsum plurificare secundum pluralitatem eorum quae ipso diuersimode participant. Sed ponendo quod  
+       <lb ed="#B" n="46"/>esse nullo modo sit aliquid additum: sed est idem cum essentia rei secundum praetactum modum:  
+       <lb ed="#B" n="47"/>necesse est omne esse plurificari in eodim: siue essentiae siue existentiae. praeter illud quod est subsisten 
+       <lb ed="#B" n="48"/>tiae, siue in ipsa rei essentia apud intellectum: siue in ipsa existentia extra, vt dictum est. &amp; sic deter  
+       <lb ed="#B" n="49"/>minatio quaestionis huius multum dependet a determinatione quaestionis praecedentis. Quia autem 
+       <lb ed="#B" n="50"/>omne aliud esse in habente in se plura differentia re, plurificatur secundum eorum plurificationem 
+       <lb ed="#B" n="51"/>siue fuerit essentiae siue existentiae simpliciter: hoc plane patet de accidentibus quae fuerunt in sub  
+       <lb ed="#B" n="52"/>stantia panis: &amp; manent in ipso transubstantiato. de quibus certum est quod aliquod esse habent. vn- 
+       <lb ed="#B" n="53"/>de acceptum est argumentum vltimum, secundum hoc concedendum. 
+      </p>
+      <p xml:id="n3av8a-c1e4122-d1e535">
+       SED vlterius distinguo:  
+       <lb ed="#B" n="54"/>aut ergo habebant idem esse prius in substantia panis, &amp; sic habeo propositum: aut, non: &amp; sic illud esse 
+       <!--888.xml-->
+       <pb ed="#B" n="424-r"/>
+        <lb ed="#B" n="1"/>est illis de nouo acquisitum. sed hoc non nisi per generationem naturalem: aut per causalitatem: aut 
+       <lb ed="#B" n="2"/>per illud quod remouet prohibens. Non primo modo nec secundo vt patet: nec tertio: tum quia esse to 
+       <lb ed="#B" n="3"/>tius non repugnat esse illorum quae sunt in eo, vt patet ex dictis: &amp; ideo nullo modo est prohibens:  
+       <lb ed="#B" n="4"/>tum quia remouens prohibens nihil agit in illud a quo prohibens remouet: sed exponit ipsum suae na 
+       <lb ed="#B" n="5"/>turae. Esse autam aliud re ab eo cuius est, quod non fuit prius sub esse, &amp; ideo non est nisi in sola poten- 
+       <lb ed="#B" n="6"/>tia ad illud, necessario per actionem aliquam alicuius agentis procedit in actum. Aliter enim res se 
+       <lb ed="#B" n="7"/>ipsam de: non esse simpliciter deduceret ad esse. Sed in actum potest procedere vel agente eo a quo  
+       <lb ed="#B" n="8"/>remouetur prohibens: vel agente alio: quod non potest esse nisi generans aut creans. ergo vt prius. Vnde 
+       <lb ed="#B" n="9"/>si quandoque per solam actionem amouentis prohibens proceditur de potentia in actum: hoc non est 
+       <lb ed="#B" n="10"/>quia de nouo non enti simpliciter, quid non est nisi in sola potentia: esse in actu acquiritur: sed quia 
+       <lb ed="#B" n="11"/>existens in actu vno modo, est in potentia ad existere in actu alio modo: &amp; remouens prohibens ne 
+       <lb ed="#B" n="12"/>res sit in actu alio modo: per se agit circa illud in quo consistit prohibens. Verbi gratia: formae sin- 
+       <lb ed="#B" n="13"/>gulae habentes in se modicam vnitatem sicut &amp; modicam entitatem: quae sunt similes in parte &amp; in  
+       <lb ed="#B" n="14"/>toto: vt sunt forma lineae &amp; superficiei, quae per se sunt extensae: &amp; forma lapidis aut albedinis, quae per 
+       <lb ed="#B" n="15"/>accidens sunt extensae: quia sunt in quantitate: potentia sunt plurificatae: ita quod aliquo remouente prohibens 
+       <lb ed="#B" n="16"/>statim sunt plura in actu per solam solutionem continuitatis. &amp; hoc quia ex se erant prius plures res conti 
+       <lb ed="#B" n="17"/>nuae: sed modo sunt plures distinctae. dicente Boetio de vnitate &amp; vno. Omnia vnitatem appetunt: 
+       <lb ed="#B" n="18"/>&amp; etiam ea quae multa sunt: vnum dici volunt. Quaecunque enim sunt, aut vera vnitate vniuntur:  
+       <lb ed="#B" n="19"/>aut saltem eam simulando mentiuntur. Pluralitas autem non est nisi ex congregatione vnitatum:  
+       <lb ed="#B" n="20"/>quae vnitates si sint disgregatae: faciunt multitudinis: si vero sunt congregatae in materia: faciunt 
+       <lb ed="#B" n="21"/>magnitudinem. Quapropter inter vnitates quantitatis continuae &amp; discretae existentis in materia 
+       <lb ed="#B" n="22"/>nihil interest: nisi quod istae disgregatae sunt &amp; illae continuae. &amp; consimiliter est de illis quae extendun- 
+       <lb ed="#B" n="23"/>tur cum quantitate. Et sicut illud contingit circa esse accidentium separatorum a substantia panis:  
+       <lb ed="#B" n="24"/>sic possibile esset contingere circa humanitatem Christi. Si enim humanitas Christi in Christo as- 
+       <lb ed="#B" n="25"/>sumpta a verbo nuilum habet esse proprium praeter esse suppositi increatum manente assumptione  
+       <lb ed="#B" n="26"/>tunc si illam humanam naturandimitteret sicut posset si vellet: cum ipse esse haberet tunc quid prius 
+       <lb ed="#B" n="27"/>non habuit: est ergo ei acquisitum de nouo: quod est impossibile: quia nec per generans: nec per creans: nec 
+       <lb ed="#B" n="28"/>per remouens prohibens: vt prius. Sed dices quod per remouens prohibens: quia assumptio facit quod huma 
+       <lb ed="#B" n="29"/>na natura non habet esse separatum siue distinctum ab alio: quod requirit essentia suppositi: &amp; ideo  
+       <lb ed="#B" n="30"/>cum subtrahitur assumptio: statim habet esse existentiae suppositi. Quod non valet: quia subtractio illa nihil 
+       <lb ed="#B" n="31"/>ponit nisi separationem naturae humanae a diuina secundum se eam ponendo: quod non dat ei nouum  
+       <lb ed="#B" n="32"/>esse: sed solum nouum modum circa esse. Prius ergo habuit idem esse quod modo: sed prius non secundum 
+       <lb ed="#B" n="33"/>rationem suppositi sed simplicis existentiae: quam modo propter separationem habet secundum rationem 
+       <lb ed="#B" n="34"/>suppositi. In hoc enim solo differunt existentia simpliciter &amp; subsistentia: quod non subsistit nisi separatum:  
+       <lb ed="#B" n="35"/>existit autem etiam alteri coniunctum: &amp; quid est existentia simpliciter in coniuncto, est subsistentia in sepa 
+       <lb ed="#B" n="36"/>rato. Praeterea: si humana natura in Christo nullum haberet esse proprium, sed solum diuini suppositi 
+       <lb ed="#B" n="37"/>cum illud non sit nisi esse increatum: humanitas ergo Christi nuilum haberet esse creatum omnino: &amp; 
+       <lb ed="#B" n="38"/>sic non esset Christus creatura secundum humanam naturam: quia non est creatura nisi participan  
+       <lb ed="#B" n="39"/>do esse creatum. consequens falsum est: ergo &amp;c. De isto igitur esse existentiae quod est subsistentiae, scien 
+       <lb ed="#B" n="40"/>dum quod est formaliter a forma dante &amp; communicante suum esse essentiae &amp; existentiae simpliciter, il 
+       <lb ed="#B" n="41"/>li cuius: &amp; hoc separatim aut distincte: ita quod illud esse quod est essentiae vel existentiae simpli- 
+       <lb ed="#B" n="42"/>citer, inquantum est a forma simpliciter, est esse subsistentiae: siue secundum essentiam siue secundum 
+       <lb ed="#B" n="43"/>existentiam inquantum dat illud separatim aut distincte. Sed tale esse aut est absolutum &amp; a forma ab  
+       <lb ed="#B" n="44"/>soluta, aut est respectiuum &amp; a forma relatiua. Primo modo habet existentiam subsistentiae omnis crea 
+       <lb ed="#B" n="45"/>tura secundum se existens separata a quocunque alio. Secundo modo habent existentiam subsistentiae so 
+       <lb ed="#B" n="46"/>lae tres personae diuinae. Vnde a diuina essentia non est in deo aliquod esse subsistentiae: quia nuiium  
+       <lb ed="#B" n="47"/>habet esse distinctum aut separatum a diuinis personis &amp; subsistentiis earum: sed esse essentiae &amp; 
+       <lb ed="#B" n="48"/>existentiae simpliciter est vnum in tribus personis: sicut ipsa diuina essentia est vna in illis: praeter tria 
+       <lb ed="#B" n="49"/>esse subsistentiae ad aliud: &amp; hoc quemadmodum ab anima rationali non est in Christo aliquod esse 
+       <lb ed="#B" n="50"/>subsistentiae: quia nuiium habet esse distinctum aut separatum a diuina natura &amp; subsistentia ver 
+       <lb ed="#B" n="51"/>bi: &amp; etiam quemadmodum anima rationalis in alio homine vt est perfectio materiae nuilum habet 
+       <lb ed="#B" n="52"/>in se esse subsistentiae quia non est separata a materia: quale esse subsistentiae habet licet imperfecte cum 
+       <lb ed="#B" n="53"/>est separata. Nullo igitur modo in habente in se plura quae essentialiter differunt inter se, potest esse 
+       <lb ed="#B" n="54"/>vnicum esse tantum nisi illud sit subsistentiae, vel quod communicatur ab vltimo formali toti composito. 
+       <!--889.xml-->
+       <pb ed="#B" n="424-v"/>
+        <lb ed="#B" n="1"/>Et est illud quod exprimitur in definitiua ratione: cum dicitur quod definitio est oratio Indicans quod  
+       <lb ed="#B" n="2"/>est esse. de quo intelligitur assumptum in tertia ratione: quod vnius rei vnicum est esse. &amp; de quo di-  
+       <lb ed="#B" n="3"/>cit Boetius primo de trinitate cap. iii. Omne esse ex forma est. statua enim non secundum quod est mate- 
+       <lb ed="#B" n="4"/>ria sed secundum formam quae insignita est, effigies animalis dicitur. &amp; infra. Nihil ergo secundum ma 
+       <lb ed="#B" n="5"/>teriam esse dicitur: sed secundum propriam formam. Per quod patet responsio ad illud: quod istud esse 
+       <lb ed="#B" n="6"/>estillud quod fundatur in vnione formae cum materia: quae non est nisi vnica secundum quod proces- 
+       <lb ed="#B" n="7"/>sit quarta ratio. Non tamen ex hoc sequitur quin materia habeat suum proprium esse essentiae: &amp; 
+       <lb ed="#B" n="8"/>similiter accidentia: vt patet ex dictis. Illud enim esse quod est in composito ex vnione formae cum ma 
+       <lb ed="#B" n="9"/>teria est vnicum in quolibet composito ex materia &amp; forma: siue secundum se separatim subsistat vt 
+       <lb ed="#B" n="10"/>in aliis hominibus, siue in supposito alterius vt in homine. Homo enim ille habet esse essentiae &amp; exi 
+       <lb ed="#B" n="11"/>stentiae simpliciter ab anima rationali sicut &amp; caeteri: &amp; cum hoc habet esse diuinae naturae sibi com 
+       <lb ed="#B" n="12"/>municatum: quam subsunt vni esse diuini suppositi. Vnde super de duabus naturis Commen. In illo sunt 
+       <lb ed="#B" n="13"/>vnum quidem quod sit deus &amp; aliud quod sit homo: sicut in quolibet homine est quiddam quid est anima: &amp; aliud  
+       <lb ed="#B" n="14"/>quod est corpus. Et secundum illud duplex esse in Christo super caeteros, qui tantum habent vnicum, in Christo est 
+       <lb ed="#B" n="15"/>duplex viuere: humanm. scilicet &amp; diuinum. secundum quod etiam duplex in ipso voluntas est: &amp; caetera huiusmodi: secundum 
+       <lb ed="#B" n="16"/>duplicem naturam. Quo ad esse autem essentiae &amp; existentiae simpliciter, quid convenit Christo ratione  
+       <lb ed="#B" n="17"/>naturae humanae: non est differentia in Christo &amp; in aliis hominibus: sed quo ad esse subsistentiae mul 
+       <lb ed="#B" n="18"/>tum refert in Christo &amp; in aliis: quia in aliis esse subsistentiae est a forma absoluta: &amp; non differt ab  
+       <lb ed="#B" n="19"/>esse existentiae simpliciter: quid etiam est in Christo: nisi quo ad hoc quod est esse existentiae simpliciter 
+       <lb ed="#B" n="20"/>vt est a forma simpliciter: est autem esse subsistentiae, inquantum est a forma ad alterius subsistentiae ra 
+       <lb ed="#B" n="21"/>tionem non assumpta. Propter quod in Christo, in quo forma humana ad alterius subsistentiae ratio- 
+       <lb ed="#B" n="22"/>nem assumpta, non est idem esse subsistentiae: quemadmodum etiam nec diuina natura inChristo licet det 
+       <lb ed="#B" n="23"/>ei esse existentiae simpliciter, non tamen esse subsistentiae: quia dat ipsum sub subsistentia alterius rationis: quae  
+       <lb ed="#B" n="24"/>est subsistentia non absoluta sed relatiua: &amp; hoc a proprietate relatiua constitutiua suppositi verbi. 
+       <lb ed="#B" n="25"/>ita quod si in Christo non esset aliud esse quam diuini suppositi: nuilum esset in eo esse absolutum sed rela 
+       <lb ed="#B" n="26"/>tiuum tantum. Quod ergo dicunt aliqui: quod substantia est &amp; existit quia subsistit ipsi esse: verum est: non sicut 
+       <lb ed="#B" n="27"/>differenti a se secundum rem: sed secundum rationem siue intentionem tantum. Et quod accidens est &amp; existit: quia est in  
+       <lb ed="#B" n="28"/>ente &amp; existente: verum est: non quia non sit ei proprium esse vt illi intendunt: &amp; vt concludit primum 
+       <lb ed="#B" n="29"/>argumentum: cuius ex hoc patet solutio: sed ipsum quo ad id quod est, &amp; quo ad id quo est, secundum 
+       <lb ed="#B" n="30"/>essentiam &amp; secundum existentiam nullo modo est per naturam nisi quia est in alio quod est &amp; existit in se. Vn  
+       <lb ed="#B" n="31"/>de quia <name ref="#Aristotle">philosophus</name> bene sentiebat quod ex illo dicto suo quo accidentia dicuntur entia quia sunt en- 
+       <lb ed="#B" n="32"/>tis: aliqui putarent quod accidentia non haberent proprium esse quibus dicerentur entia: continuo mouet 
+       <lb ed="#B" n="33"/>super hoc dubitationem subdens. Et ideo forte quaeret aliquis: vtrum ambulatio, sessio, aut sanitas signi 
+       <lb ed="#B" n="34"/>ficant ens aut non ens. quoniam nullum eorum est existens per se: nec potest separari a substantia. &amp; soluit sub 
+       <lb ed="#B" n="35"/>conditione subdens. Sed si ambulans fuerit de entibus &amp; sedens &amp; sanus, ista sunt digniora vt sint 
+       <lb ed="#B" n="36"/>entia. scilicet substantiae. Ponit autem responsionem illam sub conditione, quia supponit eam ex quinto li 
+       <lb ed="#B" n="37"/>bro praecedente vbi dixit sic. Dicuntur entia per se quae significant figurae praedicamentorum: sunt enim 
+       <lb ed="#B" n="38"/>secundum numerum eorum. Vbi dicit Commen. Hoc nomen ens dicitur de omnibus de quibus dicum 
+       <lb ed="#B" n="39"/>tur praedicamenta: quia quod significat hoc nomen ens, idem videtur cum eo quod significant dictiones praedica- 
+       <lb ed="#B" n="40"/>mentorum. Ex quo concludo: quod cum dictiones illae significent res diuersas: quare &amp; ens dictum de ips- 
+       <lb ed="#B" n="41"/>sis significat esse earundem diuersa: vt non plus potest concludi sic: accidens non est nisi quia est en 
+       <lb ed="#B" n="42"/>tis: ergo non habet proprium esse: quam sic: accidens non est essentia nisi quia est essentiae vt aliquid in  
+       <lb ed="#B" n="43"/>substantia: ergo non habet propriam essentiam. Vt propter hoc accidentia non dicuntur entia nisi 
+       <lb ed="#B" n="44"/>quia entis: neque essentiae nisi quia sunt illius essentiae quae est substantia: non quia non habent, propria 
+       <lb ed="#B" n="45"/>esse &amp; proprias essentias: sed quia non habent sua esse &amp; suas essentias separatim: sed in substantia 
+       <lb ed="#B" n="46"/>cum esse &amp; essentia substantiae: &amp; etiam causaliter ab illis. Quod bene significat ibidem <name ref="#Aristotle">philosophous</name> sub 
+       <lb ed="#B" n="47"/>dens. Sedens enim &amp; stans non dicuntur sine hoe. scilicet substantia. Igitur haec est causa essentiae cuiusli- 
+       <lb ed="#B" n="48"/>bet illorum: &amp; illa sunt propter istud. Quid autem adducunt pro simili de extensione: Dicendum quod ma 
+       <lb ed="#B" n="49"/>gis facit pro nobis. licet enim non sit extensio nisi sub quantitate: neque in accidentibus nisi quia sunt in  
+       <lb ed="#B" n="50"/>quantitate: nihilominus tamen aliquid propriae extensionis habent materia &amp; accidentia in natura &amp; 
+       <lb ed="#B" n="51"/>essentia sua: licet non nisi per extensionem quantitatis: quemadmodum materia sub quantitate habet 
+       <lb ed="#B" n="52"/>partem iuxta partims: sicut &amp; quantitas: &amp; aliam &amp; aliam partem quantitatis: &amp; similiter accidens in  
+       <lb ed="#B" n="53"/>quantitate existens, puta albedo, habet partem continue iuxta partem: &amp; aliam &amp; aliam partem sub alia 
+       <lb ed="#B" n="54"/>&amp; alia parte quantitatis. Quemadmodum ergo materia habet proprium esse: licet cum hoc esse quod ha  
+       <!--890.xml-->
+       <pb ed="#B" n="425-r"/>
+        <lb ed="#B" n="1"/>bet a forma: quod quidem esse, proprium haberet si per virtutem diuinam existeret sine forma: &amp; similiter 
+       <lb ed="#B" n="2"/>accidentia proprium esse habent praeter esse illius in quo sunt: etiam per eundem modum quo diuersimode ha-  
+       <lb ed="#B" n="3"/>bent fundari in ente existente: diuersimode dicuntur esse &amp; existere. Sed non ex hoc habetur quin habent pro  
+       <lb ed="#B" n="4"/>pria esse diuersa: quibus diuersimode secundum se sunt atque existunt quo ad ipsorum essentias non compa- 
+       <lb ed="#B" n="5"/>ratas ad substantiam: vt in ipsa fundatae: licet ista non habeant extra intellectum nisi fundata in sub- 
+       <lb ed="#B" n="6"/>stantia diuersimode. Quod vlterius arguitur: quod si plures sint formae simul in eodem: non habetur esse nisi  
+       <lb ed="#B" n="7"/>per vltimam: verum est quo ad eius complementum quod communicat toti composito &amp; materiae, vt dictum est: quid est 
+       <lb ed="#B" n="8"/>idem cum esse subsistentiae rei. nihilominus tamen esse completum habetur per alias formas &amp; etiam per materiam. 
+       <lb ed="#B" n="9"/>Quid autem adiungit: quod aliae formae priores adueniente vltima desinunt dare esse: hoc impossibile est: sicut 
+       <lb ed="#B" n="10"/>impossibile est quod ipsa essentia illarum sit &amp; desinat esse essentia: quia in ipsa illarum essentia consistit 
+       <lb ed="#B" n="11"/>ipsarum esse: quod quaelibet illarum pro modulo suo communicat composito &amp; materiae. Vnde anima rationa 
+       <lb ed="#B" n="12"/>lis non dat homini totum suum esse: sed solummodo complementum eius: &amp; non sunt virtute praecedentia in  
+       <lb ed="#B" n="13"/>completo sed in tota forma continente genus &amp; singulas differentias tanquam differentes intentiones in  
+       <lb ed="#B" n="14"/>se. Vnde nunquam ponimus in eodem duo esse essentiae: vnum completum &amp; alterum incompletum. Poni- 
+       <lb ed="#B" n="15"/>mus tamen in eodem vt in homine, duo esse essentiae a duabus formis: quorum vnum est incompletum: alte 
+       <lb ed="#B" n="16"/>rum vero complementum. Quid autem addunt: si in vno sunt duo esse: ille est duo existentes: Dicendum 
+       <lb ed="#B" n="17"/>quod aliud est dicere duo existentes in masculino: aliud vero duae res existentes in foeminino: vel duo exi 
+       <lb ed="#B" n="18"/>stentia in neutro genere. Nunc autem quod in masculino dicitur vnus existens vel duo existentes: haec 
+       <lb ed="#B" n="19"/>denominatio non est nisi ab esse subsistentiae siue suppositi: quid non est nisi vnum in vno sicut praedictum 
+       <lb ed="#B" n="20"/>est: vt nullo modo possint dici masculine duo entes vel duo existentes, nisi quorum sunt duo esse 
+       <lb ed="#B" n="21"/>subsistentiae. In foeminino autem vel neutro quod dicitur vna res existens vel duae existentes: siue vnum  
+       <lb ed="#B" n="22"/>existens &amp; duo existentia: haec denominatio est ab esse existentiae simpliciter: quid secundum praedicta be- 
+       <lb ed="#B" n="23"/>ne plurificatur in vno secundum suppositum. &amp; ideo vnus secundum suppositum, &amp; vnus existens mascu- 
+       <lb ed="#B" n="24"/>line, bene dicitur duae res existentes foeminine, vel duo existentia in neutro: &amp; hoc indifferenter in no-  
+       <lb ed="#B" n="25"/>bis propter materiam &amp; formam: &amp; in Christo propter eandem &amp; propter deitatem: secundum 
+       <lb ed="#B" n="26"/>quae in Christo sunt plura esse existentiae simpliciter: vt in foeminino possit dici plures res existen- 
+       <lb ed="#B" n="27"/>tes: vel in neutro plura existentia: &amp; vniuersaliter in quolibet toto habente plures partes. dicente Boe 
+       <lb ed="#B" n="28"/>tio in libro de trinitate cap. iii. Vnumquidque habet esse suum ex his ex quibus est: &amp; est hoc atque illud: vt cum 
+       <lb ed="#B" n="29"/>terrenus homo constat ex anima &amp; corpore: &amp; anima &amp; corpus est. Et hoc non solum quando sunt coniuncta 
+       <lb ed="#B" n="30"/>quid contingit in omnibus hominibus: sed etiam quando sunt separata: quod ad minus contingit in Christo. dicen 
+       <lb ed="#B" n="31"/>te Commen. super de duabus naturis, de humanitate Christi. Sicut anima hominis nunquam desinit esse gene 
+       <lb ed="#B" n="32"/>re spiritus, nec corpus eius esse genere corpus: ita homo etsi remoto animae habitudesinat esse homo 
+       <lb ed="#B" n="33"/>atque animal: nunquam tamen desinit esse corpus &amp; spiritus. Quia si sic: tunc necessario habet esse vtriusque.  
+       <lb ed="#B" n="34"/>Vnde super illud de trini. Boetii: Cnim terrenus homo constat ex anima &amp; corpore: &amp; anima &amp; cor 
+       <lb ed="#B" n="35"/>pus est. dicit Commen. Quicquid enim est esse cuiuslibet partis eius: etiam quod ex illa parte constat 
+       <lb ed="#B" n="36"/>est esse. &amp; infra. Itaque esse hominis non simplex atque solitarium. &amp; infra super illud. In parte igitur non est 
+       <lb ed="#B" n="37"/>id quod est. Commen. Aliud saltem est esse partis vnius a qua compositum aliquid est: &amp; aliud alterius par- 
+       <lb ed="#B" n="38"/>tis esse: a qua similiter ipsum compositum est. Quocirca illud vere est, in quo nullus essentiae est nune 
+       <lb ed="#B" n="39"/>rus: quia nuiium in eo est aliud esse praeter id vnum quo solo est vere: vt deus vel eius diuinitas. &amp; 
+       <lb ed="#B" n="40"/>loquitur de esse eius absoluto. Et tamen licet Christus sic sit plura existentia propter essentias ex qui  
+       <lb ed="#B" n="41"/>bus est: tamen non nisi vnus existens est secundum suppositum in masculino. Vnde non oportet dicere 
+       <lb ed="#B" n="42"/>quod in Christo nuilum erit esse ab anima: ne si in ipso esset duplex esse, creatum &amp; increatum, Christus 
+       <lb ed="#B" n="43"/>non esset vnus existens: sed potius duo existentes &amp; duo supposita. Si enim vt saluetur vnitas sup 
+       <lb ed="#B" n="44"/>positi super duas naturas in Christo: oportet dicere quod in Christo non est nisi vnum esse: scilicet sup 
+       <lb ed="#B" n="45"/>positi: &amp; non aliud: cum illud esse non sit nisi respectiuum &amp; ad aliud: sicut non est in deo supposi 
+       <lb ed="#B" n="46"/>tum nisi relatiuum: neque in Christo: ergo etiam neque in deo ponendum esset aliquod esse absolutum  
+       <lb ed="#B" n="47"/>a forma diuinae existentiae, quod commune sit tribus personis diuinis: &amp; quodam modo communicatum 
+       <lb ed="#B" n="48"/>Christo secundum humanitatem sub supposito verbi: sicut neque illi dicunt in Christo fore aliquod  
+       <lb ed="#B" n="49"/>esse ab anima in composito ex anima et corpore: quid falsum est. Plane ergo patet esse falsum quod ille dicit 
+       <lb ed="#B" n="50"/>in sua quaestione: formam non semper esse principium essendi. Oportet enim ponere in Christo hu 
+       <lb ed="#B" n="51"/>manam naturam sine suo esse. aliter enim essent in ipso duae existentiae et duo existentes et duo sup 
+       <lb ed="#B" n="52"/>posita: quod totum falsum est: vt patet ex dictis. Non enim possibilius est ponere formam existere in ma 
+       <lb ed="#B" n="53"/>teria et non dare esse: quam ponere albedinem in corpore: et ipsam non dare corpori esse album. Sicut 
+       <lb ed="#B" n="54"/>ergo contradictoria implicat qui dicit albedinem esse in corpore: et corpus per eam non esse album: 
+       <!--891.xml-->
+       <pb ed="#B" n="425-v"/>
+        <lb ed="#B" n="1"/>sic contradictoria implicat qui dicit formam existere in materia: &amp; compositum per eam non esse 
+       <lb ed="#B" n="2"/>aut non existere. Non restat ergo nisi respondere ad secundum argumentum quo dicitur. Si essent 
+       <lb ed="#B" n="3"/>plura esse simul in eodem: per ordinem se haberent: &amp; vnum eorum esset perfectius altero, quod bene 
+       <lb ed="#B" n="4"/>verum est: non tamen ex hoc sequitur vt concludit quod vnum participaret altero: quia nihil esse par 
+       <lb ed="#B" n="5"/>ticipat nisi id in quo fundatur, quid est essentia rei. Cum ergo vnum esse non fundatur in altero: sed quod  
+       <lb ed="#B" n="6"/>libet in essentia sibi subiecta: vt patet ex praedeterminatis: nullo modo ex positione quae ponit plu- 
+       <lb ed="#B" n="7"/>ra esse in eodem, sequitur quod ipsum esse aliquo participet. Vel aliter dicendum: quod licet esse secundum se non  
+       <lb ed="#B" n="8"/>participet aliquo: tamen vt secundum illos ex esse &amp; essentia sit vnum compositum: illud composi- 
+       <lb ed="#B" n="9"/>tum participat esse secundo: &amp; sic in illo composito participat eo esse illud primum, quod nuilum est in  
+       <lb ed="#B" n="10"/>conueniens.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="232-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e183">
+       <head xml:id="n3av8a-d1e183-Hd1e96">Quaestio 11</head>
+       <p xml:id="n3av8a-d1e183-d1e99">
+        <lb ed="#B" n="34"/>SEquuntur pertinentia ad habitus animae. Et erant tria. Quorum primum erat de quodam ha 
+       <lb ed="#B" n="35"/>bitu disponente ad virtute. scilicet de iustitia originali. Vtrum iustitia originalis includat  
+       <lb ed="#B" n="36"/>in se aliquod bonum infusum. Secundum erat de ipsis habitibus virtutum. Vtrum cum 
+       <lb ed="#B" n="37"/>Avirtutibus acquisitis necessarium sit ponere alias infusas eis respondentes. Tertium vtrum 
+       <lb ed="#B" n="38"/>status virginalis sit super coniugalem, an econverso. 
+      </p>
+      <p xml:id="n3av8a-d1e183-d1e112">
+       CIRca primum arguitur quod origi- 
+       <lb ed="#B" n="39"/>nalis iustitia non includebat donum: quoniam nulla poena debetur homini sine peccato. 
+       <lb ed="#B" n="40"/>mors, carnis rebellio, &amp; huiusmodi poenae sunt: ergo non fuissent in homine ante peccatum: 
+       <lb ed="#B" n="41"/>sed in puris naturalibus fuisset fine peccato ergo stans in puris naturalibus mori non potuit: neque pati rebellio 
+       <lb ed="#B" n="42"/>nem. ista erant effectus originalis iustitiae. erat ergo in puris naturalibus &amp; sine dono. Contra. compositum ex con 
+       <lb ed="#B" n="43"/>trariis ex se est corruptibile &amp; necesse est corrumpi. homo in puris naturalibus corruptibilis erat: quia ex con- 
+       <lb ed="#B" n="44"/>trariis erat compositus. ergo erat corruptibilis, &amp; necesse habuit mori &amp; corrumpi. sed ex originali iustitia 
+       <lb ed="#B" n="45"/>potuit non mori. ergo erat aliquid supnaturaliter, &amp; hoc non nisi donum infusum. ergo &amp;c. Quaestio ista quaerit  
+       <lb ed="#B" n="46"/>de significato nominis quid re dicatur originalis iustitia: a. scilicet aliqua naturalis rectitudo voluntatis, in qua crea 
+       <lb ed="#B" n="47"/>ta fuit anima hominis: vel aliquid donum infusum voluntati. Et est sciendum hic in principio, quod licet originalis iustitia 
+       <lb ed="#B" n="48"/>vocetur donum istud siue includat ipsum donum: essentia tamen doni est aliquid re supe essentiam naturae in ipsa volum 
+       <lb ed="#B" n="49"/>tate: &amp; aliquae re ab ea: &amp; hoc siue ipsa potentia quae voluntas diei sit re non aliud quam substantia animae: siue sit aliquid ac 
+       <lb ed="#B" n="50"/>cidens naturaliter sibi inditum, quamquam ergo voluntas nunquam fuisset sine illo dono: intellectu tamen concipi poterat 
+       <lb ed="#B" n="51"/>ipsa voluntas fine illo. &amp; vt sic considerata cum sit fine omni peccato in pura innocentia: non potest esse in ea aliquam obliquatio 
+       <lb ed="#B" n="52"/>vitiosa, neque contraria bono moris, neque contraria bono naturae. Fuit ergo aliquid quod non erat illud donum:  
+       <lb ed="#B" n="53"/>rectitude scilicet quaedam naturalis re alia a rectitudine habita per illud donum: si tamen alia sit rectitudo 
+       <lb ed="#B" n="54"/>&amp; non eadem per illud donum contra obliquaitionem magis roborata. rectitudo autem in voluntate non sic est naturalis 
+       <!--504.xml-->
+       <pb ed="#B" n="232-r"/>
+        <lb ed="#B" n="1"/>quin voluntas in eo quod est liberi arbitrii potest seipsam obliquare &amp; obliquationem contrariae iniusti 
+       <lb ed="#B" n="2"/>tiae superinducere corrupta illa priori iustitia: quae iniustitia necessario esset vitiosa: propter quam meri 
+       <lb ed="#B" n="3"/>to damnaretur, quia vt dicit Anselu. de peccato originali ca. iii. Iniustitia nihil aliud est quam absentia debi 
+       <lb ed="#B" n="4"/>tae iustitiae. Non enim videtur esse iniustitia nisi in natura: quam cum deberet habere iustitiam, non habet. Volum- 
+       <lb ed="#B" n="5"/>tas autem illam iustitiam quam naturali dono accepit: conseruare debuit in statu purae naturae: ne eam amit- 
+       <lb ed="#B" n="6"/>teret, sicut &amp; membra corporis a nocumento custodire: et sicut peccat illa non custodiendo, neque no-  
+       <lb ed="#B" n="7"/>cumenta praecauendo: sic peccasse voluntarie se obliquando, &amp; illam naturalem iustitiam amittendo. Sicut er- 
+       <lb ed="#B" n="8"/>go ista iniustitia vere potuit dici iniustitia, similiter &amp; illa iustitia naturalis vera iustitiam potuit dici. 
+       <lb ed="#B" n="9"/>&amp; non est dubium quin originalis: quia ab origine. Originale enim vt dicit Anselus ab origine denominari du  
+       <lb ed="#B" n="10"/>bium non est. Vnde &amp; peccatum contractum in paruulis, originale pecctatum dicitur: quia descendit ab ori- 
+       <lb ed="#B" n="11"/>gine personae: licet non descendat ab origine naturae humanae, quia vt dicit Anselul origo eius iusta fuit 
+       <lb ed="#B" n="12"/>&amp; hoc illa iustitia naturali: etsi nullum donum habuisset infusum. Quantum ergo est ex natura rei non opor 
+       <lb ed="#B" n="13"/>tet quod iustitia originalis suo nomine includat aliquid donum, quod si includat, hoc procedit magis ex vsu nomi 
+       <lb ed="#B" n="14"/>nis quam ex ratione rei nominatae: cum tamen vsus nominis debeat esse rei consonus. Si ergo quaestio proponatur 
+       <lb ed="#B" n="15"/>quo ad vsum nominis: tunc de hoc non est disputandum: sed huiusmodi disputatio pertinacioribus est relinquen 
+       <lb ed="#B" n="16"/>da: &amp; inuestigandum quid vsus teneat de significato nominis, quod maxime percipere possumus considerando es- 
+       <lb ed="#B" n="17"/>fectus, &amp; defectus quos vsus praebet originali iustitiae. Magist.s in sent. libro ii. dist. xxix. cam.d i. docet quod homo 
+       <lb ed="#B" n="18"/>in statu innocentiae, &amp; originalis iustitiae indiguit gratia non solum cooperante sed etiam operante: non 
+       <lb ed="#B" n="19"/>vt liberaret a peccato: sed vt voluntatem praepararet ad volendum efficaciter bonum quod per se non poterat. 
+       <lb ed="#B" n="20"/>non enim poterat bonum mereri sine gera. Et est primum quod pertinet ad iustitiam originalem. Secundum vero est 
+       <lb ed="#B" n="21"/>quod per illam poterat homo non mori, hoc est nunquam mori. quid amisit per liberum arbitrium, vt modo neces 
+       <lb ed="#B" n="22"/>se sit eum mori, &amp; est accepturus per gratiam immortalitatem qua non poterit mori. T ertium vero est quod  
+       <lb ed="#B" n="23"/>per originalem iustitiam habuit quod potuit stare, etsi non potuit proficere. Quartum: quod iustitiae habendae  
+       <lb ed="#B" n="24"/>vel conseruandae liberum arbitrium non sufficiebat nisi diuinum adiutorium praeberetur, secundum quod haec 
+       <lb ed="#B" n="25"/>omnia declarat in eodem capitulo. Quintum de quo loquitur Anselu. de casu diaboli ca id ii. quod peccatum 
+       <lb ed="#B" n="26"/>semper cauere potuit. Primum istorum &amp; tertium quasi in idem concurrunt. si enim in statu originalis iusti 
+       <lb ed="#B" n="27"/>tiae liberum arbitrium non potuit mereri, ergo nec proficere: quia non vere proficit nisi mereatur. Et est mani 
+       <lb ed="#B" n="28"/>festum quod ista conditio congruebat iustitiae pure naturali. Quod ex hoc claret: quia ipsa in primo defectu 
+       <lb ed="#B" n="29"/>consistit: quae naturae creatae ex se congruit. De secundo autem est dubitatio: vtrum scilicet propter iusti- 
+       <lb ed="#B" n="30"/>tiam originalem pure naturalem posset homo non mori. i. semper viuere: ita quod nunquam moreretur. Et distin  
+       <lb ed="#B" n="31"/>guunt aliqui de immortalitate quae consistit in isto posse non mori: dicendo quod aliquid dicitur immorta- 
+       <lb ed="#B" n="32"/>le siue potens non mori dupliciter: quia illa potentia aut potest dicere aptitudinem remotam ad nunquam  
+       <lb ed="#B" n="33"/>moriendum, aut potest dicere dispositionem propinquam quam habet quod sic possit esse conseruare vt nun- 
+       <lb ed="#B" n="34"/>quam moriatur. Primo modo dicunt quod homo ex puris naturalibus potest non mori propter remotam na 
+       <lb ed="#B" n="35"/>turae aptitudinem ad euadendum omne genus mortis. Erat enim homo ad hoc factus vt nunquam moreretur:  
+       <lb ed="#B" n="36"/>sed illud non sufficiebat quod in puris naturalibus habebat: quia cum corpus ex se esset corruptibile 
+       <lb ed="#B" n="37"/>&amp; ab interiori &amp; exteriori, quantum est de se, illam potentiam habere non posset nisi ab anima. Sed hoc non 
+       <lb ed="#B" n="38"/>posset esse: quia anima peccatrix habens omnia sua naturalia si in simili corpore poneretur non posset ips 
+       <lb ed="#B" n="39"/>sum a morte praeseruare. Propter quid dicunt, quod talis potentia non moriendi non inerat ei nisi ex dono infu 
+       <lb ed="#B" n="40"/>so quo temperantiam elementorum in mixto perpetue conseruaret, nisi voluntas suo peccato illud do-  
+       <lb ed="#B" n="41"/>num amitteret: &amp; similiter ipsum ab omni nocumento exteriori custodiret. Et ideo dicunt quod secundo mo 
+       <lb ed="#B" n="42"/>do posse non mori non habuit nisi ex dono. 
+      </p>
+      <p xml:id="n3av8a-d1e183-d1e245">
+       SED quaero quare dispositio naturalis ad hoc non sufficie 
+       <lb ed="#B" n="43"/>bat. Pono enim hominem in pura rectitudine naturali. Ex arguo sic. Homo existens in tali dispositione na 
+       <lb ed="#B" n="44"/>turali ipsam amittere non posset sine peccato voluntatis quo se ab illa voluntarie obliquaret: vt iam di 
+       <lb ed="#B" n="45"/>ctum est secundum Anseli, sed poenam pati non posset etiam in puris naturalibus existens sine peccato, 
+       <lb ed="#B" n="46"/>sicut neque existens in dono. ergo sicut posito dono in ipso non posset mori, cum mors sit poena fine prae 
+       <lb ed="#B" n="47"/>cedenti peccato: sic nec posita pura natura: licet virtus fortior esset cum dono quam sine dono. Quali- 
+       <lb ed="#B" n="48"/>tercunque ergo conseruaret donum corpus a corruptione ab intra &amp; ab extra ipso manente: similiter &amp; 
+       <lb ed="#B" n="49"/>rectitudo naturae. nisi ponatur quod poena posset esse in homine manente ipso in puris naturalibus: licet 
+       <lb ed="#B" n="50"/>huiusmodi poena non posset dici punitio &amp; vindicta. Quo ad hanc ergo conditionem non video differenti- 
+       <lb ed="#B" n="51"/>am aliquam in vsu loquendi de originali iustitia, cum ei attribuitur ista conditio quod per eam possit ho 
+       <lb ed="#B" n="52"/>mo non mori: quin aequaliter possit intelligi pro rectitudine solius naturae vel doni cum ipsa. De quarto  
+       <lb ed="#B" n="53"/>videlicet quod iustitiae habendae vel conseruandae liberum arbitrium non sufficiebat, nisi diuinum auxilium  
+       <lb ed="#B" n="54"/>praeberetur: quaero an in illa disiunctiu a habendae vel conseruandae, partes referantur ad eandem 
+       <!--505.xml-->
+       <pb ed="#B" n="232-v"/>
+        <lb ed="#B" n="1"/>iustitias. scilicet vel pure naturalem, vel per donum habitam: vel ad diuersa: vn. scilicet ad vnam &amp; alia ad aliam. Si ad eandem, pu 
+       <lb ed="#B" n="2"/>ta ad illam quae habetur per donum: tunc quaero quomodo auxilium diuinum praebetur ad illam conseruandam, vel habendam  
+       <lb ed="#B" n="3"/>Aut idem quid ipsum est, aut aliud: cum aliud praeter donum gratis datum non sit nisi donum gratum faciens. Sine deo ergo  
+       <lb ed="#B" n="4"/>gratum faciente: de quali etiam adiutorio loquitur Magister sent, quod appellat gratiam cooperantem &amp; operam 
+       <lb ed="#B" n="5"/>tem: vt patet inspicienti literam suam: non posset haberi illud donum iustitiae originalis aut conseruari. 
+       <lb ed="#B" n="6"/>quod nullus ponit. Vnde de originali iustitia dicit Anselu. de casu diaboli cam id ii. quod eam seruare semper potu- 
+       <lb ed="#B" n="7"/>it. Nec facit mentionem quod ad hoc requiratur donum. Praeterea si illa originalis iustitia quae est ex dono non po 
+       <lb ed="#B" n="8"/>tuit sine illo adiutorio conseruari: multo minus &amp; illa quae est pure naturalis sine dono. Praeterea si non po 
+       <lb ed="#B" n="9"/>tuit dari fine illo adiutorio gratiae operantis, &amp; cooperantis: superflue daretur: quia illud adiutorium cum 
+       <lb ed="#B" n="10"/>rectitudine naturali sufficeret: sicut etiam sola sufficit post lapsum. Nisi forte dicatur quod illa rectitudo do-  
+       <lb ed="#B" n="11"/>ni directe ordinata erat ad conseruandum a morte: ad quod non erat ordinata rectitudo naturalis, neque gra- 
+       <lb ed="#B" n="12"/>tia gratum faciens. Si vero auxilium illud sit ipsa iustitia, quasi ipsa voluntas naturalis eam non pos- 
+       <lb ed="#B" n="13"/>sit habere ex se aut conseruare: adhuc ista conditio non magis pertinet ad illam quae est donum, quam ad il 
+       <lb ed="#B" n="14"/>lam quae est naturalis: quia neutrum voluntas habet nisi diuino auxilio: quia nec ipsa est fine diuino  
+       <lb ed="#B" n="15"/>auxilio: similiter nec conseruatur. 
+      </p>
+      <p xml:id="n3av8a-d1e183-d1e310">
+       SI vero haberi &amp; conseruari referuntur ad diuersas iustitias: aut er- 
+       <lb ed="#B" n="16"/>go haberi pertinet ad naturalem, conseruari ad donatam, aut econuerso. Primo modo non potest stare: quia il 
+       <lb ed="#B" n="17"/>la naturalis non magis habetur fine diuino adiutorio quam alia, vt dictum est. Non secundo modo: quia illa quae est na-  
+       <lb ed="#B" n="18"/>turalis multo minus posset conseruari fine diuino adiutorio. Et sic ista quarta conditio quantum ad su 
+       <lb ed="#B" n="19"/>um vsum non pertinet plus ad iustitiam originalem quae est ex dono: quam ad illam quae pure naturalis. Si ergo in ali 
+       <lb ed="#B" n="20"/>quo differunt vsus originalis iustitiae vno modo, &amp; alie scilicet cum dono &amp; fine dono: hoc est secundum quintam 
+       <lb ed="#B" n="21"/>conditionem: quod homo per ipsam originalem ex dono semper cauere potuit peccatum: reuera nihil habemus 
+       <lb ed="#B" n="22"/>contra hoc quod dicere possumus, si ista sit conditio originalis iustitiae, &amp; pro tali cuius est haec conditio 
+       <lb ed="#B" n="23"/>nomen assumitur: quin iustitia originalis donum gratiae ad minus gratis datae includat: quo semper posset 
+       <lb ed="#B" n="24"/>stare sine peccato: licet nunquam mereatur proficere. Etenim licet homo vt existens in ipsa naturali recti 
+       <lb ed="#B" n="25"/>tudine absque omni dono nullam haberet omnino necessitatem impellentem ad peccatum commissionis:  
+       <lb ed="#B" n="26"/>quia tamen tenebatur ex praecepto iuris naturalis ad sui custodiam ne aliquid poenale corpori obuiaret: nec 
+       <lb ed="#B" n="27"/>sufficit sibi ab omnibus praecauere, nisi per specialem custodiam, sine qua necesse tamen haberet incurrere pecca 
+       <lb ed="#B" n="28"/>tum omissionis nisi deus eum dono suo praeuenisset, aut per iustitiam originalem naturalem non fuisset 
+       <lb ed="#B" n="29"/>obligatus nisi ad ea quae per se potuisset: licet nm possit sibi praecauere a singulis ex puris naturalibus: non ta 
+       <lb ed="#B" n="30"/>men ab omnibus: sicut patet in exemplo debentis obturare foramina nauis: si tamen faceret quod in se esset, de 
+       <lb ed="#B" n="31"/>us ipsum semper dono praeueniret, aut commissum non imputaret. secundum quod de hoc alias sumus locuti. Quia 
+       <lb ed="#B" n="32"/>ergo quaeritur vtrum iustitia naturalis includat in se aliquid donum infusum: dicendum quod iustitia originalis quan 
+       <lb ed="#B" n="33"/>tum est ex natura rei potest appellari rectitudo naturalis ipsius voluntatis absque omni alio dono. &amp; sic 
+       <lb ed="#B" n="34"/>nuiium donum includit nisi seipsum. Talis. n. rectitudo est aliquid praeter substantiam &amp; essentiam volun 
+       <lb ed="#B" n="35"/>tatis. aliter enim voluntas manens non posset eam amittere: vt qualitas quaedam in quantitate spiritu 
+       <lb ed="#B" n="36"/>ali: quemadmodum rectitudo in linea est qualitas quaedam in quantitate corporali: et incuruatio est prae 
+       <lb ed="#B" n="37"/>ternaturalis, quemadmodum in virga pullulante de radice, rectitudo est ei naturalis: quia omnes natu  
+       <lb ed="#B" n="38"/>raliter crescunt in directum superius: incuruatio autem est ei praeternaturalis. Et ita respiciendo ad essen- 
+       <lb ed="#B" n="39"/>tiam voluntatis donum erat ei factum quod in tali rectitudine erat creata. vnde tenebatur eam custodire, &amp; 
+       <lb ed="#B" n="40"/>eius amissio fuit ei peccatum. Et conueniunt iustitiae originali sic dictae omnes conditiones quas sancti &amp; ma 
+       <lb ed="#B" n="41"/>gistri iustitiae originali simpliciter dictae attribuunt: praeter vltimam quae est: quod per illam homo sine alia genera 
+       <lb ed="#B" n="42"/>posset semper stare, &amp; numquam peccare. Vnde si originalis iustitia nominat id cuius est talis conditio: dico quod ne- 
+       <lb ed="#B" n="43"/>cessario donum includat: quia ad hoc natura nuda non sufficiebat, vt dictum est. Et nota quod cum originalis iusti- 
+       <lb ed="#B" n="44"/>tia donum includat, non dicitur ipsum donum praecisum ipsa originalis iustitia: quia sola eius priuatione secundum 
+       <lb ed="#B" n="45"/>intellectum staret adhuc in rectitudine naturali sicut alius qui nunquam eam habuisset: nec posset esse poe 
+       <lb ed="#B" n="46"/>na ei debita ex illius iustitiae amissione quam non pateretur ille qui eam numquam habuisset: secundum quod infra videbitur 
+       <lb ed="#B" n="47"/>in quadam quaestione. Illud autem est inconueniens. Sed donum ipsum vna cum rectitudine natura-  
+       <lb ed="#B" n="48"/>li dicitur originalis iustitia: cui opponitur iniustitia: quae consistit in carentia vtriusque: quae necessario po 
+       <lb ed="#B" n="49"/>nit in voluntate obligationem contrariam naturali rectitudini: vt originalis iniustitia dicat spoliatio-  
+       <lb ed="#B" n="50"/>nem in gratuitis: &amp; vulnerationem in naturalibus. Vnde quia originalis iustitia secundum quod includit donum neces 
+       <lb ed="#B" n="51"/>sario simul &amp; includit rectitudinem naturalim: secundum autem quod ponit tantummodo rectitudinem na 
+       <lb ed="#B" n="52"/>turalem non necessario includit donum: simplicior ergo &amp; prior naturaliter est ratio originalis iusti 
+       <lb ed="#B" n="53"/>tiae vt ponit solam naturae rectitudinem, quam vt includit donum. Quare cum esse originale secundum quod ori 
+       <lb ed="#B" n="54"/>ginale includat rationem prioris &amp; primi seu principii: simpliciter ergo &amp; absolute quantum est ex impo- 
+       <!--506.xml-->
+       <pb ed="#B" n="233-r"/>
+        <lb ed="#B" n="1"/>sitione nominis, verius dicendum est quod iustitia originalis donum aliud non includit quam illud quod est natu-  
+       <lb ed="#B" n="2"/>talis rectitudinis: licet quo ad vsum &amp; aliquis conditiones siue effectus necessario donum supernaturale in  
+       <lb ed="#B" n="3"/>fusum includit, vt dictum est. Vnde Ansel. de casu diaboli caa. vii. in fine describit originalem iustitiam 
+       <lb ed="#B" n="4"/>talibus conditionibus: quae maxime videntur conuenire ei vt consistit in pura rectitudine naturali 
+       <lb ed="#B" n="5"/>cum dicit. Iniustitiam nihil aliud esse asserimus quam priuationem iustitiae, quamdiu enim voluntas primum data rationa-  
+       <lb ed="#B" n="6"/>li creaturae &amp; simul in ipsa. datione ab ipso datore conuersa: immo non conuersa: sed facta, fuit iu- 
+       <lb ed="#B" n="7"/>sta. Cum autem se conuertit ab eo quod debuit: &amp; conuertit ad illud quod non debuit, non stetit in origi 
+       <lb ed="#B" n="8"/>nali vt ita dicam rectitudine in qua facta est. Quid autem arguitur in primo argumento quod iustitia 
+       <lb ed="#B" n="9"/>originalis erat in puris naturalibus: dicendum quod verum est secundum quod appellatur conditioquae stan  
+       <lb ed="#B" n="10"/>te posset homo non mori aut nihil pati. de qua processit obiectio. Appellando autem iustitiam origina 
+       <lb ed="#B" n="11"/>lem id cuius conditio est posse semper praeseruare a peccato: hoc modo secundum quod iam dixi puto quod  
+       <lb ed="#B" n="12"/>originalis iustitia in se donum includat. Ad secundum quod homo quantum est ex natura sua est corru 
+       <lb ed="#B" n="13"/>ptibilis: quod ergo erat incorruptibilis hoc erat ex dono: dicendum quod in homine duplex est natura, cor 
+       <lb ed="#B" n="14"/>poris scilicet &amp; animae. Quantum quidem est ex natura corporis, homo semper in omni status. scilicet innocentiae, peccati 
+       <lb ed="#B" n="15"/>gratiae: &amp; gloriae, est corruptibilis, &amp; quantum ad corporis resolutionem: &amp; per consequens quantum ad ani  
+       <lb ed="#B" n="16"/>mae separationem: &amp; semper ab alio habet suam incorruptibilitatem sicut &amp; suam glorificationem. 
+       <lb ed="#B" n="17"/>
+      </p>
+      <p xml:id="n3av8a-d1e183-d1e439">
+       QVANtum vero est ex parte animae: homo semper est incorruptibilis quantum ad animae durationem.  
+       <lb ed="#B" n="18"/>Quantum vero ad corporis resolutionem: &amp; per consequens quantum ad animae separationem, ab anima in  
+       <lb ed="#B" n="19"/>corruptibilis erat in duplici statu. scilicet innocentiae, &amp; gloriae: corruptibilis vero in statu culpae. 
+      </p>
+      <p xml:id="n3av8a-d1e183-d1e446">
+       IN sta- 
+       <lb ed="#B" n="20"/>tu innocentiae subdistinguendum est: quia per se erat corpus incorruptibile ab anima vt posset non mo 
+       <lb ed="#B" n="21"/>ri siue numquam mori: per accidens autem nequaquam. Per se autem corpus in statu innocentiae habuit ab ani  
+       <lb ed="#B" n="22"/>ma vt nunquam corrumperetur: quia per naturalem rectitudinem naturalis iustitiae corpus erat in ple- 
+       <lb ed="#B" n="23"/>na obedientia ad animam quo ad substantiam elementorum: &amp; similiter vires inferiores respectu su- 
+       <lb ed="#B" n="24"/>periorum vt vires inferiores ad nutum obedissent superioribus: nec recalcitrare potuissent si seruasset &amp; 
+       <lb ed="#B" n="25"/>seruare potuisset illam rectitudinem: &amp; quo ad substantiam elementorum singula elementa in mixto 
+       <lb ed="#B" n="26"/>erant in plena obedientia respectu animae: vt omnium eorum actionem ad nutum suum temperasset: &amp; sic 
+       <lb ed="#B" n="27"/>licet mutuo egissent, actio illa non fuisset ad aliquam corruptionem in substantia humidi radicalis aut 
+       <lb ed="#B" n="28"/>alicuius quod radicale erat in substantia elementorum primo concurrentium ad constitutionem illius mixti:  
+       <lb ed="#B" n="29"/>sed solum ad corruptionem alicuius in humido nutrimentali, &amp; eius quid erat de natura elementari 
+       <lb ed="#B" n="30"/>contractum ex nutrimento. Et hoc multum coadiuuante ad hoc virtute ligni vitae: quod tunc homo 
+       <lb ed="#B" n="31"/>accepisset in esum. Vnde anima ab initio sic corpori coniuncta est: vt numquam ab ea separaretur, quod est ei 
+       <lb ed="#B" n="32"/>naturale: &amp; separari praeternaturale. Vnde dicit <name ref="#Aristotle">philosophus</name> in fine primi de anima, quod anima conti- 
+       <lb ed="#B" n="33"/>net corpus. Per accidens autem in statu innocentiae ab anima habere non potuit vt nunquam corrumperetur: 
+       <lb ed="#B" n="34"/>quia naturalem rectitudinem ex se seruare non potuit: quia, vt dictum est, ex se non potuit semper 
+       <lb ed="#B" n="35"/>omne peccatum praecauere, &amp; peccato necesse habuit illam rectitudinem amittere. Incorruptibile au 
+       <lb ed="#B" n="36"/>tem seruare corpus nisi per rectitudinem sibi inditam, non potuit postquam inflicta est mors in poenam 
+       <lb ed="#B" n="37"/>peccati a deo. quousque enim ea seruata obediens erat suo superiori rectitudinem habitam conseruando  
+       <lb ed="#B" n="38"/>necesse erat vt sibi obedirent sua inferiora. Et statim cum facta est inobediens suo superiori: amissa 
+       <lb ed="#B" n="39"/>rectitudine illa in poenam factum est vt sibi essent inobedientia sua inferiora: quae tamen naturali- 
+       <lb ed="#B" n="40"/>ter semper obedire debuissent: &amp; necessitas moriendi est consecuta. Et sic nullo modo est simile de 
+       <lb ed="#B" n="41"/>anima peccatrice: &amp; de non peccatrice. Et quod arguitur in soluendo quod anima peccatrix habet sua natu  
+       <lb ed="#B" n="42"/>ralia omnia sicut non peccatrix: Dicendum quod verum est quo ad substantiam: non tamen quo ad  
+       <lb ed="#B" n="43"/>dispositionem a naturali creatione inditam substantiae eius: qua amissa merito inferiora facta sunt 
+       <lb ed="#B" n="44"/>inobedientia. Et licet naturaliter ipsa substantia manens posset illa sub obedientia tenere: tamen in  
+       <lb ed="#B" n="45"/>poenam ab illius obedientia sunt absoluta, &amp; mors est subsecuta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

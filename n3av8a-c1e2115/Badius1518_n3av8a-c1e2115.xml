@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 26</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 26</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="205-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2115">
+       <head xml:id="n3av8a-c1e2115-Hd1e96">Quaestio 26</head>
+       <p xml:id="n3av8a-c1e2115-d1e99">
+        <lb ed="#B" n="18"/>CIrca secundum arguitur quod intellectus de re sibi praesenti non format verbum aliud ab ipsa Q 
+       <lb ed="#B" n="19"/>quoniam propterea de deo cum est praesens intellectui creato per essentiam, non potest formari 
+       <lb ed="#B" n="20"/>aliud verbum quam sit ipse. 
+      </p>
+      <p xml:id="n3av8a-c1e2115-d1e108">
+       CONtra. diuina essentia est praesens diuino intellectui: &amp; ta 
+       <lb ed="#B" n="21"/>men de ea format verbum. 
+      </p>
+      <p xml:id="n3av8a-c1e2115-d1e113">
+       DIcendum secundum iam dicta in proxima quaestione: quod verbum 
+       <lb ed="#B" n="22"/>verum de re non est nisi vera notitia eius apud intellectum: qua res cognita si 
+       <lb ed="#B" n="23"/>cut est in rerum natura intus obiectiue lucet in ipsa intelligentia. Lucere autem potest 
+       <lb ed="#B" n="24"/>res obiectiue in ipsa intelligentia cognoscentis dupliciter: aut simplici intelligentia: aut intelligen- 
+       <lb ed="#B" n="25"/>tia collatiua. Secundo modo nulla res quasi ex se praesens est intelligentiae: quia nihil est in rebus nisi sub ratione 
+       <lb ed="#B" n="26"/>incomplexi. Sex quid sub ratione aliquam complexi praesens est intelligentiae: hoc est per eius operationem. Ita quod verbum omne intelli 
+       <lb ed="#B" n="27"/>gentiae collatiuae quodammo aliud est a re de quae concipitur. Primo modo adhuc distinguendum: quia res in  
+       <lb ed="#B" n="28"/>simplici intelligentia potest lucere aut in ea forma &amp; natura quam gerit in sua essentia: qua est illud quod  
+       <lb ed="#B" n="29"/>est: &amp; qua consistit in sua existentia: quemadmodum videt oculus colorem in pariete: aut in eius effigie: quem 
+       <lb ed="#B" n="30"/>admodum ouis imaginatur lupum in generali quadam eius effigie, vt determinata non ad hanc materiam 
+       <lb ed="#B" n="31"/>sicut videt eum visu: sed ad rationem situs &amp; vbi: a quibus abstrahit intellectus effigiem per quam omnem lupum co 
+       <lb ed="#B" n="32"/>gnoscit cum ei occurrit. Primo modo intellectus noster nihil in mundo cognoscit per essentiam cogni- 
+       <lb ed="#B" n="33"/>ti vt est in corpore secundum statum vitae praesentis: quia non cognoscit nisi vniuersale in phantasmate vt ob  
+       <lb ed="#B" n="34"/>iectum per se &amp; primum: &amp; nisi ex reflexione non cognoscit singularia vt in phantasmate ad modum  
+       <lb ed="#B" n="35"/>quo in secundo modo praedicto cognoscuntur absentia ab imaginatiua ouis: non autem ad modum quo cognoscum 
+       <lb ed="#B" n="36"/>tur sensibilia extra a sensu particulari. Ita quod est difficile discernere quando singularia intelligimus &amp; 
+       <lb ed="#B" n="37"/>quando ea imaginamur. Vnde quae propria phantasmata non habent, per se a priori illa nullo modo cognoscit 
+       <lb ed="#B" n="38"/>sed a posteriori &amp; per effectus sensibiles: sicut cognoscit deum &amp; seipsum: et ea quae modo per essentiam suam 
+       <lb ed="#B" n="39"/>sunt in ipso. Quare cum illud quod de rebus concipit non est nisi effigies generalis vel secundum conditiones 
+       <lb ed="#B" n="40"/>particulares quae sunt hic &amp; nunci: vel vt abstractum ab eis: non autem id quod est secundum esse particulare 
+       <lb ed="#B" n="41"/>in materia determinata: igitur de intellectum nostro planum est quod nihil sibi habet praesens per essentiam vt obie 
+       <lb ed="#B" n="42"/>ctum cognitum secundum modum quo in se existit sub esse particulari extra. Et sic quicquid cognoscit de re particulari, 
+       <lb ed="#B" n="43"/>non cognoscit nisi in effigie vel particulari vt existit in phantasmate iuxta secundum modum praedictum, alia quodam  
+       <lb ed="#B" n="44"/>modo a re ipsa. Et sic de omnibus quae sunt in rebus format intellectus noster verbum aliud ab eis. Intellectus autem ange- 
+       <lb ed="#B" n="45"/>li sicut &amp; noster quoniam intelligit separatus vel coniunctus absque adminiculo phantasmatis intelligit res sibi 
+       <lb ed="#B" n="46"/>praesentes per ipsarum rerum formas &amp; essentias. Sed de ipsis rebus aliis a deo duplicem habet cognitio- 
+       <lb ed="#B" n="47"/>nem. Cognoscit enim circa res primo aliquid sicut eius obiectum primum &amp; per se cuiusmodi est quiditas vniuer- 
+       <lb ed="#B" n="48"/>salis cuiusque rei. Secundo cognoscit aliquid circa res sicut eius obiectum secundarium: cuiusmodi est forma 
+       <lb ed="#B" n="49"/>rei singularis. Primo modo cognoscit res quae praesentes ei non sunt nisi in suo vniversal: sicut est nunc cognoscimus res 
+       <lb ed="#B" n="50"/>in suo vniversal: licet vt existente in phantasmate. Scundo modo sunt ei praesentes in suis formis, propriis. Primo ei modo res co 
+       <lb ed="#B" n="51"/>gnoscit in vniuersali cognoscendo earum quiditates &amp; essentias ex innatis habitibus secundum quod supra est expo 
+       <lb ed="#B" n="52"/>situm in quaestione de notitia angelorum. Quas nos pro statu praesenti non cognoscimus, nisi per abstractio 
+       <lb ed="#B" n="53"/>nem huiusmodi vniuersalis a phantasmatibus: non autem per habitus propter materialitatem nostri intelle- 
+       <lb ed="#B" n="54"/>ctus: inquantum est inferioris gradus naturae quam sit intellectus angelicus. Secundo modo cognoscit eas 
+       <!--451.xml-->
+       <pb ed="#B" n="205-v"/>
+        <lb ed="#B" n="1"/>in singulari cognoscendo formas entium singularium in ratione sui vniversalis: inquantum quid quid est &amp; vel rei vi 
+       <lb ed="#B" n="2"/>det in eius natura particulari in qua est idem quid ipsa, secundum modum supra determinatum. Si ergo loqua  
+       <lb ed="#B" n="3"/>mur de rei praesentia primo modo: sic omnia sunt intellectui separato praesentia in suis quiditatibus vniversalbus etiam 
+       <lb ed="#B" n="4"/>antequam sint in existentia rerum: &amp; sicut in illis sunt ei praesentia, sic in vniversal cognoscit ea in illis. Et quia ipsum  
+       <lb ed="#B" n="5"/>vel essentialiter est in ipso praesens ei vt obiectum cognitum quod informat eius actum: &amp; tale verbum intellectus 
+       <lb ed="#B" n="6"/>est inquantum huiusmodi: ideo dico quod nec de quiditatibus rerum vniversalbus nec de rebus vt in ipsis sunt, &amp; cognoscum 
+       <lb ed="#B" n="7"/>tur in vniversal, format verbum aliud ab eis nisi quo ad hoc quod actus intelligendi &amp; etiam potentia intellecti- 
+       <lb ed="#B" n="8"/>ua pertinent ad perfectam verbi rationem, vt dictum est in praecedenti quaestione, quae quia alia sunt ab ip- 
+       <lb ed="#B" n="9"/>sis rebus intellectis, de ipsis format aliud verbum ab eis. Loquendo autem de isto modo praesentialitatis 
+       <lb ed="#B" n="10"/>nuiium singulare creaturae est praesens intellectui vt obiectum cognitum: quia nullum singulare potest esse eius 
+       <lb ed="#B" n="11"/>obiectum per se &amp; primo cognitum ab eo: et ideo distinguendo rationem vniversalis contra rationem particularis 
+       <lb ed="#B" n="12"/>cum isto modo cognoscit, non cognoscit singulare nisi in suo vniversal. Non ergo ipsum cognoscit nisi in verbo 
+       <lb ed="#B" n="13"/>alio a se. Vnde nec etiam suam, propriam essentiam primo &amp; per se vt obiectum primum &amp; per se sui intellectus 
+       <lb ed="#B" n="14"/>cognoscit nisi in vniuersali. Et ita non nisi verbum aliud a se, sicut cognoscit alia a se. vt in hoc nulla sit 
+       <lb ed="#B" n="15"/>differentia in cognoscendo se &amp; cognoscendo alia a se. Si vero loquamur de rei praesentia secundo modo  
+       <lb ed="#B" n="16"/>sic omnia sunt intellectui separato praesentia in eorum singulari &amp;, propria essentia: sed per rationem sui 
+       <lb ed="#B" n="17"/>vniuersalis per se obiecti sui quod in illis videt: &amp; in illius ratione illa cognoscit, vt determinatum est in quae  
+       <lb ed="#B" n="18"/>stione de locutione angelorum. Et sic, proprias rerum essentias et naturas cognoscit vt sibi obiectas per hoc 
+       <lb ed="#B" n="19"/>quod habent in se rationem ipsius vniversalis. Et sicut sunt ei obiecta, sic sunt ei praesentia vt cognoscenti. Ita quod  
+       <lb ed="#B" n="20"/>inquantum huiusmoni non format de eis verbum aliud ab eis nisi ratione actus intelligendi &amp; potentiae 
+       <lb ed="#B" n="21"/>intellectiuae: inquantum cadit in ratione verbi, vt dictum est. Sic enim intellectus angelicus per essentiam rei si 
+       <lb ed="#B" n="22"/>bi praesentem determinatur ad ipsam intelligendam. Et sic secundum quod res sunt in esse singulari cognitae, in  
+       <lb ed="#B" n="23"/>tellectus de ipsis non format aliquod verbum re differens ab ipsis. vt in hoc nulla sit differentia prae 
+       <lb ed="#B" n="24"/>sentialitatis in formando verbum in quo intelligit siue seipsum, siue illa quae per existentiam essentiae suae 
+       <lb ed="#B" n="25"/>sunt extra ipsum. 
+      </p>
+      <p xml:id="n3av8a-c1e2115-d1e246">
+       NEC est in hoc differentia in cognoscendo alia &amp; deum nude per essentiam suam 
+       <lb ed="#B" n="26"/>nisi quod singularitas diuinae essentiae nunquam cognoscitur in vniversal proprio neque in singularitate sua sub ratio 
+       <lb ed="#B" n="27"/>ne alicuius vniversalis: quia non habet eam sicut habent omnes creaturae, vt alibi exposuimus. Et sic sola diui 
+       <lb ed="#B" n="28"/>na essentia ratione singularitatis suae intellectum proprium &amp; creaturae potest mouere. Essentia autem  
+       <lb ed="#B" n="29"/>creaturae secundum rationem singularitatis suae vt per se &amp; primum obiectum nuilum intellectum potest 
+       <lb ed="#B" n="30"/>omnino mouere. 
+      </p>
+      <p xml:id="n3av8a-c1e2115-d1e260">
+       QVOD ergo arguitur primo de deo: Dicendum quod non est simile de ipso &amp; de rebus aliis 
+       <lb ed="#B" n="31"/>quoniam, vt dictum est: ipse non est nisi singularitas quaedam non habens rationem vniversalis sicut habet omnis crea- 
+       <lb ed="#B" n="32"/>tura, propter quid aut non intelligitur aut sua singularitas est per se &amp; primo propriaratio qua intelli 
+       <lb ed="#B" n="33"/>gatur: ita quod ex nullo habitu scientiali habet cognosci. propter quod intelligens eum nullo alio verbo con 
+       <lb ed="#B" n="34"/>cipit eum. Vnde quia verbum complexum, vt dictum est, quodammodo aliud est are dequa formatur cum 
+       <lb ed="#B" n="35"/>deus in sua nuda essentia videtur aut intelligitur: ex tali visione nullo verbo complexo concipi potest: sed  
+       <lb ed="#B" n="36"/>tantummodo simplici intelligentia: qua simplici intuitu repraesententur ipsa &amp; quod in ea intelligitur: licet viso ver 
+       <lb ed="#B" n="37"/>bo intellectu naturalis intelligentiae possit formare verbum complexum de his quae videt in diuina essentia 
+       <lb ed="#B" n="38"/>siue sint attributa diuinae essentiae, siue alia. Caetera autem omnia vt omnes creaturae non nisi sub ratione vniversalis in  
+       <lb ed="#B" n="39"/>telliguntur in sua singularitate. Et ideo non solum verbum complexum possunt habere aliud a se, sed incomplexum 
+       <lb ed="#B" n="40"/>quodammo, vt visum est. Ex quo patet: quod multum alio &amp; alio modo intelligitur diuina essentia quam creaturae 
+       <lb ed="#B" n="41"/>&amp; quod multo simplicior sit eius conceptus: ita quod nullius rei cognitio completur nisi reducatur ad cognitionem 
+       <lb ed="#B" n="42"/>diuinae essentiae vt in ipsa cognoscatur: ita etiam quod perfectio intellectualis creaturae quae consistit in sua operatione 
+       <lb ed="#B" n="43"/>intellectuali perfici non potest omnia alia cognoscendo in propriis formis: sed solum ea cognoscendo in simplici 
+       <lb ed="#B" n="44"/>intuitu diuinae essentiae: cum. scilicet omnem nostram scientiam vno simul intuitu videbimus: sicut dicit Augs xi. 
+       <lb ed="#B" n="45"/>de trinitate capitulo xvi. vt ipsa diuina essentia sit seipsa informans actum nostrum intelligendi: &amp; per hoc sit ver 
+       <lb ed="#B" n="46"/>bum conceptum in nobis, &amp; forma intellectus nostri in ipso per actum intelligendi expressa licet non impressa. Quid  
+       <lb ed="#B" n="47"/>anquam continget perfecte ei similes esse non possumus. secundum quoddicit <name ref="#Augustine">Augustinus</name> xv. de trinitate catulo xvi. Illud quo  
+       <lb ed="#B" n="48"/>que fatendum est quod similes ei erimus quando videbimus eum sicuti est: quod vtique qui dixit, hanc proculdubio quae nunc est 
+       <lb ed="#B" n="49"/>dissimilitudinem attendit. &amp; subdit dicens. Tum cum hoc fuerit, formata erit creatura. scilicet potentia intelle- 
+       <lb ed="#B" n="50"/>ctus nostri &amp; eius actus intelligendi, quae formabilis fuit, vt nihil desit eius formae ad quam peruenire de 
+       <lb ed="#B" n="51"/>beret: ad quam reminiscendam, videndam, diligendam, vt eam recordetur, eam contempletur, in eam 
+       <lb ed="#B" n="52"/>delectetur debeat homo referre totum quod viuit: vt sic diuina essentia non cognoscatur nisi seipsain  
+       <lb ed="#B" n="53"/>mediate informante actum conceptus nostri. Ita quod de ipsa nuilum verbum aliud ab ipsa concipimus 
+       <lb ed="#B" n="54"/>nisi quo ad hoc quod actus conceptus nostri inquantum pertinet ad verbum nostrum, aliud est ab ipsa. 
+       <!--452.xml-->
+       <pb ed="#B" n="206-r"/>
+        <lb ed="#B" n="1"/>Nullum etiam aliorum perfecte cognoscitur nisi verbo: quod non ipsum sed ipsa diuina essentia est inquantum  
+       <lb ed="#B" n="2"/>est forma actus &amp; intellectus nostri, vt dictum est. Ad secundum quod de diuina essentia praesente menti diuinae  
+       <lb ed="#B" n="3"/>formatur verbum aliud a se quodammodo: Dicendum quod secundum praedicta tunc dicitur de re formari ver- 
+       <lb ed="#B" n="4"/>bum aliud ab ea quando obiectum actum intelligendi informans in quo concipitur, non est penitus id quod ipsa. &amp; per 
+       <lb ed="#B" n="5"/>hoc dei formare de ea verbum quid sit aliud ab ipsa. Quare cum actus intelligendi in deo qui non est nisi essen- 
+       <lb ed="#B" n="6"/>tialis toti trinitati, non informetur nisi ipsa diuina essentia, de ipsa in actu intelligendi dei vt est for 
+       <lb ed="#B" n="7"/>ma actus intelligendi non concipitur aliud verbum quam sit ipsa. Propter formam autem argumenti sciendum est quod ver 
+       <lb ed="#B" n="8"/>bum formari de re aliqua, contingit intelligi dupliciter: vel obiectiue, vel subiectiue. Obiectiue formatur 
+       <lb ed="#B" n="9"/>verbum de re, quia ipsa res est forma verbi quod est compositum ex actu intelligendi &amp; obiecto vel ex vtro 
+       <lb ed="#B" n="10"/>que cum potentia intellectiua. Subiectiue formatur verbum de re quando res ipsa est quasi materia circa quam 
+       <lb ed="#B" n="11"/>intellectus operatur actione sua verbum producendo. Primo modo diuina essentia inquantum ha 
+       <lb ed="#B" n="12"/>bet rationem intellectus secundum rationem nostri intellectus quodammodo rationem quasi verbi essentialis 
+       <lb ed="#B" n="13"/>habet: licet ex hoc proprie non possit dici verbum: eo quod verbum in diuinis non est nisi personale. Et in tali intel 
+       <lb ed="#B" n="14"/>lectu etiam est considerare rationem memoriae &amp; intelligentiae: quia ipsa diuina essentia inquantum sibi sem 
+       <lb ed="#B" n="15"/>per est praesens, sibiipsi est memoria ad mouendum vt intelligat seipsam suam essentiam. Et hoc modo for 
+       <lb ed="#B" n="16"/>mando verbum intelligimus quod de eo quid praesens est obiectiue intellectui, non formatur aliud verbum a se. Ta 
+       <lb ed="#B" n="17"/>li autem quod in intellectu diuino modo praedicto habet quasi rationem verbi essentialis, proportionale est in  
+       <lb ed="#B" n="18"/>nobis verbum simplicis intelligentiae in concipiendo rerum quiditates vniuersales: de quibus non forma 
+       <lb ed="#B" n="19"/>tur verbum aliud ab ipsis. Secundo modo de diuina essentia formatur verbum personale in diuina in-  
+       <lb ed="#B" n="20"/>telligentia: quae est dei trinitatis: sed vt est dei patris actu dicendi siue conceptu dictiuo producendo perso- 
+       <lb ed="#B" n="21"/>nam, quod quidem dicere licet sit actio intellectualis personae scilicet patris: non tamen est ipsum intelligere: quia in-  
+       <lb ed="#B" n="22"/>telligere non est nisi essentiale: dicere vero non nisi personale: licet non sit fine intelligere subtracto: quem 
+       <lb ed="#B" n="23"/>admodum in nobis componere diuidere ratiocinari conferre discurrere &amp; huiusmodi: licet sint actus intel- 
+       <lb ed="#B" n="24"/>lectus nostri: non tamen proprie dicuntur esse intelligere quaedam. Dicitur enim huiusmodi actio intellectus pro  
+       <lb ed="#B" n="25"/>prie cogitatio quasi cogitatio quaedam est siue voluntatio, vt dicit <name ref="#Augustine">Augustinus</name> xv. de trinitate calo xvi. Intel- 
+       <lb ed="#B" n="26"/>ligere proprie est quaedam cogitationis informatio postquam peruenerit ad id quod scitur, vt dicit ca. xxi. et ha 
+       <lb ed="#B" n="27"/>bitum est supra. Vnde sicut actio cogitationis intellectus nostri praesupponit, vt patet ex praedictis, actum 
+       <lb ed="#B" n="28"/>intelligendi simplicis intelligentiae: &amp; cogitando negotiatur circa simplicia intellecta quousque perue- 
+       <lb ed="#B" n="29"/>niatur ad id quod scitur: quo peruento de ipsis simplicibus concipit intellectus verbum complexum quo  
+       <lb ed="#B" n="30"/>sit cogitatio quaedam formata illo verbo vt est obiectum intellectus: quae cogitatio non est nisi intelligere 
+       <lb ed="#B" n="31"/>illud verbum quod informat illum actum intelligendi: &amp; in quo existunt &amp; intelliguntur ipsa simplicia: sic 
+       <lb ed="#B" n="32"/>actio dicendi patris quasi praesupponit actum intelligendi a patre ipsam diuinam essentiam: &amp; dicen 
+       <lb ed="#B" n="33"/>do quasi operatur circa ipsam diuinam essentiam vt verbum concipiatur de ipsa essentia quasi peruen 
+       <lb ed="#B" n="34"/>to ad id quod scitur. Hoc ergo modo formandi verbum de illo quod est praesens obiectiue intellectui secundum 
+       <lb ed="#B" n="35"/>rem bene formatur verbum quodammodo aliud a se. vnde &amp; tali verbo personali in deo proportio- 
+       <lb ed="#B" n="36"/>nale est in nobis verbum complexum per intelligentiam collatiuam conceptum: quid est quodammodo aliud  
+       <lb ed="#B" n="37"/>a rebus ipsis simplici intelligentia comprhensis, quid postquam conceptum est mouet intellectum vt obiectum 
+       <lb ed="#B" n="38"/>cognitum in quo cognoscuntur ipsa simplicia: vt in nobis intellectus simplicium respondeat intellectui 
+       <lb ed="#B" n="39"/>essentiae diuinae a patre, quem praesupponit dicere. Actus vero cogitandi collatiuus respondet ei quod est di 
+       <lb ed="#B" n="40"/>cere patris praeter hoc quod dicere dei nunquam est neque intelligi potest aut debet sicut aliquid informe 
+       <lb ed="#B" n="41"/>quod tendit ad formationis: sicut est nostra cogitatio discursiua. Verbum vero conceptum ex 
+       <lb ed="#B" n="42"/>collatione respondet verbo patris: &amp; maxime quando verbum nostrum ex collatione simplex est vt 
+       <lb ed="#B" n="43"/>ipsum quod quid est quod est declaratiuum definiti sicut verbum patris essentiae diuinitatis. Prae 
+       <lb ed="#B" n="44"/>ter hoc quod verbum nostrum formabile est antequam formatum: non sic verbum dei, dicente <name ref="#Augustine">Augustinus</name> xv. de 
+       <lb ed="#B" n="45"/>trini. ca. xvi. Verbum dei sine cogitatione dei debet intelligi vt forma ipsa simplex intelligatur non ali 
+       <lb ed="#B" n="46"/>quid habens formabile quid etiam esse posset informe. Vnde de verbo formato in nobis perfecte in pa- 
+       <lb ed="#B" n="47"/>tria in aperta dei visione vt amplius perfici non poterit, vt dictum est supra: ita vt fortasse sicut di  
+       <lb ed="#B" n="48"/>cit ibidem <name ref="#Augustine">Augustinus</name> non erunt volubiles cogitationes: sed omnem scientiam nostram simul vno conspectu vi 
+       <lb ed="#B" n="49"/>debimus, vt secundum hoc nulla sit ibi informis cogitatio sed tantum actum formata: comparando illud  
+       <lb ed="#B" n="50"/>ad verbum dei continuo dicit. Cum hoc fuerit et si hoc fuerit formata erit creatura quae formabilis fuit: 
+       <lb ed="#B" n="51"/>vt iam nihil desit eius formae ad quam peruenire debet. Sed tamen coaequanda non erit est illi simplicita- 
+       <lb ed="#B" n="52"/>ti vbi non formabile aliquid formatum vel reformatum est, sed forma neque informis neque formata. Ex quo  
+       <lb ed="#B" n="53"/>est aduertendum: quod cum, vt dictum est supra, perfectissima ratio verbi quod in nobis est comprehendit 
+       <lb ed="#B" n="54"/>intelligentia cum suo actu intelligendi informatos obiecto: &amp; tota memoria respondeat personae patris:  
+       <!--453.xml-->
+       <pb ed="#B" n="206-v"/>
+        <lb ed="#B" n="1"/>sicut ergo in productione verbi dei actus dicendi proprius est patri: sic in formatione verbi nostri per 
+       <lb ed="#B" n="2"/>fecti totus discursus &amp; actus intelligendi in discurrendo debet attribui memoriae: vt solummo di-  
+       <lb ed="#B" n="3"/>catur esse actus intelligentiae intelligere formata cogitatione. Et sic quid supra determinatum est, quod intel 
+       <lb ed="#B" n="4"/>lectus nosteractiue se habet ad verbum formandum: hoc non intelligatur de intellectu vt est intelligen 
+       <lb ed="#B" n="5"/>tiae: sed solummodo vt est memoriae. Ita quod intellectus intelligentiae vt intelligentia est, non nisi pas 
+       <lb ed="#B" n="6"/>siue dicatur se habere ad verbum nostrum. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

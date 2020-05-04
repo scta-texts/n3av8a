@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="594-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5733">
+       <head xml:id="n3av8a-c1e5733-Hd1e96">Quaestio 16</head>
+       <p xml:id="n3av8a-c1e5733-d1e99">
+        <lb ed="#B" n="49"/>Irca Quartum &amp; vltimum arguitur: quod miles praeuolans in exercitum hostium, non facit 
+       <lb ed="#B" n="50"/>opus magnanimitatis sic. vbi fugiens bene facit vitam suam saluans, male facit 
+       <lb ed="#B" n="51"/>in hostes irruens vt occidatur, sed nuper Sarracenis hostibus Christianorum de 
+       <lb ed="#B" n="52"/>uastantibus ciuitatem Acconenm. bene fecerunt qui fugerunt vitam suam saluam 
+       <lb ed="#B" n="53"/>tes: ergo miles ille, qui aliis fugientibus in exercitum Sarracenorum irruit prae- 
+       <lb ed="#B" n="54"/>uolans, &amp; occisus est, male fecit. sed factum malum non est opus magnanimi- 
+       <!--1229.xml-->
+       <pb ed="#B" n="594-v"/>
+        <lb ed="#B" n="1"/>tatis, cum magnanimitas virtus sit. et secundum Augustinum, virtutibus non contingit male vti, neque  
+       <lb ed="#B" n="2"/>ad agendum malum opus. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5733-d1e123">
+       CONtra est: quod scribitur Canti. vltimo. Fortis est vt mors 
+       <lb ed="#B" n="3"/>dilectio. &amp; hoc ideo, quia zelanter diligens pro dilecto in necessitatis articulo mortem contemnit, &amp; 
+       <lb ed="#B" n="4"/>illi se exponit, quod est opus magnanimitatis. talis est ille miles praeuolans operatus ponendo animam suam 
+       <lb ed="#B" n="5"/>pro amicis suis in fide &amp; charitate, quod est opus maximae charitatis: &amp; ita maximae virtutis in agibili 
+       <lb ed="#B" n="6"/>gus, quae consistit in magnanimitate. ergo &amp;c. I Quia ista quaestio tangit, &amp; in exemplum proponit captionem 
+       <lb ed="#B" n="7"/>subuersionem, atque destructionem ciuitatis Acconenm atque Christianorum, &amp; incolarum eiusdem: de qui-  
+       <lb ed="#B" n="8"/>bus mentionem facit dominus papa in litera exhortatoria, de qua mentio habita est supra in quaestio- 
+       <lb ed="#B" n="9"/>ne de indulgentiis, sic inquiens. Ciuitas Acconensis quadragintaquatuor diebus arctissima Baby 
+       <lb ed="#B" n="10"/>lonicae potentiae obsidione circundata, terribilibus machinis die noctuque vexata, impetita crebris &amp; 
+       <lb ed="#B" n="11"/>duris insultibus: mcenibus puiis &amp; per cuniculos occultos excisis. xliiii. die obsidentium viribus dei permis- 
+       <lb ed="#B" n="12"/>sione mirabili &amp; stupenda succubuit: capta per eos &amp; igni exposita: christicolis inibi existentibus 
+       <lb ed="#B" n="13"/>caesis innumeris, &amp; caeteris, qui habere nequiuerunt ad maritima vasa succursum, in captiuitatem abdu-  
+       <lb ed="#B" n="14"/>ctis. Quae quidem facta narrantur anno domini. M. cc. nonagesimo primo. x. die mensis maii. In qua ciuitate, vt 
+       <lb ed="#B" n="15"/>aestimo, congregati erant non tantum populares, &amp; simplices: sed est praelati &amp; principes. Idcirco quaestionem pau 
+       <lb ed="#B" n="16"/>lo altius subleuando, bellorum celebritatem paulo altius, quam quaestio proponat, exequamur: dicendo in primis cum 
+       <lb ed="#B" n="17"/>Tullio in libro primo de offi. sic dicente. In republica maxime conseruanda sunt iura belli. Nam cum sint duo  
+       <lb ed="#B" n="18"/>genera decertandi: vnum per disceptationem: alterum per vim, cumque illud proprium sit hominium, hoc beluarum. confu- 
+       <lb ed="#B" n="19"/>giendum ad posterius si vti non licet superiori. Et sic illi quipotest ius suum iam habitum retinere, aut amissum si 
+       <lb ed="#B" n="20"/>ue nondum hintum recuparare, non licet pro illo bellum constituere. Quare vt idem prosequitur continuo, suscipienda quidem 
+       <lb ed="#B" n="21"/>sunt bella ob eam causam, vt sine iniuria in pace viuatur. &amp; vt dicit <name ref="#Augustine">Augustinus</name> in epistola ab Bonifacium comitem, Bellum 
+       <lb ed="#B" n="22"/>debet esse necessitatis, vt liberet deus de necessitate, &amp; conseruet in pace. Non enim quaeritur pax, vt bellum 
+       <lb ed="#B" n="23"/>exerceatur: sed bellum geritur vt pax acquiratur. Esto ergo bellando pacificus, vt eos quos expugnas, ad pacis vti 
+       <lb ed="#B" n="24"/>litatem vicendo perducas. ita quod hostem pugnantem necessitas deprimat, non voluntas. Sicut bellanti &amp; resistenti 
+       <lb ed="#B" n="25"/>violentia redditur, ita capto misericordia iam debetur: maxime in quo pacis prturbatio non timetur. Quod Tul- 
+       <lb ed="#B" n="26"/>lius per alia verba continuo dicit vbi supra. Parta autem victoria conseruandi sunt ii, qui non crudeles in bello 
+       <lb ed="#B" n="27"/>nec immanes fuerunt. Mea quidem sententia paci, quae nihil habitura sit insidiarum, semper est consulendum, tum ii qui ar 
+       <lb ed="#B" n="28"/>mis positis ad imparatorum fidem confugient, quamuis murum aries percusserit, recipiendi sunt. Ex quo(ut dicit 
+       <lb ed="#B" n="29"/>Tullius paucis interpositis intelligi potest nullum bellum esse iustum, nisi quid aut rebus repetitis geratur, aut de 
+       <lb ed="#B" n="30"/>nunciatum ante sit, &amp; indictum. De quo dicit lsido. in etymo. lustum est bellum, quid ex edicto de rebus repetendis 
+       <lb ed="#B" n="31"/>geritur aut propulsandorum hostium cam. Et <name ref="#Augustine">Augustinus</name> in libro quaestionum. lusta bella solent definiri quae vlciscuntur iniurias 
+       <lb ed="#B" n="32"/>sic gens vel ciuitas petenda est, quae vel vindicare neglexerit quid a suis improbe factum est, vel reddere, quid per  
+       <lb ed="#B" n="33"/>iniurias ablatum est. Sed vt dicit <name ref="#Augustine">Augustinus</name> contra Manicheos, nocendi cupiditas, vlciscendi crudelitas, impla- 
+       <lb ed="#B" n="34"/>catus, atque implacabilis animus, feritas debellandi, libido dominandi: &amp; siqua similia, haec sunt quae in bellis iure 
+       <lb ed="#B" n="35"/>culpantur. Et vt sequitur ibidem post pauca, ordo ille naturaliter mortalium paci accommodatus hoc poscit 
+       <lb ed="#B" n="36"/>vt suscipiendi belli auctoritas, atque consilium penes principes sit. Sed, vt ait Tullius vbi supra incap. de for 
+       <lb ed="#B" n="37"/>titudine. Ea animi elatio, quae cernitur in pariculis &amp; laboribus: si iustitia vacat, pugnatque non pro salute communi, 
+       <lb ed="#B" n="38"/>sed propriis commodis, in vitio est. Non enim modo id virtutis non est, sed potius immanitatis omnem humanita 
+       <lb ed="#B" n="39"/>tem repellentis. Vt autem descendamus ad propositum, de bello iusto est distinguendum, quia aut est ad recuperandum  
+       <lb ed="#B" n="40"/>bona iniuste ablata: de quo nihil ad praesens, aut est. ad repellendum iniuriam qua nituntur hostes bello bona 
+       <lb ed="#B" n="41"/>auferre, puta, vitam, patriam, libertatem, leges, &amp; caetera bona, siue spiritalia, quale bellum instruxerunt Sarrace 
+       <lb ed="#B" n="42"/>ni contra Acconen: in quo mortuus est miles de quo quaestio nia proposita est, vtrum irruendo praeuolanter in Sar 
+       <lb ed="#B" n="43"/>racenos fecit opus magnanimitatis. Et dico quod magnanimitas est pars fortitudinis, &amp; virtus quae versatur 
+       <lb ed="#B" n="44"/>circa opera magna &amp; ardua. dicente <name ref="#Aristotle">philosopho</name> in iiii. Ethi. Magnanimitas circa magna ex nomine videtur esse: sed  
+       <lb ed="#B" n="45"/>tamen non omne opus magnum pertinens de genere suo ad fortitudinem est opus magnanimitatis: nisi sit ex 
+       <lb ed="#B" n="46"/>habitu virtutis non ex praesumptione aliqua, aut cupiditate, vt cum magnanimitas fortitudo quaedam sit, &amp; 
+       <lb ed="#B" n="47"/>alias fortitudo non sit virtus, vt pater ex iam dictis. Vnde &amp; Tullius post dicta, proxime praecedentia continuo  
+       <lb ed="#B" n="48"/>addit, dicens. Itaque probe definitur a stoicis Fortitudo, cum eam virtutem esse dicunt, pugnantem pro aequi-  
+       <lb ed="#B" n="49"/>tate. Quocirca nemo qui fortitudinis gloriam consequutus est, infidiis &amp; malitia laudem est adeptus. Ni 
+       <lb ed="#B" n="50"/>hil. enim honestum potest esse quod iustitia vacat. Praeclarum igitur Platonis illud. Non solum (inquit) scientia. 
+       <lb ed="#B" n="51"/>quae est remota a iustitia, calliditas potius quam sapientia est appellanda: verunetiam animus paratus ad peri- 
+       <lb ed="#B" n="52"/>culum si sua cupiditate non vtilitate commni impellitur, audaciae potius, quam fortitudinis nomen habet. Itaque viros 
+       <lb ed="#B" n="53"/>fortes &amp; magnaimos, eosdem bonos, &amp; simplicis virtutis amicos, minimeque fallaces esse volumus, qui sunt 
+       <lb ed="#B" n="54"/>ex media laude, iustitiae. &amp; infra. Omnino fortis animus &amp; magnus duabus rebus maxime cernitur, 
+       <!--1230.xml-->
+       <pb ed="#B" n="595-r"/>
+        <lb ed="#B" n="1"/>quarum vna in rerum externarum despicientia ponitur: altera, vt res geras magnas, &amp; maxime vti 
+       <lb ed="#B" n="2"/>les, arduas, plenasque laborum, &amp; periculorum &amp;c. Quamquam ergo factum militis nostri arduum fuit &amp; ma 
+       <lb ed="#B" n="3"/>gnum, quia circa mortis periculum, atque terribile, circa quid maxime consistit fortitudo: dicente <name ref="#Aristotle">philosopho</name> 
+       <lb ed="#B" n="4"/>in tertio Ethi. Circa qualia igitur terribilia fortis, vel circa maxima: terribilissimum autem mors 
+       <lb ed="#B" n="5"/>est: terminus enim est: non tamen ex hoc sequitur, quod fuit opus fortitudinis, seu magnanimitatis, aut 
+       <lb ed="#B" n="6"/>alicuius virtutis, si forte illud aggressus est ex praesumptione, aut ambitione gloriae, aut cupiditate alia, 
+       <lb ed="#B" n="7"/>aut forte temere, &amp; inconsulte, quod videtur innuere ipsa quaestio in eo quod dicit militem praeuolasse. Si enim ita fuis 
+       <lb ed="#B" n="8"/>set, non opus virtutis, &amp; ita nec fortitudinis, nec magnanimitatis fuit. Vnde de modo aggrediendi fa 
+       <lb ed="#B" n="9"/>cta magnanimitatis, dicit Tullius post praedicta. Ad rem autem gerendam qui accedit, caueat ne 
+       <lb ed="#B" n="10"/>id modo consideret, quam illa res fonesta sit, sed etiam vt habeat efficiendi facultatem. In quo ipso consideran-  
+       <lb ed="#B" n="11"/>dum ne aut temere desperet propter ignauiam, aut nimis confidat propter cupiditatem. &amp; infra. 
+       <lb ed="#B" n="12"/>Omnino enim illud honestum, quid ex animo excelso, magnificoque quaerimus, animi efficitur non corporis viri 
+       <lb ed="#B" n="13"/>bus: exercendum tamen corpus, &amp; ita afficiendum est, vt obedire consilio, rationique possit in exequendis 
+       <lb ed="#B" n="14"/>negotiis, &amp; in laboribus tolerandis. &amp; infra. Quare expetenda quidem magis est discernendi ratio, quam 
+       <lb ed="#B" n="15"/>decertandi fortitudo. Fortis autem &amp; constantis animi est non prturbari in rebus asperis, nec tumultuam 
+       <lb ed="#B" n="16"/>tem (ut dicitur ) de gradu eiici, sed praesentis animi consilio, nec a ratione discedere, nec committere, 
+       <lb ed="#B" n="17"/>vt aliquando dicendum sit non putaram. Haec sunt opera magni &amp; excelsi animi, &amp; prudentia. consilioque  
+       <lb ed="#B" n="18"/>fidentis 
+      </p>
+      <p xml:id="n3av8a-c1e5733-d1e297">
+       ITemere autem in acie versari, &amp; manucum hoste confligere, immane quiddam &amp; belua 
+       <lb ed="#B" n="19"/>rum simile est. Sed cum tempus, necessitasque postulat, decertandum manu est &amp; mors seruituti turpi- 
+       <lb ed="#B" n="20"/>tudinique anteponenda. Sed fugiendum est illud ne offeramus nos periculis sine causa, quo nihil po 
+       <lb ed="#B" n="21"/>test esse stultius. Haec ille. Hinc dicit Vegetius libro. iii. cap. vltimo de arte militari. Boni duces pu 
+       <lb ed="#B" n="22"/>blico certamine nunquam nisi ex occasione, aut nimia necessitate confligunt. Si ergo miles noster non  
+       <lb ed="#B" n="23"/>confidens de commilitonum adiutorio, nec putans eos paratos, vt simul ad bellum procedant, solus 
+       <lb ed="#B" n="24"/>in hostes praeuolando insiliit, ipse absque omni rationabili causa morti se obtulit, debens scire, quod ni 
+       <lb ed="#B" n="25"/>hil per se solum proficere potuit: &amp; sic opus non magnanimi, sed stulti egit. Sed nec ex hoc quod iste prae 
+       <lb ed="#B" n="26"/>uolans solus in hostes irruit, &amp; periculo mortis se exposuit, iudicari potest certitudinaliter, quod opus ma 
+       <lb ed="#B" n="27"/>gnanimi non egit, quia vt dicitur Sarraceni ante auroram subito ciuitatem Acconenm. intrauerunt, nec 
+       <lb ed="#B" n="28"/>fuit tunc christicolis in illa contentis, tempus deliberationis maioris, sed solummodo statim exer 
+       <lb ed="#B" n="29"/>cendae virtutis, quae secundum philosophum. ii. Ethi. maxime in repentinis probatur. Miles igitur noster, qui vt audi-  
+       <lb ed="#B" n="30"/>ui dici, dux aliorum in bello esse debuit, quam citius occurrisset, forte iacens in excubiis armatus cum 
+       <lb ed="#B" n="31"/>aliis, &amp; paratus ad bellum, statim audito tunultu &amp; discurrentibus Sarracenis per vicos exiliit, &amp; pu 
+       <lb ed="#B" n="32"/>tans commilitones suos se consecuturos in hostes solus irrupit, attendens illud Vegetii de artemi 
+       <lb ed="#B" n="33"/>litari libro iii. cap. viii. Ne vero repentinus tumultus amplius noceat, ante commonendi sunt milites, vt pa 
+       <lb ed="#B" n="34"/>rati sint omnino, vt arma in manibus habeant. In necessitate enim subita quae terrent, ante praeuisa non  
+       <lb ed="#B" n="35"/>solent esse formidini. &amp; cap. vi. Multa quidem sunt dicenda, atque obseruanda pugnantibus. Siqui 
+       <lb ed="#B" n="36"/>dem nulla sit negligentiae venia, vbi de salute certetur. Et libro i. cap. xiiii. In aliis rebus, sicut ait Cato, 
+       <lb ed="#B" n="37"/>siquid erratum fuerit postmodum corrigi potest, praeliorum delicta emendationem non recipiunt, cum poe 
+       <lb ed="#B" n="38"/>na statim sequatur errorem. Et libro iiii. cap. xxxix. Sicut enim prouidos cautela tutatur, sic negligentes 
+       <lb ed="#B" n="39"/>extinguit ignauia. Quia si ita fuit, quia tunc tempors, necessitasque postulabant decertandum esse manu &amp; 
+       <lb ed="#B" n="40"/>mortem seruituti turpitudinique esse anteponendam &amp; malum fugiendum, quod reuera ita puto com- 
+       <lb ed="#B" n="41"/>tigisse, idcirco dico credens firmiter quod opus militis nostri erat opus magnanimitatis, ex cuius ha-  
+       <lb ed="#B" n="42"/>bitu repente elegit opus summe arduum, honeste scilicet mori pro fide, &amp; ciuitate, quam fugiendo inhoneste vi 
+       <lb ed="#B" n="43"/>uere, &amp; forte fuga incerta non subueniente iugum seruitutis Sarracenorum subire. Quia si caeteri ciues &amp; 
+       <lb ed="#B" n="44"/>commilitones sic fecissent, &amp; tales fuissent vt ille, credo quod proculdubio in adiutorio dei victoriam ob- 
+       <lb ed="#B" n="45"/>tinuissent, &amp; ciuitas staret. Vt enim dicitur. i. Macca. iii. Facile est concludi multos in manu paucorum 
+       <lb ed="#B" n="46"/>&amp; non est differentia in conspectu dei caeli liberare in multis &amp; in paucis, quoniam non ex multitudine ex 
+       <lb ed="#B" n="47"/>ercitus victoria belli, sed de caelo fortitudo. Et vt dicit Vegetius vbi supra. li. iii. cap. xxii. Victoria sem 
+       <lb ed="#B" n="48"/>per per paucos fieri consueuit. &amp; maxime per homines virtutis. Vt enim ibidem dicit libro primo 
+       <lb ed="#B" n="49"/>cap. decimo, in omni conflictum non tam prodest multitudo quam virtus. Et libro iiii. ca. xxxii. In rebus bel 
+       <lb ed="#B" n="50"/>licis celeritas amplius solet prodesse, quam virtus. Et libro. iii. cap. xxxix. Necessario amplior securitas se- 
+       <lb ed="#B" n="51"/>let grauius habere discrimen, quod imparatis, ac nihil suspicantibus superueniens assolet fieri. hoc casu oppres- 
+       <lb ed="#B" n="52"/>sis, nec virtus potest, nec multitudo prodesse. Vnde Acconen. vt credo, victoriam obtinuissent, si bel 
+       <lb ed="#B" n="53"/>ligerassent pro posse suo, &amp; confisi domino dixissent vnanimiter, vnusquisque illorum ad caeteros, illud quod  
+       <lb ed="#B" n="54"/>dixit ludas continuo post praedicta. i. Maccab. iii. lpsi veniunt ad nos in multitudinae, &amp; superbia, vt dis- 
+       <!--1231.xml-->
+       <pb ed="#B" n="595-v"/>
+        <lb ed="#B" n="1"/>perdant nos, &amp; vxores nostras, &amp; filios nostros, &amp; vt spolient nos. Nos vero pugnabimus pro animabus. 
+       <lb ed="#B" n="2"/>nostris &amp; pro legibus nris, &amp; ipse dominus conteret eos ante faciem nostramVos autem ne timueritis eo- 
+       <lb ed="#B" n="3"/>Sic ergo confidenter dicere praesent, vt existimo, quod ille miles noster opus magnanimitatis, &amp; virtutis egit 
+       <lb ed="#B" n="4"/>&amp; benefacto suo intellexit illud psal. Pretiosa in conspectu domini mors sanctorum eius. Et dixit illud 
+       <lb ed="#B" n="5"/>Tullii in omnione ppsolari ad equites Ro. Nihil duri, nihil acerbi mihi erit, quod rempe. tutabitur. Non enim illis victus 
+       <lb ed="#B" n="6"/>cedo, neque mors miseranda est, quae ob rempu. capitur, neque exilium turpe est, quod virturae suscipitur, praesertim cum 
+       <lb ed="#B" n="7"/>nonnullam hae poenae habeant in se consolationem, nam vitam si eripiunt, non adimunt gloriam: mortale si exi 
+       <lb ed="#B" n="8"/>lio mulctabunt corpus, non animum a repu. remouebunt. ldem libro i. de officiis. Omnes omnium charitates prarima vna 
+       <lb ed="#B" n="9"/>complexa est, pro qua quis bonus dubitet mortem oppetere, si ei sit profuturus: quasi dicat, nullus. Ex dictis 
+       <lb ed="#B" n="10"/>patet quomodo concedenda est secunda ratio. Ad primam quae est in oppositum: quod dictum opus militis nini non 
+       <lb ed="#B" n="11"/>erat magnanimitatis, quia fugiens: bellum, in quo ille mortuus est, bene fecit: Dico quod hic incidit difficilioris 
+       <lb ed="#B" n="12"/>assumptio, ae scilicet licitum sit fugere bellum, quid contra patriam, aut patrias leges attentatum est ab hostibus 
+       <lb ed="#B" n="13"/>legis &amp; fidei christianae. Et censeo in hac materia idem de fuga praelatorum maiorum &amp; minorum, &amp; principum 
+       <lb ed="#B" n="14"/>superiorum &amp; inferiorum: &amp; quid de fuga simplicium clericorum, hoc etiam de fuga simplicium laicorum, quia sicut praela- 
+       <lb ed="#B" n="15"/>ti tenentur ministrare populo in spiritualibus ad fomentum &amp; conseruationem vitae eorum spiritalis, sicprin- 
+       <lb ed="#B" n="16"/>cipes ministrare tenentur eidem in temporalibus ad fomentum &amp; conseruationem vitae eorum temporalis. Pro- 
+       <lb ed="#B" n="17"/>pterea enim de publico eis prouisum est in temporalibus rebus ad vsum necessariis, &amp; non debent 
+       <lb ed="#B" n="18"/>eos in periculo belli deserere fugiendo, nisi secundum modum sequentem exponendum de fuga praelatorum principa 
+       <lb ed="#B" n="19"/>liter, quamuis praelati ad non reliquendum populum poena maioris criminis astringantur, quanto magis necessa 
+       <lb ed="#B" n="20"/>rium est populo in bellorum pariculis ministerium praelatorum in spiritualibus, quam principum in temporalibus. De de 
+       <lb ed="#B" n="21"/>bito enim principum in impugnatione aduersariorum ecclesiae dicit <name ref="#Augustine">Augustinus</name> super loan sic. Commouentur 
+       <lb ed="#B" n="22"/>potestates christianae contra dissipatores &amp; detestatores ecclesiast non mouerentur, quomodo redderent 
+       <lb ed="#B" n="23"/>rationem de imperio suo domino: quia hoc etiam pertinet ad reges saeculi Christianos, vt suis temporibus pacatam 
+       <lb ed="#B" n="24"/>velint matrem suam ecclesiam haitrne: vnde spiritaliter nati sunt. Item ad Bonifacium comitem. Quomodo domino 
+       <lb ed="#B" n="25"/>reges seruiunt in timore nisi ea quae contra iussa domini sunt religiosa seueritate prohibendo atque plecten- 
+       <lb ed="#B" n="26"/>do: Aliter enim seruit rex quia homo est, aliter quia rex est. Quia homo est, seruit viuendo fideliter. Quia 
+       <lb ed="#B" n="27"/>rex est, seruit conuenienti rigore sanciendo. Item lsido. xxiii. q. v. ca. Principes. dicit sic. Intra ecclesiam pote- 
+       <lb ed="#B" n="28"/>states saeculi non essent nisi vt quod non praeualent sacerdotes efficere per doctrinae sermonem, potestas hoc 
+       <lb ed="#B" n="29"/>impetret per disciplinae terrorem. Cognoscant principes saeculi deo se debiti rationem esse reddituros pro-  
+       <lb ed="#B" n="30"/>pter ecclesiam quam Christo tuendam suscipiunt. Nam siue augeatur pax &amp; disciplina ecclesiae per fideles prin- 
+       <lb ed="#B" n="31"/>cipes, siue soluatur, ille ab eis rationem exigit, qui eorum potestati suam ecclesiam tradidit. Vnde &amp; ad  
+       <lb ed="#B" n="32"/>ecclesiam tuendam praesent per praelatos compelli, vt ibidem Praeterea. vbi dicitur sic. Saecularium dignitatum  
+       <lb ed="#B" n="33"/>administrationibus defendendarum ecclesiarum necessitas incumbit, quod si facere contempserint, a coonione sunt 
+       <lb ed="#B" n="34"/>repellendi. Si ergo quaeratur de illo, quid ponitur in argumento: Ae. scilicet liceat fugere de bello praecipue quid ab  
+       <lb ed="#B" n="35"/>infidelibus attentatur contra ecclesiam, vt in nino themate praeposito, puto fore distinguendum diuisione trimembri 
+       <lb ed="#B" n="36"/>quia aut tale bellum est imminens tantum, &amp; timetur venturum: aut est iam instans &amp; comphensus est popu- 
+       <lb ed="#B" n="37"/>lus fidelis ab aduersariis, aut est deficiens aduersariis obtinentibus iam victoriam. Si imminet, subdisti 
+       <lb ed="#B" n="38"/>guo iterum diuisione trimembri. quia aut omnes possunt fugere, &amp; simul rationabiliter desperant de 
+       <lb ed="#B" n="39"/>victoria si persistant, aut nec potest, nec debet aliquis illorum rationabiliter desperare, aut aliqui eorum  
+       <lb ed="#B" n="40"/>sperant, &amp; aliqui desperant, vel non praesent fugere. Si primo modo, tunc omnes adinstar vnius cuius exi- 
+       <lb ed="#B" n="41"/>tium quaeritur, de quo iam erit sermo, fugere tenentur, nec se periculo exponere. Si secundo modo, tunc nullus debet 
+       <lb ed="#B" n="42"/>fugere, sed vnanimiter se hostibus opponere pugnando pro patria, &amp; repu. Vt enim dicit Vegetius 
+       <lb ed="#B" n="43"/>vbi supra libro tertio cap. xxiiii. qui ante congressum recedit ex acie, suis fiduciam minuit &amp; inimicis ad  
+       <lb ed="#B" n="44"/>dit audaciam, &amp; cum hoc conuincitur plus diligere seipsum, &amp; vitam suam, quam rempu, quod esse non debet, dicente Tul 
+       <lb ed="#B" n="45"/>lio in orone populari ad senatum. Sic ab initio fui animatus, vt me non tam mea causa putarem esse natum  
+       <lb ed="#B" n="46"/>quam reip, procreatum. &amp; vt idem dicit in fine primi libri inuectiuarum. Patria mihi vita mea charior est. Propter 
+       <lb ed="#B" n="47"/>quidquilibet in isto casu maxime pro patriae defensione debet etiam vitam suam mortis priculo exponere: dicen 
+       <lb ed="#B" n="48"/>te eodem in iiii. libro inuectiuarum: hoc est in Catilinam Oratione quarta. Siquid obtigerit aequo animo pa 
+       <lb ed="#B" n="49"/>ratoque moriar. Neque enim turpis mors viro forti potest accidere, neque immatura consulari, neque mise 
+       <lb ed="#B" n="50"/>ra sapienti. Et infra in eo. Itaque sapientes numquam eam inuiti sustinuerunt: fortes etiam saepe libenter oppetierunt. 
+       <lb ed="#B" n="51"/>In tali ergo casu nulli licitum est fugere nisi forte mulieribus, pueris, &amp; viris inualidis. dicente Vegetio vbi 
+       <lb ed="#B" n="52"/>supra libro nono cap. ix. Imbellis aetas, &amp; sexus propter necessitatem frequenter exclusa est, aut suasus ab  
+       <lb ed="#B" n="53"/>aliis, qui eum maiori vtilitati ciuitatis rescruare intendunt. Et de Dauid propheta qui se subtraxit a bello 
+       <lb ed="#B" n="54"/>imminente, dicit <name ref="#Augustine">Augustinus</name> epistola ad Honoratum, in quae diffuse tractat materiam de fuga praelatorum. De 
+       <!--1232.xml-->
+       <pb ed="#B" n="596-r"/>
+        <lb ed="#B" n="1"/>nique sanctus Dauid ne committeret se pariculis praeliorum, &amp; fortassis extingueretur (sicut illi dictum est ) lucer- 
+       <lb ed="#B" n="2"/>na lsrael, a suis hoc perentibus sumpsit, non ipse praesumpsit. alioquin multos imitatores fecisset ignauiae 
+       <lb ed="#B" n="3"/>qui eum crederent hoc fecisse non consideratione vtilitatis aliorum, sed suae perturbatione formi- 
+       <lb ed="#B" n="4"/>dinis. Si tertio modo, tunc si omnes praeset fugere, &amp; si maior &amp; sanior pars desperat, &amp; indicat fugiendum illis qui  
+       <lb ed="#B" n="5"/>sperant, licet possint fugere cum aliis, sic licitum est simel omnes fugere. sed illi qui sperant non tenentur cum aliis 
+       <lb ed="#B" n="6"/>fugere. immo si velint persistere, &amp; hostibus se opponere, hoc licitum est eis, &amp; tunc alii tenentur cum eis con 
+       <lb ed="#B" n="7"/>tra hostes stare, &amp; esse parati, aut cum aliis hostes deuincere aut simul mori cum illis, aut si sint aliqui inter 
+       <lb ed="#B" n="8"/>illos qui tenentur eis ministare spiritualia, fugere non possunt, dicente <name ref="#Augustine">Augustinus</name> in epistola eadem ad  
+       <lb ed="#B" n="9"/>Honoratum paulo post principium. Cum omnium ci. i. episcoporum, &amp; clericorum &amp; laicorum) ne commune periculum ii qui  
+       <lb ed="#B" n="10"/>aliis indigent non deserantur ab iis quibus indigent. Aut igitur ad loca munita omnes transeant, aut qui manendi ha 
+       <lb ed="#B" n="11"/>bent necessitatem non relinquantur ab eis, per quos illorum est ecclesiastica supplenda necessitas, vt aut pariter 
+       <lb ed="#B" n="12"/>viuant, aut pariter sufferant, quid eos paterfamilias volet perpeti. Aliis autem indigent in necessitate tempo 
+       <lb ed="#B" n="13"/>rali pugnandi illi qui sperant de victoria, &amp; volunt se opponere hostibus, cum possent cum aliis fugere, sed  
+       <lb ed="#B" n="14"/>nolunt, &amp; ideo validi potentes pugnare non debent istos relinquere, sed simul cum eis pugnare. Qui 
+       <lb ed="#B" n="15"/>autem habent necessitatem manendi, quia non praesent fugere propter aliquas causas: aliis indigent in necessitate ecclesia 
+       <lb ed="#B" n="16"/>stica, quos non debent relinquere ecclesiastici viri, per quos illa necessitas est in eis supplenda. vt infra 
+       <lb ed="#B" n="17"/>plenius declarabitur. Et sic aut pariter viuant, aut pariter moriantur: et hoc relinquente istud superna cha 
+       <lb ed="#B" n="18"/>ritate in eis qui alias fugere possent, &amp; vellent. Et in hoc casu locum habet illud in canonica Ioan, prima 
+       <lb ed="#B" n="19"/>cap. iii. Si pro nobis Christus animam suam posuit, &amp; nos debemus animas niras, pro fratribus ponere. Hoc enim l 
+       <lb ed="#B" n="20"/>primo dictat ius naturae, dicente Tullio libro primo de officiis. Vt praeclare scriptum est a Platone, non nobis 
+       <lb ed="#B" n="21"/>solum nati sumus, ortusque nostri partem pria vendicat partem amici, atque vt placet Stoicis, quae in terris gi 
+       <lb ed="#B" n="22"/>gnuntur ad vsum hominium omnia creari: homines autem hominium cauam esse generatos, vt ipsi inter se alius alii prodesse possint. 
+       <lb ed="#B" n="23"/>In hoc naturam debemus sequi ducem. Hoc etiam secundo expresse testatur <name ref="#Augustine">Augustinus</name> in epistola dicta sic inquiens. 
+       <lb ed="#B" n="24"/>Siue alii magis, alii minus, siue omnes aequaliter patiantur, qui eorum sint qui pro aliis patiantur apparetid isli scilicet 
+       <lb ed="#B" n="25"/>qui cum se possent talibus malis eripere fugiendo, ne aliorum necessitatem deserant, manere maluerunt. 
+       <lb ed="#B" n="26"/>Hinc maxime probatur illa charitas quam loannes apostolus commendat dicens. Sicut pro nobis Christus animam  
+       <lb ed="#B" n="27"/>suam posuit: sic &amp; nos debemus animas nias pro fratribus ponere. Nam qui fugiunt, vel suis necessitatibus deui 
+       <lb ed="#B" n="28"/>cti fugere non possunt, si comphensi patiantur, pro seipsis non pro fratribus vtique patiuntur. Qui vero propterea 
+       <lb ed="#B" n="29"/>patiuntur, quia fratres qui eis ad Christianam salutem indigent deserere nolunt, sine dubio animas suas pro 
+       <lb ed="#B" n="30"/>fratribus ponunt. Si autem bellum sit iam instans &amp; populum comphenderit, atque hostes impetum faciant, ma 
+       <lb ed="#B" n="31"/>xime intra moenia ciuitatis, vt in casu niae quaestionis: Dico quod tunc nulli licet fugere, sed omnes validi ad  
+       <lb ed="#B" n="32"/>fugam ad bellum debent properare, &amp; hostes variis modis pro posse suo impugnare potius quam se incer 
+       <lb ed="#B" n="33"/>tae committere fugae, quali se multi commiserunt instante de populatione Acconen. ciuitatis: qui submer- 
+       <lb ed="#B" n="34"/>si fuerunt in portu vt dicitur. In tali enim bello periculo maiori pugnant hostes quam ciues: dicente Vegetio 
+       <lb ed="#B" n="35"/>vbi supra libro quarto. cap. xiii. Violenta impugnatio quando castellis vel ciuitatibus praeparatur mutuo vtro- 
+       <lb ed="#B" n="36"/>rumque periculo, sed maiore expugnantium exercentur luctuosa ibi certamina. Et quaere hoc, exponit declarando  
+       <lb ed="#B" n="37"/>modum quo oppressi in ciuitate se debent defendere cap. xv. dicens. Innumerabilibus declaratur exemplis 
+       <lb ed="#B" n="38"/>saepe caesos ad internecionem hostes qui peruaserunt ciuitatem. Et fine dubio euenit, si oppidani mu 
+       <lb ed="#B" n="39"/>ros &amp; turres retinuerint, vel altiora occupauerint loca. Tunc enim de fenestris ac tectis omnis aetas ac se- 
+       <lb ed="#B" n="40"/>xus irrumpentes obruit saxis, aliisque generibus telorum. Vnum oppidanis auxilium, siue per diem siue 
+       <lb ed="#B" n="41"/>per noctem hostis intrauit, vt muros turresque teneant, ac loca superiora conscendant, hostesque per vi 
+       <lb ed="#B" n="42"/>cos &amp; plateas vndique obruant dimicantes. Per hunc modum Aeneas cum ad debellandum gentes externas 
+       <lb ed="#B" n="43"/>recederet docuit ciuitatem intus a Teucris muniri contra Turnum. Vnde clamorem ciuium &amp; defensionem 
+       <lb ed="#B" n="44"/>eorum veniente Turno cum exercitu describit Virgilius. ix. libo aeneid. dicens sic. Ferte citi ferrum, date tela 
+       <lb ed="#B" n="45"/>&amp; scandite muros, hostis adest. Eia ingenti clamore per omnes Condunt se Teucri portas, &amp; moenia con 
+       <lb ed="#B" n="46"/>plent. Namque itaque discedens praeceperat optimus armis Aeneas: siqua interea fortuna fuisset. Neu stru 
+       <lb ed="#B" n="47"/>ere auderent acies: neu credere campo: Castra modo &amp; tutos seruarent aggere muros. Ergo etsi confer 
+       <lb ed="#B" n="48"/>re manum pudor iraque modostrat: Obiiciunt portas tamen &amp; praecepta facessunt. Armatique cauis expectant tur 
+       <lb ed="#B" n="49"/>ribus hostem. Turnus vt ante volans tardum praecesserat agmen Vigintilectis equitum communitatus, &amp; vrbi 
+       <lb ed="#B" n="50"/>Improuisus adest &amp;c. Et debet omnibus in tali oppressione animositas ad se defendendum crescere ciuibus. 
+       <lb ed="#B" n="51"/>vnde vbi iam supra dicit Vege. Necessitas quaedam virtutis est desperatio in hoc casu. &amp; vt dicit libro tertio 
+       <lb ed="#B" n="52"/>cap. x. desperantibus crescit audacia. &amp; cap. xxiii. Clausis ex desperatione crescit audacia, &amp; cum spei ni 
+       <lb ed="#B" n="53"/>hil est sumit arma fortitudo, libentercupit commori qui fine dubio scit se esse moriturum. Caeterum clausi li 
+       <lb ed="#B" n="54"/>cet exiguo numero &amp; infirmi viribus, hoc ipso sunt hostibus pares, quia desperantes sciunt aliud sibi 
+       <!--1233.xml-->
+       <pb ed="#B" n="596-v"/>
+        <lb ed="#B" n="1"/>licere non posse, sed vna salus victis nullam sperare salutem. Vnde si sic sese mutuo iuuassent Acconen. 
+       <lb ed="#B" n="2"/>non solum viri, sed est mulieres viros, puto (vt praedixi) quod victoriam obtinuissent. qualiter iuuerunt matro  
+       <lb ed="#B" n="3"/>nae Romanae in obsidione ciuitatis: quae per auxilium earum liberata est. dicente Vege. vbi supra libro quar  
+       <lb ed="#B" n="4"/>to cap. x. Ballistae caeteraque tormenta nisi funibus &amp; neruis intenta nihil prosunt, equorum tamen se 
+       <lb ed="#B" n="5"/>tae de caudis ac iubis ad ballistas vtiles assetuntur. Indubitanter vero &amp; crines foeminarum in eiusmodi  
+       <lb ed="#B" n="6"/>tormentis non minorem habere virtutem ratione necessitatis expartum est, nam in obsidione Capitolii corruptis 
+       <lb ed="#B" n="7"/>iugi aclonga fatigatione tormentis cum neruorum copia defecisset, matronae abscissos crines viris suis 
+       <lb ed="#B" n="8"/>obtulere pugnantibus: reparatisque machinis aduersariorum impetum repulerunt. Maluerunt enim pudicissimae 
+       <lb ed="#B" n="9"/>foeminae deformato ad tempus capite libere viuere cum maritis, quam hostibus integro decore seruire. 
+       <lb ed="#B" n="10"/>Si vero bellum defecerit, &amp; hostes victores sint, &amp; ciues se defendere desistunt, dico quod tunc omnibus 
+       <lb ed="#B" n="11"/>licet fugere praeter praelatos: qui in ecclesiasticis seruire tenentur illis, qui fugere non possunt. Secundum Augus in epi 
+       <lb ed="#B" n="12"/>stola ad Quoduultdeum. de quae dictum suum in illa repetit in epistola ad Honoratum praedicta dicens. Dixinec 
+       <lb ed="#B" n="13"/>eos esse prohibendos qui ad loca si possint munita migrare desiderant, &amp; ministerii nostri vincula, quibus  
+       <lb ed="#B" n="14"/>nos charitas Christi alligauit ne deseramus ecclesias quibus seruire debemus, non esse rumpenda. Dico ergo  
+       <lb ed="#B" n="15"/>quod in tali casu nemini licitum est fugere nisi duci, cum praeuidet periculum, sed non per se, sed cum exercitu suo 
+       <lb ed="#B" n="16"/>&amp; non nisi caute ne percipiat exercitus suus, aut aduersarii illius. sm quod super hoc Vege. li. xcap. xxiiii. 
+       <lb ed="#B" n="17"/>instruit ducem exercitus dicens. Superest edocere quemadmodum recedatur ab hostibus. Nam disciplinae bellicae 
+       <lb ed="#B" n="18"/>&amp; exemplorum exparti nonnumquam pariculum imminere testantur. Verum quia hoc saepe necesse est euenire, quibus modis tu 
+       <lb ed="#B" n="19"/>te fieri possit, declarandum est. Primum vt tui nesciant te recedere, quia declinas inire conflictum, sed credant arte  
+       <lb ed="#B" n="20"/>aliqua se ideo reuocari vt insequentibus aduersariis secretiores collocentur insidiae: nam ad fugam parati sunt 
+       <lb ed="#B" n="21"/>qui ducem suum sentiunt desperare. Illud quoque vitandum est, ne hostes te recedere sentiant, &amp; statim irruant. Vnde in  
+       <lb ed="#B" n="22"/>isto casu post igressum belli lie isto modo fugere omnes simul praeter praelatos sicut an belli ingressum in primo membro di  
+       <lb ed="#B" n="23"/>stinctionis circa illum, vt iam dictum est. &amp; hoc quia illo tempone non valentibus fugere maxime necessarium est mi 
+       <lb ed="#B" n="24"/>nisterium ecclesiasticum praelatorum in spiritalibus, vt inferius declarabitur. Nequaquam autem est eis necessarium mi 
+       <lb ed="#B" n="25"/>nisterium caeterorum, quia consistit in solis temporalibus. In hoc tamen casu perfectius esset bellatoribus resistendo ad  
+       <lb ed="#B" n="26"/>uersariis, &amp; pugnando mori cum fratribus, quid frequenter contingit inexpartis &amp; ignorantibus pericula belli, &amp; 
+       <lb ed="#B" n="27"/>vere fortibus, quam timore vitae amittendae fugae incertae se conmittere, quod saepius faciunt exparti cognoscentes pri 
+       <lb ed="#B" n="28"/>cula belli, &amp; maxime timidi, &amp; non vere fortes. dicente philosopho. iii. Ethi. Milites timidi sunt quando superextenditur 
+       <lb ed="#B" n="29"/>praelium, &amp; deficiunt. Primi ei fugiunt: cuncta autem permanentia moriuntur. His quidem est turpe fugere, &amp; mors tali 
+       <lb ed="#B" n="30"/>salute eligibilior. Hi autem ex principio priclitantur, vt meliores existentes, cognoscentes autem fugiunt, mortem 
+       <lb ed="#B" n="31"/>magis quam turpe timentes: fortis autem non talis. Milites. n.m (ut tangit alia translatio ibidem. in principio belli viri 
+       <lb ed="#B" n="32"/>liter agunt confidentes de peritia &amp; expgrientia bellorum quam habent: &amp; maximis pariculis se exponunt: cognoscem 
+       <lb ed="#B" n="33"/>tes autem mortis instantiam fugiunt magis timentes mortem, quam turpe: talis autem non est fortis. Fortis enim 
+       <lb ed="#B" n="34"/>aduertit decorem non rem extrisecam nec, propriam vitam. &amp; per hoc saepius milites, qui fugituri essent, cognoscentes 
+       <lb ed="#B" n="35"/>mortis instantiam victoriam obtinent plus quam timentes. dicente Vege. vbi supra libro i. ca. ii. Nulla alia re videmus 
+       <lb ed="#B" n="36"/>populum Romanum orbem subiugasse terrarum nisi armorum exercitio, disciplina castrorum, atque milite. Scien- 
+       <lb ed="#B" n="37"/>tia enim rei bellicae dimicandi vult audaciam. Nemo enim facere rmetuit, quid se bene didicisse confidit. Et 
+       <lb ed="#B" n="38"/>enim in certamine bellorum exercitata paucitas ad victoriam proptior est, ruralis &amp; indocta multitudo expo 
+       <lb ed="#B" n="39"/>sita est ad caedem. &amp; vt dicit libro ii. ibidem cap. xxi. inexercitatus miles seu tyro, vt quotidiani laboris vlus 
+       <lb ed="#B" n="40"/>difficilis non videretur in bello, exercebatur assidue. Nam quemadmodum bene exercitatus miles praelium cupit, ita for 
+       <lb ed="#B" n="41"/>midat indoctus. Postremo sciendum est in pugna vsum amplius prodesse quam vires. nam si doctrina cesset 
+       <lb ed="#B" n="42"/>armorum, nil villanus distat a milite. Et libro iii. cai.d i. Igitur qui victoriam cupit milites imbuat diligenter: qui secun- 
+       <lb ed="#B" n="43"/>dos optat euentus, dimicet arte non casu. Sed in casu posito distinguendum est de fuga praelatorum, quia aut communitas 
+       <lb ed="#B" n="44"/>quaeritur ad mortem, aut solus praelatus. Si primo modo, subdistinguo. quia aut per fugam praelati omnino a subditlsubtrahiturmi 
+       <lb ed="#B" n="45"/>nisterium illi incumbens, aut non subtrahitur, sed per alios manentes potest suppleri. Si primo modo, dicoque non licet prae 
+       <lb ed="#B" n="46"/>latum fugere, dicente <name ref="#Augustine">Augustinus</name> in epistola praedicta ad Honoratum post verba eius recitata in illa de epistolaad Quoduulu 
+       <lb ed="#B" n="47"/>deum praedicta. Restat ergo vt nos quorum ministerium quantuncunque est plebi dei vbi sumus manenti ita 
+       <lb ed="#B" n="48"/>necessarium est vt sine hoc eam non oporteat remanere, dicamus domino. Esso nobis in deum protectorem &amp; inlocum 
+       <lb ed="#B" n="49"/>munitum. Neque quaeramus aliquae munimentum fugiendo &amp; pphisloum dimittendo. Si secundo modo, tunc distinguo, quia aut  
+       <lb ed="#B" n="50"/>fuga est solo timore mortis, aut est vt fugiens se praeseruet maiori vtilitati ecclesiae. Si secundo modo, adhuc subdi- 
+       <lb ed="#B" n="51"/>stiguo, quia aut fugiendo magl obest exemplo quam viuendi proficeret officio, aut econverso magis proficeret offi 
+       <lb ed="#B" n="52"/>cio quam obesset exemplo. Si primo modo tam istius quam praecedentis subdistinctionis, Dico adhuc quod non est praelato licitum fuge 
+       <lb ed="#B" n="53"/>re. dicente <name ref="#Augustine">Augustinus</name> in eadem epistola post medium. Quando est comone periculum, magisque timendum est ne quisquam id facer credatur non 
+       <lb ed="#B" n="54"/>consulendi voluntate, sed timore moriendi: magisque fugiendi obsit exemplo quam viuendi prosit officio, nullaron- 
+       <!--1234.xml-->
+       <pb ed="#B" n="597-r"/>
+        <lb ed="#B" n="1"/>ne fugiendum. ldem ibidem. Absit vt tanti pendenda sit haec nauis nia vt debeant eam nautae &amp; maxime guber 
+       <lb ed="#B" n="2"/>nator periclitantem deserere, etsi in scapham transiliendo, vel etiam natando possit effugere. Qualiter aliqui ex praela- 
+       <lb ed="#B" n="3"/>tis in excidio Anconen. per scapham effugere voluent, &amp; in portu stati submersi sunt, vt dei. Et homi. scilicet quod in isto 
+       <lb ed="#B" n="4"/>easu non licet fugere, generale est de quolibet fugiente tam and ingressum litis quam post ingressum litis, quam post eius de 
+       <lb ed="#B" n="5"/>fectum. Si secundo modo huius vltimae subdistinctionis: Dico quod praelato licet fugere argumento a contrario sensu 
+       <lb ed="#B" n="6"/>eius quod iam dictum est, sim quod declarabitur in sequentibus. Sed i hoc casu nequamquam deberet attentare fugam, est summe vtius 
+       <lb ed="#B" n="7"/>ecclesiae seu communitati, nisi sentiret prius sup hoc motum diuini instinctus in seipso, quia praesumptuosum esset proprio mo- 
+       <lb ed="#B" n="8"/>tu hoc attentare. dicente Augug. ad Hono. vbi supra. Nemo accipiat personam suam, vt si aliquam genra videtur excel 
+       <lb ed="#B" n="9"/>lere, ideo se dicat vita &amp; ob hoc fuga esse digniorem, quisquis est hoc dicit, omnibus displicet. &amp; infra post modi  
+       <lb ed="#B" n="10"/>cum. Qui dixerint se potius fugere debere, aut timidi videbuntur, quia imminens malum sustinere noluerunt 
+       <lb ed="#B" n="11"/>aut arrogantes, quia se magis qui saluandi essent necessarios ecclesiae iudicarunt. Vnde omnibus qui super fuga sua non 
+       <lb ed="#B" n="12"/>sentiunt specialem diuinum instinctum, in dicto casu considerandum est quod nullus eorum fugiat, dicente Aug. ibidem. In  
+       <lb ed="#B" n="13"/>comoni autem periculo huius vitae cur existimamus vbicumque fuerit hostil incursus, omnes clericos, &amp; non est omnes laicos 
+       <lb ed="#B" n="14"/>esse morituros, vt simul finiant hanc vitam cui sunt clerici necessarii: Aut cur non speremus sicut aliquos 
+       <lb ed="#B" n="15"/>laicos, sic etiam clericos permansuros, a quibus eis necessarium ministerium valeat exhiberi: Vnde si in isto casu 
+       <lb ed="#B" n="16"/>alicui, vel aliquibus indicenda sit fuga propter ecclesiae vtilitatem futuram, determiat Aug. ibidem, quod forte eligendi 
+       <lb ed="#B" n="17"/>sunt sugientes. attamen si posset discerni qui ex omnibus vtiliores deberent esse profuturi ecclesiae, illi deberenteligi sim 
+       <lb ed="#B" n="18"/>pliciter. Quia si illi non fugere, sed commori aliis eligerent, alii minus vtiles reputati deberent simul in hoc con- 
+       <lb ed="#B" n="19"/>trariari, &amp; ipsos ad fugam quantum in se esset compellere, dicente <name ref="#Augustine">Augustinus</name> sic. Quamquam hos inter dei ministros inde sit. 
+       <lb ed="#B" n="20"/>disceptatio qui eorum maneant, ne fuga omnium, &amp; qui eorum fugiant, ne morte omnium deseratur ecclesia. 
+       <lb ed="#B" n="21"/>quae disceptatio si aliter non potuerit terminari, quantum mihi videtur, qui maneant &amp; qui fugiant, for- 
+       <lb ed="#B" n="22"/>te legendi sunt. Deinde fortassis ii qui meliores sunt eligent pro fratribus animas ponere, &amp; hi seruabuntur fugiendo  
+       <lb ed="#B" n="23"/>quorum minus est vtilis vita, quia minor consulendi, &amp; gubernandi peritia, qui tamen si pie sapiunt contradicent eis quos 
+       <lb ed="#B" n="24"/>vident &amp; viuere potius oportere, &amp; magis mori malle quam fugere. Si autem solus praelatus quaeratur ad mortem, subdisti 
+       <lb ed="#B" n="25"/>guo, quia aut potest a populo abscondi ne pereat, aut non. Si sic, dico quod tunc non debet fugere, dicente Augus. i 
+       <lb ed="#B" n="26"/>saepe dicta epistola and finem. Si laici non quaerantur ad mortem, praesent occultare quoquo modo epseos &amp; clericos, sicut il 
+       <lb ed="#B" n="27"/>le adiuuerit in cuius potestate omnia sunt: qui potest &amp; non fugientem per mirabilem seruare potentiam. Sed ideo quaerimus 
+       <lb ed="#B" n="28"/>quid nos facere debeamus: ne omnibus quaerentibus diuina miracula, tentare dominum iudicemur. Si non, tunc debet &amp; 
+       <lb ed="#B" n="29"/>pont praelatus fugere, dum tamen non deseratur anecessariis ministris ecclesia. et hoc quaedruplicitur: vel aliorum actu, 
+       <lb ed="#B" n="30"/>vel aliorum instinctu, vel proprio motu diuino, aut humano. De fuga primo mued scilicet aliorum actum, exemplo Chri- 
+       <lb ed="#B" n="31"/>sti. de quo dicit <name ref="#Augustine">Augustinus</name> in principio epistolae praedictae. Numquid hoc fecit ipse quando portantibus parentibus in aegy-  
+       <lb ed="#B" n="32"/>ptum paruulus fugit, qui non dum ecclesias congregauerat: De fuga secundo me scilicet aliorum instinctu, exemplo Pauli. de 
+       <lb ed="#B" n="33"/>quo continue dicit. Numquid quando apostolus Paulus ne illum comphenderet inimicus, per fenestram in sporta submissus est 
+       <lb ed="#B" n="34"/>&amp; effugit manus eius, deserta est quae ibi erat ecclesia necessario ministro, &amp; non ab aliis fratribus ibidem con- 
+       <lb ed="#B" n="35"/>stitutis quod oportebat impletum est: Eis quippe volentibus hoc apostolus fecit, vt semet ipsum seruaret ecclesiae, 
+       <lb ed="#B" n="36"/>quem, proprie persecutor ille quaerebat. Faciant ergo serui Christi ministri verbi &amp; sacramenti eius, quod ipse praece- 
+       <lb ed="#B" n="37"/>pit siue permisit, fugiant omnino de ciuitate in ciuitatem, quando eorum quisquam specialiter a persecutoribus quaeri  
+       <lb ed="#B" n="38"/>tur, vt ab aliis qui non ita requiruntur, non deseratur ecclesia, sed praebeant cibaria conseruis suis quos aliter viue 
+       <lb ed="#B" n="39"/>re non posse nouerunt. Per quod intelligitur a contratio, quod si non remanent qui impleant ecclesiasticum ministerium, quod  
+       <lb ed="#B" n="40"/>non licet fugere praelatum cum solus quaeritur, sicut cum quaeritur tota communitas, vt iam habitum est supra. Vnde post modicum 
+       <lb ed="#B" n="41"/>subdit <name ref="#Augustine">Augustinus</name> dicens. Cur enim sibi putant indifferenter obtemprandum esse praecepto vbi legunt de ciuitate in ciuitatem  
+       <lb ed="#B" n="42"/>esse fugiendum, &amp; mercenarium non exhortent, qui videt lupum venientem, &amp; fugit, quia non est ei cura de ouibus: Cur 
+       <lb ed="#B" n="43"/>non istas duas dominicas verasque sententias, vne scilicet vbi fuga finitur, aut iubetur: alteram, vbi arguitur atque cul- 
+       <lb ed="#B" n="44"/>patur, sic intelligere student, vt inter se non reperiantur esse contrariae, sicut non sunt: Et hoc quomodo reperitur, nisi attendatur quid  
+       <lb ed="#B" n="45"/>iam superius disputaui, tunc de locis in quibus sumus praemente persecutione fugiendum esse ministris Christi, quando ibi aut 
+       <lb ed="#B" n="46"/>plebs Christi non fuerit cui ministretur, aut ent fuerit, sed potest ipleri per alios necessarium ministerium ab eis 
+       <lb ed="#B" n="47"/>quibus non est eadem cauam fugiendi: sicut in sporta submissus fuit Paulus: De fuga tertio med scilicet proprio motu diui 
+       <lb ed="#B" n="48"/>no exemplo Christi. de quo dte loan. viii. lesus autem abscondit se, et exiuit de templo. &amp; Lucae. iiii. Transiens per  
+       <lb ed="#B" n="49"/>medium illorum ibat. De fuga quarto mod. scilicet proprio motu humano: intellige secundum praedicta non sine diui 
+       <lb ed="#B" n="50"/>na inspiratione, exemplo Athanasii. de quo dicit <name ref="#Augustine">Augustinus</name> post praemissa de Paulo, sic. Eugit sanctus Athana-  
+       <lb ed="#B" n="51"/>sius Alexandrinus epseus cum eum specialiter apphendere cuperet Constantius Imperator, nequamquam a ministris 
+       <lb ed="#B" n="52"/>caeteris deserta plebe catholica, quae in Alexandria conmanebat. Et post pauca. Nam quantum necessarius fuerit 
+       <lb ed="#B" n="53"/>ecclesiae, quantumque profuerit, quod vir ille mansit in carne, catholica fides nouit, quae aduersus Arrianos hae-  
+       <lb ed="#B" n="54"/>reticos ore illius &amp; amore defensa est. Et dicit <name ref="#Augustine">Augustinus</name> omnia haec contra illos, qui contrariabantur ei in eo quod di-  
+       <!--1235.xml-->
+       <pb ed="#B" n="597-v"/>
+        <lb ed="#B" n="1"/>cebat in certis casibus ministros ecclesiae persecutiones fugere non debere. dicente eodem <name ref="#Augustine">Augustinus</name> in epistola di  
+       <lb ed="#B" n="2"/>cta longe ante iam dicta. Episcopum quendam dixisse audiuimus: si dominus nobis imperauit fugam in eis persecutio 
+       <lb ed="#B" n="3"/>nibus, vbi potest esse fructus martyrii, quanto magis debemus fugere steriles passiones, quando est barbaricus, &amp; 
+       <lb ed="#B" n="4"/>hostilis incursus: Verum est quidem &amp; acceptabile: sed iis quos ecclesiastici ordinis non tenent vincula. &amp; in  
+       <lb ed="#B" n="5"/>fra. Quis autem credat ita deum hoc fieri voluisse, vt necessario ministerio sine quo viuere nequeunt: dese 
+       <lb ed="#B" n="6"/>rerentur greges quos suo sanguine comperauit: quasi dicat nullus est catholicus qui hoc credere debeat. Quia 
+       <lb ed="#B" n="7"/>autem non sit manendum in persecutionibus, sed potius fugiendum, vna via arguit dictus epseus sic, dicente Augus. 
+       <lb ed="#B" n="8"/>in dicta epistola. Si in ecclesiis persistendum est, quid sumus nobis vel pphistolo profuturi non video, nisi vt ante ocu 
+       <lb ed="#B" n="9"/>los nnos viri cadant, foeminae constuprentur, incendantur ecclesiae: nos sub tormentis deficiamus. Et respondet Au 
+       <lb ed="#B" n="10"/>gust. subdens singula singulis, dicens. Potens est quidem deus praeces audire familiae suae, &amp; haec quae formidan  
+       <lb ed="#B" n="11"/>tur auertere, nec ideo tamen propter ista quae incerta sunt, debet esse nri officii certa desertio, sine quo est ple 
+       <lb ed="#B" n="12"/>bi certa pernicies, non in rebus vitae huius, sed alterius: quae incomparabiliter diligentius sollicitiusque curandae. Et 
+       <lb ed="#B" n="13"/>infra. Magisque timeamus ne oues Christi spiritalis nequitiae gladio in corde quam ferro in corpore trucidem 
+       <lb ed="#B" n="14"/>tur. Magis timeamus ne sensu interiori corrupto pereat castitas fidei, quam ne foeminae violenter constu- 
+       <lb ed="#B" n="15"/>prentur in carne. Quia violentia non violatur pudicitia si mente seruatur. Magis timeamus ne lapides vi 
+       <lb ed="#B" n="16"/>ui extinguantur deserentibus nobis, quam ne lapides &amp; ligna terrenorum aedificiorum incendantur praesentibus no 
+       <lb ed="#B" n="17"/>bis. Magis timeamus ne membra corporis Christi destituta spiritali victu necentur, quam membra corporis nmfi 
+       <lb ed="#B" n="18"/>oppressa hostili impetu torqueantur. Non quia ista non sint vitanda cum praesent, sed quia potius ferenda sunt quando vi 
+       <lb ed="#B" n="19"/>tari fine impietate non praesent. nisi forte quisquam contenderet non esse ministrum impium, qui tunc subtrahit ministerium 
+       <lb ed="#B" n="20"/>pietati necessarium, quando magis est necessarium. An non cogitamus quando ad istorum periculorum extrema peruenitur, nec 
+       <lb ed="#B" n="21"/>est potestas illa fugiendi, quantus in ecclesia fieri soleat ab vtroque sexu atque ab omni aetate concursus 
+       <lb ed="#B" n="22"/>aliis baptismum flagitantibus, aliis reconciliationem, aliis etiam poenitentiae ipsius actionem, omnibus consolationem 
+       <lb ed="#B" n="23"/>&amp; sacramentorum confectionem &amp; erogationem: vbi si ministri desint, quantum exitium sequatur eos qui de isto sae- 
+       <lb ed="#B" n="24"/>culo vel non regenerati exeunt vel ligati: quantus denique gemitus omnium, &amp; quorundam quanta blasphemia 
+       <lb ed="#B" n="25"/>de absentia ministeriorum &amp; ministrorum: Alii vero aguunt idem alia via sic. dicente Aug. ibidem. Sunt sane 
+       <lb ed="#B" n="26"/>qui arbitrantur epseos, &amp; clericos non fugientes in talibus periculis, sed manentes, facere vt plebes decipian  
+       <lb ed="#B" n="27"/>tur, cum ideo non fugiunt quia manere suos praepositos cernunt. Quibus respondet <name ref="#Augustine">Augustinus</name> subdens. Sed fa 
+       <lb ed="#B" n="28"/>cile est hanc responsionem vel inuidiam declinare alloquendo easdem plebes atque dicendo. Non vos decipiat 
+       <lb ed="#B" n="29"/>quod de isto loco non fugimus. Non enim propter nos, sed propter vos potius hic manemus, ne vobis non 
+       <lb ed="#B" n="30"/>ministremus quicquid saluti vrae, quae in Christo est, nouerimus necessarium. Si ergo fugere volueritis, 
+       <lb ed="#B" n="31"/>&amp; nos ab istis quibus tenemur viculis soluistis. Quod tunc puto esse dicendum: quando vere videtur vtile esse ad loca tu 
+       <lb ed="#B" n="32"/>tiora migrare. Quo audito, si vel omnes, vel aliqui dixerint, in illius potestate sumus cuius iram nullus quocumque  
+       <lb ed="#B" n="33"/>vadit euadit: cuius misericordiam vbicumque sit, potest inuenire qui nusquam vult ire, siue certis necessitatibus impe 
+       <lb ed="#B" n="34"/>ditus siue laborare nolens ad incerta suffugia,  non ad finienda, sed ad mutanda pricula: procul dubio 
+       <lb ed="#B" n="35"/>isti deserendi non sunt ministro Christiano. Si autem hoc audito abire maluerint, nec illis manen 
+       <lb ed="#B" n="36"/>dum est, qui propter illos manebant. &amp; infra. Melius autem quod in his periculis faciamus inuenire non possumus quam ora 
+       <lb ed="#B" n="37"/>tiones ad dominum deum nostrum vt misereatur nostri. 
+       <lb ed="#B" n="38"/>pibis Qvopub. xv. 
+       <lb ed="#B" n="39"/>in chalcographia lodoci Badii Ascensii. Cui Christianissimus Prancorum rex concessit de singulari 
+       <lb ed="#B" n="40"/>gratia priuilegium &amp; auctoritatem imprimendi &amp; vendendi in regno suo haec &amp; alia Magistri nostri 
+       <lb ed="#B" n="41"/>Henrici de Gandauo opera: cum defensione ne alius quispiam audeat eadem imprimere aut impressa 
+       <lb ed="#B" n="42"/>aliubi venundare sub poena confiscationis sic impressorum intra triennium ab vndecimo Ralen- 
+       <lb ed="#B" n="43"/>das Sepremb. Anni domini MDXVIll. Vt constat per literas patentes regio sigillo obsignatas &amp; com 
+       <lb ed="#B" n="44"/>cessas, &amp;resente Reuerendo in Christo patre domino Episcopo Parrhisien. &amp; pluribus aliis: subsignante
+       <!-- drops --> Pedoyn 
+       <!--1244.xml-->
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

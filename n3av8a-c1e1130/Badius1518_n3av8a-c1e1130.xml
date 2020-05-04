@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 17</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 17</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="78-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1130">
+      <head xml:id="n3av8a-c1e1130-Hd1e96">Quaestio 17</head>
+      <p xml:id="n3av8a-c1e1130-d1e99">
+       <lb ed="#B" n="42"/>SEquuntur ea quae pertinent ad status diuersos hominis generati. Et erat vnum per- 
+       <lb ed="#B" n="43"/>tinens ad statum naturae. Plura vero alia pertinentia ad statum superuenientem na 
+       <lb ed="#B" n="44"/>turae. Illud vnum erat. Vtrum homo sit liberi arbitrii. 
+      </p>
+      <p xml:id="n3av8a-c1e1130-d1e108">
+       ET arguitur quod non: quo-  
+       <lb ed="#B" n="45"/>niam homo non potest velle nisi bonum: quia secundum Dionysium nulilus agit ali 
+       <lb ed="#B" n="46"/>quid aspiciendo ad malum. sed quod est determinatum ad vnum tantum, non est liberi arbitrii. er- 
+       <lb ed="#B" n="47"/>go &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1130-d1e117">
+       IN oppositum est communis opinio omnium. <ref xml:id="n3av8a-c1e1130-Rd1e119">loannes enim Damascenus di-  
+       <lb ed="#B" n="48"/>cit libro septimo sententiarum caplo. xxvii. sermo. de libero arbitric</ref>. Quod in nobis est 
+       <lb ed="#B" n="49"/>primam quaestionem habet, si est quidem in nobis. Multi enim sunt qui ad hoc obuiant dicentes omnia fie 
+       <lb ed="#B" n="50"/>ri de necessitate, negantes liberum arbitrium directe. Quidam enim dicebant omnia in hominibus com- 
+       <lb ed="#B" n="51"/>tingere necessitate diuinae prouidentiae: quidam necessitate impressionis corporum caelestium seu fa- 
+       <lb ed="#B" n="52"/>ti. Alii autem liberum arbitrium negant: licet indirecte: ponentes omnia fieri a voluntate necessitate  
+       <lb ed="#B" n="53"/>rationis determinantis: &amp; libertatem solum ponunt ex parte rationis in determinando. Alii vero po 
+       <lb ed="#B" n="54"/>nebant omnia fieri a casu &amp; fortuna. &amp; habent haec singula proprias disputationes quibus debent im 
+       <!--197.xml-->
+       <pb ed="#B" n="78-v"/>
+       <lb ed="#B" n="1"/>probari. His ergo ad praesens omissis, dicendum: secundum quod dicit Damascenus: quod si homo nullius actio- 
+       <lb ed="#B" n="2"/>nis suae esset principium liberum: superflue haberet consiliari. Ad quid enim vtitur consilio, nullius ens dominus 
+       <lb ed="#B" n="3"/>actus: q. d. frustra. Quia ergo non est frustra neque vanum consiliari atque negotiari: vt vult <name ref="#Aristotle">philosophus</name> in  
+       <lb ed="#B" n="4"/>libro Peri hermenias: homo dominus est aliquorum actuum suorum: &amp; hoc est esse liberi arbitrii. Absolute er- 
+       <lb ed="#B" n="5"/>go dicendum quod homo liberi arbitrii est: sed quomodo, considerandum est. Est igitur sciendum quod liberum ar G 
+       <lb ed="#B" n="6"/>bitrium quicquid debeat dici, aut habitus, aut potentia, siue pertinens ad voluntatem, siue ad rationem: 
+       <lb ed="#B" n="7"/>de quo nihil ad praesens: hoc tamen de ipso certum est, quod est quasi dispositio media inter voluntatem &amp; ob- 
+       <lb ed="#B" n="8"/>iectum volitum, explicans modum eliciendi actum volendi ex voluntate: vt tendit in obiectum volitum. Po- 
+       <lb ed="#B" n="9"/>test ergo liberum arbitrium in duplici respectu considerari. Vno videlicet inquantum respicit voluntatem 
+       <lb ed="#B" n="10"/>vt elicientem actum volendi. Alio inquantum respicit obiectum vt terminum eius. Et secundum vtrumque respe- 
+       <lb ed="#B" n="11"/>ctum iudicanda est ipsa arbitrii libertas: sed essentialius secundum primum. Quia est dispositio voluntatis 
+       <lb ed="#B" n="12"/>vt subiecti: licet in respectu ad obiectum inquantum tendit in ipsum per suam actionem: quid non oportet ad  
+       <lb ed="#B" n="13"/>praesens exponere. Si ergo consideretur liberum arbitrium in primo respectu: sic dico quod voluntas dicitur li- 
+       <lb ed="#B" n="14"/>berum arbitrium: quia absoluta est ab omni coactione ipsam impediente &amp; contristante in sua actione. Vo 
+       <lb ed="#B" n="15"/>luntas enim omnis vt libere tendit in suam actionem, delectabilis est. necessitas coactionis contristans: quia est com- 
+       <lb ed="#B" n="16"/>tra voluntatem: &amp; omne quod cogit, necessario est contristabile. vt dicit commentator supe quinto Metaphy- 
+       <lb ed="#B" n="17"/>sicae. Et hoc modo homo &amp; omnis rationalis &amp; intellectualis natura liberi arbitrii siue liberae voluntatis est 
+       <lb ed="#B" n="18"/>quia voluntas rationalis cogi non potest: coactione dico impellente. iuxta illud quod dicit <name ref="#Anselm">Anselmus</name> de 
+       <lb ed="#B" n="19"/>concord. praed. &amp;c. Voluntatis arbitrium vt rectitudinem deserat, nulla cogitur necessitate, quamuis mortis 
+       <lb ed="#B" n="20"/>impugnetur difficultate. <ref xml:id="n3av8a-c1e1130-Rd1e191" target="http://scta.info/resource/aristmet-l5">Philosophus in quinto Metaphysicae</ref>. Aestimatur quod necessitas. i. coactio non facit 
+       <lb ed="#B" n="21"/>opinantem reuerti &amp; mutari a sua dispositione: in id quid est contrarium motui qui sit per voluntatem &amp; co- 
+       <lb ed="#B" n="22"/>gitationem. Coactione dico impellente &amp; omnino ligante ne poterit velle propter ligamen violentiae, quod velle pos 
+       <lb ed="#B" n="23"/>set de se. Coactione autem inducente ad aliquid agendum quod alias non ageret: vt proiicere merces in mari 
+       <lb ed="#B" n="24"/>metu mortis: vt per hoc quis euadat: vel retrahente ne agat quod alias vellet agere: vt timor suspendii, qui  
+       <lb ed="#B" n="25"/>tenet latronem ne furetur: voluntas bene potest cogi. &amp; hoc a prosecutione actus exterioris solum. Quo ad  
+       <lb ed="#B" n="26"/>hunc enim actum non solum in naturalibus: sed etiam in supernaturalibus: non est hominis via eius vt ambulet. 
+       <lb ed="#B" n="27"/>Hieremiae decimo. Et haec est coactio quae impedit voluntatem: &amp; facit inuoluntarium aliquo modo, quod  
+       <lb ed="#B" n="28"/>tamen simpliciter est voluntarium. Quia coacta voluntas simpliciter voluntas est: &amp; coactio secundum quid  
+       <lb ed="#B" n="29"/>Tali voluntate liberi arbitrii vtentur beati: qui cum desiderio &amp; amore volent quicquid volent, non ali 
+       <lb ed="#B" n="30"/>qua coactione: quia illa necessario esset contristans. neque enim aliquo impulsu naturali vel supnaturali, 
+       <lb ed="#B" n="31"/>sed sola allectione boni voluntas feretur in id quodcunque volet. Si autem consideretur liberum arbi- 
+       <lb ed="#B" n="32"/>trium in secundo respectu: sic dico quod voluntas dicitur libera: quia indifferens ad diuersa &amp; contraria 
+       <lb ed="#B" n="33"/>sine omni determinatione restringente ipsam ad alterum eorum. Et largo modo loquendo de actu volum- 
+       <lb ed="#B" n="34"/>tatis interioris, solummodo sic libera est &amp; circa ea quae in nobis sunt &amp; non in nobis. Secundum enim quod 
+       <lb ed="#B" n="35"/>dicit Damascenus, vulisis. i. voluntas est appetitus &amp; desiderium cuiuslibet rei in his quae sunt in nobis 
+       <lb ed="#B" n="36"/>&amp; in his quae non sunt in nobis. &amp; hoc est in pluribus &amp; in simplicibus. Volumus enim fornicari vel so 
+       <lb ed="#B" n="37"/>brii esse, vel dormire, vel aliquid talium: quam in nobis pariter contingunt partita: moueri &amp; non moueri: appete 
+       <lb ed="#B" n="38"/>re &amp; non appetere necessaria: mentiri &amp; non mentiri: dare &amp; non dare: &amp; quaecumque talium. Haec enim scimus 
+       <lb ed="#B" n="39"/>liberum arbitrium facere. Volumus autem &amp; reges esse: quod non est eorum quae sunt in nobis. Volumus autem 
+       <lb ed="#B" n="40"/>fortassis &amp; nunquam mori: hoc autem impossibilium nobis est. Hoc etiam modo omnis creatura rationalis &amp; 
+       <lb ed="#B" n="41"/>intellectualis liberi arbitrii est. secundum quod dicit Damascenus capulo. xxix. In quibus est rationale, con- 
+       <lb ed="#B" n="42"/>festim commutatur liberum arbitrium. Omne enim generabile vertibile. Inanimata quidem irrationa  
+       <lb ed="#B" n="43"/>lia vertuntur secundum corporeas alterationes: rationalia vero secundum electionem. Oportet autem sci 
+       <lb ed="#B" n="44"/>re vt dicit Damasce. quoniam angeli rationales existentes liberi arbitrii existunt vt creabiles &amp; vertibiles. 
+       <lb ed="#B" n="45"/>Quoid ostendit quidem quod diabolus bonus a conditione factus libertate arbitrii malitiae inuentor effectus 
+       <lb ed="#B" n="46"/>est. Quomodo autem posse non pertinet ad naturam libertatis arbitrii: &amp; quomodo non est liberi arbitrii 
+       <lb ed="#B" n="47"/>ex puris naturalibus posse in bonum meritorium: &amp; quomodo peccatum corrumpit naturale liberum arbi- 
+       <lb ed="#B" n="48"/>trium: hoc declarare non pertinens est ad propositum. 
+      </p>
+      <p xml:id="n3av8a-c1e1130-d1e256">
+       AD argumentum in contrarium, quod homo non potest velle 
+       <lb ed="#B" n="49"/>nisi bonum: Dicendum ad hoc, quod secundum <name ref="#Aristotle">philosophum</name> in septimo Ethicorum, quid cuius gratia in actionibus 
+       <lb ed="#B" n="50"/>principium est: quemadmodum in Mathematicis suppones. &amp; vt dicit in fine secundi physicorum: necessitas 
+       <lb ed="#B" n="51"/>est in doctrinis: &amp; in his quae secundum naturam fiunt quodammodo similiter. Sicut ergo in doctrinis &amp; 
+       <lb ed="#B" n="52"/>in rebus Mathematicis suppones: &amp; primae propones per se notae sese habent ad intellectum &amp; ad conclu- 
+       <lb ed="#B" n="53"/>siones sequentes, quod per se de necessitate &amp; naturaliter ab intellectu cognoscuntur: &amp; illis cognitis &amp; ap- 
+       <lb ed="#B" n="54"/>plicatis per immediata ex eis necessario cognoscuntur conclusiones quia vt dicit <name ref="#Aristotle">philosophus</name> in secundo Metaphysicae 
+       <!--198.xml-->
+       <pb ed="#B" n="79-r"/>
+       <lb ed="#B" n="1"/>se habent sicut locus ianuae in domo, quem nullus ignorat. Vbi dicit commentator: quod in quolibet genere en 
+       <lb ed="#B" n="2"/>tium sunt aliqua respectu aliorum, quasi ianua respectu domus: &amp; haec non latent aliquem: sicut locus ianuae  
+       <lb ed="#B" n="3"/>domus non latet aliquem. Et ista sunt prima cognita naturaliter a nobis in quolibet genere entium. Sic 
+       <lb ed="#B" n="4"/>in iis quae siunt voluntarie propter finem aliquem, finis ipse se habet ad voluntatem &amp; ad operabilia quae  
+       <lb ed="#B" n="5"/>sunt ad finem, quod per se de necessitate &amp; naturaliter velit illud voluntas: &amp; propter illa vult omnia alia 
+       <lb ed="#B" n="6"/>quae sunt ad ipsum, inquantum vult illud. Quia igitur bonum simpliciterquod est vltimum &amp; summum 
+       <lb ed="#B" n="7"/>bonum &amp; finis vnicus omnium, in quo solo potest quiescere appetitus humani animi: secundum illud quod  
+       <lb ed="#B" n="8"/>dicit <name ref="#Augustine">Augustinus</name> in principio confessionum. Fecisti nos ad te: &amp; inquietum est cor nostrum donec requiescat 
+       <lb ed="#B" n="9"/>in te. Bonum igitur illud apprehensum &amp; cognitum determinate non potest non appeti determinate: &amp; nunc sicut 
+       <lb ed="#B" n="10"/>indeterminate cognoscitur in creaturis, indeterminate appetitur: &amp; cum in se sit omnis boni rationis contentiuum 
+       <lb ed="#B" n="11"/>&amp; quicquid boni est in creaturis siue verum siue apparens: hoc non est nisi quia aliquam effigiem illius re- 
+       <lb ed="#B" n="12"/>praesentat: ita quod in omni eo quod appetitur, aliqua ratio illius boni quaeritur: &amp; appetitur. iuxta illud quod di  
+       <lb ed="#B" n="13"/>cit <name ref="#Augustine">Augustinus</name> secundo de libero arbitrio: Vae qui derelinquunt te ducem: &amp; oberrant in vestigiis tuis:  
+       <lb ed="#B" n="14"/>qui nutus tuos pro te amant: &amp; obliuiscuntur quid innuas. Non cessas innuere nos quae &amp; quanta sint: &amp; 
+       <lb ed="#B" n="15"/>nutus tui sunt omnis creaturarum decor &amp;c. ldeo contingit quod voluntas rationalis in bonum simpliciter, vel 
+       <lb ed="#B" n="16"/>verum, vel apparens fertur necessario: ita quod nullo modo in id in quo species boni non apparet. Vnde dicit Dio 
+       <lb ed="#B" n="17"/>nysius caplo sexto de diuinis nominibus. Si quidem malum sit, non omnino malum: sed habet quandam opti 
+       <lb ed="#B" n="18"/>mi secundum quam omnino est, partem. Et si bonum &amp; optimum appetunt omnia: quaecunque faciunt per inspe 
+       <lb ed="#B" n="19"/>ctum optimum faciunt: &amp; omnis speculatio principium habet &amp; finem optimum. Neque enim in mali natu-  
+       <lb ed="#B" n="20"/>ram respiciens facit quod facit. Et in eodem. Omnibus etiam malis principium &amp; finis erit bonum. propter 
+       <lb ed="#B" n="21"/>enim bonum omnia &amp; quaecumque bona, &amp; quacumque contraria. Etenim &amp; haec agimus bonum desiderantes. Nemo enim ma 
+       <lb ed="#B" n="22"/>lum respiciens facit quod facit. De eodem etiam dicit Augustinus. Si diligenter inspiciatur, forte ipsum peccare 
+       <lb ed="#B" n="23"/>nemo velit: sed propter aliud quod vult peccat. omnes quippe homines qui scienter faciunt quod non licet:  
+       <lb ed="#B" n="24"/>vellent licere: vsqueadeo nemo ipsum peccare appetit propter hoc ipsum: sed propter aliud quid ex eo 
+       <lb ed="#B" n="25"/>consequitur. Et licet voluntas, vt dictum est, necessario fertur in bonum absolute: &amp; ita non libere a determina-  
+       <lb ed="#B" n="26"/>tione: hoc non est contra rationem libertatis simpliciter. quoniam oppositum bono sub ratione qua bonum  
+       <lb ed="#B" n="27"/>non est nisi malum. Quid autem voluntas non habeat se ad malum, in nullo derogat libertati: sicut patet in deo  
+       <lb ed="#B" n="28"/>&amp; in beatis: &amp; ex hoc maxime: quod in eis in quibus est posse in malum: posse ex respectu illo quo potest in ma-  
+       <lb ed="#B" n="29"/>lum, non habet rationem libertatis: sed magis defectus a motu in id in quod libere deberet ferri. dicen- 
+       <lb ed="#B" n="30"/>te <name ref="#Anselm">Anselmo</name> de libero arbitrio. Libertatem arbitrii non puto esse potentiam peccandi &amp; non peccandi. Quia 
+       <lb ed="#B" n="31"/>si haec esset eius definitio: nec deus nec angelus qui peccare nequeunt, liberum haberent arbitrium: quid  
+       <lb ed="#B" n="32"/>nefas est dicere. Quoniam ergo liberum arbitrium diuinum, &amp; bonorum angelorum peccare non po- 
+       <lb ed="#B" n="33"/>test: non pertinet ad definitionem libertatis arbitrii, peccare posse. Denique nec libertas, nec pars liberta 
+       <lb ed="#B" n="34"/>tis est peccandi potestas. Etsi ergo voluntas non fertur per indifferentiam ad diuersa contraria bonum 
+       <lb ed="#B" n="35"/>&amp; malum scilicet: sed solum in bonum: hoc nihil contra libertatem facit. Sed in hoc consistit ratio liber 
+       <lb ed="#B" n="36"/>tatis, quod nulla coactio potest impedire quin in bonum vergat si velit: nec in hoc solo: sed quod non impe- 
+       <lb ed="#B" n="37"/>tu naturae praecedente motum voluntatis &amp; voluntatem in actum impellente vult homo quae vult &amp; quae  
+       <lb ed="#B" n="38"/>appetit: quemadmodum appetunt bruta: sed desiderio &amp; complacentia voluntatis praecedente: &amp; natu-  
+       <lb ed="#B" n="39"/>rali impetu voluntatem concomitante. voluntas enim est instrumentum seipsum mouens in obiectum bonum: 
+       <lb ed="#B" n="40"/>tanquam primum principium sui motus. Quidam enim negantes voluntatem cogi, posuerunt eam necessita 
+       <lb ed="#B" n="41"/>te naturae: non libertate moueri erga bonum. Necessarium enim dicitur multis modis, secundum philo 
+       <lb ed="#B" n="42"/>sophum quito Metaphysicae: &amp; per violentiam: &amp; quid ex dispositione naturae suae impossibile est quod sit alio 
+       <lb ed="#B" n="43"/>modo. Quod bene stat cum voluntario vt dictum est: quia vtriusque principium est intra: licet non violentum  
+       <lb ed="#B" n="44"/>quia eius principium est omnino extra: neque necessarium ex necessitate naturae praecedens &amp; impellens vo- 
+       <lb ed="#B" n="45"/>luntatem. Sed hoc discutere non pertinet directe ad praesentem quaestionem. Vnde Damascenus libro secundo  
+       <lb ed="#B" n="46"/>capulo. xix. Aut non erit rationale, aut rationale ens dominus erit actuum, &amp; liberum arbitrium. Vnde &amp; irra 
+       <lb ed="#B" n="47"/>tionalia non sunt liberi arbitrii. Aguntur enim a natura magis quam agunt: &amp; ideo non contradicunt naturali 
+       <lb ed="#B" n="48"/>appetitui: sed simul appetunt quidem &amp; impetum faciunt ad actum. Homo autem rationalis existens ma 
+       <lb ed="#B" n="49"/>gis naturam agit quam agatur. ldeoque appetens siquid velit, potestatem habet refraenare appetitum vel se 
+       <lb ed="#B" n="50"/>qui eum. Et per hunc modum patet quomodo voluntas erit liberrima in beatis: vbi natura omnino erit 
+       <lb ed="#B" n="51"/>obediens bonae voluntati: quae proprio desiderio &amp; complacentia naturalem impetum naturae libere tra- 
+       <lb ed="#B" n="52"/>het in finem suum: a quo quia in se continet omnem rationem omnis boni, propter naturam concomitan 
+       <lb ed="#B" n="53"/>tem: nullo modo potest se diuertere: sicut bruta non possunt se diuertere ab appetitu boni apprehensi 
+       <lb ed="#B" n="54"/>ab eis, quia apprehenditur sub ratione boni particularis. Sed homo in praesenti vita potest se diuertere 
+       <!--199.xml-->
+       <pb ed="#B" n="79-v"/>
+       <lb ed="#B" n="1"/>a quolibet alio bono: quia apprehendit bonum aliud sub ratione vniuersalis, sub quo plura bona conti 
+       <lb ed="#B" n="2"/>nentur: in quibus nuilum eorum est quod in se omnem rationem boni continet quantuncumque magnum sit. 
+       <lb ed="#B" n="3"/>Quemadmodum sub forma artis vniuersali continentur multae figurae domorum: ita quod nulla earum potest 
+       <lb ed="#B" n="4"/>continere omnem figurationem secundum quam ex forma artis potest domus produci. propter quod vo- 
+       <lb ed="#B" n="5"/>luntas artificis libere potest inclinari ad faciendum domum cuiuscumque figurationis: &amp; ad nullam deter  
+       <lb ed="#B" n="6"/>minatur: neque etiam ex determinatione rationis: quia contra eam potest agere voluntas: vt in alio Quo  
+       <lb ed="#B" n="7"/>libet determinatum est. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

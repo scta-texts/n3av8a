@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="77-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1116">
+      <head xml:id="n3av8a-c1e1116-Hd1e96">Quaestio 16</head>
+      <p xml:id="n3av8a-c1e1116-d1e99">
+       <lb ed="#B" n="36"/>Equuntur quaestiones pertinentes ad hominem compositum ex anima &amp; corpore, ex par 
+       <lb ed="#B" n="37"/>te ipsius coniuncti. Et erat vna pertinens ad eius generationem: quaedam vero aliae 
+       <lb ed="#B" n="38"/>ad diuersos status hominis generati. Prima erat. Vtrum homo generat homi-  
+       <lb ed="#B" n="39"/>nem. 
+      </p>
+      <p xml:id="n3av8a-c1e1116-d1e110">
+       CIRca quod arguitur quod non: quia homo dicitur homo ab intellectu: sed homo 
+       <lb ed="#B" n="40"/>in homine non generat intellectum: quia ab extrinseco est, secundum philosophum. er- 
+       <lb ed="#B" n="41"/>go &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1116-d1e117">
+       IN contrarium est id quid dicit <name ref="#Aristotle">philosophus</name> in secundo Physicorum. Homo generat ho 
+       <lb ed="#B" n="42"/>minem ex materia &amp; sol. 
+      </p>
+      <p xml:id="n3av8a-c1e1116-d1e125">
+       DIcendum ad hoc: quod secundum <name ref="#Aristotle">philosophum</name> in quin-  
+       <lb ed="#B" n="43"/>to Physicorum per se termini generationis &amp; corruptionis distinguuntur penes esse &amp; non esse: quia ge- 
+       <lb ed="#B" n="44"/>neratio est transmutatio a non esse in esse: sicut econuerso corruptio est transmutatio ab esse in non esse. 
+       <lb ed="#B" n="45"/>&amp; ideo eo alicui attribuitur generatio vel corruptio quo ei attribuitur esse: quod habetur per generationem &amp; de-  
+       <lb ed="#B" n="46"/>struitur per corruptionem. Nunc autem vt dictum est ex praecedentibus, esse per se est dispositio com 
+       <lb ed="#B" n="47"/>positi: &amp; per materiam &amp; per formam. aliorum tamen non est dispositio per se: sed solum secundum quod sunt aliquid com- 
+       <lb ed="#B" n="48"/>positi, &amp; ideo quodammo per accidens eis conuenit. &amp; sic generatio &amp; corruptio per se debent attribui com- 
+       <lb ed="#B" n="49"/>posito: quia per se acquirit, vel amittit esse: materiae autem &amp; formae secundum esse quod habent in composito: quia 
+       <lb ed="#B" n="50"/>scilicet acquirunt esse aliquid in composito, vel amittunt id, non quia acquirant aliquid, vel amittant, vel certitu- 
+       <lb ed="#B" n="51"/>dine sua qua sunt id quod sunt in essentia sua absoluta: qua vnum eorum distinguitur ab alio. Vnde in con 
+       <lb ed="#B" n="52"/>positis naturalibus in quibus forma educitur de potentia materiae: nihil minus dicitur per se gene- 
+       <lb ed="#B" n="53"/>rari compositum ab agente per naturam per hoc quod ei esse acquiritur: licet non generet essentiam mate- 
+       <lb ed="#B" n="54"/>riae ipsam producendo in esse naturae suae de nihilo: sed quia per actionem generantis acquiritur ei esse 
+       <!--195.xml-->
+       <pb ed="#B" n="77-v"/>
+       <lb ed="#B" n="1"/>in tali composito. Et similiter corrumpens actuale dicitur vere corrumpens quando destruit esse compositi: &amp; per 
+       <lb ed="#B" n="2"/>consequens materiae quod habuit esse in composito: licet non destruat essentiam materiae: quae secundum <name ref="#Aristotle">philosophum</name> in fine 
+       <lb ed="#B" n="3"/>primi Physicorum, ingenita est &amp; incorruptibilis. Sic igitur alicui composito acquiritur esse per agens aliquod: &amp; si 
+       <lb ed="#B" n="4"/>ipsum agens non possit supe essentiam componentium secundum se: ipsam producendo in esse quo ad amborum substan  
+       <lb ed="#B" n="5"/>tiam &amp; esse naturae seu essentiae: sed solum quo ad esse actuale quod habent in composito, nihil minus dicetur per se 
+       <lb ed="#B" n="6"/>generare ipsum compositum. Nunc autem ita est quod eius corruptio qua destruitur ab esse est agentis naturalis: &amp; 
+       <lb ed="#B" n="7"/>generatio qua ei acquiritur esse est ei naturalis: quia secundum <name ref="#Aristotle">philosophum</name> in primo caeli &amp; mundi, si vnum contra 
+       <lb ed="#B" n="8"/>riorum est naturale &amp; reliquum. Hoc autem per agens naturale vere corrumpitur &amp; amittit esse per mortem ex se- 
+       <lb ed="#B" n="9"/>paratione partium suarum essentialium substantialiter constituentium ipsum: licet non corrumpat in essentia 
+       <lb ed="#B" n="10"/>sua animam eius: neque materiam: vel quid amplius est, neque corpus quo ad formam eductam de potentia materiae  
+       <lb ed="#B" n="11"/>vt dictum est supra de morte Christi. Vere ergo homo debet dici generari per agens naturale: vt per hominem. 
+       <lb ed="#B" n="12"/>Intelligendum tamen quod aliquantulum minus, proprie homo dicitur generare hominem: quia intellectum qui est for 
+       <lb ed="#B" n="13"/>ma a qua homo est homo: &amp; habet esse specificum: non extrahit de potentia materiae. sicut bos dicitur genera 
+       <lb ed="#B" n="14"/>re bouem: &amp; vnum agens naturale id cuius formam educit de potentia materiae. generans enim educens formam 
+       <lb ed="#B" n="15"/>de potentia materiae, licet per se generet compositum: quia est id cui in se acquirit esse vt propriam dispositio- 
+       <lb ed="#B" n="16"/>nem eius sicut dictum est: &amp; nullo modo generet essentiam materiae: sed ipsam praesupponit: &amp; solum acqui-  
+       <lb ed="#B" n="17"/>rit ei nouum esse in composito per formam: tamen aliquo modo etiam generat essentiam formae ipsam producendo in  
+       <lb ed="#B" n="18"/>actum de potentia materiae ipsum in sua substantia transmutando: vt de potentia formato fiat actum forma 
+       <lb ed="#B" n="19"/>tum: sicut sigillum exprimens substantiam caerae facit de non formato formatum: &amp; sic in composito essen- 
+       <lb ed="#B" n="20"/>tiam formae licet quoddam per accidens: quia non in se sed in alio: &amp; per se generando formam in composito 
+       <lb ed="#B" n="21"/>de potentia materiae in actum: quid ex se formaliter esse haberet &amp; actum si esset separata &amp; in se producta:  
+       <lb ed="#B" n="22"/>&amp; nunc quia non producitur nisi in alio: &amp; ex potentia alterius, est solummodo id alteri quo acquiritur es- 
+       <lb ed="#B" n="23"/>se &amp; est actus alterius. Proprie ergo tale generans generat compositum quod acquirit ei esse sua actione se 
+       <lb ed="#B" n="24"/>cundum essentiam eius causando id in ipso quo habet esse in actum, homo autem generans hominem nihil agit 
+       <lb ed="#B" n="25"/>super productionem animae humanae in existentia essentiae in materia &amp; in composito: neque vt existat in materia: si 
+       <lb ed="#B" n="26"/>cut neque vt existat in seipsa: quia nullo modo habet esse in potentia materiae: &amp; agens naturale nullo mo 
+       <lb ed="#B" n="27"/>do agit per potentiam super essentiam alicuius formae producendam nisi quatenus est in potentia materiae 
+       <lb ed="#B" n="28"/>de qua secundum essentiam suam producatur in composito. Et sic homo non generat hominem acquirendo  
+       <lb ed="#B" n="29"/>ei esse sua actione causando aliquo modo secundum essentiam eius illud in homine quo habet esse &amp; actum 
+       <lb ed="#B" n="30"/>scilicet quemadmodum bos generat bouem: immo quo ad hoc hominis generatio quodammodo potest di 
+       <lb ed="#B" n="31"/>ci supnaturalis magis quam naturalis: &amp; potius creatio quam generatio: &amp; homo potius debet dici opus dei 
+       <lb ed="#B" n="32"/>in sua productione, &amp; diuina generatio quam humana. Quia tamen homo in generatione hominis agit admi 
+       <lb ed="#B" n="33"/>nistrando materiam &amp; ipsam transmutando, non solum corrumpendo formam substantialem existentem 
+       <lb ed="#B" n="34"/>in ea absque omnis formae substantialis generatione: &amp; denudando ipsam materiam quantum est de se ab  
+       <lb ed="#B" n="35"/>omni forma substantiali: sicut dicit opinio ponentium quod forma substantialis in homine non est nisi ani  
+       <lb ed="#B" n="36"/>ma rationalis per creationem infusa: sed etiam generando formam aliquam naturalem de potentia materiae 
+       <lb ed="#B" n="37"/>vt dictum est supra. Aliter enim nihil omnino homo in generatione hominis generaret substantiale 
+       <lb ed="#B" n="38"/>sed tantummodo corrumperet. Illa autem forma licet quantum est de se, in potentia est: neque est nata habere 
+       <lb ed="#B" n="39"/>esse proprium neque secundum se alteri vt composito dare esse vt dictum est supra: tamen per animam ratio- 
+       <lb ed="#B" n="40"/>nalem nata est habere esse in actum &amp; in composito &amp; recipiendo esse actu ex vnione sua cum illa licet in  
+       <lb ed="#B" n="41"/>alio: quid quidem actus est vnus &amp; idem vtriusque: quem non potest illa forma habere opere agentis naturalis 
+       <lb ed="#B" n="42"/>sine anima: nec anima nata est illum habere in homine sine illa forma: sed forma illa nata est eum habe 
+       <lb ed="#B" n="43"/>re propter animam, &amp; anima propter illam formam. Non dico vt subiectum cuius habet esse per se dispo- 
+       <lb ed="#B" n="44"/>sitio: sed vt principium quod est ratio existendi ipsum in altero vt in composito: sicut patet ex praedeter- 
+       <lb ed="#B" n="45"/>minatis: in quod ambo simul perficiendo materiam secundum supra determinata tanquam actus vnus ab vlti 
+       <lb ed="#B" n="46"/>ma forma principaliter quodammodo procedens ad modum quo in definitione sunt plures differentiae quae  
+       <lb ed="#B" n="47"/>habent esse in actum: non nisi per vltimam quae est causa vnitatis definitionis vt supra dictum est: debent 
+       <lb ed="#B" n="48"/>vnum simul esse &amp; vnum actum composito: &amp; per easdem dispositiones habent esse in composito quas 
+       <lb ed="#B" n="49"/>causant in ipso: &amp; eas sibi determinant. Quia enim ad diuersitatem formarum requiritur diuersitas dispo 
+       <lb ed="#B" n="50"/>sitionum, hoc solum verum est de formis diuersis quae causant esse diuersa vel nata sunt causare. Vn  
+       <lb ed="#B" n="51"/>de vna &amp; eadem mixtio eiusdem proportionis conuenit vtrique dictarum formarum. Et per hunc mo- 
+       <lb ed="#B" n="52"/>dum homo vere dicitur generare hominem: quod non faceret si non esset forma in homine nisi rationa 
+       <lb ed="#B" n="53"/>lis anima: quae omnino ab extra est. Nunc enim generat: quod non faceret tunc: quia scilicet sua actione  
+       <lb ed="#B" n="54"/>in generando hominem acquiritur hominem esse actu in natura &amp; substantia sua per id quod actione scilicet 
+       <!--196.xml-->
+       <pb ed="#B" n="78-r"/>
+       <lb ed="#B" n="1"/>secundum suam essentiam producitur in esse de potentia materiae. Et non restat in hoc generatio homi- 
+       <lb ed="#B" n="2"/>nis ab homine, &amp; generatio bouis a boue: nisi quia bos generans de potentia materiae sua actione producit 
+       <lb ed="#B" n="3"/>formam quae ex se habet quod sit actus potens dare composito esse in actum: homo vero generans, de potentia materiae  
+       <lb ed="#B" n="4"/>sua actione producit formam quae non ex se habet quod sit actus potens alteri dare esse in actu sed solum ab alio &amp; per 
+       <lb ed="#B" n="5"/>vnionem substantialem alterius cum ipso. Et sic in homine est vere generatio vna ad vnum terminum scilicet ad esse 
+       <lb ed="#B" n="6"/>simpliciter vnicum terminata: quemadmodum quilibet numerus constituitur in esse suo vnico simplici 
+       <lb ed="#B" n="7"/>vnitate: licet sub illa sint plures aliae: vt non obstante pluralitate specierum in eodem, species humana be- 
+       <lb ed="#B" n="8"/>ne assimilatur numero: nec est inductio formae super formam sine transmutatione &amp; alteratione praece 
+       <lb ed="#B" n="9"/>dente: sed in termino vnius alterationis duae formae adueniunt diuersae: quae vnum esse causant vna 
+       <lb ed="#B" n="10"/>cum altera &amp; ambae simul: licet vna respectu alterius actus sit: &amp; altera vt potentia. propter quid neu-  
+       <lb ed="#B" n="11"/>tra potest esse accidentalis respectu alterius: secundum quod haec omnia patent ex supradictis. Et hoc re- 
+       <lb ed="#B" n="12"/>quirit dignitas humanae naturae: in qua debet compleri actio naturae adiutorio agentis supernatura 
+       <lb ed="#B" n="13"/>lis: vt sit homo horicon &amp; confinium naturalium &amp; supernaturalium, medius inter illa in natura &amp; esse 
+       <lb ed="#B" n="14"/>&amp; modo productionis: quemadmodum est medius in sua naturali operatione intellectiua vt dictum est. 
+       <lb ed="#B" n="15"/>Et haec vt credo est intentio philosophi in septimo Metaphysicae: vbi prtractans quomodo omne quod gene 
+       <lb ed="#B" n="16"/>ratur, generatur a sibi simili in natura &amp; specie, dicit. Palam quod generans tale quidem est quale generatum: neque ta 
+       <lb ed="#B" n="17"/>men idem numero: sicut est in rebus naturalibus. Homo enim generat hominem. Conmenta. Id est. sicut 
+       <lb ed="#B" n="18"/>est dispositio in speciebus generabilibus quarum generatio est naturalis. verbi gratia, homo qui genera 
+       <lb ed="#B" n="19"/>tur ab homine. Et induxit hoc exemplum vt dicit, ad demonstrandum propositionem vniuersalem dicentem 
+       <lb ed="#B" n="20"/>quod omne quod generatur, generatur a suo simili in forma: nunc autem non esset competens exemplum: nisi homo ge 
+       <lb ed="#B" n="21"/>neraret hominem vt dictum est, formam aliquam in eo de potentia materiae educendo. Et hoc videtur be 
+       <lb ed="#B" n="22"/>ne explicare litera post modicum sequens, quae dicit. Manifestum est igitur quod non oportet quod aliqua for- 
+       <lb ed="#B" n="23"/>ma sit quasi exemplar: vt pater possit agere vt non sit causa formae in materia. i. sicut dicit seipsum glos- 
+       <lb ed="#B" n="24"/>sando: vt generet formam quae est in his carnibus &amp; in his ossibus: &amp; vt generet Sortem &amp; Calliam: &amp; vt 
+       <lb ed="#B" n="25"/>generet alium per materiam: &amp; vt sit idem per formam. Vbi dicit Commentatorid est natura non indiget in  
+       <lb ed="#B" n="26"/>generatione rerum quae generantur exemplari: sed sufficit in generatione vt in generante sit poten- 
+       <lb ed="#B" n="27"/>tia ad agendum formam sibi similem in materia quae est in potentia forma eius. i. sicut dicit, quod actio eius 
+       <lb ed="#B" n="28"/>nihil aliud est quam extrahere id quod est in potentia, in actum. De hoc eodem dicit <name ref="#Aristotle">philosophus</name> in octauo eiusdem. Cau 
+       <lb ed="#B" n="29"/>sa hominis quasi materia est menstruum: &amp; causa quae est quasi motor, est sperma: &amp; causa quae est quasi 
+       <lb ed="#B" n="30"/>forma est id quod est quasi per essentiam: &amp; causa quae est sicut illud quod est propter quid, est complemen 
+       <lb ed="#B" n="31"/>tum: &amp; forte haec duo sunt idem. Vbi dicit commentatorid est nos videmus in homine quatuor causas: cau 
+       <lb ed="#B" n="32"/>sam materialem quae est sanguis menstruus: &amp; causam mouentem quae est sperma maris: &amp; causam 
+       <lb ed="#B" n="33"/>quae est secundum formam quae dat quiditatem rei per quam est: &amp; causam propter quam est generatio sci- 
+       <lb ed="#B" n="34"/>licet finis &amp; complementum: &amp; haec duo sunt idem: &amp; intendit causam formalem &amp; finalem. forma enim 
+       <lb ed="#B" n="35"/>vltima in generatione est id propter quod generatur ens. sunt ergo vnum in subiecto &amp; duo secundum 
+       <lb ed="#B" n="36"/>modum. Quare cum, vt dicit in secundo eiusdem, nullus incipit agere aliquam actionem nisi intendendo fi 
+       <lb ed="#B" n="37"/>nem: &amp; vt dicit commentator super tertium, illud cuius effectus non completur: non incipit fieri: neque  
+       <lb ed="#B" n="38"/>possibile est vt incipiat fieri: aut ergo homo nunquam inciperet agere ad generationem hominis aut inten- 
+       <lb ed="#B" n="39"/>deret aliquem actum quem produceret sua actione vt finem &amp; formam aliquam: vt in alio Quolibet dictum 
+       <lb ed="#B" n="40"/>est. Sic ergo secundum dictum modum vere dicitur quod homo generat hominem: &amp; patent obiecta vtri 
+       <lb ed="#B" n="41"/>usque partis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

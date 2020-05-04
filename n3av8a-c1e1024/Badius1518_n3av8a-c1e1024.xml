@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="61-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1024">
+      <head xml:id="n3av8a-c1e1024-Hd1e96">Quaestio 9</head>
+      <p xml:id="n3av8a-c1e1024-d1e99">
+       <lb ed="#B" n="25"/>SEquuntur pertinentia ad procedentia in esse a principio primo, scilicet ad creaturas 
+       <lb ed="#B" n="26"/>Et quaerebatur vnum pertinens ad creaturam simpliciter &amp; in generali: scilicet ad esse 
+       <lb ed="#B" n="27"/>&amp; essentiam eius. Plurima vero alia pertinentia ad diuersas creaturas in speciali. PRI- 
+       <lb ed="#B" n="28"/>mum erat. Vtrum sit ponere aliquam essentiam per indifferentiam se habentem ad esse &amp; ad  
+       <lb ed="#B" n="29"/>non esse. 
+      </p>
+      <p xml:id="n3av8a-c1e1024-d1e112">
+       ET arguitur primo quod non quoniam secundum <name ref="#Augustine">Augustinum</name> in quinto de trini 
+       <lb ed="#B" n="30"/>tate, essentia se habet ad esse sicut sapientia ad sapere. sed nulla sapientia potest se ha 
+       <lb ed="#B" n="31"/>bere per indifferentiam ad sapere &amp; non sapere: quia omnis sapientia determinare se ha-  
+       <lb ed="#B" n="32"/>bet ad actum sapiendi. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1024-d1e124">
+       CONtra. Ad scientiam non requiritur neque esse neque non esse rei: quia in  
+       <lb ed="#B" n="33"/>differenter se habet scientia ad esse de re, siue sit in esse, siue non, quod autem scitur, est quod quid est, &amp; essentia rei. 
+       <lb ed="#B" n="34"/>ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1024-d1e131">
+       HIC est aduertendum: quod secundum quod vult Auicenna in primo Metaphysicae suae, vnaquaeque res in sua 
+       <lb ed="#B" n="35"/>natura specifica habet certitudinem propriam quae est eius quiditas qua est id quod est, &amp; non aliud a se. sicut 
+       <lb ed="#B" n="36"/>albedo in sua natura habet certitudinem qua est albedo &amp; non nigredo: nec aliquid aliud. &amp; ob hoc conue 
+       <lb ed="#B" n="37"/>nit ei intentio qua dicitur res: quae est intentio alia circa naturam ipsam ab intentione de esse. Quoniam intentio 
+       <lb ed="#B" n="38"/>de re, est intentio prima simpliciter: ad quam concomitatur intentio de esse, ex hoc scilicet quod certitudo rei 
+       <lb ed="#B" n="39"/>qua est id quod est, secundum se habet esse in anima, siue in conceptu intellectus creati vel increati, aut in singu 
+       <lb ed="#B" n="40"/>laribus extra. Et sequitur secundum rationem intelligendi intentio de esse, intentionem de re. Quoniam certitu- 
+       <lb ed="#B" n="41"/>do naturae cuiuscumque quantum est de se habet conceptum absolutum quo scitur quid est res, absque conmuni 
+       <lb ed="#B" n="42"/>cantia intelligendi eam esse vllo modo, siue in anima, siue in singularibus. Non autem dico quod quantum est de 
+       <lb ed="#B" n="43"/>se habet esse absolutum absque eo quod habet esse in intellectu vel singularibus: tanquam sit aliquid separatum:  
+       <lb ed="#B" n="44"/>sed dico quod hoc ipsum quod est habet conceptum in se absolutum absque omnibus conditionibus quae sequuntur: vt con- 
+       <lb ed="#B" n="45"/>ceptus quo concipitur esse in anima, vel esse in rebus, vel esse vniuersale, vel esse particulare, vel esse vnum, vel esse mul 
+       <lb ed="#B" n="46"/>ta. Hoc autem, videlicet quod sic quantum est de se habet conceptum absolutum: non potest facere ipsum debere esse sepa 
+       <lb ed="#B" n="47"/>ratum per se, vt dicit Auicenna in libro quito. lpsum enim hoc quod est in se natum habere secundum se con- 
+       <lb ed="#B" n="48"/>ceptum absolutum sine omnibus conditionibus quae sequuntur illud, habet esse in istis: &amp; non nisi in istis: quia 
+       <lb ed="#B" n="49"/>aut est in anima, &amp; vniuersale, aut in rebus extra &amp; singulare. Si enim dicatur quod impossibile est quin animal  
+       <lb ed="#B" n="50"/>sit proprium &amp; in singularibus, vel comone &amp; in animae: &amp; intelligatur quod ipsum in sua animalitate debet esse: ne- 
+       <lb ed="#B" n="51"/>cessario alterum illorum falsum est. Nam ex sua animalitate nihil eorum est. Si enim ex sua animalitate esset pro- 
+       <lb ed="#B" n="52"/>prium &amp; in singularibus: tunc non posset non existere in singularibus proprium: neque existere in anima con 
+       <lb ed="#B" n="53"/>mune: neque econverso si ex sua animalitate esset commune, &amp; in anima. Si autem intelligatur impossibile in eis quae  
+       <lb ed="#B" n="54"/>sunt quin sit aliquid illorum: verax est: eo quod necessarium est animal esse proprium vel conmune: licet ex sua animali 
+       <!--162.xml-->
+       <pb ed="#B" n="61-r"/>
+       <lb ed="#B" n="1"/>tatem nec sit proprium nec commune: sed fit proprium vel commune per hoc quod accidit ei de conditionibus. vt enim 
+       <lb ed="#B" n="2"/>dicit in eodem cap, secundo, animal vel homo vel quiddam consideratum in seipso secundum hoc quod ip 
+       <lb ed="#B" n="3"/>sum est, non accepto cum eo hoc quod est sibi admixum. scilicet sine conditione communis aut proprii, vnius aut 
+       <lb ed="#B" n="4"/>multi, in potentia vel in effectum, in anima vel in singularibus. Animal enim ex eo quod est animal, &amp; homo 
+       <lb ed="#B" n="5"/>ex eo quod est home scilicet quantum ad definitionem suam &amp; intellectum secundum se absque consideratione om 
+       <lb ed="#B" n="6"/>nium aliorum quae concomitantur illud, non est nisi animal tantum vel homo: &amp; animal conmune vel pro-  
+       <lb ed="#B" n="7"/>prium: vel secundum respectum quo est in potentia, vel in effectu, vel in singularibus, vel intellectum 
+       <lb ed="#B" n="8"/>in anima est animal, &amp; aliud quod non est animal consideratum in se tantum. Poterit autem animal per se con 
+       <lb ed="#B" n="9"/>siderari: quamuis necessario sit cum alio a se. essentia enim eius est ipsa per se: &amp; est necessario cum alio a se quod  
+       <lb ed="#B" n="10"/>accidit ei, vel concomitatur naturam eius. Sicut albedo: quis sit inseparabilis a materia in se: tamen ha 
+       <lb ed="#B" n="11"/>bet esse albedo: sic &amp; materia aliquid aliud est considerata in se, quamuis veritati suae accidit adiungi alteri. Al- 
+       <lb ed="#B" n="12"/>terum esse igitur habet. consideratie scilicet animalis ex hoc quod est animal, ponitur in esse, &amp; animal quod est in-  
+       <lb ed="#B" n="13"/>diuiduum, &amp; vniuersale, &amp; caetera huiusmodi: sicut simplex praecedit compositum &amp; sicut pars totum. 
+       <lb ed="#B" n="14"/>&amp; hoc esse est tantum animal. sed concomitatur aliud esse: vniuersale. ni ex hoc quod est vniuersale est quiddam, &amp; 
+       <lb ed="#B" n="15"/>ex hoc quod est cui accidit vniuersalitas est quiddam aliud. Vnde cum in natura sua fuerit consideratum  
+       <lb ed="#B" n="16"/>homo vel equus, haec intentio quae est humanitas vel equinitas, alia est praeter intentionem vniuersali- 
+       <lb ed="#B" n="17"/>tatis. Definitio enim equinitatis est praeter definitionem vniuersalitatis: nec vniuersalitas continetur in de-  
+       <lb ed="#B" n="18"/>finitione equinitatis: sed est cui accidit vniuersalitas. vnde ipsa equinitas secundum se non est aliud nisi equi  
+       <lb ed="#B" n="19"/>nitas tantum, non multa, non vnum, nec existens in singularibus, nec in anima, nec est aliquid horum po- 
+       <lb ed="#B" n="20"/>tentia in actum: ita quod contineatur inter essentias equinitatis, vel sit de essentia equinitatis: sed hoc quod est 
+       <lb ed="#B" n="21"/>est equinitas tantum. Vnitas autem est, proprietas, quae cum adiungitur equinitati, fit equinitas propter ipsam proprieta 
+       <lb ed="#B" n="22"/>tem vnum. Et per hunc modum ponit Auicenna quod essentiae, &amp; quiditati rei qua est id quod est secundum se 
+       <lb ed="#B" n="23"/>accidunt omnia alia, non quia sunt secundum ipsum re, essentia, &amp; e natura aliae ab ipsa: facientia realem 
+       <lb ed="#B" n="24"/>compositionem cum ipsa: sed quia sunt intentiones secundum se extra intentionem essentiae rei conce- 
+       <lb ed="#B" n="25"/>ptibiles: ita quod cum essentia ipsa cum huiusmodi dispositionibus consideratur: vt quiddam vniuersum &amp; 
+       <lb ed="#B" n="26"/>compositum: haec vniuersitas, vt dicit cap. x. non est nisi in anima tantum. equinitas. nim ex hoc quod in definitione 
+       <lb ed="#B" n="27"/>eius conueniunt multa, est conis &amp; vniuersalis, &amp; ex hoc quod accipitur cum, proprietatibus &amp; accidentibus 
+       <lb ed="#B" n="28"/>signatis est singularis: &amp; sic de caeteris extra intentionem suam ei attributis: in se autem est equinitas tantum. 
+       <lb ed="#B" n="29"/>Vnde si aliquis interrogauerit de equinitate secundum contradictionem: aim scilicet equinitas ex hoc quod est equinitas 
+       <lb ed="#B" n="30"/>sit aliquid vel non: non erit responsio nisi secundum negationem quod dicendum est de ea extra suam in  
+       <lb ed="#B" n="31"/>tentionem: non autem secundum negationem eius quod ipsa est secundum se. quoniam equinitas ex hoc quod est equi  
+       <lb ed="#B" n="32"/>nitas, est equinitas tantum: non autem aliquid aliorum, neque vnum, neque multa, neque vniuersale, neque particula- 
+       <lb ed="#B" n="33"/>re, &amp; sic de caeteris. Si autem partes quaestionis fuerint duae affirmatiuae immediatae: vt vtrum equinitas 
+       <lb ed="#B" n="34"/>ex hoc quod est equinitas sit vnum, vel multa, vniuersalis, vel particularis &amp; sic de caeteris: responsio erit per du  
+       <lb ed="#B" n="35"/>as negatiuas: dicendo quod equinitas ex eo quod est equinitas, nec est vnum nec multa: nec particularis nec vniuer 
+       <lb ed="#B" n="36"/>salis, quamquam enim non sit nisi vniuersalis vel particularis, tamen ex ratione essentiae suae neutrum sibi determi-  
+       <lb ed="#B" n="37"/>nat: vt dictum est: sed est indifferens ad vtrunque: sicut homo &amp; album &amp; nigrum. Vnde humanitas quae  
+       <lb ed="#B" n="38"/>est in Platone, non est alia ab humanitate quae est in forte: ex eo quod ipsa est humanitas, quia ex hoc quod est 
+       <lb ed="#B" n="39"/>humanitas, est humanitas tantum: nec idem alteri, nec diuersum ab eo. Sed quod humanitas Sortis est alia ab  
+       <lb ed="#B" n="40"/>humanitate quae est in Platone, est quoddam accidens ei extrinsecum, non ex ratione qua est huma-  
+       <lb ed="#B" n="41"/>nitas. Est igitur intelligendum: quod circa quiditatem &amp; naturam rei cuiuscunque triplicem contingit ha 
+       <lb ed="#B" n="42"/>bere intellectum verum, &amp; vnum falsum. Triplicem quidem habet intellectum verum sicut &amp; tres modos 
+       <lb ed="#B" n="43"/>habet in esse. Vnum enim habet esse naturae extra in rebus: alterum vero habet esse rationis: tertium ve 
+       <lb ed="#B" n="44"/>ro habet esse essentiae. Animal. nm acceptum cum accidentibus suis in singularibus, est res naturalis: acce 
+       <lb ed="#B" n="45"/>ptum vero cum accidentibus suis in anima, est res rationis: acceptum vero secundum se, est res essentiae 
+       <lb ed="#B" n="46"/>de qua dicitur quod esse eius est prius quam esse eius naturae, vel rationis: sicut simplex est prius composito. &amp; 
+       <lb ed="#B" n="47"/>est secundum se in intellectu tantum: inquantum scilicet concipitur sine omni conditione rei alterius. Et vt dicit 
+       <lb ed="#B" n="48"/>Auicenna cap. octauo. hoc esse proprie dicitur definitiuum esse, &amp; est dei intentione. Quod intelligo: quia tale 
+       <lb ed="#B" n="49"/>esse non conuenit alicui nisi cuius ratio exemplaris est in intellectu diuino, per quam natum est fieri in rebus extra. 
+       <lb ed="#B" n="50"/>ita quod sicut ex relatione &amp; respectu ad ipsam vt ad causam efficientem habet quod sit ens in effectu: sic ex rela- 
+       <lb ed="#B" n="51"/>tione quadam, &amp; respectu ad ipsam vt ad formam extra rem, habet quod sit ens aliquod per essentiam. iuxta 
+       <lb ed="#B" n="52"/>illud quod dicit Auicenna in octauo Metaphysicae. Necesse esse cum sua certitudine est semper, &amp; cum sua sempi- 
+       <lb ed="#B" n="53"/>ternitate est per seipsum, &amp; non per aliud a se. Caeterarum vero rerum quiditates non merentur esse: sed pro  
+       <lb ed="#B" n="54"/>ut sunt in seipsis non considerata relatione earum ad necesse esse merentur priuationem. &amp; ob hoc sunt omnes 
+       <!--163.xml-->
+       <pb ed="#B" n="61-v"/>
+       <lb ed="#B" n="1"/>put sunt in seipsis, falsae. Sed propter ipsum est certitudo earum: &amp; respectu faciei sequentis sunt acquisita,  
+       <lb ed="#B" n="2"/>&amp; ob hoc omnis res perit nisi secundum id quod est versus facien eius. Vnde illud non ens quod non habet exem- 
+       <lb ed="#B" n="3"/>plar in deo: &amp; propterea non est natum esse extra aliquid in rerum natura: quale circunloqui intendimus hoc no 
+       <lb ed="#B" n="4"/>mine chimaera vel hircoceruus: illud omnino non potest dici natura vel essentia, aut res, vel certitudo aliqua  
+       <lb ed="#B" n="5"/>nata capi ab intellectum: quia non est obiectum nisi per quod est. vnde &amp; de tali non ente non potent esse scientia. 
+       <lb ed="#B" n="6"/>eius enim non entitas opponitur omni rationi entitatis, &amp; in singularibus extra &amp; secundum rationem, &amp; se- 
+       <lb ed="#B" n="7"/>cundum id quod est in esse definitiuo in anima. Intellectus autem falsus circa id quod secundum se est quiditas &amp; natu-  
+       <lb ed="#B" n="8"/>ra aliqua est intelligere ipsum esse secundum se aliquid absque omni conditione alterius, &amp; extra intellectum, 
+       <lb ed="#B" n="9"/>&amp; extra singularia. Et hoc modo aliqui imaginantur esse essentiae rei quod distinguimus contra esse eius natu  
+       <lb ed="#B" n="10"/>rae, &amp; esse rationis. &amp; male. Sicut enim esse naturae rei appellatur certitudo eius cum conditionibus quas habet ab ef- 
+       <lb ed="#B" n="11"/>ficiente extra in particularibus: &amp; esse rationis appellatur certitudo eius cum conditionibus quas ha-  
+       <lb ed="#B" n="12"/>bet ab intellectu in eius conceptu in relatione &amp; comperatione ad aliquid aliud: sic esse essentiae rei appellatur 
+       <lb ed="#B" n="13"/>certitudo eius concepta absolute: absque omni conditione quam nata est habere in esse naturae vel rationis. 
+       <lb ed="#B" n="14"/>Vnde vt vult Auicenna. xv. Certitudo rei ex hoc quod est res &amp; natura aliqua absolute est quiddam, sed non  
+       <lb ed="#B" n="15"/>existens nisi in singularibus vel in intellectu sicut dictum est: &amp; ex hoc quod ipsa nata est intelligi vt vniuer 
+       <lb ed="#B" n="16"/>sale vel particulare, est quiddam aliud: &amp; ex hoc quod est in actu extra in singularibus, est quiddam tertium.
+      </p>
+      <p xml:id="n3av8a-c1e1024-d1e338">
+       <lb ed="#B" n="17"/>CVM ergo quaeritur vtrum sit ponere aliquam essentiam se habere per indifferentiam ad esse &amp; non esse: di  
+       <lb ed="#B" n="18"/>stinguendum est de non esse. Aut enim loquimur de non esse quod negat omnem rationem essendi: quale non esse 
+       <lb ed="#B" n="19"/>est eius de quo non habet esse intellectus vel scientia: quod non habet rationem extra rem in deo: nec natum est 
+       <lb ed="#B" n="20"/>esse in rerum natura: nec est res aut natura siue quiditas aliqua. Aut de non esse quod negat esse secundum 
+       <lb ed="#B" n="21"/>vnam rationem essendi, ponit tamen esse secundum aliam, videlicet quod negat esse actualis existentiae in singu- 
+       <lb ed="#B" n="22"/>laribus extra: quale potest esse eius quod secundum se est natura &amp; quiditas aliqua: secundum quod expositum est 
+       <lb ed="#B" n="23"/>Loquendo de non esse primo modo: &amp; de quocumque esse sibi opposito, non est ponere neque in rerum natura, neque in in-  
+       <lb ed="#B" n="24"/>tellectu aliquam essentiam, quae per indifferentiam se habeat ad esse, &amp; ad non esse: quia quod illo modo est non esse 
+       <lb ed="#B" n="25"/>de se, est necesse non esse: sicut deus ipse ita habet esse quod est necesse esse. Nihil autem quid ex sua natura est 
+       <lb ed="#B" n="26"/>natura &amp; essentia aliqua secundum quod expositum est, potest habere tale non esse: quia tunc non esset natura seu 
+       <lb ed="#B" n="27"/>res &amp; essentia aliqua, &amp; implicaretur in subiecto oppositum praedicti. Vnde dicit Auicenna de tali non ente 
+       <lb ed="#B" n="28"/>Quomodo de non esse potest dici res: q. d. nullo modo. Loquendo autem de non esse secundo modo, quae scilicet id quod est 
+       <lb ed="#B" n="29"/>in se secundum conceptum mentis absolutum res &amp; natura aliqua non habet esse actu in singularibus 
+       <lb ed="#B" n="30"/>extra: hoc modo bene est ponere essentiam &amp; naturam aliquam quae per indifferentiam se habet ad esse &amp; ad non esse 
+       <lb ed="#B" n="31"/>sed distinguendum est ex parte indifferentiae. quia aliquid per indifferentiam se habere ad esse &amp; ad non esse, po 
+       <lb ed="#B" n="32"/>test intelligi dupliciter. Vno modo quod de facto neutrum habet: sed aequaliter se habet ad vtrumque. Alio modo 
+       <lb ed="#B" n="33"/>quod quantum est de natura &amp; essentia sua non ita sibi determinat vnum, quin possit habere alterum. Isto se 
+       <lb ed="#B" n="34"/>cundo modo essentia cuiuslibet creaturae inquantum creatura est, per indifferentiam se habet ad esse &amp; non esse. 
+       <lb ed="#B" n="35"/>non enim ita determinat sibi non esse existentiae actualis quin potest esse reciperet ab alio efficiente. Nec sic habet 
+       <lb ed="#B" n="36"/>esse ab alio, quin relictum sibi cadit in non esse. Quaelibet enim essentia creaturae hoc quod est in potentia est 
+       <lb ed="#B" n="37"/>vt actu sit: &amp; de se nihil est in actum: &amp; esse in actum non nisi ab alio habet. Et ideo secundum Boetium in quali  
+       <lb ed="#B" n="38"/>bet creatura differunt esse &amp; quod est. Et quodammodo esse accidit ei quod est: quia ab alio sibi est. dicente 
+       <lb ed="#B" n="39"/>Auicenna in octauo Metaphysi. Caetera extra necesse esse habent quiditates: quae sunt per se possibile esse: qui  
+       <lb ed="#B" n="40"/>bus non accidit esse nisi extrinsecus. propter quod in ipso habet locum quaestio an sit. Et ideo quia res quan 
+       <lb ed="#B" n="41"/>tum est de se potest carere accidente, quod non habet nisi ab alio, quantuncumque creaturae essentia habet esse in actu 
+       <lb ed="#B" n="42"/>ab alio, quantum est de se in potentia est vt habeat non esse. Si enim primum ens non exeat aut conseruet conti- 
+       <lb ed="#B" n="43"/>nue esse in essentiis creaturarum: illico nihil erit in eis existens omnino. Sicut nihil erit diei omnino si 
+       <lb ed="#B" n="44"/>sol ad momentum subtrahat actum exercendi vel conseruandi lucem in medio. Si vero loquamur de in  
+       <lb ed="#B" n="45"/>differentia essentiae ad esse, &amp; non esse: ita scilicet quod de facto neutrum habeat: sed aequaliter se habeat ad  
+       <lb ed="#B" n="46"/>vtrumque: hoc modo per indifferentiam se habere ad esse &amp; non esse, convenit intelligi dupliciter. Vno modo quo ad  
+       <lb ed="#B" n="47"/>conceptum mentis de ipsa. Alio modo quo ad ipsam rem in se ipsa. Primo modo dico quod essentia cuiuslibet 
+       <lb ed="#B" n="48"/>creaturae per indifferentiam simpliciter &amp; absolute se habet ad esse &amp; non esse, sicut enim extra intentionem &amp; 
+       <lb ed="#B" n="49"/>certitudinem essentiae rei est esse vniuersale &amp; particulare, vnum &amp; multa, &amp; caetera huiusmodi: &amp; quod animali  
+       <lb ed="#B" n="50"/>tas &amp; humanitas ratione qua animalitas vel humanitas non est in natura sua &amp; essentia vniuersale aut per  
+       <lb ed="#B" n="51"/>ticulare, aut aliquod caeterorum: vt expositum est supra: sic neque est existens in actum, neque non existens in  
+       <lb ed="#B" n="52"/>actum. Si enim animalitas ratione qua animalitas esset existens in actum, sicut animalitas non potest non esse animali 
+       <lb ed="#B" n="53"/>tas: sic non posset non esse in actum, &amp; esset necesse esse. &amp; econtra si ratione qua animalitas esset non exi 
+       <lb ed="#B" n="54"/>stens in actum, non posset non esse non existens in actum, &amp; esset necesse non esse: quod falsum est. Quare cum se 
+       <!--164.xml-->
+       <pb ed="#B" n="62-r"/>
+       <lb ed="#B" n="1"/>cundum modum quem res habet in sua essentia nata concipi ab intellectu, &amp; res ratione suae essentiae non dicit nisi 
+       <lb ed="#B" n="2"/>quid absolutum nihil habens in se quod ipsam determinet ad esse in actu vel non esse: mentis igitur con 
+       <lb ed="#B" n="3"/>ceptus quidditatem, &amp; essentiam rei absolute concipit absque intellectum conditionis essendi vel non essendi 
+       <lb ed="#B" n="4"/>sicut absque conditione essendi vel vel singulare, vel aliquod aliorum secundum quod supra expositum est. Ta 
+       <lb ed="#B" n="5"/>lis enim conceptus solius quiditatis &amp; essentiae rei est ratione ea qua est quiditas &amp; essentia: super quam secun 
+       <lb ed="#B" n="6"/>dum esse tale quod habet in simplici mentis conceptu, fundatur per se veritas enunciationum de inhaerentia essen 
+       <lb ed="#B" n="7"/>tiali: vt quod homo est homo, vel animal, vel huiusmodi. Et per accidens fundatur super hoc quod habet esse extra 
+       <lb ed="#B" n="8"/>in particularibus. Quia enim homo est homo vel animal hoc, pro certo hoc est esse quod est: &amp; res hoc quod est in cer 
+       <lb ed="#B" n="9"/>titudinem essentiae suae, non habet ab alio effectiue: quia quo ad hoc non est aliquid factum: sed solum habet 
+       <lb ed="#B" n="10"/>hoc quia est in alio formaliter: vt in intellectu diuino sicut dictum est: in quo est quid aeternum: propter quod ve 
+       <lb ed="#B" n="11"/>ritas enunciationum fundata super talem certitudinem potest esse aeterna in intellectu aeterno: &amp; aequaliter 
+       <lb ed="#B" n="12"/>est re existente extra vel non existente: quia illud esse extra certitudinis veritatem est, &amp; accidit ei, sicut 
+       <lb ed="#B" n="13"/>dictum est. Vnde &amp; ratio talis entis quia est aliquid secundum naturam &amp; essentiam per se: est obie- 
+       <lb ed="#B" n="14"/>ctum intellectus de quo habent esse scientiae: licet nullo modo haberet esse extra in singularibus: licet 
+       <lb ed="#B" n="15"/>de eo quod est purum non ens, omnino carens esse secundum essentiam, nullo modo potest esse scientia, ne 
+       <lb ed="#B" n="16"/>que formalis conceptus mentis: vt dictum est. Vnde dicit Auicenna. Nec dicemus nos habere scientiam de non 
+       <lb ed="#B" n="17"/>esse: nisi cum habeatur intentio in anima: &amp; quod possibile est in natura huiusmodi sciti habere comparationem intel- 
+       <lb ed="#B" n="18"/>lectiuam ad exteriora. Et iterum de veritate dictarum propositionum loquens, dicit: quod qui negant huiusmo- 
+       <lb ed="#B" n="19"/>di praedicationes, non ceciderunt in errorem illum nisi propter ignorantiam suam de hoc quod enunciationes non sunt 
+       <lb ed="#B" n="20"/>nisi ex intentionibus quae habent esse in anima, quamuis sit de non entibus. Ex quo concludit dicens. Manife- 
+       <lb ed="#B" n="21"/>stum igitur quod id quod enunciatur de aliquo, necesse est vt aliquo modo habeat esse in anima. Enunciationes enim 
+       <lb ed="#B" n="22"/>reuera non sunt nisi per illud quod habent esse in anima: &amp; secundum accidens sunt, per id quod habent esse in exterioribus. Si 
+       <lb ed="#B" n="23"/>vero loquamur de essentia creaturae quo ad ipsam certitudinem eius in seipsa: sic dico quod nullo modo per  
+       <lb ed="#B" n="24"/>indifferentiam se habet ad esse &amp; ad non esse in effectum: it. scilicet quod de facto neutrum habeat: sed aequaliter 
+       <lb ed="#B" n="25"/>se habeat ad vtrunque. De quolibet enim affirmatio vel negatio, &amp; non simul de eodem vtrunque affirmari 
+       <lb ed="#B" n="26"/>vel vtrumque negari: vt dicit <name ref="#Aristotle">philosophus</name> in quarto Metaphysicae. Si enim essentia creaturae ratione sua neutrum  
+       <lb ed="#B" n="27"/>sibi determinat vt dictum est: sed de se est non necesse ee, &amp; non necesse non esse: sed possibile esse &amp; possi- 
+       <lb ed="#B" n="28"/>bile non esse: semper tamen alterum eorum habet vel esse extra in singularibus, vel non esse in singularibus, &amp; so 
+       <lb ed="#B" n="29"/>lum esse essentiae vel rationis in intellectum: vt supra expositum est. 
+      </p>
+      <p xml:id="n3av8a-c1e1024-d1e493">
+       AD primum in oppositum quod sapientia 
+       <lb ed="#B" n="30"/>non se habet per indifferentiam ad sapere &amp; non sapere: ergo neque essentia ad esse &amp; non esse. Dicendum: di-  
+       <lb ed="#B" n="31"/>stinguendo de esse vel essentiae vel existentiae: iuxta hoc quod supra expositum est. Si loquamur de esse essen 
+       <lb ed="#B" n="32"/>tiae, sic tenet comparatio. hoc modo essentia nullo modo se habet per indifferentiam ad esse &amp; non esse. Nullo 
+       <lb ed="#B" n="33"/>enim modo est ponere aliquam essentiam quin habeat esse essentiae eo modo quo est eam ponere: vt si po- 
+       <lb ed="#B" n="34"/>natur in intellectu habet esse essentiae in intellectum. Si in singularibus extra, habet &amp; esse essentiae suae in  
+       <lb ed="#B" n="35"/>singularibus extra. Quia si neutro modo ponatur essentia esse scilicet nec in singularibus nec in intellectum: tunc nul 
+       <lb ed="#B" n="36"/>lo modo habet essentia esse essentiae alicuius: neque similiter esse essentiae suae existit aliquo modo: ita quod nisi 
+       <lb ed="#B" n="37"/>existeret per exemplar suum in intellectu diuino, nullo modo in certitudine aliqua esset res aut essentia:  
+       <lb ed="#B" n="38"/>sed purum nihil: quod nec natum est esse in rerum natura. Vnde cum illud quod habet exemplar in deo: non po- 
+       <lb ed="#B" n="39"/>test ipsum non habere: quicquid in certitudine sua essentia est &amp; res aliqua: necesse est ipsum esse tale, &amp; non 
+       <lb ed="#B" n="40"/>potest non esse tale, &amp; habere esse essentiae: &amp; non potest non habere solum in intellectu tantum saltem diuino. Sic 
+       <lb ed="#B" n="41"/>habent omnia facta &amp; factibilia ab aeterno, vel in intellectu, vel in rebus extra. Et econtrario cum illud quod non 
+       <lb ed="#B" n="42"/>habet exemplar in deo, non pont ipsum habere: quicquid non est in certitudine essentiae res aliqua necesse 
+       <lb ed="#B" n="43"/>est vt non sit res aut essentia: sed purum non esse: quod nec factibile est a deo: quia nullius potest esse causa 
+       <lb ed="#B" n="44"/>efficiens cuius non est formalis. Si vero loquamur de esse existentiae, distinguendum est ex parte sapien 
+       <lb ed="#B" n="45"/>tiae &amp; sapere: quia aut intelliguntur de sapientia &amp; sapere increato, vel creato. Si primo modo, adhuc non 
+       <lb ed="#B" n="46"/>tenet: nec est vera comparatio: quia in increato sapientia est ipsum sapere per essentiam: non autem es 
+       <lb ed="#B" n="47"/>sentia creaturae esse suum existentiae: secundum quod expositum est iam, &amp; amplius expositum fuit in alio 
+       <lb ed="#B" n="48"/>Quolibet. Si secundo modo, bona est comparatio. sed tunc minor est falsa. Sapientia en creata in essentia 
+       <lb ed="#B" n="49"/>sua quae est certitudo, &amp; res aliqua, non determinat sibi sapere in actum secundum eam, neque non sapere: 
+       <lb ed="#B" n="50"/>immo accidit ei: vt per eam homo sapiat vel non sapiat, sicut accidit essentiae rei esse vel non esse in actum. Nisi 
+       <lb ed="#B" n="51"/>sumatur non sapere pro desipere. Sic enim sapientia nullo modo se habet ad non sapere: quia per eam non 
+       <lb ed="#B" n="52"/>est natus aliquis desipere. &amp; per hunc modum id quod est res aliqua &amp; essentia nullo modo se habet ad  
+       <lb ed="#B" n="53"/>non esse purum: quid priuat omnem rationem essendi, sicut dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e1024-d1e548">
+       ARgumentum in oppositum bene 
+       <lb ed="#B" n="54"/>procedit secundum determinatum modum, sicut patet inspicienti.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

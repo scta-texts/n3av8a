@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1306">
+      <head xml:id="n3av8a-c1e1306-Hd1e96">Quaestio 2</head>
+      <p xml:id="n3av8a-c1e1306-d1e99">
+       <lb ed="#B" n="18"/>SEquuntur quaestiones duae de relationibus diuinis in speciali. Vna in comperatione ad spiritum 
+       <lb ed="#B" n="19"/>sanctum: vtrum scilicet imago conveniat spiritui sancto sicut &amp; filio. Alia vero in con 
+       <lb ed="#B" n="20"/>paratione ad eius genitricem secundum humanam naturam: vtrum scilicet in Christo sint duae  
+       <lb ed="#B" n="21"/>reales filiationes: vna ad patrem, alia ad matrem. 
+      </p>
+      <p xml:id="n3av8a-c1e1306-d1e110">
+       CIRca primum argumentatur, quod imago 
+       <lb ed="#B" n="22"/>conueniat spiritui sancto, sicut &amp; filio. quia filius eo est imago quo est similis. Similitudo 
+       <lb ed="#B" n="23"/>autem in diuinis est ratione essentiae. sed essentia equaliter hent esse in spiritu sancto, &amp; in filio 
+       <lb ed="#B" n="24"/>ergo &amp;c. Contra. filius eo est imago quo procedit per modum naturae. Spiritus sanctus autem  
+       <lb ed="#B" n="25"/>non procedit per modum naturae. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1306-d1e121">
+       DIcendum ad hoc: quod omnis imago habet rationem similis: sed non econuerso, plus 
+       <lb ed="#B" n="26"/>enim requiritur ad imaginem quam ad similitudinem. Simile enim hent rationem similis ex eo quod cum altero quodam  
+       <lb ed="#B" n="27"/>modo convenit: licet ab illo non procederet, nec ab illo haberet quod ei simile esset: sed simile ex hoc so- 
+       <lb ed="#B" n="28"/>lummo habent rationem imaginis alterius: quod secundum rationem assimilandi ab ipso vt simile ei procedit. Imago enim est 
+       <lb ed="#B" n="29"/>id cuius generatio est ad alterius imitationem, vt dicit philosophus. Quia igitur spiritus sanctus procedit couniter a pa 
+       <lb ed="#B" n="30"/>tre &amp; filio in eadem essentia in qua procedit filius a solo patre: &amp; essentia est ratio similitudinis diuinarum persona 
+       <lb ed="#B" n="31"/>rum: ideo bene verum est, quod spiritus sanctus similis est patri &amp; filio, sicut filius patri. Quia tamen filius procedit a 
+       <lb ed="#B" n="32"/>patre secundum rationem assimilandi: non sic autem spiritus sanctus: ideo filius vere dicendus est esse imago: &amp; non spiritus 
+       <lb ed="#B" n="33"/>sanctus. Assumpti declaratio consistit in duobus ex natura processionis amborum sumptis, scilicet in principio 
+       <lb ed="#B" n="34"/>siue in ratione originantis productionem: &amp; in modo producendi differenti huius &amp; illius. Filius enim procedit a patre per  
+       <lb ed="#B" n="35"/>modum naturae vt a naturaliter generante per principium in eo quid est natura: &amp; etiam per modum operationis 
+       <lb ed="#B" n="36"/>intellectualis. Spuns sanctus autem procedit ab vtroque per modum liberalitatis vt a liberaliter spirante per principium in 
+       <lb ed="#B" n="37"/>eo, quod est voluntas: &amp; ita per modum operationis voluntariae. Nunc autem ita est quod in genere principii quod est natu  
+       <lb ed="#B" n="38"/>ra, naturale est generanti assimilare sibi genitum. Natura enim est vis insita rebus ex similibus simi- 
+       <lb ed="#B" n="39"/>lia procreans. Similiter intellectualis operationis est producere simile de simili, vt de notitia in memoria 
+       <lb ed="#B" n="40"/>verbum in intelligentia: tanquam artem de arte. Liberalitatis autem vt liberalitas est, non est nisi id quid suum est 
+       <lb ed="#B" n="41"/>alteri amicabiliter communicare. Similiter voluntariae operationis non est nisi absolute de voluntate quod sibi 
+       <lb ed="#B" n="42"/>placitum est producere. quorum neutrum importat illam rationem assimilandi. Ex quo patet: quod filius simpliciter procedit per  
+       <lb ed="#B" n="43"/>rationem assimilandi: non autem spiritus sanctus. propter quid vt dictum est spiritus sanctus licet similis sit sicut &amp; filius 
+       <lb ed="#B" n="44"/>non tamen debet dici imago, sicut &amp; ille. Vnde super illud. ii. Corin. iiii. Qui est imago dei. Glo. patris 
+       <lb ed="#B" n="45"/>quia de illo est. Vbi enim est imago, continuo similitudo est: vbi similitudo, non est continuo imago.
+      </p>
+      <p xml:id="n3av8a-c1e1306-d1e167">
+       <lb ed="#B" n="46"/>Per quod patent obiecta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

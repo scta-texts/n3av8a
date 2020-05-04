@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="93-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1359">
+      <head xml:id="n3av8a-c1e1359-Hd1e96">Quaestio 6</head>
+      <p xml:id="n3av8a-c1e1359-d1e99">
+       <lb ed="#B" n="7"/>CIrca secundum arguitur, quod forma denarii non sit extra intellectum: quia vnitates eius sunt. 
+       <lb ed="#B" n="8"/>omnino disgregatae, &amp; in nullo vnitae in re ipsa. Si ergo sub forma denarii sunt vnitae 
+       <lb ed="#B" n="9"/>illa non potest esse nisi in anima. 
+      </p>
+      <p xml:id="n3av8a-c1e1359-d1e108">
+       CONtra. tunc bene diceretur quod denarius esset 
+       <lb ed="#B" n="10"/>bis quinque: quid est contra philosophum. 
+      </p>
+      <p xml:id="n3av8a-c1e1359-d1e113">
+       HIC oportet scire quid sit materiale, &amp; quid for- 
+       <lb ed="#B" n="11"/>male in numero. Et est dicendum, quod vnitas quae est in potentia numerus, secun 
+       <lb ed="#B" n="12"/>dum quod in quaestione praecedenti determinatum, est tota substantia numeri, &amp; 
+       <lb ed="#B" n="13"/>secundum materiam, &amp; secundum formam. Ratione enim formae vnius conti- 
+       <lb ed="#B" n="14"/>nui quae est forma continuitatis, siue quae est continuitas, &amp; est forma accidentalis continens sub se 
+       <lb ed="#B" n="15"/>vnitates separandas participantes illa, vnitas illa accidentalis quae est in potentia omnis numerus 
+       <lb ed="#B" n="16"/>accidentalis:, ipsa est forma omnium numerorum ex se multiplicatorum, siue per diuisionem eius per  
+       <lb ed="#B" n="17"/>partes, &amp; secundum formam, &amp; secundum materiam, siue per distinctam significationem earundem: 
+       <lb ed="#B" n="18"/>ita quod appositio ad numerum, &amp; numerorum augmentum procedit per vnitates diuisas secundum 
+       <lb ed="#B" n="19"/>materiam, &amp; secundum partes formae totius continui diuisas per materiam. Resolutio autem nu- 
+       <lb ed="#B" n="20"/>merorum in vnitatem a qua processerunt, procedit per easdem vnitates secundum suas formas vniem 
+       <lb ed="#B" n="21"/>doeas: et similiter partes materiae sub partibus formae econtrario augmento in continuis: quid procedit 
+       <lb ed="#B" n="22"/>secundum formam: &amp; diuisio eius secundum materiam. Dico principaliter. Et propter hoc secundum 
+       <lb ed="#B" n="23"/>philosophum in iii. physic. Appositio numerorum crescit in infinitum: diuisio vero stat in vnitate. 
+       <lb ed="#B" n="24"/>econtra autem in magnitudinis augmento. Vnde generatio numerorum non est intelligenda, quod pri 
+       <lb ed="#B" n="25"/>mo accipiatur aliqua vnitas seorsum: deinde dualitas extra illam vnitatem, non includens eam &amp; 
+       <lb ed="#B" n="26"/>sic deinceps: sed quod accipiatur aliquid quod primo est in se vnum indiuisum secundum actum: &amp; prima diui- 
+       <lb ed="#B" n="27"/>sione fiat duo: &amp; secunda diuisione in vna partium eius quacumque fiat tria: &amp; sic deinceps: vt omnis numerus 
+       <lb ed="#B" n="28"/>componatur ex vnitatibus singulis singillatim acceptis, &amp; non ex numeris, vel vnitatibus diuersis 
+       <lb ed="#B" n="29"/>vel ex vnitate, &amp; numero, secundum quod alibi amplius exposuimus: ita quod huiusmodi vnitas prima 
+       <lb ed="#B" n="30"/>secundum formam continui quam habet in se, est quodammodo forma omnium numerorum ex di-  
+       <lb ed="#B" n="31"/>uisione, &amp; significatione illius procedentium, qui diuersificantur secundum species diuersas, secun- 
+       <lb ed="#B" n="32"/>dum diuersas distantias vel elongationes ex additione vnitatis ad vnitatem a simplicitate illius pri- 
+       <lb ed="#B" n="33"/>mae vnitatis. Econtra autem resolutio numerorum non fit, vnitates, vel numeros abiiciendo a numero 
+       <lb ed="#B" n="34"/>dato, sed vltimam vnitatem puta denarium in numero denario reducendo in vnam cum vnitate 
+       <lb ed="#B" n="35"/>nouenaria: &amp; sic deinceps plures vnitates discretas secundum intellectum in vnam copulando: quo  
+       <lb ed="#B" n="36"/>usque restituatur vnum illud vnde erant decisae. Vnde facta diuisione vnitatum abinuicem secundum 
+       <lb ed="#B" n="37"/>materiam &amp; quantitatem sub eadem forma vel specie continui contentarum, proprie fit numerus 
+       <lb ed="#B" n="38"/>existens vnus secundum illam formam vnius continui. Propter quod dicit <name ref="#Aristotle">philosophus</name> in decimo Metaphysicae  
+       <lb ed="#B" n="39"/>Non est numerus nisi multitudo mensurata per vnum. Vnum autem plura mensurare non potest nisi 
+       <lb ed="#B" n="40"/>sit vnius formae &amp; naturae cum illis. sicut vno homine propter speciem hominis quam habet in  
+       <lb ed="#B" n="41"/>se, mensuramus plures, &amp; vnaoue plures oues. Vnum enim &amp; multa numero ex ipso constituta 
+       <lb ed="#B" n="42"/>se habent sicut album &amp; alba, &amp; vnum &amp; vna. Multa enim sunt vno plura, vt <name ref="#Aristotle">philosophus</name> dicit. iiii. metaphy- 
+       <lb ed="#B" n="43"/>&amp; Auicenna in tertio metaphysicae. Ea quae sunt multa numero modo dicuntur vna alio non nisi pro 
+       <lb ed="#B" n="44"/>pter conuenientiam quam habent in intentione aliqua, eo quod in eis sunt vnitates plus quam vna. Et 
+       <lb ed="#B" n="45"/>Auerrois super secundum metaphysicae. Si vnaquaeque vnitas numerorum formalium fuerit diuersa 
+       <lb ed="#B" n="46"/>ab alia, non est: numerus. Diuersa enim non numerant se adinuicem: numeri autem numerant 
+       <lb ed="#B" n="47"/>se adinuicem, aut per numerum, aut per vnitatem, &amp; tunc, vt dicit Auicenna in tertio metaphysicae, sunt 
+       <lb ed="#B" n="48"/>multa sine numero. Et secundum hunc modum, vt dicit Dionysius. xiii. cap. de diuinis nominibus 
+       <lb ed="#B" n="49"/>omnis numeras monade participat. Vnum ergo dicuntur &amp; duo &amp; decem, siue binarius &amp; dena-  
+       <lb ed="#B" n="50"/>rius, &amp; quilibet alius numerus: inquantum sunt vnitates eius eandem rationem speciei in qua conue 
+       <lb ed="#B" n="51"/>niunt habentes. Aliter enim essent plura aggregata, non numerus vnus. Vnde denarius non est nu 
+       <lb ed="#B" n="52"/>merus vnus: quia est decem vnitates simpliciter: sed quia est decem vnitates conuenientes in vno secundum  
+       <lb ed="#B" n="53"/>formam a quo decisae erant: ita quod secundum diuersitatem &amp; pluralitatem &amp; sectionem siue signorum  
+       <lb ed="#B" n="54"/>signatorum in illa forma, sequitur omnium specierum numeri diuersitas, quarum vna includit alte- 
+       <!--226.xml-->
+       <pb ed="#B" n="93-r"/>
+       <lb ed="#B" n="1"/>ram. Et ideo secundum philosophum: decem non sunt bis quinque, sed semel decem. sed de hoc amplius alibi. 
+      </p>
+      <p xml:id="n3av8a-c1e1359-d1e224">
+       DIcendum l 
+       <lb ed="#B" n="2"/>ergo breuiter ad quaestionem: quod forma denarii &amp; similiter cuiuslibet numeri: qui vere numerus 
+       <lb ed="#B" n="3"/>est: est aliquid in re extra intellectum. licet hoc difficile sit imaginari secundum quod alibi exposuimus.
+      </p>
+      <p xml:id="n3av8a-c1e1359-d1e232">
+       <lb ed="#B" n="4"/>FALsum ergo supponit primum argumentum cum dicit quod decem vnitates in denario in nullo vno  
+       <lb ed="#B" n="5"/>sunt vnitae secundum rem.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e236">
+      <head xml:id="n3av8a-c1e236-Hd1e96">Quaestio 11</head>
+      <p xml:id="n3av8a-c1e236-d1e99">
+       <lb ed="#B" n="23"/>Equuntur quaestiones de anima rationali. Quarum quaedam erant de eis quae proprie conueniunt 
+       <lb ed="#B" n="24"/>ei vt separata est. Quaedam vero alia de eis quae indifferenter conueniunt ei, vt sepera 
+       <lb ed="#B" n="25"/>ta est &amp; vt coniuicta.
+      </p>
+      <p xml:id="n3av8a-c1e236-d1e108">
+       CIRca primum quarebatur vnum pertinens ad statum gloriae. Duo  
+       <lb ed="#B" n="26"/>vero pertinentia ad statum naturae. Pertinens ad statum gloriae erat, vtrum peccatum veni 
+       <lb ed="#B" n="27"/>ale in quo homo discedit, retardat animam a gloria.
+      </p>
+      <p xml:id="n3av8a-c1e236-d1e115">
+       ET arguebatur quod sic: Primo, quia 
+       <lb ed="#B" n="28"/>in gloria erit summa mentis eleuatio: ergo nulla depressio. veniale omne aliquo mo 
+       <lb ed="#B" n="29"/>do deprimit mentem. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e236-d1e122">
+       SEcundo, quia quandocumque completa contraria non com 
+       <lb ed="#B" n="30"/>patiuntur se, nec incompletum vnius cum completo alterius. verbi gratia, si perfecte calidum non potest esse simul 
+       <lb ed="#B" n="31"/>cum perfecte frigido: neque minimum frigoris cum perfecte calido. status gloriae cum perfecto statu peccati, scilicet 
+       <lb ed="#B" n="32"/>mortalis, non potest stare propter eorum perfectam contrarietatem: ergo neque cum incompleto peccato potest stare 
+       <lb ed="#B" n="33"/>gloria, sed veniale est peccatum incompletum. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e236-d1e134">
+       CONtra, in discedenti in veniali potest esse ma-  
+       <lb ed="#B" n="34"/>ior gratia quam in aliquo existente in gloria: vtputa in adulto qui multa promeruit, quam in paruulo ba- 
+       <lb ed="#B" n="35"/>prizato qui statim expirauit. Maior gratia facit maiorem assimilationem ad deum: per assimilationem 
+       <lb ed="#B" n="36"/>autem ad deum homo habet statum gloriae: ergo ille cum veniali magis potest habere statum gloriae quam 
+       <lb ed="#B" n="37"/>iste fine veniali.
+      </p>
+      <p xml:id="n3av8a-c1e236-d1e145">
+       DIcendum ad hoc: quod cum gloria sit gratia perfecta secundum statum cuiuscunque con 
+       <lb ed="#B" n="38"/>templatoris, &amp; gratia persupponat naturam, gloria debet habere sub se perfectam cuiusque naturam.  
+       <lb ed="#B" n="39"/>Nunc autem secundum <name ref="#Augustine">Augustinum</name> in pluribus locis peccatum quantumcumque modicum eo quod ma 
+       <lb ed="#B" n="40"/>lum est contra naturam est &amp; aliquid abiicit a natura &amp; nocet naturam. Non est enim malum nisi quia  
+       <lb ed="#B" n="41"/>nocet. Peccatum ergo quantumcunque veniale aliquid tollit de perfectione naturae, cum status 
+       <lb ed="#B" n="42"/>gloriae requirat omnimodam perfectionem naturae, vt lumine gloriae natura vltra id quod naturae est 
+       <lb ed="#B" n="43"/>eleuetur ad aliquid supernaturaliter contemplandum, &amp; eodem supernaturaliter fruendum. Non enim 
+       <lb ed="#B" n="44"/>potest eleuari ad id quod supra se est, nisi prius perficiatur illo quod in se est. Nullo ergo modo pont anima 
+       <lb ed="#B" n="45"/>cum veniali intrare statum gloriae. &amp; sic veniale retardat a gloria non in aliquo permittendo ipsam  
+       <lb ed="#B" n="46"/>&amp; in aliquo repellendo: sed omnino eam excludendo. Et ideo dicitur Apoca, penultimo Non intrabit in  
+       <lb ed="#B" n="47"/>illam aliquid coinquinatum. &amp; Ephe, quinto. Vt exhiberet sibi gloriosam ecclesiam non habentem ma 
+       <lb ed="#B" n="48"/>culam neque rugam. Maculam venialis quod de facili deletur. Rugam mortalis: quod quasi connaturale fortiter ad-  
+       <lb ed="#B" n="49"/>haeret.
+      </p>
+      <p xml:id="n3av8a-c1e236-d1e177">
+       AD argumentum in contrarium dicendum quod licet quantum est ex parte gratiae habens maiorem gra 
+       <lb ed="#B" n="50"/>tiam magis deo assimilatur: &amp; viator sic possit esse maioris quam comprehensor: &amp; ita magis dispositus 
+       <lb ed="#B" n="51"/>est ad gloriam quam habens minorem quantum est ex parte habitus gratiae, licet non quantum est ex parte 
+       <lb ed="#B" n="52"/>status gratiae &amp; gloriae: tamen propter impediens adiunctum habenti maiorem gratiam: non autem haben 
+       <lb ed="#B" n="53"/>ti minorem, potest ille retardari, licet non iste. &amp; quae sit causa huius iam dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

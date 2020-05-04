@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 14</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 14</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="174-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1957">
+       <head xml:id="n3av8a-c1e1957-Hd1e96">Quaestio 14</head>
+       <p xml:id="n3av8a-c1e1957-d1e99">
+        <lb ed="#B" n="25"/>SEquuntur quaesita ad cognitionem angeli pertinentia. Et erant duo. Primum. Vtrum intel 
+       <lb ed="#B" n="26"/>ectus angeli intelligit res alias a se per suam essentiam: an per rerum similitudines: an per 
+       <lb ed="#B" n="27"/>praesentiam quiditatum earum. Secundum: vtrum vnus angelus possit aliquid de nouo cogno-  
+       <lb ed="#B" n="28"/>scere per operationem illuminationis aut locutionis alterius angeli circa ipsum. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e110">
+       CIRca 
+       <lb ed="#B" n="29"/>primum arguitur, quod angelus non cognoscit res alias a se per suam essentiam: quia hoc soli deo  
+       <lb ed="#B" n="30"/>conuenit: nec per species rerum ei impressas: quia aut per illas intelligit eas actualiter, aut 
+       <lb ed="#B" n="31"/>in potentia tantum. Si primo modo, tunc angelus necessario semper &amp; in actum simul omnia alia a se 
+       <lb ed="#B" n="32"/>intelligeret: quid falsum est. Si secundo modo, tunc egeret alio transmutante vt exeat de potentia in actum: &amp; es 
+       <lb ed="#B" n="33"/>set quaerere quid sit illud: &amp; quid faceret in intellectu ad actum intelligendi quod non posset facere sine specie: nec 
+       <lb ed="#B" n="34"/>esset assignare quid: nec per praesentiam quiditatum ipsarum rerum: quia tunc non intelligeret non entia: quod fal- 
+       <lb ed="#B" n="35"/>sum est: &amp; praeterea quia res illae omnino non sunt, agere non possunt. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e128">
+       CONtra, non est alius intelligendi mo 
+       <lb ed="#B" n="36"/>dus. aut ergo angelus nihil omnino intelligit: aut aliquo dictorum trium modorum intelligit. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e133">
+       IN dis 
+       <lb ed="#B" n="37"/>solutione huius quaestionis non est difficultas alia quam illa quae tacta est in argumento: quo scilicet agente intel 
+       <lb ed="#B" n="38"/>lectus de potentia intelligente fiat actu intelligens. Et propter fugam huius difficultatis, non propter noti 
+       <lb ed="#B" n="39"/>tiam alicuius causalitatis quam species siue similitudo rei intellectui impressa operaretur in intellectu ad actum 
+       <lb ed="#B" n="40"/>intelligendi: introducta est opinio de ipsis speciebus intelligibilibus impressiuis. Vnde ostendendum est quod hu 
+       <lb ed="#B" n="41"/>iusmodi species si ponantur non operantur ad eliciendum actum intelligendi: vt propter ipsum non oporteat eas po 
+       <lb ed="#B" n="42"/>nere. immo etiam ipsis positis oportet ponere aliud motiuum ad eliciendum actum intelligendi: quid etiam sine ipsis 
+       <lb ed="#B" n="43"/>aequaliter natum est ipsum elicere &amp; cum ipsis. Quo inuestigato patebit quod omnino frustra &amp; otiosum sit pone 
+       <lb ed="#B" n="44"/>re illas &amp; esse similiter si sunt. Quare cum non sit ponere aliquid esse frustra in fundamento naturae &amp; crea 
+       <lb ed="#B" n="45"/>turae: nullo igitur modo ponendum est in virtute intellectiua esse aliquas huiusmodi species. Quia intellectus 
+       <lb ed="#B" n="46"/>separatus ex se absque omni informatione speciei possit in actum intelligendi, arguitur sic. Si ad actum intelli- 
+       <lb ed="#B" n="47"/>gendi indigeat specie qua informetur: aut ergo propter rationem intellectiui in ipso: vt sine ipsa intellectiuum 
+       <lb ed="#B" n="48"/>quod consistit in essentia angeli, nullo modo ex se sufficit vt actu intelligat: sicut neque forma substantialis 
+       <lb ed="#B" n="49"/>ignis vt ignis calefaciat, nisi informetur forma caloris. Aut requiritur propter rationem intelligibilis: quia opor 
+       <lb ed="#B" n="50"/>tet quodammodo esse vnum in actu intelligens &amp; intellectum: &amp; intelligibile non inest ei: neque illabitur per suam 
+       <lb ed="#B" n="51"/>essentiam. oportet ergo quod insit ei per suam speciem. Non primo modo. quoniam eius quid aliquid sit intellectiuum &amp; 
+       <lb ed="#B" n="52"/>intelligibile vna ratio communis est. scilicet quod sit forma separata a materia. Cum ergo separatum a materia 
+       <lb ed="#B" n="53"/>quantum est ex se, intelligibile est secundum actum absque omni alio informante quod sit ratio in eo qua actu in-  
+       <lb ed="#B" n="54"/>telligatur: separatum ergo a materia consimiliter quantum est ex se, est intellectiuum secundum actum absque omni alio in-  
+       <!--389.xml-->
+       <pb ed="#B" n="174-v"/>
+        <lb ed="#B" n="1"/>formante quod sit ratio in eo qua actu intelligat. Praeterea tunc nullum intellectiuum omnino intelligere posset 
+       <lb ed="#B" n="2"/>nisi specie illius informatus: sicut nec ignis non informatus calore calefacere posset: consequens falsum est 
+       <lb ed="#B" n="3"/>quia vt alias ostendimus, deum intellectualiter videt &amp; intelligit absque omni informatione alicuius speciei. 
+       <lb ed="#B" n="4"/>
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e189">
+       PRAEterea seipsum intelligit absque omnis speciei informatione quam de se habeat. Ex parte ergo intellectiui 
+       <lb ed="#B" n="5"/>inquantum intellectiuum non requiritur species in ipso. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e194">
+       QVOD similiter neque ex parte intelligibilis, vt per ipsam 
+       <lb ed="#B" n="6"/>praesens sit intelligenti &amp; quodammodo vnum cum ipso constituat. quoniam praesentia intelligibilis non requiritur in intel 
+       <lb ed="#B" n="7"/>ligente ad actum intelligendi nisi tamquam obiecti actu intellecti ex sua praesentia. Vnde quia ipsa essentia angeli semper prae 
+       <lb ed="#B" n="8"/>sens est intellectui angeli in ratione obiecti: &amp; similiter ea quae per essentiam sunt in ipso: non requiritur species vt 
+       <lb ed="#B" n="9"/>fiat vnum ex intelligibili &amp; intellectu tanquam ex cognoscente &amp; cognito: non autem tanquam ex materia &amp; forma 
+       <lb ed="#B" n="10"/>&amp; sit intellectum in intellectu vt in intelligente: non autem vt in subiecto. Sed intelligibile per speciem suam non habet 
+       <lb ed="#B" n="11"/>esse apud intellectum vt obiectum cognitum: quia non est obiectum nisi sub ratione vniuersalis: &amp; species impressa 
+       <lb ed="#B" n="12"/>non potest esse repraesentatiua alicuius nisi sub ratione singularis. quoniam si species alicuius alicui imprimatur 
+       <lb ed="#B" n="13"/>ab alio quam ab eo cuius est, si sit vera species eius representatiua, oportet quod secundum eundem modum imprimatur ab illo 
+       <lb ed="#B" n="14"/>sicut ab ipsa re immediate nata esset imprimi. Sed nulla species nata est iprimi in intellectu ab vniuersali secundum  
+       <lb ed="#B" n="15"/>quod est vniuersale in se: sed solum secundum quod habet esse signatum in supposito particulari: quia secundum se non habet existe 
+       <lb ed="#B" n="16"/>re in rerum natura: sed solum vt signatum in supposito: &amp; nihil natum est agere impressionem suae speciei in alio, nisi 
+       <lb ed="#B" n="17"/>secundum quod habet esse per existentiam in rerum natura. Sic autem non potest iprimere nisi speciem particularis sub ratione qua  
+       <lb ed="#B" n="18"/>particulare est: quae numquam est repraesentatiua vniuersalis sub ratione quae vniuersale est. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e225">
+       PRAEterea sicut 
+       <lb ed="#B" n="19"/>se habet species visibilis in oculo ad visibile particulare extra sub ratione particularis, sic species impressa in  
+       <lb ed="#B" n="20"/>intellectu se habet ad itelligibile vniuersale sub ratione qua vniuersale. Sed species illa in oculo in suo esse 
+       <lb ed="#B" n="21"/>magis dependet a re extra quam econverso: ita quod praesentia rei causa est qua species habet esse in oculo, &amp; non inesse 
+       <lb ed="#B" n="22"/>speciei in oculo causa est praesentiae rei extra. Vnde etsi per agens supernaturale species illa imprimeretur &amp; conseruare 
+       <lb ed="#B" n="23"/>tur in oculo, praesentia eius non faceret rem sic esse praesentem vt videri posset ab oculo: sed requiritur quod per aliud fiat prae- 
+       <lb ed="#B" n="24"/>sens. Ergo &amp; similiter species impressa in intellectu ab alio quam ab ipsa re vniuersali &amp; conseruata in ipso non potest 
+       <lb ed="#B" n="25"/>causare praesentiam rei vt cognoscatur ab intellectu sub ratione obiecti. immo restat adhuc vt per aliud represen- 
+       <lb ed="#B" n="26"/>tetur: ita quod per illud representans aut per ipsum obiectum praesentatum reducatur de potentia ad actum intelligendi. Quare cum 
+       <lb ed="#B" n="27"/>non nisi propter huiusmodi repraesentationem ponitur species impressa in intellectu, vanum est ergo eam ponere in ipso. 
+       <lb ed="#B" n="28"/>Praeterea cum vniuersa sunt determinata operatione secundum <name ref="#Aristotle">philosophum</name> in fine quarti Metaphysicae: ita quod nihil sit 
+       <lb ed="#B" n="29"/>quin habeat suam, propriam operationem naturalem debitam suae speciei: quid autem habet propriam operationem natura 
+       <lb ed="#B" n="30"/>lem, naturaliter habet ea quibus habet eam explere: ita quod ipsa essentia speciei &amp; naturae non est omnino na-  
+       <lb ed="#B" n="31"/>ta esse in rerum natura sine illo quod ei necessarium est ad explendam illam operationem: iuxta illud quid dicit <name ref="#Aristotle">philosophus</name> in se 
+       <lb ed="#B" n="32"/>cundo caeli &amp; mundi: quod extra rationem est vt natura posuerit stellas mobiles in suo orbe motu processiuo si 
+       <lb ed="#B" n="33"/>cut quidam ponebant ipsas moueri: &amp; non praeparauerit eis instrumenta naturalia talis motus: cum natura nihil po 
+       <lb ed="#B" n="34"/>nat vacuum sine causa: intellectus autem separatus vt intellectus est non habet operationem sibi propriam naturalem nisi 
+       <lb ed="#B" n="35"/>intelligere singula naturalitur intelligibilia: ita quod non plus determinatur ad vnum quam ad aliud: si ergo species intel- 
+       <lb ed="#B" n="36"/>gibilis informans sit ei necessaria ad huiusmodi actum intelligendi explendum: naturaliter ergo habet species 
+       <lb ed="#B" n="37"/>omnium intelligibilium quae nata est intelligere: ita quod natura eius &amp; essentia non est nata esse sine illis in rerum natura. im 
+       <lb ed="#B" n="38"/>mo si contingat eam esse fine illis vel aliqua illarum, defectus naturalis est in ea. Quemadmodum contingit in homine 
+       <lb ed="#B" n="39"/>si nascatur fine pedibus: cum sit animal naturaliter gressibile. Consequens falsum est. quoniam tunc species infinitae essent simul 
+       <lb ed="#B" n="40"/>actu infinitorum intelligibilium differentium specie in intellectu angeli: eo quod natus est intelligere intelligibilia infi- 
+       <lb ed="#B" n="41"/>nita differentia specie: quae requirunt infinitatem specierum in ipso naturaliter existere, et ita simul. consequens falsum 
+       <lb ed="#B" n="42"/>est, ergo &amp; ans. scilicet quod naturaliter ad expletionem operationis intellectualis requiritur species intelligibilis rei 
+       <lb ed="#B" n="43"/>intellectae in intellectu ipsum informans. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e288">
+       PRObatio vltimo assumpti est: quoniam vt dicitur coniter infinitae sunt ideae 
+       <lb ed="#B" n="44"/>in deo infinitarum specierum creaturae vt tactum est supra. Quarum quamlibet secundum se quilibet angelus siue intel 
+       <lb ed="#B" n="45"/>lectus separatus naturali cognitione sua qua cognoscit res in propria natura, non in verbo, natus est intellige 
+       <lb ed="#B" n="46"/>re, habet ergo species cuiuslibet illorum: &amp; ita infinitas necessario. Quid etiam declaratur ex hoc: quia iste ange- 
+       <lb ed="#B" n="47"/>lus intelligens illam essentiam quae habet ideam in deo, si non potest intelligere ipsam nisi specie sua qua infor  
+       <lb ed="#B" n="48"/>matur, eadem ratione nec potest intelligere secundam nec tertiam. ergo praehabuit necessario species illarum. &amp; 
+       <lb ed="#B" n="49"/>adhuc eadem ratione non potest intelligere quartam, quintam, sextam: &amp; sic in infinitum: vt non sit dare tot intellectas 
+       <lb ed="#B" n="50"/>ordinatim vnam post aliam, quin plures contingit dari actu ab eo intellectas, vel plures intelligi. omnium autem 
+       <lb ed="#B" n="51"/>illarum necessario species praehabuit simul ex sua creatione vt dictum est, ergo necessarium est dicere ipsum non tot ha  
+       <lb ed="#B" n="52"/>bere quin sit verum dicere ipsum habere plures: hoc autem non contingit nisi sint in co simul infinitae. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e310">
+       VEL erit di  
+       <lb ed="#B" n="53"/>cere quod habet species aliquarum creaturarum finitarum tantum. Quid si sic: ergo deficiunt a naturali dispositione sua: ita 
+       <lb ed="#B" n="54"/>quod nec potest in ipsis perfici: si non sit possibile eas simul habere nisi sicut dies &amp; ago: si ponatur creari in eis vnam 
+       <!--390.xml-->
+       <pb ed="#B" n="175-r"/>
+        <lb ed="#B" n="1"/>speciem post aliam. Hoc autem paeonere est inconveniens in tam nobilibus creaturis. Maxime cum aliis inferiori- 
+       <lb ed="#B" n="2"/>bus dedit in perfectione suae naturae ea quibus possunt explere propriam operationem &amp; naturalem. iuxta illud quod di 
+       <lb ed="#B" n="3"/>cit <name ref="#Aristotle">philosophus</name> secundo caeli &amp; mundi: quod natura si posuisset stellas mobiles non priuasset eas naturalibus instrumen 
+       <lb ed="#B" n="4"/>tis explendi huiusmodi motum. Quia vt dicit impossibile est vt natura ingeniet animalibus: dando eis scilicet in  
+       <lb ed="#B" n="5"/>strumenta naturalia ad motum progressiuum: &amp; per hoc intendat eis &amp; recedat ab illis corporibus nobilibus subli 
+       <lb ed="#B" n="6"/>mibus habentes, proprietates &amp; naturas vltimas: &amp; spoliet eas rebus quibus possibile est vt incedant per se. Sili- 
+       <lb ed="#B" n="7"/>ter in proposito multo magis impossibile est vt istas creaturas summe nobiles spoliet speciebus quibus intelligunt 
+       <lb ed="#B" n="8"/>omnia a se itelligibilia. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e342">
+       SI vero aliquis ponat quod non sunt infinitae ideae: nec sunt infinitae rerum essentiae possibiles fiae 
+       <lb ed="#B" n="9"/>ri: &amp; omnium illarum species habet quilibet angelus: nec plures essentiae creaturarum sunt intelligibiles: tunc idem quid prius 
+       <lb ed="#B" n="10"/>arguo in speciebus numerorum quod sunt infinitae in diuina cognitione: quorum nullus est quin secundum se sit cognosci 
+       <lb ed="#B" n="11"/>bilis: &amp; per ordinem cognoscibiles sunt ab illo non tot quin plures. Cuiuslibet ergo numerorum infinitorum spe 
+       <lb ed="#B" n="12"/>ciem habet simul quilibet angelus in se, vel potest habere, vel natura sua perfici absolute non potest. Cum ergo hote 
+       <lb ed="#B" n="13"/>tanquam impossibile sequitur ex positione specierum tanquam rationum intelligibilium: videtur ergo quod positio illa sit falsa &amp; 
+       <lb ed="#B" n="14"/>impossibilis. Sed siue ponatur species dicto modo in intellectu siue non: adhuc manet difficultas quaestionis: quomodo sci 
+       <lb ed="#B" n="15"/>licet intellectus de potentia intelligendi deducatur in actum si semper speciebus actu informatur, &amp; non semper eis actu 
+       <lb ed="#B" n="16"/>intelligit: quomodo etiam rerum essentiae quae non sunt in existentia possunt eis esse praesentes vt obiecta in cognoscente. 
+       <lb ed="#B" n="17"/>Sed ante huiusmodi inuestigationem oportet hic aduertere: quod cum haec actio intelligendi non completur nisi ex duo  
+       <lb ed="#B" n="18"/>bus secundum omnes, scilicet ex intellectiuo &amp; intelligibili aliquo modo vnitis: vt iam videbitur: &amp; secundum quod dicit Au 
+       <lb ed="#B" n="19"/>gustinus nono de trinitate caplo vltimo, ab vtroque notitia paritur: a cognoscente scilicet &amp; cognito: ratio 
+       <lb ed="#B" n="20"/>igitur intelligendi in intelligente actu tanquam id quo intelligit: dupliciter intelligi potest: vel ex parte intellecti 
+       <lb ed="#B" n="21"/>ui vt intellectiuum est: &amp; quasi actiue quo ad modum significandi se habet ad actum intelligendi: vel ex parte intelligi- 
+       <lb ed="#B" n="22"/>bilis vt intelligibile est: &amp; quasi passiue quo ad modum significandi se habet ad actum intelligendi. Primo mo- 
+       <lb ed="#B" n="23"/>do diximus iam quod intellectus quicumque etiam creatus seipso est ratio intelligendi quaecumque intelligit, id est quod essentia sua 
+       <lb ed="#B" n="24"/>nuda est ratio intelligendi quaecumque intelligit: qua procedit ab ipsa actiue actus intelligendi: ita quod plus non requiritur ex 
+       <lb ed="#B" n="25"/>parte intellectiui inquantum intellectiuum est in actu intelligens. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e382">
+       SEcundo modo solum intelligibile increatum, vt diuina 
+       <lb ed="#B" n="26"/>essentia, est ratio intelligendi seipsam &amp; omnia alia: non autem essentia aliqua creata: licet philosophi ponentes intelligentias 
+       <lb ed="#B" n="27"/>superiores causas esse inferiorum, sicut posuerunt deum esse causam intelligentiae, proxime in gradu naturae posue 
+       <lb ed="#B" n="28"/>runt quod per essentias suas cognoscebant inferiores, sicut deus cognoscit omnia. Sed hoc non potest stare: quoniam poni 
+       <lb ed="#B" n="29"/>mus deum omnes rerum essentias immediate creare: ita quod nulla creatura in hoc causalitatem habet super aliam. Pro 
+       <lb ed="#B" n="30"/>pter quod nec essentia sua intelligibilis est ratio intelligendi aliquid aliorum, nec creaturae nisi in vniuersali: inquantum  
+       <lb ed="#B" n="31"/>scilicet cum aliis conuenit in genere vel in specie: nec dei nisi vt effectus dei est. Sed quo ad propria quae sunt in deo  
+       <lb ed="#B" n="32"/>&amp; in aliis creaturis non potest essentia vnius creaturae esse ratio intelligibilis ad intelligendum aliam: nec eadem ratione 
+       <lb ed="#B" n="33"/>quicquam aliud ab ipsa essentia rei cognoscendae, neque species, neque quicquam aliud: vt secundum hoc omnis cognitio sic secundum  
+       <lb ed="#B" n="34"/>quod cognitum secundum essentiam cogniti sit in cognoscente. &amp; hoc non vt in subiecto cui inhaereat formaliter: sed vt 
+       <lb ed="#B" n="35"/>in concipiente obiectiue. Sed quomodo habet esse in cognoscente vt in cognoscente cum non sit omnino in existentia: &amp; ita non 
+       <lb ed="#B" n="36"/>possit ei esse praesens vt cognoscibile ex se: nisi secundum opinionem Platonis: qui posuit essentias rerum esse formas 
+       <lb ed="#B" n="37"/>secundum se separatas existentes: &amp; per hoc praesentes cuilibet intellectui ad mouendum in actum intelligendi. secundum quod  
+       <lb ed="#B" n="38"/>ei imposuit Aristoteles: &amp; sufficienter improbat septimo Metaphysi. Hoc ergo modo nulla essentia alicuius 
+       <lb ed="#B" n="39"/>intelligibilis potest ex se esse praesens intellectui priusquam sit: aut ratio intelligendi alterius a se ex parte intelligibilis. 
+       <lb ed="#B" n="40"/>Quare cum non potest esse ratio intelligibilis in intelligente creato ad intelligendum aliud a se: ipsa intelligibilitas 
+       <lb ed="#B" n="41"/>essentiae suae: sed solum ipsa intelligibilitas essentiae rei intelligendae: &amp; hoc non potest esse nisi sit praesens intelligen- 
+       <lb ed="#B" n="42"/>ti: &amp; ex se non potest esse praesens ei quia nullo modo existit, nee in se subsistendo, nec secundum se alteri inhaeren- 
+       <lb ed="#B" n="43"/>do: oportet ergo quod fiat ei praesens per aliquid alterum quod sit aliquid sui. Quod secundum vsitatam opinionem species est 
+       <lb ed="#B" n="44"/>intellectui impressa vt similitudo essentiae cognoscendae: qua formaliter intellectui inhaerente ex vtroque eli- 
+       <lb ed="#B" n="45"/>ci habet actus intelligendi terminatus ad dei essentiam sicut ad obiectum: non qui dicitur factio per quem aliquid  
+       <lb ed="#B" n="46"/>fiat in rem exteriorem: vt per actum illuminandi lumen in aere: sed qui est sicut perfectio in agente: qui dicitur 
+       <lb ed="#B" n="47"/>operatio. Vt enim lucere in corpore luminoso est tanquam operatio quaedam: cuius vnum principium est ipsum luminosum  
+       <lb ed="#B" n="48"/>formaliter per suam lucem: sic intelligere est in intellectu informato specie intelligibilis. cuius vnum princi- 
+       <lb ed="#B" n="49"/>pium est intellectiuum: &amp; intelligibile per suam speciem prout ex eis effectum est vnum quid: quid est illud quod est intel- 
+       <lb ed="#B" n="50"/>lectus in actum: formaliter tamen per ipsam speciem qua informatur. Sed statim apparet quod modus iste ponen- 
+       <lb ed="#B" n="51"/>di actum intelligendi non est conueniens. quoniam omnis talis actio necessitate naturali procedit ab agente disposito- 
+       <lb ed="#B" n="52"/>ita quod non potest poni in esse vt dispositus forma illa qua agit quin agat actu per se perfectissimo illam opte 
+       <lb ed="#B" n="53"/>rationem. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e445">
+       QVEMadmodum ergo luminosum non potest non lucere: &amp; de necessitate perfecte in se lucet proportio 
+       <lb ed="#B" n="54"/>naliter perfectioni lucis in ipso: sic intellectus angelicus informatus specie intelligibilis non potest non intelligere: 
+       <!--391.xml-->
+       <pb ed="#B" n="175-v"/>
+        <lb ed="#B" n="1"/>&amp; de necessitate perfecte intelligit omne illud cuius habet speciem proportionaliter perfectioni speciei in ipso. 
+       <lb ed="#B" n="2"/>Quare cum angeli species non recipiunt ab ipsis essentiis rerum: quia habent eas a deo impressas, vt dicunt: sed  
+       <lb ed="#B" n="3"/>non quocumque modo: sed vt pertinentes ad naturalem perfectionem eorum, sine quibus non possunt elicere suam operationem 
+       <lb ed="#B" n="4"/>propriam debitam suae speciei: quae est vita intellectualis. cuius non est alia operatio, propria &amp; naturalis nisi 
+       <lb ed="#B" n="5"/>intelligere: omnia ergo quorum habet species simul, simul actu perfecto de necessitate intelligeret secundum modum  
+       <lb ed="#B" n="6"/>illum quo habet species: &amp; actu simul intelligere posset quoruncumque simul posset habere species. Cum ergo  
+       <lb ed="#B" n="7"/>omnium intelligibilium simul actu species habet &amp; vt plures: simul de necessitate omnia illa intelligeret &amp; vt plu 
+       <lb ed="#B" n="8"/>ra: ita quod nullum eorum non intelligere posset. Et etiam si haberet infinitas species aut posset habere simul: quod  
+       <lb ed="#B" n="9"/>necesse habent ponere: vt patet ex praedictis: infinita ergo simul intelligeret, aut simul intelligere posset. 
+       <lb ed="#B" n="10"/>Quod non posset esse vt videtur, nisi esset virtutis infinitae, quod falsum est. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e476">
+       ITEM sequeretur quod intellectus i 
+       <lb ed="#B" n="11"/>in intelligendo non esset patiens nisi per accidens: inquantum scilicet recipit speciem per impressionem a deo: quam reci  
+       <lb ed="#B" n="12"/>pit sicut subiectum suum accidens. Et hoc inquantum est aliquid in genere entis, non inquantum est aliquid de ge- 
+       <lb ed="#B" n="13"/>nere intelligibilium. Et sic talis passio non sit ab intelligibili inquantum est intelligibile natum mouere intellectum 
+       <lb ed="#B" n="14"/>vt est de genere intellectiuorum: &amp; sic intellectus vt est de genere intellectiuorum respectu actus intelligendi  
+       <lb ed="#B" n="15"/>se haberet vt actiuus &amp; nullo modo vt passiuus: &amp; non esset intelligere pati quoddam: nec intellectualis 
+       <lb ed="#B" n="16"/>actus esset motus a re ad animam, sed econverso. immo nec esset motus ab anima ad rem omnino: quia talis actus 
+       <lb ed="#B" n="17"/>est omnino absolutus non terminatus ad aliud: sed stans in agente: sicut lucere non habet ad aliquid terminari: &amp; 
+       <lb ed="#B" n="18"/>sic actu intelligendi res intellecta non perciperetur. Cum igitur ad actum intelligendi oportet intelligibile praesens 
+       <lb ed="#B" n="19"/>esse intelligenti: &amp; per praesentiam suam intellectiuum deduci in actum intelligendi de potentia: praesens autem non po 
+       <lb ed="#B" n="20"/>test esse in sua essentia per se: non ergo restat modus quo aliter possit esse praesens nisi per aliquid aliud existens 
+       <lb ed="#B" n="21"/>apud intellectum quod est aliquid eius: &amp; vt ostensum est, hoc non potest esse species intelligibilis impressa in-  
+       <lb ed="#B" n="22"/>tellectui: aliquid ergo aliud existens apud itellectum oportet ponere. Cum igitur secundum <name ref="#Aristotle">philosophum</name> secundo Ethicorum, s 
+       <lb ed="#B" n="23"/>apud ipsum non possunt esse nisi tria: scilicet passiones: sub quibus ponentes species dicunt contineri species: 
+       <lb ed="#B" n="24"/>licet <name ref="#Aristotle">philosophus</name> ibi non loquitur nisi de passionibus quae sunt ex parte affectus: sicut patet in suis exemplis: &amp; potentiae 
+       <lb ed="#B" n="25"/>&amp; habitus: &amp; manifestum est quod illud quod hic quaerimus est aliquid aliud a potentia: quia vt dictum est ex par 
+       <lb ed="#B" n="26"/>te intelligibilis nihil quod est in vna creatura potest esse ratio intelligendi aliam: hoc enim solius dei est proprium: vt 
+       <lb ed="#B" n="27"/>iam dicetur: &amp; id quid quaerimus est ratio intelligendi ex parte intelligibilis: sine quo per se non sufficit intellectiuum in-  
+       <lb ed="#B" n="28"/>quantum est intellectiuum, licet ex se perfectam habet rationem intellectiui vt immutatum ab intelligibili statim exeat 
+       <lb ed="#B" n="29"/>in actum intelligendi: planum est igitur quod necesse habemus ponere quod illud sit habitus scientialis intellectui ange- 
+       <lb ed="#B" n="30"/>lico naturaliter impressus tanquam illud quod sibi conmnaturale est ad explendam operationem naturalem inquantum est 
+       <lb ed="#B" n="31"/>vnum intellectuale. quae operatio est ipsum intelligere. Dicimus ergo quod quia obiectum proprium &amp; primum secundum se 
+       <lb ed="#B" n="32"/>intellectus: non est nisi vniuersale sub ratione qua est vniuersale: quid debet immutare intellectiuum ad actum in-  
+       <lb ed="#B" n="33"/>telligendi: non potest per se esse praesens intellectui inquantum est intellectiuus vt ipsum immutet: quia quantum est ex se est 
+       <lb ed="#B" n="34"/>quiditas quaedam rei simpliciter abstracta a loco &amp; tempore &amp; ab esse &amp; non esse: vt alibi expositum est. Nec potest ipsa 
+       <lb ed="#B" n="35"/>essentia angeli vt intelligibile quoddam est esse ratio intelligendi alia vt immutet ipsum intellectum angelicum: 
+       <lb ed="#B" n="36"/>quemadmodum immutat intellectus dei intellectum diuinum tanqui ratio intelligibilis ad intelligendum omnia alia: nec 
+       <lb ed="#B" n="37"/>pont hoc facere intelligibile praesens intellectui per speciem quae est propria similitudo ei impressa. Idcirco dicimus simpli 
+       <lb ed="#B" n="38"/>citer: quod id quid apud itellectum angelicum vt est intellectiuum quid, est ex parte intelligibilis praesens intellectui in quo  
+       <lb ed="#B" n="39"/>praesens est ei ipsum intelligibile: non tamen vt ei inhaerens per illud: sed vt praesens &amp; insistens obiectiue in illo: est habi- 
+       <lb ed="#B" n="40"/>tus scientialis sibi comnaturalis, &amp; a deo naturaliter concreatus ad intelligendum sub ratione intelligibilis suam 
+       <lb ed="#B" n="41"/>essentiam &amp; cuiuslibet alterius creaturae: &amp; vniuersaliter quicquid naturali cognitione cognoscibile est in crea 
+       <lb ed="#B" n="42"/>turis: vt ista tria scilicet intellectus angelicus, habitus scientialis ipsi inhaerens, &amp; per ipsum intelligibile splendens in  
+       <lb ed="#B" n="43"/>ipso intellectu tanquam forma &amp; species impressa in eo: non autem inhaerens &amp; impressa nisi per ipsum habitum: sint vnum  
+       <lb ed="#B" n="44"/>principium actus intelligendi quo constituitur intellectus in actu intelligendi: tanquam per sibi naturalem &amp; essentialem 
+       <lb ed="#B" n="45"/>operationem, quae tamen formaliter fieri habet per obiectum expressum, quod per operationem intelligendi assimilat sibi 
+       <lb ed="#B" n="46"/>perfecte ipsum intellectiuum. Et per hunc modum omnis cognitio intellectiua sit per assimilationem intelligentis ad rem in  
+       <lb ed="#B" n="47"/>tellectam &amp; conuenientiam in forma, non minus per huiusmodi habitum quam per speciem aliam impressam. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e565">
+       SED quomo 
+       <lb ed="#B" n="48"/>do per huiusmodi habitum praesens sit intelligibile intellectiuo: &amp; quomodo immutatur vt de potentia intelligente sit 
+       <lb ed="#B" n="49"/>actu intelligens, in hoc latet quaestionis difficultas. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e572">
+       AD intellectum primi sciendum est quod habitus scientialis l 
+       <lb ed="#B" n="50"/>in intellectu essentialem respectum &amp; dependentiam habet ad scibile cuius est: ita quod licet sit in intellectu sicut qua  
+       <lb ed="#B" n="51"/>litas de prima specie, tamen super ipsam fundatur essentialis respectus sibi: qui ab ea solui non potest tanquam ad id a  
+       <lb ed="#B" n="52"/>quo in esse &amp; essentia sua dependet. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e581">
+       VNde in angelis licet non sit scientia accepta a rebus &amp; generata: quia l 
+       <lb ed="#B" n="53"/>tamen est eis scientia connaturalis: &amp; diuinitus indita: non minus habet illum respectum essentialem ad scibile: 
+       <lb ed="#B" n="54"/>ita quod quando praesentia scibilis non dependet ab aliquo sensu a quo est abstrahenda, sicut in nobis dependet 
+       <!--392.xml-->
+       <pb ed="#B" n="176-r"/>
+        <lb ed="#B" n="1"/>in angelis autem non, ex natura habitus scientialis splendetur per intelligile obiectum in ipso intellectu perceptum 
+       <lb ed="#B" n="2"/>in actu cum scientia est in actum: &amp; perceptum in habitu cum scientia est solum in habitu. Et hoc quemadmo- 
+       <lb ed="#B" n="3"/>dum apud ponentes species ponitur per speciem suam praesentari obiectum: non solum vt inhaerens in sua specie 
+       <lb ed="#B" n="4"/>sed vt obiectum in seipso. Quod &amp; multo naturalius sit per habitum scientialem quam possibile esset fieri per speciem: 
+       <lb ed="#B" n="5"/>quanto essentialius dependet scientia a scibili quam species a re a qua non habet causari: eo quod vnicus habitus 
+       <lb ed="#B" n="6"/>scientiae virtute continet omnia intelligibilia circa quae est scientia: &amp; tanto magis actualiter quanto simplicior 
+       <lb ed="#B" n="7"/>est: ita quod intellectus capere non possit id quod est scientia in re, nisi accipiendo scibile cuius est: vt non solum sit 
+       <lb ed="#B" n="8"/>scientia in intellectu tanquam accidens ei inhaerens sub ratione qua intellectus est aliquid in rerum natura: sed po 
+       <lb ed="#B" n="9"/>tius sub ratione qua est aliquid in genere intellectiui. Propter quod per habitum scientialem habet intelligibile esse 
+       <lb ed="#B" n="10"/>in intellectum: non solum impressiue per ipsum habitum, sed expressiue secundum seipsum. Et si aliqua difficultas sit 
+       <lb ed="#B" n="11"/>in hoc modo ponendi, multo magis est in positione specierum impressarum. Vnde quia iste modus habendi in se 
+       <lb ed="#B" n="12"/>species expressas, proprius est intellectus &amp; non sensus: ideo <name ref="#Aristotle">philosophus</name> tertio de anima conmendat dicentes animam esse 
+       <lb ed="#B" n="13"/>locum specierum: non quod tota, sed intellectiua. Quid dicit ad differentiam sensitiuae: in qua non est nisi species impres- 
+       <lb ed="#B" n="14"/>sa: in intellectu vero est expressa: &amp; propter hoc quodammodo sicut in loco, non autem sicut in subiecto. Vnde 
+       <lb ed="#B" n="15"/>cum dicit inferius: quod omnia ea quae sunt, quodammodo est anima: quia omnia quae sunt aut sensibilia sunt, aut intelligi- 
+       <lb ed="#B" n="16"/>bilia: est autem scientia quidem scibilia sensus autem sensibilia: &amp; sensus est sensibilia per species sibi impressas:  
+       <lb ed="#B" n="17"/>oportet quod hic loquatur ex parte intellectiuae de alio modo essendi res quam ibi: scilicet non per illam speciem expres- 
+       <lb ed="#B" n="18"/>sam: sed per habitum scientiae quae est species impressa alterius generis ab illa quam negamus. vnde expresse dicit Scie 
+       <lb ed="#B" n="19"/>tia quidem scibilia. Propter quid cum statim subiungit quod necesse est quod res ipsae sunt in anima, aut species earum: ipsae 
+       <lb ed="#B" n="20"/>quidem res non sunt in ea: non enim hic lapis est in anima sed species: ex parte sensus intelligitur solum de specie orga- 
+       <lb ed="#B" n="21"/>no impressa quae non est ratio sentiendi nisi materialiter. Ex parte vero intellectus intelligitur quo ad istum locum 
+       <lb ed="#B" n="22"/>de specie impressa: quae est habitus scientiae: quo ad locum praecedentem de specie expressa, quae est quiditas &amp; ratio lapidis 
+       <lb ed="#B" n="23"/>vniuersalis: &amp; species respectu huius lapidis particularis. de quo dicit &amp; bene quod non est in anima. Et sic quiditas 
+       <lb ed="#B" n="24"/>&amp; essentia rerum abstrahens a loco &amp; tempore dupliciter habet esse in intellectiua potentia: &amp; impressiue in habitu  
+       <lb ed="#B" n="25"/>scientiae: &amp; expressiue secundum se sed per habitum scientiae: sine quo nec sic esset in illa. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e651">
+       NVNC restat de secundo quomodo 
+       <lb ed="#B" n="26"/>scilicet intellectus angeli de potentia intelligendi reducatur in actum. Ad cuius intellectum sciendum quod multo ali 
+       <lb ed="#B" n="27"/>ter sit immutatio intellectus angeli &amp; nostri &amp; sensitiuae virtutis vt exeant de potentia in actum. Quia certum 
+       <lb ed="#B" n="28"/>est quod non solum nullum horum est sua actio: quid soli deo competit: sed etiam verum est quod nullum eorum circa singu- 
+       <lb ed="#B" n="29"/>la etiam naturaliter ab ipso cognoscenda semper est in actu vt dictum est supra. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e662">
+       INchoando igitur ab immuta 
+       <lb ed="#B" n="30"/>tione virtutis sensitiuae &amp; reductione eius de potentia in actum, sciendum est quod secundum <name ref="#Aristotle">philosophum</name> secundo de anima, sensi 
+       <lb ed="#B" n="31"/>tiui prima immutatio qua exit in esse de potentia materiae ad actum formae, est a generante ipsum in forma sen 
+       <lb ed="#B" n="32"/>sitiui: qualis immutatio non est in aliqua vi intellectiua: quia habet esse a solo creante: quid declarare imperti 
+       <lb ed="#B" n="33"/>nens est ad propositum. Cum autem iam generatum est: est in potentia ad duo: &amp; ad speciem sensibilis: &amp; ad sentire secundum  
+       <lb ed="#B" n="34"/>actum: &amp; ad vtrumque eorum eget aliquo existente in actum quod educit &amp; transmittit ipsum de potentia in actum. Et 
+       <lb ed="#B" n="35"/>hoc est sensibile extra sine quo nihil sentit secundum actum: quemadmodum neque combustibile seipso comburitur sine 
+       <lb ed="#B" n="36"/>combustiuo. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e683">
+       AD speciem sensibilis sensus est in potentia: quia recipiendo eius intentionem fit non ipsum sensibile: vel 
+       <lb ed="#B" n="37"/>tale aliquid secundum veritatem &amp; perfectionem talis formae qualis est in sensibili extra: sed fit vt sensibile recipiendo  
+       <lb ed="#B" n="38"/>intentionem qua quodammodo est illud. Quae tamen forma aliquid rei est: &amp; fit secundum aliquam realem alteratio-  
+       <lb ed="#B" n="39"/>nem quae etiam sit in ipso medio: quid ob hoc solum non potest immutari ad actum sentiendi: quia non est in ipso 
+       <lb ed="#B" n="40"/>vis formalis sensitiua. Quo enim sentimus est id in quo est potentia huiusmodi vt dicit philosophus: Et est il- 
+       <lb ed="#B" n="41"/>lud in quo inquantum est in potentia ad receptionem dictae speciei, est media ratio &amp; proportio sensibilium, vt pupil 
+       <lb ed="#B" n="42"/>la, nec alba, nec nigra, nec medii coloris, sed qualitatis mediae aeque proportionalis omnibus, quemadmodum  
+       <lb ed="#B" n="43"/>temperatum in tactu est medium inter calidum &amp; frigidum excellens. Medium enim vt dicit philosophus, discretiuum 
+       <lb ed="#B" n="44"/>est: &amp; fit ad vtrumque alterum vltimorum. Et propter hoc excellentiae sensibilium intensius imprimentes species 
+       <lb ed="#B" n="45"/>suas quam valet sustinere illud medium, corrumpit illud. sicut Symphonia corrumpitur chordis fortius percussis 
+       <lb ed="#B" n="46"/>quam oportet. Sed talis immutatio per impressionem speciei a nulla re omnino fit in quacumque vi intellectiua:  
+       <lb ed="#B" n="47"/>quia non est nisi materialis &amp; per materialem trasmutationem: &amp; quaelibet vis intellectiua immaterialis est. 
+       <lb ed="#B" n="48"/>Propter quod dicit <name ref="#Aristotle">philosophus</name> secundo de anima quod manifestum est ex eis quae apparent in organis sensuum, quod non est si- 
+       <lb ed="#B" n="49"/>mul passibilitas sensitiui &amp; intellectiui. Sensus enim non potest sentire post valde sensibile, minus. Intellectus 
+       <lb ed="#B" n="50"/>autem post valde intelligibile non minus intelligit infima: sed magis. vbi dicit commentator, quod respectu talis trans 
+       <lb ed="#B" n="51"/>mutabilitatis priuatio in sensu non est similis priuationi trasmutationis existentis in intellectum. quia priuatio illa in  
+       <lb ed="#B" n="52"/>intellectu debet esse pura. ita scilicet quod nulla sit ei potentia admixta. Non sic autem est de priuatione transmu 
+       <lb ed="#B" n="53"/>tationis in sensu. Ad actum autem sentiendi sensus est in potentia: quia dispositus materialiter ad susceptionem immu- 
+       <lb ed="#B" n="54"/>tationis ad actum sentiendi ex parte principii formalis in ipso. Qualem dispositionem non requirit intellectus ad actum 
+       <!--393.xml-->
+       <pb ed="#B" n="176-v"/>
+        <lb ed="#B" n="1"/>intelligendi vt dictum est supra. Statim enim per sensibile praesens extra transmutatur vt fiat de potentia sen 
+       <lb ed="#B" n="2"/>tiente actu sentiens. Et non est differentia in hoc ad immutationem intellectus ab intelligibili ad actum intel- 
+       <lb ed="#B" n="3"/>ligendi: nisi quod sensibilia sunt particularia existentia extra animam &amp; intellectum. Intelligibilia autem quia sunt vni 
+       <lb ed="#B" n="4"/>uersalia, quodammodo sunt in anima &amp; in ipso intellectum. sicut dicit philosophus. Et quomodo hoc, visum est in  
+       <lb ed="#B" n="5"/>parte: &amp; amplis videbitur iam. Vnde quo ad istam alterationem sensibile quantumcunque excellens per se non cor- 
+       <lb ed="#B" n="6"/>rumpit sensum nec impedit: sicut neque intelligibile intellectum. Et est aduertendum circa transmutationem 
+       <lb ed="#B" n="7"/>sensus, quod sicut a sensibili extra per medium generatur species eius in organo sensus particularis extra: &amp; 
+       <lb ed="#B" n="8"/>ipsum immutat ad actum sentiendi: sic a sensu particulari extra species per medium numerorum intra ge 
+       <lb ed="#B" n="9"/>neratur in organo memoriae, in qua conseruatur ad absentiam sensibilis extra. &amp; est species illa in memo- 
+       <lb ed="#B" n="10"/>ria respectu imaginatiuae virtutis, sicut sensibile respectu sensus particularis. vt enim dicit <name ref="#Augustine">Augustinus</name>  
+       <lb ed="#B" n="11"/>nono de trinitate capulo. iii. pro illa specie corporis quae sentiebatur exterius, succedit memoria retinens in 
+       <lb ed="#B" n="12"/>lam speciem quam per corporis sensum condidit anima, &amp; absentia corpora cogitantur. Vnde generatur a memoria in  
+       <lb ed="#B" n="13"/>imaginatiuam sicut a re extra in sensum particularem &amp; imaginatiuam informatam specie. Species existens in  
+       <lb ed="#B" n="14"/>memoria immutat ad actum imaginandi imaginatiuam, sicut sensibile extra immutat ad actum sentiendi 
+       <lb ed="#B" n="15"/>sensum particularem. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e768">
+       ET sunt omnino similes modi trasmutationum, praeter hoc quod in sentiendo, obiectum quod senti 
+       <lb ed="#B" n="16"/>tur est illud quod immediate immutat sensum duplici immutatione iam dicta ad actum sentiendi. In actum 
+       <lb ed="#B" n="17"/>vero imaginandi, obiectum quod imaginatur non est proximum immutans: sed primum: ita quod idem penitus substantiae parti 
+       <lb ed="#B" n="18"/>cularis quod est obiectum sensus particularis ad eius praesentiam, est obiectum imaginatiuae ad eius absentiam: licet non 
+       <lb ed="#B" n="19"/>sub eadem ratione particularitatis vt infra dicetur. Et in hoc terminatur opus virtutis imaginatiuae: sub imagi 
+       <lb ed="#B" n="20"/>natiua &amp; eius operatione comprehendendo omnes vires sensitiuas cognitiuas &amp; eius operationes. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e781">
+       POST hoc le 
+       <lb ed="#B" n="21"/>quitur operatio intellectus agentis in nobis circa phantasmata, hoc est non circa species impressas in menmoratiua vel 
+       <lb ed="#B" n="22"/>imaginatiua: sed circa obiectum particulare imaginatum intra, quid prius sentiebatur extra. secundum quod dicit com 
+       <lb ed="#B" n="23"/>mentator supe tertium de anima. Item intentio intellectiua est eadem cum re quam sensus apphendit in sentiendo, licet alio 
+       <lb ed="#B" n="24"/>modo: quoniam sensus eam apprehendit sub ratione singularitatis qua est in re: &amp; secundum eam res ipsa mouet 
+       <lb ed="#B" n="25"/>sensum: non sic autem intellectum: quia neque sub ea ratione singularitatis qua est in re extra &amp; apprehensa 
+       <lb ed="#B" n="26"/>a sensu aut imaginatione primo &amp; per se mouet intellectum: neque apprehenditur ab intellectu. Propter quod  
+       <lb ed="#B" n="27"/>licet secundum <name ref="#Aristotle">philosophum</name> phantasmata se habent ad intellectum sicut sensibilia ad sensum: non tamen omnino sic. 
+       <lb ed="#B" n="28"/>quoniam phantasmata addunt hoc super sensibilia, quod sensibilia extra apprehensa a sensu sunt in materia &amp; ma- 
+       <lb ed="#B" n="29"/>terialia: &amp; vt materialia apphensa a sensu: licet speciem sibi impressam recipit fine materia. Phantasmata 
+       <lb ed="#B" n="30"/>autem apprehensa ab imaginatione, vt apprehensa ab illa, sunt immaterialia abst racta a materiae praesentia:  
+       <lb ed="#B" n="31"/>non autem abstracta a conditionibus particularibus quae accidunt formae secundum quod est in materia indi-  
+       <lb ed="#B" n="32"/>uiduata: sicut sunt figura vbi &amp; huiusmodi. Quae quidem phantasmata sub talibus conditionibus intel- 
+       <lb ed="#B" n="33"/>lectum mouere non possunt primo &amp; per se, neque ab ipso apprehendi, sed solum se cundum quod sunt abstracta:  
+       <lb ed="#B" n="34"/>non solum a materiae particularis praesentia, sed etiam a dictis conditionibus indiuidualibus. ita quod phantasma-  
+       <lb ed="#B" n="35"/>ta in imaginatiua apphensa non sunt nisi in potentia vniuersalia: &amp; in potentia mouentia intellectum. Propter quod  
+       <lb ed="#B" n="36"/>cum intellectus noster possibilis non habet intellecta nisi a phantasmatibus, eget virtute quae phantasmata 
+       <lb ed="#B" n="37"/>potentia vniuersalia &amp; intellecta abstrahendo ea a dictis conditionibus materialibus faciat ea esse actu vni 
+       <lb ed="#B" n="38"/>uersalia &amp; actu intellecta: quae appellatur intellectus agens: qui est sicut vis quaedam actiua in intellectu pos 
+       <lb ed="#B" n="39"/>sibili ad abstrahenda phantasmata a dictis conditionibus. Quo facto est actu vniuersale &amp; mouens obiecti- 
+       <lb ed="#B" n="40"/>ue: &amp; immutans intellectum possibilem ad simplicem apprehensionem essentiae &amp; quiditatis rei. Et est respectus eius sci 
+       <lb ed="#B" n="41"/>licet intellectus agentis ad intellectum possibilem, sicut est respectus lucis ad diaphanum: &amp; ad phantasmata, sicut 
+       <lb ed="#B" n="42"/>est respectus diaphani ad colores: praeter hoc quod lux est perfectio accidentalis diaphani &amp; forma ei inhaerens: agens 
+       <lb ed="#B" n="43"/>autem non est perfectio intellectus possibilis, neque ei inhaeret: sed solum vis &amp; potentia actiua consubstantialis ei: sicut 
+       <lb ed="#B" n="44"/>&amp; vterque scilicet intellectus agens &amp; possibilis, est consubstantialis animae intellectiuae: &amp; praeter hoc quod diaphanum actio 
+       <lb ed="#B" n="45"/>ne lucis facientis colorem quantum est de se solum in potentia mouentem esse in actu mouentem diaphanum recipit speciem 
+       <lb ed="#B" n="46"/>eius sibi impressam. Intellectus autem possibilis speciem impressam nullam recipit a phantasmate: sed actione 
+       <lb ed="#B" n="47"/>agentis facientis phantasmata quantum est de se solum in potentia mouentia intellectum esse actu mouentia &amp; 
+       <lb ed="#B" n="48"/>existentia in eo vt in cognoscente solum: &amp; hoc sub ratione vniuersalis quod idem re est vt est in cognoscente, sci- 
+       <lb ed="#B" n="49"/>licet imaginatiua sub ratione particularis, &amp; in intellectu sub ratione vniuersalis. ita quod in ipsum speculam 
+       <lb ed="#B" n="50"/>tur intellectus &amp; imaginatiua: nec est praesens intellectui nisi quia praesens est imaginatiuae. Et hoc per 
+       <lb ed="#B" n="51"/>actionem quam agit in imaginatiua species existens in memoria sensitiua, non solum imprimendo ei speciem suam: 
+       <lb ed="#B" n="52"/>sed etiam immutando ad actum imaginandi. ita quod intellectus noster nihil intelligit nisi coniunctum cum sua 
+       <lb ed="#B" n="53"/>imaginatione. vt enim ipse speculetur phantasmata sub ratione vniuersalis, necesse est imaginatiuam idem simul 
+       <lb ed="#B" n="54"/>speculari sub ratione particularis. Propter quod bene dixit Auicenna in suo libro de anima, quod in intellectu 
+       <!--394.xml-->
+       <pb ed="#B" n="177-r"/>
+        <lb ed="#B" n="1"/>possibili non manet intelligibile nisi cum actu intelligit: sed solum manet vt in potentia in phantasmati- 
+       <lb ed="#B" n="2"/>bus existentibus in vi sensitiua: a quibus iterato abstrahitur actione agentis si intellectus noster aliquid  
+       <lb ed="#B" n="3"/>debeat intelligere. Intellectus autem motus dicto modo ab obiecto ad simplicem intellectum essentiae rei 
+       <lb ed="#B" n="4"/>vim habet ex se negotiandi circa illud &amp; circa rei adhaerentia postquam ea simpliciter simplici intelligen- 
+       <lb ed="#B" n="5"/>tia comphenderit &amp; componendo &amp; diuidendo inuestigandi notitiam quod quid est &amp; propter quid est de 
+       <lb ed="#B" n="6"/>re, quae per studium &amp; inuestigationem diligenter saepius percepta generat in seipso habitum scientialem: ex quo  
+       <lb ed="#B" n="7"/>prompte &amp; faciliter ad perceptionem obiectorum exit in actum ad illa &amp; consimilia percipienda: secundum quod in  
+       <lb ed="#B" n="8"/>disputatione nostra quarta de Quolibet latius exposuimus. Cumque perfectus fuerit intellectus noster per habitus 
+       <lb ed="#B" n="9"/>scientiales omnium eorum, quae per ipsum nata sunt cognosci &amp; actu ea intelligit ex habitu: hoc est perfectius &amp; sum- 
+       <lb ed="#B" n="10"/>mum ad quod potest peruenire ex puris naturalibus et secundum statum vitae praesentis. sed est infi 
+       <lb ed="#B" n="11"/>mum in intellectu angelico. lpse enim habet habitum scientialem omnium rerum naturaliter a se cogno  
+       <lb ed="#B" n="12"/>scibilium naturaliter sibi inatum: quasi secundum modum &amp; cursum rei generatae naturaliter, non secun 
+       <lb ed="#B" n="13"/>dum modum &amp; cursum scientiarum ab intellectum nostro acquisitarum, quoniam intellectus noster in genere in  
+       <lb ed="#B" n="14"/>tellectualium respectu formarum vniuersalium intelligibilium est sicut materia prima respectu for 
+       <lb ed="#B" n="15"/>marum particularium. Quia quandoque habet informationem habituum scientialium, quandoque non habet, &amp; prius 
+       <lb ed="#B" n="16"/>est sicut tabula nuda ad eos recipiendum in se. Deus autem sicut in genere entium sic in genere intelligi 
+       <lb ed="#B" n="17"/>bilium est forma pura: cuius esse est suum secundum actum intelligere. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e901">
+       ANgelus autem medio modo se habet. Ha 
+       <lb ed="#B" n="18"/>bitus enim scientiales non recipit postquam in actum fuerit productus potentia actum praecedente duratione: sed perti- 
+       <lb ed="#B" n="19"/>nent ad suam naturalem perfectionem: sed in potentia est ad actus intelligendi vt non sit necesse eum singula intelli 
+       <lb ed="#B" n="20"/>gere simul, vt dictum est supra. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e911">
+       VT sic semper inferiora in supremo suo connexa sunt infimo superiorum: 
+       <lb ed="#B" n="21"/>&amp; quae in inferiori sunt secundum maiorem compositionem &amp; potentialitatem, sunt in superiori secundum maiorem simpli 
+       <lb ed="#B" n="22"/>citatem &amp; maiorem actualitatem, quae omnia finaliter concurrunt in primam &amp; perfectissimam vnitatem &amp; actualitatem. 
+       <lb ed="#B" n="23"/>secundum quod dicit Dionysius. vii. capi. de diuinis nominibus. lpse est supe omnia compaginans &amp; insolubilis omnis 
+       <lb ed="#B" n="24"/>congruentiae &amp; ordinationis cam: &amp; semper fines primorum connectens principiis secundorum: &amp; vnam vniuersita- 
+       <lb ed="#B" n="25"/>tis conspirantiam &amp; harmoniam pulchram faciens. Et cap. xi. Viuificans omnia &amp; coniungens ima per media sum- 
+       <lb ed="#B" n="26"/>mis. Vnde sensus in sentiendo perficitur specierum impressione &amp; obiecti immutatione: &amp; stat sua perfectio in sen 
+       <lb ed="#B" n="27"/>sibili perceptione absque materiali praesentia sub conditionibus tamen indiuidualibus. In quo in suo imo con 
+       <lb ed="#B" n="28"/>iungitur noster intellectus idem apprehendendo absque conditionibus illis singularibus: cuius est perfectio infor- 
+       <lb ed="#B" n="29"/>matio secundum habitus scientiales: quibus tamen seipso non potest deduci in actum absque apphensione intelligibilis 
+       <lb ed="#B" n="30"/>phantasmate, vt dictum est. &amp; tunc est in suo summo: cum secundum illos habitus intelligibilia abstracta actu in 
+       <lb ed="#B" n="31"/>telligit: quod est imum cum angelis. lpsi enim obiecta non sumunt abstracta ab aliis: sed habitus scientiales habent in  
+       <lb ed="#B" n="32"/>se naturalitur: quibus ex se procedunt in actum de potentia. secundum quod dicit philosophus. viii. physico. Qui iam habet habitum  
+       <lb ed="#B" n="33"/>scientiae: licet sit potentia considerans: non indiget motore qui reducat eum de potentia in actum nisi remouente 
+       <lb ed="#B" n="34"/>prohibens. &amp; potest ipse in actum prout vult. qui transitus est secundum minimum transmutationis &amp; alterationis mo 
+       <lb ed="#B" n="35"/>dum, vt vult <name ref="#Aristotle">philosophus</name> secundo de anima. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e949">
+       AD propositum igitur descendendo dicimus quod sola vis sensitiua species ha 
+       <lb ed="#B" n="36"/>bet impressas a. sensibus: &amp; nulla vis intellectiua habet species impressas intelligibilium, vt supra osten 
+       <lb ed="#B" n="37"/>sum est: &amp; quod natura nostri intellectus est quod species intelligat in phantasmatibus abstractas tamen, vt dictum 
+       <lb ed="#B" n="38"/>est, quae in se non sunt nisi sicut obiectum apprehensum in cognoscente: quid immutat intellectum primo ad actum 
+       <lb ed="#B" n="39"/>intelligendi simplicium: qui vlterius motu voluntatis imperantis &amp; in actionem intellectum impellen- 
+       <lb ed="#B" n="40"/>tis, seipso immutatur per habitum scientialem ad notitiam eius quidquid est &amp; propter quid circa omnia naturaliter sibi co- 
+       <lb ed="#B" n="41"/>gnoscibilia. Intellectus vero angelicus per obiectum ab alio sibi praesentatum non intelligit: neque de potentia 
+       <lb ed="#B" n="42"/>in actum deducitur: sed habet in se habitum scientialem perfectum ad omnia naturaliter a se cognoscibilia: qui virtute 
+       <lb ed="#B" n="43"/>est omnia scibilia ab ipso: &amp; naturalem colligantiam correlationis habet ad ipsa: non secundum quod sunt vel nata 
+       <lb ed="#B" n="44"/>sunt extra subsistere, hoc enim accidit scibili secundum quod scibile est. Ex hoc enim solo est aliquid scibile sim- 
+       <lb ed="#B" n="45"/>pliciter quod est aliquid per essentiam habens rationem extra rem in deo. Angelo ergo creato &amp; tali hintu ei naturaliter 
+       <lb ed="#B" n="46"/>concreato, hintu illo naturalitur inclinabatur ad concipiendum rerum simplices quiditates. Quemadmodum graue sur 
+       <lb ed="#B" n="47"/>sum non impeditum stati sua grauitate inclinatur deorsum. &amp; tanto magis ad aliquis quam ad alias quanto essentialius or 
+       <lb ed="#B" n="48"/>dinatur ad illas: vt forte ad cognoscendum quiditatem essentiae suae vel creaturae magl abstracte &amp; perfecte quae ma-  
+       <lb ed="#B" n="49"/>gis intelligibilitati habet. Et tunc demum cum actu perfectus est in hintu primo libero voluntatis imperio ex hintu 
+       <lb ed="#B" n="50"/>discurrit ad singula tam complexa quam incomplexa cognoscenda. Discursu dico quae cognoscitur hoc post hoc: non 
+       <lb ed="#B" n="51"/>hoc ex hoc: qualis est in nobl. ita quod per talem immutationem intellectus angelici ex seipso hoc est ex eis quae naturalitur habet 
+       <lb ed="#B" n="52"/>in se, stati hintu eum inclinante immo ipsa re scibili inquantum virtute est in ipso hintu mouendo intellectum naturalitur stati 
+       <lb ed="#B" n="53"/>resplendet in actuali intelligentia angeli: &amp; per hoc fit actu sciens &amp; intelligens idem qui prius erat sciens &amp; intelligens po 
+       <lb ed="#B" n="54"/>tentia tantum: &amp; scibile siue intelligibile quod virtute ei inhaeret in hintu sciae, fit eiobum in actuali scia. Et sicut ex ipso 
+       <lb ed="#B" n="55"/>inquantum est virtute in hintu scimae &amp; intellectu sit vnum sicut ex materia &amp; forma: sic inquantum cadit in actuali intelligentia 
+       <!--395.xml-->
+       <pb ed="#B" n="177-v"/>
+        <lb ed="#B" n="1"/>sit vnum sicut ex intelligente &amp; intellecto. Et est forma expressa inquantum huiusmodi non impressa: non tamen aliter 
+       <lb ed="#B" n="2"/>existens secundum actum existentiae quam in ipso habitu scientiae inhaerendo intellectui: ne ponamus formas Pla- 
+       <lb ed="#B" n="3"/>tonicas. &amp; hoc quemadmodum vel obiectum intellectui nostro non alibi existit nisi in phantasmate quod in vi 
+       <lb ed="#B" n="4"/>imaginatiua non habet esse nisi sicut in cognoscente, &amp; hoc per immutationem factam in ipso ad actum imagi 
+       <lb ed="#B" n="5"/>nandi a specie existente in memoria vice obiecti extra, vt dictum est. Et secundum hoc rerum essentiae antequam 
+       <lb ed="#B" n="6"/>sunt in rerum existentia non sunt aliud in re nisi ipsa earum scientia: &amp; cauam esse earum in actuali intelligentia non 
+       <lb ed="#B" n="7"/>est nisi earum scientia, quae naturaliter veluti potesdere suo quodam mouetur intelligentia: &amp; hoc inquantum scientiai 
+       <lb ed="#B" n="8"/>hintu quodammo est res in hintum: &amp; scientia in actum quodammo est res in actum. &amp; non solum sic: immo ipse intellectus in  
+       <lb ed="#B" n="9"/>quantum informatur hintu absque actuali cognitione, de quaedammo secundum habitum esse ipsae res: &amp; inquantum informatur 
+       <lb ed="#B" n="10"/>actuali cognitione, dicitur quodammo actu esse res ipsae. Et similiter de sensu respectu sensibilium. Et ideo 
+       <lb ed="#B" n="11"/>dicit <name ref="#Aristotle">philosophus</name> in primo de anima, quod secantur scientiae quemadmodum &amp; res. &amp; similiter sensus: quae quidem potentia est 
+       <lb ed="#B" n="12"/>in ea quae sunt potentia: quae vero actum, in ea quae sunt actum. vbi dicit Commentator. Differentiae entium quibus diuiduntur 
+       <lb ed="#B" n="13"/>sunt eaedem cum differentiis animae. Necesse est igitur vt vere dicatur quod illa pars animae est illa pars entium. Intellectus igitur est in  
+       <lb ed="#B" n="14"/>tellectum &amp; sensus sensatum: in quo consistit perfecta assimilatio cognoscentis ad cognitum: sine qua non perficitur 
+       <lb ed="#B" n="15"/>actus cognoscendi. Et sic ad actum intelligendi oportet quod in intelligendo intelligibile inquantum est intel 
+       <lb ed="#B" n="16"/>lectum secundum habitum agat in intellectum immutando ipsum vt exeat de potentia in actum: &amp; intellectus ipse est 
+       <lb ed="#B" n="17"/>ipsum patiens. Nec in hoc formaliter &amp; completiue consistit actus intelligendi: sed inchoatiue tantum: sed  
+       <lb ed="#B" n="18"/>consistit completiue &amp; formaliter in hoc quod per hoc quod intellectus mouetur ab habitu &amp; splendet per hoc intel 
+       <lb ed="#B" n="19"/>ligibile secundum actum in intellectum: vnum iam fit ex intellectu inquantum est vis intellectiua, &amp; intellecto inquantum est 
+       <lb ed="#B" n="20"/>obiectum intelligibile. quidquidem est vnum principium actionis quae est intelligere: quae est operatio &amp; perfectio intelli 
+       <lb ed="#B" n="21"/>gentis inquantum intelligens est: sed formaliter per ipsum obiectum: quemadmodum lucere est actus corporis lumi- 
+       <lb ed="#B" n="22"/>nosi: sed formaliter per ipsam lucem. Ita quod intelligere sit communis perfectio intellectus &amp; intellecti: ita quod in in-  
+       <lb ed="#B" n="23"/>telligente secundum actum tria sunt ex quibus constituitur: videlicet intellectus, intelligibile, &amp; operatio intel- 
+       <lb ed="#B" n="24"/>ligendi compositum ex vtroque perficiens. Et in illo composito similiter perficit vtrumque componibilium. Intelligibi 
+       <lb ed="#B" n="25"/>le inquantum informat intellectum vt ratio formalis eliciendi in ipso actum intelligendi. Intellectum vero in  
+       <lb ed="#B" n="26"/>quantum est potentia habitu informata: &amp; sic inquantum est haobens potentiam sciendi: non sicut materia: quemad- 
+       <lb ed="#B" n="27"/>modum est intellectus noster potentia sciens ante habitum generatum. sic enim secundum potentiam sciens antequam 
+       <lb ed="#B" n="28"/>actum sciat perfecte, per doctrinam alterari, &amp; ex contrario habitu mutari in contrarium oportet, addiscens &amp; ac- 
+       <lb ed="#B" n="29"/>cipiens scientiam ab eo quid est actu sciens vt a didascalo vel per se inueniendo quod appellatur alteratio siue muta 
+       <lb ed="#B" n="30"/>tio secundum priuatiuas dispositiones: sed inquantum est secundum potentiam sciens: sicut ille qui est de numero scien- 
+       <lb ed="#B" n="31"/>tium &amp; scientiam habentium. sic enim secundum potentiam sciens priusquam actu perfecto sciat non oportet alterari discen- 
+       <lb ed="#B" n="32"/>do: sed solummodo alteratur procedendo ab otio in actum: quod nuiius contrarii corruptio est: sed salus magis 
+       <lb ed="#B" n="33"/>eius quod est in potentia sub eo: &amp; ab eo quod est actus &amp; perfectio eius inquantum habens scientiam sit specu- 
+       <lb ed="#B" n="34"/>lans quod est ductio in actum secundum seipsum: tanquam eum qui cum est volens possibilis est considerare nisi aliqua 
+       <lb ed="#B" n="35"/>impediat extrinsecus, quod non est vere alterari: aut est alterum genus alterationis ab alteratione praedi- 
+       <lb ed="#B" n="36"/>cta: sicut determinat <name ref="#Aristotle">philosophus</name> in ii. de anima. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1084">
+       SIC ergo applicando iam exposita ad quaestionem: vtrum. scilicet angelus in  
+       <lb ed="#B" n="37"/>telligat res alias a se per suam essentiam: an per rerum similitudines sibi impressas: an per praesentiam quiditatum  
+       <lb ed="#B" n="38"/>&amp; essentiarum ipsarum rerum: Dicimus distinguendo. Cum enim secundum praedicta ad actum intelligendi 
+       <lb ed="#B" n="39"/>quae est operatio &amp; perfectio intelligentis secundum actum vt est intelligens duo requirunet scilicet ipsum intellectiuum: quid  
+       <lb ed="#B" n="40"/>in se potest recipere talem perfectionem in suo intellectu tanquam potentia passiua: &amp; ipsum intelligibile quid potest 
+       <lb ed="#B" n="41"/>agere in ipso intellectu talem perfectionem tanquam vis actiua &amp; ratio formalis in intellectu ad eliciendum  
+       <lb ed="#B" n="42"/>ipsum de potentia intellectus passiua tanquam operationem factam &amp; naturalem compositi ex intellectu &amp; intel- 
+       <lb ed="#B" n="43"/>ligibili quod illa operatione est per seipsum secundum actum intelligens. Per aliquid ergo angelum intelligere res alias 
+       <lb ed="#B" n="44"/>a se potest intelligi dupliciter secundum duo iam dicta: quae concurrunt ad actum intelligendi simul vnita vt vnum princi 
+       <lb ed="#B" n="45"/>pium actus intelligendi compositum ex illis velut ex materiali &amp; formali per se: vt agens actum intelligendi elicitumper  
+       <lb ed="#B" n="46"/>suum formale. Non enim materiale per se agit neque formale: sed totum compositum per suum for 
+       <lb ed="#B" n="47"/>male: vt patet in agentibus naturalibus: non enim calor calefacit, neque ignis substantia secundum quod sub  
+       <lb ed="#B" n="48"/>stantia est, sed calidum. Potest enim intelligi aut per aliquid sicut intellectiuo &amp; passibili siue materiali: aut 
+       <lb ed="#B" n="49"/>per aliquid sicut intelligibili &amp; actiuo siue formali. Primo modo dico quod angelus intelligit res alias a 
+       <lb ed="#B" n="50"/>se per suam essentiam: quia ipsa potentia intellectiua est sua essentia non accidens aliquod addi-  
+       <lb ed="#B" n="51"/>tum suae essentiae. Quemadmodum enim declarauimus in quadam alia quaestione de Quolibet, poten- 
+       <lb ed="#B" n="52"/>tiae animae non sunt aliquid aliud re ab ipsa substantia animae. &amp; idem intelligimus &amp; propter easdem rationes 
+       <lb ed="#B" n="53"/>de potentiis angeli quae sunt intellectus &amp; voluntas. Et secundum hunc modum similiter dicimus quod homo in  
+       <lb ed="#B" n="54"/>telligit &amp; sentit per suam essentiam, quia per potentiam intellectiuam &amp; sensitiuam, quae sunt ipsa es- 
+       <!--396.xml-->
+       <pb ed="#B" n="178-r"/>
+        <lb ed="#B" n="1"/>sentia animae humanae quae est formalis pars in essentia humana. Vnde ad hoc quod angelus actu intelligat alia a 
+       <lb ed="#B" n="2"/>se ex parte intellectiui secundum quod ad actum intelligendi refertur, vel vt intellectiuum, nihil amplius requiritur su 
+       <lb ed="#B" n="3"/>per ipsam rationem intellectiui: sicut neque super essentiam materiae &amp; eius potentiam passiuam ex parte essentiae nihil 
+       <lb ed="#B" n="4"/>requiritur vt recipiat formam quam compositum ex materia &amp; forma possit in operationem debitam suae speciei: secundum quod  
+       <lb ed="#B" n="5"/>hoc aparte probat <name ref="#Aristotle">philosophus</name> in fine octaui metaphysicae. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1144">
+       VNde quicquid ad actum intelligendi in angelo requiri 
+       <lb ed="#B" n="6"/>tur super essentiam suam &amp; potentiam qua est aliquid intellectiuum, illud requiritur ex parte intelligibilis, sine 
+       <lb ed="#B" n="7"/>quo non potest in actum intelligendi intellectiuum: sicut neque materia ex se in actum compositi debitum formae 
+       <lb ed="#B" n="8"/>Et in hoc deficit omnis intellectus creatus ab intellectu increato. Ille enim extra suam essentiam nihil aliud  
+       <lb ed="#B" n="9"/>requirit ad actum suum intelligendi. immo ipsa ex se non est nisi essentia simplex illimitata: quod est ipsum viue- 
+       <lb ed="#B" n="10"/>re intellectuale &amp; ita ipsum intelligere: ita quod non nisi ratione in ipsa essentia differant intellectiuum &amp; intelli 
+       <lb ed="#B" n="11"/>gibile &amp; actus intelligendi: quemadmodum supra diximus. Vt per hoc plane pateat quod secundum istum modum  
+       <lb ed="#B" n="12"/>intelligendi per aliquid vt per intellectiuum, multo differenter deus dicitur intelligere per suam essentiam &amp; angelus 
+       <lb ed="#B" n="13"/>&amp; homo Deus enim intelligit per suam essentiam vt per aliquid intellectiuum: quod nihil aliuae requirit super essentiam ad actum 
+       <lb ed="#B" n="14"/>intelligendi: etsi requirat differens ratione, quia non est intelligere actum intelligendi sine ratione intellectiui 
+       <lb ed="#B" n="15"/>&amp; intelligibilis: quae simul sunt vnum intellectiuum secundum actum, vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1168">
+       ANgelus autem vel homo intelli- 
+       <lb ed="#B" n="16"/>git per suam essentiam vt per aliquid intellectiuum quid ad actum intelligendi requirit super essentiam suam aliquid aliud dif 
+       <lb ed="#B" n="17"/>ferens re ab ipsa essentia: quod fit ex parte intelligibilis. Si ergo quaestio intelligatur secundo me scilicet de intelligendo  
+       <lb ed="#B" n="18"/>per aliquid sicut per intelligibile formale &amp; actiuum in actu intelligendi: dico quod angelus non intelligit res 
+       <lb ed="#B" n="19"/>alias a se per suam essentiam: &amp; quid plus est neque suam essentiam, propriam, vt iam dicetur: sed solum per aliquid additum  
+       <lb ed="#B" n="20"/>suae essentiae re differens ab illa: ex quo cum intellectiuo fundato in essentia angeli fiat vnum princi- 
+       <lb ed="#B" n="21"/>pium actus intelligendi. &amp; per actum est vnum intelligens secundum actum ipsa res intellecta. Per suam enim 
+       <lb ed="#B" n="22"/>essentiam tanquam per rationem intelligibilis intelligere primo &amp; per se siue seipsum siue alia a se: hoc soli deo  
+       <lb ed="#B" n="23"/>conuenit: vt infra patebit quo ad intellectum suiipsius. Quo ad intellectum vero aliorum a se, patet quod nul 
+       <lb ed="#B" n="24"/>lo modo potest per suam essentiam intelligere alia a se. quoniam sua essentia non est propria ratio alicuius aliorum a se, quem 
+       <lb ed="#B" n="25"/>admodum est essentia dei: nisi secundum opinionem philosophorum qui ponebant quod intelligentia superior esset causa pro- 
+       <lb ed="#B" n="26"/>pria inferiorum. lpsi enim necesse habebant ponere quod intelligentia superior inferiora quorum est cam, intellige- 
+       <lb ed="#B" n="27"/>ret per suam essentiam tanquamper id quod est, propria ratio eius: quemadmodum nos dicimus deum omnia alia intel- 
+       <lb ed="#B" n="28"/>ligere per suam essentiam vt per id quid est propria ratio omnium. Vnumquodque enim intelligitur per id quid est sua 
+       <lb ed="#B" n="29"/>propria ratio non per aliud nisi in vniuersali. quoniam omnis cognitio fit per assimilationem quae consistit in ratione in  
+       <lb ed="#B" n="30"/>telligendi ex parte intelligibilis. Vnde quia essentia vnius angeli non assimilatur essentiae alterius nisi in  
+       <lb ed="#B" n="31"/>natura communis generis aut speciei: neque multo minus essentiae cuiuscumque rei alterius: per suam ergo essen- 
+       <lb ed="#B" n="32"/>tiam vnus angelus nihil aliud a se intelligit nisi incomplete &amp; in vniuersali, quia semper in quacumque re 
+       <lb ed="#B" n="33"/>alia est ratio qua convenit cum alia, ab illa qua differt ab eadem. Sed illud superadditum essentiae dicit commu 
+       <lb ed="#B" n="34"/>nis opinio esse speciem siue similitudinem aliquam intelligibilis impressam a creatione intellectui: quemad- 
+       <lb ed="#B" n="35"/>modum species sensibilis imprimitur organo sensus. Ita quod cuiuslibet rei quam debet actu intelligere, debet 
+       <lb ed="#B" n="36"/>habere speciem sibi impressam qua informetur vt per ipsum fiat quodammo ipsum intelligibile: &amp; sit compositum ex 
+       <lb ed="#B" n="37"/>vtroque vnum principium actus intelligendi: &amp; vnum intelligens secundum actum, vt supra expositum est. Sed tunc se 
+       <lb ed="#B" n="38"/>quuntur inconuenientia: quae supra in rationibus contra illam positionem sunt posita. Cum igitur praeter species non pos- 
+       <lb ed="#B" n="39"/>sit super essentiam angeli apponi nisi habitus, vt dictum est supra: dicimus quod illud est habitus scientialis quo  
+       <lb ed="#B" n="40"/>intelligit res etiam antequam sint in existentia: quo etiam ipse intellectus educitur de potentia intelligendi 
+       <lb ed="#B" n="41"/>ad actum. Qui licet immutet &amp; inclinet intellectum ad actum intelligendi in modum naturae: quia tamen sci- 
+       <lb ed="#B" n="42"/>bilia in ipso non sunt nisi habitu &amp; virtute: ideo per inclinationem habitus &amp; immutationem quam facit in in  
+       <lb ed="#B" n="43"/>tellectu per suam inclinationem non reducuntur ad actum vt actu agant in intellectum de necessitate simul: sicut 
+       <lb ed="#B" n="44"/>reducerent species si de se sufficerent, vt dictum est: sed solum reducuntur secundum possibilitatem capa 
+       <lb ed="#B" n="45"/>citatis intellectus discurrentis ab vno in alterum, vt tactum est in parte. Sed cum vt saepe dictum est 
+       <lb ed="#B" n="46"/>potentia intellectualis vt intellectualis &amp; receptiua est, ex se omnino disposita est ad immutationem alte 
+       <lb ed="#B" n="47"/>rius suscipiendam: et habitus scientialis ex se sufficit inclinare &amp; per hoc immutare: ad immutationem er 
+       <lb ed="#B" n="48"/>go huiusmodi saciendam per habitum vanum est &amp; omnino supersluum ponere ad actum intel- 
+       <lb ed="#B" n="49"/>ligendi dictas species in intellectu angelico: quia etiam ab illis qui huiusmodi species ponunt, po 
+       <lb ed="#B" n="50"/>nuntur habitus scientiales in angelis. Vnde ponimus solum habitum sufficere superadditum  
+       <lb ed="#B" n="51"/>essentiae angeli ad intelligendum necessarium. Qui quidem habitus dupliciter potest considera- 
+       <lb ed="#B" n="52"/>ri. Vno modo vt est habitus de prima specie qualitatis. Alio modo vt virtualiter est quodammo-  
+       <lb ed="#B" n="53"/>do ipsa scibilia: &amp; per naturalem connexionem habet ipsa intellectui secundum actum praesen- 
+       <lb ed="#B" n="54"/>tare. Primo modo est forma intellectui inhaerens &amp; impressa. &amp; ideo species appellari potest. 
+       <!--397.xml-->
+       <pb ed="#B" n="178-v"/>
+        <lb ed="#B" n="1"/>Et de tali specie rerum loquendo dico quod angelus alia a se intelligit non per species diuersas diuersarum re- 
+       <lb ed="#B" n="2"/>rum: sed per vnicam speciem in se virtualiter omnes essentias rerum vt scibilia sunt continentem: &amp; per actum immu 
+       <lb ed="#B" n="3"/>tationis circa intellectum angeli cui insunt singulas essentias in essentiae suae veritate praesentare obiecti 
+       <lb ed="#B" n="4"/>ue potentem. secundum quod supra expositum est. Secundo modo se habet in ratione obiecti mouentis &amp; immutantis 
+       <lb ed="#B" n="5"/>intellectum ad actum intelligendi. Hoc modo loquendo de rerum essentis scilicet vt virtualiter habent inesse intelle 
+       <lb ed="#B" n="6"/>ctui in habitu scientiali &amp; per ipsum ei obiectiue praesentari: dico quod angelus intelligit res alias a se per  
+       <lb ed="#B" n="7"/>ipsas essentias rerum sibi per habitum &amp; in habitu scientiali actualiter praesentatas. Et quia habitus scientia 
+       <lb ed="#B" n="8"/>lis secundum hanc secundam rationem est per se ratio intelligendi in intellectum, ideo simpliciter dicendum: quod ange 
+       <lb ed="#B" n="9"/>lus intelligit alia a se per ipsas rerum essentias sibi praesentes non in se subsistentes sed per habitum scientia 
+       <lb ed="#B" n="10"/>lem in intellectu existentes, &amp; eidem obiectiue praesentatas: sed per se mouentes secundum actum quo ad actualem in  
+       <lb ed="#B" n="11"/>telligentiam quando actu sunt praesentatae: secundum habitum quo ad habitualem intelligentiam quando habitu  
+       <lb ed="#B" n="12"/>sunt praesentatae: Ita quod per se obiectum &amp; primum intellectus angelici non est nisi id quod de re sic per habitum ei im 
+       <lb ed="#B" n="13"/>pressum habet praesentari, &amp; inquantum sic habet praesentari. Ita quod si per se in nuda substantia sua per im 
+       <lb ed="#B" n="14"/>possibile ponatur absque omni habitu scientiali, a nullo omnino immutaretur ad actum intelligendi, neque a 
+       <lb ed="#B" n="15"/>sua propria essentia, neque ab alia. Vnde quia essentiae rerum vt per se &amp; primo praesentantur intellectui non praesentan  
+       <lb ed="#B" n="16"/>tur vt essentiae sunt abstractae ab omnibus conditionibus particularibus &amp; singularibus: quia scien- 
+       <lb ed="#B" n="17"/>tia non est nisi eorum quae necessaria sunt, &amp; incommutabilitatem suae essentiae fortiuntur, secundum Boetium 
+       <lb ed="#B" n="18"/>in principio Arithmeticae: quales solummo sunt essentiae rerum inquantum abstrahunt a tempore &amp; loco &amp; omnibus 
+       <lb ed="#B" n="19"/>particularibus conditionibus: propter quid per se &amp; primo intellectus angelicus sicut neque noster nullam essen 
+       <lb ed="#B" n="20"/>tiam aut naturam particularem intelligit, etiam nec suam essentiam, nisi sub sua specie sub ratione vniuersalis. Et quae ad  
+       <lb ed="#B" n="21"/>hoc non aliter intelligit iste angelus singularis istam essentiam suam singularem: quam essentiam singularem illius 
+       <lb ed="#B" n="22"/>alterius angeli. Immo species sua vniversalis cognita a se obiectiue, est sibi ratio &amp; medium cognoscendi suam 
+       <lb ed="#B" n="23"/>essentiam singularem obiectiue: sicut &amp; quaelibet alia species est sibi ratio cognoscendi quaecumque singula- 
+       <lb ed="#B" n="24"/>ria sub ipsa: vt ipse angelus sibiipsi intelligibilis sit: &amp; intelligit suam essentiam sicut &amp; alia intelligibi- 
+       <lb ed="#B" n="25"/>lia &amp; non aliter. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1314">
+       EX quo patet: quod magna diuersitas est ex parte intelligibilis in dei intellectu &amp; ange  
+       <lb ed="#B" n="26"/>li quamuis non intelligat res per species earum sibi impressas. Patet etiam siquis aduertat: quod isto modo ponen 
+       <lb ed="#B" n="27"/>di congruunt dicta sanctorum &amp; philosophorum: &amp; omnia apparentia facillime saluantur, &amp; contraria soluuntur. Conce 
+       <lb ed="#B" n="28"/>dendum est ergo illud quod assumptum fuit in primo argumente scilicet quod angelus non cognoscit alia a se per 
+       <lb ed="#B" n="29"/>suam essentiam: secundum quod supra expositum est: quia hoc soli deo conuenit: nec etiam per species rerum ei impres 
+       <lb ed="#B" n="30"/>sas: quia aut semper actum necessario &amp; simul omnia intelligeret: aut egeret alio transmutante vt exiret 
+       <lb ed="#B" n="31"/>de potentia intelligendi in actum: quam non oportet contingere ponendo quod intelligat per habitus scientiales 
+       <lb ed="#B" n="32"/>
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1333">
+       PRImum non oportet contingere intelligendo per habitus. quoniam habitus scientialis vnicus est in quo-  
+       <lb ed="#B" n="33"/>libet angelo non determinatus ad aliquam essentiam. Propter quod inclinando intellectum in actum intel 
+       <lb ed="#B" n="34"/>ligendi non naturaliter inclinat a primo actu ad quamlibet indeterminate &amp; simul quantum est ex se: et 
+       <lb ed="#B" n="35"/>si forte ad aliquam illarum vt ad notitiam essentiae suiipsius aut illius quod magis habet de ratione in-  
+       <lb ed="#B" n="36"/>telligibilitatis. Sed postquam in actu intelligendi aliquod intelligibilium fuerit, voluntate mouente intelle 
+       <lb ed="#B" n="37"/>ctum ipse ab vno in alterum discurrit: &amp; secundum quod ad aliquid determinate tendit, ad illud habitus in  
+       <lb ed="#B" n="38"/>clinat determinate. Species autem impressae quia singulae sunt &amp; diuersae secundum diuersitatem es- 
+       <lb ed="#B" n="39"/>sentiarum: &amp; actio vnius quantum est de se non dependet ab alia: quantum ergo est de se quaelibet illa- 
+       <lb ed="#B" n="40"/>rum secundum totam suam virtutem inclinat ad immutandum suum intellectum ad actum intelligen- 
+       <lb ed="#B" n="41"/>di praesentando suum intelligibile. Et ideo quantum est ex parte specierum mouentium simul immutatur ad  
+       <lb ed="#B" n="42"/>intelligendum simul singula. Et si forte non intelligat simul, hoc est quia non potest simul conuer- 
+       <lb ed="#B" n="43"/>tere se ad singula vt ipse aduertat: immo si aduertat vnum post alterum, hoc non fit noua immuta-  
+       <lb ed="#B" n="44"/>tione qua de nouo per speciem inclinatur, &amp; de nouo obiectum praesentatur: sicut contingit cum aliquid sit 
+       <lb ed="#B" n="45"/>praesens oculo &amp; speciem imprimit &amp; non videtur quia non adest intentio: cumque adfuerit intentio non fit 
+       <lb ed="#B" n="46"/>noua a sensibili immutatio, sicut neque nouae speciei impressio. Et sic ponendo species, ad minus an-  
+       <lb ed="#B" n="47"/>gelus sic in habitu omnia simul intelligeret, vt si vnum post alterum differentium per essentiam in-  
+       <lb ed="#B" n="48"/>telligeret: hoc non esset noua immutatione nec noua verbi vel obiecti praesentis conceptione: sed so- 
+       <lb ed="#B" n="49"/>lum noua aduersione: quia solummodo nouo respectu se habendo ad obiecta percepta, quod est incon 
+       <lb ed="#B" n="50"/>ueniens. Et patet quomodo hoc non sequitur ponendo intelligere per habitus, quia ibi ad quemlibet actum 
+       <lb ed="#B" n="51"/>intelligendi potest poni noua immutatio propter habitus indeterminationem ab obiecta, vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1377">
+       SImili 
+       <lb ed="#B" n="52"/>ter secundum non est necesse contingere ponendo intellectum fieri per habitus. quia enim ex se inclinat &amp; non deter-  
+       <lb ed="#B" n="53"/>minate ad quodlibet, sed solum ad aliquod primum: post quod cum intellectum fuerit &amp;untellectus mouetur ab ipso 
+       <lb ed="#B" n="54"/>per imperium voluntatis tunc determinate mouet ad aliud secundum quod impellitur erga illud a 
+       <!--398.xml-->
+       <pb ed="#B" n="179-r"/>
+        <lb ed="#B" n="1"/>voluntate: ita quod sicursu &amp; ordine naturali procederet intellectus angelicus intelligendo, intelligeret 
+       <lb ed="#B" n="2"/>ordinate vnum post aliuae secundum ordinem graduum naturarum: quemadmodum si intelligendo numeros procederet 
+       <lb ed="#B" n="3"/>ab vnitate in binarium, &amp; a binario in ternarium, &amp; sic deinceps: inquantum species rerum se habent modo numerorum  
+       <lb ed="#B" n="4"/>secundum philosophum. Sed quod modo interscalatim intelligit vnum post aliquae media intermittendo: hoc facit secundum 
+       <lb ed="#B" n="5"/>imperium liberae voluntatis: inquantum praecedente cognitione alicuius in quae alia incognita actum cognoscuntur 
+       <lb ed="#B" n="6"/>aut vt in vniversal aut vt in simili aut contrario aut disperato, quae cognitio sufficit ad mouendum desiderium volunta 
+       <lb ed="#B" n="7"/>tis, vt moueat intellectum vt discurrat ad actualem perceptionem secundum se incognitorum. secundum quod dicit Au- 
+       <lb ed="#B" n="8"/>gust. iiii. de trinitate. cap. primo. In his rebus in quibus vsitate studium dtei, solent excitare amores. Et infra. Quidquisque  
+       <lb ed="#B" n="9"/>prorsus ignorat amare nullo modo potest. Et infra. Quo igitur notum est: sed non plene notum: eo cupit animus 
+       <lb ed="#B" n="10"/>de illo nosse quod reliquum est. &amp; ca. ii. Quilibet igitur studiosus quilibet cupidiosus non amat incognita est cum 
+       <lb ed="#B" n="11"/>ardentissimo appetitu instat scire quod nescit. &amp; sic semper post vnum intelligit aliquae noua immutatione. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1414">
+       PER 
+       <lb ed="#B" n="12"/>species vero impressas si non ab initio moueretur naturaliter ab aliqua illarum per se, nec in posterum sine alio 
+       <lb ed="#B" n="13"/>educente de potentia in actum compositum ex intellectu &amp; illa specie. quia nihil educit seipsum de potentia in actum. 
+       <lb ed="#B" n="14"/>Nec pont dici quod ad hoc sufficit intentio voluntatis. quoniam voluntas non mouet intellectum per intentionem nisi post 
+       <lb ed="#B" n="15"/>aliquam cognitionem. Oporteret ergo quod aliqua species moueret naturalitur prius intellectum: &amp; quae ratione vna &amp; sin 
+       <lb ed="#B" n="16"/>gulae: quia quantum vna est in actum &amp; intellectum, &amp; alia. Et sic quae ratione vna mouebit intellectum in actum, eadem ratio 
+       <lb ed="#B" n="17"/>ne &amp; quaelibet alia secundum analogiam suae virtutis. Quod non oportet ponere in habitu: etsi primo naturalitur mo 
+       <lb ed="#B" n="18"/>ueat ad vnam essentiam cognoscendam quam alteram, quoniam in sua essentia nullam illarum determinat tanquam similitudo 
+       <lb ed="#B" n="19"/>propria eius: vt sic semper esset noua attentio &amp; aduersio obiecti sine noua immutatione, vt dictum est: 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1434">
+       PRAE 
+       <lb ed="#B" n="20"/>terea etsi voluntas mouet intellectum imperando vt intelligat &amp; discurrat, non tamen est ponendum quod aliquo  
+       <lb ed="#B" n="21"/>modo ipsum ad actum intelligendi immutat. immo quod immutat non potest esse nisi obiectum: &amp; hoc vel in sua specie in  
+       <lb ed="#B" n="22"/>pressa vel in habitu. Si ergo species non semper actu immutaret, necesse esset quod noua immutatio in composi- 
+       <lb ed="#B" n="23"/>to ex intellectu &amp; specie fieret ab obiecto vt est in ipso habitu: ita quod nunquam ad actum intelligendi nouum 
+       <lb ed="#B" n="24"/>in angelo sufficit species sine habitu. quoniam si sufficeret vt essentia angeli nuda ab omni habitu scientiali 
+       <lb ed="#B" n="25"/>posset per species innatas intelligere: sicut intellectus noster per vniversala abstracta a phantasmate: &amp; ita per spe 
+       <lb ed="#B" n="26"/>cies existentes in phantasmatibus: tunc habitus scientiales possent in angelo generari de nouo sicut &amp; in in  
+       <lb ed="#B" n="27"/>tellectum nostro, quod falsum est. quia tunc intellectus angeli esset quo ad hoc materialis sicut est intelle- 
+       <lb ed="#B" n="28"/>ctus noster: nec supremum intellectus nostri esset infimum intellectus angelici: quid falsum est. Quoniam secundum praede 
+       <lb ed="#B" n="29"/>terminata angelus habet naturaliter habitus scientiales sibi concreatos. Quare cum species ad actum intelli 
+       <lb ed="#B" n="30"/>gendi angeli non sufficiunt sine habitu, &amp; ipse solus habitus sufficit, sicut dictum est, superfluum autem est semper pone 
+       <lb ed="#B" n="31"/>re aliquid fieri per plura quod aequaliter potest fieri per vnum aut per pauciora, semper melius est ponere si sit possi 
+       <lb ed="#B" n="32"/>bile fieri quidcumque per vnum aut per pauciora quam per plura, &amp; per finita quam per infinita, sicut dicit <name ref="#Aristotle">philosophus</name> primo phy- 
+       <lb ed="#B" n="33"/>sicorum. Etsi igitur nulla esset ratio alia mouens ad negandum species impressas quam quod habitus sufficit ad actum 
+       <lb ed="#B" n="34"/>intelligendi fine illis: &amp; non econuerso: nullo modo possem assentire positioni specierum impressarum. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1472">
+       PRAE- 
+       <lb ed="#B" n="35"/>terea quid argutum est consequenter contra formas impressas: quod scilicet necessario essent impressae: vt species particu 
+       <lb ed="#B" n="36"/>laris sub ratione vniversalis: nullo modo potest induci contra positionem de habitu. Illud enim conuenit speciebus in  
+       <lb ed="#B" n="37"/>pressis: quia determinatae sunt ipsis essentiis &amp; speciebus rerum. Et ideo vt omnino respondeant eis, oporte 
+       <lb ed="#B" n="38"/>ret eas sub eadem specie imprimi ab alio sub qua imprimerentur ab ipsa rei essentia: quemadmodum si 
+       <lb ed="#B" n="39"/>figuram quam sigillum aliquod imprimeret in caeram mollem, aliquis alius imprimeret, necesse esset ad hoc 
+       <lb ed="#B" n="40"/>quod omnino figurae sigilli responderet illa figura ab illo impressa: quod omnino talem &amp; secundum eandem 
+       <lb ed="#B" n="41"/>rationem imprimeret, qualem &amp; secundum quam rationem ipsam imprimeret sigillum, quod non conuenit 
+       <lb ed="#B" n="42"/>habitui: eo quod ipse est qualitas vnica nulli essentiae determinata secundum actum: sed solummo in virtute con 
+       <lb ed="#B" n="43"/>tinens omnes &amp; in actualiimmutatione determinata ad singulas, successiue singulas repraesentans, vt dictum 
+       <lb ed="#B" n="44"/>est. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1496">
+       PRAEterea illud aliud argumentum contra species impressas: quod praesentia rei magis est causati 
+       <lb ed="#B" n="45"/>ua speciei in intellectu, sicut &amp; in sensu, quam econuerso: cum tamen illud quo sit actus intelligendi sit cau 
+       <lb ed="#B" n="46"/>satiuum per se praesentiae obiectiin intellectum, nullo modo potest induci contra positionem de habitu. 
+       <lb ed="#B" n="47"/>Illud enim conuenit speciei ex eo quod secundum se est determinata similitudo obiecti: quae potius est cau 
+       <lb ed="#B" n="48"/>sata a re quam sit eius aliquo modo per praesentiam alicuius existentiae causatiua, vt dictum est. Habi 
+       <lb ed="#B" n="49"/>tus autem, vt dictum est, nullamomnino habet determinationem ad obiecta: &amp; nullo etiam modo  
+       <lb ed="#B" n="50"/>in nobis habet causari per se arebus. Ex eo enim quod intellectus noster immutatur ab obiecto simpli- 
+       <lb ed="#B" n="51"/>ciintelligentia, nullus habitus scientialis generatur: sed solummo generatur ex actibus intellectus conferentis simplicia in  
+       <lb ed="#B" n="52"/>tellecta, vt infra videbitur de generatione habituum. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1517">
+       PRAEterea quid arguebatur de infinitate specierum quae simul 
+       <lb ed="#B" n="53"/>essent intellectui angelico impressae: illud nullo modo est contra positionem de habitu. quoniam habitus vnicus est 
+       <lb ed="#B" n="54"/>non determinatus ad aliquod obiectum, virtute tamen in se habens singula. Ita quod si essent infinitae 
+       <!--399.xml-->
+       <pb ed="#B" n="179-v"/>
+        <lb ed="#B" n="1"/>species &amp; essentiae creaturarum, vnico habitu sufficeret intelligere singulas, &amp; in infinitum procedendo vnam 
+       <lb ed="#B" n="2"/>post aliam: &amp; hoc tanto expeditius &amp; lympidius singula intelligendo: quanto habitus simplicior fuerit &amp; mi 
+       <lb ed="#B" n="3"/>nus determinatus in natura &amp; essentia sua: secundum quod angeli superiores ponuntur intelligere per habitus 
+       <lb ed="#B" n="4"/>simpliciores &amp; minus determinatos quam angeli inferiores: de quo nihil ad praesenus. 
+      </p>
+      <p xml:id="n3av8a-c1e1957-d1e1537">
+       AD illud: quod non intel 
+       <lb ed="#B" n="5"/>ligit per rerum essentias: quia tunc non intelligeret non entia: quia ipsa sicut non sunt in re extra, sic nec sunt 
+       <lb ed="#B" n="6"/>in intellectum nisi sint ibi in suis speciebus: Dicendum quod falsum est. immo bene sunt in ipso in vna specie quae est 
+       <lb ed="#B" n="7"/>habitus scientialis &amp; quodammodo omnia scibilia, vt praedictum est, &amp; vt credo quantum oportet ad praesens 
+       <lb ed="#B" n="8"/>sufficienter est expositum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

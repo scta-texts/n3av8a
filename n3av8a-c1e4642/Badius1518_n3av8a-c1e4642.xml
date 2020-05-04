@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 30</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 30</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4642">
+       <head xml:id="n3av8a-c1e4642-Hd1e96">Quaestio 30</head>
+       <p xml:id="n3av8a-c1e4642-d1e99">
+        <lb ed="#B" n="25"/>CIrca secundum arguitur quod omnes tenentur ad dicendum vel audiendum missam quotidie aut pec 
+       <lb ed="#B" n="26"/>cant mortaliter: quia in dicta litera Dolentes praecepit Papa celebrari solemnia missarum a 
+       <lb ed="#B" n="27"/>sacerdotibus, sicut &amp; dicere horas. &amp; si tenentur dicere, maxime tenentur audire &amp; ipsi &amp; 
+       <lb ed="#B" n="28"/>alii omnes. Contrarium videtur. quia de audiendo vel dicendo missarum solemnia nihil praecipitur in  
+       <lb ed="#B" n="29"/>dicta litera praesbyter. nisi quod praecipitur horarum obseruantia. Innocentius dicit quod quilibet cle 
+       <lb ed="#B" n="30"/>ricus beneficiatus etiam non in sacris constitutus debet dicere vel audire diuina officia 
+       <lb ed="#B" n="31"/>omni die. Quod si dicit de officio missae: hoc solum intelligitur de residentibus in ecclesiis suis: aut si de omnibus dici- 
+       <lb ed="#B" n="32"/>tur generaliter, diuina officia ibi intelliguntur horae canonicae, nullo enim iure quisquam ad hoc obligatur vt quo  
+       <lb ed="#B" n="33"/>libet die missam dicat vel audiat: sed tantum hoc praecipitur omnibus etiam laicis die dominico sub poena excomunica- 
+       <lb ed="#B" n="34"/>tionis. de conse. dist id est cap. Missas. vbi sic dicitur. Missas die dominica saecularibus totas audire praecipimus. &amp; di 
+       <lb ed="#B" n="35"/>cit ibi Glos. Vnde contra praeceptum faciunt qui diebus dominicis non audiunt missas: nisi aliquam necessitas cogat. 
+       <lb ed="#B" n="36"/>Sed quod in talibus non praecipitur omni die faciendum, deuotioni singulorum conmittitur: &amp; secundum hoc concedenda est 
+       <lb ed="#B" n="37"/>ratio secunda pro hac parte. Ad primam rationem quae erat in oppositum, dicendum quod illa litera Dolentes: non praecipit 
+       <lb ed="#B" n="38"/>sacerdotibus singulis diebus missas dicere aut audire: sed dominus Papa in illa litera solummodo prohibuit 
+       <lb ed="#B" n="39"/>superfluas comessationes confabulationes &amp; huiusmodi hora maxime celebrandi diuina officia, &amp; praeci- 
+       <lb ed="#B" n="40"/>pit diuinum officium diurnum &amp; nocturnum deuote celebrari: secundum quod prius praeceperat in illa li 
+       <lb ed="#B" n="41"/>tera Presbyter quo ad horas diurnas. in qua &amp; hoc praecepit: quod horae diurnae debent quotidie obserua- 
+       <lb ed="#B" n="42"/>ri: sed de missarum solemniis quo ad determinationem temporis celebrandi ipsas: nec in vna litera nec 
+       <lb ed="#B" n="43"/>in altera vllam fecit mentionem. Vnde super illo verbo Officium, in illa Dolentes, dicit glossa. Ad quid  
+       <lb ed="#B" n="44"/>omnes fine isto praecepto tenentur supra eodem Presbyter. &amp; sic diuinum officium non extenditur 
+       <lb ed="#B" n="45"/>ibi ad missarum solennia: immo solummodo intelligitur pro horis. Sed est aduertendum quod in om- 
+       <lb ed="#B" n="46"/>nibus talibus quae sunt de genere bonorum nec cadunt sub praecepto diuino aut humano: pensan- 
+       <lb ed="#B" n="47"/>dum est sollicite quid pro quo admittendum siue postponendum, quod &amp; relinquitur cuiuslibet conscientiae: 
+       <lb ed="#B" n="48"/>cuius iudex in hoc debet esse solus deus qui scrutatur renes &amp; corda hoc est cogitationes singulo 
+       <lb ed="#B" n="49"/>rum &amp; desideria. Vnde extra de celebra, misis. ca. Quidam. vbi reprehenduntur laici missas priuatas au 
+       <lb ed="#B" n="50"/>dientes: quasi melius sit audire illas ex seipsis, quam missas ordinarias: non praecipitur eis quod quotidie 
+       <lb ed="#B" n="51"/>audiant missam: sed hoc potius relinquit in eorum voluntate dicens sic. Sed si voluerint vt sibi misse 
+       <lb ed="#B" n="52"/>dicantur de eodem die missas audiant. 
+       <lb ed="#B" n="53"/>Finis Vndecimi Quodlibet Magistri 
+       <lb ed="#B" n="54"/>Henrici a Gandauo.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

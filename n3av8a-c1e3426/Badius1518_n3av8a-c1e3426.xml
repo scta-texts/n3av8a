@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 25</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 25</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3426">
+       <head xml:id="n3av8a-c1e3426-Hd1e96">Quaestio 25</head>
+       <p xml:id="n3av8a-c1e3426-d1e99">
+        <lb ed="#B" n="19"/>CIrca tertium arguitur quod non gaudens de bono alterius peccat. quia hoc est con 
+       <lb ed="#B" n="20"/>trarium charitati. Apostolus enim dicit. i. Corinthi. xiii. de charitate. Quia con 
+       <lb ed="#B" n="21"/>gaudet veritati. Glos. i. operibus iustitiae. Contra, bonum opus vnius impedi- 
+       <lb ed="#B" n="22"/>tiuum est boni operis alterius quando ambo simul illud agere non possunt. 
+       <lb ed="#B" n="23"/>nullus autem gaudere debet de impedimento boni operis sui. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3426-d1e112">
+       DIcen- 
+       <lb ed="#B" n="24"/>dum quod non gaudere de bono opere alterius potest aliquis duplici de causa, aut 
+       <lb ed="#B" n="25"/>negatiue scilicet quia non aduertit, aut contrarie &amp; priuatiue, quia dolet, &amp; hoc 
+       <lb ed="#B" n="26"/>vel odio personae, &amp; est peccatum in spiritum sanctum scilicet odium fraternae gratiae, vel odio ipsius 
+       <lb ed="#B" n="27"/>boni operis, &amp; est peccatum in spiritum sanctuem scilicet impugnatio veritatis agnitae. 
+      </p>
+      <p xml:id="n3av8a-c1e3426-d1e123">
+       AD primum 
+       <lb ed="#B" n="28"/>quod non gaudere est contrarium charitati, verum est non gaudere priuatiue. Ad secundum dicendum 
+       <lb ed="#B" n="29"/>quod de impedimento boni sui per se faciendi nullus debet per se gaudere nisi fiat recompensatio. Nunc 
+       <lb ed="#B" n="30"/>autem per bonum opus alterius non impeditur bonum opus tuum quin tibi fiat recompensatio si non 
+       <lb ed="#B" n="31"/>stet per te. Opus enim alterius in impediendo bonum opus tuum, non est bonum fieri nisi me- 
+       <lb ed="#B" n="32"/>lius fiat per alium quam per te: &amp; tunc debes gaudere fieri potius per alium quam par te: &amp; hoc circa publicum vsum  
+       <lb ed="#B" n="33"/>quando simul per te &amp; alium fieri non potest. Sed tunc congaudendo quia melius sit per alium 
+       <lb ed="#B" n="34"/>tu illud opus fatis tuum: &amp; sit tibi recompensatio maioris meriti quam si tu per te illud faceres.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 26</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 26</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="84-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1248">
+      <head xml:id="n3av8a-c1e1248-Hd1e96">Quaestio 26</head>
+      <p xml:id="n3av8a-c1e1248-d1e99">
+       <lb ed="#B" n="26"/>CIrca tertium arguitur: quod committens homicidium: in ebrietate, non peccet. Quia 
+       <lb ed="#B" n="27"/>non peccat nisi qui agit ex voluntate &amp; libero arbitrio. dicente <name ref="#Augustine">Augustino</name> de ve 
+       <lb ed="#B" n="28"/>ra religione. Adeo peccatum voluntarium malum est, vt nullo modo sit pecca- 
+       <lb ed="#B" n="29"/>tum si non sit voluntarium. Sed ebrius non habet vsum voluntatis, neque liberi 
+       <lb ed="#B" n="30"/>arbitrii secundum philosophum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e116">
+       IN contrarium est. quoniam An- 
+       <lb ed="#B" n="31"/>selmus dicit de gratia &amp; libero arbitrio. Impotentia peccandi quae prouenit ex 
+       <lb ed="#B" n="32"/>culpa, non excunsat peccatum. haec est huiusmodi qua ebrius occidit. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e123">
+       DI 
+       <lb ed="#B" n="33"/>cendum ad hoc: quod secundum <name ref="#Augustine">Augustinum</name> de vera religione: aut negandum est peccatum com- 
+       <lb ed="#B" n="34"/>mitti: aut fatendum voluntate committi. Si non voluntate malefacimus, nemo obiurgandus omni- 
+       <lb ed="#B" n="35"/>no aut monendus est. Quibus sublatis christiana lex &amp; disciplina omnis religionis auferatur ne- 
+       <lb ed="#B" n="36"/>cesse est. voluntate ergo peccatur. Si ergo in aliquo opere de genere malorum sit peccatum operan 
+       <lb ed="#B" n="37"/>tis: oportet quod tantum sit in agente de ratione voluntarii, quantum sit in actione de ratione pec- 
+       <lb ed="#B" n="38"/>cati: &amp; econuerso. Ita quod oportet esse perfectam rationem voluntarii: sic vt nullo modo actio sit 
+       <lb ed="#B" n="39"/>inuoluntaria in qua sit perfecta ratio peccati: sic vt nullo modo ei debeatur venia vel miseri- 
+       <lb ed="#B" n="40"/>cordia. In qua autem est in aliquo diminuta ratio peccati, vt in aliquo debeatur venia aut mise- 
+       <lb ed="#B" n="41"/>ricordia: oportet quod sit aliquo modo voluntaria &amp; aliquo modo inuoluntaria: &amp; sic mixta ex vo- 
+       <lb ed="#B" n="42"/>luntario &amp; inuoluntario. Et si actio omnino &amp; perfecte sit inuoluntaria: oportet quod in ea nulla sit 
+       <lb ed="#B" n="43"/>ratio peccati. Vt ergo sciamus an in actione ebrii sit ratio aliqua peccati vel nulla, oportet videre 
+       <lb ed="#B" n="44"/>quomodo in eo sit ratio voluntarii &amp; inuoluntarii. Et quia ratio voluntarii pura &amp; absoluta non  
+       <lb ed="#B" n="45"/>est nisi ex carentia inuoluntarii admixti: &amp; non deficit nisi per rationem contrariam inuoluntarii 
+       <lb ed="#B" n="46"/>superuenientis &amp; commixti: ex amotione igitur rationum inuoluntarii oportet cognoscere ra- 
+       <lb ed="#B" n="47"/>tionem voluntarii. Cum enim inuoluntarium duplex sit secundum <name ref="#Aristotle">philosophum</name> &amp; Damasce. 
+       <lb ed="#B" n="48"/>interimit voluntarium vtranque partem inuoluntarii. Necesse est igitur considerare rationes inuo  
+       <lb ed="#B" n="49"/>luntarii simpliciter: &amp; per consequens quomodo inuenitur in ebrio: &amp; sic videbitur an sit in eo ali- 
+       <lb ed="#B" n="50"/>qua particula voluntarii: &amp; ita per hoc an in eius actione sit aliqua ratio peccati. Est autem inuoluntarium  
+       <lb ed="#B" n="51"/>duplex secundum <ref xml:id="n3av8a-c1e1248-Rd1e172">philosophum in tertio Ethico.</ref> &amp; Damasc. in libro suo secundo, per violentiam, &amp; per ignorantiam. Quia in  
+       <lb ed="#B" n="52"/>actionibus ebrii inquantum ebrius est non cadit inuoluntarium per violentiam, manifestum est: quia secundum 
+       <lb ed="#B" n="53"/>philosophum, quae siunt propter passiones &amp; per delectationem non debent dici violenta. Ebrius au-  
+       <!--209.xml-->
+       <pb ed="#B" n="84-v"/>
+       <lb ed="#B" n="1"/>tem propter passionem &amp; delectationem &amp; appetitum agit quod agit. Si ergo inuoluntarium cadit 
+       <lb ed="#B" n="2"/>in ebrio, hoc est solummodo inuoluntarium per ignorantiam, hoc est praeter scientiam. Quod dicitur 
+       <lb ed="#B" n="3"/>dupliciter. quoniam operari aliquid de genere malorum praeter scientiam siue per ignorantiam, contingit 
+       <lb ed="#B" n="4"/>dupliciter. Aut quia agit illud propter ignorantiam: vt scilicet ipsa ignorantia facti vel operati in  
+       <lb ed="#B" n="5"/>ratione existens sit proxima causa operis: non autem aliqua dispositio praua in voluntate. Aut quia  
+       <lb ed="#B" n="6"/>agit illud ignorans: vt scilicet aliqua dispositio praua in voluntate sit proxima causa operis: quam  
+       <lb ed="#B" n="7"/>sequitur ignorantia in ratione. Et differunt facere propter ignorantiam &amp; facere ignoranter. quo-  
+       <lb ed="#B" n="8"/>niam qui facit aliquid per ignorantiam, non nouit substantiam facti sui ignorati, bene tamen nouit ali 
+       <lb ed="#B" n="9"/>ud operatum circa quod contingit illud: &amp; habet circa illud aliud vsum liberi arbitrii. verbi gratia, 
+       <lb ed="#B" n="10"/>siquis secat arborem in nemore vbi neminem scit latere, &amp; apponit diligentiam quam debet ne ali- 
+       <lb ed="#B" n="11"/>quem ex casu arboris laedat: si forte tunc aliquis ibi lateat, &amp; arbor cadens eum occidat, ille dicitur oc 
+       <lb ed="#B" n="12"/>cidere propter ignorantiam: &amp; ita inuoluntarie: quia vt dicit philosophus, non est operatus volens 
+       <lb ed="#B" n="13"/>quia nesciuit quid operabatur: neque nolens, quia non est contristatus in operando: sicut tristatur quan  
+       <lb ed="#B" n="14"/>doque qui per violentiam occidit volens ex parte: quia coactus a principe. Et in eo qui sic operatur ali 
+       <lb ed="#B" n="15"/>quid propter ignorantiam, distinguit philosophus. Quia qui tristatur &amp; poenitet de facto suo cum 
+       <lb ed="#B" n="16"/>deuenit ad eius notitiam: vt forte quia fuit amicus eius qui occisus est: ille secundum <name ref="#Aristotle">philosophum</name>  
+       <lb ed="#B" n="17"/>videtur quodammodo nolens facere. Qui vero post notitiam facti non tristatur nec poenitet, ille 
+       <lb ed="#B" n="18"/>secundum <name ref="#Aristotle">philosophum</name> dicitur non volens facere: vt sic distinguatur notitia istorum: licet ambo 
+       <lb ed="#B" n="19"/>agunt malum propter ignorantiam. Qui vero facit aliquid ignoranter: nouit substantiam facti sui 
+       <lb ed="#B" n="20"/>quod agit: sed circa illud non nouit rationem fugibilis. Sed hoc contingit tripliciter: aut ex imperfectio 
+       <lb ed="#B" n="21"/>ne naturae vt in pueris: aut ex defectu eius, vt in naturaliter fatuis: aut ex corruptione alicuius pri 
+       <lb ed="#B" n="22"/>cipii naturalis, vt ex percussione vel veneno furibundis. Ista enim tria genera hominum non sunt 
+       <lb ed="#B" n="23"/>nata inquantum huiusmodi habere discretionem inter bonum &amp; malum: eligendum &amp; fugiendum  
+       <lb ed="#B" n="24"/>&amp; per consequens neque vsum liberi arbitrii. Aut contingit illud ex liberi arbitrii voluntaria infectio 
+       <lb ed="#B" n="25"/>ne per vitium rationem excaecans. Primo modo ignoranter agunt pueri propter naturae animae ra 
+       <lb ed="#B" n="26"/>tionalis in ipsis imperfectionem &amp; serui propter rationis defectum in eis, &amp; naturaliter fatui siue ser- 
+       <lb ed="#B" n="27"/>ui, quoniam vt dicit <name ref="#Aristotle">philosophus</name> in secundo Politicae, seruus non habet omnino quid consiliatiuum  
+       <lb ed="#B" n="28"/>puer autem habet quidem, licet imperfectum. Et per eundemmodum consimiliter ignoranter agunt 
+       <lb ed="#B" n="29"/>furiosi propter alicuius principii naturalis corruptionem in ipsis. De quibus dicit <name ref="#Augustine">Augustinus</name> xv. cau, quid i. Ali 
+       <lb ed="#B" n="30"/>quos scimus subito dementes factos ferro &amp; fuste, morsibus, lapidibus, multos nocuisse: quosdam etiam 
+       <lb ed="#B" n="31"/>occidisse: &amp; iudiciis oblatos minime reos factos: eo quod non voluntate: sed impellente vi nescio quae hoc 
+       <lb ed="#B" n="32"/>gesserunt nescientes. Quomodo enim reus constituitur qui nescit quid fecit: vnde nec voluntarie 
+       <lb ed="#B" n="33"/>nec inuoluntarie proprie dicuntur operari: sed non voluntarie &amp; sine omni peccato delinquunt. Se- 
+       <lb ed="#B" n="34"/>cundo autem modo ignoranter agunt ebrii &amp; irati: quia vt dicit philosophus, non agunt propter 
+       <lb ed="#B" n="35"/>ignorantiam quia sciunt quid agunt. vnde ignorantia non est proxima causa facti eorum. sed agunt igno  
+       <lb ed="#B" n="36"/>ranter: quia propter ebrietatis vel iracundiae vitium inficientis voluntatem: &amp; per consequens ex 
+       <lb ed="#B" n="37"/>caecantis rationem. Non quin cognoscant substantiam eius quod agitur: sed non scientes &amp; igno  
+       <lb ed="#B" n="38"/>rantes, vt dicit <name ref="#Aristotle">philosophus</name> ea quae oportet operari &amp; a quibus fugiendum. vbi dicit Commenta: 
+       <lb ed="#B" n="39"/>tor Arabicus. Quod faciunt sciunt: ignorant autem an fiat bene an male. &amp; hoc vt iam dixi propter vi 
+       <lb ed="#B" n="40"/>tium ebrietatis inficientis voluntatem: &amp; per hoc excaecantis rationem. Vnde vt dicit <name ref="#Aristotle">philosophous</name> 
+       <lb ed="#B" n="41"/>propter tale peccatum iniusti &amp; vniuersaliter mali fiunt: &amp; secundum talem ignorantiam sic in su 
+       <lb ed="#B" n="42"/>is actibus peccant. omnis enim peccans ignorans. Vnde &amp; ebrius &amp; iratus in eis quaecunque agunt 
+       <lb ed="#B" n="43"/>mala propter huiusmodi dispositionem vitiosam in eis existentem cuius ipsi sunt causa in omnibus 
+       <lb ed="#B" n="44"/>illis peccant. Nec debet eorum actio mala ex ebrietate aut iracundia procedens proprie dici inuolum  
+       <lb ed="#B" n="45"/>taria licet fiat ignoranter. Quia hoc quod aliquid fit ab eis ignoranter hoc procedit ex ignorantia vni 
+       <lb ed="#B" n="46"/>uersalium in ratione: quae procedit ex malitia electionis in voluntate. Inuoluntarium enim, vt dicit 
+       <lb ed="#B" n="47"/>philosophus, vult dici non siquis ignorat quod confert. Non enim quae in electione ignorantia, cau 
+       <lb ed="#B" n="48"/>sa est inuoluntarii sed malitiae. Neque quae vniuersalium. vituperantur enim propter hoc. Sed igno-  
+       <lb ed="#B" n="49"/>rantia eorum quae sunt in singularibus, in quibus &amp; circa quae est operatio, est causa voluntarii. In  
+       <lb ed="#B" n="50"/>his enim est misericordia &amp; venia, horum enim aliquid ignorans inuoluntarie operatur. Vnde phi 
+       <lb ed="#B" n="51"/>losophus consequenter ex opposito inuoluntarii per coactionem &amp; per ignorantiam definit volunta 
+       <lb ed="#B" n="52"/>rium, dicens. Existente autem inuoluntario quod vi &amp; propter ignorantiam, voluntarium videtur vtique esse cuius principium est 
+       <lb ed="#B" n="53"/>in seipso sciente singularia in quibus est operatio. vnde quia quicunque aliquid opus malum agunt propter 
+       <lb ed="#B" n="54"/>iram vel concupiscentiam malam habent principium agendi in se, scilicet voluntatis arbitrium  
+       <!--210.xml-->
+       <pb ed="#B" n="85-r"/>
+       <lb ed="#B" n="1"/>licet imperfectum &amp; impeditum per malitiam in ipso existentem: vt ira &amp; concupiscentia libere secum 
+       <lb ed="#B" n="2"/>voluntatem trahant licet non cogant. Quicumque enim, vt dicit ibi Commentator, propter hoc peccant, in  
+       <lb ed="#B" n="3"/>ipsis principium operandi est. ldeoque omnia quae sic fiunt sub definitione voluntarii <name ref="#Aristotle">Philosophus</name> comprehen 
+       <lb ed="#B" n="4"/>dit dicens. Forsitan enim non bene dicitur inuoluntaria esse quae propter iram vel concupiscentiam fiunt. 
+       <lb ed="#B" n="5"/>Et positis rationibus suis ad hoc, in fine concludit dicens. Inconueniens itaque ponere inuoluntaria haec. Et 
+       <lb ed="#B" n="6"/>prius etiam in illa parte, Siquis autem delectabilia bona &amp;c. probauit quod non cogunt: neque violentiam vo 
+       <lb ed="#B" n="7"/>luntati inferunt. Simpliciter ergo iudicanda sunt voluntaria quaecumque ex ira vel concupiscentia fiunt:  
+       <lb ed="#B" n="8"/>&amp; hoc propter ignorantiam quae est in electione vt dictum est. Cui concordat expressa sententia Augu- 
+       <lb ed="#B" n="9"/>stini: qui exponens illud quod dixit de vera religione: quod in argumento assumptum est, Adeo volun- 
+       <lb ed="#B" n="10"/>tarium &amp;c. dicit in libro retractationum: reducendo peccata quae fiunt ex ira &amp; concupiscentia: vel ex 
+       <lb ed="#B" n="11"/>coactione per timorem ad illam definitionem. Illa (inquit) quae non immerito non voluntaria peccata dicun 
+       <lb ed="#B" n="12"/>tur: quia a nescientibus vel coactis perpetrantur: non omnino possunt sine voluntate committi: quoniam  
+       <lb ed="#B" n="13"/>&amp; ille qui peccat ignorans, volendo vtique facit quid cum faciendum non sit putat esse faciendum: &amp; ille qui concupiscens 
+       <lb ed="#B" n="14"/>aduersus spiritum, carne non ea quae vult facit, concupiscit quidem volens, &amp; in eo non facit quod vult: sed si vin  
+       <lb ed="#B" n="15"/>citur, concupiscentiae consentit volens in eo quod non facit nisi quod vult, liber scilicet iustitiae, seruusque peccati. In  
+       <lb ed="#B" n="16"/>talibus ergo commissis voluntas est, non nulla sed aliquam libertate agens, diminuta tamen. Vnde <name ref="#Augustine">Augustinus</name> de 
+       <lb ed="#B" n="17"/>natura &amp; gratia(quid sumit ex tertio libro suo de libero arbitrio) de tali &amp; taliter agente mala dicit. 
+       <lb ed="#B" n="18"/>Nec mirum quod vel ignorando non habet liberum arbitrium voluntatis, vel ad eligendum quod recte faciat, vel re 
+       <lb ed="#B" n="19"/>sistente carnali consuetudine, quae violentia mortalis successionis quo dammodo naturaliter inole 
+       <lb ed="#B" n="20"/>uit, videat quid recte faciendum sit: nec possit implere. Illa est enim peccati poena iustissima vt amittat 
+       <lb ed="#B" n="21"/>quisque quo bene vti noluit: cum sine vlla posset difficultate si vellet i est vt qui sciens recte non facit a- 
+       <lb ed="#B" n="22"/>mittat scire quid rectum sit, &amp; qui rectum facere cum possit noluit, amittat posse cum velit. Nam sunt 
+       <lb ed="#B" n="23"/>reuera omni peccanti animae duo poenalia, ignorantia &amp; difficultas. Cui omnino concordat sententia 
+       <lb ed="#B" n="24"/>Philosophi qua dicit in tertio Ethicorum. Eius quod est diligentes esse domini sumus: &amp; eius quid est tales fieri ipsi 
+       <lb ed="#B" n="25"/>sumus causa viuentes remisse. lrrationabile enim est iniusta facientem non velle iniustum esse: aut stupram 
+       <lb ed="#B" n="26"/>tem incontinentem. Si autem non ignorans aliquis operatur ex quibus erit iniustus, volens vtique erit. 
+       <lb ed="#B" n="27"/>vbi dicit Commentator. Inerat enim ipsi non facere hoc: in ipso enim erat talem esse causam. volens 
+       <lb ed="#B" n="28"/>ergo malus, si autem volens malus, volens facit: &amp; propter malitiam faciens peccat: peccat ergo sic agens 
+       <lb ed="#B" n="29"/>&amp; voluntarie agens. &amp; hoc quamquam debilitata sit in eo libertas arbitrii vt quasi motum continere non possit 
+       <lb ed="#B" n="30"/>Vnde subdit Philosophus. Non tamen si velit, iniustus existens requescet vt faciat actiones iustitiae: &amp; cohibeat se 
+       <lb ed="#B" n="31"/>ab iniustitia. Non enim qui aegrotat sanus sit quando voluit. &amp; si sic contingit, volens aegrotat incontinenter 
+       <lb ed="#B" n="32"/>viuens &amp; inobediens medicis. tunc quidem inerat ei non aegrotare: emisso autem non adhuc, quemadmo- 
+       <lb ed="#B" n="33"/>dum neque dimittenti lapidem adhuc ipsum resumere: sed tamen in ipso mittere &amp; proiicere. Sic autem  
+       <lb ed="#B" n="34"/>iniusto &amp; incontinenti ex principio quidem inerat tales non fieri: propter quod volentes sunt: factis autem  
+       <lb ed="#B" n="35"/>non adhuc inest non esse. Vbi dicit Commentator. Inerat enim ipsi primum non incidere siue laxare: se 
+       <lb ed="#B" n="36"/>mel autem constituto tali qualem exercitatio talium operata est: nec adhuc eius quid est velle talem mo- 
+       <lb ed="#B" n="37"/>tum continere. Neque enim qui in praecipitium se demittit, quando vult retinebit descensum: neque deside 
+       <lb ed="#B" n="38"/>rium concedens refraenabit opus: neque diaeta mala repletus prohibebit ab hac factam corporis laesionem 
+       <lb ed="#B" n="39"/>neque vt comprehensiue sit dicere, qui aliquid talium amplexatur, &amp; exercitatur inficiendo se voluntarie, circa 
+       <lb ed="#B" n="40"/>hoc voluntariam tenebit commutationem quando vult. Quoniam non quando vult desistet. lam ergo est principium in  
+       <lb ed="#B" n="41"/>uoluntarium. Similiter etiam vt dicit <name ref="#Aristotle">Philosophus</name> est in eis quicunque per negligentiam ignorare videntur vt 
+       <lb ed="#B" n="42"/>in ipsis existente non ignorare. Vnde super illud, lgnorat quidem omnis malus, dicit Commentator. Pro 
+       <lb ed="#B" n="43"/>pter seipsum enim non eruditus quae erat in ipso discere: non tamen propter ignorantiam neque inuolun  
+       <lb ed="#B" n="44"/>tarie. In ipso enim ignorantiae causa est. Omnia ergo talia quae fiunt ignoranter &amp; quadam impotentia 
+       <lb ed="#B" n="45"/>resistendi passionibus &amp; concupiscentiis propter malitiam habitam in voluntate ex libera electione 
+       <lb ed="#B" n="46"/>voluntaria sunt quodammodo &amp; ideo culpabilia. Si enim essent omnino inuoluntaria &amp; omnino essent absorpti 
+       <lb ed="#B" n="47"/>vsus liberi arbitrii &amp; iudicium rationis: tunc nullum esset omnino in actione peccatum. Vnde <name ref="#Augustine">Augustinus</name> de ve 
+       <lb ed="#B" n="48"/>ra religione. Defectus iste qui peccatum vocatur si tanquam febris inuitum occuparet recte iniusta poe- 
+       <lb ed="#B" n="49"/>na videretur quae peccantem consequitur. Item idem quaerens &amp; pertractans quae sit causa voluntatis malae, di  
+       <lb ed="#B" n="50"/>cit in summa, de libro arb. tertio. Si laboriosum est omnia mandare memoriae, hoc breuissime tene. Quaecumque  
+       <lb ed="#B" n="51"/>ista est causa voluntatis: si non ei potest resisti sine peccato ei ceditur. Si autem potest, non ei cedatur &amp; non pec- 
+       <lb ed="#B" n="52"/>cabitur. An forte fallit incautum: ergo caueat ne fallatur. An tanta fallacia est vt omnino caueri non pos- 
+       <lb ed="#B" n="53"/>sit: Si ita est nulla peccata sunt. Quis enim peccat in eo quod nullo modo caueri potest: peccatur autem, caue 
+       <lb ed="#B" n="54"/>ri ergo potest. Et tamen per ignorantiam facta quaedam improbantur &amp; corrigenda iudicantur. Sunt autem  
+       <!--211.xml-->
+       <pb ed="#B" n="85-v"/>
+       <lb ed="#B" n="1"/>necessitate facta improbanda, vbi vult homo recte facere &amp; non potest. Cui etiam concordat <name ref="#Aristotle">Philosophus</name> 
+       <lb ed="#B" n="2"/>cum dicit in tertio Ethicorum: quod legislatores puniunt &amp; cruciant operantes mala: quotquot non vi 
+       <lb ed="#B" n="3"/>aut propter ignorantiam cuius non ipsi causa: bona autem operantes honorant: velut hos quidem prouo 
+       <lb ed="#B" n="4"/>cantes: hos autem prohibentes: &amp; ignorantes aliquid eorum quae in legibus, quae oportet scire, &amp; non diffi- 
+       <lb ed="#B" n="5"/>cilia sunt, puniunt: similiter autem in aliis quicumque propter negligentiam ignorare videntur. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e473">
+       DE ebrio 
+       <lb ed="#B" n="6"/>igitur mihi videtur distinguendum. Aut enim ita absorptus est vt in eo sit omnino sic liberum arbitrium ligatum ne possit 
+       <lb ed="#B" n="7"/>quicquam eligere: &amp; similiter iudicium rationis ne possit quid bonum &amp; quid malum, quid eligendum &amp; quid fugi 
+       <lb ed="#B" n="8"/>endum vllo modo discernere. Quemadmodum est in dormiente &amp; furioso, aut potius in puero. Aut non 
+       <lb ed="#B" n="9"/>est ita absorptus quin in eo aliquid potentiae liberi arbitrii manet, &amp; aliqua scintilla rationis. Ebrius 
+       <lb ed="#B" n="10"/>primo modo, si tamen possibile est hominem tanta ebrietate absorberi, vt vigilans aliqua operetur libero 
+       <lb ed="#B" n="11"/>arbitrio &amp; rationis iudicio omnino ligatis, vt dictum est, in tali statu existens brutum quoddam &amp; irratnina 
+       <lb ed="#B" n="12"/>lis bestia vel quasi infans siue puer iudicandus est: &amp; non liberi arbitrii: nec dominus suorum actuum 
+       <lb ed="#B" n="13"/>vt iuxta dictum Damasceni tanquam bestia magis agatur a natura per iram &amp; concupiscentiam carna 
+       <lb ed="#B" n="14"/>lem quam agat: &amp; non potest omnino contradicere tali appetitui: sed cum appetit, necessario simul impetum 
+       <lb ed="#B" n="15"/>ad actum facit: nec habet potestatem refraenandi appetitum. Et ideo mihi videtur quod sic ebrius in suis 
+       <lb ed="#B" n="16"/>actibus bonis vel malis neque laudandus est: neque vituperandus, &amp; ita quod nec peccat etiam si homici- 
+       <lb ed="#B" n="17"/>dium in tali ebrietate committat, sicut neque dormiens, aut furiosus: aut infans. Dico ex actu volunta 
+       <lb ed="#B" n="18"/>tis aliquo adhaerenti ipsi in perpetrando huiusmodi homicidium, quod reuera nemo negare potest, si verum est 
+       <lb ed="#B" n="19"/>quod peccatum est adeo voluntarium malum quod nullo modo sit peccatum nisi sit voluntarium. secundum sen- 
+       <lb ed="#B" n="20"/>tentiam Augustini. Sed tamen quod nullo modo dicendum sit male actum a tali in tali statu esse peccatum 
+       <lb ed="#B" n="21"/>absurdum &amp; irrationabile videtur esse: &amp; contrarium dictis sanctorum &amp; philosophorum: vt patet ex praedictis: cum 
+       <lb ed="#B" n="22"/>talis ignorantia qua scilicet ebrius homicidium tale committit, ex culpa eius prouenit, &amp; ex malitia 
+       <lb ed="#B" n="23"/>electionis existentis sua culpa in voluntate eius: quae malitia existens in voluntate est causa mali 
+       <lb ed="#B" n="24"/>existentis in opere: &amp; non proprie inuoluntarii vt dictum est. Vnde dicit Damascenus libro secundo ca. 
+       <lb ed="#B" n="25"/>xxvi. quod per ignorantiam inuoluntarium est cum non ipsi tribuimus causam ignorantiae: sed ita contin- 
+       <lb ed="#B" n="26"/>git. Si enim ebrius quidam homicidium facit ignorans quod occidit: non tamen inuoluntarie. causam enim igno  
+       <lb ed="#B" n="27"/>rantiae scilicet ebrietatem ipse egit. Et <name ref="#Aristotle">Philosophus</name> in tertio Ethicorum. In ipso ignorare puniunt legislato  
+       <lb ed="#B" n="28"/>res si causa ignorantiae esse videatur: principium enim in ipso. dominus enim est eius quod est non inebri 
+       <lb ed="#B" n="29"/>ari: hoc autem ignorantiae causa est. Cum autem contingenter factum aliquod incidit ei quod agimus ope 
+       <lb ed="#B" n="30"/>ram exhibendo rei licitae: &amp; illud quia latet nos ignoramus: hoc proprie per ignorantiam inuoluntarium 
+       <lb ed="#B" n="31"/>est: vt dictum est. Et sic quia malitia in voluntate &amp; in electione existens in tali ebrio est per se causa pro 
+       <lb ed="#B" n="32"/>pter quam occidit: non autem ignorantia quae est sequela illius malitiae: idcirco non dicitur occide- 
+       <lb ed="#B" n="33"/>re propter ignorantiam sed ignorans tantum: licet in actum occidendi neque habebat liberum arbitrium  
+       <lb ed="#B" n="34"/>in electione: neque discretionem eligibilis in discretione. nullo tamen modo veniam meretur: sed actus 
+       <lb ed="#B" n="35"/>ille simpliciter actus peccati debet dici: quia malitiae imputatur. Et hoc est quod apte dicit <name ref="#Aristotle">Philosophus</name> in qui  
+       <lb ed="#B" n="36"/>to Ethicorum: vbi assignat differentiam inter inuoluntarium eius quod sit per ignorantiam, &amp; eius 
+       <lb ed="#B" n="37"/>quod sit ignoranter, dicens. Inuoluntariorum autem haec quidem sunt venialia: haec autem non venialia. Quaecumque  
+       <lb ed="#B" n="38"/>autem non solum ignorantes: sed propter ignorantiam, peccata venialia: quae autem non propter ignorantiam 
+       <lb ed="#B" n="39"/>sed ignorantes propter passionem, non venialia, propter ignorantiam quidem factum cognoscitur quando agens non  
+       <lb ed="#B" n="40"/>est causa suae ignorantiae: neque omittendo: neque conmittendo. velut vt dicit Commentator si sagittam ali- 
+       <lb ed="#B" n="41"/>quis in tali loco in quo nullus consueuit ambulare, emittens repente aliquis vulneratus est. Ignoran-  
+       <lb ed="#B" n="42"/>tium autem peccata in nullo ignoscuntur illis qui ignorantiae suae causa sunt: vel omittendo disciplinam eius 
+       <lb ed="#B" n="43"/>quod scire potuerunt: vel committendo vt in dispositione ebrietatis. Peccat ergo proculdubio qui in ebrietate  
+       <lb ed="#B" n="44"/>etiam sine vsu liberi arbitrii occidit. Sed tamen vt sepius dictum est peccatum istud non potest reduci ad actum 
+       <lb ed="#B" n="45"/>voluntatis qui tunc est. respectu enim illius voluntatis inuoluntarium potest dici factum illud. &amp; tamen iuxta definitio 
+       <lb ed="#B" n="46"/>nem <name ref="#Augustine">Augustinus</name> omne peccatum ad actum voluntatis opertet reduci. Necessarium est ergo vt reducatur ad actum voluntatis 
+       <lb ed="#B" n="47"/>qui tunc fuit quando se inebriauit &amp; in se fuit non inebriari, &amp; ita non causare in se dispositionem malitiae in voluntate 
+       <lb ed="#B" n="48"/>&amp; totius rationis ligamen, propter quae occidit. Cum enim dicit <name ref="#Augustine">Augustinus</name> de vera religione, Adeo peccatum voluntarium ma 
+       <lb ed="#B" n="49"/>lum est &amp;c. voluntarium sumit ibi large: non solum pro voluntate quae tunc est cum peccatum incurrit:  
+       <lb ed="#B" n="50"/>sed etiam pro illa quae praecessit, &amp; hoc non solum in eodem qui per voluntatem suam prauam quae  
+       <lb ed="#B" n="51"/>facit peccatum praecedens, causat in se dispositionem prauam in voluntate quae est causa peccati se- 
+       <lb ed="#B" n="52"/>quentis, vt contingit in ebrio sicut dictum est: sed etiam in alio. secundum quod ad illam definitionem 
+       <lb ed="#B" n="53"/>peccati reducit in libro Retractationum: vbi verificat illam definitionem: non solum peccata non  
+       <lb ed="#B" n="54"/>voluntaria quae a nescientibus vel coactis perpetrantur: cum dicit: Illa quae non immerito peccata 
+       <!--212.xml-->
+       <pb ed="#B" n="86-r"/>
+       <lb ed="#B" n="1"/>non voluntaria dicuntur &amp;c. vt habitum est iam: sed etiam peccatum originale, cum subdit imme 
+       <lb ed="#B" n="2"/>diate dicens. Et illud quod in paruulis dicitur originale peccatum, cum adhuc non vtantur arbi 
+       <lb ed="#B" n="3"/>trio voluntatis, non absurde vocatur etiam voluntarium. Quia ex prima hominis mala voluntate con- 
+       <lb ed="#B" n="4"/>tractum factum est quodammodo haereditarium. Ebrius ergo cum praua aut incauta voluntate sua se 
+       <lb ed="#B" n="5"/>inebriat: illa voluntate qua committit peccatum inebriationis tanquam peccatum principale, committit tamquam 
+       <lb ed="#B" n="6"/>in causa prima omnia peccata quae conmittit in statu inebriationis per iram vel per concupiscentiam, tamquam 
+       <lb ed="#B" n="7"/>per causam illorum peccatorum proximam &amp; omnino inuoluntatiam. Quoniam in ipso, vt dictum est, non  
+       <lb ed="#B" n="8"/>est illa tenere vel refraenare: sed in tali ira vel concupiscentia tanquam in causato manet virtus illius vo 
+       <lb ed="#B" n="9"/>luntatis praecedentis. Propter quod peccatum ebrii licet dici potest inuoluntarium in respectu ad causam 
+       <lb ed="#B" n="10"/>eius proximam: non tamen simpliciter potest dici inuoluntarium: quia voluntarium est habendo respe 
+       <lb ed="#B" n="11"/>ctum ad causam eius primam. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e623">
+       SED tunc dicetur: ergo qui inebriat se illa voluntate praua non solum I 
+       <lb ed="#B" n="12"/>vnicum peccatum conmittit: sed plurima. immo quasi infinita secundum quod in vnica ebrietate diu duram 
+       <lb ed="#B" n="13"/>te potest ebrius plurima peccata committere. Et iterum. tunc peccatum praecedit actum illum quo habet gene S 
+       <lb ed="#B" n="14"/>rari: vt peccatum fornicationis &amp; incontinentiae actum fornicandi: &amp; peccatum homicidii actum homin 
+       <lb ed="#B" n="15"/>occidendi, siquis in ebrietate fornicetur &amp; occidat. Et sic qui committit peccatum inebriationis, simul 
+       <lb ed="#B" n="16"/>committit peccatum fornicationis, &amp; omnia alia quae conmittit intra inebriationem. Amplius vt vi 
+       <lb ed="#B" n="17"/>detur, non solum conmittit peccatum super eis quae agit in ebrietate: sed super omnibus malis quae agere pos- 
+       <lb ed="#B" n="18"/>set in ebrietate sua. Quia qua ratione super illis, &amp; super istis. Quia quae in ebrietate agit, posset impedi- 
+       <lb ed="#B" n="19"/>tus omittere: &amp; illa quae impeditus omittit, vel propter aliquid aliud non impeditus, vel contraria dispo 
+       <lb ed="#B" n="20"/>sitione existente posset agere. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e645">
+       ADhuc si ebrio quia est causa inebriationis sua praua voluntate impu 
+       <lb ed="#B" n="21"/>tantur in peccatum omnia mala quae facit in ebrietate: tunc siquis ex sua culpa incurrat furiam lunati- 
+       <lb ed="#B" n="22"/>cam: vt scilicet per hoc excedente incontinentia nimium euacuat humorem cerebri: tali inquam impu- 
+       <lb ed="#B" n="23"/>tarentur consi mili ratione in peccatum quaecumque agit in sua furia. &amp; sic cum talis habet dilucida interual 
+       <lb ed="#B" n="24"/>la in quibus poenitere potest &amp; perfectam agere poenitentiam de peccato incontinentiae, manente tamen mor 
+       <lb ed="#B" n="25"/>bo quo in certis periodis necesse habet furere, &amp; in furia multa mala agere: tunc omnino peccato pra- 
+       <lb ed="#B" n="26"/>uae voluntatis suae dimisso posset sine omni minutione bonae voluntatis suae de nouo plurima pec- 
+       <lb ed="#B" n="27"/>cata committere: quod valde videtur absurdum. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e663">
+       ET iterum. tunc sic inebriatus tantum peccaret nihil mali s 
+       <lb ed="#B" n="28"/>faciens in statu ebrietatis, &amp; plurima conmittens: &amp; duobus aequaliter inebriatis tantum peccatum ha  
+       <lb ed="#B" n="29"/>beret ex inebriatione neminem occidens: neque aliquid mali faciens: quantum plurimos occidens &amp; plura mala fa 
+       <lb ed="#B" n="30"/>ciens. Ista sunt vt credo quae occurrunt: in ista materia contra dictam determinationem. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e672">
+       ET est dicen- 
+       <lb ed="#B" n="31"/>dum ad primum: quod inebrians illa praua voluntate qua se inebriat quodam modo simul plurima &amp; infi 
+       <lb ed="#B" n="32"/>nita peccata committit, &amp; quodam non, sed vnicum. Licet enim in vnico simplici actu peccati vbi non est 
+       <lb ed="#B" n="33"/>actualiter nisi vna simplex intentio peccandi, non potest committi nisi vnum peccatum principale: il- 
+       <lb ed="#B" n="34"/>lius tamen peccati plures possunt esse circunstantiae annexae, quae seorsum habent esse alia peccata. Sed  
+       <lb ed="#B" n="35"/>huiusmodi circunstantia potest accidere peccato principali: vel in conmittendo &amp; intentione explici- 
+       <lb ed="#B" n="36"/>ta: secundum quod in illo qui fornicatur vt ditetur &amp; extorqueat pecuniam a fornicaria, fornicatio est 
+       <lb ed="#B" n="37"/>peccatum principale: quid est in eius actu peccandi: cuius auaritia est quasi circunstantia. Et econuer- 
+       <lb ed="#B" n="38"/>so auaritia est peccatum principale in intentione voluntatis: cuius fornicatio est circunstantia. Vel in  
+       <lb ed="#B" n="39"/>omittendo &amp; intentione implicita &amp; interpretatiua, vt in proposito. Peccatum enim inebriationis vni 
+       <lb ed="#B" n="40"/>cum est &amp; principale, quod est peccatum commissionis: cuius circunstantiae sunt peccata consequentia ex in  
+       <lb ed="#B" n="41"/>ebriatione: quae sunt peccata omissionis: contra quae voluntas inebriantis se omittit adhibere cau- 
+       <lb ed="#B" n="42"/>telam ne poneret se in statu ebrietatis in quo posset illa peccata committere: ita quod peccatum quod commit- 
+       <lb ed="#B" n="43"/>titur in ebrietate tali potius debet dici peccatum omissionis, ex omissione scilicet habita in prima 
+       <lb ed="#B" n="44"/>voluntate, quam conmissionis propter actum in ebrietate contingentem. Quia ex nulla voluntate agen- 
+       <lb ed="#B" n="45"/>te per se inebriatus illum elicit: sed solum a voluntate omittente elicitur mediante suo effectu vt dictum 
+       <lb ed="#B" n="46"/>est. Propter quid solum potest dici peccatum commissionis reducendo actionem effectus ad causam eius 
+       <lb ed="#B" n="47"/>primam. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e711">
+       Ad secundum patet per iam dictum, quoniam in rei veritate peccatum ebrietatis inquan 
+       <lb ed="#B" n="48"/>tum est omissionis praecedit actum suum in prima voluntate, vt dictum est. quod nullum est inconueniens. 
+       <lb ed="#B" n="49"/>Inquantum vero est peccatum commissionis non fit nisi simul cum suo actu vt dictum est: sed rationem 
+       <lb ed="#B" n="50"/>peccati commissionis non habet nisi per accidens: vt dictum est, &amp; iam amplius dicetur. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e720">
+       Ad tertium 
+       <lb ed="#B" n="51"/>dicendum secundum iam dicta: quod peccatam ebrietatis sic sunt peccam conmissionis, vt tamen principalius sint peccam omissi 
+       <lb ed="#B" n="52"/>onis. &amp; hoc intantum, quod si non contingeret quo ad aliquem actum conmissum in ebrietate peccatum omissionis in pri 
+       <lb ed="#B" n="53"/>ma voluntate inebriandi: nullo modo in actu ipso debet dici quod fiat vllo modo peccatum conmissionis: vt si ta 
+       <lb ed="#B" n="54"/>li modo contingit se inebriari quod non potuerit sibi ab inebriatione tali praecauere, non peccat ex eo quod inebri 
+       <!--213.xml-->
+       <pb ed="#B" n="86-v"/>
+       <lb ed="#B" n="1"/>atur: &amp; per consequens nec in aliquo quod agit in ebrietate tali. Vnde si forte filiae <name>Loth</name> talem haerbam ha 
+       <lb ed="#B" n="2"/>buerunt de cuius succo gutta vna vino commixta continuo de necessitate hominem violenter inebriat: &amp; 
+       <lb ed="#B" n="3"/>super tali facto non debuit Loth suspitionem aliquam habuisse contra filias suas: ex actu inebriationis 
+       <lb ed="#B" n="4"/>non peccasset, neque ex concubitu cum filiabus subsequente ex inebriatione. Quia huiusmodi commissa 
+       <lb ed="#B" n="5"/>nullo modo erant voluntaria: sicut nec facta furiosorum. de quibus dicit <name ref="#Ambrose">Ambrosius</name> in Hexameron. 
+       <lb ed="#B" n="6"/>Voluntarios reos non necessitate compulsos culpa constringit: poena condennat. Neque enim si per furo 
+       <lb ed="#B" n="7"/>rem aliquis innocentem perimat, obnoxius morti est. Similiter si tale malum contingat fieri ab ebrio 
+       <lb ed="#B" n="8"/>super quo non debuit sibi prouidere cum erat sobrius: non imputatur ei omnino. Et quod aliqua talium inue  
+       <lb ed="#B" n="9"/>niantur, patet: quia non de omnibus malis quae per ipsum praesent contingere, etiam cum manet in sobrietate  
+       <lb ed="#B" n="10"/>debet sibi homo intantum prouidere quin ab ipso in casu possint fieri sine omni peccato. secundum quod Phi 
+       <lb ed="#B" n="11"/>losophus in quinto Ethicorum distinguit ea quae fiunt in ignorantia, dicens: quod quando aliquid  
+       <lb ed="#B" n="12"/>sit talium paralogice, infortunium dicitur: quando autem non paralogice, peccatum. Vbi dicit Commenta 
+       <lb ed="#B" n="13"/>tor. quod paralogice facta sunt illa quae raro fiunt &amp; inexparta: de quibus non debet homo opinari quod debeant fieri. &amp; 
+       <lb ed="#B" n="14"/>exemplum ponit supradictum de emissione sagittae: licet non sit competens ex toto: quia sagittam emit 
+       <lb ed="#B" n="15"/>tere in incerto homo nusquam debet. sed exemplum est bonum si alicui supponatur in lecto suo mulier 
+       <lb ed="#B" n="16"/>aliena loco suae: sicut Iacob supposita fuit <name>Lia</name> loco <name>Rachel</name>. Genesis. xxix. secundum quod hoc dicitur 
+       <lb ed="#B" n="17"/>xv. quaestid est in. S. Ex praemissis. vbi reprobatur dictum exemplum de sagitta. Caecitas ignorantiae similis 
+       <lb ed="#B" n="18"/>est. ex vtraque enim quae dam fiunt quae imputantur: quaedam vero minime. Caecus vero si debitum vxo- 
+       <lb ed="#B" n="19"/>ri suae credens se reddere alienam polluit: non est reus adulterii. Si autem ludo vel exercitatione vel ve- 
+       <lb ed="#B" n="20"/>natione iaculum mittens alium perimat, quia ab eo hoc penitus debet esse alienum, homicidii reus 
+       <lb ed="#B" n="21"/>habetur. Dicendum ergo quod ebrius inebriando se commirtit peccatum omissionis circa omnia de qui-  
+       <lb ed="#B" n="22"/>bus debet esse cautus ne sibi contingant: de quibus debet timere ne in ebrietate ei eueniant: circa alia 
+       <lb ed="#B" n="23"/>autem nequaquam. Sed hoc secundum magis &amp; minus: secundum quod de vno maior debet adhiberi caute 
+       <lb ed="#B" n="24"/>la quam de altero &amp; magis ab vno quam ab altero: Ita quod si alicuius nunquam sequatur actus, bene potest tamen esse 
+       <lb ed="#B" n="25"/>de eo peccatum omissionis in prima voluntate inebriationis: sicut potest esse in illo qui manet in so- 
+       <lb ed="#B" n="26"/>brietate. sed cum in ebrio actus sequitur: sit peccatum commissionis secundum dictum modum pom 
+       <lb ed="#B" n="27"/>derandum in culpa iuxta peccatum omissionis in prima voluntate secundum maiorem vel mino 
+       <lb ed="#B" n="28"/>rem contemptum. Semper tamen in eodem genere peccati culpa minor est super facto ab ebrio quam a sobrio: &amp; sem 
+       <lb ed="#B" n="29"/>per danmnatur magis omissio in eo quod quis incaute &amp; leuiter permittit se inebriari, quam ipsum factum con- 
+       <lb ed="#B" n="30"/>missum. Vnde <name>Ambrosius</name> de Priarchis &amp; habetur. xv. quod i. Sane diximus ebrietatem vitandam: per quan 
+       <lb ed="#B" n="31"/>crimina cauere non possumus. Nam quae cauemus sobrii, per ebrietatem ignorantes committimus. Ne- 
+       <lb ed="#B" n="32"/>sciunt quid loquantur qui nimio vino indulgent: iacent sepulti. ldeoque siqua per vina deliquerunt 
+       <lb ed="#B" n="33"/>apud sapientes iudices, venia quidem facta donantur. i. minori poena quam si ex certa scientia fecissent: sed  
+       <lb ed="#B" n="34"/>leuitatis danmnantur auctores. i. redarguunt eos quia fuerunt nimis faciles ad inebriandum. Alii vero 
+       <lb ed="#B" n="35"/>intelligunt quod homo non punitur pro eo quod fecit ebrius: sed tantum pro eo quod leuis erat ad inebri 
+       <lb ed="#B" n="36"/>andum se. Sed hoc vltimum non est verum vt dictum est: nisi quia principaliter ratio peccati quid  
+       <lb ed="#B" n="37"/>committitur in ebrietate consistit in illa leuitate omittendi qua sibi debuit prouidere ne exponeretur dis- 
+       <lb ed="#B" n="38"/>crimini: &amp; in tali statu in quo non potest cauere ebrius crimina illa quae caueret sobrius. Ita forte quod  
+       <lb ed="#B" n="39"/>etsi nuilum huiusmodi criminum in ebrietate committatur: omissio tamen cautelae per quam exponit se dis- 
+       <lb ed="#B" n="40"/>crimini, vt defacili possit ea conmittere, peccatum est. Propter quod <name>Pittacus</name> vnus septem sapientum 
+       <lb ed="#B" n="41"/>graecorum secundum quod recitat <name ref="#Aristotle">Philosophus</name> in tertio Ethicorum, dixit quod ebriis debentur duplices incre 
+       <lb ed="#B" n="42"/>pationes siue maledictiones. &amp; hoc non, sicut quidam dicunt, vna pro peccato inebriationis: altera 
+       <lb ed="#B" n="43"/>pro peccato commisso in ebrietate: puta homicidii vel adulterii: sed altera pro peccato omissionis cau 
+       <lb ed="#B" n="44"/>telae contra illud peccatum quod posset committere in ebrietate: etsi forte propter bonam custodiam 
+       <lb ed="#B" n="45"/>nuiium permitteretur committere. Ita quod in omni actu inebriandi cuius principium est in ipso 
+       <lb ed="#B" n="46"/>inebriante se, de quo loquitur ad literam, necesse sit incidere statim &amp; simul duplex genus peccati 
+       <lb ed="#B" n="47"/>vnum commissionis: alterum vero omissionis. Quid etiam potest esse multiplex vt patet ex iam determina 
+       <lb ed="#B" n="48"/>tis. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e863">
+       AD quartum dicendum: quod forte bene simile est de furioso ex sua culpa quamdiu manet in actu &amp; ve- 
+       <lb ed="#B" n="49"/>luntate siue consensu illius culpae: quod scilicet semper peccat in actu qnolibet malo quem agit ex furia: sicut 
+       <lb ed="#B" n="50"/>ebrius ex sua culpa in omni actu malo quem agit ex ebrietate: &amp; similiter de furioso non ex sua cul- 
+       <lb ed="#B" n="51"/>pa, &amp; similiter de ebrio non ex sua culpa: quod scilicet neuter eorum peccat in actu malo facto in furia 
+       <lb ed="#B" n="52"/>vel ebrietate: sicut dictum est. Sed de furioso ex sua culpa post poenitentiam perfectam, &amp; ebrioso, non 
+       <lb ed="#B" n="53"/>est simile. Quia enim ebrius ex sua culpa nemo potest esse nisi per totam illam ebrietatem sit in  
+       <!--214.xml-->
+       <pb ed="#B" n="87-r"/>
+       <lb ed="#B" n="1"/>ipsa culpa, qua totus status inebriationis eius dicitur esse culpabilis, non solum voluntas prima: 
+       <lb ed="#B" n="2"/>ideo certum est quod omne malum actum in ebrietate peccatum est. Sed furiosus ex sua culpa bene 
+       <lb ed="#B" n="3"/>potest esse post peractam poenitentiam in actu furendi: ita quod nihil culpae propter quam incurrit 
+       <lb ed="#B" n="4"/>futiam, sit in eo: &amp; est ipsa furia ei poenalis solum non culpabilis, quemadmodum motus primi: qui  
+       <lb ed="#B" n="5"/>secundum omnes peccata sunt in non renatis: in renatis autem secundum aliquos poenae sunt &amp; non 
+       <lb ed="#B" n="6"/>peccata. Propter quod licet talis furiam istam incurrit ab initio ex sua culpa: quia tamen istam furiam 
+       <lb ed="#B" n="7"/>sustinet vt poenam tantum: non est ita clarum: si male actum in tali furia ei debet imputari. Sed  
+       <lb ed="#B" n="8"/>de hoc certificare nihil ad propositum. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e898">
+       AD quintum: quod inebriatus ex sua culpa non solum meretur vt 
+       <lb ed="#B" n="9"/>ei imputetur ad culpam: quod actu cautelam contra mala quae possunt ei contingere ex ebrietate, omit- 
+       <lb ed="#B" n="10"/>tit: sed etiam meretur vt ei imputetur ad poenam malum quod ex ebrietate committere possit: si tamen 
+       <lb ed="#B" n="11"/>illud committat. Si vero non committat: non amplius imputatur quam quod cautelam contra illud omisit, quid  
+       <lb ed="#B" n="12"/>forte contingere potuit: vt quicunque inebriat se statim duplex peccatum incurrit. propter quod, vt 
+       <lb ed="#B" n="13"/>dictum est, ebrio duplex debetur maledictio: &amp; discrimini ad incurrendum poenam pro malo actu 
+       <lb ed="#B" n="14"/>subsequenti expositus est. Et est simile de isto tertio actum committendo ab ebriis, &amp; de suffragiis quae  
+       <lb ed="#B" n="15"/>fieri possunt pro mortuis. Sicut enim illa, secundum determinationem <name ref="#Augustine">Augustini</name> libro de cura pro 
+       <lb ed="#B" n="16"/>mortuis agenda, suffragia prosunt defunctis quantum merebantur viui vt eis prodessent: si tamen 
+       <lb ed="#B" n="17"/>pro eis fierent: nec prodessent omnino, nisi pro eis fierent ad poenae relaxationem. Sic ista facta com 
+       <lb ed="#B" n="18"/>missa ab ebriis tantum obsunt eis iam ebriis ad maiorem poenam sustinendam, quantum mereban- 
+       <lb ed="#B" n="19"/>tur sobrii vt eis obessent: si tamen ab eis fierent: nec tamen obessent omnino nisi ab eis fierent. Reuera 
+       <lb ed="#B" n="20"/>ergo aequaliter peccare possunt duo in primo actu peccandi: &amp; aequaliter per hoc mereri vt eis im- 
+       <lb ed="#B" n="21"/>putentur facta quae fieri possunt in ebrietate: &amp; sic tantum peccatum habet vnus ex primo actu 
+       <lb ed="#B" n="22"/>inebriandi quantum alius. Aliquid tamen poenae, immo multum incurrit in actu inebriandi, qui mul 
+       <lb ed="#B" n="23"/>tos occidit &amp; multa alia mala agit: quam qui nihil mali agit: qui etiam multas poenas incurreret mala 
+       <lb ed="#B" n="24"/>illa agendo, quae non incurrit non agendo, vt dictum est. Et per hunc modum hoc factum in actu inebri 
+       <lb ed="#B" n="25"/>ationis ad voluntarium reducitur: ita quod si non esset voluntarium, ex merito primae voluntatis nul- 
+       <lb ed="#B" n="26"/>lum esset poenale: quemadmodum nec primi motus ex passione: vel ex inuincibili ignorantia actio 
+       <lb ed="#B" n="27"/>nes procedentes in nobis essent poenales: vel secundum aliquos culpabiles, nisi ex voluntate primi 
+       <lb ed="#B" n="28"/>parentis &amp; eius peccato in nobis processissent, aestimando totum genus humanum quasi inebriatum  
+       <lb ed="#B" n="29"/>in peccato primi parentis, &amp; adhuc propter concupiscentiam fomitis quasi in illam ebrietatem 
+       <lb ed="#B" n="30"/>per interualla cadere: &amp; in ipsa poenam primorum motuum sustinere. dicente <ref xml:id="n3av8a-c1e1248-Rd1e951">Augustino tertio de li 
+       <lb ed="#B" n="31"/>bero arbitrio</ref>. Illud quod ignorans quisque non recte facit, &amp; quod recte volens facere non potest: ideo dicuntur 
+       <lb ed="#B" n="32"/>peccata: quia de peccato illo liberae voluntatis originem ducunt. Illud enim praecedens meruit ista 
+       <lb ed="#B" n="33"/>sequentia. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e961">
+       SIC ergo patet quid sentiendum est de peccato ebrii primo modo, in quo scilicet sunt omni- 
+       <lb ed="#B" n="34"/>no sopita liberum arbitrium &amp; ratio. Si vero loquamur de ebrio secundo modo: in quo scilicet ma- 
+       <lb ed="#B" n="35"/>net aliquid liberi arbitrii &amp; rationis: de isto proculdubio verum est quod in malo quod facit ex ebrieta- 
+       <lb ed="#B" n="36"/>te, non solum peccat ex respectu ad primam voluntatem qua se inebriauit: sicut peccauit ebrius primo 
+       <lb ed="#B" n="37"/>modo: sed etiam peccat ex ipsa voluntate &amp; vsu rationis pro tanto quod non sunt omnino absorpti: licet non  
+       <lb ed="#B" n="38"/>quantum requirit genus facti si fieret in sobrietate &amp; perfecto vsu rationis. Hoc enim est generale 
+       <lb ed="#B" n="39"/>quod actus peccati ex natura actus semper est magis venialis commissus in ebrietate quam extra, &amp; minus quam 
+       <lb ed="#B" n="40"/>meretur genus actus ex sua natura. Vnde dicit <name ref="#Augustine">Augustinus</name> contra Faustum. Inebriauerunt Loth 
+       <lb ed="#B" n="41"/>filiae eius &amp; se nescienti miscuerunt: quapropter culpandus est quidem non tantum quantum ille 
+       <lb ed="#B" n="42"/>incestus: sed ebrietas illa meretur. 
+      </p>
+      <p xml:id="n3av8a-c1e1248-d1e986">
+       PER iam dicta patent obiecta vtriusque partis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 17</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 17</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="438-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4241">
+       <head xml:id="n3av8a-c1e4241-Hd1e96">Quaestio 17</head>
+       <p xml:id="n3av8a-c1e4241-d1e99">
+        <lb ed="#B" n="17"/>CIrca Secundum arguitur: quod non licet repellere iniuriam per potentiam principum, sic. quia  
+       <lb ed="#B" n="18"/>Matthi. v. dicitur. Si vos persecuti fuerint in vna ciuitate, fugite in aliam. est ergo  
+       <lb ed="#B" n="19"/>doctrina Christi quod iniuriatores sustinendi sunt: &amp; hoc non faciunt repellentes iniuriam 
+       <lb ed="#B" n="20"/>sibi factam per potentiam principum: quare faciunt contra doctrinam Christi. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4241-d1e110">
+       CON 
+       <lb ed="#B" n="21"/>tra. illud est licitum sine quo non potest haberi pax. Iniuriati autem pacem non haberent in ec 
+       <lb ed="#B" n="22"/>clesia nisi per potentiam principum iniuriae repellerentur. ergo licitum est eas sic repellere. 
+       <lb ed="#B" n="23"/>
+      </p>
+      <p xml:id="n3av8a-c1e4241-d1e119">
+       DIcendum quod circa tolerantiam iniuriarum in passo iniuriam est considerare animum 
+       <lb ed="#B" n="24"/>passi iniuriam dupliciter: &amp; in ordine ad ipsas iniurias: &amp; in ordine ad inferentem iniurias. In ordine pri 
+       <lb ed="#B" n="25"/>mo debet iniuriam passus habere patientiam in tolerando: &amp; animum habere paratum ad ampliora si oporteat 
+       <lb ed="#B" n="26"/>tolerandum, potius quam expetat per se vindictam. Iuxta illud Matilsoscae. v. Qui te percusserit in vnam maxillam: praebe 
+       <lb ed="#B" n="27"/>ei &amp; alteramd est paratus esto ad praebendum per tolerantiam pacificam si necesse fuerit. In ordine vero secundo de-  
+       <lb ed="#B" n="28"/>bet iniuriam passus primo miti animo reatum iniuriae ex corde dimittere. Iuxta illud Mateosoen. vi. Dimitte 
+       <lb ed="#B" n="29"/>nobis debita nostra sicut &amp; nos dimittimus debitoribus nostris. Per quod ab animo remouetur libido  
+       <lb ed="#B" n="30"/>vindictae: quam nullo modo vel per seipsum vel per alium debet expetere. hoc enim malorum est: Vnde <name ref="#Augustine">Augustinus</name>  
+       <lb ed="#B" n="31"/>super illud psalila. cviii. Pro eo vt me diligerent detrahebant mihi. dicit sic. Reddere malum pro malis habeant 
+       <lb ed="#B" n="32"/>vel mali vel mediocriter mali &amp; mediocriter boni vsqueadeo quod lex eis dederit vlciscendi modum: ocu 
+       <lb ed="#B" n="33"/>lum pro oculo: dentem pro dente. Quae si dici potest, iniustorum iustitia est: non quia iniquum est vt recipiat 
+       <lb ed="#B" n="34"/>quisque quod fecerit: alioquin nequaquam lex illud constitueret: sed quia vlciscendi libido vitiosa est: ma-  
+       <lb ed="#B" n="35"/>gisque ad iudicem pertinet: inter alios haec discernere: quam bonum hominem sibi expetere. Dimisso autem rea- 
+       <lb ed="#B" n="36"/>tu iniuriae &amp; libidine vindictae omnino repulsa a corde, secundo debet ad iniuriatoris correctionem labora  
+       <lb ed="#B" n="37"/>re: &amp; ne insolentior fiat iniuriator, &amp; iustitia aequitatis inter eos fiat: emendam &amp; satisfactionem expete 
+       <lb ed="#B" n="38"/>re. quia vt dicit <name ref="#Augustine">Augustinus</name> ad Marcellum, et habetur. xxiii. q. v. Prodest. Hoc solum bene agitur: vt vita 
+       <lb ed="#B" n="39"/>hominum corrigatur. Glos. Siue per verba, siue per pecuniam, siue alio modo non refert. Sed talis emenda 
+       <lb ed="#B" n="40"/>expetenda est per iudicem ecclesiasticum siue saecularem: quia vt dicit Leo papa ibidem: res omnes tutae aliter esse 
+       <lb ed="#B" n="41"/>non possunt: nisi regia &amp; sacerdotalis defendat auctoritas. Item <name ref="#Augustine">Augustinus</name> ad Macedonium. &amp; habetur 
+       <lb ed="#B" n="42"/>ibidem. Non frustra instituta sunt potestas regis: ius agnitoris: vngulae carnificis: arma militis: disci 
+       <lb ed="#B" n="43"/>plina dominantis: seueritas etiam boni patris. habent omnia ista modos suos: causas: rationes: vtilitates. Haec 
+       <lb ed="#B" n="44"/>cum timentur, &amp; mali coercentur, &amp; boni quieti inter malos viuunt. Sed primo super hoc requirendus est praeci- 
+       <lb ed="#B" n="45"/>pue a viris ecclesiasticis iudex ecclesiasticus: &amp; deinde si corrigere non valetiniuriantem, iudex saecula 
+       <lb ed="#B" n="46"/>ris. Vnde vt Isido. ibidem. Principes saeculi nonnumquam intra ecclesiam potestatis adeptae culmina tenent: vt 
+       <lb ed="#B" n="47"/>per eandem potestatem disciplinam ecclesiasticam muniant: caeterum intra ecclesiam potestates necessariae non essent 
+       <lb ed="#B" n="48"/>nisi vt quod non praeualent sacerdotes efficere per doctrinae sermonem: potestas hoc impetret per disciplinae ter 
+       <lb ed="#B" n="49"/>rorem. Quia si iudex defecerit, vt celerem emendam per ipsum habere non possit: tunc expectandum est 
+       <lb ed="#B" n="50"/>iudicium dei. de quo in psalils. cxlv. Faciet iudicium iniuriam patientibus. <name ref="#Augustine">Augustinus</name> id est vindica- 
+       <lb ed="#B" n="51"/>bit iniuriam accipientes: &amp; puniet iniuriosos. Nec amplius causa coram iudice terreno prosequenda  
+       <lb ed="#B" n="52"/>est. Aliter enim vt dicit <name ref="#Augustine">Augustinus</name> ibidem, statim ad te procedit vox apostolica &amp; dicit tibi. lam quidem omnino 
+       <lb ed="#B" n="53"/>delictum est: quia iudicia habetis vobiscum, quare non magis patimini iniquitatem: quaere non iniuriam patimini:s 
+       <lb ed="#B" n="54"/>Corripit homines quia non patiuntur iniuriam: cumque sic quisque passus fuerit iniuriam: nec iniuriatus 
+       <!--916.xml-->
+       <pb ed="#B" n="438-r"/>
+        <lb ed="#B" n="1"/>pancem cum iniuriatore poterit habere: tunc demum vtendum est consilio Christi. Si vos persecuti 
+       <lb ed="#B" n="2"/>fuerint in vna ciuitate fugite in aliam. Quia si non poterit effugere corpore, fugiat animo: ne mente 
+       <lb ed="#B" n="3"/>coinquinetur ex malorum contubernio. dicente <name ref="#Augustine">Augustino</name> super illud psal. lxvii. Non me demergat 
+       <lb ed="#B" n="4"/>tempestas aquae. Quibus dictum est: Si vos persecuti fuerint in vna ciuitate fugite in aliam: hoc 
+       <lb ed="#B" n="5"/>eis dictum est vt nec carne haererent nec spiritu. Non enim appetendum est vt haereamus vel car- 
+       <lb ed="#B" n="6"/>ne: sed quantum possumus vitare debemus. Si vero haeserimus, &amp; in manus peccatorum venerimus: iam 
+       <lb ed="#B" n="7"/>corpore haesimus: fixi sumus in limo profundi: restat pro anima deprecari vt non haereamus. i. non consen- 
+       <lb ed="#B" n="8"/>tiamus. Sic ergo dico: quod seruato praescripto ordine bene licet repellere iniuriam per potentiam principum: 
+       <lb ed="#B" n="9"/>&amp; iniquum esset non repellere si possibile esset. Et secundum hoc concedenda est ratio secunda. 
+      </p>
+      <p xml:id="n3av8a-c1e4241-d1e232">
+       AD 
+       <lb ed="#B" n="10"/>rationem primam in contrarium: Si vos persecuti fuerint in vna ciuitate, fugite in aliam: Dicen- 
+       <lb ed="#B" n="11"/>dum secundum iam dicta, quod hoc intelligitur in casu: quando iudex idoneus ad repellendas iniurias 
+       <lb ed="#B" n="12"/>oppressorum haberi non potest. Regulariter tamen fugere non debet negligendo emendam expetere &amp; in  
+       <lb ed="#B" n="13"/>iuriatoris correctionem, si iudex ad hoc idoneus haberi possit. 
+       <lb ed="#B" n="14"/>Explicitum est Decimum Quodlibet Magistri Henrici a Gandauo.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

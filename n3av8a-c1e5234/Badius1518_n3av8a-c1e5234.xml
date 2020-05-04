@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 13</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 13</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="542-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5234">
+       <head xml:id="n3av8a-c1e5234-Hd1e96">Quaestio 13</head>
+       <p xml:id="n3av8a-c1e5234-d1e99">
+        <lb ed="#B" n="41"/>Equuntur pertinentia consequenter ad coniunctum ex corpore &amp; anima in hominibus. vbi quaere 
+       <lb ed="#B" n="42"/>bantur tria pertinentia ad bonum spirituale: &amp; duo pertinentia ad bonum corporale. 
+       <lb ed="#B" n="43"/>Primum illorum trium erat pertinens ad finem hominis: &amp; est. Vtrum aliquis adultus posset 
+       <lb ed="#B" n="44"/>esse nec in statu salutis, nec in statu damnationis. Alia vero duo pertinebant ad illa 
+       <lb ed="#B" n="45"/>quae sunt ad finem. Quorum primum erat de voto castitatis: vtrum aliquid opus bonum 
+       <lb ed="#B" n="46"/>sine voto possit esse melius quam castitas sub voto. Secundum erat de ingressu reli- 
+       <lb ed="#B" n="47"/>gionis. vtrum ingressus religionem ex voto &amp; expertus quod possit onera illius portare, teneatur pro 
+       <lb ed="#B" n="48"/>fiteri. Duorum vero pertinentium ad bonum corporale, Primum specialiter pertinebat ad sacerdo  
+       <lb ed="#B" n="49"/>tes curatos. vtrum sacerdos curatus posset aliquid accipere a Iudaeis pro iure parochiae in qua ma 
+       <lb ed="#B" n="50"/>nent. Secundum pertinebat ad omnes existentes in statu perfectionis: vtrum maioris perfectionis 
+       <lb ed="#B" n="51"/>sit viuere de labore manuum: an de euangelio: an de mendicitate. 
+      </p>
+      <p xml:id="n3av8a-c1e5234-d1e125">
+       CIRca primum arguitur quod ali 
+       <lb ed="#B" n="52"/>quis adultus non possit esse qui nec sit in statu salutis nec in statu damnationis: quia aut est in chari 
+       <lb ed="#B" n="53"/>tate &amp; est in statu salutis: aut non est in charitate &amp; sic est in statu damnationis. nec est medium in-  
+       <lb ed="#B" n="54"/>ter illam affirmationem &amp; negationem: quia sunt contradictionis extrema: cuius secundum philo 
+       <!--1125.xml-->
+       <pb ed="#B" n="542-v"/>
+        <lb ed="#B" n="1"/>sophum non est medium. ergo &amp;c. Contra. Iudaeus adultus statim baptizatus nec in statu danmnationis est 
+       <lb ed="#B" n="2"/>quia est in charitate, nec in statu salutis: quia nondum agonizauit, aut operatus est. &amp; secundum philosophum. ii. Ethi. 
+       <lb ed="#B" n="3"/>non optimi sed agonizantes coronabuntur. sed nullus est in statu salutis quin coronabitur si in illo disce 
+       <lb ed="#B" n="4"/>dat. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5234-d1e147">
+       DIco breuiter quod quicumque non est regeneratus aqua baptismi vel aliquo virtutem eius habente 
+       <lb ed="#B" n="5"/>non est in statu salutis: sed danmnationis propter peccatum originale saltem, siue fuerit adultus siue non: licet aliam dam  
+       <lb ed="#B" n="6"/>nationem expectet qui originali supeaddit actuale: &amp; ille qui non. Postquam autem quis fuerit renatus non potest esse quin  
+       <lb ed="#B" n="7"/>sit vel determinate in statu salutis: vel determinate in statu danmnationis: prout processit primum argumentum: li 
+       <lb ed="#B" n="8"/>cet ab illo statu possit quis resilire ad contrarium statum: vt non sit necesse vt finem status sui adipiscatur nisi 
+       <lb ed="#B" n="9"/>perseueret in illo vsque in finem. Ad argumentum: quod dictus iudaeus non sit in statu salutis: quia non-  
+       <lb ed="#B" n="10"/>dum agonizauit: Dico quod licet nondum agonizauerit in se: &amp; per se: agonizauit tamen in christo:  
+       <lb ed="#B" n="11"/>&amp; per ipsum vt in capite suo: &amp; per illud cuius iam factus est membrum: qui non sibi per agoniam suam 
+       <lb ed="#B" n="12"/>sed membris suis agonizauit. &amp; hoc sufficit cum non superest tempus agonizandi in propria perso- 
+       <lb ed="#B" n="13"/>na: sed cum superest, tunc oportet in propria persona non solum agonizare: sed &amp; legitime agonizare. ii. Timo. 
+       <lb ed="#B" n="14"/>ii. Qui certat in agone non coronabitur nisi summe certauerit. Sed illam agoniam &amp; coronam quae pro ipsa 
+       <lb ed="#B" n="15"/>expectatur non vidit philosophus: nec de ipsis locutus est: sed solummodo de agonia qua meretur corona 
+       <lb ed="#B" n="16"/>gloriae vitae praesentis: quae non redditur nisi in propria persona agonizantibus.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

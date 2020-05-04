@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="495-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4859">
+       <head xml:id="n3av8a-c1e4859-Hd1e96">Quaestio 16</head>
+       <p xml:id="n3av8a-c1e4859-d1e99">
+        <lb ed="#B" n="49"/>CIrca Secundum arguitur: quod scholastice docens &amp;c. peccet mortaliter: quia est aliis causa 
+       <lb ed="#B" n="50"/>errandi. oportet enim discipulum credere dictis magistri. 
+      </p>
+      <p xml:id="n3av8a-c1e4859-d1e106">
+       CONtra. talis forte docet 
+       <lb ed="#B" n="51"/>talia ex conscientia credens ipsa esse vera: &amp; sic peccaret docendo contrarium. ergo &amp;c. 
+       <lb ed="#B" n="52"/>
+      </p>
+      <p xml:id="n3av8a-c1e4859-d1e113">
+       DIco quod scholastice docens falsa, si docet illa mala affectione motus siue ex passio 
+       <lb ed="#B" n="53"/>ne pro illa hora siue ex habitu vitioso odii vel inuidiae contra alios: in quorum gra- 
+       <lb ed="#B" n="54"/>uamen docet falsa, aut fauoris inordinati pro aliquibus quibus est coniunctus: si sint ta- 
+       <!--1031.xml-->
+       <pb ed="#B" n="495-v"/>
+        <lb ed="#B" n="1"/>lia falsa quae pertinent ad fidem &amp; mores, non solum peccat mortaliter propter motum odii vel inuidiae: sed etiam  
+       <lb ed="#B" n="2"/>propter actum docendi falsa. Si vero non sunt talia quod pertineant ad fidem aut mores: licet peccaret mortali 
+       <lb ed="#B" n="3"/>ter ex motu illo: aut etiam ex mala voluntate quam habet in docendo talia: non tamen oporteret quod ex actu do-  
+       <lb ed="#B" n="4"/>cendi peccaret mortaliter: sed forte venialiter: eo quod nullum priculum esset sentire hoc plus quam contrarium eius. 
+       <lb ed="#B" n="5"/>
+      </p>
+      <p xml:id="n3av8a-c1e4859-d1e135">
+       AD primum: quod talis mortaliter peccat: quia est aliis causa errandi: Dico quod verum est si sit error pericu 
+       <lb ed="#B" n="6"/>losus: qualis est ille qui est circa ea quae sunt fidei aut morum. Si autem non sit circa talia, bene potest peccare tantum 
+       <lb ed="#B" n="7"/>venialiter quantum est ex ipso actu docendi vt dictum est. Et dico quod tali modo peccat quantum est ex se &amp; do  
+       <lb ed="#B" n="8"/>ctrina sua: quia venenum propinauit, et si non sit qui bibat: eo quod forte non est qui in docendo illi credat. Quid autem  
+       <lb ed="#B" n="9"/>assumitur in argumento, quod oportet discipulum credere dictis magistri: Dico quod verum est in eis quae prius non 
+       <lb ed="#B" n="10"/>nouit, &amp; quae ipsi sunt alias dubia: &amp; hoc in audiendo magistrum. postmodum tamen discipulus ordinatius de 
+       <lb ed="#B" n="11"/>bet penes se examinare dicta magistri antequam eis firmiter adhaereat. dicente Boetio in fine libri secundi 
+       <lb ed="#B" n="12"/>de disciplina schol. Miserrimi est ingenii semper inuentis vti &amp; numquam inueniendis. Stultius est magistratus 
+       <lb ed="#B" n="13"/>crationibus omnino confidere: sed primo est credendum donec videatur quid sentiat: postea fingendum est eundem in  
+       <lb ed="#B" n="14"/>docendo errasse: vt forte reprire queat quid commissae obuiet sedulitati. 
+      </p>
+      <p xml:id="n3av8a-c1e4859-d1e158">
+       AD argumentum in oppositum quod for 
+       <lb ed="#B" n="15"/>te talia docet ex conscientia: Dico quod quamuis doceat ea ex conscientia: quia tamen illa conscientia est erronea: cuius ipse 
+       <lb ed="#B" n="16"/>est causa, habitum vitiosum odii vel fauoris sibi adgenerando, vel motum quo ratio obscuratur non repellendo  
+       <lb ed="#B" n="17"/>sicut supponit quaestio: ideo in hoc ipse non excusatur omnino. Vnde talis qui docet falsa ex tali conscientia erronea 
+       <lb ed="#B" n="18"/>quam sibi formauit credendo illa esse vera, stante tali conscientia perplexus est: quia peccat docendo secundum  
+       <lb ed="#B" n="19"/>conscientiam falsa, &amp; etiam peccaret docendo contra conscientiam contraria vera.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

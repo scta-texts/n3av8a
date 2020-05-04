@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="377-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3748">
+       <head xml:id="n3av8a-c1e3748-Hd1e96">Quaestio 12</head>
+       <p xml:id="n3av8a-c1e3748-d1e99">
+        <lb ed="#B" n="7"/>CIrca quintum ponatur propter obiecta &amp; ad maiorem intellectum quaestionis casus 
+       <lb ed="#B" n="8"/>talis. Rex quidam potentissimus peregre proficiscens cum filio haerede suo successuro 
+       <lb ed="#B" n="9"/>in regno, sepulturam corporis sui simpliciter elegit faciendam in ecclesia quorum  
+       <lb ed="#B" n="10"/>dam monachorum. Mortuo autem rege praedicto in regione longinqua, visum est 
+       <lb ed="#B" n="11"/>filio suo iam succedenti in regno onerosum &amp; periculosum corpus deferre cum 
+       <lb ed="#B" n="12"/> intestinis ad locum sepulcri electum, &amp; intestina extracta destinauit sepeliri in ecclesia 
+       <lb ed="#B" n="13"/>quorundam fratrum: sed ad instantiam archiepiscopi loci &amp; canonicorum ecclesiae matricis procurato  
+       <lb ed="#B" n="14"/>quod intestina in ecclesia eorum sepelirentur, quidam de ordine fratrum praedictorum procurauit erga dictum 
+       <lb ed="#B" n="15"/>haeredem quod cor ei conferretur ad sepeliendum in ecclesia sua non multum distante ab ecclsia dictorum mo- 
+       <lb ed="#B" n="16"/>nachorum: quo facto, &amp; corde cum corpore delato vsque in ciuitatem regiam: abbas dictorum monacho- 
+       <lb ed="#B" n="17"/>rum cum suo conuentu constanter petiit sibi cor cum corpore tradi ad sepeliendum: quid cum eis denegare  
+       <lb ed="#B" n="18"/>tur constanter ab haerede iam nouo rege: tandem per proborum intercessionem post multam contradi- 
+       <lb ed="#B" n="19"/>ctionem licet inuiti dixerunt dicti abbas &amp; monachi quod sustinerent hoc quod rex de corde faceret. ex quo  
+       <lb ed="#B" n="20"/>praesumebat rex ipsos adhibere consensum vt cor sepeliretur in ecclesia dicti fratris &amp; confratrum suo- 
+       <lb ed="#B" n="21"/>rum: quid &amp; sic factum fuisse propositum erat. super quo est quaestio: vtrum fratres illi cor illud tenerentur di  
+       <lb ed="#B" n="22"/>ctis monachis restituere: &amp; an monachi teneantur illud repetere. Ex arguitur quod sic: quia dicitur. xii. 
+       <lb ed="#B" n="23"/>qd ii. S. Nunc quaeritur. in glos. Siquis autem in casu non concesso receperit corpus alienum, etiam sepultum red 
+       <lb ed="#B" n="24"/>dere cogetur cum omnibus quae a corpore ipsius receperat. Quare cum eadem sit ratio in parte &amp; in to 
+       <lb ed="#B" n="25"/>to: cor ergo illud quod erat dictis fratribus alienum: quia a defuncto cum corpore fuit collatum mo- 
+       <lb ed="#B" n="26"/>nachis: nec erat aliquo iure concessum fratribus vt ipsum ad sepulturam acciperent: quia mortuus 
+       <lb ed="#B" n="27"/>nec pro corpore nec pro corde sepulturam apud fratres elegerat: fratres ergo cogendi sunt vt restitu 
+       <lb ed="#B" n="28"/>ant cor monachis: etiam cum omnibus quae a cor receperant: &amp; si illi tenentur restituere, monachi te- 
+       <lb ed="#B" n="29"/>nentur illlud repetere: quia aliter in hoc iniuriaretur ecclesiae eorum: &amp; ipsi tenentur repetere ea in quibus ec 
+       <lb ed="#B" n="30"/>clesiae eorum iniuriatur. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e154">
+       ITEM si alicui legentur decem, &amp; subtrahatur vnum: subtrahens tenetur 
+       <lb ed="#B" n="31"/>illud restituere, &amp; si sint legata ecclesiae tutor eccliae tenetur repetere: quia in hoc ecclesia illa est de-  
+       <lb ed="#B" n="32"/>fraudata. ergo cum dictis monachis corpus simpliciter fuit legatum ad sepulturam: &amp; in corpore sim- 
+       <lb ed="#B" n="33"/>pliciter legato legatur quicquid est de integritate corporis: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e163">
+       IN contrarium arguitur mul 
+       <lb ed="#B" n="34"/>tipliciter. Primo sic. Quod in nuilius vergit detrimentum &amp; alicui proficit &amp; cultum diuinum augmen- 
+       <lb ed="#B" n="35"/>tat: licitum est. factum in sepeliendo cor est huiusmodi: quia ex hoc monachi nuilum passi sunt detrimen 
+       <lb ed="#B" n="36"/>tum: quia non pauciores habuerunt oblationes aut emolumenta pro solo corpore quam si cor fuisset simul cum 
+       <lb ed="#B" n="37"/>corpore sepultum apud eos: &amp; hoc multum profecit fratribus &amp; animae defuncti. diuinus etiam 
+       <lb ed="#B" n="38"/>cultus augmentatus est: quia plures missae celebrantur pro defuncto propter hoc, quam si simul esset 
+       <lb ed="#B" n="39"/>cor sepultum cum corpore apud monachos. ergo factum fratrum in sepeliendo cor, licitum fuit. ex 
+       <lb ed="#B" n="40"/>licite facto, nulla restat restitutio aut repetitio. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e181">
+       SEcundo sic. qua ratione monachi a di-  
+       <lb ed="#B" n="41"/>ctis fratribus tenerentur repetere cor &amp; fratres restituere: eadem ratione tenerentur alia intestina 
+       <lb ed="#B" n="42"/>repetere a praedictis canonicis: &amp; illi ipsa restituere monachis. cum ergo hoc falsum sit: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e189">
+       TER 
+       <lb ed="#B" n="43"/>tio sic. secundum iura ciuilia: vbi sepultum est caput ibidem censetur locus religiosus ac si totum cor- 
+       <lb ed="#B" n="44"/>pus ibi esset sepultum: etiam si membra alia alibi fuerint sepulta. ergo multo fortius vbi caput cum 
+       <lb ed="#B" n="45"/>humeris et brachiis et aliis membris maioribus est sepultum, &amp; corpus simpliciter censendum est 
+       <lb ed="#B" n="46"/>esse sepultum, quare cum haec sepulta sint apud monachos: corpus simpliciter apud eos censendum 
+       <lb ed="#B" n="47"/>est esse sepultum. nihil autem aliud quam corpus simpliciter legauit eis sepeliendum defunctus. ergo &amp;c. 
+       <lb ed="#B" n="48"/>
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e205">
+       QVARto sic. in iure ciuili cautum est quod princeps potest mutare tumulos: quod si sic, ergo multo fortius 
+       <lb ed="#B" n="49"/>potest non tumulatum corpus diuidere: &amp; partem eius in tumulo seorsum ponere: cum ergo fra- 
+       <lb ed="#B" n="50"/>tres quod fecerunt tumulando cor, auctoritate principis fecerunt: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e212">
+       QVINto sic. reges praedeces 
+       <lb ed="#B" n="51"/>sores eius cuius auctoritate &amp; collatione fratres sepelierunt cor: consueuerunt intestina patrum &amp; vxorum sua 
+       <lb ed="#B" n="52"/>rum partiri: &amp; tradere sepelienda vbi voluerunt quoniam in remotis partibus moriebantur: sed consuetudo dat ius maxime 
+       <lb ed="#B" n="53"/>regibus &amp; principibus. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e221">
+       SExto sic, quid possunt aliqui tumulare alicubi, postquam eis datum est prasent defer 
+       <lb ed="#B" n="54"/>re &amp; tumulare alibi vbicumque: quaere cum fratribus dicti ordis data fuerunt omnia intestina, et potuissent ea simul in  
+       <!--795.xml-->
+       <pb ed="#B" n="377-v"/>
+        <lb ed="#B" n="1"/>ecclesia sua sepeliuisse si non fuisset aliter ordinatum. ergo potuissent illa vel aliquam partem ex eis de 
+       <lb ed="#B" n="2"/>tulisse: &amp; in ecclesia fratrum vbi nunc cor sepultum est, sepeliuisse. Quare consimiliter &amp; frater ille qui obtinuit 
+       <lb ed="#B" n="3"/>cor sepeliendum apud dictos fratres, licite potuit illud deferre: &amp; apud illos sepelire. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e237">
+       SEpti 
+       <lb ed="#B" n="4"/>mo sic. Qui potest aliquid tumulare potest illud alteri ad tumulandum dare: vel alter de illius consen- 
+       <lb ed="#B" n="5"/>su: quare cum cor cum intestinis datum fuit dicto archiepiscopo &amp; capitulo suo, ipsi potuerunt 
+       <lb ed="#B" n="6"/>illud alteri ad sepeliendum alibi dare: vel aliquis alter cum eorum consensu, quare cum rex de eo- 
+       <lb ed="#B" n="7"/>rum consensu quibus data erant intestina dedit fratri cor ad sepeliendum: vbi modo sepultum est. 
+       <lb ed="#B" n="8"/>ergo &amp;c. Octauo sic. Qui potest dare integrum, &amp; partem ex illo. cum ergo rex potuit integre inte- 
+       <lb ed="#B" n="9"/>stina dedisse ad sepeliendum non accepto corde sicut dedisset canonicis nisi frater cor petiuisset: &amp; de 
+       <lb ed="#B" n="10"/>derat confratribus illius, nisi archiepiscopus se opposuisset: ergo &amp; cor potuit dare fratri illi ad sepe 
+       <lb ed="#B" n="11"/>liendum vbi nunc est sepultum: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e257">
+       NOno sic, quid sit parte consentiente &amp; auctoritate superio 
+       <lb ed="#B" n="12"/>ris assistente super aliqua discordia, licitum est. sed in sepultura cordis facienda apud fratres pars 
+       <lb ed="#B" n="13"/>consensit scilicet abbas &amp; monachi ad praeces &amp; voluntatem haeredis: auctoritas etiam superioris vt legati de 
+       <lb ed="#B" n="14"/>latere papae, &amp; eprsei loci, qui cor ad ecclesiam fratrum attulerunt, &amp; propriis manibus tumulauerunt. 
+       <lb ed="#B" n="15"/>In quo ambo facto adhibuerunt auctoritatem sepeliendi ibi cor: quid non minus erat immo maius quam adhibere 
+       <lb ed="#B" n="16"/>auctoritatem verbo tantum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e271">
+       DIcendum est ad hoc, quod factum istud dupliciter possumus considerare. Vno  
+       <lb ed="#B" n="17"/>modo secundum naturam suiipsius in se. Alio modo secundum quod ei superuenit dispensatio auctoritate superioris. &amp; 
+       <lb ed="#B" n="18"/>de ipso hoc secundo modo erit sermo in dissolutione vltimi argumenti. Si ergo loquamur de ipso pri 
+       <lb ed="#B" n="19"/>mo modo, sciendum quod secundum quod scribitur. xiii. quid ii. vltima voluntas modis omnibus conseruetur. Glos. cum 
+       <lb ed="#B" n="20"/>est rationabilis. cum ergo vltima voluntas fuerit regis defuncti quam &amp; propriis verbis expressit scilicet vt corpus 
+       <lb ed="#B" n="21"/>suum simpliciter sepeliretur: &amp; ad hoc abbati &amp; conuentui suo ipsum dedit, sicut positum est in casu 
+       <lb ed="#B" n="22"/>qui autem simpliciter dicit nihil excipit: &amp; qui simpliciter dat aliquid, de dato nihil dandum alteri re- 
+       <lb ed="#B" n="23"/>tinet: vltima ergo voluntas regis quo ad sepulturam corporis sui fuit quod integre nulla parte excepta 
+       <lb ed="#B" n="24"/>alibi sepelienda: aut alteri danda: quare sic implenda fuit. Sed quod voluntas regis in hoc rationabilis fuit 
+       <lb ed="#B" n="25"/>patet: &amp; ex parte loci in quo elegit sepulturam: &amp; ex parte corporis sepeliendi. Ex loco: quia ibi sunt 
+       <lb ed="#B" n="26"/>sepulcra patrum suorum: &amp; vt probatur pluribus exemplis. xiii. qu. ii. Ebron, &amp; ibidem concluditur, in sepultu 
+       <lb ed="#B" n="27"/>ra parentum filiorum corpora collocanda sunt. vbi dicit glos. quod hoc consilium est: &amp; ideo ex electione  
+       <lb ed="#B" n="28"/>morientis dependet. quia tamen consilium ex ratione procedit, melius &amp; rationabilius est facere id quid iure 
+       <lb ed="#B" n="29"/>consulitur quam contrarium. Idcirco rationabilis fuit regis voluntas in eligendo ibi corporis sui sepulturam: 
+       <lb ed="#B" n="30"/>&amp; melius fecit aliis eisdem existentibus ibi eligendo quam alibi. illud enim fuisset ei quodammodo ignomi- 
+       <lb ed="#B" n="31"/>niosum. secundum, en, quod dicit glos. super praedictum cap. loseph moriens in Aegypto rogauit fratres su- 
+       <lb ed="#B" n="32"/>os vt tempore visitationis suae ossa sua secum deferrent: &amp; in sepulcrum patrum suorum ea colloca- 
+       <lb ed="#B" n="33"/>rent: quia ignominiosum erat tunc quod aliquis non sepeliretur in sepulcro patrum suorum. Vnde est vnus ca 
+       <lb ed="#B" n="34"/>sus in quo locum sepulcri a iure determinatum potest aliquis dimittere. secundum enim quod ibidem dicit glos. 
+       <lb ed="#B" n="35"/>super. S. Nunc quaeritur,. quilibet debet sepeliri in ecclesia vbi audit diuinum officium: vt extra de se- 
+       <lb ed="#B" n="36"/>pulturis. In nostra. nisi in tribus casibus. si velit transire ad episcopalem ecclesiam. vt. xiii. q. ii. Vbicumque. vel si 
+       <lb ed="#B" n="37"/>eligit sepulcrum in loco magis religioso: vt extra de sepulturis Fraternitatem. vel si velit sepeliri in se 
+       <lb ed="#B" n="38"/>pulcris patrum suorum: vt. xiii. q. ii. Placuit. Ex parte vero corporis sepeliendi similiter rationabilis fuit regis 
+       <lb ed="#B" n="39"/>voluntas: in hom. scilicet quod corpori suo sepulturam in certo loco elegit simpliciter nullam partem excipiendo vel 
+       <lb ed="#B" n="40"/>separando ad alibi eam sepeliendum. Est. nm multum rationi consonum vt corpus quanto integrius potest se 
+       <lb ed="#B" n="41"/>peliatur. Apostol. n. Ro. xii. diuersis membris in corpore comparat diuersas personas in ecclesia: in hoc videlicet 
+       <lb ed="#B" n="42"/>quod sicut in idipsum pro inuicem sollicita sunt membra in corpore, sic debent esse personae in ecclia. Sollicitu- 
+       <lb ed="#B" n="43"/>do ergo quam debent habere personae in ecclesia diuersae pro inuicem ex voluntate illa, debet esse ad instar sollicitu 
+       <lb ed="#B" n="44"/>dinis quam habent inuicem membra in corpore ex natura. Cum ergo sic laudabile &amp; rationabile desiderium vo 
+       <lb ed="#B" n="45"/>luntatis est inter sese amantes: vt membra corporis ecculiae quantum possibile est fieri morientes eligant se- 
+       <lb ed="#B" n="46"/>peliri in sepulcris amicorum suorum, maxime patrum, &amp; consanguinitate aut affinitate coniunctorum: vt pa 
+       <lb ed="#B" n="47"/>tet ex iam dictis, vt parati sint ad simul resurgendum in nouissimo die: vnde hoc pro causa assignando  
+       <lb ed="#B" n="48"/>quare loseph voluit ossa sua sepeliri in sepulcro patrum suorum: dicit glos. super praedictum cap. Vel quia  
+       <lb ed="#B" n="49"/>in spirit viderat quia dominus resurgere deberet ibi: naturale ergo desiderium &amp; laudabile est in membris vnius 
+       <lb ed="#B" n="50"/>corporis: vt insimul &amp; quanto magis coniuncte possint sepeliantur simul expectantes resurrectionem: vt magis quantum  
+       <lb ed="#B" n="51"/>est in se parati ad illam per hoc. Et est tale desiderium per naturam magis in membris corporis: quam per voluntatem in men 
+       <lb ed="#B" n="52"/>bris ecclesiae: maxime ex hoc quod vnum membrum non poterit resurgere nisi alteri coniunctum, quod potest ibi persona quaeli  
+       <lb ed="#B" n="53"/>bet quantuncumque sit ab alia separata, quaere cum ratio &amp; voluntas in homine ad hoc sunt quod laudabile &amp; naturale desi 
+       <lb ed="#B" n="54"/>derium corporis sui debent implere quo ad id in quo deficit natura: vt ratio pro quolibet membro disponat 
+       <!--796.xml-->
+       <pb ed="#B" n="378-r"/>
+        <lb ed="#B" n="1"/>&amp; voluntas eligat: &amp; pro posse naturale &amp; laudabile desiderium membri impleat: multum ergo lau-  
+       <lb ed="#B" n="2"/>dabile &amp; rationabile est: quod quilibet moriens corpori suo prouideat vt integre sepeliatur: quantum hoc 
+       <lb ed="#B" n="3"/>fieri valeat: &amp; hoc vt dictum est maxime in sepulcris patrum suorum. Vnde vt puto nullo mo- 
+       <lb ed="#B" n="4"/>do placuisset Iacob quod aliquid ex membris suis vel interioribus vel exterioribus, filii sui postquam simplici 
+       <lb ed="#B" n="5"/>ter elegit sepulturam in sepulcris patrum suorum, sepeliuissent alibi. Praesumendum est ergo cum sit ra 
+       <lb ed="#B" n="6"/>tionabile &amp; laudabile, quod eligens sepulturam corpori suo simpliciter in aliquo loco, integre velit illud  
+       <lb ed="#B" n="7"/>ibi sepeliri: nisi superueniat rationabilis causa: quam si praeuidisset moriens, secundum illam de corporis sui 
+       <lb ed="#B" n="8"/>sepultura aliquid specialius ordinasset, quemadmodum loseph cum moriebatur: quia vidit quod fratres sui 
+       <lb ed="#B" n="9"/>non sufficerent ad deferendum corpus suum in sepulcrum patrum suorum sine magno periculo &amp; gra- 
+       <lb ed="#B" n="10"/>uamine: quamquam desiderauit ibi corpus suum sepeliri: tamen non praecepit nisi quod ossa sua secum sepelienda  
+       <lb ed="#B" n="11"/>in sepulcro patrum deferrent: &amp; carnes manerent incineratae in aegypto propter huiusmodi necessitatem. la- 
+       <lb ed="#B" n="12"/>cob autem sciens quod per potentiam loseph sine grauamine corpus suum integrum statim posset deferri sepelien- 
+       <lb ed="#B" n="13"/>dum in sepulcro patrum suorum, non praecepit filiis suis tantum de sepultura ossium: sed corporis sui sim 
+       <lb ed="#B" n="14"/>pliciter. Vnde filii sui ex tali praecepto patris praesumentes integrum corpus suum velle deferri: &amp; in sepul- 
+       <lb ed="#B" n="15"/>cro patrum sepeliri: non inuenitur quod aliquid vt intestina corporis subtraxerint sepelienda in aegypto:  
+       <lb ed="#B" n="16"/>vel in aliquo loco intermedio: sed quod corpus simpliciter conditum aromatibus sepeliendum detulerunt 
+       <lb ed="#B" n="17"/>&amp; sepelierunt. Cum ergo voluntas regis rationabilis fuit in eligendo sepulturam suam apud dictos. 
+       <lb ed="#B" n="18"/>monachos: &amp; hoc pro corpore suo simpliciter: in quo praesumitur quod integraliter: dico quod voluntas re- 
+       <lb ed="#B" n="19"/>gis quo ad due. scilicet &amp; quo ad hoc quod corpus suum sepeliretur apud dictos monachos: &amp; etiam quo ad  
+       <lb ed="#B" n="20"/>hoc quod ibi integraliter sepeliretur: adimplenda fuit: nisi forte causa rationabili superueniente: pro qua prae 
+       <lb ed="#B" n="21"/>sumendum est quod aliquid specialius de corporis sui sepultura ordinasset quam ordinauit si illam praeuidis 
+       <lb ed="#B" n="22"/>set. Quare si forte non superuenit rationabilis causa propter quam cor regis sepeliri debuit &amp; potuit apud  
+       <lb ed="#B" n="23"/>fratres: de qua iam erit sermo in solutione argumentorum: &amp; ipsi fratres cor alienum receperunt sepeli- 
+       <lb ed="#B" n="24"/>endum &amp; sepelierunt: ideo cor sepultum reddere cogendi sunt cum omnibus quae ab ipso recepe- 
+       <lb ed="#B" n="25"/>runt: &amp; tenentur cor restituere. &amp; similiter monachi illud repetere: cum rex sepulturam apud eos elegit 
+       <lb ed="#B" n="26"/>simpliciter: non tam in fauorem ipsorum, quam patroni, &amp; sanctorum ecclesiae, &amp; sepulcri patrum suorum 
+       <lb ed="#B" n="27"/>quid apud illos est: vt licet aliquid factum in iniuriam alicuius eorum personalem dissimulare possent: non 
+       <lb ed="#B" n="28"/>tamen tale quid quod factum est in iniuriam ecclesiae suae &amp; sanctorum eius &amp; patrum praedecessorum regis: &amp; quod pos 
+       <lb ed="#B" n="29"/>set in posterum vergere in magnum detrimentum ecclesiae: vt iam videbitur. Secundum hoc ergo conce- 
+       <lb ed="#B" n="30"/>denda est prima ratio, &amp; similiter secunda: quia nihil concludunt nisi iam exposita. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e425">
+       AD argumenta 
+       <lb ed="#B" n="31"/>autem in oppositum vsque ad vltimum, in quo prosequemur secundum membrum distinctionis propositae in pri 
+       <lb ed="#B" n="32"/>cipio, respondendum. Et primo ad primum dicendo quod sepultura cordis apud fratres in nullius vergit de 
+       <lb ed="#B" n="33"/>trimentum: Dicendum quod non est verum. immo per occasionem potest vergere in maximum detrimentum  
+       <lb ed="#B" n="34"/>monachis. ex hoc enim facto quia principalius secundum fictionem iuris naturae debet apud fratres iudica 
+       <lb ed="#B" n="35"/>ri corpus regis esse sepultum propter cor, quam apud monachos propter totum residuum: sicut iam di-  
+       <lb ed="#B" n="36"/>cetur: facilius rex filius suus posset inclinari ad eligendum sepulturam suam apud fratres: &amp; ad eius. 
+       <lb ed="#B" n="37"/>imitationem successores &amp; affines sui: &amp; consimiliter illorum posteri: &amp; fieret tumulus regum quo ad  
+       <lb ed="#B" n="38"/>omnes succedentes apud fratres: qui apud monachos permansisset forte si talis occasio ex cordis se 
+       <lb ed="#B" n="39"/>pultura data non fuisset: quod esset eis summum detrimentum: sicut patet consideranti. Et quid assumi 
+       <lb ed="#B" n="40"/>tur: quod factum illud alicui vt fratribus proficit: verum est temporaliter in oblationibus &amp; quaestu tempo- 
+       <lb ed="#B" n="41"/>ralium: obest tamen multum eis in spiritalibus: quia fidem &amp; charitatem quam deberent habere erga proximos 
+       <lb ed="#B" n="42"/>amittunt: si tamen absque causa rationabili &amp; in casu non concesso cor sepeliendum receperunt, secun 
+       <lb ed="#B" n="43"/>dum quod procedit primum argumentum inductum contra fratres. Si autem rationabilis causa superuenit propter quam li 
+       <lb ed="#B" n="44"/>cite cor concessum eis fuisse potuit: secundum quod concludam in solutione vltimae rationis: tunc secus est 
+       <lb ed="#B" n="45"/>&amp; soluam secundum hoc argumenta ad oppositum. Et quod assumitur tertio quod per factum illud cultus dei au-  
+       <lb ed="#B" n="46"/>gmentatur: dicendum quod etsi augmentatur quo ad substantiam facti: non tamen quo ad modum faciendi, quem plus deus  
+       <lb ed="#B" n="47"/>respicit: intantum quod non placet deo factum nisi propter modum faciendi &amp; econtra. factum etiam de genere bono  
+       <lb ed="#B" n="48"/>rum displicet propter indebitum modum faciendi. Propter quid dicitur Gen. iiii. Respexit dominus ad Abel: &amp; ad mu 
+       <lb ed="#B" n="49"/>nera eius. Ad Cain vero &amp; ad munera eius non respexit. Glos. interlinea. Qui mentem offerentis non  
+       <lb ed="#B" n="50"/>oblationem intendit quae placet ex munditia offerentis. Si ergo fratres non modo competenti cor se- 
+       <lb ed="#B" n="51"/>peliendum receperunt: &amp; perseuerant in hoc simpliciter non restituendo ablatum: quia secundum 
+       <lb ed="#B" n="52"/>Augustin. aliter non dimittitur peccatum nisi restituatur ablatum: quicunque diuinus cultus ex tali 
+       <lb ed="#B" n="53"/>modo faciendi procedit: quia non plene placet deo: diuinus cultus non est reputandus. de qua  
+       <lb ed="#B" n="54"/>libus dicitur. xiii. quid ii. S. Sed alius. Contra Melchiadis papae auctoritatem nititur, qui vanis persua- 
+       <!--797.xml-->
+       <pb ed="#B" n="378-v"/>
+        <lb ed="#B" n="1"/>sionibus illectus sepulturam suorum parentum contemnit. Ait enim. Leo episcopus seruus seruorum dei 
+       <lb ed="#B" n="2"/>fidelibus in Christo per totam ltaliam. Relatum est auribus nostris esse quosdam peruerse agentes 
+       <lb ed="#B" n="3"/>qui subuertere nituntur atque diuidere conantur ecclesiae vnitatem: videlicet abbates monachique: qui  
+       <lb ed="#B" n="4"/>non studio charitatis: sed aelo rapacitatis inuigilant &amp; docent atque seducere non cessant saeculares 
+       <lb ed="#B" n="5"/>quos illaqueare possunt, vt res suas atque possessiones siue in vita, siue in morte monasteriis illorum  
+       <lb ed="#B" n="6"/>tradant: &amp; ecclesiis quibus subiecti esse videbantur: &amp; a quibus baptismum, poenitentiam, &amp; eucharistiam 
+       <lb ed="#B" n="7"/>recipiunt: nihil de bonis relinquunt. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e499">
+       AD secundum: quod dicti monachi eadem ratione alia intesti- 
+       <lb ed="#B" n="8"/>na deberent repetere a dictis canonicis, &amp; illi ea restituere: Dicendum quod non est simile. quia si secundum 
+       <lb ed="#B" n="9"/>quod dicitur. xiii. qui. ii. cap. Placuit. nullus proprii arbitrii temeritate aliam ecclesiam nisi cui vsus anti 
+       <lb ed="#B" n="10"/>quorum parentum canonica institutione subiacere perhibetur, sepulturae causa adire audeat: nisi in  
+       <lb ed="#B" n="11"/>firmitatis causa impeditus in aliam regionem fuerit quocunque negotio progressus: consimiliter 
+       <lb ed="#B" n="12"/>nuiius haeres sepulturae cordis patris sui qui pro eo sepulturam in aliqua ecclesia elegit: cui vsus an  
+       <lb ed="#B" n="13"/>tiquorum parentum rationabili consuetudine subiacere perhibetur: aliam ecclesiam adire audeat nisi neces- 
+       <lb ed="#B" n="14"/>sitatis causa impeditus in longinqua regione. Vnde etsi necessitatis caus. scilicet quia onerosum erat &amp; 
+       <lb ed="#B" n="15"/>periculosum portare corpus regis defuncti cum intestinis ad sepulcrum patrum suorum quod elegit 
+       <lb ed="#B" n="16"/>rex haeres superstes pro intestinis sepeliendis potuit adire aliam ecclesiam. Si enim defunctus praeui 
+       <lb ed="#B" n="17"/>disset, hoc recta ratione ordinasse debuisset, quemadmodum ordinauit loseph de solis ossibus suis in  
+       <lb ed="#B" n="18"/>sepulcris patrum sepeliendis: vt dictum est. Et ideo haeres sicut bonus epieices quid pater omisit sup- 
+       <lb ed="#B" n="19"/>plere potuit. iuxta artem philosophi in. v Ethi. Si tamen non reputaret huiusmodi onus, &amp; prouideret periculo condi 
+       <lb ed="#B" n="20"/>mentis aromatum ne forte sentiretur foetor: &amp; asportari faceret corpus integrum cum intestinis 
+       <lb ed="#B" n="21"/>vsque prope locum sepulturae ad opus corporis electae, non posset diuidere intestina a corpore: &amp; dare  
+       <lb ed="#B" n="22"/>alteri ecclesiae ipsa ad sepeliendum: quia cessante causa cessare debet effectus. &amp; sicut de totis intesti 
+       <lb ed="#B" n="23"/>nis, sic de parte eorum: vt de corde. Quia postquam cor fuit asportatum cum corpore vsque prope locum 
+       <lb ed="#B" n="24"/>sepulturae: &amp; sic haeres facere disposuit: non licuit ipsum cor dare sepeliendum alteri ecclesiae: nec 
+       <lb ed="#B" n="25"/>etiam prius dare alicui: vt sic deferretur ad sepeliendum alibi: nec licuit ad hoc regem iuuenem in  
+       <lb ed="#B" n="26"/>ducere. immo si commode potuisset absque summa necessitate corpus integrum cum intestinis detu-  
+       <lb ed="#B" n="27"/>lisse, hoc facere debuisset: voluntatem patris sui extremam charitatiue adimplendo: nec expensis ad hoc 
+       <lb ed="#B" n="28"/>faciendum pepercisse, quemadmodum loseph non legitur intestina de corpore patris sui Iacob extraxis- 
+       <lb ed="#B" n="29"/>se: quamuis inter diem mortis Iacob &amp; diem sepulturae fluxerunt dies plurimi. secundum enim quod legi- 
+       <lb ed="#B" n="30"/>tur Gen. l. praecepit loseph seruis suis medicis vt aromatibus condirent patrem: quibus iussa com- 
+       <lb ed="#B" n="31"/>plentibus transierunt. xl. dies: &amp; fleuit eum Aegyptus septuaginta dies: &amp; hoc antequam loseph accipe 
+       <lb ed="#B" n="32"/>ret iter asportandi corpus in terram Chanaan: quae bene distabat ab Aegypto itinere. xl. dierum. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e556">
+       AD 
+       <lb ed="#B" n="33"/>tertium quod secundum iura ciuilia ibi censetur locus religiosus &amp; videtur corpus simpliciter esse sepul 
+       <lb ed="#B" n="34"/>tum vbi sepultum est caput: ergo multo fortius vbi caput cum multis aliis membris: Dicendum 
+       <lb ed="#B" n="35"/>quod hoc dictum est secundum fictionem quandam iuris ciuilis. sed sicut ius ciuile habet suam fictionem 
+       <lb ed="#B" n="36"/>sic &amp; ius naturale. lus enim ciuile quia iudicat principaliter secundum ea quae apparent publico iu 
+       <lb ed="#B" n="37"/>dicio humano: &amp; quia in capite sunt sensus omnes: ideo secundum ius ciuile magis nobile &amp; prin- 
+       <lb ed="#B" n="38"/>cipale membrum totius corporis iudicatur: &amp; corpus censetur esse sepultum vbi sepultum est ca- 
+       <lb ed="#B" n="39"/>put: nec reputat residui corporis sepulturam. Iuxta hoc quod dicit Ambro. super illud psal. Vide- 
+       <lb ed="#B" n="40"/>humilitatem meam &amp; eripe me. Reciso capite reliqui corporis truncus bestiarum corpori compara 
+       <lb ed="#B" n="41"/>tur. sepelitur enim fine decore corpus. In capite etenim vigor vitae. In capite est gratiae venustas. &amp; 
+       <lb ed="#B" n="42"/>hoc quia in eo primo apparent opera vitae &amp; sensus: &amp; apparenter ab ipso procedunt nerui &amp; ve- 
+       <lb ed="#B" n="43"/>nae. Iuxta illud quid dicit Ambro. ibidem. Caput est quod fouet membra omnia &amp; dirigit atque implet sen- 
+       <lb ed="#B" n="44"/>sus: inde ductus venarum meatusque spiritus: sanguinis vires in totius corporis partes deriuantur.  
+       <lb ed="#B" n="45"/>lus vero naturale quia iudicat secundum dictamen naturae: &amp; in corde principium est &amp; sedes animae 
+       <lb ed="#B" n="46"/>secundum quod dicit <name ref="#Aristotle">philosophus</name> in de animalibus. Membrum diuinum est cor &amp; eius inhabitator est 
+       <lb ed="#B" n="47"/>anima: &amp; a corde est primum principium vitae &amp; motus &amp; sensus: quo vita manifestatur in viuen- 
+       <lb ed="#B" n="48"/>tibus, et in ipso vltimo deficiunt: et primo formatur: et post ipsum caetera membra quae fundan-  
+       <lb ed="#B" n="49"/>tur in ipso: vt lineae ductae ad circunferentiam in centro: et ab ipso oriuntur venae et arteriae quae  
+       <lb ed="#B" n="50"/>sunt delatrices in sanguine spirituum et virium animae ad caetera membra corporis: vt determinat 
+       <lb ed="#B" n="51"/>philosophus ibidem: idcirco secundum ius naturale magis nobile et principale membrum est cor 
+       <lb ed="#B" n="52"/>et corpus censendum est potius secundum fictionem iuris naturalis ibi esse sepultum, quam vbi sepul- 
+       <lb ed="#B" n="53"/>tum est caput: et reputari debet residui corporis sepultura absque corde fore fine decore. Vnde et po 
+       <lb ed="#B" n="54"/>tius censendum quod ibi resurget homo vbi cor sepultum est, delato ad cor toto residuo corporis: &amp; 
+       <!--798.xml-->
+       <pb ed="#B" n="379-r"/>
+        <lb ed="#B" n="1"/>eidem compaginato ibidem potius quam econuerso. vt enim dicitur Ezech. xxxvii. vbi loquitur pro- 
+       <lb ed="#B" n="2"/>pheta de resurrectione: in commotione diei nouissimae dicitur. Ecce commotio: &amp; accesserunt ossa 
+       <lb ed="#B" n="3"/>adossa, vnumquodque ad iunctuam suam: &amp; est illa iunctura in corde sicut in centro: in quo viget anima 
+       <lb ed="#B" n="4"/>&amp; a quo inchoatur motus animalium progressiuus, vt habitum est supra: &amp; sic secundum sictionem iu 
+       <lb ed="#B" n="5"/>ris naturalis potius censendum est corpus regis esse sepultum apud fratres quam apud monachos. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e624">
+       AD 
+       <lb ed="#B" n="6"/>quartum: quod secundum iura ciuilia princeps potest mutare tumulos &amp;c. Dicendum quod argumentum falsum 
+       <lb ed="#B" n="7"/>supponit: quia non inuenitur in iure ciuili quod princeps possit mutare rationabilem voluntatem defuncti, vel 
+       <lb ed="#B" n="8"/>totum corpus vel partem corporis alibi sepeliendo. Sed si corpus iam sepultum debet transferri de lo- 
+       <lb ed="#B" n="9"/>co ad locum: hoc debet fieri auctoritate principis vel rectoris prouinciae. &amp; glossa ordinaria exponit 
+       <lb ed="#B" n="10"/>id est papae vel episcopi. Et quicquid dicant de hoc iura ciuilia: hoc est contra iura canonica: quae distri- 
+       <lb ed="#B" n="11"/>cte prohibent ne personae saeculares disponant de rebus ecclesiasticis. Quare cum in omnibus rebus corpora- 
+       <lb ed="#B" n="12"/>libus nihil habet ecclesia pretiosius quam reliquias fidelium: quos omnes sanctos reputamus postquam in fide ca- 
+       <lb ed="#B" n="13"/>tholica decessisse creduntur: quia illas resurrecturas resurrectione gloriosa credimus resumptis anima-  
+       <lb ed="#B" n="14"/>bus: &amp; per animas gloria perfrui sempiterna: nihil ergo circa reliquias corporum fidelium defunctorum in  
+       <lb ed="#B" n="15"/>ecclesia vel in cimiterio sepultorum habent omnino principes disponere: nec corpora tumulata propria 
+       <lb ed="#B" n="16"/>auctoritate de tumulo in tumulum transmutando: sicut nec corpora non tumulata eorum qui certas se- 
+       <lb ed="#B" n="17"/>pulturas elegerunt, partiendo, &amp; diuersis ecclesiis ea tumulanda tradendo. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e653">
+       AD quintum. reges praedeces- 
+       <lb ed="#B" n="18"/>sores noui regis intestina praedecessorum suorum &amp; vxorum in longinquis partibus morientium partiri 
+       <lb ed="#B" n="19"/>consueuerunt &amp;c. Dicendum quod si decedentes elegerunt sepulturam pro corpore suo in certo loco: nisi ma 
+       <lb ed="#B" n="20"/>gna necessitate &amp; rationabili de causa intestina a corpore separare alibi sepeliendo nec debuerunt, nec 
+       <lb ed="#B" n="21"/>potuerunt, nec quaecumque consuetudo in hoc daret eis ius super hoc: quia non esset consuetudo sed cor- 
+       <lb ed="#B" n="22"/>ruptela: intromittendo se de rebus ecclesiasticis disponendis, nisi in casibus a iure vel ex priuilegio si 
+       <lb ed="#B" n="23"/>bi commissis. Quae rationabilis causa si superueniret: posset simul secundum quod superius tactum est, sepeli- 
+       <lb ed="#B" n="24"/>re in vna ecclesia intestina, vel in diuersis partiendo ea. Si tamen contingeret ea vel partem eorum aspor- 
+       <lb ed="#B" n="25"/>tare prope locum electum sepulturae corporis sui simpliciter, ius haberent &amp; habuissent personae illius 
+       <lb ed="#B" n="26"/>ecclesiae petendi asportatum: &amp; illi apud quos inuentum esset tenerentur restituere. Quia si aliquas expen- 
+       <lb ed="#B" n="27"/>sas in asportando fecissent: fortasse possent agere ad interesse: vel erga haeredem defuncti si suis expen 
+       <lb ed="#B" n="28"/>sis non fuisset asportatum, vel erga personas illius ecclesiae. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e680">
+       AD sextum quod intestina tota postquam data erant 
+       <lb ed="#B" n="29"/>fratribus ad tumulandum, sicut potuissent ea licite tumulasse nisi consilium mutatum fuisset: sic potue- 
+       <lb ed="#B" n="30"/>runt ea vel partem eorum vt cor deferre ad tumulandum vbi modo tumulatum est: Dicendum quod non est 
+       <lb ed="#B" n="31"/>verum: quia dicta intestina non fuerunt eis data nisi ad certum actum. scilicet tumulandi ibi: &amp; statim: &amp; 
+       <lb ed="#B" n="32"/>hoc propter eandem causam qua extracta sunt ex corpore. propter quod non potuerunt ea vel partem eo 
+       <lb ed="#B" n="33"/>rum deferre vel conferre ad alibi tumulandum. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e693">
+       AD septimum respondendum est per idem. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e696">
+       AD octauum pa 
+       <lb ed="#B" n="34"/>tet per idem &amp; per praedicta, quod reuera rex iuuenis potuit dare cor ad tumulandum vbi alia intestina 
+       <lb ed="#B" n="35"/>sunt tumulata: vel per se tumulandum in alia ecclesia ex rationabili tamen causa, vel simul cum aliis 
+       <lb ed="#B" n="36"/>intestinis: sed ad deferendum prope locum vbi pater suus elegerat corpori simpliciter suam sepultu- 
+       <lb ed="#B" n="37"/>ram, non potuit dare: quia tunc cessasset causa quare deberet alibi sepeliri ipsum aut alia intestina. si enim 
+       <lb ed="#B" n="38"/>possent deferri sine magno grauamine &amp; periculo: ipse tenebatur ea deferre vsque ad locum sepulturae 
+       <lb ed="#B" n="39"/>electae sicut dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e712">
+       AD nonum: quod abbatis &amp; monachorum consensus interuenit &amp; auctoritas su- 
+       <lb ed="#B" n="40"/>periorum: Dicendum resumendo secundum membrum distinctionis propositae in principio: quod si libera 
+       <lb ed="#B" n="41"/>lis consensus eorum interuenit &amp; auctoritas superiorum liberaliter: si tamen cum hoc habuerunt 
+       <lb ed="#B" n="42"/>auctoritatem conmutandi ordinationem defuncti: reuera licite factum est quicquid super cordis sepul- 
+       <lb ed="#B" n="43"/>tura factum est: nec ipsi tenentur cor restituere: nec monachi possunt aut tenentur ipsum repetere: 
+       <lb ed="#B" n="44"/>quia supponendum est quod si fecissent liberaliter, legitimam rationem dispensandi in hoc illi superiores 
+       <lb ed="#B" n="45"/>habuissent. aliter enim non fuisset legitime factum coram deo: &amp; periculum delicti immineret, siquod in  
+       <lb ed="#B" n="46"/>hoc esset commissum, illis superioribus, &amp; illis qui eos ad hoc induxerunt quicumque erant. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e730">
+       ET per hoc 
+       <lb ed="#B" n="47"/>respondendum est ad primam rationem quae dicit. Si quis autem in casu non concesso &amp; c. dicendo quod in  
+       <lb ed="#B" n="48"/>hoc verbo explicatur solutio: consensu enim libero partis interueniente &amp; superiorum dispensatione le- 
+       <lb ed="#B" n="49"/>gitima, faciunt casum in quo fratribus conceditur sepelire cor. 
+      </p>
+      <p xml:id="n3av8a-c1e3748-d1e739">
+       PER idem patet ad secundum: quod sub  
+       <lb ed="#B" n="50"/>trahens vnum de. x. quae legata sunt, tenetur istud restituere. Verum est nisi fiat de consensu illius 
+       <lb ed="#B" n="51"/>cui subtrahitur: &amp; hoc in rebus ecclesiae ex auctoritate superiorum super hoc potestatem habentium: si- 
+       <lb ed="#B" n="52"/>cut secundum positionem contingit in proposito. Si vero consensus abbatis &amp; monachorum fuit non libera 
+       <lb ed="#B" n="53"/>lis: sed coactus: &amp; metu amittendi bona iam habita: vel non adipiscendi bona adipiscenda: illicitum erat 
+       <lb ed="#B" n="54"/>coram deo quicquid erat factum, nisi superiores ex legitima causa habuissent potestatem in hoc mu 
+       <!--799.xml-->
+       <pb ed="#B" n="379-v"/>
+        <lb ed="#B" n="1"/>tandi voluntatem defuncti: etiam contra voluntatem abbatis &amp; monachorum. Potuerunt tamen per talia ver- 
+       <lb ed="#B" n="2"/>ba expressisse suum consensum: licet contrarium habuissent in mente: quod tali consensu adueniente au-  
+       <lb ed="#B" n="3"/>ctoritate superiorum, abbas &amp; monachi nullam forte haberent potestatem cor repetendi: neque fratres te 
+       <lb ed="#B" n="4"/>nerentur ipsum restituere. Dico quantum ad forum ecclesiae militantis: licet coram deo &amp; in conscien- 
+       <lb ed="#B" n="5"/>tiis totum est contrarium. Si vero fuisset consensus illorum omnino liberalis: &amp; non superuenisset auctori- 
+       <lb ed="#B" n="6"/>tas superioris: credo quod non valuisset consensus illorum in praeiudicium ecclesiae in cuius fauorem rex ele- 
+       <lb ed="#B" n="7"/>git sepulturam: &amp; tenerentur monachi repetere cor: &amp; propterea illi restituere. vt. xxiii. q. xii. Si is 
+       <lb ed="#B" n="8"/>qui. vbi dicitur. Ea quae in nobis committuntur facile possumus remittere: ea vero quae in deum sunt 
+       <lb ed="#B" n="9"/>commissa: cum magna discretione. vbi dicit glossa. Sed nunquid episcopus potest remittere iniuriam illatam 
+       <lb ed="#B" n="10"/>ecclesiae: Non credo quod possit solus episcopus remittere. Nam episcopus procurator dicitur ecclesiasti- 
+       <lb ed="#B" n="11"/>carum rerum. vt. xii. euoid i. c. vlti. Vnde cum sit procurator conditionum ecclesiae, non potest facere deteriorem 
+       <lb ed="#B" n="12"/>vt <ref xml:id="n3av8a-c1e3748-Rd1e782">extra. de donationibus. cid eti.</ref> quare multo minus nec abbas cum conuentu: &amp; sic tenerentur monachi 
+       <lb ed="#B" n="13"/>repetere cor: si tamen sine scandalo fieri posset. xxiii. qud iiii. Non potest. l. d. Vt constitueretur. Similiter si su 
+       <lb ed="#B" n="14"/>periores metu qui cadere potuit in constantem virum, inducti fuissent ad adhibendum consensum verbo 
+       <lb ed="#B" n="15"/>vel facto cordis sepulturae: non valuisset fratribus coram deo quin tenerentur restituere: licet forte ab ec 
+       <lb ed="#B" n="16"/>clesia superioribus habentibus ratum factum suum non cogerentur restituere: nec monachi possent repetere. 
+       <lb ed="#B" n="17"/>Quid autem super hoc veritatis sit, quo ad haec quae in mero facto consistunt: ipsi per quos actum est viderint.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

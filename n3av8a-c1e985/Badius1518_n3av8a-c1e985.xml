@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="54-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e985">
+      <head xml:id="n3av8a-c1e985-Hd1e96">Quaestio 6</head>
+      <p xml:id="n3av8a-c1e985-d1e99">
+       <!--148.xml-->
+       <pb ed="#B" n="54-r"/>
+       <lb ed="#B" n="1"/>CIrca Secundum arguitur: quod vegetatiuum &amp; sensitiuum in Christo erant educta de po i 
+       <lb ed="#B" n="2"/>tentia materiae non infusa cum intellectiua, quia <name ref="#Aristotle">philosophus</name> dicit quod solus intellectus ab  
+       <lb ed="#B" n="3"/>extrinseco est. Non ergo vegetatiuum &amp; sensitiuum. Forma autem non ab extrinseco edu 
+       <lb ed="#B" n="4"/>cta est de potentia materiae. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e985-d1e118">
+       CONtra. Christus quod semel assumpsit vniendo l 
+       <lb ed="#B" n="5"/>diuinae naturae suae de natura humana numquam dimisit, vt tenet sides: dimisisset autem 
+       <lb ed="#B" n="6"/>tempore mortis suae sensitiuum &amp; vegetatiuum, si fuissent educta de potentia materiae.  
+       <lb ed="#B" n="7"/>Probatio. quia si fuissent eductae de potentia materiae, non fuissent separatae cum intellecti- 
+       <lb ed="#B" n="8"/>uo, nec remansissent: quia tunc corpus eius fuisset viuum vita vegetatiua &amp; sensitiua: quod falsum est. ergo  
+       <lb ed="#B" n="9"/>fuissent corruptae. in corruptione autem eorum dimisisset ea diuinitas Christi. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e985-d1e131">
+       ITEM homo a 
+       <lb ed="#B" n="10"/>sensitiua dicitur animal, sicut ab intellectiua dicitur homo. Quia si sensitiuum esset ab intra, &amp; intellecti- 
+       <lb ed="#B" n="11"/>uum esset ab extra: sensitiuum esset in homine, sicut pars in toto. Pars autem de toto non praedicatur in recto: sed solum 
+       <lb ed="#B" n="12"/>in obliquo. Non ergo diceretur, quod homo est animal: sed quod animal est hominis. consequans est falsum. ergo &amp; anecedens.
+      </p>
+      <p xml:id="n3av8a-c1e985-d1e140">
+       <lb ed="#B" n="13"/>QVAEstio ista sicet proposita fuit de solo Christo, locum tamen habet aequaliter de quolibet homine. In qua pro l 
+       <lb ed="#B" n="14"/>culdubio <name ref="#Aristotle">philosophus</name> sentiebat, quod vegetatiuum &amp; sensitiuum sunt ab intra. Dicit enim in secundo de anima, quod sensitiui 
+       <lb ed="#B" n="15"/>prima immutatio est a generante. De intellectiuo autem iuxta expositionem sui Commentatoris, aut non sen- 
+       <lb ed="#B" n="16"/>tiebat quod esset forma &amp; actus corporis, sed solum motor sicut nauta nauis: aut intentionem suam super 
+       <lb ed="#B" n="17"/>hoc non expressit. Illud tamen expressit Auicenna tamquam de sua opinione, vt patebit in solutione tertii argumen 
+       <lb ed="#B" n="18"/>ti. Qui tamen ponebat expresse animas rationales multiplicari &amp; indiuiduari per corpora, vt habitum est in alio 
+       <lb ed="#B" n="19"/>Quolibet. &amp; sic, vt videtur, posuit animam rationalem esse formam &amp; actum corporis. Qui ponunt quod non est nisi 
+       <lb ed="#B" n="20"/>vnica forma in homine secundum substantiam, necesse habent dicere quod in homine nulla forma sit educta de potem 
+       <lb ed="#B" n="21"/>tia materiae: sed quod in eo non est nisi forma vnica ab extra infusa, quae virtute est totum: a qua habet esse 
+       <lb ed="#B" n="22"/>viuere, sentire, &amp; intelligere. Nos qui necesse habemus ponere quod anima intellectiua est forma &amp; actus cor 
+       <lb ed="#B" n="23"/>poris, vt in quadam quaestione dicetur inferius: &amp; quod praeter animam intellectiuam sit alia forma in homine educta 
+       <lb ed="#B" n="24"/>de potentia materiae: vt forma mixti, quae stat in forma carnis &amp; ossis: sicut determinatum est in quibusdam  
+       <lb ed="#B" n="25"/>aliis quaestionibus de Quolibet: sumus inter duo. Cum enim intentionis nostrae sit non ponere plures formas in  
+       <lb ed="#B" n="26"/>homine quam duas: vnam eductam de potentia materiae: alteram vero infusam ab extra: &amp; in homine necesse habemus 
+       <lb ed="#B" n="27"/>ponere ex parte formae suae vegetatiuum &amp; sensitiuum: aut necesse habemus ipsa ponere ex parte formae 
+       <lb ed="#B" n="28"/>eductae de potentia materiae vel eius quae infusa est ab extra: iuxta quaestionis intentionem. Sed quod vegetatiuum &amp; 
+       <lb ed="#B" n="29"/>sensitiuum ponere non debemus ex parte formae eductae de potentia materiae: vt ipsa credantur generata 
+       <lb ed="#B" n="30"/>de potentia materiae: sed ex parte formae infusae ab extra, vt credantur fieri in homine cum parte intelle- 
+       <lb ed="#B" n="31"/>ctiua per creationem: ad hoc nos compellit auctoritas &amp; ratio. Auctoritas etiam sacrae scripturae &amp; 
+       <lb ed="#B" n="32"/>sacrorum expositorum eius. Auctoritas scripturae hoc exprimit, vt videtur, cum dicit Gen. ii. For- 
+       <lb ed="#B" n="33"/>mauit deus hominem de limo terrae., hoc quo ad corpus. et sequitur quo ad animam: Et inspirauit in fa 
+       <lb ed="#B" n="34"/>ciem eius spiraculum vitae. per quid, vt videtur, insinuat quod in illa inspiratione recepit omnem actum vitae. Quod ex 
+       <lb ed="#B" n="35"/>parte sensitiuae explicat <ref xml:id="n3av8a-c1e985-Rd1e195">Augustinus, exponens illud in. ii. libro de Genesi contra Manichaeos</ref>. lpsi animae 
+       <lb ed="#B" n="36"/>sensus erat additus ista ex sufllatione cum factus est homo in animam viuentem: &amp; non solum vita sensus: sed  
+       <lb ed="#B" n="37"/>omnis actus vitae qui ab anima haberi potest, ista insufflatione infusus est. Aparte dicitur in libro de Ecclesiasticis 
+       <lb ed="#B" n="38"/>dogmatibus cap. xix. vbi etiam manifeste explicatur formatio corporis ad animae susceptionem. Dicitur enim ibi sic. 
+       <lb ed="#B" n="39"/>Aias hominum non esse ab initio inter caeteras intellectuales creaturas nec simul creatas, sicut Origenes 
+       <lb ed="#B" n="40"/>singit: neque cum corporibus per coitum seminantur, sicut Luciferianus &amp; <name>Cyrillus</name> &amp; aliqui latinorum praesum 
+       <lb ed="#B" n="41"/>ptores affirmant. Sed dicimus corpus tantum per coniugii copulam seminari: creationem vero animae solum cre- 
+       <lb ed="#B" n="42"/>atorem omnium nosse: dei vero iudicio corpus coagulari in vulua, &amp; compingi atque formari: ac formato iam 
+       <lb ed="#B" n="43"/>corpore animam creari &amp; infundi, vt viuat homo in vtero ex anima constans &amp; corpore, &amp; egrediatur viuus ex 
+       <lb ed="#B" n="44"/>vtero plenus humana substantia. Nec duas animas esse dicimus in vno homine, sicut Iacobus, &amp; alii Syrorum 
+       <lb ed="#B" n="45"/>scribunt: vnam animalem qua animetur corpus: &amp; immixta sit sanguini: &amp; aliam spiritalem quae rationem ministret. Sed  
+       <lb ed="#B" n="46"/>dicimus vnam esse eandemque animam in homine quae &amp; corpus sua societate viuificet &amp; semet ipsam sua 
+       <lb ed="#B" n="47"/>ratione disponat, habens in se libertatem arbitrii, vt in sua substantia eligat quod vult nemine cogente. 
+       <lb ed="#B" n="48"/>Solum hominem credimus habere animam substantiuam quae exuta corpore viuit, &amp; sensus suos atque inge 
+       <lb ed="#B" n="49"/>nia viuaciter tenet: non cum corpore moritur. Animalium vero animae non sunt substantiuae: sed cum car- 
+       <lb ed="#B" n="50"/>ne ipsa carnis viuacitate nascuntur, &amp; cum carnis morte finiuntur. Anima humana non cum carne moritur 
+       <lb ed="#B" n="51"/>quia non cum carne oritur: quia non in carne seminatur: sed formato in ventre matris corpore in-  
+       <lb ed="#B" n="52"/>funditur, vt viuat homo intus in vtero, &amp; sic procedat natiuitate in mundo. Duabus substantiis con 
+       <lb ed="#B" n="53"/>stat homo, anima tantum &amp; carne, anima cum ratione sua, &amp; carne cum sensibus suis. i. figuris organorum 
+       <lb ed="#B" n="54"/>sentiendi: quae anima adueniens perficit viribus sensitiuis. Vnde statim sequitur. Quos tamen sensus 
+       <!--149.xml-->
+       <pb ed="#B" n="54-v"/>
+       <lb ed="#B" n="1"/>absque animae societate non mouet caro. Hinc dicitur libro de spiritu &amp; anima. cap. xli. exponendo illud  
+       <lb ed="#B" n="2"/>Gen. ii. Inspirauit &amp;c. Corpora seruiente creatori creatura formantur: &amp; deo inspirante spiraculum vitae ani  
+       <lb ed="#B" n="3"/>mantur. Spiraculum vitae humanae, intelligentiam vocat: quam non producit terra vel aqua: sed deus inspi- 
+       <lb ed="#B" n="4"/>rat: quo sensus corporei animantur quo ad partem sensitiuam: sed &amp; organa nutritionis quo ad partem ve- 
+       <lb ed="#B" n="5"/>getatiuam. Vnde dicitur in eodem. xvii. cap. Habet anima vires, quibus corpori commiscetur: quarum prima 
+       <lb ed="#B" n="6"/>est naturalis: secunda vitalis: tertia animalis: &amp; per totum corpus diffunditur, non locali distensione, sed vita 
+       <lb ed="#B" n="7"/>li intensione. Naturalis virtus operatur in hepate sanguinem &amp; humores: vis ista quadrifaria est. Diuiditur 
+       <lb ed="#B" n="8"/>namque in appetitiuam, retentiuam, expulsiuam, &amp; distributiuam. Et patet manifeste quod ista sunt partes vegeta- 
+       <lb ed="#B" n="9"/>tiuae. Sic autem ad idem astruendum, videlicet quod vegetabile &amp; sensibile se tenent ex parte intellectus, nos com 
+       <lb ed="#B" n="10"/>pellit ratio: quoniam aparte experimur quod in actionibus virium animae vna alteram retrahit cum fuerit intensa 
+       <lb ed="#B" n="11"/>&amp; obiectum suum vna vt intellectiua ab altera vt a sensitiua abstrahit: &amp; vna alteram, vt sensitiua intelle 
+       <lb ed="#B" n="12"/>ctiuam, in actum ponit. Quod nullo modo esse posset nisi primum omnium earum in radice idem esset: sicut idem 
+       <lb ed="#B" n="13"/>in re quod primo est sensibile, postmodum per abstractionem fit intelligibile. Sic ergo in homine vegetati 
+       <lb ed="#B" n="14"/>uum &amp; sensitiuum infusa sunt cum intellectiuo, &amp; adueniunt composito ex materia &amp; forma naturali de 
+       <lb ed="#B" n="15"/>potentia materiae producta: de quo in alio Quolibet tactum est. Quod quidem non est natum per se in actu 
+       <lb ed="#B" n="16"/>subsistere, sicut neque materia nuda absque omni forma. immo sicut materia pura non habet esse in actu 
+       <lb ed="#B" n="17"/>nisi sub forma aliqua specifica, sic neque illud compositum ex materia &amp; forma natum est habere esse in actu 
+       <lb ed="#B" n="18"/>sub alia forma, sed sclum ab illa quae est ab extrinseco infusa: ad quam est materia in potentia mediante illa. 
+       <lb ed="#B" n="19"/>Vnde sicut in aliis compositis, in quibus est tantum vnica forma, fora dat esse materiae &amp; composito, vt habeat 
+       <lb ed="#B" n="20"/>esse suppositi: sic in hominc forma intellectus dat esse illi priori composito potentiali &amp; composito per- 
+       <lb ed="#B" n="21"/>fecto, quid cum illo constituit, vt habeat esse per se: &amp; per hoc est homo vere vnum in esse substantiali vno  
+       <lb ed="#B" n="22"/>ab vltima forma solummo, licet in ipso sint plures formae, a quibus specialiter denominatur: quia ambae sunt 
+       <lb ed="#B" n="23"/>substantiales. Vnum dico non simplicitate naturae, sed suppositi &amp; personalitatis, in qua substantialiter 
+       <lb ed="#B" n="24"/>vniuntur: propter quod non per accidens, sed per se de se inuicem praedicantur. Vnde dicitur in primo de spiritu &amp; anima. xl 
+       <lb ed="#B" n="25"/>cap. Carni ita vnitur anima, vt cum carne vna sit persona. sit autem auctore deo anima &amp; caro vnum indiuiduum  
+       <lb ed="#B" n="26"/>vnus homo. vnde salua vtriusque naturae proprietate adiicitur carni quod est animae, &amp; animae quod carnis 
+       <lb ed="#B" n="27"/>est, pro vnitate personae, non pro diuersitate naturae. Quod igitur ibidem singulis est proprium: conmune sit 
+       <lb ed="#B" n="28"/>amborum: proprium pro natura: commone pro persona. Et est ista coniunctio animae &amp; corporis in homine in vnitate 
+       <lb ed="#B" n="29"/>personae quam affert anima, conformis diuinitatis &amp; humanitatis in Christo in vnitate personae quan 
+       <lb ed="#B" n="30"/>affert diuina natura: praeter hoc quod hic anima sit forma corporis: non autem ibi diuinitas humani 
+       <lb ed="#B" n="31"/>tatis. Vnde multo verius possunt fieri communicationes &amp; denominationes in homine substan-  
+       <lb ed="#B" n="32"/>tialiter secundum vtramque naturam quam in Christo. Et quo ad informationem vnitas maior &amp; vnio in-  
+       <lb ed="#B" n="33"/>timior est illa diuersarum formarum in homine: quia vna ad alteram se habet vt in potentia ad in-  
+       <lb ed="#B" n="34"/>formationem, &amp; altera vt actus eius: quam diuersarum naturarum in Christo, in quo neutra se ha-  
+       <lb ed="#B" n="35"/>bet ad alteram per informationem: licet alia via maior sit ista vnio &amp; intimior quo ad illapsum di-  
+       <lb ed="#B" n="36"/>uinitatis cum humana natura. De conformitate autem huius compositi in homine, &amp; illius in Chri- 
+       <lb ed="#B" n="37"/>sto, dicitur in de spiritu &amp; anima. cap. xiii. Mira fsocietas carnis &amp; animae, spiritus vitae, &amp; limi terrae 
+       <lb ed="#B" n="38"/>sicut scriptum est. Fecit deus hominem de limo terrae, &amp; inspirauit in faciem eius spiraculum vitae: dans 
+       <lb ed="#B" n="39"/>ei sensum &amp; intellectum, vt per sensum lutum sibi sociatum viuificaret: &amp; per intellectum regeret: et 
+       <lb ed="#B" n="40"/>vt per intellectum intus ingrederetur et contemplaretur dei sapientiam: et per sensum foris egrederetur 
+       <lb ed="#B" n="41"/>et contemplaretur opera sapientiae. Plenum fuit miraculo quod tam diuersa et tam diuisa, adinuicem po- 
+       <lb ed="#B" n="42"/>tuerunt coniungi. Nec minus mirabile fuit quod limo nostro deus seipsum coniunxit: vt sibi inuicem vni 
+       <lb ed="#B" n="43"/>rentur deus &amp; limus: tanta sublimitas &amp; tanta vilitas. Propter istam similitudinem bene dicitur in  
+       <lb ed="#B" n="44"/>symbolo. Sicut anima rationalis &amp; caro vnus est homo: ita deus &amp; homo vnus est Christus. Vnde 
+       <lb ed="#B" n="45"/>Augustinus super lo. prima, per. ser. xlvii. Hominem interroga, &amp; de te ipso fac gradus ad ea quae super  
+       <lb ed="#B" n="46"/>te sunt: etsi nondum intelligendo saltem credendo. quomodo enim est vnus homo anima et corpus 
+       <lb ed="#B" n="47"/>sic vnus Christus verbum et homo. Anima et corpus duae res sunt: sed vnus homo: verbum et homo 
+       <lb ed="#B" n="48"/>duae res sunt: sed vnus Christus. Quia ergo arguitur Primo, quod solus intellectus est ab extra: dicendum  
+       <lb ed="#B" n="49"/>quod hoc Aristoteles intellexit ponendo vegetatiuum et sensitiuum educi de potentia materiae: vt dictum 
+       <lb ed="#B" n="50"/>est. Vel si ipse sicut et nos posuit vegetatiuum et sensitiuum infundi cum intellectu, et quod se tenent ex parte 
+       <lb ed="#B" n="51"/>intellectus: Dicendum quod aliquando intellectus nominat substantiam animae: aliquando vero vnam suarum potem 
+       <lb ed="#B" n="52"/>tiarum. Secundum quod nominat substantiam, solus intellectus ab extra est: &amp; non excludit vegetatiuum et sensitiuum, 
+       <lb ed="#B" n="53"/>quia sunt potentiae in eadem substantia cum potentia intellectiua. et sic intelligitur illud dictum philosophi. Si autem  
+       <lb ed="#B" n="54"/>nominat potentiam, sic excludit vegetatiuum et sensitiuum: nec sic habet intelligi. Sed si arguatur quod intel- 
+       <!--150.xml-->
+       <pb ed="#B" n="55-r"/>
+       <lb ed="#B" n="1"/>lectus solus separabilis est ab aliis sicut perpetuum a corruptibili: &amp; loquitur de potentia intellecti- 
+       <lb ed="#B" n="2"/>ua respectu aliarum: Dicendum quod verum est. Sed separari aliquid potest intelligi dupliciter, vel se 
+       <lb ed="#B" n="3"/>cundum substantiam &amp; actum vel operationem, vel secundum substantiam tantum: non autem secun 
+       <lb ed="#B" n="4"/>dum actum &amp; operationem. Primo modo solus intellectus hoc est potentia intellectiua, separabi- 
+       <lb ed="#B" n="5"/>lis est: quia ipsa sola separata a corpore potest in actum intelligendi, &amp; non sensus in actum sentien 
+       <lb ed="#B" n="6"/>di: &amp; vegetatiuum in actum vegetandi. vnde secundum substantiam suam solum manent quasi 
+       <lb ed="#B" n="7"/>in potentia &amp; in radice. Et hoc est quod scribitur in fine de spiritu &amp; anima. Anima sine carne 
+       <lb ed="#B" n="8"/>rationale suum tenet. Sensus autem qui in exteriori homine describuntur, simili modo secundum 
+       <lb ed="#B" n="9"/>modum suum in interiori esse manifestantur. 
+      </p>
+      <p xml:id="n3av8a-c1e985-d1e389">
+       ARgumentum secundum concedendum est: A 
+       <lb ed="#B" n="10"/>quia veritatem meram cuilibet fideli concludit. 
+      </p>
+      <p xml:id="n3av8a-c1e985-d1e394">
+       AD tertium respondendum, non propter conclu 
+       <lb ed="#B" n="11"/>sionem, sed propter formam argumenti: quia eodem medio posset concludere quod corpus non prae- 
+       <lb ed="#B" n="12"/>dicaretur substantialiter de homine: quia ab alia forma homo habet esse corpus &amp; homo, vt dictum 
+       <lb ed="#B" n="13"/>est, &amp; ita corpus est pars hominis: et dicendum: quod iuxta determinationem Auicennae in. v meta- 
+       <lb ed="#B" n="14"/>physicae suae, Corpus substantia vno mod dicitur materia hominis, &amp; pars: alio vero mod dicitur genus ho-  
+       <lb ed="#B" n="15"/>minis, &amp; totum. Et primo modo non praedicatur de ipso nisi in obliquo vt procedit obiectio. Secundo vero modo 
+       <lb ed="#B" n="16"/>bene praedicatur de ipso in recto. Corpus substantia, vt dicit, est subiectum habens longitudinem, &amp; spissitudinem 
+       <lb ed="#B" n="17"/>&amp; perfunditatem. Et potest considerari dupliciter. Vno modo, vt sumitur tamquam aliquod ens per suam essen- 
+       <lb ed="#B" n="18"/>tiam distinctum ab alio quod sibi est adiungendum, tamquam non inclusum in sua intentione, sed sustentatum in ipsa 
+       <lb ed="#B" n="19"/>&amp; additur illi. Sic corpus est materia. Alio vero modo potest considerari vt accipitur tamquam aliquod  
+       <lb ed="#B" n="20"/>ens non distinctum in natura sua &amp; essentia ab illo quod sibi adiungendum est: sed tanquam includens inde-  
+       <lb ed="#B" n="21"/>terminate in se illud adiungendum ei solum tamquam specificatum: non tamquam omnino extra, &amp; in illo susten 
+       <lb ed="#B" n="22"/>tatum. Sic corpus est genus. Genus enim inquantum est genus, indeterminatum quid est &amp; indesigna-  
+       <lb ed="#B" n="23"/>tum, expectans esse sui determinationem per differentiam in specie, &amp; designationem per suppositum sub ipsa 
+       <lb ed="#B" n="24"/>specie. Species autem inquantum species determinatum quid est per differentiam: indesignatum autem quo  
+       <lb ed="#B" n="25"/>ad suppositum. Suppositum autem sub specie determinatum quid est &amp; designatum. Vnde dicit Auicenna.  
+       <lb ed="#B" n="26"/>Cum genus accipitur secundum quod est genus, est adhuc quasi ignotum. Non enim scitur de qua for- 
+       <lb ed="#B" n="27"/>ma praedicetur, &amp; quas formas contineat: vnde anima intendit hoc acquirere, nondum enim stabilitum est 
+       <lb ed="#B" n="28"/>in effectu aliquod determinatum: sed quaerit anima addi aliquid quousque fiat in effectu aliquid. De na 
+       <lb ed="#B" n="29"/>tura autem speciei est quod non acquiritur acquisitio intentionis, sed designationis. De natura autem generis 
+       <lb ed="#B" n="30"/>est quod non erit animae possibile ponere illud esse aliquid, ita vt possit concedi esse quodcumque signatum: nisi postquam  
+       <lb ed="#B" n="31"/>adduxerit ei alias intentiones. nisi enim esset hic modus respectus in praedicatione speciei, natura gene 
+       <lb ed="#B" n="32"/>ris esset pars non praedicata. Corpus ergo primo modo quod est collectio substantiae compositae ex materia 
+       <lb ed="#B" n="33"/>&amp; forma corporeitatis substantialis: quae est secundum intentionem materiae: &amp; ita vt altera pars compositi 
+       <lb ed="#B" n="34"/>materia in homine expectat animam vt formam eius: nullo modo praedicatur de homine nisi in obliquo.  
+       <lb ed="#B" n="35"/>Corpus vero secundo modo est collectio ex materia &amp; forma, quae est corporeitas substantialis: non se- 
+       <lb ed="#B" n="36"/>cundum intentionem materiae expectans additionem animae tamquam formae extra intentionem suam existentm: sed  
+       <lb ed="#B" n="37"/>secundum intentionem formae purae sub esse indeterminato complectens intentionem formae animati qua ani  
+       <lb ed="#B" n="38"/>matum est, &amp; inanimati qua inanimatum est. Sic corpus est totum ad hominem &amp; ad omne imanimatum: simi 
+       <lb ed="#B" n="39"/>liter &amp; ad animatum. &amp; est genus vtriusque praedictatum de vtroque: non tamquam pars de toto: sed tamquam totum inde  
+       <lb ed="#B" n="40"/>terminatum de toto terminato. Et est omnino simile de composito naturae ex materia &amp; forma: ad ipsam 
+       <lb ed="#B" n="41"/>materiam eius, quae est in potentia ad compositum, vt generetur ex ipsa via naturae: &amp; de composito rationis spe 
+       <lb ed="#B" n="42"/>cie scilicet ex genere &amp; differentia ad ipsum genus quod est in potentia ad speciem, vt generetur ex ipso 
+       <lb ed="#B" n="43"/>via rationis. In generatione enim naturali, vt dicunt <name ref="#Aristotle">philosophus</name> &amp; Commentator. viii. metaphy 
+       <lb ed="#B" n="44"/>sicae, transmutatur illud quodest in potentia, donec fiat in actum sub agente scilicet sub extrahente ipsum  
+       <lb ed="#B" n="45"/>ex potentia in actum: &amp; translatio non largitur ei quod primo est in potentia multitudinem aliquid ad-  
+       <lb ed="#B" n="46"/>dendo ei omnino ab extra: sicut contingit in datione formarum: sed solummodo largitur ei persectionem 
+       <lb ed="#B" n="47"/>in esse: vt generatum sit compositum in actu per formam ex eo quod est in potentia tale. Et est quasi compositum  
+       <lb ed="#B" n="48"/>potentiale continens in potentia quicquid genitum continet in actum: vt compositum in actu de quasi composito 
+       <lb ed="#B" n="49"/>generetur scilicet de materia, non secundum id quid est, &amp; substantia quaedam differens per essentiam a forma: sed in  
+       <lb ed="#B" n="50"/>quantum est in potentia ad compositum, &amp; ad formam in ipso: per quam compositum habet esse in actum: &amp; materia si 
+       <lb ed="#B" n="51"/>militer. propter quod, totum est vnum in actum: licet sint in ipso differentia per essentia. scilicet materia &amp; forma. Vnde  
+       <lb ed="#B" n="52"/>dicit Commentator supe principium secundi de anima. Si materia &amp; forma essent in composito existentes 
+       <lb ed="#B" n="53"/>in actum: tunc compositum diceretur vnum, sicut dicitur vnum de rebus quae sunt secundum contactum &amp; li- 
+       <lb ed="#B" n="54"/>gamentum vnum. Nunc autem quia compositum non est ens in actum nisi per formam: tunc compositum dicitur 
+       <!--151.xml-->
+       <pb ed="#B" n="55-v"/>
+       <lb ed="#B" n="1"/>vnum quia sua forma est vna. Et per hunc modum non oportet quaerere: iuxta hoc quid dicit <name ref="#Aristotle">philosophus</name> in secundo de 
+       <lb ed="#B" n="2"/>anima: si vnum est anima &amp; corpus: quamquam scilicet contineant in se formam aliam per essentiam a forma animae: sicut ne 
+       <lb ed="#B" n="3"/>quod oportet quaerere si vnum sunt caera &amp; figura: neque omnino materia &amp; id cuius est materia. Cum enim vnum  
+       <lb ed="#B" n="4"/>&amp; esse dicuntur secundum potentiam &amp; actum, tamen quid proprie est, actus &amp; forma vltima est. Vnde quia corpus est 
+       <lb ed="#B" n="5"/>totum compositum ex materia &amp; forma quae disponit ad intellectum: quia id quod sunt non sunt nisi in potentia 
+       <lb ed="#B" n="6"/>ad intellectum, &amp; non sunt nata subsistere secundum se absque intellectum: sicut neque materia pura absque  
+       <lb ed="#B" n="7"/>forma, vt dictum est: nulli debet verti in dubium quin vnum ens per se sit homo compositus ex dicto 
+       <lb ed="#B" n="8"/>corpore &amp; anima intellectiua: sicut est compositum naturale ex vna materia &amp; vna forma. Et haec est 
+       <lb ed="#B" n="9"/>plana sententia philosophi in quaestione quam determinat, in fine scilicet octaui metaphysicae, de vnione animae cum 
+       <lb ed="#B" n="10"/>corpore: in qua errabant quidam dicentes animam vniri corpori per medium ligamentum. vbi dicit Commentator 
+       <lb ed="#B" n="11"/>Innuit quaestionem dicentem: quomodo est homo vnum: &amp; est compositus ex anima &amp; corpore quae sunt existentia 
+       <lb ed="#B" n="12"/>in actum: Omnis enim qui ponit quod anima &amp; corpus sunt duo diuersa, convenit ei dicere quid sit causa liga 
+       <lb ed="#B" n="13"/>menti animae cum corpore. Qui autem dicit quod anima est perfectio corporis, &amp; quod corpus non existit sine 
+       <lb ed="#B" n="14"/>anima: non sunt apud eum duo diuersa: nec accidit quaestio haec. Et causa deceptionis in hoc est, quia  
+       <lb ed="#B" n="15"/>ponunt idem quando est in potentia, &amp; quando est in actu diuersum, &amp; in rei veritate est vnum. 
+       <lb ed="#B" n="16"/>lllud enim quid fuit in potentia, est in actum: &amp; non sunt haec duo diuersa, &amp; anima cum corpore sunt vnum  
+       <lb ed="#B" n="17"/>sicut dicimus quod prima materia &amp; forma sunt vnum. Et si forsan non intelligant dictum suum nisi de 
+       <lb ed="#B" n="18"/>aliqua sensitiua nobili educta de potentia materiae qua dicunt hominem naturaliter reponi in specie ani 
+       <lb ed="#B" n="19"/>malis, procul dubio etiam dictum eorum verum est de anima intellectiua: nec est differentia nisi quod ipsa est 
+       <lb ed="#B" n="20"/>ab extra: non per agens naturale educta de potentia materiae, quantum est ex parte corporis &amp; materiae 
+       <lb ed="#B" n="21"/>quo ad eius potentialitatem: quam non est natum habere esse in actum nisi per formam intellectus: omnino est idem. Si 
+       <lb ed="#B" n="22"/>cut inquam, vt dictum est, convenit in generatione naturali de composito naturae ex materia &amp; forma, quod  
+       <lb ed="#B" n="23"/>scilicet idem quid prius est in potentia, sit in actu per agens: non autem aliud: sic conuenit in generatione  
+       <lb ed="#B" n="24"/>rationis de composito rationis ex genere &amp; differentia in specie. Genus enim id quod est in potentia, to 
+       <lb ed="#B" n="25"/>tum esse speciei vtriusque est continens in se scilicet vtramque differentiam sub esse indeterminato &amp; in potentia, &amp; 
+       <lb ed="#B" n="26"/>in actum, ita quod illud quod ei de differentia superuenit ad constitutionem speciei, sit aliquid in illo inde  
+       <lb ed="#B" n="27"/>terminato contentum in potentia: non vt omnino ab extrinseco adiunctum, &amp; quid est actu in ipsa specie solum 
+       <lb ed="#B" n="28"/>modo. Vnde dicit Auicenna: Si accipitur animal tali conditione, vt non sit in sua substantialitate nisi 
+       <lb ed="#B" n="29"/>corporeitas, vegetabilitas, &amp; sensibilitas: &amp; vt illud quod est post hoc, sit praeter ipsum non inclusm. scilicet indeter  
+       <lb ed="#B" n="30"/>minate in eius intentione: tunc non erit longe quin sit materia homini &amp; subiectum: cuius forma est 
+       <lb ed="#B" n="31"/>anima rationalis. Si vero accipitur animal tali conditione vt sit corpus ex intentione qua corpus est genus, in in-  
+       <lb ed="#B" n="32"/>tentione cuius corporis secundum potentiam sit sensibilitas, &amp; caeterae formae, quamuis sit de illis rationabilitas vel 
+       <lb ed="#B" n="33"/>differentia opposita rationabilitati: non apta remouere aliquid ab eo: sed sit possibile esse quodlibet 
+       <lb ed="#B" n="34"/>eorum: &amp; sic necesse esse cum illis potentiam recipiendi nutrimentum &amp; sensum &amp; motum: tunc animal erit 
+       <lb ed="#B" n="35"/>ex intentione generis: &amp; sic homo inquantum est species rationis, non vere dicitur esse corpus, animal bipes 
+       <lb ed="#B" n="36"/>&amp; rationale. Sic enim non esset vnus: sed plure. scilicet corpus animal bipes &amp; rationale: sed est corpus quid est 
+       <lb ed="#B" n="37"/>animal, quid est bipes, quid est rationale, vt vult <name ref="#Aristotle">philosophus</name> in. viii. metaphysicae. Ex quo patet quomodo genus sumitur 
+       <lb ed="#B" n="38"/>a materia: quia ab eo quod est potentiale ad duas oppositas differentias quibus perficitur: nec restat ad  
+       <lb ed="#B" n="39"/>genus rationis si in natura sit in potentia materiae: vt de ipsa vtraque earum educatur. Quemadmodum  
+       <lb ed="#B" n="40"/>corpus a quo sumitur genus, est in potentia ad formam inanimati in lapide, &amp; animati in planta. Dum tamen 
+       <lb ed="#B" n="41"/>quantum est de se sit in potentia: vt per vtramque differentiarum natum sit perfici in esse naturae: quemadmodum  
+       <lb ed="#B" n="42"/>corpus quid est genus, est in potentia ad formam irrationabilitatis educendam de potentia materiae in subie- 
+       <lb ed="#B" n="43"/>cto: &amp; ad formam rationabilitatis infundendam ab extra: vt in homine. Vnde etsi est non sit aliquid materiale in esse 
+       <lb ed="#B" n="44"/>naturae, quod natum est perfici duplici differentia: sufficit tamen secundum quosdam ad rationem generis quod sit in poten- 
+       <lb ed="#B" n="45"/>tia in esse rationis. &amp; secundum hoc ponunt rationem generis in substantiis separatis. Sed quomodocumque res se ha 
+       <lb ed="#B" n="46"/>beat, verior est ratio generis quod sumitur ab aliquo materiali nato perfici in esse naturae per vtramque differem 
+       <lb ed="#B" n="47"/>tiam: sicut convenit in linea corporalium: vel quid sumitur ab aliquo nato perfici in esse naturae per vnam differentiam in  
+       <lb ed="#B" n="48"/>vno latere &amp; non in alio, quemadmodum contingit in substantia, inquantum genus est ad corporalia &amp; incorpo 
+       <lb ed="#B" n="49"/>ralia. Adhuc verior est ratio generis quod sumitur ab aliquo materiali nato perfici in esse naturae per 
+       <lb ed="#B" n="50"/>vtramque differentiam eodem genere potentiae, &amp; eodem modo: sicut contingit in corpore corruptibili, quod vbique  
+       <lb ed="#B" n="51"/>se habet conuertibiliter, vt id ipsum quod est in potentia ad vnam differentiam, sit in potentia ad aliam, &amp; 
+       <lb ed="#B" n="52"/>eodem modo: quemadmodum corpus generabile &amp; corruptibile simplex est genus ad terram &amp; aquam: quia 
+       <lb ed="#B" n="53"/>quod est in potentia aqua, est in potentia terra, &amp; forma vtriusque via naturalis generationis educitur 
+       <lb ed="#B" n="54"/>de potentia materiae: quam sit ratio generis eius quid sumitur ab aliquo materiali nato perfici in esse naturae  
+       <!--152.xml-->
+       <pb ed="#B" n="56-r"/>
+       <lb ed="#B" n="1"/>per vtramque differentiam alio &amp; alio genere potentiae: sicut contingit in corpore corruptibili &amp; incorruptibili: 
+       <lb ed="#B" n="2"/>quia quod est in natura in potentia ad vnam differentiam, non est in potentia ad aliam: &amp; sunt eodem di-  
+       <lb ed="#B" n="3"/>uersi modi potentiarum omnino. Et sicut contingit in corpore elementari mixto, quod est in potentia ad diffe 
+       <lb ed="#B" n="4"/>rentiam rationalis &amp; irrationalis: sed non eodem modo: quia ad differentiam irrationalis tamquam ad illam quae de 
+       <lb ed="#B" n="5"/>se educenda est, vt de potentia materiae: ad differentiam vero rationalis tamquam ad illam quae ab extrinseco in  
+       <lb ed="#B" n="6"/>fundenda est. &amp; sic non est tanta vniuocatio corporis quod est genus, super hominem &amp; alia animata: quan 
+       <lb ed="#B" n="7"/>ta super alia animata secundum se: neque similiter animalis super hominem &amp; bruta, quanta est supe ipsa bru- 
+       <lb ed="#B" n="8"/>ta secundum se. quia sensibile omnino est alterius generis quo ad rem naturae in qua fundatur in homine 
+       <lb ed="#B" n="9"/>&amp; in brutis. In brutis autem est vnius rationis. Vnde &amp; secundum opinionem quae dicit quod anima intellecti 
+       <lb ed="#B" n="10"/>ua est vnica forma in homine: per quam est corpus substantia &amp; caetera omnia: multo maior est aequi-  
+       <lb ed="#B" n="11"/>uocatio corporis supe hominem &amp; super alia corporalia quam secundum nos qui ponimus formam corporeitatis 
+       <lb ed="#B" n="12"/>vniuoce educi de potentia materiae in homine sicut &amp; in aliis. Sic ergo patet quomodo homo in esse 
+       <lb ed="#B" n="13"/>naturae constitutus ex corpore &amp; anima, non est vnus in tanta simplicitate essentiae: in quanta sunt alia:  
+       <lb ed="#B" n="14"/>uis sit in tanta simplicitate personae &amp;esse actualis existentiae. Quoniam in hoc homine sunt tria re &amp; essentia 
+       <lb ed="#B" n="15"/>diuersa: materia. scilicet fora naturalis: &amp; forma supernaturalis. In aliis vero duo trim. scilicet materia &amp; forma na 
+       <lb ed="#B" n="16"/>turalis. Similiter homo constitutus in esse rationis ex animali irraonnali tamquam species ex genere, vnus est 
+       <lb ed="#B" n="17"/>in tanta vnitate speciei in quanta sunt aliae species rerum naturalium: &amp; tanta est vnitas definitionis eius in  
+       <lb ed="#B" n="18"/>esse rationis, inquantum. scilicet id quod praecedit vltimam differentiam in definitione, est ens in potentia, de non est ens in  
+       <lb ed="#B" n="19"/>actum, nisi per vltimam differentiam, vt dicit <name ref="#Aristotle">philosophus</name> in. vii metaphysicae. &amp; expressius Commentator ibidem, quauis non  
+       <lb ed="#B" n="20"/>sit tanta vniuocatio generis alicuius super speciem hominis, &amp; aliorum, quanta sit super alia secundum se, vt dictum est 
+       <lb ed="#B" n="21"/>Bene ergo dicitur in recto quod homo est corpus, sicut diceretur quod est animal, etiam si sensibile in eo esset de 
+       <lb ed="#B" n="22"/>potentia materiae eductum. &amp; praedicatur totum de toto esse rationis, non pars de toto, vt dictum est. Nec du  
+       <lb ed="#B" n="23"/>bitat aliquis, nisi qui ignorat differentiam inter genus &amp; materiam.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

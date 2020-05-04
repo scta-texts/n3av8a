@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 17</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 17</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="552-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5287">
+       <head xml:id="n3av8a-c1e5287-Hd1e96">Quaestio 17</head>
+       <p xml:id="n3av8a-c1e5287-d1e99">
+        <lb ed="#B" n="29"/>Irca quintum arguebatur: quod caeteris paribus maioris perfectionis esset viuere de labore 
+       <lb ed="#B" n="30"/>manuum quam de euangelio aut de mendicitate: quia per hoc repelluntur perseudo. ii. Corinth. 
+       <lb ed="#B" n="31"/>xi, non grauantur subditi &amp; ad bonum prouocantur suo exemplo. Act. xx. &amp;. ii. Thessa. iii. &amp; 
+       <lb ed="#B" n="32"/>a malo reuocat. i. Corinth. ix. &amp; vt haberet vnde viueret: &amp; vt vnde viuerent infirmis 
+       <lb ed="#B" n="33"/>ministraret. Actu. xx. propter hoc. no conmendat <name ref="#Augustine">Augustinus</name> Paulum super caeteros apostolos qui vixe 
+       <lb ed="#B" n="34"/>runt de euangelio: &amp; super multitudinem credentium quae tunc vixit de mendicitate. ergo &amp;c. 
+       <lb ed="#B" n="35"/>Quia de euangelio viuere sit perfectius: arguitur: quia per hoc expeditius &amp; sine impedimento exequitur opus euan- 
+       <lb ed="#B" n="36"/>gelizandi. tempore enim laboris &amp; mendicationis non potest homo vacare euangelio: &amp; sic ab illo retraherentur. Quia viue 
+       <lb ed="#B" n="37"/>re de mendicitate sit perfectius arguitur: quia in hoc imitatur Christus qui dixit in psal. Ego mendicus sum. Glos. Dicit 
+       <lb ed="#B" n="38"/>de seipso. Item in hoc est maxima humiliatio, &amp; ita maxima perfectio. Philip. ii. Humiliauit semet ipsum. Omissis 
+       <lb ed="#B" n="39"/>illis qui non laborant, neque volunt laborare propter otii solatium: vt sunt validi mendicantes, qui nec seruiunt euam 
+       <lb ed="#B" n="40"/>gelio, nec diuinae contemplationi insistunt, quibus malum est non laborare, &amp; non de labore viuere: &amp; quibus non 
+       <lb ed="#B" n="41"/>licet mendicare: nec debet eis eleemosyna dari: dicente <name ref="#Augustine">Augustinus</name> in epistola ad Vincentium. &amp; habetur. v. q. v. Non  
+       <lb ed="#B" n="42"/>omnis. Vtilius esurienti panis tollitur si de cibo securus iustitiam negligat, quam esurienti panis frangitur vt iniustitiae 
+       <lb ed="#B" n="43"/>seductus acquiescat. &amp; hoc vt dicit in fine de opere Monacho. ne peruersa misericordia magis eorum futurae 
+       <lb ed="#B" n="44"/>vitae noceat quam praeseti subueniat. Vel qui non laborant, neque de labore viuere volunt propter opulentiae praesidium, nec 
+       <lb ed="#B" n="45"/>euangelio seruiunt, nec contemplationi vacant: quibus licitum est non laborare: sed non licet eos mendica- 
+       <lb ed="#B" n="46"/>re. Vnde Hiero. ad Damasum Papam: &amp; habetur. xvi. quid i. Quoniam quicquid. Qui bonis parentum &amp; opibus sustenta 
+       <lb ed="#B" n="47"/>ri possunt, si quid pauperum est, accipiunt, sacrilegium incurrunt &amp; committunt: &amp; per abusum talium iudicium sibi 
+       <lb ed="#B" n="48"/>manducant &amp; bibunt. Vnde nec talibus eleemosyna danda est. dicente eodem ad Demetri. Da pauperibus 
+       <lb ed="#B" n="49"/>non diuitibus, non propinquis, non ad luxuriam: sed ad necessitatem: siue ille sit sacerdos siue cognatus si 
+       <lb ed="#B" n="50"/>ue vicinus: nihil in illo aliud consideres quam paupertatem. talibus autem perfectius esset de labore viuere. dicente 
+       <lb ed="#B" n="51"/>eodem ad eandem. Nec idcirco tibi ab opere cessandum est: quia deo propitio nulla re indiges: sed ideo cum omni- 
+       <lb ed="#B" n="52"/>bus laborandum est: vt per occasionem operis nihil aliud cogites quam quid ad domini pertinet seruitutem. Simpliciter lo 
+       <lb ed="#B" n="53"/>quor: quamuis omnem censum tuum in pauperes distribuas, nihil apud deum erit praetiosius, quam quid manibus tuis 
+       <lb ed="#B" n="54"/>ipsa confeceris, vel in vsus, proprios, vel in exemplum virginum caeterarum. Vel qui non laborant nec de labore  
+       <!--1144.xml-->
+       <pb ed="#B" n="552-r"/>
+        <lb ed="#B" n="1"/>viuunt propter corporis debilitatem: nec euangelio seruiunt etiam si saeculares &amp; de statu contemplantium non sint. ta 
+       <lb ed="#B" n="2"/>libus. enim non esset bonum laborare, nec de euangelio viuere debent. Vnde nihil est eis melius quam viuere de mendici 
+       <lb ed="#B" n="3"/>tate: &amp; talibus praecipue dandae sunt eleemosynae, maxime quando parati sunt laborare, &amp; victum acquirere pro posse suo 
+       <lb ed="#B" n="4"/>dicente <name ref="#Augustine">Augustinus</name> de opere mona. Proptur occupationes seruorum dei vel infirmitates corporales quae omnino deesse non 
+       <lb ed="#B" n="5"/>possunt, non solum permittit apostolus sanctorum indigentias suppleri a bonis fidelibus: sed etiam saluberrime hor 
+       <lb ed="#B" n="6"/>tatur. Sub dicta autem infirmitate etiam comphendo operandi insolentiam vel imperitiam. Si vero habens corporis infir 
+       <lb ed="#B" n="7"/>mitatem alias euangelio seruit, perfectius est tali viuere de euangelio quam de labore vel de mendicitate: qualis erat 
+       <lb ed="#B" n="8"/>Timotheus. de quae dicit Aug.s ibidem supra. Timotheum quem sciebat corpore infirmum: quia in opere manuali labo 
+       <lb ed="#B" n="9"/>rare non potuit: ne forte cum indigeret &amp; nollet vti victu quotidiano ab eis quibus euangelium mistrabat, ali 
+       <lb ed="#B" n="10"/>qua sibi negotia quaereret quibus animi eius implicaretur intentio, Paulus sic hortatur scilicet Nemo militans deo &amp;c. 
+       <lb ed="#B" n="11"/>Hic ne angustias pateretur dicens: Fodere non valeo: mendicare confundor: adiuxit. Laborantem agricolam &amp;c. 
+       <lb ed="#B" n="12"/>vt intelligeret necessarium sibi sumere ab illis quibus militabat, non esse mendicitatem sed potestatem. Nec tantum 
+       <lb ed="#B" n="13"/>ad opus manuale infirmos aegritudine corporis reputamus inidoneos: sed etiam dissuetudinem operandi 
+       <lb ed="#B" n="14"/>habentes &amp; imperitiam. de quibus dicit Aug. ibidem. Siqui saltem habebant aliquid in saeculo quo facile fine opifi- 
+       <lb ed="#B" n="15"/>cio sustentarentur, &amp; conuersi ad dominum indigentibus dispertiti sunt, &amp; credenda eorum infirmitas est &amp; ferenda 
+       <lb ed="#B" n="16"/>solent enim tales non melius sicut multi putant, sed quod est verum languidius educati laborem operum corpo 
+       <lb ed="#B" n="17"/>ralium sustinere non posse. &amp; sic talibus melius est mendicare. Si tamen quoquo modo possunt, perfectius est se labori 
+       <lb ed="#B" n="18"/>exponere. dicente Aug. ibidem. Illi qui relicta vel distributa opulentia inter pauperes Christi numerari voluerunt 
+       <lb ed="#B" n="19"/>quamquam tam magnum deferentibus vicem sustinendae vitae eorum res ipsa &amp; fraterna charitas debeat, tamen si et ipsi 
+       <lb ed="#B" n="20"/>manibus operentur, vt pigris auferant excusationem, multo misericordius agunt quam cum omnia sua indigenti- 
+       <lb ed="#B" n="21"/>bus diuiserunt. Quia si nolunt, quis audeat cogere: quibus tamen inuenienda sunt opera in monasterio etiam si corporali 
+       <lb ed="#B" n="22"/>functione liberiora: sed vigilanti administratione curanda sunt: vt nec ipsi panem suum quoniam comomnis iam factus 
+       <lb ed="#B" n="23"/>est, gratis manducent. Omissis igitur praedictis tribus generibus hominium, nunc dicendum de validis qui ratione status pro-  
+       <lb ed="#B" n="24"/>priis rebus carere debent, &amp; diuinis operibus vacare: vt non quaerant otium sicut primi, nec habere proprium si 
+       <lb ed="#B" n="25"/>cut secundi, nec sunt infirmi sicut tertii. qui quidem validi sunt praelati ecclesiae &amp; religiosi. Praelati quidem qui soli 
+       <lb ed="#B" n="26"/>potestatem habent viuere de euangelio: qui &amp; possunt viuere de labore aut de mendicitate: quia vt dicit Au 
+       <lb ed="#B" n="27"/>gust. de opere mona, quae dicta sunt quod de euangelio viuerent non iussa sed permissa sunt. Et vt dicit contra 
+       <lb ed="#B" n="28"/>Adimantium, quod ait Despens, Nolite portare aurum neque argentum neque nummos in zonis vestris, non ista iussa: sed  
+       <lb ed="#B" n="29"/>permissa esse apostolis, ex hoc intelligitur quod apostolus Paulus manibus suis operatus victum quaerebat: ad hoc dixit omnia 
+       <lb ed="#B" n="30"/>illa ne portarent: vt vbi opus esset ab eis acciperent qui annunciabant regnum dei in militia vestra, nec in  
+       <lb ed="#B" n="31"/>crastinum cogitaremus: quia non propter ista temporalia quae pertinent ad crastinum: sed propter illa sempiterna vbi est 
+       <lb ed="#B" n="32"/>semper hodiernus. Religiosi quidem qui non habent potestatem viuendi de euangelio tantum vt spirialiliter operantes man- 
+       <lb ed="#B" n="33"/>ducent panem suum a corporali labore gratuitum: qualem potestatem viuendi de euangelie scilicet habent praelati ecclesiae 
+       <lb ed="#B" n="34"/>maiores &amp; minores eis datam in apostolis &amp; discipulis secundum <name ref="#Augustine">Augustinus</name> de opere mona. sed solummo habent potesta 
+       <lb ed="#B" n="35"/>tem viuendi de labore, aut de mendicitate: vt sic restringatur quaestio ad illos qui sunt in statu perfectionis exercendae: 
+       <lb ed="#B" n="36"/>vt sunt praelati: siue in statu perfectionis generandae: vt sunt religiosi, &amp; quicumque viuunt de bonis communibus 
+       <lb ed="#B" n="37"/>ecclesiae. Et videtur mihi hic in primis distinguendum esse de non labore siue de non laborantibus neque viuenti- 
+       <lb ed="#B" n="38"/>bus de labore. dico manuum. de quo loquitur <name ref="#Augustine">Augustinus</name> libuo de opere mona. circa existentes in statu perfectionis generandae qui  
+       <lb ed="#B" n="39"/>sunt religiosi, sic in persona illorum dicens in principio libro Non de opere corporali: in quo vel agricolae vel opi- 
+       <lb ed="#B" n="40"/>fices laborant: praecepit Apostolus. i. Thess,. Qui non vult operari non manducet, non enim potest esse contrarius euangelio: 
+       <lb ed="#B" n="41"/>vbi ait dominus Matth. S. Ne solliciti sitis &amp;c. vt nos curis opificum oneraret, quaeproptur opera spiritalia debemus 
+       <lb ed="#B" n="42"/>accipere &amp;c. Et respondens eis <name ref="#Augustine">Augustinus</name> subdit. Superflue conantur sibi &amp; caeterl caliginem obducere. &amp; infra. Denunciamus 
+       <lb ed="#B" n="43"/>inquit, quoniam si quis non vult operari non manducet. audiuimus. n quaosdam ambulare inter vos inquiete nihil operantes &amp;c. 
+       <lb ed="#B" n="44"/>Quid ad haec dici potest: de talibus inquam qui quantum est in se parati sunt laborare: tamen propter maius meritum in di 
+       <lb ed="#B" n="45"/>uino opere spiritali laborare. scilicet corporaliter omittunt: Distinguo: quod quidam horum non laborant propter contemplationis 
+       <lb ed="#B" n="46"/>complementum vt contemplatiui: quidam propter proximorum negotium: vt praelati actiui. Et de primis distinguo: quia  
+       <lb ed="#B" n="47"/>aut sunt tales quod ex se exercere possint multiplici genere contemplationis quae sunt lectio oro &amp; meditatio: vt 
+       <lb ed="#B" n="48"/>cum lassati fuerint in vno, mutatione laboris refocillentur in alio: &amp; sic persistere possint in continuo exercitio 
+       <lb ed="#B" n="49"/>contemplationis, aut non. Et de primis iterum distinguo: quia tales aut victum suum minori sollicitudine acquirerent 
+       <lb ed="#B" n="50"/>mendicatione aut manuum labore, aut econverso. Et dico quod semper maioris perfectionis est acquirere victum mi 
+       <lb ed="#B" n="51"/>nori sollicitudine in istis: &amp; similiter si comparentur labores manuum inter se: &amp; similiter si mendicitates comparentur 
+       <lb ed="#B" n="52"/>inter se, semper maioris perfectionis est acquirere victum suum illo modo in quo est minor sollicitudo: &amp; secundum 
+       <lb ed="#B" n="53"/>vtrumque modum quaerendi paucissimis debent esse contenti: quia minor est sollicitudo in quaerendo pauca quam  
+       <lb ed="#B" n="54"/>multa. vnde de talibus in quaerendo victum mendicitate dicit <name ref="#Augustine">Augustinus</name> de moribus ecclesiae. Secretissimi ab omnium hominium 
+       <!--1145.xml-->
+       <pb ed="#B" n="552-v"/>
+        <lb ed="#B" n="1"/>aspectu pane solo qui eis per certa interualla temporum affertur, &amp; aqua contenti desertissimas terras inco- 
+       <lb ed="#B" n="2"/>lunt perfruentes colloquio dei, cui puris mentibus inhaeserunt, &amp; eius pulchritudinis contemplatione beatis 
+       <lb ed="#B" n="3"/>simi. De aliis vero qui quaerunt victum manuum labore, dicit ibidem. Sed si hoc excedit nostram tolerantiam, quis 
+       <lb ed="#B" n="4"/>non illos miretur qui contemptis mundi huius illecebris, in conmunem vitam castissimam &amp; sanctissimam congregati si 
+       <lb ed="#B" n="5"/>mul aetatem agunt viuentes in oronibus, in lectionibus, &amp; in disputationibus, nulla superbia mundi, nulla parui 
+       <lb ed="#B" n="6"/>cacia turbulenta, nulla immunditia liuidi: sed modesti verecundi pacati concordissimam vitam intentissimam 
+       <lb ed="#B" n="7"/>in deum gratissimum munus ipsi offerunt: neque quisquam possidet, proprium: nemo cuiquam onerosus est: operantur ma 
+       <lb ed="#B" n="8"/>nibus ea quibus &amp; corpus pasci possit, &amp; a deo animus impediri non possit &amp;c. Caeteris autem paribus quae perti 
+       <lb ed="#B" n="9"/>nent ad sollicitudinem in quaerendo victum labore vel mendicitate, semper in talibus perfectius est 
+       <lb ed="#B" n="10"/>quaerere victum labore manuum quam mendicitate: vt patet supra secundum Hierony. ad Demetria- 
+       <lb ed="#B" n="11"/>dem. &amp; secundum Augustinusm de forti muliere. Operari carne, &amp; non spiritu, vtile non est: operari autem spiri 
+       <lb ed="#B" n="12"/>tu &amp; non carne, pigrorum est. Vnde secundum Hiero. ad Heliodorum, apud graecos <name ref="#Aristotle">philosophos</name> ille laudatur qui omne quo  
+       <lb ed="#B" n="13"/>vtebatur manu sua factum gloriatus est. Propter quid dicitur in Psal. Labores manuum tuarum quia m. b. e. &amp;. bt. e. 
+       <lb ed="#B" n="14"/>In quo casu intelligo illud dictum <name ref="#Augustine">Augustinus</name> de opere mona. Quid agant, quando operari corporaliter nolunt, cui rei va 
+       <lb ed="#B" n="15"/>cent scire desidero. Oroni inquiunt psalmis lectioni &amp; verbo dei. sancta plane vita: sed si ab his auocam 
+       <lb ed="#B" n="16"/>di non sumus: nec manducandum est: nec ipsae escae quotidie sperandae. Si autem ad ista vacare seruos dei cer- 
+       <lb ed="#B" n="17"/>tis interuallis temporis necessitas cogit: cur non &amp; praeceptis apostolicis obseruandis aliquas partes temporum 
+       <lb ed="#B" n="18"/>deputemus: Si autem contemplatiui non sunt tales vt possint stare in continuo exercitio contemplationis, distin- 
+       <lb ed="#B" n="19"/>guo: quod aut alii confortes talium qui possunt stare in continuo studio contemplationis indigent continuo auxilio 
+       <lb ed="#B" n="20"/>tempore vacationis suae, aut non. Si sic, distinguendum est vt iam supra distinctum est de illis, &amp; eodem modo defi 
+       <lb ed="#B" n="21"/>niendum. Si non, dico quod perfectius esset talibus laborare manibus quam mendicare. Hic dicit Hiero. ad Ru- 
+       <lb ed="#B" n="22"/>sticum. Fac aliquid operis: vt semper diabolus te inueniat occupatum, manus operetur cibum, &amp; animus lectione satu- 
+       <lb ed="#B" n="23"/>retur. In desideriis est omnis otiosus. Aegyptiorum monasteria hunc morem tenent: vt nullum absque opere &amp; labore 
+       <lb ed="#B" n="24"/>suscipiant: non tam perper victus necessaria qua perper animae salutem ne vagetur. &amp; <name ref="#Augustine">Augustinus</name> de opere mo. Cum ad Titum scriberet 
+       <lb ed="#B" n="25"/>CAplstolsc.lic dicens. Xenam legisperitum &amp; Apollo sollicite praemitte: vt nihil illis desit: vt oninderet vnde nihil de 
+       <lb ed="#B" n="26"/>esse deberet continuo subiumxit. Discant autem &amp; vri bonis operibus praeesse ad necessarios vsus ne sint infructuo 
+       <lb ed="#B" n="27"/>si. Et hoc est vt caeteri fratribus non laborantibus de labore illorum necessaria mistrentur, &amp; siquid desit a fidelibus 
+       <lb ed="#B" n="28"/>mendicatione suppleatur. dicente <name ref="#Augustine">Augustinus</name> de opere mona. Suppleatur ex oblationibus bonorum fidelium quod labo-  
+       <lb ed="#B" n="29"/>rantibus &amp; aliquid vnde victum transigant operantibus propter infirmitates aliquorum corporales &amp; propter ecclesiasti- 
+       <lb ed="#B" n="30"/>cas occupationes vel eruditionem doctrinae salutaris, deesse putauerint. &amp; infra. Ad hoc enim illa bona 
+       <lb ed="#B" n="31"/>opera fidelium subsidio supplendorum necessariorum deesse non debent: vt ii a quibus ad erudiendum animum ita va 
+       <lb ed="#B" n="32"/>catur: vt illa corporalia geri non possint, non opprimantur egestate. Et sic viuere communitatem de labore aliquorum  
+       <lb ed="#B" n="33"/>inter illos, puto esse perfectius quam viuere de quacumque mendicitate vel quotidie prouidenda, de quali vi 
+       <lb ed="#B" n="34"/>uunt aliqui religiosi, vel hactenus per deuotionem populi prouisa, de quaeli viuunt monachi &amp; canonici. Illo enim 
+       <lb ed="#B" n="35"/>modo viuere de labore: etiam non laborantibus, non est viuere de mendicitate: quia omnia eorum facta sunt commnia 
+       <lb ed="#B" n="36"/>dicente Beato Aug. ibidem. Quo animo debet esse in republica sua ciuis caelestis: nisi vt id ipsum quid propriis 
+       <lb ed="#B" n="37"/>manibus elaborat, commune habeat cum fratre: &amp; si quid ei defuerit, de communi suppleat: Vnde secundum 
+       <lb ed="#B" n="38"/>hunc modum illi quibus apostoli, &amp; discipuli qui erant de illa communitate, cuius erat cor vnum &amp; anima vna &amp; omnia 
+       <lb ed="#B" n="39"/>eis communia, ministrabant spiritalia, etiam debitores erant temporalium illi communitati. Vnde apostoli non proprie accipie- 
+       <lb ed="#B" n="40"/>bant de mendicitate: sed potius de potestate, quod Paulus &amp; Barnabas illis attulerant de collectis factis 
+       <lb ed="#B" n="41"/>ex gentibus. dicente Augustnum ibidem. Quia vtiles fuerunt gentibus quae ab idolorum cultura voca 
+       <lb ed="#B" n="42"/>bantur, debitores eorum dixit apostolus ex gentibus christianos. &amp; addidit quare. Si enim spiritalibus eo 
+       <lb ed="#B" n="43"/>rum inquit communicant gentes, debent &amp; in carnalibus ministrare eis. Quapropter illi qui omnimode 
+       <lb ed="#B" n="44"/>contemplationi secundum praedicta vacare possunt: nec habent secum laborantes manibus: sed solummodo mini- 
+       <lb ed="#B" n="45"/>sterio suo insistentes: &amp; sic soli mendicitati in quaerendo victum inituntur: vt omnino sollicitudinem 
+       <lb ed="#B" n="46"/>in mendicando minuant: &amp; perfectius viuant: paucissimis debent esse contenti. alias enim contra ipsos in-  
+       <lb ed="#B" n="47"/>telligitur loqui <name ref="#Augustine">Augustinus</name> quando dicit ibidem. Certe si propterea se dicunt operari non debere: quia nec volucres 
+       <lb ed="#B" n="48"/>caeli seminant: nec metunt: de quibus similitudinem dominus nobis dedit ne de talibus necessariis cogitemus: cur ergo  
+       <lb ed="#B" n="49"/>non attendunt quod sequitur: Neque, n. hoc tantum dictum est: quia non seminant neque metunt: sed adiectum est: neque con 
+       <lb ed="#B" n="50"/>gregant in apothecas. apothecae autem vel horrea vel repositoria dici possunt. Cur ergo isti manus otio 
+       <lb ed="#B" n="51"/>sas &amp; plena repositoria volunt habere: Cur ea quae sumunt de laboribus aliorum, recondunt &amp; seruant 
+       <lb ed="#B" n="52"/>vnde quotidie proferantur: &amp; infra. Sed si hoc placet, studeant boni fideles regis aeterni fortissimis eius 
+       <lb ed="#B" n="53"/>militibus seruire: vt sibi nec aquam implere cogantur, si iam illos qui tunc erant hierosolymis no-  
+       <lb ed="#B" n="54"/>uo gradu iustitiae supergressi sunt. &amp; infra. Proinde tursus istos alio sublimiori gradu iustitiae su- 
+       <lb ed="#B" n="55"/>parabunt qui se ita instituunt: vt quotidie in agros tanquam in pastum pergant: &amp; quo tempore inuenerint 
+       <lb ed="#B" n="56"/>carpant, &amp; sopita fame reuertantur. Sed plane propter agrorum custodes quam bonum esset si etiam pennas 
+       <!--1146.xml-->
+       <pb ed="#B" n="553-r"/>
+        <lb ed="#B" n="1"/>largiri dignaretur: vt serui dei in agris alienis inuenti non tanquam fures comprehenderentur sed tan  
+       <lb ed="#B" n="2"/>quam strumi fugarentur. &amp; infra. Caeterum quis ferat non sicut infirmiores tolerari: sed sicut sanctiores eti- 
+       <lb ed="#B" n="3"/>am praedicari: Est autem aduertendum: quod de talium labore contingit viuere dupliciter. Vno modo ius 
+       <lb ed="#B" n="4"/>sibi vendicando in praemio laboris. Alio modo vsum facti tantummo ex illo expectando: vt tunc demum cum prae- 
+       <lb ed="#B" n="5"/>mium denegatur pacifice sustineatur: &amp; ad mensam domini mendicando accedatur. &amp; hoc vltimum credo esse per- 
+       <lb ed="#B" n="6"/>fectissimum. De illis autem qui non laborant manibus &amp; hoc propter proximorum negotium saluti animarum 
+       <lb ed="#B" n="7"/>intendentes: distinguo: quia aut labor manuum posset exerceri ab eis absque detrimento proximorum, aut 
+       <lb ed="#B" n="8"/>non. Si primo modo: dico omnino quod perfectius esset eis viuere de labore quam de euangelio: vel de men- 
+       <lb ed="#B" n="9"/>dicitate, ea ratione qua prius: nisi postponeretur labor propter complementum contemplationis. tunc enim di-  
+       <lb ed="#B" n="10"/>stinguendum esset: vt iam supra distinctum est. Si secundo modo: aut ergo ad proximorum negotium exequendum  
+       <lb ed="#B" n="11"/>quis fraterna charitate vrgetur, aut debito officii compellitur. vtroque enim cessante nullus perfectus debe 
+       <lb ed="#B" n="12"/>ret insistere velle negotiis exterioribus vitae actiuae: quia semper contemplatio debet esse in desiderio: licet actio 
+       <lb ed="#B" n="13"/>propter necessitatem sit in exercitio: prout in praecedenti Quolibet declarauimus in quaestione de praeeminentia 
+       <lb ed="#B" n="14"/>inter vitam actiuam &amp; contemplatiuam. Et vtrolibet illorum modorum existente, aut nullus dictorum casuum seu 
+       <lb ed="#B" n="15"/>causarum occurrit: propter quos vel quas Paulus laborauit: aut immo aliquis eorum vel plures occurrunt. 
+       <lb ed="#B" n="16"/>Si primo modo, dico quod compulsis debito officii omnino perfectius est viuere de euangelio quam de labore aut 
+       <lb ed="#B" n="17"/>de mendicatione. vnde in isto casu viuebat Paulus de euangelio: verlter enim perfectius est viuere de euange 
+       <lb ed="#B" n="18"/>lio quam de mendicitate. Vnde Timotheus quia non potens viuere de labore timebat viuere de euangelio, putans 
+       <lb ed="#B" n="19"/>hoc minus perfectum esse: quia vidit magistrum suum Paulum non velle viuere de euangelio: secundum <name ref="#Augustine">Augustinus</name> vt dictum 
+       <lb ed="#B" n="20"/>est supra, cogitauit se debere viuere potius de aliqua negotiatione: &amp; nequaquam cogitauit se diuerte- 
+       <lb ed="#B" n="21"/>re ad mendicitatem: quasi perfectius esset viuere de iusta negotiatione quam de mendicitate, quod reuera per- 
+       <lb ed="#B" n="22"/>fectius esset &amp; melius non potenti laborare &amp; non tendenti ad consummationem contemplationis: neque in  
+       <lb ed="#B" n="23"/>tento negotiis, proximorum. Illis vero qui vrgentur fraterna charitate ad proximorum negotium exercendum, qui  
+       <lb ed="#B" n="24"/>non habent potestatem viuendi de euangelio: Dico quod perfectius est viuere de mendicitate quam de labore: quia illis 
+       <lb ed="#B" n="25"/>licet compulsis ex officio viuentibus de euangelio: &amp; istis aliis viuentibus de mendicitate minus impedirentur seu re 
+       <lb ed="#B" n="26"/>traherentur a proximorum negotii executione. Nec etiam in isto casu si illi qui vrgentur ad negotia, proximorum frater 
+       <lb ed="#B" n="27"/>na charitate, acciperent victum ab illis quibus militant, esset mendicitas, proprie: sed potius potestas: licet non 
+       <lb ed="#B" n="28"/>ex debito officii &amp; diuinae institutionis tamen ex debito charitatis &amp; obligatione naturali. Si vero aliquis di  
+       <lb ed="#B" n="29"/>ctorum casuum seu causarum, in quibus Paulus laborauit manibus, occurrat: tunc dico quod perfectius est secun 
+       <lb ed="#B" n="30"/>dum vtrumque dictorum modorum, exercentibus negotia, proximorum viuere de labore vel de mendicatione sumpta 
+       <lb ed="#B" n="31"/>ab aliis quibus non militarent, de quali viuebat Paulus quondoque omisso labore: secundum quod <name ref="#Augustine">Augustinus</name> testatur di  
+       <lb ed="#B" n="32"/>cens de opere mona. Putemus apostolum illis omnibus diebus quibus fuit Athenis non fuisse operatum: propter hoc enim 
+       <lb ed="#B" n="33"/>&amp; ex Macedonia supplebatur eius indigentia: sicut dicit in secunda ad Cori, quamquam &amp; aliis horis &amp; noctibus po 
+       <lb ed="#B" n="34"/>terat: quia valebat &amp; animo &amp; corpore. Sed omnino perfectius est in illis casibus de proprio viuere labore aut con 
+       <lb ed="#B" n="35"/>fratrum suorum: &amp; hoc ne sumendo ab aliis maxime ab illis quibus militant, impediretur cursus euangelii: qui 
+       <lb ed="#B" n="36"/>reuera impediretur in hoc. secundum quod patet discurrendo per casus, in quibus diuersis de causis specialibus Pau- 
+       <lb ed="#B" n="37"/>lus nihil accepit ab illis quibus militauit: sed quondoque accepit ab aliis &amp; quonidoque vixit de labore: secundum quod quando  
+       <lb ed="#B" n="38"/>que in aliquo casu bonum videbatur ei accipere vno modo, quandoque autem &amp; in alio casu melius videbatur ei accipere 
+       <lb ed="#B" n="39"/>cumque occurrebat causa, propter quam visum est ei laborandum, captabat ad hoc certas horas tam de die quam de 
+       <lb ed="#B" n="40"/>nocte: maxime de nocte: in quibus sine minori dispendio potuit se subtrahere a ppostolo, &amp; tunc laborabat. di  
+       <lb ed="#B" n="41"/>cente <name ref="#Augustine">Augustinus</name> de opere mona. i. lpse apostolis quomodo vacaret operari manibus suis: nisi ad erogandum verbum dei certa 
+       <lb ed="#B" n="42"/>tempora constitueret: neque, enm deus &amp; hoc latere nos voluit: nam &amp; cuius artis opifex fuerit &amp; quibus temporibus 
+       <lb ed="#B" n="43"/>vacabat dispensando euangelio sacra scriptura non tacuit. Nam cum dies profectionis vrgeret in Troade &amp;c. 
+       <lb ed="#B" n="44"/>vbi declarat <name ref="#Augustine">Augustinus</name> quod praecipue de die disputauit &amp; praedicauit: per quod insinuat a contrario quod de nocte praeci- 
+       <lb ed="#B" n="45"/>pue laborauit. vnde sequitur. Optima enim est gubernatio: vt omnia suis temporibus distributa ex ordine ge- 
+       <lb ed="#B" n="46"/>rantur ne animum humanum turbulentis implicationibus inuoluta parturbent. lbi etiam dicitur quod operabatur apostolus. 
+       <lb ed="#B" n="47"/>Post haec inquit egressus ab Athenis venit Corinthum: &amp; cum inuenisset quendam Iudaeum nomine Aquilam &amp; Pri 
+       <lb ed="#B" n="48"/>scillam vxorem illius, accessit ad illos: &amp; propter artis similitudinem mansit apud illos opus faciens: erant, n. taber 
+       <lb ed="#B" n="49"/>naculorum artifices. Casus autem &amp; causae pro quibus apostols manibus operabatur: erant septem. Quarum prima erat vt 
+       <lb ed="#B" n="50"/>pseudoapulos a praedicatione compesceret. ii. Corin. xi. Vt amputem occasionem eorum qui volunt occasione. Glos. 
+       <lb ed="#B" n="51"/>Intentio pseudo &amp; studium erat in pecuniis accipiendis: ideoque apostolus accipere renuit: ne illis 
+       <lb ed="#B" n="52"/>esset forma &amp; occasio accipiendi. Sciebat enim quod si non acciperent non diu praedicarent. Et hic non:  
+       <lb ed="#B" n="53"/>laborauit. ait enim. Gratis euangelium euangelicaui vobis: alias ecclesias expoliaui accipiens 
+       <lb ed="#B" n="54"/>stipendium ad ministerium vestrum, nam quod mihi deerat suppleuerunt fratres qui venerunt a 
+       <!--1147.xml-->
+       <pb ed="#B" n="553-v"/>
+        <lb ed="#B" n="1"/>Macedonia. &amp;. i. Corinth. ix. Nequod offendiculum demus euangelio Christi. Glos: quia si acciperet apostolus, iam 
+       <lb ed="#B" n="2"/>perseudo libere acciperent: &amp; sic in praedicatione durarent: &amp; ita impedimentum esset euangelio. &amp; ideo laborauit 
+       <lb ed="#B" n="3"/>dicente <name ref="#Augustine">Augustinus</name> de sermo. domini in modote. cap. xxiiii. Erant. nm multi qui occasionem acquirendi &amp; vedendi euangelium quao  
+       <lb ed="#B" n="4"/>rebant. quibus eam volens amputare apostolis manibus suis victum &amp;c. &amp; de opere Mona. c. iiii. lpse stipendium sibi debitum  
+       <lb ed="#B" n="5"/>non exegit: vt se formam daret eis qui exigere non debita cupiebant. ergo quod sibi debebatur accipere noluit: vt 
+       <lb ed="#B" n="6"/>suo exemplo coercerentur qui sibi non ita ordinatis in ecclesia talia deberi arbitrabantur. Secunda ne subditos suos 
+       <lb ed="#B" n="7"/>grauaret. ii. Cori. xi. Cum essem apud vos &amp; egerem, nulli onerosus fui. &amp; in omnibus sine onere me vobis ser 
+       <lb ed="#B" n="8"/>uaui &amp; seruabo. ii. Thessa. vltio. Neque gratis panem manducauimus ab aliquo: sed in labore &amp; fatigatione 
+       <lb ed="#B" n="9"/>nocte &amp; die operantes, nequem vestrum grauaremus. i. Thessa. ii. Memores estis fratres laboris nri, &amp; fati- 
+       <lb ed="#B" n="10"/>gationis nocte &amp; die operantes nequem vestrum grauaremus. q. d. secundum <name ref="#Augustine">Augustinus</name> de opere mona. cap. viii. Omnia 
+       <lb ed="#B" n="11"/>itaque toleramus nequid impedimentum demus euangelio Christi. Tertia vt exemplum operandi manibus caeteris prae- 
+       <lb ed="#B" n="12"/>beret. ii. Thess. vltio. lpsi. enim scitis quemadmodum opertet imitari nos: quoniam non inquieti fuimus inter vos. vt nos 
+       <lb ed="#B" n="13"/>met ipsos formam daremus vobis ad imitandum nos. <name ref="#Augustine">Augustinus</name> de opere Mona. cauica quo. Qua nos imitemini. Glos. &amp; 
+       <lb ed="#B" n="14"/>otium dimittatis. Et Actum. xx. Haec omnia ondi vobis exemplum operandi: quoniam sic laborantes. Glos. Vt ego. Cuiu 
+       <lb ed="#B" n="15"/>manus mistrauerunt suscipere infirmos. Glos. ad ministrandum infirmis sicut &amp; ego feci his qui mecum sunt. Quar 
+       <lb ed="#B" n="16"/>ta. vt pauperes qui erant cum ipso sustentaret. Act. xx. His qui mecum sunt mistrauerunt manus istae. Vnde ad idem 
+       <lb ed="#B" n="17"/>hortatur suos. Ephe. A. Qui furabatur iam non furetur, magis autem laboret operando manibus suis quod bonum est: 
+       <lb ed="#B" n="18"/>vt habeat vnde tribuat necessitatem patienti. Et iterum post iam dicta Ephe. iiii. Vos autem fratres nolite defice 
+       <lb ed="#B" n="19"/>re ad benefacientes. Glos. Pauperibus: quia etsi operentur, possunt tamen non nullis indigere: &amp; ideo monet ne illi qui ha-  
+       <lb ed="#B" n="20"/>bebant vnde seruis dei necessaria praeberent pigrescerent hac occasione, non enim in reprehensionem venit qui humanus  
+       <lb ed="#B" n="21"/>est in largiendo. Quita. vt in se appetitum rei alienae compesceret &amp; honeste conuersaretur. Act. xx. Argentum &amp; 
+       <lb ed="#B" n="22"/>aurum aut vestem numllius concupiui: quoniam ad ea quae mihiopus erant &amp;c. vt iam supra. Vnde &amp; ad idem hortatur cum di  
+       <lb ed="#B" n="23"/>cit. i. Thess. iiii. Operemini manibus vestris: sicut praecepi vobis: honeste ambuletis ad eos qui foris sunt, &amp; 
+       <lb ed="#B" n="24"/>nullius aliquid desideretis. Glos. quia honestum est &amp; lux ad infideles: &amp; si desideraueritis rem alterius ne roge 
+       <lb ed="#B" n="25"/>tis vel tollatis. Sexta, ne venale videretur ponere euangelium. i. Cori. ix. Desens ordinauit his qui euangelium an  
+       <lb ed="#B" n="26"/>nunciant de euangelio viuere: ego autem nullo horum vsus sum. &amp; infra. Quae est ergo merces mea vt euangelium prae- 
+       <lb ed="#B" n="27"/>dicans sine sumptum ponam euangelium: Glos. sensus est, mercedem habeo si ex dilectione ita facio: vt potius patiar 
+       <lb ed="#B" n="28"/>penuriam quam abutar potestate. quod vtique facerem si sumptuosum credentibus euangelium esset importune exigendo,  
+       <lb ed="#B" n="29"/>vel indiscrete accipiendo. <name ref="#Augustine">Augustinus</name> de opere mona. ca. xi. Vt non sit credentibus sumptuosum euangelium, ne putent ad  
+       <lb ed="#B" n="30"/>hoc sibi euangelizari: vt illud euangelistae quasi vendere videantur. ldem li. ii. de ser. do. in modote. c. xxiiii. super illud  
+       <lb ed="#B" n="31"/>Primo quaerite regnum dei: &amp; haec omnia apponentur vobis. Cum enim primum dixit, illud signauit: quia hoc posterius quaerem 
+       <lb ed="#B" n="32"/>dum est non tempore, sed dignitate. neque eni io debemus euangelizare vt manducemus: sed ideo manducare vt euange 
+       <lb ed="#B" n="33"/>lizemus: si propterea euangelizamus vt manducemus: vilius habemus euangelium quam cibum. Sed non ideo euangeliza 
+       <lb ed="#B" n="34"/>uit: vt perueniret ad cibum &amp; alia necessaria: sed ideo ista sumpsit vt illud ipleret. ldem de opere mona. ca. xii. 
+       <lb ed="#B" n="35"/>Infirmorum periculis ne falsis suspitionibus agitati odissent quasi venale euangelium: tanquam maternis pater 
+       <lb ed="#B" n="36"/>nisque agitatus visceribus tremefactus hoc fecit. Septima. quia ei necessaria non dabantur. i. Cori. iiii. Laboramus 
+       <lb ed="#B" n="37"/>operantes manibus nris. Glos, pro nobis necessariis: quia nemo dat nobis. Et Glos. super illud. i. Corin. ix. Ego 
+       <lb ed="#B" n="38"/>autem nullo horum vsus sum. ne forte quisquam ideo eum non accepisse putaret: quia illi non dederant: &amp; de sua potestate hoc 
+       <lb ed="#B" n="39"/>totiens hac de causa dixisset: vt deinceps darent subdit. Non scripsi autem haec vt in me fiant. Glos. quod de. non  
+       <lb ed="#B" n="40"/>sum vsus: sed nec mori volo, nec scripsi haec vt ego accipiam. Ne ergo moreretur quandoque operatus est: quod tamen 
+       <lb ed="#B" n="41"/>non recepisset si oblatum ab illis quibus praedicabat fuisset propter causam incidentem: oblatum autem accepisset ab  
+       <lb ed="#B" n="42"/>aliis sicut &amp; quandoque accepit. secundum quod dicitur de opere mona. ca. xii. Venerat ad tantam indigentiam: vt de longin  
+       <lb ed="#B" n="43"/>quis ecclesis ei necessaria mitterentur: dum tamen ab eis apud quaes erat: nihil tale acciperet. a quibus tamen accepit: non tam pro  
+       <lb ed="#B" n="44"/>pter suam necessitatem, quam propter illorum vtilitatem. secundum quod sequitur ca. xvi. Non solum curam factarum plebium esse volu- 
+       <lb ed="#B" n="45"/>it: sed &amp; ministrare necessaria sanctis dei seruis: consilium in hoc dans quod hoc magis ipsis qui hoc faciunt pro  
+       <lb ed="#B" n="46"/>derat quam illis erga quaes faciebant. Octaua cauam operandi manibus est quae non tangit Paulum: sed solummo subditos 
+       <lb ed="#B" n="47"/>suos, fuga otii &amp; curiositatis. i. Thess. iiii. Operam detis vt quieti sitis &amp; vt negotium vestrum agatis &amp; opere 
+       <lb ed="#B" n="48"/>mini &amp;c. vt supra. Vt quieti Glos a curiositate. Et nota sicut dicit Glos. quod ait, Operam detis: quia difficile 
+       <lb ed="#B" n="49"/>est dimittere consuetudinem: sed vos cogitetis vt vestrum negotium agatis. Glos. Dimissis alienis: quia adiu-  
+       <lb ed="#B" n="50"/>uat nos quietos esse: quia illud malum ex otio venit. Haec ergo fuit praerogatiua Pauli in labore manuum su 
+       <lb ed="#B" n="51"/>per caeteros apstolos: de quae dicit <name ref="#Augustine">Augustinus</name> de opere mona. capiaulo vi. Si quis eo quod sibi debetur vti vellet sicut Paulus apo 
+       <lb ed="#B" n="52"/>stolus voluit, amplius impenderet non exigendo stipendium debitum: sed quotidianum victum suis laboribus 
+       <lb ed="#B" n="53"/>transigendo. &amp; ca. S. Non ergo solus Paulus &amp; Barnabas non habebant potestatem non operandi: sed omnes 
+       <lb ed="#B" n="54"/>pariter habebant hanc potestatem: qua isti non vtebantur amplius impendendo ecclesiae: sicut in illis locis in quibus 
+       <lb ed="#B" n="55"/>euangeli:z abant, infirmis congruere iudicabant. Vt autem dicit ca. xx. Quid ergo: caeteri apostoli quia non opera 
+       <!--1148.xml-->
+       <pb ed="#B" n="554-r"/>
+        <lb ed="#B" n="1"/>bantur peccabant, aut afferebant impedimentum euangelio: quia dixit beatus Paulus ideo se non vsum hac 
+       <lb ed="#B" n="2"/>potestate ne quod impedimentum daret euangelio Christi: Si enim peccauerunt quia non operati sunt: non ergo  
+       <lb ed="#B" n="3"/>acceperunt potestatem non operandi: nec de euangelio viuendi. Si autem acceperunt hanc potestatem, qua  
+       <lb ed="#B" n="4"/>Paulus aliquid vltra erogans vti noluit: non vtique peccauerunt, si non peccauerunt, nullum impedimentum dede 
+       <lb ed="#B" n="5"/>runt: neque enim nullum peccatum est impedire euangelium. Et respondet <name ref="#Augustine">Augustinus</name> eodem cauiaea subdens. Hanc quaestionem bre- 
+       <lb ed="#B" n="6"/>uiter soluerem si dicerem: quia &amp; iuste dicerem: credendum esse apstolo. ipse enim sciebat cur in ecclesiis gentium non  
+       <lb ed="#B" n="7"/>oporteret portare venale euangelium: non culpans coapostolos suos: sed distinguens ministerium suum: quia 
+       <lb ed="#B" n="8"/>inter se distribuerant euangelizandi prouincias: vt Paulus &amp; Barnabas ad gentes irent: illi autem ad circum 
+       <lb ed="#B" n="9"/>cisionem. Vult ergo <name ref="#Augustine">Augustinus</name> quod alii non peccauerunt: quia eis praedicabant a quibus potuit conuenienter sum 
+       <lb ed="#B" n="10"/>ptus accipi fine ipedimento euangelii: Paulus autem non talibus, sed illis a quibus non erat conueniens sumptus 
+       <lb ed="#B" n="11"/>accipere, nec accipi fine impedimento euangelii. Et supponit secundum quod dicit supra. capiual vi. &amp; contra Adimantium  
+       <lb ed="#B" n="12"/>cap. xx, quod omnia illa Nolite possidere aurum &amp;c. &amp; quae apud illos sunt manducate &amp;c, non sunt iussa apostolis 
+       <lb ed="#B" n="13"/>neque discipulis: sed solummodo permissa: vt quicunque vti vellet potestate sumendi sumptus, liceret ei 
+       <lb ed="#B" n="14"/>de iure ex domini licentia &amp; constitutione. Si quis autem illa vti nollet: similiter liceret ei: nec contra iussum aliquid  
+       <lb ed="#B" n="15"/>faceret in hoc quod iuri suo cederet: &amp; misericordius agens de labore viueret: &amp; argentum in cona porta- 
+       <lb ed="#B" n="16"/>ret acceptum de labore ex necessario victum, quid Paulus fecit: &amp; hoc ex causa circa illos quibus praedica 
+       <lb ed="#B" n="17"/>uit. Alii autem non fecerunt hoc propter aliam causam circa illos quibus ipsi praedicabant. Sed licet ita fu 
+       <lb ed="#B" n="18"/>erit ordinatum &amp; obseruatum inter apstolos: &amp; obseruatum in principio ecclesiae, admonente spirit sancto, numquid  
+       <lb ed="#B" n="19"/>caeteri apstoli postmodum diuerterunt se ad praedicandum gentibus sicut Paulus &amp; Barnabas: nunquid Tho- 
+       <lb ed="#B" n="20"/>mas cucurrit ad lndos, Bartholemaeus ad Aethiopes: vtique: nec tamen legitur quod illi inter gentes de 
+       <lb ed="#B" n="21"/>labore vixerunt. Paulus etiam, vt dictum est, non semper de labore vixit. Esto ergo quod caeteri apostoli non pecca 
+       <lb ed="#B" n="22"/>uerunt non laborando: quia casus tales illis non occurrerunt quales Paulo: sed quid si eis occurrissent 
+       <lb ed="#B" n="23"/>nunquid peccassent sumendo sumptus, &amp; dando impedimentum euangelio: &amp; an Paulus peccas- 
+       <lb ed="#B" n="24"/>set, sumendo sumptus &amp; non laborando: Reuera non peccassent alii in consimilibus casibus: nec Paulus 
+       <lb ed="#B" n="25"/>peccasset accipiendo sumptus &amp; non laborando in suis casibus: aliter, enim non fuisset ei potestas conces- 
+       <lb ed="#B" n="26"/>sa sumendi sumptus tunc: neque misericordius egisset nolendo accipere debitam mercedem. quid falsum esse 
+       <lb ed="#B" n="27"/>ostendit <name ref="#Augustine">Augustinus</name> ex dictis Pauli sic inquiens ibidem caia. vii. Nunquid habemus inquit licentiam manducandi &amp; bibendis 
+       <lb ed="#B" n="28"/>numquid habemus licentiam fororem mulierem circunducendi: quam licentiam dixit nisi quam dominus dedit eis: quos ad prae- 
+       <lb ed="#B" n="29"/>dicandum regnum caelorum misit dicens: Ea quae ab ipsis sunt manducate: dignus est enim operarius merce 
+       <lb ed="#B" n="30"/>de sua: &amp; seipsum proponens ad eiusdem potestati exemplum: cui fidelissimae mulieres necessaria de suis fa 
+       <lb ed="#B" n="31"/>cultatibus ministrabant: Amplius autem fecit Apostolis vt de coapostolis suis documentum adhiberet huius 
+       <lb ed="#B" n="32"/>licentiae a domino permissae, neque n. reprehendens subiecit Sicut &amp; caeteri apostoli: sed vt hinc ostenderet haec se ac 
+       <lb ed="#B" n="33"/>cipere noluisse: quod enim liceret accipere, caeterorum commilitonum etiam eius more probaretur. Nota quia dicit quid li 
+       <lb ed="#B" n="34"/>cuit accipere non accepit, quod non fuisset nisi quando laborauit non peccasset. quare nec caeteri apostoli in casibus 
+       <lb ed="#B" n="35"/>consimilibus. Et hoc verum est: &amp; sic Paulus misericordius egit quam caeteri &amp; perfectius: sicut perfectius agit com- 
+       <lb ed="#B" n="36"/>tinens, qui cum possit nubere sine peccato, non tamen vult nubere. Et sic illa responsio <name ref="#Augustine">Augustinus</name> non vi 
+       <lb ed="#B" n="37"/>detur sufficere mihi ad propositum. Dico ergo quod caeteri apostoli non peccabant quia non operabantur sed accipie- 
+       <lb ed="#B" n="38"/>bant sumptus etiam occurrentibus dictis casibus: aliter enim non accepissent potestatem non operandi tunc 
+       <lb ed="#B" n="39"/>neque viuendi de euangelio: vt dicitur in argumento. Quod arguitur in oppositum quod immo: quia afferebant impedi- 
+       <lb ed="#B" n="40"/>mentum euangelio: quia Paulus laborauit vt dicit, ne fieret impedimentum euangelio: Dico quod alii accepe- 
+       <lb ed="#B" n="41"/>rant potestatem tunc non laborandi &amp; viuendi de euangelio: qua Paulus aliquid vltra erogans vti noluit 
+       <lb ed="#B" n="42"/>&amp; sic non peccauerunt, nec vllum impedimentum dederunt euangelio, in quo consistebat peccatum. Sed quia vt dicitur 
+       <lb ed="#B" n="43"/>in argumento, neque nuilum peccatum est impedire euangelium: distinguo de impedire euangelium, quia vno 
+       <lb ed="#B" n="44"/>modo contingit impedire euangelium faciendo illud quo cessat cursus euangelii: quemadmodum perseudo 
+       <lb ed="#B" n="45"/>apostoli praedicantes falsa &amp; contraria euangelio impediebant euangelium: quos apostolus non accipien- 
+       <lb ed="#B" n="46"/>do visus est ab actu praedicandi remouere &amp; cogere cessare. de quibus dixit Apost. ad Gala. i. Nos con- 
+       <lb ed="#B" n="47"/>turbant &amp; volunt conuvertere euangelium Christi. Alio modo faciendo illud quo non habet euangelium ita ce- 
+       <lb ed="#B" n="48"/>lerem cursum vt haberet si non fieret. Quid dupliciter potest fieri. Vno modo faciendo quod non est licitum fieri: quemad 
+       <lb ed="#B" n="49"/>modum impediuissent apostoli cursum euangelii, si secundum euangelium non vixissent &amp; contraria eis quae praedicaue 
+       <lb ed="#B" n="50"/>runt fecissent: sicut fecerunt perseudo: qui tamen non contraria euangelio: sed veritatem euangelicam praedicauerunt 
+       <lb ed="#B" n="51"/>quaes apostolus non censebat repellendos: sed permittendos. dicens Philip. i. Quid enim dum omni modo siue per occasionem siue per  
+       <lb ed="#B" n="52"/>veritatem Christus annuncietur: &amp; in hoc gaudeo. Alio modo faciendo quod licitum est fieri: licet non sit perfectius fieri 
+       <lb ed="#B" n="53"/>&amp; isto modo apostoli caeteri accipiendo sumptus etiam in dictis casibus dederunt impedimenta euangelio: Paulus nequamquam  
+       <lb ed="#B" n="54"/>quia per hoc quod Paulus sumptus non sumpsit in dictis casibus: sed laborauit &amp; de labore vixit: fortius 
+       <!--1149.xml-->
+       <pb ed="#B" n="554-v"/>
+        <lb ed="#B" n="1"/>ad eius praedicationem occurrit euangelium quam occurrisset si sumptus accepisset, &amp; quam occurrisset ad  
+       <lb ed="#B" n="2"/>praedicationem aliorum si occurrentibus dictis casibus sumptus sumpsissent. Dico igitur: quod impedire H 
+       <lb ed="#B" n="3"/>euangelium secundo modo, graue peccatum est &amp; mercenariorum. Impedire autem primo modo grauissimum est 
+       <lb ed="#B" n="4"/>peccatum &amp; luporum: quia tale impedimentum procedit ex facto omnino illicito. Impedire autem euangeliumtertio modo 
+       <lb ed="#B" n="5"/>quod non est proprie impedire: sed est proprie non expedire: bene potest esse pastorum, &amp; absque omni peccato:  
+       <lb ed="#B" n="6"/>quia procedit ex opere licito, in quo nullus peccat nisi per occasionem scandalizaret infirmos: quale scanda  
+       <lb ed="#B" n="7"/>lum oriri non potuit ex sumptu quem accipiebant apostoli: quia modica acceperunt: &amp; non petierunt, neque  
+       <lb ed="#B" n="8"/>abstulerunt: quia aliter non honeste ambulassent: vt dicitur in quinto casu praedicto. cum enim eis necessaria de 
+       <lb ed="#B" n="9"/>negabantur aut non vltro offerebantur, tunc erat tempus excutiendi puluerem de pedibus &amp; pacifice rece- 
+       <lb ed="#B" n="10"/>dendi. Vnde praeueniri debebant sicut &amp; modo debent praeueniri in necessitatibus suis. dicente <name ref="#Augustine">Augustinus</name> u-  
+       <lb ed="#B" n="11"/>per illud psal. ciii. Producens foenum iumentis. Ne dicatis: seruientes non indigent nostri: quaerite ne quis  
+       <lb ed="#B" n="12"/>indigeat: &amp; qui non indiget inueniat in te quod nolit. Noli dicere si petierit dabo. Expectas ergo &amp; vt pe- 
+       <lb ed="#B" n="13"/>tat: sic pascis bouem dei quasi transeuntem mendicum: illi petenti das. Si sic inter vos indigent milites Chri 
+       <lb ed="#B" n="14"/>sti vt etiam petant: videte ne vos iudicent antequam petant. Alius ad te venit vt petat: alium tu praeueni ne pe 
+       <lb ed="#B" n="15"/>tat: dat illi: sed multo magis isti. quanto minus petit, tanto magis tibi vigilandum est, vt praeoccupes pe- 
+       <lb ed="#B" n="16"/>titurum, autiforte non petiturum, &amp; aliquando danmnaturum. &amp; infra. Non indiget cibo, forte veste indiget, nec 
+       <lb ed="#B" n="17"/>indiget veste, forte tecto indiget, forte etiam fabricat, forte aliquid vtile in domo dei molitur &amp; expectat 
+       <lb ed="#B" n="18"/>vt attendas. Quia ergo licite non laborauerunt, &amp; sumptus acceperunt, &amp; absque scandalo, licet non ex 
+       <lb ed="#B" n="19"/>pediebant cursum euangelii faciendo opus praerogationis: sicut Paulus: nequaquam peccauerunt: quia ad  
+       <lb ed="#B" n="20"/>tale opus praerogationis non tenebantur, eo quod non erat iussum a deo: vt dictum est iam: nec tenetur 
+       <lb ed="#B" n="21"/>quis ad opus praerogationis: nullus autem peccat non faciendo id ad quod non tenetur pro tempore &amp; loco. 
+       <lb ed="#B" n="22"/>Hinc dicit <name ref="#Augustine">Augustinus</name> super dictum locum. Ego inquit nullo horum vsus sum. Ostendit sibi deberi &amp; non accepit 
+       <lb ed="#B" n="23"/>nec condemnanit eos qui non acceperunt quod debebatur. condemnandi enim erant exigentes indebita, non acci 
+       <lb ed="#B" n="24"/>pientes mercedem suam. ille tamen &amp; ipsam mercedem donauit: non quia tibi alius donauit non debes alteri. 
+       <lb ed="#B" n="25"/>Quid ergo arguitur primo: quod viuere de labore perfectius est: dico quod verum est modo &amp; in casu quo Paulus la-  
+       <lb ed="#B" n="26"/>borauit: secundum quod procedunt allegata in argumento: alias autem nequaquam praeterquam secundum tacta in corpore 
+       <lb ed="#B" n="27"/>solutionis. Ad secundum quod viuere de euangelio est perfectius: Dico quod verum est secundum praedicta: ni 
+       <lb ed="#B" n="28"/>si in casibus in quibus laborauit Paulus. in illis. nim casibus laborando manibus expeditius est euangeli 
+       <lb ed="#B" n="29"/>um secundum praedicta: licet aliquantulum temporis labor occupat: quid laborans sibi determinat: secundum quod mi- 
+       <lb ed="#B" n="30"/>nus euangelium retardat: vt similiter dictum est. Ad tertium: quod viuere de mendicitate est perfectius:  
+       <lb ed="#B" n="31"/>quia in hoc imitatur Christus: de quo dictum est: ego autem mendicus sum: Dico quod sicut pauper dicitur 
+       <lb ed="#B" n="32"/>secundum etymologiam, quasi parum in pera habens, &amp; egenus quasi egens alterius onere, id est bo- 
+       <lb ed="#B" n="33"/>nis quibus alter est oneratus, &amp; inops: quasi sine opibus: sic mendicus dicitur quasi mentem indicans 
+       <lb ed="#B" n="34"/>super e. scilicet quod parum in pera habet: &amp; bonis quo alter oneratus est indiget: &amp; per hoc desiderium ha 
+       <lb ed="#B" n="35"/>bendi de bono alterius indicans. Sed hoc contingit fieri dupliciter. Vno modo petendo: quod est propri 
+       <lb ed="#B" n="36"/>um mendicantium non habentium potestatem accipiendi qualem habebant apostoli: quorum potestas 
+       <lb ed="#B" n="37"/>accipiendi distinguitur contra mendicitatem petentium: quae idcirco proprie dicitur mendicitas. Alio 
+       <lb ed="#B" n="38"/>modo ipsam indigentiam insinuando &amp; praetendendo: quod bene fecerunt apostoli &amp; Christus. &amp; hoc 
+       <lb ed="#B" n="39"/>modo habentes potestatem accipiendi largo nomine dicuntur mendici, secundum quod haec distinctio po 
+       <lb ed="#B" n="40"/>nitur expresse ab <name ref="#Augustine">Augustinus</name> super psal, praedicto. Quomodo inquit Augusginus. Christus in passione infirmorum personam 
+       <lb ed="#B" n="41"/>sustinuit praefiguratam: sic &amp; in loculis habendis &amp; exigendo quodammodo annonam non petendo sed  
+       <lb ed="#B" n="42"/>praeferendo indigentiam suscepit. Ex qua distinctione circa factum Christi de loculis satis exprimitur 
+       <lb ed="#B" n="43"/>quod licet in habendo loculos mendicus fuit, non tamen primo modo: sed secundo: &amp; quod non expresse petendo exigebat: sed  
+       <lb ed="#B" n="44"/>quodammo exigebat indigentiam praeferendo. Vbi in eo quod dicit exigebat: &amp; quod dicit annonam: bene notatur quod prae 
+       <lb ed="#B" n="45"/>ferendo indigentiam quaerebat de alieno non ex vera mendicitate: sed ex potestate. exigere enim non habent men 
+       <lb ed="#B" n="46"/>dicantes vere primo modo: sed solum potestatem habentes. exigere enim supponit iuris debitum: quid be- 
+       <lb ed="#B" n="47"/>ne insinuat nomen annonae: quae non debetur vere mendicantibus secundum primum modum: sed so 
+       <lb ed="#B" n="48"/>lummodo potestatem recipiendi habentibus. vnde ibi dicit glossa supe illud. Ego autem mendicus sum 
+       <lb ed="#B" n="49"/>Hoc dicit Christus de se ex persona serui. secundum quod homo mendicus est qui ab alio petit. reuera enim 
+       <lb ed="#B" n="50"/>secundum illum modum erat mendicus: quia indigebat, quod exponit continue additum. Et pauper, non tamen  
+       <lb ed="#B" n="51"/>secundum modum quo mendicus est qui non exigit praeferendo indigentiam: sed expresse petendo. Vnde non video Christum 
+       <lb ed="#B" n="52"/>fuisse mendicum alia mendicitate quam illa qua mendici erant, maxime ideo, quia non inuenio vnquamipsum 
+       <lb ed="#B" n="53"/>alia mendicasse quam illa quae reponebat in loculis suis: nisi in ministerio potius quam propter indigentiae 
+       <lb ed="#B" n="54"/>supplementum. dicente <name ref="#Augustine">Augustinus</name> super illud psal. cviii. Persequutus est hominem inopem &amp; mendicum. Mendicum autem quomodo 
+       <!--1150.xml-->
+       <pb ed="#B" n="555-r"/>
+        <lb ed="#B" n="1"/>intelligemus nisi forte quia dixit mulieri Samaritanae, da mihi bibere: &amp; in cruce ait sitio: In hoc er 
+       <lb ed="#B" n="2"/>go quod accepit reponenda in loculis, <name ref="#Augustine">Augustinus</name> eum mendicum non iudicauit: &amp; hoc quia illa non recepit ex men 
+       <lb ed="#B" n="3"/>dicitate sed ex potestate consimili illi petenti quam concessit apostolis non tam verbo quam exemplo. dicente Au 
+       <lb ed="#B" n="4"/>gustn. super illud. Producens foenum iumentis. Cum videret Paulum non ita quaesiturum, praeuidit ne danmnaret quae  
+       <lb ed="#B" n="5"/>siturum: &amp; praebuit exemplum infirmo. vbi nomine infirmi comprehendit caeteros apstlos a Paulo: vt declaraui 
+       <lb ed="#B" n="6"/>in praecedenti Quolibet in quaestione de persectione praelatorum. vnde &amp; caeteri apostoli ad exemplum Christi 
+       <lb ed="#B" n="7"/>sumptus acceperunt. dicente <name ref="#Augustine">Augustinus</name> de opere mona. c. vi. Destens more miae suae infirmioribus compatiens 
+       <lb ed="#B" n="8"/>cum ei possent angeli ministrare loculos habuit quibus mitteretur pecunia quae conferebatur a bonis fi 
+       <lb ed="#B" n="9"/>delibus eorum victui necessaria. &amp; infra post modicum. Hoc exemplum domini imitabantur apostoli ad accipiendum si 
+       <lb ed="#B" n="10"/>bi debitum cibum. Constat autem quod non fuisset eis congruum exemplum quaerendi sic debitum, nisi Christus etiam 
+       <lb ed="#B" n="11"/>illa accepisset tamquam propter debitum. propter hoc enim praemisit. Nolite portare aurum &amp;c. vt supra dictum est. 
+       <lb ed="#B" n="12"/>Aliis autem quibus incumbit necessitas procurandi sibi necessaria: quia non habent vnde sumant ex debito, 
+       <lb ed="#B" n="13"/>bene etiam fuit in exemplo sibi prouidendi de futuro. dicente <name ref="#Augustine">Augustinus</name> libro ii. de sermo. domini in modote. Vehementer 
+       <lb ed="#B" n="14"/>cauendum est ne forte cum viderimus aliquem seruum dei prouidere ne ista necessaria desint vel si 
+       <lb ed="#B" n="15"/>bi vel eis quorum cura sibi commissa, iudicemus eum contra praeceptum domini facere &amp; de crastino esse sollicitum: 
+       <lb ed="#B" n="16"/>nam &amp; ipse dominus cui ministrabant angeli: tamen propter exemplum nequis postea scandalum pateretur cum ali- 
+       <lb ed="#B" n="17"/>quem seruorum eius animaduertisset ista necessaria procurare, loculos habere dignatus est. Ex quo aduer 
+       <lb ed="#B" n="18"/>to quod Christus in loculis duplex exemplum praebuit. Vnum accipiendi ex debito: in quo exemplum dedit solis 
+       <lb ed="#B" n="19"/>apostolis &amp; discipulis &amp; eorum successoribus: &amp; aliis qui in ministerium publicum sunt vocati: &amp; hoc 
+       <lb ed="#B" n="20"/>tanquam infirmis non valentibus sibi manibus quaerere necessaria. Alterum reseruandi sibi acceptum in futurum 
+       <lb ed="#B" n="21"/>in quo exemplum dedit omnibus aliis tanquam infirmioribus. Sed neutro modo exemplum de loculis sequutus est 
+       <lb ed="#B" n="22"/>Paulus tanquam miles strennuissimus. Quia ergo dicitur in argumento: illud est perfectius in quo imitatur 
+       <lb ed="#B" n="23"/>Christus: dico quod quia omnis Christi actio nia est instructio, facta sua omnia nobis sunt quasi quaedam verba 
+       <lb ed="#B" n="24"/>instructoria. Sed hoc dupliciter, quandoque enim sunt instructoria quid tamquam perfectum facere expediat: quandoque autem quid  
+       <lb ed="#B" n="25"/>tanquam imperfectum facere liceat. Primo autem modo facta Christi sunt exempla perfectis &amp; sunt opera per 
+       <lb ed="#B" n="26"/>fectionis ex genere &amp; ratione facti: &amp; ex animo facientis. Tale exemplum dedit, cum quando hora sua venit 
+       <lb ed="#B" n="27"/>passioni crucis se obtulit quando dixit. Si quaeritis me finite hos abire. Opera autem Christi secundo mo-  
+       <lb ed="#B" n="28"/>do sunt exempla imperfectis: &amp; sunt opera imperfectionis ex animo facientis tantum. Tale exemplum etiam dedit 
+       <lb ed="#B" n="29"/>Christus in passione quando dixit. Tristis est anima mea &amp;c. secundum quod de vtroque dicit <name ref="#Augustine">Augustinus</name> supra di-  
+       <lb ed="#B" n="30"/>ctum locum psal. ciii. Cum videret multos pronos &amp; gaudentes ad martyrium passionis exultantes, in ipsa 
+       <lb ed="#B" n="31"/>passione fortes seminatores &amp; maturos ad horreum. ecce qualibus competit exemplum operis Christi primo 
+       <lb ed="#B" n="32"/>modo. Sequitur continue de secundo modo Quorundam tamen infirmorum quos videbat posse turbari ventura pas 
+       <lb ed="#B" n="33"/>sione ne deficerent: sed potius voluntatem humanam voluntati creatoris coniungerent: ipsorum personam voluit ac 
+       <lb ed="#B" n="34"/>cipere in passione Christus: cum dicens. Tristis est anima mea vsque ad mortem: &amp; iterum, Pater si fieri potest transeat 
+       <lb ed="#B" n="35"/>a me calix iste: docuit quid esset dicturus infirmis: sed secutus ostendit quid facere deberet infirmis. Verumtamen non 
+       <lb ed="#B" n="36"/>quod ego volo sed quod tu vis pere. egit ergo Christus &amp; docuit &amp; perfectionis &amp; imperfectionis opera. Dico quan- 
+       <lb ed="#B" n="37"/>tum est ex genere &amp; ratione operis: sed in exemplum aliis &amp; aliis, quae tamen ambo perfecta erant ex intentione facientis. Di 
+       <lb ed="#B" n="38"/>co ergo quod perfectius est opus in quo imitatur Christus sequendo rationem perfectionis in illo qualem tenuit 
+       <lb ed="#B" n="39"/>Christus: &amp; secundum hoc iuxta secundum modum operum Christi perfectius fuit Paulo circuncidere Ti 
+       <lb ed="#B" n="40"/>motheum compatiendo Iudaeorum infirmitati quam non circuncidere: licet non circuncidere simpliciter esset 
+       <lb ed="#B" n="41"/>perfectius. de quo actuum. xvi. Assumens circuncidit eum propter iudaeos Glos, ne offensi alienarentur pro-  
+       <lb ed="#B" n="42"/>pter quid dicit. i. Corin. ix. Factus sum iudaeis tamquam iudaeus vt iudaeos lucrifacerem. Et per hunc modum licet car 
+       <lb ed="#B" n="43"/>nes comedere esset imperfectionis: comedere tamen propter infirmos ne crederent non licere persectionis esset 
+       <lb ed="#B" n="44"/>&amp; econuerso esset perfectionis non comedere aut non bibere vinum ne proximus per infirmitatem scandalizaretur in  
+       <lb ed="#B" n="45"/>comestione aut potatione: quod forte alias licitum esset aut perfectionis comedere: vt pote panem &amp; aquam  
+       <lb ed="#B" n="46"/>in poenitentiam. &amp;. c. xiiii. Bonum est non comedere carnes neque bibere vinum neque in quo frater tuus offen 
+       <lb ed="#B" n="47"/>ditur aut scandalizatur aut infirmatur. Et similiter si laborare manibus praebuisset scandalum aut offendi- 
+       <lb ed="#B" n="48"/>culum aliis apostolis &amp; nullum profectum eis quibus praedicabat: perfectius fuisset ei non laborare quam laborare.  
+       <lb ed="#B" n="49"/>Nequaquam tamen esset ei perfectius sequi in talibus quandoque substantiam actionis Christi: vt fugere passio 
+       <lb ed="#B" n="50"/>nem ex iusta causa, aut propter iniustam illam sustinere: &amp; in hoc homo non potest sequi rationem per- 
+       <lb ed="#B" n="51"/>fectionis Christi: quia non est institutus in hoc doctor vniuersalis ecclesiae, sicut fuit Christus. pro- 
+       <lb ed="#B" n="52"/>pter quod licet fugere in Christo fuerit opus perfectionis secundo modo, non tamen sic in aliis esset 
+       <lb ed="#B" n="53"/>opus perfectionis. &amp; per hunc etiam modum licet in Christo fuerit opus perfectionis non laborare sed viuere de 
+       <lb ed="#B" n="54"/>euangelio: non sic fuisset opus perfectionis in Paulo sicut neque fuit in aliis apostolis. Sequendo autem 
+       <!--1151.xml-->
+       <pb ed="#B" n="555-v"/>
+        <lb ed="#B" n="1"/>rationem perfectionis operum Christi iuxta primum modum operum eius, semper perfectius est opus in quo  
+       <lb ed="#B" n="2"/>quis imitatur eum: &amp; sic generaliter omnium temporalium abrenunciatio tam in proprio quam in conmuni: &amp; quae  
+       <lb ed="#B" n="3"/>rere in eis solummodo quotidianum vsum facti, vel de euangelio, vel de labore, vel de mendicitate viuere est 
+       <lb ed="#B" n="4"/>status perfectionis quam Christus obseruauit viuendo de euangelio: &amp; verbo docuit dicendo. Nihil tuleritis 
+       <lb ed="#B" n="5"/>in via &amp;c. comedentes &amp; bibentes quae apud illos sunt. dignus est enim operarius mercede sua. &amp; docuit ex 
+       <lb ed="#B" n="6"/>emplo in accipiendo a fidelibus sibi &amp; suis necessaria, sicut dictum est. Obseruantiam autem persectionis viuem 
+       <lb ed="#B" n="7"/>do de labore &amp; de mendicitate proprie dicta, aliis reseruauit. Sic ergo in Paulo perfectius fuit laborare ma 
+       <lb ed="#B" n="8"/>nibus &amp; non viuere de euangelio, quam imitari Christum viuendo de euangelio: in quo eum imitati sunt alii apostoli 
+       <lb ed="#B" n="9"/>Propter quod Paulus sublimius egit quam caeteri apostoli, vt dicit <name ref="#Augustine">Augustinus</name> super dictum locum psal. ciii. Multi infir 
+       <lb ed="#B" n="10"/>mi ista quaesituri erant: Paulus sublimius egit scilicet ista non quaesiturus: vt statim praemisit. Et tunc continuo quaerit Au 
+       <lb ed="#B" n="11"/>gu. Nunquid &amp; Christo sublimius: &amp; respondet. Christus sublimius: quia misericordius. Quid verum est 
+       <lb ed="#B" n="12"/>quo ad animum operantis: &amp; Paulus enim miserieorditer operatus est manibus operando. Vnde quod non vo- 
+       <lb ed="#B" n="13"/>luit sumptus sumere ne venale videretur ponere euangelium, hoc fecit misericorditer ne offendiculum po  
+       <lb ed="#B" n="14"/>neret proximo, in suspicando quod euangelistae non euangelizarent nisi propter sumptus. dicente <name ref="#Augustine">Augustinus</name> de 
+       <lb ed="#B" n="15"/>opere mona. ca. x. Infirmitati hominium compatiens id faciebat propter quid. i. Corin. ix. vbi exponit illam cau- 
+       <lb ed="#B" n="16"/>sam, continuo exponit qualiter in pluribus aliis operibus suis misericorditer condescendit infirmitati 
+       <lb ed="#B" n="17"/>proximorum, subdens. Nam cum liber essem omnibus omnium me seruum feci vt plures lucrifacerem &amp;c. Sed Chri 
+       <lb ed="#B" n="18"/>stus multo misericordius operatus est habendo loculos: quia illud fecit in exemplum &amp; documentum 
+       <lb ed="#B" n="19"/>omnium de ecclesia, paucissimis exceptis qui aliquid aliud vellent superogare. Paulus autem illud fecit so 
+       <lb ed="#B" n="20"/>lummodo in exemplum &amp; documentum paucorum &amp; perfectorum qui in hoc eum erant imitaturi, &amp; imperfectorum qui contra 
+       <lb ed="#B" n="21"/>eum aliquid sinistri essent suspicaturi. Quo ad perfectionem autem ratione generis siue substantiae ipsius operis perfectius 
+       <lb ed="#B" n="22"/>egit Paulus quam Christus: sicut perfectius egit quantum erat de genere operis quando passionem sustinuit quam quando lapida  
+       <lb ed="#B" n="23"/>tionem fugit. Quia ergo arguebatur quod viuere de mendicitate est perfectius: quia in hoc est maxima humi- 
+       <lb ed="#B" n="24"/>liatio: Dico quod duplex est humiliatio: quaedam exterior &amp; quaedam interior: &amp; hoc tam in manuum opere 
+       <lb ed="#B" n="25"/>quam in mendicitate &amp; quam in euangelizatione: &amp; est quaelibet istarum de bonis meritoriis: &amp; nulla earum 
+       <lb ed="#B" n="26"/>quantum est de se bonum est nisi ex genere: &amp; potest bono modo fieri: siue convenit eis bene &amp; male vti. 
+       <lb ed="#B" n="27"/>llla autem quae exterior. consistit in quadam vilificatione scilicet secundum reputationem hominum: &amp; ideo de illa 
+       <lb ed="#B" n="28"/>nihil ad bonum virtutis de quo est quaestio. Vnde talem vilificationem pro nihilo reputant boni viri in his tri- 
+       <lb ed="#B" n="29"/>bus actibus: nec propter vilificationem talem adipiscendam, scilicet vt homo vilis reputetur in hominium aestima 
+       <lb ed="#B" n="30"/>tione, debet aliquis se in dictis operibus humiliare: quia hoc vergit in hominis diffamationem: &amp; curam opor 
+       <lb ed="#B" n="31"/>tet habere de bono nomine. Nec similiter propter talem vilificationem fugiendam debet homo iustus ab ali 
+       <lb ed="#B" n="32"/>quo illorum trium actuum desistere. dum tamen poterit ipsum in actum virtutis conuertere. dicente <name ref="#Augustine">Augustinus</name> de 
+       <lb ed="#B" n="33"/>Paulo circa opus manuale de opere monach. Innocenter &amp; honeste ea quae apta sunt humanis vsibus ope 
+       <lb ed="#B" n="34"/>rabatur: sicut sese habent opera fabrorum structorum sutorum &amp; his similia. valet enim honestas ipsa quod re- 
+       <lb ed="#B" n="35"/>prehendit superbia eorum qui honesti vocari volunt: sed esse non amant. Non ergo dedignaretur apostolus siue 
+       <lb ed="#B" n="36"/>rusticanum opus aliquid aggredi, siue in opifico labore versari. Qui enim ait: Sine omni offensione estote iudaeis 
+       <lb ed="#B" n="37"/>&amp; gentibus &amp; ecclesiae dei, quos in hac causa vereri posset ignoro. Si Iudaeos dixerim, patriarchae peco- 
+       <lb ed="#B" n="38"/>ra pauerunt. Si graecos dicimus etiam philosophos: multum sibi honorabiles sutores fuerunt. Si ecclesiam dei: il- 
+       <lb ed="#B" n="39"/>le cui desponsata est virgo Maria, faber fuit. Hinc dicitur secundo Soliloquiorum. Multa enim fiunt quae quasi fa 
+       <lb ed="#B" n="40"/>cie &amp; populari turpia videntur: alio tamen fine laudabilia &amp; honesta monstrantur. llla autem humiliatio quae 
+       <lb ed="#B" n="41"/>est interior, similiter in quadam vilificatione consistit: scilicet secundum reputationem propriam. &amp; habet qua  
+       <lb ed="#B" n="42"/>tuor actus. Primo enim homo per ipsam abominatur vitia tanquam sibi contraria. Secundo despicit bo- 
+       <lb ed="#B" n="43"/>na infima: vt omnia temporalia tamquam sibi insufficientia. Tertio non reputat bona media vt vires &amp; naturalia 
+       <lb ed="#B" n="44"/>sua tamquam ad bona suprema adipiscenda infirma &amp; inualida. Quarto paruipendit bona quae adeptus est, suprma 
+       <lb ed="#B" n="45"/>scilicet bona gratiae &amp; virtutum: &amp; hoc respectu bonorum gloriae ad quae toto desiderio tendit, vt virtutes 
+       <lb ed="#B" n="46"/>&amp; gratiarum dona. secundum quod haec omnia probari possent per dicta sanctorum: sed longum esset &amp; impertinens ad  
+       <lb ed="#B" n="47"/>propositum. Et humiliatio haec secundum tres vltimas operationes idem est quod paupertas spiritus: quia re- 
+       <lb ed="#B" n="48"/>putatione spiritus hoc est mentis suae parum sibi est quicquid habet: &amp; est pars magnanimitatis in-  
+       <lb ed="#B" n="49"/>quantum magnanimitas despectiua est: &amp; est subministratiua alterius partis magnanimitatis, inquantum  
+       <lb ed="#B" n="50"/>scilicet ipsa est dignificatiua: &amp; secundum ipsam magnanimus se reputat dignum magnis bonis, &amp; ad illa 
+       <lb ed="#B" n="51"/>anhelat. dicente Philosopho. iiii. Ethi. Magnanimus magnis seipsum dignificat dignus existens. &amp; secundum aliam 
+       <lb ed="#B" n="52"/>translationem. Praeparat se ad res eximias aptus ad hoc. &amp; infra. Paruum autem huic sunt alia: propter quod despe 
+       <lb ed="#B" n="53"/>ctores videntur esse. De illa prima parte quae est humilitas, ad praesens nobis sermo est. De alia vero alias ser 
+       <lb ed="#B" n="54"/>mo forte erit: quam nomen proprium non habet: sed nomen virtutis simpliciter sibi appropriat: quia dignior pars eius 
+       <!--1152.xml-->
+       <pb ed="#B" n="556-r"/>
+        <lb ed="#B" n="1"/>est. vnde &amp; ab illa nominatur. dicente Philosopho. Magnanimitas circa magna quidem est: &amp; ex nomine videtur esse. 
+       <lb ed="#B" n="2"/>Circa humilitatem igitur est aduertendum: quod si prima humilitas, siue humiliatio affectetur sine secunda 
+       <lb ed="#B" n="3"/>cum illa non sit affectanda sicut dictum est, propter ipsam vilitatem: non affectatur nisi propter temporale commo- 
+       <lb ed="#B" n="4"/>dum aut vanam gloriam quam ex illa consequitur: &amp; quanto maior est illa humiliatio in mendicatione quam in  
+       <lb ed="#B" n="5"/>euangelizatione vel manuum labore: tanto illa est deterior. Dicit enim Hieronice ad Oceanum. Dfficilius ar-  
+       <lb ed="#B" n="6"/>rogantia quam auro caremus &amp; gemis. his etiam abiectis interdum gloriosis intumescit animus fordibus: &amp; 
+       <lb ed="#B" n="7"/>venerabilem paupertatem populari aurae offerimus. Propter quid ad secundam humilitatem exhortans idem dicit 
+       <lb ed="#B" n="8"/>ad Demetriadem. Praecipue fictam humilitatem fugiens illam sectare quae vera est: in qua non sit superbia inclu 
+       <lb ed="#B" n="9"/>sa: multi enim huius virtutis vmbram, veritatem eius pauci sequuntur. Item dicit ad Eustinum. Nec gloriam fu- 
+       <lb ed="#B" n="10"/>giendo quaeras, plures enim in hoc placere cupiunt quod placere contemnunt: nec plus religiosa velis videri:  
+       <lb ed="#B" n="11"/>nec plus humilis quam necesse est. Dico ergo respondendo ad argumentum: quod in quo est maxima humi 
+       <lb ed="#B" n="12"/>liatio isto secundo modo in illo est maxima perfectio: &amp; tali humiliatione humiliauit se Christus. 
+       <lb ed="#B" n="13"/>Quia autem assumitur quod haec est maxima in mendicatione: Dico quod nequaquam verum est: quia caeteris paribus 
+       <lb ed="#B" n="14"/>qui laborare non vult sed mendicare, laborem fugit &amp; otium quaerit: &amp; sic se plus debito diligit: &amp; non  
+       <lb ed="#B" n="15"/>vt congruit vero humili sese reputat. si enim tantundem laborare oporteret mendicando quantum opus faciendo  
+       <lb ed="#B" n="16"/>aliis eisdem retentis, semper de labore melius est acquirere quid sibi sufficit: &amp; vnde aliis succurratur: quam de 
+       <lb ed="#B" n="17"/>mendicitate: quia melius est &amp; perfectius est non indigere alieno quam indigere. propter quid beatitudo est suffi- 
+       <lb ed="#B" n="18"/>cientia conmodorum fine omni indigentia, vt dictum est supra: &amp; vt dicit Philosophus. x. Ethicorum beatitudo est per 
+       <lb ed="#B" n="19"/>se sufficientia. Similiter nec vera humiliatio maior est in mendicitate quam in euangelicatione: sed econverso 
+       <lb ed="#B" n="20"/>quoniam verus euangelista intantum semet ipsum despicit, quod omnium quibus incumbit ipsum euangelizare se seruum fa 
+       <lb ed="#B" n="21"/>cit. secundum apostolum. i. Corin. ix. Cum essem liber ex omnibus &amp;c. sicut supra. Mendicans autem inquantum huiusmodi non 
+       <lb ed="#B" n="22"/>nisi gratiae eius a quo mendicat se subiicit. Hinc Grego. xvii. libro Moralis exponens illud lob. xxvi. Ec- 
+       <lb ed="#B" n="23"/>ce gigantes gemunt sub aquis. dicit sic. Gigantes gemunt sub aquis: quia quanto quisquis altius 
+       <lb ed="#B" n="24"/>erigitur, tanto curis grauioribus oneratur: eisque ipsis populis mente &amp; cogitatione supponitur 
+       <lb ed="#B" n="25"/>quibus superponitur dignitate, homo quippe in sublimibus eleuatus tantos super se sustinet quantos 
+       <lb ed="#B" n="26"/>suppositos regit. ii autem qui talibus satiantur ipsi etiam laboris participatione deprimuntur. 
+       <lb ed="#B" n="27"/>Explicit. xiii. Quodlibet Magistri Henrici a Gandauo.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

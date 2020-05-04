@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 37</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 37</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="25-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e578">
+      <head xml:id="n3av8a-c1e578-Hd1e96">Quaestio 37</head>
+      <p xml:id="n3av8a-c1e578-d1e99">
+       <lb ed="#B" n="37"/>Equuntur quaestiones circa religiosos. Et proponebantur duo. Primo. vtrum reli 
+       <lb ed="#B" n="38"/>giosus mortuus resurgens teneatur ad pristinum votum. Secundo: vtrum liceat 
+       <lb ed="#B" n="39"/>monachis nigris carnes edere. 
+      </p>
+      <p xml:id="n3av8a-c1e578-d1e108">
+       CIRca primum arguebatur primo quod non: quia non 
+       <lb ed="#B" n="40"/>minus est viculum naturae in matrimonio viri &amp; mulieris inter se, quam sit vincu- 
+       <lb ed="#B" n="41"/>lum gratiae religiosi ad obseruationem ordinis sui. sed mortuus resurgens non  
+       <lb ed="#B" n="42"/>tenetur ad pristinum matrimonium cum vxore: secundum Apostolum Ro. septimo 
+       <lb ed="#B" n="43"/>ergo neque religiosus ad votum religionis suae. 
+      </p>
+      <p xml:id="n3av8a-c1e578-d1e119">
+       CONtra. Religioso iusto &amp; mo- 
+       <lb ed="#B" n="44"/>riente &amp; resurgente, nihil gratiae euacuatur in ipso. Status voti est status magnae gratiae: ergo in  
+       <lb ed="#B" n="45"/>ipso per mortem &amp; resurrectionem non euacuatur. sed euacuaretur si resurgens ad pristinum votum 
+       <lb ed="#B" n="46"/>non teneretur. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e578-d1e128">
+       DIcendum ad hoc quod homo per votum perfecte reformatur &amp; conformatur deo secum i 
+       <lb ed="#B" n="47"/>dum omnes vires &amp; potentias animae, in rationabili per obedientiae promptitudinem, in irascibili per  
+       <lb ed="#B" n="48"/>paupertatis humilitatem, in concupiscibili per castitatis puritatem. Quarum paupertas &amp; castitas 
+       <lb ed="#B" n="49"/>pertinent magis ad vires sensitiuas annexas corpori: obedientia autem ad vim intellectiuam abs- 
+       <lb ed="#B" n="50"/>tractam a corpore: ita tamen quod obligatio principaliter sit ex parte rationabilis per obedientiam: ex 
+       <lb ed="#B" n="51"/>parte autem aliarum virium per paupertatem &amp; castitatem mediante obedientia. Ita quod obedientia 
+       <lb ed="#B" n="52"/>maior portio &amp; principalior sit in voto religionis: secundum quod dicit <name ref="#Augustine">Augustinus</name> in sermone quodam:  
+       <lb ed="#B" n="53"/>de obedientia. Melior est obedientia quam omnes aliae virtutes. Licet ergo fortassis illa obligatio quae est 
+       <lb ed="#B" n="54"/>quo ad paupertatem &amp; castitatem, inquantum actus earum non habent esse nisi in viribus sensitiuis 
+       <!--90.xml-->
+       <pb ed="#B" n="25-r"/>
+       <lb ed="#B" n="1"/>vt affixae sunt corpori: non maneret in anima separata a corpore per mortem: sed absolueretur simpliciter: quia 
+       <lb ed="#B" n="2"/>actus paupertatis &amp; continentiae non nisi in corpore exerceri possunt: &amp; intelligatur obligatio quo ad ista 
+       <lb ed="#B" n="3"/>duo stante anima in corpore: sicut sit obligatio matrimonialis: quia principaliter est illa obligatio cor- 
+       <lb ed="#B" n="4"/>poralis propter quam vir non habet potestatem sui corporis sed mulier neque econverso: sed anima hanc potestatem non 
+       <lb ed="#B" n="5"/>habet nisi quaetenus dependet a corpore: &amp; ideo omnino soluitur obligatio anima separata semel a corpore alte 
+       <lb ed="#B" n="6"/>rius coniugatorum: ita quod semel ablata, licet mortuus resurgat: non reuertitur pristina obligatio: tamen illa ob  
+       <lb ed="#B" n="7"/>ligatio quae est deo in voto obedientiae quia actus eius qui est in ipsa parte rationali, indifferenter manet 
+       <lb ed="#B" n="8"/>anima separata, &amp; coniuncta: semper manet siue anima fuerit coniuncta siue separata. Et quia voto obedientiae non 
+       <lb ed="#B" n="9"/>solum subiicitur pars rationalis deo, &amp; obligatur quo ad se solum subiiciendum deo: sed etiam ad subiiciendum omnia illa 
+       <lb ed="#B" n="10"/>quae regimini suo sunt commissa: vt sunt vires sensitiuae &amp; etiam membra corporis: ideo etiam ad hanc obligatur 
+       <lb ed="#B" n="11"/>vis rationalis semper: licet non ad exercendum semper actus obedientiae in viribus sensitiuis &amp; membris corpo 
+       <lb ed="#B" n="12"/>ris: nisi cum fuerit coniuncta corpori. &amp; quo ad hoc non solum ad votum obedientiae obligatur in rationali: sed  
+       <lb ed="#B" n="13"/>etiam in irascibili &amp; concupiscibili: in custodiendo paupertatis humilitatem &amp; castitatis puritatem. ldeo di 
+       <lb ed="#B" n="14"/>co absolute quod religiosus mortuus resurgens ad pristinum votum religionis obseruandum manet obligatus.
+      </p>
+      <p xml:id="n3av8a-c1e578-d1e187">
+       <lb ed="#B" n="15"/>AD argumentum in oppositum de obligatione in matrimonio corporali: Dicendum secundum iam dicta 
+       <lb ed="#B" n="16"/>quod non est sim ile. quia in matrimonio non obligatur anima nisi quo ad corpus suum quod habet regere in actum: non  
+       <lb ed="#B" n="17"/>quo ad seipsam. &amp; ideo cum semel ab illo separata fuerit: per hoc soluitur omnino illa obligatio: &amp; reuersa 
+       <lb ed="#B" n="18"/>ad id non tenetur ad pristinam obligationem: nisi ex nouo consensu. In voto autem principaliter obli- 
+       <lb ed="#B" n="19"/>gatur anima rationalis quo ad seipsam: &amp; ideo vbique, &amp; quandocumque, &amp; quocumque modo habet esse, semper  
+       <lb ed="#B" n="20"/>est &amp; manet in illa obligatione vt teneatur licet non semper, vt actu illud ad quod tenetur exequatur: vt actum 
+       <lb ed="#B" n="21"/>obedientiae in viribus sensitiuis &amp; membris corporis vt dictum est. Vel fortasse dicerent aliqui quod etiam  
+       <lb ed="#B" n="22"/>resurgens tenetur reuerti ad vxorim: sed de hoc nihil ad praesens.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

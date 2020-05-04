@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 28</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 28</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e459">
+      <head xml:id="n3av8a-c1e459-Hd1e96">Quaestio 28</head>
+      <p xml:id="n3av8a-c1e459-d1e99">
+       <lb ed="#B" n="22"/>Per idem patet in parte ad secundum. Ex eo enim quod praelati superiores habent gene 
+       <lb ed="#B" n="23"/>ralem sollicitudinem: &amp; immediatam super omnes subditos suos: vt puta Papa in vniuer R 
+       <lb ed="#B" n="24"/>sali ecclesia: Episcopus quilibet in dicecesi sua: Abbas in monasterio suo: &amp; non possunt 
+       <lb ed="#B" n="25"/>per se nec sufficiunt ad immediate officium exequendum in omnes: ideo de iure ha 
+       <lb ed="#B" n="26"/>bent &amp; de consuetudine consona iuri: quod ea quae ad se pertinent specialiter aliis pos 
+       <lb ed="#B" n="27"/>sunt committere, &amp; hoc libere: quia nulli alii competunt ex officio, &amp; illi sunt casus super  
+       <lb ed="#B" n="28"/>illos qui eis sunt a iure concessi.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

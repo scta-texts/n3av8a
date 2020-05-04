@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 25</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 25</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="204-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2102">
+       <head xml:id="n3av8a-c1e2102-Hd1e96">Quaestio 25</head>
+       <p xml:id="n3av8a-c1e2102-d1e99">
+        <lb ed="#B" n="31"/>SEquuntur quaesita circa hominis operationes. Et erant quaedam ex parte intellectus: quaedam vero ex parte s 
+       <lb ed="#B" n="32"/>voluntatis. Ex parte intellectus erant duo. Primum: vtrum intellectus noster in actione for s 
+       <lb ed="#B" n="33"/>mandi verbum suum se habeat actiue vel passiue. Secundum: vtrum intellectus de re sibi prae 
+       <lb ed="#B" n="34"/>sente formet verbum. 
+      </p>
+      <p xml:id="n3av8a-c1e2102-d1e110">
+       CIRca primum arguitur quod intellectus ad formationem verbi se 
+       <lb ed="#B" n="35"/>habeat passiue: quoniam intellectus respectu verbi nostri se habet vt perfectibile ab ipso. I 
+       <lb ed="#B" n="36"/>perfectibile autem passiue se habet ad suam perfectionem. ergo &amp;c. Quia autem actiue, arguitur l 
+       <lb ed="#B" n="37"/>quoniam intellectus dei ad verbum suum se habet actiue: format enim deus pater in intellectu 
+       <lb ed="#B" n="38"/>suo verbum generando: cui verbum nim debet conformari. 
+      </p>
+      <p xml:id="n3av8a-c1e2102-d1e121">
+       HIC recurrendum est ad quaedam determiata in quaerta 
+       <lb ed="#B" n="39"/>disputatione nia de Quolibet in quaedam quaestione de verbo nino intelligendo, &amp; in quaedam alia quaestione de possibi 
+       <lb ed="#B" n="40"/>litate intelligendi intellectus nii coniuncti: &amp; in duabus quaestionibus praecedentibus de notitia angelorum. Di- 
+       <lb ed="#B" n="41"/>ctum est, nim in aliis quaestionibus sparsim, quod intellectus ni ex se nudus est sicut tabula complanata: qui nihil no 
+       <lb ed="#B" n="42"/>uit aut intelligit ab initio nisi opere intellectus agentis: quiirradicando super phantasmata spiritaliter, sicut lux 
+       <lb ed="#B" n="43"/>materialis super colores, dat eis rationem vniversalis: &amp; mouent intellectum possibilem simplici intelligentia: in quae intelle 
+       <lb ed="#B" n="44"/>ctus ntiur pure passiuus est &amp; vel actiuum. Per hoc, enim quod in eadem suba animae sunt phantasticum &amp; intellectiuum idem 
+       <lb ed="#B" n="45"/>quod vt singulare est obum imaginatiuae &amp; tamquam cognitum in ea: idem vt vel est obm intelligentiae, &amp; simpliciter vt co 
+       <lb ed="#B" n="46"/>gnitum in ea. &amp; vt phiaesenus est simpliciter est in ipso quodam modo vt in memoria intellectuali. vt autem immutat ipsum ad actum 
+       <lb ed="#B" n="47"/>intelligendi, est in ipso vt in intelligentia actualitur cognoscente: cuius notitia termiatur ad obm. Vnde verbum potest ap 
+       <lb ed="#B" n="48"/>pellari ipsum obum vt est in actuali notitia: conceptum de seipso vt est in hintuali notitia prius existens in memoria:  
+       <lb ed="#B" n="49"/>vt sic sit notitia de notitia. Vel pont verbum appellari ipse actus vt est informatus obiecto siue informatum compo 
+       <lb ed="#B" n="50"/>situm ex actu intelligendi &amp; obiecto vt est intellectus secundum ipsum in actuali intelligentia concepta de habitualiintel 
+       <lb ed="#B" n="51"/>ligentia sui ipsius vt est in memoria. vel pont appellari verbum tota actualis intelligentia, vt continet ipsum intel 
+       <lb ed="#B" n="52"/>lectum &amp; actum intelligendi: &amp; ipsum obm informans actum: &amp; per actum informans intellectum quod conceptum est a tota meno- 
+       <lb ed="#B" n="53"/>ria vt continet subam intellectus in hintuali notitia continente ipsum obm: vt sic sit procedens intelligentia de intelli 
+       <lb ed="#B" n="54"/>gentia. 
+      </p>
+      <p xml:id="n3av8a-c1e2102-d1e158">
+       EX quae pa quod respectu tal verbi intellectus nir siue se heat ex parte menmoriae siue ex parte intelligentiae omnino 
+       <lb ed="#B" n="55"/>passiuus est. Et inquantum intellectus habet rationem memoriae continentis obiectum: &amp; verbum illud sic mo 
+       <!--449.xml-->
+       <pb ed="#B" n="204-v"/>
+        <lb ed="#B" n="1"/>uens intelligentiam vt ipsa post completam formationem huius verbi incipiat quasi fodere acumine 
+       <lb ed="#B" n="2"/>naturali &amp; discutere in vnoquoque quid sit, &amp; cui &amp; propter quid insit, componendo &amp; diuidendo  
+       <lb ed="#B" n="3"/>&amp; ratiocinando, &amp; per hoc format in se verbum incomplexum de eo quod quid est secundum se vel con- 
+       <lb ed="#B" n="4"/>plexum, applicando quod quid est ei cuius est, vel quod inest ei cui inest: terminando quaestionem propter 
+       <lb ed="#B" n="5"/>quid est respectu ipsius verbi concepti in intellectum conferente &amp; diuidente &amp; componente, vt noti- 
+       <lb ed="#B" n="6"/>tia in actuali intelligentia ipsa memoria actiue se habet: vt sic sit notitia in intelligentia generata de 
+       <lb ed="#B" n="7"/>notitia in memoria. &amp; respectu huius verbi intellectus, vt est discurrens, actiuus est: licet passiuus 
+       <lb ed="#B" n="8"/>sit vt concipiens est ipsum. Et potest illud verbum distingui tripliciter sicut verbum praecedens, vt 
+       <lb ed="#B" n="9"/>patet intuenti. 
+      </p>
+      <p xml:id="n3av8a-c1e2102-d1e188">
+       SED nondum in hoc consistit perfecta ratio verbi: immo per hoc quod intellectus fre 
+       <lb ed="#B" n="10"/>quenter actum suo intelligendi concipit tale verbum, generatur in ipso habitus scientialis: per quem inclinatur vt de 
+       <lb ed="#B" n="11"/>facili &amp; expedite huiusmodi verbum complexum iam dictum concipiat, quiquidem in intellectu consistit vt in memo 
+       <lb ed="#B" n="12"/>ria. Ita quod memoria intellectualis nihil aliud sit proprie dicta quam intellectus possibilis vt est contentiuus 
+       <lb ed="#B" n="13"/>habitus scientialis: qui virtute est omnia scibilia: dicente <name ref="#Augustine">Augustinus</name> xiiii. de trinitate cap. vi. Multarum  
+       <lb ed="#B" n="14"/>disciplinarum peritus ea quae nouit eius memoria continentur. Nec est inde aliquid in conspectu 
+       <lb ed="#B" n="15"/>mentis eius nisi bene cogitat. Caetera in arcana quadam notitia sunt recondita quae memoria nun  
+       <lb ed="#B" n="16"/>cupatur: vnde formantur cogitantis obtutus. Cumque ex huiusmodi habitu vt est in intellectu me- 
+       <lb ed="#B" n="17"/>moria formatur actualis intelligentia de eis de quibus prius actualiter non cogitauit, tunc concipi 
+       <lb ed="#B" n="18"/>tur verbum in nobis tanquam notitia actualis de habituali: sed non fit in nobis nisi assistente simplici- 
+       <lb ed="#B" n="19"/>um intelligentia formata ex vniuersali existente in phantasmate. Quod contingit ex intellectus nostri 
+       <lb ed="#B" n="20"/>materialitate: cui non sunt nata repraesentari vniuersalia obiecta ex habitu scientiali: sicut angelo 
+       <lb ed="#B" n="21"/>propter eius maiorem abstractionis: sicut habitum est supra. Vt secundum hoc memoria intelle- 
+       <lb ed="#B" n="22"/>ctualis, siue in homine, siue in angelo, non sit contentiua specierum impressarum: sicut est memoria sen 
+       <lb ed="#B" n="23"/>sitiua: sed tantummodo habituum scientialium qui angelo sufficiunt ad actum intelligendi omnia absque spe 
+       <lb ed="#B" n="24"/>ciebus: homini autem non absque speciebus: non quas habet in se intellectus: sed in vi sensitiua. Ita quod in-  
+       <lb ed="#B" n="25"/>tellectus noster potest sine habitu intelligere: sed non sine phantasmate. Et sic verbum non formatur in no 
+       <lb ed="#B" n="26"/>stra intelligentia ex habitu scientiali nisi assistente simplicium intelligentia ex phantasmatibus concepta 
+       <lb ed="#B" n="27"/>
+      </p>
+      <p xml:id="n3av8a-c1e2102-d1e233">
+       DE modo autem formationis huius verbi sciendum: quod quae latent in memoria, quand oque non nisi post 
+       <lb ed="#B" n="28"/>cogitationis discursum occurrunt vt eis formetur intelligentia &amp; certa scientia: ita quod cum antequam occur 
+       <lb ed="#B" n="29"/>rant quandoque de eis an ipsa sint dubitamus: tunc vt dicit <name ref="#Augustine">Augustinus</name> x v. de trinitate cap. xv non est verbum 
+       <lb ed="#B" n="30"/>de re de qua dubitamus: sed de ipsa dubitatione verbum est. quamuis enim non nouimus an verum sit vnde du  
+       <lb ed="#B" n="31"/>bitamus, tamen dubitare nos nouimus: ac per hoc cum hoc dicimus verbum, verum est: quoniam quod nouimus dicimus 
+       <lb ed="#B" n="32"/>&amp; mentiri possumus, quiod cum facimus vtique volentes &amp; scientes, falsum verbum habemus: vbi verbum ve 
+       <lb ed="#B" n="33"/>rum est mentiri nos. hoc enim scimus. Multa etiam dicimus quae nescimus. Nec dubitantes ea dicimus:  
+       <lb ed="#B" n="34"/>sed vera esse arbitrantes: quae si forte vera sunt, in ipsis rebus de quibus loquimur non in verbo nostro 
+       <lb ed="#B" n="35"/>vera sunt. Falsum est ergo isto modo verbum cum fallimur. Sed quia vt dicit ibidem, verbum verum non est ni 
+       <lb ed="#B" n="36"/>si quod de re quae scitur gignitur, cum formabile quiddam mentis nostrae nondum formatum hac atque illac volubili quae-  
+       <lb ed="#B" n="37"/>dam motione iactamus: cum a nobis nunc hoc nunc illud sicut inuentum fuerit vel occurrerit co 
+       <lb ed="#B" n="38"/>gitatur, tunc illud fit verum verbum: quando ad id quod scimus peruenerit: atque inde formatur eius omnimodam si 
+       <lb ed="#B" n="39"/>militudinem capiens: vt quomodo res quaecunque scitur sic &amp; cogitetur. i. sine voce sine cogitatione vocis in corde 
+       <lb ed="#B" n="40"/>dicatur. Verbum autem istud nostrum de nostra scientia genitum, nec concipitur cum dubitamus: nec cum fallimur 
+       <lb ed="#B" n="41"/>nec cum mentimur: nec cum volubili cogitatione discurrimus: sed cum completo discursu in instanti in id quid  
+       <lb ed="#B" n="42"/>quaerimus tanquam vere conclusum incidimus, &amp; actualiter cognoscimus in intelligentia: quemadmodum est 
+       <lb ed="#B" n="43"/>latenter in memoria: &amp; existit in rerum natura. Et potest tripliciter distingui: sicut &amp; verba praesentia. Sed mi- 
+       <lb ed="#B" n="44"/>nus perfecte dicitur verbum ipsum obiectum conceptum: perfecte vero vt est informatiuum actus: perfectius autem ipse actus 
+       <lb ed="#B" n="45"/>informatus: secundum quod dicit <name ref="#Augustine">Augustinus</name> cap. xvi. Cogitatio nostra perueniens ad id quod scimus: atque inde forma 
+       <lb ed="#B" n="46"/>ta verbum verum est. Quod vt dicit cap. xiiii. non habet sonum neque cogitationem soni: sed eius rei quae intus lucet 
+       <lb ed="#B" n="47"/>cui magis verbi nomen competit: quasi quod videndo intus dicitur: &amp; ideo nullius linguae. Atque ita inde vtrum 
+       <lb ed="#B" n="48"/>quod simile est illi verbo dei: quoniam sic &amp; de nostra scientia nascitur quemadmodum illud de scientia dei patris 
+       <lb ed="#B" n="49"/>natum est: nisi quod verbum dei fine cogitatione informi debet intelligi vt forma simplex non habens aliud for- 
+       <lb ed="#B" n="50"/>mabile quid possit esse informe: quod contingit de verbo nostro: vt dicit cap. xvi. 
+      </p>
+      <p xml:id="n3av8a-c1e2102-d1e292">
+       ET est aduertendum  
+       <lb ed="#B" n="51"/>quod quamuis vt dictum est verbum perfectius dicat <name ref="#Augustine">Augustinus</name> formatam cogitationem: tamen si perfectissime loquamur de ver 
+       <lb ed="#B" n="52"/>bo, non dicitur nisi ipsa intelligentia tali cogitatione informata illud cuius tota memoria est parens: &amp; ambo sequitur  
+       <lb ed="#B" n="53"/>in tota voluntate amor vtrumque connectens: vt sicut est trinitas personarum actualium parentis verbi &amp; amo- 
+       <lb ed="#B" n="54"/>ris in vnitate substantiae diuinae: sic est trinitas personarum iformatarum in vnitate substantiae animae 
+       <!--450.xml-->
+       <pb ed="#B" n="205-r"/>
+        <lb ed="#B" n="1"/>secundum quod dicit ca. xx. Quantum valuimus autem monuimus eos qui rationem poscunt vt per intellectualem 
+       <lb ed="#B" n="2"/>creaturam velut per speculum cernerent trinum deum in nostra memoria, intelligentia, voluntate. Et sequitur  
+       <lb ed="#B" n="3"/>cap. xxi. Memoriae tribuens omne quid scimus, etsi non in cogitemus. Intelligentiae vero proprio modo quandam cogita 
+       <lb ed="#B" n="4"/>tionis informationem. Cogitando enim quid verum inuenimus, hoc magl intelligere dicimus. Et hoc quidem in menmoria 
+       <lb ed="#B" n="5"/>tursus relinquimus: sed illa est obstrusior profunditas nostrae memoriae. Vnde etiam hoc primum cum 
+       <lb ed="#B" n="6"/>cogitaremus inuenimus &amp; gignitur intimum verbum quod nullius linguae est tanquam scientia de scia &amp; visio 
+       <lb ed="#B" n="7"/>de visione: &amp; intelligentia quae apparet in cogitatione, de intelligentia quae in menoria iam fuerat sed latebat.  
+       <lb ed="#B" n="8"/>Ex quibus multum clarent superius dicta de notitia angelorum per habitus non per species impressas. De qui  
+       <lb ed="#B" n="9"/>bus numquam circa vim intellectiuam <name ref="#Augustine">Augustinus</name> facit mentionem. Sed omnem notitiam actualis intelligentiae ex habiti 
+       <lb ed="#B" n="10"/>bus scientialibus contentis in memoria, non autem ex speciebus aliis sibi impressis procedere ponit in  
+       <lb ed="#B" n="11"/>hoc modo verbi &amp; in praecedenti: appellando verbum ipsum obiectum conceptum aut actum ipso informatum  
+       <lb ed="#B" n="12"/>inquantum intellectus discursu suo illud venatus actiue se habet ad ipsum: inquantum vero ipso infor 
+       <lb ed="#B" n="13"/>matur passiue: sicut processit prima obiectio. Appellando autem verbum totam actualem intelligentiam 
+       <lb ed="#B" n="14"/>vt est informata actu intelligendi informato per obiectum, et parentem totam memoriam, &amp; amorem totam 
+       <lb ed="#B" n="15"/>voluntatem: secundum quod sunt propriae partes imaginis: hoc modo intellectus vt est informatus habitua-  
+       <lb ed="#B" n="16"/>li notitia veluti parens generans actiuus est: &amp; actiue se habet ad verbum: non quo ad substantiam  
+       <lb ed="#B" n="17"/>potentiae: sed quo ad eius actualem informationis: secundum quod processit secunda obiectio.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

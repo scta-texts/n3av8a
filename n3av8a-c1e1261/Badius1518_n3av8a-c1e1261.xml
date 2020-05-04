@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 27</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 27</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="87-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1261">
+      <head xml:id="n3av8a-c1e1261-Hd1e96">Quaestio 27</head>
+      <p xml:id="n3av8a-c1e1261-d1e99">
+       <lb ed="#B" n="43"/>SEquuntur quaestiones pertinentes ad statum medium indifferentem ad statum cul 
+       <lb ed="#B" n="44"/>pae &amp;gratiae. Et erant duae pertinentes ad contractus humanos. Prima de contractu 
+       <lb ed="#B" n="45"/>matrimoniali: Vtrum mulier viro semel mortuo &amp; resurgenti in aliquo plus ob 
+       <lb ed="#B" n="46"/>ligatur matrimonialiter quam alteri. SEcunda de contractu emptionis &amp; venditio 
+       <lb ed="#B" n="47"/>nis. Vtrum licet aliquem rem suam locare vel vendere pro pretio maiori quam tunc va 
+       <lb ed="#B" n="48"/>leat quando venditur, vel locatur: vel pro pretio illo quod nunc praesumitur valere pro 
+       <lb ed="#B" n="49"/>tempore futuro quando perfecta solutio est facienda. 
+      </p>
+      <p xml:id="n3av8a-c1e1261-d1e117">
+       CIRca primum arguitur: quod 
+       <lb ed="#B" n="50"/>viro resurgenti non plus obligatur mulier quam extraneo. Quia si esset coniuncta matrimonialiter alteri, non 
+       <lb ed="#B" n="51"/>magis deberet ab illo separari vt coniungeretur priori: quam iuncta priori separari ab illo vt coniungeretur 
+       <lb ed="#B" n="52"/>alteri: quia quos deus coniuxit, homo non separet. Quod non esset, si plus illi obligaretur quam alteri. 
+       <lb ed="#B" n="53"/>ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1261-d1e128">
+       ITem animae post separationem in corporis resurrectione non est eadem vnio. quia non  
+       <lb ed="#B" n="54"/>in eodem instanti facta, ergo nec idem vnitum. &amp; sic non est idem homo numero: sed alter a priori. Sed  
+       <!--215.xml-->
+       <pb ed="#B" n="87-v"/>
+       <lb ed="#B" n="1"/>ex illis non magis obligatur vni quam alteri, viro suo mortuo. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1261-d1e139">
+       IN contrarium est, vt videtur 
+       <lb ed="#B" n="2"/>illud quod dicit Apostolus ad Hebraeos. Acceperunt mulieres de resurrectione viros suos. 
+      </p>
+      <p xml:id="n3av8a-c1e1261-d1e145">
+       IN quae-  
+       <lb ed="#B" n="3"/>stione ista praecise est tenenda sententia apostoli: qua dicit expresse. Ro. septimo. Quae sub viro est 
+       <lb ed="#B" n="4"/>mulier, alligata est legi. Glos. viri: vt non possit discedere ab eo. Si autem mortuus fuerit vir eius:  
+       <lb ed="#B" n="5"/>soluta est a lege viri. &amp; primae Corinth. septimo. Mulier alligata est legi. Glos. viri. Quanto tem- 
+       <lb ed="#B" n="6"/>pore vir eius viuit. Glos. vt non liceat ei alii nubere. Quia si dormierit vir eius, liberata est a lege viri. 
+       <lb ed="#B" n="7"/>Glos. &amp; permittitur ei vt cui vult nubat. Statim ergo viro mortuo morte naturali dissolutum est vi 
+       <lb ed="#B" n="8"/>culum matrimonii quo mulier ligata erat ad ipsum: &amp; liberata est ab omni obligatione quam ha-  
+       <lb ed="#B" n="9"/>buit ad ipsum acsi ei nunquam obligata fuisset: nisi quod propter communicantiam quam inuicem habuerant 
+       <lb ed="#B" n="10"/>maiori vinculo charitatis ei debet esse alligata tam mortuo ad intercedendum pro anima eius ad  
+       <lb ed="#B" n="11"/>dominum orationibus &amp; eleemosynis: quam viuo: si forte ipsa viuente diuino miraculo resurgat. Non ta 
+       <lb ed="#B" n="12"/>men ita, quod ad eum propter obligationem pristini matrimonii reuerti debeat. Vnde quod mulieres il- 
+       <lb ed="#B" n="13"/>lae, de quibus dicitur Heb. vndecimo: Acceperunt de resurrectione viros suos. Glos. viuentes resusci 
+       <lb ed="#B" n="14"/>tatos per Heliam &amp; Helisaeum. hoc non fecerunt propter pristini matrimonii obligationm: sed pro 
+       <lb ed="#B" n="15"/>pter charitatis alligaturam qua eos plus aliis viris dilexerunt: &amp; matrimoniale vinculum cum eis 
+       <lb ed="#B" n="16"/>iterauerunt nouo superueniente consensu tacito vel expresso.
+      </p>
+      <p xml:id="n3av8a-c1e1261-d1e178">
+       ET sic patet ad obiectum vltimum 
+       <lb ed="#B" n="17"/>&amp; primum. 
+      </p>
+      <p xml:id="n3av8a-c1e1261-d1e183">
+       ED argumentum secundum ad veram conclusionem falso vtitur medio: scilicet quod non sit 
+       <lb ed="#B" n="18"/>idem homo moriens &amp; resurgens. cuius contrarium tenet fides catholica. Et quod arguitur ad eius 
+       <lb ed="#B" n="19"/>probationem: quod non est eadem vnio animae cum corpore quae prius: Dicendum quod vnio quando  
+       <lb ed="#B" n="20"/>quod stat pro ipso vnito: quandoque pro actu vniendi. Primo modo omnino est eadem vnio quae prius: quia 
+       <lb ed="#B" n="21"/>eadem vnibilia. idem scilicet corpus numero &amp; eadem anima. Secundo autem modo bene verum est quod 
+       <lb ed="#B" n="22"/>non est eadem vnio: quia prima &amp; secunda fiunt in diuersis temporibus secundum prius &amp; posterius 
+       <lb ed="#B" n="23"/>se habentibus. Et eadem actio numero debet fieri in eodem tempore secundum <name ref="#Aristotle">Philosophum</name> in quito Phy- 
+       <lb ed="#B" n="24"/>sicorum. Et quod concluditur: ergo non est idem vnitum: quia ad idem numero non terminantur di-  
+       <lb ed="#B" n="25"/>uersae actiones numero, secundum <name ref="#Aristotle">Philosophum</name> ibidem: Dicendum quod verum est actione naturae. licet enim for 
+       <lb ed="#B" n="26"/>ma naturalis de potentia materiae educta per corruptionem in potentiam materiae redit non in nihilum  
+       <lb ed="#B" n="27"/>non tamen per agens naturale potest eadem numero de illa potentia iterato educi. Quia potentia 
+       <lb ed="#B" n="28"/>materiae eadem est in materia ad omnes formas eiusdem speciei numero solum differentes: de quae non po- 
+       <lb ed="#B" n="29"/>test bis eadem forma numero educi actione agentis naturalis. Quia idem numero productum debet 
+       <lb ed="#B" n="30"/>produci per eandem transmutationem numero, &amp; in eodem tempore numero: quod impossibile est fieri 
+       <lb ed="#B" n="31"/>quia eadem transmutatio numero &amp; idem tempus numero non possunt iterari. secundum quod omnia haec 
+       <lb ed="#B" n="32"/>patent ex quinto physicorum. Veruntamen actione supernaturali per quam sit mortuorum resurrectio 
+       <lb ed="#B" n="33"/>bene potest alia actione quam prius idem numero restitui etsi per corruptionem in purum nihil fu- 
+       <lb ed="#B" n="34"/>isset redactum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

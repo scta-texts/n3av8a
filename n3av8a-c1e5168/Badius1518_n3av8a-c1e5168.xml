@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="530-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5168">
+       <head xml:id="n3av8a-c1e5168-Hd1e96">Quaestio 8</head>
+       <p xml:id="n3av8a-c1e5168-d1e99">
+        <lb ed="#B" n="2"/>SEquuntur quaesita de hominibus: vbi quaerebantur quaedam pertinentia ad animam principaliter: &amp; quaedam perti 
+       <lb ed="#B" n="3"/>nentia principaliter ad compositum ex anima &amp; corpore. Primo quaerebatur vnum pertinens ad intelle- 
+       <lb ed="#B" n="4"/>ctum. Vtrum intellectus agens pertineat ad imaginem in homine. Et tria pertinentia ad voluntatem 
+       <lb ed="#B" n="5"/>quorum primum pertinebat ad obiectum voluntatis. Vtrum primum &amp; per se obiectum 
+       <lb ed="#B" n="6"/>voluntatis sit bonum sub ratione boni simpliciter, an sub ratione conuenientis. Alia vero 
+       <lb ed="#B" n="7"/>duo ad voluntatis actum: quorum primum erat. Vtrum actus volitionis moralis speciem 
+       <lb ed="#B" n="8"/>moris fortiatur ab obiecto an a voluntate. Secundum erat. Vtrum ad eliciendum actum 
+       <lb ed="#B" n="9"/>volitionis sufficiat sola obiecti ostensio: an cum hoc requiratur aliqua influentia vel affectio. Quaere- 
+       <lb ed="#B" n="10"/>batur demum vnicum communiter pertinens ad essentiam animae &amp; ad potentiam. Vtrum beatitudo perficit 
+       <lb ed="#B" n="11"/>principaliter &amp; primo potentiam animae an essentiam. Circa primum arguitur quod intellectus agens non per- 
+       <lb ed="#B" n="12"/>tinet ad imaginem, quia nec est memoria, nec intelligentia, nec voluntas: eo quod sua actio circa phantasma 
+       <lb ed="#B" n="13"/>ta praecedit operationes illarum: &amp; non sunt aliae partes imaginis. ergo &amp;c. Contra: agens &amp; possibi- 
+       <lb ed="#B" n="14"/>lis sunt duae partes intellectus: quare cum agens sit nobilior possibili, &amp; in imagine consistat naturae in  
+       <lb ed="#B" n="15"/>tellectualis nobilitas: ergo potius pertinet ad imaginem quam possibilis. Hic oportet videre a principio 
+       <lb ed="#B" n="16"/>quid appelletur intellectus agens: &amp; quomodo se habeat ad memoriam &amp; intelligentiam. hoc enim viso pa 
+       <lb ed="#B" n="17"/>tebit intentum. Est igitur sciendum quod secundum <name ref="#Aristotle">Philosophum</name> in tertio de anima, est intellectus agens qui facit intel 
+       <lb ed="#B" n="18"/>ligere omne: &amp; est habitus quidam vt lux. Habitus autem est non qui est accidens: ita quod non sit pars animae 
+       <lb ed="#B" n="19"/>sed habitus dicitur quia habet similitudinem habitus, &amp; hoc in duobus quae sunt opera eius. Quorum vnum  
+       <lb ed="#B" n="20"/>est illuminare intellectum possibilem sicut lumen materiale diaphanum: vel potius sicut lux corpus lumi- 
+       <lb ed="#B" n="21"/>nosum. Actio enim eius in ordine ad possibilem potius est lucere quam illuminare. est enim lux quaedam spiri- 
+       <lb ed="#B" n="22"/>tualis in possibili pertinens ad potentiam intellectualem essentialiter, sicut &amp; ipse possibilis: &amp; quemadmo 
+       <lb ed="#B" n="23"/>dum lux est natura visus. &amp; secundum hoc vt dicit Auer. intellectus possibilis perficitur per agentem: &amp; 
+       <lb ed="#B" n="24"/>hoc dicit visus luce sua connaturali: sine qua non ageret ad formandum in se actum visionis nec ad il- 
+       <lb ed="#B" n="25"/>lum recipiendum. Et secundum hoc. xii. de trinitate capitulo vltimo dicit beatus <name ref="#Augustine">Augustinus</name> quod intellectus noster intelli 
+       <lb ed="#B" n="26"/>git intelligibilia in quadam luce interiore generis sui spirituali: sicut oculus videt colores in quadam  
+       <lb ed="#B" n="27"/>luce generis sui corporali. Secundum vero opus eius est ex ordine suo ad phantasmata: quia resplendet 
+       <lb ed="#B" n="28"/>super phantasmata sicut lumen diaphani super colores: &amp; per hoc separat phantasmata a conditionibus par- 
+       <lb ed="#B" n="29"/>ticularibus materiae: &amp; de vniuersali &amp; intelligibili in potentia facit vniuersale &amp; intelligibile secun 
+       <lb ed="#B" n="30"/>dum actum: &amp; ipsum mouere intellectum possibilem: &amp; per hoc quod vniuersale factum secundum actum im 
+       <lb ed="#B" n="31"/>butum est lumine agentis, facit quod mouet intellectum possibilem: sicut colores mouent visum vt abstracti 
+       <lb ed="#B" n="32"/>sunt secundum actum &amp; imbuti lumine, &amp; commixti sunt ipsi: ita quod agens ista duo agat circa phantasma 
+       <lb ed="#B" n="33"/>ta. inquantum enim facit quod sunt formae secundum actum intelligibiles, se habet vt ars producens formas in actu 
+       <lb ed="#B" n="34"/>&amp; inquantum facit quod mouent intellectum secundum actum, se habet ad phantasmata sicut lumen quo imbu 
+       <lb ed="#B" n="35"/>ti sunt colores: qui licet essent abstracti non mouerent visum nisi essent lumine imbuti &amp; ei commixti vt per  
+       <lb ed="#B" n="36"/>hoc in virtute eius moueant. &amp; sic facit intelligere causando actum intellectionis in possibili. Et in sum- 
+       <lb ed="#B" n="37"/>ma facit duo circa phantasmata, &amp; duo circa possibilem intellectum. Circa phantasmata enim quasi resplen- 
+       <lb ed="#B" n="38"/>dendo super illa &amp; illuminando ea non egrediendo a possibili sed conuertendo se ad illa: quia in eadem 
+       <lb ed="#B" n="39"/>substantia animae sunt phantasiata in qua sunt phantasmata: &amp; intellectus agens primo facit illa esse actu 
+       <lb ed="#B" n="40"/>intelligibilia: secundo dat eis vim mouendi secundum actum intellectum possibilem: inquantum scilicet sunt 
+       <lb ed="#B" n="41"/>quasi imbuta &amp; commixta lumini agentis. Circa possibilem autem non quasi resplendendo &amp; illuminando eum, 
+       <lb ed="#B" n="42"/>sed quasi lucendo in eo. Primo vt est lux indeterminata disponit ipsum vt sit receptiuus actus qui est intel 
+       <lb ed="#B" n="43"/>lectio: sine qua media non reciperet illum, sicut nec visus actum visionis nisi in eo luceret media lux con- 
+       <lb ed="#B" n="44"/>naturalis. Secundo autem vt est lux determinata ab intelligibili disponit ipsum vt sit actus actionis quae  
+       <lb ed="#B" n="45"/>est intellectio: sine qua determinante vim elicitiuam ipse intellectus possibilis illam non eliceret. Sicut vis vi 
+       <lb ed="#B" n="46"/>siua in oculo non eliceret actum visionis nisi esset disposita luce determinata a colore. Et hoc est quod breui- 
+       <lb ed="#B" n="47"/>ter &amp; expresse dicit Commentator Auerroes super tertium de anima, loquens de intellectu possibili, sic inquiens. Debes scire 
+       <lb ed="#B" n="48"/>quod intellectus agens ad istum intellectum est respectus lucis ad diaphanum: &amp; respectus formarum materia-  
+       <lb ed="#B" n="49"/>lium ad ipsum est respectus coloris ad diaphanum, quemadmodum enim lux est persectio diaphani, sic intel- 
+       <lb ed="#B" n="50"/>lectus agens est perfectio materialis: &amp; quemadmodum diaphanum non mouetur a colore nec recipit 
+       <lb ed="#B" n="51"/>ipsum nisi quando lucet, ita iste intellectus non recipit intellecta quae sunt hic nisi secundum quod perfi- 
+       <lb ed="#B" n="52"/>citur per illum intellectum &amp; illuminatur per ipsum: &amp; quemadmodum lux facit colores in potentia esse in actum, ita 
+       <lb ed="#B" n="53"/>quod possint mouere diaphanum: ita intellectus agens facit intentiones in potentia intellectas in actu intelle 
+       <lb ed="#B" n="54"/>ctas, ita quod recipiat eas intellectus materialis. Nota quod clarior fuisset sententia si sic dixisset. Debes sci 
+       <!--1100.xml-->
+       <pb ed="#B" n="530-r"/>
+        <lb ed="#B" n="1"/>re quod intellectus agens ad istum possibilem est respectus lucis connaturalis ad oculum: &amp; respectus formarum ma 
+       <lb ed="#B" n="2"/>terialium ad ipsum scilicet intellectum possibilem, est respectus coloris ad oculum, quemadmodum enim lux connaturalis est 
+       <lb ed="#B" n="3"/>perfectio oculi, sic intellectus agens est perfectio materialis intellectus. ecce actio secunda agentis in possibili. sequitur 
+       <lb ed="#B" n="4"/>Et quemadmodum oculus non mouetur a colore neque recipit ipsum nisi quando lucet, ita iste intellectus non 
+       <lb ed="#B" n="5"/>recipit intellecta quae sunt hic nisi secundum quod perficitur per illum intellectum &amp; illuminatur per ipsum. ecce 
+       <lb ed="#B" n="6"/>actio eius prima circa possibilem. Et quemadmodum lux facit colores in potentia esse in actu ita vt possint 
+       <lb ed="#B" n="7"/>mouere oculum. Ecce primum opus lucis circa colores cum dicit: Facit colores in potentia esse in actum. &amp; 
+       <lb ed="#B" n="8"/>ecce secundum, cum subdit: Ita vt possint mouere oculum. sequitur. Ita intellectus agens facit intentiones in  
+       <lb ed="#B" n="9"/>potentia intellectas in actu intellectas. ecce primum agentis opus circa phantasmata. &amp; sequitur secundum. Ita 
+       <lb ed="#B" n="10"/>quod recipiat eas intellectus materialis. Et esset melius simile de luce connaturali in oculo si sufficeret ad me 
+       <lb ed="#B" n="11"/>dium illuminandum &amp; agendum circa colores: sicut sufficit lux connaturalis in oculo cati, quam sit de luce ex- 
+       <lb ed="#B" n="12"/>teriore in diaphano: quia illa lux exterior magis assimilatur agenti vniuersali separato cuiusmodi est 
+       <lb ed="#B" n="13"/>lux increata: qua vident etiam iniusti recte operanda &amp; non sine illa: quemadmodum non videmus colores 
+       <lb ed="#B" n="14"/>sine adiutorio lucis exterioris. Hoc viso dico: quod cum agens pertineat ad potentiam intellectiuam &amp; est 
+       <lb ed="#B" n="15"/>de natura eius, non potest non pertinere ad imaginem. Sed quia secundum determinationem Ausginus imago non com 
+       <lb ed="#B" n="16"/>sistit propric in potentiis animae cum sit ipsa substantia eius, nisi vt per actus suos a prima illarum 
+       <lb ed="#B" n="17"/>vt a parente habet produci secunda sicut proles: vt a memoria intelligentia, sicut notitia de notitia 
+       <lb ed="#B" n="18"/>&amp; ab ambabus tertia vt a duplici notitia amor: videlicet a memoria &amp; intelligentia voluntas: igitur 
+       <lb ed="#B" n="19"/>dico quod agens intellectus vt conuertitur ad phantasmata secundum dictas operationes duas circa illa 
+       <lb ed="#B" n="20"/>quia non includitur in memoria vt de ipsa &amp; de notitia quae est in ea procedit notitia intelligentiae: neque  
+       <lb ed="#B" n="21"/>similiter includitur in ipsa intelligentia nec etiam in ambabus vt ab ipsis procedit voluntas, nequaquam perti 
+       <lb ed="#B" n="22"/>net ad imaginem nisi vt praeparatiuum &amp; actiuum circa intelligibilia quae sunt in potentia vniuersalia vt fiant 
+       <lb ed="#B" n="23"/>actu vniuersalia &amp; actum possint mouere intellectum possibilem vt informetur notitia simplici rerum sensibi 
+       <lb ed="#B" n="24"/>lium a quibus erant phantasiata in vi imaginatiua: &amp; sic vt fiat memoria actualis intelligentiae. omnis enim no 
+       <lb ed="#B" n="25"/>titia simpliciter primo generata in intellectu ascribitur memoriae. Eadem enim sunt potentia memoria &amp; intelli 
+       <lb ed="#B" n="26"/>gentia: in qua distinguuntur vt diuersae vires. Et dicitur communi nomine intellectus possibilis: qui distin-  
+       <lb ed="#B" n="27"/>guitur contra agentem: sed in se continet duas vites. quia memoria dicitur inquantum est susceptibilis no 
+       <lb ed="#B" n="28"/>titiae directo aspectu ab intellectibus simplicibus &amp; conseruatiua eius: intelligentia vero dicitur inquantum  
+       <lb ed="#B" n="29"/>conuersa super se, vt est memoria informata simplici notitia &amp; susceptiua informationis notitiae decla 
+       <lb ed="#B" n="30"/>ratiuae. &amp; ambae tanquam plus conuenientes inter se distinguuntur ab agente vt a tertia vi in potentia intel 
+       <lb ed="#B" n="31"/>lectiua distincta contra vtramque illarum. Quia tamen agens intellectus vt conuersus est ad phantasmata di-  
+       <lb ed="#B" n="32"/>cto modo praeparatiuus est &amp; actiuus ad informationem memoriae vt foecundetur notitia simplici &amp; pos 
+       <lb ed="#B" n="33"/>sit esse parens: ideo quo ad hoc dici debet pertinere ad memoriam vt ad parentem &amp; non ad intelligentiam. 
+       <lb ed="#B" n="34"/>Sed quia secundum determinationem Augu. imago non est proprie in potentiis animae, nisi vt suis actibus com 
+       <lb ed="#B" n="35"/>uertuntur per cognitionem &amp; amorem ad aeternum &amp; increatum: eo enim anima, imago dei est quo capax dei est 
+       <lb ed="#B" n="36"/>vel capax esse potest: ad quod nullo modo potest se conuertere intellectus agens per illas duas operatio 
+       <lb ed="#B" n="37"/>nes suas quas habet circa phantasmata: quia aeternum non habet phantasmata: Nullo igitur modo intel- 
+       <lb ed="#B" n="38"/>lectus agens, vt consideratur in ordine ad phantasmata. secundum operationes eius circa illa pertinet ad ve- 
+       <lb ed="#B" n="39"/>ram rationem imaginis: sicut nec memoria &amp; intelligentia: vt convertuntur ad cognoscendum temporalia 
+       <lb ed="#B" n="40"/>&amp; inferiora: &amp; vniuersaliter quaecumque creata per notitiam quae proprie dicitur scientia: sed tantummodo  
+       <lb ed="#B" n="41"/>vt conuertuntur ad cognoscendum aeternum &amp; aeternas regulas per notitiam quae proprie dicitur sapien- 
+       <lb ed="#B" n="42"/>tia. Si igitur intellectus agens pertineat ad veram rationem imaginis: hoc non potest esse, nisi vt con 
+       <lb ed="#B" n="43"/>sideratur in ordine ad intellectum possibilem, secundum alias duas operationes suas praedictas. Et dico: 
+       <lb ed="#B" n="44"/>quod ita est. Per hoc enim quod lucet vt pura lux in intellectu possibili, disponit ipsum vt sit receptiuus no 
+       <lb ed="#B" n="45"/>titiae de luce increata. Per hoc autem quod in eodem est quasi determinata ipso intelligibili increato, ope 
+       <lb ed="#B" n="46"/>ratur vel potius cooperatur vt in intellectu formetur notitia de intelligibili increato. Sed prima ope 
+       <lb ed="#B" n="47"/>ratione, primo disponit intellectum possibilem: vt sit receptiuus notitiae simpliciter secundum rectum 
+       <lb ed="#B" n="48"/>aspectum: &amp; sic sub ratione memoriae. Et secundo disponit intellectum possibilem, vt sit receptiuus no 
+       <lb ed="#B" n="49"/>titiae declaratiuae: secundum quod respicit memoriam informatam notitia simplici, aspectum conuerso: &amp; sic 
+       <lb ed="#B" n="50"/>sub ratione intelligentiae. Similiter secunda operatione primo disponit memoriam: vt in ea de intel- 
+       <lb ed="#B" n="51"/>ligibili increato, formetur notitia simplex. Secundo vero: vt de notitia illa simplici existente in me 
+       <lb ed="#B" n="52"/>moria: formetur notitia declaratiua in intelligentia. &amp; hoc secundum modum quo notitia simplex 
+       <lb ed="#B" n="53"/>&amp; declaratiua siue verbum de deo, habent formari: prout alibi declarauimus. Et secundum hoc 
+       <lb ed="#B" n="54"/>dico: quod intellectus agens secundum dictas duas operationes, communiter pertinet &amp; ad memoriam &amp; 
+       <!--1101.xml-->
+       <pb ed="#B" n="530-v"/>
+        <lb ed="#B" n="1"/>ad intelligentiam: sicut ad intellectum possibilem. vt qui eadem est potentia simpliciter in re &amp; in substan 
+       <lb ed="#B" n="2"/>tia animae: a quo solummodo distinguitur vt vis alia: sed existens &amp; manens vt forma &amp; lux in illa: 
+       <lb ed="#B" n="3"/>disponens ipsum, sicut habitus, ad recipiendum in se operationem vitae quae est intellectio: &amp; ad agen- 
+       <lb ed="#B" n="4"/>dum eandem. Secundum hoc ergo concedenda est secunda ratio. Ad primum in oppositum: quod intelle- 
+       <lb ed="#B" n="5"/>ctus agens non pertinet ad imaginem: quia nec est memoria, nec intelligentia, nec voluntas: Dico: quod  
+       <lb ed="#B" n="6"/>falsum est, quia memoria &amp; intelligentia, vt distinguuntur sicut intellectus contra voluntatem, vt po 
+       <lb ed="#B" n="7"/>tentiae diuersae, sunt vna potentia continens diuersas vires: quae primo distinguuntur secundum agens 
+       <lb ed="#B" n="8"/>&amp; possibile: &amp; possibile secundum memoriam &amp; intelligentiam, in quibus ambabus vt sunt partes ima 
+       <lb ed="#B" n="9"/>ginis: continetur agens vt perfectio possibilis &amp; habitus in illo secundum dictum modum. Et quod addi  
+       <lb ed="#B" n="10"/>tur: quod sua actio est circa phantasmata &amp; praecedit actionem illarum: Dico quod verum est, &amp; quod secundum 
+       <lb ed="#B" n="11"/>hunc respectum non proprie pertinet ad imaginem: pertinet tamen secundum dictum modum. Habet ta- 
+       <lb ed="#B" n="12"/>men alias operationes secundum quas proprie ad imaginem pertinet. vt supra dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

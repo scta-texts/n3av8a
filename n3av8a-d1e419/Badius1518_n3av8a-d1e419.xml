@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 32</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 32</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="252-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e419">
+       <head xml:id="n3av8a-d1e419-Hd1e96">Quaestio 32</head>
+       <p xml:id="n3av8a-d1e419-d1e99">
+        <lb ed="#B" n="6"/>CIrca secundum arguitur: quod primi motus sunt peccata: quia secundo sententiarum. dist. xxv. dicitur 
+       <lb ed="#B" n="7"/>quod tentatio ex carne non est fine peccato Sed talis tentatio est in primis motibus. ergo &amp;c. 
+       <lb ed="#B" n="8"/>
+      </p>
+      <p xml:id="n3av8a-d1e419-d1e108">
+       CONtra. non sunt voluntarii: &amp; non est peccatum nisi sit voluntarium secundum Augustinum. 
+      </p>
+      <p xml:id="n3av8a-d1e419-d1e111">
+       IN 
+       <lb ed="#B" n="9"/>ista quaestione sicut in omnibus aliis deteriatis, suppositis eis quae sunt fidei: semper oportet aspice 
+       <lb ed="#B" n="10"/>re ad naturam: quid recta ratio de interrogato circa eam possit inuestigare. Est igitur intelligen 
+       <lb ed="#B" n="11"/>dum secundum tacta superius de originali iustitia: quod originale peccatum siue origialis iniustitia. 
+       <lb ed="#B" n="12"/>ponit duoe scilicet carentiam iustitiae originalis, siue fuerit donum naturale siue supernaturale. 
+       <lb ed="#B" n="13"/>&amp; dispositionem ei contrarias. scilicet obliquationem quandam in ipsa voluntate propter quae in poenam peccati vires inferiores 
+       <lb ed="#B" n="14"/>rebellionem habent contra voluntatem: &amp; ipsa penitus repugnante mouentur. &amp; hoc vt erubesceret humani libertas 
+       <lb ed="#B" n="15"/>arbitrii quod contemnendo impantem deum etiam in membra, propria, proprium perdidisset dominium, vt dicit <name ref="#Augustine">Augustinus</name> i. ix. de nup. 
+       <lb ed="#B" n="16"/>Et non solum in poenam peccati habent vires inferiores rebellionem contra voluntatem: sed est carni inflicta est morbida dispon 
+       <lb ed="#B" n="17"/>quae fomes appellatur siue languor naturae: quo in carne primo pullulat motus delectabilis: quem secundo apphendit 
+       <lb ed="#B" n="18"/>sensus: &amp; per hoc tertio vis appetitiua sensibil organice existens in carne titillatur delectatione ad concupiscendum  
+       <lb ed="#B" n="19"/>delectabile: ad quod vergit ille motus in carne. Et praeueniunt isti tres gradus omnino omnem motum voluntatis: &amp; com- 
+       <lb ed="#B" n="20"/>sistunt in istis duo motus qui appellantur primo primi. Quorum vnus appellatur suggestio a carne in appetitum sensiti- 
+       <lb ed="#B" n="21"/>uum. Alius vero delectatio siue desiderium in ipso appetitu sensitiuo. Cum quibus <name ref="#Augustine">Augustinus</name> li. primo de sermone 
+       <lb ed="#B" n="22"/>domini in mote, assumit consensum voluntatis pro rttio: et distinguit tres gradus in progressu ad peccatum dicens. Tria 
+       <lb ed="#B" n="23"/>sunt quibus completur peccatum: siue per suggestionem, siue per memoriam, siue per corporis sensus: quia si frui delectauerit, de 
+       <lb ed="#B" n="24"/>lectatio illicita refraenanda est. Si autem consensio fuerit, plenum peccatum erit: vt quasi a serpente fiat suggestio &amp; quae  
+       <lb ed="#B" n="25"/>dam suasio. in appetitu vero carnali tamquam in Eua delectatio: in ratione vero tamquam in viro consensio. Et quia totus mo 
+       <lb ed="#B" n="26"/>tus existens in carne &amp; in appetitu sensitiuo non est aliud respectu voluntatis nisi quaedam suggestio &amp; titillatio 
+       <lb ed="#B" n="27"/>in voluntate ad condelectandum: ideo <name ref="#Augustine">Augustinus</name> totum motum qui in carne &amp; appetitu sensitiuo praecedit motum volum 
+       <lb ed="#B" n="28"/>tatis: pro vno reputat: cum illo annumerans tres gradus quibus proceditur in mortale peccatum. Per actum voluntatis disti 
+       <lb ed="#B" n="29"/>guit quaetuor gradus quibus perficitur peccatum mortale in libro de verb. domini. sermone. xx. dicens. Ad consuetudinem quarto  
+       <lb ed="#B" n="30"/>quodam processu peruenit anima. Prima enim est titillatio delectationis in corde: secunda consensio: tertia factum: quarta con 
+       <lb ed="#B" n="31"/>suetudo. Et hic est aduertendum: quod post illam titillationem in quae consistunt motus primo primi, vt dictum est, and con- 
+       <lb ed="#B" n="32"/>sensum voluntatis, in quo consistit peccatum mortale, est aliquis motus delectationis in voluntate in quo consistit peccatum 
+       <lb ed="#B" n="33"/>veniale: secundum quod continuo exprimit dicens. Sut qui res illicitas obuias cogitationibus suis, prorsus ita abiiciunt 
+       <lb ed="#B" n="34"/>vt nec delectentur. Sunt qui delectentur: sed non consentiunt: nondum perfecta est mors: sed quodammo inchoata. Dele 
+       <lb ed="#B" n="35"/>ctationi accedit consensio: &amp; iam est plena danmnatio. Post consensionem in factum procedit: factum in consuetudinem ver 
+       <lb ed="#B" n="36"/>titur: &amp; fit quaedam desparatio. Aduerte quod id quid hic dicit: Accedit consensio: &amp; iam est plena danmnatio: idem est cum eo quid  
+       <lb ed="#B" n="37"/>dixit de pmone domini in modotem. Si consensio fuerit plenum peccatum erit. Et appellat plenum peccatum, peccatum mortale 
+       <lb ed="#B" n="38"/>quid meretur danmnationem. Et debet ista consensio in quae consistit peccatum mortale quid meretur danmnationem, talis esse: quod sit  
+       <lb ed="#B" n="39"/>deliberatia: non surreptitia. Tunc autem est deliberatiua, quando postquam ratio percipit delectationem: &amp; aduertit iudicam 
+       <lb ed="#B" n="40"/>do eam esse illicitam, adhuc voluntas se tenet in ea, &amp; non cohibet eam. Quia vt dicit <name ref="#Augustine">Augustinus</name> de psimoe domini, huic 
+       <lb ed="#B" n="41"/>non consentimus si eam dominantis rationis iure cohibemus. Appellat autem dominantem rationem: appetitum ratioalem: siue voluntatem: 
+       <lb ed="#B" n="42"/>quia ratio cognoscens &amp; iudicans non est dominans, sed seruiens. In tali ergo consensione deliberatiua consistit primo 
+       <lb ed="#B" n="43"/>peccatum mortale. Et quicquid praecedit in actum voluntatis, aut appetitus sensibilis, aut carnis: aut non est peccatum, aut 
+       <lb ed="#B" n="44"/>solummo peccatum veniale est. Vnde &amp; consensio subreptitia in voluntate quae praecedit iudicium praedictum rationis: quia est vo 
+       <lb ed="#B" n="45"/>luntatis motus vt est natura: non autem vt arbitrio, seu deliberatiua: non computatur nisi inter venialia peccatam. &amp; 
+       <lb ed="#B" n="46"/>hoc siue fuerit consensio subreptitia in delectationem siue in factum. Et sic ante consensum voluntatis per iudicium 
+       <lb ed="#B" n="47"/>rationis praecedentis duo motus ad minus praecedunt in voluntate vergentes in peccatum. scilicet delectationis &amp; consensus 
+       <lb ed="#B" n="48"/>subreptitii, &amp; appellantur motus secundo primi. Primi respectu omnium motuum qui fiunt in voluntate. Secundo primi 
+       <lb ed="#B" n="49"/>respectu illorum qui sunt primo primi in carne &amp; sensualitate. Post istos autem motus primo primos &amp; secundo primos qui  
+       <lb ed="#B" n="50"/>praecedunt iudicium rationis cum per iudicium ratiois voluntas vt est arbitrio libera consentit siue in delectationem, vt se in ea 
+       <lb ed="#B" n="51"/>teneat: tunc est primus gradus mortal peccati i consensione sola existentis: siue in factum: vt in ipsum vlterius procedat: tunc est 
+       <lb ed="#B" n="52"/>secunds gradus peccati mortalis existentis in consensione dicente <name ref="#Augustine">Augustinus</name> i. primo. de serm. domini in modo &amp; exponente illud  
+       <lb ed="#B" n="53"/>Matilosoe. x. Qui viderit mulierem &amp;c. Sane considerandum est quod non dixit: Omnis qui concupiuerit mulierem: sed qui  
+       <lb ed="#B" n="54"/>viderit mulierem ad concupiscendum. i. hoc fine &amp; hoc animo attenderit vt eam concupiscat: quod non est iam titillari 
+       <lb ed="#B" n="55"/>delectatione carnis: sed plane consentire libidini: ita vt non refraenetur illicitus appetitus: sed si facultas 
+       <!--544.xml-->
+       <pb ed="#B" n="252-r"/>
+        <lb ed="#B" n="1"/>data fuerit satietur. Aduerte quod dicit: Non est iam delectare. scilicet in voluntate delectatione carnis cum carne scilicet condele 
+       <lb ed="#B" n="2"/>ctando in voluntate siue cum subreptitia consensione, siue sine ea: in quibus non est nisi veniale peccatum. Sed plane con- 
+       <lb ed="#B" n="3"/>sentire. quia postquam iudicium rationis praecessit, vel saltem debuit praecessisse, tunc clarum est quod est consensio, quia non erat 
+       <lb ed="#B" n="4"/>plane consentire in consensione subreptitia. Dico vel saltem debuit praecessisse, quia plane consentire contingit in dele 
+       <lb ed="#B" n="5"/>ctationem, vel vere, vel interpretatiue. vere quando vere praecessit iudicium rationis. interpretatiue, quando interpretatiue praeces- 
+       <lb ed="#B" n="6"/>sit iudicium rationis. Quod fit quando ex delectatione voluntatis intantum absorbetur ratio, vt non possit intendere iudicio: &amp; 
+       <lb ed="#B" n="7"/>negligit voluntas mouetr rationem ad iudicandum, &amp; permittit transire tempors quae posset deliberare, quid cum partransierit:  
+       <lb ed="#B" n="8"/>etsi non vere consentit ex liberi arbitrii electione, quae non sit sine iudicii praecedentis discretione: consentit tamen inter 
+       <lb ed="#B" n="9"/>praetatiue, hoc est reputatiue, quia non tantum est contemptus mortalis ex electione delectari, &amp; non refraenare carnis ap 
+       <lb ed="#B" n="10"/>petitum, sed est propter delectationem negligere mouere rationem ad iudicandum, vt possit eligere, repellere dele 
+       <lb ed="#B" n="11"/>ctationem, &amp; refraenare appetitum sensibilem. Est igitur progressus in peccatum talis: siquis aduertere iam dicta voluerit 
+       <lb ed="#B" n="12"/>Primo enim ex fomite sit motus quidam titillationis in carne ad libidinem, hoc est ad carnalem concupiscentiam: quem ap 
+       <lb ed="#B" n="13"/>praehendit sensus existens in carne, per cuius apprihensionem primo mouetur appetitus sensitiuus sensui coniunctus motu de 
+       <lb ed="#B" n="14"/>lectationis circa illud ad quod caro titillat. Tertio mouetur motu desiderii ad prosequendum illud in opus. quem 
+       <lb ed="#B" n="15"/>motum in appetitu sensitiuo sensu mediante apprhendit ratio simplicis intelligentiae. Per cuius apprehensionem 
+       <lb ed="#B" n="16"/>quarto mouetur voluntas motu delectationis condelectando appetitui sensitiuo: &amp; quito mouetur motu in  
+       <lb ed="#B" n="17"/>delectationem, &amp; sexto desiderio consensus subreptitii ad prosequendum illud in opus. &amp; hic est limes &amp; terminus 
+       <lb ed="#B" n="18"/>venialis peccati. Septimo est consensus interpretatiuus in delectationem, &amp; est primus &amp; insimus gradus peccati mortal, quid ap 
+       <lb ed="#B" n="19"/>pellatur mortale ex delectatione morosa. Octauo est consensus verus in delectationem. Nono est consensus in opus 
+       <lb ed="#B" n="20"/>&amp; est sm <name ref="#Augustine">Augustinus</name> de sermone domini, plenum peccatum notum deo in corde nio: etsi factum non inotescat hominibus. Et tunc 
+       <lb ed="#B" n="21"/>decimo si facultas adsit sequitur operis executio. Et. xi. ex frequenti executione consuetudo, &amp;. xii. ex consuetudie 
+       <lb ed="#B" n="22"/>desperatio. Et. xiii. ex desperatione obstinatio. dicente <name ref="#Augustine">Augustinus</name> in sermone de Pharaonis obduratione. Ex 
+       <lb ed="#B" n="23"/>multitudine peccatorum desperatio nascitur, &amp; ex desperatione obduratio generatur, pm illud quod scriptum est, pec 
+       <lb ed="#B" n="24"/>cator cum in profundum peccatorum venerit, contemnit. Et tunc. xiiii. &amp; vltimo sequitur finalis impoenitentia. de quae di-  
+       <lb ed="#B" n="25"/>cit <name ref="#Augustine">Augustinus</name> in sermone de blasphemia in spenitum sctantum. Impoenitentia quamdiu quisque in hac carne viuit, non potest iudi 
+       <lb ed="#B" n="26"/>cari: quamquam perseuerantem duritiam cordis intelligimus. His visis &amp; declaratis ad intellectum quaestionis, respondendo ad  
+       <lb ed="#B" n="27"/>ipsam dicimus distinguendo: quod sm iam determinata motus primi sunt l duplici genere. quoniam quidam sunt primo primi: qui-  
+       <lb ed="#B" n="28"/>dam vero secundo primi. Si loquamur de secundo primis, de illis nullus putat esse dubitandum quin ad minus sint venia 
+       <lb ed="#B" n="29"/>lia peccatam, eo quod ratio etsi forte non possit huiusmodi motus omnino ita reprimere quin insurgant: potest tamen eos a se ratio repel 
+       <lb ed="#B" n="30"/>lere ne delectetur in eis: aut eis consentiatur, pm quod patet ex iam dictis sm <name ref="#Augustine">Augustinus</name> &amp; ideo condelectari, aut consen 
+       <lb ed="#B" n="31"/>tire necessario peccatum ei est propter quid in eis qui delectantur seuconsentiunt, non perfecta est mors, sed quodammo in  
+       <lb ed="#B" n="32"/>choata. De motibus autem primo primis sunt opiniones: quibusdam dicentibus quod sunt peccatam venialia, eo quod in se sunt defor  
+       <lb ed="#B" n="33"/>mes &amp; contra regulam rectae rationis a quae debebant cohib eri, &amp; non sunt cohibiti. Sed quaero ab istis, vtrum huiusmodi  
+       <lb ed="#B" n="34"/>motus sint peccam omissionis aut commissionis. Non commissionis directe, quia non a voluntate videntur impari, non est ei du  
+       <lb ed="#B" n="35"/>bium si voluntarie directe committerentur, quin essent peccata, immo sic est ex contemptu possent esse mortalia. Non omis 
+       <lb ed="#B" n="36"/>sionis, quia non imputatur voluntati illius omissio in peccatum, quod non est in sua potestate agere. Aliter enim non esset volunta 
+       <lb ed="#B" n="37"/>rium, quia voluntas domina est actuum voluntariorum. Peccatum autem sm <name ref="#Augustine">Augustinus</name> ita est voluntarium, quod si non esset volunta 
+       <lb ed="#B" n="38"/>rium non esset peccatum. Non autem est in potestate voluntatis illos motus cohibere. quia sm <name ref="#Augustine">Augustinus</name> occurrunt omnino inuitis 
+       <lb ed="#B" n="39"/>dicente Apost. Ro. vii. non quod volo hoc ago, sed quod nolo hoc facio. Sed forte dicet aliquis: quod licet non sit in  
+       <lb ed="#B" n="40"/>ptante hominis omnes velte prohibere, est tamen in potestate eius singulos singillatim cohibere. Sed tunc quaero, aut est in potestate ho 
+       <lb ed="#B" n="41"/>minis determinate singulos cohibere, aut indeterminate. Non primo modo quia impossibile est quod voluntas pro vna 
+       <lb ed="#B" n="42"/>hora simul determinate attendat diuersis: quae tamen simul vna hora praesent insurgere sm diuersa appetibilia 
+       <lb ed="#B" n="43"/>vnius vel diuersorum sensuum qui simul prasent moueri a suis sensibilibus, &amp; simul incitare appetitum sensitiuum: &amp; 
+       <lb ed="#B" n="44"/>per illum appetitum rationalem. Si autem solum sit in potestate voluntatis singulos indeterminate prohibere, ita quod non  
+       <lb ed="#B" n="45"/>sit in potestate sua in vna hora plus quam vnicum quidcumque sit illud, tunc pro aliis non peccat, quia non sunt in potestate sua 
+       <lb ed="#B" n="46"/>pro illa hora. Et si illum qui est in potestate sua pro hora cohibeat, nullo modo est peccatum. Si vero non prohibeat, ei est pec 
+       <lb ed="#B" n="47"/>catum veniale actum suo proprio: &amp; debet ei imputari ad peccatum, nec ad expiationem reatus ipsius valet bapti 
+       <lb ed="#B" n="48"/>smus praecedens delens originale quo ad reatum. De caeteris autem motibus qui non fuerunt in potestate voluntatis de 
+       <lb ed="#B" n="49"/>terminate, dicunt quod licet non sint peccata voluntati ex actum suo commissionis vel omissionis, tamen essent ei peccata 
+       <lb ed="#B" n="50"/>ex vitio sue scilicet ex fomite remanente de originali peccato. Sed contra. cum indulgetur principale quid est ma 
+       <lb ed="#B" n="51"/>ius, &amp; accessorium quod est minus. sed omnis deformitas quae manet in fomite ex peccato originali indulgetur imba 
+       <lb ed="#B" n="52"/>ptismo, quare similiter indulgetur omnis deformitas quae existit in his motibus ex deformitate praeexistente in fomi- 
+       <lb ed="#B" n="53"/>te. Et per idem concluditur quod non praesent esse peccatam conmissionis: quia nec substantia actus nec eius deformitas est a volum 
+       <lb ed="#B" n="54"/>tate elicita. sed substantia actus elicita est ex sola carnis substantia &amp; appetitu sensibili. Deformitas autem est 
+       <!--545.xml-->
+       <pb ed="#B" n="252-v"/>
+        <lb ed="#B" n="1"/>defectus inactum non habens causam efficientis: sed deficiente scilicet defectum qui appellatur fomes siue concupiscentia. 
+       <lb ed="#B" n="2"/>in carne. Et ideo est aliorum opinio, quod motus primo primi quicunque sint illi, non sunt omnino peccata:  
+       <lb ed="#B" n="3"/>ita etiam quod in regeneratis non sunt venialia peccatm. Quod aperte videtur sentire <name ref="#Augustine">Augustinus</name> cum dicit in libro ii. de nup 
+       <lb ed="#B" n="4"/>&amp; concu. Haec est inquam concupiscentia, quae solo sacramento regenerationis expiatur. Profecto peccati viculum genera 
+       <lb ed="#B" n="5"/>tione traiicit in posteros, nisi ab illo &amp; ipsi regeneratione soluantur, nam &amp; ipsa concupiscentia iam non est. 
+       <lb ed="#B" n="6"/>peccatum quando ad illicita opera non consentitur, atque vt eaperpetrentur a regina mente membra non dantur: vt si 
+       <lb ed="#B" n="7"/>non sit quod scriptum est, Non concupiscas, fiat saltem quod alibi legitur. Post concupiscentias tuas non eas. Ad 
+       <lb ed="#B" n="8"/>uerte quod dicit expiatur: quod intelligo &amp; in radice fomitis, vt non imputetur in peccatum, quia expiatione remissus. 
+       <lb ed="#B" n="9"/>est reatus, licet manet eius deformitas: similiter &amp; in eius effectu. scilicet in defectu ex illo contingente in primis mo 
+       <lb ed="#B" n="10"/>tibus, vt iam dictum est. Quod explicat <name ref="#Augustine">Augustinus</name> per hoc quod subdit, nam concupiscentia non est peccatum quando ad illici 
+       <lb ed="#B" n="11"/>ta opera non consentitur. Quod intelligo, neque etiam condelectando in voluntate quo ad primum motum eius in peccatum 
+       <lb ed="#B" n="12"/>Et est primus gradus venialis peccati, ita quod in nullo motu praecedenti sit ponere peccatum, nec etiam ve- 
+       <lb ed="#B" n="13"/>niale, quod reuera mihi videtur esse ponendum. Adcuius intellectum sciendum est: quod cum in peccato originali in non  
+       <lb ed="#B" n="14"/>regeneratis duo sunt: quorum vnum est incuruatio: quae consistit in voluntatis obliquatione, de qua satis 
+       <lb ed="#B" n="15"/>habitum est supra: Secundum vero est reatus ad poenam pro carentia rectitudinis originalis iustitiae quam de 
+       <lb ed="#B" n="16"/>buit homo custodire: Secundum istorum expiatur sacramento regenerationis, ne regeneratus amplius maneat 
+       <lb ed="#B" n="17"/>obligatus ad poenae solutionem pro debito reatus. Primum vero manet. propter quod vires inferiores in-  
+       <lb ed="#B" n="18"/>obedientes manent superioribus: &amp; similiter fomes in carne ad commouendum primos motus carnalis concupiscen 
+       <lb ed="#B" n="19"/>tiae. Quibus duobus in originali peccato: respondent duo in motibus primis carnalis concupiscentiae scilicet ipsius. 
+       <lb ed="#B" n="20"/>motus deformitas, &amp; reatus poenalis qui ipsi debetur. Quorum primum manet ad poenam in ipsis regene 
+       <lb ed="#B" n="21"/>ratis, sicut &amp; ipsa obliquatio manet in voluntate, &amp; fomes in carne. Secundum vero transit &amp; expiatum 
+       <lb ed="#B" n="22"/>est, eo quod reatus expiatus est circa suam radicem: quae est obliquatio dicta in volutate &amp; fomes in carne. ita 
+       <lb ed="#B" n="23"/>quod sicut neutrum istorum in renatis habet rationem peccati ex parte reatus, sed solum ex parte obliquationis 
+       <lb ed="#B" n="24"/>sic motus primo primi, etsi rationem peccati habent ex parte deformitatis pudendae: nullam tamen habent 
+       <lb ed="#B" n="25"/>ex parte reatus. Et possunt ex hoc formari duae distinctiones quibus respondeatur ad quaestionem 
+       <lb ed="#B" n="26"/>propositam: dicendo quod primi motus possunt considerari dupliciter, quemadmodum &amp; quilibet actus vir- 
+       <lb ed="#B" n="27"/>tutis &amp; vitii. Vno modo secundum se &amp; absolute quo ad dispositionem &amp; formam actus. Alio modo in respectu 
+       <lb ed="#B" n="28"/>ad finem quo ad praemium &amp; mercedem debitam pro actum. Primo quidem modo procul dubio primi motus peccatam 
+       <lb ed="#B" n="29"/>sunt tam in renatis quam in non renatis: quia deformitatem habent in se contra regulas prudentiae &amp; rationis re- 
+       <lb ed="#B" n="30"/>ctae, quae deformitas rationem vitii habet sicut contraria informatio eius habet rationem virtutis. Hoc etiam 
+       <lb ed="#B" n="31"/>modo obliquatio dicta in ratione rationem vitii habet: et similiter fomes in carne, &amp; hoc sm modumquo  
+       <lb ed="#B" n="32"/>virtutes &amp; vitia conceduntur esse in viribus sensitiuis non per essentiam, sed per quandam pricipationem, vt in  
+       <lb ed="#B" n="33"/>Quolibet praecedente determinauimus, vt de hoc non oporteat hic distinguere, aut aliquam prolixitatem 
+       <lb ed="#B" n="34"/>inducere. Secundo autem modo primi motus (dico primo primi) peccata non sunt in renatis: quia propter 
+       <lb ed="#B" n="35"/>sacramenti expiationem tecta sunt diuinis oculis, vt amodo non imputentur ad poenam: neque debitam mor 
+       <lb ed="#B" n="36"/>tali, neque debitam veniali. Sic enim &amp; dicta obliquatio in voluntate seu fomes in carnerationem peccati 
+       <lb ed="#B" n="37"/>in renatis non habet: sed in non renatis, vbi super reatu nulla facta est expiatio, omnino rationem peccati 
+       <lb ed="#B" n="38"/>habent, etiam quo ad illos qui non sunt in voluntatis potestate determiata ad reprimendum, &amp; quo ad maculam 
+       <lb ed="#B" n="39"/>siue deformitatem, &amp; quo ad reatum, &amp; hoc mortalis si mortale peccatum appelletur cui debetur poena aeterna 
+       <lb ed="#B" n="40"/>quia cum peccato originali. secundum quod peccatum est, debetur poena aeterna, nisi sit aliquid cum genra, ex cuius confortio ve 
+       <lb ed="#B" n="41"/>niam mereatur, vt veniale dicatur &amp; poena temporali puniatur: &amp; non nisi venialis, appellando veniale quid  
+       <lb ed="#B" n="42"/>ratione contemptus in ipso aptum est vt maneat cum charitate &amp; veniam obtineat qua poena debita sibi 
+       <lb ed="#B" n="43"/>mutetur in temporalem. Sed de hoc alias habitus est sermo in parte. Et debet hoc in non renatis dici non peccatum originale 
+       <lb ed="#B" n="44"/>sed actuale: &amp; hoc quia ab actum proprio non suae voluntatis, sed actu proprio suae carnis perpetretur. Ad 
+       <lb ed="#B" n="45"/>hoc tamen quod huiusmodi motus primus habeat rationem peccati, oportet ipsum reduci ad actum alicuius voluntatis. &amp; dicunt 
+       <lb ed="#B" n="46"/>aliqui quod reducitur ad actum propriae voluntatis, in es scilicet quod aliquis non regeneratus non curat suscipere sacramentum re- 
+       <lb ed="#B" n="47"/>generatiuum. Sed alii quibus magis consentire videtur <name ref="#Augustine">Augustinus</name> dicunt quod reducitur ad actum voluntatis primi parentis. Et 
+       <lb ed="#B" n="48"/>per hoc dissoluitur appens contrarietas, quasi infinitarum auctoritatum <name ref="#Augustine">Augustinus</name> &amp; aliorum sanctorum: qui quandoque videntur 
+       <lb ed="#B" n="49"/>dicere quod primi motus sint peccata: quandoque vero quod non sint peccata. Quae distinctio nullo modo habet locum circa 
+       <lb ed="#B" n="50"/>actus, propriae voluntatis: qui non possunt esse nisi peccam ad minus venialia: et quo ad deformitatem: &amp; quo ad  
+       <lb ed="#B" n="51"/>reatum qui manet cum obliquatione aliqua in voluntate actu transeunte donec per poenitentiam expietur in re 
+       <lb ed="#B" n="52"/>natis. Motus autem primo primi omnino transeunt, &amp; quo ad actum, &amp; quo ad reatum. Aliter autem soluit Augs 
+       <lb ed="#B" n="53"/>dictam contrarietatem. Vno me. scilicet quod primi motus dicuntur peccata, non quia in se sint peccata, sed quia ex peccato 
+       <lb ed="#B" n="54"/>processerunt, primi parentis scilicet sicut ab originali principio quod manet in ratione peccati in non regneatis: &amp; 
+       <!--546.xml-->
+       <pb ed="#B" n="253-r"/>
+        <lb ed="#B" n="1"/>quo ad maculam, &amp; quo ad reatum: in regeneratis vero quo ad icuruationem tantum, vt dictum est. Alio vero modo 
+       <lb ed="#B" n="2"/>vt dicit, peccatam dicuntur: quia si vicerintreum faciunt peccati. Et hoc est quid dicit <name ref="#Augustine">Augustinus</name> de nup. &amp; concupi. Quia 
+       <lb ed="#B" n="3"/>modo quodam loquendi peccatum vocatur quod et peccato factum est, et peccati si vicerit facit reum: et reatus eius va 
+       <lb ed="#B" n="4"/>let in regeneratis. Quem reatum Christi gra per remissionem omnium peccatorum in regenerato si ad mala opera ei 
+       <lb ed="#B" n="5"/>quodammo iubenti non obediat valere non finit. Sic autem vocatur peccatum quia peccato facta est: cum 
+       <lb ed="#B" n="6"/>iam in renatis non sit ipsa peccatum: sicut lingua vocatur locutio quam facit lingua &amp; manus 
+       <lb ed="#B" n="7"/>vocatur scriptura quam manus facit. Item sic vocatur peccatum, quia peccatum si vincit facit: sicut pigrum 
+       <lb ed="#B" n="8"/>vocatur frigus non quod a pigris fiat, sed quod pigros facit. Facit autem illud peccatum non nisi voluntate, sm determina 
+       <lb ed="#B" n="9"/>tum iam modum. Per iam dicta patet responsio ad obiecta. Quod ergo dicit magister in sententiis: quod tentatio ex carne 
+       <lb ed="#B" n="10"/>peccatum est: Dicendum quod non est verum in renatis quo ad reatum, sed solum quo ad icuruationem, vel quia est ex peccato 
+       <lb ed="#B" n="11"/>vel quia est causa peccati, vt dictum est. Ad secundum: quod primi motus non sunt voluntarii: Dicendum quod  
+       <lb ed="#B" n="12"/>licet non sint voluntarii quo ad voluntatem eius in quo sunt, vt ideo non habeant rationem peccati quo ad rea- 
+       <lb ed="#B" n="13"/>tum, cum expiantur: sunt tamen voluntarii quo ad voluntatem primi parentis, vt determinat <name ref="#Augustine">Augustinus</name> libro iii. de 
+       <lb ed="#B" n="14"/>libero arbitrio. a cuius voluntate processit suum, proprium peccatum actuale, &amp; deinceps omnia aliorum peccatam origi 
+       <lb ed="#B" n="15"/>nalia, vel mediate, vel immediate, &amp; ab illis primi motus: a cuius voluntate habent quod sint peccata, &amp; secundum  
+       <lb ed="#B" n="16"/>maculam, &amp; secundum reatum, nisi expientur sicut &amp; ipsum originale peccatum, vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

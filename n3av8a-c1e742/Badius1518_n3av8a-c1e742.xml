@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="32-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e742">
+      <head xml:id="n3av8a-c1e742-Hd1e96">Quaestio 7</head>
+      <p xml:id="n3av8a-c1e742-d1e99">
+       <lb ed="#B" n="46"/>CIrca secundum arguitur: quod beati non vident tres personas distinctas vnico intuitu: quia non ratio 
+       <lb ed="#B" n="47"/>ne essentiae: quia in illa sunt vnum &amp; indistincti: nec ratione plurium relationum: quia plura vt 
+       <lb ed="#B" n="48"/>plura non videntur simul.
+      </p>
+      <p xml:id="n3av8a-c1e742-d1e108">
+       CONtrarium est illud quod dixit dominus. Philippequi videt me 
+       <lb ed="#B" n="49"/>videt &amp; patrem meum.
+      </p>
+      <p xml:id="n3av8a-c1e742-d1e113">
+       DIcendum quod persona in deo non potest intelligi nisi dupliciter: vt 
+       <lb ed="#B" n="50"/>subsistit in essentia diuina: aut vt vna respicit alteram. Primo modo quilibet beatus vni 
+       <lb ed="#B" n="51"/>co intuitu videt tres personas sed non distinctas: quia in eo in quo sunt vnum. Secundo modo  
+       <lb ed="#B" n="52"/>si videt aliquam personam non videt eam nisi vt relatam, &amp; sic vt distinctam. quia non nisi relatio 
+       <lb ed="#B" n="53"/>ne distinguitur in essentia persona a persona. dicente Boetio. Essentia tenet vnitatem: relatio autem multipli 
+       <lb ed="#B" n="54"/>cat trinitatem. Nunc autem talis est natura eorum quae non intelliguntur nisi ex relatione ad alterum, quod intellectus 
+       <!--105.xml-->
+       <pb ed="#B" n="32-v"/>
+       <lb ed="#B" n="1"/>vnius dependet ab intellectu alterius: ita quod qui vnum eorum cognouit, cognouit &amp; alterum: &amp; neutrum sine 
+       <lb ed="#B" n="2"/>altero intelligi potest. secundum quod dicit <name ref="#Aristotle">philosophus</name> in praedicamentis. Siquis aliquid eorum quae sunt ad aliquid definite sciat 
+       <lb ed="#B" n="3"/>&amp; id ad quid dicitur definite sciturus est: vt si hoc aliquis scit definite quoniam duplum est, &amp; cuius est duplum mox de 
+       <lb ed="#B" n="4"/>finite nouit. Nam si non nouit cuius est duplum, nec si omnino duplum est, nouit. Quantum ergo est ex 
+       <lb ed="#B" n="5"/>parte personarum relatarum, qui videt vnam necesse est quod simul eodem intuitu videat &amp; alteram. Et sic abso 
+       <lb ed="#B" n="6"/>lute dicendum: quod illae tres personae a beatis non nisi vnico intuitu videri possunt, omnes enim tres vnum sunt in  
+       <lb ed="#B" n="7"/>diuina essentia inter se relatae, pater ad filium, &amp; vterque eorum ad spiritum sanctum.
+      </p>
+      <p xml:id="n3av8a-c1e742-d1e149">
+       AD argumentum in  
+       <lb ed="#B" n="8"/>oppositum: quod plura vt plura non intelliguntur vnico intuitu: Dicendum quod verum est de pluribus omnino ab  
+       <lb ed="#B" n="9"/>solutis: non autem de respectiuis, quia illa plura vnum sunt ex ordine &amp; dependentia, propter quam si 
+       <lb ed="#B" n="10"/>mul intelligi possunt.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

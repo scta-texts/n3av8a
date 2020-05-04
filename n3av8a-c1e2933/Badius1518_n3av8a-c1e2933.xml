@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 18</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 18</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2933">
+       <head xml:id="n3av8a-c1e2933-Hd1e96">Quaestio 18</head>
+       <p xml:id="n3av8a-c1e2933-d1e99">
+        <lb ed="#B" n="17"/>SEquuntur quaesita pertinentia ad bene esse hominis. Vbi primo quaerebantur quaedam pertinentia ad be- 
+       <lb ed="#B" n="18"/>ne esse hominium singularium. Deinde quaerebantur quaedam alia pertinentia ad bene esse communi- 
+       <lb ed="#B" n="19"/>tatum, vt de perfectione statuum. Circa primum primo quaerebatur vnum pertinens ad  
+       <lb ed="#B" n="20"/>bene esse hominis singularis secundum se. Deinde quaerebantur quaedam alia pertinentia ad  
+       <lb ed="#B" n="21"/>bene esse vnius hominis singularis in ordine siue comparatione ad alterum. Illud autem  
+       <lb ed="#B" n="22"/>primum erat, vtrum illi qui nihil habet quod manducet postquam ieiunauerit, nisi prius 
+       <lb ed="#B" n="23"/>fuerit lucratus labore suo corporali, nec poterit laborare ieiunando, sacerdos debeat iniungere ieiu- 
+       <lb ed="#B" n="24"/>nium quadragesimale. Ex arguitur quod sic, quia scriptum est Matth. vi. Primum quaerite regnum dei. hoc 
+       <lb ed="#B" n="25"/>autem facit ieiunando. ergo primo debet ieiunare seu potius quam laborare, hoc autem ad quod potius tene 
+       <lb ed="#B" n="26"/>tur debet ei sacerdos iniungere. ergo &amp;c. Contra. de duobus malis minus malum praeeligendum est. sed  
+       <lb ed="#B" n="27"/>si ieiunando non laboraret, non esset vnde postmodum victum haberet, &amp; sic seipsum interimeret, aut 
+       <lb ed="#B" n="28"/>de diuina prouidentia temerarie confideret: &amp; sic deum tentaret: quid est maius malum quam non ieiunare. sed  
+       <lb ed="#B" n="29"/>illud non debet sacerdos iniungere, de quo certus est quod subditus in maius malum incidit. ergo &amp;c. 
+       <lb ed="#B" n="30"/>
+      </p>
+      <p xml:id="n3av8a-c1e2933-d1e132">
+       DIcendum ad hoc: quod casu posito in quaestione retento sacerdos tali non debet tale ieiunium iniungere, 
+       <lb ed="#B" n="31"/>sed permittere ipsum laborare: &amp; frangendo ieiunium comedere: quia talia ieiunia sunt de statu- 
+       <lb ed="#B" n="32"/>to ecclesiae, non de statuto iuris naturae, aut euangelici, vel diuini. Nunc autem differentia est in  
+       <lb ed="#B" n="33"/>ter statuta iuris naturalis, aut diuini: &amp; ecclesiastici: quod iura diuina &amp; naturalia obligant in omnem euen 
+       <lb ed="#B" n="34"/>tum: ne etiam propter mortis tolerantiam liceat ea transgredi. Melius est enim omnia mala pati quam contra 
+       <lb ed="#B" n="35"/>diuinae legis, aut naturae praeceptum quicquam agere. Non sic autem est de statutis ecclesiae: maxime cum obuient 
+       <lb ed="#B" n="36"/>eis statuta legis diuinae, vt in casu proposito. De statuto enim legis naturae est, quod quilibet necessitati 
+       <lb ed="#B" n="37"/>propriae vitae corporali debet prouidere quantum poterit salua iustitia legis diuinae, ne fiat suiipsius homicida 
+       <lb ed="#B" n="38"/>non obstante statuto legis ecclesiasticae, quia de ipsa dicitur quod necessitas non habet legem. Per haec 
+       <lb ed="#B" n="39"/>patent obiecta. lste enim potius quaerit regnum dei proprium corpus sustinendo &amp; laborando, quam si non labo  
+       <lb ed="#B" n="40"/>ratet, &amp; certus esset quod post ieiunium deesset eiomnis hu nana prouisio in necessariis vitae vt eum 
+       <lb ed="#B" n="41"/>mori oporteret, aut quod deus per se, aut per angelum ei de victualibus prouideret. Hoc enim esset 
+       <lb ed="#B" n="42"/>plane tentare deum, vt procedit secundum argumentum: &amp; in hoc casu malum illud scilicet non ieiunare 
+       <lb ed="#B" n="43"/>amitreret rationem mali. Aliter enim perplexus esset: &amp; perplexio nihil est: nec potest aliquis esse perplexus 
+       <lb ed="#B" n="44"/>vt in omnem cuentum oporteat eum peccare.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

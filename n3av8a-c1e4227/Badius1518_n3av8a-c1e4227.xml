@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="437-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4227">
+       <head xml:id="n3av8a-c1e4227-Hd1e96">Quaestio 16</head>
+       <p xml:id="n3av8a-c1e4227-d1e99">
+        <lb ed="#B" n="23"/>SEquuntur quaesita pertinentia ad quaedam genera hominum specialiter. Et erant duo.  
+       <lb ed="#B" n="24"/>Vnum pertinens ad doctores: vtrum. scilicet doctor siue magister determinans quaestiones siue 
+       <lb ed="#B" n="25"/>exponens scripturas publice peccet mortaliter non explicando veritatem quam nouit. 
+       <lb ed="#B" n="26"/>Alterum vero ad principes: vtrum. scilicet liceat oppressos reprimere iniuriam suam per  
+       <lb ed="#B" n="27"/>potentiam principum. 
+      </p>
+      <p xml:id="n3av8a-c1e4227-d1e112">
+       CIRca primum arguitur quod peccet mortaliter: quia talis doctor 
+       <lb ed="#B" n="28"/>ex officio assumpto obligatur ad veritatem dilucidandum: cuius dilucidatio nec pro 
+       <lb ed="#B" n="29"/>pter scandalum dimittenda est. dicente Gregorio super Eze. Si de veritate scandalum 
+       <lb ed="#B" n="30"/>surgit: vtilius est nasci scandalum quam veritas subticeatur. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4227-d1e121">
+       CONtra. veritas vitae in reprehen- 
+       <lb ed="#B" n="31"/>dendo vitia quandoque est dimittenda: ne scilicet reprehensus deterior fiat: et similiter veritas iustitiae in de 
+       <lb ed="#B" n="32"/>licta puniendo. dicente <name ref="#Augustine">Augustino</name> ad Parmenianum. Si periculum schismatis timetur: punitio iusti- 
+       <lb ed="#B" n="33"/>tiae est dimittenda. Similiter ergo &amp; veritas doctrinae aliquando est omittenda &amp; non dicenda, non  
+       <lb ed="#B" n="34"/>ergo semper peccat mortaliter subticens eam. 
+      </p>
+      <p xml:id="n3av8a-c1e4227-d1e135">
+       DIcendum ad hoc quod secundum <name ref="#Augustine">Augustinum</name> super illud  
+       <lb ed="#B" n="35"/>psal. v. Perdes omnes qui loquuntur mendacium: aliud est mentiri: aliud verum occultare. Manife- 
+       <lb ed="#B" n="36"/>stum est autem non esse culpam quandoque verum occultare. Falsum autem dicere non inuenitur esse 
+       <lb ed="#B" n="37"/>concessum. Veruntamen distinguendum est de veritate. Est enim quaedam veritas ad dicendum opportu 
+       <lb ed="#B" n="38"/>na: qua. scilicet nouit doctor esse vtilem, fructuosam, atque expedientem audientibus. Et est alia veritas ad di 
+       <lb ed="#B" n="39"/>cendum perniciosa qua. scilicet nouit doctor esse in grauamen &amp; nocumentum audientium. Loquendo ergo  
+       <lb ed="#B" n="40"/>de prima veritate dico quod doctor tenetur eam prout melius nouerit &amp; poterit explicare. Ad instructio 
+       <lb ed="#B" n="41"/>nem enim audientium debet doctoris officium exerceri: &amp; non gratia alicuius priuati commodi. dicente Au 
+       <lb ed="#B" n="42"/>gustino super illud psal. cxxxix. Vir linguosus non dirigetur in terra. Qualis debet esse seruus dei: vt 
+       <lb ed="#B" n="43"/>magis appetat audire quam dicere: et si fieri potest cupiat non habere necessitatem loquendi &amp; dicendi &amp; 
+       <lb ed="#B" n="44"/>docendi: gaudium taciturnitatis intus habeat in voluntate: vocen doctrinae in necessitate, quando enim 
+       <lb ed="#B" n="45"/>opus est rectae doctrinae: quando pateris imperitum: quando pateris indoctum. si semper te delectat doce- 
+       <lb ed="#B" n="46"/>re, semper vis imperitum habere quem doceas. Si autem beneuolus es &amp; vis omnes doctos esse: non vis 
+       <lb ed="#B" n="47"/>semper habere quos doceas. Doctor ergo officium doctoris non debet assumere nisi propter imperi 
+       <lb ed="#B" n="48"/>tos: vt quam citius poterit eos peritos faciat: &amp; a docendo cesset: quod nullatenus potest facere nisi ve 
+       <lb ed="#B" n="49"/>ritatis quam nouit dilucidatione. Quam si non prout nouit dilucidat: sed per ambages procedit: &amp; 
+       <lb ed="#B" n="50"/>non quae sentit proponit: sed aliena: Dico quod quantum est de se &amp; ex officio suo auditores imperi- 
+       <lb ed="#B" n="51"/>tos manere cupit: &amp; officium docendi non ex necessitate sed ex voluntate exercet. Et ideo vt puto 
+       <lb ed="#B" n="52"/>mortaliter peccat siue timore siue odio ad talem veritatem sic celandam perducatur: non so- 
+       <lb ed="#B" n="53"/>lum in veritatem sic subticendo: sed etiam in officium doctoris assumendo, si tali intentione offi- 
+       <lb ed="#B" n="54"/>cium assumat qualicunque modo. &amp; non solum ipse: sed quicunque sunt eius promotores, instiga- 
+       <!--915.xml-->
+       <pb ed="#B" n="437-v"/>
+        <lb ed="#B" n="1"/>tores &amp; fautores in hoc. Et hoc maxime quando doctor nouit veritatis dilucidationem communi po- 
+       <lb ed="#B" n="2"/>pulo profuturam, &amp; eius occultationem damnosam, praecipue in arduis quaestionibus in quibus periculum 
+       <lb ed="#B" n="3"/>vertitur: ad quas arguendo pro &amp; contra, quasi puteum abyssi aperit, &amp; veritatem non explicando ipsum non 
+       <lb ed="#B" n="4"/>claudit. Propter quod reus est sanguinis illius qui occasione tali in ipsum per errorem cadit. Quia si veritatem sic oc 
+       <lb ed="#B" n="5"/>cultare crimen est: quantum ergo crimen est falsitatem pro veritate scienter propinare: Loquendo autem de veritate se 
+       <lb ed="#B" n="6"/>cundo modo: illam potest &amp; debet auditoribus celare. et hoc siue fuerit in grauamen: eo quod non sint aliqui  
+       <lb ed="#B" n="7"/>auditorum eius capaces: &amp; dicere apud se illud loam. xvi. Adhuc multa habeo vobis dicere: sed non potestis 
+       <lb ed="#B" n="8"/>portare modo: siue fuerit in nocumentum audientium. Audientium intelligo non tam praesentium quam etiam illorum ad quos per  
+       <lb ed="#B" n="9"/>audientes doctrina illa poterit peruenire: Et hoc quemadmodum <name ref="#Augustine">Augustinus</name> vbi supra declarat in  
+       <lb ed="#B" n="10"/>exemplo. Si quis quaeratur ad mortem: iustus paratus debet esse verum occultare non falsum dicere: 
+       <lb ed="#B" n="11"/>vt neque prodat neque mentiatur, ne occidat animam suam. 
+      </p>
+      <p xml:id="n3av8a-c1e4227-d1e216">
+       PER hoc patent obiecta: Dicendo quod dilucidatio ve 
+       <lb ed="#B" n="12"/>ritatis opportunae quae si non fieret periculum posset imminere publicum, non est dimittenda propter scan- 
+       <lb ed="#B" n="13"/>dalum: quia propter talem veritatem non scandalizantur nisi mali. quibus huiusmodi veritas est odiosa, quem 
+       <lb ed="#B" n="14"/>admodum scandalizati sunt Iudaei pro dilucidatione veritatis in doctrina Christi. de quibus dixit Chri- 
+       <lb ed="#B" n="15"/>stus. Caeci sunt ducesque caecorum. Veritas tamen non opportuna propter alias causas bene dimittenda est: vt 
+       <lb ed="#B" n="16"/>patet ex dictis: &amp; secundum quod procedit obiectio in contrarium: quae secundum hoc concedenda est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

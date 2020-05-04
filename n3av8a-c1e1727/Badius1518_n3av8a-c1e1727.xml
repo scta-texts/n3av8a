@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 34</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 34</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="148-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1727">
+       <head xml:id="n3av8a-c1e1727-Hd1e96">Quaestio 34</head>
+       <p xml:id="n3av8a-c1e1727-d1e99">
+        <lb ed="#B" n="44"/>Equuntur quaestiones pertinentes ad sanctificationem naturae: quae erant de per- 
+       <lb ed="#B" n="45"/>tinentibus ad sacramenta. Et erat vnum pertinens ad sacramentum poenitentiae. 
+       <lb ed="#B" n="46"/>Vtrum peccator poenitens statim tenetur confiteri. Et aliud pertinens ad exequutio-  
+       <lb ed="#B" n="47"/>nem sacramenti ordinis. Vtrum religiosus per abbatem suum episcopo praesentatus 
+       <lb ed="#B" n="48"/>ad curam, &amp; ab episcopo institutus, plus debet obedire abbati reuocanti ipsum a cura 
+       <lb ed="#B" n="49"/>ad claustrum: an episcopo praecipienti quod in cura sua persistat. Et tertium pertinens 
+       <lb ed="#B" n="50"/>ad effectum corporalem specierum in sacramento altaris vel Eucharistiae. Vtrum scilicet 
+       <lb ed="#B" n="51"/>species sacramenti Eucharistiae nutriant. Et quartum pertinens ad spiritualem effectum communiter omnium 
+       <lb ed="#B" n="52"/>sacramentorum. Vtrum in sacramentis nouae legis sit virtus creatiua gratiae. 
+      </p>
+      <p xml:id="n3av8a-c1e1727-d1e121">
+       CIRca primum arguitur 
+       <lb ed="#B" n="53"/>quod poenitens non tenetur statim confiteri: quia tunc non confitens statim: statim peccaret. quod est absurdum. 
+       <lb ed="#B" n="54"/>
+      </p>
+      <p xml:id="n3av8a-c1e1727-d1e128">
+       CONtra. aliter sese exponit periculo: quia non habemus diem neque horam. 
+      </p>
+      <p xml:id="n3av8a-c1e1727-d1e131">
+       DIcendum ad hoc: quod  
+       <!--337.xml-->
+       <pb ed="#B" n="148-v"/>
+        <lb ed="#B" n="1"/>poenitens statim ab hora poenitentiae habens sacerdotem paratum cui possit confiteri: aliter enim confite 
+       <lb ed="#B" n="2"/>ri non posset nec deberet: aut ergo expectat tempus confitendi magis congruum sibi &amp; opportunum secundum di 
+       <lb ed="#B" n="3"/>uersas circunstantias quae ad confitendum requiruntur: aut non. Si non, statim confiteri tenetur. Alias enim 
+       <lb ed="#B" n="4"/>non esset vere poenitens: immo sacramentum poenitentiae sacramentalis quae per sacerdotis absolutionem 
+       <lb ed="#B" n="5"/>confertur, contemnens. &amp; ita cum magis bonum esset statim confiteri quam diutius expectare: &amp; aequa facilitate 
+       <lb ed="#B" n="6"/>posset statim confiteri &amp; diutius expectare: immo si nulla esset opportunitas expectandi: iam non aequa  
+       <lb ed="#B" n="7"/>facilitate: immo laboriose contemneret maius bonum quia bonum: quod non potest esse sine mortali peccato: 
+       <lb ed="#B" n="8"/>vt habitum est in quadam quaestione praecedente. Si sic, aut ergo instat tempus quo exponit se periculo quod pos 
+       <lb ed="#B" n="9"/>sit ab ipso praecludere actum poenitendi: vt si ingressurus est mare tempestuosum, aut bellum crudele, aut ali 
+       <lb ed="#B" n="10"/>quid huiusmodi: aut non instat tempus tale. Si primo modo, statim debet confiteri eadem de causa qua prius. 
+       <lb ed="#B" n="11"/>Si secundo modo, non debet statim confiteri: sed potest expectare tempus magis opportunum: sed non trans 
+       <lb ed="#B" n="12"/>gredi tempus ab ecclesia statutum. extra de poenitentiis &amp; remissionibus. capitulo Omnis vtriusque sexus. Et per 
+       <lb ed="#B" n="13"/>hoc patet responsio ad primum: quoniam non peccat statim non confitens nisi in casu. 
+      </p>
+      <p xml:id="n3av8a-c1e1727-d1e167">
+       AD secundum dicen- 
+       <lb ed="#B" n="14"/>dum: quod non habemus diem neque horam. Verum est in certitudine: habemus tamen in rationabili coniectura 
+       <lb ed="#B" n="15"/>secundum dispositionem status nostri ab interius &amp; ab exterius: quam deus acceptat. infra quam si iustus 
+       <lb ed="#B" n="16"/>poenitens etiam praeoccupatus fuerit, tamen in refrigerio erit.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

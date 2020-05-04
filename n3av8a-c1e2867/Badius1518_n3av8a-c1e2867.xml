@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 13</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 13</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="268-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2867">
+       <head xml:id="n3av8a-c1e2867-Hd1e96">Quaestio 13</head>
+       <p xml:id="n3av8a-c1e2867-d1e99">
+        <lb ed="#B" n="36"/>SEquuntur quaesita pertinentia ad hominem specialiter. Vbi primo quaerebantur quaedam per- 
+       <lb ed="#B" n="37"/>tinentia ad esse hominis. Deinde quaedam alia pertinentia ad eius bene esse. Et circa primum istorum  
+       <lb ed="#B" n="38"/>quaerebantur quinque: tria ex parte animae intellectiuae: quartum ex parte corporis: quintum 
+       <lb ed="#B" n="39"/>vero ex parte compositi ex corpore &amp; anima Quorum primum erat de anima separata. vtrum  
+       <lb ed="#B" n="40"/>idem sit esse animae separatae quid erat coniunctae. Secundum erat de anima coniuncta: vtrum in  
+       <lb ed="#B" n="41"/>telligere possit vniuersale. Tertium vero erat de ipsa communiter pro vtroque status 
+       <lb ed="#B" n="42"/>Vtrum intellectus possit informari specie aliqua aut habitu absque actu consideram 
+       <lb ed="#B" n="43"/>di secundum illam speciem aut habitum. Quartum: vtrum possibilis sit resurrectio corporum humano-  
+       <lb ed="#B" n="44"/>rum. Quintum vero: vtrum sit possibile hominem esse sine quantitate. 
+      </p>
+      <p xml:id="n3av8a-c1e2867-d1e121">
+       CIRca primum arguitur quod non sit idem es 
+       <lb ed="#B" n="45"/>se animae separatae quod erat coniunctae, quoniam si animae coniunctae &amp; separatae esset idem esse, &amp; eadem operatio 
+       <lb ed="#B" n="46"/>quae sequitur esse: consequens est falsum. non enim est idem intelligere animae separatae &amp; coniunctae: quia coniuncta 
+       <lb ed="#B" n="47"/>intelligit cum phantasmate: non autem separata. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2867-d1e130">
+       CONtra. eadem forma semper habet idem esse: quia esse est 
+       <lb ed="#B" n="48"/>a forma. sed anima est semper eadem forma siue fuerit coniuncta, siue separata. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2867-d1e135">
+       DIcendum ad hoc: quod  
+       <lb ed="#B" n="49"/>sicut ens tripliciter dicitur: Vno enim modo significat naturam &amp; essentiam rei: &amp; hoc modo est ens id quod est 
+       <lb ed="#B" n="50"/>natura siue essentia aliqua: cuius diximus superius per se ideam esse in deo: &amp; est illud quod praedicatur de praedicamen 
+       <lb ed="#B" n="51"/>tis: Alio mod dicitur aliquid ens secundum animam, quod <name ref="#Aristotle">philosophus</name> in. v. Metaphya appellat ens verum: Tertio dicitur- 
+       <lb ed="#B" n="52"/>ens id quid est aliquid in effectu extra animam: consimiliter cum ens dicitur ab esse, esse triplex est scilicet esse quiditatiuum  
+       <lb ed="#B" n="53"/>quod indicatur per definitionem: cum dicitur quod est omnio praedicansquid est esse. Tali esse dicitur vnumquidque esse id quod est. 
+       <lb ed="#B" n="54"/>per essentiam &amp; a forma sua: vt esse homo dicitur habens formam hominis: &amp; oculus dicitur habens formam oculi- 
+       <!--576.xml-->
+       <pb ed="#B" n="268-r"/>
+        <lb ed="#B" n="1"/>alias enim non est homo aut oculus nisi aequiuoce: &amp; hoc esse est rei essentiale: &amp; reducitur ad praedicamen- 
+       <lb ed="#B" n="2"/>tum de genere quod convenit rei ex eo quod est natura &amp; essentia quaedam, cui accidit vtrumque aliorum esse scilicet in in  
+       <lb ed="#B" n="3"/>tellectu &amp; in re extra: vt alibi saepius determinauimus. Et de isto triplici esse sciendum quod dupliciter attri 
+       <lb ed="#B" n="4"/>buitur alicui: vt cuius est, &amp; vt quo est in eo cuius est. Primo modo solum est principaliter eius quod est aliquid  
+       <lb ed="#B" n="5"/>perfectum in natura &amp; essentia: &amp; quod in se natum est existere: siue in intellectum, siue in re extra, primo modo 
+       <lb ed="#B" n="6"/>in habentibus formam in materia: hoc est in compositis ex materia &amp; forma: est per se &amp; principaliter compositi. Se 
+       <lb ed="#B" n="7"/>cundo autem modo formae. Compositum enim est illud cuius principaliter est idea, &amp; quid est principaliter aliquid par  
+       <lb ed="#B" n="8"/>essentiam siue quidquid est. &amp; ideo est id quid principaliter in intellectu est: vt eius per se obiectum: est etiam id quid pri 
+       <lb ed="#B" n="9"/>cipaliter existit in re extra. Sed hoc totum conuenit ipsi composito per formam: secundum quod forma aliter est actus 
+       <lb ed="#B" n="10"/>compositi: aliter materiae: dans ei quod sit aliquid compositi. secundum triplicem modum essendi praedictum qui conue 
+       <lb ed="#B" n="11"/>nit composito principaliter. lpsa eim in composito perfectius esse habet a formaquam nata est habere in se separa 
+       <lb ed="#B" n="12"/>ta: inquantum materia ex se non est nisi aliquid in potentia ad compositum: &amp; forma est actus complens potentiam 
+       <lb ed="#B" n="13"/>illam. Per hanc enim compositum &amp; quidquid est habet esse vnum: secundum determinationem philosophi. vii. &amp;. viii. Meta. Est 
+       <lb ed="#B" n="14"/>autem actus compositi tanquam eius quod est aliquid in esse constitutum formaliter per formam in illo triplici esse. Nunc 
+       <lb ed="#B" n="15"/>autem quaestio proposita quaerit de esse attributo animae: vt quod est. Et est intelligendum: quod licet vt dictum est 
+       <lb ed="#B" n="16"/>esse secundum triplicem modum iam dictum principaliter attribuitur composito vt quod est: attribuitur tamen quodam  
+       <lb ed="#B" n="17"/>modo &amp; formae &amp; materiae: &amp; de illa attributione qua attribuitur formae quae nata est separari, proposita 
+       <lb ed="#B" n="18"/>est quaestio. Et est dicendum descendendo ad quaestionem: quod in attributione qua esse attribuitur alicui vt quod  
+       <lb ed="#B" n="19"/>est ab aliquo &amp; quo est: non est alicuius vt quod est principaliter: nisi quia est aliquo modo eius quo est. esse 
+       <lb ed="#B" n="20"/>enim quod nullo modo est formae non posset ipsa forma dare composito. cius autem non est esse nisi ex eo quod ali 
+       <lb ed="#B" n="21"/>quid est siue in essentia, siue in existentia, siue in intellectu, vel extra ipsum. esse autem aliquid secundum se aliquo  
+       <lb ed="#B" n="22"/>trium modorum non conuenit ei nisi quia est aliquid in sua causa, vel principio, vel formaliter, vel effectiue 
+       <lb ed="#B" n="23"/>Quia enim est aliquid formaliter per ideam in suo principio: est aliquid per essentiam: &amp; per hoc etiam est aliquid  
+       <lb ed="#B" n="24"/>in intellectum. Quia vero est aliquid in suo principio per actualem efficientiam, est aliquid in re extra. Nunc autem 
+       <lb ed="#B" n="25"/>manifestum est quod forma in se nata existere extra suum compositum: cuiusmodi est anima rationalis, non est aliquid  
+       <lb ed="#B" n="26"/>aliud in suo principio aliquo dictorum modorum separata &amp; coniuncta. licet separata non est quo aliud ha  
+       <lb ed="#B" n="27"/>bet esse: quia nulli ipsum conmunicat: sicut cum est coniuncta. Idcirco dico quod esse vnum &amp; idem est ipsius animae  
+       <lb ed="#B" n="28"/>separatae &amp; coniunctae: sed alio &amp; alio modo. quemadmodum alio &amp; alio modo est aliquid separata &amp; coniun- 
+       <lb ed="#B" n="29"/>cta. Licet enim sit idipsum separata &amp; coniuncta: quia tamen id quod est naturaliter, natum est esse in alio: &amp; actus 
+       <lb ed="#B" n="30"/>&amp; perfectio est. Praeter autem huiusmodi esse est quod sit extra ipsum: quid autem est praeter rationem suae naturalitatis 
+       <lb ed="#B" n="31"/>deficit a perfecta ratione eius quod est in se: quia non est sine naturali dependentia ad illud: quae terminata est cum 
+       <lb ed="#B" n="32"/>fuerit in illo. propter quod tunc solum est in perfecta ratione sui esse. ideo anima separata quia naturaliter nata est 
+       <lb ed="#B" n="33"/>esse in alio vt in suo perfectibili: ideo quodammodo imperfecte est id quod est donec sit in illo. Propter quod consi- 
+       <lb ed="#B" n="34"/>militer &amp; imperfecte habet rationem sui esse donec habuerit ipsum in illo: &amp; vlterius etiam imperfecte habet ra 
+       <lb ed="#B" n="35"/>tionem suae, propriae operationis: vt ideo secundum quod dicit <name ref="#Augustine">Augustinus</name> xii. super Gen. animae beatorum quousque resumpse- 
+       <lb ed="#B" n="36"/>rint sua corpora, retardentur ne perfecte possint ferri in illud caelum increatum. Et secundum hoc concedenda est se 
+       <lb ed="#B" n="37"/>cunda ratio. Ad primam quia sophistica est: Dicendum quod eadem est operatio animae separatae &amp; coniunctae: quia 
+       <lb ed="#B" n="38"/>ab vna &amp; eadem potentia ipsius animae egrediens. Est enim vnus actus intelligendi specie coniunctae &amp; separatae: li 
+       <lb ed="#B" n="39"/>cet alio &amp; alio modo intelligendi in phantasmate &amp; fine phantasmate, quarum solam illam quae est in  
+       <lb ed="#B" n="40"/>phantasmate exercet in corpore praesentis mortalitatis: illam autem aliam exercet separata: &amp; etiam exer 
+       <lb ed="#B" n="41"/>cebit resumpto corpore glorioso: &amp; multo perfectius in illo quam faciat modo separata.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

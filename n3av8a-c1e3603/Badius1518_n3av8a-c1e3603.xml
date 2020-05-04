@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="150-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3603">
+       <head xml:id="n3av8a-c1e3603-Hd1e96">Quaestio 1</head>
+       <p xml:id="n3av8a-c1e3603-d1e99">
+       <!--722.xml-->
+        <pb ed="#B" n="150-v"/>
+        <lb ed="#B" n="1"/>Hic incipit Nonum Quodlibet Magistri Henrici a Gandauo.  
+       <lb ed="#B" n="2"/>na disputatio nostra de quo  
+       <lb ed="#B" n="3"/>libet continet quaestiones. xxxii. Quarum quaedam sunt de deo: sed in compara 
+       <lb ed="#B" n="4"/>tione ad creaturas. Quaedam vero sunt de ipsis creaturis. Circa primum 
+       <lb ed="#B" n="5"/>erant duo de relatione dei ad creaturas. Vnum in generali de relatione  
+       <lb ed="#B" n="6"/>simpliciter inter deum &amp; creaturas. Vtrum scilicet omnis relatio inter deum  
+       <lb ed="#B" n="7"/>&amp; creaturam sit quia ipsa creatura refertur ad deum: &amp; non econuerso. 
+       <lb ed="#B" n="8"/>Alterum in speciali de relatione dei ad creaturas per rationes ideales. 
+       <lb ed="#B" n="9"/>Vtrum scilicet deus potuisset plures creaturas secundum species produxisse: 
+       <lb ed="#B" n="10"/>si non esset in ipso pluralitas idearum. 
+      </p>
+      <p xml:id="n3av8a-c1e3603-d1e128">
+       CIRca primum arguebatur: quod omnis 
+       <lb ed="#B" n="11"/>relatio inter deum &amp; creaturam est quia creatura refertur ad ipsum: &amp; non 
+       <lb ed="#B" n="12"/>econuerso. Primo sic: relatio alicuius ad aliud quia illud aliud refertur ad ipsum, est in illo alio secundum rem 
+       <lb ed="#B" n="13"/>&amp; non secundum rationem tantum: vt patet de relatione inter deum &amp; creaturam secundum dominium &amp; 
+       <lb ed="#B" n="14"/>seruitutem: qua deus vt dominus refertur ad creaturam vt ad seruam: &amp; est in creatura secundum rem 
+       <lb ed="#B" n="15"/>&amp; in deo secundum rationem tantum. Sed in deo ad creaturam nulla est relatio secundum rem: sed secundum rationem tantum: 
+       <lb ed="#B" n="16"/>quia aliter esset mutabilis aut mutatus cum de non domino factus est dominus: aut econuerso si cessante omni crea- 
+       <lb ed="#B" n="17"/>tura ab esse de domino factus esset non dominus. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3603-d1e146">
+       SEcundo sic. relatio inter deum &amp; creaturam est relatio 
+       <lb ed="#B" n="18"/>commensurationis. secundum philosophum. x. Metaphysicae in qua secundum eundem. v Metaphsica mensura refertur ad mensuratum  
+       <lb ed="#B" n="19"/>quia mensuratum refertur ad ipsam. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3603-d1e153">
+       TERtio sic. deus essentia sua inquantum continet perfe- 
+       <lb ed="#B" n="20"/>ctiones creaturarum in essendo, non refertur ad ipsas nisi quia illae referuntur ad ipsum. Aliter enim deus rea 
+       <lb ed="#B" n="21"/>liter referretur ad creaturas: non quia creaturae referrentur ad ipsum. Deus autem in cognoscendo &amp; volendo non 
+       <lb ed="#B" n="22"/>refertur ad creaturas nisi essentia sua inquantum continet in se perfectiones creaturarum in essendo. ergo  
+       <lb ed="#B" n="23"/>&amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3603-d1e165">
+       CONtra. ldeae sunt aeternae rationes in mente diuina secundum Augusxixxii quaetioib qubus quid xlvi. quibus refer 
+       <lb ed="#B" n="24"/>tur ad creaturas non quia ipsae referuntur ad illum, quia nullius aeterni in deo potest esse ratio aliquid quod est 
+       <lb ed="#B" n="25"/>in creatura. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3603-d1e172">
+       DIcendum ad hoc: quod cum secundum <name ref="#Augustine">Augustinus</name> vii. de trinitate cap ituoe i omnis essentia quae relatiue di-  
+       <lb ed="#B" n="26"/>citur, etiam aliquid est excepto relatiuo: sicut homo dominus: si enim non esset homo. i. aliqua substantia, non esset 
+       <lb ed="#B" n="27"/>qui relatiue dominus diceretur: quaproptur vt dicit, quiod non est aliquid ad seipsum, non est omnino quo relatiue dica 
+       <lb ed="#B" n="28"/>tur ad aliud: creatura ergo nullam habet relationem ad deum nisi sit aliquid ad se vel per se. Ad se autem non  
+       <lb ed="#B" n="29"/>est aliquid neque secundum essentiam neque secundum existentiam a seipsa: sed abaltero tantum, a quae est id quod est. vt possit 
+       <lb ed="#B" n="30"/>quoquo modo dici ad eam illud apostoli. i. ad Corit. iiii. Quid habes quod non accepisti: Ad nihil ergo neque etiam 
+       <lb ed="#B" n="31"/>ad deum dicitur relatiue: nisi ab alio sit aliquid ad se: &amp; hoc non nisi a deo. lpsa autem a deo non est aliquid nisi 
+       <lb ed="#B" n="32"/>ordine naturae quodam existente inter illum a quo est, &amp; illud quod est, vt ille primum &amp; istud sit secundum. Quoniam  
+       <lb ed="#B" n="33"/>etiam in diuinis vbi est simplicitas aeternitatis: quia filius nihil habet nisi quod accipit a patre per generationem, 
+       <lb ed="#B" n="34"/>ideo ordo quidam naturae est inter patrem &amp; filium: &amp; inter generare quo pater dat, &amp; generari quo filius 
+       <lb ed="#B" n="35"/>accipit. quod exposuimus in quaestionibus nostris ordinarie disputatis. Quare cum relatio quae est inter pri 
+       <lb ed="#B" n="36"/>mum &amp; secundum: qua se habent sicut a quo est aliquid &amp; quid est aliquid: non est nisi quia primum quoquo modo is. 
+       <lb ed="#B" n="37"/>secundum rationem saltem, refertur ad secundum &amp; non econuerso: relatio ergo omnis inter deum &amp; creaturam, quae consistit 
+       <lb ed="#B" n="38"/>inter deum &amp; creaturam quia creatura est a deo id quid est, siue secundum essentiam, siue secundum existentiam, necessario 
+       <lb ed="#B" n="39"/>est inter ipsos potius quia deus refertur &amp; ordinem habet ex ratione sui intellectus &amp; voluntatis ad creaturam 
+       <lb ed="#B" n="40"/>vt a quo est id quod est: quam econuerso quia ipsa creatura refertur ad deum. licet aliqua alia sit inter ipsos quia 
+       <lb ed="#B" n="41"/>creatura refertur ad ipsum &amp; non econuerso: vt iam patebit in soluendo argumenta. Vnde concedendum est ar 
+       <lb ed="#B" n="42"/>gumentum ad istam partem. procedit enim de relatione inter deum &amp; creaturam in essendo ab ipso id quod est per 
+       <lb ed="#B" n="43"/>essentiam: sicut iam patebit in parte: &amp; perfectius in dissolutione quaestionis sequentis. Ad primum ergo in  
+       <lb ed="#B" n="44"/>oppositum: quod si inter deum &amp; creaturam est relatio quia deus refertur ad creaturam, illa est in deo secundum rem: 
+       <lb ed="#B" n="45"/>Dicendum quod non oportet in duplici modo relationis dei ad creaturas. 
+      </p>
+      <p xml:id="n3av8a-c1e3603-d1e221">
+       AD cuius intellectum oportet scire 
+       <lb ed="#B" n="46"/>quae est relatio secundum rem: &amp; quae secundum rationem: et vnde &amp; quot modis habeat esse: &amp; primo de relationibus 
+       <lb ed="#B" n="47"/>secundum rationem: de quibus nunc principaliter est sermo: deinde de relationibus secundum rem: vt per hoc tam de istis quam de 
+       <lb ed="#B" n="48"/>illis sciamus quae habent esse in deo &amp; quat &amp; quomodo respectu creaturae: &amp; quae non. Est autem relatio secundum rationem tantum 
+       <lb ed="#B" n="49"/>quae non fundatur in re absque consideratione &amp; operatione intellectus circa illam. &amp; hoc dupliciter. Vno modo ex considera-  
+       <lb ed="#B" n="50"/>tione sola &amp; operatione intellectus circa rem, causando relationem in vtroque extremorum. Alio modo ex consideratione 
+       <lb ed="#B" n="51"/>intellectus &amp; operatione eius circa rem, causando respectum circa vnum extremorum in ordine ad alterum in quae est 
+       <lb ed="#B" n="52"/>relatio secundum rem. &amp; vtroque modo dupliciter. Secundum primum enim modum vno modo intellectus operatur 
+       <!--723.xml-->
+       <pb ed="#B" n="341-v"/>
+        <lb ed="#B" n="1"/>relationes diuersas habentes diuersitatem ex natura rei aliquo modo diuersa. Alio modo circa extrema 
+       <lb ed="#B" n="2"/>habentia diuersitatem ex sola consideratione intellectus absque omni diuersitate rei. Primo modo relationes ra 
+       <lb ed="#B" n="3"/>tionis sunt genus &amp; species circa hominem &amp; animal. Secundo modo relatio rationis est identitas circa idem 
+       <lb ed="#B" n="4"/>re bis acceptum secundum rationem. Secundum modum vero secundum operatur intellectus rationem circa vnum extre 
+       <lb ed="#B" n="5"/>mum in ordine ad alterum: &amp; ad relationem quae est in altero. Vno modo vt circa illud quod ex se non  
+       <lb ed="#B" n="6"/>praetendit aliquam habilitatem vt intellectus circa illud operetur relationem: quemadmodum operatur dextrum 
+       <lb ed="#B" n="7"/>autem sinistrum circa columnam in ordine ad dextrum &amp; sinistrum: quod secundum rem est in animali. Alio modo vt 
+       <lb ed="#B" n="8"/>circa illud quod ex se habet aliquam habilitatem vt intellectus circa illud operetur relationem. Sed hoc du-  
+       <lb ed="#B" n="9"/>pliciter. Vno modo quod relatio illa quae est secundum rem, praeexistat in altero extremo: &amp; secundum eius corre- 
+       <lb ed="#B" n="10"/>spondentiam formetur in alio: vt per hoc relatio illa secundum rem quodammodo est ratio causandi illam quae est 
+       <lb ed="#B" n="11"/>secundum rationem: vt contingit vniuersaliter in relatione quae est mensurae ad mensuratum: &amp; quae sunt dei 
+       <lb ed="#B" n="12"/>ad creaturas ex tempore. Alio vero modo quod relatio illa quae est secundum rationem natura sit prior in illo in  
+       <lb ed="#B" n="13"/>quo est: &amp; secundum eius correspondentiam habeat esse id quod est alterum extremum: &amp; relatio realis in illo 
+       <lb ed="#B" n="14"/>vt per hoc relatio illa secundum rationem quoquo modo est ratio causandi illam quae est secundum rem: vt contingit 
+       <lb ed="#B" n="15"/>vniuersaliter in relationibus quae ab aeterno sunt in deo ad creaturas: &amp; ex parte diuini intellectus: &amp; di 
+       <lb ed="#B" n="16"/>uinae voluntatis. Ex consideratione enim diuini intellectus circa diuinam essentiam vt est intellecta ab ipso:  
+       <lb ed="#B" n="17"/>sunt in ipso rationes ideales secundum modum exponendum in sequente quaestione: quae sunt relationes ex hoc 
+       <lb ed="#B" n="18"/>in deo secundum rationem ad ipsas essentias creaturarum: quae ex hoc sunt aliquid secundum essentiam quod respondent 
+       <lb ed="#B" n="19"/>rationibus idealibus in deo existentibus: &amp; ratione ipsius essentiae earum habent relationem realem ad deum. 
+       <lb ed="#B" n="20"/>Ex complacentia autem diuinae voluntatis in diuinam essentiam cognitam a suo intellectum: vt in se habet ratio 
+       <lb ed="#B" n="21"/>nes ideales. et per hoc in essentias creaturarum: vt per suas ideas cognitae sunt ab intellectu diuino: est 
+       <lb ed="#B" n="22"/>in deo relatio secundum rationem ex parte voluntatis qua dicitur creatiuus: &amp; ipsa essentia creaturae dicitur 
+       <lb ed="#B" n="23"/>creabilis. Vnde non ens quod non est aliquid per essentiam: nec habet rationem idealem in deo: nullo modo est 
+       <lb ed="#B" n="24"/>quid creabile. Vlterius autem ex determinatione diuinae voluntatis qua ab aeterno electione liberi arbitrii 
+       <lb ed="#B" n="25"/>determinauit has essentias se esse creaturum ex tempore in esse existentiae: &amp; forte alias non: habet ex parte 
+       <lb ed="#B" n="26"/>voluntatis relationem ad illa quae est creaturus, qua dicitur creaturus: &amp; ipsa essentia creaturae dici 
+       <lb ed="#B" n="27"/>tur creanda. Et differt haec ab illa secundum rationem in hoc: quod respectu creabilium non creandorum dicit ordinem 
+       <lb ed="#B" n="28"/>habitualem ad mutationem qua creatura nata est creari. respectu creandorum autem dicit ordinem actualem 
+       <lb ed="#B" n="29"/>ad mutationem qua creatura aliquando actualiter creabitur. 
+      </p>
+      <p xml:id="n3av8a-c1e3603-d1e306">
+       VLterius autem ex hoc quod deus voluntate sua 
+       <lb ed="#B" n="30"/>essentias creat secundum actum in esse existentiae, habet relationem ad illa creata qua dicitur creator a suo actu 
+       <lb ed="#B" n="31"/>creandi: &amp; illa dicuntur creata a sua creatione passiua. Sed solummodo secundum rationem differunt illa tria 
+       <lb ed="#B" n="32"/>in deo: &amp; sunt iidem respectus secundum rationem, differentes solo nomine quae dicitur creatiuus creaturus &amp; creans. licet 
+       <lb ed="#B" n="33"/>enim nominatio illa qua dicitur creans siue creator: convenit ei ex tempore quo creatura est creata: &amp; ita 
+       <lb ed="#B" n="34"/>quia creatura refertur ad ipsum: ipse tamen respectus aeternus est: &amp; est ipsius ad creaturam: non quia crea 
+       <lb ed="#B" n="35"/>tura ad ipsum: sed potius econuerso, quemadmodum creare actiue potius est ratio eius quod est creari passi- 
+       <lb ed="#B" n="36"/>ue quam econuerso. Passio enim vt dicitur in. vi. principiis, est effectus illatioque actionis. Et est ille actus quo  
+       <lb ed="#B" n="37"/>deus creat aeternus: quia suum velle est aeternum: licet passio qua creatura creatur noua sit: &amp; ex tempore 
+       <lb ed="#B" n="38"/>quo creatura prosilit de nouo in esse ex aeterno velle, &amp; aeterna atque antiqua determinatione volunta- 
+       <lb ed="#B" n="39"/>tis. Vnde quod illa creatio dicitur actio noua, noua nominatio est actionis antiquae ab ipsa noua pas- 
+       <lb ed="#B" n="40"/>sione. Vlterius autem ex hoc quod creatura habet vlteriorem relationem realem ad deum qua dicitur serua 
+       <lb ed="#B" n="41"/>ex tempore circa deum, correspondet ei relatio secundum rationem qua dicitur dominus: qua dicitur relatio in deo ex tempo 
+       <lb ed="#B" n="42"/>re quia creatura refertur ad ipsum vt serua. ipsa vero dicitur serua non quia ipse refertur ad illam vt dominus. Et 
+       <lb ed="#B" n="43"/>non est proprie noua relatio: sed noua nominatio antiquae relationis. eadem enim relatio qua ab aeterno  
+       <lb ed="#B" n="44"/>dictus est dominatiuus &amp; dominaturus creaturae: dicitur dominus siue dominans ex tempore: secundum quod iam 
+       <lb ed="#B" n="45"/>dictum est de creatiuis creaturis &amp; creare. Et differt relatio quae denominatur a dominio, ab illa quae deno  
+       <lb ed="#B" n="46"/>minatur a creatione: quemadmodum differunt actus creandi &amp; actus conseruandi creatum. Vnde rela- 
+       <lb ed="#B" n="47"/>tiones quas consuetum est dicere esse in deo ex tempore quia creatura est ad ipsum, non sunt proprie relationes 
+       <lb ed="#B" n="48"/>sed nouae nominationes aeternarum relationum: quibus ab aeterno secundum iam expositum modum deus secun 
+       <lb ed="#B" n="49"/>dum rationem habet referri ad creaturam: non quia creatura refertur ad ipsum sed potius econuerso. Hinc est 
+       <lb ed="#B" n="50"/>quod Augis huiusmodi relationes ex tempore potius vocat nouas nominationes siue appellationes quam nouas re 
+        <lb ed="#B" n="51"/>lationes. dicit enim <ref xml:id="n3av8a-c1e3603-Rd1e355">Augustinus v de trinitate c. vlt.</ref> 
+       <quote xml:id="n3av8a-c1e3603-Qd1e359" source="http://scta.info/resource/adt-l5-d1e763">Non moueat quod spiritus sanctus cum sit coaeternus patri &amp; filio, dicitur 
+       <lb ed="#B" n="52"/>tamen aliquid ex tempore: veluti hoc ipsum quid donatum est, nam sempiterne spiritus donum: temporaliter 
+       <lb ed="#B" n="53"/>autem donatum. nam etsi dominus non dicitur nisi cum habere incipit seruum: etiam ista appellatio 
+       <lb ed="#B" n="54"/>relatiua ex tempore est deo. Non enim sempiterna creatura est cuius ille est dominus</quote>. Sequitur. Illle sempiterne 
+       <!--724.xml-->
+       <pb ed="#B" n="342-r"/>
+        <lb ed="#B" n="1"/>non dominaretur nisi &amp; iste sempiterne famularetur. Et distat multum ista relatio noua ex tempore, qua  
+       <lb ed="#B" n="2"/>deus vt dominus refertur ad creaturam quia creatura refertur ad ipsum vt serua: &amp; illa qua columna vt 
+       <lb ed="#B" n="3"/>dextra refertur ad animal quia animal refertur ad ipsam vt sinistrum. In columna enim nulla omnino 
+       <lb ed="#B" n="4"/>praefuit ex se relatio ad animal: qua per hoc quod animal sibi factum est sinistrum, noua appellatione dica 
+       <lb ed="#B" n="5"/>tur dextra: nec similiter aliquid super quod ex natura rei relatio qua appellatur dextra fundetur: propter 
+       <lb ed="#B" n="6"/>quod cum noua appellatione sibi aduenit noua relatio: sed secundum rationem &amp; intellectus operationem:  
+       <lb ed="#B" n="7"/>&amp; ideo praeter colunmnae omnimodam mutationem. In deo autem praefuit relatio ad creaturam secundum 
+       <lb ed="#B" n="8"/>iam dictum modum: quae per hoc quod creatura de nouo facta est sibi serua, noua appellatione dicitur 
+       <lb ed="#B" n="9"/>dominium, quae prius dicta est in deo dominatiuum &amp; dominaturum: sicut &amp; in essentia creaturae erat rela 
+       <lb ed="#B" n="10"/>tio qua ab aeterno dici potuit seruitiua siue seruilis aut seruitura. &amp; hoc quemadmodum iustus: qui  
+       <lb ed="#B" n="11"/>cum in aeterna dei praedestinatione potuit dici amicabilis siue amicaturus deo: &amp; ex tempore de nouo 
+       <lb ed="#B" n="12"/>dicitur amicus dei quando de nouo incipit amare deum: &amp; sic per suam mutationem. Deus autem ab  
+       <lb ed="#B" n="13"/>aeterno potuit dici amicatiuus siue amicabilis, aut amicaturus creaturae, propter aeternum amorem quem 
+       <lb ed="#B" n="14"/>habuit ad ipsam: &amp; ex tempore de nouo dicitur amicus non propter aliquem nouum amorem ad ipsam 
+       <lb ed="#B" n="15"/>in deo: sed propter nouum amorem in creatura. Et ideo est in deo illa noua denominatio absque sui mu 
+       <lb ed="#B" n="16"/>tatione: quia nulla adueniente noua relatione, sicut aduenit colunnae: licet secundum rationem: vt dictum 
+       <lb ed="#B" n="17"/>est. Propter quod multo minus sine sua mutatione recipit appellationem nouam secundum relationem 
+       <lb ed="#B" n="18"/>quam columna. Et licet relatio qua columna dicitur dextra possit aliquo modo dici accidere &amp; mutabiliter con 
+       <lb ed="#B" n="19"/>uenire columnae secundum rationem: quia temporaliter ei aduenit: nullo tamen modo relatio huiusmodi dei 
+       <lb ed="#B" n="20"/>ad creaturam potuit dici accidere deo, aut mutabiliter convenire eidem secundum rationem: quia aeter 
+       <lb ed="#B" n="21"/>naliter ei conuenit. Per quid soluit <name ref="#Augustine">Augustinus</name> quaestionem quomodo deus ex tempore de nouo potest dici 
+       <lb ed="#B" n="22"/>amicus &amp; dominus: cum tamen haec non accidant ei sicut accidunt creaturae: dicens in.<ref xml:id="n3av8a-c1e3603-Rd1e423"> v de trinitate c. vlt.</ref> Quo 
+       <lb ed="#B" n="23"/>modo obtinebimus non secundum accidens dici dominum: nisi quia ipsius naturae nihil accidit quo mu 
+       <lb ed="#B" n="24"/>tetur: Vt ea sint accidentia relatiua quae cum aliqua mutatione rerum de quibus dicuntur, accidunt: si 
+       <lb ed="#B" n="25"/>cut amicus relatiue dicitur. supple homo: &amp; hoc accidentaliter. vnde sequitur continuo. Neque enim esse in  
+       <lb ed="#B" n="26"/>cipite scilicet amicus) nisi cum amare coeperit. Fit ergo aliqua mutatio voluntatis vt amicus dicatur. Et infra 
+       <lb ed="#B" n="27"/>Quia ergo temporaliter dici incipit deus: quod ante non dicebatur: manifestum est relatiue dici: non tamen secun 
+       <lb ed="#B" n="28"/>dum accidens dei quod ei accidit: sed plane secundum accidens eius ad quid dici aliquid deus incipit rela- 
+       <lb ed="#B" n="29"/>tiue. Et quod amicus dei iustus esse incipit, ipse mutatur: Deus autem absit vt aliquem temporaliter diligat 
+       <lb ed="#B" n="30"/>quasi noua dilectione quae in ipso deo non erat: apud quem nec praeterita transeunt: &amp; futura iam fa- 
+       <lb ed="#B" n="31"/>cta sunt. Ita quod omnes sanctos suos ante mundi constitutionem dilexit: sicut praedestinauit: sed cum com 
+       <lb ed="#B" n="32"/>uertuntur &amp; inueniunt illum: tunc incipere ab eo diligi dicuntur: vt eo modo dicatur quo potest ab  
+       <lb ed="#B" n="33"/>humano affectu capi quod dicitur. Quia igitur actus amandi absolutus idem est &amp; immutabilis quo deus 
+       <lb ed="#B" n="34"/>amat se &amp; creaturas &amp; antequam erant &amp; cum sunt, tam cum ipsum non amant quam cum ipsum amant seu ama 
+       <lb ed="#B" n="35"/>re incipiunt: actus autem quo dicta est creatura amatura deum antequam esset, &amp; deum amare cum est 
+       <lb ed="#B" n="36"/>in eius amore existens, licet sit idem: tamen mutatur creatura secundum eum cum incipit amare deum:  
+       <lb ed="#B" n="37"/>ideo relatio quae est dei ad creaturas secundum rationem voluntatis suae qua dicitur amicatiuus, aut 
+       <lb ed="#B" n="38"/>amicaturus, aut amicus, fundata in actu amationis eius quo amat creaturas, omnino est eadem im 
+       <lb ed="#B" n="39"/>mutabiliter ei conueniens. Relatio vero quae est creaturae ad deum secundum rem qua dicitur amicatiua 
+       <lb ed="#B" n="40"/>aut amicatura(ut sic liceat fingere nomina) aut amica, fundata in actu amationis eius quo amat deum:  
+       <lb ed="#B" n="41"/>licet omnino sit eadem re: differens sola ratione: tamen mutabiliter convenit ei secundum omnes ratio- 
+       <lb ed="#B" n="42"/>nes. eadem enim mutatione qua nunc creatur, prius erat creanda: &amp; postmodum est creata. Et si- 
+       <lb ed="#B" n="43"/>mile est de amare: amaturum esse: &amp; amauisse ex parte creaturae: &amp; similiter de amari amandam esse 
+       <lb ed="#B" n="44"/>&amp; amatam: quantum est ex parte sua, quia cum ex tempore incipit amare, sicut commutabiliter incipit 
+       <lb ed="#B" n="45"/>amare cum prius non amauit: sic mutabiliter incipit esse amica cum prius non fuit: &amp; mutabiliter 
+       <lb ed="#B" n="46"/>desinit dici amatiua aut amatura cum prius talis dicebatur. Et sicut est de ista relatione qua dici- 
+       <lb ed="#B" n="47"/>tur creatura amicabilis &amp; amica: sic est de illis quibus dicitur creabilis creanda &amp; creata: &amp; vni 
+       <lb ed="#B" n="48"/>uersaliter de omnibus quibus realiter refertur ad deum. &amp; simile est de omnibus quibus secundum 
+       <lb ed="#B" n="49"/>rationem voluntatis suae deus refertur ad creaturas. Et est vna relatio secundum rem quae est ex par- 
+       <lb ed="#B" n="50"/>te creaturae, diuersa secundum rationem respectu dei qualitercumque diuersimode nominetur: &amp; simimiliter 
+       <lb ed="#B" n="51"/>ex parte dei respectu creaturae est vna secundum rationem quantum est ex parte dei. Vnde &amp; quia deus  
+       <lb ed="#B" n="52"/>vnica actione rem creat dando ei esse: &amp; in esse dato conseruat: vna est relatio qua respectu creaturae 
+       <lb ed="#B" n="53"/>dicitur creator &amp; conseruator: et sicut vnicum esse est quod habet mutabiliter per creationem &amp; in quo conseruatur 
+       <lb ed="#B" n="54"/>eadem relatione secundum rem, differente solummodo secundum rationem, refertur ad deum vt creata in esse 
+       <!--725.xml-->
+       <pb ed="#B" n="342-v"/>
+        <lb ed="#B" n="1"/>&amp; vt conseruata in esse. Sicut enim ex parte dei eadem actio est creare &amp; conseruare: sic ex parte creaturae 
+       <lb ed="#B" n="2"/>eadem passio est creari &amp; conseruari. Sed passio ista dicitur creari pro instanti mutationis quo creatu 
+       <lb ed="#B" n="3"/>ra nunc primo prosilit in esse: &amp; similiter dicitur actio dei creare. Dicitur autem conseruari passio: &amp; con- 
+       <lb ed="#B" n="4"/>seruare actio, pro toto tempore residuo. Diximus tamen in primo nostro Quolibet aliam actionem qua.  
+       <lb ed="#B" n="5"/>deus res creat in esse, &amp; qua creaturas conseruat: connumerando in creatione passiua mutationem si- 
+       <lb ed="#B" n="6"/>ne qua res per actum creationis non prosilit in esse: quae non manet in conseruatione rei in esse. Et ratione  
+       <lb ed="#B" n="7"/>mutationis illius annexae actui creationis &amp; ipsi connumeratae, non annexae actui conseruationis nec ei connu 
+       <lb ed="#B" n="8"/>meratae: reuera alius est actus creationis &amp; conseruationis. Praeter dictos autem modos relationum secundum rationem 
+       <lb ed="#B" n="9"/>quibus deus refertur ad creaturas modo intellectus &amp; voluntatis, est adhuc tertius quo resertur ad ipsas 
+       <lb ed="#B" n="10"/>modo mensurae: de quo inferius erit sermo iam. Relatio vero secundum rem siue realis est secundum per  
+       <lb ed="#B" n="11"/>quod alibi exposuimus quae in re fundata est: &amp; hoc praecise ex necessitate naturae ipsius super quam fun 
+       <lb ed="#B" n="12"/>datur, absque omni consideratione aut opere intellectus vel voluntate circa ipsam vt iam praeexistentem 
+       <lb ed="#B" n="13"/>Ex necessitate autem naturae rei absque consideratione intellectus potest relatio fundari dupliciter. Vno 
+       <lb ed="#B" n="14"/>modo ex praecisa natura ipsius rei absolute: super quam habet fundari absque omni ordine suo ad rem aliam 
+       <lb ed="#B" n="15"/>absolutam. Alio modo non absque tali ordine. Primo modo sunt relationes reales in deo ad intra funda 
+       <lb ed="#B" n="16"/>tae in ipsa diuina essentia, siue natura. Propter quid diuinae relationes non referunt naturam: sed cum na 
+       <lb ed="#B" n="17"/>tura constituunt supposita quae ipsis relationibus inter se referunt: secundum modum in aliis quaestio- 
+       <lb ed="#B" n="18"/>nibus alias a nobis expositum. Et hoc modo impossibile est quod in alia natura vel essentia fundetur ali- 
+       <lb ed="#B" n="19"/>qua relatio realis. Hoc enim prouenit ex infinitate &amp; illimitatione ipsius diuinae essentiae secundum quod 
+       <lb ed="#B" n="20"/>hoc declarauimus disputando de emanationibus diuinarum personarum. Vnde in creaturis relatio- 
+       <lb ed="#B" n="21"/>nes reales habent esse tantum secundo modo: vt propterea habitudo relationis necessario in creaturis sit 
+       <lb ed="#B" n="22"/>fundata in pluribus: ita quod non fundatur in vno absoluto absque alio absoluto sibi correspondente: in  
+       <lb ed="#B" n="23"/>quo similiter fundatur, secundum quod in tertia quaestione sequente amplius declarabitur. Et ideo relatio rea 
+       <lb ed="#B" n="24"/>lis in creaturis requirit mutuum ordinem inter se illorum super quae fundatur. Propter quod etiam  
+       <lb ed="#B" n="25"/>praesupponit supposita quae subsistunt: in quibus sunt naturae super quas relationes fundantur: &amp; non constituunt 
+       <lb ed="#B" n="26"/>ea: sed referunt: non autem ipsas naturas super quas fundantur. Et est ipsa relatio ordo quidam inter re 
+       <lb ed="#B" n="27"/>lata: &amp; inter illa in quibus fundatur: cum in diuinis relationibus non sit ordo nisi inter supposita quae  
+       <lb ed="#B" n="28"/>referuntur &amp; quae constituuntur per ipsas relationes. Ordo autem iste quia naturalis est &amp; a natura rei 
+       <lb ed="#B" n="29"/>&amp; non relationis ab opere intellectus aut voluntatis: aliter enim talis relatio rationis esset: vt patet 
+       <lb ed="#B" n="30"/>ex iam dictis: ideo necessario procedit ex naturali dependentia vnius naturae ad alteram: qua sese mu- 
+       <lb ed="#B" n="31"/>tuo expectant vt in ipsis fundetur relatio. Non enim fundatur similitudo in vno albo nisi coexistat 
+       <lb ed="#B" n="32"/>aliud album. Et ex hoc ipsa relatio talis non solum est habitudo quaedam &amp; ordo: sed cum hoc est quae-  
+       <lb ed="#B" n="33"/>dam dependentia: cum tamen relatio in diuinis consistat in ordine quorundam relatorum: sed absque omni 
+       <lb ed="#B" n="34"/>dependentia: quia natura super quam fundatur: vt in ipsa fundetur non expectat quicquam extra se. Vnde 
+       <lb ed="#B" n="35"/>&amp; quia in diuinis nihil existit quod expectat aliquid extra vt fundetur: aut existat in eo aliquid quod natu-  
+       <lb ed="#B" n="36"/>raliter habet existere aut fundari in eo: ideo talem ordinem scilicet naturalem, nullo modo potest habere deus.  
+       <lb ed="#B" n="37"/>vel aliquid quod est in eo ad id quid est extra se: etiam si per impossibile: immo per incompossibile ponatur 
+       <lb ed="#B" n="38"/>esse sine omni dependentia. Et quia sine isto ordine vt dictum est non est relatio ad extra realis: idcir 
+       <lb ed="#B" n="39"/>co impossibile est omnino quod deus realem relationem habeat ad creaturas quae sunt extra eum. Sed si ali 
+       <lb ed="#B" n="40"/>quem ordinem habeat ad illas: ille erit rationis tantum: quia per intellectum &amp; voluntatem vt dictum est iam: 
+       <lb ed="#B" n="41"/>aut modo mensurae vt iam dicetur. Et sic ordo naturalis qui debet esse inter relata adinuicem quae  
+       <lb ed="#B" n="42"/>sunt extra sese, impedit quod dei ad creaturas nulla est relatio realis in deo: etsi praecludantur alia quae  
+       <lb ed="#B" n="43"/>in creaturis sunt rationes creatiuae ordinis. lpse enim non potest esse extremum alicuius ordinis natu-  
+       <lb ed="#B" n="44"/>ralis &amp; realis inter ipsum &amp; creaturas: sed est extra omnem ordinem respectu creaturae. Creaturae enim 
+       <lb ed="#B" n="45"/>ex hoc dicuntur esse eiusdem ordinis quod scilicet sunt extrema ordinis eiusdem naturalis: et similiter quod ha-  
+       <lb ed="#B" n="46"/>bent ordinem naturalem ad deum: vt ad primum efficiens formale aut finale vt iam dicetur. ideo enim 
+       <lb ed="#B" n="47"/>ad ipsum necessario habent relationem realem. Ante istam autem radicem praecedunt alie scilicet dependentia, mu 
+       <lb ed="#B" n="48"/>tabilitas, &amp; imperfectio: propter quas etiam dicuntur esse reales relationes creaturarum inter se tanquam 
+       <lb ed="#B" n="49"/>conditiones naturae creatae: quibus naturaliter &amp; ex se absque intellectu &amp; voluntate operante habet 
+       <lb ed="#B" n="50"/>in ipsa fundari relatio: quae realis dicitur ex hoc. Propter quas adhuc amplius repugnat deo ha-  
+       <lb ed="#B" n="51"/>bere relationem realem ad creaturas: quia mox deo repugnat quod sit dependens ad aliud aut ex se 
+       <lb ed="#B" n="52"/>imperfectum: aut quod aliquid per aliud ei acquiratur: &amp; per hoc sit transmutabile. Vnde quia philo 
+       <lb ed="#B" n="53"/>sophi in deo relationes reales ad intra non posuerunt propter eius simplicitatis: sed omnino es- 
+       <lb ed="#B" n="54"/>se in ipso negauerunt: &amp; ponebant aliquas relationes reales ad intra solummodo in creaturis materia-  
+       <!--726.xml-->
+       <pb ed="#B" n="343-r"/>
+        <lb ed="#B" n="1"/>libus compositis: secundum quod dicit Simplicius in fine super capitulum de relatione. In materia-  
+       <lb ed="#B" n="2"/>libus quidem propter distentionem: &amp; propter materialem diuersitatem habitudo subsistit. In his au 
+       <lb ed="#B" n="3"/>tem quae sunt fine distentione &amp; immaterialia &amp; impartibiliter coniuncta: quomodo vtique erit habitudo: Ni 
+       <lb ed="#B" n="4"/>si forte (quod quidam dicebant) sicut &amp; distinctio ibi dicitur, ita &amp; diuersitas. Quare etiam in deo &amp; in immate 
+       <lb ed="#B" n="5"/>rialibus non posuerunt relationes reales ad extra: &amp; hoc propter accidentalitatem quam important, &amp; transmu 
+       <lb ed="#B" n="6"/>tabilitatem quam in subiecto supponunt: sicut in tertia quaestione sequente declarabitur. secundum quod de primo dicit 
+       <lb ed="#B" n="7"/>ibidem Simplicius. Nulla est ibi habitudo neque intelligitur. In quibus enim non est alterum in altero vt habitudo  
+       <lb ed="#B" n="8"/>insubstantia: hoc quidem aliud: illud autem aliud: vt adinuicem aliquo modo se habeant: quomodo possi 
+       <lb ed="#B" n="9"/>bile est in istis ipsum ad aliquid considerari nisi secundum aliquam analogiam: sicut &amp; causas dicimus ibi 
+       <lb ed="#B" n="10"/>&amp; causata: De secundo vero dicit in fine. Adhuc autem si superuentitiam naturam habere dicuntur ipsa ad ali 
+       <lb ed="#B" n="11"/>quid &amp; adnascentiae assimilari: &amp; essentiam a transmutatione extrinsecorum dependentem habent: qumo  
+       <lb ed="#B" n="12"/>in illis considerari ista possibile est: quasi dicat nullo modo. Idcirco philosophi omnino in deo &amp; sub- 
+       <lb ed="#B" n="13"/>stantiis immaterialibus quas deos posuerunt, nullo modo ponebant relationes reales ad deum. Sicut autem 
+       <lb ed="#B" n="14"/>ordinem naturae necessario praecedit dependentia: vt relatio dicatur ordo dependentiae, secundum quod dictum est: sic 
+       <lb ed="#B" n="15"/>dependentiam necessario praecedit mutabilitas. nihil enim ad aliud dependet nisi per illud sibi aliquid habeat 
+       <lb ed="#B" n="16"/>acquirere: &amp; hoc per mutationem. Et quia non est aliquid natum acquirere quicquam per mutationem nisi pro-  
+       <lb ed="#B" n="17"/>pter suam imperfectionem: idcirco mutabilitas necessario praesupponit imperfectionem: qua res non habet 
+       <lb ed="#B" n="18"/>perfectum esse naturae suae. &amp; hoc propter ipsius limitationem: quae est prima radix omnium: limitatio enim 
+       <lb ed="#B" n="19"/>est causa imperfectionis: &amp; per consequens omnium aliorum. Quia enim creatura limitata est: ideo imperfecta est: 
+       <lb ed="#B" n="20"/>&amp; quia imperfecta, ideo est mutabilis: &amp; quia mutabilis, ideo est dependens: &amp; quia dependens, ideo ordinem 
+       <lb ed="#B" n="21"/>habet naturalem ad id a quo dependet: vt quoquo modo perficiatur per illud. Quia in relationibus proportiona 
+       <lb ed="#B" n="22"/>lium id super quod fundantur, puta album, in altero similium non habet totaliter in se rationem albedinis: sed solum 
+       <lb ed="#B" n="23"/>participationem eius. ideo dependet ad aliud album: quia perfectius secundum rationem speciei habetur in duo-  
+       <lb ed="#B" n="24"/>bus quam in altero illorum. In actiuis etiam necessitate naturae: quia aut non habet nisi formam producendam 
+       <lb ed="#B" n="25"/>in passiuo participatam vt calefactionem: aut non nisi virtute: vt sol formam vermis. ideo etiam dependet ad  
+       <lb ed="#B" n="26"/>suam perfectionem habendam ab ipso passiuo: &amp; multo fortius econuerso. In mensuris etiam planum est quod men 
+       <lb ed="#B" n="27"/>suratum respectu mensurae quid imperfectum est: &amp; habet suam perfectionem a mensura: licet econuerso ne- 
+       <lb ed="#B" n="28"/>quaquam. Ad secundum quod relatio in deum &amp; creaturas est relatio commensurationis in qua non refertur deus ad  
+       <lb ed="#B" n="29"/>creaturam nisi quia creatura refertur ad ipsum: Dicendum quod deus non solum refertur ad creaturas secundum con 
+       <lb ed="#B" n="30"/>mensurationis rationis: sed etiam secundum rationem proportionis &amp; secundum rationem actionis. Ad cuius in  
+       <lb ed="#B" n="31"/>tellectum sciendum: quod secundum philosophum. v metaphysicae caitulo de relatione, tres sunt modi relationum secundum triplex 
+       <lb ed="#B" n="32"/>genus causae formalis, efficientis, &amp; finalis. ad quos omnes relationes habent reduci: &amp; illae quae sunt secundum 
+       <lb ed="#B" n="33"/>rem: &amp; illae quae sunt secundum rationem. Sed philosophus, proponit eos in relationibus realibus: &amp; est primus eorum in pro-  
+       <lb ed="#B" n="34"/>portionibus. Proportionalia enim relationem habent inter se secundum rationem vnius &amp; multi. Propter quid  
+       <lb ed="#B" n="35"/>philosophus vocat eum ibidem modo numeri. Vnum enim vt dicitur. x. metaphysicae habet idem &amp; simile &amp; aequale: &amp; mul- 
+       <lb ed="#B" n="36"/>tum habet diuersum &amp; dissimile &amp; inaequale. &amp; vt dicit in. v aequale &amp; simile &amp; idem dicuntur secundum 
+       <lb ed="#B" n="37"/>vnum modum: quia referuntur ad vnum. hoc est secundum Conmen. quod proportio in eis est eadem in vtroque extre- 
+       <lb ed="#B" n="38"/>mo. Per quod intelligit quod in eorum contrariis inaequale dissimile &amp; diuersum dicuntur secundum eundem modum  
+       <lb ed="#B" n="39"/>etiam quia referuntur ad multum: eo quod proportio in eis est diuersa in vtroque extremorum ab altero tantum. Et est in  
+       <lb ed="#B" n="40"/>omnibus istis relatio secundum genus causae formalis: quia non est nisi eorum quae conveniunt in forma generis 
+       <lb ed="#B" n="41"/>aut speciei. Sunt enim aequale &amp; inaequale in quantitate, idem &amp; diuersum in substantia, simile &amp; dissi- 
+       <lb ed="#B" n="42"/>mile in qualitate: sed dissimile inter diuersa specie secundum qualitatem: simile vero proprie inter eadem spe 
+       <lb ed="#B" n="43"/>cie. Et dicuntur inaequale, dissimile, &amp; diuersum in conmunicando eadem forma difformiter: aequale simi 
+       <lb ed="#B" n="44"/>le &amp; idem in conmunicando eadem forma conformiter. Secundus autem modus est in actionibus. actiua autem &amp; 
+       <lb ed="#B" n="45"/>passiua sunt relatiua per potentiam actiuam &amp; passiuam in eis. Dispositionem enim relationis vnum eorum 
+       <lb ed="#B" n="46"/>non acquirit nisi respectu alterius: vt calefaciens respectu eius quod calefit, vt habetur. v metaphysicae. Et est iste 
+       <lb ed="#B" n="47"/>modus secundum genus causae efficientis manifeste. Et in istis duobus modis est relatio secundum rem in  
+       <lb ed="#B" n="48"/>vtroque extremorum. dicente <name ref="#Aristotle">philosopho</name> in. v metaphysicae. Omnia quae dicuntur modo numeri &amp; potentiae, sunt relatiua 
+       <lb ed="#B" n="49"/>quia essentia eorum dicitur ad aliud: &amp; non quia illud aliud dicitur ad illa. Commenta. id est non  
+       <lb ed="#B" n="50"/>quia alterum eorum intrat in relatione per se: sed supple vtrumque. Tertius vero modus est in commensura- 
+       <lb ed="#B" n="51"/>tionibus: secundum quem mensuratum dicitur ad mensuram. Et est secundum istum modum relatio secundum 
+       <lb ed="#B" n="52"/>rem in mensurato: secundum rationem vero in mensura. dicente <name ref="#Aristotle">philosopho</name> ibidem. Intellectum &amp; scitum dicitur rela 
+       <lb ed="#B" n="53"/>tiuum quia ad illud dicitur aliquid aliud. vbi dicit Commen. Relatio est duobus modis: aut in substantia 
+       <lb ed="#B" n="54"/>vtriusque relatiui: aut in substantia alterius tantum: &amp; in altero propter istud. Et est iste modus secundum 
+       <!--727.xml-->
+       <pb ed="#B" n="343-v"/>
+        <lb ed="#B" n="1"/>genus causae finalis. illi enim quod primo est vnum, quod est mensura: hoc nomen accidit ei per complementum 
+       <lb ed="#B" n="2"/>quia scilicet est aliquid in se perfectum &amp; completum quod rationes perfectionis &amp; completionis omnium aliorum in 
+       <lb ed="#B" n="3"/>se continet. Circa primum istorum modorum qui consistit in proportione secundum formam, sciendum est quod  
+       <lb ed="#B" n="4"/>communicantia in forma possunt communicare ea, puta similia, quadrupliciter. Vno modo simpliciter 
+       <lb ed="#B" n="5"/>&amp; absolute nulla praerogatiua secundum formam existente in vno super alterum. Alio modo in altero eorum exi 
+       <lb ed="#B" n="6"/>stente secundum formam aliquam praerogatiua. &amp; hoc tripliciter: vel secundum rationem intensionis: vel secundum rationem 
+       <lb ed="#B" n="7"/>imitationis, vel secundum rationem productionis. Primo modo dicuntur similia aequaliter alba. Secundo mo- 
+       <lb ed="#B" n="8"/>do magis album &amp; minus. Tertio modo exemplar &amp; exemplatum. Quarto modo producens &amp; prductum. Et pri 
+       <lb ed="#B" n="9"/>mis duobus modis istorum quatuor non est aliqua relatio dei ad creaturas: quia creaturae non participant 
+       <lb ed="#B" n="10"/>formam deitatis secundum rationem qua est in deo, neque secundum aequale, neque secundum magis &amp; minus: sicut minus 
+       <lb ed="#B" n="11"/>album participat eandem formam cum magis albo: sed creaturae participant formam deitatis secundum rationem cu 
+       <lb ed="#B" n="12"/>iusdam imitationis: quod pertinet ad primum modum relationis. Et illam rationem imitationis participant quo  
+       <lb ed="#B" n="13"/>ad esse existentiae secundum rationem productionis. Sed hoc pertinet ad secundum modum relationis. Iuxta primum 
+       <lb ed="#B" n="14"/>istorum quatuor modorum in diuinis tres personae sunt aequales &amp; similes in substantia. Iuxta secundum mo- 
+       <lb ed="#B" n="15"/>dum nulla est relatio in diuinis: quia in illis non sunt magis &amp; minus. Iuxta tertium modum est relatio filii 
+       <lb ed="#B" n="16"/>in eo quod est imago ad patrem. Iuxta quartum modum est relatio filii ad patrem &amp; spiritus sancti ad vtrumque. Tertius autem  
+       <lb ed="#B" n="17"/>modus principalis relationis qui est commensurationis, nullo modo cadit in diuinis inter personas: quia nulla persona 
+       <lb ed="#B" n="18"/>habet formam deitatis principatam ad mensuram: sed aequaliter illimitate est in quaelibet persona diuina. Sed est 
+       <lb ed="#B" n="19"/>inter deum &amp; creaturas: inter quos etiam sunt alii duo modi principales relationis: sed differenter. quoniam secun 
+       <lb ed="#B" n="20"/>dus respicit solummo creaturarum existentiam: primus vero &amp; tertius respiciunt earum essentiam: sed differenter. 
+       <lb ed="#B" n="21"/>quoniam primus respicit essentiam simplicitur vt est essentia: tertius vt est determinata quantitate in gradu naturae.  
+       <lb ed="#B" n="22"/>Sed primus modus non respicit essentiam creaturae sub rationequam est essentia simpliciter &amp; absolute absque  
+       <lb ed="#B" n="23"/>omni relatione immutationis: qualiter secundum primum modum sese respiciunt aequaliter alba: &amp; magis &amp; 
+       <lb ed="#B" n="24"/>minus album: sic enim non est relatio nisi inter illa quae habent eandem rationem formae: sed relatio dei ad creaturas 
+       <lb ed="#B" n="25"/>secundum primum modum relationis respicit essentias creaturarum sub ratione imitationis. Sic enim essentiae crea 
+       <lb ed="#B" n="26"/>turarum habent similitudinem ad deum. Et est inter deum &amp; creaturam relatio secundum genus causae formalis 
+       <lb ed="#B" n="27"/>quae est inter exemplar &amp; exemplatum: &amp; est secundum rationes ideales a quibus formaliter licet non effecti 
+       <lb ed="#B" n="28"/>ue sunt creaturarum essentiae id quod sunt ad se aliquid per essentiam. Et ideo <name ref="#Aristotle">philosophus</name> ponendo mundum esse aeter 
+       <lb ed="#B" n="29"/>num: &amp; illa quae sub deo existunt secundum speciem in vnico indiuiduo non esse ab alio productiue nec formali- 
+       <lb ed="#B" n="30"/>ter: sed esse ex se formaliter quaedam necesse esse: licet secundum formam inferioris gradus: nullam posuit re- 
+       <lb ed="#B" n="31"/>lationem realem aliorum ad primum: nisi forte secundum rationem mensurati tantummodo. Vnde siqui ad-  
+       <lb ed="#B" n="32"/>huc nituntur dicere quod nulla est relatio inter deum &amp; creaturam nisi secundum rationem mensurae: negant inter 
+       <lb ed="#B" n="33"/>ipsos esse aliquem respectum secundum rationem causae efficientis &amp; formalis exemplaris: &amp; per consequens negant 
+       <lb ed="#B" n="34"/>deum se habere ad creaturas in triplici genere causae: quia non est genus causae in aliquo secundum quod non 
+       <lb ed="#B" n="35"/>habetur habitudo &amp; relatio inter ipsam &amp; causatum. 
+      </p>
+      <p xml:id="n3av8a-c1e3603-d1e829">
+       NOS ergo qui debemus ponere quod nec creaturae 
+       <lb ed="#B" n="36"/>sunt etiam vt obiecta cognita existentia in diuia cognitione id quod sunt ad se aliquid per essentiam nisi ab alio:  
+       <lb ed="#B" n="37"/>&amp; id quod sunt per essentiam aliquid existentia in sola cognitione, non est ab alio effectiue secundum genus causae effi 
+       <lb ed="#B" n="38"/>cientis, quia illud solum respicit rerum existentias: necesse habemus ponere quod est ab alio: sed secundum genus causae 
+       <lb ed="#B" n="39"/>formalis exemplaris tantum: &amp; hoc a rationibus idealibus secundum quod exponetur in quaestione sequente. Et sic ex parte in  
+       <lb ed="#B" n="40"/>tellectus secundum rationes ideales deus habet relationem ad creaturas secundum primum modum relationis: sed se 
+       <lb ed="#B" n="41"/>cundum rationem tantum: quemadmodum in deo idea est aliquid secundum rationem tantum. Et est ista relatio in deo ad  
+       <lb ed="#B" n="42"/>creaturam non quia creatura est ad ipsum: sed magis econuerso. Etenim scientia dei ex sola se est causare 
+       <lb ed="#B" n="43"/>rum non quo ad ipsarum existentiam: sed quo ad ipsarum essentiam tantum. Et cum secundum huncmiodum  
+       <lb ed="#B" n="44"/>creatura est a deo id quod est per essentiam: quia est hoc ipsum secundum limitationem: necessario est ad ipsumvt 
+       <lb ed="#B" n="45"/>mensuratum secundum gradum naturae determinatum: ex quo habet relationem ad deum secundum rationem mensura 
+       <lb ed="#B" n="46"/>ti ad mensuram suam. Est enim essentiam creaturae dupliciter considerare. Vno modo secundum id quod est. 
+       <lb ed="#B" n="47"/>per essentiam. Alio modo secundum quantitatem &amp; gradum ipsius essentiae. Primo modo refertur ad deum  
+       <lb ed="#B" n="48"/>vt ad exemplatum quid causae formalis. &amp; hoc quia exemplaris vt forma refertur ad ipsum: &amp; hoc secundum 
+       <lb ed="#B" n="49"/>primum modum relationis per quandam reductionem. Secundo modo refertur ad deum vt mensuratum eius:  
+       <lb ed="#B" n="50"/>deus ad ipsam vt mensura: &amp; hoc non nisi quia ipsa refertur ad ipsum: &amp; hoc secundum ter- 
+       <lb ed="#B" n="51"/>tium modum relationis. &amp; quomodo hoc, amplius exponetur in quaestione sequente. Et sunt isti duonio 
+       <lb ed="#B" n="52"/>di relationis fundatae in essentia creaturae ad deum absque ordine eius ad existentiam: ita quod relatio 
+       <lb ed="#B" n="53"/>dei ad essentiam creaturae secundum primum modum &amp; rationem formae, praesupponitur relatio 
+       <lb ed="#B" n="54"/>ni creaturae ad deum secundum tertium modum: &amp; rationem finis. Et isti duo praesupposuntur 
+       <!--728.xml-->
+       <pb ed="#B" n="344-r"/>
+        <lb ed="#B" n="1"/>relationi dei ad creaturam in ordine ad earum existentiam extra diuinum intellectum: quae est ex 
+       <lb ed="#B" n="2"/>parte voluntatis: &amp; pertinet ad secundum modum relationis &amp; rationem efficientis. 
+      </p>
+      <p xml:id="n3av8a-c1e3603-d1e881">
+       AD tertium 
+       <lb ed="#B" n="3"/>quod deus essentia sua inquantum continet perfectiones creaturarum in essendo, non refertur ad creaturas 
+       <lb ed="#B" n="4"/>nisi quia ipsae referuntur ad ipsum: Aliter enim in deo esset relatio realis ad creaturas quia realiter 
+       <lb ed="#B" n="5"/>continet illas perfectiones: non quia creatura refertur ad ipsum: Dicendum quod bene verum est quod deus se 
+       <lb ed="#B" n="6"/>cundum tertium modum relationis qui consistit in conmensurationibus, essentia sua refertur ad crea 
+       <lb ed="#B" n="7"/>turam quia creatura refertur ad ipsum: quoniam sua essentia ratione qua est essentia simpliciter, est vnica 
+       <lb ed="#B" n="8"/>mensura omnium creaturarum: &amp; id quo simpliciter quantitas &amp; gradus essentiae earum habet co 
+       <lb ed="#B" n="9"/>gnosci: &amp; hoc per se &amp; ex se. Quia tamen ipsa essentia diuina vt mensura per se cognoscitur determina 
+       <lb ed="#B" n="10"/>te quantitas essentiae creaturae secundum gradum determinatum: hoc non est nisi inquantum com- 
+       <lb ed="#B" n="11"/>tinet perfectiones earum: secundum quod haec patebunt in quaestione sequenti. Sed tamen vtroque modo non re 
+       <lb ed="#B" n="12"/>fertur secundum tertium modum relationis ad creaturam nisi quia creatura refertur ad ipsum: quia ra 
+       <lb ed="#B" n="13"/>tio persectionalis pertinet ad genus causae finalis, secundum quod non est relatio finis ad aliquid nisi quia 
+       <lb ed="#B" n="14"/>illud ad ipsum. Quia autem assumitur quod deus in cognoscendo &amp; volendo non refertur ad creaturas 
+       <lb ed="#B" n="15"/>nisi essentia sua, inquantum continet in se perfectiones creaturarum in essendo: Dicendum quod in di  
+       <lb ed="#B" n="16"/>uina essentia eaedem rationes sunt perfectionales &amp; ideales differenti ratione. Sunt autem eaedem ra 
+       <lb ed="#B" n="17"/>tiones, quia vt sunt perfectionales &amp; vt sunt ideales non sunt in essentia ex natura essentiae absolu- 
+       <lb ed="#B" n="18"/>te nisi virtute tantum: sed solummodo ex consideratione intellectus, vt patet de ipsis inquantum sunt 
+       <lb ed="#B" n="19"/>ideales: &amp; iam amplius patebit in sequente quaestione: vbi etiam declarabitur quomodo sunt in essen- 
+       <lb ed="#B" n="20"/>tia secundum actum ex consideratione intellectus inquantum sunt perfectionales. Differunt autem sola 
+       <lb ed="#B" n="21"/>ratione: quemadmodum forma eadem est principium essendi &amp; cognoscendi vt forma: &amp; principium 
+       <lb ed="#B" n="22"/>perficiendi vt finis. Quia inquantum sunt rationes ideales pertinent ad deum: vt est causa formalis crea- 
+       <lb ed="#B" n="23"/>turarum: inquantum vero sunt perfectionales, pertinent ad eundem vt est causa finalis. Et inquantum  
+       <lb ed="#B" n="24"/>sunt rationes ideales, refertur deus ad creaturas per ipsas, vt ipsae creaturae sunt aliquid per essentiam 
+       <lb ed="#B" n="25"/>ad se: &amp; vt ipsae ideae sunt rationes cognoscendi illas: &amp; hoc secundum primum modum relationis. In  
+       <lb ed="#B" n="26"/>quantum vero sunt rationes persectionales refertur deus ad creaturas per ipsas, vt ipsae creaturae sunt 
+       <lb ed="#B" n="27"/>aliquid limitatum in gradu quantitatis naturae: &amp; vt illae sunt rationes mensurandi gradum quantitatis 
+       <lb ed="#B" n="28"/>in essentia creaturae: &amp; hoc secundum tertium modum relationis. Et primo modo relationis non refertur 
+       <lb ed="#B" n="29"/>deus ad creaturas per intellectum &amp; voluntatem quia creaturae referuntur ad ipsum: sed econuerso po 
+       <lb ed="#B" n="30"/>tius: sed secundo modo: secundum quod ista patebunt iam ex sequente quaestione.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

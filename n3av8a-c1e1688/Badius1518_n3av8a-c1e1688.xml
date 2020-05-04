@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 31</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 31</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="147-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1688">
+       <head xml:id="n3av8a-c1e1688-Hd1e96">Quaestio 31</head>
+       <p xml:id="n3av8a-c1e1688-d1e99">
+        <lb ed="#B" n="25"/>Equitur de pertinentibus ad omnes homines generaliter: sed principaliter ad  
+       <lb ed="#B" n="26"/>totum compositum ex anima &amp; corpore. Quorum vnum erat vt dispositio in  
+       <lb ed="#B" n="27"/>natura. Alia vero quaedam vt operatio egrediens a natura. Et tertio alia ad sancti- 
+       <lb ed="#B" n="28"/>ficandum naturam. 
+      </p>
+      <p xml:id="n3av8a-c1e1688-d1e110">
+       PRImum istorum erat: vtrum homo possit esse non risi- 
+       <lb ed="#B" n="29"/>bilis. 
+      </p>
+      <p xml:id="n3av8a-c1e1688-d1e115">
+       ET arguitur quod sic. Quia deus potest plus facere quam intellectus cogitare. sed  
+       <lb ed="#B" n="30"/>intellectus potest cogitare hominem non cogitando risibile in illo. ergo deus po 
+       <lb ed="#B" n="31"/>test facere hominem absque hoc quod sit risibilis. sed nihil potest facere nisi quod po- 
+       <lb ed="#B" n="32"/>test esse, ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1688-d1e124">
+       CONTRA. homini proprium est esse risibile: sicut creaturae quod sit creatura. sed  
+       <lb ed="#B" n="33"/>creatura non potest esse quin sit creatura. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1688-d1e130">
+       SCIENdum est hic primo: quod in omnibus tali- 
+       <lb ed="#B" n="34"/>bus quaestionibus circa naturas quae fundantur super potentiam diuinam, attendendum est quid  
+       <lb ed="#B" n="35"/>possibile est esse, vel fore, vel fuisse in creatura. super omne enim quod tale est, potest deus. &amp; tale est 
+       <lb ed="#B" n="36"/>omne quod contradictoria non includit in se, aut repugnantiam aliquam quae reducitur ad contra- 
+       <lb ed="#B" n="37"/>dictionem. Et sic non est quaerendum quid deus possit circa creaturas: sed quid circa eas fieri pos- 
+       <lb ed="#B" n="38"/>sit: quia omne tale potest deus. et quod circa eas nullo modo potest fieri, deus circa eas nullo mo- 
+       <lb ed="#B" n="39"/>do potest facere. dicente <name ref="#Augustine">Augustino</name> super Genesim: Quia illud facere nullius est potentiae: &amp; propter 
+       <lb ed="#B" n="40"/>hoc ipsum non posse facere nullius est impotentiae. 
+      </p>
+      <p xml:id="n3av8a-c1e1688-d1e151">
+       DIcendum ergo ad quaestionem, quod aut risibile 
+       <lb ed="#B" n="41"/>intantum inhaeret humanae naturae, quantum habere tres angulos inhaeret triangulo, &amp; omnino si- 
+       <lb ed="#B" n="42"/>cut accidens inseparabile: aut sicut accidens sine quo nunquam inuenitur: posset tamen stare natura hu 
+       <lb ed="#B" n="43"/>mana in esse fine illo. quemadmodum materia potest stare in esse existentiae naturae suae absque omni 
+       <lb ed="#B" n="44"/>forma: vt in quadam alia quaestione de Quolibet determinauimus: licet in rerum natura materia nunquam 
+       <lb ed="#B" n="45"/>inuenitur in esse fine forma. Si primo modo: planum est quod homo non habet esse quin sit risibilis. li- 
+       <lb ed="#B" n="46"/>cet enim sit accidens eius: tamen essentia hominis in eo quod homo, non est nisi sit habilitas quaedam  
+       <lb ed="#B" n="47"/>ad actum ridendi: quod appellatur esse risibile. Et ideo nec deus posset facere quod homo esset &amp; non  
+       <lb ed="#B" n="48"/>esset risibile. Si vero sit de secundo genere, sic posset esse &amp; non risibile: &amp; deus posset illud face- 
+       <lb ed="#B" n="49"/>re. Et puto quod risibile sit de primo genere. Et ideo dicendum simpliciter quod homo non posset esse 
+       <lb ed="#B" n="50"/>quin sit risibilis. Et concedenda est ratio ad hoc quod risibile non est nisi respectus in essentia &amp; natura ho 
+       <lb ed="#B" n="51"/>minis ad actum ridendi: sicut creatio in esse creaturae ad creatorem, inquantum creatio dicit creatum 
+       <!--334.xml-->
+       <pb ed="#B" n="147-r"/>
+        <lb ed="#B" n="1"/>esse non actum creandi. &amp; essentia a suo essentiali respectu absolui non potest, sicut neque materia a sua 
+       <lb ed="#B" n="2"/>possibilitate ad formam: licet posset absolui a forma. 
+      </p>
+      <p xml:id="n3av8a-c1e1688-d1e186">
+       AD Secundum dicendum: quod aliud est intellige- 
+       <lb ed="#B" n="3"/>re hominem non cointelligendo risibile: aliud vero intelligere hominem intelligendo ipsum non es- 
+       <lb ed="#B" n="4"/>se risibilem. Primum est bene possibile: quia intellectus separat quae natura inseparabilia sunt, secun- 
+       <lb ed="#B" n="5"/>dum <name ref="#Aristotle">philosophum</name> in. xii. Metaphysicae. Non tamen sequitur ex hoc quod intellectus potest intelligere 
+       <lb ed="#B" n="6"/>quod deus non potest facere: quia intelligere hominem, non cointelligendo quod sit risibilis, non est intel 
+       <lb ed="#B" n="7"/>ligere quid sit: sed ad aliquid negatiue dictum. Vnde est in argumento figura dictionis, commutan-  
+       <lb ed="#B" n="8"/>do quid, in ad aliquid.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

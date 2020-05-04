@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="265-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2841">
+       <head xml:id="n3av8a-c1e2841-Hd1e96">Quaestio 11</head>
+       <p xml:id="n3av8a-c1e2841-d1e99">
+        <lb ed="#B" n="24"/>AD tertiam quaestionem propositam sine argumentis, Dicendum quod numeri dicti non appro- 
+       <lb ed="#B" n="25"/>priantur dictis statibus ex aliqua natura rei: sed ex similitudine &amp; proportione qua-  
+       <lb ed="#B" n="26"/>dam in illorum numerorum compositione, &amp; viuendi modo in illis statibus. Est igitur intel  
+       <lb ed="#B" n="27"/>ligendum: quod duplex est modus viuendi. secundum quod est vita actiua &amp; vira contemplatiua 
+       <lb ed="#B" n="28"/>Quarum prima pertinet per se ad vitam beatam in futura gloria: secunda vero ad vi 
+       <lb ed="#B" n="29"/>ltam miseram in praesenti tristitia: &amp; quarum prima inchoata fuit quodammodo in vita 
+       <lb ed="#B" n="30"/>beata status innocentiae in paradiso terrestri: sed intermissa homine de paradiso ex- 
+       <lb ed="#B" n="31"/>pulso: vt oporteat ipsum tribulari in vita actiua: quae deducitur per fidem, &amp; bona virtutum opera secun 
+       <lb ed="#B" n="32"/>dum decem decalogi mandata: per quorum obseruationem reuertitur ad contemplanda aeterna. Actiua 
+       <lb ed="#B" n="33"/>autem vita imperfecta est ex genere suo respectu contemplatiuae, &amp; habet duplicem statum: insimum qui est com 
+       <lb ed="#B" n="34"/>iugatorum: &amp; superiorem qui est continentium post connubium. super quem est supremus virginum: quorum  
+       <lb ed="#B" n="35"/>munditia congruens est statui contemplantium. 
+      </p>
+      <p xml:id="n3av8a-c1e2841-d1e128">
+       QVLAigitur insimus gradus vitae actiuae consistit in de i 
+       <lb ed="#B" n="36"/>calogi obseruantia ex fide trinitatis: vt opera procedant ex fide: &amp; fides viuificetur per opera: &amp; sic 
+       <lb ed="#B" n="37"/>ternarius fidei quasi multiplicatur per denarium mandatorum: talis autem multiplicatio denarii per ternarium 
+       <lb ed="#B" n="38"/>&amp; econuerso, exurgit in. xxx. numerum: quia igitur infimus gradus vitae actiuae consistit in decalogi ob  
+       <lb ed="#B" n="39"/>seruantia ex fide trinitatis: sine qua non est salus: ideo tricesimus infimo statui in ecclesia, cuiusmodi  
+       <lb ed="#B" n="40"/>est coniugatorum, appropriatur: quasi illorum qui regulariter obseruare non sufficiunt nisi decalogum multi- 
+       <lb ed="#B" n="41"/>plicatum per ternarium fidei trinitatis. Quia vero gradus superior post illum in vita actiua non solum in deca-  
+       <lb ed="#B" n="42"/>logi obseruantia simplici in fide trinitatis consistit: sed in illorum obseruantia perfecta: perfectio autem ope 
+       <lb ed="#B" n="43"/>rum per senarium intelligitur: quia secundum legen. vi. diebus quibus licet operari, tota praesens vita decurrit: in perfecta 
+       <lb ed="#B" n="44"/>autem obseruantia opera perfectionem generant: &amp; ex perfectione generata opera perfecta procedunt: &amp; sic senarius par  
+       <lb ed="#B" n="45"/>fectus quasi multiplicatur per denarium operum: multiplicatio autem senarii per denarium &amp; econuerso exuigit 
+       <lb ed="#B" n="46"/>in sexagesimum numerum: quia igitur secunds gradus vitae actiuae consistit in perfecta decalogi obsernantia: ium  
+       <lb ed="#B" n="47"/>sexagesimus. statui viduali qui est secunds post maritalem, appropriatur. Quia vero status siue gradus superior illis 
+       <lb ed="#B" n="48"/>ab actione transfert se ad contemplationem, in qua vitae humanae perfectio consummatur, &amp; quiescit in idipsum 
+       <lb ed="#B" n="49"/>per contemplationem aeternorum, quasi denario mandatorum in seipsum deducto: ex qua deductione exurgit nu- 
+       <lb ed="#B" n="50"/>merus centenarius: ideo dispositioni vitae perfectae contemplatiuae in virginibus appropriatur. Vnde dicit beatus 
+       <lb ed="#B" n="51"/>Gretiu. super Eze, par. ii. Homil. v post medium. Fructus terrae bonae. xxx. affert: cum mens perfectionem fidei quae est in 
+       <lb ed="#B" n="52"/>trinitate conceperit. lx. affert, cum vitae bonae opera perfecta protulerit: centum vero affert cum ad aeternae vitae 
+       <lb ed="#B" n="53"/>contemplationem profecerit. Et est ista ratio siue expositio moralis. Alia vero est magis literalis accepta 
+       <lb ed="#B" n="54"/>ex modo formandi numeros designantes dicta praemia. Trigesimus enim appropriatur coniugatis propter 
+       <!--570.xml-->
+       <pb ed="#B" n="265-r"/>
+        <lb ed="#B" n="1"/>molle osculum digitorum: quibus formatur: quale solent exercere coniugati. Sexagesimus autem appropriatur 
+       <lb ed="#B" n="2"/>viduis propter compressionem digitorum quibus formatur. vita autem viduarum in asflictione &amp; com 
+       <lb ed="#B" n="3"/>pressione habet esse. Centenarius vero appropriatur virginibus propter cireulum quem perficit vbi 
+       <lb ed="#B" n="4"/>formatur: quo virginalis corona exprimitur: secundum quod haec omnia habent declarari in quaestio 
+       <lb ed="#B" n="5"/>ne proxime sequenti.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 25</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 25</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4576">
+       <head xml:id="n3av8a-c1e4576-Hd1e96">Quaestio 25</head>
+       <p xml:id="n3av8a-c1e4576-d1e99">
+        <lb ed="#B" n="16"/>CIrca Secundum arguitur: quod clericus ille sit suspensus, &amp; non possit ad sacros or- 
+       <lb ed="#B" n="17"/>dines promoueri: quia in quo quis peccat debet &amp; puniri. lste in sacros ordines 
+       <lb ed="#B" n="18"/>peccat fingendo se habere illos cum non habuerit, &amp; officium illis debitum exercen- 
+       <lb ed="#B" n="19"/>do: ergo in ipsis debet puniri: &amp; hoc non nisi prohibendo ipsum ad ipsorum susce 
+       <lb ed="#B" n="20"/>ptionem accedere. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4576-d1e112">
+       CONtra. Iudaei &amp; haeretici qui sunt in grauiori 
+       <lb ed="#B" n="21"/>delicto non sunt suspensi ad ascensum suscipiendi sacros ordines postquam poeni- 
+       <lb ed="#B" n="22"/>teant: ergo nec iste multo minus. Respondeo: quod clericus ille aut est super di-  
+       <lb ed="#B" n="23"/>cto facto in iudicio conuictus, vel aliter grauiter diffamatus: aut non: sed factum illud est occultum. 
+       <lb ed="#B" n="24"/>Si primo modo: sic tanquam criminosus non potest nec debet promoueri: vt extra de temporibus ordi 
+       <lb ed="#B" n="25"/>nandum. cap. vlt. &amp; dist. xxxi. cap. i. &amp; de hoc notatur dist. xxv. cap. vlt. Et sic iste ab ordinibus repelli- 
+       <lb ed="#B" n="26"/>tur: non quia ex facto illo de iure ab ordinum susceptione suspensus sit: sed propter subsequentem in-  
+       <lb ed="#B" n="27"/>famiam. Si ergo se habeat res secundo modo: dico quod promoueri potest ad sacros ordines. 
+       <lb ed="#B" n="28"/>
+      </p>
+      <p xml:id="n3av8a-c1e4576-d1e132">
+       AD argumentum in oppositum: quod in ordines sacros peccauit &amp;c. Dicendum quod licet verum sit 
+       <lb ed="#B" n="29"/>quod puniendus esset circa sacros ordines in quos deliquit si canones ipsum punirent siue poenam eius 
+       <lb ed="#B" n="30"/>taxarent: quia tamen iura circa tale factum poenam specialem non exprimunt, ipsa arbitraria est: &amp; 
+       <lb ed="#B" n="31"/>statuenda secundum qualitatem &amp; quantitatem delicti &amp; personae, &amp; maxime circa ordines si con- 
+       <lb ed="#B" n="32"/>gruum videtur confessori: &amp; hoc vel vt tardet ire ad ordines, vel vt in susceptis ordinibus circa con 
+       <lb ed="#B" n="33"/>fessiones audiendas diligentius &amp; cautius se exerceat. 
+      </p>
+      <p xml:id="n3av8a-c1e4576-d1e145">
+       AD secundum dicendum quod non est simi- 
+       <lb ed="#B" n="34"/>le de Iudaeis: quia post baptismum in ipsis prioris vitae nec manet delictum nec infamia. De haereticis 
+       <lb ed="#B" n="35"/>autem simile est quo ad infamiam licet alias ipsi sunt excommunicati &amp; suspensi etiam occulti. vnde 
+       <lb ed="#B" n="36"/>ad ordines non ascendunt nisi ex speciali gratia.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

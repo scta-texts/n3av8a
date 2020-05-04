@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 17</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 17</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="42-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e874">
+      <head xml:id="n3av8a-c1e874-Hd1e96">Quaestio 17</head>
+      <p xml:id="n3av8a-c1e874-d1e99">
+       <!--125.xml-->
+       <pb ed="#B" n="42-v"/>
+       <lb ed="#B" n="1"/>SEquuntur quaestiones pertinentes specialiter ad bona virorum ecclesiasticorum. &amp; erant 
+       <lb ed="#B" n="2"/>tres. Duae pertinentes ad ius obtinendi ea: Vna vero pertinens ad modum dispensandi 
+       <lb ed="#B" n="3"/>ea. PRIma erat: vtrum licitum sit tenere plura beneficia ecclesiastica, &amp; an hoc ma 
+       <lb ed="#B" n="4"/>lum sit secundum se. SEcunda: vtrum licitum sit aliquem petere pro seipso dispensationem 
+       <lb ed="#B" n="5"/>ad tenendum simul plura. TERtia vtrum liceat viros ecclesiasticos de bonis ecclesiae de 
+       <lb ed="#B" n="6"/>licatam ducere vitam pro semetipsis, luciis magnis, &amp; delicatis cibariis vescendo, &amp; praetio 
+       <lb ed="#B" n="7"/>sis vestibus &amp; equis &amp; talibus vtendo. 
+      </p>
+      <p xml:id="n3av8a-c1e874-d1e121">
+       CIRca primum arguitur quod non licet tenere plu 
+       <lb ed="#B" n="8"/>ra beneficia ecclesiastica simul. Contrarium eius bonum est &amp; iustum: quia beneficia singula singulis ser- 
+       <lb ed="#B" n="9"/>uitoribus sunt instituta: vt tot sint seruitores in ecclesia quot de bonis ecclesiae poterunt sustentari. vn- 
+       <lb ed="#B" n="10"/>de extra. de const. Cumque fer. dicitur: quod in constitutione quaelibet ecclesiae, &amp; confirmatione eius a sede apostol. super cer 
+       <lb ed="#B" n="11"/>to numero praebendarum debet esse expressum, vel intelligitur si non exprimatur: nisi intantum excreuerint ecclulsiae 
+       <lb ed="#B" n="12"/>facultates: quod pluribus possint sufficienter competere. ergo oppositum est malum &amp; iniustum. 
+      </p>
+      <p xml:id="n3av8a-c1e874-d1e134">
+       CON 
+       <lb ed="#B" n="13"/>tra. Super eo quod in se est malum, Papa non potest dispensare: quia est contra legem diuinam &amp; euange- 
+       <lb ed="#B" n="14"/>lium. sed Papa bene dispensat in pluralitate praebendarum. ergo simul habere plures praebendas non est in  
+       <lb ed="#B" n="15"/>se malum, quare neque illicitum.
+      </p>
+      <p xml:id="n3av8a-c1e874-d1e143">
+       SEcundo sic. ecclesia &amp; sedes ro, non sustinent neque debent sustinere id quid  
+       <lb ed="#B" n="16"/>vergit in periculum animarum, tanquam illicitum factum. ecclesia autem generalis &amp; sedes Ro.a scienter &amp; pu 
+       <lb ed="#B" n="17"/>blice hoc sustinent. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e874-d1e151">
+       CVM ista quaestio sit de licito: &amp; ita petat consilium, an plura benefi- 
+       <lb ed="#B" n="18"/>cia ecclesiastica simul tenere liceat: bonum ordinem tenet: vt nemo praesumat prius impetrare a Papa 
+       <lb ed="#B" n="19"/>vt simul plura beneficia obtinere sibi liceat, quam sciat quomodo liceat, ne petat licentiam faciendi quod fa- 
+       <lb ed="#B" n="20"/>cere non licet omnino: &amp; sic quanto licentius, tanto securius: &amp; quanto securius, eo &amp; periculosius quis 
+       <lb ed="#B" n="21"/>peccet: dum non ideo malum esse desiit, aut minoratum est, quia Papa concessit. Quod tamen summum 
+       <lb ed="#B" n="22"/>pontificem nunquam fecisse crediderim, nisi aut circunuentum mendacio, aut importunitate victum. secun 
+       <lb ed="#B" n="23"/>dum quod dicit <ref xml:id="n3av8a-c1e874-Rd1e166">beatus <name ref="#Bernard">Bernardus</name> in epistola ad Adam monachum</ref>. Quoniam igitur licitum inquantum licitum 
+       <lb ed="#B" n="24"/>non est nisi bonum: &amp; illicitum inquantum illicitum non est nisi malum: &amp; econuerso bonum etiam inquantum bonum  
+       <lb ed="#B" n="25"/>licitum est: &amp; malum inquantum malum illicitum est: vt si bonum fiat illicitum, hoc non est nisi inquantum non ex- 
+       <lb ed="#B" n="26"/>pedit fieri: &amp; ita inquantum habet aliquam rationem mali: &amp; econuerso, si malum fiat licitum, hoc non est nisi 
+       <lb ed="#B" n="27"/>inquantum expedit fieri: &amp; ita assumit rationem boni aliqualem, quia expedientia inquantum expedientia bo 
+       <lb ed="#B" n="28"/>na sunt. Oportet igitur incipere a consideratione boni &amp; mali simpliciter, &amp; expedientis vel non expediem 
+       <lb ed="#B" n="29"/>tis. Ex hoc enim vt credo videbimus clare rationem liciti &amp; illiciti simpliciter &amp; in casu. Est ergo scien- 
+       <lb ed="#B" n="30"/>dum in principio: quod beatus <name ref="#Bernard">Bernardus</name> in praedicta epistola distinguit duplex bonum, dicens. Sane hoc aduer 
+       <lb ed="#B" n="31"/>tendum: quod quaedam sunt pura bona, quaedam pura mala, &amp; in his nullam debere fieri hominibus obedientiam 
+       <lb ed="#B" n="32"/>quoniam nec illa omittenda sunt etiam cum prohibentur: nec ista vel cum iubentur committenda. Porro inter haec sunt 
+       <lb ed="#B" n="33"/>media quaedam, quae pro modo, loco, tempore, vel persona etiam mala possunt esse &amp; bona, &amp; in his lex posita 
+       <lb ed="#B" n="34"/>est, &amp; est obedientiae tanquam in ligno scientiae boni &amp; mali quid erat in medio paradisi. de quo dicit Augu- 
+       <lb ed="#B" n="35"/>stinus. Si venenosam haerbam quis prohibitus tetigerit, poena sequitur. etiam si nemo prohibuisset si 
+       <lb ed="#B" n="36"/>militer sequeretur. Non sic autem in proposito: quia si homo lignum illud non prohibitus tetigisset, non  
+       <lb ed="#B" n="37"/>peccasset, quod ergo prohibitum tangi obfuit, non natura ligni, sed inobedientiae malum fecit. In his autem 
+       <lb ed="#B" n="38"/>dscit Bernardus, profecto fas non est vestrum sensum sententiae praescribere magistrorum. In his omni 
+       <lb ed="#B" n="39"/>no praelatorum nec iussio, nec prohibitio contemnenda est. De intermediis autem subdit exempla di 
+       <lb ed="#B" n="40"/>cens. Fides, spes, charitas, &amp; caetera huiusmodi, pura sunt bona: quia male non possunt vel iuberi vel 
+       <lb ed="#B" n="41"/>teneri, bene non possunt vel prohiberi vel non teneri. Pura mala sunt furtum, sacrilegium, adulteri- 
+       <lb ed="#B" n="42"/>um, &amp; caetera talia. Quae vtique nec vel bene praecipi, vel perfici possunt: nec male prohiberi vel non fieri. 
+       <lb ed="#B" n="43"/>aduersus huiusmodi non est lex. Nullius quippe prohibitio valet obuiare praeceptis: nullius iussio prae 
+       <lb ed="#B" n="44"/>iudicare prohibitis. Liquido apparet mala imperantibus non esse parendum: praesertim dum prauis 
+       <lb ed="#B" n="45"/>obtemperans imperiis, in quo homini videris obediens, deo plane qui omne quod perperam agitur inter 
+       <lb ed="#B" n="46"/>dicit, inobedientem te exhibes. Quid enim: quod iubet homo prohibet deus: &amp; ego audiam hominem sur 
+       <lb ed="#B" n="47"/>dus deo: Non sic Apostoli clamant, quippe dicentes. Melius est deo obedire quam hominibus. Vides quam ina 
+       <lb ed="#B" n="48"/>nis est excusatio de humana obedientia: vbi in deum conuincitur facta transgressio. Sunt deinde me- 
+       <lb ed="#B" n="49"/>dia quae per se nec bona noscuntur nec mala: possunt tamen indifferenter &amp; bene pariter &amp; male vel 
+       <lb ed="#B" n="50"/>iuberi vel prohiberi: sed male nullatenus in iis a subditis obediri. Ex iis sunt, vt exempli gratia, ieiuna 
+       <lb ed="#B" n="51"/>re, vigilare, legere, &amp; quaecumque talia. De primis erge scilicet simpliciter bonis, &amp; simpliciter malis non est habere 
+       <lb ed="#B" n="52"/>plura beneficia. tunc enim oporteret quod omnes haberent plura si esset simpliciter bonum: vel nullus si 
+       <lb ed="#B" n="53"/>esset simpliciter malum: ita quod nulla humana dispensatio illud faceret licitum: quia esset simpliciter &amp; 
+       <lb ed="#B" n="54"/>omnino illicitum. Quomodo enim, vt dicit Bernardus, permissio papae licitum facere valuit quod  
+       <!--126.xml-->
+       <pb ed="#B" n="43-r"/>
+       <lb ed="#B" n="1"/>purum malum fuit. Et vt dicit in <ref xml:id="n3av8a-c1e874-Rd1e249">epistola ad Robertum</ref>. Quid tibi frustra quispiam blanditur de ab  
+       <lb ed="#B" n="2"/>solutione apostolica, cuius conscientiam diuina ligatam tenet sententia: Plura ergo beneficia tenere 
+       <lb ed="#B" n="3"/>simul necessario est de bonis mediis. 
+      </p>
+      <p xml:id="n3av8a-c1e874-d1e257">
+       SED aliqui non distinguendo media bona dicunt quod omnia sunt 
+       <lb ed="#B" n="4"/>talia quod quantum est de se, neque bona sunt, neque mala: bonitate dico moris: sed omnia indifferentia &amp; li 
+       <lb ed="#B" n="5"/>cita quantum est de se, licet non semper expedientia. Ita quod sint illicita: hoc non est nisi ex sola prohibi- 
+       <lb ed="#B" n="6"/>tione: sicut erat illicitus primo homini esus ligni vitae post prohibitionem, qui erat indifferens ante pro  
+       <lb ed="#B" n="7"/>hibitionem, &amp; medius inter simpliciter bonum, &amp; simpliciter malum. Sic ergo dicunt quod plures prae- 
+       <lb ed="#B" n="8"/>bendas habere simul, si non esset prohibitum: non esset magis malum neque illicitum habere duas, quam habere 
+       <lb ed="#B" n="9"/>vnaim: sicut non est modo magis illicitum habere vnam magnam, quam habere vnam paruam. Sed hoc vt 
+       <lb ed="#B" n="10"/>videtur non potest stare: immo de mediis videtur esse distinguendum: licet <name ref="#Bernard">Bernardus</name> non distin-  
+       <lb ed="#B" n="11"/>guat: quia nihil ad suum propositum erat: quia illicitum quod intendebat dissuadere: erat de malo in ex- 
+       <lb ed="#B" n="12"/>tremo: vt patet inspicienti epistolam. 
+      </p>
+      <p xml:id="n3av8a-c1e874-d1e282">
+       SClendum quod mediorum inter bonum simpliciter licitum, &amp; ma 
+       <lb ed="#B" n="13"/>lum simpliciter illicitum, est triplex medium. Quoddam quid est simpliciter bonum &amp; licitum, malum au 
+       <lb ed="#B" n="14"/>tem in casu. Quoddam vero quod est simpliciter malum &amp; illicitum, bonum autem in casu. Quoddam  
+       <lb ed="#B" n="15"/>vero medium inter ista duo, quantum est de se indifferens omnino, neque bonum simpliciter, neque ma 
+       <lb ed="#B" n="16"/>lum simpliciter, &amp; ita licitum per indifferentiam quod ex casu posset esse bonum: &amp; ita licitum quo ad quid  
+       <lb ed="#B" n="17"/>sicut erat tactus ligni scientiae boni &amp; mali, qui quantum est ex se, omnino fuit indifferens. fuisset autem  
+       <lb ed="#B" n="18"/>bonus &amp; licitus tanquam opportunus ad tactum, si fuisset praeceptus: sicut malus fuit &amp; illicitus tanquam per 
+       <lb ed="#B" n="19"/>niciosus ad tactum postquam fuit prohibitus. Ad istud genus mediorum omnia media illi reducebant: &amp; 
+       <lb ed="#B" n="20"/>de tali genere dicebant esse pluralitatem praebendarum habere. Sed non est ita. praedicta enim duo ge 
+       <lb ed="#B" n="21"/>nera mediorum inueniuntur in rebus diuersis omnino ab isto tertio, &amp; de altero illorum est plurali- 
+       <lb ed="#B" n="22"/>tas beneficiorum, vt patebit. Est igitur aliquid bonum simpliciter &amp; absolute: quia est de genere legis 
+       <lb ed="#B" n="23"/>naturae, quid tamen malum potest esse in casu. Verbi gratia. Ordo graduum ecclesiasticorum qui est ex 
+       <lb ed="#B" n="24"/>lege diuinae ordinationis, &amp; ita simpliciter bonus, &amp; ad instar hierarchiae caelestis ordinatus, bonus est 
+       <lb ed="#B" n="25"/>simpliciter: secundum quod dicit <name ref="#Bernard">Bernardus</name> libro tertio de Consideratione, ad Eugenium Papam loquens. 
+       <lb ed="#B" n="26"/>Erras si vt summam ita &amp; solam institutam a deo tuam apostolicam potestatem existimas. Non tua 
+       <lb ed="#B" n="27"/>sola potestas a domino, sunt &amp; mediocres, sunt &amp; inferiores. Nec vilem reputes formam hanc: quia in  
+       <lb ed="#B" n="28"/>terra est: exemplar habet in caelo. sicut illic seraphin &amp; cherubin ac caeteri quique vsque ad archangelos &amp; 
+       <lb ed="#B" n="29"/>angelos ordinantur sub vno capite deo: ita hic quoque sub vno summo pontifice primates, vel patriarchae, 
+       <lb ed="#B" n="30"/>archiepiscopi, episcopi, presbyteri vel abbates &amp; reliqui in hunc modum. Non est paruipendendum quod 
+       <lb ed="#B" n="31"/>&amp; deum habet auctorem, &amp; de caelo ducit originem. Quia si dicat Episcopus: nolo esse sub archiepiscopo 
+       <lb ed="#B" n="32"/>aut abbas, nolo obedire episcopo: hoc de caelo non est: nisi tu forte angelorum quempiam dicentem audi- 
+       <lb ed="#B" n="33"/>sti, Nolo esse sub archangelis. Est ergo plane talis ordo simpliciter bonus: quia de iure diuino &amp; legis na 
+       <lb ed="#B" n="34"/>turae. &amp; tamen potest esse malus in casu: vt non expediat quod iste abbas sit sub illo episcopo. vnde &amp; in hoc 
+       <lb ed="#B" n="35"/>papa dispensat: &amp; abbatem eximit ne sub episcopo sit. Et ideo <name ref="#Bernard">Bernardus</name> quia visus est sic ordinare di 
+       <lb ed="#B" n="36"/>ctos ordines ex iure diuino, sibiipsi opponens subdit: exponendo quando in talibus dispensatio habet 
+       <lb ed="#B" n="37"/>locum &amp; quando non dicens. Quid inquis: prohibes dispensare: non sed dissipare. Non sum tam rudis 
+       <lb ed="#B" n="38"/>vt ignorem positos vos dispensatores: sed in aedificationem non in destructionem: vbi necessitas vrget, 
+       <lb ed="#B" n="39"/>excusabilis dispensatio est: vbi vtilitas prouocat, dispensatio laudabilis est. vtilitas dico communis non  
+       <lb ed="#B" n="40"/>propria, nam cum nihil horum est, non plane fidelis dispensatio, sed crudelis dissipatio est. Vult ergo  
+       <lb ed="#B" n="41"/>quod in illo ordine simpliciter bono, &amp; de iure diuino in casu rationabiliter dispensandum est: vt plane di-  
+       <lb ed="#B" n="42"/>cit in epistola ad Medistanenses. Plenitudo inquit potestatis super vniuersales orbis ecclesias singulari 
+       <lb ed="#B" n="43"/>praerogatiua apostolicae sedi donata est: potest si vtile iudicauerit, nouos ordinare episcopatus vbi ha 
+       <lb ed="#B" n="44"/>ctenus non fuerunt: potest eos qui sunt, alios deprimere alios sublimare prout ratio sibi dictauerit. ali 
+       <lb ed="#B" n="45"/>as enim non reputat <name ref="#Bernard">Bernardus</name> dispensationis: sed potius dissipationis: secundum quod ante praedi- 
+       <lb ed="#B" n="46"/>cta ad Eugenium praemisit dicens. Subtrahuntur abbates episcopis, episcopi archiepiscopis, archiepi- 
+       <lb ed="#B" n="47"/>scopi patriarchis siue primatibus. bona ne species haec: Mirum si excusari queat vel opus. Sic factitando  
+       <lb ed="#B" n="48"/>probatis vos habere plenitudinem potestatis: sed iustitiae forte non ita. facitis hoc quia potestis: sed vtrum 
+       <lb ed="#B" n="49"/>&amp; debeatis, quaestio est. &amp; infra. At quomodo non indecens tibi voluntate pro lege vti: &amp; quia non est 
+       <lb ed="#B" n="50"/>ad quem appelleris, potestatem exercere, negligere rationem: Et infra. Nolo autem praetendas mihi 
+       <lb ed="#B" n="51"/>fructum emancipationis ipsius. Nullus est enim: nisi quod inde episcopi insolentiores, monachi etiam dis 
+       <lb ed="#B" n="52"/>solutiores fiunt: quid quod &amp; pauperiores: Patet ergo quod aliquid est simpliciter bonum, &amp; tamen in casu non 
+       <lb ed="#B" n="53"/>expedit: &amp; quod tunc in eo dispensari potest &amp; debet. Econtra patet aperte quod aliquid est simpliciter malum 
+       <lb ed="#B" n="54"/>vt hominem occidere: &amp; tamen in casu est bonum: cum quis est publicus hostis. in quo dispensat cum iudice 
+       <!--127.xml-->
+       <pb ed="#B" n="43-v"/>
+       <lb ed="#B" n="1"/>ius commune diuinum vt liceat eum occidere, vel etiam cum toto populo vt dictum est: secundum <name ref="#Augustine">Augustinum</name>  
+       <lb ed="#B" n="2"/>in praecedenti quaestione. secundum quod etiam de hoc infra plurima alia ponentur exempla. Sic ergo plane patet quod  
+       <lb ed="#B" n="3"/>sunt tria media inter bonum omnino &amp; simpliciter licitum: &amp; malum omnino &amp; simpliciter illicitum. de quorum  
+       <lb ed="#B" n="4"/>numero vt dictum est, non est habere simul plures praebendas. Restat ergo videre ad quem modum dicto- 
+       <lb ed="#B" n="5"/>rum trium modorum pertinet. Et est manifestum quod non pertinet ad illum in quo continetur id quid est simpliciter bo 
+       <lb ed="#B" n="6"/>num &amp; in casu malum: quia tunc absolute liceret: &amp; non esset vnquam dispensandum vt plures liceret simul tenere: 
+       <lb ed="#B" n="7"/>sed potius in casu prohibendum ne plures simul tenerentur. Restat autem an aliquis aliorum duorum modorum:  
+       <lb ed="#B" n="8"/>an scilicet sit de simpliciter malis: an de omnino indifferentibus. Si enim de simpliciter malis sit, tunc est 
+       <lb ed="#B" n="9"/>malum de genere legis naturae: &amp; prohibetur quia malum simpliciter. Si vero est de omnino indiffe- 
+       <lb ed="#B" n="10"/>rentibus: tunc est malum non ex natura sua sed solum quia prohibitum. Sed quod ad minus sit prohibitum: &amp; ita 
+       <lb ed="#B" n="11"/>malum &amp; illicitum: quia de iure conmuni interdictum, siue alias sit in se indifferens &amp; licitum, ita quod dispensatione non 
+       <lb ed="#B" n="12"/>indigeat vt liceat: nsii quae prohibitionem auferat, &amp; licentiam faciendi id quod secundum se est indifferens tribuat: si 
+       <lb ed="#B" n="13"/>ue in se sit malum simpliciter &amp; illicitum: ita quod dispensatione indigeat non solummo quae prohibitionem aufe- 
+       <lb ed="#B" n="14"/>rat, aut quae licentiam faciendi malum tribuat: sed quae casus doceat in quibus quid simpliciter &amp; quasi malum est, bo- 
+       <lb ed="#B" n="15"/>num &amp; expediens fiat: manifestum est per iura scripta discurrendo. Et sic ad quaestionem simpliciter &amp; absolute di-  
+       <lb ed="#B" n="16"/>cendum: quod non licet quemquam plura beneficia ecclesiastica simul tenere fine dispensatione. Nec est in hoc differentia 
+       <lb ed="#B" n="17"/>de dignitatibus &amp; beneficiis curam animarum habentibus &amp; simplicibus praebendis, nisi quo ad dispensantes. Episcopis 
+       <lb ed="#B" n="18"/>enim est interdicta expresse potestas dispensandi in pluralitate dignitatum &amp; beneficiorum curam animarum haben 
+       <lb ed="#B" n="19"/>tium. extra. de praeben. De multa. Vtrum autem episcopis sit dispensatio permissa in simplicibus beneficiis: de hoc 
+       <lb ed="#B" n="20"/>sunt opiniones doctorum canonis. sed apud quencumque residet potestas in beneficiis dispensandi: &amp; quali- 
+       <lb ed="#B" n="21"/>ter, &amp; in quibus casibus, &amp; cum qualibus personis dispensandum, nihil ad praesens. Hoc tamen certum est: quod de iure conmu- 
+       <lb ed="#B" n="22"/>ni fine dispensatione cuilibet illicitum est plura beneficia etiam simplicia simul tenere, nisi in casibus a iure exce- 
+       <lb ed="#B" n="23"/>ptis. dicitur enim extra de Re. in cap. Cum a deo. quod cum Papa scribit pro habente vnum beneficium: vt aliud  
+       <lb ed="#B" n="24"/>ei conferatur sub hac conditione si dignus inueniatur: bene intelligitur quomodo literae sunt impetratae: 
+       <lb ed="#B" n="25"/>quis. scilicet tacita veritate, vt dicit glos. Et sic patet quod qui habet sufficiens beneficium, ad aliud beneficium reputatur in  
+       <lb ed="#B" n="26"/>dignus: &amp; hcc ideo, quia in duobus simul deseruire non pont: vt extra de praebendis. Super inordinata. vbi di 
+       <lb ed="#B" n="27"/>citur: quod qui non possunt in ecclesia deseruire, in eadem non debent reputari idonei. vbi dicit glos. Nota ergo quod  
+       <lb ed="#B" n="28"/>qui habet beneficium sufficiens, non reputatur idoneus ad aliud beneficium primo retento: quia dum ad  
+       <lb ed="#B" n="29"/>vtrumque festinat: neutrum bene peragit. xvi. estid i. ca. Presbyteros. &amp;. lxx. dist. in cap. Epi, dicit. Singuli tantum 
+       <lb ed="#B" n="30"/>clerici per singulos titulos ponendi sunt in ecclesia. vbi in glos. de hoc. Similiter de except. Cum ecclesia 
+       <lb ed="#B" n="31"/>sticae, dicitur in glos. Fauore ecclesiae, &amp; propter vtilitatem ius commune statutum est: vt clerici debeant in eccle- 
+       <lb ed="#B" n="32"/>sia residere: &amp; continuam residentiam facere. Et de clericis non residentibus. cap. Quia multa. dicitur. Cum ec 
+       <lb ed="#B" n="33"/>clesia vel ecclesiasticum ministerium committi debet, talis ad hoc persona quaeratur, quae residere in loco &amp; curam 
+       <lb ed="#B" n="34"/>eius per seipsam valeat exercere. Alias enim vt cap, proximo Relatum, admissi poterunt amoueri. Nisi forte 
+       <lb ed="#B" n="35"/>de licentia praelatorum suorum, vel pro studio literarum vel pro aliis causis conuenit eos abesse. ldem omnino est in praebendis 
+       <lb ed="#B" n="36"/>quod in parrochiis: quo ad hoc. vt cap. Tuae fraternitatis. &amp;. xxi. quid i. dicitur. In duabus ecclesiis aliquem pos- 
+       <lb ed="#B" n="37"/>se connumerari septima synodus prohibet dicens. Clericus ab instanti tempore non connumeretur in dua-  
+       <lb ed="#B" n="38"/>bus ecclesiis. negotiationis enim est hoc &amp; turpis lucri commodum: &amp; ab ecclesiastica consuetudine penitus 
+       <lb ed="#B" n="39"/>alienum. Vnde supra cap. de Electione. Dudum. glossator tractans hanc materiam, in fine totum redu 
+       <lb ed="#B" n="40"/>cens in summam quaerit &amp; respondet dicens. Quid dicemus: numquid possunt esse clerici in pluribus ecclesiis: &amp; 
+       <lb ed="#B" n="41"/>ibi habere praebendas: de iure conmuni in pluribus ecclesiis clerici esse non possunt. vnde. lxx. dist. Sanctorum. di  
+       <lb ed="#B" n="42"/>citur. In qua ecclesia quilibet statutus est, in ea perpetuo perseueret. Omnino autem aliquem in duabus ecclesiis intitu 
+       <lb ed="#B" n="43"/>lari non licet: sed vnusquisque in qua intitulatus est in ea tantum casu habeatur. vbi glossator similiter hanc 
+       <lb ed="#B" n="44"/>materiam tractans dicit. In summa haec est veritas quod de iure non potest quis habere plures ecclesias vel praebe 
+       <lb ed="#B" n="45"/>das in eodem episcopatu vel in diuersis, nisi in casibus notatis in summa. xxi. quoid i. Quorum duo exprimum 
+       <lb ed="#B" n="46"/>tur extra de electione. Dudum. vbi dicitur quod nullus potest duas parrochias obtinere nisi vna pendeat ex alte 
+       <lb ed="#B" n="47"/>ra, vel vnam intitulatam, alteram vero commendatam haberet. Et addit glossator tres alios casus dicens. Item pro  
+       <lb ed="#B" n="48"/>pter paupertatem ecclesiarum. x. quod ii. Vnio. Item propter penuriam clericorum. xxiqaestid i. cap. i. Item pro-  
+       <lb ed="#B" n="49"/>pter dispensationem Papae. extra de praeben. De multa. Sed in talibus non licet modo Episcopos dispensare 
+       <lb ed="#B" n="50"/>in praebendis autem possunt: quia talis dispensatio non est eis prohibita. aliquando autem fuit econuerso: quod  
+       <lb ed="#B" n="51"/>in curis &amp; dignitatibus licuit eos dispensare: non autem in praebendis simplicibus. lxx. dist. Sanctorum. 
+       <lb ed="#B" n="52"/>&amp; sic dispensatio super pluralitate beneficiorum quo ad dispensantem non est nisi iuris positiui. habere 
+       <lb ed="#B" n="53"/>autem vnicum tantum est de iure communi quantumcunque tenue sit. xxiqaestid ei. cap. i. Clericus. vbi dicit glos. 
+       <lb ed="#B" n="54"/>Ecclesia videtur sufficere quae tantum necessaria habet. &amp; alia glos. Siquis capiat paruum beneficium, impu- 
+       <!--128.xml-->
+       <pb ed="#B" n="44-r"/>
+       <lb ed="#B" n="1"/>tet sibi. 
+      </p>
+      <p xml:id="n3av8a-c1e874-d1e516">
+       REstat videre an plura beneficia habere sit solum malum: quia prohibitum ex iure humano:  
+       <lb ed="#B" n="2"/>vnde dispensatio auferens prohibitionem reducat rem ad suam naturam: &amp; sic fiat licitum: quod proprie 
+       <lb ed="#B" n="3"/>appellatur dispensatio quasi iuris communis quaedam relaxatio. Sed quod non est ita: immo quod in se simplici 
+       <lb ed="#B" n="4"/>ter sit malum: &amp; ideo prohibitum: &amp; esset malum, etsi non esset prohibitum, nisi in casibus: ex hoc vt 
+       <lb ed="#B" n="5"/>videtur apertissime declaratur. dicit enim <name>Origenes</name> super Exo. de ministris ecclesiae. xxiiii. ca. Ad hoc 
+       <lb ed="#B" n="6"/>solum debent sumere carnalia, quia ministrant spiritualia. sic enim vt dicit Apostolus, Deus ordina-  
+       <lb ed="#B" n="7"/>uit: vt qui altario deseruiunt de altario viuant. propter seruitia ergo sunt beneficia. Et etiam vt patet 
+       <lb ed="#B" n="8"/>ex iuribus praedeterminatis diuersa sunt &amp; distincta beneficia: vt diuersae personae in diuersis &amp; distin  
+       <lb ed="#B" n="9"/>ctis beneficiis diuersa &amp; distincta faciant seruitia: &amp; tot personae in ecclesiis instituantur ad quot suf- 
+       <lb ed="#B" n="10"/>ficere possunt eius facultates. Vnde &amp; qui in maioribus beneficiis sunt instituti, ad maiora tenentur 
+       <lb ed="#B" n="11"/>seruitia: quia secundum Gregorium, cum crescunt dona, crescere debent &amp; rationes donorum: &amp; vt 
+       <lb ed="#B" n="12"/>dicit Origenes vbi supra, Necesse est vt qui ad maiorem gradum promouendi sunt: maiori mentis in  
+       <lb ed="#B" n="13"/>dustria ad legem dei se applicent. Cum igitur clarum est quod sit de iure diuino quod beneficia sunt propter 
+       <lb ed="#B" n="14"/>seruitia. Nunc autem etiam manifestum est quod de iure naturali est in iustitia distributiua quod fiat secun 
+       <lb ed="#B" n="15"/>dum proportionem arithmeticam: sicut determinat <name ref="#Aristotle">philosophus</name> in quinto Ethicorum: qui non de 
+       <lb ed="#B" n="16"/>scribit nisi regulas iustitiae naturalis. Iuxta illud quod dicit Tullius, pro se, &amp; pro aliis philosophis in li- 
+       <lb ed="#B" n="17"/>bro de Officiis. Propositum nostrum est secundum naturam viuere. Proportio autem iuris natura-  
+       <lb ed="#B" n="18"/>lis in iustitia distributiua secundum proportionem arithmeticam est vt sit aequalitas in omnibus dati 
+       <lb ed="#B" n="19"/>seruitii ad acceptum beneficium secundum eandem proportionem: licet non secundum eandem quanti 
+       <lb ed="#B" n="20"/>tatem: vt qui duplum apposuit de seruitio, duplum recipiat de beneficio, &amp; qui subduplum subduplum, 
+       <lb ed="#B" n="21"/>&amp; qui plus plus, &amp; qui minus minus, &amp; qui nihil nihil omnino. secundum Apostolum: Qui non labo  
+       <lb ed="#B" n="22"/>rat, non manducet. Vnde iniquitas est &amp; contra naturalis iuris aequitatem dare minus beneficium ei 
+       <lb ed="#B" n="23"/>de quo praesumitur quod debeat &amp; poterit deseruire amplius: &amp; maius ei de quo praesumitur quod nec debeat 
+       <lb ed="#B" n="24"/>nec poterit deseruire nisi minus: sicut iniquitas esset &amp; contra naturalis iuris aequitatem pro minori ser 
+       <lb ed="#B" n="25"/>uitio dare maius &amp; pro maiori minus. Dico ex debito seruitii: non ex gratia: qualiter praelati debent 
+       <lb ed="#B" n="26"/>dispensare bona ecclesiastica. Episcopi enim positi sunt, non vt propriarum rerum largitores: sed vt alie 
+       <lb ed="#B" n="27"/>narum dispensatores. x. q. ii. Precarie. &amp; ita de rebus ecclesiae iustitiam potest facere dispensando: nullam 
+       <lb ed="#B" n="28"/>autem gratiam donando. hoc enim non potest quisquam facere nisi de proprio. Iuxta illud. xii. quoid i. Res ec- 
+       <lb ed="#B" n="29"/>clesiae non quasi propriae, sed quasi communes &amp; dono oblatae: tamen summo studio &amp; timore non in ali 
+       <lb ed="#B" n="30"/>os quam in praefatos vsus sunt fideliter dispensandae. Vnde dicitur dispensatio quasi diuersorum pensatio. 
+       <lb ed="#B" n="31"/>Debet enim dispensator omnia dispensare: &amp; sic rationabiliter ad regulam iustitiae omnia agere: vt eti 
+       <lb ed="#B" n="32"/>am de bonis ecclesiae minima quam facit non sit nisi rationabilis &amp; iusta. Cum igitur vix sit aliquis qui vni 
+       <lb ed="#B" n="33"/>cum beneficium in vnica ecclesia ad plenum deseruire sufficiat vt opus est: sicut extra de Cle, non re- 
+       <lb ed="#B" n="34"/>si. Quia nonnulli. vbi dicitur. Cum vnum officium implere vix sufficiant stipendia sibi vendicant plu- 
+       <lb ed="#B" n="35"/>rimorum. &amp; de praebendis. Quia intantum. per totum. Et sic contra regularem aequitatem vt videtur iuris 
+       <lb ed="#B" n="36"/>naturalis est: vt in eadem ecclesia quis plura habeat beneficia: quare &amp; multo fortius in diuersis, &amp; ma 
+       <lb ed="#B" n="37"/>xime in diuersis episcopatibus: aut in diuersis prouinciis, quia quanto beneficia magis sunt distantia 
+       <lb ed="#B" n="38"/>tanto minus potest vnus in pluribus deseruire: quamquam in speciali ratione dispensari solet: vt aliquis plura 
+       <lb ed="#B" n="39"/>beneficia habeat in diuersis ecclesiis, non autem vt in vnica. 
+      </p>
+      <p xml:id="n3av8a-c1e874-d1e607">
+       SIC ergo plura beneficia simul tenere 
+       <lb ed="#B" n="40"/>quantum mihi apparet non solum est illicitum &amp; malum: quia de iure positiuo prohibitum: sed quia  
+       <lb ed="#B" n="41"/>ex iure naturali illicitum &amp; malum, ideo prohibitum: quia vergit in periculum animarum: eo quod si 
+       <lb ed="#B" n="42"/>bi bona attrahunt pro quibus ecclesiae deseruire non possunt: quae aliis deberent concedi qui ea pos- 
+       <lb ed="#B" n="43"/>sent deseruire: vt in dicto capitulo. Quia nonnuii. quos ipsi defraudant. Tale tamen malum est hoc quod  
+       <lb ed="#B" n="44"/>in casu potest esse bonum. in quo solum tamen per dispensationem plura beneficia tenere licitum est: 
+       <lb ed="#B" n="45"/>sine qua etiam non est licitum ex hoc solo quod de iure conmuni est prohibitum: etsi in se ex natura rei esset 
+       <lb ed="#B" n="46"/>licitum vt dictum est. Vnde <name ref="#Bernard">Bernardus</name> in epistola ad Theobaldum comitem. Honores &amp; dignita 
+       <lb ed="#B" n="47"/>tes ecclesiasticas non ignoro deberi iis qui eas digne secundum deum administrare &amp; velint &amp; possint 
+       <lb ed="#B" n="48"/>porro eas acquiri peruulo vestro praecibus meis vel vestris: nec vobis iustum: nec mihi tutum esse noueritis. Nam nec 
+       <lb ed="#B" n="49"/>cuiquam vel adulto plures in pluribus ecclesiis habere licet: nisi dispensatorie quidem ob magnam vel ecclsiae necessi 
+       <lb ed="#B" n="50"/>tatem, vel personae vtilitatem: &amp; hoc non, propriam: sed communem ecclesiae: vt dictum est supra. Istae, n sunt duae causae, propter 
+       <lb ed="#B" n="51"/>quas facienda est dispensatio. Secundum enm quod dicitur extra. de sententia &amp; re iudi. In causis. dispensationem indu-  
+       <lb ed="#B" n="52"/>cunt inspecta necessitas &amp; vtilitas. &amp; extra de praebem. Exposuisti. dicitur quod tunc dispensatio fiat: si euidens necessi 
+       <lb ed="#B" n="53"/>tas &amp; vtilitas exigant: vt dicit glos. lsta duo dispensationem inducunt, &amp; propter talem necessitatem 
+       <lb ed="#B" n="54"/>adiunguntur ecclesiae praebendis. Aliae vero sunt causae inducentes facilitatem dispensationis ex statu &amp; 
+       <!--129.xml-->
+       <pb ed="#B" n="44-v"/>
+       <lb ed="#B" n="1"/>dispositione personarum. vt enim extra de electione Innotuit, dicitur, multa dispensationem inducere videntur: scien 
+       <lb ed="#B" n="2"/>tia literarum, morum honestas, fama personae: &amp; vt dicitur extra de praeben. de multa. circa sublimes &amp; literatas 
+       <lb ed="#B" n="3"/>personas quae maioribus sunt honorandae beneficiis, cum ratio postulat poterit dispensari. Et aduertendum  
+       <lb ed="#B" n="4"/>est quod dicit cum ratio postulat: ne passim, &amp; indiscreta fiat dispensatio, quia vt ibi dicit glos. Olim in curis 
+       <lb ed="#B" n="5"/>&amp; dignitatibus dispensabant epsei: sed hoc immutatum fuit propter indiscretas, &amp; stultas dispensationes epi- 
+       <lb ed="#B" n="6"/>scoporum. Vnde nec papa dispensare debet nisi iusta ratio hoc postulet. ita habitum est supra ex dictis beati 
+       <lb ed="#B" n="7"/>Bernardi. Alias enim etsi ab ecclsia militante super eo quod dispensationem quis obtinet non inquietatur, coram deo tamen 
+       <lb ed="#B" n="8"/>non assecuratur. secundum quod extra de voto, &amp; vo. re. super cap. primum dicit glos. Non est securus quoad de  
+       <lb ed="#B" n="9"/>um cum quo papa dispensat nisi subsit causa dispensandi: nec etiam securum est ipsi dispensanti, si dispensando  
+       <lb ed="#B" n="10"/>cuiquam licentiam faciendi tribuat eius quid ei omnino non licet, aut non expediat, aut forte petenti modo quo nec 
+       <lb ed="#B" n="11"/>liceat nec deceat. Cum enim quodlibet horum in se malum sit vel saltem facienti: nunquid ideo vt ait <name ref="#Bernard">Bernardus</name> ad  
+       <lb ed="#B" n="12"/>Adam monachum: aut malum esse desiit aut minoratum est quod papa concessit: quis vero malum esse neget assen 
+       <lb ed="#B" n="13"/>sum praebere malo: &amp; sic ouem in praecipitium erroris ire permittere, a quo cum diligentia eam reuocare deberete 
+       <lb ed="#B" n="14"/>Ne forte dicatur ei illud Ezechielis. Quid errabat non reuocasti, quid perierat non quaesisti. Sic enim vt dicit <name ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="15"/>in sermone de pastoribus, debet dicere pastor oui sic petenti licentiam errandi: tu vis errare: tu vis peri 
+       <lb ed="#B" n="16"/>re, ego nolo. Non vult ille qui me terret si voluero, reuocabo errantem: requiram perditam: etsi me inquirentem 
+       <lb ed="#B" n="17"/>lanient vepres syluarum: per omnia angusta ire coarctabo: omnes sepes excutiam: omnia peragrabo, reuoca- 
+       <lb ed="#B" n="18"/>bo errantem atque pereuntem requiram. Si me pati non vis, noli errare: noli perire. Parum est quod doleo  
+       <lb ed="#B" n="19"/>te errantem atque pereuntim: timeo ne negligens te etiam quod forte est occidam. Quod tamen vt ait Ber- 
+       <lb ed="#B" n="20"/>nardus in epistola vbi supra, pontificem fecisse non credidero nisi aut circunuentum mendacio, aut im 
+       <lb ed="#B" n="21"/>portunitate victum, quando enim aliter huiuscemodi indulgentiam daret: tunc non esset dispensa- 
+       <lb ed="#B" n="22"/>tio, sed crudelis dissipatio. Dico ex parte eius qui dispensari secum petit. 
+      </p>
+      <p xml:id="n3av8a-c1e874-d1e704">
+       EST autem hic considerandum 
+       <lb ed="#B" n="23"/>quod alius est modus dispensandi in illis quae sunt prohibita quia mala: &amp; in illis quae solum sunt mala &amp; il 
+       <lb ed="#B" n="24"/>licita quia prohibita. In malis tantum quia prohibita, dispensatio vt dictum est supra, nihil facit: nisi quod au-  
+       <lb ed="#B" n="25"/>fert prohibitionem ipsam: &amp; rem ipsam suae naturae relinquit: quae de se indifferens est, &amp; ideo licita 
+       <lb ed="#B" n="26"/>vt bene possit fieri post prohibitionims: cum propter prohibitionem non liceat. licebat autem quando  
+       <lb ed="#B" n="27"/>cum licentia fiebat. In prohibitis vero quia mala, dispensatio non aufert solum prohibitionem relinquem 
+       <lb ed="#B" n="28"/>do rem suae naturae: tanquam de se indifferentem: quae absque licentia non liceret: liceret autem si cum licentia 
+       <lb ed="#B" n="29"/>fieret: sed cum hoc quod dispensatio aufert ipsam prohibitionem, determinat casus in quibus bonum est &amp; 
+       <lb ed="#B" n="30"/>licitum quod regulariter tanquam malum &amp; illicitum vniuersaliter est interdictum: vt quo ad hoc secundum ista 
+       <lb ed="#B" n="31"/>dispensatio non sit nisi iuris quaedam declaratio in particularibus factis in quibus dubium est: vtrum. scilicet perti- 
+       <lb ed="#B" n="32"/>nere debeant ad aliquem casum dispensabilem in iure expressum, an ad aliquem alium qui forte non sit expres 
+       <lb ed="#B" n="33"/>sus: vt tunc detur licentia facti secundum formam illius: vt qui habet vnum beneficium intitulatum  
+       <lb ed="#B" n="34"/>teneat alterum tanquam conmendatum: vel qui habet duas intitulatas, teneat illas tanquam tenues respectu con 
+       <lb ed="#B" n="35"/>ditionis personae: vel tanquam sit paucitas clericorum sufficientium ad alterum: vel tanquam vnum sit alteri an  
+       <lb ed="#B" n="36"/>nexum, &amp; siquis alius modus sit possibilis praeter istos. Et sic dispensatio proprie non est vnus modus 
+       <lb ed="#B" n="37"/>distinctus ab aliis quatuor: sed coincidit cum quolibet &amp; semper cum aliquo illorum in omni actu dis 
+       <lb ed="#B" n="38"/>pensandi: &amp; hoc vt dictum est non nisi in factis dubiis, si ad aliquem illorum casuum pertinent. cuius du  
+       <lb ed="#B" n="39"/>bii determinatio pertinet ad industriam &amp; auctoritatem solius dispensantis. &amp; istud dubium cum in di-  
+       <lb ed="#B" n="40"/>ctis casibus vel in aliquo eorum ex consuetudine facti est determinatum ex aliqua obseruatione in ali 
+       <lb ed="#B" n="41"/>quibus beneficiis, tunc pertinet ad ius conmune: &amp; non requirit dispensationem: vt vbi obseruatum est quod praebendae alicui ma 
+       <lb ed="#B" n="42"/>ioris ecculsiae annexa est capella aliqua: cui confertur praebenda, simul &amp; confertur capella vel siquid aliud sit annexum ei. Est 
+       <lb ed="#B" n="43"/>n. ab initio facta illorum connexio propter eandem causam propter quam de nouo fieret de eis simul obtinen- 
+       <lb ed="#B" n="44"/>dis dispensatio. vnde extra de praeben. super capitulum Exposuisti, tacta necessitate dispensandi in eo di 
+       <lb ed="#B" n="45"/>cit glos. Propter talem necessitatem adiunguntur ecclesiae praebendae. Quia autem praedicta iuris expres- 
+       <lb ed="#B" n="46"/>sio siue determinatio dicatur dispensatio: patet per hoc: quid extra de voto &amp; vo. red. super illud capitulum. 
+       <lb ed="#B" n="47"/>Non est dicendus voti transgressor qui quod vouit auctoritate apostolica distulit adimplere. dicit glos. 
+       <lb ed="#B" n="48"/>Papa in votis non dispensat sed declarat: &amp; tamen dispensatio appellatur, est enim quo ad hoc dispensa- 
+       <lb ed="#B" n="49"/>tio: quod statutum iuris communis de pluribus beneficiis non simul tenendis, etiam prohibet ne in casibus 
+       <lb ed="#B" n="50"/>dispensabilibus simul sine dispensatione teneant: nisi vbi ex antiqua consuetudine simul obtenta sunt 
+       <lb ed="#B" n="51"/>in aliis enim non licet simul omnino plura tenere etiam in casibus dispensabilibus: nisi de licentia pa- 
+       <lb ed="#B" n="52"/>pae vel habentis potestatem dispensandi: quia hoc de iure comni prohibetur: &amp; quo ad hoc est dispensatio su 
+       <lb ed="#B" n="53"/>per alias in se licitas: quia solummodo iuris commnis relaxatio, quod proprie loquendo est dispensatio. vt enim dicitur. l dist.  
+       <lb ed="#B" n="54"/>super ca. Vt constitueretur, in glos. aliud est ius, aliud rigor, aliud dispensatio. Rigor est excessus &amp; austeritas 
+       <!--130.xml-->
+       <pb ed="#B" n="45-r"/>
+       <lb ed="#B" n="1"/>facta ad terrorem: &amp; non est seruandus: nisi vbi timetur exemplum mali. cuius exemplum habemus in articu 
+       <lb ed="#B" n="2"/>lo quaestionis praecedentis. Dispensatio autem est quaedam iuris relaxatio: &amp; non est vtendum ea nisi sit necessi- 
+       <lb ed="#B" n="3"/>tas vel vtilitas vt dictum est. Ius vero aequitas est quae media strata incedit. Quia autem ea quae sunt simpli- 
+       <lb ed="#B" n="4"/>citer prohibita de iure naturali tanquam illicita &amp; mala, in casibus possunt esse bona &amp; licita: super quod fundatur to 
+       <lb ed="#B" n="5"/>ta praesens determinatio: patet ex philosopho: qui non nisi naturale ius secundum virtutes morales describit. lpse enim in fi 
+       <lb ed="#B" n="6"/>ne quiti ethicorum postquam descripsit iustitiam naturalem quo ad partem eius cuius est tradere regulas legis natu  
+       <lb ed="#B" n="7"/>rales: quae appellatur legis positiua: describit in fine libri iustitiam generalem quo ad partem eius cuius est declarare  
+       <lb ed="#B" n="8"/>regulas legis naturales, &amp; earum intentionem exponere: explicando casus in quibus regulae legis vniuersales fal 
+       <lb ed="#B" n="9"/>lunt: &amp; quibus exceptis verificantur: quae appellatur legis directiua. Causa autem quare oportet talem iu- 
+       <lb ed="#B" n="10"/>stitiam poni, est quoniam lex iuris positiua vniuersales regulas iuris statuit in talibus rebus in quibus non  
+       <lb ed="#B" n="11"/>semper quod vniuersale est rectum est &amp; iustum: sed accipit lex vniuersale pro eo quod accidit in pluribus recte 
+       <lb ed="#B" n="12"/>Et licet sciat quod aliquando fallit: nihilominus lex quae sic statuit recta &amp; iusta est: &amp; quod regula eius vniuersa- 
+       <lb ed="#B" n="13"/>lis fallit: non est ex parte ipsius legis, sed ex parte materiae rei mutabilis scilicet de qua sunt legis edicta. 
+       <lb ed="#B" n="14"/>Vnde lex bona est quae vniuersaliter prohibet quod simpliciter &amp; in genere malum, licet praeter legis intentio 
+       <lb ed="#B" n="15"/>nem quae vniuersalium est, accidat aliquis particularis casus. tunc enim venit legis correctiua: quae appo- 
+       <lb ed="#B" n="16"/>nit illud particulare quod lex positiua in suo statuto vniuersali omisit: &amp; per hoc legis correctiua quod vni  
+       <lb ed="#B" n="17"/>uersale erat legis positiue verificat &amp; dirigit ad regulam iustitiae perfectae, ad modum quo legislator faceret 
+       <lb ed="#B" n="18"/>si praesens esset vbi casus ille particularis contingeret. illud enim quid olim omisit apponeret. et si illum ca 
+       <lb ed="#B" n="19"/>sum sciuisset &amp; aduertisset cum legem vniuersalem statuit, eum non omisisset. Super quo ponit commen 
+       <lb ed="#B" n="20"/>tator graecus duo exempla: sed &amp; tertium ponit: quod ex certa scientia omittimus. Dicit ergo quod lex peregrinum 
+       <lb ed="#B" n="21"/>si super murum ascendat de nocte in tempore belli iubet occidi a ciuibus: &amp; est hic occisio iusta. accidit au 
+       <lb ed="#B" n="22"/>tem quandoque non esse iustam sed peccatum. Oppugnantibus enim adiacentibus, ascendentem peregrinum in  
+       <lb ed="#B" n="23"/>murum &amp; triumphantem occidere festinare, quanto peccato plenum est: Lege itaque vniuersaliter prohibente 
+       <lb ed="#B" n="24"/>peregrinum murum ascendere: &amp; propter hoc ad poenas tracto: eo quod ascendens murum triumphauit: Epi- 
+       <lb ed="#B" n="25"/>caia dirigit &amp; definit quod deficit. si enim sciuisset hoc legis positor: quoniam fieret: ascripsisset 
+       <lb ed="#B" n="26"/>vtique in lege hoc: &amp; haberet vtique lex sic. Oportet peregrinum ascendentem in bello murum occidi praeter 
+       <lb ed="#B" n="27"/>triumphantem. In quibus ergo non est possibile de omnibus recte legen ponere, de iis quae vt plurimum fiunt le- 
+       <lb ed="#B" n="28"/>ges ponunt. vt plurimum enim malum est peregrinum super murum ascendere, non tamen semper vt dictum est. &amp; 
+       <lb ed="#B" n="29"/>pignus siue depositum non dari malum est: sed interdum bonum. insipienti non est tradendus gladius depo- 
+       <lb ed="#B" n="30"/>situs: vel furi. Quartum vero exemplum ponit commentator Arabicus dicens. In lege Sarracenorum praeceptum 
+       <lb ed="#B" n="31"/>bellandi vniuersale est donec extirpetur radix eorum qui diuersi sunt ab eis. &amp; sunt horae in quibus eligibilior est 
+       <lb ed="#B" n="32"/>pax bello. Et quia populus Sarracenorum tenuit pro necessario hoc praeceptum vniuersale: &amp; cum hoc fuerit eis 
+       <lb ed="#B" n="33"/>impossibile extirpare semper suos inimicos: consecuti sunt danmna multa ex hoc: &amp; hoc fuit eis ex intentionis igno  
+       <lb ed="#B" n="34"/>rantia legislatoris. &amp; propter hoc oportet vt dicatur eis quod magis quaerenda est pax quandoque quam bellum. Quin  
+       <lb ed="#B" n="35"/>tum exemplum ad hoc habemus in primo Maccabeorum, de eo quid malum est ex sola prohibitione diuina: &amp; 
+       <lb ed="#B" n="36"/>habet casus in quibus prohibitio non est seruanda. vbi dicitur quod exercitus regis Antiochi constituit praelium 
+       <lb ed="#B" n="37"/>aduersus Iudaeos in die sabbato: qui non restiterunt ei nec lapidem miserunt dicentes: moriamur omnes in  
+       <lb ed="#B" n="38"/>simplicitate nostra: &amp; mortui sunt vsque ad mille animas hominum. Quod fecerunt propter vniuersale edictum 
+       <lb ed="#B" n="39"/>de feriatione sabbati. Et dixit vir proximo suo: si omnes fecerimus sicut fratres nostri fecerunt: &amp; non pu- 
+       <lb ed="#B" n="40"/>gnauerimus aduersus gentes: citius disperdent nos a terra. &amp; cogitauerunt in illa die dicentes quasi le- 
+       <lb ed="#B" n="41"/>gem exponentes, omnis homo quicumque venit ad nos in bello in die sabbatorum pugnemus aduersus eum: &amp; 
+       <lb ed="#B" n="42"/>non moriemur omnes sicut mortui sunt fratres nostri. Ecce quam planum est ex verissima doctrina legis na-  
+       <lb ed="#B" n="43"/>turae quomodo potest aliquid esse malum simpliciter: &amp; prohibendum quia malum: &amp; hoc per edictum vniuersa- 
+       <lb ed="#B" n="44"/>le legis. quod tamen in casu malum non est sed bonum &amp; tanquam licitum faciendum. Sic ergo per hunc modum  
+       <lb ed="#B" n="45"/>ius commune prohibet pluralitatem beneficiorum tanquam simpliciter malum: &amp; contra ius legis naturae existens:  
+       <lb ed="#B" n="46"/>&amp; tamen casus excipit quos legislator percepit: qui adhuc plures exciperet si aliquos praeter exceptos 
+       <lb ed="#B" n="47"/>perciperet vt dictum est. Concedenda est igitur ratio probans quod non licet habere plura beneficia simul. In  
+       <lb ed="#B" n="48"/>tellige fine dispensatione vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e874-d1e885">
+       AD primum in oppositum, quod in per se malo ex iure legis naturae non 
+       <lb ed="#B" n="49"/>habet locum dispensatio: dicendum quod verum est de illo malo quod est extremum malum: &amp; in nullo casu bo 
+       <lb ed="#B" n="50"/>num: vt dictum est supra. de illo autem malo quod est de mediis quod habet in aliquo casu rationem boni, non est 
+       <lb ed="#B" n="51"/>verum. in illo enim bene potest dispensari secundum modum praeexpositum. 
+      </p>
+      <p xml:id="n3av8a-c1e874-d1e894">
+       AD secundum, quod pluralitatem 
+       <lb ed="#B" n="52"/>praebendarum sustinet ecclesia: quid non deberet facere in periculum animarum si non liceret: Dicendum ad hoc 
+       <lb ed="#B" n="53"/>excusando ecclesiam vniuersalem &amp; praecipue Romanam sedem: quod dissimulatio huius criminis non vergit 
+       <lb ed="#B" n="54"/>in culpam ecclesiae vel sedis Romanae, quia iustum est multa mala dissimulare propter correctionis diffi- 
+       <!--131.xml-->
+       <pb ed="#B" n="45-v"/>
+       <lb ed="#B" n="1"/>cultatem. Vnde dicitur in antiqua compilatione extra de praebendis. Cum non ignores. Ita continuetur mi 
+       <lb ed="#B" n="2"/>rabile genus &amp; indignum, quid tamen in ecclesia tua vis inducere. consuetudinem ecclesiae Gallicanae: quae cum vnum  
+       <lb ed="#B" n="3"/>ad plura beneficia recipiat, contra sacrorum canonum instituta non approbatur a nobis: licet non possit 
+       <lb ed="#B" n="4"/>prae multitudine deliquentium emendari. Veruntamen distinguendum: quod crimen aliquod dissimulare contin  
+       <lb ed="#B" n="5"/>git dupliciter: publicum dico &amp; manifestum. Vno modo factum ipsum criminosum non prohibendo, cum 
+       <lb ed="#B" n="6"/>quis ipsum possit prohibere. Alio modo transgressionem prohibitionis non publicando. Primo modo eccle 
+       <lb ed="#B" n="7"/>sia &amp; praelatus ecclesiae crimen generale &amp; publicum dissimulare non debent: sed per edictum generale prohi 
+       <lb ed="#B" n="8"/>bere. &amp; hoc modo per plurima iuris communis edicta pluralitatem beneficiorum prohibuerunt: nec susti 
+       <lb ed="#B" n="9"/>nuerunt eam quantum in se fuit. Secundo autem modo cum transgressio respicit facta particularia non de-  
+       <lb ed="#B" n="10"/>bet ecclesia vel praelatus ecclesiae in foro publico excessus aliquos punire nisi inquantum aperte vergunt 
+       <lb ed="#B" n="11"/>in derogationem pacis reipublicae: sicut vergunt vniuersaliter furta, homicidia, &amp;d huiusmodi: quae statim 
+       <lb ed="#B" n="12"/>puniunt in quocunque eos inueniunt. vt secundum hoc intelligatur illud <name ref="#Augustine">Augustini</name> primo de libero ar-  
+       <lb ed="#B" n="13"/>bitrio. Lex ista quae populo regendo scribitur recte multa permittit per diuinam prouidentiam vindicanda 
+       <lb ed="#B" n="14"/>etenim vindicanda haec assumit: scilicet tantum &amp; non alia quae satis sunt conciliandae paci hominibus imperi 
+       <lb ed="#B" n="15"/>tis: quanta possunt per hominem regi. &amp; caetera vt habitum est supra. Quid autem ibi dicit <name ref="#Augustine">Augustinus</name> de le 
+       <lb ed="#B" n="16"/>ge, potest intelligi &amp; de praelato ministro legis. Sed tunc solum tenetur punire delicta quae non vergunt 
+       <lb ed="#B" n="17"/>directe in disturbationem pacis publicae cum in iudicium deducuntur. de numero quorum est multitudo bene 
+       <lb ed="#B" n="18"/>ficiorum. Sine culpa ergo sua ecclesia &amp; praelatus eius culpam huiusmodi dissimulare &amp; sustinere possunt 
+       <lb ed="#B" n="19"/>sine animaduersione, quousque in iudicium deducantur: &amp; hoc propter correctionis difficultatem &amp; disturbatio 
+       <lb ed="#B" n="20"/>nem quae ex hoc in ecclesia posset contingere. sed si in iudicium essent deducta contra quencumque, nullo mo- 
+       <lb ed="#B" n="21"/>do deberent sustinere. vt enim dicitur de praebendis. Cum iandudum, multa per patientiam tolerantur, quae si de 
+       <lb ed="#B" n="22"/>ducta fuerint in iudicio exigente iustitia non debent tolerari. vbi dicit glos. Hic respondet papa tacitae quae  
+       <lb ed="#B" n="23"/>stioni. diceret enim aliquis: multi sunt habentes plura beneficia: quare istum reprobas domine papa: &amp; ipse 
+       <lb ed="#B" n="24"/>respondet dicens, multa per patientiam &amp;c. Et tamen vt dicit glos. per talem patientiam non dispensatur. 
+       <lb ed="#B" n="25"/>Vnde credo, quod si contra habentem plura beneficia alterum illorum a domino papa impetraretur: &amp; in iudi- 
+       <lb ed="#B" n="26"/>cium deduceretur coram ipso: quod ipsum possidenti abiudicaret &amp; impetranti adiudicaret. Veruntamen 
+       <lb ed="#B" n="27"/>si expediret ecclesiae, quod dominus papa edicto contra pluralitatem beneficiorum poenam legalem in transgres- 
+       <lb ed="#B" n="28"/>fores apponeret: vt sic metu poenae oues suas a principio coerceret: ipse viderit qui de hoc redditurus 
+       <lb ed="#B" n="29"/>est rationem.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

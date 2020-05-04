@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4457">
+       <head xml:id="n3av8a-c1e4457-Hd1e96">Quaestio 16</head>
+       <p xml:id="n3av8a-c1e4457-d1e99">
+        <lb ed="#B" n="6"/>SEquuntur quaesita specialiter pertinentia ad hominem viatorem. Et erat vnum:  
+       <lb ed="#B" n="7"/>communiter pertinens tam ad clericum quam ad laicum, &amp; plura pertinentia specialiter vel 
+       <lb ed="#B" n="8"/>ad istos vel ad illos. Illud vnum erat, Vtrum patri infideli in necessitate sua potius 
+       <lb ed="#B" n="9"/>est subueniendum quam extraneo fideli. Ex arguitur quod sit patri infideli subueniendum 
+       <lb ed="#B" n="10"/>quia maius damnum sequeretur de non subueniendo patri: quia per necessitatem  
+       <lb ed="#B" n="11"/>moreretur &amp; in anima sicut in corpore: extraneus autem fidelis non moreretur nisi in  
+       <lb ed="#B" n="12"/>corpore tantum: &amp; maiori damno potius occurrendum est. ergo &amp;c. Contra. funda 
+       <lb ed="#B" n="13"/>mentum verae amicitiae est bonum virtutis secundum philosophum. viii. Ethicorum. vbi ergo maius est 
+       <lb ed="#B" n="14"/>onum maior debet esse amicitia: &amp; ita maior dilectio: quia amicitia requirit correspondentem dilectio 
+       <lb ed="#B" n="15"/>nem. Sed maius bonum virtutis est in extraneo fideli quam in patre infideli. ergo &amp;c. Item qualis ordo  
+       <lb ed="#B" n="16"/>est in amicitia &amp; dilectione ciuili talis debet esse in amicitia charitatiua: sed in illa potius in bello 
+       <lb ed="#B" n="17"/>iuuandus est ciuis bonus ne occidatur quam pater infidelis: ergo &amp; in ista. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4457-d1e128">
+       DIcendum quod debitum  
+       <lb ed="#B" n="18"/>subuentionis in necessitatis articulo respicit non tam dilectionis affectum quam effectum: quia etsi non 
+       <lb ed="#B" n="19"/>adesset dilectionis affectus, per effectum tamen soluitur obligatio talis debiti. Est ergo quaestio de 
+       <lb ed="#B" n="20"/>ordine dilectionis quo ad dilectionis effectum: in quo maxime considerari debet quantitas debiti &amp; 
+       <lb ed="#B" n="21"/>obligationis: quia maius debitum &amp; maior obligatio potius est soluenda quam minus si ambo solui 
+       <lb ed="#B" n="22"/>non possunt. Quia igitur homo summe debitor est patris etiam infidelis iure diuino &amp; obligatione  
+       <lb ed="#B" n="23"/>diuini praecepti quae nunquam per infidelitatem soluitur: non sic autem fidelis extranei: ideo simpliciter di  
+       <lb ed="#B" n="24"/>cendum quod si aliud non obstat siue aliis eisdem se habentibus, in omni necessitate potius subueniendum 
+       <lb ed="#B" n="25"/>est patri infideli quam extraneo fideli. Sed hoc non propter damnum quod inde contingeret vti praetendit pri 
+       <lb ed="#B" n="26"/>ma ratio: quia tunc in nullo casu potius subueniendum esset extraneo fideli quam proximo infideli: quid  
+       <lb ed="#B" n="27"/>falsum est, vt iam dicetur: sed propter maius debitum &amp; maiorem obligationem. Distinguendum  
+       <lb ed="#B" n="28"/>est igitur vt videamus quomodo regulariter verum falsum est in casu: quia pater infidelis aut eget subuen 
+       <lb ed="#B" n="29"/>tione propter necessitatem naturae in patiendo naturae defectum, in cibo, potu, vestimento, aut huiusmodi  
+       <lb ed="#B" n="30"/>aut propter peruersitatem malitiae in exercendo infidelitatis effectum in deum blasphemando: pro 
+       <lb ed="#B" n="31"/>pter quod oportet ipsum mori vel incarcerari, vel in bello contra fideles dimicando: &amp; per hoc 
+       <lb ed="#B" n="32"/>necessitatem moriendi incurrendo nisi ei subueniatur in omnibus indigentiis. Primo modo po- 
+       <lb ed="#B" n="33"/>tius subueniendum est patri infideli quam extraneo fideli in omnibus indigentiis. Secundo modo po 
+       <lb ed="#B" n="34"/>tius subueniendum esset extraneo fideli. In hoc enim casu subuenire patri, esset potius fouere eius 
+       <lb ed="#B" n="35"/>malitiam quam subuenire, &amp; sic processit obiectio secunda. In tali enim casu vel consimili loquitur Chri 
+       <lb ed="#B" n="36"/>stus cum dicit Matthaei. x. Veni separare hominem aduersus patrem suum. Et. xix. Qui reliquerit patrem suum 
+       <lb ed="#B" n="37"/>&amp;c. propter me &amp;c. In hoc enim casu propter deum reliquit: quia magis tenetur paternitati diui- 
+       <lb ed="#B" n="38"/>nae: &amp; ideo quando paternitas humana contrariatur illi respuenda est: sicut contemnenda est minor aucto 
+       <lb ed="#B" n="39"/>ritas quando contrariatur maiori: &amp; vniuersaliter auctoritas humana quando contrariatur auctoritatidi 
+       <lb ed="#B" n="40"/>uinae. 
+      </p>
+      <p xml:id="n3av8a-c1e4457-d1e180">
+       AD primum respondendum est in isto casu quod propter maius damnum quod posset imminere si pa- 
+       <lb ed="#B" n="41"/>ter infidelis permitteretur occidi, non est in hoc casu potius subueniendum patri infideli: quia prae 
+       <lb ed="#B" n="42"/>sumendum est quod si viueret amplius deterior fieret &amp; deterior moreretur. &amp; sic ex hoc non incurri 
+       <lb ed="#B" n="43"/>tur, maius damnum, sed potius minus: licet simpliciter secundum se maius damnumsit vnummo 
+       <lb ed="#B" n="44"/>ri in anima &amp; corpore quam alterum in corpore tantum. 
+      </p>
+      <p xml:id="n3av8a-c1e4457-d1e191">
+       AD tertium respondendum est de dupliciamicitia  
+       <lb ed="#B" n="45"/>quo ad alium casum: dicendo quod magis obligat diuinum praeceptum patri infideli quam extraneofi- 
+       <lb ed="#B" n="46"/>deli si aliud non obsit: &amp; propter nullam amicitiam ciuilem potius subueniendum esset extraneo fideli, ni 
+       <lb ed="#B" n="47"/>si in quo pater contrariatur deo. Vnde si propter amicitiam ciuilem oporteret dimittere potius 
+       <lb ed="#B" n="48"/>patrem occidi quam ciuem: Dicendum quod hoc locum habet tam de patre fideli quam infideli, &amp; hoc quia si 
+       <lb ed="#B" n="49"/>ciues habeant iustum bellum pater bellans contra eos impugnat iustitiam, &amp; sic deo contrariatur. Est I 
+       <lb ed="#B" n="50"/>autem aduertendum quod si quaestio generalius proponeretur: an magis vel potius sit diligendus ptr insidelis quam  
+       <lb ed="#B" n="51"/>extraneus fidelis: Distinguendum eset de diligere effectum: &amp; tunc subdistinguendum esset vt iam prtractatum est in  
+       <lb ed="#B" n="52"/>quaestione: &amp; de diligere affectu. &amp; dicendum esset quod in omnem casum plus diligendus esset extraneus fide 
+       <lb ed="#B" n="53"/>lis quam ptr infidelis, secundum quod in hoc secundo membro loquitur Ambro, quando dicit super Canti. Domestici si bo 
+        <lb ed="#B" n="54"/>ni sunt malis filiis sunt praeponendi. vt notatur <ref xml:id="n3av8a-c1e4457-Rd1e214" target="http://scta.info/resource/gd-p1d30-d1e123">dist. xxx. Decretorum super illud capitulum. Siqui filii</ref>.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

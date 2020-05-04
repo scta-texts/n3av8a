@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e702">
+      <head xml:id="n3av8a-c1e702-Hd1e96">Quaestio 4</head>
+      <p xml:id="n3av8a-c1e702-d1e99">
+       <lb ed="#B" n="7"/>CIrca tertium arguitur: quod consecrans in triduo mortis Christi consecrasset corpus mortuum 
+       <lb ed="#B" n="8"/>quia non consecrare potuit corpus nisi quid erat. Non autem erat tunc corpus Christi nisi mor 
+       <lb ed="#B" n="9"/>tuum. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e702-d1e108">
+       CONtra. totus Christus continetur sub sacramento eucharistiae. sed to 
+       <lb ed="#B" n="10"/>tus Christus comphendit animam &amp; corpus. ergo anima &amp; corpus fuerunt sub sacramento 
+       <lb ed="#B" n="11"/>sed corpus cum anima non est nisi corpus viuens. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e702-d1e115">
+       DIcendum est ad hoc: quod in sacra 
+       <lb ed="#B" n="12"/>mento aliquid est ex vi consecrationis principalitur: aliqua vero ex concomitantia ad illud. Primo 
+       <lb ed="#B" n="13"/>modo in sacrameon solummo est caro siue corpus Christi, &amp; quid pertinet ad eius essentiam siue substantiam. Secundo modo  
+       <lb ed="#B" n="14"/>sunt ibi accidentia &amp; dimensiones eius, &amp; anima rationalis, &amp; diuinitas eius. Nunc autem inter haec illud solum di conse 
+       <lb ed="#B" n="15"/>crari: quid vi consecrationis fit in sacramon. hoc autem est ipsum corpus solum secundum modum quo habet esse in rerum 
+       <lb ed="#B" n="16"/>natura, quia igitur corpus illud in triduo illo fuit corpus vere mortuum, solummo tunc fuisset consecratum corpus 
+       <lb ed="#B" n="17"/>mortuum. sed &amp; nunc ipso viuente consecratur corpus viuum.
+      </p>
+      <p xml:id="n3av8a-c1e702-d1e131">
+       AD Argumentum in oppositum quod totus Christus 
+       <lb ed="#B" n="18"/>erat sub sacramo, dicendum est quod non est verum: appelland o totum Christum personam in duabus naturis perfectis: siue conium 
+       <lb ed="#B" n="19"/>ctis siue diuisis. Sic enim totus Christus non fuit in sepulcro nisi per synecdochem: quia ratione carnis cum diui 
+       <lb ed="#B" n="20"/>nitate coniuncta, vt dictum est, per actum. &amp; sic Christus fuisset consecratus secundum carnem mortuam: non viuam vt di-  
+       <lb ed="#B" n="21"/>ctum est. Et cum assumitur quod totus Christus comprhendit corpus &amp; animam: dicendum est quod non est verum nisi quando su 
+       <lb ed="#B" n="22"/>mitur, proprie non per synecdochen. &amp; ideo cum totus Christus non fuit sub sacramento nisi per synecdochen 
+       <lb ed="#B" n="23"/>nullo modo sequitur quod secundum animam fuit sub sacramento: neque vi conuersionis: neque per concomitantiam 
+       <lb ed="#B" n="24"/>&amp; ita nullo modo sequitur quod ibi erat viuus.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

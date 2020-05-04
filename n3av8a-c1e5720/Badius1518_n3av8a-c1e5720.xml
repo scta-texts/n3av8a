@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="594-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5720">
+       <head xml:id="n3av8a-c1e5720-Hd1e96">Quaestio 15</head>
+       <p xml:id="n3av8a-c1e5720-d1e99">
+        <lb ed="#B" n="4"/>CIrca Tertium arguitur, quod non sit licitum disputare de potestate praelatorum, sic. disputatio il 
+       <lb ed="#B" n="5"/>la quae est causa litis &amp; discordiae, non est licita. Talis est disputatio de potestate praelatorum  
+       <lb ed="#B" n="6"/>aliis volentibus eam ampliare: aliis autem volentibus eam restringere. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5720-d1e108">
+       CONtra. 
+       <lb ed="#B" n="7"/>illud est licitum, per quod subditus potest cognoscere in quo debet praelatis obedire &amp; in  
+       <lb ed="#B" n="8"/>quo non non enim tenetur ei obedire in omnibus, puta in illis praeceptis quae contra deum &amp; diuinam  
+       <lb ed="#B" n="9"/>legen atque dina mandata praeciperet. sed hoc praet cognoscere per disputationem de potestate praela 
+       <lb ed="#B" n="10"/>torum: quia ipsa declarat &amp; determinat &amp; inuestigat in quibus subditi suis praelatis obedire 
+       <lb ed="#B" n="11"/>debent, &amp; in quibus non. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5720-d1e121">
+       DIco quod triplici intentione potest fieri disputatio de potestate praelatorum, sicut 
+       <lb ed="#B" n="12"/>&amp; de potestate Christi &amp; dei. Vna videlicet vt potestatem illorum diminuat aut attenuet, &amp; minorem quam sit cre- 
+       <lb ed="#B" n="13"/>di faciat: et propter hoc eis minus &amp; in paucioribus obediendum sit. Alia autem contraria vt potestatem eorum exten 
+       <lb ed="#B" n="14"/>dat, &amp; maiorem quam sit credi faciat: et propterea eis amplius &amp; in pluribus obediendum sit. Tertia vero media 
+       <lb ed="#B" n="15"/>est: vt scilice uae &amp; quanta sit praelatorum potestas innotescat: &amp; secundum hoc quisque praelatis obediat. 
+      </p>
+      <p xml:id="n3av8a-c1e5720-d1e132">
+       DISputare de potestate 
+       <lb ed="#B" n="16"/>praelatorum prima intentione est omnino illicitum, sicut illicitum est tali intentione disputare de potestate Christi &amp; dei 
+       <lb ed="#B" n="17"/>qualitur disputant philosophi nitentes probare de deo: quod non habet potestatem agendi quicquam circa inferiora generabilia &amp; corrupti 
+       <lb ed="#B" n="18"/>bilia nisi mediante motu corporum caelestium. Et disputare isto modo, &amp; tali intentione disputare de praelato- 
+       <lb ed="#B" n="19"/>rum potestate aut est principum saecularium, est resistere siue contrariari diuinae ordinationi, &amp; bonum publicum 
+       <lb ed="#B" n="20"/>non amare. Potestas enim praelatorum eis a Christo deo data est: &amp; ad publicam vtilitatem ecclesiae ordinata. Di 
+       <lb ed="#B" n="21"/>cit enim apostlus Ro. xiii. Omnis anima potestatibus sublimioribus subdita sit. Non est enim potestas nisi a deo, quae autem sunt 
+       <lb ed="#B" n="22"/>a deo, ordinata sunt: itaque qui resistit potestati, dei ordinationi resistit: qui autem deo resistunt, sibiipsis danmna-  
+       <lb ed="#B" n="23"/>tionem acquirunt. Dei enim minister est tibi in bonum. Reuera qui tali intentione de potestate praelatorum disputant: danmna 
+       <lb ed="#B" n="24"/>tionem aeternam sibi acquirunt. &amp; meritoe quia sic disputando potestatem praelatorum, pro quanto eam diminuere intendunt, 
+       <lb ed="#B" n="25"/>furari quantum in ipsis est nituntur: quae quia de numero sacrorum est a deo sanctae ecclesiae concessorum: igitur adin-  
+       <lb ed="#B" n="26"/>star sacrilegii est disputare de potestate praelatorum aut etiam principum isto modo est enim furari sacrunde sacro. vt 
+       <lb ed="#B" n="27"/>etiam dicitur in liris legum saecularium, Sacrilegii instar est diuinis super quibus oportet ministrationibus obuiare 
+       <lb ed="#B" n="28"/>beneficiis. Et quia sic disputantes de praelatorum potestate, frequenter sunt inuidi praelatis &amp; rebelles atque inobedientes 
+       <lb ed="#B" n="29"/>nolentes ab eis corrigi aut corripi: vel puniri pro suis delictis: ideo displicere solet praelatis &amp; principibus 
+       <lb ed="#B" n="30"/>de ipsorum potestate disputare, &amp; hoc prohibent. Et merito: quia vident sibi in hoc iniuriari: &amp; diuinae ordinationi 
+       <lb ed="#B" n="31"/>contrariari: &amp; bonum publicum demoliri, &amp; sic disputantibus sibi a seipsis aeternam danmnationem procuraris Dis 
+       <lb ed="#B" n="32"/>putare autem de potestate praelatorum secunda intentione est est illicitum eadem de causam qua praecedens: quia sicut est data praelatis a 
+       <lb ed="#B" n="33"/>deo simpliciter ad ecclesiae vtilitatem: sic etiam data est eis in deterimato gradu ad eandem vtilitatem, vt ad ma 
+       <lb ed="#B" n="34"/>gis &amp; minus, siue maius &amp; minus potestatis quam sit a deo datum ad ecclesiae vtilitatem, non vergeret. Et sic vtroque  
+       <lb ed="#B" n="35"/>modo disputare de potestate praelatorum, vitiosum est Magis tamen vitiosum est disputare de illa primaitentione quam secunda: quia  
+       <lb ed="#B" n="36"/>disputatio de illa intentione secunda potius est in fauorem ecclesiae &amp; praelatorum, quam in odium. Econtrario autem disputare de 
+       <lb ed="#B" n="37"/>illa intentione prima. Et quia tali intentione plerique de potestate praelatorum disputant adulando spantes ex immensa potestate praela 
+       <lb ed="#B" n="38"/>torum generaliter, aut spanlitur ex immensa potestate alicuius illorum commodum aliquod sibi prouenire: ideo est talis disputatio 
+       <lb ed="#B" n="39"/>merito debet praelatis displicere. Boni enim viri nolunt aestimari vltra id quod sunt: &amp; frequanter volunt aestiari 
+       <lb ed="#B" n="40"/>minus quam sint. exemplo Ioannis Baptistae. Vt enim dicit <name ref="#Augustine">Augustinus</name> super Ioannem simodoe. iiii. Tanta excellentia erat in loam 
+       <lb ed="#B" n="41"/>ne, vt possit credi Christus: &amp; in eo probata est humilitas eius: quia dixit se non esse cum posset credi esse. Nullum 
+       <lb ed="#B" n="42"/>tantum meritum habuit, quam de ista humilitate, quod cum posset fallere homines &amp; putari Christus: &amp; hri pro Christo: 
+       <lb ed="#B" n="43"/>confessus est tamen aparte: Non sum ego Christus. Non dixit Ego sum Ioannes: ego sum Helias: ego sum propheta:  
+       <lb ed="#B" n="44"/>sed dixit: Ego sum vox clamantis in deserto. Et praecipue debet praelatis talis disputatio talium de sua potestate 
+       <lb ed="#B" n="45"/>displicere. quia sicut disputando potestatem praelatorum nimium extendunt, quando eam spgeant facere pro se: sic econtrario eam 
+       <lb ed="#B" n="46"/>disputando attenuant: quando timent ne per eam debeant praelati contrariari ipsisl Vnde frequaenter in vno articulo potestatem 
+       <lb ed="#B" n="47"/>praelatorum extollunt: et in alio deprimuntimodo quo saepius extollere visi sunt illa quae sua sunt: &amp; quae aliorum, dum tamen 
+       <lb ed="#B" n="48"/>pro se sunt: &amp; deprimere ea quae sunt aliorum: maxime quando contraria ipsis sunt. Vnde seruando medium virtutis et mo 
+       <lb ed="#B" n="49"/>deramen inter vtramque dictarum duarum disputationum de potestate praelatorum, dico quod disputatio de potestate praelatorum  
+       <lb ed="#B" n="50"/>intentione itia: omnino licita est et multum proficua: sicut et disputatio de potestate Christi et dei de iis quae sunt fidei:  
+       <lb ed="#B" n="51"/>dummo fiat cauam addiscendi vel convicendi haereticos. Sic enim sem dictum philosophi, disputare de singierosois non est iutile. 
+       <lb ed="#B" n="52"/>et non cauam deducendi illa in dubium. Hoc, nm omnino illicitum est: sicut est illicitum est disputare vt in dubium reuocentur il 
+       <lb ed="#B" n="53"/>la quae detiata sunt per vels synodos. Nam vt di in lris legum sclarium, iniuriam facit iudicio reuerentissimae synodi:  
+       <lb ed="#B" n="54"/>siquis semel iudicata ac recte disposita reuoluetur &amp; publice disputatur contenderit. Reuoluer dicit. gi i,i du  
+       <lb ed="#B" n="55"/>bium reuocatur. immo vt procedit sm argumentum, &amp; bene: concedendum est quod tal disputatio de potestate praelatorum multu 
+       <!--1228.xml-->
+       <pb ed="#B" n="594-r"/>
+        <lb ed="#B" n="1"/>necessaria est: nec debet displicerem alicui, sed multum placere, sicut &amp; placet praelatis bonis postquam sciuerit 
+       <lb ed="#B" n="2"/>&amp; praesumpserint magistros aliquos tali modo de sua potestate disputare, &amp; hoc praecipue ideo, quia tali disputa-  
+       <lb ed="#B" n="3"/>tione plurium est ipsi praelati frequent discunt quantum, &amp; quid super subditos possunt, &amp; quantum, &amp; quid non possunt: &amp; 
+       <lb ed="#B" n="4"/>per hoc sciunt legitime vti sua potestate, &amp; sibi cauere de potestatis abi su, quod forte sine illa nescirent: sicut 
+       <lb ed="#B" n="5"/>subditi ex tali disputatione discunt quantum &amp; in quibus debent praelatis suis obedire, &amp; quantum, &amp; in quibus non:  
+       <lb ed="#B" n="6"/>&amp; per hoc sciunt legitime suis praelatis obedire, &amp; cauere ab indebita rebellione, &amp; in casu obedientiae illicitae 
+       <lb ed="#B" n="7"/>suis praelatis obuiare, quid forte fine illa disputatione nescirent. Hinc dicit beatus <name ref="#Bernard">Bernardus</name> in epistolaquaedam ad  
+       <lb ed="#B" n="8"/>Adam monachum. Liquido apparet mala imprantibus non esse perendum: praeserti dum prauis obtemperas impiis, in quo homini  
+       <lb ed="#B" n="9"/>videris obediens, deo plane, qui omne quid perperam agitur interdicit, iobedientem te exhibes. Valde autem perperam est, profite 
+       <lb ed="#B" n="10"/>ti te obedientem, in quo nosceris superiorem propt inferiorem. i. diuinam propter humanam soluere obedientiam. Quid  
+       <lb ed="#B" n="11"/>enim: quid iubet homo, prohibet deus, &amp; ego audiam hominem surdus deo: Non. sic enim apli clamant. Melius est 
+       <lb ed="#B" n="12"/>obedire deo, quam homini &amp; infra ibidem. Si ita oportet: sine cam legitur. Omnia probate, quid bonum est tenete. Si ita est, de 
+       <lb ed="#B" n="13"/>leamus iam de libro euangelii. Estote prudentes, sicut serpentes. Sufficit quippe quid sequitur, &amp; simplices sicut 
+       <lb ed="#B" n="14"/>columbae. Nec dico, a subditl mandata praepositorum esse diiudicanda, vbi nihil iuberi deprehenditur diuinis contra 
+       <lb ed="#B" n="15"/>rium institutis: sed necessariam assero &amp; prudentiam quam aduertantur, &amp; libertatem, quae contenmnantur. Per dictam autem dispu 
+       <lb ed="#B" n="16"/>tationem omnia quae pertinent ad potestatem praelatorum, probantur, &amp; diiudicantur, dum in praeceptis eorum timetur aliquid aduer 
+       <lb ed="#B" n="17"/>sari diuinis institutis, &amp; quod bonum est tenetur per prudentiam serpentum: quam tali disputatione discitur, &amp; per simpli- 
+       <lb ed="#B" n="18"/>citatem columbae obedienter opere impletur. Vnde siquis temerarius obediens dicat in omnibus esse praeceptis superiorum obe 
+       <lb ed="#B" n="19"/>diendum, &amp; nihil interrogandum, sed praelato per omnia credendum, Respondendum est ei, quid cuidam respondet beatus Ber. 
+       <lb ed="#B" n="20"/>in eadem epistola, vbi loquitur de subdito tali &amp; praelato suo, sic inquiens. Caeterum (inquit) nihil habeo interrogare, 
+       <lb ed="#B" n="21"/>ipse viderit. Diccquaso) si dato in manus gladio te armari iussisset in iugulum, acquiesces: quasi dicat, nequamquam. ergo  
+       <lb ed="#B" n="22"/>nec similiter deberes in aliis obedire, quae deprehenderes contraria diuinis institutis, &amp; de illis interrogare, &amp; per dis 
+       <lb ed="#B" n="23"/>putationem veritatem perquirere, quae tieres illis contrariari. 
+      </p>
+      <p xml:id="n3av8a-c1e5720-d1e283">
+       DIco ergo: quod talem disuptationem de potestate sua nul 
+       <lb ed="#B" n="24"/>lus praelatorum refugere debet, sed eam potius appetere, &amp; hoc praecipue, quia siquis eorum ipsam refugit, illud in  
+       <lb ed="#B" n="25"/>quo eam refugit, suspectum de veritate tenet: sicut Mahumeth legen suam suspectam de veritate habuit, &amp; 
+       <lb ed="#B" n="26"/>falsitatem eius per disputationem de illa deprehendi timuit. proptur quod poenali edicto legis de illa disputare pro  
+       <lb ed="#B" n="27"/>hibuit. Non sic Christus legen suam suspectam habuit, quando eam liberae disputationi omnium &amp; credentium, &amp; non cre 
+       <lb ed="#B" n="28"/>dentium illi exposuit. Nec tamen abnuo quin propter aemulos disputatores, &amp; suspectos super aliquibus sub poena dis 
+       <lb ed="#B" n="29"/>putatio prohiberi potuit absque eo quod de veritate illorum apud prohibentem suspitio aliqua sit. quemadmodum Nico 
+       <lb ed="#B" n="30"/>laus papa. iii. phibuit sub poena excommunicationis latae sententiae disputationem: immo omnem exponnem praet gramma 
+       <lb ed="#B" n="31"/>ticalem in expotene regulae fratrum minorum, quam ipse edidit. Nec etiam abnuo, quin vtile esset de potestate praelatorum  
+       <lb ed="#B" n="32"/>non disputare, si non timeretur quod contraria diuinis praeceptis possent praecipere, aut aliter quam veritas se habe- 
+       <lb ed="#B" n="33"/>ret. secundum quod testatur Rabi Moyses de disputatione Iudaeorum contenta in libris qui dicuntur Talmuth super 
+       <lb ed="#B" n="34"/>edictis legis Mosaicae: sic inquiens libro ca. lxx. Liber Talmuth scriptus, non erat receptus in diebus primis 
+       <lb ed="#B" n="35"/>quando vitabant illud, quod postea inciderunti. ist multitudinem scientiarum: &amp; diuersitatem opinionum, &amp; diuisionem 
+       <lb ed="#B" n="36"/>credulitatum, &amp; dubitationes quae incidunt in expositionibus scripturarum. Dimiserunt autem rationem in omnibus rebus 
+       <lb ed="#B" n="37"/>istis cognitioni capostoli, quid vocatur domus magni consilii, sicut exposuimus in aggregatione nia in Talmuth. 
+       <lb ed="#B" n="38"/>Et haec est causa quare illi principatus magni perierunt de gente nira. Cum autem regnum Christianorum dif- 
+       <lb ed="#B" n="39"/>fusum fuit per regna Graecorum, &amp; Chaldaeorum, &amp; sensus philosophorum diffusi fuerunt in gentibus illis, &amp; viderunt quod  
+       <lb ed="#B" n="40"/>credulitates suas destruebant opiniones philosophorum destructione vehementi, coeperunt scribere omnia, quae erant 
+       <lb ed="#B" n="41"/>vtilia credulitati eorum, &amp; responderunt illis opinionibus quae destruxerunt fundamenta legis, &amp; fidei suae. 
+       <lb ed="#B" n="42"/>Quid ergo arguitur in primo argumento: quod disputatio de potestate praelatorum non est licita, quia ipsa est cauam litis et 
+       <lb ed="#B" n="43"/>discordiae: dico quod verum est disputando de potestate praelatorum pria et secunda intentione, et hoc loquando de lite &amp; dis 
+       <lb ed="#B" n="44"/>cordia illicitis. Diminutione enim potestatis praelatorum prouocantur praelati, extendendo autem prouocantur subditi. &amp; hoc intr 
+       <lb ed="#B" n="45"/>sese, &amp; contra sic disputantes, &amp; est disputantes inter se. Disputando autem de potestate praelatorum intia intentione, ad  
+       <lb ed="#B" n="46"/>huc verum est, quod est cauam litis &amp; discordiae in licitis, &amp; debitis ad reducendum. scilicet vtramque personam duarum disputa 
+       <lb ed="#B" n="47"/>tionum de potestate praelatorum ad medium, &amp; ad debitum tempramentum contra volentes potestatem aut nimium diminuere, 
+       <lb ed="#B" n="48"/>aut nimium extendere. contra nullum tamen volentem quod iustum &amp; aequum est tenere, cauam est rationabil litis &amp; discordiae.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

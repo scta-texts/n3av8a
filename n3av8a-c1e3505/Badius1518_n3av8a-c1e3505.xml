@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 31</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 31</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="337-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3505">
+       <head xml:id="n3av8a-c1e3505-Hd1e96">Quaestio 31</head>
+       <p xml:id="n3av8a-c1e3505-d1e99">
+        <lb ed="#B" n="44"/>CIrca quartum arguitur quod dictus confessor debet munire illum cui confessus insidiatur: quia  
+       <lb ed="#B" n="45"/>debet procurare bonum, proximi, &amp; impedire malum eiusdem. hoc facit ex parte vtriusque illum 
+       <lb ed="#B" n="46"/>muniendo vt patet. ergo &amp;c. Contra tunc scandalizaretur confitens: quia vix contingeret 
+       <lb ed="#B" n="47"/>quin ex gestu alterius perciperet quod esset munitus: &amp; hoc non nisi ab ipso confessore. sed ne 
+       <lb ed="#B" n="48"/>scandalum fiat: bonum est omittendum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3505-d1e112">
+       DIcendum ad hoc secundum distinctionem iam pro  
+       <lb ed="#B" n="49"/>positam in dissolutione secundae quaestionis proximo praecedentis: quod si confessor posset habere 
+       <lb ed="#B" n="50"/>alias bonam rationem &amp; occasionem muniendi illum praeter hoc quid dictum est ei in confessione, deberet munire illum 
+       <lb ed="#B" n="51"/>maxime alio sciente huiusmodi rationem siue occasionem: non obstante quod ille ex hoc scandalicatetur: quia tunc perin- 
+       <lb ed="#B" n="52"/>de esset ac si alias &amp; alio modo illam conminationem illi factam sciuisset. &amp; est respectu illius scandalum acceptum non 
+       <lb ed="#B" n="53"/>datum, quod propter veritatem vitae pariclitantem debet permitti fieri. Si vero alias nullam rationem aut occasionem munien 
+       <lb ed="#B" n="54"/>di illum poterit habere: vt ex munitione praesumatur firmiter alium posse scandalizari, &amp; reputare confesso 
+       <!--715.xml-->
+       <pb ed="#B" n="337-v"/>
+        <lb ed="#B" n="1"/>rem confessionis reuelatorem &amp; confessi proditorem: in hoc casu ad scandalum actiuum euitandum dea  
+       <lb ed="#B" n="2"/>bet illum non munire sed deo committere: quia non potest plus facere. 
+      </p>
+      <p xml:id="n3av8a-c1e3505-d1e136">
+       PER haec patent obiecta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

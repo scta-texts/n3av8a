@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 28</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 28</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="175-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3958">
+       <head xml:id="n3av8a-c1e3958-Hd1e96">Quaestio 28</head>
+       <p xml:id="n3av8a-c1e3958-d1e99">
+       <!--822.xml-->
+        <pb ed="#B" n="175-v"/>
+        <lb ed="#B" n="1"/>CIrca secundum arguitur: quod reuelans peccatum confratris ante secretam monitionem s 
+       <lb ed="#B" n="2"/>peccat. quia sicut medicus corporalis peccat subtrahendo medicinam qua facilius 
+       <lb ed="#B" n="3"/>posset curare, sic &amp; spiritualis. sed quilibet iustus circa peccatorem medicus debet 
+       <lb ed="#B" n="4"/>esse spiritualis in corripiendo &amp; denunciando, sed facilius curaret praemittendo se- 
+       <lb ed="#B" n="5"/>cretam admonitionem, quia illa forte curaret sine famae denigratione, quod non facit 
+       <lb ed="#B" n="6"/>illam omittendo. ergo &amp;c. Contra. in foro saeculari proprium est principis punire con 
+       <lb ed="#B" n="7"/>missa baronum: Balliui vero ciuium. balliuus autem non peccat omittendo corre 
+       <lb ed="#B" n="8"/>ctionem ciuis committendo eam principi qui vtilius potest illum corripere. ergo similiter nec peccat 
+       <lb ed="#B" n="9"/>frater omittendo suam correctionem committendo eam praelato per denunciationem: qui salubri 
+       <lb ed="#B" n="10"/>us poterit corripere illum. 
+      </p>
+      <p xml:id="n3av8a-c1e3958-d1e128">
+       DIcendum quod cum secreta admonitio de emendatione peccati sit pars 
+       <lb ed="#B" n="11"/>fraternae correctionis: qua ne procedat peccatum vsque ad scandalizantem infamiam, cor peccato- 
+       <lb ed="#B" n="12"/>ris subito reuocatur, aut per confusionem propositam ex peccati turpitudine, vel per poenam con- 
+       <lb ed="#B" n="13"/>minatam ex peccati enormitate: &amp; inde dicitur correptio quasi cordis raptio: subitanea enim ra- 
+       <lb ed="#B" n="14"/>ptim dicuntur fieri: idcirco subitaneae, &amp; statim cum scimus peccatum proximi, ante omnia &amp; ante 
+       <lb ed="#B" n="15"/>omnem reuelationem secrete debemus eum admonere: quia non potest esse tam modica reuelatio 
+       <lb ed="#B" n="16"/>quin in ea incipit scandalum &amp; suspicio. Propter quod dicit Glossa super illud Matthaei. xviii. Si 
+       <lb ed="#B" n="17"/>peccauerit in te &amp;c. Hoc ordine vitare scandala debemus. &amp; super illud, Corripe inter te &amp; ipsum  
+       <lb ed="#B" n="18"/>Glos. ne publice correptus verecundiam perdat, qua perdita in peccato remaneat. Vbi intelligit 
+       <lb ed="#B" n="19"/>publice corripi quando alteri crimen reuelatur in cuius praesentia corripitur. Aliter enim non es 
+       <lb ed="#B" n="20"/>set expositio illius, Corripe inter te &amp; ipsum. Sed si crebra admonitione secreta correctus non fue- 
+       <lb ed="#B" n="21"/>rit, tunc primo debet aduocatis vno aut duobus testibus coram illis corripi. Sed quis sit mo- 
+       <lb ed="#B" n="22"/>dus in hoc obseruandus quando solus conscius sum peccati: quia de peccato publico ad praesens non 
+       <lb ed="#B" n="23"/>loquimur: de hoc est magna dubitatio an possim peccatum illud alteri reuelare nescienti. Et vide 
+       <lb ed="#B" n="24"/>tur aliquibus quod si post secretam admonitionem non se correxerit, debet vni vel duobus de qui-  
+       <lb ed="#B" n="25"/>bus praesumitur quod possint &amp; debeant prodesse, peccatum illud reuelare, &amp; fama negligi pro par- 
+       <lb ed="#B" n="26"/>te vt conscientia reparetur, &amp; tunc secundo sub testimonio illorum vt prius corripere ne omni- 
+       <lb ed="#B" n="27"/>no fama perdatur: &amp; deinde si non corigatur debet fama omnino negligi, &amp; in publico debet pro 
+       <lb ed="#B" n="28"/>di reuelatione facta ecclesiae. Aliter enim negligeret proximi salutem. dicente <name ref="#Augustine">Augustino</name> in re- 
+       <lb ed="#B" n="29"/>gula. Si petulantiam in aliquo vestrum aduerteritis, statim admonete: ne male concepta progre- 
+       <lb ed="#B" n="30"/>diantur, sed de proximo corrigantur. Sin autem et post admonitionem iterum id ipsum facere 
+       <lb ed="#B" n="31"/>videritis, iam velut vulneratum prodat quicunque hoc potuerit inuenire: prius tamen &amp; alteri vel 
+       <lb ed="#B" n="32"/>tertio demonstret: vt duorum vel trium testium possit ore conuinci &amp; competenti seueritate  
+       <lb ed="#B" n="33"/>coerceri. Nec vos iudicetis esse maliuolos quando hoc indicatis: magis quippe innocentes non estis 
+       <lb ed="#B" n="34"/>si fratres vestros quos indicando corrigere potestis, tacendo perire permittitis. Si enim frater tuus 
+       <lb ed="#B" n="35"/>habet vulnus in corpore quod velit occultari cum timet secari, nonne crudeliter a te simularetur, &amp; 
+       <lb ed="#B" n="36"/>misericorditer indicaretur: Quanto ergo plus debemus monstrare, ne deterius putrescat in cor- 
+       <lb ed="#B" n="37"/>de: Sed dictum illorum non videtur posse stare, quia sic reuelans non tam esset criminis corre- 
+       <lb ed="#B" n="38"/>ctor quam proditor. dicente <name ref="#Augustine">Augustino</name> libro de verbis domini sermo. xv. &amp; habetur id ii. quaestione pri 
+       <lb ed="#B" n="39"/>ma. Si peccauerit frater tuus in te, corripe eum inter te &amp; illum solum, quare: quia in te peccauit 
+       <lb ed="#B" n="40"/>quid est in te peccare: tu scis quia peccauit. Quia enim secretum fuit quando peccauit in te, secre 
+       <lb ed="#B" n="41"/>tum sit cum corrigis quod peccauit. &amp; infra. Si tu solus nosti, tunc vere in te peccauit, nam si 
+       <lb ed="#B" n="42"/>multis audientibus tibi fecit iniuriam, &amp; in illos praeeccauit quos testes suae iniquitatis effecit. &amp; in  
+       <lb ed="#B" n="43"/>fra. Ergo ipsa corripienda sunt coram omnibus quae peccantur coram omnibus. lpsa corripienda sunt 
+       <lb ed="#B" n="44"/>secrete quae peccantur secretius. Distingue tempora: &amp; concordabunt scripturae. Vnde si te non au- 
+       <lb ed="#B" n="45"/>dierit: &amp; sic sit secretum vt nullus alius sciat, non debeo vltra procedere, sed expectare quousque  
+       <lb ed="#B" n="46"/>inuenti fuerint alii qui sciant quod ego scio, quemadmodum proposuit facere loseph. dicente Augu 
+       <lb ed="#B" n="47"/>stino ibidem. lustus loseph tanto flagitio quod de vxore fuerat suspicatus, tanta benignitate peper- 
+       <lb ed="#B" n="48"/>cit &amp;c. de quo dicit <name ref="#Ambrose">Ambrosius</name> super illud psal. Defectio tenuit me. Denique loseph cui desponsa- 
+       <lb ed="#B" n="49"/>ta erat Maria mater domini, cum eam grauem vtero vidisset, noluit eam traducere. ita vt non  
+       <lb ed="#B" n="50"/>solum ab vltionis atrocitate, sed etiam ab accusationis seueritate iusti aliena persona est, potiusque  
+       <lb ed="#B" n="51"/>ducit suam remissionem accusari quod non indicauerit, quam alienum crimen vrgere: forte expectans quous  
+       <lb ed="#B" n="52"/>quod notum esset aliis quod ipse nouit. quod tunc primo cum alii sciunt vel factum vel famam quae nos scimus, prae 
+       <lb ed="#B" n="53"/>missa secreta admonitione eos vocare debemus. Ita etiam quod si illi aeque primo scirent quod ego scio 
+       <lb ed="#B" n="54"/>vt ego, secreto prius deberem admonere, etiam si ille qui scit sit ipse praelatus. dicente <name ref="#Augustine">Augustino</name>  
+       <!--823.xml-->
+       <pb ed="#B" n="391-v"/>
+        <lb ed="#B" n="1"/>ibidem. Nescio quendam homicidam nouit episcopus, &amp; nemo alius eum nouit. ego autem nolo eum publice 
+       <lb ed="#B" n="2"/>corripere: &amp; tu quaeris inscribere: non prodo, nec tamen negligo, corripio in secreto, pono ante oculos 
+       <lb ed="#B" n="3"/>eius dei iudicium, terreo cruentam conscientiam, persuadeo poenitentiam: hac charitate praediti esse de 
+       <lb ed="#B" n="4"/>bemus. Vnde aliquando homines reprehendunt nos quasinon reprehendamus, aut putant nos sci- 
+       <lb ed="#B" n="5"/>re quod nescimus, aut putant nos tacere quid scimus forte, sed scis &amp; ego scio, non coram te corripio, quia  
+       <lb ed="#B" n="6"/>curare volo, non accusare. &amp; infra. Nos ergo non prodimus, sed in secreto arguimus. Vbi contingit malum  
+       <lb ed="#B" n="7"/>ibi moriatur. Nec tamen vulnus illud negligimus: ante omnia ostendentes homini in tali peccato con 
+       <lb ed="#B" n="8"/>stituto sauciamque gerenti conscientiam illud vulnus esse mortiferum. vbi dicit Glos. Ioannis. intelligit de ta 
+       <lb ed="#B" n="9"/>li occulto quod scitur a multis, &amp; potest ab aliquibus probari: &amp; vocantur testes vt probetur admonitio 
+       <lb ed="#B" n="10"/>facta: &amp; est argumentum ad hanc solutionem extra de iudiciis. Nouit. Vnde quia quid dicit <name ref="#Augustine">Augustinus</name>  
+       <lb ed="#B" n="11"/>Nouit epsus, &amp; nemo alius nouit, videtur contrarium illi quid sequitur, Scis &amp; ego scio, dicit Glos. Hic non 
+       <lb ed="#B" n="12"/>excludit paucos, sed multitudinem, sicut in Thren. Quomodo sedet sola ciuitas. &amp; hoc innuit <name ref="#Augustine">Augustinus</name> vbi di  
+       <lb ed="#B" n="13"/>cit: sed scis &amp; ego scio. Vnde cum subdit <name ref="#Augustine">Augustinus</name> Non ergo prodimus, sed in secreto corripimus. satis explicat 
+       <lb ed="#B" n="14"/>quod si ante secretam monitionem aliquem aduocarem etiam ex illis quos scirem scire quid scio, proditio esset, sed  
+       <lb ed="#B" n="15"/>postquam illum secreto admonuero, &amp; sciuero alium, vel alios scire quid scio siue factum sit, siue fama: tunc si ego  
+       <lb ed="#B" n="16"/>scio factum, &amp; sciuero quod alii similiter sciunt, debeo illos aduocare &amp; arguere super facto coram illis. 
+       <lb ed="#B" n="17"/>Si vero illi sciuerint famam tantum, tunc licet ego sciam factum cum fama, debeo super fama tantum coram il 
+       <lb ed="#B" n="18"/>lis corripere, &amp; de facto silere, licet inter me &amp; ipsum de vtroque ipsum reprehendi. Sed si praelatus sit 
+       <lb ed="#B" n="19"/>vnus eorum qui nouit quod scio, tunc ipse debet primo vocari, &amp; coram ipso corripi. Et sic intelligitur 
+       <lb ed="#B" n="20"/>quod dicit <name ref="#Augustine">Augustinus</name> in regula. Antequam aliis demonstretur per quos conuincendus est si negauerit, 
+       <lb ed="#B" n="21"/>prius praeposito debet ostendi. Si autem negauerit, tunc adhibendi sunt alii, vt iam coram omni 
+       <lb ed="#B" n="22"/>bus possit non ab vno teste argui, sed a duobus vel tribus conuinci. Conuictus vero secundum 
+       <lb ed="#B" n="23"/>praepositi, vel etiam presbyteri arbitrium ad cuius dispensationem pertinet, debet notoriam sub- 
+       <lb ed="#B" n="24"/>ire vindictam: quam si ferre recusauerit etiam si ipse non accesserit de vestra societate proiiciatur 
+       <lb ed="#B" n="25"/>Quod intelligit euangelium quando dicit. Sit tibi sicut ethnicus, quia vt dicit de verbis domini, ser- 
+       <lb ed="#B" n="26"/>mo. xv. gentiles &amp; paganos in numero fratrum non deputamus. Quid ergo dicunt quod post secretam admonitio 
+       <lb ed="#B" n="27"/>nem fama negligenda est, &amp; reuelandum illis qui possunt prodesse, non arbitror esse verum. nec tamen 
+       <lb ed="#B" n="28"/>non reuelans in hoc negligit, quia facit quantum facere debet, vt iam dictum est secundum Augustinu. Et si 
+       <lb ed="#B" n="29"/>forte super hoc eum conscientia vrget, potius secundum dicta exemplo loseph ducere debet suam remissio- 
+       <lb ed="#B" n="30"/>nem accusari, quod non reuelauerit, quam alienum crimen occultum reuelare. Et quod arguunt per <name ref="#Augustine">Augustinus</name> in regu 
+       <lb ed="#B" n="31"/>la: Dicendum quod loquitur quando alii nouerunt quod corripiens nouit, quod clare probatur ex hoc quid dicit 
+       <lb ed="#B" n="32"/>Alteri vel tertio demonstret, vt duorum vel trium testium possit ore conuinci &amp; competenti seueritate co 
+       <lb ed="#B" n="33"/>erceri. Vnde sequitur post praeposita. Si autem negauerit &amp;c. vt iam supra. Loquitur ergo de talibus 
+       <lb ed="#B" n="34"/>qui possunt esse testes coram iudice ad condemnandum &amp; puniendum super eo de quo corripitur. Testes 
+       <lb ed="#B" n="35"/>autem non possunt esse de alio quam quid corripiens eis reuelauit: &amp; ita non nisi de auditu vnius. Propter 
+       <lb ed="#B" n="36"/>tale autem testimonium nullus debet condemnari: immo ipse correptus posset habere actionem contra corri 
+       <lb ed="#B" n="37"/>pientem quod ipsum diffamauerit. Vnde testes in fraterna correptione non solum debent esse tales quod  
+       <lb ed="#B" n="38"/>per ipsos potest probari admonitio pro corripiente primo: &amp; deinde denunciante ne possit excipi contra ipsum  
+       <lb ed="#B" n="39"/>quod denunciaret non obseruato ordie euangelico: sed quod per eosdem posset probari &amp; fama &amp; factum coram iudi- 
+       <lb ed="#B" n="40"/>ce ad eius punitionem. Aliter enim vana esset &amp; inutilis eorum vocatio, &amp; esset infamia sine fructu. 
+       <lb ed="#B" n="41"/>Quando ergo peccatum sic est secretum quod non scit ipsum nisi vnus, siue sit ille praelatus, siue 
+       <lb ed="#B" n="42"/>subditus, vltra secretam admonitionem per se solum non debet procedere quousque cognouerit 
+       <lb ed="#B" n="43"/>alios scire quid scit. Licet enim vt aliquibus videtur, praelato nescienti debet reuelari quod vnus sub  
+       <lb ed="#B" n="44"/>ditus solus nouit, quia magis proficit admonitio praelati quam subditi, quia tamen magis timendum est 
+       <lb ed="#B" n="45"/>de eius deterioratione, si propter verecundiam maiorem, aut propter maiorem timorem poenae 
+       <lb ed="#B" n="46"/>incipiat se excusare praelato corripiente secreto post secretam monitionem subditi praecedentem 
+       <lb ed="#B" n="47"/>quam cum subdito solo corripiente: idcirco sicut non alii, sic nec praelato peccatum vni soli cognitum 
+       <lb ed="#B" n="48"/>debet reuelari. Propter quod <name ref="#Augustine">Augustinus</name> de verbis domini sermo. xv. exponens illud. Corripe ip- 
+       <lb ed="#B" n="49"/>sum inter te &amp; ipsum: dicit. Studens correctioni parcens pudori. Forte enim prae verecundia 
+       <lb ed="#B" n="50"/>incipit defendere suum peccatum: &amp; quem vis facere meliorem forte facis peiorem. Quandocumque enim 
+       <lb ed="#B" n="51"/>probabiliter timetur quod correptus ex correptione deterior debeat fieri, debet omitti etiam secreta ad  
+       <lb ed="#B" n="52"/>monitio eius qui singulariter nouit delictum: &amp; sic non habens testes post secretam admonitio- 
+       <lb ed="#B" n="53"/>nem nuilum debet peccatum reuelare, nec verbo nec signo alios adducere, vt peccatum etiam si 
+       <lb ed="#B" n="54"/>mile in specie circa peccatorem possint comprehendere, licet bono modo illos qui prodesse volunt 
+       <!--824.xml-->
+       <pb ed="#B" n="392-r"/>
+        <lb ed="#B" n="1"/>ad diligentiam adhibendum circa custodiam correpti possit inducere, per quam forte poterunt 
+       <lb ed="#B" n="2"/>ipsum in suo peccato comprehendere. Ad quod tamen probandum non essent testes idonei nisi plu 
+       <lb ed="#B" n="3"/>res simul comprehenderent in eodem facto secundum numerum. Nec licet ad cognoscenda peccata 
+       <lb ed="#B" n="4"/>aliena explorare. dicente <name ref="#Augustine">Augustino</name> in sermone praedicto. Admonet nos dominus noster non negli 
+       <lb ed="#B" n="5"/>gere inuicem peccata nostra, non quaerendo quod reprehendas, sed videndo quid corrigas. Vnde post 
+       <lb ed="#B" n="6"/>secretam monitionem si testes desunt qui sciunt peccatum, negotium vlterius deo debet committi 
+       <lb ed="#B" n="7"/>cui de occultis committenda sunt iudicia. &amp; hoc maxime inquantum de peccato occulto quaeritur cor 
+       <lb ed="#B" n="8"/>rectio proximi prout vergit in nocumentum ipsius personale. De peccatis autem quibusdam oc- 
+       <lb ed="#B" n="9"/>cultis quae etiam vergunt in detrimentum proximi &amp; reipublicae, dicunt aliqui: quod si delinquens non 
+       <lb ed="#B" n="10"/>corrigatur ex secreta correptione, tunc debet tale peccatum praelato denunciando reuelare: &amp; hoc 
+       <lb ed="#B" n="11"/>quaerendo de peccato illo correctionem delinquentis prout vergit in nocumentum publicum. Sed  
+       <lb ed="#B" n="12"/>licet istud licitum esset, quia tamen in hac denunciatione non quaeritur principaliter bonum delinquem 
+       <lb ed="#B" n="13"/>tis, sed publicum:, ipsa non pertinet ad praeceptum de fraterna correptione, in qua principaliter quaeritur 
+       <lb ed="#B" n="14"/>bonum delinquentis. Vnde &amp; fraterna correptio pertinet ad virtutem charitatis, &amp; est de effectibus 
+       <lb ed="#B" n="15"/>eius: illa autem denunciatio &amp; correctio intenta per ipsam pertinet ad virtutem iustitiae, non priua 
+       <lb ed="#B" n="16"/>tae sed publicae, &amp; est de operibus eius. Illud autem exemplum quod <name ref="#Augustine">Augustinus</name> inducit in regula de vul- 
+       <lb ed="#B" n="17"/>nere corporali. Si autem frater tuus habet vulnus &amp;c. Dicendum quod <name ref="#Augustine">Augustinus</name> sicut patet inspicienti li 
+       <lb ed="#B" n="18"/>teram secundum iam exposita, loquitur ibi de silentibus &amp; non vocantibus testes, cum eos habe- 
+       <lb ed="#B" n="19"/>re possunt ad arguendum coram illis, vt si non emendetur correptus dicatur praelato tanquam medico spi 
+       <lb ed="#B" n="20"/>rituali. Quo ad hoc siquidem bene simile est quod iste crudeliter sileret in proposito, sicut crudeliter si 
+       <lb ed="#B" n="21"/>leret vulnus fratris quod vellet occultare in corpore. &amp; secundum hoc processit primum obiectum prin 
+       <lb ed="#B" n="22"/>cipale ad quaestionem adductam. Nec est simile quo ad hoc: quod sicut vulnus corporale quid vulneratus vult 
+       <lb ed="#B" n="23"/>celare omnino debet reuelare corporali medico ignoranti, licet illud solus sciat: sic vulnus spirituale quid  
+       <lb ed="#B" n="24"/>vulneratus vult celare medico spirituali, vt praelato ignoranti reuelare, licet illud solus sciat. quo-  
+       <lb ed="#B" n="25"/>niam vulnus corporale non infamat, sicut facit vulnus spirituale: &amp; propter solam famam custo- 
+       <lb ed="#B" n="26"/>diendam quod quis solus nouit nulli debet reuelari, quia quid est secretum quando solus nouit, postquam al  
+       <lb ed="#B" n="27"/>teri reuelasset iam secretum non esset, &amp; infamia inciperet. 
+      </p>
+      <p xml:id="n3av8a-c1e3958-d1e451">
+       AD secundum argumentum princi- 
+       <lb ed="#B" n="28"/>paliter inductum ad argumentum: quod Balliuus potest corripiendum a se non correptum praesentare 
+       <lb ed="#B" n="29"/>regi vt ab ipso corripiatur: ergo &amp; subditus corripiendum a se non correptum potest praesentare prae 
+       <lb ed="#B" n="30"/>lato vt ab illo corripiatur: &amp; sic reuelare factum illius absque monitione secreta praecedente: Dicendum 
+       <lb ed="#B" n="31"/>quod non est simile, quia Balliuus neminem potest aut debet corripere nisi confessum, aut conuictum per te- 
+       <lb ed="#B" n="32"/>stes in publico iudicio, vel cuius factum omnino est notorium. &amp; sic sua denunciatio qua praesentat 
+       <lb ed="#B" n="33"/>eum regi puniendum non infamat, sicut faceret denunciatio facta praelato. propter quid vt dictum est ista nul 
+       <lb ed="#B" n="34"/>lo modo est licita sicut illa. Est igitur ex eo quid dictum est iam secundum Aug. Vbi contingit malum ibi mo- 
+       <lb ed="#B" n="35"/>riatur: Sciendum quod malum aliquando contingit in secreto coram vnico solo. Aliquando contingit publice 
+       <lb ed="#B" n="36"/>coram populo. Aliquando contingit medio modo coram duobus, vel tribus, aut aliquantulum pluribus 
+       <lb ed="#B" n="37"/>paucis tamen. Et secundum hoc quod sit in secreto coram vnico, in secreto vnico corripiente solo si fieri 
+       <lb ed="#B" n="38"/>potest moriatur. Quod vero sit coram omni populo publice, publica correptione facta coram omnibus mo 
+       <lb ed="#B" n="39"/>riatur. Quod vero contingit coram duobus, aut tribus, aut pluribus, paucis tamen: si non mortuum 
+       <lb ed="#B" n="40"/>fuerit vno solo corripiente secreto, moriatur vno corripiente coram vno, aut duobus, aut tribus, 
+       <lb ed="#B" n="41"/>nunquam tamen coram illo qui non prius id aliunde quam a corripiente sciat.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

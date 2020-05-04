@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="265-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2854">
+       <head xml:id="n3av8a-c1e2854-Hd1e96">Quaestio 12</head>
+       <p xml:id="n3av8a-c1e2854-d1e99">
+        <lb ed="#B" n="6"/>AD quartam quaestionem de transitu numeri. xxx. &amp;. lx. a dextra in sinistram: quae  
+       <lb ed="#B" n="7"/>similiter sine argumentis proponebatur: Dico prout puto eam propositam fuisse oc 
+       <lb ed="#B" n="8"/>casione cuiusdam consimilis quaestionis determinatae in nostro primo Quolibet 
+       <lb ed="#B" n="9"/>qui. scilicet intendunt Hieronymus &amp; Beda, cum dicunt de numero centenario quod trans- 
+       <lb ed="#B" n="10"/>fertur a laeua in dextram. Hoc vltimum reuera dicunt ambo. sed hoc quaesitum non re 
+       <lb ed="#B" n="11"/>cordor me scriptum vidisse ab aliquo expositorum sacrae scripturae. Supponendo tamen 
+       <lb ed="#B" n="12"/>quod ita sit: Sciendum quod numeros transire a laeua in dextram vel econuerso, non est 
+       <lb ed="#B" n="13"/>dictum propter aliquam naturam ipsorum numerorum vel naturalem conuenientiam ipsorum ad dextram 
+       <lb ed="#B" n="14"/>vel ad sinistram. Discurrendo enim in formando numeros super articulos digitorum secundum modos 
+       <lb ed="#B" n="15"/>quos expositores licet occulte insinuant: non est maior ratio quare incipiatur in vna manu quam in alia 
+       <lb ed="#B" n="16"/>aut super vnum articulum vnius digiti: quam super alium eiusdem vel alterius digiti: sed totum hoc dictum 
+       <lb ed="#B" n="17"/>est &amp; inuentum a sanctis propter mysterium differentis praemii expressi per numeros coniugatorum  
+       <lb ed="#B" n="18"/>viduarum &amp; virginum: vt dictum est in praecedenti quaestione. Vnde de tali computatione non loquuntur 
+       <lb ed="#B" n="19"/>glossae acceptae a Hiero. &amp; Beda, nisi vbi est sermo de fructibus. xxx. scilicet. lx. &amp;. c. vel aliquo istorum: vt 
+       <lb ed="#B" n="20"/>Matth. xiii. super illud. Alia vero ceciderunt in terram bonam &amp; dederunt fructum: aliud centesi- 
+       <lb ed="#B" n="21"/>mum: aliud. lx. aliud. xxx. &amp;c. &amp; Marci. iiii. super illud. Et afferebat fructum vnum. xxx. glos. interli- 
+       <lb ed="#B" n="22"/>nea. in coniugatis. &amp; vnum. lx. glos. in viduis. &amp; vnum centesimum glos. in virginibus. &amp; Matth. x. su- 
+       <lb ed="#B" n="23"/>per illud. Qui non accipiat centum tantum. Est etiam notandum: quod licet sancti loquantur, de illo modo con 
+       <lb ed="#B" n="24"/>putandi: quis tamen &amp; qualis sit non plane exprimunt. propter quod diuersimo de assignatur a diuersis, 
+       <lb ed="#B" n="25"/>nec est aliquis modorum assignandi contra quem non contingit opponere in aliquo de quo ponen 
+       <lb ed="#B" n="26"/>tes illum plenam rationem reddere non possunt. de quibus vnum in praedicto Quolibet transito- 
+       <lb ed="#B" n="27"/>rie tetigimus non multum curantes de quaestione tanquam pene inutili: nisi propter intellectum aliqua-  
+       <lb ed="#B" n="28"/>rum glossarum. Sed ne aliquid circa illam de contingentibus omittamus: nunc ad declarationem 
+       <lb ed="#B" n="29"/>huius quaestionis &amp; dictorum in illa quaestione, totam materiam vtriusque diffusius prosequa-  
+       <lb ed="#B" n="30"/>mur. 
+      </p>
+      <p xml:id="n3av8a-c1e2854-d1e156">
+       EST igitur sciendum quod dicta computatio secundum plures habet fieri in duabus manibus 
+       <lb ed="#B" n="31"/>&amp; hoc secundum quosdam incipiendo in manu sinistra per hunc modum: vt videlicet summitas indi  
+       <lb ed="#B" n="32"/>cis tangens primam iuncturam pollicis sinistrae manus significet vnum. tangens vero secundam signifi 
+       <lb ed="#B" n="33"/>cet duo. pollicis vero extremitas tangens primam iuncturam indicis in extremitate palmae, signifi 
+       <lb ed="#B" n="34"/>cet tria. tangens vero consimiliter primam iuncturam digiti medii significet quatuor. tangens si- 
+       <lb ed="#B" n="35"/>militer primam iuncturam digiti medici significet quinque: &amp; similiter primam auricularis signifi- 
+       <lb ed="#B" n="36"/>cet sex. &amp; secundam eiusdem, significet septem. &amp; tertiam, significet octo. &amp; extremitatem eiusdem 
+       <lb ed="#B" n="37"/>significet nouem. &amp; deinde extremitatem medici, significet decem. Vlterius autem tangendo extremi- 
+       <lb ed="#B" n="38"/>tatem medii &amp; indicis &amp;c. procedit compotus per articulares numeros acceptos per ordinem: qui sunt 
+       <lb ed="#B" n="39"/>xx. xxx. xl. &amp; sic deinceps vsque ad centum: ita quod in summitate digiti medii significantur. xx. in summi- 
+       <lb ed="#B" n="40"/>tate indicis. xxx. &amp; sic procedendo vlterius, sicut procedunt pueri solphicantes, formantur in extre 
+       <lb ed="#B" n="41"/>ma iunctura medii. xc. &amp; sic vt dicunt completur compotus in manu sinistra, &amp; a sinistra manu pro- 
+       <lb ed="#B" n="42"/>ceditur in dextram: &amp; in prima iunctura pollicis manus dextrae formantur centum: &amp; si vlterius quis 
+       <lb ed="#B" n="43"/>velit procedere, in secunda iunctura pollicis formantur. cc. &amp; sic procedendo in dextra per centenarios si 
+       <lb ed="#B" n="44"/>cut processum est in sinistra, formantur in vltima iunctura medii nongenta. &amp; tunc procedendo a dextra in  
+       <lb ed="#B" n="45"/>sinistram: in fsinistra formatur millenarius, vbi prius formabatur vnitas. Et patet quod in isto modo discurrendi 
+       <lb ed="#B" n="46"/>nihil formatur super extremitatem pollicis: sed super iuncturas eius tantum: cum tamen in omnibus aliis digitis formantur nu 
+       <lb ed="#B" n="47"/>meri tam super extremitates quam super iuncturas: cuius rationem assignet qui poterit. 
+      </p>
+      <p xml:id="n3av8a-c1e2854-d1e195">
+       SEcundus modus secun- 
+       <lb ed="#B" n="48"/>dum alios assignatur penes diuersas complicationes &amp; erectiones situsque atque contactus digitorum sic. 
+       <lb ed="#B" n="49"/>Auricularius manus sinistrae reflexus &amp; tangens medium palmae, signat vnum. cui medicus simili forma con 
+       <lb ed="#B" n="50"/>iunctus signat duo: et medius simili forma adiunctus eisdem: signat tria, auricularis autem deinde sursum ere 
+       <lb ed="#B" n="51"/>ctus signat quatuor. et simili modo erectus medicus signat quinque. deinde medius pari forma eleua 
+       <lb ed="#B" n="52"/>tus medico vt prius reflexo signat sex. Auricularis autem super palmam in directum protensus 
+       <lb ed="#B" n="53"/>signat septem. Medicus octo. Medius nouem. Summitas indicis tangens primam iuncturam 
+       <lb ed="#B" n="54"/>pollicis signat decem. Summitas autem pollicis impressa inter indicem &amp; medium sibi copulatos 
+       <!--571.xml-->
+       <pb ed="#B" n="265-v"/>
+        <lb ed="#B" n="1"/>signat. xx. Summitas autem indicis iuncta summitati pollicis signat. xxx. Index &amp; pollex in longum 
+       <lb ed="#B" n="2"/>protensi &amp; lateraliter iuncti signant. xl. Pollicis autem articulus superior curuatus super primam iunctu 
+       <lb ed="#B" n="3"/>ram indicis signat. l. Index vero circuncingens partem pollicis sic curuatam signat. lx. Pollex vero 
+       <lb ed="#B" n="4"/>erectus sub indice circunflexo vt prius, vngue tamen eius transeunte medium articulum indicis 
+       <lb ed="#B" n="5"/>signat. lxx. Pollex similiter erectus infigens vnguem in medium articulum indicis similiter circun- 
+       <lb ed="#B" n="6"/>flexi signat. lxxx. Summitas indicis inflexa secundae iuncturae pollicis signat. xc. Deinde fiat transitus 
+       <lb ed="#B" n="7"/>de sinistra manu ad dextram: &amp; ibi signetur centum vbi in finistra manu signabatur. x. secundum 
+       <lb ed="#B" n="8"/>Hieronice &amp; Abacum: licet secundum Algoristas vbi prius signabatur vnitas: qui sic comparant cen- 
+       <lb ed="#B" n="9"/>tum ad mille, sicut vnum ad decem. Et procedetur vlterius per eadem signa in dextera manu sicut 
+       <lb ed="#B" n="10"/>in sinistra: ita quod mille signetur in dextera vbi vnitas signabatur in finistra. Et sic in duabus palmis pro 
+       <lb ed="#B" n="11"/>ceditur vsque ad decem milia exclusiue tantum secundum Abacum: licet secundum Algoristas vlterius su 
+       <lb ed="#B" n="12"/>per brachia procedat scilicet vsque ad centum milia. Reuera iste modus signandi minus videtur conueniens quam praec 
+       <lb ed="#B" n="13"/>dens. Qua ratione, n. tres digiti, auricularius, medicus, &amp; medius circunflexi in medium palmae, &amp; erecti iterum, &amp; 
+       <lb ed="#B" n="14"/>iterum protensi super palmam in directum, quilibet illorum signat tres numeros: simili modo index &amp; pollex situati sin 
+       <lb ed="#B" n="15"/>guli signare possunt similiter tres: quod non ponit modus iste. Item sicut contactus pollicis cum indice &amp; me- 
+       <lb ed="#B" n="16"/>dio diuersos designat numeros: similiter &amp; contactus similes pollicis cum medico &amp; auriculario 
+       <lb ed="#B" n="17"/>aliquos numeros signare possent, quid tamen non ponit iste modus. Item pluribus aliis modis situs &amp; con 
+       <lb ed="#B" n="18"/>tactus digitorum possent diuersos numeros signare eadem ratione qua praedicti. nulla est ergo ne- 
+       <lb ed="#B" n="19"/>cessitas vt videtur, in istis modis signandi. 
+      </p>
+      <p xml:id="n3av8a-c1e2854-d1e258">
+       PROpter quod dixit quidam, dictum modum per complica 
+       <lb ed="#B" n="20"/>tionem digitorum esse figmentum &amp; falsam imaginationem: &amp; quod retenta imaginatione quod vnus nu  
+       <lb ed="#B" n="21"/>merorum de quibus est quaestio, transeat a finistra manu in dextram, &amp; alii duo a dextra in sinistran 
+       <lb ed="#B" n="22"/>impossibile est non errare in expositione dictorum verborum. Propter quod ponit quod ista computa- 
+       <lb ed="#B" n="23"/>tio debet intelligi in vna manu tantum: dicendo quod in pollice nullius numeri fiat signatio: quia ipse est 
+       <lb ed="#B" n="24"/>numerator: sed quod solum sit numeratio in quatuor digitis: inter quos, numerantenem scilicet &amp; numeratos 
+       <lb ed="#B" n="25"/>medius est maximus habens indicem a dextris versus pollicem, &amp; medium atque auricularium a si 
+       <lb ed="#B" n="26"/>nistris. In quolibet autem istorum quatuor digitorum est assignare quatuor puncta, tria in iunctu- 
+       <lb ed="#B" n="27"/>ris: &amp; vnum in summitate cuiuslibet. Quo posito quasi formando numeros omnes in manu dextra: di-  
+       <lb ed="#B" n="28"/>cit quod in infima iunctura indicis incipies numerare: &amp; ibi signabis vnum: &amp; in secunda duo: &amp; in  
+       <lb ed="#B" n="29"/>tertia tria: &amp; in summitate eiusdem quatuor: &amp; in summitate medii quinque, &amp; in proxima iunctu- 
+       <lb ed="#B" n="30"/>ra eiusdem. vi. &amp; in sequenti. vii. &amp; in infima. viii. &amp; deinde in insima iunctura medici. ix. &amp; in sequen- 
+       <lb ed="#B" n="31"/>te. x. in tertia. xi. in summitate vero eiusdem. xii. Deinde in summitate auricularis. xiii. &amp; in proxima 
+       <lb ed="#B" n="32"/>iunctura eius. xiiii. &amp; in secunda. xv. in tertia vero. xvi. Deinde iterato incipies ab insima iunctura 
+       <lb ed="#B" n="33"/>indicis, &amp; ibi signabis. xvi. &amp; sic deinceps vt prius vsque ad proximam iuncturam summitati auricula 
+       <lb ed="#B" n="34"/>ris: vbi inuenies signari. xxx. in laeua. scilicet parte respectu medii: cum tamen numeratio incepit in dexte- 
+       <lb ed="#B" n="35"/>ra parte. Et tunc procedendo vlterius simili modo vt prius, assignabis in iunctura secunda auricu 
+       <lb ed="#B" n="36"/>larii. xxxi. &amp; in tertia. xxxii. Et adhuc tertio incipies ab insima iunctura indicis: &amp; ibi signabis. xxxiii. 
+       <lb ed="#B" n="37"/>&amp; consimiliter vlterius procedes vt prius, &amp; inuenies. lx. signari in summitate medici: &amp; ita in par- 
+       <lb ed="#B" n="38"/>te sinistra. Deinde vlterius procedes &amp; signabis in summitate auricularis. lxi. &amp; in proxima iunctura 
+       <lb ed="#B" n="39"/>lxii. &amp; in secunda. lxiii. &amp; in tertia. lxiiii. Et iterum incipies quarto ab indice vt prius: &amp; signabis ibi. lx. &amp; pr  
+       <lb ed="#B" n="40"/>cedes signando &amp; numerando vt prius, &amp; inuenies in infima iunctura auricularis signarilxxx. De 
+       <lb ed="#B" n="41"/>inde quinto incipies ab indice vt prius: &amp; signabis ibi. lxxxi. &amp; procedendo vt prius inuenies signari in insima 
+       <lb ed="#B" n="42"/>iunctura auricularis. xcvi. Dein sexto incipies ab indice: &amp; signabis in infima iunctura eius xcviii. in secunda  
+       <lb ed="#B" n="43"/>xcviii. in tertia. xcix. in summitate vero indicis centum. &amp; sic terminatur compotus in dextera parte in eodem di  
+       <lb ed="#B" n="44"/>gito a quo incepit, faciens circulum: propter quod signat virginum coronam. Quia vero. lx. signatur in summi 
+       <lb ed="#B" n="45"/>tate medici, qui breuior est medio &amp; altior auriculari: ideo per illum numerum signatur praemi- 
+       <lb ed="#B" n="46"/>um viduarum: quod est minus praemio virginum, &amp; maius praemio coniugatorum. Tricesimus vero 
+       <lb ed="#B" n="47"/>signatur in prima iunctura sub summitate auricularis, &amp; tenet rationem vxoris, &amp; medicus ra- 
+       <lb ed="#B" n="48"/>tionem mariti: propter quod ille numerus competit coniugatis. Quia ista opinio dicit in eadem manu debere acci  
+       <lb ed="#B" n="49"/>pi dexteram &amp; laeuam, &amp; quod dextera &amp; laeua non signant manus diuersas: sed situs in eadem ma-  
+       <lb ed="#B" n="50"/>nu diuersorum digitorum respectu vnius medii inter illos: &amp; quod retenta imaginatione de dextera 
+       <lb ed="#B" n="51"/>&amp; laeua accipienda in diuersis manibus, impossibile est non errare in dictorum verborum expositio 
+       <lb ed="#B" n="52"/>ne: non est verum vsquequamque. Quin enim in eadem manu illa accipi possunt: &amp; secundum hoc vt signa 
+       <lb ed="#B" n="53"/>tum est dicta verba exponi, non abnuo. nec tamen ex hoc potest concludi quod exponi non possunt accipiendo  
+       <lb ed="#B" n="54"/>dextram &amp; sinistram in diuersis manibus: &amp; hoc diuersimode secundum duos modos iam expositos: &amp; secundum illum 
+       <!--572.xml-->
+       <pb ed="#B" n="266-r"/>
+        <lb ed="#B" n="1"/>tertium modum quem in dicto Quolibet quaestione. xxxvi. exposui. Si enim secundum Gregorium, &amp; Augusti 
+       <lb ed="#B" n="2"/>num, &amp; alios sacros expositores, omnis expositio doctorum sacri canonis recipienda est, dum tamen 
+       <lb ed="#B" n="3"/>consona sit fidei &amp; moribus: multo fortius &amp; quaelibet expositio circa verba expositorum, maxime 
+       <lb ed="#B" n="4"/>quando sunt obscura, nec ipsi plane suam intentionem explicant, recipienda est: non autem tanquam mendax &amp; erro- 
+       <lb ed="#B" n="5"/>nea repellenda. Illa tamen magis est amplectenda quae dictis illorum magis concordat. Vnde quod in vna manu  
+       <lb ed="#B" n="6"/>accipienda sunt dextera &amp; laeva: &amp; non in diuersis: hoc plane est contra Hieronymum: qui libro primo con 
+       <lb ed="#B" n="7"/>tra louinianum quem aliqui apologicon vocant, parum post principium dicit sic. Centenarius numerus, diligen 
+       <lb ed="#B" n="8"/>ter quaeso lector attende, de finistra transfertur ad dexteram, &amp; eisdem quidem digitis: sed non eadem manu  
+       <lb ed="#B" n="9"/>quibus in laeua nuptae significantur, &amp; viduae, circulum faciens exprimit virginitatis coronam. Vbi aliqui forte 
+       <lb ed="#B" n="10"/>viderunt falsam literam &amp; affirmatiuam talem: sed in eadem manu: vt tunc sequatur negatio, non qui  
+       <lb ed="#B" n="11"/>bus in laeua &amp;c. Et habet falsitatem ista litera &amp; quo ad patrem affirmatiuam, &amp; quo ad partem negatiuam, quid  
+       <lb ed="#B" n="12"/>patet de illa negatione, non quibus &amp;c. per Bedam in fine magnae glossae marginalis, super illud Marc. iiii. 
+       <lb ed="#B" n="13"/>Nemo est qui relinquit domum aut fratres &amp;c. qui non accipiat centies tantum. In fine enm affirmat identita 
+       <lb ed="#B" n="14"/>tem digitorum dicens sic. Centenarius a laeua translatus in dextram, licet eandem in flexu digitorum vi 
+       <lb ed="#B" n="15"/>detur tenere figuram quam denarius in laeua: tamen quantitatis magnae superuadit. Ecce quod dicit, videtur te 
+       <lb ed="#B" n="16"/>nere eandem figuram in flexu digitorum. &amp; si hoc, ergo &amp; eisdem digitis: vt plene patet in duabus exposi 
+       <lb ed="#B" n="17"/>tionibus praedictis: secundum quod iam etiam dicetur. Beatus vero Grego. in secunda parte super Eze. Homilia 
+       <lb ed="#B" n="18"/>v post medium, plane exprimit diuersitatem manuum, sic dicens. Sinistra nostra est vita praesens. Dexte 
+       <lb ed="#B" n="19"/>ra vero est vita futura. Et recte per centenarium numerum aeternae vitae contemplatio designatur: quia cum post 
+       <lb ed="#B" n="20"/>xxx. &amp;. lx. ad centesimum numerum peruenimus: ibidem centenarius numerus in dextram transit. fides autem 
+       <lb ed="#B" n="21"/>atque operatio adhuc in finistra est: quia hic adhuc positi &amp; credimus quod non videmus: &amp; optamus 
+       <lb ed="#B" n="22"/>vt videamus. Cum vero iam se animus in contemplatione vitae aeternae suspenderit: quasi ad dextram ma 
+       <lb ed="#B" n="23"/>num compotus venit. Ecce dicit quasi ad dextram manum: non autem quasi ad dextrum latus digiti medii. 
+       <lb ed="#B" n="24"/>Quid autem dicit ista opinio quod retenta imaginatione de finistra &amp; dextra in diuersis manibus impossi- 
+       <lb ed="#B" n="25"/>bile est in dictorum verborum expositione non errare: bene verum est quo ad assignationem transi- 
+       <lb ed="#B" n="26"/>tus. xxx. &amp;. lx. a dextra in sinistram: quia hoc omnino non possunt assignare duae primae expositiones: quia  
+       <lb ed="#B" n="27"/>compotum incipiunt in finistra: in qua formantur. xxx. &amp;. lx. solum autem transitum centenarii a sinistra in dexte 
+       <lb ed="#B" n="28"/>ram possunt assignare: vt dictum est. Sed incipiendo compotum in manu dextra, &amp; transeundo ad sinistran 
+       <lb ed="#B" n="29"/>&amp; ab illa iterum reuertendo in dextram: secundum illam expositionem quam in alio Quolibet posuimus: absque  
+       <lb ed="#B" n="30"/>omni errore contingit assignare transitum. xxx. &amp;. lx. a dextra in sinistram: &amp; essetum a finistra in de 
+       <lb ed="#B" n="31"/>xtram. Quod vero ista tertia expositio dicit circa appropriationem. xxx. coniugatis: quia. xxx. in prima ium 
+       <lb ed="#B" n="32"/>ctura sub summitate auricularis terminatur, &amp; tenet ille digitus personam vxoris, &amp; medius personam  
+       <lb ed="#B" n="33"/>mariti: non est verum: immo coniugati signantur per indicem, &amp; pollicem, secundum glos. Hieronymi 
+       <lb ed="#B" n="34"/>interlinea. super illud Marc. iiii. Et afferebat vnum. xxx. Glos. in coniugatis: quos signant index &amp; pol- 
+       <lb ed="#B" n="35"/>lex quasi blando osculo iuncti. Quid etiam innuit Hieronymus contra louinianum dicens sic. Trigita re 
+       <lb ed="#B" n="36"/>feruntur ad nuptias: nam &amp; ipsa digitorum coniunctio quasi molli osculo se complexans &amp; foede- 
+       <lb ed="#B" n="37"/>rans maritum pingit &amp; coniugen. Huic dicto bene concordant primae duae expositiones: quia ambae dicunt 
+       <lb ed="#B" n="38"/>vt patet inspicienti eas. xxx. signari per summitatem indicis tractam a pollice. Modus autem quo ista 
+       <lb ed="#B" n="39"/>tertia expositio. lx. appropriat viduis, satis competens est: quia in summitate medici signat. lx. qui  
+       <lb ed="#B" n="40"/>propter suam breuitatem deprimitur a medio: &amp; quia in hoc quo ad modum depressionis: licet 
+       <lb ed="#B" n="41"/>non quo ad modum signationis concordat prima dictarum expositionum: quia signat. lx. in secunda iun 
+       <lb ed="#B" n="42"/>ctura sub extremitate medii: vt patet inspicienti eam. Quae tamen iunctura comprimitur a duobus ar 
+       <lb ed="#B" n="43"/>ticulis medii quando reflectuntur super eam. Propter quid dicit Hieronymus contra louinianum. Sexagita ad vidu  
+       <lb ed="#B" n="44"/>as referuntur: eo quod in angustia &amp; tribulatione sunt positae. Vnde &amp; superiore digito deprimuntur. Quam 
+       <lb ed="#B" n="45"/>toque maior est difficultas expertae quondam voluptatis illecebris abstinere: tanto maius &amp; praemium. 
+       <lb ed="#B" n="46"/>Modus autem quo ista tertia expositio centum appropriat virginibus, non est conueniens: nec con- 
+       <lb ed="#B" n="47"/>gruit dicto Hieronymi aut Bedae. licet enim ab eodem digito incipiat in quem terminatur: vt dicit 
+       <lb ed="#B" n="48"/>ista opinio, non tamen in eundem punctum terminatur a quo incipit: vt patet illam expositionem 
+       <lb ed="#B" n="49"/>inspiciendo: quod requirit circulus. Discordat etiam ab expositione Bedae praedicta de centenario: quod ean  
+       <lb ed="#B" n="50"/>dem videtur habere figuram in flexu digitorum in dextera, quam denarius in laeua. Quid etiam nullo mo 
+       <lb ed="#B" n="51"/>do potest teneri in ista tertia expositione: quia in ea pollex signat centum in summitate indicis:  
+       <lb ed="#B" n="52"/>&amp;. x. in media iunctura medici. Similiter propter eandem rationem non potest sustineri prima dicta- 
+       <lb ed="#B" n="53"/>rum expositionum: vt patet inspicienti signationes. Sed huic dicto omnino concordat secunda expo 
+       <lb ed="#B" n="54"/>sitio. vt enim patet inspicienti eam, eisdem digitis secundum eandem inflexionem: licet in alia manu, for 
+       <!--573.xml-->
+       <pb ed="#B" n="266-v"/>
+        <lb ed="#B" n="1"/>mantur. c. &amp;. x. Quod intendebat Hieronymus cum dixit. Centenarius numerus diligenter quaeso: vt supra. 
+       <lb ed="#B" n="2"/>Secunda etiam istarum expositionum nullo modo potest assignare centesimum fieri circulo exprimen- 
+       <lb ed="#B" n="3"/>te virginum coronam: quia non incipit a puncto in quem terminatur: vt patet inspicienti. Si autem inspiciamus 
+       <lb ed="#B" n="4"/>illam expositionem quam alias posui, videtur mihi quod magis sufficiens, &amp; compendiosior sit caeteris. quoniam  
+       <lb ed="#B" n="5"/>modus computandi quem assignat, nihil omittit ex numeris inter centenarium numerum, &amp; vnitatem 
+       <lb ed="#B" n="6"/>primam: vt faciunt duo primi modi: nec omittit aliquam diuisionem, aut extremitatem in tota manu,  
+       <lb ed="#B" n="7"/>in qua non assignet aliquem numerum: sicut facit quilibet dictorum trium modorum: neque pluries re- 
+       <lb ed="#B" n="8"/>uertitur ad signandum plures numeros super idis: sicut facit tertius modus. Congruit etiam magis dictis 
+       <lb ed="#B" n="9"/>expositorum: aut saltem minus repugnat. Quod vt ostendamus, compotum incipere debemus super iunctu 
+       <lb ed="#B" n="10"/>ras &amp; extremitates pollicis dexterae manus: secundum modum expositum in dicta quaestione: sed ab alia extre 
+       <lb ed="#B" n="11"/>mitate pollicis incipiendo quam diximus incipiendum in dicta quaestione. Diximus autem ibi quod incipiendum esset a 
+       <lb ed="#B" n="12"/>trunco brachii. hoc enim sufficiebat ibi ad ostendendum transitum centenarii: &amp; sufficeret hic ad ostendem 
+       <lb ed="#B" n="13"/>dum transitum. xxx. &amp;. Ix. Quo ad hoc enim nulla est differentia siue incipiatur a trunco brachii siue super vn- 
+       <lb ed="#B" n="14"/>guem pollicis. Sed incipiendo super vnguem pollicis illam expositionem facilius concordabimus dictis expositorum sa 
+       <lb ed="#B" n="15"/>crae scripturae. Incipiendo ergo compotum super vnguem pollicis dextri exterius, ibi formabimus vni 
+       <lb ed="#B" n="16"/>tatem: &amp; discurrendo vt ibi descriptum est reuertemur ad summitatem eiusdem pollicis interius: &amp; ibi 
+       <lb ed="#B" n="17"/>per tactum indicis dextri assignabimus. x. &amp; deinde eodem modo super summitatem vnguis indicis ex- 
+       <lb ed="#B" n="18"/>terius formabimus. xi. &amp; post discursum, vt prius, reuertendo ad indicis summitatem interius, ibi per 
+       <lb ed="#B" n="19"/>tactum pollicis signabimus. xx. &amp; consimili modo primo signabimus super extremitatem medii digiti 
+       <lb ed="#B" n="20"/>eiusdem manus exterius. xxi. Et reuertendo super extremitatem eiusdem digiti: per tactum pollicis in  
+       <lb ed="#B" n="21"/>dice super pollicem reclinato, signabis. xxx. &amp; sic vlterius per alios digitos eiusdem manus. In qua completo 
+       <lb ed="#B" n="22"/>compoto in. l transiemus ad manum sinistram signando. libr. super vnguem pollicis exterius: &amp; discurren- 
+       <lb ed="#B" n="23"/>do reuerti debemus ad summitatem eius interius: &amp; ibi signare. lx. &amp; consimili modo per omnes digitos alios manus fini 
+       <lb ed="#B" n="24"/>strae, &amp; inueniemus centum formari in summitate interiore auricularii. Et quia isti numeri. x.xx. xxx. &amp; cae 
+       <lb ed="#B" n="25"/>teri consimiles ipsis complentur in totis digitis: alii vero numeri formantur prius ipsis in articulis 
+       <lb ed="#B" n="26"/>singulis digitorum: ideo in dicta quaestione illos numeros. x. xx. xxx. &amp; caeteros huiusmodi appellamus nu-  
+       <lb ed="#B" n="27"/>meros digitos, &amp; alios maxime vsque ad. x. numeros articulos: licet Algoristae contrario modo appellare 
+       <lb ed="#B" n="28"/>solent eos: dicendo quod numerus articulus est omnis numerus diuisibilis in. x. partes aequales. Digitus 
+       <lb ed="#B" n="29"/>vero secundum eos est omnis numerus minor denario. Quibus suppositis patet concordia huius ex- 
+       <lb ed="#B" n="30"/>positionis cum dictis sanctorum. patet enim quomodo in formatione. xxx. pollex &amp; index coniuncti sunt qua-  
+       <lb ed="#B" n="31"/>si molli osculo, indice scilicet reclinato super pollicem tangentem summitatem mollem digiti medii: quasi 
+       <lb ed="#B" n="32"/>ambobus super ipsum recumbentibus: vt super lectum mollem. Quod apparent dicere interlinea. glos. 
+       <lb ed="#B" n="33"/>Matt. xiii. &amp; Hieronymus contra louinianum. Propter quod numerus. xxx. nuptis appropriatur: quia nupti 
+       <lb ed="#B" n="34"/>in lecto solent coniungi molli osculo. Nec differt hic in hac expositione, &amp; in praecedentibus: nisi quod  
+       <lb ed="#B" n="35"/>in illis formatur. xxx. ex sola coniunctione pollicis &amp; indicis inter se: hic vero vt ambo coniuncti reclinan  
+       <lb ed="#B" n="36"/>tur super medium, quod expressius indicat coniunctionem maritalem. Similiter multum concordat ista expositio 
+       <lb ed="#B" n="37"/>appropriationi. lx. viduis: quia signatur per indicem tangentem summitatem pollicis interius in manu sinistra si 
+       <lb ed="#B" n="38"/>ne reclinatione super mollem extremitatem interius digiti medii: quasi abstinendo se a conmixtione mari- 
+       <lb ed="#B" n="39"/>tali. Quid satis concordat dicto Hieroysicae supr hoc contra louinianum: vt patet inspicienti. Similiter concordat ista 
+       <lb ed="#B" n="40"/>expositio in appropriando centenarium virginibus, iuxta illud Hieroysi dictum contra louinianum. Centenarius 
+       <lb ed="#B" n="41"/>de finistra transfertur in dextram: eisdem quidem digitis quibus in laeua signantur nuptae: sed non in eadem manu, quia  
+       <lb ed="#B" n="42"/>vt dictum est, viduae signantur in sinistra in interiore extremitate pollicis tactu indicis sinistri. Centena 
+       <lb ed="#B" n="43"/>rius autem licet primo formatur in interiori extremitate auricularii, translatus tamen in dextram formatur super 
+       <lb ed="#B" n="44"/>summitatem pollicis interius per tactum indicis dextri: quasi incipiendo nouum modum signandi numeros ab  
+       <lb ed="#B" n="45"/>interioribus digitorum. scilicet super eadem signa quae prius: quemadmodum prius ibidem formabantur. x. Et eisdem quidem digitis 
+       <lb ed="#B" n="46"/>vt dictum est, signabatur viduis. lx. in laeua, &amp;. xxx. nuptis: sed reclinando super extremitatem medii: in ma- 
+       <lb ed="#B" n="47"/>nu tantum dextra. Vnde cum dicit Hieronic. Quibus in laeua signantur nuptae: ibi fiat punctatio: vt post pau- 
+       <lb ed="#B" n="48"/>sam sequatur, Et viduae: sed non in eadem manu. Huic expositioni etiam concordat quod sequitur in dicto Hiero 
+       <lb ed="#B" n="49"/>nymi: Circulum faciens exprimit virginitatis coronam. lste enim modus compoti facit circulum perfectum &amp; inte 
+       <lb ed="#B" n="50"/>grum, nec plus nec minus per omnes digitos, &amp; articulos, &amp; summitates duarum manuum discurrendo, quod non fa 
+       <lb ed="#B" n="51"/>cit in aliqua aliarum expositionum: sicut patet inspicienti eas. Sed vnum obest: quod isti expositioni non video 
+       <lb ed="#B" n="52"/>posse concordari: quod scilicet dicit illa glossa. Mat. xiii. Centenarius a laeua translatus in dexteram, eandem te 
+       <lb ed="#B" n="53"/>net digitorum inflexionem quam denarius in laeua. vbi si non adderet in laeua, concordaret: vt dictum est. 
+       <lb ed="#B" n="54"/>Sed si in laeua intelligatur additum, concordari non potest: quia secundum hanc expositionem. x. in lae 
+       <!--574.xml-->
+       <pb ed="#B" n="267-r"/>
+        <lb ed="#B" n="1"/>ua formari non habet. Et sic patet quod respiciendo omnes dictas quatuor expositiones, extra quas nec vidi nec 
+       <lb ed="#B" n="2"/>audiui de alia: nulla earum omnino concordat dictis expositorum. Vnde putandum est istas quaetuor magistrales esse: 
+       <lb ed="#B" n="3"/>&amp; dictos expositores habuisse aliam praeter has: quam non explicauerint: &amp; ideo per dissuetudinem vsus nobis re 
+       <lb ed="#B" n="4"/>mansit incognita. 
+      </p>
+      <p xml:id="n3av8a-c1e2854-d1e593">
+       SED forte contra istam expositionem aliquis opponens dicet: quod secundum istam expositionem cem 
+       <lb ed="#B" n="5"/>tenarius a laeua non transit in dextram: immo terminatur in sinistra: &amp; ibi sistit. Item nec. xxx. transit a dexte e 
+       <lb ed="#B" n="6"/>ra in laeuam: sed manet in dextra. Item nec. lx. transit a dextra in laeuam: quia non formabatur in dextera 
+       <lb ed="#B" n="7"/>nec formatur statim in transitu a dextera in laeuam. Etiam discordat haec expositio omnino illi glos- 
+       <lb ed="#B" n="8"/>sae margina. super illud Matth. xiii. Alia vero ceciderunt in terram bonam &amp; dederunt fructum: aliud centesimum, 
+       <lb ed="#B" n="9"/>aliud. lx. aliud. xxx. quae dicit sic. Triginta referuntur ad nuptias. lx. ad viduas: centum qui numerus est 
+       <lb ed="#B" n="10"/>iam in dextra: vel centum qui transfertur in dextram: significat aeternam beatitudinem. siquidem. xxx. &amp;. lx.: con 
+       <lb ed="#B" n="11"/>tinentur in laeua: sed centum transit in dextram. Secundum istam enim expositionem. xxx. nullo modo continem 
+       <lb ed="#B" n="12"/>tur in laeua. 
+      </p>
+      <p xml:id="n3av8a-c1e2854-d1e613">
+       ITEM dicet forte adhuc aliquis quod pollex habet vnum articulum minus quam alii digiti: &amp; ita in eo non 
+       <lb ed="#B" n="13"/>sunt nisi quatuor diuisiones secundum tres articulos: cum alii habent. v. diuisiones inter. iiii. articulos, con 
+       <lb ed="#B" n="14"/>putando extremitates pro diuisionibus: ac per hoc in pollice vsque ad truncum brachii, non possunt si- 
+       <lb ed="#B" n="15"/>gnari nisi. viii. numeri: cum tamen in aliis digitis possint signari. x. &amp; propter hoc non potest complete for- 
+       <lb ed="#B" n="16"/>mari numerus centenarius in duabus manibus: quia deficiunt. iiii. numeri. Et ideo secundum istum mo 
+       <lb ed="#B" n="17"/>dum computandi non potest dici quod centenarius formatus in laeua transeat in dexteram, vel quod statim for- 
+       <lb ed="#B" n="18"/>metur in dextera. 
+      </p>
+      <p xml:id="n3av8a-c1e2854-d1e629">
+       ET est dicendum ad primum: in quo patebit responsio ad quaestionem propositam: quod secundum mo- 
+       <lb ed="#B" n="19"/>dum assignatum in praenominata quaestione determinata a nobis in alio quolibet: debet intelligi forma 
+       <lb ed="#B" n="20"/>tio centenarii in manu sinistra: &amp; tunc demum assumpto augmento transitus eius a sinistra in dexteram. 
+       <lb ed="#B" n="21"/>Secundum enim quod dictum est iam supra: signatio dictorum numerorum siue in vna manu siue in duabus non  
+       <lb ed="#B" n="22"/>est ex natura numerorum aut manuum: sed ad designandum in exemplo sensibili &amp; proportionali diffe 
+       <lb ed="#B" n="23"/>rentiam praemiorum spiritualium, coniugatorum, viduarum, &amp; virginum. Quia igitur vt iam praedictum est secundum 
+       <lb ed="#B" n="24"/>beatum Ambrosium, per sinistram intelligitur vita praesens: in qua sunt fides &amp; operatio vitae actiuae: per dextram 
+       <lb ed="#B" n="25"/>vero intelligitur vita gloriae: in qua est perfecta speculatio vitae contemplatiuae: quae quidem incepit in  
+       <lb ed="#B" n="26"/>beatitudine status innocentiae sicut in dextera: in quo fuissent coniuges: licet forte non viduae, nec vir 
+       <lb ed="#B" n="27"/>gines: idcirco compotus numerorum designantium praemia vitae humanae, incipere debuit a manu dextera 
+       <lb ed="#B" n="28"/>&amp; in ea primo formari numerus. xxx. coniugum. Homo autem postquam a statu illius beatitudinis cecidit:  
+       <lb ed="#B" n="29"/>vt casus fiat ei occasio gloriosius reuertendi ad statum beatitudinis angelorum, oportuit ipsum in vita 
+       <lb ed="#B" n="30"/>praesentis miseriae ad statum maioris perfectionis transire quam erat status coniugalis in paradiso. Vnde non  
+       <lb ed="#B" n="31"/>sistitur in. xxx. formato in manu dextra: sed vlterius transitur ad. lx. viduarum formandum in manu si 
+       <lb ed="#B" n="32"/>nistra: &amp; ab illo vlterius ad centenarium virginum. licet non in eisdem personis in quarum statu perfectio com 
+       <lb ed="#B" n="33"/>templationis adhuc in praesenti vita inchoatur. Propter quid centenarius in sinistra per quem praesens vita in-  
+       <lb ed="#B" n="34"/>telligitur, primo formatur: &amp; crescit: vt demum ad dextram gloriae transferatur, &amp; ibi accepto debito 
+       <lb ed="#B" n="35"/>augmento perficiatur: dicente Grego. vt habitum est iam. Cum iam se animus in contemplatione vitae aeternae  
+       <lb ed="#B" n="36"/>suspenderit, quasi ad dextram manum compotus venit. Nota quod dicit cum iam: adhuae scilicet existens in sinistra 
+       <lb ed="#B" n="37"/>huius vitae: tunc demum quasi ad dextram manum venit: vt non sic fiat transitus: vt scilicet centenarius 
+       <lb ed="#B" n="38"/>contemplatiuae primo formetur in dextra: sed vt iam formatus primo in sinistra post aliquod crementum tunc 
+       <lb ed="#B" n="39"/>demum transferatur ad dextram: vt ibi cremento perficiatur. Aliter enim nihil esset dicere quod numerus csse 
+       <lb ed="#B" n="40"/>tenarius transiret aut transferretur: quia transire aut transferri non posset nisi iam existens aliquo mo-  
+       <lb ed="#B" n="41"/>do &amp; formatus. Existens enim in vita ista: per contemplationem stat in porta templi caelestis exteriori: a qua  
+       <lb ed="#B" n="42"/>oportet currere per spatium centum cubitorum vsque ad portam interiorem qua intratur in dextram vsque ad tem 
+       <lb ed="#B" n="43"/>plum gloriae. iuxta illud quod dicitur Ezech. xl. Et mensus est a porta vsque ad portam centum cubitos. Signi 
+       <lb ed="#B" n="44"/>ficat enim spatium illud centum cubitorum perfectionem contemplationis praesentis vitae: quae per latitudinem centum 
+       <lb ed="#B" n="45"/>cubitorum currendo acquiritur quousque ad portam interiorem peruenitur: quam cum intrauit: tunc primo 
+       <lb ed="#B" n="46"/>transit a sinistra in dextram. illi enim centum cubiti se habent ex parte finistra. Vnde Grego, per iii. super Eze. 
+       <lb ed="#B" n="47"/>homil. vii. circa medium, exponens illud Ezech. xl. Et mensus est a porta vsque ad portam. c. cubitos, dicit 
+       <lb ed="#B" n="48"/>sic. Quia aditum atrii interioris videt perfectio, necesse est vt per vitam perfectionis currat &amp; a porta in  
+       <lb ed="#B" n="49"/>choationis vsquequo ad consummationis ingressum perueniat. Mensuretur ergo atrium interius quo ab  
+       <lb ed="#B" n="50"/>exterioribus vsque ad perfectam interiorem tenditur centum cubitis: vt qui intrare amando coepit, latitudinem 
+       <lb ed="#B" n="51"/>perfectionis habeat in mente: quatenus in eo quem diligit nec aduersa coangustent: nec prospera eleuent:  
+       <lb ed="#B" n="52"/>sed transitoria cuncta despiciens quousque ad gaudia secreta perueniat: per atrium perfectionis currat. Per 
+       <lb ed="#B" n="53"/>hunc ergo modum intelligamus centenarium numerum transire a finistra in dextram: vt scilicet in finistra 
+       <lb ed="#B" n="54"/>primo formatus, ibidem perfici incipiat: &amp; post augmentum: tunc deinde cum suo augmento in dextram  
+       <!--575.xml-->
+       <pb ed="#B" n="267-v"/>
+        <lb ed="#B" n="1"/>transeat: &amp; ibi persectum augmentum accipiens: in dextra perficiatur &amp; maneat. Non obstante ergo quod cssete- 
+       <lb ed="#B" n="2"/>narius terminatur in sinistra perfectionem suam incipiendo: vt dicit obiectio: formatus tamen transit in dextram ibi 
+       <lb ed="#B" n="3"/>perfectionem completam accipiendo. Propter quod glossa praedicta. Matth. xiii. dicit quod c. numerus est qui iam 
+       <lb ed="#B" n="4"/>in dextra est. Nec in hoc contenta est: sed addit, ve lci c. qui transfertur in dextram. &amp; hoc ideo: quia haec est 
+       <lb ed="#B" n="5"/>disiunctiua artis: &amp; veritatem habet pro vtraque parte. c. enim iam est in dextra perfectus post translationem eus: 
+       <lb ed="#B" n="6"/>sed prius transfertur in dextram a sinistra in qua erant formatus: vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e2854-d1e727">
+       AD illud quod arguitur setun 
+       <lb ed="#B" n="7"/>do de. xxx, quod etiam secundum istam expositionem non transit a dextra in finistram: sed manet in dextra, quod pro 
+       <lb ed="#B" n="8"/>prie pertinet ad propositam quaestionem: Dicendum quod coniugium cui appropriatur persectio. xxx. primo incepit 
+       <lb ed="#B" n="9"/>in dextra: quia in paradiso vt dictum est. lpsum tamen ex se non ponit statum perfectionis etiam vt fuit in  
+       <lb ed="#B" n="10"/>paradiso: secundum quod alibi declarauimus: nec maxime post lapsum hominis in peccatum: vt est in vita praesen 
+       <lb ed="#B" n="11"/>tis miseriae. Vnde coniugium ex ratione coniugii in se persectionem non habet: sed vt perficiatur transit in  
+       <lb ed="#B" n="12"/>statum viduarum. Et quia illum vt dictum est non inuenit nisi in sinistra praesentis vitae, ideo. xxx. significans 
+       <lb ed="#B" n="13"/>praemium coniugum: quamquam incipit &amp; formatur in manu dextra: tamen competenter dicitur transire a dextra in si 
+       <lb ed="#B" n="14"/>nistram: vt in sinistra in vlteriorem perfectionem ratione status tranfformetur. 
+      </p>
+      <p xml:id="n3av8a-c1e2854-d1e747">
+       ET quid assumitur de. lice, quod non 
+       <lb ed="#B" n="15"/>transit a dextra in laeuam: quia non formatur in dextra: quid etiam proprie pertinet ad istam quaestionem: Dicendum  
+       <lb ed="#B" n="16"/>quod viduitas ortum non sumit nisi a coniugio dimisso vel soluto: quia non potest esse vidua nisi prius 
+       <lb ed="#B" n="17"/>nupta. Propter quod licet non primo signatur. lx. qui praemium viduarum significat, in dextra: tamen competem 
+       <lb ed="#B" n="18"/>ter dicitur transire a dextra in sinistram: quia ortum habet ab eo quod signatum in dextra propter persectio 
+       <lb ed="#B" n="19"/>nem habendam transit in sinistram vt dictum est. Propter quid etiam vterque horum numerorem scilicet xx. &amp; lxpro-  
+       <lb ed="#B" n="20"/>prie dicuntur manere in sinistra, &amp; contineri. vt dicit praedicta glos. Matth. xiii. Neutrum enim illorum quo-  
+       <lb ed="#B" n="21"/>rum praemium significant illi numer. scilicet nec viduitas, nec matrimonium, transire potest extra finistram: quia non sunt 
+       <lb ed="#B" n="22"/>status nisi vitae praesentis: nec ad statum virginum transire possunt: cum de corrupta virgo fieri non possit secundum  
+       <lb ed="#B" n="23"/>Hierony. 
+      </p>
+      <p xml:id="n3av8a-c1e2854-d1e769">
+       AD illud quod obiicitur tertio: quod pollex habet vnum articulum minus quam alii digiti &amp;c. Dicen i 
+       <lb ed="#B" n="24"/>dum quod tam rude non oportuit opponere in ista materia: vbi non est disputatio de substantia &amp; natu  
+       <lb ed="#B" n="25"/>ra articulorum: sed de modo signandi numeros in iuncturis vel in extremitatibus. Pollex autem licet 
+       <lb ed="#B" n="26"/>non habet nisi tres articulos, proprie loquendo secundum naturam &amp; substantiam digiti: quia non habet nisi tria 
+       <lb ed="#B" n="27"/>ossa in tribus articulis: cum alii habeant quatuor scilicet inter summitatem truncum brachii totum appellando digi 
+       <lb ed="#B" n="28"/>tum extenso nomine: quia, proprie loquendo non dicuntur digiti nisi distincti secundum volam manus: communiter ta- 
+       <lb ed="#B" n="29"/>men loquendo de digito &amp; vocando articulum id quid est medium contentum inter duas iuncturas, siue fuerit 
+       <lb ed="#B" n="30"/>os siue neruus: sic pollex competenter dicitur quantum sufficit ad propositum, habere quaetuor articulos &amp; quique  
+       <lb ed="#B" n="31"/>diuisiones sicut alii digiti. habet enim quendam neruum grossum &amp; durum qui protenditur a tertio articu 
+       <lb ed="#B" n="32"/>lo pollicis osseo vsque ad truncum brachii, quo pollex brachio ligatur: &amp; est ille neruus inter duas diui- 
+       <lb ed="#B" n="33"/>siones sicut sunt &amp; articuli ossei. &amp; sic tot numeri formantur in pollice quot in aliquo aliorum digito- 
+       <lb ed="#B" n="34"/>rum: &amp; perfecte formatur numerus centenarius in laeua, nec deficit, nec abundatur: vt visum est: &amp; 
+       <lb ed="#B" n="35"/>sic formatur primo in sinistra: &amp; formatus transfertur in dextram secundum praedictum modum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

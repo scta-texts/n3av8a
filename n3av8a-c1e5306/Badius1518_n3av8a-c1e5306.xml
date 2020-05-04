@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="556-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5306">
+       <head xml:id="n3av8a-c1e5306-Hd1e96">Quaestio 1</head>
+       <p xml:id="n3av8a-c1e5306-d1e99">
+        <lb ed="#B" n="28"/>Incipit. xiiii. Quodlibet eiusdem. 
+       <lb ed="#B" n="29"/>sputatio nostra oe quolibet 
+       <lb ed="#B" n="30"/>xiiii. continebat quaestiones. xvii. Quarum vna communiter pertinebat ad deum  
+       <lb ed="#B" n="31"/>&amp; ad creaturas: aliae vero omnes solummodo pertinebant ad solas creaturas. Illa 
+       <lb ed="#B" n="32"/>vnica erat. Vtrum agens secundarium agens in virtute primi agentis habeat in se 
+       <lb ed="#B" n="33"/>virtutem illius mansiuam. Ex arguebatur quod sic. res quod est mansiua hoc habet a 
+       <lb ed="#B" n="34"/>deo cuius est res conseruare in esse: illud autem quod habet res in esse conseruare, aequa  
+       <lb ed="#B" n="35"/>liter habet conseruare in esse illas ad quas aequaliter se habet: sed deus 
+       <lb ed="#B" n="36"/>aequaliter se habet ad illam virtutem quae est in secunda causa a prima, &amp; ad  
+       <lb ed="#B" n="37"/>alia quae sunt in illa causa secunda: cum ergo sic conseruat alia in illa quod ha 
+       <lb ed="#B" n="38"/>beant in ea esse mansiuum. ergo similiter &amp; illam virtutem. Contra. vis primi 
+       <lb ed="#B" n="39"/>agentis est in agentem secund sicut in quodam instrumento: sed in instrumento talis vis mansiua non est. vt pa 
+       <lb ed="#B" n="40"/>tet in securi in qua non manet vis ei influxa ab artifice secundum artem suam cum manum artificis exierit. er 
+       <lb ed="#B" n="41"/>go &amp;c. Hic oportet primo videre de virtute primi agentis quae est in agente secundo quid illa sit &amp; in  
+       <lb ed="#B" n="42"/>se &amp; in suo effectu quem agit agens secundum per illam. Et dicunt aliqui quod virtus agentis primi in agente secundo 
+       <lb ed="#B" n="43"/>est forma agentis secundi quae existit: &amp; per quam operatur opus debitum suae formae quae existit. cuiusmodi est forma 
+       <lb ed="#B" n="44"/>ignis inquantum ignis est quae vocatur igneitas, qua ignis generat ignem: &amp; forma calidi inquantum est calidum  
+       <lb ed="#B" n="45"/>quae dicitur caliditas, qua calidum producit calidum. Et dicitur virtus primi agentis esse in agente secundo: quia 
+       <lb ed="#B" n="46"/>habet esse ab illo in isto. Sed hoc non potest esse verum generaliter in causis ordinatis: quarum vna est pri- 
+       <lb ed="#B" n="47"/>ma &amp; altera secunda. semper enim tunc &amp; vniuersaliter causa secunda id quod est haberet esse a cau 
+       <lb ed="#B" n="48"/>sa prima: quod nequaquam verum est: nec verum esse potest nisi in causa simpliciter prima quae deus est solum 
+       <lb ed="#B" n="49"/>modo respectu cuiuslibet alterius causae quae causa secunda est respectu illius: quia ipse solus est causa prima 
+       <lb ed="#B" n="50"/>a qua habet esse causa secunda secundum id quod est: quoniam ipse est primum ens. &amp; vt dicit. xviii. propositio 
+       <lb ed="#B" n="51"/>de causis, res omnes entes sunt propter ens primum. vbi in conmento dicitur. Et ens primum est causa causarum. Il 
+       <!--1153.xml-->
+       <pb ed="#B" n="556-v"/>
+        <lb ed="#B" n="1"/>lud ergo non est generaliter verum nisi ponendo quod non sit aliqua alia causa prima respectu alterius nisi 
+       <lb ed="#B" n="2"/>solus deus: aut quod ab ista causa prima quae non est deus, habeat esse secundum id quod est ipsa causa secunda. Quorum 
+       <lb ed="#B" n="3"/>neutrum verum est: multae namque sunt aliae causaeprimae respectu alterius: vt respectu secundae, quae non sunt deus, &amp; 
+       <lb ed="#B" n="4"/>a quibus non habet causa secunda esse id quod est: puta in operibus caeli intelligentia mouens caelum est causa 
+       <lb ed="#B" n="5"/>prima, &amp; ipsum caelum est causa secunda: &amp; in operibus elementorum &amp; compositorum ex elementis caelum est causa prima 
+       <lb ed="#B" n="6"/>&amp; elementa sunt causa secunda: &amp; tamen elementa non habent esse id quid sunt a caelo sicut a causa prima, neque caelum 
+       <lb ed="#B" n="7"/>ab intelligentia, nisi secundum errorem aliquorum philosophantium, puta Auicen. iii. Metapha suae. Atali ergo causa prima 
+       <lb ed="#B" n="8"/>si sit aliquid seu aliquam virtus in causa secunda, illa necessario est aliquid praeter illa quae sunt de natura ipsius agentis se 
+       <lb ed="#B" n="9"/>cundi: &amp; praeter id quid est: licet forte a causa prima quae deus est non sit aliquid in causa secunda quo agit suam 
+       <lb ed="#B" n="10"/>propriam operationem, praeterquam id quid est ipse. Propter quid dicunt aliqui quod in singulis causis aliis a deo quae sunt omnes 
+       <lb ed="#B" n="11"/>causae secundae respectu illius, non est nisi id quod naturaliter ipsi inditum est a deo, quo quaelibet earum agit propriam ope 
+       <lb ed="#B" n="12"/>rationem competentem sibi secundum illud: vt quod ignis sola forma igneitatis generat ignem, &amp; forma caloris ge- 
+       <lb ed="#B" n="13"/>nerat caliditatem siue calidum: ita quod deus nihil aliud influit in ignem vt generet ignem, neque in calorem eius vt 
+       <lb ed="#B" n="14"/>generet calorem, praeter hoc quod causat in illo formam igneitatis &amp; caloris: ita quod quicquid agit in eo quid fit &amp; proce 
+       <lb ed="#B" n="15"/>dit ab agente creato siue mediate siue immediate, hoc agit virtute naturae suae praesentis substantialiter: non 
+       <lb ed="#B" n="16"/>autem per aliud ab eo influxum agenti secundo. Vnde enumeratis pluribus effectibus agentium secundorum dicit 
+       <lb ed="#B" n="17"/>Augustinus vii. de ci. dei. Haec omnia facit atque agit vnus verus deus: sed sicut deus idem vbique totus praesente potentia. Di 
+       <lb ed="#B" n="18"/>cunt etiam aliqui quod deus non aliter operatur opera ignis quae agit vi igneitatis aut caloris, quam per illa inquantum ista 
+       <lb ed="#B" n="19"/>operatus est in igne: ita quod non sit ponendum quod immediate operetur deus in opere quolibet creaturae aut operato ab  
+       <lb ed="#B" n="20"/>illa, praeter hoc quod operetur mediante illa, inquantum id quo illa operatur habet esse ab ipso in istat. vt secundum il 
+       <lb ed="#B" n="21"/>lud intelligatur ita dixisse <name ref="#Augustine">Augustinus</name> continue post iam dicta. vii. de ciui. ca. xxx. Sic itaque omnia quae creauit admini 
+       <lb ed="#B" n="22"/>strat vt etiam ea proprios motus agere finat. Et Anselus libro de concor. praescientiae &amp; liberi arbitrii dicit sic. 
+       <lb ed="#B" n="23"/>Sicut deus non facit iniustitiam: ita non facit aliquid iniustum esse: qui tamen facit omnes actiones &amp; omnes motus: quia ipse 
+       <lb ed="#B" n="24"/>facit res a quibus &amp; ex quibus &amp; per quaes &amp; in quibus fiunt: &amp; nulla res habet vllam potestatem volendi aut faciendi: nisi 
+       <lb ed="#B" n="25"/>illo dante. Et non dicit Augustinus. Sic deus res administrat vt cum illis proprios motus illarum agat. Quo 
+       <lb ed="#B" n="26"/>modo autem &amp; quaere necessarium sit ponere quod alitur quam secundum tactum modum deus mediate aut immediate cooperetur 
+       <lb ed="#B" n="27"/>creaturae in omni opere sibi proprio &amp; naturali, non video: nec tamen assero hoc non esse ponendum aut necessa 
+       <lb ed="#B" n="28"/>rio non esse ponendum. Forte enim hoc diuinae maiestati congruit: &amp; ideo illud ponendum est: quia quicquid maie 
+       <lb ed="#B" n="29"/>stati eius congruit ei necessario congruit: quia in ipso nihil est contingenter: &amp; quicquid ei inest aut con 
+       <lb ed="#B" n="30"/>gruit, necessario ei inest aut congruit: &amp; quicquid ei non inest, aut non congruit, impossibile est 
+       <lb ed="#B" n="31"/>ei inesse aut congruere. Similiter nec assero quin sit ponendum aut quin sit necessario ponendum tamquam con- 
+       <lb ed="#B" n="32"/>gruens diuinae maiestati, quod ad hoc quod agens secundarium agat aliquid forma sibi a deo indita, deus adhuc 
+       <lb ed="#B" n="33"/>influat illi aliquam aliam virtutem necessariam illi ad agendum, propriam illius operationem, sine qua per formam 
+       <lb ed="#B" n="34"/>sibi inditam non posset agens secundarium aliquam operationem suam producere: maxime cum ad operationes 
+       <lb ed="#B" n="35"/>suas indigeant causae secundariae in elementis &amp; elementaribus super formam sibi a deo naturaliter inditam vir- 
+       <lb ed="#B" n="36"/>tute influxa ab alio agente primario sub illo omnino primo, puta a caelo: a quo non habent elementa neque ele 
+       <lb ed="#B" n="37"/>mentaria mixta ex elementis quo ad species suas: formas suas quibus agunt secundum iam dicta, quae  
+       <lb ed="#B" n="38"/>tamen non agunt suas proprias operationes nisi per aliquam virtutem influxam a caelo. secundum quod di-  
+       <lb ed="#B" n="39"/>cente <name ref="#Aristotle">Philosopho</name> secundo Physicorum, homo generat hominem &amp; sol. Vnde vt etiam dicunt aliqui: quia caelum non influit 
+       <lb ed="#B" n="40"/>illam virtutem nisi mediante motu, si caelum staret nulla esset alteratio, neque generatio, neque corruptio aut mo 
+       <lb ed="#B" n="41"/>tus aliquis naturalis in elementis aut mixtis ex illis: quia nec calidum calefaceret: nec frigidum frigefaceret hi 
+       <lb ed="#B" n="42"/>cet in hoc eis alii contrarientur, &amp; merito vt puto, dicentes quod licet elementa aut formae substantiales atque  
+       <lb ed="#B" n="43"/>accidentales eorum non sufficiant ad generationem mixti in forma mixti sine virtute caelesti illis influxa: sine 
+       <lb ed="#B" n="44"/>qua etiam vnum mixtum non sufficit generare alterum, vt equus equum: sufficiunt tamen ipsa elementa secundum formas 
+       <lb ed="#B" n="45"/>ipsorum substantiales &amp; accidentales ad generationem sibi consimilium secundum formam substantialem &amp; accidem 
+       <lb ed="#B" n="46"/>talem: vt quod ignis igneitate generaret ignem &amp; caliditate sua generaret calidum. Et quod amplius est, dicunt aliqui  
+       <lb ed="#B" n="47"/>quod elementa sua forma accidentali sola generant sibi similia secundum formam substantialem elementi vel mixti: 
+       <lb ed="#B" n="48"/>vt ignis calore existente in seipso de aqua ignem: &amp; equus calore existente de ipso in semine ab ipso deci 
+       <lb ed="#B" n="49"/>so equum: &amp; hoc sola virtute caloris secundum diuersos gradus caloris diuersa &amp; varia mixta generando  
+       <lb ed="#B" n="50"/>vt ex semine equi secundum vnum gradum caloris equum, &amp; ex semine asini secundum alium gradum caloris asinum  
+       <lb ed="#B" n="51"/>absque aliqua virtute in semine influxa in calore ab illo a quo semen decisum est. Quod nullo modo pont 
+       <lb ed="#B" n="52"/>stare: quia cum calor consideratus vt est tantum calor secundum diuersos gradus non differt vt est in subiecto 
+       <lb ed="#B" n="53"/>nisi secundum magis &amp; minus: nec similiter operatio nec etiam operatum mediante eius operatione differre 
+       <lb ed="#B" n="54"/>possunt amplius quam secundum magis &amp; minus. Haec enim tria, agens, propria operatio, &amp; proprium operatum per se 
+       <!--1154.xml-->
+       <pb ed="#B" n="557-r"/>
+        <!--1154.xml-->
+        <pb ed="#B" n="557-r"/>
+        <lb ed="#B" n="1"/>sunt ordinata adinuicem. &amp; in talibus tenet illa regula: Simpliciter ad simpliciter &amp;c. Quare cum operationes ca 
+       <lb ed="#B" n="2"/>loris differant specie in generatione &amp; corruptione, puta disgregare per putrefactionem, &amp; congregare disgre- 
+       <lb ed="#B" n="3"/>gata per generationem ex putrefactis: dicente <name ref="#Aristotle">Philosopho</name> quarto libro Meteororum. Animalia innascuntur putrefa- 
+       <lb ed="#B" n="4"/>ctis: eo quod disgregans caliditas naturalis cum sit constare facit disgregata: &amp; similiter differant specie ope 
+       <lb ed="#B" n="5"/>rata a calore in generatione equi ex semine equi, &amp; asini ex semine asini: oportet ergo quod calor hinc 
+       <lb ed="#B" n="6"/>inde non solum differat secundum magis &amp; minus: sed alio modo, scilicet per aliquid additum aliud &amp; aliud  
+       <lb ed="#B" n="7"/>quid determinat ipsum ad aliam &amp; aliam operationem: &amp; etiam ad aliud &amp; aliud operatum: quod appellamus virtutem in  
+       <lb ed="#B" n="8"/>agente secundario ab agente primo: puta in calore putrefaciente a corpore caelesti: quae sit naturalis &amp; con- 
+       <lb ed="#B" n="9"/>gruens ad speciem alicuius vermis producendam: &amp; in semine equi ab illius forma substantiali a qua semen 
+       <lb ed="#B" n="10"/>deciditur ad solummodo producendum simile ei in specie: etsi semen sit commixtum &amp; decisum a duobus 
+       <lb ed="#B" n="11"/>differentibus specie: puta ex asino &amp; equa in generatione muli virtus commixta est ab vtroque in calore existente 
+       <lb ed="#B" n="12"/>in semine commixto, per istam enim virtutem existentem cum calore in semine, semper simile generatur ex simili vt equus 
+       <lb ed="#B" n="13"/>ex equo siue ex eius semine: &amp; asinus ex asino siue ex eius semine: &amp; similiter mulus ex mulo. licet enim sit mulus 
+       <lb ed="#B" n="14"/>ex asino &amp; equa: virtus tamen vtriusque conmixta in semine ex quo generatur mulus, est virtus vtriusque: in quae vtrumque  
+       <lb ed="#B" n="15"/>illorum est mixtum, sicut ambo sunt mixta in mulo: vt per illam virtutem mixtam in semine duorum quodammo 
+       <lb ed="#B" n="16"/>do generetur mulus ex mulo. propter quid philosophus. vii. Metaphysicae vbi exponit quomodo semper simile gene 
+       <lb ed="#B" n="17"/>ratur a simili, dicit sic. Semen facit sicut illa quae sunt ex artificio. Commenta. Semen enim generat per po 
+       <lb ed="#B" n="18"/>tentiam in eo similem artificio. Et est potentia ista virtus cum calore in semine illius a quo est semen 
+       <lb ed="#B" n="19"/>decisum. Vnde Aristote. continuo subdit. Et illud ex quo est semen, est conueniens in nomine quo  
+       <lb ed="#B" n="20"/>quo modo. non enim oportet quaerere omnia ista in eadem dispositione in qua generatur homo ex homine 
+       <lb ed="#B" n="21"/>&amp; ideo mulus non est ex mulo nisi sit quiddam scilicet virtus asini &amp; equae conmixta in semine. vbi dicit Com 
+       <lb ed="#B" n="22"/>menta. Dicimus quod cum considerata fuerit demonstratio Aristotelis in hoc loco, apparebit quod semina sunt 
+       <lb ed="#B" n="23"/>illa quae dant formas rerum generatarum ex seminibus per formas quas dederunt semina generantia ge- 
+       <lb ed="#B" n="24"/>nerabilibus. Ex se autem apparet quod corpora caelestia sunt ista quae dant illis formas vel aliquid loco 
+       <lb ed="#B" n="25"/>seminis &amp; virtutum quae sunt in seminibus in eis quae generantur ex seminibusi &amp; quod omnes illae 
+       <lb ed="#B" n="26"/>virtutes sunt virtutes naturales diuinae generantes sibi similia secundum quod artes generant artificiata. 
+       <lb ed="#B" n="27"/>Appellat autem Commentator generabilia ex se illa quae fiunt ex putrefactione: quae loco seminis ha-  
+       <lb ed="#B" n="28"/>bent putredinem: &amp; loco virtutum quae sunt in seminibus a generante, virtutem quam dant illis corpora 
+       <lb ed="#B" n="29"/>caelestia. Et vt aestimo errant aliqui in assignando modum generationis similis secundum formam ex se 
+       <lb ed="#B" n="30"/>mine a calore qui est in semine &amp; a certa virtute. Dicunt enim quod calor non agit nisi calefaciendo: &amp; hoc 
+       <lb ed="#B" n="31"/>disponendo in digerendo materiam prout regulatur a vi dicta: vt de ipsa educatur forma substan  
+       <lb ed="#B" n="32"/>tialis: quam non attingit calor vt dicunt: sed materia disposita illam attingit sola virtus illa immediate 
+       <lb ed="#B" n="33"/>producendo formam substantialem de materia. Secundum quem modum plures dicunt quod generaliter in omni pro 
+       <lb ed="#B" n="34"/>ductione creaturae a creatura esse in illa est immediate a solo deo: sed determinatio ipsius esse qua est 
+       <lb ed="#B" n="35"/>aliquid, solummodo est a creatura. iuxta hoc quod super illud Boetii. Diuersum est esse &amp; id quid est. di-  
+       <lb ed="#B" n="36"/>cit Commen. Esse &amp; esse aliquid multipliciter dicuntur. Nam in theologia diuina essentia quam de deo praedi 
+       <lb ed="#B" n="37"/>camus cum dicimus deus est, omnium creatorum dicitur esse: cum autem dicimus homo est vel corpus est vel 
+       <lb ed="#B" n="38"/>huiusmodi, theologi hoc esse dictum intelligunt quadam extrinsecus denominatione ab essentia sui 
+       <lb ed="#B" n="39"/>principii. Non enim dicunt corporalitate corpus esse: sed esse aliquid: nec humanitate hominem esse: sed es 
+       <lb ed="#B" n="40"/>se aliquid. Et similitur vnumquidque subsistens essentia sui principi scilicet primi quod est deus, praedicatur non esse aliquid  
+       <lb ed="#B" n="41"/>sed esse. Illa vero quae in ipso creata est substantia, non esse: sed esse aliquid. Et ad eundem modum quicquid ope 
+       <lb ed="#B" n="42"/>rante summo principio est, eadem principali &amp; increata essentia dicitur esse: suo vero quolibet genere es 
+       <lb ed="#B" n="43"/>se aliquid esse. Cui videtur concordare idem Commentator supe primam propositionem de causis dicens sic. Cau 
+       <lb ed="#B" n="44"/>sa vniuersalis prima agit in causatum secundae antequam in ipsum agat causa vniuersalis secunda quae sequitur  
+       <lb ed="#B" n="45"/>ipsam. Et quid agit in illud primo antequam in illud agat causa secunda, exponit super quartam propositio- 
+       <lb ed="#B" n="46"/>nem super illud Prima rerum creatarum est esse. dicens sic. Quod est: quia est supe sensum &amp; super animam &amp; super  
+       <lb ed="#B" n="47"/>intelligentiam: &amp; non est post causam primam latius: neque prius causatum ipsa. Propterea ergo factum est 
+       <lb ed="#B" n="48"/>superius causatis omnibus &amp; vehementius vnicum: &amp; non est factum ita nisi propter propinquitatem suam 
+       <lb ed="#B" n="49"/>puro &amp; vni in quo non est multitudo aliquo modo. Et secundum hunc modum dicunt etiam quod propterea 
+       <lb ed="#B" n="50"/>esse proprie habeat esse in re per creationem: esse autem aliquid non nisi per quandam ipsius esse informa 
+       <lb ed="#B" n="51"/>tionem: non autem proprie per creationem. Vnde exponendo illud propositionis. xviii. Res omnes entes sunt pro 
+       <lb ed="#B" n="52"/>pter ens primum. dicit sic. Quod est: quia si omnis causa dat causato suo aliquid, tunc procul dubio ens primum 
+       <lb ed="#B" n="53"/>dat causatis suis omnibus ens. Et dicamus quod ens primum est quietum &amp; est causa causarum: &amp; si ipsa 
+       <lb ed="#B" n="54"/>dat omnibus rebus ens, tunc ipsum dat eis non per modum creationis, sed per modum formalem. 
+       <!--1155.xml-->
+       <pb ed="#B" n="557-v"/>
+        <lb ed="#B" n="1"/>Dico ergo ex praedictis quod in omni actione secundi agentis &amp; rei naturalis creatae cum eo quid pertinet ad  
+       <lb ed="#B" n="2"/>naturam illius, est in ipso aliquid quod est virtus agentis primi non principalis cuiusmodi est omne agens prima 
+       <lb ed="#B" n="3"/>rium praeter deum. &amp; hoc quia non potest esse praesens illi per suam substantiam: sicut praesens est deus omni rei: &amp; ideo  
+       <lb ed="#B" n="4"/>pont seipso operari: nec requiritur alia virtus eius vt videtur. Quae tamen virtus a quaecumque agente primo fuerit non pro 
+       <lb ed="#B" n="5"/>prie agit in eliciendo actum de materia aut subiecto: &amp; per illum attingendo ipsum productum: vt aliud agat virtus 
+       <lb ed="#B" n="6"/>ista: &amp; aliud calor in semine. secundum quod dicunt praedicti: immo non est quo formalitur agens agat aliquid in materia 
+       <lb ed="#B" n="7"/>nisi calor: vt tamen determinatus est ad determinatam formam substantialem per virtutem existentem in ipso a primo agen 
+       <lb ed="#B" n="8"/>te. Et hoc est quid dicit Comment. super. vii. Metaphysicae vbi supra. Apparet quod elementa non patiuntur nec agunt 
+       <lb ed="#B" n="9"/>nisi per qualitates: non per formas substantiales. vniuersaliter enim apparet quod non sunt hic potentiae agentes 
+       <lb ed="#B" n="10"/>nisi quatuor qualitates: &amp; istae non sunt formae substantiales: &amp; quod formae substantiales nec sunt actiuae 
+       <lb ed="#B" n="11"/>nec passiuae: &amp; quod actiuae &amp; passiuae sunt primae qualitates. Et quia ex istis sequitur vt agens istas formas 
+       <lb ed="#B" n="12"/>sint principia non materialia: ideo Auicena cum obediuit istis propositionibus, credidit omnes formas esse ab  
+       <lb ed="#B" n="13"/>intelligentia agente, quam vocat datorem formarum. Quod reuera non oportet sic intelligere. scilicet quod principia non ma 
+       <lb ed="#B" n="14"/>terialia sint separata omnino: sed principia non materialia agentia istas formas sunt virtutes dictae in se 
+       <lb ed="#B" n="15"/>mine: quae non sunt materialia: non quia non sunt in materia seminum: sed quia sunt sine materia formarum a 
+       <lb ed="#B" n="16"/>quibus habentur in semine: quemadmodum species sensibilium sunt in sensu sine materia. Sunt etiam dictae vir- 
+       <lb ed="#B" n="17"/>tutes in materia seminum non sicut in organo operantes siue determinantes ad vnicam operationem secundum  
+       <lb ed="#B" n="18"/>speciem: sed ad plures secundum diuersas formas membrorum generatorum ex seminibus: sicut facit intellectus per for 
+       <lb ed="#B" n="19"/>mam artis producendo similitudines diuersorum membrorum puta hominis in imagine hominis. propter quod virtutes 
+       <lb ed="#B" n="20"/>istae dicuntur esse similitudines formae intellectus &amp; artificis. dicente ibidem Comment. Et ideo dixit Aristines in libro  
+       <lb ed="#B" n="21"/>de animalibus, quod virtutes istae assimilantur intellectui: quia agunt actione intellectus hoc quod agunt, non per  
+       <lb ed="#B" n="22"/>instrumentum corporale. Ex quo patet quod virtutes istae non sunt veluti formae reales materiales puta 
+       <lb ed="#B" n="23"/>carnis vel ossis, aut sicut calor vel frigus: quia istae formae materiales quantum est ex se non agunt nisi deter  
+       <lb ed="#B" n="24"/>minatos actus ad quos sunt naturaliter: sed virtutes istae sunt veluti formae intentionales: quales sunt 
+       <lb ed="#B" n="25"/>vt dictum est species sensibilium in medio: &amp; adhuc sunt plus spiritales quanto minus ad actus determi-  
+       <lb ed="#B" n="26"/>nantur quam illae. Vnde &amp; consequenter conmentator post iam dicta immediate dicit. Et in hoc differunt istae virtu 
+       <lb ed="#B" n="27"/>tes generatiuae quas medici vocant formatiuas, a virtutibus naturalibus quae sunt in corporibus animalium. lstae enim 
+       <lb ed="#B" n="28"/>agunt actione intellectus operatiui: sed agunt per instrumenta terminata &amp; membra, propria: virtus autem formati 
+       <lb ed="#B" n="29"/>ua non agit per membrum, proprium. Et ideo dubitauit Galenus &amp; dixit: nescio vtrum ista virtus sit creator an  
+       <lb ed="#B" n="30"/>non sed vniuersaliter non agit nisi per calorem qui est in semine: non ita quod sit forma in eo: sicut anima in cor- 
+       <lb ed="#B" n="31"/>pore naturali: sed ita quod sit inclusa in eo: sicut anima est inclusa in corporibus caelestibus. Et aduerte quod so- 
+       <lb ed="#B" n="32"/>lum in hoc est simile quod virtutes istae non sunt materiales sicut virtutes dictae naturales sunt materiales:  
+       <lb ed="#B" n="33"/>&amp; in hoc etiam quod virtutes istae non agunt nisi per calorem determinando ipsum, sicut nec virtutes naturales:  
+       <lb ed="#B" n="34"/>&amp; etiam sicut intelligentiae non agunt secundum <name ref="#Aristotle">philosophum</name> in ista inferiora nisi per motum caeli quem determinant ad  
+       <lb ed="#B" n="35"/>speciem. Vnde sequitur Comment. &amp; dicit. Gonians igitur est illud quod mouet materiam donec recipiat formam. i. ex 
+       <lb ed="#B" n="36"/>trahat illam de potentia ad actum: &amp; illud quid mouet materiam necesse est esse fortius, habens quaelitatem actiuam 
+       <lb ed="#B" n="37"/>aut potentiam quae agit per corpus habens qualitatem actiuam. Et errauerunt omnes, quia non intellexerunt demon  
+       <lb ed="#B" n="38"/>strationes Aristo. &amp; ideo posuerunt vnum agens non corpus. sed illud est ipossibile vt transmutet materiam 
+       <lb ed="#B" n="39"/>nisi mediante alio non trasmutabil scilicet corpore caelesti: &amp; ideo impossibile est vt aliquae formae separatae dent 
+       <lb ed="#B" n="40"/>aliquam formam mixtorum in materia. Et ideo dico quod causae secundae secundum quod secundum ordinem se habent sub pri 
+       <lb ed="#B" n="41"/>ma. secundum hoc regunt inferiora per virtutem superiorem quam in se recipiunt. iuxta hoc quid dicit Comment, nona 
+       <lb ed="#B" n="42"/>propositione de causis. Intelligentia est regens omnes res quae sunt sub ea per virtutem diuinam: &amp; secundum eam est causa. 
+       <lb ed="#B" n="43"/>&amp; sicut natura est regens res quae sunt sub ea per virtutem intelligentiae, similiter intelligentia regit naturam per virtutem di  
+       <lb ed="#B" n="44"/>uinam. Et intelligentia quidem comprehendit generata &amp; naturam &amp; horizonta nature. scilicet animam. Nam ipsa est supra na 
+       <lb ed="#B" n="45"/>turam: quia natura continet generationem: &amp; anima continet naturam: &amp; intelligentia continet animam. ergo intelligen 
+       <lb ed="#B" n="46"/>tia continet omnes res. &amp; non est facta ita nisi per causam primam quae supereminet omnibus rebus, &amp; non est intelligentia 
+       <lb ed="#B" n="47"/>nec anima nec natura: immo super intelligentiam animam &amp; naturam: &amp; causans omnes res. Sic ergo dico quod calor se 
+       <lb ed="#B" n="48"/>minis attingit immediate formam generatam &amp; eam educit de potentia matiae, quam prius digerendo temporate calefacit 
+       <lb ed="#B" n="49"/>vt disponendo eam per altationem vt fieret necessitas ad educendum formam de illa per generationem. &amp; sic vna &amp; ea 
+       <lb ed="#B" n="50"/>dem vis caloris in semine agit quicquid sit in generato &amp; secundum formam substantialem &amp; secundum formas accidentales:  
+       <lb ed="#B" n="51"/>&amp; hoc per actionem dictae virtutis in calore quae ipsum determinat: quemadmodum dixi in Quolibet praecedenti, quod vo 
+       <lb ed="#B" n="52"/>luntas elicit actiones meritorias in virtute charitatis. Et hunc modum productionis scilicet ab vno producente in crea 
+       <lb ed="#B" n="53"/>turis productis ab aliis creaturis, esse tenendum puto: &amp; quod quicquid est in producto producitur in isto a calore informa 
+       <lb ed="#B" n="54"/>to &amp; determinato dicta virtute: &amp; similiter in productl immediate ab agente omnino prim scilicet a deo, siue mediate ab  
+       <!--1156.xml-->
+       <pb ed="#B" n="558-r"/>
+        <lb ed="#B" n="1"/>alio sub isto. Quorum productio licet sit totaliter a prima causa superiori siue per virtutem eius a cau- 
+       <lb ed="#B" n="2"/>sa inferiori: semper tamen eodem principio producitur quicquid producitur in illa: &amp; est idem opus in quo communicant agens 
+       <lb ed="#B" n="3"/>secundum &amp; primum, siue sit deus siue aliud: &amp; secundum totum est causatum causae primae: &amp; similiter causae secun 
+       <lb ed="#B" n="4"/>dae: quia dans esse dat tale esse: &amp; dans viuere dat tale viuere: quia semper idipsum sunt in eodem: sicut in  
+       <lb ed="#B" n="5"/>eodem idem sunt vniuersale &amp; singulare. Quid alii concedunt: sed distinguunt dicendo quod deus &amp; natura idem 
+       <lb ed="#B" n="6"/>faciunt secundum totum immediate sed non totaliter: vt videlicet deus intelligatur facere in re esse immediate 
+       <lb ed="#B" n="7"/>&amp; esse aliquid mediante natura: sed natura immediate aliquid esse: &amp; mediante diuina virtute agente esse 
+       <lb ed="#B" n="8"/>simpliciter, quod licet sit idem, tamen posterius est seipso: &amp; dependet a seipso vt est a causa prima. Sed melius 
+       <lb ed="#B" n="9"/>vt puto dici potest, dicende. scilicet quod id quod dignius est in re producta principaliter soletur attribui causae supe 
+       <lb ed="#B" n="10"/>riori propter quid etiam quando tota res immediate a deo producitur: ipse dicitur producere esse in ea secun 
+       <lb ed="#B" n="11"/>dum quod est ens, quod est dignior ratio in deo: &amp; viuere secundum quod est vita: &amp; intelligere secundum quod est intelli 
+       <lb ed="#B" n="12"/>gentia. vt dicitur in. xviii. propositione de causis, &amp; etiam in Commento. Et etiam similiter quando res immediate pro 
+       <lb ed="#B" n="13"/>ducitur a secunda causa, licet totaliter producatur ab vno principio, tamen propter cooperationem 
+       <lb ed="#B" n="14"/>quam facit deus in illam producendo, esse attribuitur ei: &amp; esse aliquid causae secundae: &amp; quia licet aliquid contrahit 
+       <lb ed="#B" n="15"/>siue a deo immediate producatur res, siue mediante causa secunda, semper dicitur esse fieri per creationem: &amp; 
+       <lb ed="#B" n="16"/>aliquid esse per informationem. Quae intellexit commentator supe Boetium de hebdomadibus, &amp; librum de causis 
+       <lb ed="#B" n="17"/>&amp; secundum hoc intelligenda &amp; exponenda sunt ista commenta. falsum enim &amp; non intelligibile est quod in  
+       <lb ed="#B" n="18"/>eis quae fiunt in naturalibus actione naturali, esse sit causatum quid a deo, &amp; aliquid determinans ipsum 
+       <lb ed="#B" n="19"/>sic productum a creatura: nisi esse &amp; essentia rei ponantur secundum rem differre, sscut aliqui posuerunt 
+       <lb ed="#B" n="20"/>contra quos alias sufficienter disputaui. Sed nec sic loquitur de illis Comment. in praedictis locis scilicet pr esse existen- 
+       <lb ed="#B" n="21"/>tiae: sed solum pro esse essentiae: quod est analogum ad decem praedicamenta in re cui acquiritur esse existentiae. 
+       <lb ed="#B" n="22"/>quidquid sit, etiam alibi saris exposuimus. Magnum ergo inconueniens est dicere quod sicut agentia secunda nihil 
+       <lb ed="#B" n="23"/>possunt agere nisi in virtute agentis primi: sic effectus secundorum agentium non potest in esse produci nisi ei 
+       <lb ed="#B" n="24"/>substernatur effectus agentis primi: vt sicut agens praesupponit agens, sic effectus praesupponat ef- 
+       <lb ed="#B" n="25"/>fectum. nisi forte quo ad hoc quod effectu agentis secundi natura prior est effectus agentis primi: sicut ille 
+       <lb ed="#B" n="26"/>prius natura agit in subiectum quam agens secundum. Nec est ergo ponendum quod nihil creatum quicquam  
+       <lb ed="#B" n="27"/>agat: sed quod omnis actio &amp; omnis motio atque operatio &amp; similiter omne factum siue operatum sit a solo  
+       <lb ed="#B" n="28"/>deo. Nulla est enim creatura quae caret propria operatione: quia operatio sequitur formam non solum in  
+       <lb ed="#B" n="29"/>spiritalibus: sed etiam in corporalibus. secundum <name ref="#Aristotle">philosophum</name> in fine quarti Meteororum. &amp; quaedam illarum non solum ha 
+       <lb ed="#B" n="30"/>bent propriam: sed aliquid sua actione producunt, non solum secundum formam accidentalem disponendo subiectum 
+       <lb ed="#B" n="31"/>ad susceptionem formae substantialis: sed etiam attingendo formam substantialem: &amp; ipsam in esse producendo: li 
+       <lb ed="#B" n="32"/>cet non ipsum productum in esse conseruando. quia licet domificator sit causa domus secundum fieri esse eius, non  
+       <lb ed="#B" n="33"/>tamen secundum permanentiam eiusdem: qualis est causa prima quae est deus, non derelinquens causatum: qui se ha-  
+       <lb ed="#B" n="34"/>bet ad rem productam in esse non sicut aedificator ad domum quae manet aedificatore corrupto: sed sicut 
+       <lb ed="#B" n="35"/>aedificator ad fieri siue aedificium domus: respectu cuius non est aedificator causa nisi in actu aedificandi 
+       <lb ed="#B" n="36"/>existens. deus enim semper est causa in actu existens cuiuslibet creaturae. Quod intelligo non quo ad actum pro 
+       <lb ed="#B" n="37"/>ducendi eam in esse: quasi productio eius semper sit in fieri: sed quo ad actum conseruandi in facto esse 
+       <lb ed="#B" n="38"/>quemadmodum stante corpore luminoso lumen in diaphano non est semper in fieri ab illo sed conseruatur ab ipso 
+       <lb ed="#B" n="39"/>in facto esse secundum quod alias declarauimus. Sed tamen non sequitur ex hoc quod deus immediate omnem crea- 
+       <lb ed="#B" n="40"/>turam conseruat, quod sit causa eius secundum actum immediate: sed solummodo quod sit causa fieri eius in esse 
+       <lb ed="#B" n="41"/>siue immediate siue mediate: &amp; hoc vel mediante sola potentia naturali data creaturae, vel cum hoc vir 
+       <lb ed="#B" n="42"/>tute eius illi influxa. Quocumque istorum modorum post primam rerum productionem operetur adhuc in fieri 
+       <lb ed="#B" n="43"/>earum, certum tamen sit quod adhuc operetur in fieri earum: quod pertinet ad mundi gubernationem 
+       <lb ed="#B" n="44"/>&amp; conseruatione earum: quod pertinet ad mundi esse. dicente <name ref="#Augustine">Augustinus</name> iiii. super Genetur. ca. xiiii. Neque enim sicut stru 
+       <lb ed="#B" n="45"/>ctor aliquid cum fabricauerit abscedit: atque illo cessante &amp; abscedente stat opus eius: ita mundus vel ictu 
+       <lb ed="#B" n="46"/>oculi stare poterit si eidem regimen sui subtrahit. Proinde etiam quid dominus ait, Pater meus vsque nunc 
+       <lb ed="#B" n="47"/>operatur, continuationem quandam operis eius quae vniuersam creaturam continet atque administrat ostendit. ali 
+       <lb ed="#B" n="48"/>ter enim posset intelligi si diceret, nunc operatur: vt non esset necesse vt operis continuationem acciperemus. 
+       <lb ed="#B" n="49"/>aliter autem cogit intelligi cum ait, vsque nunc: ex ille. scilicet cum conderet operatus est. Nota quod ait <name ref="#Augustine">Augustinus</name> Si diceret, nunc 
+       <lb ed="#B" n="50"/>operatur, non necesse esset operis continuationem intelligi: vt scilicet in opere omnis creaturae operaretur alitur quam dando ei ab initio 
+       <lb ed="#B" n="51"/>vires operandi: sed cum dicit vsque nunc, insinuando operum productionem innuit quod alitur operatur modo quam immediate pro-  
+       <lb ed="#B" n="52"/>ducende. scilicet producta a creaturl conseruando. Sed an sic solum, non exprimit: quod expressisset si dixisset Gen. ii. Re 
+       <lb ed="#B" n="53"/>quieuit ab omni opere faciendo, quando dixit, Requeuit ab omni opere quod fecit. dicente <name ref="#Augustine">Augustinus</name> consequenter. ca. xviii. Ab  
+       <lb ed="#B" n="54"/>omni quid fecit in seipso requeuit: e. scilicet requie a qua numquam recessit. Sed si diceret requeuisse a faciendis, nihil aliud  
+       <!--1157.xml-->
+       <pb ed="#B" n="558-v"/>
+        <lb ed="#B" n="1"/>quam non fecisse intelligeretur. Descendendo igitur ad quaestionem de supradicta virtute, vtrum sit mansiua  
+       <lb ed="#B" n="2"/>in agente secundo: dico, quod in omnibus agentibus naturalibus ipsa est mansiua: sed diuersimode secundum diuer 
+       <lb ed="#B" n="3"/>sitatem recipientium. vt in seminibus est mansiua si foueatur vt debet vsque ad certum. tempus infra quod na-  
+       <lb ed="#B" n="4"/>tum est quid produci de eo in quo est, puta in semine equi si recipiatur in matrice equae &amp; calore eius fo 
+       <lb ed="#B" n="5"/>ueatur: si autem extra, ceciderit cum calore, per frigus statim corrumpitur. &amp; similiter: in grano &amp; in ouo 
+       <lb ed="#B" n="6"/>per aliquid tempus, nisi nimium calore vel frigore alteretur: infra quid si prius quam in grano aut, ouo per anti 
+       <lb ed="#B" n="7"/>quitatem grani aut oui virtus ista deficiat, granum. tempore congruo committatur terrae &amp; fomento 
+       <lb ed="#B" n="8"/>solis, &amp; ouum fomento alarum gallinae, producit effectum suum de ouo &amp; grano. Et quod intantum est mam 
+       <lb ed="#B" n="9"/>siua in rebus naturalibus est a diuina ordinatione: quae vim ealem influi in causis secundis a primis 
+       <lb ed="#B" n="10"/>ordinauit: &amp; sic tanto tempore conseruat quanto dedit imnatura illarum posse conseruari, quid dedit qui-  
+       <lb ed="#B" n="11"/>busdam quo ad longius tempus, quibusdam quo ad breuius. &amp; sic processit primum argumentum. Quam 
+       <lb ed="#B" n="12"/>tum enim est de se, deus singula, aequaliter conseruat in esse: quae. tamen diuersimode conseruantur 
+       <lb ed="#B" n="13"/>secundum diuersitatem ipsarum rerum. Propter quid dicitur. xxiiii. propositione de causis. Causa prima exi 
+       <lb ed="#B" n="14"/>stit in rebus omnibus secundum dispositionem vnam: sed omnes res non existunt in ea secundum dispositio 
+       <lb ed="#B" n="15"/>nem vnam. Quod est sicut dicit commentator: quia quamuis causa prima existat in omnibus rebus: tamen vna 
+       <lb ed="#B" n="16"/>quaeque rerum recipit eam secundum modum potentiae suae: quod est quia ex eis sunt quae recipiunt eam re- 
+       <lb ed="#B" n="17"/>ceptione aeterna: &amp; ex eis sunt quae recipiunt eam receptione temporali. Et secundum, hoc forte sicut 
+       <lb ed="#B" n="18"/>virtus dicta est principians rem naturalem in esse: sic est mouens in ea: &amp; principium conseruans eam in  
+       <lb ed="#B" n="19"/>esse. secundum quod econverso dicunt aliqui de deo, quod ex hoc quod ponitur principium immediatum conseruandi quan- 
+       <lb ed="#B" n="20"/>libet rem in esse, oportet quod ponatur etiam immediatum principium producendi quamlibet rem in esse, si 
+       <lb ed="#B" n="21"/>cut iam dictum est. sed hoc non nisi sicut. causa vniversalis prima: quae secundum Dionysium quarto de di, no, quan-  
+       <lb ed="#B" n="22"/>tum est de se vniformiter in omnibus operatur: &amp; non accidit diuersitas nisi a secundis causis median- 
+       <lb ed="#B" n="23"/>tibus quibus operatur, quae inter se difformes sunt. Quod bene probat deum non operari effectus nisi me 
+       <lb ed="#B" n="24"/>diantibus causis secundis etiam quo ad esse simpliciter: licet hoc non asseram vt dixi in principio: sicut 
+       <lb ed="#B" n="25"/>nec contrarium eius: eo quod vtrumque impertinens est ad propositam quaestionem. In artificialibus autem: quia  
+       <lb ed="#B" n="26"/>ars non agit nisi ab extra circa rem: &amp; ita non nisi per motum. localem: nec est virtus artis in instru 
+       <lb ed="#B" n="27"/>mento puta in securi, nisi motus quidam regularis a voluntate iuxta regulam artis in intellectu artificis: ideo 
+       <lb ed="#B" n="28"/>non inest in aliquo instrumento cum manum exit: aut cum manus a motu cessat. secundum quod procedit secunda ratio.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

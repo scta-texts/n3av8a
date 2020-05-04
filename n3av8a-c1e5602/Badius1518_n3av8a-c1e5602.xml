@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="578-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5602">
+       <head xml:id="n3av8a-c1e5602-Hd1e96">Quaestio 6</head>
+       <p xml:id="n3av8a-c1e5602-d1e99">
+        <lb ed="#B" n="24"/>Equuntur quaesita pertinentia ad causata absoluta. vbi primo quaerebatur vnum de 
+       <lb ed="#B" n="25"/>accidente. Vtrum scilicet sit possibile ponere plures &amp; diuersas formas accidentales 
+       <lb ed="#B" n="26"/>differentes solo numero simul in eodem subiecto indiuisibilitur. Deinde quaerebantur plu 
+       <lb ed="#B" n="27"/>ra alia de substantia. Circa illud vnicum arguitur quod sic. Primo sic. Diuersa visibilia, 
+       <lb ed="#B" n="28"/>puta alba, vel lucida, aequaliter multiplicant species, siue similitudines, siue intentiones suas 
+       <lb ed="#B" n="29"/>in eadem parte medii: ita quod intentione vnius corrupta ad eius absentiam manet inten 
+       <lb ed="#B" n="30"/>tio alterius in illo. hoc autem non posset esse, nisi a diuersis essent diuersae intentio- 
+       <lb ed="#B" n="31"/>nes simul in eadem parte medii. ergo &amp;c. Secundo sic. Si esset eadem species, siue intentio in medio diuer 
+       <lb ed="#B" n="32"/>sorum alborum, cum per illud quid ab eis diffunditur in medium, mouent visum: essent duo alba, quorum vnum es- 
+       <lb ed="#B" n="33"/>set magis album, &amp; alterum minus, aequaliter ergo mouerent visum: &amp; per hoc iudicarentur a visu fo 
+       <lb ed="#B" n="34"/>re aequaliter alba: consequens falsum est. ergo &amp;c. Tertio sic. <name ref="#Aristotle">Philosophous</name> dicit in. v. Physicorum, quod duo  
+       <lb ed="#B" n="35"/>accidentia in eodem subiecto, puta duae sanitates: quarum vna corrumpitur in mane: &amp; altera generatur in  
+       <lb ed="#B" n="36"/>vespere, non possunt esse eadem sanitas numero, &amp; hoc propter diuersos motus quibus generatae sunt. 
+       <lb ed="#B" n="37"/>quare cum diuersis motibus fiat generatio intentionis in medio a diuersis albis. ergo &amp;c. In contrarium 
+       <lb ed="#B" n="38"/>est, quia accidens non numeratur nisi per subiectum, quasi subiecto existente vno, &amp; eodem, &amp; acci- 
+       <lb ed="#B" n="39"/>dens eiusdem speciei non numeratur: sed est idem secundum numerum. Dico quod cum secundum philosophum. xii. Metaph. &amp; cla 
+       <lb ed="#B" n="40"/>rius secundum Conmentatorem suum ibidem, omnes formae, quae sunt in primo motore in actum, sunt in prima ma- 
+       <lb ed="#B" n="41"/>teria in potentia: &amp; est sermo suus ibidem de generabilibus formis, &amp; corruptibilibus: correspondentiam ergo  
+       <lb ed="#B" n="42"/>habent inter se esse formarum secundum actum, &amp; secundum potentiam in prima materia. Sunt autem 
+       <lb ed="#B" n="43"/>formae in primo motore in actu per rationes ideales, quae sunt principia actiua &amp; cognitiua, &amp; productiua 
+       <lb ed="#B" n="44"/>illarum. In prima autem materia sunt in potentia per potentias materiae receptiuas, siue passiuas. Quare 
+       <lb ed="#B" n="45"/>cum respectu vnius speciei, &amp; omnium indiuiduorum illius non est nisi vnica idea in primo motore, qui  
+       <lb ed="#B" n="46"/>est deus, vt in quodam alio Quolibet determinauimus secundum beatum <name ref="#Augustine">Augustinus</name> similiter ergo &amp; in prima 
+       <lb ed="#B" n="47"/>materia respectu vnius speciei, &amp; omnium indiuiduorum illius non est nisi vnica potentia passiua, siue re- 
+       <lb ed="#B" n="48"/>ceptiua. Ex vnica autem &amp; eadem potentia passiua in eodem secundum numerum non potest produci, aut esse fi- 
+       <lb ed="#B" n="49"/>mul in eodem tempore plus quam vnica forma secundum numerum, quia potentia terminatur per quencumque actum vnum  
+       <lb ed="#B" n="50"/>ad quem est. Idcirco igitur mihi videtur, quod plures tales formae differentes numero non possunt simul esse in  
+       <lb ed="#B" n="51"/>eodem subiecto. Concedo igitur vltimam rationem. Ad primam in contrarium de intentionibus visibilium in me 
+       <lb ed="#B" n="52"/>dio, propter quas, vt puto, mota fuit quaestio, quod diuersa visibilia aequaliter multiplicant suas species 
+       <lb ed="#B" n="53"/>in eandem partem medii, sic quod species vnius manet specie alterius corrupta, quod non posset esse, si essent eaedem 
+       <lb ed="#B" n="54"/>species numero: Dico quod si illa multiplicatio speciei a diuersis visibilibus esset per migrationem alicu 
+       <!--1197.xml-->
+       <pb ed="#B" n="578-v"/>
+        <lb ed="#B" n="1"/>isus permanentis in esse suo a visibili in medium, aliquid valeret maior illa, nec aliter veritatem habere potest. 
+       <lb ed="#B" n="2"/>Nunc autem non est ita, quia secundum Boetium super Porphyrium, Accidentia perimi possunt, alterari autem non 
+       <lb ed="#B" n="3"/>possunt scilicet a subiecto in subiectum migrando. Nunc autem cum species visibilium non fiant in medio, nisi per 
+       <lb ed="#B" n="4"/>naturalem generationem de potentia medii, &amp; hoc, modo generationis aliarum formarum materialium: li 
+       <lb ed="#B" n="5"/>cet debilius esse quam aliae habeant: de eadem autem potentia sub eadem specie, vt dictum est, simul in eo- 
+       <lb ed="#B" n="6"/>dem numero nec esse nec generari possunt plusquam vna &amp; eadem species numero: impossibile est ergo,  
+       <lb ed="#B" n="7"/>quod diuersae formae secundum numerum solum etiam a diuersis agentibus, siue generantibus habeant esse in ea- 
+       <lb ed="#B" n="8"/>dem parte medii. Immo quodlibet illorum vniformiter alteri mouet medium ad generationem speciei secun 
+       <lb ed="#B" n="9"/>dum rationem illius vnicae potentiae, ac si solummodo vnum illorum moueret. &amp; sic ad eandem formam secundum nu 
+       <lb ed="#B" n="10"/>merum generandam quodlibet illorum secundum virtutem suam mouet, &amp; concurrunt in eundem effectum nu- 
+       <lb ed="#B" n="11"/>mero: sicut concurrunt diuersi trahentes in vnicum tractum eiusdem nauis secundum numerum: &amp; diuersi 
+       <lb ed="#B" n="12"/>ignes ad calefaciendum aquam eandem vnico calore secundum numerum &amp; gradum caloris, ad quem nullus illo- 
+       <lb ed="#B" n="13"/>rum attingere per se potuisset. Quid autem arguitur apparenter contra hoc, quod generatum ab vno illorum po  
+       <lb ed="#B" n="14"/>test corrumpi, non corrupto, sed manente eo quod generatum est ab altero: Dico quod non est verum. immo to 
+       <lb ed="#B" n="15"/>ta species vna &amp; eadem per essentiam secundum numerum manet ad praesentiam vnius generantium il- 
+       <lb ed="#B" n="16"/>lam, licet minus intensa, quam fuit generata ad praesentiam plurium agentium, pro quanto efficacius, &amp; in  
+       <lb ed="#B" n="17"/>tensius mouebant ad generationem illius plures simul, quam vnus, aut pauciores tantum. Et hoc quemadmodum plu 
+       <lb ed="#B" n="18"/>res simul intensius mouerent nauem motu veloci, quam quilibet illorum per se, aut pauciores simul mouerent motu  
+       <lb ed="#B" n="19"/>lento. Vnde species illa generata ad praesentiam plurium, vel pauciorum generantium illam, &amp; conseruantium eam in esse, non 
+       <lb ed="#B" n="20"/>differt nisi secundum magis intensum, &amp; minus intensum, quae vniuersaliter in eodem subiecto secundum numerum 
+       <lb ed="#B" n="21"/>non possunt differre secundum numerum, sicut in diuersis subiectis non praesent differre secundum speciem. Ad secundum  
+       <lb ed="#B" n="22"/>quod videtur directe facere contra iam dicta, quod si eadem species esset in medio, a magis albo, &amp; minus albo, iu 
+       <lb ed="#B" n="23"/>dicarentur ergo a visu fore aequaliter alba, dico quod species rei visibilis in medio non tantum ex hoc mouet ad  
+       <lb ed="#B" n="24"/>determinate videndum aliquod visibile, quid est species simpliciter ipsius visibilis: sed cum hoc requiritur visibile 
+       <lb ed="#B" n="25"/>in oppositione secundum lineam rectam per illud medium ad pupillam visus. Vnde per speciem existentem in me 
+       <lb ed="#B" n="26"/>dio secundum veritatem, &amp; non rectam oppositionem ad visum, nullo modo potest visus moueri ad videm 
+       <lb ed="#B" n="27"/>dum visibile a quo generata est, dum illud ex obliquo se habet ad pupillam oculi. &amp; sic non potest mo 
+       <lb ed="#B" n="28"/>uere visum species in medio, nisi ad rectam oppositionem mediante illa visibile habeat se respectu visus, si 
+       <lb ed="#B" n="29"/>cut non potest species ipsum mouere nisi quatenus generata est a visibili se habente ad talem rectam op 
+       <lb ed="#B" n="30"/>positionem. Quare cum ad rectam talem oppositionem non sit generata nisi secundum gradum intensionis respondem 
+       <lb ed="#B" n="31"/>tis virtuti &amp; intensioni visibilis directe oppositi: idcirco species intensa a pluribus visibilibus in me- 
+       <lb ed="#B" n="32"/>dio ad quodlibet illorum videndum mouet secundum gradum intensionis, in quo nata esset generari a quolibet 
+       <lb ed="#B" n="33"/>illorum per se, &amp; ad nullum illorum videndum mouet secundum gradum totius intensionis suae. immo non plus mouet 
+       <lb ed="#B" n="34"/>ad videndum quodlibet illorum, quam moueret ad videndum aliquod illorum species generata ab illo solo. propter 
+       <lb ed="#B" n="35"/>quod per eandem speciem bene diuersimode iudicatur de magis albo, &amp; minus albo, &amp; vnum illorum iudicatur esse 
+       <lb ed="#B" n="36"/>albius altero. Ad tertium, quod non potest eadem species numero in aliquo eodem numero generari diuersis 
+       <lb ed="#B" n="37"/>motibus, sicut fit generatio in medio a diuersis visibilibus: Dico quod falsum est, quando sunt mouentia vni 
+       <lb ed="#B" n="38"/>formiter, &amp; simul, vt patet in tractum nauis, &amp; generatione caloris in aqua, sicut dictum est. &amp; cum hoc, 
+       <lb ed="#B" n="39"/>licet simul non agerent: sed agens posterius inueniret manens quod actum est a priore agente, vt contingere pos 
+       <lb ed="#B" n="40"/>set in tractu eiusdem nauis a pluribus successiue: &amp; similiter in calefactione eiusdem aquae a pluribus igni- 
+       <lb ed="#B" n="41"/>bus successiue, tamen actum a primo augeretur a secundo, &amp; est vnum &amp; idem essentia. Et similiter si 
+       <lb ed="#B" n="42"/>vnum album primo generet speciem suam in medio per se absque alio, &amp; maneat, &amp; conseruet speci- 
+       <lb ed="#B" n="43"/>em a se generatam in medio, tunc altero albo adueniente in recta oppositione ad illud medium, spe 
+       <lb ed="#B" n="44"/>ciem illam intendit, &amp; est eadem numero a diuersis motibus, vel ab initio generata, &amp; posterius au 
+       <lb ed="#B" n="45"/>cta. Sed si sint diuersa mouentia idem subiectum vel medium, successiue prius corrupto generato ab vno, quam 
+       <lb ed="#B" n="46"/>sequatur motus ab alio, in hoc casu solum loquitur philosophus, &amp; bene, quod non potest esse eadem forma: pu- 
+       <lb ed="#B" n="47"/>ta sanitas corrupta in mane, &amp; regenerata in vespere.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

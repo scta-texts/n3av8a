@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="99-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1398">
+      <head xml:id="n3av8a-c1e1398-Hd1e96">Quaestio 9</head>
+      <p xml:id="n3av8a-c1e1398-d1e99">
+       <lb ed="#B" n="17"/>CIrca secundum arguitur, quod ex puris naturalibus ab intellectu creato possit videri 
+       <lb ed="#B" n="18"/>nuda diuina essentia. Quoniam quicquid est in deo, deus est. ergo idea creaturae in  
+       <lb ed="#B" n="19"/>deo est diuina essentia. creatura autem est similis suae ideae: &amp; simile habet cognosci per  
+       <lb ed="#B" n="20"/>simile. Cum ergo intellectus creatus ex puris naturalibus potest cognoscere nude crea 
+       <lb ed="#B" n="21"/>turam: ergo &amp; ideam eius: &amp; sic diuinam essentiam. 
+      </p>
+      <p xml:id="n3av8a-c1e1398-d1e112">
+       CONtra. tunc ex puris natu  
+       <lb ed="#B" n="22"/>ralibus posset creatura esse beata: quia nuda visio diuinae essentiae facit beatum. 
+      </p>
+      <p xml:id="n3av8a-c1e1398-d1e117">
+       DI 
+       <lb ed="#B" n="23"/>cendum ad hoc, quod nulla vis pure naturalis siue actiua siue passiua, neque in agen- 
+       <lb ed="#B" n="24"/>do in aliud, neque in recipiendo in se actionem alterius potest se extendere vltra limites suae naturae. Vn  
+       <lb ed="#B" n="25"/>de cum actus cognitionis contingit secundum quod cognitum habet esse &amp; recipi in cognoscente: &amp; hoc se 
+       <lb ed="#B" n="26"/>cundum modum non cogniti sed cognoscentis, cognoscibile ergo quod natum est esse in cognoscente limita- 
+       <lb ed="#B" n="27"/>to secundum modum limitationis suae quam habet in cognoscendo, ab illo potest cognosci: &amp; quid omnino  
+       <lb ed="#B" n="28"/>excedit modum limitationis suae in cognoscendo, nullo modo habet ab ipso cognosci. &amp; hoc ideo: quia non 
+       <lb ed="#B" n="29"/>est natum esse in ipso secundum modum limitationis suae in cognoscendo. verbi gratia, virtus sensitiua 
+       <lb ed="#B" n="30"/>quia habet limitatum modum in cognoscendo, scilicet per organum corporeum, cognoscere habet illa quae  
+       <lb ed="#B" n="31"/>specie corporali habent esse in cognoscente: vt sunt sensibilia in materia singulari indiuiduali existentia:  
+       <lb ed="#B" n="32"/>non autem illa quae sine specie corporali habent esse in cognoscente: vt sunt vniuersalia rerum sensibi 
+       <lb ed="#B" n="33"/>lium: quae nata sunt esse in intellectum nostro: vt noster est coniunctus secundum statum sibi naturalem 
+       <lb ed="#B" n="34"/>eo quod non est virtus organica: per organum tamen vniuersalium rerum sensibilium receptiua: &amp; ideo ha  
+       <lb ed="#B" n="35"/>bent intelligi ab illo: non autem illa quae sine adminiculo sensuum habent esse in intellectum: vt sunt quidi-  
+       <lb ed="#B" n="36"/>tates rerum immaterialium quae habent intelligi ab intellectu superiori angelico: eo quod omnino abstractus 
+       <lb ed="#B" n="37"/>est a materia. Quia tamen limitatus est naturaliter secundum magnitudinem determinatam virtutis co- 
+       <lb ed="#B" n="38"/>gnitiuae receptione alterius per cognitionem: ne sine aliqua informatione a cognito aliquid possit cognosce- 
+       <lb ed="#B" n="39"/>re: eo quod nuda essentia sua non est ratio formalis alicuius alterius naturae a se: hoc enim solius diuinae es- 
+       <lb ed="#B" n="40"/>sentiae proprium est: illud ergo quod omnino excedit virtutem eius, nullo modo potest cognoscitiuum creatum 
+       <lb ed="#B" n="41"/>illud capere in se per cognitionem: cuiusmodi est diuina essentia nuda: quia vt supra ostensum est, nullam 
+       <lb ed="#B" n="42"/>potest habere speciem sibi similem qua informetur intellectus creatus ad se naturaliter intelligendum tanquam  
+       <lb ed="#B" n="43"/>principium proximum intra eliciens actum intelligendi circa praesens intelligibile: sicut species praesentis rei 
+       <lb ed="#B" n="44"/>in oculo elicit actum quo naturaliter illam videt: ita quod necesse est hoc videri ab illo. Quia ergo diuina 
+       <lb ed="#B" n="45"/>substantia nuda plus excedit in infinitum in intelligendo capacitatem summi intellectus creati quam excedant 
+       <lb ed="#B" n="46"/>quiditates rerum immaterialium capacitatem intellectus nostri coniuncti ad capiendum ipsas per cognitio- 
+       <lb ed="#B" n="47"/>nem ex puris naturalibus eius: etiam absque omnis speciei informatione: nullo igitur modo ab intellectum quocumque  
+       <lb ed="#B" n="48"/>creato potest intellectualiter videri ex puris naturalibus nuda diuina essentia. Ad cuius intellectum 
+       <lb ed="#B" n="49"/>sciendum: quod sicut est in sensibili respectu sensus naturalis optime dispositi: quod aliquando est aliquid sensi- 
+       <lb ed="#B" n="50"/>bile virtute: quid tamen est insensibile actione: secundum enim quod dicit <name ref="#Aristotle">philosophus</name> in de sensu &amp; sensato, 
+       <lb ed="#B" n="51"/>Decimum millesimum milii fallit visum: &amp; hoc propter suam paruitatem in quantitate molis: Color 
+       <lb ed="#B" n="52"/>enim non est oculo visibilis actione nisi sub aliqua determinata quantitate molis: licet ex se virtute vi 
+       <lb ed="#B" n="53"/>sibilis sit: si esset limpiditas visus sufficiens ad ipsum discernendum: facit enim se inuisum vt sit vi 
+       <lb ed="#B" n="54"/>sus: &amp; quamuis circa ipsum fallatur, tamen supeuenit, vt dicit philosophus: sic suo modo est in intelligibili 
+       <!--239.xml-->
+       <pb ed="#B" n="99-v"/>
+       <lb ed="#B" n="1"/>respectu intellectus naturalis creati optime dispositi: quod aliquando est aliquid intelligibile virtute: quid  
+       <lb ed="#B" n="2"/>tamen est inintelligibile actione: &amp; hoc propter suam paruitatem in simplicitate virtutis. intelligibile enim non 
+       <lb ed="#B" n="3"/>est intelligibile ab intellectu creato: nisi sub determinata quantitate virtutis secundum simplicitatem perfectionis 
+       <lb ed="#B" n="4"/>in esse. Vnde propter simplicitatem nimiam persectionis in esse suo quiditatiuo, excedit vniuersale rerum 
+       <lb ed="#B" n="5"/>sensibilium notitiam sensus: &amp; vniuersale rerum immaterialium notitiam intellectus coniuncti. Nunc autem in  
+       <lb ed="#B" n="6"/>infinitum paruitas simplicitatis diuinae essentiae in perfectione plus excedit supremum intellectum creatum 
+       <lb ed="#B" n="7"/>qui posset esse: quam excedat simplicitas quiditatis rerum immaterialium intellectum nostrum coniunctum: &amp; 
+       <lb ed="#B" n="8"/>quam quantitatis centesimi millesimi milii excedat visum: quia posset augeri vsque ad granum finitum acumen 
+       <lb ed="#B" n="9"/>visus secundum proportionem gradus finiti quo illud milii excedit in paruitate illud quod visibile est actio- 
+       <lb ed="#B" n="10"/>ne: &amp; ab illo videri posset iam factum proportionale. Augmentando autem in infinitum acumen intellectus 
+       <lb ed="#B" n="11"/>creati: nunquam posset ascendere vt fieret proportionale simplicitati infinitae diuinae essentiae: quia simplici- 
+       <lb ed="#B" n="12"/>tas diuinae essentiae excedit in infinitum in simplicitate simplicitatem cuiuslibet intelligibilis in creatu- 
+       <lb ed="#B" n="13"/>ris: non autem paruitas millesimi milii exceditur in infinitum a quocumque maxime visibili. Illud enim mi- 
+       <lb ed="#B" n="14"/>nimum saepius multiplicatum quandoque excedet maximum. Simplicitas autem creaturae aucta in infinitum, numquam 
+       <lb ed="#B" n="15"/>proportionale tanquam naturaliter cognoscens attinget simplicitatem diuinae essentiae. Propter quod dicendum 
+       <lb ed="#B" n="16"/>est absolute, quod diuina essentia naturaliter inuisibilis est a quolibet intellectu naturali. ex puris natura 
+       <lb ed="#B" n="17"/>libus dico. Et hoc non solum amplius quam minimum milii sit in vidente ab oculo nostro specie sua quam facit in  
+       <lb ed="#B" n="18"/>oculum, etsi per illam non videatur: immo adhuc multo amplius quam sit inuisibile ab ipso absque omni specie. 
+       <lb ed="#B" n="19"/>
+      </p>
+      <p xml:id="n3av8a-c1e1398-d1e238">
+       AD obiectum in oppositum, quod creatura est similis suae ideae: Dicendum quod verum est: sed est simile omnino 
+       <lb ed="#B" n="20"/>improportionale: &amp; a remotis: quia non est natum ducere in nudam notitiam suae ideae: &amp; ita neque diuinae  
+       <lb ed="#B" n="21"/>essentiae. Simile autem non ducit in notitiam similis: nisi sit omnino proportionalis: sicut est species coloris in  
+       <lb ed="#B" n="22"/>oculo colori extra. Sed tale simile ad cognoscendum diuinam essentiam impossibile est inueniri in creatu 
+       <lb ed="#B" n="23"/>ris: vt patet ex determinatis in duabus quaestionibus praecedentibus.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

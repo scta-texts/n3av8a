@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="233-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e196">
+       <head xml:id="n3av8a-d1e196-Hd1e96">Quaestio 12</head>
+       <p xml:id="n3av8a-d1e196-d1e99">
+        <lb ed="#B" n="46"/>CIRCA Secundum arguitur: quod cum virtutibus acquisitis non necesse est po- 
+       <lb ed="#B" n="47"/>nere in homine alias infusas eis respondentes: vt Temperantiam infusam 
+       <lb ed="#B" n="48"/>respondentem Temperantiae acquisitae, sic. Supersluum est fieri per plura quid  
+       <lb ed="#B" n="49"/>potest fieri per vnum vel per pauciora. secundum <name ref="#Aristotle">philosophum</name> primo phy 
+       <lb ed="#B" n="50"/>sicorum. Per virtutes acquisitas cum charitate potest homo finem suum ac- 
+       <lb ed="#B" n="51"/>quirere sine aliis infusis: quia eius est fini coniungere. ergo &amp; caetera.  
+       <lb ed="#B" n="52"/>
+      </p>
+      <p xml:id="n3av8a-d1e196-d1e120">
+       CONTRA. Virtutes acquisitae non ducunt ex se in finem vltimum. 
+       <!--507.xml-->
+       <pb ed="#B" n="233-v"/>
+        <lb ed="#B" n="1"/>homo autem ordinatur ad finem vltimum. ergo praeter illas virtutes acquisitas debent esse aliae: quae  
+       <lb ed="#B" n="2"/>virtutes acquisitas &amp; actiones earum reducant in finem: quae non possunt esse nisi infusae. ergo &amp;c. 
+       <lb ed="#B" n="3"/>
+      </p>
+      <p xml:id="n3av8a-d1e196-d1e133">
+       DIcendum ad hoc secundum quosdam, quod virtutes duo respiciunt, et finem ad quem sunt: 
+       <lb ed="#B" n="4"/>&amp; actiones per quas in finem dirigunt. &amp; secundum hoc duplex est forma in virtute. Vna quam habet 
+       <lb ed="#B" n="5"/>a ratione formali sui obiecti: alia quam habet a modo actionis in obiectum directae. Et dicunt quod primo modo vir 
+       <lb ed="#B" n="6"/>tutes morales acquisitae distinguuntur inter se &amp; a theologicis. Alius enim est finis theologicarum. scilicet si 
+       <lb ed="#B" n="7"/>nis vltimus: morales autem virtutes vt acquisitae sunt modo humano, habent finem humanum  
+       <lb ed="#B" n="8"/>bonum sub illo fine vltimo. et hunc diuersum in diuersis virtutibus moralibus. Secundo distinguum- 
+       <lb ed="#B" n="9"/>tur morales acquisitae ab infusis, modus enim actionis est ratio medii: vt in concupiscentiis circa tem 
+       <lb ed="#B" n="10"/>perantiam in timoribus circa fortitudinem. Cum autem necesse sit hominem per virtutes ordina 
+       <lb ed="#B" n="11"/>re actiones virtutum non solum ad fines suos naturales: sed etiam ad finem vltimum supernatura 
+       <lb ed="#B" n="12"/>lem: cum autem ordinantur ad fines naturales, habent modum actionis &amp; rationem medii 
+       <lb ed="#B" n="13"/>modo humano, puta in sobrietate quo ad actum edendi ne laedatur vllo modo crapula vel parci- 
+       <lb ed="#B" n="14"/>tate: &amp; hoc conuenit virtutibus moralibus inquantum sunt acquisitae: cum vero ordinantur ad  
+       <lb ed="#B" n="15"/>finem supernaturalem habent modum actionis &amp; rationem medii modo superhumano, puta in sobrie- 
+       <lb ed="#B" n="16"/>tatem quo ad actum edendi vt corpus in obedientiam animae etiam cum aliquo suo grauamine 
+       <lb ed="#B" n="17"/>reducatur: quia virtus in infirmitate perficitur: &amp; hoc conuenit virtutibus infusis: quare cum huiusmodi  
+       <lb ed="#B" n="18"/>ratio medii in actione diuersificatur in qualibet specie virtutis moralis: quamlibet ergo virtutem 
+       <lb ed="#B" n="19"/>moralem necesse est distingui penes acquisitam &amp; infusam. Propter quod praeter morales acquisitas di  
+       <lb ed="#B" n="20"/>cunt oportere ponere alias infusas, &amp; tot infusas quot acquisitas. 
+      </p>
+      <p xml:id="n3av8a-d1e196-d1e172">
+       QVOD non videtur verum, pri- 
+       <lb ed="#B" n="21"/>mo quo ad distinctionem duplicis formae in virtute ex parte finis &amp; ex parte medii &amp; modi in actio 
+       <lb ed="#B" n="22"/>ne,. quoniam <name ref="#Aristotle">philosophus</name> in. vi. Ethicorum determinat quod non est prudentia sine morali virtute, nec 
+       <lb ed="#B" n="23"/>econuerso, quia virtus moralis determinat &amp; praestituit finem: prudentia vero determinat modum  
+       <lb ed="#B" n="24"/>&amp; medium in actione quae ad finem. Finem ergo habet virtus moralis ex se: modum autem &amp; rationem 
+       <lb ed="#B" n="25"/>medii in actione quae ad finem habet a prudentia. Virtutum autem distinctio non est nisi a forma. 
+       <lb ed="#B" n="26"/>quam habet ex se: non autem a forma quam habet ab alio. immo illud aliquae a sua forma quam alteri imprimit ab  
+       <lb ed="#B" n="27"/>alio quod non habet eam distinguitur. Moralium autem virtutum distinctio nullo modo habet sumi nisi a 
+       <lb ed="#B" n="28"/>ratione formali finis: &amp; nullo modo a ratione formali in medio circa actionem quae est ad finem. 
+       <lb ed="#B" n="29"/>immo talis differentia potius distingueret diuersas prudentias in vnaquaque specie moralis virtu- 
+       <lb ed="#B" n="30"/>tis, non autem diuersas morales virtutes: quarum vna sit acquisita: altera vero infusa: immo quia 
+       <lb ed="#B" n="31"/>homo ad nihil aliud indiget virtute infusa alia a morali, nisi vt actus sui vltimum finem attingant, 
+       <lb ed="#B" n="32"/>cum aliae virtutes a prudentia quae sunt circa actiones per se determinant finem: ipsa ergo distin-  
+       <lb ed="#B" n="33"/>ctio non debet sumi nisi ex parte finis. Quare cum super fines virtutum moralium non sit nisi 
+       <lb ed="#B" n="34"/>vnicus finis: supra virtutes ergo morales non debet esse nisi vnica virtus respiciens omnium aliarum  
+       <lb ed="#B" n="35"/>actiones, &amp; directiua earum in vltimum finem: cuiusmodi est sola charitas. Dico igitur quod praeter vir 
+       <lb ed="#B" n="36"/>tutes morales ab homine acquisitas: non est ponere aliquam moralium infusam: vt nulla sit temperam 
+       <lb ed="#B" n="37"/>tia infusa: nulla fortitudo: nulla iustitia: sed tantummodo vna charitas quae est forma vna virtutum in  
+       <lb ed="#B" n="38"/>quantum ad finem vnum omnes perducat: &amp; per hoc omnes facit esse gratuitas: &amp; sufficit cum ac 
+       <lb ed="#B" n="39"/>quisitis ad eliciendum actiones omnium earum sub ratione qua sunt gratuitae &amp; in finem vltimum 
+       <lb ed="#B" n="40"/>ordinatae. Et est vna prudentia quae regulam imprimit actionibus: &amp; dat eis rationem medii vt or- 
+       <lb ed="#B" n="41"/>dinantur in fines, proprios, &amp; in vltimum finem vt ordinantur in fines, proprios ex se, vt est prudentia humana: in fi 
+       <lb ed="#B" n="42"/>nem vero vltimum vt est imperata a voluntate charitate informata: &amp; per hoc facta est gratuita: sicut patet 
+       <lb ed="#B" n="43"/>in exemplo iam proposito de sobrietate. 
+      </p>
+      <p xml:id="n3av8a-d1e196-d1e229">
+       AD argumentum in oppositum quod virtutes acquisitae non ducunt ex se in vl 
+       <lb ed="#B" n="44"/>timum finem: Dicendum quod verum est ex se vt ipsum includant &amp; attingant. &amp; ideo debent habere 
+       <lb ed="#B" n="45"/>quo ducantur &amp; finem includant. Et quid assumitur: quod illae non possint esse nisi plures specie sicut 
+       <lb ed="#B" n="46"/>sunt illae: dicendum quod falsum est. Non enim differunt specie actiones elicitae vt ducentes in fines proprios 
+       <lb ed="#B" n="47"/>&amp; vt ducentes in finem vltimum: sed solum secundum gratuitum &amp; non gratuitum, prout manent in eadem forma 
+       <lb ed="#B" n="48"/>medii: &amp; secundum gradus diuersos in eadem specie: quando charitas mutat gradum in forma me 
+       <lb ed="#B" n="49"/>dii accedendo magis ad vnum latus medii in quo virtus nata est stare, vt in extremo non in medio 
+       <lb ed="#B" n="50"/>prioris gradus. Licet enim virtutes vt habentur modo humano media sunt secundum <name ref="#Aristotle">philosophum</name> 
+       <lb ed="#B" n="51"/>vt tamen natae sunt haberi modo superhumano, habent rationem extremi, secundum quod posuerunt 
+       <lb ed="#B" n="52"/>Stoici. Et ad hoc vt sic habeantur sufficit vnica virtus infusa quae est circa actiones cuiusmodi est 
+       <lb ed="#B" n="53"/>charitas, vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

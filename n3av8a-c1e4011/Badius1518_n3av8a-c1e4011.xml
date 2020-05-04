@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 32</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 32</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="394-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4011">
+      <head xml:id="n3av8a-c1e4011-Hd1e96">Quaestio 32</head>
+      <p xml:id="n3av8a-c1e4011-d1e99">
+       <!--828.xml-->
+       <pb ed="#B" n="394-r"/>
+        <lb ed="#B" n="1"/>Equitur vnicum &amp; vltimum pertinens ad corporea &amp; inanimata, vtrum per 
+       <lb ed="#B" n="2"/>miraculum idem corpus possit esse in diuersis locis simul, &amp; in eodem tempo 
+       <lb ed="#B" n="3"/>re. Ex arguitur quod sic: quia vt videtur, non minus est possibile per miraculum di  
+       <lb ed="#B" n="4"/>uersa corpora simul esse in eodem loco quam idem in eodem tempore esse in diuersis 
+       <lb ed="#B" n="5"/>locis: sed illud potest fieri per miraculum &amp; factum est quando Christus natus 
+       <lb ed="#B" n="6"/>est clauso virginis vtero: &amp; quando ad discipulos suos intrauit clausis ianuis 
+       <lb ed="#B" n="7"/>ergo &amp;c. Praeterea corpus Christi verum per miraculum in sacramento altaris 
+       <lb ed="#B" n="8"/>in eodem tempore sub diuersis dimensionibus habet esse in diuersis altaribus: &amp; sic in diuersis lo- 
+       <lb ed="#B" n="9"/>cis, &amp; hoc ex conuersione substantiae in ipsum sub illis dimensionibus. sed per miraculum possunt 
+       <lb ed="#B" n="10"/>dimensiones sacramenti conuerti in dimensiones Christi. erunt ergo virtute conuersionis dimen 
+       <lb ed="#B" n="11"/>siones corporis Christi vbi erant dimensiones sacramenti. Sicut ergo substantia corporis Christi 
+       <lb ed="#B" n="12"/>potest esse per conuersionem in eodem tempore sub diuersis dimensionibus in diuersis altaribus, sic 
+       <lb ed="#B" n="13"/>&amp; dimensiones corporis Christi per conuersionem possunt esse in diuersis altaribus, vbi erant di-  
+       <lb ed="#B" n="14"/>uersae dimensiones conuersae in illas. sed non sunt dimensiones corporis Christi nisi vbi est verum to 
+       <lb ed="#B" n="15"/>tum &amp; integrum corpus Christi: ergo totum corpus Christi simul potest esse per miraculum in  
+       <lb ed="#B" n="16"/>diuersis locis. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4011-d1e141">
+       IN oppositum est, quia tunc contradictoria essent simul: quod nec possibile est fieri 
+       <lb ed="#B" n="17"/>per miraculum. Probatio consequentiae est, quia dimensiones corporis comnumerantur dimensionibus locis. Si ergo idem 
+       <lb ed="#B" n="18"/>corpus esset in diuersis locis, esset vnum &amp; plura, &amp; sic vnum &amp; non vnum. 
+      </p>
+      <p xml:id="n3av8a-c1e4011-d1e148">
+       DIcendum ad hoc quod licet bene possit fieri 
+       <lb ed="#B" n="19"/>aliquid circa rem aliquam miraculo a deo per potentiam obedientiae respectu dei: quid impossibile est fieri circa illam a 
+       <lb ed="#B" n="20"/>natura per potentiam ordinis naturae respectu cuiuscumque agentis naturalis: quid tamen repugnat simpliciter &amp; sm 
+       <lb ed="#B" n="21"/>omnem potentiam naturae rei, nullo modo a quocunque agente potest fieri circa illam, quia concurrerent con 
+       <lb ed="#B" n="22"/>tradictoria simul scilicet posse fieri illud &amp; non posse fieri. Nunc autem quando aliquid quantum est ex 
+       <lb ed="#B" n="23"/>potentia agentis indifferenter fieri posset secundum varios modos circa idem si illud esset rece- 
+       <lb ed="#B" n="24"/>ptibile illius: si secundum vnum illorum modorum impossibile est fieri circa illud quod potest fieri, &amp; 
+       <lb ed="#B" n="25"/>simpliciter est impossibile fieri: &amp; econuerso: si secundum vnum illorum modorum possibile est fieri 
+       <lb ed="#B" n="26"/>similiter &amp; secundum quemlibet aliorum. Verbi gratia, quia quantum est ex potentia agentis com 
+       <lb ed="#B" n="27"/>uersionem panis in corpus Christi indifferenter in vno loco, &amp; in pluribus: similiter &amp; in omnibus:  
+       <lb ed="#B" n="28"/>idcirco in quorcunque locis possibile est esse panem, virtute diuina possibile est ipsum conuerti in cor- 
+       <lb ed="#B" n="29"/>pus Christi, &amp; qua ratione in vno loco &amp; in pluribus, &amp; etiam in omnibus, &amp; vbique si panis esset vbique. &amp; 
+       <lb ed="#B" n="30"/>si panis non posset conuerti virtute diuina vbicumque esset in corpus Christi: nec similiter in vnico loco sin 
+       <lb ed="#B" n="31"/>ulari existens posset conuerti in ipsum. Cum ergo quantum est ex parte dei, cum sit virtutis infinitae: ip 
+       <lb ed="#B" n="32"/>se per miraculum posset facere quod idem corpus indifferenter esset in duobus locis: &amp; quod esset in tri 
+       <lb ed="#B" n="33"/>bus, &amp; sic deinceps, &amp; similiter vbique &amp; in omnibus, si ipsum corpus posset esse in illis locis: si ergo secun 
+       <lb ed="#B" n="34"/>dum vnum horum modorum impossibile est idem corpus per miraculum deo agente esse in diuersis locis, 
+       <lb ed="#B" n="35"/>&amp; simpliciter &amp; absolute impossibile est per miraculum deo agente esse in quorcunque diuersis 
+       <lb ed="#B" n="36"/>locis, scilicet duobus, aut tribus, aut pluribus. sed impossibile est quod per miraculum etiam deo agente 
+       <lb ed="#B" n="37"/>idem corpus sit simul in eodem tempore vbique &amp; in omnibus locis. hoc enim est solius diuinitatis. Idcirco 
+       <lb ed="#B" n="38"/>dico quod simpliciter &amp; absolute est impossibile idem corpus esse in diuersis locis simul, quia si esset possi- 
+       <lb ed="#B" n="39"/>bile quod in duobus, eadem ratione quod in tribus, &amp; quod in omnibus. Quid etiam declaratur ex inconuenien- 
+       <lb ed="#B" n="40"/>tibus apertis quae sequuntur dictum istud, quod si idem corpus aeque corporaliter &amp; dimensionaliter 
+       <lb ed="#B" n="41"/>esset in diuersis locis, aut quid ponitur existens in vno, ponitur existens in alio, aut nequaquam. Si primo 
+       <lb ed="#B" n="42"/>modo: ergo si in vno loco esset gelu, in alio calor, simul haberet calorem &amp; frigus. Similiter si in vno  
+       <lb ed="#B" n="43"/>loco non inueniens quid comederet, esuriret, in alio autem inueniens comederet &amp; saturaretur: simul esuriret &amp; 
+       <lb ed="#B" n="44"/>saturaretur: &amp; in vno loco incurrens infirmitatem ex aeris intemperie, in alio vero conseruaret sanitatem 
+       <lb ed="#B" n="45"/>propter temperiem: esset ergo simul sanus &amp; aeger: et si in vno loco occideretur, &amp; in alio non, simul moreretur &amp; 
+       <lb ed="#B" n="46"/>non moreretur. Si secundo, eadem sequuntur inconuenientia: nisi quod sm primum modum contraria simul essent in eodem, 
+       <lb ed="#B" n="47"/>&amp; in eodem loco: sm alium contraria essent simul in eodem, sed in vno loco vnum, in alio vero aliquae. &amp; sunt ista euiden 
+       <lb ed="#B" n="48"/>tiora inconuenientia circa idem corpus in diuersis locis dimensionaliter existens, quam illa quae aliqui quandoque concedebant de 
+       <lb ed="#B" n="49"/>corpore Christi existente in cruce dimensionaliter, &amp; in pyxide sacramentaliter, videlicet quod fuit in cruce passibi- 
+       <lb ed="#B" n="50"/>lis et: mortalis, et quod passus fuit vulnera et mortuus ex eis: in pyxide vero impassibilis et immortalis nec 
+       <lb ed="#B" n="51"/>mortuus: et quod sm hoc idem corpus moriebatur et non moriebatur, et erat mortuum et non mortuum, viuum et non 
+       <lb ed="#B" n="52"/>viuum in eodem instanti. Reuera omnia ista pro inconuenientibus ecclesia habet et habuit hactenus. 
+       <lb ed="#B" n="53"/>Secundum nm quod dicit Guil. Altisise post inductionem dictorum inconuenientium, quod idem corpus numero viuit et non viuit 
+       <lb ed="#B" n="54"/>est impossibile &amp; contra intellectum. Propter hoc dicunt omnes magistri quod dominus dedit discipulis suis corpus 
+       <!--829.xml-->
+       <pb ed="#B" n="394-v"/>
+        <lb ed="#B" n="1"/>mortale &amp; passibile, &amp; ista concedenda est, corpus Christi moritur in pyxide, sed omnes illae negan  
+       <lb ed="#B" n="2"/>dae sunt, Christus crucisigitur in pyxide, lanceatur, aut vulneratur in pyxide, patitur in pyxide. &amp; non valet haec 
+       <lb ed="#B" n="3"/>argumentatio, corpus Christi moritur in cruce morte violenta: ergo violentia infertur ei in pyxide, quia sicut 
+       <lb ed="#B" n="4"/>aliquid moritur per violentiam illatam alibi alteri, vt cor in homine aliquo moritur per violentiam illatam capiti eius, 
+       <lb ed="#B" n="5"/>sic idem corpus moritur in pyxide per violentiam ei illatam in cruce, &amp; hoc per separationem animae a corpore vbi 
+       <lb ed="#B" n="6"/>cunque fuerit. &amp; ideo sequitur: si moritur in cruce, aut mortuus est: ergo moritur, aut mortuus est 
+       <lb ed="#B" n="7"/>in pyxide: non tamen sequitur si vulnerabatur in cruce quod vulnerabatur in pixide: quia nec crux, nec crucifi 
+       <lb ed="#B" n="8"/>gentes erant in pyxide. &amp; hoc quia licet Christus erat in pyxide vi consecrationis secundum veritatem 
+       <lb ed="#B" n="9"/>essentiae corporis quod perfectum erat anima: non tamen dimensionaliter sub proprietatibus dimensionalibus qui-  
+       <lb ed="#B" n="10"/>bus susceptibilis erit violentiae. Propter quod moriebatur in pyxide, quia anima separabatur ab eo quod vi sacramen 
+       <lb ed="#B" n="11"/>tierat in pyxide, non autem vulnerabatur in pyxide, quia non recepit per se violentiam nisi per id quid per solam 
+       <lb ed="#B" n="12"/>concomitantiam erat in pyxide. &amp; sic ista est per se vera, corpus in pyxide est mortuum, quia ibi est per se id 
+       <lb ed="#B" n="13"/>cuius per se actus immediate erat anima: non autem ista, corpus in pyxide habet vulnera siue est vulnera- 
+       <lb ed="#B" n="14"/>tum, quia ibi non est per se id quod per se immediate, siue per quod per se &amp; immediate recipiebantur vulner. scilicet 
+       <lb ed="#B" n="15"/>dimensiones. Vnde nunquam concedimus circa idem contraria, aut affirmationem &amp; negationem, non circa 
+       <lb ed="#B" n="16"/>corpus Christi vbicumque hent esse, nec circa aliud: &amp; tamen videtur quod hic potius possent concedi quam ibi, propter 
+       <lb ed="#B" n="17"/>diuersum modum essendi corpus Christii cruce &amp; in pyxide: &amp; propter eundem modum existendi cor 
+       <lb ed="#B" n="18"/>pus idem secundum quaestionem in diuersis locis. Quare cum illa ex hoc inducta, quod ibidem corporaliter per se 
+       <lb ed="#B" n="19"/>dimensionaliter sit simul in diuersis locis simpliciter, sunt impossibilia simpliciter: dicendum quod impossibile 
+       <lb ed="#B" n="20"/>est etiam per miraculum idem corpus esse dimensionaliter in diuersis locis, nec super hoc plus cadit potentia 
+       <lb ed="#B" n="21"/>quam super facere duo contradictoria simul. &amp; sic non posse hoc non est impotentiae, sed conditio naturae.  
+       <lb ed="#B" n="22"/>Si quis vero aguat sic circa corpus Christi: corpus Christi vulnerabatur in cruce, &amp; non vulnera- 
+       <lb ed="#B" n="23"/>batur in pyxide: ergo idem corpus numero simul vulnerabatur &amp; non vulnerabatur: ergo similiter in  
+       <lb ed="#B" n="24"/>proposito: non est inconueniens quod circa idem corpus in diuersis locis existens secundum loca diuersa sunt 
+       <lb ed="#B" n="25"/>contraria &amp; contradictoria. Et est dicendum quod ista propositio, corpus Christi non vulnerabatur in py 
+       <lb ed="#B" n="26"/>xide, &amp; consimiles praedictae duplices sunt, quia illa determinatio in pyxide potest determinare hoc verbum 
+       <lb ed="#B" n="27"/>existens subintellectum: vel ipsum verbum expressum, vt in proposito illud verbum vulnerabatur. &amp; 
+       <lb ed="#B" n="28"/>primo modo sunt omnes verae sub tali sensu, corpus Christi existens in pyxide vulnerabatur, distinctione  
+       <lb ed="#B" n="29"/>facta post ly existens. Secundo modo sunt omnes falsae sub tali sensu: quod existit corpus Christi vulnerabatur 
+       <lb ed="#B" n="30"/>in pyxide. Licet enim id idem corpus quid erat in prxide vulnerabatur: non tamen vt in pyxide existens vul 
+       <lb ed="#B" n="31"/>nera recipiebat, sed tantum vt existens in cruce. In vtroque autem sensu illae sunt verae, corpus Christi mo 
+       <lb ed="#B" n="32"/>riebatur in pyxide, corpus Christi mortuum erat in pyxide, &amp; consimiles. Et quare hoc, patet ex iam di 
+       <lb ed="#B" n="33"/>ctis. Vnde siquis arguat sic: corpus Christi non vulnerabatur in pyxide, &amp; vulnerabatur in cruce: er 
+       <lb ed="#B" n="34"/>go idem numero vulnerabatur, &amp; non vulnerabatur: non sequitur: quia non sequitur, non vulnerabatur 
+       <lb ed="#B" n="35"/>in pyxide: ergo non vulnerabatur. quia non erat in pyxide vt natus vulnerari ibi, quia non dimensio 
+       <lb ed="#B" n="36"/>naliter, vt dictum est. Sicut non sequitur: filius dei non est vbique secundum carnem: ergo non est vbique. quia secun- 
+       <lb ed="#B" n="37"/>dum carnem non est natus vbique esse. immo est fallacia secundum quid &amp; simpliciter. Sed sequeretur: corpus 
+       <lb ed="#B" n="38"/>non vulnerabatur illa hora in cruce: ergo hora illa non vulnerabatur, quia vt erat in cruce natus erat 
+       <lb ed="#B" n="39"/>vulnerari. Similiter in proposito: si idem corpus dimensionaliter, hoc est per se secundum suas 
+       <lb ed="#B" n="40"/>proprias dimensiones esset in diuersis locis, quicquid est natum agere vel pati in vno, &amp; in alio. Consimiliter 
+       <lb ed="#B" n="41"/>bene sequitur simpliciter, calescit in hoc loco existens: ergo calescit simpliciter: &amp; similiter frigescit in alio 
+       <lb ed="#B" n="42"/>loco existens: ergo frigescit simpliciter. &amp; similiter sequitur simpliciter coniunctim: ergo calescit sim 
+       <lb ed="#B" n="43"/>pliciter &amp; frigescit simul simpliciter. &amp; directe atque simpliciter sequitur quod contraria &amp; contradictoria 
+       <lb ed="#B" n="44"/>possunt esse simul circa idem numero si ponatur idem corpus dimensionaliter posse esse simul in  
+       <lb ed="#B" n="45"/>locis diuersis, &amp; non solum circa ipsum, sed etiam in essentia, quia sequitur quod sit vnum ex hoc 
+       <lb ed="#B" n="46"/>quod commensuratur dimensionibus vnius loci, &amp; non vnum, sed plura, quia commensuratur pluri- 
+       <lb ed="#B" n="47"/>bus dimensionibus plurium locorum: &amp; dimensiones corporis sicut commensurantur secun- 
+       <lb ed="#B" n="48"/>dum quantum &amp; continuum in dimensionibus loci, sic commensurantur eis secundum multum, &amp; secundum  
+       <lb ed="#B" n="49"/>numerum. Et cum hoc etiam si ponamus corpus gloriosum esse quod non commensuratur loco sm quantum &amp; continuum 
+       <lb ed="#B" n="50"/>quia vt dictum est potest esse simul cum alio corpore absque eo quod sit in loco nisi per illud, commensuratur tamen ei sim 
+       <lb ed="#B" n="51"/>situm, quem necessario determinat ex eo quod corpus est dimensionale. Ita quod licet corpus absolui possit a si 
+       <lb ed="#B" n="52"/>tu locali qui est vbi: &amp; esse absque contactu cum alio corpore, &amp; non in loco nisi per accidens, si illud  
+       <lb ed="#B" n="53"/>esset in loco cum quo est vt dictum est: non tamen potest absolui a situ determinationis quo oportet ipsum 
+       <lb ed="#B" n="54"/>esse ita hic quod non alibi. vt etiam corpus gloriosum etsi ponatur non habere situm vt in loco: non tamen potest esse 
+       <!--830.xml-->
+       <pb ed="#B" n="395-r"/>
+        <lb ed="#B" n="1"/>sine situ determinationis: vt omnino non possit esse hic &amp; alibi per determinationem diuersorum situum 
+       <lb ed="#B" n="2"/>nisi sacramentaliter. Quod intellexit Hugo: vbi loquens de corpore Christi existente sacramentaliter sub 
+       <lb ed="#B" n="3"/>diuersis partibus specierum sensibilium in sacramento, dixit de Sacramentis libro ii. per. viii. c. xi. Totum hic 
+       <lb ed="#B" n="4"/>&amp; totum ibi: nec minus in parte quam in toto: nec minus in toto quam in parte. Quotcumque partes feceris in  
+       <lb ed="#B" n="5"/>singulis totum est. Nec miteris. opus dei est. Et infra. Non est mirum si mirabilis mirabilia operatur. 
+       <lb ed="#B" n="6"/>Quomodo (inquit) corpus vnum in eodem tempore in diuersis locis potest esse: hic est: ibi est: &amp; totum vtro 
+       <lb ed="#B" n="7"/>bique est: &amp; in multis locis: similiter noli mirari. Et infra. Quia autem sic ipse fecit vt corpus unum in vno lo 
+       <lb ed="#B" n="8"/>co esset: tu quod factum est vidisti, &amp; nescis aliud nisi quod factum est quod vidisti. Idcirco miraris quando aliud  
+       <lb ed="#B" n="9"/>vides vel audis quam videre vel audire consueuisti &amp;c. Et patet ex continuatione literae, &amp; secundum antece 
+       <lb ed="#B" n="10"/>dentia &amp; secundum consequentia, quod non loquitur de esse vnius corporis in diuersis locis simul: nisi de esse cor- 
+       <lb ed="#B" n="11"/>poris Christi sacramenta liter sub diuersis speciebus sacramentalibus &amp; partium earum. Vnde mirum est si 
+       <lb ed="#B" n="12"/>aliquis ex ista lit: ra velit arguere idem corpus posse esse non sacramentaliter in diuersis locis, sic repugnam 
+       <lb ed="#B" n="13"/>te natura rei. Dicendum est simpliciter quod impossibile est idem corpus numero esse in diuersis locis:  
+       <lb ed="#B" n="14"/>licet hoc sit possibile sacramentaliter. In quo tamen modum possibilitatis comprhendere, est super naturalem 
+       <lb ed="#B" n="15"/>intelligentiam nostram ccredo) &amp; angelorum. 
+      </p>
+      <p xml:id="n3av8a-c1e4011-d1e387">
+       AD Primum in oppositum: quod duo corpora possunt esse in  
+       <lb ed="#B" n="16"/>eodem loco: ergo &amp; idem est in diuersis: Dicendum quod non est simile: quia vt dictum est, in hoc obuiat con 
+       <lb ed="#B" n="17"/>tradictio circa idem numero: cuius altera pars non potest absolui a subiecto, &amp; simul non possunt ad-  
+       <lb ed="#B" n="18"/>esse aut simul abesse. In illo vero non obuiat nisi contraria dispositio ad esse simul cum alio, qua potest 
+       <lb ed="#B" n="19"/>absolui. Et ideo illa absoluta nihil repugnat esse simul cum alio. In corporibus enim nihil repugnat 
+       <lb ed="#B" n="20"/>ipsa esse simul nisi dimensiones. sed hoc non propter essentiam dimensionum: sed propter situm quem natae  
+       <lb ed="#B" n="21"/>sunt habere in loco qui est accidens dimensionum: sicut situs qui est ordo earum inter se in toto est 
+       <lb ed="#B" n="22"/>differentia essentialis illis. Propter illum enim situm qui dicit ordinem ad locum, tangunt se corpora &amp; te- 
+       <lb ed="#B" n="23"/>nent se extra se: &amp; sese penetrare non possunt. Et est illa dispositio imperfectionis in dimensionibus: &amp; 
+       <lb ed="#B" n="24"/>est praeter essentiam dimensionum: sic quod licet dispositione quacumque naturali non sit separabile ab il- 
+       <lb ed="#B" n="25"/>lis: est tamen separabile ab eisdem dispositione supnaturali: quae est dos subtilitatis: quae est quaedam natura 
+       <lb ed="#B" n="26"/>lis potentia non resistendi: sic quod non resistit alicui nec aliquid sibi. &amp; sic est vis qua corpus cui in-  
+       <lb ed="#B" n="27"/>est, illabi potest alteri, absque eo quod tangit ipsum resistendo. Vnde &amp; tale corpus non habet esse per 
+       <lb ed="#B" n="28"/>se in loco per continentiam inter latera corporis circundantis: sed solummodo per se determinat sibi situm in  
+       <lb ed="#B" n="29"/>corpore quod ipsum excedit puta in aere. Et si est simul cum corpore sibi aequali quid per se est inloco, hoc 
+       <lb ed="#B" n="30"/>corpus per accidens est in eodem loco cum illo: &amp; continetur inter latera continentis per accidens: quia late- 
+       <lb ed="#B" n="31"/>ra illa non separat, nec distare facit: sed illa separat &amp; distare facit corpus aliud cum quo est simul. 
+       <lb ed="#B" n="32"/>
+      </p>
+      <p xml:id="n3av8a-c1e4011-d1e427">
+       AD secundum: quod si dimensiones panis conuerterentur in dimensiones corporis simul cum conuersione  
+       <lb ed="#B" n="33"/>substantiae panis in substantiam corporis Christi: esset Christus dimensionaliter in diuersis locis: licet non 
+       <lb ed="#B" n="34"/>visibiliter: Dicendum quod in eucharistia duo sunt: &amp; sacramentum quod est ipsa visibilis species: &amp; res sacra 
+       <lb ed="#B" n="35"/>menti: quid est verum corpus Christi. Circa quid duo est considerare: &amp; conuersionem factam in ipsum: &amp; per con 
+       <lb ed="#B" n="36"/>uersionem suum esse alicubi vbi prius non erat, absque omni sua transmutatione. Et non posset secundum esse fine 
+       <lb ed="#B" n="37"/>primo. Nullo enim modo absque sui mutatione secundum locum posset corpus Christi verum esse alibi extra locum in 
+       <lb ed="#B" n="38"/>quo est in caelo absque eo quod aliqua conversio facta sit in ipsum, nisi sui ipsius secundum locum mutatione: quae necesse habet 
+       <lb ed="#B" n="39"/>dimittere locum quem tenet in caelo, quia nec esset possibile ipsum dimensionaliter secundum proprias dimensiones 
+       <lb ed="#B" n="40"/>esse simul in pluribus locis, sicut nec quodcumque aliud vt dictum est. dicente Augustinum. Donec saeculum finiatur sur 
+       <lb ed="#B" n="41"/>sum est dominus: sed cum hoc etiam nobiscum est veritas dominus. Corpus enim in quo surrexit, vno loco oportet 
+       <lb ed="#B" n="42"/>esse. Veritas autem eius vbique diffusa. Quod exponens Hugo in sententiis suis, dicit sic. Veritas. i. diuini  
+       <lb ed="#B" n="43"/>tas vel ipsum corpus vbicumque celebratur. ldeo dixi vbicumque celebratur: quia non est dicendum cor- 
+       <lb ed="#B" n="44"/>pus Christi vbique esse: quid est solius diuinitatis. Licet ergo secundum praedicta sacramentaliter posset esse vbi 
+       <lb ed="#B" n="45"/>que, si panis vbique in ipsum conuerteretur: tamen hoc procul dubio verum est, quod non potest esse vbique ex esse 
+       <lb ed="#B" n="46"/>corporis Christi in loco secundum proprias dimensiones, quia qua ratione ex se non posset esse in omnibus, 
+       <lb ed="#B" n="47"/>nec in duobus vt dictum est. Et sic vt iam dictum est sicut hoc secundum quod scilicet corpus Christi non potest esse 
+       <lb ed="#B" n="48"/>alicubi extra caelum manens in caelo absque prime scilicet quod aliquid convertatur in ipsum: sic dicunt aliqui quod  
+       <lb ed="#B" n="49"/>nec primum potest esse absque secundo: it. scilicet quod si ponantur simul &amp; dimensiones &amp; substantia panis conuer 
+       <lb ed="#B" n="50"/>ti in dimensiones &amp; substantiam corporis Christi, ex conuersione corpus Christi necesse est esse vbi com 
+       <lb ed="#B" n="51"/>uersio facta fuit: &amp; panis desinit esse panis. Quid etsi verum esset, non tamen ibi esset corpus Christi secundum rationem 
+       <lb ed="#B" n="52"/>suarum dimensionum siue dimensionaliter. de quali modo quaerit quaestio. am. scilicet idem corpus possit esse in 
+       <lb ed="#B" n="53"/>diuersis locis. Et ideo ex illo non potest probari hoc. Etenim etsi panis dimensiones conuerterentur in di-  
+       <lb ed="#B" n="54"/>mensiones corporis Christi absque conversione substantiae panis in substantiam corporis Christi: non  
+       <!--831.xml-->
+       <pb ed="#B" n="395-v"/>
+        <lb ed="#B" n="1"/>tamen dimensiones corporis Christi essent in substantia panis dimensionaliter: quia tunciplainsomiam 
+       <lb ed="#B" n="2"/>rent &amp; extenderent vt haberet partem extra partem sub partibus dimensionum Christi: sicut primo habuit sub di-  
+       <lb ed="#B" n="3"/>mensionibus, propriis: aut si non informarent substantiam panis: sed solummodo suam substantiam quae ibidt per con 
+       <lb ed="#B" n="4"/>comitantiam: &amp; esset substantia panis in simplici &amp; indiuisibili existens: quia vt dicitur primolliis. si 
+       <lb ed="#B" n="5"/>substantia sola est, neque magnitudinem habebit vllam: non enim posset haibene partem absque dimensionibus infomam 
+       <lb ed="#B" n="6"/>tibus: nisi forte speciali miraculo: adhuc non essent ibi dimensiones corporis Christi dimensionalitr 
+       <lb ed="#B" n="7"/>quia non essent ibi nisi ratione illius substantiae manentis: quae non est ibi dimensionaliter quare etsi totum 
+       <lb ed="#B" n="8"/>in totum conuertitur multo minus erunt ibi dimensionaliter. quia quocumque modo ponatur ibi esse virtute 
+       <lb ed="#B" n="9"/>conuersionis, hoc non potest poni dimensionaliter. Vnde etsi aliqui dicunt quod propter conversionem factam 
+       <lb ed="#B" n="10"/>alicubi totum conuertendo in totum dimensiones &amp; substantiam: corpus esset vbi erat prius quod convertebatur 
+       <lb ed="#B" n="11"/>puta in aere: non tamen erit ibi dimensionaliter plus quam modo est in sacramento. Quid tamen nec poni potest l 
+       <lb ed="#B" n="12"/>aut debet: quia cum corpus non ponitur esse alicubi extra caelum manens in caelo nisi sacramentaliter: &amp;non 
+       <lb ed="#B" n="13"/>habet esse sacramentaliter nisi propter species visibiles quae sunt de ratione sacramenti: vnde &amp; cum desinunt 
+       <lb ed="#B" n="14"/>esse illae species visibiles: desinit ibi esse corpus Christi: si ergo totum cum dimensionibus &amp; aliis accideum 
+       <lb ed="#B" n="15"/>tibus conuertatur, cum non sit ibi manens aliqua species sacramentalis: nullo modo dicendum est corpus. 
+       <lb ed="#B" n="16"/>Christi esse vbi totum conuersum est in totum &amp; secundum substantiam &amp; secundum accasmentia: quoniannom posset po- 
+       <lb ed="#B" n="17"/>ni ibi esse nisi sacramentaliter, qualiter ibi non est: quoniam si non incipit esse sacramentaliter ibi species sunt 
+       <lb ed="#B" n="18"/>nisi sub speciebus: &amp; desinit esse ibi desinentibus speciebus esse: secundum quod dicit Hugo libro iip iii.capxii. 
+       <lb ed="#B" n="19"/>si in aliquo a similitudine recederet: verum sacramentum non esset. Et ca. xiii. Si in aliquo similitudo de 
+       <lb ed="#B" n="20"/>ficeret illic proculdubio sacramentum non esset: nec vllo modo est sacramentum vbi species penitus non sunt 
+       <lb ed="#B" n="21"/>Alio autem modo ibi esse poni non potest: quoniam si alio modo ibi esset: res ipsa, vt dicit Hugo infine dici 
+       <lb ed="#B" n="22"/>cap. xiii. proderetur &amp; manifestaretur euidenti miraculo: quid non contingit quamdiu fides locum habet. Posthoc 
+       <lb ed="#B" n="23"/>ergo si corporalem Christi praesentiam quaeris: in caelo quaere. lbi quaere vbi &amp; prius fuit quam per sacramentum suum corpo 
+       <lb ed="#B" n="24"/>raliter tecum esse inciperet: &amp; vnde non discessit quando ad te venit. Sic ergo etsi dimensiones nanis fu 
+       <lb ed="#B" n="25"/>erint ante conuersionem in aliquo loco aeris: nullo modo est dicendum quod post earum conuersionem cum sublantia. 
+       <lb ed="#B" n="26"/>panis in corpus Christi, corpus Christi habet in illo loco aeris esse: quia non erat aliquid de intaneispa- 
+       <lb ed="#B" n="27"/>nis: &amp; ita non pertinet ad sacramentum. Praeterea cum corpus Christi ibi non esset dimensionaliter, non im 
+       <lb ed="#B" n="28"/>pleret locum quem prius impleuerunt dimensiones panis: &amp; ita non maneret illa capacitas: sed ininstanti qua  
+       <lb ed="#B" n="29"/>conuersionis partes aeris cito concurrerent in vnum continuum, &amp; desineret aer esse locus quiprius: &amp; 
+       <lb ed="#B" n="30"/>sic per ipsum non maneret ibi corpus: sicut nec modo manet corruptis speciebus panis S ergo ad  
+       <lb ed="#B" n="31"/>huc maneret: hoc non esset nisi propter substantiam partium aeris, quae immediate prius tangebaintdimen 
+       <lb ed="#B" n="32"/>siones panis: &amp; sic semper maneret ibi corpus Christi: quia semper manere possent in lubstantia illae 
+       <lb ed="#B" n="33"/>partes aeris. Quid omnino absurdum est dicere: &amp; vt credo contra veritatem sacramenti: ita quod siibisit sacra 
+       <lb ed="#B" n="34"/>mentum quod inconueniens sit dicere corpus Christi esse extra certum locum quem habet in caelo.-
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

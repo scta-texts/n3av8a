@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 10</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 10</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5654">
+       <head xml:id="n3av8a-c1e5654-Hd1e96">Quaestio 10</head>
+       <p xml:id="n3av8a-c1e5654-d1e99">
+        <lb ed="#B" n="21"/>Equuntur quaesita specialiter circa creaturam intellectualem quae est homo: vbi quaerebantur quaedam pertinem 
+       <lb ed="#B" n="22"/>tia ad hominem beatum comprehensorem: &amp; quaedam alia circa hominem non dum beatum, sed viatorem. 
+       <lb ed="#B" n="23"/>lllud vnum erat: vtrum anima gloriosa resumpto corpore glorioso possit videre obiectum 
+       <lb ed="#B" n="24"/>sensibile absque sesu medio. Ex arguitur quod sic hoc modo, quid potest anima beata videre fine cor 
+       <lb ed="#B" n="25"/>pore: hoc poterit videre resumpto corpore glorioso, quia illud non erit aliquo modo impedi- 
+       <lb ed="#B" n="26"/>mento animae in sua operatione: sed magis iuuamento: quia secundum <name ref="#Augustine">Augustinus</name> ipsa per corporis sui ab  
+       <lb ed="#B" n="27"/>sentiam a perfecta beatitudine retardatur. sed anima sine corpore pont videre obiectum sensibile: quia ipsa bene cogno- 
+       <lb ed="#B" n="28"/>scit illud: sed hoc non nisi videndo: &amp; absque sensu medio: quia non est sensus nisi in corpore. ergo &amp;c. Contra. 
+       <lb ed="#B" n="29"/>Omnia non mutat ordinem naturae: si ordo naturae est quod anima videre non potest sensibile sine sesu medio. ergo &amp;c. 
+       <lb ed="#B" n="30"/>
+      </p>
+      <p xml:id="n3av8a-c1e5654-d1e126">
+       DIco distinguendo de videre obiectum sensibile: quia aut intelligitur de videre immutatione sesibili &amp; a sensibili sub 
+       <lb ed="#B" n="31"/>ratione sensibilis: aut de immutatione intellectuali a sensibili sub ratione intelligibilis. Omne. n. sensibile habet ratio 
+       <lb ed="#B" n="32"/>nem intelligibilis: licet non econuerso omne intelligibile habeat rationem sensibilis. Si secundo modo, dico quod non est 
+       <lb ed="#B" n="33"/>dubium quin anima beata fine corpore possit videre sensibile absque omni sensu medio. &amp; hoc sumendo videre lar 
+       <lb ed="#B" n="34"/>ge pro quacumque cognitione intellectuali. Duplici en cognitione intellectuali anima beata sine corpore potest 
+       <lb ed="#B" n="35"/>cognoscere sensibile, &amp; sic absque sensu medio: sed vna naturali: altera vero gratuita. Naturaliter, n. abs 
+       <lb ed="#B" n="36"/>que sensu corporis medio videt &amp; cognoscit sensibilia: sicut &amp; angelus. Gratuito etiam videt &amp; cognoscit 
+       <lb ed="#B" n="37"/>illa sine sensu corporali medio, cognitione gloriosa in verbo, prout procedit prima obiectio, quae secundum hoc 
+       <lb ed="#B" n="38"/>concedenda est. Si secundo modo, siue videre sumatur stricte mediante scilicet ensu oculorum, siue large pro quacumque per- 
+       <lb ed="#B" n="39"/>ceptione mediante quocunque sensu organico: quia quantum ad propositum, idem est iudicium de sensibili visus, &amp; 
+       <lb ed="#B" n="40"/>de sensibili tactus, aut cuiuscumque alterius sensus: &amp; eadem quaestio posset formari de illo: Videtur mihi sm quod 
+       <lb ed="#B" n="41"/>de sensu doloris ab anima separata alias determinaui, quod alius est omnino modus sentiendi illum ab anima separata, vt ab  
+       <lb ed="#B" n="42"/>angelo apostata, &amp; ab anima coniuncta corpori &amp; in corpore mediante corpore, siue ab homine per animam mediante corpore. 
+       <lb ed="#B" n="43"/>Et sic illo etiam modo posset anima absque sensu corporeo medio sentire quidcumque sensibile, laetando vel dolendo  
+       <lb ed="#B" n="44"/>ex illius sensu, &amp; non solum anima separata, sed etiam coniuncta: quia ille modus sentiendi non trahitur a sensu corporali 
+       <lb ed="#B" n="45"/>&amp; si possit etiam trahi a sensu, siue fieri mediante sensu supernaturaliter, bene placet quod hoc concedatur: sed quod  
+       <lb ed="#B" n="46"/>possit trahi a sensu corporali, &amp; fieri mediante illo naturaliter, non video. Si vero loquamur de sensu quo modo 
+       <lb ed="#B" n="47"/>anima coniuncta corpori sentit mediante sensu modo naturali: Dico &amp; credo quod illo modo non posset sentire nisi 
+       <lb ed="#B" n="48"/>aliquo sensu corporali medio: &amp; ita neque videre sensibile a quocumque sensu. Et de isto modo sensibile sentien 
+       <lb ed="#B" n="49"/>di scilicet naturali, falsa est minor primae rationis scilicet quod anima sine corpore &amp; sensu medio pont videre sensibile. Licet 
+       <lb ed="#B" n="50"/>enim ipsa vt sic existens bene cognoscat sensibile quidcumque, &amp; hoc videndo intellectualiter, &amp; naturali cogni 
+       <lb ed="#B" n="51"/>tione vel gratuita sicut dictum est, &amp; vt procedit vlterius argumentum, non tamen ipsa cognoscit 
+       <lb ed="#B" n="52"/>sensibile quodcumque videndo sensibiliter, &amp; naturali cognitione: quia hoc non est nisi mediante sensu 
+       <lb ed="#B" n="53"/>ipsa autem absque corpore &amp; sensu existens non potest quicquam videre mediante sensu: quia hoc includit com 
+       <lb ed="#B" n="54"/>tradictoria. Et de isto modo videndi praecise procedit, &amp; bene, secundum argumentum, quod secundum hoc concedendum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

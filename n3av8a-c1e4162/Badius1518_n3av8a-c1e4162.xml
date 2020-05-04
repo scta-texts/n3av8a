@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4162">
+       <head xml:id="n3av8a-c1e4162-Hd1e96">Quaestio 11</head>
+       <p xml:id="n3av8a-c1e4162-d1e99">
+        <lb ed="#B" n="11"/>CIrca secundum arguitur: quod non sit possibile homini vt assentiat propositioni cuius 
+       <lb ed="#B" n="12"/>contrarium apparet sibi per rationem: quia non per voluntatem ad hoc cogen-  
+       <lb ed="#B" n="13"/>tem: de qua magis videtur. quoniam intellectus per suum obiectum non potest 
+       <lb ed="#B" n="14"/>cogere voluntatem ad consentiendum illi cuius contrarium vult: ergo nec volun 
+       <lb ed="#B" n="15"/>tas intellectum ad consentiendum ei cuius contrarium nouit. Item in secundo de anima, phan 
+       <lb ed="#B" n="16"/>tasiamus cum volumus: non autem opinamur: vt hominem quadrupedem phantasiamus quem num 
+       <lb ed="#B" n="17"/>quam opinamur talem esse: opinari autem est opus intellectus. quare opus intellectus 
+       <lb ed="#B" n="18"/>non habetur ex voluntate. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4162-d1e119">
+       CONtra. tunc numquam assentiremus articulis fidei. 
+      </p>
+      <p xml:id="n3av8a-c1e4162-d1e122">
+       DIcendum ad  
+       <lb ed="#B" n="19"/>hoc breuiter: quia alias in quaestionibus ordinariis de tangentibus materiam huius quaestionis satis 
+       <lb ed="#B" n="20"/>locuti sumus. Ex illis ergo quae ibi diximus dico distinguendo de ratione, quia aut est ratio qua solidae ve 
+       <lb ed="#B" n="21"/>ritati innixa est, &amp; nullo modo infringi potest aliquo genere solutionis verae, aut est ratio quae  
+       <lb ed="#B" n="22"/>quantuncunque apparens sit, solidae tamen veritati non innititur. Illi autem cuius contrarium apparet 
+       <lb ed="#B" n="23"/>homini per rationem primo modo dictam impossibile est quod homo cogatur assentire, vel possit: quia 
+       <lb ed="#B" n="24"/>contrarium illius omnino falsum est: cui nullus consentire potest, aut cogi potest consentire cognita veritate. Veritas 
+       <lb ed="#B" n="25"/>enim cognita cogit intellectum ad sibi assentiendum: &amp; cogendo ad sibi assentiendum simul cogit ad dissentiendum  
+       <lb ed="#B" n="26"/>suo opposito. Vnde &amp; secundum hoc concedenda sunt duo prima argumenta, licet modicum faciant 
+       <lb ed="#B" n="27"/>ad propositum. Illi vero cuius contrarium apparet homini per rationem secundo modo dictam, bene 
+       <lb ed="#B" n="28"/>potest homo assentire per habitum fidei, &amp; cogi ad hoc per imperium voluntatis. Per hunc enim mo 
+       <lb ed="#B" n="29"/>dum, vt procedit argumentum in contrarium, assentimus articulis fidei, quorum contrarium numquam apparet 
+       <lb ed="#B" n="30"/>per rationem primo modo dictam, quia sunt innixi solidae veritati. Quia si per impossibile inveniri posset 
+       <lb ed="#B" n="31"/>articulus, cuius contrarium appareret tali ratione, illi non esset adhaerendum vt fidei articulo. dicen- 
+       <lb ed="#B" n="32"/>te August. quod si recta ratione &amp; infallibili apparere posset contrarium ei quod tenetur in sancta eccle- 
+       <lb ed="#B" n="33"/>sia, non propter illam fidem christianam dimitteret. qualem impossibile est inueniri, immo qualiscumque ratio 
+       <lb ed="#B" n="34"/>apparenter de contrario fidei aliquid asserit, vera non est, sed veri similitudine fallit, vt alibi latius 
+       <lb ed="#B" n="35"/>declarauimus. Ex quo plane patet falsitas dicti illius quod voluntas non pont velle oppositum eius quod  
+       <lb ed="#B" n="36"/>iudicatum est per rationem: postquam voluntas potest ad assentiendum illi contrario cogere rationem.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

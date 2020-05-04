@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 18</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 18</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="193-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2010">
+       <head xml:id="n3av8a-c1e2010-Hd1e96">Quaestio 18</head>
+       <p xml:id="n3av8a-c1e2010-d1e99">
+        <lb ed="#B" n="19"/>CIrca tertium arguitur quod habitus generatus non possit corrumpi: quia si corrumperetur 
+       <lb ed="#B" n="20"/>hoc non esset nisi aut propter defectum subiecti: quid non potest esse: quia anima ratio 
+       <lb ed="#B" n="21"/>nalis quae est subiectum habituum, incorruptibilis est. Aut propter contrarium: quid  
+       <lb ed="#B" n="22"/>similiter non potest esse: quia non habent contrarium: vitium enim &amp; ignorantia pri- 
+       <lb ed="#B" n="23"/>uationes sunt: quae opponuntur habitibus intellectualibus &amp; moralibus. Aut propter 
+       <lb ed="#B" n="24"/>actuum cessationem. Quid etiam non potest esse: quia corruptio transmutatio quaedam  
+       <lb ed="#B" n="25"/>est: quae non sit nisi per agens aliquid: et cessatio actio non est: &amp; ipsa nihil agit. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2010-d1e117">
+       CONtra. in li- 
+       <lb ed="#B" n="26"/>bro de longitudine &amp; breuitate vitae dicit philosophus. Corruptio scientiae non solum est deceptio: sed obli 
+       <lb ed="#B" n="27"/>uio: quae non est nisi cessatio. ergo potest corrumpi ex sola cessatione. 
+      </p>
+      <p xml:id="n3av8a-c1e2010-d1e124">
+       DIcendum ad hoc: quod praeter origi- 
+       <lb ed="#B" n="28"/>nalem corruptionem qua omne quod est in creaturis corruptibile est &amp; cadit in nihilum nisi manu diuinae  
+       <lb ed="#B" n="29"/>potentiae conseruetur in esse: qua habitus inquantum sunt aliquid creaturae corruptibiles sunt sicut &amp; alia:  
+       <lb ed="#B" n="30"/>&amp; similiter praeter corruptionem qua necesse est eos corrumpi ad corruptionem subiecti: dicente philoso 
+       <lb ed="#B" n="31"/>pho. Corruptis nobis necesse est corrumpi ea quae in nobis sunt: vnde manente subiecto incorrupti 
+       <lb ed="#B" n="32"/>bili tali corruptione, incorruptum manet quicquid est in ipso: &amp; similiter praeter corruptionem or- 
+       <lb ed="#B" n="33"/>ganorum &amp; virium sensitiuarum: a quibus dependet actio intellectualis: vt eis corruptis necesse sit intelle 
+       <lb ed="#B" n="34"/>ctualem &amp; per consequens voluntariam operationem deficere: &amp; sic habitum corrumpi vt dicetur: est alia 
+       <lb ed="#B" n="35"/>corruptio eorum naturalis vel modo naturali, sicut est eorum contraria generatio. Cuius causa &amp; mo 
+       <lb ed="#B" n="36"/>dus quia latet propter difficultates inductas in obiectis, ideo de tali corruptione quaestio proposita est. 
+       <lb ed="#B" n="37"/>non quin sit certum habitus posse corrumpi: quia hoc continue experimur in nobis: &amp; hoc omnes clamant 
+       <lb ed="#B" n="38"/>&amp; dicunt: sed vt modus corruptionis &amp; causa corrumpens explicentur. Et quia illa vt dictum est non potest 
+       <lb ed="#B" n="39"/>sumi ex parte dei neque ex parte subiecti: quia illa sunt causae corrumpentes alio modo &amp; aliae quam hic sunt quaesitae 
+       <lb ed="#B" n="40"/>vt dictum est: oportet igitur quod aut ipse habitus seipsum corrumpat: aut quod sit aliquid aliud quod efficienter vel de-  
+       <lb ed="#B" n="41"/>ficienter ipsum corrumpat: non ipse seipsum: quia seipsum vnumquodque naturaliter saluat. Habitus etiam non 
+       <lb ed="#B" n="42"/>est nisi accidens: &amp; ita non habens nisi naturalem potentiam: quia non est nisi ad actus consimiles illis a quibus 
+       <lb ed="#B" n="43"/>habent generari: &amp; per quos etiam habent saluari. secundum <name ref="#Aristotle">philosophum</name> secundo Ethicorum. Corrumpens ergo habi 
+       <lb ed="#B" n="44"/>tum aliud est a subiecto &amp; habitu &amp; aliis supra tactis. Et quia corrumpens naturaliter: &amp; id quid debet cor 
+       <lb ed="#B" n="45"/>rumpi oportet esse simul, oportet igitur quod sit aliquid simul existens in subiecto cum ipso habitu: secundum quod agentia 
+       <lb ed="#B" n="46"/>&amp; patientia oportet esse simul: &amp; vnum alteri succedere in eodem subiecto: &amp; quod ex eo ipsum corrumpit, quod ipsum  
+       <lb ed="#B" n="47"/>secum non compatitur. lllud autem non contingit: nisi per aliquam naturalem contrarietatem. Oportet igitur quod illud sit 
+       <lb ed="#B" n="48"/>habens aliquam ad habitum contrarietatem. Contrarietatem autem aliquid potest habere ad aliud: vt per hoc 
+       <lb ed="#B" n="49"/>quod sit principium corruptiuum eius dupliciter, vel per se &amp; immediate, vel per accidens &amp; mediate. Primo modo non 
+       <lb ed="#B" n="50"/>est contrarietas, proprie nisi in naturaliter actiuis mutuo communicantibus, vt sunt calidum &amp; frigidum: ad  
+       <lb ed="#B" n="51"/>quorum contrarietatem reducitur contrarietas omnis alia naturalis: sicut habet declarari in naturalibus. Secundo  
+       <lb ed="#B" n="52"/>modo contrariatur alteri vt effectui id quod per se contrariatur suae causae: sicut calidum contrariatur albedini quae  
+       <lb ed="#B" n="53"/>a frigiditate est generata: &amp; vniuersaliter generatum per vnum contrariorum contrariatur ei quid generatum est 
+       <lb ed="#B" n="54"/>per alterum. 
+      </p>
+      <p xml:id="n3av8a-c1e2010-d1e188">
+       PRImo modo habitus vt habitus non habet contrarium, quod ergo habitus corrumpatur, hoc fit 
+       <!--427.xml-->
+       <pb ed="#B" n="193-v"/>
+        <lb ed="#B" n="1"/>necessario ab eo quod est contrarium suae causae per quam generatur. Habitus autem vt patet ex supradictis, non ge- 
+       <lb ed="#B" n="2"/>neratur nisi ex actionibus voluntatis quo ad morales, vel intellectus quo ad intellectuales. Nihil ergo habi 
+       <lb ed="#B" n="3"/>tus corrumpit qui sunt in voluntate, nisi contrarium actibus secundum virtutes qui procedunt ex voluntate: &amp; nihil 
+       <lb ed="#B" n="4"/>corrumpit habitus qui sunt in intellectu nisi contrarium actibus secundum intellectuales virtutes qui procedunt ex in-  
+       <lb ed="#B" n="5"/>tellectum. 
+      </p>
+      <p xml:id="n3av8a-c1e2010-d1e207">
+       CONtrarium autem huiusmodi actibus potest aliquid esse dupliciter, vel formaliter vt est actus directe contra 
+       <lb ed="#B" n="6"/>rius: vel originaliter vt est vis mouens &amp; inclinans voluntatem &amp; intellectum ad huiusmodi actus contrarios. 
+      </p>
+      <p xml:id="n3av8a-c1e2010-d1e212">
+       PRI 
+       <lb ed="#B" n="7"/>mo modo sicut habitus per actus sibi conuenientes generantur &amp; saluantur, sic per actus contrarios corrumpuntur: quem- 
+       <lb ed="#B" n="8"/>admodum albedo generata per infrigidationem a frigido, econtrario corrumpitur in nigredinem per contrarium actum 
+       <lb ed="#B" n="9"/>calefactionis a calido. verbi gera in habitibus moralibus: cum habitus moralis non sit nisi firmitas quaedam in volum 
+       <lb ed="#B" n="10"/>tate directiua eius in finem bonum quem statuit prudentia vniuersalium generata ex actibus congruentibus fini illi acti 
+       <lb ed="#B" n="11"/>bus dico determinatis a prudentia particularium elicitis a voluntate secundum quod sunt determinati a ratione: quibus con 
+       <lb ed="#B" n="12"/>trariantur actus congruentes fini qui est contra rectam rationem: qui contrario modo dispositi sunt determina-  
+       <lb ed="#B" n="13"/>tioni rectae rationis, &amp; a voluntate intendente contrarium eliciuntur, siue ex ignorantia, siue ex passione, siue ex 
+       <lb ed="#B" n="14"/>malitia. propter quod voluntatem relaxant &amp; remolliunt: &amp; a rectitudine sua si frequenter fiunt incuruant. Remol- 
+       <lb ed="#B" n="15"/>liunt scilicet generando dispositiones imperseuerantiae &amp; incontinentiae. Incuruant autem habitus virtutis corrum 
+       <lb ed="#B" n="16"/>pentes: &amp; contrarios inducentes. 
+      </p>
+      <p xml:id="n3av8a-c1e2010-d1e236">
+       IN habitibus vero intellectualibus habitus non est nisi illustratio quaedam  
+       <lb ed="#B" n="17"/>in intellectu monstrans ei principium complexum quod est verum, vel secundum rationem veri quo ad intellectum spe 
+       <lb ed="#B" n="18"/>culatiuum, vel secundum rationem boni quo ad intellectum practicum. Quod postquam motum fuerit ab intelligibili exi- 
+       <lb ed="#B" n="19"/>stente in phantasmate, format in seipso per actum suum intelligendi collatiuum secundum modum supra determinatum  
+       <lb ed="#B" n="20"/>in quaestione de modo intelligendi angelorum: &amp; per hoc naturaliter vnico actu intelligendi naturaliter ge- 
+       <lb ed="#B" n="21"/>nerat in se habitum principiorum: non ex aliqua rationis deductione: propter quid ratio non est edoctiua princi- 
+       <lb ed="#B" n="22"/>piorum vt dictum est in quaestione praecedenti secundum philosophum. vii. Ethi. sed habito principio rationis deductio- 
+       <lb ed="#B" n="23"/>ne actibus intellectualibus ratiocinando concipit verum complexum conclusionum: propter quod ipsarum ratio est edocti 
+       <lb ed="#B" n="24"/>ua, qualibus actibus frequenter elicitis generatur in ipsa habitus scientialis. Quibus actibus intellectualibus 
+       <lb ed="#B" n="25"/>generantibus habitus principiorum &amp; conclusionum, siue speculatiuae in speculabilibus, siue practicae in agibi 
+       <lb ed="#B" n="26"/>libus aut factibilibus contrariantur actus intellectuales quibus concipiuntur contrariae complexiones principiis vel 
+       <lb ed="#B" n="27"/>conclusionibus: &amp; generantur contrarii habitus: qui sunt obnubilationes quaedam in intellectu palpitare facientes ipsum  
+       <lb ed="#B" n="28"/>in contrarium principio aut conclusioni. Ex quo corrumpuntur habitus tam principiorum quam conclusionum. Quod fit ex par 
+       <lb ed="#B" n="29"/>te intellectus speculatiui circa habitum principiorum: &amp; hoc vel propter malitiam naturae, aut educationis, 
+       <lb ed="#B" n="30"/>aut erroris in eis quae sunt post principia. Ex primis duabus fit corruptio habitus principii: quia sicut ho-  
+       <lb ed="#B" n="31"/>mines cum tales fuerint ab initio: aut sic educati, non possunt scire nisi contraria principiorum: sic si tales dispo 
+       <lb ed="#B" n="32"/>sitiones post notitiam principiorum supueniant bene possunt habitus principiorum falsa aestimatione corrumpi 
+       <lb ed="#B" n="33"/>&amp; contrarii habitus introduci. Propter malitiam autem naturae contingit illud: in quibus virtus imaginati 
+       <lb ed="#B" n="34"/>ua omnino dominatur supe intellectiuam. Sic enim eam imaginatiua obnubilat propter organum cognitiuae: vt non pos 
+       <lb ed="#B" n="35"/>sit transcendere simplicia intellecta in phantasmatibus conferendo circa ea secundum se vltra id quid eis modostrat ima 
+       <lb ed="#B" n="36"/>ginatiua. intantum sicut dicit Commenta. super secundum Metaphysicae, quod tales non possunt credere demonstratio 
+       <lb ed="#B" n="37"/>nibus nisi imaginatio concomitetur eas: ita quod imaginari possit quid demonstratio concludit: &amp; quod ponit pro 
+       <lb ed="#B" n="38"/>medio. veluti bene imaginabile est solem eclipsari propter interpositionem lunae inter nos &amp; ipsum. Non sic autem  
+       <lb ed="#B" n="39"/>omnia in omnibus demonstrationibus. Vnde &amp; talibus non potest suaderi vacuum non esse extra caelum: neque quod  
+       <lb ed="#B" n="40"/>credant aliqua esse entia incorporea, neque in loco, neque in tempore existentia. Et tales sunt (vt dicit) de qui  
+       <lb ed="#B" n="41"/>bus dicit <name ref="#Aristotle">philosophus</name> quod tristantur audire sermonem perscrutatum: quia non possunt retinere ipsum neque comprehendere. 
+       <lb ed="#B" n="42"/>Et isti vt dicit Commenta. impossibiles sunt vt addiscant. Isti etiam vt dicit non possunt prtransire probabilia:  
+       <lb ed="#B" n="43"/>&amp; cum concedunt prima intellecta, non concedunt ea nisi inquantum sunt famosa: ita quod si accidat vt con 
+       <lb ed="#B" n="44"/>traria eis sint sic famosa, negabunt ea. De numero talium erant illi qui negabant illud principium principio 
+       <lb ed="#B" n="45"/>rum: De quolibet affirmatio vel negatio: &amp; non simul de eodem. contra quos disputat philosophus. iiii. Metaph. Vn  
+       <lb ed="#B" n="46"/>de super illud Heb. v. Grandis sermo &amp; interpretabilis ad dicendum quoniam imbecilles facti estis ad audiendum.  
+       <lb ed="#B" n="47"/>glos. loquens de talibus dicit. Mente adhuc paruulis &amp; lacte nutriendis percipere talia non valentibus omnis 
+       <lb ed="#B" n="48"/>sermo quo agitur vt non solum credatur verum etiam intelligatur sciaturque quid dicitur, onerosus est: facilius praemit 
+       <lb ed="#B" n="49"/>quam pascit: vt volentes eos perducere ad intelligentiam non capacem, facilius fastidire faciant in veritate sermo 
+       <lb ed="#B" n="50"/>nem quam in sermone percipere veritatem. Et sequitur de talibus inferius in glos. Facile ad vanas &amp; sacrilegas fabu- 
+       <lb ed="#B" n="51"/>las, promissione scientiae seducuntur: vt bonum &amp; malum non nisi corporalibus imaginibus cogitent: &amp; ipsum  
+       <lb ed="#B" n="52"/>deum non nisi corpus aliquod esse existiment: &amp; malum nisi substantiam putare non possunt, cum sit potius mutabilium 
+       <lb ed="#B" n="53"/>substantiarum quidam defectus. ldem contingit aliis propter educationem a talibus &amp; instructionem in eis quae  
+       <lb ed="#B" n="54"/>sunt contraria principiis. secundum quod dicit Commenta. super secundum Metaphysicae Quae impediunt virtutem scientiae for- 
+       <!--428.xml-->
+       <pb ed="#B" n="194-r"/>
+        <lb ed="#B" n="1"/>tissimum eorum est consuetudo in pueritia. Isti enim propter consuetudinem loquentium negant naturam esse, &amp; vir 
+       <lb ed="#B" n="2"/>tutes, &amp; necessarium esse, &amp; ponunt omnia contingentia &amp; possibilia esse. Super haec autem impedimenta ex parte in-  
+       <lb ed="#B" n="3"/>tellectus speculatiui est vnum impedimentum ex parte intellectus practiec scilicet malitia moris: secundum quod dicit <name ref="#Aristotle">philosophus</name> 
+       <lb ed="#B" n="4"/>vi. Ethi. Peruertit malitia &amp; mentiri facit circa practica principia. &amp; hoc impediendo ne habitus eorum ge- 
+       <lb ed="#B" n="5"/>neretur quando praeuenit: &amp; contrariam aestimationem causando quando superuenit: vt sic iam generatus corrumpatur. Ex er- 
+       <lb ed="#B" n="6"/>rore similiter circa ea quae sunt post principia regrediendo concludit contrarium principiorum: &amp; corrumpitur eorum ha  
+       <lb ed="#B" n="7"/>bitus. de quo errore statim patebit loquendo circa habitus conclusionum. Sciendum ergo quod secundum praetactum mo- 
+       <lb ed="#B" n="8"/>dum sit corruptio circa habitum conclusionum per corruptionem praecedentem in habitu principiorum: vt de contrariis 
+       <lb ed="#B" n="9"/>principiorum frequenter elicitis actibus intellectualibus quibus concluditur contrarium verarum conclusionum, corrum 
+       <lb ed="#B" n="10"/>pitur habitus earum &amp; inducitur contrarium: &amp; hoc per syllogismum ignorantiae sine falsigraphum: de quo determi 
+       <lb ed="#B" n="11"/>nat <name ref="#Aristotle">philosophus</name> in libro posteriorum: tanquam peccantem contra demonstrationem qui est syllogismus generatiuus scientiae sicut 
+       <lb ed="#B" n="12"/>ille est ignorantiae: non quae est nescientia &amp; pura priuatio: sed quae est habitus contrarius. Vel per syllogismum so 
+       <lb ed="#B" n="13"/>phisticum peccantem in materia contra syllogismum dialecticum qui generat opinionem vera: sicut ille opinio- 
+       <lb ed="#B" n="14"/>nem falsam. Contingit enim opinionem opinioni esse contrariam secundum <name ref="#Aristotle">philosophum</name> libro praedi. &amp; libro Peri hermenias, si 
+       <lb ed="#B" n="15"/>cut &amp; orationem orationi. Aut per syllogismum sophisticum peccantem in forma. quo secundum <name ref="#Aristotle">philosophum</name> in elenchis:  
+       <lb ed="#B" n="16"/>sapientes ab insciis quandoque decipiuntur: &amp; hoc etiam post generationem habitus scientialis. 
+      </p>
+      <p xml:id="n3av8a-c1e2010-d1e376">
+       CONtrarium au 
+       <lb ed="#B" n="17"/>tem originaliter actibus illis quibus habent habitus generari mouens &amp; inclinans voluntatem &amp; intellectum in actus 
+       <lb ed="#B" n="18"/>&amp; in fines contrarios, est sicut in aqua bulliente naturalis frigiditas: quae est origo frigiditatis actualis per quam. 
+       <lb ed="#B" n="19"/>aquae bulliens ablato calefactiuo &amp; suae naturae derelicta sine alio exterius infrigidante corrumpitur in ea caliditas:  
+       <lb ed="#B" n="20"/>&amp; prcedit in actum frigiditas. 
+      </p>
+      <p xml:id="n3av8a-c1e2010-d1e387">
+       TAle contrarium habitibus tam moralibus quam intellectualibus est fomes in nobis ex peccato 
+       <lb ed="#B" n="21"/>manens etiam in renatis: per quem obnubilatus est in nobis oculus naturalis intelligentiae: immo lippus factus secundum  
+       <lb ed="#B" n="22"/>Hugo. libro iii. super caelestem hierarchiam: &amp; infectus est gustus naturalis appetitus: vt intellectus pronus 
+       <lb ed="#B" n="23"/>sit ad errores &amp; voluntas ad prauas affectiones: &amp; manet ille fomes infixus nostrae naturae vt origo omnium 
+       <lb ed="#B" n="24"/>actionum erronearum intellectualium &amp; affectionum prauarum voluntariarum: &amp; hoc quantuncumque intellectus sit 
+       <lb ed="#B" n="25"/>informatus habitibus intellectualibus: &amp; voluntas habitibus moralibus. statim enim cum cessat aut tepescit vel 
+       <lb ed="#B" n="26"/>minoratur intellectualis aut voluntaria operatio actus virtutum eliciens: quibus supprimitur fomes ne pullu 
+       <lb ed="#B" n="27"/>let in spinas: &amp; tribulos motuum errorum &amp; prauarum affectionum, incipit fomes pullulare &amp; germen errorum 
+       <lb ed="#B" n="28"/>quasi connaturalium niae corruptioni proponere intellectui &amp; prauarum affectionum imprimere voluntati. quibus crescen- 
+       <lb ed="#B" n="29"/>tibus extirpatur omne semen virtutum. Hic dicitur prouerb. xxiiii. Propera fortis opus tuum &amp; diligenter exerce 
+       <lb ed="#B" n="30"/>agrum tuum: &amp; post aedifices domum tuam. Vbi dicit glos. Domum aedificat qui primum agrum corporis a spinis vi 
+       <lb ed="#B" n="31"/>tiorum purgat, ne si desideriorum sentes in carnis agro proficiant, intus tota virtutum fabrica fame boni crescem 
+       <lb ed="#B" n="32"/>te destruatur. Agrum exercere est euulsis iniquitatis sentibus actionem nostram ad frugem retributionis excole 
+       <lb ed="#B" n="33"/>re: &amp; post agri exercitium domum aedificare: quod plerumque ex bonis operibus discimus quantam vitae mundi- 
+       <lb ed="#B" n="34"/>tiam in cognitione construamus. Vnde non excrcenti sic agrum suum contingit quod sequitur. Per agrum hominis pigri transi 
+       <lb ed="#B" n="35"/>ui &amp; per vineam stulti: &amp; ecce totum repleuerant vrticae: operuerant superficiem eius spinae: &amp; materia lapidum de-  
+       <lb ed="#B" n="36"/>structa erat. Vbi dicit Interlin. glos. Quia reprobi praedicta facere negligunt, recte subiungit: per agrum &amp;c. 
+       <lb ed="#B" n="37"/>&amp; glos. Margin. Per agrum vineamque pigri ac stulti transire: est cuiuslibet vitam inspicere negligentis: quam vr 
+       <lb ed="#B" n="38"/>ticae vel spinae replent: quia in corde negligentium terrena desideria &amp; punctiones pullulant vitiorum. Mate  
+       <lb ed="#B" n="39"/>ria lapidum in vinea vel agro stulti destructa iacet, cum incepta virtutum incuria vel improbitate dece- 
+       <lb ed="#B" n="40"/>ptus vel diaboli persuasione quisque negligens prodit. Et sic licet cessatio per se habitum non corrumpat: nec 
+       <lb ed="#B" n="41"/>contrarium eius inducat: quia tamen cessantibus actibus quibus reprimi fomes deberet, insurgunt motus fo- 
+       <lb ed="#B" n="42"/>mitis virtutis habitum corrumpentes: vt sic cessatio per accidens non per se est causa corruptionis habituum vir 
+       <lb ed="#B" n="43"/>tutis &amp; generationis contrariorum. secundum quod haec amplius iam in solutione argumentorum declarabuntur. 
+      </p>
+      <p xml:id="n3av8a-c1e2010-d1e439">
+       AD pri 
+       <lb ed="#B" n="44"/>mum igitur obiectum dicendum: quod habitus etsi non corrumpantur propter defectum subiecti, nec immediati, in quo ra 
+       <lb ed="#B" n="45"/>dicatur: quia non est corruptibile vt substantia seu potentia animae rationalis: nec mediati, a quo dependet eius 
+       <lb ed="#B" n="46"/>generatio &amp; exercitium operum: vt sunt vires sensitiuae per quarum corruptiones omnino cessant actiones intel- 
+       <lb ed="#B" n="47"/>lectus &amp; voluntatis: &amp; per consequens corrumpuntur habitus actuum cessatione vt dictum est. deficiente enim 
+       <lb ed="#B" n="48"/>sensu necesse est scientiam deficere quae est secundum illum sensum. corrumpitur tamen per contrarium: etsi non sibi per se &amp; 
+       <lb ed="#B" n="49"/>immediate: sed per contrarium actibus quibus generatur, vel formaliter, vel originaliter vt dictum est, per se enim 
+       <lb ed="#B" n="50"/>a proprio contrario cuiusmodi est vitium non corrumpitur. immo etiam nec proprie potest dici per se corrumpi aut ge 
+       <lb ed="#B" n="51"/>nerari. Primum patet ex hoc: quod sicut in actione intellectus &amp; voluntatis duo sunt scilicet substantia actio- 
+       <lb ed="#B" n="52"/>nis &amp; ordo eius in finem qui est verum aut bonum: ex substantia actionis quantum ad substantiam actionis non contra 
+       <lb ed="#B" n="53"/>riatur actio actioni per se: quia ex hac omnis actio voluntatis &amp; intellectus bona est: quia omnis actio voluntatis est 
+       <lb ed="#B" n="54"/>motus ad bonum sub ratione boni. Nihil enim agit aspiciendo ad malum. vt dicit Dioni. Bonum autem bona con 
+       <!--429.xml-->
+       <pb ed="#B" n="194-v"/>
+        <lb ed="#B" n="1"/>trarium non est. Quia autem actio voluntatis sit mala: hoc est solummodo ex hoc quod deficit in hoc quod non agit eam quando, vbi i 
+       <lb ed="#B" n="2"/>&amp; quomodo debet eam agere: adhibitis debitis circunstantiis secundum iudicium rectae rationis: &amp; per hoc deuiat a fine. Ex 
+       <lb ed="#B" n="3"/>hoc autem dei actio bomna quod agit eam sub debitl circunstantiis quibus ordiatur in finem. Nunc autem proportionaliter hitus sequuntur 
+       <lb ed="#B" n="4"/>actus. ita quod a sba actus vitiosi sba hints vitiosi effectiue generatur: &amp; defectus incliationis hintus ad finem rectae rationis de 
+       <lb ed="#B" n="5"/>reliquitur ex defectu ordiationis debitae ipsius actus in eundem fine scilicet rectae rationis: vt sic proportionaliter sicut ab eo quodem 
+       <lb ed="#B" n="6"/>positiuum in actu generatur id quod est positiuum in hintu: ita ab eo quod est priuatiuum vel defectiuum in actum: per quid foralth 
+       <lb ed="#B" n="7"/>quod sit vitiosus, dereliquitur id quod est priuatiuum vel defectiuum in hintu, per quid similiter ha foraliter quod sit vitiosus: vt sic sicut id  
+       <lb ed="#B" n="8"/>quod est positiuum in hitu ha esse ab eo quod est positiuum in actu effectiue: sic id quod est priuatiuum in hintu ha esse ab eo quid  
+       <lb ed="#B" n="9"/>est priuatiuum in actu defectiue. &amp; sic quantum ad sbam hintuum nulla est contrarietas: sed solum ex defectu a fine 
+       <lb ed="#B" n="10"/>&amp; directione in finem ipsum, quemadmodum motus a sursum in deorsum non contrariatur ei qui est a deorsum in sursum ratione quam  
+       <lb ed="#B" n="11"/>motus sunt: sed solum ratione quam ad terminos contrarios: quia motus specieum sumit ab eo in quod est. sm philosophum. v physicae Ha- 
+       <lb ed="#B" n="12"/>bitus autem ratione eius quod est non est qualitas actiua in aliud a soo quod inclinat in finem: &amp; in ea quae sunt ad finem. Principia. ii.  
+       <lb ed="#B" n="13"/>actiua in aliud aut sunt principia actionum: vt ea quae in accidentibus sunt de secunda aut itia spie qualitatis, aut sunt ipsae 
+       <lb ed="#B" n="14"/>actiones. Hitus autem non sic est actio nec aliquid de secunda aut itia spse qualitatis: vt principium actionis in aliud secundum  
+       <lb ed="#B" n="15"/>quod aliud est, nec similiter contingit ei agere in aliud ratione quae in finem inclinat vel a fine: quia hic respectus tantum est qui non est 
+       <lb ed="#B" n="16"/>principium actionis per se sicut neque terminus. sm philosophum. v physicae. Nullo ergo modo hintus per se &amp; primo corrumpit hitum 
+       <lb ed="#B" n="17"/>effectiuae scilicet ipsum expellendo. Sed quia non possunt esse contrariae inclinationes in eodem: ideo actus generans vnum hintum in  
+       <lb ed="#B" n="18"/>clinantem ad vnum, nccio corrumpit alium inclinantem ab illo: non propter aliquam contrarietatem actionis ad hintum quem cor 
+       <lb ed="#B" n="19"/>rumpit: sed quia effectus eius illum non compatitur. licet enim hintus non contrariantur in agendo: vt vnus alterum per se effectiue 
+       <lb ed="#B" n="20"/>corrumpat: contrariantur tamen in informando: vt vnus simul cum altero idem sbum informare non possit: sicut calidum generans 
+       <lb ed="#B" n="21"/>nigredinem non contrariatur albedini quam corrumpit: nec corrumpit eam propter contrarietatem ad ipsam: sed quia ipsam non 
+       <lb ed="#B" n="22"/>compatitur nigredo. Ex quo patet vlterius secundum: quia enim actus quod agit generando hintum, hoc facit ratione sbae suae non 
+       <lb ed="#B" n="23"/>ratione directionis in finem: quia ille non est nisi respectus: qui non est per se actionis principium: &amp; hintus non generatur per se ab illo 
+       <lb ed="#B" n="24"/>nisi ratione suae sbae non ratione eius quod est in finem directiuus: quia illud non est nisi respectus: qui non est per se terminus actionis 
+       <lb ed="#B" n="25"/>&amp; habitus non habet rationem virtutis per se nisi ex ratione respectus ad finem: vt patet ex praedeterminatis: ldeo com- 
+       <lb ed="#B" n="26"/>tigit quod hitus inquantum scimae &amp; virtutes sunt: non habent per se generari aut corrumpie scilicet ratione eius quid dat ei rationem scimae aut 
+       <lb ed="#B" n="27"/>virtutis: quia illud non nisi respectus est. Proptur quid dicit philosophus. vii. physicae. Ex principio sciae accepto non est generatio 
+       <lb ed="#B" n="28"/>aut alteratio. Alterari autem aliquid accidit scilicet potentiam intellectiuam per actuum exercitium quo ad sbam hituum. Sed  
+       <lb ed="#B" n="29"/>vtrumuoe scilicet &amp; sba &amp; respectus, pertinent ad rationem hintus virtutis: sicut &amp; priuatio huiusmodi respectus cum eo quid ei sub- 
+       <lb ed="#B" n="30"/>sternitur pertinet ad rationem vitii vel ignorantiae, pura enim catentia virtutl aut sciae quae nescima dicitur, nec vitium: nec 
+       <lb ed="#B" n="31"/>hintus est: qualis est in intellectu nno &amp; voluntate an quam vtatur sensibus. Nec solum dicto modo corrumpitur hintus: sed etiam vt 
+       <lb ed="#B" n="32"/>dictum est per actuum cessationem. Non propter cessationem per se: quia vt obiicitur illa non agit: sed purus defectus est: sed pro-  
+       <lb ed="#B" n="33"/>pter motum naturalem interiorem fomitis: quem non sic comprimit hitus quin insurgat in actum quasi ex habitu vt 
+       <lb ed="#B" n="34"/>ipsum repellat per actum solius consensus &amp; delectationis voluntatis, nisi actum contrario repellatur. Quemadmodum  
+       <lb ed="#B" n="35"/>frigidum naturale in aqua surgens in actum quasi ex hintu repellit calorem ipsius. Et quia istud non fit nisi eodem genere 
+       <lb ed="#B" n="36"/>actionis quae frigidum extra ageret remouendo: &amp; quam voluntas sine motu fomitis insurgeret ex se eliciendo huiusmodi 
+       <lb ed="#B" n="37"/>affectiones &amp; delectationes: quae sunt motus voluntatis a fine virtutis: ideo iste motus corruptionis hintuum habet 
+       <lb ed="#B" n="38"/>ad illum alium reduci: &amp; non differunt nisi in hoc quod in illum actum secundum quem primo modo supraposito corrumpitur hitus 
+       <lb ed="#B" n="39"/>virtutis, intelligitur insurgere voluntas ex se non iclinata ab alio: in istum autem inclinata &amp; mota a fomite a quo  
+       <lb ed="#B" n="40"/>necesse habet moueri in actum vitii, non obstante inclinatione hintus quantacumque etiam sit in homine perfectissimo nisi 
+       <lb ed="#B" n="41"/>obuiet per actum virtutl contrarium: &amp; in illo se exerceat. ita etiam quod oportet actus ex hintu virtutis elicitos esse for 
+       <lb ed="#B" n="42"/>tiores &amp; maiores quam sunt motus ex fomite pullulantes. Quoniam si actus etiam ex habitu virtutis eliciti essent par 
+       <lb ed="#B" n="43"/>ui &amp; tepidi vel remissi: &amp; secundum proportionem suae virtutis semper augmentarent hintum: tamen motus fortiores pul- 
+       <lb ed="#B" n="44"/>lulantes ex fomite plus corrumperent de habitu &amp; ipsum diminuerent quam ex eis generaretur vel augmentaretur. Et sic 
+       <lb ed="#B" n="45"/>huiusmodi actus parui tepidi vel remissi si dicantur diminuere habitum: hoc est per accidem scilicet quia propter eorum remis- 
+       <lb ed="#B" n="46"/>sionem insurgunt actus fortiores fomitis quos non possunt reprimere: qui per se hintum diminuunt: &amp; in fine corrum 
+       <lb ed="#B" n="47"/>punt: vt dictum est: ita quod impossibile est ponere in nobis omnimodam cessationem ad horam nisi viribus ligatis: vt in som 
+       <lb ed="#B" n="48"/>no: secundum quod infra magis patebit in quaedam quaestione de actionibus peccati. Vnde si ponatur in nobis omnimoda cessatio ab  
+       <lb ed="#B" n="49"/>actione virtutis &amp; vitii &amp; stimulo fomitis: &amp; maneret homo per aliquod tempus absque omni huiusmodi immutatione: non vi 
+       <lb ed="#B" n="50"/>deo vllam causam corruptionis hintuum nisi dicatur quod sic per actionis praesentiam hintus conseruatur: sicut &amp; lumen per praesen- 
+       <lb ed="#B" n="51"/>tiam luminosi. Sed tunc non essent hintus in dormientibus: immo quia hintus ex se est quaelitas permanens: ita quod sit de difficili 
+       <lb ed="#B" n="52"/>mobilis, maneret subiecto suo fine omni trasmutatione dicto modo manente: nec haberet corrumpens naturale. 
+       <lb ed="#B" n="53"/>Quod videtur necessario esse concedendum habendo aspectum ad naturam in sua integritate institutam. Sed postquam destitu  
+       <lb ed="#B" n="54"/>ta est per peccatum, etiam renatis ex fomite manet quasi grauitas naturalis retrahens a bonis virtutum &amp; scimarum, &amp; 
+       <lb ed="#B" n="55"/>etiam quasi naturales tenebrae ignorantiae in intellectum, &amp; quasi naturalis infectio poenalis malitiae in affectum: ad quam  
+       <!--430.xml-->
+       <pb ed="#B" n="195-r"/>
+        <lb ed="#B" n="1"/>si cessant omnino operationes alicuius hintus virtutis vel scientiae per tractum &amp; inclinationem naturalem fomitis, etiam absque  
+       <lb ed="#B" n="2"/>actibus contrariis ex fomite pullulantibus reuertuntur. Quemadmodum res ab inaturali sua dispositione si sibi re 
+       <lb ed="#B" n="3"/>liquatur reuertitur in propriam dispositionem naturalem. Sicut positum est exemplum de aquae calefacta. 
+      </p>
+      <p xml:id="n3av8a-c1e2010-d1e601">
+       AD secundum, quod cor 
+       <lb ed="#B" n="4"/>ruptio scimae non solum est deceptio sed obliuio: Dicendum quod ex praedictis patet quomodo deceptio corrumpit per medium 
+       <lb ed="#B" n="5"/>falsigraphum vel sophisticum. De obliuione vero sciendum quod aut dicit purum defectum scientiae, aut motum ad igno  
+       <lb ed="#B" n="6"/>rantiam prius sciti. Primo modo dicit dispositionem contrariam habitui scimae: &amp; est corruptio sciae formaliter: sicut pri 
+       <lb ed="#B" n="7"/>uatio est corruptio hintus: &amp; caecitas in oculo est corruptio visus. Sed de tali corruptione formali non loquitur: sed  
+       <lb ed="#B" n="8"/>de effectiua: de quae etiam loquitur philosophus: quemadmodum deceptio quae consistit in actu rotiocinandi quae intellectus circa conclusum 
+       <lb ed="#B" n="9"/>decipitur, est corruptio sciae. Et talis est obliuio secundo modo dicta. de quae dicit <name ref="#Augustine">Augustinus</name> xv. de trinitate. c. xv. Quae per meno 
+       <lb ed="#B" n="10"/>riam quodammo viuunt, obliuione quodammo moriuntur. lsta autem obliuio dicit motum ad ignorantiam non quae est hintus 
+       <lb ed="#B" n="11"/>sicut est illa quae sit corruptione sciae per deceptionem: sed quae est sola nescientia: &amp; opponitur motui doctrinae in addiscem 
+       <lb ed="#B" n="12"/>do qui est ad scientiam. Talis autem obliuio fit in memoria intellectiua per notitiae rerum deletionem proportionaliter ei quo  
+       <lb ed="#B" n="13"/>sit in menoria sensitiua per specierum sesibilium abstractionem. Sicut enim menoria sensitiua est vis retentiua specierum 
+       <lb ed="#B" n="14"/>sensibilium: de quae <name ref="#Augustine">Augustinus</name> liro xi. de trinitate. c. iii. loquitur: sic memoria intellectiua est vis contentiua notitiae intelligibilium: 
+       <lb ed="#B" n="15"/>dequae loquitur. xiiii. de trinitate. c. vi. Fit autem in menmoria sesitiua. primo per hoc quod vis meditatiua non se exercet circa ea quae 
+       <lb ed="#B" n="16"/>sunt in memoria: vt per hoc firmetur memoria, meditationes enim menoriam saluant: quod nihil aliud est quam multotiens specu- 
+       <lb ed="#B" n="17"/>lari. vt dicitur in libro de menmoria &amp; reminisc. &amp; habet per hoc aliquam habitus rationem. Sed per hoc non sit corruptio 
+       <lb ed="#B" n="18"/>habitus memoriae esfectiue, sicut nec cessatione actuum in intellectiua per se corrumpitur habitus vt dictum est: sed fit 
+       <lb ed="#B" n="19"/>habitus memoriae corruptio per motus naturales passionum corporalium: quae sic impediunt ne generetur: secundum quod  
+       <lb ed="#B" n="20"/>dicit philosophus. vii. physicae. Neque infantes possunt addiscere: multa enim turbatio circa eos. Et in libro de memoria 
+       <lb ed="#B" n="21"/>&amp; reminiscentia loquens de generatione menoriae dicit. Oportet aliquam fieri per sensum in animae: &amp; in parte corporis ha 
+       <lb ed="#B" n="22"/>bentis ipsam: cuius habitum dicimus menoriam, sicut sigillantis sigilli. Vnde &amp; his qui in motu multo propter passionem 
+       <lb ed="#B" n="23"/>aut aetatem sunt non sit menoria: tanquam in aquam fluentem incidente sigillo: sic eam corrumpit cum iam generata est. secundum quod  
+       <lb ed="#B" n="24"/>dicit ibi quod in senibus non sit memoria: quia propter multum motum decrementi sunt sicut antiquam aedificia quae continue de 
+       <lb ed="#B" n="25"/>cidunt. Consimiliter &amp; in memoria intellectiua quae est intellectus possibilis inquantum est conseruatiuus habitus sit corruptio 
+       <lb ed="#B" n="26"/>sciae primo per actuum cessationem: sed non effectiue: immo a motibus &amp; passionibus. Non dico corporalibus factis cir- 
+       <lb ed="#B" n="27"/>ca sensitiuam partem: per quos per accidens deficit actus intellectiuae: non autem per se corrumpitur hintus scialis in ipsa: sed spirita- 
+       <lb ed="#B" n="28"/>libus a fomite qui magis fluidum faciunt intellectum quam motus corporales partem memoratiuam. Et est iste vnus modus corru 
+       <lb ed="#B" n="29"/>ptionis habituum ex praedictis: qui omnibus habitibus communis est: sed prudentia habet specialem: per malitia. scilicet in vitiis opposi 
+       <lb ed="#B" n="30"/>tam bonitati virtutum. Vnde quid <name ref="#Aristotle">philosophus</name> dicit: quia artis est obliuio, prudentiae vero non: hoc non dicit quin habitus pru 
+       <lb ed="#B" n="31"/>dentiae fiat obliuio sicut &amp; aliorum: sed hoc dicit aspiciendo necessitatem operis. hoc enim secundum Conmenta. dicit 
+       <lb ed="#B" n="32"/>philosophus quia secundum artem non semper oportet operari: secundum prudentiam autem oportet semper. subiecta enim prudentiae 
+       <lb ed="#B" n="33"/>semper praeiacent homini: in virtute enim viuere seper est naturae hominis debitum: &amp; vbique &amp; in omnibus operibus &amp; in omnibus passioni 
+       <lb ed="#B" n="34"/>bus: in quibus omnibus est prudentia. Quin tamen cadat in eum motus obliuionis quo sper fiat minor &amp; minor quausque omnino de-  
+       <lb ed="#B" n="35"/>ficiat sicut &amp; in aliis: ita tamen quod quousque deficiat, semper sit in aliquali actum: non est omnino suae intentionis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

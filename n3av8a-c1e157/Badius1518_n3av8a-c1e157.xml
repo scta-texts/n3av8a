@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="3-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e157">
+      <head xml:id="n3av8a-c1e157-Hd1e96">Quaestio 5</head>
+      <p xml:id="n3av8a-c1e157-d1e99">
+       <!--47.xml-->
+       <pb ed="#B" n="3-v"/>
+       <lb ed="#B" n="1"/>POst praedicta quaerebantur duae quaestiones de pertinentibus ad Christi humanitatem quo  
+       <lb ed="#B" n="2"/>ad eius esse sacramentale. 
+      </p>
+      <p xml:id="n3av8a-c1e157-d1e110">
+       PRIma erat: vtrum species sacramenti corporis Christi tan  
+       <lb ed="#B" n="3"/>gunt verum corpus Christi quod est in eis. 
+      </p>
+      <p xml:id="n3av8a-c1e157-d1e115">
+       SEcunda erat: vtrum Christus videret se sub 
+       <lb ed="#B" n="4"/>illis speciebus oculo corporali.
+      </p>
+      <p xml:id="n3av8a-c1e157-d1e120">
+       CIRca primum arguebatur quod species illae tangunt verum 
+       <lb ed="#B" n="5"/>corpus Christi: quia si verum corpus Christi quid est tangibile, est ibi &amp; non tangunt ipsum  
+       <lb ed="#B" n="6"/>species illae, tunc distant ab illo: &amp; hoc non nisi quia corpus aliquid aliud sit medium inter spe 
+       <lb ed="#B" n="7"/>cies illas &amp; corpus Christi, aut vacuum. vtrumque istorum falsum est &amp; impossibile. ergo &amp; primum.
+      </p>
+      <p xml:id="n3av8a-c1e157-d1e130">
+       CONtra 
+       <lb ed="#B" n="8"/>species accidentium vt sunt illae species sacramenti non tangunt corpus quid est substantia, cuiusmodi est cor 
+       <lb ed="#B" n="9"/>pus Christi, nisi per hoc quod insunt ei. Si ergo species illae tangerent verum corpus Christi: inessent ei vt subie 
+       <lb ed="#B" n="10"/>cto suo: &amp; ita non essent per se subsistentes sine subiecto. cuius contrarium tenet fides.
+      </p>
+      <p xml:id="n3av8a-c1e157-d1e139">
+       AD intelligendum veri 
+       <lb ed="#B" n="11"/>tatem circa hoc quaesitum, oportet primo scire quomodo verum corpus Christi habet esse sub speciebus sa- 
+       <lb ed="#B" n="12"/>cramenti determinantibus situm: &amp; per hoc in illis habet esse tanquam in situ determinato. Notandum igitur quod ali 
+       <lb ed="#B" n="13"/>quid habet esse in situ determinato: vel per se &amp; primo vt dimensiones quantitatiuae, vel per se sed non primo: 
+       <lb ed="#B" n="14"/>vt materia &amp; formae materiales quae extenduntur secundum extensionem quantitatis: quaedam vero nec per se, nec primo sed  
+       <lb ed="#B" n="15"/>per accidens &amp; per aliud &amp; secundario: vt omnia incorporalia quae non habent esse in situ nisi per suam operationem cir 
+       <lb ed="#B" n="16"/>ca ea quae habent esse in loco &amp; situ, vel per passionem ab eis. Vnde angelus ibi est vbi est id circa quid operatur: &amp; 
+       <lb ed="#B" n="17"/>diabolus ibi est vbi est ignis a quo patitur. 
+      </p>
+      <p xml:id="n3av8a-c1e157-d1e157">
+       PRImo modo Christus corporaliter habet esse per suas dimen 
+       <lb ed="#B" n="18"/>siones quantitatiuas in aliqua parte determinata caeli. 
+      </p>
+      <p xml:id="n3av8a-c1e157-d1e162">
+       SEcundo modo habet esse ibidem per suas disposi- 
+       <lb ed="#B" n="19"/>tiones materiales extensas secundum extensionem quantitatis. &amp; neutro istorum modorum habet esse in sacramento. 
+       <lb ed="#B" n="20"/>sed tertio modo tantum: quia scilicet substantia panis ibi scilicet sub speciebus sacramenti conversa est in substan 
+       <lb ed="#B" n="21"/>tiam corporis Christi: ita quod nisi hoc esset: non diceretur corpus Christi potius esse sub specie sacramenti quam sub  
+       <lb ed="#B" n="22"/>specie ligni vel lapidis. Vnde per hoc poterit esse sub pluribus speciebus sacramenti vbicumque conversa est substam 
+       <lb ed="#B" n="23"/>tia panis in ipsam substantiam corporis Christi. sicut angelus potest esse in pluribus locis simul si simul in pluri 
+       <lb ed="#B" n="24"/>bus operetur: &amp; similiter diabolus si simul a diuersis ignibus in diuersis locis existentibus patiatur. Per hoc etiam 
+       <lb ed="#B" n="25"/>substantia corporis Christi tota habet esse sub qualibet parte speciei panis: quia quaelibet pars substantiae panis 
+       <lb ed="#B" n="26"/>quae fuit sub illis speciebus: conversa est in totam substantiam corporis Christi: quia substantia panis conuersa est 
+       <lb ed="#B" n="27"/>in ipsam, ratione qua habet esse simplex vt vnitas: non ratione qua habet esse situale extensum secundum extensio- 
+       <lb ed="#B" n="28"/>nem dimensionum. 
+      </p>
+      <p xml:id="n3av8a-c1e157-d1e186">
+       DIcendum igitur ad quaestionem quod absurda est &amp; ex falsa &amp; phantastica imaginatione procedit 
+       <lb ed="#B" n="29"/>acsi quantitas speciei panis esset concaua, &amp; intra concauitatem eius dimensiones corporis Christi caperentur 
+       <lb ed="#B" n="30"/>tangente interiori supficie speciei, exteriorem supficiem corporis Christi: quid non est verum: tum quia species ipsae so 
+       <lb ed="#B" n="31"/>lidae sunt: tum quia substantia corporis Christi non est ibi dimensiue aut extensiue vt dictum est: quia non est 
+       <lb ed="#B" n="32"/>ibi aliquo modo per se, neque ratione sui, neque ratione suarum dimensionum: sed solum quia ibi aliquid conversum est 
+       <lb ed="#B" n="33"/>in ipsam: &amp; ideo aliquo modo ipsa est ibi sicut dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e157-d1e199">
+       SED quia in dimensiones ipsas non sit aliquo mo 
+       <lb ed="#B" n="34"/>do ibi conuersio, ideo ipsae non sunt ibi aliquo modo virtute sacramentalis conuersionis: sed solummodo vt di 
+       <lb ed="#B" n="35"/>ctum est per accidens: quia scilicet substantia in qua sunt ibi est vt dictum est: &amp; ideo per illas non sit aliquo modo  
+       <lb ed="#B" n="36"/>ibi tactus. aliter autem species sacramenti corporis Christi tangere non possent. Idcirco dicendum est absolu 
+       <lb ed="#B" n="37"/>te quod species sacramenti nullo modo tangunt corpus Christi existens sub ipsis.
+      </p>
+      <p xml:id="n3av8a-c1e157-d1e211">
+       AD argumentum in oppo 
+       <lb ed="#B" n="38"/>situm, quod verum corpus Christi tangibile est ibi: ergo tangunt illud species illae, vel est aliquod aliud cor- 
+       <lb ed="#B" n="39"/>pus medium, aut vacuum: patet quomodo argumentum procedit ex falsa imaginatione acsi esset corpus Chri- 
+       <lb ed="#B" n="40"/>sti dimensionaliter &amp; per se sub illis speciebus. &amp; non est ita vt visum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

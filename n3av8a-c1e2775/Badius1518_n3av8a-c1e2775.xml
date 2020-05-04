@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="260-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2775">
+       <head xml:id="n3av8a-c1e2775-Hd1e96">Quaestio 6</head>
+       <p xml:id="n3av8a-c1e2775-d1e99">
+        <lb ed="#B" n="43"/>CIrca tertium arguitur: quod homo purus in hac vita vtens sensibus possit videre deum  
+       <lb ed="#B" n="44"/>per essentiam &amp; esse persecte beatus, quia si vsus sensuum hoc impediret, tunc san 
+       <lb ed="#B" n="45"/>cti in gloria, quia resumptis corporibus habebunt vsum sensuum, eum non vide- 
+       <lb ed="#B" n="46"/>rent. 
+      </p>
+      <p xml:id="n3av8a-c1e2775-d1e110">
+       CONtra est illud exo. xxxiii. Non videbit me homo &amp; viuet. tunc autem ma 
+       <lb ed="#B" n="47"/>xime viuit cum est in vsu sensuum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2775-d1e115">
+       DIcendum, quod omnis deum videns per 
+       <lb ed="#B" n="48"/>essentiam in videndo eum beatus est. Sed in vidente aliquid requiritur vt absolu 
+       <lb ed="#B" n="49"/>te videre possit: aliquid vt perfecte videre possit: &amp; primum illorum potest esse sine secundo, non ecom 
+       <lb ed="#B" n="50"/>uerso. potest enim aliquis deum videre per essentiam aliqualiter: &amp; esse aliqualiter beatus: cum tamen perfecte non videt:  
+       <lb ed="#B" n="51"/>nec est perfecte beatus. Est igitur sciendum: quod ex parte videntis aliquid requiritur vt deum per essentiam videat: quo  
+       <lb ed="#B" n="52"/>non existente impossibile est vt eum per essentiam videat scilicet quod vis visiua non sit retracta: nec impedita. nisi enim totali 
+       <lb ed="#B" n="53"/>ter &amp; perfecte in se collecta fuerit, essentiam illam videre non poterit. dicente Greg. xxiii. mora. xx. ca. Sancti 
+       <lb ed="#B" n="54"/>omnes quamdiu in hac vita sunt, diuinae naturae secreta nondum sicut sunt contemplantur. quia nimirum  
+       <!--561.xml-->
+       <pb ed="#B" n="260-v"/>
+        <lb ed="#B" n="1"/>tunc secreta diuinitatis cognoscimus: cum ab huius mundi tumultuosa concupiscentia in mentis no-  
+       <lb ed="#B" n="2"/>strae cubicula segregamur. Aliud vero requiritur vt perfecte videat: quod si non adsit, etsi videat, perfecte vide 
+       <lb ed="#B" n="3"/>re non potest: scilicet quod vis visiua sit in esse suae naturae perfecta &amp; completa. Ad quod duo requirum  
+       <lb ed="#B" n="4"/>tur ex parte animae: in cuius natura est vis visiua. scilicet quod sit corpori suo vnita: &amp; quod corpus cui est vni 
+       <lb ed="#B" n="5"/>ta, sit sic dispositum ne per ipsum sit aggrauata. Propter primum anima separata etsi deum videat 
+       <lb ed="#B" n="6"/>perfecte tamen videre non potest: nec perfecte esse beata quousque corpus suum recipiat: &amp; in ipso per 
+       <lb ed="#B" n="7"/>fectionem naturae suae habeat: &amp; perfectam operationem visiuam exercere valeat. secundum quod de hoc determinat Au 
+       <lb ed="#B" n="8"/>gust. xii. super Gen. ad literam: &amp; alias in quaedam quaestione de Quolibet exposuimus. Propter secundum anima in paenen 
+       <lb ed="#B" n="9"/>ti vita quantuncumque a sensibus abstracta, in corpore tamen corruptibili existens, quod aggrauat animam, deum perfecte vide 
+       <lb ed="#B" n="10"/>re aut beata esse perfecte non potest dicente Greti. v moralium. xiii. Nos quousque carnis corruptione praemimur, 
+       <lb ed="#B" n="11"/>nullo modo claritatem diuinae potentiae sicut in se incommutabilis manet, videmus: quia acies infirmitatis 
+       <lb ed="#B" n="12"/>nostrae non sustinet. Quod dixit: non quia videri non possit sensibus sopitis: sed quia videri non potest 
+       <lb ed="#B" n="13"/>quantum posset corpore animam non aggrauante, quod insinuat per hoc quod dicit claritatem potentiae. Dico 
+       <lb ed="#B" n="14"/>igitur breuiter ad quaestionem: quod homo in vita praesenti existens vtens sensibus deum videre non potest per  
+       <lb ed="#B" n="15"/>speciem suae essentiae: quia carnali amore mentem ad se trahunt ne possit totaliter in se recolligi: quod neces 
+       <lb ed="#B" n="16"/>sarium est ad hoc vt deus videatur per essentiam: sicut dictum est. Quia nimirum vt dicit Grego. viii. mora. 
+       <lb ed="#B" n="17"/>xix. inuisibilis conditoris species repressa omni corporeae visionis imagine in cubili cordis inuenitur. Fit autem  
+       <lb ed="#B" n="18"/>ista repressio, anima ab hac vita subtracta, vel corpore glorioso suscepto: quo anima in sua visione non erit 
+       <lb ed="#B" n="19"/>impedita: sed magis expedita: vel in sensuum omnimoda subtractione. dicente <name ref="#Augustine">Augustinus</name> de videndo deum. Ne- 
+       <lb ed="#B" n="20"/>mo potest facien meam videre &amp; viuere: quia necesse est abstrahi ab hac vita mentem quando in illius 
+       <lb ed="#B" n="21"/>ineffabilitatem visionis assumitur. Et cum non sit incredibile quibusdam sanctis nondum iam defun- 
+       <lb ed="#B" n="22"/>ctis vt sepelienda cadauera remanerent, etiam istam excellentiam reuelationis fore concessam: hinc 
+       <lb ed="#B" n="23"/>etiam dicit Grego. xix. morum. xxiii. Quisquis sapientiam quae deus est videt, huic vitae funditus moritur 
+       <lb ed="#B" n="24"/>ne iam eius amore teneatur. Qui enim videt, eo ipso moritur quo vel intentione cordis: vel affectu ope 
+       <lb ed="#B" n="25"/>ris ab huius vitae delectationibus tota mente separatur &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2775-d1e194">
+       PER haec patent obiecta vtriusque partis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

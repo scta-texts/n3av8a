@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 20</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 20</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="272-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2959">
+       <head xml:id="n3av8a-c1e2959-Hd1e96">Quaestio 20</head>
+       <p xml:id="n3av8a-c1e2959-d1e99">
+        <lb ed="#B" n="39"/>Irca secundum arguitur quod tacens veritatem in dicto casu peccet mortaliter. 
+       <lb ed="#B" n="40"/>quia iste in deficiendo a veritate deficit a Christo, &amp; ita a via paradisi. Dicit enim 
+       <lb ed="#B" n="41"/>Christus de seipso loaem. xiiii. Ego sum via, veritas, &amp; vita. a Christo autem &amp; a via 
+       <lb ed="#B" n="42"/>paradisi nemo potest deficere nisi peccando mortaliter. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2959-d1e110">
+       CONtra. si di  
+       <lb ed="#B" n="43"/>ceret veritatem, non rediret iterato praedicaturus, eo quod hospitium paratum 
+       <lb ed="#B" n="44"/>non inueniret: &amp; sic viam proficiendi aliis sibi praecluderet: quoid facere non debet. qua  
+       <lb ed="#B" n="45"/>ure nec illam veritatem praedicare. sed non peccat non faciendo quod non debet facere. ergo &amp;c. 
+       <lb ed="#B" n="46"/>
+      </p>
+      <p xml:id="n3av8a-c1e2959-d1e121">
+       DIcendum ad hoc: quod pro tempore quo praedicatori officium praedicationis incumbit quandoque aliqua  
+       <lb ed="#B" n="47"/>veritas est subticenda, ita quod praedicator peccaret in eam proponendo. Est alia econtra praedicanda: quam re- 
+       <lb ed="#B" n="48"/>ticendo peccaret. Propter quod dicit Grego. ii. pastor. Simplices sicut fallaciam semper vtiliter vitant, 
+       <lb ed="#B" n="49"/>ita veritatem semper vtiliter proferunt, ne vt dicit libro it aut tacenda proferat, aut proferenda reticescat. Sed  
+       <lb ed="#B" n="50"/>quaestio ista proposita est de veritate quam expediret proponere: sed propter timorem amittendi 
+       <lb ed="#B" n="51"/>commodi reticetur. Et est hic distinguendum de necessitate proponendi eam ad modum quo di-  
+       <lb ed="#B" n="52"/>stinctum est in quaestione praecedenti, &amp; eodem modo respondendum. Non enim refert propter commo 
+       <lb ed="#B" n="53"/>dum temporale obtinendum se ab aliquo loco in quo veritas praedicanda est omnino subtrahere, &amp; in  
+       <!--584.xml-->
+       <pb ed="#B" n="272-r"/>
+        <lb ed="#B" n="1"/>loco vbi praedicatur eam subticere, nisi sicut plus &amp; minus. de quibus dicit Gregorius primo Mora- 
+       <lb ed="#B" n="2"/>lium. Qui prouidi humanam gratiam amittere formidantes loqui libere recta pertimescunt, impro 
+       <lb ed="#B" n="3"/>uidi dicuntur, quia vbi credunt sibi prouidere custodiendo gratiam hominum, amittunt gratiam 
+       <lb ed="#B" n="4"/>dei. dicente eodem. vii. Mora. Qui in terra hominem contra veritatem pauet, eiusdem veritatis iram 
+       <lb ed="#B" n="5"/>caelitus sustinet. Contra veritatem amator veritatis pauere non debet damna rerum per iniuriam 
+       <lb ed="#B" n="6"/>auferentes: nec afflictionem corporibus per violentiam inferentes: nec famam nominis per reprehen- 
+       <lb ed="#B" n="7"/>siones denigrantes. secundum quod de duobus primis potest intelligi illud quod dicit ibidem Grego. librox. Bonorum  
+       <lb ed="#B" n="8"/>mens quo duriora pro veritate tolerat, eo aeternitatis praemia certius expectat: tanto maior fiducia 
+       <lb ed="#B" n="9"/>mentem roborat, quanto hanc fortior pro veritate afflictio angustat. Tertium vero exprimit <name ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="10"/>cum dicit in principio secundi de Trini. Nullus reprehensor formidandus est amatori veritatis. Per haec 
+       <lb ed="#B" n="11"/>patet ad primum. Ad secundum quod non rediret ad praedicandum si diceret veritatem: verum est si in malitia quaestus 
+       <lb ed="#B" n="12"/>persisteret: &amp; melius esset ei non redire quam ad quaestum redire &amp; praedicare, licet forte non esset melius popu 
+       <lb ed="#B" n="13"/>lo. Propter quod dixit Apost. Philip. ii. Siue per occasionem siue per veritatem Christus annuncietur, in 
+       <lb ed="#B" n="14"/>hoc gaudeo: sed in hoc &amp; gaudebo. vbi dicit glos. Ex occasione euangelizant non tam salutem eius 
+       <lb ed="#B" n="15"/>quaerentes cui annunciant quam commodum suum. Qui annunciat detrimentum habebit, cui annum-  
+       <lb ed="#B" n="16"/>ciatur, lucrum. Si tamen veritatem propter se diligerent &amp; praedicarent, redire non formidarent 
+       <lb ed="#B" n="17"/>ad ipsam defendendum si aliqui vellent eam impugnare. dicente Grego, perid est super Ezechie. homil. ix. 
+       <lb ed="#B" n="18"/>Inimicis veritatis aduersabitur qui eidem in mente subiicitur. Nec hoc debet dimittere propter refectio 
+       <lb ed="#B" n="19"/>nem corporalem: quia per hoc meliorem recuperat spiritualem. dicente Gregorio. ix. Mora. Tunc quisque in  
+       <lb ed="#B" n="20"/>veritate valentius reficitur, cum ardentius pro ea fatigatur. Sed hanc refectionem aliqui non cupiunt 
+       <lb ed="#B" n="21"/>quibus vt dicit <name ref="#Augustine">Augustinus</name> in origi. super psali, v panis veritatis amarus est. Vnde os vera dicentis ode-  
+       <lb ed="#B" n="22"/>runt qui in eam aegritudinem deuenerunt, vt cibum veritatis quo animae sanae gaudent, tamquam felleum sus 
+       <lb ed="#B" n="23"/>tinere non possint. Et quod assumitur in argumento, quod dicendo veritatem hospitium perderet, for- 
+       <lb ed="#B" n="24"/>tasse non est verum, immo paratius inueniret: quia veritatis amator non vult sibi parci contra ve 
+       <lb ed="#B" n="25"/>ritatem. dicente Grego. in primo Pastora. Plus veritate se appetit diligi, quam contra se non vult de-  
+       <lb ed="#B" n="26"/>fendi. Ille ergo seipso veritatem amplius vult amari, qui sibi a nullo vult contra veritatem parci.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

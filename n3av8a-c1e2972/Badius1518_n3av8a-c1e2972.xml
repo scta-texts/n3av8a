@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 21</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 21</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="272-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2972">
+       <head xml:id="n3av8a-c1e2972-Hd1e96">Quaestio 21</head>
+       <p xml:id="n3av8a-c1e2972-d1e99">
+        <lb ed="#B" n="27"/>CIrca tertium arguitur: quod in illo casu frater sit potior in iure: quia speciale derogat 
+       <lb ed="#B" n="28"/>generali. Frater autem habet quod possit populo praedicare ex iure speciali: quia ex pri 
+       <lb ed="#B" n="29"/>uilegio quod dat priuatum ius: curatus autem ex iure conmuni, &amp; ita generali. ergo 
+       <lb ed="#B" n="30"/>&amp;c. Contra,. priuilegia sunt stricti iuris, &amp; illud quod in eis non est expressum, non in  
+       <lb ed="#B" n="31"/>telligitur concessum. extra de priuilegiis. Porro. Cum ergo in eius priuilegio non  
+       <lb ed="#B" n="32"/>exprimitur quod ei debeat cedere curatus: ergo non est concessum: &amp; sic potior ma 
+       <lb ed="#B" n="33"/>net curatus post priuilegium sicut ante. 
+      </p>
+      <p xml:id="n3av8a-c1e2972-d1e117">
+       AD istam quaestionem, quia princi- 
+       <lb ed="#B" n="34"/>paliter pertinet ad iuristas, &amp; tangit virtutem &amp; efficaciam priuilegii concessi fratribus, respondere inten 
+       <lb ed="#B" n="35"/>do salua protestatione, quam ponam in soluendo tertiam quaestionem proxime sequentem. Dico igitur: quod in  
+       <lb ed="#B" n="36"/>agibilibus &amp; in vniuersalibus, quia sermones particulares sunt veriores vniuersalibus, vt dicit philoso 
+       <lb ed="#B" n="37"/>phus, in ipsis considerandum est plurimum quid verius sit regulariter, &amp; quomodo deficit in casibus. quia vix in  
+       <lb ed="#B" n="38"/>moralibus &amp; agibilibus potest sermo vniversalis ita esse verus quin fallat in casibus. In proposita igitur quaestione licet quae 
+       <lb ed="#B" n="39"/>rat de iure, quia tamen quaerit ius circa factum, ideo considerandum est circa factum quis potior in iure di-  
+       <lb ed="#B" n="40"/>cendus est regulariter: etsi alter potior poterit dici in casibus: &amp; hoc primo ex fine concessionis 
+       <lb ed="#B" n="41"/>priuilegii, secundo ex forma verborum. Ex parte autem finis clarum est, quod priuilegium fra- 
+       <lb ed="#B" n="42"/>trum super praedicationibus libere exercendis non datur nec dari debet principaliter in fauo- 
+       <lb ed="#B" n="43"/>rem fratrum. iuxta illud quod dicit Gregori. x. Pastoralis. loquens de Esaia qui se vt ad praedican- 
+       <lb ed="#B" n="44"/>dum mitteretur voluntarius obtulit. vt habetur Esaiae. vi. dicit. ls qui se mitti voluit, ante purgatum 
+       <lb ed="#B" n="45"/>se vidit: ne non purgatus quisquam adire sacra mysteria audeat. Quia igitur valde difficile est purga- 
+       <lb ed="#B" n="46"/>tum se quenquam posse cognoscere, praedicationis officium tutius declinatur: nec debet ad hoc moue- 
+       <lb ed="#B" n="47"/>ri contemplatiuus desiderio assumente, sed sola necessitate proximi impellente, vt si praedicationis offi 
+       <lb ed="#B" n="48"/>cium imperatur, si donis iam praeuentus est quibus &amp; aliis prosit: &amp; ex corde debet fugere, &amp; inui 
+       <lb ed="#B" n="49"/>tus accedere. secundum quod dicit ibidem. Vnde cum praedicatione fratrum opus non fuerit, &amp; hoc 
+       <lb ed="#B" n="50"/>curatus charitatiue insinuauerit, abire debet fine difficultate, gaudens si praedicatione eius opus non 
+       <lb ed="#B" n="51"/>fuerit. dicente Augus. xix. de ciuitate dei. Otium sanctum quaerit charitas: veritatis negotium 
+       <lb ed="#B" n="52"/>iustum suscipit necessitas charitatis. Propter quod Beatus Franciscus in regula sua fratribus suis 
+       <lb ed="#B" n="53"/>praecepit dicens. Fratres non praedicent in episcopatu alicuius episcopi, cum ab eo fuerit contra- 
+       <!--585.xml-->
+       <pb ed="#B" n="272-v"/>
+        <lb ed="#B" n="1"/>dictum. Et consimile verbum dicit in suo testamento de praedicando in parrochiis sacerdotum. Si 
+       <lb ed="#B" n="2"/>haberem inquiens tantam sapientiam quantam Salomon habuit: &amp; inuenirem pauperes sacerdo- 
+       <lb ed="#B" n="3"/>tes huius saeculi in parrochiis in quibus morantur, nolo praedicare vltra voluntatem eorum. Vnde si da-  
+       <lb ed="#B" n="4"/>tur eis priuilegium, hoc non est nisi in fauorem populi principaliter, qua. scilicet sacerdote: insistere praedicationi  
+       <lb ed="#B" n="5"/>quantum opus est, per se non sufficiunt. Hanc causam conferendi priuilegium assignat Nicolaus papa in  
+       <lb ed="#B" n="6"/>expositione regulae fratrum minorum, vbi dicitur. Verum quia expresse continetur in regula quod fratres non prae 
+       <lb ed="#B" n="7"/>dicent in episcopatu alicuius episcopi, cum ab eo fuerit contradictum, decens quod praedictum verbum ad literam, si 
+       <lb ed="#B" n="8"/>cut regula ipsa protulit, obseruetur: nisi per sedem apostolicam circa hoc pro vtilitate populi christi 
+       <lb ed="#B" n="9"/>ani sit concessum, aut ordinatum aliud, vel in posterum concedatur, seu etiam ordinetur. Et exprimit 
+       <lb ed="#B" n="10"/>eam dominus Martinus in priuilegio suo, cum dicit. Ad fructus vberes quos in agro dominico &amp;c. 
+       <lb ed="#B" n="11"/>Constat ergo quod aspiciendo ad causam priuilegii fratres in officio praedicationis sacerdotibus adiungum 
+       <lb ed="#B" n="12"/>tur, vt eorum coadiutores. &amp; si sic: manent ergo adhuc illi veri pastores, nec eis de iure suo quicquam subtra 
+       <lb ed="#B" n="13"/>hitur quo ad praedicationis officium: sed ipsi soli messores sunt in agro dominico, &amp; fratres sicut spi 
+       <lb ed="#B" n="14"/>cas colligentes qui fugerant manus metentium, vt dicitur in figura Ruth. ii. Quas manu debent com 
+       <lb ed="#B" n="15"/>terere: vt similiter dicitur in figura Deut. xxiii. sed non falcem, sicut principales messores, immittere. iuxta 
+       <lb ed="#B" n="16"/>illud quod dicit Greti. &amp; est. vi. qui. iii. Scriptum est in lege, per alienam messem transiens falcem mittere non  
+       <lb ed="#B" n="17"/>debere, sed manu spicas conterere. Falcem enim mittere non debes in eam segetem quae alteri commis 
+       <lb ed="#B" n="18"/>sa est, sed per effectum boni operis frumenta dominica vitiorum suorum paleis expoliare, &amp; in ec- 
+       <lb ed="#B" n="19"/>clesiae corpus admonendo &amp; persuadendo quasi manducando conuertere. Quandocunque ergo sacer 
+       <lb ed="#B" n="20"/>dos sufficit aequaliter cum fratre in propria persona praedicare, non video quod frater de praedicatione fal 
+       <lb ed="#B" n="21"/>cem mittendo in messem alienam se debet intromittere. Et sic dico respondendo ad quaestionem: quod  
+       <lb ed="#B" n="22"/>regulariter pinguius ius habet sacerdos quam frater, quia regulariter debet supponi quod sacerdos sit suffici 
+       <lb ed="#B" n="23"/>ens quamdiu ab ecclesia in officio suo sustinetur: &amp; hoc etiam quia incumbit ei ex necessitate ratione curae 
+       <lb ed="#B" n="24"/>pastoralis &amp; officii: Fratri autem non nisi ex volutate &amp; ratione priuilegii. Nec ex eo quid concessum est 
+       <lb ed="#B" n="25"/>fratri, aliquid subtrahitur de eo quod pertinet ad ius commune pastoralis officii, vt iam dicetur. Si tamen spicae 
+       <lb ed="#B" n="26"/>effugerint manus metentium, vt in praedicatione admonendo &amp; suadendo non sufficiat eas colli- 
+       <lb ed="#B" n="27"/>gere sacerdos solus atque fricare, debet ei frater coadiutor assistere. Non sufficiat dico: aut quia facer 
+       <lb ed="#B" n="28"/>dos est praedicationis inscius: &amp; ideo sonitum praedicationis dare non potest praeco mutus, vt dicit 
+       <lb ed="#B" n="29"/>Gregorius primo pastora. aut quia est negligens, &amp; desidiosus, etiam si esset sciolus, aut quia etsi sci 
+       <lb ed="#B" n="30"/>olus &amp; diligens: tamen propter occupationes alias circa populum, aut aliqua alia de causa non est per 
+       <lb ed="#B" n="31"/>se sufficiens, aut si omnia dicta adessent: quia est maliuolus destruens exemplo quae praedicat verbo. 
+       <lb ed="#B" n="32"/>iuxta illud quod dicit Gregorius homil. viii. super illud Luc. x. Messis quidem &amp;c. Quod sine graui lo 
+       <lb ed="#B" n="33"/>qui moerore non possumus: quia etsi sunt qui bona audiunt, desunt qui dicunt. Ecce mundus sacer 
+       <lb ed="#B" n="34"/>dotibus plenus est: &amp; tamen in messe dei rarus inuenitur operarius, quia officium sacerdotale suscipi- 
+       <lb ed="#B" n="35"/>mus, sed opus officii non implemus. &amp; loquitur pro talibus in quibus sunt aliqui huiusmodi defectus. In talibus ergo casibus 
+       <lb ed="#B" n="36"/>aut consimilibus cum occurrunt: dico quod pinguius ius habet frater quam curatus: &amp; debet ei curatus cedere, imo ipsum  
+       <lb ed="#B" n="37"/>ad hoc rogare &amp; inducere: aut si non potest, conqueri suo superiori exemplo Marthae, per quam intelliguntur 
+       <lb ed="#B" n="38"/>actiui: quae conquesta est de Maria, per quam intelliguntur contemplatiui, cum dixit Luc. x. Domine non 
+       <lb ed="#B" n="39"/>est tibi curae quod foror mea reliquit me solam ministrare. Dic ergo illi vt me adiuuet. secundum illud 
+       <lb ed="#B" n="40"/>etiam Luc. x. Messis quidem multa, operarii autem pauci. Rogate ergo dominum messis vt mittat 
+       <lb ed="#B" n="41"/>operarios in messem suam. Et tunc debet dicere superior tanquam dominus messis. lte: ecce ego mitto vos 
+       <lb ed="#B" n="42"/>&amp;c. Quid tamen principaliter intelligitur de praelatis, in quorum subsidium debent adiungi quicunque alii ad  
+       <lb ed="#B" n="43"/>hoc idonei. Nec esset bonus pastor: si in tali casu non vellet coadiutorem habere, &amp; esset indicium 
+       <lb ed="#B" n="44"/>boni contemplatiui si exemplo Mariae quantum est in se fugeret actionem: &amp; esset sicut (iuxta quod  
+       <lb ed="#B" n="45"/>dam dictum beati <name ref="#Bernard">Bernardi</name> in quodam sermone de assumptione) felix est domus, &amp; beata semper con 
+       <lb ed="#B" n="46"/>gregatio, vbi Martha de Maria conquaeritur, ita vere felix societas fratrum cum curatis ad regendum populum in  
+       <lb ed="#B" n="47"/>ecclesia: si per hunc modum Martha conquaereretur de Maria. Sed si Martha per se sufficeret ministrare, tunc meri 
+       <lb ed="#B" n="48"/>to increparetur si de Maria vacante conquaereretur: &amp; si Maria ministerium Marthae sibi vellet vsurpare, tunc me 
+       <lb ed="#B" n="49"/>rito comquari posset Martha de Maria, dicendo: domine non est tibi curae quod soror mea ministerium meum sibi 
+       <lb ed="#B" n="50"/>vsurpat. Dic ergo illi ne me impediat, nec conqueratur quia mecum non ministrat. Hoc reue- 
+       <lb ed="#B" n="51"/>ra inordinatum esset: dicente Bernar. ibidem. Mariae Martham aemulari prorsus indignum est: 
+       <lb ed="#B" n="52"/>prorsus illicitum est. Alioquin vbi legis Mariam causantem, quia soror mea reliquit me solam va 
+       <lb ed="#B" n="53"/>care: Absit vt qui deo vacat, ad tumultuosam aspiret fratrum officialium vitam. Fratres autem 
+       <lb ed="#B" n="54"/>officiales sunt ecclesiae ministri maiores &amp; minores. Vnde si malitiose sese sacerdos fratri opponeret 
+       <!--586.xml-->
+       <pb ed="#B" n="273-r"/>
+        <lb ed="#B" n="1"/>nec praedicare eum permitteret, cum opus esset, volens praedicare forte alias non praedicaturus 
+       <lb ed="#B" n="2"/>&amp; plus expediret populo fratrem audire praedicantem, debet eum praelatus superior conque- 
+       <lb ed="#B" n="3"/>stione delata ad ipsum coercere. In talibus enim casibus quo ad praedicationis actum vt fratri de-  
+       <lb ed="#B" n="4"/>beat sacerdos cedere, iuri derogatur sacerdotis, &amp; rationabiliter, &amp; ex causa. Haec enim verba bene ex- 
+       <lb ed="#B" n="5"/>primuntur, cum dicitur in causa conferendi priuilegium ad vberes fructus &amp;c. vt quondocumque fratres vberes fru 
+       <lb ed="#B" n="6"/>ctus praedicando possint referre respectu fructuum quos sacerdos ferret sine illis, pinguius ius prae 
+       <lb ed="#B" n="7"/>dicandi habent, &amp; gratanter recipi debent non impediri. secundum quod praecipit dominus Martinus, cum dicit in  
+       <lb ed="#B" n="8"/>priuilegio fratrum. Districtius inhibentes ne quis fratres, &amp;c. audeat quo modolibet impedire. Vnde  
+       <lb ed="#B" n="9"/>nec econtra sacerdotem curatum, cum ad praedicandum sufficiens est, &amp; aeque proficit populo praedicatio sua 
+       <lb ed="#B" n="10"/>&amp; fratris, frater debet aliquatenus impedire. Et si in hoc casu sacerdos se in praedicatione praetu- 
+       <lb ed="#B" n="11"/>lit, non censetur fratrem impedire: quia impedimentum importat iniuriam. Nemo autem alteri iniuria 
+       <lb ed="#B" n="12"/>tur vtendo iure suo. Vnde etiam si aliquae religiones institutae sunt quoquo modo ad opera actiuae 
+       <lb ed="#B" n="13"/>vitae exercenda, videlicet ad praedicandum &amp; confessiones audiendum, cum nullam habeant ordi 
+       <lb ed="#B" n="14"/>nariam potestatem exercendi huiusmodi officia: idcirco cum eis conceditur a superioribus potestas ta 
+       <lb ed="#B" n="15"/>lia exercendi, talis concessio non intelligitur eis facta nisi in fauorem populi, &amp; in subsidium illorum qui habent po 
+       <lb ed="#B" n="16"/>testatem ordinariam huiusmodi officia exercendi. Ex parte autem formae verborum priuilegii patet idem, quia  
+       <lb ed="#B" n="17"/>ex priuilegio quo ad actum praedicandi in nullo derogatur iuri sacerdotis: quia ius commune semper fixum 
+       <lb ed="#B" n="18"/>manet nisi conditor eius per priuilegium expresse ei deroget. extra de sententia excommunicatio 
+       <lb ed="#B" n="19"/>nis cap. Nulli. &amp; de priuilegiis. Cum &amp; plantare. &amp;. xvi. quaest. septima. Omnes basilicae. &amp; hoc quia 
+       <lb ed="#B" n="20"/>priuilegia stricti iuris sunt, vt extra de priuilegiis, Porro. &amp; hoc maxime quando vergunt in prae 
+       <lb ed="#B" n="21"/>iudicium alterius, sicut contingeret in proposito si frater regulariter praeferretur sacerdoti, vt in  
+       <lb ed="#B" n="22"/>fra declarabitur, licet alias principis beneficia largissime interpretanda sint. Quare cum in pri- 
+       <lb ed="#B" n="23"/>uilegio fratrum nihil exprimitur, sicut patet inspicienti illud, per quod derogetur iuri commu- 
+       <lb ed="#B" n="24"/>ni sacerdotum, nisi forte in casibus per illud quod dicitur in causa priuilegii propter vberes 
+       <lb ed="#B" n="25"/>fructus &amp; caetera, sicut dictum est: simpliciter ergo &amp; regulariter dicendum: quod sacerdos potior est 
+       <lb ed="#B" n="26"/>in iure, frater autem in casibus tantum. Aliter enim non esset in succursum sacerdotis. Sed dices quod  
+       <lb ed="#B" n="27"/>praedicare pium opus est: nulli ergo debet esse in praeiudicium. Et dicendum quod licet praedicare in  
+       <lb ed="#B" n="28"/>se opus pium est, tamen actum praedicandi isti subtrahere in quo pinguius ius habet in casu, sci- 
+       <lb ed="#B" n="29"/>licet cum non est opus praedicatione extranei, &amp; fine eius consensu hoc facere absque alia causa ra- 
+       <lb ed="#B" n="30"/>tionabili, cum sit ordinarius: &amp; sic habet ius prohibendi: non est aequum. 
+      </p>
+      <p xml:id="n3av8a-c1e2972-d1e357">
+       AD primum in oppo 
+       <lb ed="#B" n="31"/>situm, quod speciale derogat generali: Dicendum quod regula ista speciale derogat generali, &amp; similes 
+       <lb ed="#B" n="32"/>regulae iuris non semper vniuersaliter habent veritatem: quia in casibus tenent, &amp; in casibus non 
+       <lb ed="#B" n="33"/>tenent: &amp; quandoque in iure positiuo expressi sunt aliqui ex casibus in quibus tenent, &amp; in qui-  
+       <lb ed="#B" n="34"/>bus non: secundum quod super hoc circa istam regulam multum distinguit glos. extra de Rescriptis. cap. i. 
+       <lb ed="#B" n="35"/>vnde illa regula adducta fuit. &amp; secundum illos casus in iure expressos debent illam regulam ex- 
+       <lb ed="#B" n="36"/>ponere iuristae, &amp; respondere argumento. Aliquando autem non sunt casus expressi in iure in qui  
+       <lb ed="#B" n="37"/>bus tenent, &amp; in quibus non, aut saltem non sunt expressi omnes: sed tamen exprimi possunt ex 
+       <lb ed="#B" n="38"/>regulis iuris naturae, ex quibus etiam expressi sunt illi qui sunt in iure conscripti. &amp; tam secundum hos ca 
+       <lb ed="#B" n="39"/>sus quam secundum illos, inquantum habent exprimi ex iure naturae, illam regulam possunt expone- 
+       <lb ed="#B" n="40"/>re theologi, &amp; respondere argumento. In quibus igitur casibus a iure positiuo expressum tenet 
+       <lb ed="#B" n="41"/>illa regula, &amp; in quibus non, iuristis relinquo. Sed quantum elici potest ex iure legis naturae: vnde 
+       <lb ed="#B" n="42"/>ortum debent sumere omnia edicta legis positiuae, distinguo quod concessum vni ex priuilegio per- 
+       <lb ed="#B" n="43"/>tinens ad ius commune alterius, aut est talis naturae quod postquam transierit in vsum vnius non potest 
+       <lb ed="#B" n="44"/>simul verti in vsum alterius: aut cum hoc quod transit in vsum vnius, sufficit ad vsum alterius. De 
+       <lb ed="#B" n="45"/>primo modo sunt decimae noualium: quae de iure communi debentur sacerdotibus curatis: quae cum ex 
+       <lb ed="#B" n="46"/>priuilegio conferuntur quibusdam religiosis: &amp; transierint per hoc in vsum ipsorum, non possunt verti 
+       <lb ed="#B" n="47"/>in vsum sacerdotum. De secundo est fons comomnis aliquibus de iure communis consuetudinis, ita quod non 
+       <lb ed="#B" n="48"/>aliis: cuius vsus cum conceditur alicui alteri ex priuilegio principis, &amp; transierit in vsum illius, ni 
+       <lb ed="#B" n="49"/>hil minus sufficit ad vsum aliorum. In primo genere rerum verum est quod speciale derogat ge- 
+       <lb ed="#B" n="50"/>nerali, vt patet in vsu decimarum concessarum ex priuilegio religiosis: quae deberent esse alio- 
+       <lb ed="#B" n="51"/>rum de iure aliorum communi: sed per priuilegium ipsis subtrahuntur. In isto enim casu dicitur 
+       <lb ed="#B" n="52"/>priuilegium quasi priuans legem, quia quod secundum legem iuris communis vni competit, hoc ei subtrahitur per  
+       <lb ed="#B" n="53"/>legen priuilegii: &amp; alteri tribuitur. In secundo vero genere rerum non est verum. Propter hoc enim quod vsus 
+       <lb ed="#B" n="54"/>fontis conceditur ex priuilegio illi qui nuilum ius in eo prius habuit, non per hoc subtrahitur vsus 
+       <!--587.xml-->
+       <pb ed="#B" n="273-v"/>
+        <lb ed="#B" n="1"/>eius aliis qui prius eius vsum habuerunt de iure commni consuetudinis. In hoc autem casu non dicitur priuile- 
+       <lb ed="#B" n="2"/>gium quasi priuans legen, sed quasi priuata lex: quia quid ex commoni consuetudine competit vn scilicet per legeniuris com 
+       <lb ed="#B" n="3"/>munis: hoc etiam ex priuata concessione competit alteri. Priuata dico concessione non ex parte ipsius con- 
+       <lb ed="#B" n="4"/>cessi: vt scilicet priuate &amp; singulariter obtineat concessum: sed solummodo ex parte modi concedendi 
+       <lb ed="#B" n="5"/>Primo enim modo non solummo diceretur priuilegium lex priuata, sed etiam priuans legem, vt patet. Quod non 
+       <lb ed="#B" n="6"/>est verum in isto genere rerum, nisi quatenus vsus vnius impedire posset vsum alterius: vt si ineo 
+       <lb ed="#B" n="7"/>tempore quo habens priuilegium vellet vti fonte hauriendo aquam: non posset alter simul in eodem tempore haurire. In  
+       <lb ed="#B" n="8"/>isto enim casu si priuilegium expressam sup hoc faceret mentionem derogaret iuri communi alterius, &amp; esset priui 
+       <lb ed="#B" n="9"/>legiatus potior in iure. alias vero nequaquam: sed econtrario potior esset habens pro se ius commune. Et de tali ge 
+       <lb ed="#B" n="10"/>nere est praedicatio: quia potest successiue a pluribus exerceri circa eundem populum, licet non  
+       <lb ed="#B" n="11"/>simul. Propter quod cum vni conceditur ex priuilegio, nihil subtrahitur per hoc alteri de iure suo, maxime 
+       <lb ed="#B" n="12"/>in proposito, cum non conceditur fratribus praedicatio ex priuilegio in fauorem eorum: sed populi principale 
+       <lb ed="#B" n="13"/>ni cuius profectum non veniret si regulariter frater praeferretur in praedicando sacerdoti. Nec etiam vllo modoex 
+       <lb ed="#B" n="14"/>primitur in priuilegio ipsorum quod debeant praeferri sacerdoti si simul concurrat vtriusque praedicatio. Pro- 
+       <lb ed="#B" n="15"/>pter quod non intelligitur esse concessum nisi in casibus in quibus expedit populo quod in praedicando fra 
+       <lb ed="#B" n="16"/>ter praeferatur sacerdoti. Aliter autem audiui respondere iuristam dicentem: quod illud quod est speciale vno modo potest 
+       <lb ed="#B" n="17"/>esse generale alio modo Vt in proposito posse praedicare populo commune est siue generale omnibus curatis: quia deiurecommuni 
+       <lb ed="#B" n="18"/>sed speciale fratribus: quia de iure priuilegii. Econtra autem praedicare isti populo, parrochiae. scilicet. ancti 
+       <lb ed="#B" n="19"/>Benedicti, aut sancti Seuerini, in tali parrochia vel in tali speciale est isti sacerdoti vel illi, &amp; non est 
+       <lb ed="#B" n="20"/>concessum nisi in concessione generali. Et ideo licet fratres propter speciale primomodo pinguius ius 
+       <lb ed="#B" n="21"/>haberent in praedicando quam sacerdotes: tamen propter speciale secundo modo pinguius ius praedicandi in propria eccle 
+       <lb ed="#B" n="22"/>sia, propriis parrochianis habent sacerdotes. Vnde quia priuilegium fratrum non facit mentionem de istoiu  
+       <lb ed="#B" n="23"/>re speciali sacerdotum, non intelligitur eis concessum quod in ecclesiis sacerdotum habeant potestatempredi-  
+       <lb ed="#B" n="24"/>candi nisi quantum eis de iure conmuni concedit scilicet de licentia speciali ipsorum sacerdotum, vel episto 
+       <lb ed="#B" n="25"/>porum, vel legatorum, aut summi pontificis. Sed vt ex priuilegio aliquid eis intelligatur concessum, dixit 
+       <lb ed="#B" n="26"/>ille quod intelligitur de praedicatione facienda publice populo in propriis domiciliis: quam facere non possent si 
+       <lb ed="#B" n="27"/>ne licentia speciali: quia hoc de iure conmuni non est eis concessum. Quod si ita tenendum esset circaoffi 
+       <lb ed="#B" n="28"/>cium praedicationis: consimiliter circa officium audiendi confessiones: quid tamen non assero esse verum. Et phoc 
+       <lb ed="#B" n="29"/>patet assumptum in secundo argumento, que. scilicet priuilegium fratrum stricti iuris est: quia secundum pri Ii 
+       <lb ed="#B" n="30"/>mam rationem libera potestas praedicandi absque impedimento eis concessa non extenditur vltra quam expedit 
+       <lb ed="#B" n="31"/>populo fratrum praedicatio. Secundum vero secundam rationem stricti iuris est: quia non conceditur eis nisi in  
+       <lb ed="#B" n="32"/>suis domiciliis tantum, quod forte nimis durum videretur eis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

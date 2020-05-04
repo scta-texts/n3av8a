@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 36</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 36</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="339-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3571">
+       <head xml:id="n3av8a-c1e3571-Hd1e96">Quaestio 36</head>
+       <p xml:id="n3av8a-c1e3571-d1e99">
+        <lb ed="#B" n="48"/>CIrca tertium arguitur quod ex solis speciebus sacramenti non possit generari vermis: quia 
+       <lb ed="#B" n="49"/>ex non substantia secundum <name ref="#Aristotle">philosophum</name> non sit substantia. species illae sunt non substantia: &amp; 
+       <lb ed="#B" n="50"/>vermis est substantia. ergo &amp;c. Praeterea nihil per generationem naturalem fit in actu 
+       <lb ed="#B" n="51"/>nisi de potentia materiae producatur: aliter enim esset formarum latitantia aut datio &amp; 
+       <lb ed="#B" n="52"/>ita non generatio. sed in illis speciebus non est materia subiecta: quia sunt sine ma-  
+       <lb ed="#B" n="53"/>teria secundum fidem. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3571-d1e118">
+       CONtra. non est generatio vnius sine corruptione al- 
+       <lb ed="#B" n="54"/>terius: cum ergo videmus species illas vetustate naturaliter corrumpi: ergo oportet 
+       <!--719.xml-->
+       <pb ed="#B" n="339-v"/>
+        <lb ed="#B" n="1"/>simul aliquid naturaliter generari: &amp; qua ratione aliquid aliud, eadem ratione &amp; vermis: quia aequa-  
+       <lb ed="#B" n="2"/>lis difficultas est vtrobique. 
+      </p>
+      <p xml:id="n3av8a-c1e3571-d1e131">
+       DIcendum secundum quod alias diximus: quod species illae in omnibus eandem vim 
+       <lb ed="#B" n="3"/>habent in agendo &amp; patiendo absque forma substantiali &amp; materia quae praecessit sub eis, quam habuit ip 
+       <lb ed="#B" n="4"/>sum compositum ex eis. Propter quod per agens naturale appropinquans potest generari ex illis speciebus 
+       <lb ed="#B" n="5"/>&amp; produci quicquid generari posset ex illo composito: &amp; produci ex materia: ita quod quaecumque forma a naturali 
+       <lb ed="#B" n="6"/>agente posset produci ex materia quae praecessit &amp; ex illis speciebus, non refert in aliquo: nisi quod forma 
+       <lb ed="#B" n="7"/>producta de materia cum ipsa materia constitueret vnum substantiale &amp; secundum substantiam: forma 
+       <lb ed="#B" n="8"/>autem educta de potentia specierum quae fuerunt sacramentum, non constituit cum ipsis speciebus iam fa 
+       <lb ed="#B" n="9"/>ctis per transmutationem speciebus vermis ex speciebus sacramenti, nisi vnum accidentale siue vnum per 
+       <lb ed="#B" n="10"/>accidens: &amp; esset in illo vno per accidens forma substantialis sine materia sicut &amp; ipsae species: &amp; esset ver 
+       <lb ed="#B" n="11"/>mis in forma substantiali fine materia. Et licet species illae postquam factae sunt vermis &amp; configuratae ei non 
+       <lb ed="#B" n="12"/>sunt de caetero species sacramenti: virtutem tamen adhuc habent materiae quae fuit: ita quod istud compositum 
+       <lb ed="#B" n="13"/>sine materia eandem vim habet in agendo &amp; patiendo quam haberet cum materia quae praecessit: vt videli 
+       <lb ed="#B" n="14"/>cet nutrimentum verum attrahat postquam generatum est: &amp; praeparet ipsum alterando vi nutritiua: vt pro 
+       <lb ed="#B" n="15"/>pria forma corrupta substernatur formae illi substantiali: &amp; ipsa informetur: quemadmodum informata 
+       <lb ed="#B" n="16"/>fuisset si praecessisset materia cui vnita fuisset. &amp; consimili modo dimensionibus inuentis substernetur 
+       <lb ed="#B" n="17"/>vt informent iam compositum ex materia &amp; forma sicut fecerunt prius illud compositum quod tran- 
+       <lb ed="#B" n="18"/>substantiatum est: &amp; sua virtute dimensiones inuentas augmentet: quemadmodum augmentasset si ali- 
+       <lb ed="#B" n="19"/>cui materiae praecedenti in composito substantiali vnita fuisset. &amp; per hoc vermis qui prius erat vnum  
+       <lb ed="#B" n="20"/>compositum per accidens &amp; non substantialiter nisi forma absque materia: habens tamen ab illis accidentibus 
+       <lb ed="#B" n="21"/>omnem vim &amp; dispositionem quam haberet ex materia, per nutritionem sit vnum compositum substantiale ex 
+       <lb ed="#B" n="22"/>materia &amp; forma: vt sic absque nouo miraculo superueniente supposita vi derelicta in speciebus ex primo 
+       <lb ed="#B" n="23"/>miraculo opere naturae ponamus omnia haec fieri. Semper enim quid potest poni absque miraculo in talibus 
+       <lb ed="#B" n="24"/>melius est ascribere naturae omnino quam miraculo omnino: aut partim naturae partim miraculo. Deus enim pm 
+       <lb ed="#B" n="25"/>Augustinus sic res administrat vt eas, proprios motus agere sinat: nec vnquam facit nouum miraculum: nisi finis alius 
+       <lb ed="#B" n="26"/>specialis sit quam naturae adiutorium in sua operatione. vt non sit hic necesse ponere quod in corruptione naturali 
+       <lb ed="#B" n="27"/>specierum materia transubstantiata eadem numero per creationem aut reuersionem qualencumque sub speciebus 
+       <lb ed="#B" n="28"/>illis habeatur: aut quod aliqua alia de nouo sub ipsis creetur: aut ab extra addatur: in cuius potentiam 
+       <lb ed="#B" n="29"/>cedunt accidentia cum corrumpuntur: &amp; forma alia cum suis propriis accidentibus generetur: vt in eo- 
+       <lb ed="#B" n="30"/>dem instanti fiant haec tria. scilicet accidentium post praecedentem alterationem corruptio: &amp; materiae adiunctio 
+       <lb ed="#B" n="31"/>&amp; formae de ipsa productio. Quaecumque autem harum opinionum teneatur non reprobo: nec praedictam opinionem omni- 
+       <lb ed="#B" n="32"/>no assero. Est autem alius modus ponendi magis congruu scilicet quod species illae non solum sunt in potentia ad for 
+       <lb ed="#B" n="33"/>mam: sed per se ad compositum ex materia &amp; forma: &amp; in potentia ad substantiam materiae producendam in esse: sicut 
+       <lb ed="#B" n="34"/>&amp; ad substantiam formae: &amp; sic naturaliter absque omni miraculo &amp; noua creatione vermis iste generatur. Nec 
+       <lb ed="#B" n="35"/>est hic difficultas in aliquo nisi quo ad hoc: quod substantia materiae esse reciperet nouum in composito: sicut 
+       <lb ed="#B" n="36"/>&amp; substantia formae, quod non contingit in aliis generationibus naturalibus. 
+      </p>
+      <p xml:id="n3av8a-c1e3571-d1e207">
+       AD primum in oppositum: quod ex non 
+       <lb ed="#B" n="37"/>substantia non sit substantia: dicendum quod verum est nullo praesupposito miraculo. Praesupposito tamen quod  
+       <lb ed="#B" n="38"/>per miraculum non substantia vt sola accidentia habeant omnem vim &amp; efficaciam substantiae, bene possi- 
+       <lb ed="#B" n="39"/>bile est ex non substantia generari substantiam. Aliter enim nec ipsae species alterari possent nec omnino cor- 
+       <lb ed="#B" n="40"/>rumpi nisi desitione in non esse: cum in eo quod sunt quantitas separata non habeant omnino contrarium. 
+       <lb ed="#B" n="41"/>
+      </p>
+      <p xml:id="n3av8a-c1e3571-d1e221">
+       AD secundum quod nihil generatur nisi de potentia materiae: respondendum est eodem modo, null. scilicet 
+       <lb ed="#B" n="42"/>praesupposito miraculo quo non materia habet omnem vim materiae: quo praesupposito ex non potentia 
+       <lb ed="#B" n="43"/>materiae, sed ex eo quod habet omnem vim potentiae materiae, vt in proposito, bene potest fieri pure natu  
+       <lb ed="#B" n="44"/>ralis generatio. Dico quantum ad productionem formae in esse actu de non esse actu sed in potentia tantum absque  
+       <lb ed="#B" n="45"/>omni creatione: &amp; etiam quantum ad constitutionem vnius per accidens: licet non quantum ad con- 
+       <lb ed="#B" n="46"/>stitutionem vnius compositi secundum substantiam quod est per se generatum in naturalibus: aut secun 
+       <lb ed="#B" n="47"/>dum aliam positionem quantum ad generationem compositi ex materia &amp; forma.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

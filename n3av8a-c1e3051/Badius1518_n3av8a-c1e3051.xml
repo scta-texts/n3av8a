@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 27</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 27</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="124-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3051">
+       <head xml:id="n3av8a-c1e3051-Hd1e96">Quaestio 27</head>
+       <p xml:id="n3av8a-c1e3051-d1e99">
+       <!--618.xml-->
+        <pb ed="#B" n="124-v"/>
+        <lb ed="#B" n="1"/>CIrca tertium arguitur: quod confessor teneatur aliquando hortari confessum ad alias com e 
+       <lb ed="#B" n="2"/>fitendum: quia hoc monet dominus Martinus facere fratres per illam clausulam priuilegii sui.  
+       <lb ed="#B" n="3"/>Quaque iidem fratres &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3051-d1e112">
+       CONtra, non potest eum hortari ad confitendum peccata: quia di  
+       <lb ed="#B" n="4"/>ctum est a domino mulieri quam absoluit a peccato adulterii. loannem. viii. Vade, iam amplius no 
+       <lb ed="#B" n="5"/>li peccare. Non autem dixit: vade, &amp; si pecces amplius confitere domino. Sed non tenetur quis 
+       <lb ed="#B" n="6"/>aliud facere: quam dominus docuit suo exemplo. Non ergo tenetur aliquo modo exhortari ad com 
+       <lb ed="#B" n="7"/>fitendum futura, neque praeterita: quia iam non sunt. Si ergo tenetur exhortari ad confitendum aliquam: illa non possunt 
+       <lb ed="#B" n="8"/>esse nisi quae iam sunt in peccatore praesentia. sed talia nondum est confessus. nullo ergo modo tenetur exhortari sibi 
+       <lb ed="#B" n="9"/>iam confessum ad alias confitendum. 
+      </p>
+      <p xml:id="n3av8a-c1e3051-d1e128">
+       DIcendum secundum quod clare patet, quod ista introducta videtur occasione  
+       <lb ed="#B" n="10"/>dictae clausulae vltimae in priuilegio fratrum. 
+      </p>
+      <p xml:id="n3av8a-c1e3051-d1e133">
+       ET est dicendum: quod ad confitendum peccata quae iam scit confessor in  
+       <lb ed="#B" n="11"/>esse peccatori vt ipsum inficientia: tenetur quilibet confessor exhortari peccatorem: sed praelatus ex debito officii:  
+       <lb ed="#B" n="12"/>non praelatus autem ex debito charitatis: sicut patet ex supra deteriatis in prima quaestione de praedicatione. 
+       <lb ed="#B" n="13"/>Sed de hoc nihil ad propositam quaestionem: quam non quaerit nisi de iam confesso. Ad confitendum autem peccata futura 
+       <lb ed="#B" n="14"/>non tenetur exhortari nisi forte sub conditione: si contingat ipsum vlteriora committere semper timendo casum 
+       <lb ed="#B" n="15"/>propter humanam fragilitatem. Ad confitendum autem praeterita, de quo principaliter quaestio proposita est, nullus te- 
+       <lb ed="#B" n="16"/>netur regulariter exhortari confessum: quia nec confessus tenetur regulariter ad confitendum confessa. Sicut 
+       <lb ed="#B" n="17"/>tamen simpliciter &amp; absolute bonum est &amp; expediens confessa, iterum immo pluries tam eidem quam pluribus confi 
+       <lb ed="#B" n="18"/>teri: secundum supra determinata: sic simpliciter &amp; absolute bonum est quemlibet confessorem exhortari con 
+       <lb ed="#B" n="19"/>fessum ad iam confessa iterum &amp; iterum confiteri. Sicut autem in casu: immo in casibus praenotatis, &amp; maxime in  
+       <lb ed="#B" n="20"/>vltimo tenetur confessus iam confessa iterum confiteri: vt patet ex supra deter minatis: sic in casu potest con- 
+       <lb ed="#B" n="21"/>fessor ad exhortandum confessum vt confiteatur peccata praeterita &amp; iam confessa, teneri: &amp; hoc in duplici casu. 
+       <lb ed="#B" n="22"/>In vno si praelatus committeret confessori potestatem audiendi confessiones, &amp; absoluendi sub hac conditio 
+       <lb ed="#B" n="23"/>ne quod exhortaretur confessos sibi ad hoc vt eadem quae hactenus aliis &amp; iam sibi confessus est, quilibet 
+       <lb ed="#B" n="24"/>it erum confiteatur. Nisi enim hanc conditionem intenderet implere in absoluendo, non absolueret. Et si postmo 
+       <lb ed="#B" n="25"/>dum quo ad hoc intentionem mutaret: &amp; si non exhortaretur: multum peccaret: vt patet ex praedictis. In alio 
+       <lb ed="#B" n="26"/>autem casu ad hoc idem tenetur: vt si committeret praelatus confessori potestatem praedictam sub tali obligatione quod  
+       <lb ed="#B" n="27"/>ad hoc teneatur hortari sibi confessos. Vnde si dominus papa in priuilegio fratrum illam vltimam clausulam, 
+       <lb ed="#B" n="28"/>Quiaque iidem fratres &amp;c. expressisset sub tali forma verborum: quodque iidem fratres eos ad hoc diligenter &amp; effica 
+       <lb ed="#B" n="29"/>citer secundum datam eis a domino gratiam exhortari teneantur: procul dubio sicut confessi tenentur confessa fratri 
+       <lb ed="#B" n="30"/>bus iterato confiteri suo proprio praesbytero propter obligationem implicitam in illa clausula. Volumus autem &amp;c. 
+       <lb ed="#B" n="31"/>sic fratres confessores tenerentur exhortari sibi confessos vt proprio praesbytero iterato eadem confiterentur. 
+       <lb ed="#B" n="32"/>Nunc autem licet non exprimat illa clausula verbum tentionis: neque sit praeceptum aut statutum apostolicum: pro 
+       <lb ed="#B" n="33"/>culdubio tamen illa clausula explicat quod de voluntate domini papae est quod ita fiat. Quam aliqui intelligunt tantum obli 
+       <lb ed="#B" n="34"/>gare quantum obligaret praeceptum. Vult autem quod ita fiat si intelligat quod in casu proposito confessus obli- 
+       <lb ed="#B" n="35"/>gatur indirecte secundum supra determinatum modum ad iterum eadem peccata confitendum. Quare in hoc ca 
+       <lb ed="#B" n="36"/>su tenetur confessor exhortari sibi confessum ad hoc quod sibi confessa proprio sacerdoti confiteatur: et 
+       <lb ed="#B" n="37"/>si non ad hoc quod confiteatur alteri. maxime si confessus ignorat quod ad hoc sit obligatus. Et est tertius 
+       <lb ed="#B" n="38"/>casus in quo confessor tenetur exhortari confitentem ad confessa iterum confitendum. Ad quid etsi non te- 
+       <lb ed="#B" n="39"/>netur ex forma concessionis sibi factae: neque ex obligatione alicuius statuti aut praecepti: tenetur tamen  
+       <lb ed="#B" n="40"/>in isto casu ad hoc ex praecepto charitatis quam debet habere ad salutem proximi, praemuniendo ipsum 
+       <lb ed="#B" n="41"/>contra mortem peccati mortalis: quod incurrere posset transgrediendo obligationem sibi factam de ite 
+       <lb ed="#B" n="42"/>rum confitendo proprio sacerdoti. secundum quod de isto modo tentionis satis habitum est in simili &amp; praenominata 
+       <lb ed="#B" n="43"/>quaestione prima de praedicatione. Et secundum hoc concedenda est prima ratio. 
+      </p>
+      <p xml:id="n3av8a-c1e3051-d1e208">
+       AD argumentum in opposi 
+       <lb ed="#B" n="44"/>tum: quod non potest teneri ad exhortandum confessum vt confiteatur praeterita: quia illa non sunt: &amp; ita non possunt 
+       <lb ed="#B" n="45"/>confiteri: Dicendum quod quodammodo sunt &amp; quodammo non sunt: &amp; hoc sufficit vt bene confiteri possint. 
+       <lb ed="#B" n="46"/>secundum quod supra in dissolutione argumentorum trium praedictae quaestionis est declaratum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

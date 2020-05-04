@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 16</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 16</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="384-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3800">
+       <head xml:id="n3av8a-c1e3800-Hd1e96">Quaestio 16</head>
+       <p xml:id="n3av8a-c1e3800-d1e99">
+        <lb ed="#B" n="18"/>SEquuntur quaesita de homine ex parte corporis. Vbi quaerebatur vnum pertinens ad statum 
+       <lb ed="#B" n="19"/>corporis humani supernaturalem. vtrum. scilicet dos impassibilitatis sit dispositio positi- 
+       <lb ed="#B" n="20"/>ua in corpore. Duo vero pertinentia ad statum eius naturalem. Quorum vnum erat ex par 
+       <lb ed="#B" n="21"/>te substantiae corporis. Vtrum videlicet suppositis fundamentis philosophi sit necesse po 
+       <lb ed="#B" n="22"/>nere quod semper fuerit homo: &amp; homo ab homine ex parte ante in infinitum. Alterum ve- 
+       <lb ed="#B" n="23"/>ro ex parte conditionis trahentis ortum ex corporis propagatione. Vtrum. scilicet nobilitas 
+       <lb ed="#B" n="24"/>generis ab iitio processerit ab ignobili. 
+      </p>
+      <p xml:id="n3av8a-c1e3800-d1e117">
+       CIRca primum arguitur quod dos impassibilitatis non sit aliquam dispositio 
+       <lb ed="#B" n="25"/>positiua in corpore, quia non naturae elementaris: quia omnis talis dispositio corporale quid est &amp; corruptibile 
+       <lb ed="#B" n="26"/>per naturam contrarietatis ad aliquid aliud elementare: dos autem impassibilitatis non est corporalis: nec 
+       <lb ed="#B" n="27"/>corruptibilis: nec contrarium habet. Item nec est illa dispositio naturae caelestis: quia illa non aufert natu S 
+       <lb ed="#B" n="28"/>ram elementarem: eo quod non contrariatur ei: &amp; natura elementaris propter contrarietatem necessario po 
+       <lb ed="#B" n="29"/>nit passibilitatem. Item nec est illa dispositio ab anima: quia anima non tollit naturam elementarem vt 
+       <lb ed="#B" n="30"/>prius. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3800-d1e133">
+       CONtra est illud apostoli. Mortale hoc induet immortalitatem: &amp; corruptibile hoc in 
+       <lb ed="#B" n="31"/>duet incorruptionem. Incorruptio autem ponit impassibilitatem. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3800-d1e138">
+       DIcendum quod duplex est pasa 
+       <lb ed="#B" n="32"/>sibilitas: &amp; econtra duplex impassibilitas, secundum <name ref="#Aristotle">philosophum</name> secundo de anima. Quaedam est abiectio conuenientis 
+       <lb ed="#B" n="33"/>ex contrarii receptione: &amp; quaedam est receptio conuenientis ex imperfectionis abiectione. Passibilitas pri 
+       <lb ed="#B" n="34"/>mo modo dter corruptibilitas in inaiatis, &amp; mortalitas in animatis. Passibilitas secundo modo perfectibi 
+       <lb ed="#B" n="35"/>litas quaedam est. Sic enim intellectus patitur in recipiendo scientiam &amp; in sciendo, &amp; sensus in recipien 
+       <lb ed="#B" n="36"/>do sensationem &amp; in sentiendo. Haec secunda passibilitas non tollitur per dotem: nec contrariatur ei: quia per 
+       <lb ed="#B" n="37"/>tinet ad perfectionem naturae. vnde in corporibus sanctorum erunt perfectae operationes omnium virium intel- 
+       <lb ed="#B" n="38"/>lectiuarum &amp; sensitiuarum. Volent enim &amp; scient: videbunt &amp; audient: &amp; velite sentient quaecumque sunt eis &amp; 
+       <lb ed="#B" n="39"/>beatitudini eorum conuenientia tam ex parte virium exteriorum quam interiorum. Prima vero passibilitas com 
+       <lb ed="#B" n="40"/>trariatur doti &amp; per ipsam tollitur. Vnde non erit in corporibus sanctorum, multo minus quam in corporibus cae 
+       <lb ed="#B" n="41"/>lestibus: de quibus determinant philosophi quod non recipiunt peregrinas impressiones. Et propter hoc oportet 
+       <lb ed="#B" n="42"/>ponere in illis dotem impassibilitatis quam requirit natura animae humanae: quia quod sit in corpo- 
+       <lb ed="#B" n="43"/>re hoc est ei naturale sicut naturale est graui esse in centro: quod vero sit extra corpus, hoc est contra 
+       <lb ed="#B" n="44"/>naturam suam: sicut est contra naturam grauis esse extra centrum. Sicut autem est ei contra naturam quod 
+       <lb ed="#B" n="45"/>sit extra ipsum: sic contrarium est eius naturae quod aliquid sit in corpore per quod necesse habet aliquando esse 
+       <lb ed="#B" n="46"/>extra corpus: quemadmodum contrarium esset naturae grauis si aliquid esset in centro quo aliquando ne 
+       <lb ed="#B" n="47"/>cesse haberet expelli extra ipsum. Quare cum nihil habet esse perfectum quousque sit liberum &amp; expeditum  
+       <lb ed="#B" n="48"/>ab eo quod est naturae suae contrarium: anima igitur humana perfectionem suae naturae non habet quousque impas 
+       <lb ed="#B" n="49"/>sibilitatem secum in corpore suo habuerit. Quare cum anima non est data corpori nisi vt suam perfectionem ha 
+       <lb ed="#B" n="50"/>beat in illo: &amp; hoc maxime pro statu glorioso: oportet igitur quod gloriosorum corpora omnia sint impassibilia 
+       <lb ed="#B" n="51"/>&amp; immortalia: quod cum non possint habere ex puris naturalibus suis quae sunt naturaliter con 
+       <lb ed="#B" n="52"/>traria &amp; corruptiua: oportet quod hoc sit ex aliquo dono supernaturali: quid appellamus dotem impassibi 
+       <lb ed="#B" n="53"/>litatis: de quo est quaestio quid sit, &amp; quomodo habet esse, &amp; quid agat in corpore. 
+      </p>
+      <p xml:id="n3av8a-c1e3800-d1e192">
+       AD cuius intellectum 
+       <lb ed="#B" n="54"/>sciendum quod immortalitas siue incorruptibilitas quae sequitur impassibilitatem, triplex est. Quarum prima 
+       <!--809.xml-->
+       <pb ed="#B" n="384-v"/>
+        <lb ed="#B" n="1"/>erat in statu innocentiae hominis: qua potuit non mori per diuinam conseruationem a morte &amp; corruptione ex 
+       <lb ed="#B" n="2"/>esu ligni vitae, quousque raperetur ad secundam immortalitatem quao erit corporum gloriosorum post resurrectionem 
+       <lb ed="#B" n="3"/>Secunda vero immortalitas erit corporum beatorum, qua homo non poterit mori ab aliqua causa intri 
+       <lb ed="#B" n="4"/>seca vel etiam extrinseca creata agente vel possibili agere ad corruptionem &amp; mortem: qualis nec est in  
+       <lb ed="#B" n="5"/>angelis nec in caelestibus corporibus secundum modum infra declarandum. Tertia est immortalitas qua  
+       <lb ed="#B" n="6"/>quis nullo modo potest mori: nec a causa intrinseca nec a causam extriseca omnino, quaele solum est illud quod et 
+       <lb ed="#B" n="7"/>formalitur necesse esse &amp; vita: cuiusmodi est solus deus: respectu cuius omnia alia sunt mortalia &amp; corrupti 
+       <lb ed="#B" n="8"/>bilia in nihilum nisi manu diuina tenerentur: secundum quod etiam testatur Plato: in hoc multo melius sen 
+       <lb ed="#B" n="9"/>tiens Aristotele: quando dixit in secundo Timaei, loquens immortalibus &amp; incorruptibilibus creaturis. O 
+       <lb ed="#B" n="10"/>dii deorum quorum opifex idemque pater ego: opera siquidem vos mea dissolubilia natura: me tamen ita volente 
+       <lb ed="#B" n="11"/>indissolubilia. Omne siquidem quod coniunctum est, natura est dissolubile. At vero quod bona ratione iunm- 
+       <lb ed="#B" n="12"/>ctum atque modulatum est: dissolui velle non est dei: quapropter quia facti genitique estis, immortales qui  
+       <lb ed="#B" n="13"/>dem nequaquam, nec omnino indissolubiles: nec tamen vnquam dissoluemini: nec mortis necessitatem subibitis:  
+       <lb ed="#B" n="14"/>quia voluntas mea maior est nexus &amp; vegetatior ad aeternitatis vestrae custodiam: quam illi nexus vitales: ex 
+       <lb ed="#B" n="15"/>quibus aeternitas vestra coagmentata atque composita est. Impassibilitatis ergo causam penes natu-  
+       <lb ed="#B" n="16"/>ram non quaerimus: illa enim repugnat naturae creaturae: &amp; propria est soli naturae increatae: nec illius pe- 
+       <lb ed="#B" n="17"/>nes quam habetur immortalitas primo modo: quia illa non ponit necessitatem non moriendi sed solum possi 
+       <lb ed="#B" n="18"/>bilitatem. Sed quaerimus causam impassibilitatis tertio modo: penes quam necesse est quantum ex ratione prin 
+       <lb ed="#B" n="19"/>cipiorum intrinsecorum non mori. Nec possumus dicere quod illius causa sit mera voluntas dei: secundum  
+       <lb ed="#B" n="20"/>quod dictum est de immortalitate &amp; de incorruptibilitate deorum in auctoritate Platonis: vt ipsa talis 
+       <lb ed="#B" n="21"/>impassibilitas sit ipsa dos. quoniam diuina voluntas est causa extrinseca respectu talis impassibilitatis: &amp; 
+       <lb ed="#B" n="22"/>respicit proprie finalem corruptionem qua res decidat in nihilum. Nec possumus dicere quod illius cau 
+       <lb ed="#B" n="23"/>sa sit aliquid tale quale in diis deorum, siue sint angeli siue corpora: quia illorum incorruptibilitas est ex 
+       <lb ed="#B" n="24"/>puris principiis naturalibus: quia est absque omni contrarietate: ratione cuius etsi subtracta custodia di  
+       <lb ed="#B" n="25"/>uinae voluntatis caderent in nihilum: propter quod dixit Plato. Immortales quidem nequaquam &amp;c, non tamen  
+       <lb ed="#B" n="26"/>hoc est propter aliquam necessitatem ex principiis intrinsecis impellentibus ad dissolutionem: qualiter im 
+       <lb ed="#B" n="27"/>pellunt miscibilia mixtum. Nec possumus dicere quod illius causa est ablatio quaelitatum actiuarum &amp; pas i 
+       <lb ed="#B" n="28"/>siuarum ab elementis: quia pertinent ad perfectionem elementorum &amp; formae mixti in corpore humano. Et non est 
+       <lb ed="#B" n="29"/>ponendum quod aliquid perfectionis naturae auferetur a corporibus gloriosis. Nec possumus dicere quod illius causam ablatio 
+       <lb ed="#B" n="30"/>actionum naturalium qualitatum actiuarum &amp; passiuarum quae sunt calefacere aut infrigidare &amp; huiusmodi: quae non ma 
+       <lb ed="#B" n="31"/>nebunt eo quod non sunt de perfectione rei in se propter necessitatem indiuidui: sed propter perfectionem speciei in  
+       <lb ed="#B" n="32"/>alio extra: quales actiones non manebunt in corporibus sanctorum: sed tantum actiones quae pertinent adperfectio 
+       <lb ed="#B" n="33"/>nem rei in se: qualis est calidi calere. in qualibus actionibus conseruabitur mixtio &amp; forma mixti in cor- 
+       <lb ed="#B" n="34"/>poribus iustorum: quia sic impassibile &amp; incorruptibile non esset corpus beatum ex aliqua dispositio 
+       <lb ed="#B" n="35"/>ne positiua sed priuatiua tantum. Diceretur enim solummodo impassibile ex defectu agentis &amp; inferentis pal 
+       <lb ed="#B" n="36"/>sionem: quemad modum si terra tota quiescens in centro dicatur immobilis quia deficit virtus fortior ex- 
+       <lb ed="#B" n="37"/>pellens ipsam a centro, quam sit virtus eius, propria qua se tenet in centro. secundum quod dicit Auerus in fine de sub- 
+       <lb ed="#B" n="38"/>stantia orbis, quod terra habet perpetuam quietem quia habet perpetuam carentiam virtutis mouentis ipsam. Quod  
+       <lb ed="#B" n="39"/>autem sic dicitur impassibile aut immobile, simpliciter est passibile &amp; mobile quantum est ex se, quod ei tale est 
+       <lb ed="#B" n="40"/>natum est pati aut moueri, licet nunquam patietur aut mouebitur. terra enim simpliciter mobile quid est: etsi nunquam  
+       <lb ed="#B" n="41"/>habeat mouens. Similiter tale corpus ex se simpliciter passibile &amp; corruptibile esset etsi deficeret cor 
+       <lb ed="#B" n="42"/>rumpens. Nos autem cum hoc dotem ponimus aliquid positiuum in corpore super eius naturalia. Nec potestad  
+       <lb ed="#B" n="43"/>huc dici quod illud positiuum sit aliquid in mixto quo conseruatur ne quantum est ex se ab intra aliquapal 
+       <lb ed="#B" n="44"/>sione moueatur: quae omnino praeseruat qualitates passiuas a passione quantumcunque agantur 
+       <lb ed="#B" n="45"/>actiue: quemadmodum Adam conseruasset quoquo modo esu ligni vitae. Quod enim sic est impalsi 
+       <lb ed="#B" n="46"/>bile ab intra: non ex hoc praecluditur quin possit pati ab aliquo extra: quemadmodum terra etsi non so 
+       <lb ed="#B" n="47"/>lum quiescat in centro ex carentia causae mouentis ipsam extra centrum, sed etiam ex virtute positiua eadem quiescat in 
+       <lb ed="#B" n="48"/>centro qua mouetur ad centrum: mobilis tamen dicitur et passibilis quia moueri potest a centro per virtutem extetio 
+       <lb ed="#B" n="49"/>rem excedentem virtutem quietis eius. dicente <name ref="#Aristotle">philosopho</name> de causis motus animalium. Oportet virtutem aequare mo 
+       <lb ed="#B" n="50"/>uentis &amp; eam quae moti. Est enim aliqua multitudo vigoris secundum quam manet quod manet: quemadmodum &amp; se 
+       <lb ed="#B" n="51"/>cundum quam mouet mouens: &amp; est quaedam proportio ex necessitate: quemadmodum contrariorum motuum sic &amp; 
+       <lb ed="#B" n="52"/>quietum: &amp; aequales quidem impassibiles abinuicem. sicut enim pellens pellit sic pulsum pellitur secundum virtutemi. 
+       <lb ed="#B" n="53"/>Si enim aliquis excedat virtute actiua motus terrae quietem, mouebit ipsam a medio. Et virtus haec quod non 
+       <lb ed="#B" n="54"/>infinita, manifestum. neque enim terra infinita: quare neque grauitas ipsius. Quid ergo hoc modo est impallibileautem  
+       <!--810.xml-->
+       <pb ed="#B" n="385-r"/>
+        <lb ed="#B" n="1"/>immobile, natum est pati &amp; moueri: licet numquam patietur aut mouebitur: quemadmodum id quod in centro terrae visibi 
+       <lb ed="#B" n="2"/>le est etsi nunquam videbitur. Oportet ergo dicere quod illud positiuum sit aliquid in mixto: quo conseruatur ne 
+       <lb ed="#B" n="3"/>omnino a quocumque agente siue interiore siue exteriore possit pati, praeter dictum casum in nihilum. Nec 
+       <lb ed="#B" n="4"/>pont dici quod illud sit aliqua virtus corporis: quia non elementaris, vt dictum est: neque caelestis: quod aliqui ponunt 
+       <lb ed="#B" n="5"/>dominari in corpore humano post resurrectionem, licet modo dominentur elementa: ita quod sicut sunt modo  
+       <lb ed="#B" n="6"/>corruptibilia propter actionem elementorum: sic tunc erunt incorruptibilia &amp; impassibilia propter actionem 
+       <lb ed="#B" n="7"/>caelestis corporis. Sed haec fictio est: quia corpus caeleste secundum substantiam non venit in mixtionem cum elemen 
+       <lb ed="#B" n="8"/>tis, quia non communicant in materia. secundum virtutem autem non immittit quibus elementa impediat in sua 
+       <lb ed="#B" n="9"/>actione, sed magis vt expediat. Oportet igitur ponere quod illud positiuum sit aliquid supnaturale quid ab omni 
+       <lb ed="#B" n="10"/>passione tam ab interiore agente quam ab exteriore praeseruet corpus gloriosum a dissolutione eorum ex quibus componi 
+       <lb ed="#B" n="11"/>tur: vt dicatur impassibile &amp; indissolubile quia necesse est id omnino non dissolui nec corrumpi. hoc enim 
+       <lb ed="#B" n="12"/>in corpore glorioso apostolus attribuit virtuti Christi. Phil. iii. Reformabit corpus humilitatis nostrae 
+       <lb ed="#B" n="13"/>&amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3800-d1e354">
+       ET sunt aliqui qui dicunt quod illa dispositio non est aliud quam gloria animae: per quam corpus suum erit ei ple 
+       <lb ed="#B" n="14"/>ne subiectum. Propter quod in corpore glorioso non poterit esse aliquam mutatio aut passio contra eius disposi 
+       <lb ed="#B" n="15"/>tionem: quia passio non sit ab aliquo agente in passum nisi quia dominium formae debilitatur supra patiens. 
+       <lb ed="#B" n="16"/>Quod non videtur sufficiens: quantuncumque enim corpus sit subiectum animae: si nihil receptum sit in corpore per quid  
+       <lb ed="#B" n="17"/>ex se sit impassibile: quia quod non patitur hoc est ex illa subiectione: ex hoc ergo vt prius habetur bene quod nun  
+       <lb ed="#B" n="18"/>quam patietur: non tamen quin ex se maneat passibile &amp; quod potest pati. Nunc autem quaerimus causam talis impassibilitatis 
+       <lb ed="#B" n="19"/>qua necesse est ipsum nec pati vnquam nec posse pati. Etsi enim nunquam dominium formae quae est anima, potest debilitari 
+       <lb ed="#B" n="20"/>super materiam quae corpus est: &amp; omnis passio fit per victoriam agentis super patiens: vt propterea materia quae est cor 
+       <lb ed="#B" n="21"/>pus non possit subiici contrario dominanti, tollendo dominium animae super corpus: vel saltem ipsum diminuendo: tamen domini-  
+       <lb ed="#B" n="22"/>um vnius ex qualitatibus actiuis &amp; passiuis etsi nunquam debilitaretur propter dominium animae: posset tamen, vt di 
+       <lb ed="#B" n="23"/>ctum est, debilitari: et ideo posset ob hoc fieri passio a qualitate vincente in passum: licet nunquam fie- 
+       <lb ed="#B" n="24"/>ret: &amp; sic vt prius adhuc esset vere passibile etsi nunquam pateretur. Sed nos quaerimus corpus impassibile quid  
+       <lb ed="#B" n="25"/>sic est impassibile quod ex se necesse est non pati: nec aliquo modo possit pati, vt dictum est. Vnde ex ista ratione 
+       <lb ed="#B" n="26"/>non potest poni corpus impassibile propter animae gloriam, nisi ponendo quod anima in homine dat esse corporeum: vt non 
+       <lb ed="#B" n="27"/>sit homo compositus nisi ex substantia quae est anima, &amp; materia prima. Vbi non video aliquam mixtionem nec 
+       <lb ed="#B" n="28"/>formam elementi: nec illam quae est ex elementis, nec aliam corruptionem quam separationem animae a ma 
+       <lb ed="#B" n="29"/>teria. Nunc autem non ponimus separationem animae a corpore nisi propter dissolutionem immi 
+       <lb ed="#B" n="30"/>nentem aliquorum in corpore ex quibus componitur: quae per suam praesentiam continet forma illa quae est anima quantum  
+       <lb ed="#B" n="31"/>pont, vt dicitur in fine primi de anima. Quare si sola anima esset forma in homine, non video cam corruptionis aut 
+       <lb ed="#B" n="32"/>passionis, siue anima sit glorificata siue non. Quare si corpus humanum ex se passibile sit &amp; corruptibile se- 
+       <lb ed="#B" n="33"/>cundum formam aliam ab anima: vt habitum est supra: &amp; debet secundum dictum modum esse impassibile: oportet quod  
+       <lb ed="#B" n="34"/>hoc fiat ex aliqua dispositione positiua secundum se praeter animam. &amp; manet secundum hoc vniuoce corpus, cum 
+       <lb ed="#B" n="35"/>sic fuerit factum de corruptibili &amp; passibili incorruptibile &amp; impassibile: &amp; similiter ipse homo de 
+       <lb ed="#B" n="36"/>mortali factus fuerit immortalis, non nouam vitam accipiendo sed quendam casum siue passionem vitae. Ita etiam 
+       <lb ed="#B" n="37"/>quod si per impossibile anima non gloriosa corpori existenti cum tali dispositione coniungeretur, immortalis esset homo 
+       <lb ed="#B" n="38"/>nec vnquam anima separari posset a corpore: &amp; eadem ratione nec separari posset a materia: &amp; esset homo immor 
+       <lb ed="#B" n="39"/>talis si esset compositus ex sola anima &amp; materia: quia ipsa materia ita incorruptibilis est ex se, quantum datum corpus 
+       <lb ed="#B" n="40"/>ex dicta dispositione quam appellamus dotem. Quaeritur ergo a quo est ista dispositio in corpore glorioso. Et est di 
+       <lb ed="#B" n="41"/>cendum quod radix passibilitatis, quae est abiectio, &amp; corruptionis naturalis in materialibus est priuatio existens 
+       <lb ed="#B" n="42"/>in materia. Priuatio enim vt dicit <name ref="#Aristotle">philosophus</name> primo physi. est principium generationis per accidens. &amp; hoc respectu 
+       <lb ed="#B" n="43"/>generati: sed tamen necessarium generationi: vt dicit ibidem Commentatorquia vt dicit generatio fit ex non ente per  
+       <lb ed="#B" n="44"/>accidens id i.t ex subiecto: cui accidit quod in eo sit priuatio rei quae generatur: &amp; si priuatio formae non praecederet in sub  
+       <lb ed="#B" n="45"/>iecto, non generaretur ex eo. Sed vt dicit <name ref="#Aristotle">philosophus</name> in fine libri: priuatio multotiens imaginabitur ad maleficium. Con- 
+       <lb ed="#B" n="46"/>men. Magis destruere quam esse. quoniam secundum quod subdit: qui non concedit priuationem cum materia: non potest dicere 
+       <lb ed="#B" n="47"/>quare appetitus est materiae ad recipiendum formas post formas: &amp; non solum habet ex priuatione appeti- 
+       <lb ed="#B" n="48"/>tum formae non habitae, sed etiam aptitudinem &amp; potentiam ad illam. Ita quod secundum hoc siqua forma est in ma-  
+       <lb ed="#B" n="49"/>teria absque priuatione ad formam contrariam, iam cessat aptitudo ad aliam formam &amp; potentia. dico inquantum  
+       <lb ed="#B" n="50"/>dependent a priuatione: licet non inquantum dependent a substantia materiae. &amp; cessat etiam per consequens omnis genera 
+       <lb ed="#B" n="51"/>tio &amp; corruptio: &amp; est omnis alteratio: quia non est possibiul natural alteratio vbi non est possibilis generatio: vt pa 
+       <lb ed="#B" n="52"/>tet ex primo de generatione. 
+      </p>
+      <p xml:id="n3av8a-c1e3800-d1e447">
+       DIco ergo quod ex vnione animae gloriosae cum corpore mundo ab omni fomite peccati 
+       <lb ed="#B" n="53"/>quale erat formatum in statu innocentiae, ex redundantia gloriae animae in corpus corpori infunditur quaedam dispo 
+       <lb ed="#B" n="54"/>sitio quae tollit illam dispositionem defectiuam quae erat priuatio: sicut tollitur adueniente forma cui erat contraria 
+       <!--811.xml-->
+       <pb ed="#B" n="385-v"/>
+        <lb ed="#B" n="1"/>ita quod amota priuatione etiam tollitur omnis appetitus materiae, &amp; omnis potentia &amp; aptitudo eius ad aliam for- 
+       <lb ed="#B" n="2"/>mam quam sit illa qua est informata. Dico inquantum appetitus potentia &amp; aptitudo dependent a priuatio 
+       <lb ed="#B" n="3"/>ne: licet non inquantum dependent a substantia materiae. &amp; manet sic in materia pura carentia formae: cuius 
+       <lb ed="#B" n="4"/>priuatio prius erat in ea: quemadmodum carentia formae elementi est in materia corporis caelestis: si eo sit 
+       <lb ed="#B" n="5"/>materia: praeter hoc quod in materia caeli non est appetitus aptitudo aut potentia ad formam elementi: neque quan- 
+       <lb ed="#B" n="6"/>tum est ex parte substantiae materiae, sicut neque quantum est ex parte priuationis. In materia vero corporis 
+       <lb ed="#B" n="7"/>gloriosi, vt dictum est, manent illa quantum est ex parte substantiae materiae: licet non quantum est ex parte pri 
+       <lb ed="#B" n="8"/>uationis. Et cum dicta dispositio infusa sustulerit illam dispositionem defectiuam: per hoc se ipsa ponit immor 
+       <lb ed="#B" n="9"/>talitatem: &amp; sic destructa inimica morte induit immortalitatem: &amp; corruptibile induit incorruptionem. se 
+       <lb ed="#B" n="10"/>cundum quod dicit Apostolus primae Corin. xv. Ita quod stante dispositione illa non plus corpus gloriosum 
+       <lb ed="#B" n="11"/>est in potentia ad formam elementi aut alterius mixti, quam ipsum caelum: nisi quod caelum inquantum est ex sub 
+       <lb ed="#B" n="12"/>stantia materiae suae &amp; ex parte priuationis nullo modo habet po tentiam ad formam aliam: quam tamen habet 
+       <lb ed="#B" n="13"/>aliquo modo corpus gloriosum quantum est ex parte substantiae materiae suae: vt in hoc differens sitim 
+       <lb ed="#B" n="14"/>mortalitas &amp; incorruptibilitas in caelo &amp; in corpore glorioso. Vnde quia nihil patitur nisi quod per priuationem 
+       <lb ed="#B" n="15"/>est contrarium &amp; in potentia: ideo qualescumque sint actiones in tali corpore, siue ab extra siue ab intra 
+       <lb ed="#B" n="16"/>non plus patietur quam modo patitur sphaera lunae a calore ignis quem in sua concauitate continet. &amp; per hoc corpus 
+       <lb ed="#B" n="17"/>huiusmodi simpliciter factum est impassibile &amp; incorruptibile: &amp; homo secundum ipsum simpliciter immortalis &amp; 
+       <lb ed="#B" n="18"/>incorruptibilis, non quia vt dicit <name ref="#Augustine">Augustinus</name> xiii. de ciui. dei. cap. xxiii. corpus quid de terra factum est non ip 
+       <lb ed="#B" n="19"/>sum erit: sed quia dono caelesti iam tale erit vt etiam caelo incolendo non amissa natura sed mutata quali- 
+       <lb ed="#B" n="20"/>tate conueniat. Et vt arbitror dispositio ista qualitas est reducenda ad naturalem potentiam de secunda 
+       <lb ed="#B" n="21"/>specie qualitatis: non qua quidem habet agere de facili: a quali denominantur cursor &amp; pugillator: nec qua quis  
+       <lb ed="#B" n="22"/>habet solum difficile pati, a quali denominatur durum: sed qua habet impossibile pati, vt dictum est. Conce h 
+       <lb ed="#B" n="23"/>dendum est ergo primum argumentum &amp; similiter secundum: quod dispositio illa quae est dos, non est ab ali- 
+       <lb ed="#B" n="24"/>qua corporali natura caelesti aut elementari. 
+      </p>
+      <p xml:id="n3av8a-c1e3800-d1e513">
+       AD tertium quod non est ab anima: quia ipsa non tollit na-  
+       <lb ed="#B" n="25"/>turam elementarem: Dicendum quod verum est quantum ad id quod est de natura &amp; perfectione substantiae elemen 
+       <lb ed="#B" n="26"/>taris: quia tunc diminueret perfectionem corporis humani, vt patet ex dictis. bene tamen tollit ali- 
+       <lb ed="#B" n="27"/>quid quod est defectus &amp; impersectionis naturae elementaris, &amp; in hoc eam amplius perficit.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

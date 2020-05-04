@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 26</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 26</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="390-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3932">
+       <head xml:id="n3av8a-c1e3932-Hd1e96">Quaestio 26</head>
+       <p xml:id="n3av8a-c1e3932-d1e99">
+        <lb ed="#B" n="4"/>SEquuntur quaesita circa homines subditos. Et quaerebatur vnum circa subditos 
+       <lb ed="#B" n="5"/>saeculares: &amp; plurima circa subditos ecclesiasticos. Illud vnum erat: vtrum con- 
+       <lb ed="#B" n="6"/>demnatus morti licite possit abire si tempus &amp; locum habeat. Et videtur quod non quia  
+       <lb ed="#B" n="7"/>cui non licet subtrahere minus nec maius. corpus condemnati est maius quid iu 
+       <lb ed="#B" n="8"/>dicis quam alia res temporalis. sed non licet damnato iudici subtrahere quam cumque aliam 
+       <lb ed="#B" n="9"/>rem. ergo nec licitum est ei subtrahere illi corpus suum: subtraheret autem si abiret. 
+       <lb ed="#B" n="10"/>ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3932-d1e117">
+       CONtra. cum iste abeundo vitam suam posset saluare, remanendo occasionem occidendi 
+       <lb ed="#B" n="11"/>se daret: quod nulli licet. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3932-d1e122">
+       DIcendum quod plures habere potestatem super eandem rem diuersis 
+       <lb ed="#B" n="12"/>respectibus non est inconueniens: vt quod vnus habeat in eam proprietatem &amp; alius vsum. &amp; secundum 
+       <lb ed="#B" n="13"/>hoc diuersimode quilibet eorum potestate sua vti potest supe illam rem: dum tamen non fiat hoc in laesionem 
+       <lb ed="#B" n="14"/>alterius. Sunt autem quatuor per ordinem se habentia. secundum quae super eandem rem diuersas potestates di  
+       <lb ed="#B" n="15"/>uersi habere possunt diuersimode: quae sunt: fas: licitum: ius: necessitas. &amp; includitur semper prius in poste 
+       <lb ed="#B" n="16"/>riori. Fas est aequitas naturalis qua quisque poest vti re alterius absque damno &amp; incommodo illius. vt enim dici- 
+        <lb ed="#B" n="17"/>tur <ref xml:id="n3av8a-c1e3932-Rd1e137" target="http://scta.info/resource/gd-p1d1-d1e120">decretorum distin. prima. S. Omnes leges</ref>. <quote xml:id="n3av8a-c1e3932-Qd1e140">transire per agrum alienum fas est</quote> id est aequum: cum fubest causa, &amp; 
+       <lb ed="#B" n="18"/>innoxius est transitus. Licitum est, quod a lege indultum est: quo quis potest vti re aliena in aliquale damnum 
+       <lb ed="#B" n="19"/>eius. In veteri enim lege licitum erat comedere vuas in agro alterius sed non exportare: &amp; conterere spi 
+       <lb ed="#B" n="20"/>cas: sed non falcem immittere. lus est aequitas quae dat actionem rem vendicandi. Necessitas est oppor- 
+       <lb ed="#B" n="21"/>tunitas vtendi re aliena. Discipulos enim cum per segetes transeundo euellerent spicas &amp; ederent: ipsius Chri 
+       <lb ed="#B" n="22"/>sti vox innocentes vocat: quia coacti same hoc fecerunt. vt dicitur de. cons. dist. v. Discipulos. vbi dicit Glos. 
+       <lb ed="#B" n="23"/>Necessitas famis excusat furtum. Dico ergo ad propositum: quod super corpus damnati ad mortem potestatem 
+       <lb ed="#B" n="24"/>habet iudex saecularis capiendi: detinendi: &amp; occidendi. Habet autem &amp; ipsemet damnatus quo ad animam 
+       <lb ed="#B" n="25"/>potestatem super idem corpus vtendi eo ad vitae suae in corpore custodiam, in qua consistit eius perfectio 
+       <lb ed="#B" n="26"/>sine iniuria alterius. &amp; hoc non solum aequitate naturae quae fas est circa rem alienam: sed quae licitum est: &amp; non 
+       <lb ed="#B" n="27"/>solum licitum tanquam a lege naturae indultum in aliquale alterius praeiudicium: sed quae ius est secundum legen natu  
+       <lb ed="#B" n="28"/>rae: &amp; non solum ius, sed in casu necessitas exequendi ius suum: vt si oporteret captiuum talem fame mo- 
+       <lb ed="#B" n="29"/>ri nisi acciperet clam contra voluntatem custodis panem eius: in hoc habet potestatem &amp; ius atque necessi 
+       <lb ed="#B" n="30"/>tatem vtendi corpore ad panem capiendum &amp; vescendum. &amp; sit hoc sine laesione alterius: quia necessitas 
+       <lb ed="#B" n="31"/>facit commune quod erat, proprium: vt iuste occupanti concedatur. Sic dico in proposito: quod iudex non tantum iuris 
+       <lb ed="#B" n="32"/>habet super corpus damnati: quin &amp; ipsemet damnatus similiter ius habeat secundum animam, quantum  
+       <lb ed="#B" n="33"/>enim habet ille iuris in detinendo &amp; occidendo: tantundem &amp; plus habet iste in abeundo cum poterit, &amp; vitam cu 
+       <lb ed="#B" n="34"/>stodiendo. &amp; etiam plus iuris habet: quia iudex non tanta necessitate compellitur eum detinere aut occidere: quam  
+       <lb ed="#B" n="35"/>ta necessitate propter iustum metum mortis compellitur damnatus quod sibi prouideat ne vitam &amp; perfectionem suam in  
+       <lb ed="#B" n="36"/>corpore amittat: quia si in hoc non prouideret si posset inuenire locum &amp; tempus: vt si forte esset sine viculis: &amp; 
+       <lb ed="#B" n="37"/>ostia essent aperta: nec adesset impedimentum abeundi, &amp; per hoc vitam saluandi: suiipsius homicida esset 
+       <lb ed="#B" n="38"/>non prouidendo sibi sicut deberet. Et secundum hoc concedendum est secundum argumentum. 
+      </p>
+      <p xml:id="n3av8a-c1e3932-d1e189">
+       AD 
+       <lb ed="#B" n="39"/>primum principale quod non licet damnatum subtrahere quamcunque aliam rem: quare nec corpus  
+       <lb ed="#B" n="40"/>suum: Dicendum quod falsum est. quoniam quancumque rem necessariam ad custodiam vitae suae posset ei subtrahe 
+       <lb ed="#B" n="41"/>re: dum tamen eius subtractio non vergeret in praeiudicium iuris quod habet iudex in corpus illius. 
+       <lb ed="#B" n="42"/>Si enim, vt dictum est, existens in vinculis necesse haberet mori fame nisi subtraheret ei panem: hoc 
+       <lb ed="#B" n="43"/>liceret ei: quia hoc nullo modo vergit in praeiudicium iuris quod habet in detinendo vel occidendo. Qua 
+       <lb ed="#B" n="44"/>re cum subtractio corporis necessaria sit animae suae ad vitae suae custodiam, quam facit absque omni prae 
+       <lb ed="#B" n="45"/>iudicio potestatis quam habet iudex super corpus eius: quando sentit quod corpus non est in vinculis, &amp; quod  
+       <lb ed="#B" n="46"/>ostiis apertis nuilum restat obstaculum: ideo in tali casu licet corpus suum subtrahere vtendo iu- 
+       <lb ed="#B" n="47"/>re suo: sicut in alio casu liceret subtrahere panem iudicis. 
+      </p>
+      <p xml:id="n3av8a-c1e3932-d1e212">
+       AD cuius intellectum sciendum est, quod su 
+       <lb ed="#B" n="48"/>pra rem aliquam dupliciter haberi potest potestas siue ius. Vna quo ad proprietatem in substantia rei. 
+       <lb ed="#B" n="49"/>Alia quo ad vsum in actione aliqua exercenda circa rem. Primam potestatem aut ius nullatenus ha-  
+       <lb ed="#B" n="50"/>bet iudex saecularis super corpus damnati, plus quam super animam illius: sed secundam tantum: quae con- 
+       <lb ed="#B" n="51"/>sistit in tribus scilicet in corpus capiendo, in vinculando siue incarcerando, &amp; in occidendo. Potestatem au  
+       <lb ed="#B" n="52"/>tem quo ad proprietatem in substantia corporis sola anima habet sub deo: &amp; tenetur ius suum in hoc  
+       <lb ed="#B" n="53"/>custodire absque iniuria alterius: quid custodiret in praeiudicium &amp; iniuriam iudicis, si cum existe- 
+       <lb ed="#B" n="54"/>ret corpus in vinculis, aut in firmata custodia, vt abiret vincula disrumperet aut carcerem. 
+       <!--821.xml-->
+       <pb ed="#B" n="390-v"/>
+        <lb ed="#B" n="1"/>Propter hoc enim durius puniendus esset si contingeret ipsum capi: quia de iure potestatem habet eum vi 
+       <lb ed="#B" n="2"/>culandi &amp; claudendi in carcerem: quae scilicet ad actum vinculationis &amp; clausionis. Et ideo non fine iniuria in  
+       <lb ed="#B" n="3"/>iudicem rumperet vincula aut carceris: sicut cum est iudex in actum occidendi ipsum, iniuriaretur iudici si 
+       <lb ed="#B" n="4"/>rebellaret percutiendo ipsum: aut ab actu suo eum impediendo. immo debet patienter sustinere vt cir 
+       <lb ed="#B" n="5"/>ca corpus exerceat actum iustitiae: licet forte secundum iura ciuilia licitum esset quocunque modo sanguinem 
+       <lb ed="#B" n="6"/>suum defendere. Si tamen iudex damnatum dimittat in carcere fine vinculis, &amp; negligat firmare carcerem 
+       <lb ed="#B" n="7"/>in quo est damnatus: &amp; sic omittat exercere circa ipsum ius quod habuit: quia nec occidit nec detinet:  
+       <lb ed="#B" n="8"/>absque omni iniuria iudicis qui nullum ius habet in substantiam corporis, potest corpus suum abducere. quem 
+       <lb ed="#B" n="9"/>admodum si quis sepiat agrum suum: non licet quemquam transire per agrum illius sepe rumpendo: quia quo ad hoc  
+       <lb ed="#B" n="10"/>non esset ei licitum: quia esset in praeiudicium iuris alterius qui de iure potuit sepire agrum suum. Si tamen sepitus non 
+       <lb ed="#B" n="11"/>fuerit: licitum est per agrum transire eo modo quo prius dictum est. Et quod plus est, si praecipiat ei iudex ne carce 
+       <lb ed="#B" n="12"/>rem exeat: si tamen non oporteat quod vincula vel carcerem disrumpat: vel quicquam consimile faciat in quo cir 
+       <lb ed="#B" n="13"/>ca ipsum ius habet: in illo ei obedire non debet: quia nec potestatem hoc praecipiendi habet: quia in ani 
+       <lb ed="#B" n="14"/>mam eius nihil de iure habet, nec in corpus nisi vel corporaliter capere, vel corporaliter viculis vel clau 
+       <lb ed="#B" n="15"/>sura detinere vel occidere: ita quod si neutrum horum circa corpus illius fac iat, ius suum exercere omit- 
+       <lb ed="#B" n="16"/>tit: &amp; ideo sine omni eius iniuria potest anima exercere in corpus quid suum est. Per hoc enim ille non  
+       <lb ed="#B" n="17"/>amittit ius suum quia potest recapere inuentum in iurisdictione sua: &amp; detinere &amp; occidere sicut prius. Sed  
+       <lb ed="#B" n="18"/>si non exercendo ius suum: anima exercente quod potuit &amp; debuit: a iure suo alienatur: hoc negligentiae 
+       <lb ed="#B" n="19"/>suae imputetur. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

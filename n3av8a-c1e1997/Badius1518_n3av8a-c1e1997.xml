@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 17</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 17</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="188-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1997">
+       <head xml:id="n3av8a-c1e1997-Hd1e96">Quaestio 17</head>
+       <p xml:id="n3av8a-c1e1997-d1e99">
+        <lb ed="#B" n="42"/>CIrca secundum arguitur quod virtutes non sunt connexae, quia virtutes generantur 
+       <lb ed="#B" n="43"/>exercitio actuum circa materias determinatas. Aliquis autem potest esse exercita 
+       <lb ed="#B" n="44"/>tus circa materiam vnius virtutis qui non est exercitatus circa materiam alterius 
+       <lb ed="#B" n="45"/>ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e110">
+       IN oppositum sunt sancti &amp; similiter philosophus. vi. ethicorum. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e113">
+       DIcendum ad  
+       <lb ed="#B" n="46"/>hoc: quod cum secundum <name ref="#Aristotle">philosophum</name> primo ethicorum, perfectio hominis secundum quod homo consi 
+       <lb ed="#B" n="47"/>stit in aliqua eius operatione propria quae debetur ei secundum quod homo, in qua consistit 
+       <lb ed="#B" n="48"/>eius sinis &amp; beatitudo secundum determinationem philosophi ibidem: &amp; praeter hoc sunt aliae opera 
+       <lb ed="#B" n="49"/>tiones eius quae ordinantur in finem illum, vt per operationes secundum virtutes, vt vult in eodem. In eo autem in  
+       <lb ed="#B" n="50"/>quo est aliquis finis, &amp; aliqua quae sunt ad finem, duplex debet esse de necessitate ordo &amp; comnexio, vnus 
+       <lb ed="#B" n="51"/>videlicet inter se eorum quae sunt ad finem, &amp; alius omnium ipsorum simul ad ipsum finem. De 
+       <lb ed="#B" n="52"/>talibus enim dicit <name ref="#Aristotle">philosophous</name> duodecimo Metaphysicae quod omnia sunt ordinata adinuicem re- 
+       <lb ed="#B" n="53"/>spectu alicuius, vt qui sunt in exercitu inter se &amp; ad ducem. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e139">
+       CVM igitur in homine fe- 
+       <lb ed="#B" n="54"/>licitas sit operatio persecta sicut finis: &amp; virtutes &amp; operationes secundum ipsas sicut ea quae sunt 
+       <!--417.xml-->
+       <pb ed="#B" n="188-v"/>
+        <lb ed="#B" n="1"/>ad finem, duplicem ordinem &amp; connexionem oportet considerare virtutum in homine: vnum ipsarum inter se: alium 
+       <lb ed="#B" n="2"/>in suo fine. Homo autem sicut vnus est &amp; secundum se &amp; natura &amp; essentia formae &amp; speciei, ita habet vnam 
+       <lb ed="#B" n="3"/>operationem vltimam finalem ad quam omnes aliae ordinantur, licet quaedam earum respiciunt alias sicut suos fi 
+       <lb ed="#B" n="4"/>nes. Vt enim dicitur in principio ethicorum, multis operationibus existentibus multi fiunt fines. Aliquis est 
+       <lb ed="#B" n="5"/>finis quem propter ipsum volumus: alia autem propter illum, &amp; non omnia propter alterum desideramus in infinitum. 
+       <lb ed="#B" n="6"/>Et ideo omnes virtutes humanae &amp;morales, &amp; intellectuales, &amp; earum operationes simul ad illum finem ordinam- 
+       <lb ed="#B" n="7"/>tur. Et sic est quaedam connexio omnium huiusmodi inter se &amp; in illo fine. iuxta illud quid dicitur. vi. ethicorum cap xix. 
+       <lb ed="#B" n="8"/>Sapientia fclicitatem facit pars existens totius virtutis, quae constituitur vt totum quoddam ex speculatiuis vir- 
+       <lb ed="#B" n="9"/>tutibus &amp; practicis. de qua connexione nihil ad praesens. Homo tamen secundum quod est politicus ope 
+       <lb ed="#B" n="10"/>rans secundum virtutes politicas, quae sunt temperantia, fortitudo, iustitia, prudentia, aliquam habet operatio- 
+       <lb ed="#B" n="11"/>nem vltimam secundum quod talis est scilicet virtutis perfectioris inter illas ad quam omnes aliae operationes virtutum 
+       <lb ed="#B" n="12"/>politicarum ordinantur. de quarum connexione specialiter ad praesens intendimus, sicut specialiter 
+       <lb ed="#B" n="13"/>super hoc quaestio proposita fuit. Quae quia in se recipiunt magis &amp; minus, &amp; non cognoscitur perfecte com 
+       <lb ed="#B" n="14"/>nexio nisi cognoscantur gradus connexorum secundum magis &amp; minus, &amp; aequales: ideo vt perfectius 
+       <lb ed="#B" n="15"/>cognoscatur earum comnexio, oportet eam considerare dupliciter: &amp; ex parte comnexorum primo: et deinde 
+       <lb ed="#B" n="16"/>ex parte modorum connectendi secundum gradus praedictos. Ex parte autem connexorum secundum iam dicta opor 
+       <lb ed="#B" n="17"/>tet considerare duplicem connexionem: vnam omnium earum inter se: aliamtrium earum in vnam vt in finem earum s 
+       <lb ed="#B" n="18"/>Sic enim est ordo in politicis omnium ad finem vltimum in suo genere, sicut est in naturalibus ad primum 
+       <lb ed="#B" n="19"/>principium. In naturalibus enim omnes mouentes secundum omnes motus eorum idem intendunt, sci 
+       <lb ed="#B" n="20"/>licet motum primi motoris, &amp; motus omnium orbium motum orbis stellati, qui est motus primi mo 
+       <lb ed="#B" n="21"/>toris, &amp; alii sunt propter istum. Et dispositio illorum est in adiuuando se adinuicem &amp; conseruan 
+       <lb ed="#B" n="22"/>do, sicut est dispositio bonorum regentium qui iuuant se adinuicem in regendo bonam quietem, quoniam  
+       <lb ed="#B" n="23"/>omnes actiones eorum sunt gera actionum primi principii. Ponunt enim actiones suas seruientes actio 
+       <lb ed="#B" n="24"/>ni primi principii. Et sicut est dispositio in artificiis quae iuuant se adinuicem erga vnum artificia pear  
+       <lb ed="#B" n="25"/>le, quemadmodum iuuant seinuicem artes sermocinales, grammatica logicam &amp; rhetoricam in oa 
+       <lb ed="#B" n="26"/>tionis congruitate, logica grammaticam &amp; rethoricam in argumentationis necessitate, rhetorica gran- 
+       <lb ed="#B" n="27"/>maticam &amp; logicam in sermonis venustate: et hoc erga notitiam scientiarum realium ad quas ordinantur 
+       <lb ed="#B" n="28"/>finaliter: Ordo ergo consimiliter debet esse in politicis operationum secundum omnes virtutes, &amp; ipsarum  
+       <lb ed="#B" n="29"/>virtutum inter se, in iuuandae. scilicet sese mutuo &amp; conseruando, &amp; hoc respectu alicuius operationis vlti 
+       <lb ed="#B" n="30"/>mae &amp; perfectae quae est finis aliarum. Et est operatio illa propria operatio prudentiae, in qua consistit 
+       <lb ed="#B" n="31"/>felicitas politica, vt dicitur primo ethicorum. Et sic ex parte ipsorum connexorum duplex conne 
+       <lb ed="#B" n="32"/>xio inuestiganda est: vna scilicet ipsarum quatuor inter se: alia vero trium earum scilicet moralium 
+       <lb ed="#B" n="33"/>vt temperantiae, fortitudinis, &amp; iustitiae in quartam earum, vt in prudentiam. ita quod quo ad primam 
+       <lb ed="#B" n="34"/>istarum duarum connexionum quaelibet virtutum trium moralium requirit quamlibet aliarum: et 
+       <lb ed="#B" n="35"/>etiam prudentiam ad sui essentiam. Et quo ad secundam econuerso prudentia ad suam existentiam requrit  
+       <lb ed="#B" n="36"/>quamlibet trium virtutum moralium. Virtutes autem morales, &amp; earum fines, quia sunt tanquam ea quae  
+       <lb ed="#B" n="37"/>sunt ad finem, vt ad prudentiam &amp; ad eius finem: ideo connexio omnium inquantum quaelibetre 
+       <lb ed="#B" n="38"/>quiritur ad existentiam cuiuslibet virtutum moralium, est comnexio sicut eorum quae sunt ad finem inter se. Comne 
+       <lb ed="#B" n="39"/>xio vero virtutum moralium cum prudentia inquantum requiruntur ad eam, est connexio sicut in fine eorum quae  
+       <lb ed="#B" n="40"/>sunt ad finem. Vnde prudentia inquantum connectitur virtutibus moralibus &amp; requiritur ad earum existentiam or- 
+       <lb ed="#B" n="41"/>dinatur ad seipsam vt in finem: inquantum ipsa regulat morales in seipsa: &amp; per hoc morales connectuntur inipsa 
+       <lb ed="#B" n="42"/>&amp; ad esse requiruntur ipsius. Et sic visa huiusmodi duplici comnexione perfecte patebit comnexio ipsarum exparte 
+       <lb ed="#B" n="43"/>comnexorum. Connexio autem prima declaratur per hoc quod duo sunt consideranda in qualibet virtute scilicet in 
+       <lb ed="#B" n="44"/>nis, proprius praeter finem illum vltimum vnicum ad quem fines, proprii ordinantur: &amp; ea quae sunt ad finem: quemadmodum  
+       <lb ed="#B" n="45"/>finis fortitudinis bellicae est pax ciuitatis vel patriae in obtenta victoria. et generaliter finis fortitudinis 
+       <lb ed="#B" n="46"/>est pacis tranquillitas. Ad hoc enim solummodo debemus belligerare vt possimus in pace viuere. 
+       <lb ed="#B" n="47"/>In castitate vero finis est munditiae puritas: in iustitia autem finis est proportionalis aequalitas: finis 
+       <lb ed="#B" n="48"/>vero prudentiae est directionis operabilium infallibilitas: &amp; hoc in quaelibet virtute, vel hominis secundum monasticam, il 
+       <lb ed="#B" n="49"/>domus secundum oeconomicam, vel ciuitatis secud politicam: inquantum eisdem virtutibus habent regi homo, domus, &amp; ciui 
+       <lb ed="#B" n="50"/>tas. Ea vero quae sunt ad finem in fortitudie, sunt tolerare dura &amp; aspa &amp; aggredi terribilia, in temprantia operacat 
+       <lb ed="#B" n="51"/>naur delectationis respuere, in iustitia suum vnicuique tribuere, in prudentia regulas operandorum discernere. Vt 
+       <lb ed="#B" n="52"/>autem virtus quaelibet firmitur, &amp; impermutabimiliter operetur eca quibus finem adipiscatur, &amp; non contraria quibus eo frustretur, autca 
+       <lb ed="#B" n="53"/>dat ab eo: sed conseruetur in ipso, quantum est in se, sufficit ei vt delectabilitur operetur quae sibi sunt, propria, quibus finem suum 
+       <lb ed="#B" n="54"/>adipiscitur, &amp; in fine suo custoditur: &amp; abhorreat contraria: vt casto vt operetur casta &amp; abhorreat incesta. 
+       <!--418.xml-->
+       <pb ed="#B" n="189-r"/>
+        <lb ed="#B" n="1"/>Quia tamen voluntas quae est domina operationum quae sunt secundum virtutes, vt dicit philosophus. ii. Ethicorum,  
+       <lb ed="#B" n="2"/>bono vnius virtutis non est alligata: neque bono virtutis acquisitae omnino: sed liberam habet electio- 
+       <lb ed="#B" n="3"/>nem talis boni simpliciter, &amp; vt nunc siue sit finis, siue ad finem: cum hoc igitur quod delectabiliter operatur 
+       <lb ed="#B" n="4"/>quae sibi sunt propria, quibus in fine suo stat vel adipiscitur ipsum: vt ad ipsum persecte perueniat &amp; per  
+       <lb ed="#B" n="5"/>sistat, requirit alia adiutoria. Licet enim quaelibet virtus voluntatem sic afficit, &amp; ad finem suum inclinat, vt 
+       <lb ed="#B" n="6"/>per se delectetur in eis quae congruunt suo fini: &amp; per se abhorreat contraria: per accidens tamen praeferendo  
+       <lb ed="#B" n="7"/>aliud bonum vt nunc fini suo, non directe contrarium sed disparatum ab eo: a quo non per se retrahit virtus 
+       <lb ed="#B" n="8"/>illa: sed alia cuius fini directe opponitur ne appetendo illud agat actionem contrariam suo fini: &amp; impe- 
+       <lb ed="#B" n="9"/>diatur ne ipsum attingat, vel deiiciatur ab eo: necessario eget se iuuari &amp; fulciri per illam virtutem quae  
+       <lb ed="#B" n="10"/>voluntatem ipsam sic per se afficiat, &amp; in finem suum inclinet, vt in operibus fini suo congruentibus delectetur 
+       <lb ed="#B" n="11"/>&amp; omne contrarium ei abhorreat &amp; contrariam actionem: &amp; per hoc firmetur voluntas, ne per illud bonum  
+       <lb ed="#B" n="12"/>vt nunc ipsum appetendo impediatur illa alia virtus a fine suo, vel cadat ab ipso. Et quia bonum contra- 
+       <lb ed="#B" n="13"/>rium fini cuiusque virtutis si fuerit sola posset dicto modo per accidens retrahere voluntatem a fine 
+       <lb ed="#B" n="14"/>cuiusque virtutis: ne finem suum prosequatur: aut vt cadat ab ipso: idcirco dico quod quaelibet virtus vt tu 
+       <lb ed="#B" n="15"/>ta fit &amp; secura ne impediatur a finis prosequutione, vel ne deiiciatur a fine adepto, debet habere quam  
+       <lb ed="#B" n="16"/>libet virtutem aliam sibi annexam. Verbi gratia: Siquis habens virtutem castitatis: &amp; per se delectetur 
+       <lb ed="#B" n="17"/>in operibus castitatis: &amp; diligat mentis &amp; corporis puritatem: &amp; abhorreat per se contraria: si non sit 
+       <lb ed="#B" n="18"/>fortis, &amp; offerantur ei terribilia sustinen da nisi adulterium conmittat: timore poenae contra quem non casti 
+       <lb ed="#B" n="19"/>tas sed fortitudo firmat voluntatem, praeferendo corporis illaesionem puritatis bono, committet adulterium: 
+       <lb ed="#B" n="20"/>&amp; cadet a virtute castitatis. Nunc autem non est vera virtus quae in contrarium fini suo obliquari potest 
+       <lb ed="#B" n="21"/>&amp; deficere: secundum quod dicit <name ref="#Augustine">Augustinus</name> de charitate: in Sermone de operibus misericordiae. Charitas 
+       <lb ed="#B" n="22"/>quae deseri potest, numquam vera fuit. Castus ergo vere ille non esset nisi fortis fuisset. Praeterea si illi qui  
+       <lb ed="#B" n="23"/>positus est esse castus, proponatur copia munerum vt incestum committat: si non sit iustus vt detestetur 
+       <lb ed="#B" n="24"/>male acquisita, forte voluntas praeferet pudicitiae munera, conmittendo incestum, &amp; cadet a castitate quan 
+       <lb ed="#B" n="25"/>habuit. Praeterea si prudens non sit, dupliciter cadet a castitate, vel non prosequetur ipsam. Primo ex 
+       <lb ed="#B" n="26"/>parte prudentiae quae est ratio vniuersalium, &amp; iudicat de fine: quoniam si putet in veritate cor- 
+       <lb ed="#B" n="27"/>poris incolumitatem, aut munerum copiam pudicitiae esse praeferendam: etsi non flecteretur terrore aut cupi 
+       <lb ed="#B" n="28"/>ditate: errore tamen in electione deceptus in alterum illorum caderet: &amp; pudicitiam amitteret. Secundo  
+       <lb ed="#B" n="29"/>ex parte prudentiae quae est particularium experientia: quia illa determinat operanda, sine quibus virtus 
+       <lb ed="#B" n="30"/>nulla habet esse aut generari. Et ita si sit castitas virtus, virtus vera non potest esse nisi sint ei aliae connexae, 
+       <lb ed="#B" n="31"/>scilicet fortitudo, iustitia, &amp;e prudentia. Et similiter est de vnaquaque illarum respectu aliarum trium siquis 
+       <lb ed="#B" n="32"/>inspiciat. Hinc dicit Gregorius. xxii. Moralium. cap. primo. Quisquis virtute aliqua pollere creditur 
+       <lb ed="#B" n="33"/>tunc veraciter pollet cum vitiis ex alia parte non subiacet. Nam si ex alio vitiis subiacet: nec hoc est so- 
+       <lb ed="#B" n="34"/>lidum vbi stare putabatur. Et libro xxi. cap. iii. Omnes virtutes vicaria ope se subleuant: vt quia vna 
+       <lb ed="#B" n="35"/>virtus sine alia, vel nulla est omnino, vel minima, vicissim sua coniunctione fulciantur. Et Commentator  
+       <lb ed="#B" n="36"/>super principium. vi. Ethicorum. Non existente temperantia qualiter erit iustitia: Sed &amp; si prudentia aufer 
+       <lb ed="#B" n="37"/>tur irrationalitate rationi dominante: his autem sic se habentibus vbi fortitudo apparebit: Vnde quia  
+       <lb ed="#B" n="38"/>quaelibet quatuor virtutum cardinalium sic assistendo alteri proprium opus &amp; finem illius intendit cui assi 
+       <lb ed="#B" n="39"/>stit: &amp; est quasi ministerialis ei: ideo id quod sibi proprium est, est quasi alterius conditio seu circunstantia 
+       <lb ed="#B" n="40"/>vt quatuor generales conditiones quatuor virtutum principalium simul cum qualibet virtute concurrant 
+       <lb ed="#B" n="41"/>vna tamquam sibi propria: aliae tres tamquam ab aliis sibi subministratae. Quae sunt: modus scilicet quo ad tempe- 
+       <lb ed="#B" n="42"/>rantiam, firmitas quo ad fortitudinem, rectitudo quo ad iustitiam, discretio quo ad prudentiam: vt non  
+       <lb ed="#B" n="43"/>sit vera virtus nisi habeat moderamen, firmitatem, rectitudinem, &amp; discretionem. Et ex hoc contingit quod  
+       <lb ed="#B" n="44"/>quidam aduertentes praedictam connexionem non in radice &amp; in causa, sed in signo &amp; in effectu, dicunt con- 
+       <lb ed="#B" n="45"/>nexionem virtutum esse penes earum generales conditiones. Contingit etiam ex hoc quod quaelibet virtutum 
+       <lb ed="#B" n="46"/>quatuor principalium dicitur generalis, &amp; particularis. Particularis inquantum quaelibet earum conditionem 
+       <lb ed="#B" n="47"/>sibi propriam habet circa materiam &amp; actionem, &amp; finem proprium secundum se: vt distinguatur a qualibet alia. Ge 
+       <lb ed="#B" n="48"/>neralis inquantum quaelibet earum conditionem sibi propriam conmunicat alteri, &amp; in ministerium eius assu 
+       <lb ed="#B" n="49"/>mitur. Vnde Commentator supe illud. vi. Ethicorum. Temperantiam hic appellamus nomine velut saluantem 
+       <lb ed="#B" n="50"/>prudentiam, dicit sic. Sorores adinuicem virtutes sunt, &amp; multam ferunt adiuicem similitudinem: quare &amp; ad  
+       <lb ed="#B" n="51"/>inuicem conferri confessae sunt: quoniam multiformia sunt delectabilia &amp; tristia, de non omnia omnibus 
+       <lb ed="#B" n="52"/>subiacent, &amp; delectatio &amp; tristitia omnibus subiacent. Specifica quidem temperantia non simplici- 
+       <lb ed="#B" n="53"/>ter circa omnia delectabilia &amp; tristia operatur: sed solum circa ea quae secundum gustum &amp; tactum sunt. Sut 
+       <lb ed="#B" n="54"/>autem &amp; altera delectabilia circa quae est fortitudo. Sed neque iustitia fine delectabilibus &amp; tristibus est. 
+       <!--419.xml-->
+       <pb ed="#B" n="189-v"/>
+        <lb ed="#B" n="1"/>Qui quidem igitur in omnibus simpliciter delectabilibus &amp; tristibus ratiocinatiuae particulae animae 
+       <lb ed="#B" n="2"/>naturalem seruat dominationem: vt neque ab vna delectatione vel tristitia superetur: erit vtique ille 
+       <lb ed="#B" n="3"/>simpliciter temperatus: vt sanam habens prudentiam &amp; virtutibus omnibus ornatus. Specifice vtique dicetur 
+       <lb ed="#B" n="4"/>temperatus qui secundum gustum &amp; tactum delectabilibus nequaquam subiectus est. Quare hic Aristo- 
+       <lb ed="#B" n="5"/>teles temperantiam non specificam assumpsit: sed conmunem omnibus virtutibus. Et non solum in tempe- 
+       <lb ed="#B" n="6"/>rantia conmune &amp; specificum inuenimus assumptum: sed est hoc &amp; in aliis inuenire. lustitia enim 
+       <lb ed="#B" n="7"/>dicitur specifice quae in conmutationibus directiua, &amp; distributionibus. Dicitur autem &amp; communiter 
+       <lb ed="#B" n="8"/>quae legalitas appellatur, seruans proprium vniuscuiusque particularum animae, vt rationem quidem habere 
+       <lb ed="#B" n="9"/>passionibus dominantem ex natura simpliciter iustitiae. Similiter etiam fortitudinem qualiter non vtique  
+       <lb ed="#B" n="10"/>quis dicet communiter &amp; proprie: Simpliciter enim ad omnes passiones viriliter instare: vt nulli irratio- 
+       <lb ed="#B" n="11"/>nabilium succumbat: qualiter non bonae audaciae: Secundum, vt sicut scilicet quaelibet trium moralium est ge 
+       <lb ed="#B" n="12"/>neralis &amp; particularis secundum quod iam patuit per Commentatorem: sic etiam est de prudentia. Secundum hunc modum  
+       <lb ed="#B" n="13"/>duplicem etiam est accipere prudentiam. Vnam quae est ratio vniuersalium principiorum operandorum, secundum 
+       <lb ed="#B" n="14"/>ratiocinationem coniecturando: quae sunt in moralibus fines. Aliam quae est experimentatiua particula- 
+       <lb ed="#B" n="15"/>rium operandorum, quae sunt in moralibus ea quae sunt ad finem. Harum prudentiarum diuisionem ponit 
+       <lb ed="#B" n="16"/>philosophus. vi. Ethicorum dicens: quod eius haec est vt architectonica prudentia legis positiua: haec autem est vt circa 
+       <lb ed="#B" n="17"/>singularia communi nomine Politica. Et sunt ambae idem re: sed esse non idem: quia secundum primum esse de 
+       <lb ed="#B" n="18"/>terminat fines virtutibus: &amp; vniuersalia operandorum considerat: quod est proprium opus prudentiae secundum  
+       <lb ed="#B" n="19"/>se. &amp; secundum hoc est virtus specialis. Secundum vero esse secundum particularia determinat operanda circa ma 
+       <lb ed="#B" n="20"/>teriam aliarum trium virtutum moralium. Et secundum hoc est virtus communis: &amp; est quasi ars manu ope 
+       <lb ed="#B" n="21"/>ratiua imprimens formam rationis materiae morali in tribus aliis virtutibus: quemadmodum ars car- 
+       <lb ed="#B" n="22"/>pentaria manu operatiua imprimit formam artis domificatiuae architectonicae in materia lignorum  
+       <lb ed="#B" n="23"/>Vnde quia moralis virtus ex hoc habet perfectam rationem virtutis: ideo contingit quod ista prudentia 
+       <lb ed="#B" n="24"/>experimentalis est quodammodo omnis virtus. Vnde &amp; propter hoc dicit <name ref="#Aristotle">philosophus</name> in fine sexti Ethicorum  
+       <lb ed="#B" n="25"/>Socrates dixit omnes virtutes prudentias quasdam esse. Sed, vt dicit, errabat in hoc quod eas prudentias 
+       <lb ed="#B" n="26"/>esse dixit: quoniam autem non sunt sine prudentia, bene dicebat: quia vt dicit, non solum virtus est ha-  
+       <lb ed="#B" n="27"/>bitus qui secundum rectam rationem est, cuiusmoni est prudentia secundum operationem quam habet secundum se: sed etiam qui  
+       <lb ed="#B" n="28"/>est cum ratione recta, cuiusmodi est quilibet habituum aliorum moralium inquantum a prudentia regulantur. 
+       <lb ed="#B" n="29"/>
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e461">
+       SEquitur de comnexione secunda ex parte comnexorum, scilicet trium moralium virtutum cum prudentia. Et 
+       <lb ed="#B" n="30"/>hoc quo ad duplicem modum prudentiae praedictae, scilicet illius quae est speculatiua vniuersalium operando  
+       <lb ed="#B" n="31"/>rum tamquam finium: &amp; illius quae est experimentatiua particularium operandorum: &amp; directiua tamquam eorum quae  
+       <lb ed="#B" n="32"/>sunt ad finem. De connexione illarum cum prudentia particularium simul &amp; de connexione pruden- 
+       <lb ed="#B" n="33"/>tiae particularium cum illis, de qua iam dictum, dicit philosophus. vi. Ethicorum. Non est possibile bonum  
+       <lb ed="#B" n="34"/>esse principaliter sine prudentia, neque prudentiam sine morali virtute. Quid solummodo intelligit de pru 
+       <lb ed="#B" n="35"/>dentia singularium. secundum quod alia translatio loquens de morali virtute dicit sic. Non est possibile vt 
+       <lb ed="#B" n="36"/>sit absque prudentia: sicut non est possibile vt prudentia sit secundum quod est operatiua absque virtute morali. 
+       <lb ed="#B" n="37"/>Cuius ratio est secundum <name ref="#Aristotle">philosophum</name> parum supra: quoniam scilicet virtus dirigit intentionem in finem bonum ex mo 
+       <lb ed="#B" n="38"/>rum melioratione. Qualis enim vnusquisque est talem sibi finem proponit, vt dicit in iii. Prudentia autem 
+       <lb ed="#B" n="39"/>determinat operationes ad fines dirigendas. Et sic virtus indiget prudentia ne fines vani sint quos 
+       <lb ed="#B" n="40"/>praestituit, nisi operetur ad finem. Sicut in vanum finis proponitur sagittariis nisi bene sagittent. Non enim sus 
+       <lb ed="#B" n="41"/>ficit per habitum virtutis moralis inclinatio in bonum: sed requiritur determinatio per prudentiam 
+       <lb ed="#B" n="42"/>actionum vt in finem dirigendarum. Prudentia ergo indiget virtute: quia aliter non sciret qualia opera in fi 
+       <lb ed="#B" n="43"/>nem dirigenda determinaret. Et hoc quemadmodum in speculatiuis conclusiones sciri non possunt 
+       <lb ed="#B" n="44"/>nisi per principia. In moralibus enim fines se habent sicut principia speculatiuorum: sicut conclusiones 
+       <lb ed="#B" n="45"/>vero ea quae sunt ad finem ordinata. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e501">
+       SED est aduertendum: quod virtutes morales praestituant finem prudentiae 
+       <lb ed="#B" n="46"/>vt experimentatiua est particularium: hoc non conuenit eis per se primo &amp; directe, sed prudentiae vt vni 
+       <lb ed="#B" n="47"/>uersalium consideratiua est: quae per se &amp; directe constituit finem ipsis moralibus: immo potius voluntati: li 
+       <lb ed="#B" n="48"/>cet sub esse incompleto, cuius actibus virtutes sunt in ipsa generandae. Sed cum aliquid de ipsis generatum 
+       <lb ed="#B" n="49"/>est in voluntate, firmant in prudentia vniuersali id quod voluntati praestituit. Et per hoc praestituunt prudentae 
+       <lb ed="#B" n="50"/>experimentali ipsum finem ad quem operationes debent dirigere: quem tamen principalius ipsa prudentia 
+       <lb ed="#B" n="51"/>vniuersalium praestituit sibiipsi inquantum est experimentatiua particularium: quem solum ei moralis virtus praesti 
+       <lb ed="#B" n="52"/>tuit inquantum ipsum in prudentia vniuersali firmat,. quemadmodum etiam econtrario malitia virtuti morali 
+       <lb ed="#B" n="53"/>contraria vera aestimationem finis quem praestituit prudentia corrumpit. secundum quod haec iam amplius declarabum 
+       <lb ed="#B" n="54"/>tur in prosequendis. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e523">
+       DE connexione vero moralium virtutum cum prudentia vniuersalium, dicit <name ref="#Aristotle">philosophus</name> sexto 
+       <!--420.xml-->
+       <pb ed="#B" n="190-r"/>
+        <lb ed="#B" n="1"/>Ethicorum. Temperantiam hoc appellamus nomine velut saluantem prudentiam. vbi temperantia sumitur 
+       <lb ed="#B" n="2"/>communiter pro tribus virtutibus moralibus, vt dictum est. Et in fine sexti dicit. Malitia mentiri facit 
+       <lb ed="#B" n="3"/>circa practica principia. excaecando enim intellectum facit videri contraria. Vnde. vii. Ethicorum. cap. xv. 
+       <lb ed="#B" n="4"/>philosophus assignans differentiam inter incontinentem &amp; intemperatum, dicit quod intemperatus non persuasus prosequi  
+       <lb ed="#B" n="5"/>tur corporales delectationes. Incontinens prosequitur eas persuasus. Quia vt dicit ibi commentator, intempe- 
+       <lb ed="#B" n="6"/>ratus aestimat bonum esse moechari. Et sequitur ibidem. Virtus &amp; malitia principium: hoc quidem corrumpit: 
+       <lb ed="#B" n="7"/>hoc autem saluat. Vnde habenti habitum malitiae videntur bona contraria principiis finalibus moralium. Vt 
+       <lb ed="#B" n="8"/>ergo prudentia vniuersalium iam generata &amp; perfecta retineat veram aestimationem principiorum, oportet 
+       <lb ed="#B" n="9"/>quod sint omnes morales virtutes cum ipsa: quia vna deficiente, vt dictum est, a perfectione sua deficiunt aliae 
+       <lb ed="#B" n="10"/>&amp; omnibus deficientibus sequitur malitia, &amp; deficit principium secundum analogiam defectus virtutis &amp; au 
+       <lb ed="#B" n="11"/>gmenti malitiae. Vnde cum primo acquiritur virtus moralis: quia oportet finem sibi praestitui: &amp; hoc non po 
+       <lb ed="#B" n="12"/>test facere virtus prudentiae acquisitae, neque vniuersalis, neque experimentalis, neque voluntas: quia non est 
+       <lb ed="#B" n="13"/>per se principium actiuum nisi ratio praecedat demonstrans obiectum: oportet quod hoc faciat virtus naturalis 
+       <lb ed="#B" n="14"/>intellectus practici: quae ante omnis habitus qualencumque generationem habita notitia terminorum in operandis 
+       <lb ed="#B" n="15"/>naturaliter concipit prima principia operandorum generalissima: quae sunt prima principia legis naturae.  
+       <lb ed="#B" n="16"/>Quemadmondum intellectus speculatiuus in speculatis cognitis terminis concipit naturaliter prima 
+       <lb ed="#B" n="17"/>principia speculandorum. Et est illa virtus naturalis, naturalis potentia intellectus practici: cui respon 
+       <lb ed="#B" n="18"/>det potentia volitiua naturaliter tendens in bonum per cognitionem sibi praestitutum. Huic potentiae naturali pra 
+       <lb ed="#B" n="19"/>ctici intellectus qua concipiuntur cognitis terminis prima principia finalia operandorum: in quae volun- 
+       <lb ed="#B" n="20"/>tas fertur naturaliter: annexa est in bene natis potentia quaedam, quae est naturalis habilitas ex qua pron- 
+       <lb ed="#B" n="21"/>pte inuenit particularia dirigenda in finem intentum &amp; praestitutum, &amp; vniuersaliter ad intentum conferentia. Et eam 
+       <lb ed="#B" n="22"/>vocat <name ref="#Aristotle">philosophus</name> Dinoticam. vi. Ethicorum. vbi dicit. Est vtique quaedam potentia quam vocant Dinoticam. Haec autem 
+       <lb ed="#B" n="23"/>talis est, vt ad suppositam intentionem contendentia possit operari &amp; fortiri ipsis. Est autem prudentia non po- 
+       <lb ed="#B" n="24"/>tentia haec, sed non sine potentia hac. vbi dicit Commentator. Sed indiget hac potentia vt in ipsam supueniat 
+       <lb ed="#B" n="25"/>sicut in subiectum receptiuum. Quoniam prudentia quidam habitus est ex multa experientia adueniens animae 
+       <lb ed="#B" n="26"/>quae indiget dinotica potentia existente bonae natiuitatis: et ex natura adueniente ei quae in nobis rationi. 
+       <lb ed="#B" n="27"/>Vnde in generatione prudentiae &amp; habituum moralium: primum est ratio naturalis practica vniuersalium: quae  
+       <lb ed="#B" n="28"/>antequam quicquid habitus habeatur cognitis terminis operandorum naturaliter concipit moralium prima prin 
+       <lb ed="#B" n="29"/>cipia: quae sunt initium habitus prudentiae in ratione practica: ad quae statim prosequenda inclinatur naturaliter 
+       <lb ed="#B" n="30"/>voluntas naturalis: &amp; vult illa &amp; concipit initia virtutum moralium in seipsa. Habilitatem vero natura-  
+       <lb ed="#B" n="31"/>lem in voluntate ad inclinationem huiusmodi vocat <name ref="#Aristotle">philosophus</name> virtutem naturalem moralem, sicut vocat Dino-  
+       <lb ed="#B" n="32"/>tem prudentiam naturalem: secundum quod dicit in penultimo cap. vi. Ethicorum. Quemadmodum in opinatiuo 
+       <lb ed="#B" n="33"/>duae sunt species, Dinotes &amp; prudentia: sic in morali duae sunt species: haec quidem virtus naturalis:  
+       <lb ed="#B" n="34"/>haec autem principalis: &amp; harum principalis non sit sine prudentia: &amp; tunc deinde Dinotes. Immo ratio pra 
+       <lb ed="#B" n="35"/>ctica habilitate hac sibi naturali per appetitum &amp; inclinationem voluntatis ad obtinendum intentum mota mo 
+       <lb ed="#B" n="36"/>uetur ad determinandum voluntati operabilia particularia ad illa prosequendum: quam voluntas libere exequitur:  
+       <lb ed="#B" n="37"/>ita quod per experientiam circa huiusmodi particularium determinationem augmentat in se ratio practica habitum pru 
+       <lb ed="#B" n="38"/>dentiae: &amp; eorum executione in se augmentat voluntas habitus virtutum moralium. ita quod semper naturaliter 
+       <lb ed="#B" n="39"/>secundum analogiam habituum prius generatur prudentia vniversalis, &amp; augmentatur ex experientia particularium in 
+       <lb ed="#B" n="40"/>ratione quam virtus moralis ex operatione in voluntate. Sed ipsa generata in voluntate saluat, &amp; firmat pru 
+       <lb ed="#B" n="41"/>dentiam prius generatam in ratione, &amp; mouet eam vlteriuns ad particularium determinationem: quibus 
+       <lb ed="#B" n="42"/>amplius prosequatur intentum. Et sic semper secundum analogiam quousque habitus perficiantur ex parte rationis 
+       <lb ed="#B" n="43"/>&amp; voluntatis. Et per hunc modum prudentia vniuersalis comnexa est virtutibus moralibus: sine qua non ha  
+       <lb ed="#B" n="44"/>bent fieri aut augmentari praestituendo eis fines. Virtus autem moralis quia pro quanto est generara firmat 
+       <lb ed="#B" n="45"/>&amp; conseruat prudentiam: ideo ipsa connexa est prudentiae vniuersali: quia vero etiam mouet rationem ad de 
+       <lb ed="#B" n="46"/>terminationem particularium, est principium prudentiae experimentalis vel singularium, &amp; connexa illi: quia vero 
+       <lb ed="#B" n="47"/>prudentia experimentalis determinat operanda voluntati ad augmentum virtutum moralium, ex hoc prudent ia 
+       <lb ed="#B" n="48"/>experimentalis comnexa est virtutibus moralibus: Ita quod siquis aduertat, prudentia duplicem causalitatem 
+       <lb ed="#B" n="49"/>&amp; prioritatem habet circa morales virtutes. Vnam inquantum est vniuersalium, scilicet in praestituendo finem 
+       <lb ed="#B" n="50"/>voluntati ad morales virtutes generandas. Et in hoc praecedit prudentia simpliciter natura morales vir 
+       <lb ed="#B" n="51"/>tutes. De isto ordine talis prudentiae &amp; comnexione eius ad morales virtutes modicum <name ref="#Aristotle">philosophus</name> loquitur. Aliam 
+       <lb ed="#B" n="52"/>vero causalitatem &amp; prioritatem habet circa morales virtutes prudentia, inquantum est experimentalis ope 
+       <lb ed="#B" n="53"/>randa eis determinando. &amp; in hoc praecedit morales virtutes quo ad id quod generandum est de eis per huiusmodi 
+       <lb ed="#B" n="54"/>operationes. De isto ordine talis prudentiae &amp; connexione eius ad virtutes morales, loquitur <name ref="#Aristotle">philosophus</name> 
+       <!--421.xml-->
+       <pb ed="#B" n="190-v"/>
+        <lb ed="#B" n="1"/>vbicumque tractat quomodo virtus moralis non habet esse fine prudentia. secundum illud in fine sexti Ethicorum:  
+       <lb ed="#B" n="2"/>Non est electio fine prudentia, neque fine virtute. haec enim finem: haec autem quae ad finem facit operari. Sed l 
+       <lb ed="#B" n="3"/>ordinem vtriusque istarum ad virtutes morales, &amp; principalitatem causalitatis super eas, tangit Commentator  
+       <lb ed="#B" n="4"/>exponens praedictum verbum philosophi,. Et harum principalis non sit sine prudentia, dicens. Quoniam naturales virtu 
+       <lb ed="#B" n="5"/>tes sine intellectu virtutes sunt. Intellectum autem assumentes ipsas dirigentem ad fieri morales perfi- 
+       <lb ed="#B" n="6"/>ciunt, &amp; principales virtutes perficiuntur. &amp; post aliqua interposita sequitur. Qualiter vtique non erit 
+       <lb ed="#B" n="7"/>multo moralibus virtutibus prudentia superexcellens: quando &amp; vt recta ratio mensuram &amp; ordinem 
+       <lb ed="#B" n="8"/>appetitibus imponit: &amp; eius quod est boni habere fines causa fit: &amp; attingere ad hos ipsi tribuit: Causa 
+       <lb ed="#B" n="9"/>sit secundum quod est vniuersalis: attingere autem facit secundum quod est experimetalis. Facit dico non opus exe- 
+       <lb ed="#B" n="10"/>quendo: sed quid &amp; quomodo exequendum modostrando, quod bene exponit alia transi. quae circa finem. vi. Ethicorum  
+       <lb ed="#B" n="11"/>loco illius, Non possibile principaliter bonum esse sine prudentia &amp;c. dicit. Virtus igitur moralis est illa quae  
+       <lb ed="#B" n="12"/>agit bonum, &amp; virtus prudentia est illa quae monostrat illi quid agit. ldeoque non attribuitur haec actio 
+       <lb ed="#B" n="13"/>prudentiae cum non sit operatrix actionis moralis. Sed est quidem modostratrix illi potentiae. Est igitur 
+       <lb ed="#B" n="14"/>quasi effectrix potentiae operantis finim: sed ipsa non operatur finem. Et ideo non attribuitur actio 
+       <lb ed="#B" n="15"/>moralis alicui ex virtutibus moralibus, quemadmodum actio sanationis non attribuitur arti medicinae.  
+       <lb ed="#B" n="16"/>lpsa enim ars non sanat: sed modostrat quomodo fiat sanatio auditori medicinae, quoniam prudentia est quae  
+       <lb ed="#B" n="17"/>imperat, &amp; mos est qui operatur: &amp; non attribuitur actio prudentiae nisi quia imperat eam, non quod operetur 
+       <lb ed="#B" n="18"/>eam, vt sit ei quasi princeps habitus moralis: quemadmodum gubernatio ciuilis omnibus habitibus qui sunt 
+       <lb ed="#B" n="19"/>in ciuitate. Econtrario etiam siquis aduertat praedicta, moralis virtus duplicem causalitatem &amp; prioritatem 
+       <lb ed="#B" n="20"/>habet circa prudentiam. Vnam circa prudentiam vniuersalem inquantum firmat &amp; seruat habitum. Alteram circa 
+       <lb ed="#B" n="21"/>prudentiam experimentalem: qua in actum experiendi mouet secundum determinationem finis ad quem inclinatur vo 
+       <lb ed="#B" n="22"/>luntas. &amp; hoc vel pure naturaliter ante omnem generationem alicuius pertinentis ad essentiam habitus: &amp; 
+       <lb ed="#B" n="23"/>ita virtute pure naturali: vel deliberatiue aliquo quod pertinet ad essentiam habitus iam generato. &amp; per hoc 
+       <lb ed="#B" n="24"/>virtute morali. Propter quod postquam <name ref="#Aristotle">philosophus</name> dixit in. vii. Ethicorum, In actionibus quid cuius gratia principium 
+       <lb ed="#B" n="25"/>quemadmodum in Mathematicis suppones: statim subdit. Neque vtique illic ratio doctiua principiorum, neque  
+       <lb ed="#B" n="26"/>hic: sed virtus naturalis vel assuefactiua. i. moralis secundum Conmentatorem. Et secundum hoc haec virtus siue 
+       <lb ed="#B" n="27"/>naturalis siue moralis simpliciter &amp; tempore &amp; natura praecedit prudentiam experimentalem: &amp; per consequans id  
+       <lb ed="#B" n="28"/>quod per experientiam operationum generatur in prudentia vniversal. &amp; per hoc etiam virtus moralis quodammo est causa au 
+       <lb ed="#B" n="29"/>gmenti prudentiae vniversalis. Et de vtroque ordine iam dicto moralis virtutis ad prudentiam loquitur frequanter <name ref="#Aristotle">philosophus</name> 
+       <lb ed="#B" n="30"/>vt patet ex dictis. Et pertinet vterque istorum ordinum moralium virtutum ad comnexionem earum cum prudentia, vt 
+       <lb ed="#B" n="31"/>in finem eorum quae sunt ad finem: duo vero praecedentium ordinum prudentiae ad comnexionem eius cum virtutibus mo- 
+       <lb ed="#B" n="32"/>ralibus sicut eorum quae sunt ad finem inter se virtute finis. &amp; sic per iam dicta magis declaratur vtraque dictarum 
+       <lb ed="#B" n="33"/>comnexionum. Et si aduertatur vtraque connexio: scilicet inquantum est virtutum moralium cum prudentia, &amp; 
+       <lb ed="#B" n="34"/>econuerso, apparebit quod prima procedit via generationis principiatorum ex principiis operabilibus: quem 
+       <lb ed="#B" n="35"/>admodum in doctrinis procedunt conclusiones ex principiis speculabilibus: Secunda vero via resolutio- 
+       <lb ed="#B" n="36"/>nis principiatorum in principia operabilia: quemadmodum conclusiones resoluuntur in principia speculati 
+       <lb ed="#B" n="37"/>ua. Et ideo sicut in homine est perfecta scientia principiorum &amp; conclusionum in intellectu speculatiuo, quan 
+       <lb ed="#B" n="38"/>do habetur illo duplici processu: vt principia cognoscat in conclusionibus sicut causam in effectu 
+       <lb ed="#B" n="39"/>in quo percipitur causae virtus &amp; efficacia, &amp; conclusiones in principiis sicut effectum in causa: in qua ha  
+       <lb ed="#B" n="40"/>bet perfectum esse suae naturae: sic in homine est perfecta virtus Politica secundum prudentiam &amp; morales vir 
+       <lb ed="#B" n="41"/>tutes in volutate &amp; intellectu practico: quando habetur illa duplici comnexione: vt prudentiam habeat in  
+       <lb ed="#B" n="42"/>virtutibus moralibus sicut formalem causam in effectu materiali: et econuerso virtutes morales in pru- 
+       <lb ed="#B" n="43"/>dentia vt perfectibile in sua perfectione. Sic ergo patet de comnexione virtutum Politicarum ex parte comnexorum. 
+       <lb ed="#B" n="44"/>Et restat videre de comnexione earum ex parte modorum connectendi secundum gradus comnexorum. Circa quam 
+       <lb ed="#B" n="45"/>sciendum est: quod cum secundum praedeterminata in praecedenti quaestione: quatuor sint status in qualibet virtute sciliet 
+       <lb ed="#B" n="46"/>inchoationis, profectus, perfectionis, &amp; excessus: in primis quidem duobus virtutes omnino imperfectae sunt: nec 
+       <lb ed="#B" n="47"/>merentur dici habitus aut virtutes: sed tantum disponnes ad virtutes. Disponnes autem potest homo ercitio ali 
+       <lb ed="#B" n="48"/>quo defectiuo acquirere ad vnam virtutem: ita quod non ad aliam: secundum quod naturaliter potest esse dispositus ma-  
+       <lb ed="#B" n="49"/>gis ad vnam virtutem quam ad aliam, aut magis habere occasionem seu opportunitatem se exercendi ad vnamquam  
+       <lb ed="#B" n="50"/>ad aliam. Et ideo loquendo de virtutibus quo ad istos duos status infra gradum illum in quo merentur dici 
+       <lb ed="#B" n="51"/>esse virtutes: dicendum est quod non oportet ipsas esse connexas. Immo aliquis potest habere vnam sine aliis 
+       <lb ed="#B" n="52"/>tribus: vel duas sine aliis duabus. Et secundum hoc procedit determinatio philosophi in fine. vi. Ethicorum, 
+       <lb ed="#B" n="53"/>vbi inducit rationem probantium quod virtutes abinuicem sunt separatae &amp; non connexae. Quia non  
+       <lb ed="#B" n="54"/>semper idem natus est aequaliter ad omnes: sed secundum quod dicit ibidem Commentator: contingit aliquem bene 
+       <!--422.xml-->
+       <pb ed="#B" n="191-r"/>
+        <lb ed="#B" n="1"/>natum ad hanc virtutem ineptum esse ad quandam alteram: ad quam non est natus. Ex quo continget quod aliquantulum  
+       <lb ed="#B" n="2"/>se exercitabit secundum opera vnius virtutis &amp; aliquantulum acquiret eam: non secundum aliam: et sic nullo modo habe 
+       <lb ed="#B" n="3"/>bit eam. Ad quam argumentationem respondet philosophus, dicens quod hoc contingit secundum naturales virtutes. secun- 
+       <lb ed="#B" n="4"/>dum quas, vt dicit Commentator: non dicitur homo principaliter bonus. Secundum quas autem simpliciter di  
+       <lb ed="#B" n="5"/>citur bonus, non contingit. Simul enim prudentiae inhaerenti vni omnes aliae inerunt. Et comphendit ibi sub virtuti 
+       <lb ed="#B" n="6"/>bus naturalibus omnes habitus virtutum circa statum supra determinatum: in quo non merentur dici virtutes:  
+       <lb ed="#B" n="7"/>quoniam secundum illos nemo dicitur bonus simpliciter, sicut neque secundum virtutes naturales. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e810">
+       SI vero loquamur 
+       <lb ed="#B" n="8"/>de virtutibus secundum statum in quo merentur dici virtutes: sciendum quod licet perfectae sunt respectu virtutum  
+       <lb ed="#B" n="9"/>naturalium &amp; disponnum: vt homo secundum ipsas dicatur simpliciter bonus: quia tamen bono melius inuenitur: &amp; in isto 
+       <lb ed="#B" n="10"/>statu existentes recipiunt intensionem: vt de perfectione simpliciter dicta tendant in consummationem: quam si ex- 
+       <lb ed="#B" n="11"/>cedant, subintrant statum virtutum heroicarum: idcirco dicendum quod habitus virtutum secundum quod sunt simpliciter 
+       <lb ed="#B" n="12"/>virtutes, dupliciter possunt considerari. Vno modo vt absolute perfectae sunt. Alio modo vt imperfectae habent 
+       <lb ed="#B" n="13"/>consummationem: in gradu tamen alicuius latitudinis citra heroicas: respectu cuius prima perfectio imperfe 
+       <lb ed="#B" n="14"/>ctio quaedam est: vt secundum hoc distinguamus virtutes penes duplicem statum. scilicet imperfectionis, &amp; perfectae con- 
+       <lb ed="#B" n="15"/>summationis: vt secundum primum statum dicantur virtutes imperfectae: secundum autem secundum, dicantur persectae. 
+       <lb ed="#B" n="16"/>Si considerentur primo modo: cum vt iam dictum est, aliquis natus ad vnam virtutem magis quam ad aliquam aliarum: potest se 
+       <lb ed="#B" n="17"/>exercere magis in vna virtute quam circa alias: &amp; per hoc potest citius deuenire ad statum virtutis imperfectum: in  
+       <lb ed="#B" n="18"/>quo tamen meretur dici virtus simpliciter: quam deueniet ad alias: ita quod vnam habeat secundum rationem habitus 
+       <lb ed="#B" n="19"/>alias vero secundum rationem disponnis: idcirco dico quod virtutibus isto modo consideratis, vnam homo potent ha 
+       <lb ed="#B" n="20"/>bere sine aliis. Si vero considerentur secundo modo, sic dicimus ipsas necessario esse comnexas. Talem enim perfe 
+       <lb ed="#B" n="21"/>ctionem nulla earum potest habere nisi aliarum qualibet fulciatur, illis existentibus ad minus in gradu perfe- 
+       <lb ed="#B" n="22"/>ctionis absolute: vt sic ex virtutibus fiat constitutum in homine quoddam aedificium spirituale. Cui funda- 
+       <lb ed="#B" n="23"/>mentum proiicit in quadro prudentia vniuersalium in primis principiis operandorum cognitis terminis opera- 
+       <lb ed="#B" n="24"/>bilium naturaliter conceptorum, vt dictum est: quae sunt fines virtutum moralium. Super quae primo erigitur vnus paries 
+       <lb ed="#B" n="25"/>scilicet prudentiae particularium sub primis vniversalbus experiendo de particularibus omnium operandorum secundum tres 
+       <lb ed="#B" n="26"/>morales virtutes: ex quorum experientia generatur, augmentatur, &amp; perficitur Prudentia vniuersalium sicut dictum 
+       <lb ed="#B" n="27"/>est. Secundo erigitur secundus parie scilicet temperantiae exequendo ea quae prudentia particularium determinauit ope- 
+       <lb ed="#B" n="28"/>randa circa delectationes &amp; tristitias gustus &amp; tactus. Vt sic homo in se circa ea quae cum infestant interius 
+       <lb ed="#B" n="29"/>primo incipiat ordinari: et deinde circa ea quae ipsum infestant ab exteriori &amp; in ordine sui ad alium. Ter- 
+       <lb ed="#B" n="30"/>tio erigitur tertius parie scilicet fortitudinis, exequendo ea quae prudentia particularium determinauit operanda 
+       <lb ed="#B" n="31"/>circa delectationes &amp; tristitias in aspera sustinendo, &amp; terribilia exteriora aggrediendo. Quarto erigitur 
+       <lb ed="#B" n="32"/>similiter quartus parie scilicet iustitiae, exequendo ea quae prudentia particularium determinauit operanda circa de 
+       <lb ed="#B" n="33"/>lectationes &amp; tristitias in conmutationibus &amp; distributionibus exteriorum bonorum: quae simul ordi- 
+       <lb ed="#B" n="34"/>nantur in prudentiam vniuersalium inquantum virtutes perfectae saluant &amp; firmant prudentia opinionem bonam 
+       <lb ed="#B" n="35"/>circa principia operandorum: a quibus proiiciebatur fundamentum. Et per hoc aedificio in quadro posito tectum 
+       <lb ed="#B" n="36"/>suprponitur. Et mutuo sese inuicem virtutes morales fulciunt ex lateribus: quibus prudentia singularium ope 
+       <lb ed="#B" n="37"/>ribus particularium quae modostrat operanda singulis earum, vires administrat, vt fini suo inhaereat, &amp; aliis tri- 
+       <lb ed="#B" n="38"/>buat fulcimentum. Prudentia vero vniuersalium per experientiam operum roborata solidum tenet fundamen- 
+       <lb ed="#B" n="39"/>tum: vt ex primis vniuersalibus operanda particularia eliciantur: &amp; indelebile vel inuiolabile tenet tectum: vt 
+       <lb ed="#B" n="40"/>in ea parietes ex operibus particularibus &amp; perticularium experientia erecti consummentur. Et hoc secundum mo- 
+       <lb ed="#B" n="41"/>dum connexionis praeassignatae, vt sic homo Politicus aedificet sibi domum supra firmam petram. Et descendit 
+       <lb ed="#B" n="42"/>pluuia, &amp; venerunt flumina, &amp; flauerunt venti, &amp; irruerunt in domum illam. Glos. aedificium virtutum. Et 
+       <lb ed="#B" n="43"/>non cecidit, vt dicitur Matthaei. vii. Vnde de connexione virtutum secundum quod perfectae sunt, &amp; de 
+       <lb ed="#B" n="44"/>connexione secundum quod imperfectae sunt, aperte Gregorius. xxii. moralium dicit sic immediate post 
+       <lb ed="#B" n="45"/>auctoritatem eius supra positam. Vnaquaeque virtus tunc minor est quando desunt caeterae. Nam saepe 
+       <lb ed="#B" n="46"/>quosdam pudicos vidisse nos contigit, sed non humiles, sed non misericordes: quosdam vero quasi 
+       <lb ed="#B" n="47"/>humiles, sed non misericordes: quosdam quasi misericordes, sed numquam iustos. Sed certum est quod neque castitas 
+       <lb ed="#B" n="48"/>in corde eius vera est cui humilitas deest: nec humilitas vera est, cui misericordia iuncta non est: nec 
+       <lb ed="#B" n="49"/>misericordia vera est quae a rectitudine iustitiae existit aliena. Et sequitur paucis interpositis. Vna 
+       <lb ed="#B" n="50"/>vtique virtus sine aliis, aut nulla est, aut imperfecta. Reuera nulla est quando est in statu dispositionis. 
+       <lb ed="#B" n="51"/>Imperfecta etiam quando est in statu alicuius perfectionis. Et sequitur. Vt enim sicut quibusdam visum est de 
+       <lb ed="#B" n="52"/>primis quatuor virtutibus loquar: quae sunt prudentia, temperantia, fortitudo, atque iustitia, tanto perfectae 
+       <lb ed="#B" n="53"/>sunt singulae quanto vicissim sibimet iunctae: disiunctae autem nequaquam perfectae esse possunt. Quia nec prudentia 
+       <lb ed="#B" n="54"/>vera est quae iusta, temperans, &amp; fortis non est: nec perfecta temperantia quae fortis, iusta, &amp; prudens 
+       <!--423.xml-->
+       <pb ed="#B" n="191-v"/>
+        <lb ed="#B" n="1"/>non est: nec fortitudo integra: quae prudens, temperans, &amp; iusta non est: nec vera iustitia, quae prudens 
+       <lb ed="#B" n="2"/>temperans &amp; fortis non est. Et quomodo haec omnia contingunt patet ex supra determinatis. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e923">
+       SED est 
+       <lb ed="#B" n="3"/>aduertendum, illud quod supra diximus: quod virtutes cum imperfectae sunt: simpliciter tamen virtutes, vna fine 
+       <lb ed="#B" n="4"/>aliis esse potest: hoc de prudentia verum non est. Quantum enim inest de virtute quaecumque, &amp; de prudentia, &amp; vni 
+       <lb ed="#B" n="5"/>uersalium quae suum finem ei determinet: &amp; a finis aestimatione si fine illa sit cadat, &amp; particularium cui finem prae- 
+       <lb ed="#B" n="6"/>stituat: &amp; quae operanda secundum finem determinet. secundum quod patet ex supra dictis. Sed nisi aliae adsint: am- 
+       <lb ed="#B" n="7"/>bae imperfectae, &amp; de facili mobiles, &amp; quasi dispositiones sunt. Vnde &amp; <name ref="#Aristotle">philosophus</name> veras virtutes non appellat, do  
+       <lb ed="#B" n="8"/>nec in tanta consummatione sunt: vt omnes simul esse oporteat. Vt secundum hoc intelligamus illud dictum 
+       <lb ed="#B" n="9"/>eius in fine. vi. Ethicorum. Simul prudentiae vni inexistenti omnes inerunt. vbi dicit Commentator. Ratione prae- 
+       <lb ed="#B" n="10"/>stante appetitibus &amp; faciente hos ipsi obedientes, sic necessario omnes adinuicem consequuntur. In telligo appe 
+       <lb ed="#B" n="11"/>titibus omnibus. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e948">
+       EST adhuc vlterius aduertendum: quod cum sic virtus aliqua ad talem statum consummationis 
+       <lb ed="#B" n="12"/>venerit: vt omnes simul eidem inesse necesse sit: quia tamen propter dispositionem naturalem &amp; exercitium sequens 
+       <lb ed="#B" n="13"/>simul in aequali perfectione conuenire necesse non est: immo vna earum prius potest illum statum attingere, &amp; in  
+       <lb ed="#B" n="14"/>vlteriorem perfectionem procedere, quam alia illum gradum pertingat: vt licet secundum quod dictum est, vna illarum existen- 
+       <lb ed="#B" n="15"/>te in tali gradu perfectionis, vt pote prudentia: quae prima &amp; causa aliarum est secundum praedicta: oportet 
+       <lb ed="#B" n="16"/>quod habeat alias sibi connexas: quia tamen hoc non necessario fit secundum eundem &amp; aequalem gradum perfectionis:  
+       <lb ed="#B" n="17"/>ideo nondum adhuc sunt perfecte comnexae: quia non per aequalitatem laterum in altitudine spirituali, quae requiritur 
+       <lb ed="#B" n="18"/>ad perfectam connexionem. Quia vt in Glos. super illud Apo. xxi. Ciuitas erat in quadro posita, dicitur: quatuor  
+       <lb ed="#B" n="19"/>latera quatuor principales virtutes sunt: quarum vna non debet aliam excedere in homine. Et sicut necesse 
+       <lb ed="#B" n="20"/>non est venire eas ad aequalitatem, cum vna earum statum consummationis citra heroicam attingit: eadem ratione 
+       <lb ed="#B" n="21"/>neque vllo modo necesse est eas citra heroicam adaequari: immo antequam aliae venerint ad gradum aequalita 
+       <lb ed="#B" n="22"/>tis primae, illa crementum accipere poterit vt in heroicam transmutetur. Omnes enim virtutes &amp; bonitates ad es- 
+       <lb ed="#B" n="23"/>sentiam habitus alicuius quatuor virtutum cardinalium pertinent. Ita quod numquam necesse est perfecte per omnimodam 
+       <lb ed="#B" n="24"/>aequalitatem connecti virtutes, nisi prudentiam quae semper aequatur illi ex cuius actuum exercitio acquiritur. In aliis 
+       <lb ed="#B" n="25"/>autem numquam est necesse quousque singulae ad terminum augmenti sui conveniant in heroica constituentes vnum  
+       <lb ed="#B" n="26"/>hominem Politicum, diuinum, perfectum omnimode: qui non in virtutibus proficiat: sed solummodo in operatione  
+       <lb ed="#B" n="27"/>perfecte ciuilis siue Politicae beatitudinis viuat, sic fulcitus vndique virtutibus: vt omnino immobilis in  
+       <lb ed="#B" n="28"/>eodem statu persistat: si tamen augmentum virtutum in infinitum non vadat: aut ad finem earum in hac vita veni 
+       <lb ed="#B" n="29"/>re contingat. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e991">
+       CONtra hoc tamen <name ref="#Augustine">Augustinus</name> esse videtur, qui, vt videtur, insinuat. vi. de trinitate. ca. 
+       <lb ed="#B" n="30"/>iiii. omnes virtutes semper esse in eodem per omnimodam aequalitatem connexas. vbi dicit sic. Virtu 
+       <lb ed="#B" n="31"/>tes, quae sunt in animo humano, quamuis alio &amp; alio modo singulae intelligantur: nullo modo tamen separantur ab  
+       <lb ed="#B" n="32"/>inuicem: vt quicumque fuerint aequales (verbi gratia) in fortitudine, aequales sint &amp; in prudentia, &amp; de iusti 
+       <lb ed="#B" n="33"/>tia, &amp;e temperantia. Si enim dixeris istos aequales esse in fortitudine: sed illum praestare prudentia: sequitur vt hu 
+       <lb ed="#B" n="34"/>iusmodi fortitudo minus prudens sit: ac per hoc nec fortitudine aequales sunt: quoniam est illius fortitu 
+       <lb ed="#B" n="35"/>do prudentior. Atque ita de caeteris inuenies si omnes eadem consideratione percurras. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e1010">
+       ET est hic aduertendum: quod  
+       <lb ed="#B" n="36"/>duorum aequalitas in virtutibus quatuor: vt quod tanta sit vnius fortitudo quanta alterius: &amp; sic de aliis: potest du-  
+       <lb ed="#B" n="37"/>pliciter intelligi. Vno modo quia virtutes conmnexae in eodem quocumque sint aequales inter se. Et ideo qui habet 
+       <lb ed="#B" n="38"/>vnam virtutem aequalem virtuti alterius, necessarium est quod virtutes aliae connexae suae virtuti sint aequales virtu 
+       <lb ed="#B" n="39"/>tibus comnexis virtuti alterius. Alio modo, quia licet virtutes comnexae in eodem sint inaequales: tamen sicut vna exce 
+       <lb ed="#B" n="40"/>dit alteram secundum aliquam proportionem in vno: sic excedit eam secundum eandem proportionem in alio: vt sic haben- 
+       <lb ed="#B" n="41"/>do vnam aequalem virtuti quae est in alio, habeat consimiliter alias aequales aliis. Si primo modo intelligeretur Au 
+       <lb ed="#B" n="42"/>gustinus, plane esset contra praedicta. Sed ipse non sic intelligit: quia alibi aliter se sentire ostendit. In epistola enim 
+       <lb ed="#B" n="43"/>ad Hieronymum de sententia Iacobi in cap. iii. exponens sententiam philosophorum de connexione virtutum: dicit sic. 
+       <lb ed="#B" n="44"/>Certe hinc persuadent quidam, qui vnam habuerit virtutem habere omnes, &amp; omnes deesse cui vna defuerit: quod  
+       <lb ed="#B" n="45"/>prudentia non ignaua, iniusta, nec intemperans esse potest. Nam si aliquod istorum defuerit, prudentia non 
+       <lb ed="#B" n="46"/>est. Porro si prudentia erit, tunc &amp; fortis, &amp; iusta, &amp; temperans. Sic profecto vbi fuerit secum ha-  
+       <lb ed="#B" n="47"/>bet caeteras. Sic &amp; fortitudo imprudens non potest esse vel intemperans vel iniusta. Sic &amp; tempe- 
+       <lb ed="#B" n="48"/>rantia necesse est vt prudens sit, fortis, &amp; iusta. Si &amp; iustitia non est si non sit prudens, fortis, &amp; ten- 
+       <lb ed="#B" n="49"/>perans. Ita vbi vera est aliqua earum, &amp; aliae similiter sunt. Vbi autem aliae desunt, vera illa non est: 
+       <lb ed="#B" n="50"/>etsi aliquo modo esse videatur. Sed contra hoc dicit in cap, quinto sic. Non ista diuina sententia est 
+       <lb ed="#B" n="51"/>qua dicitur qui vnam virtutem habet omnes habet: &amp; quod ei nulla est cui vna defuerit: sed hominibus hoc 
+       <lb ed="#B" n="52"/>visum est multum quidem ingeniosis, studiosis, otiosis: sed tamen hominibus. vnde subdit in cap. 
+       <lb ed="#B" n="53"/>viii. Et si verum est eum qui habet vnam omnes habere virtutes: eum qui vnam non habet, nullam ha  
+       <lb ed="#B" n="54"/>bere, nec sic oportet peccata esse paria. Quia vbi virtus nulla est, nihil quidem rectum est. Nec tamen 
+       <!--424.xml-->
+       <pb ed="#B" n="192-r"/>
+        <lb ed="#B" n="1"/>ideo non est prauo prauius, distortoque distortius. Si autem (quod puto esse verius, sacrisque literis con- 
+       <lb ed="#B" n="2"/>gruentius) ita sunt animae intentiones, vt corporis membra: et illius illuminatur aliud amplius, 
+       <lb ed="#B" n="3"/>aliud minus, aliud omnino caret lumine: profecto ita vt illustratione piae charitatis affectus est in  
+       <lb ed="#B" n="4"/>alio magis, in alio minus, in alio nihil: sic incipit &amp; habene aliam, &amp; aliam non habere: alius magis alius minus 
+       <lb ed="#B" n="5"/>habere virtutem. Nam &amp; maior est in isto charitas quam in illo, recte possumus dicere: &amp; aliqua in  
+       <lb ed="#B" n="6"/>isto: nulla in illo, &amp; in isto ipso vno homine, vt maiorem habeat pudicitiam quam patientiam: et adhuc non ha  
+       <lb ed="#B" n="7"/>beat continentiam: &amp; habeat non paruam misericordiam. Ecce quod non solum negat virtutes esse pares in eo 
+       <lb ed="#B" n="8"/>dim: sed etiam quod necesse sit eas esse simul &amp; connexas. Sed vtrumque horum intelligendum est secundum 
+       <lb ed="#B" n="9"/>modum supra expositum. Dictum ergo suum <name ref="#Augustine">Augustinus</name> in sexto de trinitate. non intelligit sic quod quicumque ha  
+       <lb ed="#B" n="10"/>bent vnam virtutem aequalem habent omnes aequales vt singulae in eodem sint aequales inter se: quia  
+       <lb ed="#B" n="11"/>hoc alibi negat aperte: sed quod singulae in vno sint aequales singulis sui generis quae sunt in alio, licet 
+       <lb ed="#B" n="12"/>singulae diuersorum generum non sunt aequales inter se, neque in vno, neque in altero. Hoc enim modo si- 
+       <lb ed="#B" n="13"/>cut dicit &amp; bene, necesse est vt qui habent vnam virtutem aequaliter puta fortitudinem habeant 
+       <lb ed="#B" n="14"/>omnes alias aequales: non eorum fortitudini: et per hoc habeant eas aequales inter se secundum primum 
+       <lb ed="#B" n="15"/>modum: sed sibi inuicem singulas singulis sui generis secundum modum secundum. Potest enim in vno fortitu- 
+       <lb ed="#B" n="16"/>do esse maior quam sit sua temperantia, &amp; de similiter quam sit sua iustitia. Et ideo siquis aequalis est illi in for 
+       <lb ed="#B" n="17"/>titudine, non est necesse sic eum esse illi aequalem in aliis, vt ille aliae sint aequales fortitudini. hoc 
+       <lb ed="#B" n="18"/>enim solummodo verum est de prudentia: quia ipsa prout habet esse circa materiam cuiusque virtutis 
+       <lb ed="#B" n="19"/>necessario ei aequiparatur, vt dictum est. Sed si non sit ei aequalis in aliis secundum illum modum, tunc 
+       <lb ed="#B" n="20"/>necesse est quod sit ei aequalis in illis secundum alium modum: scilicet vt singulae in vno sint aequales singu 
+       <lb ed="#B" n="21"/>lis sui generis in alio: vt aequalem proportionem secundum excedens &amp; excessum habeant in vno si 
+       <lb ed="#B" n="22"/>cut &amp; in alio: et sic sit in eis aequalitas virtutum secundum proportionem geometricam, etsi non sit 
+       <lb ed="#B" n="23"/>secundum arithmeticam proportionem. Cuius necessitas patet sic. Aequalitas enim virtutum con 
+       <lb ed="#B" n="24"/>sistit in earum magnitudine spetiali: quae circa quamlibet virtutum comnexarum in duobus consistit. 
+       <lb ed="#B" n="25"/>Et in quantitate habitus: secundum quod vna iustitia dicitur maior alia in sua essentia: et ob hoc vnus  
+       <lb ed="#B" n="26"/>magis iustus alio, vt determinauimus alibi de magis &amp; minus. Et etiam consistit in vigore roboris 
+       <lb ed="#B" n="27"/>firmiter persistendi in suo fine, ne permittat hominem declinare in contrarium vitium. Quem vigo 
+       <lb ed="#B" n="28"/>rem habet non solum a natura &amp; quantitate habitus, sed etiam ab aliis virtutibus eam fulcienti- 
+       <lb ed="#B" n="29"/>bus: secundum quod supra expositum est in primo modo connexionis. Si igitur aliqui duo aequales 
+       <lb ed="#B" n="30"/>sint in vna virtute, puta in fortitudine, non est perfecta aequalitas earum in fortitudine nisi cum hoc 
+       <lb ed="#B" n="31"/>quod est aequalitas secundum substantiam &amp; essentiam habitus in fortitudine huius &amp; illius, sit 
+       <lb ed="#B" n="32"/>aequalitas illarum fortitudinum in vigore roboris ad persistendum in suo fine. Quem tamen non so 
+       <lb ed="#B" n="33"/>lum habent a substantia habituum: qui secundum quod est ab habitibus, necessario aequalis est in eis: sicut 
+       <lb ed="#B" n="34"/>aequales sunt &amp; habitus: sed etiam ex vigore aliarum virtutum fulcientium eas: qui secundum quod 
+       <lb ed="#B" n="35"/>est ab illis, necesse est esse aequalem in ambobus. Vigor autem huiusmodi non est a virtutibus ful 
+       <lb ed="#B" n="36"/>cientibus nisi ex substantia habituum suorum. Aequalis autem vigor necesse est ab aequali habitu. Si er- 
+       <lb ed="#B" n="37"/>go sunt aequales in fortitudine quo ad vigorem &amp; substantiam habitus: oportet quod sint aequales in  
+       <lb ed="#B" n="38"/>aliis habitibus fulcientibus eam &amp; quo ad vigorem, &amp; quo ad substantiam habituum. Quare cum huius- 
+       <lb ed="#B" n="39"/>modi aequalitas non potest esse nisi dupliciter: scilicet primo modo secundum aequalitatem arithmeticam 
+       <lb ed="#B" n="40"/>et secundo modo secundum aequalitatem geometricam: non enim sunt plures modi aequalitatum vel propor- 
+       <lb ed="#B" n="41"/>tionum in genere: si ergo non sunt aequales in aliis primo modo: necesse est quod sint aequales in eis secundo  
+       <lb ed="#B" n="42"/>modo. Vnde si aliqui non essent aequales in temperantia, nullo modo secundum vigorem roboris possent 
+       <lb ed="#B" n="43"/>esse aequales in fortitudine: quia ex latere temperantiae plus fortitudo fulciretur in vno quam in altero: ita 
+       <lb ed="#B" n="44"/>tamen quod si ille minus temperatus etiam esset magis iustus: et sic fortitudo sua plus fulciretur &amp; vigo- 
+       <lb ed="#B" n="45"/>raretur in robore ex latere iustitiae quam alterius: hoc non roboraret latus fortitudinis ex parte tempe- 
+       <lb ed="#B" n="46"/>rantiae: quin ex illo latere aeque faciliter impugnaretur maxima existente eius iustitia sicut &amp; ea exi 
+       <lb ed="#B" n="47"/>stente minima. Propter quod non est fortitudini eius tantum robur ad persistendum in suo fine aequali- 
+       <lb ed="#B" n="48"/>ter alteri cum minori temperantia &amp; maiori iustitia: sicut est cum aequali temperantia &amp; aequali  
+       <lb ed="#B" n="49"/>iustitia. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e1167">
+       ET secundum hoc verum est dictum Augustini: quod si esset minor in temperantia: sequeretur vt for- 
+       <lb ed="#B" n="50"/>titudo eius esset minus temperans: et quod sic non essent fortitudine aequales: sed vnius fortitudo esset minor 
+       <lb ed="#B" n="51"/>simpliciter quam fortitudo alterius: quia minori vi impugnante posset deiici, etsi solum ex latere vno. Non  
+       <lb ed="#B" n="52"/>enim restat ipsam deiici, siue ex vno latere tantum, siue ex pluribus, sicut non restat hominem occidi 
+       <lb ed="#B" n="53"/>vno letali vulnere &amp; pluribus, aut fures domum intrare per vnum ostium aut per plura. Sic er- 
+       <lb ed="#B" n="54"/>go patet quod perfecta connexione, per aequalitatem scilicet, non est necesse virtutes connecti citra 
+       <!--425.xml-->
+       <pb ed="#B" n="192-v"/>
+        <lb ed="#B" n="1"/>omnium illarum consummationem: in qua nihil omnino possunt habere commixtum de vitio. Qua- 
+       <lb ed="#B" n="2"/>lem intendebant cum dicebant Stoici. Qui habet vnam habet omnes: &amp; qui caret vna omnibus carere 
+       <lb ed="#B" n="3"/>necesse est. Qui non ponebant virtutem esse virtutem nisi cum esset in summo, similiter neque vitium. Pro 
+       <lb ed="#B" n="4"/>pter quod non solum virtutes necessario aequales esse dicebant: sed &amp; vitia: cum tamen alii philosophi ponentes 
+       <lb ed="#B" n="5"/>virtutes necessario connexas, vitia esse necessario paria: aut virtutes non ponebant. secundum quod dicit 
+       <lb ed="#B" n="6"/>Augustinus de sententia Iacobi. cap. iii. lllud de parilitate virtutum omnibus philosophis placuit. Hoc autem de 
+       <lb ed="#B" n="7"/>parilitate vitiorum soli ausi sunt stoici disputare contra conmunem sensum generis humani. Simili- 
+       <lb ed="#B" n="8"/>ter idem intellige de parilitate virtutum. Vnde contra parilitatem virtutum, &amp; connexionem stoicorum. 
+       <lb ed="#B" n="9"/>cap. v. dicit. Pudicitia coniugalis cum procul dubio virtus sit: non enim aut nihil aut vitium est: non 
+       <lb ed="#B" n="10"/>tamen secum habet omnes virtutes. Nam si omnes esset, nuilum esset vitium, nullum omnino peccatum. 
+       <lb ed="#B" n="11"/>quis autem sine aliquo peccato: Et sequitur cap. vii. Proinde mihi videntur stoici ideo falli qui proficien 
+       <lb ed="#B" n="12"/>tem hominem nolunt omnino habere sapientiam: sed tunc habere cum in ea fuerit omnino perfectus. Sicut 
+       <lb ed="#B" n="13"/>enim nihil interest ad hominem praefocandum vtrum aquam stadiis multis super se habeat altam: an palmo 
+       <lb ed="#B" n="14"/>vel digito: sic illos qui tendunt ad sapientiam: proficere quidem dicunt tamquam in imo gurgitis surgentes in  
+       <lb ed="#B" n="15"/>aeris: sed nisi totam stultitiam velut opprimentem aquam proficiendo velut emergendo euaserint, non  
+       <lb ed="#B" n="16"/>habere virtutem, nec esse sapientes. Vbi autem euaserint, mox habere totam: nec quicquam stultitiae remane 
+       <lb ed="#B" n="17"/>re: vnde omnino nuilum peccatum possit existere. Cui similitudini <name ref="#Augustine">Augustinus</name> respondens, &amp; eam de 
+       <lb ed="#B" n="18"/>struens, ostendendo vera generationem sapientiae &amp; habituum virtutis secundum modum praedeterminatum in  
+       <lb ed="#B" n="19"/>quaestione proxima, subdit continuo dicens. Haec similitudo vbi stultitia velut aqua, &amp; sapientia ve- 
+       <lb ed="#B" n="20"/>lut aer ponitur, vt animus a praefocatione stultitiae tamquam emergens in sapientiam repente respiret: non mihi 
+       <lb ed="#B" n="21"/>videtur satis accommoda nostrarum scripturarum auctoritati: sed illa potius vt vitium aut stultitia te- 
+       <lb ed="#B" n="22"/>nebris: luci autem virtus vel sapientia comparetur: inquantum ista similia de corporalibus ad intelligibi- 
+       <lb ed="#B" n="23"/>lia duci possunt. Non igitur sicut de aquis in aerem surgens, vbi earum summum transierit repente sapien- 
+       <lb ed="#B" n="24"/>tia tamquam aere inspiratur: sed sicut de tenebris in lucem procedens, paulatim progrediendo illuminatur.  
+       <lb ed="#B" n="25"/>Quid donec plenissime fiat: iam eum tamen dicimus tamquam de abditissima spelunca egredientem vicinia lucis ab  
+       <lb ed="#B" n="26"/>flatum tanto magis quanto magis appropinquat egressui: vt illud quod in eo lucet sit vtique ex lumi- 
+       <lb ed="#B" n="27"/>ne ad quod progreditur: illud autem quid adhuc obscurum est, sit ex tenebris vnde egreditur. Et induti sunt 
+       <lb ed="#B" n="28"/>sancti iustitia alius magis alius minus: sed nulla pura: quia vt dicit, Non iustificabitur in conspe- 
+       <lb ed="#B" n="29"/>ctu dei omnis viuens. Et tamen iustus ex fide viuit. Et sic in vita ista illa connexio per summam aequali- 
+       <lb ed="#B" n="30"/>tatem in extremis virtutum: qualem posuerunt stoici: qui non posuerunt virtutes nisi extrema, &amp; in  
+       <lb ed="#B" n="31"/>indiuisibili, frustra expectatur. Vnde <name ref="#Augustine">Augustinus</name> virtutes morales reducens ad charitatem sine 
+       <lb ed="#B" n="32"/>qua impossibile est eas persici, &amp; in qua perficiuntur: quod non viderunt philosophi: dicit in cap. viii. Vt genera- 
+       <lb ed="#B" n="33"/>liter breuiterque complectar quam de virtute habeam notionem quantum ad recte viuendum, virtus est 
+       <lb ed="#B" n="34"/>charitas qua id quod diligendum est, diligitur. Haec in aliis maior, in aliis minor, in aliis nulla est. Plenissi- 
+       <lb ed="#B" n="35"/>ma autem quae non potest augeri, quamdiu homo hic viuit in nemine: quamdiu autem augeri potest profecto id quod minus 
+       <lb ed="#B" n="36"/>est quam debet ex vitio est. Ex quo vitio non est iustus in terra qui faciat bonum &amp; non peccet. De eius vero con 
+       <lb ed="#B" n="37"/>summatione dicit in fine, sexto cap. Quanto magis est in homine, tanto magis est virtute praeditus, quan- 
+       <lb ed="#B" n="38"/>to autem minus tanto minus. Quia ipsa est virtus. Et quanto minus inest virtus, tanto magis inest vitium. 
+       <lb ed="#B" n="39"/>Vbi ergo illa plena &amp; perfecta fuerit: nihil ex vitio remanebit. Vnde quia <name ref="#Augustine">Augustinus</name> vidit virtu 
+       <lb ed="#B" n="40"/>tes ad perfectam connexionem in aequalitate deduci non posse, nisi charitate inclinante ad finem vltimum 
+       <lb ed="#B" n="41"/>quod est bonum separatum, a nobis non operabile, &amp; ad operandum ad finem instigante: &amp; hoc multo perfectius 
+       <lb ed="#B" n="42"/>quam hoc secundum <name ref="#Aristotle">philosophum</name> virtus prudentiae faciat: idcirco <name ref="#Augustine">Augustinus</name> connexionem omnium virtutum posuit 
+       <lb ed="#B" n="43"/>in charitate, in libro de mo. ecclesiae. cap. xv. vbi sic dicit. Hominis summum bonum quo referenda sunt 
+       <lb ed="#B" n="44"/>omnia, esse patuit nihil aliud quam ipsum deum cui est haerere beatissimum. Cui haerere certe non valemus. 
+       <lb ed="#B" n="45"/>nisi dilectione, amore, charitate. Quia si virtus ad beatam vitam nos ducit: nihil omnino virtutem esse affir- 
+       <lb ed="#B" n="46"/>mauerim nisi summum amorem dei. Nam illud quod quadripetita dicitur virtus, ab ipsius amore va- 
+       <lb ed="#B" n="47"/>rio quodam affectu quantum intelligo dicitur. lllas vtique quatuor virtutes sic definire non dubitem: vt tem 
+       <lb ed="#B" n="48"/>perantia sit amor integrum se praebens ei quid amatur. Fortitudo amor facile tolerans omnia propter id quid  
+       <lb ed="#B" n="49"/>amatur. lustitia amor soli amato seruiens. Prudentia amor ea quibus adiuuatur ab eis quibus im- 
+       <lb ed="#B" n="50"/>peditur sagaciter eligens &amp;c. Secundum quod prolixe prosequitur per totum librum. 
+      </p>
+      <p xml:id="n3av8a-c1e1997-d1e1309">
+       PER iam dicta 
+       <lb ed="#B" n="51"/>patent obiecta. Quod ergo primo arguitur quod non oportet virtutes esse connexas: quia aliquis potest 
+       <lb ed="#B" n="52"/>exercitari circa materiam vnius virtutis, &amp; non alterius: Dicendum quod verum est ad imperfectam 
+       <lb ed="#B" n="53"/>earum generationem sub forma dispositionis: vt perseuerantiae vel continentiae. Ad generationem 
+       <lb ed="#B" n="54"/>autem alicuius virtutis vt perueniat ad formam habitus, &amp; mereatur dici virtus absolute: etsi non 
+       <!--426.xml-->
+       <pb ed="#B" n="193-r"/>
+        <lb ed="#B" n="1"/>in consummatione virtus perfecta non sufficit exercitari circa materiam vnius virtutis: sed oportet quod ex 
+       <lb ed="#B" n="2"/>ercitetur circa materias omnium: vt sicut ad esse alicuius virtutis in consummatione citra heroicam re 
+       <lb ed="#B" n="3"/>quiritur connexio aliarum ad eius fulcimentum vt dictum est: sic exercitium actionis circa materiam vnius 
+       <lb ed="#B" n="4"/>virtutis: vt perueniat ad perfectionem habitus: requirit simul exercitium actionis omnium aliarum. Sicut enim 
+       <lb ed="#B" n="5"/>vna virtus in fine non posset conseruari nisi fulciretur a qualibet earum eam praeseruante ab eis quae ad  
+       <lb ed="#B" n="6"/>virtutes alias pertinent: &amp; voluntatem retrahere aut deiicere possunt a fine ipsius: sic exercitium circa 
+       <lb ed="#B" n="7"/>suam materiam vt generetur requirit simul exercitium aliarum quo impedimenta illa repelluntur quae im 
+       <lb ed="#B" n="8"/>pedirent exercitium illud ad generationem perfectae virtutis procedere. Et ita licet homo possit exerci- 
+       <lb ed="#B" n="9"/>tari circa materiam vnius virtutis tantum: vt generetur in eo dispositio perseuerantiae aut continentiae ad il- 
+       <lb ed="#B" n="10"/>lam: ad hoc tamen vt generetur perfectus habitus secundum illam necesse est vt ad generationem eius exer- 
+       <lb ed="#B" n="11"/>citetur simul circa materias omnium virtutum, licet non simul incipiat circa singulas. Quia si procedat &amp; 
+       <lb ed="#B" n="12"/>proficiat circumquaque, omnes habitus perfecte acquiret, licet non aeque primo. Sed necesse est vt simul ha 
+       <lb ed="#B" n="13"/>beat eos acquisitos: antequam aliquis illorum perueniat ad perfectionem consummatam citra heroicam. Est etiam 
+       <lb ed="#B" n="14"/>possibile vt simul incipiat exercitari circa materias omnium: &amp; simul vel quasi intra breue tempus inter 
+       <lb ed="#B" n="15"/>perfectam generationem primae &amp; vltimae simul omnes habeat acquisitos. Possibile est etiam, quod habeatur eas in  
+       <lb ed="#B" n="16"/>omnimoda aequalitate: sed hoc non est necesse. Si vero vna earum fuerit generata absque aliis (dico de mora 
+       <lb ed="#B" n="17"/>libus: quia sine prudentia prius generata saltem natura nulla alia potest generari vt dictum est) diu persiste 
+       <lb ed="#B" n="18"/>re non potest absque aliis eam fulcientibus propter impedimenta occurrentia circa materias aliarum vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

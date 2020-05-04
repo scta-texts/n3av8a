@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 30</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 30</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3492">
+       <head xml:id="n3av8a-c1e3492-Hd1e96">Quaestio 30</head>
+       <p xml:id="n3av8a-c1e3492-d1e99">
+        <lb ed="#B" n="34"/>CIrca tertium nuilum proponebatur argumentum. Ad quid dicendum: quod edicta ecclesiae poe 
+       <lb ed="#B" n="35"/>nalia maxime suspensionis sunt contra illos qui faciunt contra alia edicta ecclesiae vt for 
+       <lb ed="#B" n="36"/>tius obseruentur: &amp; maxime etiam ad illa custodienda quae nouit ecclesia: &amp; de quibus ha  
+       <lb ed="#B" n="37"/>bet iudicare. Vnde cum ecclesia ponit edictum poenale quod nullus illegitimus ad curam 
+       <lb ed="#B" n="38"/>animarum accedat: hoc est in odium copulae extra matrimonium ab ecclesia appro- 
+       <lb ed="#B" n="39"/>batum. Propter quod illi qui non sunt progeniti ex mrimonio non approbato per ecclesi- 
+       <lb ed="#B" n="40"/>am, quantucunque sit ratum coram deo, contra illos est edictum praecedens &amp; non contra illos qui sunt ex matrimo- 
+       <lb ed="#B" n="41"/>nio approbato per ecclesiam quantuncumque non sit ratum coram deo. Quare simpliciter dicendum est: quod si ille pri- 
+       <lb ed="#B" n="42"/>mus ex legitimo matrimonio coram deo non tamen approbato per ecclesiam suscipiat curam animarum, contra 
+       <lb ed="#B" n="43"/>interdictum ecclesiae suscipit &amp; est irregularis: alter vero nequaquam.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

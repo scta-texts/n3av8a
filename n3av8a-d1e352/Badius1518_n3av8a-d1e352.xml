@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 26</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 26</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="247-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-d1e352">
+       <head xml:id="n3av8a-d1e352-Hd1e96">Quaestio 26</head>
+       <p xml:id="n3av8a-d1e352-d1e99">
+        <lb ed="#B" n="40"/>Sequitur quaestio <!-- unclear why heading is needed --> 
+       <lb ed="#B" n="41"/>xxvi. 
+       <lb ed="#B" n="42"/>CIrca tertium quo quaerebatur de recipiente pro mutuo aliquid vltra forte:. 
+       <lb ed="#B" n="43"/>nullo tamen interueniente pacto: vtrum talis teneatur ad restitutionem illius 
+       <lb ed="#B" n="44"/>quod vltra fortem seu mutuo datum recepit: arguebatur primo quod recipiens 
+       <lb ed="#B" n="45"/>pro mutuo non ex pacto aliquid non teneatur ad restitutionem: quia non ma 
+       <lb ed="#B" n="46"/>gis tenetur restituere qui aliquid recipit ex vsura vltra fortem: quam teneturre- 
+       <lb ed="#B" n="47"/>signare ille qui aliquod beneficium obtinuit ex simonia mentali sine pacto. Sd  
+       <lb ed="#B" n="48"/>recipiens beneficium ex simonia mentali, si nullum interuenerit pactum: licet peccet, non tamen tene- 
+       <lb ed="#B" n="49"/>tur ad resignationem beneficii, vt dicitur extra de simonia. cap. vltimo, vbi dicitur. Quaenuillum 
+       <lb ed="#B" n="50"/>pacto: sed affectu animi procedente acquiruntur: relinquentibus sufficit per solam poeni- 
+       <lb ed="#B" n="51"/>tentiam suo satisfacere creatori. eosque pro simonia pro huiusmodi non teneri. ergo qui aliquid recipit 
+       <!--534.xml-->
+       <pb ed="#B" n="247-r"/>
+        <lb ed="#B" n="1"/>ex vsura mentali ex proposito, non tenetur ad restitutionem. talis est recipiens in casu proposito. 
+       <lb ed="#B" n="2"/>ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e352-d1e138">
+       CONTRA. ibi non est nisi quasi commutatio pecuniae pro pecunia, quae nullo mo 
+       <lb ed="#B" n="3"/>do est absque vsura, in qua necessario debet restitutio fieri. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-d1e352-d1e143">
+       AD hoc dicunt aliqui, quod iste s 
+       <lb ed="#B" n="4"/>etsi peccet ex cupiditate habendi illud quod est alterius, contra illud mandatum, Non concu- i 
+       <lb ed="#B" n="5"/>pisces rem proximi tui: tamen vsuram non committit: nec tenetur ad restitutionem: quia vt di-  
+       <lb ed="#B" n="6"/>cunt eo quod in huiusmodi mutuo non interuenit pactio, ille qui aliquid dat pro mutuo: etsi respi- 
+       <lb ed="#B" n="7"/>ciat ad mutuum: vt non dedisset si non praecessisset mutuum: non tamen debet aspicere ad mu- 
+       <lb ed="#B" n="8"/>tuum: sed ad beniuolentiam mutuantis: &amp; beneficentiam reddere pro beniuolentia: quod est 
+       <lb ed="#B" n="9"/>opus charitatis aut humanae societatis &amp; naturalis obligationis, qua quis gratus debet esse ei a 
+       <lb ed="#B" n="10"/>quo beneficium accepit. Vnde quia non est vsura nisi quia datum inquantum est vsurarium ha-  
+       <lb ed="#B" n="11"/>bet. procedere a dante habente &amp; debente habere aspectum ad mutuum: &amp; hoc non fit nisi ra- 
+       <lb ed="#B" n="12"/>tione pactionis: propter quam accipiens aliquid amplius pro mutuo obligatur danti: idcirco vbi 
+       <lb ed="#B" n="13"/>nulla est pactio sicut non est in casu proposito: nulla omnino potest esse vsura. Similiter nec com- 
+       <lb ed="#B" n="14"/>petit propter idem restitutio: quia enim non dat ex pactione illicita, libere dat. &amp; cum quis ali- 
+       <lb ed="#B" n="15"/>quid libere dat, transfertur omne ius quod habet in re, in alium: &amp; tali non competit repetitio, 
+       <lb ed="#B" n="16"/>nec per se, nec beneficio iudicis. quare nec illi qui recepit incumbit aliqua restitutio: quia vbi 
+       <lb ed="#B" n="17"/>nulia competit repetitio, nec restitutio. connexa enim sunt haec. 
+      </p>
+      <p xml:id="n3av8a-d1e352-d1e176">
+       SED hoc non potest stare: 
+       <lb ed="#B" n="18"/>quoniam deus in peccatis non tam inspicit factum quam animum: hoc est facientis intentionem: aspi- 
+       <lb ed="#B" n="19"/>ciendo scilicet quid pro quo faciat per intentionem: licet non explicet illud per sermonem: 
+       <lb ed="#B" n="20"/>ita quod neque factum extra, neque ipsius per sermonem explicatio, imponunt speciem peccato. im- 
+       <lb ed="#B" n="21"/>mo quando habet omne genus peccati perfectam rationem speciei suae in corde: prius quam pro- 
+       <lb ed="#B" n="22"/>rumpat in opere, aut sermone: quare similiter in peccato vsurae quod est perfectum secunduni 
+       <lb ed="#B" n="23"/>suarm speciem in mente, prius quam aliquid eius prorumpat in opere aut sermone. Ita quod si ex timore 
+       <lb ed="#B" n="24"/>aliquiuid subtrahatur, ne omnino perfecte prorumpat in opere, aut sermone: non propter hoc minus 
+       <lb ed="#B" n="25"/>perffectum esse habet in mente. 
+      </p>
+      <p xml:id="n3av8a-d1e352-d1e197">
+       DE isto igitur qui sic aliquid accipit: distinguo prius quam ad pro- 
+       <lb ed="#B" n="26"/>positum concludam. Aut enim dat mutuum non intendendo nec expectando aliquid accipere 
+       <lb ed="#B" n="27"/>pro ipso mutuo: sed pro beniuolentia: qua etiam aliis eisdem existentibus ex parte eius cui mutuat 
+       <lb ed="#B" n="28"/>idem mutuasset etiam si non expectasset aliquid se accepturum: aut forte si sciuisset illum nihil 
+       <lb ed="#B" n="29"/>ei esse collaturum. Ex aliqua tamen alia occasione quam ex vitio tenacitatis aut ingratitudinis si tali in-  
+       <lb ed="#B" n="30"/>tendebat: &amp; si pro beniuolentia &amp; curialitate sua quasi ex naturali obligatione aliquid se recepturum 
+       <lb ed="#B" n="31"/>sperat &amp; expectat, &amp; expectatum recipiat: reuera nuilum est peccatum omnino. &amp; ideo nec ad restitutio- 
+       <lb ed="#B" n="32"/>nem tenetur. Vnde &amp; tali modo occasione honesti seruitii licet clericum sperare &amp; expectare a do-  
+       <lb ed="#B" n="33"/>mino suo in aliqua re spirituali, aut in beneficio ecclesiastico prouisionem absque omni vitio simo- 
+       <lb ed="#B" n="34"/>niae aut cupiditatis. vt notatur. lix. distin. super illud capitulum, Hoc ad vos. Aut vero ille dat mu- 
+       <lb ed="#B" n="35"/>tuum intendendo &amp; expectando pro mutuo, &amp; ex ipso mutuo aliquid recipere: alias nullo modo mutu- 
+       <lb ed="#B" n="36"/>aturus nec beniuolentiam aliquam exhibiturus. lste reuera eandem corruptionem affectionis ha-  
+       <lb ed="#B" n="37"/>bet quam haberet si pactionem exprimeret. Paratus enim esset eam exprimere nisi timeret. sibi ex 
+       <lb ed="#B" n="38"/>hoc aliquid grauius imminere, et si posset per illud melius intentum implere. 
+      </p>
+      <p xml:id="n3av8a-d1e352-d1e228">
+       QVICquid ergo  
+       <lb ed="#B" n="39"/>peccati est in vsura ex pacto expresso aliquid accipere pro mutuo, est in actione istius. Est ergo  
+       <lb ed="#B" n="40"/>peccatum vsurae perfectum secundum suam speciem absque omni exteriori pactione in istius men- 
+       <lb ed="#B" n="41"/>te: &amp; hoc ex sola tali spe: iuxta illud quod dicitur de vitio simoniae, extra de simonia. Tua nos. 
+       <lb ed="#B" n="42"/>vbi papa postquam sententiauit quoddam factum non esse simoniacum: quia nulla interueniebat  
+       <lb ed="#B" n="43"/>pactio expressa: propter tamen corruptionem intentionis interioris latentis: quae forte potuit 
+       <lb ed="#B" n="44"/>adesse, subdit, dicens. Licet autem taliter duximus respondendum: quia nobis datum est de ma 
+       <lb ed="#B" n="45"/>nifestis tantummodo iudicare, si tamen is qui talem donationem facit, ea intentione ducatur, vt 
+       <lb ed="#B" n="46"/>per temporalia bona quae offert: spiritualia valeat adipisci: &amp; clerici qui eum in fratrem ad  
+       <lb ed="#B" n="47"/>mittunt: non essent eum nisi temporalia commoda perciperent, admissuri: sine dubio tam il- 
+       <lb ed="#B" n="48"/>le quam isti apud districtum iudicem qui scrutator est cordium &amp; cognitor secretorum culpabiles 
+       <lb ed="#B" n="49"/>iudicantur. Vbi dicit Glossa. Non dicit simoniaci. Vnde isti simoniaci non dicuntur quan-  
+       <lb ed="#B" n="50"/>tum ad ecclesiam: nisi velis dicere quod sola intentio facit hominem simoniacum. vbi addit Glos- 
+       <lb ed="#B" n="51"/>sa. Sola voluntas, siue affectus non facit aliquem simoniacum: licet aliter peccet. Et volunt 
+       <lb ed="#B" n="52"/>ex litera ista quidam dicere: quod licet isti peccant, non tamen sunt simoniaci: nec tenentur renun- 
+       <lb ed="#B" n="53"/>ciare beneficio quod obtinent per factum talis peccati: quod solum poenitentiam requirit 
+       <!--535.xml-->
+       <pb ed="#B" n="247-v"/>
+        <lb ed="#B" n="1"/>qua sit satisfactum soli creatori, &amp; non ecclesiae specialiter: vt in praedicta litera vltima extra de 
+       <lb ed="#B" n="2"/>simonia: sicut sit satisfactio ecclesiae pro peccato simoniae quae sit pacto: pro quo simoniaci debent 
+       <lb ed="#B" n="3"/>renunciare, vel etiam deponi, vel etiam alias poenas canonicas sustinere: sic in nostro casu etsi pec- 
+       <lb ed="#B" n="4"/>cet sumens aliquid pro mutuo, non tamen est vsura: nec tenetur ad restitutionem, vt dictum 
+       <lb ed="#B" n="5"/>est in ratione eorum proposita. Quod non valet. quia etsi non sit aliqua species simoniae quae sit 
+       <lb ed="#B" n="6"/>in sola spe, sine pacto: quod tamen non est verum: bene tamen in sola spe committitur vsura. secun- 
+       <lb ed="#B" n="7"/>dum quod continuo subdit glossa. Sed secus (inquit) videtur in vsura vbi sola spes inducere vsuram 
+       <lb ed="#B" n="8"/>videtur &amp;c. secundum quod probat pluribus concordantiis. Quia autem secus est in vsura: hoc con- 
+       <lb ed="#B" n="9"/>tingit quia est aliqua species simoniae ex solo ecclesiae statuto: non sic autem ex ecclesiae statuto ali 
+       <lb ed="#B" n="10"/>qua est species vsurae, vt iam dicemus amplius. Et propter idem est secus etiam in vsura &amp; simo 
+       <lb ed="#B" n="11"/>nia quo ad hoc quod in omni vsura debet fieri restitutio: non autem in omni simonia renunciatio, vt 
+       <lb ed="#B" n="12"/>iam patebit clare in respondendo argumentis ad quaestionem inductis. Quamquam ergo in casu nostro 
+       <lb ed="#B" n="13"/>non sit pactio, hoc non impedit quin sit vsura, secundum iam expositum modum. Nec valet ratio 
+       <lb ed="#B" n="14"/>supra pro eis inducta: quod in casu nostro proposito dans non respiciat ad mutuum: sed det ex me- 
+       <lb ed="#B" n="15"/>ra liberalitate: hoc enim non impedit quin accipiens in dando mutuum in spe &amp; expectatione  
+       <lb ed="#B" n="16"/>sua respexit ad mutuum. Cum tamen scriptum sit: Mutuum date: nihil inde sperantes. Non dixit 
+       <lb ed="#B" n="17"/>absolute sperantes: sed nihil inde sperantes: quia non vsquequaque illicitum est sperare: sed tantum inde:  
+       <lb ed="#B" n="18"/>id est propter mutuum principaliter sperare: non aliter mutuaturum, vt dictum est. Vnde siue danms 
+       <lb ed="#B" n="19"/>aspiciat ad mutuum siue non: hoc accidit peccato recipientis. Peccatum enim vnius nullo modo  
+       <lb ed="#B" n="20"/>dependet ex actione &amp; voluntate alterius. 
+      </p>
+      <p xml:id="n3av8a-d1e352-d1e311">
+       DICO ergo ad quaestionem quod talis qui accipit aliquid  
+       <lb ed="#B" n="21"/>pro mutuo absque pactione propter illud mutuando, quod vere vsurarius est: &amp; tenetur ad restitutio- 
+       <lb ed="#B" n="22"/>nem. Si enim est vsura, immo quia est, vt dictum est, ad restitutionem tenetur eo modo quo est 
+       <lb ed="#B" n="23"/>vsura. Quia si non teneretur ad restitutionem: nullo modo dicerem quod esset vsura. vnde quamquam ille vo- 
+       <lb ed="#B" n="24"/>luntarie dedit: iste tamen mutuo suo ipsum ad hoc fraudulenter inducere voluit. Et si forte ille ex 
+       <lb ed="#B" n="25"/>sola curialitate dedit: iste tamen ex sua intentione in culpa fuit: propter quam restituere debet ac- 
+       <lb ed="#B" n="26"/>ceptum. Vnde &amp; quantum erat ex intentione sua in mutuo quandam pactionem de aliquid plus 
+       <lb ed="#B" n="27"/>recipiendo quodammodo fecit. Potest ergo distingui quod duplex est pactio. Vna vera: quae est 
+       <lb ed="#B" n="28"/>in sermone vel signo expressa: Et alia interpretatiua: quae sit quantum est ex parte mutuan-  
+       <lb ed="#B" n="29"/>tis: per hoc quod mutuo suo intendit illum cui mutuat allicere: etiam si forte non alliciatur ad  
+       <lb ed="#B" n="30"/>hoc quod ei pro mutuo aliquid donet. Et illa intenta allectio est quasi quaedam pactio dolosa. &amp; sic 
+       <lb ed="#B" n="31"/>est de vsura: sicut est in rei veritate &amp; de simonia: quod quaedam est mentalis tantum: quando quis 
+       <lb ed="#B" n="32"/>per temporale factum absque alia pactione intendit allicere ad receptionem alicuius pure spi- 
+       <lb ed="#B" n="33"/>ritualis. Quia ergo arguitur in oppositum: quod in simonia mentali sine pacto non tenetur quis 
+       <lb ed="#B" n="34"/>ad resignationem: ergo nec in tali vsura mentali tenetur ad restitutionem: Dicendum ad hoc 
+       <lb ed="#B" n="35"/>quod aliter est de simonia, aliter vero de vsura. Est enim duplex species simoniae: cum tamen 
+       <lb ed="#B" n="36"/>non sit nisi vnica species vsurae: &amp; hoc praeter illas species quibus communiter vsuram &amp; simo- 
+       <lb ed="#B" n="37"/>niam distinguimus in mentalem &amp; non mentalem. Est enim duplex simonia. Quaedam quae est ex 
+       <lb ed="#B" n="38"/>natura rei: vt illa quae est circa ea quae sunt prohibita: quia in se ex absoluta natura rei sunt simo- 
+       <lb ed="#B" n="39"/>niaca, vt commutatio pure spiritualis, vt sunt dona spiritus sancti, siue in ordinibus, siue in aliis 
+       <lb ed="#B" n="40"/>sacramentis dandis &amp; recipiendis, siue in miraculis faciendis, aut aliis huiusmodi pro temporali: 
+       <lb ed="#B" n="41"/>qualem commisit Simon Magus voluntate &amp; muneris oblatione vt donum spiritus sancti in fa- 
+       <lb ed="#B" n="42"/>ciendis miraculis reciperet: licet cum effectum non obtinuit: nec inuenit in Apostolis vllum qui secum 
+       <lb ed="#B" n="43"/>commutaret. Sed inuenit Petrum eum repellentem &amp; dure corripientem: cum ei dixit in Act. Pe- 
+       <lb ed="#B" n="44"/>cunia tua tecum sit in perditionem. Qualem etiam commisit Giexi. iiii. Regum, qui pro dono  
+       <lb ed="#B" n="45"/>spiritus sancti: quod magister eius Heliseus communicauit Naaman: accepit mutatoria vestium. 
+       <lb ed="#B" n="46"/>Alia vero est simonia ex prohibitione ecclesiae, vt illa quae est circa ea quae sunt simoniaca non  
+       <lb ed="#B" n="47"/>ex natura rei: sed quia sunt prohibita ab ecclesia tanquam simoniaca sub interminatione consimilium 
+       <lb ed="#B" n="48"/>poenarum: vt est commutatio alicuius temporalis annexi spirituali: vt forte sunt lapides ecclesiae 
+       <lb ed="#B" n="49"/>aut alia bona eius corporalia pro alio omnino temporali. De isto modo simoniae loquitur dominus papa ex 
+       <lb ed="#B" n="50"/>tra de simonia. cap. vltimo. in quam inciderunt monachi qui aliquo temporali mutuo dato locum in  
+       <lb ed="#B" n="51"/>monasteriis sunt adepti: vt videlicet in aliquo stallo superiori ponerentur, vel aliquam administrationem an  
+       <lb ed="#B" n="52"/>nexam spiritualibus adipiscerentur. Vsura autem non sic dupliciter dicitur: quia nihil est vsurarium ex solo 
+       <lb ed="#B" n="53"/>statuto ecclesiae. Sed quicquid est vsurarium: &amp; pro vsurario tenetur ab ecclesia: hoc est vsurarium ex natura rei-. 
+       <!--536.xml-->
+       <pb ed="#B" n="248-r"/>
+        <lb ed="#B" n="1"/>Vnde multum errant quidam legistae: qui ignorantes naturam peccati vsurae: quia inueniunt 
+       <lb ed="#B" n="2"/>vsuras in legibus suis permissas, &amp; non prohibitas nisi indirecte: dicunt quod vsurae non sunt illicitae nisi 
+       <lb ed="#B" n="3"/>quia a canone vel ab ecclesia sunt prohibitae. Cum totaliter se res habeat modo contrario: scilicet 
+       <lb ed="#B" n="4"/>quod non sunt prohibitae nisi quia sunt illicitae. Puto tamen quod sicut eeclesia statuto suo fecit vnam spe 
+       <lb ed="#B" n="5"/>ciem simoniae prohibendo quarundam rerum venditionem: quas non esset illicitum neque simoniacum 
+       <lb ed="#B" n="6"/>vendere &amp; emere nisi ecclesia prohibuisset: sic ecclesia posset statuto suo facere vnam nouam spe 
+       <lb ed="#B" n="7"/>ciem vsurae prohibendo in aliqua commutatione accipere aliquid vltra fortem: quod non esset illi 
+       <lb ed="#B" n="8"/>citum neque vsurarium: nisi ecclesia prohiberet. Et cum, vt dictum est, duplex sit species simoniae:  
+       <lb ed="#B" n="9"/>sciendum quod vtraque distinguitur in spiritualem, quae sit sola mente sine exteriori pactione, &amp; non spi 
+       <lb ed="#B" n="10"/>ritualem siue corporalem: quae fit cum exteriori pactione: vt sic sint quatuor modi simoniae in dua  
+       <lb ed="#B" n="11"/>bus speciebus, &amp; sunt omnes in peccato mortali. Quorum duo sunt in vna specie simoniae, &amp; duo  
+       <lb ed="#B" n="12"/>in alia. Primus igitur &amp; maximus atque maioris criminis est in simonia ex pacto circa prohibita quia 
+       <lb ed="#B" n="13"/>simoniaca ex rei natura: qualem conmisit Simon Magus. Secundus est. in simonia spirituali siue men- 
+       <lb ed="#B" n="14"/>tali absque pacto exteriori in eadem specie simoniae: qualem commisit Giexi. Tertius est in simonia 
+       <lb ed="#B" n="15"/>ex pacto circa simoniaca quia prohibita ex statuto ecclesiae: qualem commiserunt illi de quibus dici- 
+       <lb ed="#B" n="16"/>tur extra de simonia cap. Consulere. Quicunque vicedominatum vel aliam ecclesiasticarum rerum admi 
+       <lb ed="#B" n="17"/>nistrationem per pecuniam obtinere voluerint, tam ementes: quam vendentes cum Simone percel- 
+       <lb ed="#B" n="18"/>luntur. Administrationes enim inquantum non habent aliquod spirituale annexum, emere non est 
+       <lb ed="#B" n="19"/>simoniacum nisi quia prohibitum. Vnde super illud capitulum. Saluator id est quid iii. dicit Glossator. Qua- 
+       <lb ed="#B" n="20"/>liter in illis officiis quae nihil spiritualitatis habent annexum, simonia committitur. Dicunt Hu. &amp; 
+       <lb ed="#B" n="21"/>Ber. quod in omni administratione ecclesiae rei committitur simonia si ematur: sicut notatur supra. c. 
+       <lb ed="#B" n="22"/>In principio. &amp; hoc est simoniacum, quia prohibitum: non ideo prohibitum quia fuit ante simoniacum. Cum vero 
+       <lb ed="#B" n="23"/>habent spirituale annexum, tunc vendere vel emere est simoniacum ex se secundum primam speciem. 
+       <lb ed="#B" n="24"/>et hoc ratione annexi spiritualis: quia vt dicit Paschalis papa in illo capitulo. Saluator. quisquis 
+       <lb ed="#B" n="25"/>eorum alterum vendiderit sine quo alterum non prouenit, neutrum non venditum derelinquit 
+       <lb ed="#B" n="26"/>Tunc autem habent administrationes necessario spirituale annexum: cum quis debet accipere eas 
+       <lb ed="#B" n="27"/>in suo primo ingressu: vt praeposituram in abbatia simul cum debet fieri primo monachus. Cum 
+       <lb ed="#B" n="28"/>vero accipit eam post ingressum: nihil habet spiritualis annexum. Et hoc quemadmodum contin 
+       <lb ed="#B" n="29"/>git de fructu praebendae: quod non licet ipsum emere in primo ingressu: cum primo quis sit canoni- 
+       <lb ed="#B" n="30"/>cus: quod bene licet postmodum, vt notaturi. i. quid iii. in principio. Quartus vero moduns in simonia 
+       <lb ed="#B" n="31"/>est sine pacto circa simoniaca quia prohibita. de quo loquitur decre, extra de simo. cap. vltimo. 
+      </p>
+      <p xml:id="n3av8a-d1e352-d1e457">
+       EST 
+       <lb ed="#B" n="32"/>igitur notandum: quod circa has species simoniae quaedam sunt poenae quae debentur ex natura ipsius 
+       <lb ed="#B" n="33"/>peccati: quaedam vero ex statuto ecclesiae: vt suspensio, interdictum, degradatio, &amp; huiusmodi: de 
+       <lb ed="#B" n="34"/>quibus nihil ad praesens. Ex natura peccati omni speciei simoniae debetur duplex poena. Vna prin 
+       <lb ed="#B" n="35"/>cipalis: quae est arbitraria: qua sit satisfactio deo. sicut &amp; debetur cuilibet alteri peccato. Alia ve- 
+       <lb ed="#B" n="36"/>ro annexa. &amp; hoc modo circa duos modos in prima specie simoniae ex natura peccati absque omni 
+       <lb ed="#B" n="37"/>statuto ecclesiae: sic quod esset peccatum etiam si ecclesia nihil circa hoc statueret: illis modis est poena 
+       <lb ed="#B" n="38"/>annexa ipsa resignatio eius quod obtentum est per simoniam talem. Et hoc de facto: quia nihil in ve 
+       <lb ed="#B" n="39"/>ritate recepit, vt cum obtinuerit ius praebendae vel monachatus. Vnde cum ille de quo loquitur 
+       <lb ed="#B" n="40"/>decre. Tua nos. in ingressu suo petiit admitti in canonicum: &amp; sibi concedi bona sua quae ecclesiae 
+       <lb ed="#B" n="41"/>voluit adiungere pro praebenda, simonia quae incidit in isto primo ingressu propter bonum spiri- 
+       <lb ed="#B" n="42"/>tuale canoniae, quod pertinet ad prohibita emere: quia simoniacum: necessario est simonia secundum pri 
+       <lb ed="#B" n="43"/>mam speciem eius. Et potest incidere dupliciter, vel pactione interueniente secundum primum modum  
+       <lb ed="#B" n="44"/>eius: in quo casu loquitur prima pars decretalis quae dicit. Siquis clericus cum conditione vel pa- 
+       <lb ed="#B" n="45"/>ctione largiatur aut offerat bona sua, vt illa postmodum pro praebenda retineat, &amp; in canonicum admittatur:  
+       <lb ed="#B" n="46"/>huiusmodi oblatio vel receptio fieri non poterit sine vitio simoniae: cum in talibus omnis pactio vel conventio 
+       <lb ed="#B" n="47"/>debeat cessare. Alio vero modo potest incidere sine pactione sed solum paruersa animorum affectione: secundum  
+       <lb ed="#B" n="48"/>modum primae speciei simoniae: in quo casu loquitur vltima pars decretalis dictae. Licet autem ta- 
+       <lb ed="#B" n="49"/>liter &amp;c. vt supra. Vnde si nulla omnino debeat esse simonia: oportet quod cesset pactio &amp; peruersa ani 
+       <lb ed="#B" n="50"/>mi intentio. in quo casu loquitur media pars decretalis. Si vero pure &amp; sine pacto &amp; conditione qui  
+       <lb ed="#B" n="51"/>libet offerat: rogans humiliter vt in canonicum admittatur, &amp; bona sua sibi retinere liceat pro prae- 
+       <lb ed="#B" n="52"/>benda: &amp; clerici eiusdem ecclesiae pure consentiant: huiusmodi receptio fieri potest absque scrupulo simo- 
+       <lb ed="#B" n="53"/>niacae prauitatis. Aduerte quod per hoc quod dicit pure: papa intelligit vtrimque affectionis rectitudinem 
+       <lb ed="#B" n="54"/>quae si deficiat circa factum: simonia realis est: &amp; oporteret resignare obtentum per eam. iuxta 
+       <!--537.xml-->
+       <pb ed="#B" n="248-v"/>
+        <lb ed="#B" n="1"/>illud quod notatur id staestione i. super capitulum Quicumque. vbi dicitur. Hodie sola poenitentia cum resignatio 
+       <lb ed="#B" n="2"/>ne acquisitorum sufficit cum simonia in anima vtriusque gerebatur. Et hoc est necesse in foro conscien- 
+       <lb ed="#B" n="3"/>tiae: licet in hoc modo simoniae nullus potest ad resignationem cogi: quia coram ecclesia super ea non 
+       <lb ed="#B" n="4"/>potest probatio haberi. Propter quid talis modus quo ad iudicium ecclesiae in foro contentioso simo 
+       <lb ed="#B" n="5"/>nia non reputatur: reputari autem debet quo ad iudicium ecclesiae in foro conscientiae. Vnde si intem 
+       <lb ed="#B" n="6"/>tio simoniaca circa tale factum posset probari, etiam si nulla pactio interueniret: vt simoniacus pu 
+       <lb ed="#B" n="7"/>niretur conmittens. vt i est estd ii. Reperiuntur. Vnde quod dicit Glos. super. decret. Tua nos, quod non sunt 
+       <lb ed="#B" n="8"/>simoniaci quantum ad ecclesiam, verum est in foro contentioso in quo non iudicatur simoniacus 
+       <lb ed="#B" n="9"/>quia non potest probari: sed alias bene iudicat esse peccatum si sit, &amp; licet sit occultum. Et secundum 
+       <lb ed="#B" n="10"/>hoc debemus dicere quod sola mente talis simonia committitur: propter quam in foro conscientiae de-  
+       <lb ed="#B" n="11"/>bet quis renunciare percepto. In duobus autem modis alterius speciei simoniae non est plus de ratio 
+       <lb ed="#B" n="12"/>ne peccati quam est de ratione prohibitionis. quia quod in eis est peccatum: hoc procedit ex prohibitione, &amp; 
+       <lb ed="#B" n="13"/>per consequens non debetur ei plus de ratione poenae quam habet ex prohibitione de ratione peccati. Est igitur scien 
+       <lb ed="#B" n="14"/>dum quod per ecclesiam aliquando aliquid prohibetur tantummodo ne fiat: &amp; tunc factum tenet: vt est 
+       <lb ed="#B" n="15"/>prohibitio ne matrimonium celebretur in temporibus ad hoc interdictis. Aliquando vero prohibet ne 
+       <lb ed="#B" n="16"/>possit fieri: &amp; sic nec factum tenet, vt est prohibitio ne feratur iudicialis sententia in die feriato. Pri 
+       <lb ed="#B" n="17"/>mo modo simonia mentalis tantum in secunda specie simoniae est peccatum ex prohibitione. Et ideo non  
+       <lb ed="#B" n="18"/>oportet in ea nisi satisfacere deo per poenitentiam, &amp; non oportet renunciare. Secundo modo peccatum 
+       <lb ed="#B" n="19"/>ex prohibitione est simonia non mentalis in secunda specie: &amp; ideo factum per cam non tenet, &amp; opor 
+       <lb ed="#B" n="20"/>tet renunciare percepto: cum hoc quod oportet agere poenitentiam deo. Dicendum ergo ad argumen 
+       <lb ed="#B" n="21"/>tum quod licet in simonia mentali quae est peccatum ex sola prohibitione ecclesiae, non oportet resigna- 
+       <lb ed="#B" n="22"/>re: tamen ex illa simonia mentali quae est peccatum ex natura facti: in illa oportet resignare quae per 
+       <lb ed="#B" n="23"/>solam simoniam mentalem acceperat. Nunc autem vsura etiam mentalis quia comparatur simo- 
+       <lb ed="#B" n="24"/>niae mentali quae est simonia ex natura rei: eo quod non est aliquis modus vsurae ex prohibitione sicut 
+       <lb ed="#B" n="25"/>est modus simoniae, vt patet ex praedictis: idcirco in omni vsura mentali etiam oportet restituere re 
+       <lb ed="#B" n="26"/>ceptum: licet non in omni simonia renunciare. nec restat in aliquo quod dans pro mutuo dat gratis:  
+       <lb ed="#B" n="27"/>sicut nihil restabat ad simoniam Giezi quod gratis dedit Naaman vestimenta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

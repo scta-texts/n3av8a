@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="305-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3163">
+       <head xml:id="n3av8a-c1e3163-Hd1e96">Quaestio 5</head>
+       <p xml:id="n3av8a-c1e3163-d1e99">
+        <lb ed="#B" n="23"/>CIrca quintum arguitur: quod duobus aequaliter se habentibus ad receptionem gratiae: non e 
+       <lb ed="#B" n="24"/>semper deus aequaliter confert eam, quia inaequaliter dando plus declarat suam potentiam 
+       <lb ed="#B" n="25"/>&amp; suam misericordiam: secundum illud <ref xml:id="n3av8a-c1e3163-Rd1e107">Roma. ix.</ref> 
+       <quote xml:id="n3av8a-c1e3163-Qd1e110" source="http://scta.info/resource/rom9_22">Volens deus notam facere potentiam 
+       <lb ed="#B" n="26"/>suam</quote> &amp;c. Sic autem debet gratiam suam distribuere quo magis sua potentia &amp; sua mi- 
+       <lb ed="#B" n="27"/>sericordia declarentur. ergo &amp;c. Quid etiam patet in exemplo de sanctificatis in vte 
+       <lb ed="#B" n="28"/>ro: &amp; de duobus paruulis, quorum vnus perducitur ad baptismum: alter vero non: &amp; 
+       <lb ed="#B" n="29"/>de adulto Paulo: qui in actu recalcitrandi gratiam iustificantem accepit, quod nulli con 
+       <lb ed="#B" n="30"/>similiter legitur fuisse factum. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e125">
+       CONtra. tunc videretur esse acceptor personarum. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e128">
+       AD hoc dicunt aliqui  
+       <lb ed="#B" n="31"/>quod deus quicquid operatur circa creaturas, ex mera liberalitate &amp; solo beneplacito suae voluntatis. i 
+       <lb ed="#B" n="32"/>operatur: &amp; faciendo quod facit: &amp; non faciendo quod non facit: &amp; faciendo modo quo facit: &amp; non faciendo modo  
+       <lb ed="#B" n="33"/>quo non facit: vt super hoc non sit aliqua alia ratio vel causa petenda vel inuestigandae. scilicet aut merita 
+       <lb ed="#B" n="34"/>praeterita praesentia vel futura: aut dispositio vlla ex parte recipientium. Quod confirmant per illud quod  
+       <lb ed="#B" n="35"/>dicit apostolus <ref xml:id="n3av8a-c1e3163-Rd1e141">Roma. ix.</ref> de <name>Iacob</name> &amp; <name>Esau</name>. <quote xml:id="n3av8a-c1e3163-Qd1e150" source="http://scta.info/resource/rom9_11 http://scta.info/resource/rom9_12">Cum nondum nati essent aut aliquid egissent boni aut ma 
+       <lb ed="#B" n="36"/>li: vt secundum electionem propositum dei maneret: non ex operibus sed ex vocante dictum est: 
+       <lb ed="#B" n="37"/>quia maior seruiet minori</quote>. <quote xml:id="n3av8a-c1e3163-Qd1e157" source="http://scta.info/resource/rom9_11" type="lemma">Cum nondum nati essent</quote>. ecce amouetur dispositio recipientium: quae etiam 
+       <lb ed="#B" n="38"/>in praescientia dei aequalis potuit fuisse. Aut aliquid egissent boni aut mali. Ecce amouetur opus non so 
+       <lb ed="#B" n="39"/>lum in re praesens: aut praeteritum: sed etiam futurum in praedestinatione. Vnde glossa. Sicut non pro 
+       <lb ed="#B" n="40"/>meritis praecedentibus, ita nec pro futuris: quia bona vel mala non erant futura nisi apposita gra 
+       <lb ed="#B" n="41"/>tia vel subtracta. Et sic manet sola secundum propositum gratuita electio: quae est sola causa &amp; sus 
+       <lb ed="#B" n="42"/>ficiens etiam omnibus aliis aequalibus. Vnde vt amoueretur suspicio non potentibus videre di-  
+       <lb ed="#B" n="43"/>uinae electionis bonitatem, subdit apostolus. Nunquid iniquitas est apud deum: absit. Quia secundum 
+       <lb ed="#B" n="44"/>glos. Iacob per misericordiam elegit: Esau per iustitiam reprobauit. Quid etiam apostolus declarat  
+       <lb ed="#B" n="45"/>subdens. Aut non habet potestatem figulus ex eadem massa &amp;c. Vnde sicut sola voluntas figuli ra 
+       <lb ed="#B" n="46"/>tio est quare de hac parte massae facit vas honorabile: de illa vas contumeliae: nulla discrepantia 
+       <lb ed="#B" n="47"/>existente in tota massa: quemadmodum neque est in prima materia cum agens vestit eam in vno for- 
+       <lb ed="#B" n="48"/>ma nobiliori: in alio vero minus nobili: sic sola voluntas beneplaciti dei est ratio quare de eadem 
+       <lb ed="#B" n="49"/>massa aequaliter vitiata in primo parente istum eligit ad gloriam: illum vero dimittit in condemna 
+       <lb ed="#B" n="50"/>tionem: vel etiam si non fuisset massa vitiata: sed omnes homines nascerentur secundum statum in  
+       <lb ed="#B" n="51"/>nocentiae: &amp; essent aequales omnino in naturalibus dispositionibus: vnum siue de massa vitiata, si 
+       <lb ed="#B" n="52"/>ue de non vitiata non nisi gratuito eligeret: alterum vero dimitteret: vtrobique tam electo de massa vi 
+       <lb ed="#B" n="53"/>tiata quam non vitiata faciendo gratiam illi quem eligeret: sed maiorem electo ex massa vitiata: &amp; illi iusti 
+       <lb ed="#B" n="54"/>tiam quem ex massa damnata non eligeret: non autem iniustitiam: sicut neque iniustitiam illi quem secun 
+       <!--651.xml-->
+       <pb ed="#B" n="305-v"/>
+        <lb ed="#B" n="1"/>dum statum innocentiae existentem non eligeret. Ecce positio catholica cum fundamento &amp; ratio 
+       <lb ed="#B" n="2"/>ne sua. Sed cum deus quaecunque agit circa creaturas nulla naturali necessitate: sed per intelle- 
+       <lb ed="#B" n="3"/>ctum &amp; determinationem voluntatis vt habitum est in praecedentibus quaestionibus: necessario 
+       <lb ed="#B" n="4"/>agit intentione finis: quem sibi praestituit in actione: aliter enim esset actio vana &amp; temeraria: Finis au-  
+       <lb ed="#B" n="5"/>tem non est nisi ipse, est enim alpha &amp; o. Apocalyp. primo &amp; vltimo: propter hoc dicitur illud Pro 
+       <lb ed="#B" n="6"/>uerbio. xvi. Vniuersa propter semet ipsum operatus est dominus. Vnde quia finis est principalis cau 
+       <lb ed="#B" n="7"/>sa in agibilibus quae mouet agentem: &amp; ille materiam ad formam: vt per formam ordinetur in finem 
+       <lb ed="#B" n="8"/>causa igitur omnium diuinarum actionum prima ipse assignandus est: inquantum est omnium finis:  
+       <lb ed="#B" n="9"/>&amp; hoc secundum rationem suae bonitatis. Vnde quia bonus est, omne quod est, est id quod est. Vnde quia cau 
+       <lb ed="#B" n="10"/>sa in agibilibus non quaeritur de fine: quia non habet causam: sed de eis quae sunt ad finem: Sciendum 
+       <lb ed="#B" n="11"/>quod ad finem aliquem possunt aliqua ordinari dupliciter: &amp; per se &amp; essentialiter: &amp; per accidens siue 
+       <lb ed="#B" n="12"/>accidentaliter. In iis quae per se &amp; essentialiter ordinantur ad finem: non est causa quaerenda nisi ip 
+       <lb ed="#B" n="13"/>sorum natura qua naturaliter ordinantur in finem, non per propositum &amp; electionem, quemadmodum  
+       <lb ed="#B" n="14"/>in domo ad finem eius quae est pax &amp; tranquillitas cohabitationis, per se &amp; essentialiter ordinantur 
+       <lb ed="#B" n="15"/>paterfamilias &amp; liberi. Per hunc modum deus &amp; omnes diuinae personae ad fruendum bono dei-  
+       <lb ed="#B" n="16"/>tatis quod ipsi sunt, ordinantur quasi in domo Hierarchiae supercaelestis. In iis autem quae per accidens si 
+       <lb ed="#B" n="17"/>ue accidentaliter ordinantur ad finem, nullam causam essentialem aut naturalem est assignare ex 
+       <lb ed="#B" n="18"/>parte illorum neque ex parte seruorum in domo. Et sic ad finem ad quem deus ordinatur essentiali- 
+       <lb ed="#B" n="19"/>ter, rationalis siue intellectualis creatura ordinatur accidentaliter. Sed quia agens per intellectum &amp; 
+       <lb ed="#B" n="20"/>propositum nihil agit sine ratione per se: &amp; non solum per accidens: quia omnem rationem per ac- 
+       <lb ed="#B" n="21"/>cidens reduci oportet ad illam quae est per se: aliter enim actio sua vt prius vana esset, &amp; temeraria 
+       <lb ed="#B" n="22"/>rationem ergo per se &amp; essentialem quaerere non est nisi suam voluntatem, vt prius secundum po- 
+       <lb ed="#B" n="23"/>sitionem. accidentalem oportet quaerere solummodo ex parte rerum. Et ideo ponere oportet secun- 
+       <lb ed="#B" n="24"/>dum viam rectae rationis quod eorum quaecunque deus agit circa creaturas, &amp; quo ad naturalia &amp; super  
+       <lb ed="#B" n="25"/>naturalia earum, causa siue ratio per se non est nisi propositum voluntatis suae qua congruit sin- 
+       <lb ed="#B" n="26"/>gula fieri secundum quod vult: quia quae vult fieri congruit fieri: &amp; quia vult: &amp; quae non vult fieri non 
+       <lb ed="#B" n="27"/>congruit fieri: &amp; quia non vult. Congruentia dico ex parte sua seu decentia. Et per hunc modum de 
+       <lb ed="#B" n="28"/>centiae quantum est ex parte sua agit singula prout decent bonitatem suam: quae est finis: qua iustum  
+       <lb ed="#B" n="29"/>est agere quod placuit ei agere circa creaturas: &amp; quae decent illam bonitatem. Et quo ad hoc bene pro  
+       <lb ed="#B" n="30"/>cedit positio catholica praeexposita: quod neque propter dispositionem recipientium, neque propter vlla me 
+       <lb ed="#B" n="31"/>rita sit diuina electio: sed secundum solum propositum dei manet. cuius non est ratio nisi condecentia 
+       <lb ed="#B" n="32"/>bonitatis, vt dictum est. Attamen quia propositum secundum decentiam finis agere non potest cir 
+       <lb ed="#B" n="33"/>ca ea quae sunt ad finem nisi illa deceant finem: &amp; similiter quae circa illa agit siue ab aeterno in electio 
+       <lb ed="#B" n="34"/>ne, siue ex tempore in gratiae &amp; gloriae collatione: hoc enim requirit finis decentia: quia sine illis ad  
+       <lb ed="#B" n="35"/>finem decenter ordinari non possunt: tamen nuilum ponit debitum ex parte dei secundum dicta 
+       <lb ed="#B" n="36"/>in prima quaestione: praeter ergo rationem illam per se ex parte finis &amp; agentis necessario ad actionem 
+       <lb ed="#B" n="37"/>circa illa quae sunt ad finem in ordinando illa ad finem: adhuc requiritur ratio quae est decentia 
+       <lb ed="#B" n="38"/>in eis quae sunt ad finem: qua fini congruunt. quae etsi non sit ratio propter quam sic est: est tamen ratio 
+       <lb ed="#B" n="39"/>necessaria sine qua non: etsi consistit in ipsa iustitia ex parte eius circa quod agitur, quare sic agendum 
+       <lb ed="#B" n="40"/>sit &amp; non aliter. Cum enim actio duplicem habeat respectum: vnum quo egreditur ab agente: alterum  
+       <lb ed="#B" n="41"/>quo recipitur in passo: etsi ratio diuinarum actionum circa creaturas secundum primum respectum 
+       <lb ed="#B" n="42"/>non sit nisi condecentia bonitatis dei: ratio tamen eius cum hoc quo ad secundum respectum be- 
+       <lb ed="#B" n="43"/>ne potest esse condecentia aliqua in eis circa quae recipitur actio: in qua consistit abyssus multa iu-  
+       <lb ed="#B" n="44"/>diciorum dei. Quia etsi in summa &amp; in generali possumus dicere quod deus nihil facit circa creaturam 
+       <lb ed="#B" n="45"/>cuius non sit ratio non solum ex parte sui in faciendo propter quam sit: sed etiam ex parte rerum in re 
+       <lb ed="#B" n="46"/>cipiendo sine qua non: in speciali tamen circa res determinatas &amp; in factis determinatis non semper est hominis il 
+       <lb ed="#B" n="47"/>lam determinate inuestigare: quamuis non desit &amp; multiplex esse possit. Vnde contra temerarios inuesti 
+       <lb ed="#B" n="48"/>gatores iudiciorum dei quo ad certas rationes circa operata &amp; circa eos in quibus operantur: dicit 
+       <lb ed="#B" n="49"/>Apostolus exclamando. Q homo tu quis es qui respondeas deo: Vbi dicit glossa. Hoc non facit ex inopia 
+       <lb ed="#B" n="50"/>reddendae rationis: sed hominem ad suae capacitatis considerationem reuocat. O homo, q. d. te &amp; il 
+       <lb ed="#B" n="51"/>lum attende: tu es homo: ille deus: cuius valentiae es: qui respondeas deo, id est intelligas quae deus fa- 
+       <lb ed="#B" n="52"/>cit, id est cur huius miseretur: &amp; te induret: quasi si tibi diceretur, nescires respondere, id est intelli- 
+       <lb ed="#B" n="53"/>gere pro carnalitate tua: nec te ad hoc iuuat sapientia tua: nec aliqua virtus tua. Quod exponens Ori 
+       <!--652.xml-->
+       <pb ed="#B" n="306-r"/>
+        <lb ed="#B" n="1"/>ge. in quadam Homil. super Exo. dicit sic. Qhomo tuquis ess Per quod de eo qui a deo dicitur indu-  
+       <lb ed="#B" n="2"/>ratus: non tam quaestionis absolutione quam apostolica auctoritate respondet: credo non iudicans di  
+       <lb ed="#B" n="3"/>gnum pro capacitate auditorum chartis &amp; atramento huiuscemodi absolutionis secreta commit 
+       <lb ed="#B" n="4"/>tere. Vnde &amp; in sequentibus qui non tam studiorum merito quam sciendi cupiditate secretioribus se 
+       <lb ed="#B" n="5"/>quaestionibus immergit, magnifici seueritate doctoris deterret: cum dicit. Otu, es homo qui respon  
+       <lb ed="#B" n="6"/>deas deo: Vnde hoc nobis obseruasse tantum &amp; inspexisse sufficiat: atque ostendisse auditoribus quanta sunt 
+       <lb ed="#B" n="7"/>in lege diuina profundis dimersa mysteriis: pro quibus dicere in oratione debemus. De profundis 
+       <lb ed="#B" n="8"/>clamaui ad te domine. Hinc etiam dicit Augustinus. lxxxiii, quaestionum, quaestione. lxviii. Cum vi 
+       <lb ed="#B" n="9"/>deatur Apostolus corripuisse curiosos dicendo: Qhomo tu quis es: ne dicant apostolum in soluen 
+       <lb ed="#B" n="10"/>da quaestione defecisse: &amp; obiurgasse quaerentes quia non poterat quod quaerebatur exponere. Et 
+       <lb ed="#B" n="11"/>infra. Respondeamus firmissime: Qhomo tu quis es: nec eos reueriti sanctum canibus demus:  
+       <lb ed="#B" n="12"/>aut proiiciamus margaritas nostras ante porcos: &amp; de meritis animarum reuelante spiritu sancto 
+       <lb ed="#B" n="13"/>sublime aliquid &amp; a vulgari coniectura remotissimum vel ex partem atque in aenigmate suspicemur. 
+       <lb ed="#B" n="14"/>Non enim hoc loco apostolus sanctos prohibuit a quaerendo: sed eos qui nondum sunt in charita 
+       <lb ed="#B" n="15"/>te radicati. &amp; infra. Sed peruenies ad virum perfectum: vt sis inter illos de quibus dicitur: Sapientiam 
+       <lb ed="#B" n="16"/>loquimur inter perfectos. tunc recte &amp; non praepostere audies siqua sunt de animarum occultis 
+       <lb ed="#B" n="17"/>meritis &amp; de gratia vel iustitia secreta omnipotentis dei. &amp; infra in fine quaestionis. Nec comprehen- 
+       <lb ed="#B" n="18"/>di potest nisi forte ab iis qui diligunt deum suum ex toto corde suo. Illud tamen &amp; caetera, vt in-  
+       <lb ed="#B" n="19"/>fra dicetur. Quia ergo dicit Apostolus: Qhomo tu quis es: non dicit ex inopia reddendae rationis de 
+       <lb ed="#B" n="20"/>praedictis saltem in generali. In speciali autem magna inopia reddendae rationis ipsemet laborauit 
+       <lb ed="#B" n="21"/>cum dixit <ref xml:id="n3av8a-c1e3163-Rd1e366">Roma. xi.</ref> 
+       <quote xml:id="n3av8a-c1e3163-Qd1e369" source="http://scta.info/resource/rom11_33">O altitudo diuitiarum sapientiae &amp; scientiae dei, quam incomprehensibilia sunt 
+       <lb ed="#B" n="22"/>iudicia eius &amp; inuestigabiles viae eius</quote>. vbi dicit <ref xml:id="n3av8a-c1e3163-Rd1e375">Glos. <name>Augustinus</name>
+       </ref>. Praemiserat sententiam mirae profundi 
+       <lb ed="#B" n="23"/>tatis: scilicet quod deus conclusit omnia in incredulitate vt omnium misereatur. Cuius profunditatis 
+       <lb ed="#B" n="24"/>velut horrore percussus &amp; velut abyssi altitudinem expauescens Apostolus clamat. <quote xml:id="n3av8a-c1e3163-Qd1e385" source="http://scta.info/resource/rom11_33">O altitudo</quote> 
+       <lb ed="#B" n="25"/>&amp;c. Valde enim paruum sensum habemus ad discutiendam iustitiam iudiciorum dei: ad discu- 
+       <lb ed="#B" n="26"/>tiendam gratiam gratuitam nullis meritis praecedentibus redditam. Nec enim tam mouet nos quod gratia prae 
+       <lb ed="#B" n="27"/>statur indignis, quam quod aeque indignis aliis denegatur. Scio quod sicut impossibilitas ita iniquitas non est apud deum:  
+       <lb ed="#B" n="28"/>&amp; scio quod superbis resistit &amp; humilibus dat gratiam. Illud vero obscurum est: quaere quibusdam dignis dat: quibus 
+       <lb ed="#B" n="29"/>dam negat. Aliquid ergo est in abdito profundorum iudiciorum dei. Similiter nec illud perspicuum est 
+       <lb ed="#B" n="30"/>quare hoc modo saluat iudaeos ac gentes vt prius permitteret eos concludi in infidelitate. Siquis 
+       <lb ed="#B" n="31"/>ergo quaerat quare sic saluantur: cum multi alii modi saluationum sint: se nescire per admira- 
+       <lb ed="#B" n="32"/>tionem innuit Apostolus: &amp; quare sic factum sit, non posse comprehendi. &amp; infra. Omnium enim 
+       <lb ed="#B" n="33"/>humanarum diuinarumque rerum sublimis &amp; profunda est cognitio apud deum: qui solus sicut 
+       <lb ed="#B" n="34"/>sunt omnia intuetur: ad cuius notitiam omnis sensus noster retunditur. Vnde quid dicit Apostolus. 
+       <lb ed="#B" n="35"/>Cum nondum essent nati &amp; caetera, non dixit quia nulla omnino ratio fuit deo ex parte eorum in hoc 
+       <lb ed="#B" n="36"/>sed quia non merita praecedentia neque facta ex gratia: neque facta ex puro libero arbitrio etiam in prae 
+       <lb ed="#B" n="37"/>scientia existentia: &amp; hoc specialiter respectu operationis aeternae in diuina electione vel reproba- 
+       <lb ed="#B" n="38"/>tione ex parte dei. Vnde super illud <ref xml:id="n3av8a-c1e3163-Rd1e419">Roma. xi.</ref> 
+       <quote xml:id="n3av8a-c1e3163-Qd1e422" source="http://scta.info/resource/rom11_35">Quis prior dedit illi: &amp; retribuetur ei</quote>. Glos. Etsi iudi 
+       <lb ed="#B" n="39"/>cia dei non possumus scire: saltem hoc constat quod sola gratia bona dat non ex praecedenti merito 
+       <lb ed="#B" n="40"/>vel vt existit in diuina praeuisione. Vnde super illud. Igitur non volentis neque currentis: sed mi- 
+       <lb ed="#B" n="41"/>serentis est dei. Glos. Id est non libero arbitrio hominis volentis vel operantis est ipsa bona voluntas 
+       <lb ed="#B" n="42"/>vel operatio: sed misericordia dei: qui per gratiam appositam facit nos velle &amp; currere. Hic dicit 
+       <lb ed="#B" n="43"/>Augustinus. Non propter futura quae praeuidit elegit: vbi ergo sunt merita: vbi opera vel praeterita vel fu- 
+       <lb ed="#B" n="44"/>tura: tanquam liberi arbitrii viribus adimpleta vel adimplenda: Non igitur misertus est deus quia la 
+       <lb ed="#B" n="45"/>cob voluit &amp; cucurrit: sed ideo voluit &amp; cucurrit: quia misertus est deus. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e441">
+       EST tamen hic in-  
+       <lb ed="#B" n="46"/>telligendum: quod in volente &amp; currente est tria considerare: &amp; ipsum actum cursus &amp; volentis:  
+       <lb ed="#B" n="47"/>&amp; ipsam gratiam qua liberum arbitrium fit validum ad efficaciter volendum &amp; currendum: &amp; ip 
+       <lb ed="#B" n="48"/>sam potentiam liberi arbitrii. Et bene verum est quod actus siue operatio ab vtroque est: scilicet a gra- 
+       <lb ed="#B" n="49"/>tia &amp; a libero arbitrio simul: ita quod a neutro esset per se: &amp; quod plus est a gratia quam a libero arbitrio:  
+       <lb ed="#B" n="50"/>quia plus virium agendi dat gratia liberi arbitrii quam habeat ex se &amp; suis naturalibus. Aliquid ta 
+       <lb ed="#B" n="51"/>men agit in opere ex suis naturalibus: licet non nisi cum gratia: vt licet ex se &amp; naturalibus suis 
+       <!--653.xml-->
+       <pb ed="#B" n="306-v"/>
+        <lb ed="#B" n="1"/>non operetur, ex eis tamen cooperatur. Et sic tam ratione gratiae omnino quam ratione operis princi 
+       <lb ed="#B" n="2"/>paliter: bene verum est quod non est volentis neque currentis sed miserentis dei. Ratione tamen liberi 
+       <lb ed="#B" n="3"/>arbitrii in cooperando aliquo modo est volentis &amp; currentis: vt saltem hoc vt est existens in praescien 
+       <lb ed="#B" n="4"/>tia dei sit ratio electionis aeternae respectu electi: &amp; ita praedestinationis: quia quodammodo non in  
+       <lb ed="#B" n="5"/>cluditur sub praedestinatione neque sub eius effectum: licet non sit fine eius effectu: nec sit distinctum 
+       <lb ed="#B" n="6"/>quod est praedestinationis, ab eo quod est liberi arbitrii. Vnde dicit Glos. Congrue ait. Non est volen- 
+       <lb ed="#B" n="7"/>tis &amp; caetera. Non quia hoc sine voluntate nostra agatur: sed quia voluntas nostra nihil boni agit nisi 
+       <lb ed="#B" n="8"/>diuinitus adiuuetur. Vnde quod Apostolus ait. Non ego autem, sed gratia dei mecum. Non ideo  
+       <lb ed="#B" n="9"/>hoc ait quia nihil boni agebat: sed quia nihil ageret si illa non adiuuaret. Igitur &amp; hic dicit. 
+       <lb ed="#B" n="10"/>Non est volentis: non quia nulla est homini voluntas atque cursus: sed quia nihil potest nisi ille mi- 
+       <lb ed="#B" n="11"/>sereatur. Deus enim est qui operatur in nobis velle &amp; operari bonum. Vt licet non sufficit sola 
+       <lb ed="#B" n="12"/>voluntas hominis si non sit etiam misericordia dei: &amp; econtra non fufficit misericordia si non sit 
+       <lb ed="#B" n="13"/>voluntas hominis: non recte tamen dicitur. Non miserentis est dei: sed volentis est hominis. Recte 
+       <lb ed="#B" n="14"/>autem dicitur non est volentis hominis: sed miserentis dei: vt totum deo detur qui hominis vo- 
+       <lb ed="#B" n="15"/>luntatem bonam &amp; praeparat adiuuandam: &amp; adiuuat praeparatam. Volentem enim praeuenit vt 
+       <lb ed="#B" n="16"/>velit: volentem subsequitur vt perfecte velit. Aliquid tamen in coagendo agit liberum arbitrium  
+       <lb ed="#B" n="17"/>dicente <name ref="#Augustine">Augustinus</name> super illud Psalmi. lxxviii. Adiuua nos deus salutaris noster. Cum adiuuari nos 
+       <lb ed="#B" n="18"/>vult: nec ingratus est gratiae: nec tollit liberum arbitrium: qui enim adiuuat per seipsum aliquid  
+       <lb ed="#B" n="19"/>operatur. Sic ergo in agendo circa ea quae sunt ad finem nullum est inconueniens quod sit ratio agendi ex 
+       <lb ed="#B" n="20"/>parte illorum. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e508">
+       SED est sciendum quod in agentibus ad finem per intellectum &amp; voluntatem du-  
+       <lb ed="#B" n="21"/>pliciter potest agere siue duplici intentione circa ea quae sunt ad finem. Vno modo vt per illa quo  
+       <lb ed="#B" n="22"/>quo modo sibi acquirat finem. Alio modo vt solum acquirat illis. Primo modo agens agit circa 
+       <lb ed="#B" n="23"/>ea quae sunt ad finem propter suam indigentiam &amp; imperfectionem: quemadmodum paterfami- 
+       <lb ed="#B" n="24"/>lias agit circa seruos vt sibi &amp; eis acquirat bonum pacis in domo. &amp; tale agens mouetur in agen 
+       <lb ed="#B" n="25"/>do ex ratione agendi ex parte eorum circa quae agit: vt non sit solum ratio actus ex respectu ad  
+       <lb ed="#B" n="26"/>recipiens sed etiam ex respectu ad agens. Et sic deus nihil agit circa creaturas: secundum quod dicit 
+       <lb ed="#B" n="27"/>ei Psalmista. Bonorum meorum non eges. Nec mouetur ad agendum ex aliqua ratione congruen 
+       <lb ed="#B" n="28"/>tiae vel decentiae ex parte eorum circa quae agit: nec amore afficitur circa ea: nisi quasi accidenta 
+       <lb ed="#B" n="29"/>liter. dicente Auicen. viii. Metaphysicae. Est sciens qualiter est ordo bonitatis in esse qui est ex eo: &amp; 
+       <lb ed="#B" n="30"/>quoniam ipse diligit seipsum qui est principium totius ordinis &amp; bonitatis quantum ipse est. 
+       <lb ed="#B" n="31"/>Sic fit ideo quod ordo bonitatis est dilectus ab eo accidentaliter sed non mouetur ad eum dilectio- 
+       <lb ed="#B" n="32"/>ne. ipsum enim non patitur ab eo nec concupiscit aliquid nec inquirit. Haec igitur est voluntas 
+       <lb ed="#B" n="33"/>eius quae est expers imperfectionis &amp; immunis a desiderio. &amp; infra. Scilicet quod non certificatur per 
+       <lb ed="#B" n="34"/>intentionem fluendi esse ab ea: vt sit aliud ab ipso fluere &amp; est ipsa liberalitas. &amp; infra. Cum ve- 
+       <lb ed="#B" n="35"/>ro dicitur liberalis: intelligitur quia ipse non intendit sibiipsi. Et quamuis deus non mouetur ex aliqua  
+       <lb ed="#B" n="36"/>congruentia ex parte rerum ad agendum vt sit ratio eliciendi ab ipso propter quam sit: nuilum ta- 
+       <lb ed="#B" n="37"/>men est inconveniens quod sit aliqua ratio eius quod agit circa alia in recipiendo aliquid ab eo in illis sine 
+       <lb ed="#B" n="38"/>qua in illis non fluit quantum est de potentia ordinata: quae semper agit secundum congruen- 
+       <lb ed="#B" n="39"/>tiam. dicente Auicen. ibidem. Ab ista scientia fluit secundum ordinem quem intelligit: scilicet or 
+       <lb ed="#B" n="40"/>dinem rectum: licet de potentia absoluta posset idem agere absque omni tali congruentia. &amp; est il- 
+       <lb ed="#B" n="41"/>la congruentia iustitia quaedam qua deus confert vni ita quod non alteri: quod est iustitia congrui alia 
+       <lb ed="#B" n="42"/>a iustitia dei qua ipse iustus est in se: quae est decentia suae bonitatis qua elicitiue agit bonitatem 
+       <lb ed="#B" n="43"/>suam communicando. Et quod talis ratio iustitiae ponatur in operibus misericordiae: quae tamen non 
+       <lb ed="#B" n="44"/>mouet dantem: sed sine qua non dat: non sit inconueniens: patet ex eis quae fiunt circa opera condenna-  
+       <lb ed="#B" n="45"/>tionis. quod enim condemnat aut obdurat ad hoc non mouetur nisi iustitia sua quae ipse est quan-  
+       <lb ed="#B" n="46"/>tum est ex parte sua. Propter nihil enim in creaturis mouetur ad agendum: quia tunc passiuus 
+       <lb ed="#B" n="47"/>esset. Quantum vero ex parte condemnati aut obdurati hoc non facit sine ratione quae est iusti 
+       <lb ed="#B" n="48"/>tia quaedam ex parte illius: quae non solum est ratio vt effectus recipitur in subiecto sine qua non: si- 
+       <lb ed="#B" n="49"/>cut est in operibus misericordiae: sed propter quid sic. &amp; hoc est quod dicit Glos. super illud: Ergo cuius 
+       <lb ed="#B" n="50"/>vult miseretur &amp; quem vult indurat. Si quaerimus meritum obdurationis &amp; miae, obdurationis meritum inueni 
+       <lb ed="#B" n="51"/>mus, misericordiae vero meritum non inuenimus. &amp; infra. Constat itaque quia nullus liberatur nisi gratui- 
+       <!--654.xml-->
+       <pb ed="#B" n="307-r"/>
+        <lb ed="#B" n="1"/>ta misericordia: &amp; nullus damnatur nisi aequissima iustitia. Sed ista iustitia est qua damnatur in  
+       <lb ed="#B" n="2"/>tempore praecedente merito peccati quo habet esse: non autem qua damnatur in aeterna prae- 
+       <lb ed="#B" n="3"/>uisione: quia tunc temporale esset causa &amp; ratio aeterni. Vnde quod in aeterna praeuisione Esau 
+       <lb ed="#B" n="4"/>odio habuit, non plus ex parte dei sunt causa vel ratio illius opera mala eius futura, &amp; in- 
+       <lb ed="#B" n="5"/>iustitia secundum quod erant ab aeterno in eius praeuisione: sed sua ipsius iustitia quae ipse est: licet 
+       <lb ed="#B" n="6"/>non sine illorum operum malorum &amp; iniustitiae aeterna praeuisione: quam quod Iacob dilexit ex parte 
+       <lb ed="#B" n="7"/>dei sunt causa vel ratio opera eius bona &amp; iustitia secundum quod erant ab aeterno in eius praeui- 
+       <lb ed="#B" n="8"/>sione: sed sua ipsius iustitia quae ipse est: licet non sine illorum praeuisione, vt sicut ibi ex parte subie 
+       <lb ed="#B" n="9"/>cti ratio sit iniustitia propter quam sit: sic hic ratio sine qua non: vt sine tali iustitia nunquam ponatur dei 
+       <lb ed="#B" n="10"/>misericordia. Quia etsi hic nullo modo possit poni aliquid in praeuisione ex parte subiecti: etiam nec 
+       <lb ed="#B" n="11"/>id quod ex se operatur liberum arbitrium in gratiae cooperando quod sit ratio aeterni vt electionis: sic 
+       <lb ed="#B" n="12"/>nec ibi possit poni aliquid ex parte subiecti in praeuisione quod sit ratio aeterni: scilicet reprobationis. 
+       <lb ed="#B" n="13"/>Non enim apparet ratio quare vnum deberet poni: alterum vero negari: saltem cum vtrobique po 
+       <lb ed="#B" n="14"/>natur aliquid in diuina praeuisione quid sit ratio temporalis: vt quod isti ex tempore quando disposi- 
+       <lb ed="#B" n="15"/>tio siue congruitas talis est in illo: vel secundum rem vel secundum dei praeuisionem: ipsi de-  
+       <lb ed="#B" n="16"/>tur gratia iustificans: alii autem cum alia sit dispositio in illo siue contraria gratia denegetur &amp; 
+       <lb ed="#B" n="17"/>ipse in malo induretur. Vnde super illud Apostoli ad Romanos nono. <quote xml:id="n3av8a-c1e3163-Qd1e618" source="http://scta.info/resource/rom9_15">Miserebor cui misertus 
+       <lb ed="#B" n="18"/>sum</quote>: dicit Glossa. Miserebor. vocando &amp; gratiam apponendo cui praescius eram quod misericor- 
+       <lb ed="#B" n="19"/>diam daturus essem: sciens illum conuertendum &amp; apud me permansurum. Deinde repetit: vt 
+       <lb ed="#B" n="20"/>repetitione magis confirmet. Et misericordiam praestabo cui miserebor, id est misericordiam 
+       <lb ed="#B" n="21"/>dabo illi quem praescio post errorem toto corde reuersurum ad me: hoc est dare illi cui dan  
+       <lb ed="#B" n="22"/>dum est: &amp; non dare illi cui non est dandum: vt eum vocet quem sciat obedire: illum ve- 
+       <lb ed="#B" n="23"/>ro non: quem sciat non obedire: quia non in voluntate petentis: sed &amp; in arbitrio dantis debet 
+       <lb ed="#B" n="24"/>esse quod datur. An enim dandum sit: dantis debet iudicio pensari. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e637">
+       ET quamuis periculosum sit 
+       <lb ed="#B" n="25"/>iudicium dei discernere: tamen propter haesitantes ne putetur iniustum iudicium dei: quod non in-  
+       <lb ed="#B" n="26"/>iuste iudicet, rebus potius probemus quam verbis. Duo enim fuerunt reges in veteri testamento, quo-  
+       <lb ed="#B" n="27"/>rum &amp; modus viuendi &amp; exitus vitae plurimum fuit diuersus: videlicet Saul &amp; Dauid. Inquiramus in  
+       <lb ed="#B" n="28"/>historiis qualiter vterque eorum reperiatur apud iudicium praescientiae dei. Videamus ergo si Saul se 
+       <lb ed="#B" n="29"/>gessit in necessitate &amp; anxietate vitae vt Dauid: qui accepta misericordia deum misericordiae non contempsit: 
+       <lb ed="#B" n="30"/>&amp; post veniam peccatorum tam bene in colendo deo perstitit. Saul vero non exauditus non in prece perstitit: sed  
+       <lb ed="#B" n="31"/>impatiens &amp; de dei iudicio indignatus, ad idola quae prius iam damnauerat conuersus, ab eis au 
+       <lb ed="#B" n="32"/>xilium requisiuit. Vt enim habetur secundi Regum. xxviii. Saul abstulit magos &amp; hariolos de terra, 
+       <lb ed="#B" n="33"/>&amp; interfecit eos qui Phytones habebant in ventre. Congregatique sunt Philistiim &amp; venerunt &amp; ca 
+       <lb ed="#B" n="34"/>stra metati sunt in Sunam. Congregauit autem &amp; Saul vniuersum lsrael: &amp; venit in Gelboe: &amp; vidit Saul 
+       <lb ed="#B" n="35"/>castra Philistiim: &amp; timuit &amp; expauit cor eius nimis: consuluitque dominum, &amp; non respondit ei neque per 
+       <lb ed="#B" n="36"/>somnia, neque per sacerdotes, neque per prophetas. dixitque Saul seruis suis. Quaerite mihi mulierem 
+       <lb ed="#B" n="37"/>habentem Phytonem &amp; vadam ad eam &amp; sciscitabor per illam. ldque vt ibidem habetur relicto domino per  
+       <lb ed="#B" n="38"/>fecit. Vnde iuste reprobatus a praescio videtur: ex hoc enim iustum iudicium praescientiae dei 
+       <lb ed="#B" n="39"/>etiam agnoscere nolentibus manifestatur. Vnde etsi dei aeterna electio vel reprobatio non ha-  
+       <lb ed="#B" n="40"/>bet vllo modo pro ratione opera praescita etiam quantum ad portionem liberi arbitrii: tamen effe 
+       <lb ed="#B" n="41"/>ctus temporalis electionis vel reprobationis bene potest habere illa pro ratione sine qua non: cum 
+       <lb ed="#B" n="42"/>semper sic euenit secundum quod deus praesciuit. Vnde super illud. Iacob dilexi: Esau odio habui. 
+       <lb ed="#B" n="43"/>dicit Glos. Et in illo quem elegit: propositum dei manet, id est impletur: quia ita euenit vt prae- 
+       <lb ed="#B" n="44"/>sciuit: &amp; in illo quem spreuit similiter manet quia ita fit vt praesciuit. Hoc autem in Malachia de 
+       <lb ed="#B" n="45"/>iudicio dicit deus: illud vero, maior seruiet minori: de praescientia ait. Praesciendo enim quid quis 
+       <lb ed="#B" n="46"/>que illorum futurus erat: dixit illud in Genesi Deus: &amp; illud dum praediceret, se futurorum prae- 
+       <lb ed="#B" n="47"/>scium ostendit &amp; nihil absque sua praescientia euenire posse modostrauit. Hoc aliud vero quod in Mala 
+       <lb ed="#B" n="48"/>chia est dicitur de iam praeteritis: &amp; ex quorum vita ante acta &amp; operibus patuit alterum saluandum 
+       <lb ed="#B" n="49"/>&amp; alterum damnandum. &amp; de actis iudicium fieri solet &amp; notum. Illud ergo dixit deus ante futu 
+       <lb ed="#B" n="50"/>rum iudicium vt iudicaturus crederetur: &amp; secundum merita redditurus. Quia etiam non solum bonus vsus liberi ar 
+       <lb ed="#B" n="51"/>bitrii in praescientia sit cam siue ratio collationis gerae in effectu: sed est collatio huiusmodi grae futurae praesens in prae- 
+       <!--655.xml-->
+       <pb ed="#B" n="307-v"/>
+        <lb ed="#B" n="1"/>scientia sit ratio electionis: qua dictum est: Iacob dilexi: plane explicat litera sequens sic inquiens. 
+       <lb ed="#B" n="2"/>ldeo etiam illud dixit: vt intelligeretur hoc apertum esse postea per prophetam, quod antequam  
+       <lb ed="#B" n="3"/>illi nascerentur erat in dei praedestinatione per gratiam. Nam in Iacob antequam natus fecisset ali- 
+       <lb ed="#B" n="4"/>quid: quid diligebat nisi gratuitum misericordiae suae donum: &amp; in Esau quid oderat antequam natus fuis 
+       <lb ed="#B" n="5"/>set, nisi originale peccatum: Nam nec in illo diligeret iustitiam, quam nullam ille fecerat: neque in isto 
+       <lb ed="#B" n="6"/>odisset naturam quam bonam ipse fecerat. Nota quod in illo dicit, non diligeret iustitiam: quia ipsa est es 
+       <lb ed="#B" n="7"/>fectus gratiae: sed in isto bene potuit dixisse quod odisset iniustitiam: quae est defectus voluntatis. Vt 
+       <lb ed="#B" n="8"/>sic ex parte aeternae electionis donum gratiae in praeuisione possit dici ratio electionis sine qua  
+       <lb ed="#B" n="9"/>non: &amp; opus liberi arbitrii in praescientia ratio temporalis doni gratiae: iniustitia originalis ratio 
+       <lb ed="#B" n="10"/>reprobationis aeternae &amp; subtractionis gratiae temporalis. Est autem ad declarationem omnium 
+       <lb ed="#B" n="11"/>praedictorum aduertendum: quod alium ordinem causalitatis in praescientia dei respectu fiendorum 
+       <lb ed="#B" n="12"/>aduertere debemus in eis quae posterius nata sunt conferri in effectu respectu priorum &amp; econ- 
+       <lb ed="#B" n="13"/>uerso. In quo debemus aduertere etiam alium in communi cursu conferendi gratiam in adultis 
+       <lb ed="#B" n="14"/>per temporis successionem: &amp; alium in speciali modo conferendi gratiam statim siue in adultis si 
+       <lb ed="#B" n="15"/>ue in paruulis. Quo ad primum horum sciendum: quod in operandis semper finis vltimus primum 
+       <lb ed="#B" n="16"/>est in artificis intentione: &amp; vltimum in executione: &amp; est causa siue ratio aliorum in intendendo  
+       <lb ed="#B" n="17"/>Et eodem modo semper prius in intentione ratio est priorum in intendendo: secundum genus cau 
+       <lb ed="#B" n="18"/>sae finalis. Et sic quia deus eligit aliquem ad gratiam, eligit eum ad perfectiorem gratiam quam in vi 
+       <lb ed="#B" n="19"/>ta ista adepturus est: &amp; quia eligit eum ad illam gratiam: elegit eum ad gratiam priorem in illo 
+       <lb ed="#B" n="20"/>augmentandam vt fiat perfecta: &amp; quia eligit ad illam gratiam iustificantem perfectam, eligit ad geram gratis datam  
+       <lb ed="#B" n="21"/>qua ad illam animus praeparatur: &amp; quia eligit eum ad istam, siqua alia est prior ad istam disponens: propter 
+       <lb ed="#B" n="22"/>hanc eligit ad illam praecedentem: quousque sit status in prima: quae omnibus aequaliter offertur. Eco 
+       <lb ed="#B" n="23"/>tra autem in exequendo &amp; in genere causae efficientis meritorie semper prius est causa &amp; ratio 
+       <lb ed="#B" n="24"/>posterioris: sed sub conditione: si in bono priori per bonum vsum liberi arbitrii perseueret. Et sic 
+       <lb ed="#B" n="25"/>quia iste per liberum arbitrium bene se habet ad primam gratiam: Deus dat ei secundam: &amp; simi 
+       <lb ed="#B" n="26"/>liter quia se bene habet ad secundam: dat ei tertiam: &amp; sic deinceps vsque ad gloriam: in qua est 
+       <lb ed="#B" n="27"/>finis. Vnde deus eligit ad primam gratiam vt det secundam: &amp; ad secundam vt det tertiam:  
+       <lb ed="#B" n="28"/>&amp; sic deinceps. Reuera isti modi bene assignantur sumendo effectus praedestinationis secundum 
+       <lb ed="#B" n="29"/>partes. Sed si accipiatur in communi totus simul: quae ratio vel causa eius ex parte praedestina-  
+       <lb ed="#B" n="30"/>ti assignabitur: Et dicitur fuisse opinio Orige, quod merita praecedentia in alia vita vt existentia in  
+       <lb ed="#B" n="31"/>aeterna praeuisione. Sed hanc opinionem excludit Apostolus: dicendo de Iacob &amp; Esau: Cum non  
+       <lb ed="#B" n="32"/>dum nati fuissent. Pelagiani vero dixerunt quod merita digni ex puris naturalibus. Sed contra est: 
+       <lb ed="#B" n="33"/>quod tunc gera non esset genera: sed pro meritis sine gratia reddita. nec etiam tenet fides quod vlla opera pos 
+       <lb ed="#B" n="34"/>sint esse meritoria fine gratia. Vnde in hoc reprobantur Pelagiani quod dixerunt initia bonorum 
+       <lb ed="#B" n="35"/>operum a nobis esse, &amp; meritoria complementi: quid posuerunt esse a deo: &amp; propter hoc etiam meri- 
+       <lb ed="#B" n="36"/>toria gloriae: licet non per se: quia forte neminem posuerunt saluari sine gratia. Vnde opera mo 
+       <lb ed="#B" n="37"/>ris sine gratia gratis data non possent etiam dici meritoria de congruo. Alii autem dicunt quod nul 
+       <lb ed="#B" n="38"/>lam omnino habet causam aut rationem ex parte nostra: sed solummodo ex parte dei, eius boni- 
+       <lb ed="#B" n="39"/>tatem. Et potest dici secundum praedicta: quod licet effectus totus praedestinationis quo ad substantiam 
+       <lb ed="#B" n="40"/>&amp; habitum gratiae &amp; essentiam operationis meritoriae totius inquantum totum est effectus gra- 
+       <lb ed="#B" n="41"/>tiae, totum pertinet ad effectum praedestinationis: tamen inquantum in toto liberum arbitrium coope- 
+       <lb ed="#B" n="42"/>ratur &amp; aliquid ex se agit: licet nihil agit nisi idem agatur a gratia: tamen inquantum sit a libe- 
+       <lb ed="#B" n="43"/>ro arbitrio potest esse totum: secundum quod sit a libero arbitrio ratio totius praedestinationis mo- 
+       <lb ed="#B" n="44"/>do praeexposito. Nec incidit positio haec in opinionem Pelagianorum: quia non ponitur hoc opus 
+       <lb ed="#B" n="45"/>liberi arbitrii: quin etiam ponatur gratiae: qualiter non ponebant Pelagiani. Propter quod totum  
+       <lb ed="#B" n="46"/>meritorium est ratione gratiae ex qua fit: &amp; totum vt est in praescientia, est praedestinationis ratio. Vn-  
+       <lb ed="#B" n="47"/>de dicit Augustinus. lxxxiii, quaestionum, quaestione. lxiii. Ad coenam illam quam dominus dicit in euan 
+       <lb ed="#B" n="48"/>gelio praeparatam: nec omnes qui vocati sunt venire voluerunt: nec illi qui venerunt venire possent 
+       <lb ed="#B" n="49"/>nisi vocarentur. Itaque nec illi debent sibi tribuere qui venerunt: quia vocati venerunt: nec illi 
+       <lb ed="#B" n="50"/>qui noluerunt venire, debent alteri tribuere: sed tantum sibi: quoniam vt venirent vocati erant. 
+       <lb ed="#B" n="51"/>Vocatio ergo ante meritum, voluntatem operatur. Propter quod etsi quisquam tribuit quod ve- 
+       <!--656.xml-->
+       <pb ed="#B" n="308-r"/>
+        <lb ed="#B" n="1"/>nit vocatus: non sibi potest tribuere quod vocatus est. Qui autem vocatus non venit, sicut non habuit 
+       <lb ed="#B" n="2"/>meritum praemii vt vocaretur: sic inchoat meritum supplicii cum vocatus venire neglexit. Ita erunt 
+       <lb ed="#B" n="3"/>duo illa misericordia &amp; iudicium. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e824">
+       PRAEDICTV autem ordo gratiae ab imperfecta ad per- 
+       <lb ed="#B" n="4"/>fectam aliter intelligendus est fuisse in statu innocentiae: aliter vero in statu naturae lapsae. In statu au 
+       <lb ed="#B" n="5"/>tem innocentiae secundum totum genus hominum &amp; angelo rum, sciendum est quod deus po- 
+       <lb ed="#B" n="6"/>tuit de potentia absoluta vni dare statim gloriam vel gratiam, &amp; alii nihil, sine iniustitia isti facta:  
+       <lb ed="#B" n="7"/>quia nihil erat ei debitum: sed misericordia vtrique facta erat in collatione naturalium: &amp; illi amplior miseri 
+       <lb ed="#B" n="8"/>cordia in collatione gratiae aut gloriae. Poterat etiam dare gratiam aut gloriam maiorem vni quam al 
+       <lb ed="#B" n="9"/>teri: &amp; hoc absque omni causa siue ratione ex parte recipientium. Quantum autem erat de potentia 
+       <lb ed="#B" n="10"/>ordinata secundum aliquam congruentiam ex parte recipientium quae erat in eius praescientia quae  
+       <lb ed="#B" n="11"/>cunque sit illa: Dicendum est quod omnibus &amp; hominibus &amp; angelis statim in eorum creatione secundum 
+       <lb ed="#B" n="12"/>statum innocentiae gratiam contulit: &amp; hoc vel aequalem vel inaequalem iuxta rationem quam habere 
+       <lb ed="#B" n="13"/>potuit ex parte recipientium. Vnde etiam modo non est necesse ponere quod aliquibus existentibus in  
+       <lb ed="#B" n="14"/>aequali dispositione ad gratiam iustificantem, conferat eis aequalem. Similiter aliquibus ex aequali  
+       <lb ed="#B" n="15"/>charitate, &amp; aequalibus naturalibus, &amp; aequali nisu in opus: non oportet ponere quod aequaliter eis au 
+       <lb ed="#B" n="16"/>gmentet gratiam. Potest enim secundum aliquam rationem occultam ex parte recipientis vni com 
+       <lb ed="#B" n="17"/>ferre plus licet credibile sit quod talibus aequaliter augmentet. Vnde licet in generali dici possit quod sem 
+       <lb ed="#B" n="18"/>per sit ratio ex parte praedestinati &amp; eius cui confertur gratia aut gloria: quae tamen sit illa in par- 
+       <lb ed="#B" n="19"/>ticulari praeter praedictam generalem quare datur isti &amp; non illi: aut isti plus, illi minus: maxime 
+       <lb ed="#B" n="20"/>caeteris paribus: de hoc non est praesumendum aliquid determinare. dicente <name ref="#Augustine">Augustinus</name> super loan.  
+       <lb ed="#B" n="21"/>Quare hunc trahat: &amp; illum non trahat: noli diiudicare si non vis errare. Quomodo autem proces 
+       <lb ed="#B" n="22"/>sit post receptionem primae gratiae factum angelorum, videbitur in quadam quaestione sequente. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e871">
+       DE 
+       <lb ed="#B" n="23"/>hominibus autem tenet fides quod in primo homine tota massa humana perdita erat &amp; damnatione  
+       <lb ed="#B" n="24"/>digna. Et secundum istum statum loquitur Apostolus de praedestinatione, dicente de hac massa Glos. 
+       <lb ed="#B" n="25"/>super illud. Ergo cuius vult miseretur. Vniuersum genus humanum tam iusto dei iudicio in apo 
+       <lb ed="#B" n="26"/>statica radice damnatum est: vt etiam si nullus inde liberaretur, nemo recte posset dei vituperare iu 
+       <lb ed="#B" n="27"/>stitiam. &amp; infra. Vniuersa nanque massa merito damnata: contumeliam debitam cui vult reddit dei 
+       <lb ed="#B" n="28"/>iustitia: honorem indebitum donat cui vult dei gratia non meritorum praerogatiua: non fatali ne- 
+       <lb ed="#B" n="29"/>cessitate: non temeritate fortunae: sed causa altissimae sapientiae &amp; scientiae suae. &amp; infra. Cur potius 
+       <lb ed="#B" n="30"/>hunc quam illum liberet vel non liberet: scrutetur qui potest tam magnum profundum iudiciorum dei. veruntamen 
+       <lb ed="#B" n="31"/>caueat praecipitium. Quare ergo illum liberet &amp; non illum: nolo a me quaeras: homo sum: profundum 
+       <lb ed="#B" n="32"/>nimis esse aduerto. verum est in speciali. In generali autem si non sit praedicta, nullam video: quam tamen  
+       <lb ed="#B" n="33"/>non assero: licet tamen credo quod non desit ne ponatur misericordia dei sine iustitia: non solum ex par 
+       <lb ed="#B" n="34"/>te sui: sed etiam ex parte nostri: etsi non digni: tamen congrui. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e900">
+       DE processu autem gratiae in adul  
+       <lb ed="#B" n="35"/>to ante baptismum vel post baptismum in statu peccati mortalis actualis, tenendum est quod deus 
+       <lb ed="#B" n="36"/>peccatorem gratia gratis data praeuenit statim cum venit ad vsum liberi arbitrii, vt per deli- 
+       <lb ed="#B" n="37"/>berationem aliquid agere possit. Qui si per liberum arbitrium bene se erga eam habeat, de congruo dispo 
+       <lb ed="#B" n="38"/>nitur vt deus ei gratiam iustificantem tribuat. dicente <name ref="#Augustine">Augustinus</name> super illud psal. lviii. Misericordia 
+       <lb ed="#B" n="39"/>eius praeueniet me. Non prior ad te surrexi: sed tu ad excitandum me venisti. Nam misericordia 
+       <lb ed="#B" n="40"/>eius praeueniet me antequam boni aliquid faciam: iustificat conuersum: &amp; ipse admonet vt conuerta- 
+       <lb ed="#B" n="41"/>tur auersus. Et super illud psal. lxxxiiii. Tu conuertens viuificabis nos. dicit. Vt non solum viuifica 
+       <lb ed="#B" n="42"/>tio mea a te sit: sed etiam ipsa conuersio: vt iustificemur. Et nota tria per ordinem se habentia in his 
+       <lb ed="#B" n="43"/>duobus dictis. Primo enim auersum vt conuertatur admonet. Secundo admonitum conuertit vt vi 
+       <lb ed="#B" n="44"/>uificet. Tertio conversum viuificat: &amp; secundum quod dicit super illud psal. lxxvii. Non est creditus cum 
+       <lb ed="#B" n="45"/>deo spiritus eius. vt bene cooperetur cum operante in se deo. Et est admonitio quidam impetus a 
+       <lb ed="#B" n="46"/>deo in libero arbitrio: quo liberum arbitrium peccatoris quod semper habet voluntatem peccandi actu 
+       <lb ed="#B" n="47"/>nisi aliquo distrahatur aut impediatur, vel habitu cum est distractum aut impeditum, excitatur 
+       <lb ed="#B" n="48"/>vt sistat in quadam indifferentia negatiua: vt neque distractum neque impeditum non velit peccare:  
+       <lb ed="#B" n="49"/>hoc est vt pro hora qua nec distrahitur nec impeditur non habeat voluntatem actualem peccandi. Et 
+       <lb ed="#B" n="50"/>offertur ista admonitio aequaliter omnibus, vt dictum est. Quam qui a se repellit: reddit se indignum  
+       <lb ed="#B" n="51"/>vt amplius iuuetur: sed in peccato suo amplius per hoc induratur iuste. Pie tamen credendum est quod etiam post peccatum 
+       <lb ed="#B" n="52"/>liberi arbitrii prima gra pluries visitat. aliter nullus ab illo resurgeret: licet forte aliquos multum obsti 
+       <lb ed="#B" n="53"/>natos de caetero non visitat. Qui vero eam non repellit, sed sistit, redditur idoneus vt de congruo iuuetur amplius 
+       <!--657.xml-->
+       <pb ed="#B" n="308-v"/>
+        <lb ed="#B" n="1"/>Et est ista admonitio imperfecta conuersio: qua disponitur non ponendo obiicem vt perfecte possit con 
+       <lb ed="#B" n="2"/>uerti. Vnde super illud psal. vi. Convertere domine &amp; eripe animam meam. dicit Augustinum. Conuertere domine 
+       <lb ed="#B" n="3"/>iet fac me conuerti. &amp; addit. Eripe animam meam, id est adiuua me vt perficiatur conuersio. Vnde 
+       <lb ed="#B" n="4"/>proprie potest dici versio. Prouerbio. xii. Verte impios &amp; non erunt. Post istam autem admonitionem 
+       <lb ed="#B" n="5"/>tanquam disposito de congruo &amp; iuste iustitia congrui dat ei habitum quendam gratiae gratis datae: quae  
+       <lb ed="#B" n="6"/>ipsum liberum arbitrium sic conuertit vt habeat voluntatem non peccandi imperfectam: qua im- 
+       <lb ed="#B" n="7"/>perfecte detestatur peccare: &amp; imperfecte displicet. Et ista detestatio siue displicentia quaedam imper- 
+       <lb ed="#B" n="8"/>fecta &amp; insufficiens contritio est: quae vocatur attritio: qua tamen potens est desiderare sibi perfe- 
+       <lb ed="#B" n="9"/>ctam voluntatem non peccandi dari: vt velit habere perfectam voluntatem non peccandi: quam non  
+       <lb ed="#B" n="10"/>dum habet nec habere potest quousque receperit gratiam gratificantem. Vnde quia illa versio &amp; ista 
+       <lb ed="#B" n="11"/>conuersio non differunt nisi sicut completum &amp; incompletum, multi non distinguunt gram gratis da-  
+       <lb ed="#B" n="12"/>tam in duo: sed aut ponunt solum impetum esse gratiam gratis datam: aut solummodo habitum prae 
+       <lb ed="#B" n="13"/>dictum. Nec est in hoc vis aliqua facienda si ponatur ista gratia gratis data aliquo alio modo dari: le 
+       <lb ed="#B" n="14"/>cundum quod dicit Augustinus. lxxxiii. qod q. lxiii. Nec velle quisque potest nisi admonitus &amp; vocatus siue 
+       <lb ed="#B" n="15"/>intrinsecus vbi nullus homo videt: siue extrinsecus per sermonem sonantem aut per aliqua signa 
+       <lb ed="#B" n="16"/>visibilia efficiatur vt etiam ipsum velle deus operetur in nobis. Qui autem postquam acceptauerit primam ad 
+       <lb ed="#B" n="17"/>monitionem repellit a se huiusmodi gratiae inclinationem: obiicem ponit ad gratiam gratificantem. vnde 
+       <lb ed="#B" n="18"/>&amp; iustitia digne ei denegatur: &amp; ipse in peccato induratur. Qui vero eam acceptat iustitia con- 
+       <lb ed="#B" n="19"/>grui disponitur ad gratiam gratificantem quam deus illico eidem confert: qua a peccatis mundatur. Quo  
+       <lb ed="#B" n="20"/>modo autem iuste licet misericorditer isti gratiam gratificantem confert: &amp; iuste illi alteri dene-  
+       <lb ed="#B" n="21"/>gat: iuste dico iustitia accepta ex respectu ad praedestinatum: bene exponit <name ref="#Augustine">Augustinus</name> super illud Psal. 
+       <lb ed="#B" n="22"/>xxxii. Diligit misericordiam &amp; iudicium, dicens. Ne putetis fratres quia ista a se possint in deo ali 
+       <lb ed="#B" n="23"/>quo modo separari: omnipotens est deus: neque in sua misericordia amittit iudicium: neque in suo iu-  
+       <lb ed="#B" n="24"/>dicio misericordiam: conuersis ad se donat peccata: non conuersis non donat: misericors est iniustis:  
+       <lb ed="#B" n="25"/>nunquid &amp; iudicium amisit: aut non debuit iudicare inter conuersos &amp; non conuersos: an nobis 
+       <lb ed="#B" n="26"/>iustum videtur vt conuersus &amp; non conuersus aequaliter habeantur: vt eodem modo suscipiantur 
+       <lb ed="#B" n="27"/>confitens &amp; non confitens: humilis &amp; superbus: Ergo habet &amp; iudicium in misericordia: rursus in illo 
+       <lb ed="#B" n="28"/>iudicio habet misericordiam. ldem. lxxxiii, qod q. lxviii. Prorsus cuius vult miseretur &amp; quem vult ob  
+       <lb ed="#B" n="29"/>durat. Sed haec voluntas dei iniusta esse non potest. venit enim de occultissimis meritis: quia &amp; ipsi 
+       <lb ed="#B" n="30"/>peccatores cum propt er generale peccatum vnam massam fecerunt: non tamen nulla est inter ips 
+       <lb ed="#B" n="31"/>sos diuersitas. Praecedit ergo aliquid in peccatoribus quo quamuis nondum sint iustificati digni efficianturiu 
+       <lb ed="#B" n="32"/>stificatione: &amp; recte praecedit in peccatoribus aliis quo digni sunt obtusione. &amp; infra in fine quaestio 
+       <lb ed="#B" n="33"/>nis. Illud tamen constantissima fide tenendum est: neque quicquam deum iniuste facere: nec vllam esse na 
+       <lb ed="#B" n="34"/>turam quae non deo debet id quod est. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e1028">
+       ECCE plane quomodo in particulari effectu praedestinationis cir 
+       <lb ed="#B" n="35"/>ca hunc &amp; circa illum est cum misericordia iustitia in respectu ad praedestinatum: &amp; sicut in vno 
+       <lb ed="#B" n="36"/>facto respectu vnius hominis in vno tempore: sic &amp; vniuersaliter in omni effectu praedestinationis 
+       <lb ed="#B" n="37"/>circa vnum pro tota vita eius: &amp; sicut vniuersaliter in omni circa vnum: sic &amp; vniuersaliter circa 
+       <lb ed="#B" n="38"/>totum genus humanum. Quia secundum Grego. xxvii. mora. summa regit vt non praepediatur a 
+       <lb ed="#B" n="39"/>paruis: aeque cuncta disponit. Vnde Augustium. lxxxiii, qud vbi supra. Hoc autem siue in singulis &amp; caeter-  
+       <lb ed="#B" n="40"/>vt iam infra dicetur. Vnde sicut &amp; in conuersatione publica secundum cursum communem legis 
+       <lb ed="#B" n="41"/>diuinae dominus non facit misericordiam nisi facienti misericordiam: sic &amp; in priuato dominus non  
+       <lb ed="#B" n="42"/>facit misericordiam nisi sibimet misericordiam fecerit acquiescendo diuinae admonitioni. De quami  
+       <lb ed="#B" n="43"/>sericordia dicitur Ecclesia. xxx. Miserere animae tuae placens deo: &amp; congrega cor tuum in sanctita- 
+       <lb ed="#B" n="44"/>te eius. Vnde <name ref="#Augustine">Augustinus</name> post praedicta immediate subdit. Beati inquit misericordes quoniam ipsorum  
+       <lb ed="#B" n="45"/>miserebitur. Si enim non in quemlibet sed in eum erit misericordia qui praerogauit misericordiam: 
+       <lb ed="#B" n="46"/>&amp; ipsa misericordia iusta erit quia confusa non est. Et sicut post primam admonitionem qua domi 
+       <lb ed="#B" n="47"/>nus omnino praeuenit peccatorem, vsus bonus liberi arbitrii saltem negatiue est ratio conferendi pri 
+       <lb ed="#B" n="48"/>mam gratiam gratis datam: &amp; bonus vsus circa illam est ratio conferendi gratiam gratificantem: 
+       <lb ed="#B" n="49"/>sic bonus vsus circa ipsam in cooperando est ratio augmentandi ipsam: &amp; bonus vsus circa augmen- 
+       <lb ed="#B" n="50"/>tatam est ratio perficiendi ipsam: &amp; bonus vsus circa perfectam, in ipsam finaliter custodiendo, est 
+       <lb ed="#B" n="51"/>ratio gloriam pro gratia conferendi. Et sicut particularis vsus liberi arbitrii est ratio partis: sic to- 
+       <lb ed="#B" n="52"/>tus vsus per totam vitam est ratio totius: &amp; similiter electionis aeternae: &amp; sicut in vno, sic &amp; in toto 
+       <lb ed="#B" n="53"/>humano genere: vt secundum hoc &amp; hoc modo, quo ad totum genus humanum, assignemus intrin  
+       <lb ed="#B" n="54"/>secam rationem: &amp; quo ad totum genus humanum: &amp; quo ad quemlibet, sed in generali tantum, quare ali 
+       <!--658.xml-->
+       <pb ed="#B" n="309-r"/>
+        <lb ed="#B" n="1"/>qui saluantur: alii vero damnantur: &amp; quare iste potius saluatur quam ille a totius massae damnatione  
+       <lb ed="#B" n="2"/>in quo aequales sunt: &amp; hoc in adultis: non solum autem assignemus rationem extrinsecam 
+       <lb ed="#B" n="3"/>quare deus de tota massa perdita voluit quosdam misericorditer liberare: &amp; quosdam in sua iusta 
+       <lb ed="#B" n="4"/>damnatione permittere: nullam autem quare potius hunc quam alium: secundum quod dicunt aliqui ex 
+       <lb ed="#B" n="5"/>parte solius bonitatis dei sumendam huiusmodi rationem: vt scilicet bonitas eius simplex existens in se ma 
+       <lb ed="#B" n="6"/>nifestetur multipliciter in rebus diuersis simul: eo quod in nullo tota manifestari potest: quia diuinam per 
+       <lb ed="#B" n="7"/>fectionem non attingit vlla: vt quemadmodum propterea ad perfectionem vniuersi requiruntur diuer 
+       <lb ed="#B" n="8"/>si gradus rerum in naturalibus: &amp; hoc in materialibus etiam ex eadem materia aequaliter se habente 
+       <lb ed="#B" n="9"/>ad omnes: sic etiam propter eandem bonitatem manifestandam ad persectionem vniuersi requiruntur diuersi 
+       <lb ed="#B" n="10"/>gradus in moralibus. Et sicut deus ex eadem materia aequali in omnibus diuersa genera rerum 
+       <lb ed="#B" n="11"/>formauit in vno vestiendo vnam partem totius materiae forma nobiliori: &amp; in alio minus nobili:  
+       <lb ed="#B" n="12"/>sic ex eadem massa vitiata deus quosdam per misericordiam elegit ad gratiam &amp; gloriam: quosdam  
+       <lb ed="#B" n="13"/>vero in sua iusta damnatione permisit: &amp; ex hoc ex consequente permisit fieri vitia actualia sub- 
+       <lb ed="#B" n="14"/>sequentia. &amp; hoc non ibi sistendo: sed quia in hoc bonitas sua manifestaretur quo ad aliquem gra- 
+       <lb ed="#B" n="15"/>dum supernaturalem: quia peccatum aut defectus bonitatem dei non manifestat: &amp; pura natura-  
+       <lb ed="#B" n="16"/>lia non secundum alium gradum manifestant eam in malis &amp; in bonis: sed vlterius procedendo &amp; 
+       <lb ed="#B" n="17"/>reprobos iuste puniendo: in quo manifestatur bonitas iustitiae dei: sicut in glorificatis manifestatur 
+       <lb ed="#B" n="18"/>bonitas misericordiae eius. Sic enim deus permittit iuste mala fieri ne bona impediantur: sed vt eueniant 
+       <lb ed="#B" n="19"/>&amp; hoc tam in moralibus vt in proposito: quam in naturalibus vt in caeco nato: a quo dominus Ioan. ix. 
+       <lb ed="#B" n="20"/>excludit omnem rationem quare caecus nasceretur: etiam illam quae est peccati originalis: dicens quod  
+       <lb ed="#B" n="21"/>neque ipse neque parentes eius peccauerint vt caecus nasceretur: &amp; solam ostendit rationem esse vt glo 
+       <lb ed="#B" n="22"/>ria dei manifestaretur in illo: sed hoc non ex defectu visus in caecitate: sed ex eius illuminatione mi 
+       <lb ed="#B" n="23"/>raculosa a domino. Et videtur hanc rationem assignare apostolus Roma. ix. dicens. Volens deus 
+       <lb ed="#B" n="24"/>ostendere iram iustitiae &amp; notam facere potentiam suam, sustinuit in multa patientia vasa ire apta 
+       <lb ed="#B" n="25"/>in interitum vt ostenderet diuitias gloriae suae in vasa misericordiae quae praeparauit in gloriam. Cui 
+       <lb ed="#B" n="26"/>concordat exemplum de figulo de eodem luto faciente vas vnum in honorem: &amp; aliud in contume- 
+       <lb ed="#B" n="27"/>liam: de quo etiam secundae Timo. ii. dicit apostolus. In magna autem domo non solum vasa aurea &amp; 
+       <lb ed="#B" n="28"/>argentea: sed et ignea &amp; fictilia: &amp; quaedam quidem in honorem quaedam in contumeliam. Vnde 
+       <lb ed="#B" n="29"/>dicit: quod sicut in naturalibus cum prima materia tota sit vniformis, quare vna pars est sub forma 
+       <lb ed="#B" n="30"/>ignis: alia sub forma terrae: alia sub specie hominis: alia sub specie vermis &amp; caetera huiusmoni a deo  
+       <lb ed="#B" n="31"/>creata ab initio: bene potest assignari ratio intrinseca. scilicet perfectio vniuersi: &amp; extrinseca: scilicet mani 
+       <lb ed="#B" n="32"/>festatio potentiae &amp; bonitatis dei. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e1152">
+       SED quare haec pars materiae sit sub hac forma, &amp; illa sub illa, &amp; 
+       <lb ed="#B" n="33"/>non econuerso: &amp; sic de caeteris: nulla ratio est assignanda: nec esse potest nisi sola voluntas artifi- 
+       <lb ed="#B" n="34"/>cis sic determinantis: a qua dependet totum artificium. sicut &amp; in operibus humanis quod hic lapis sic 
+       <lb ed="#B" n="35"/>figuratur vt situetur in altari: alter autem in cloaca. secundum quod philosophous. ii. physi. dicit aliquos lapi- 
+       <lb ed="#B" n="36"/>des bene fortunatos: &amp; aliquos male: quamuis in generali ratio artis requirat vt aliqui ponantur hic aliqui ibi ad  
+       <lb ed="#B" n="37"/>perfectionem ciuitatis. Quare tamen hic disponitur vt ponatur in altari: non autem alter alias aequa  
+       <lb ed="#B" n="38"/>lis in omnibus: hoc a mera electione artificis dependet. Sic dicunt in proposito: cum tota massa hu 
+       <lb ed="#B" n="39"/>mana vitiata sit vniformis: quare de ipsa vnus eligitur alter reprobatur: ratio potest assignari in  
+       <lb ed="#B" n="40"/>vniuersali dicto modo: nulla autem in particulari circa hunc &amp; illum: quarehic potius eligitur quam 
+       <lb ed="#B" n="41"/>ille. Et dicunt quod ex hoc quod deus sic inaequalia aequalibus facit, non est iniquitas neque imaequalitas apud  
+       <lb ed="#B" n="42"/>ipsum: quia in his quae fiunt ex gratia fine debito: potest absque omni iniquitate siue inaequitate danms 
+       <lb ed="#B" n="43"/>dare aequalibus prout vult, vni nihil, alteri aliquid, tertio plus. iuxta illud Matthaei. x. Tolle quid tuum  
+       <lb ed="#B" n="44"/>est &amp; vade. An non licet mihi quod volo facere: Tunc autem esset iniquitas si esset datum ex debito. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e1181">
+       DI 
+       <lb ed="#B" n="45"/>ctum istud multum rationabile apparet in paruulis: quibus nihil est nec potest esse de vsuliberi 
+       <lb ed="#B" n="46"/>arbitrii: &amp; aequales sunt quo ad vitium massae, morientibus ante tempus quo vti possent libero arbi 
+       <lb ed="#B" n="47"/>trio. Quia enim in talibus aliqui electi sunt &amp; acceperunt gratiam: vel ex fide parentum in lege naturae: vel 
+       <lb ed="#B" n="48"/>ex circuncisione in lege Moysi: vel ex baptismo in lege euangelii: vel absque his modis per sanctifica- 
+       <lb ed="#B" n="49"/>tionem aliam: aut extra vterum aut in vtero: &amp; morientes infra annos pubertatis statim transferan- 
+       <lb ed="#B" n="50"/>tur ad gloriam: &amp; a lii reprobati moriantur ante annos pubertatis nullo dictorum quatuor mo- 
+       <lb ed="#B" n="51"/>dorum: &amp; permaneant in sua iusta damnatione: non apparet hic ratio nisi praedicta extrinseca ma- 
+       <lb ed="#B" n="52"/>nifestatio: scilicet bonitatis dei secundum dictum modum: quia ex parte singularum perso- 
+       <lb ed="#B" n="53"/>narum singulares rationes nullae possent assignari nisi ponendo quod inaequales fuissent in natu  
+       <lb ed="#B" n="54"/>ralibus: vel in vitio originalis: quod non ponitur. Sic enim illa inaequalitas posset ab aliquo  
+       <!--659.xml-->
+       <pb ed="#B" n="309-v"/>
+        <lb ed="#B" n="1"/>poni ratio illius de congruo: quemadmodum si in adultis opera moris sine gratia in vno &amp; non in  
+       <lb ed="#B" n="2"/>alio aliis eisdem existentibus aliquis poneret rationem gratiae conferendae: aut nisi ponendo  
+       <lb ed="#B" n="3"/>quod in dei praescientia praeuisi fuissent futuri inaequales secundum vsum liberi arbitrii si supuixissent: ita 
+       <lb ed="#B" n="4"/>quod aliqui eorum fuissent vsuri ipso in bonum: alii non: &amp; hoc diuersimode in diuersis: &amp; quod secundum 
+       <lb ed="#B" n="5"/>illam inaequalitatem deus quosdam elegit ad gloriam: quosdam reprobauit. Quod non est tenendum:  
+       <lb ed="#B" n="6"/>quia secundum hoc eadem ratione in adultis non conferretur gloria secundum gratiam habitam in  
+       <lb ed="#B" n="7"/>morte: sed secundum vsum liberi arbitrii in bonum si superuixissent. Sed in adultis habentibus 
+       <lb ed="#B" n="8"/>vsum liberi arbitrii non apparet dicti praecedentis tantarationabilitas: in quibus potest esse inaequa-  
+       <lb ed="#B" n="9"/>litas secundum vsum liberi arbitrii habendum in determinato tempore vitae suae mortalis. Propter 
+       <lb ed="#B" n="10"/>quid secundum praedictum modum etsi in aliis esset aequalitas, sola inaequalitas vsus arbitrii in prae 
+       <lb ed="#B" n="11"/>uisione posset esse ratio electionis vel reprobationis secundum modum praeexpositum. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e1233">
+       SImiliter 
+       <lb ed="#B" n="12"/>quid dicit dictum illud: quod quosdam voluit permittere in iusta damnatione vt posset eos iuste punire 
+       <lb ed="#B" n="13"/>ad manifestationem bonitatis iustitiae suae: non est clarum. Quia enim sic manifestare bonitatem suam 
+       <lb ed="#B" n="14"/>sit de dei intentione non video. bene enim verum est quod si peccata fiant: quod ipsa puniat vel tempora- 
+       <lb ed="#B" n="15"/>liter vel aeternaliter: ne maneat dedecus culpae fine decore iustitiae. nisi enim potens esset deus ma-  
+       <lb ed="#B" n="16"/>la culpae facta sic ordinare: nunquam permitteret ea fieri: vt dicit <name ref="#Augustine">Augustinus</name> in enchiri. Aliter enim esset vni 
+       <lb ed="#B" n="17"/>uersum imperfectum, existente scilicet in ipso ordinabili aliquo quod non esset ordinatum. Sed quod per inten 
+       <lb ed="#B" n="18"/>tionem peccata fieri &amp; esse permittat: vt facta ordinet &amp; puniat, non video. Bene enim verum est, vt 
+       <lb ed="#B" n="19"/>dicit apostolus Ro. xi. quod fractis ramis in iudaeis insertus est gentilis a deo. Sed non propter hoc fra- 
+       <lb ed="#B" n="20"/>cti sunt rami a deo vt deus illum insereret: sed propter illorum incredulitatem. Et per eundem mo 
+       <lb ed="#B" n="21"/>dum dicitur Roma. ix. de Philone. Excaecaui te vt ostendam virtutem meam &amp;c. Et similiter in propo 
+       <lb ed="#B" n="22"/>sito. Nec plus video quod per intentionem cuiuscunque plus sunt permittenda mala fieri aut esse vt eue 
+       <lb ed="#B" n="23"/>niant bona vel sint: siue ne impediantur fieri: quam facienda: quia intendens malum eo modo quo intendit 
+       <lb ed="#B" n="24"/>vult malum. Nunc autem per se nullum malum poenae aut culpae potest intendi inquantum malum: quia bonum 
+       <lb ed="#B" n="25"/>est ratio appetibilis: &amp; ita quod malum potest appeti, hoc est per accidens, inquantum consequitur ali- 
+       <lb ed="#B" n="26"/>quod bonum iunctum illi malo. quemadmodum agens naturale intendit priuationem siue corruptio 
+       <lb ed="#B" n="27"/>nem vnius formae in materia per acciden scilicet quia intendit per se esse alterius formae: quae non potest 
+       <lb ed="#B" n="28"/>esse in materia nisi coniuncta priuationi alterius. sic &amp; fornicator intendens delectationem per se: par  
+       <lb ed="#B" n="29"/>accidens intendit difformitatem culpae quae connexa est. Sed sic velle malum culpae non potest nisi 
+       <lb ed="#B" n="30"/>voluntas mala. &amp; sic voluntas dei cum non possit esse mala:, ipse nec per se nec per accidens pont vel 
+       <lb ed="#B" n="31"/>le malum culpae: quare nec intendere quidcumque bonum inde prouenire posset si esset: vel impediri si 
+       <lb ed="#B" n="32"/>non esset. &amp; hoc ideo quia per se priuat ordinem ad bonum quod ipse est: propter quod non permittit 
+       <lb ed="#B" n="33"/>malum esse sine poena: &amp; vt inordinatum per culpam ab ipso, ordinet in ipsum per poenam. Et se 
+       <lb ed="#B" n="34"/>cundum hoc malum poenae potest appetere: sed non nisi secundum modum quem alibi exposuimus 
+       <lb ed="#B" n="35"/>quaestione de caeco nato. Si vero dicatur quod intentio &amp; voluntas dei in permittendo mala non cadit 
+       <lb ed="#B" n="36"/>super hoc totum: vt intentio aut voluntas vllo modo feratur super malum: sed solummodo super 
+       <lb ed="#B" n="37"/>permittere: vt intendat siue velit malum permittere esse aut fieri: non ratione totius sed partis: esto 
+       <lb ed="#B" n="38"/>quod ita sit vt secundum hunc modum deus intendat &amp; velit permittere mala esse &amp; fieri: licet non ve 
+       <lb ed="#B" n="39"/>lit mala esse aut fieri: cum tamen non sit bene clarum quomodo intendat &amp; velit vnum sed non alterum: non 
+       <lb ed="#B" n="40"/>tamen ad manifestandum bonitatem suam, vt scilicet pluribus modis manifestetur, debet hoc permittere: 
+       <lb ed="#B" n="41"/>quia isto modo sufficienter manifestatur in iusta punitione daemonum: quorum reprobationis causa 
+       <lb ed="#B" n="42"/>est meritum culpae eorum: aliis misericorditer receptis ad gloriam: vt secundum hoc inaequalitas in an  
+       <lb ed="#B" n="43"/>gelis quo ad malitiam &amp; non malitiam sit ratio ex parte illorum diuersa quo ad glorificationem 
+       <lb ed="#B" n="44"/>&amp; damnationem. Vnde modus manifestationis iustae bonitatis dei in angelis &amp; hominibus damna 
+       <lb ed="#B" n="45"/>tis non differt secundum gradus &amp; speciim: sed secundum misericordiam tantum: quae non pertinetes 
+       <lb ed="#B" n="46"/>sentialiter ad bonitatis dei manifestationem: neque ad perfectionem per consequens vniuersi: sicut ne 
+       <lb ed="#B" n="47"/>que pertinet essentialiter ad perfectionem vniuersi quod sunt plura vel pauciora indiuidua sub eadem 
+       <lb ed="#B" n="48"/>specie. Praeterea si aliquo modo sit diuersitas in manifestando bonitatem dei aliter in poenis ho- 
+       <lb ed="#B" n="49"/>minum &amp; daemonum: vt propterea non propter aliam rationem partem massae humanae permittat indanmna  
+       <lb ed="#B" n="50"/>tionem: consimiliter esset diuersitas manifestandi misericordiam suam si glorificasset aliquos homi 
+       <lb ed="#B" n="51"/>nes innocentes: sicut glorificauit angelos innocentes: vel aliquos angelos aut homines fine omni meri 
+       <lb ed="#B" n="52"/>to in seipsis vel in alio: quemadmodum meritum quo paruuli per gratiam sacramentorum saluantur 
+       <lb ed="#B" n="53"/>erat in Christo: in quo videtur fuisse manifestatio maioris mimae quam sit modo manifestata in angelis &amp; homin- 
+       <lb ed="#B" n="54"/>bus glorificatis ex meritis. Si ergo ad sic manifestandum bonitatem suae miae non voluit milericorditer 
+       <!--660.xml-->
+       <pb ed="#B" n="310-r"/>
+        <lb ed="#B" n="1"/>glorificare homines &amp; angelos sine merito: sed sufficienter manifestata in hominibus &amp; angelis glori 
+       <lb ed="#B" n="2"/>ficatis ex merito: multo minus ad manifestandum bonitatem iustitiae suae opus fuit poenis homi- 
+       <lb ed="#B" n="3"/>num peccatorum, cum sufficienter fuit manifestata in poenis angelorum peccantium. Et sic non mi- 
+       <lb ed="#B" n="4"/>nus sufficienter manifestaretur essentialiter bonitas iustitiae in non permittendo homines peccato 
+       <lb ed="#B" n="5"/>res in massa damnationis, quam permittendo: vt propterea congruentius videtur esse quod accipiatur ra-  
+       <lb ed="#B" n="6"/>tio permissionis illius ex aliquo secundum quod possit inueniri inaequalitas in liberatis de massa &amp; non li- 
+       <lb ed="#B" n="7"/>beratis: &amp; hoc ex parte ipsorum secundum praeassignatum modum: vt nec apparens inaequalitas 
+       <lb ed="#B" n="8"/>sit apud deum: cum non reddit inaequaliter nisi inaequalibus. Nec est contra rationem iustitiae praedesti- 
+       <lb ed="#B" n="9"/>nationis reddere gratiam primam ex merito congrui: immo dare eam sine tali debito vni &amp; non alteri 
+       <lb ed="#B" n="10"/>potius apparet contra rationem iustitiae ex parte recipientis &amp; non recipientis: licet ex parte dei quae-  
+       <lb ed="#B" n="11"/>litercunque disponeret nulla omnino esset iniustitia. Et si non potest dici quod homines danmnatos aliquos 
+       <lb ed="#B" n="12"/>esse in perpetuis poenis non sit de perfectione manifestationis diuinae bonitatis essentialiter: mul- 
+       <lb ed="#B" n="13"/>to fortius nec de perfectione vniuersi. propter quam aliqui putauerunt ipsos ponendos esse in vniuer- 
+       <lb ed="#B" n="14"/>so: quid tamen non est verum. De persectione enim vniuersi non sunt nisi essentiales partes, specie scilicet entium po  
+       <lb ed="#B" n="15"/>sitiuae: nuilum autem defectiuum siue sit culpa siue poena: nec etiam positiuum quod dependet ex aliquo isto 
+       <lb ed="#B" n="16"/>rum, inquantum dependet ex hoc. Et sic patet quod non est simile quid assumunt pro simil scilicet quod sicut ad perfe 
+       <lb ed="#B" n="17"/>ctionem vniuersi requiruntur diuersi gradus rerum in suis formis naturalibus: &amp; hoc ex eadem ma 
+       <lb ed="#B" n="18"/>teria in generabilibus &amp; corruptibilibus: sic propter bonitatem iustitiae dei manifestandam ad perfectio- 
+       <lb ed="#B" n="19"/>nem vniuersi requiruntur diuersi gradus in moribus, sanctorm scilicet &amp; damnatorum differentium in glo 
+       <lb ed="#B" n="20"/>ria &amp; poena secundum virtutes &amp; vitia. Illa enim per se sunt de perfectione vniuersi: ista autem ne 
+       <lb ed="#B" n="21"/>quaquam. Quod patet, si esset poena damnatorum de vniuersi perfectione, sufficeret tantum in angelis, vt dictum 
+       <lb ed="#B" n="22"/>est. Et quod assumitur, quod sicut sine omni ratione ex eadem materia secundum partes aequales fiunt di  
+       <lb ed="#B" n="23"/>uersa secundum gradus: ergo similiter hic ex eadem massa corrupta sine omni alia ratione a volum 
+       <lb ed="#B" n="24"/>tate dei potest quosdam eligere: quosdam reprobare: Posset reuera absolute secundum praedictum 
+       <lb ed="#B" n="25"/>modum. Sed non est simile: quia ibi ex parte materiae impossibile est aliam esse dispositionem inquan 
+       <lb ed="#B" n="26"/>tum materia est nuda in vna parte eius quam in alia: &amp; essentialiter pertinent ad perfectionem vniuer 
+       <lb ed="#B" n="27"/>si diuersae formae sub quibus est. Hic autem ex parte massae corruptae in hominibus possibile est per do  
+       <lb ed="#B" n="28"/>num gratiae gratis datae aliam esse dispositionem in vno &amp; altero: sicut &amp; materia sub aliqua for- 
+       <lb ed="#B" n="29"/>ma non est in potentia proxima ad illud ad quod est in potentia proxima sub alia forma: secundum quod 
+       <lb ed="#B" n="30"/>acetum non est in potentia vnium: sed aqua in stipite. Praeterea vt dictum est, omnes illae formarum  
+       <lb ed="#B" n="31"/>differentiae sunt essentialiter de perfectione vniuersi: non autem istae differentiae hominum in glo- 
+       <lb ed="#B" n="32"/>ria &amp; in poena existentium. Et quod assumitur: quod illum fecit nasci caecum solum propter manifestationem 
+       <lb ed="#B" n="33"/>bonitatis siue gloriae suae omni alia ratione exclusa: non sic autem alium: ergo similiter hic vnum po 
+       <lb ed="#B" n="34"/>test permittere in damnatione debita &amp; non alium: omni alia ratione exclusa: Dicendum quod hic non 
+       <lb ed="#B" n="35"/>potest dici quod hoc fecit quia praesciuit istum vsurum libero arbitrio in susceptione illuminationis in se 
+       <lb ed="#B" n="36"/>ad gloriam dei aliter quam alium, quia esto quod alium similiter sciuisset vsurum, non sequitur quod in ambo- 
+       <lb ed="#B" n="37"/>bus exercuisset miraculum illuminationis: sicut in proposito duobus aequaliter se habentibus ad generam primam 
+       <lb ed="#B" n="38"/>aequaliter secundum cursum conmunem confert generam secundam. Nec potest dici quod ratio in proposito potest esse ex parte 
+       <lb ed="#B" n="39"/>assistentium: quia iste erat mendicare assuetus circa templum vbi plures conuenerant: &amp; ideo in ipso magis 
+       <lb ed="#B" n="40"/>fuit famosum ad gloriam dei: quia plures tales caeci circa templum consimiliter reperiri poterant: 
+       <lb ed="#B" n="41"/>non tamen in omnibus fuisset factum miraculum ad gloriam dei. ldeo dicendum quod secus est in ele 
+       <lb ed="#B" n="42"/>ctione aliquorum ad donum gratuitum: &amp; ad donum gratum faciens, quoniam ad donum gratui 
+       <lb ed="#B" n="43"/>tum bene solum consideratur a deo causa &amp; ratio finalis: scilicet manifestatio bonitatis suae: &amp; nul 
+       <lb ed="#B" n="44"/>la ex parte rei circa quam sit, vt in proposito: &amp; similiter in dando essentiis specierum esse in aliquo vel in  
+       <lb ed="#B" n="45"/>aliquibus indiuiduis &amp; non in aliis: cum tamen aequaliter ad recipiendum esse speciei in effectu in  
+       <lb ed="#B" n="46"/>se est in potentia quodlibet indiuiduum, nec potest esse vnum ad illud congruentius quam aliud: si- 
+       <lb ed="#B" n="47"/>cut potest adultus vnus super alterum in susceptione gratiae aut gloriae. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e1438">
+       ET quod arguitur quod hoc vi 
+       <lb ed="#B" n="48"/>detur sensisse apostolus cum dixit. Voluit autem deus ostendere &amp;c. Roma. ix. Dicendum quod hoc 
+       <lb ed="#B" n="49"/>dixit: &amp; exemplum de figulo immediate proposuit ad confirmandum illud quod praemisit. Q ho- 
+       <lb ed="#B" n="50"/>mo tu quis es &amp;c. Vnde secundum ibi exposita, haec omnia &amp; consimilia dixit non ex inopia redden- 
+       <lb ed="#B" n="51"/>dae rationis praedicto modo: sed vt reprimat temeritatem incapacibilium. Bene enim verum est 
+       <lb ed="#B" n="52"/>quod deus volens ostendere iram suam. i. iustam vidictam sustinuit in multa patientia vasa irae apta in interitum vt ostem 
+       <lb ed="#B" n="53"/>deret &amp;c. Et debet legi Iy vt, consecutiue: &amp; secundum genus causae finalis &amp; ex quae omnes possunt videre: vt bene 
+       <lb ed="#B" n="54"/>exponit dicta positio: per quod non excluditur ratio effectia ex parte recipientis secundum praedicta. Nec est simile in exemplo apsoli 
+       <!--661.xml-->
+       <pb ed="#B" n="310-v"/>
+        <lb ed="#B" n="1"/>nisi ex parte finis: ex parte autem subiecti nequaquam: quia ibi nulla potest esse ratio ex parte subiecti: sicut 
+       <lb ed="#B" n="2"/>neque in prima materia: hic autem potest, vt iam dictum est. Et similiter respondendum est de lapidibus po- 
+       <lb ed="#B" n="3"/>nendis in aedificio. Sed exemplum de vasis fictilibus, ligneis, &amp; argenteis, &amp; aureis magis valet ad pro 
+       <lb ed="#B" n="4"/>positum: quia ibi differentia est in subiecto: propter quam vasa fictilia fiunt in maiorem contumeliam: li 
+       <lb ed="#B" n="5"/>gnea in minorem: aurea in honorem maiorem: &amp; argentea in minorem: illa in interitum: ista in gloriam. Vn  
+       <lb ed="#B" n="6"/>de dicit ibi glossa. In magna domo. i. in ecclesia. Item non solum vasa aurea &amp; argentea. i. boni dei dispe 
+       <lb ed="#B" n="7"/>satores: sed lignea &amp; fictilia. i, mali. Et quaedam sunt in honore. scilicet boni: quaedam autem in contumeliam 
+       <lb ed="#B" n="8"/>cilicet mali. &amp; sicut illa fracta extra domum eiiciuntur: &amp; alia non fracta studio reponuntur: ita mali mortui 
+       <lb ed="#B" n="9"/>in tenebras exteriores, boni vero in vitam aeternam collocabuntur &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e1480">
+       EST autem alia difficultas 
+       <lb ed="#B" n="10"/>circa praedicta de paruulis: quorum vnus venit ad baptismum: alter non: ex quibus ambobus praeuem 
+       <lb ed="#B" n="11"/>tis morte vnus damnatur: alter glorificatur. Dicendum quod non est simile de illis quae fiunt a deo imme 
+       <lb ed="#B" n="12"/>diate &amp; quae mediate. In istis enim sinit agere medias causas cursu suo. dicente <name ref="#Augustine">Augustinus</name> de ciui. dei. Sic 
+       <lb ed="#B" n="13"/>deus res administrat vt eas, proprios motus agere sinat. Et sic quod vnus venit ad baptismum, alter non: est 
+       <lb ed="#B" n="14"/>propter medias causa scilicet sacramentum: &amp; illos per quos debet applicari: quae concurrunt circa vnum, secun 
+       <lb ed="#B" n="15"/>dum dei prouisionem, &amp; non circa alterum. Siqua autem sit alia causa ex parte illorum in praescientia dei 
+       <lb ed="#B" n="16"/>ignoramus. In proposito autem dubitatio nostra est solum circa adultos &amp; in actione eorum quae ha 
+       <lb ed="#B" n="17"/>bent fieri a solo deo immediate. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e1503">
+       ALIAdifficultas solet induci de sanctificatis vel paruulis in vtero 
+       <lb ed="#B" n="18"/>vt de loan. Bap. vel adultis vt de Paulo. Et licet forte huiusmodi factorum aliqua alia ratio sit, non tamen 
+       <lb ed="#B" n="19"/>video aliam quam supra tactm scilicet bonum vsum in praescientia: quo adulti ad primum motum gratiae gratis datae  
+       <lb ed="#B" n="20"/>per liberum arbitrium bene se habuissent si non fuissent iustificati nisi secundum legen conmunem: &amp; tanto meliorem 
+       <lb ed="#B" n="21"/>aliis in vsu gratiae iustificantis, quanto maiori dono eos praeuenit: et siquis tali dono praerecepto an-  
+       <lb ed="#B" n="22"/>te vsum liberi arbitrii moriatur &amp; euolet ad gloriam, ex sola potentia absoluta absque omni alia ratione col- 
+       <lb ed="#B" n="23"/>latum fuit, sine aliquo merito etiam congrui, etiam in dei praescientia praecedente. Sed puto nemini ta- 
+       <lb ed="#B" n="24"/>le donum conferri nisi victuro &amp; bene per liberum arbitrium vsuro. Vnde Augu. lxxxiii, quod q. lxiii. eandem ra 
+       <lb ed="#B" n="25"/>tionem de istis &amp; de aliis simul assignat dicens. Haec autem vocatio quae siue in singularibus hominibus 
+       <lb ed="#B" n="26"/>siue in pluribus siue in ipso genere humano per temporum opportunitates operatur, altae &amp; profun- 
+       <lb ed="#B" n="27"/>dae rationis est. Quo pertinet illud. In vtero sanctificaui te: &amp; Iacob dilexi: Esau autem odio habui. Sed  
+       <lb ed="#B" n="28"/>forte dicet aliquis quod <name ref="#Augustine">Augustinus</name> illud de hac materia secundum praemissam determinationem dixit in libro  
+       <lb ed="#B" n="29"/>super epistolam ad Roma. exponendo illud <ref xml:id="n3av8a-c1e3163-Rd1e1534">Ro. ix.</ref> 
+       <quote xml:id="n3av8a-c1e3163-Qd1e1537" source="http://scta.info/resource/rom9_11">Vt secundum electionem propositum dei mane  
+       <lb ed="#B" n="30"/>ret</quote> &amp;c. Cui dicendum quod in dicto <name ref="#Augustine">Augustinus</name> erat aliquid generale scilicet quod electionis dei quo ad effectum eius 
+       <lb ed="#B" n="31"/>aliqua est ratio ex parte electi in dei praescientia, &amp; aliquid speciale scilicet quod illud erat actus fidei infor-  
+       <lb ed="#B" n="32"/>mis. &amp; quo ad hoc speciale retractauit non autem quo ad generale: quod aliquid aliud esset. Vnde quod di-  
+       <lb ed="#B" n="33"/>xit: nonnullos mouet vt putent apostolum Paulum abstulisse liberum voluntatis arbitrium. dicunt 
+       <lb ed="#B" n="34"/>enim quod ante opera aliqua siue bona siue mala duorum nondum nascentium deus vnum dilexit: alterum  
+       <lb ed="#B" n="35"/>odio habuit. Sed respondemus: praescientia dei factum esse qua nouit etiam de nondum natis quis quisque  
+       <lb ed="#B" n="36"/>futurus sit: illud nunquam retractauit: sed potius post aliquam interposita declarat sine retractatione quod hoc  
+       <lb ed="#B" n="37"/>concedit, subdens quomodo elegit cui donet. Si enim nullo merito, non est electio. aequales enim omnes fiunt 
+       <lb ed="#B" n="38"/>ante meritum: nec potest in rebus omnino aequalibus electio nominari. Et illud quod dicit. Si enim nullo me 
+       <lb ed="#B" n="39"/>rito. intelligo merito saltem congrui: ad statum. scilicet liberi arbitrii praedictum ad diuinam admonitionem: &amp; quo  
+       <lb ed="#B" n="40"/>ad peccati praedictam imperfectam per gratiam gratis datam detestationem. Et quia <name ref="#Augustine">Augustinus</name> illudtunc intel- 
+       <lb ed="#B" n="41"/>lexit de merito fidei informis quam credebat esse ex nobis: secundum quod explicant verbasua continuesequan  
+       <lb ed="#B" n="42"/>tia: quibus dicit sic. Sed quoniam spiritus sanctus non datur nisi credentibus, non quidem ipse elegit opera quae 
+       <lb ed="#B" n="43"/>ipse largitur, cum dat spiritum sanctum vt per charitatem bona operemur: sed tamen elegit fidem: quia nisi 
+       <lb ed="#B" n="44"/>quisque credat &amp; in accipiendi voluntate permaneat non accipit donum de id est piritum sanctum: per 
+       <lb ed="#B" n="45"/>quem infusa charitate bonum possit operari: non ergo elegit deus opera cuiusquam in praescientia quae ipse 
+       <lb ed="#B" n="46"/>daturus est: sed fidem elegit in praescientia &amp;c. vt pertractatur primo sententiarum dist. xlic capitu. Opinati 
+       <lb ed="#B" n="47"/>sunt tantum. ldeo ista retractauit quo ad hoc: quia etiam ipsa fides est donum dei. Sed quod sequitur: Est autem 
+       <lb ed="#B" n="48"/>gratia vt vocatio peccatori praerogetur cum eius merita nulla nisi ad damnationem praecesserintur: quod  
+       <lb ed="#B" n="49"/>si vocatus vocantem secutus fuerit, quid est iam in libero arbitrio, merebitur &amp; spiritum sanctum: per quem possit bo 
+       <lb ed="#B" n="50"/>na operari: in quo permanens, quod nihilominus est in libero arbitrio merebitur &amp; vitam aeternam: hoc non re 
+       <lb ed="#B" n="51"/>tractauit. In quo aperte insinuat vocationem per gratiam gratis datam esse and omnia merita digni: &amp; 
+       <lb ed="#B" n="52"/>esse in potestate liberi arbitrii sequi gratiam illam, etsi non credendo. quod retractat <name ref="#Augustine">Augustinus</name> quia fides nullo modo 
+       <lb ed="#B" n="53"/>datur nisi cum gratia. Sequi tamen potest sistendo praedicto modo: &amp; incomplete peccata detestan-  
+       <lb ed="#B" n="54"/>do, vt dictum est. Et per hoc meretur de congruo spiritum sanctum dantem gratiam iustificantem: &amp; per il 
+       <!--662.xml-->
+       <pb ed="#B" n="311-r"/>
+        <lb ed="#B" n="1"/>lam vitam aeternam: vt supra expositum est. His tamen vt dicit magister aduersari videtur quod di-  
+       <lb ed="#B" n="2"/>cit <name ref="#Augustine">Augustinus</name> super Malachiam. vbi scriptum est. Iacob elegi: Esau autem odio habui. Cui vult (inquit) miseretur 
+       <lb ed="#B" n="3"/>quem vult indurat. Sed haec voluntas dei iniusta esse non potest &amp;c. vt habitum est supra de. lxxxiii. q. Prae- 
+       <lb ed="#B" n="4"/>cedit ergo aliquid in peccatoribus: quo quamuis nondum sint iustificati digni efficiantur iustificatione: &amp; ite- 
+       <lb ed="#B" n="5"/>rum praecedit in aliis peccatoribus quo digni sunt obstinatione. Intellige digni de congruo respectu 
+       <lb ed="#B" n="6"/>iustificandorum: proprie autem digni immo condigni respectu aliorum: Et dicit magister dist. praedicta 
+       <lb ed="#B" n="7"/>cap. His tamen. Quid intelligere voluit ignoratur, &amp; credo non temerarie desinendo, sed pie inquirendo quod illud  
+       <lb ed="#B" n="8"/>sit quod iam supra exposuimus. Melior est enim fidelis ignorantia quam temeraria scientia, vt dicit magister loquem 
+       <lb ed="#B" n="9"/>do de hac materia. Sed magister putat eum intellexisse quod iam vt dictum est retractauit. Sed mirum est quomodo  
+       <lb ed="#B" n="10"/>magister hoc potuit dicere. quoniam vt dicit <name ref="#Augustine">Augustinus</name> libro i. retracta cap. xxii. cum adhuc presbvter esset librum super  
+       <lb ed="#B" n="11"/>epistolam ad Roma. retractauit: &amp; vt dicit cap. xx. librum. lxxxiii, quod retractauit iam episcopus, quas tunc 
+       <lb ed="#B" n="12"/>primo colligi fecit: &amp; in vnum librum redigi, quia vsque ad illud tempors dispersae erant per chartulas multas. Ex quo  
+       <lb ed="#B" n="13"/>plane patet quod non est verisimile quod dicta in libro lxxxiii, quod retractauit retractando dicta super epistolam  
+       <lb ed="#B" n="14"/>ad Ro. cum nec tunc has quaestiones habuit prae manibus, &amp; toti libro proprium cap. in retractationibus de-  
+       <lb ed="#B" n="15"/>dit: nec retractando illud dictum, nec insinuando quod illud alibi retractauerat. Quod vt credo magister be 
+       <lb ed="#B" n="16"/>ne vidit nihil esse. Vnde dictum istud <name ref="#Augustine">Augustinus</name> exponens incidit in id quod diximus. Sic enim ait. Potest tamen accipi 
+       <lb ed="#B" n="17"/>ex eo sensu fore dictum: quia aliqui non adeo mali sunt vt mereantur sibi gratiam non impartiri &amp;c. vbi di-  
+       <lb ed="#B" n="18"/>stinguit quod aliqui ita in profundum iniquitatis deuenerunt vt mereantur penitus abiici. alii autem etsi non  
+       <lb ed="#B" n="19"/>mereantur gratiam iustificantem, non tamen merentur omnino repelli. Qui sunt isti quaero: nec potest dici quod sint 
+       <lb ed="#B" n="20"/>alii quam existentes in solo originali: vel in aliquo actuali mortali. Et de vtroque horum verum est dice- 
+       <lb ed="#B" n="21"/>re quod mereatur omnino repelli si nullo instinctu gerae praeueniatur, cui liberum arbitrium non contradicat: sed  
+       <lb ed="#B" n="22"/>in aliquo consentiat: per quid solum vt exposuimus non mereatur repelli, immo de congruo mereatur visi 
+       <lb ed="#B" n="23"/>tari, quod bene vidit magister: &amp; ideo addit. Sed hoc friuolum est: bene tamen verum est quod vnus plus meretur 
+       <lb ed="#B" n="24"/>propter actualia maiora repelli quam alter: propter quod vnum visitat quando alterum non visitat: vel vnum  
+       <lb ed="#B" n="25"/>magis alterum minus fortasse. 
+      </p>
+      <p xml:id="n3av8a-c1e3163-d1e1674">
+       PER praedicta patent obiecta vtriusque partis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="531-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5181">
+       <head xml:id="n3av8a-c1e5181-Hd1e96">Quaestio 9</head>
+       <p xml:id="n3av8a-c1e5181-d1e99">
+        <lb ed="#B" n="13"/>Irca secundum arguitur: quod bonum sub ratione conuenientis sit per se &amp; primum obie 
+       <lb ed="#B" n="14"/>ctum voluntatis, &amp; non sub ratione boni simpliciter: quia inquantum conueniens so 
+       <lb ed="#B" n="15"/>lummodo habet rationem finis, qui est obiectum voluntatis: &amp; non secundum quod est bo 
+       <lb ed="#B" n="16"/>num simpliciter: quia dicit <name ref="#Aristotle">Philosophus</name> primo Ethicorum. Si poneretur bonum separa-  
+       <lb ed="#B" n="17"/>tum, non haberet rationem finis. Bonum autem simpliciter non est nisi bonum sepa- 
+       <lb ed="#B" n="18"/>ratum. Item in magnis moralibus dicitur: quod bonum dicitur aequaliter enti. sed bo 
+       <lb ed="#B" n="19"/>num vt de quolibet ente dicitur: quod est bonum simpliciter: non est obiectum volunta 
+       <lb ed="#B" n="20"/>is: quia aliquod est nociuum vt venenum: ergo &amp;c. Item in iii. de Anima dicitur: illud est principium pra 
+       <lb ed="#B" n="21"/>ctici intellectus, quid est finis operis: finis autem operis non est nisi bonum conueniens: ergo &amp;c. &amp; hoc 
+       <lb ed="#B" n="22"/>dicit Eustathius super illud: Omnia bonum appetunt. 
+      </p>
+      <p xml:id="n3av8a-c1e5181-d1e126">
+       CONtra est: quia tunc obiectum volunta- 
+       <lb ed="#B" n="23"/>tis esset minus nobile, quam sit obiectum intellectus: quia ratio boni conuenientis est magis particula- 
+       <lb ed="#B" n="24"/>ris, quam ratio entis: quae est obiectum intellectus. Item tunc sequeretur: quod deus diligeretur in ordine 
+       <lb ed="#B" n="25"/>ad aliquid aliud: quia conueniens semper est ad aliud. Illud falsum est: quia omnia referuntur ad obie- 
+       <lb ed="#B" n="26"/>ctum primum. 
+      </p>
+      <p xml:id="n3av8a-c1e5181-d1e137">
+       DICO secundum Philosophum. vii. Metaphysicae. Simpliciter dicitur aliquid dupliciter. Vno modo: quod  
+       <lb ed="#B" n="27"/>dicitur secundum communitatem: &amp; sic ens simpliciter est analogum ad decem praedicamenta. Alio mo- 
+       <lb ed="#B" n="28"/>do dicitur simpliciter potissimum contentum sub termino: &amp; sic substantia dicitur ens simpliciter. Se- 
+       <lb ed="#B" n="29"/>cundum hunc modum dico quod bonum simpliciter dupliciter dicitur: vel primo modo: sic bonum sim- 
+       <lb ed="#B" n="30"/>pliciter conuertitur cum ente vt dicit secunda ratio: vel secundo modo: &amp; sic bonum simpliciter so- 
+       <lb ed="#B" n="31"/>lummodo est bonum fruibile quod in se habet rationem omnis boni &amp; desiderabilis. Similiter etiam bo- 
+       <lb ed="#B" n="32"/>num conueniens dupliciter dicitur. Vno enim modo de bono conuenienti naturae vniuscuiusque per quod ipsa perfi 
+       <lb ed="#B" n="33"/>citur &amp; saluatur in esse. De quo dicitur: quod omnia bonum appetunt. Alio mod dicitur bonum conueniens appe- 
+       <lb ed="#B" n="34"/>titui rationali. Cui potest dici aliquid conveniens in generali vel in speciali: &amp; vel vt finis vel vt existens ad finem 
+       <lb ed="#B" n="35"/>ordinabile: &amp; hoc vel vt conveniens appetenti tantum: vel vt conveniens appetenti &amp; fini simul. Loquendo ergo  
+       <lb ed="#B" n="36"/>de bono simpliciter primo modo: &amp; similiter de bono conuenienti primo modo: Dico: quod neutrum eorum est per se primum ob- 
+       <lb ed="#B" n="37"/>iectum voluntatis: quia neutrum eorum inquantum huiusmodi est finis &amp; perfectio voluntatis inquantum voluntas est: sed  
+       <lb ed="#B" n="38"/>potius naturae cuiuscumque inquantum natura est. sic enim bonum famelici est cibus, &amp; sitientis potus, &amp; infir 
+       <lb ed="#B" n="39"/>mi sanitas &amp; huiusmodi caetera. Loquendo vero de bono simpliciter secundo modo, &amp; similiter de bono com 
+       <lb ed="#B" n="40"/>uenienti secundo modo, de illis bona est quaestio: sed de bonis primo modo dictis nequaquam. illis enim modis non 
+       <lb ed="#B" n="41"/>dicitur aliquid bonum in ordine ad voluntatem: sed in ordine ad finem ad quem naturaliter est. sed se. scilicet in or- 
+       <lb ed="#B" n="42"/>dine ad voluntatem, dicitur bonum istis modis: Bonum enim simpliciter secundo modo non est nisi beatitudo: quae habetur 
+       <lb ed="#B" n="43"/>vel in bono increato. dicente <name ref="#Augustine">Augustinus</name> de moribus ecclsiae. Bonorum summa deus nobis est, neque infra nobis 
+       <lb ed="#B" n="44"/>remanendum est neque vltra quaerendum: alterum enim periculosum: alterum nullum. Secutio dei beatitudinis ap 
+       <lb ed="#B" n="45"/>petitus est. Assequutio autem, ipsa bonitas. Cum hoc omnino efficimur quod ipse est: eumque mirifico &amp;lintelligibili 
+       <lb ed="#B" n="46"/>modo contingentes, eiusque veritate &amp; sanctitate. i. bonitate penitus illustrati &amp; comprehensi. &amp; tale bonum 
+       <lb ed="#B" n="47"/>simpliciter non est nisi bonum aliquod singulare: in quo est vera beatitudo. Vel potest consistere bonum simpliciter quod  
+       <lb ed="#B" n="48"/>est beatitudo in bono conuenienti generaliter dicto: quod est respectu voluntatis bonum simpliciter primo modo 
+       <lb ed="#B" n="49"/>quia est in bono vniuersali in quo est beatitudo apparens. propter quod in ipsa est veritas in speciali. 
+       <lb ed="#B" n="50"/>Vt enim (secundum quod dicit <name ref="#Augustine">Augustinus</name> xiii. de trinitate capituloiiii. quaeque res magis delectauit: ita in eo constituerunt vitam 
+       <lb ed="#B" n="51"/>beatam. Et istud bonum conueniens secundo modo in generali, est bonum conmodum: quid continet sub se bonum simpliciter iam 
+       <lb ed="#B" n="52"/>dictu. scilicet bonum singulare quid deus est. lpsum. ni est commodum quodda. scilicet quid est finis. de quae dicit Anselante finem 
+       <lb ed="#B" n="53"/>de concordia. In brintudine secundum omnem sensum est sufficientia competentium conmodorum sine omni indigentia. Conti 
+       <lb ed="#B" n="54"/>net etiam omnia convenientia speciali modo dicta quae sunt ad finem. Este enim bonum conueniens appetenti tantum, bonum vt 
+       <!--1102.xml-->
+       <pb ed="#B" n="531-r"/>
+        <lb ed="#B" n="1"/>nunc. bonum conueniens appetenti &amp; fini, est bonum quod decet &amp; iustum est appetitum rationalem desiderare. Il- 
+       <lb ed="#B" n="2"/>lud autem bonum conmodum in generali nullus potest non appetere. dicente Anseliu. Nullus vult nisi quid ali 
+       <lb ed="#B" n="3"/>quo modo putat sibi commodum. Hoc enim modo omnes bene esse sibi volunt. &amp; in fine de concordia dicit: 
+       <lb ed="#B" n="4"/>quod conmoda non velle nequit. Et commodum sic in generali appetere, est btintudinem in generali appetere, &amp; veram btin- 
+       <lb ed="#B" n="5"/>tudinem quae deus est: quia nihil aliorum appetitur, nisi sub ratione boni: quae non est nisi aliqua effigies veri &amp; puri boni 
+       <lb ed="#B" n="6"/>quod est in deo. dicente <name ref="#Augustine">Augustinus</name> libro ii. Confess. Fornicatur anima, cum auertitur abs te, &amp; quaerit non apud te quae pu 
+       <lb ed="#B" n="7"/>ra &amp; liquida non inuenit nisi in te, cum redit ad te. Idem de verbis. Apostoli. Omnia in omnibus erit. 
+       <lb ed="#B" n="8"/>Quid est omnia: quicquid hic quaerebas, quicquid pro magno habebas, quicquid hic amabas, quicquid hic 
+       <lb ed="#B" n="9"/>volebas: ipse tibi erit. Verum est. sed sub eminentiore ratione boni, quam hic. Tale ergo commodum in generali 
+       <lb ed="#B" n="10"/>appetere, est quoquo modo beatitudinem appetere. dicente <name ref="#Augustine">Augustinus</name> xiii. de Trini. ca. iii. in fine. Ac si dixisset 
+       <lb ed="#B" n="11"/>omnes beati esse vultis: miseri esse non vultis: dixisset aliquid quod nullus in sua voluntate non  
+       <lb ed="#B" n="12"/>agnosceret. quicquid enim aliud quisquam latenter velit, ab hac voluntate quae omnibus satis nota est non 
+       <lb ed="#B" n="13"/>recedit. In speciali autem praeter conmodum &amp; conueniens quid est finis: vt deus clare visus: quidcumque conmodum  
+       <lb ed="#B" n="14"/>pont non appeti. Sub conuenienti autem in generali comprehendendo omne conveniens praeter conveniens iustum 
+       <lb ed="#B" n="15"/>vt appellando illud conueniens in generali nomine commodi, omne appetibile in duo diuiditur. dicen- 
+       <lb ed="#B" n="16"/>te Anselu. de concor. gratiae &amp; libo arbi. cap. xii. Nihil vult voluntas: nisi aut commoditatem aut recti- 
+       <lb ed="#B" n="17"/>tudinem. Quicquid enim aliud vult, aut propter conmoditatem, aut propter rectitudinem vult: &amp; ad  
+       <lb ed="#B" n="18"/>has etiam si fallitur, putat se referre quod vult. Per affectionem, nm quae est ad volendum conmoditatem, sem 
+       <lb ed="#B" n="19"/>per vult homo beatitudinem. Per affectionem vero, quae est ad volendum rectitudinem, vult rectitudinem: &amp; re 
+       <lb ed="#B" n="20"/>ctus. i. iustus esse. Propter conmodum autem vult aliquid: vt cum vult arare vel laborare vt habeat vnde tu 
+       <lb ed="#B" n="21"/>eatur vitam &amp; salutem: quae iudicat esse commoda. Propter vero rectitudinem vult cum vult cum labore di  
+       <lb ed="#B" n="22"/>scere vt sciat recteid est iuste viuere. 
+      </p>
+      <p xml:id="n3av8a-c1e5181-d1e265">
+       DIco igitur: quod sicut respectu visus illud est per se &amp; primum obiectum 
+       <lb ed="#B" n="23"/>visus quod per se &amp; primo visibile est, vt lux: quia in huiusmodi virtute caetera sunt visibilia: sicut colores 
+       <lb ed="#B" n="24"/>sic respectu voluntatis illud est per se &amp; primum obiectum voluntatis, quod per se &amp; primo est volibile, &amp; in  
+       <lb ed="#B" n="25"/>cuius virtute vult voluntas quaecunque alia sunt ei volibilia. Tale autem est bonum non conueniens ad finem 
+       <lb ed="#B" n="26"/>sed bonum simpliciter: quid est beatificans bonum &amp; habet rationem finis. In illo enim est perfecta ratio commo 
+       <lb ed="#B" n="27"/>di &amp; omnis boni alterius: &amp; hoc est bonum conmodum in quo est beatitudo. &amp; hoc vel sicut in quodam vni 
+       <lb ed="#B" n="28"/>uersali seu generali bono: vel sicut in quodam singulari quod est ipse deus. In virtute enim talis boni bonum conue 
+       <lb ed="#B" n="29"/>niens, simplicite. scilicet. secundum regulam iustitiae: &amp; similiter bonum conueniens carni contra regulam iusti- 
+       <lb ed="#B" n="30"/>tiae appetitur. Neutrum. n. horum in particulari: vt scilicet habet rationem conuenientis ad finem existens, quod pro 
+       <lb ed="#B" n="31"/>prie nominatur conueniens, appetitur nisi per resplendentiam aliquam boni simpliciter in illo quod quaerit 
+       <lb ed="#B" n="32"/>in illo: vbi tamen illud quaerere non deberet. Et ideo dico: quod bonum illud singulare quod est respectu volunta 
+       <lb ed="#B" n="33"/>tis est bonum simpliciter secundo modo dictum: &amp; hoc quia sub ratione illius omne aliud bonum appe 
+       <lb ed="#B" n="34"/>titur: siue sub ratione commodi: siue sub ratione conuenientis appetatur. De quo dicit <name ref="#Augustine">Augustinus</name> viii. de Trini. ca. 
+       <lb ed="#B" n="35"/>x. Non amas certe nisibonum: bonum hoc, bonum illud. Vide bonum si potest: ita deum videbis non alio 
+       <lb ed="#B" n="36"/>bono bonum: sed bonum omnis boni. Et contra istud bonum conmodum proprie distinguitur bonum conueniens 
+       <lb ed="#B" n="37"/>quod est vere conveniens: &amp; ad hunc vt ad finem ordinatur. &amp; hoc est bonum simpliciter, quid per se &amp; primum est 
+       <lb ed="#B" n="38"/>obiectum voluntatis: quia hoc est bonum quod non secundum aliud a voluntate iudicatur bonum: 
+       <lb ed="#B" n="39"/>sed potius secundum hoc iudicatur bonum quidcumque aliud bonum, secundum quod sequitur ibidem. Neque enim dicere 
+       <lb ed="#B" n="40"/>mus aliud alio melius cum vere iudicamus, nisi nobis esset impressa notio ipsius boni: secundum quam &amp; ap- 
+       <lb ed="#B" n="41"/>probamus aliquid: &amp; aliud alii praeponimus. Sed philosophi non ponentes ipsum deum bonum beatificans posuerunt bo 
+       <lb ed="#B" n="42"/>num simpliciter primo modo esse per se &amp; primum obiectum appetitus, siue esset naturalis absque cognitione, si 
+       <lb ed="#B" n="43"/>ue brutalis siue rationalis. Obiectum etiam appetitus rationalis, qui est voluntas, primum &amp; per se posuerunt 
+       <lb ed="#B" n="44"/>bonum conmodum quod est commune quid per praedicationem &amp; bonum simpliciter respectu talis appetitus sicut di-  
+       <lb ed="#B" n="45"/>ctum est. Hinc dicit Philosophus, loquens de motiuo appetitus cognitiui. iii. de Aima. Hoc autem est quod est bo 
+       <lb ed="#B" n="46"/>num aut quod videtur esse bonum: quae ambo continentur sub nomine commodi inquantum nominat conueniens genera- 
+       <lb ed="#B" n="47"/>liter dictum: sub quo etiam bonum continetur quod est finis sub ratione singularis etiam bonum conueniens. Quid tamen 
+       <lb ed="#B" n="48"/>distinguitur vt simpliciter bonum contra bonum conueniens quod est ad finem: quid solum proprie dici 
+       <lb ed="#B" n="49"/>tus conueniens &amp; nequaquam per se &amp; primum obiectum voluntatis: secundum quod procedit vltima ratio: quae secun- 
+       <lb ed="#B" n="50"/>dum hoc concedenda est. Si enim bonum conueniens, proprie dictum est quod non appetitur nisi in ordine ad aliud: &amp; 
+       <lb ed="#B" n="51"/>ratio primi appetibilis continetur in quolibet alio: Deus ergo in ordine ad aliud diligeretur: quid falsum 
+       <lb ed="#B" n="52"/>est. 
+      </p>
+      <p xml:id="n3av8a-c1e5181-d1e337">
+       AD primum in oppositum quod simpliciter bonum non habet rationem finis aut appetibilis: dico quod verum est opera- 
+       <lb ed="#B" n="53"/>bilis a nobis: de quo solummodo loquitur Philosophus: non appellando beatitudinem nisi bonum operabile a nobis in  
+       <lb ed="#B" n="54"/>vita ista. Hoc tamen bonum habet rationem appetibilis nobis per gratiam donabilis: de quo <name ref="#Aristotle">Philosophus</name> nihil sentiebat:  
+       <!--1103.xml-->
+       <pb ed="#B" n="531-v"/>
+        <lb ed="#B" n="1"/>quo modo in ipso est vera britudo. In quo multo melius quam Aristines sentiebat Plato: ponende scilicet beatitudinem 
+       <lb ed="#B" n="2"/>nostram tale bonum vel non praedicatione: sed virtute, quod Aristo. ad peruersum intellectum ducendo dicta Pla 
+       <lb ed="#B" n="3"/>tonis nititur improbare. quid bene insinuat Eusta. in Comment. Ad secundum: quod bonum simpliciter dicitur aequali i 
+       <lb ed="#B" n="4"/>ter enti &amp;c. Dico: quod verum est de bono primo modo dicto in prima distinctione boni simpliciter: de quo non  
+       <lb ed="#B" n="5"/>est hic quaestio: nisi quatenus obtinetur sub ratione commodi, quam &amp; rationem conmodi potest habere venenum, inquam 
+       <lb ed="#B" n="6"/>tum est medicamentum sanitatis: &amp; etiam habet esse cibus vitalis quibusdam animalibus: &amp; sic illis esse bonum natu  
+       <lb ed="#B" n="7"/>rae, licet sanis hominibus esset mors &amp; malum naturae. Ad tertium: quod practici intellectus &amp; finis operis non est ni 
+       <lb ed="#B" n="8"/>si bonum conueniens: Dico quod falsum est nisi loquendo de bono conuenienti in generali. de quo etiam loquitur Eusta. 
+       <lb ed="#B" n="9"/>Obiectum. n. practici intellectus &amp; finis operis est, &amp; bonum quod est finis, &amp; bonum quod est ad finem: licet aliter &amp; 
+       <lb ed="#B" n="10"/>aliter est obiectum intellectus, &amp; aliter finis operis: vt iam dicetur in sequenti quaestione. Ad primum in contrarium: a 
+       <lb ed="#B" n="11"/>quia videtur probare: quod primum &amp; proprium per se obiectum voluntatis sit bonum simpliciter primo modo dictum: quod scilicet con 
+       <lb ed="#B" n="12"/>uertitur cum ente: Dico: quod reuera, proprium &amp; per se &amp; primum obiectum voluntatis est magis nobile, quam obiectum 
+       <lb ed="#B" n="13"/>intellectus: quia semper nobilior est ratio boni, quam veri siue entis: quia in ratione boni includitur ratio veri: &amp; quid  
+       <lb ed="#B" n="14"/>additur, est ratio nobilior: quia est conditio finis: vt est perfectio appetitus. Nunc autem quondocumque sit additio vel qua-  
+       <lb ed="#B" n="15"/>si alicuius nobilioris, &amp; per hoc quoquo modo sit magis particulare &amp; quasi compositum aut vere compositum: 
+       <lb ed="#B" n="16"/>tale quid est magis nobile, quam simplum minus particulare: vt contingit velite in genere &amp; specie quae constituitur 
+       <lb ed="#B" n="17"/>per differentiam quae aliquid nobilius importat quam genus. &amp; sic licet ratio boni conuenientis siue conueniens su- 
+       <lb ed="#B" n="18"/>matur generaliter siue specialiter: semper ratio boni est nobilior, quam ratio veri. Et sic necessario bonum quod est conue- 
+       <lb ed="#B" n="19"/>niens vel vel virtute vel praedicatione quod appellatur bonum simpliciter respectu voluntatis: aut bonum conueniens 
+       <lb ed="#B" n="20"/>speciale, quid proprie dicitur conueniens: inter quae procedit quaestio: necesse est ponere per se proprium 
+       <lb ed="#B" n="21"/>&amp; primum obiectum voluntatis: vt patet ex dictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

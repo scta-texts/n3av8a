@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 26</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 26</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="144-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1622">
+       <head xml:id="n3av8a-c1e1622-Hd1e96">Quaestio 26</head>
+       <p xml:id="n3av8a-c1e1622-d1e99">
+        <lb ed="#B" n="38"/>SEquuntur quaestiones circa hominem pertinentes principaliter ad corpus &amp; ad corpo- 
+       <lb ed="#B" n="39"/>ris vsum. vbi quaerebantur duo de acquirendis: &amp; quaedam alia de iam acquisitis. Primum illorum  
+       <lb ed="#B" n="40"/>erat de acquirendis per eleemosynam: vtrum liceat mendicantibus petere vltra necessitatem 
+       <lb ed="#B" n="41"/>Secundum de acquirendis per seruitium: vtrum pro seruitio in filio vsurarii instruendo liceat 
+       <lb ed="#B" n="42"/>sumere pecuniam quam seruiens nouit acquisitam per vsuram. 
+      </p>
+      <p xml:id="n3av8a-c1e1622-d1e112">
+       CIRca primum arguitur: quod non 
+       <lb ed="#B" n="43"/>licet mendicantes petere vltra necessitatem. Quia dicit Apostolus. Habentes quibus vesci 
+       <lb ed="#B" n="44"/>mur &amp; tegamur his contenti sumus. Quia si hoc pertinet ad Apostolos praedicatores, quibus 
+       <lb ed="#B" n="45"/>debitum erat a subditis sumptus accipere absque omni mendicatione: multo fortius ergo pertinet ad men 
+       <lb ed="#B" n="46"/>dicantes: &amp; ad illud obseruandum tenentur. Sed quicquid est vltra illud: illud est vltra necessitatem: quia victus 
+       <lb ed="#B" n="47"/>&amp; vestitus comprehendunt omnia quae pertinent ad necessitatem. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e1622-d1e125">
+       CONtra est factum coone: quia mendican  
+       <lb ed="#B" n="48"/>tes recipiunt quicquid eis offertur. 
+      </p>
+      <p xml:id="n3av8a-c1e1622-d1e130">
+       SVPposito quod licitum sit aliquibus mendicare: quid quaestio ista supponit: quod  
+       <lb ed="#B" n="49"/>&amp; nos secundum deterimationem <name ref="#Augustine">Augustini</name> in libro de opere monachorum, supponimus: Dicendum quod necessitas 
+       <lb ed="#B" n="50"/>pertinentium ad vsum humanae vitae magnam latitudinem habet: &amp; secundum conditiones &amp; status personarum 
+       <lb ed="#B" n="51"/>quod enim vni esset supsluum &amp; multum: alteri esset parum &amp; modicum: &amp; hoc aspectis circunstantiis personae  
+       <lb ed="#B" n="52"/>loci &amp; temporis, &amp; cateris exterius concurrentibus. Habet etiam latitudinem ex parte suiipsius in se 
+       <lb ed="#B" n="53"/>ipsa circa vnam &amp; eandem personam secundum casdem circunstantias interius &amp; exterius concurrentes. 
+       <lb ed="#B" n="54"/>Quaedam enim est necessitas extrema, sine qua vita corporalis sustentari non posset: ad quam sup- 
+       <!--329.xml-->
+       <pb ed="#B" n="144-v"/>
+        <lb ed="#B" n="1"/>plendam in proximo quilibet tenetur. Iuxta illud. i. lo. iii. Qui habuerit substantiam huius mun- 
+       <lb ed="#B" n="2"/>di: &amp; viderit sratrem suum necessitatem hare. Glos. Victus vel vestitus. Et clauserit viscera sua ab eo. 
+       <lb ed="#B" n="3"/>glo. Vt non compatiatur eius miseriae vel nihil det: etiam si compatiatur. Quomodo charitas dei manet in  
+       <lb ed="#B" n="4"/>illo: Alia vero est necessitas opportuna: sine qua vita temporalis commode haberi non potest: &amp; ad quam 
+       <lb ed="#B" n="5"/>supplendam quilibet pietate prouocatur. Ro. xii. Necessitatibus sanctorum conmunicantes. Tertia vero 
+       <lb ed="#B" n="6"/>est necessitas proficua: sine qua vtiliter vita temporalis deduci non potest: ad quam supplendam perfectus 
+       <lb ed="#B" n="7"/>amore boni communis animatur. Exo. xxxvi. Plus offert populus quam necessarium est. Vltra necessitatem A 
+       <lb ed="#B" n="8"/>primam, cuilibet cui non licitum est mendicare, quia non omnibus licet sine peccato, quos decernere non per- 
+       <lb ed="#B" n="9"/>tinet ad praesentem quaestionem: licet petere id quid pertinet ad secundam necessitatem. &amp; hoc pensatis circunstantiis per  
+       <lb ed="#B" n="10"/>sonae, loci, &amp; temporis, &amp; aliorum adiacentium. Etiam huiusmodi circunstantiis existentibus licet petere etiam id  
+       <lb ed="#B" n="11"/>quod pertinet ad tertiam necessitatem: vt puta si frater mendicans vtilis sit studio sacrae scripturae, &amp; praedica- 
+       <lb ed="#B" n="12"/>tioni, ad quae libris indiget, qui pertinent ad istam tertiam necessitatem: bene licet eum petere ea quibus sibi 
+       <lb ed="#B" n="13"/>ipsos comparet: pensatis tamen circunstantiis quae vltra id quid opus est petere non licet: quia plus ad cu 
+       <lb ed="#B" n="14"/>riositatem &amp; cupiditatem pertineret quam ad necessitatem. Vnde etiam illi qui habent legitime sufficientia 
+       <lb ed="#B" n="15"/>bona temporalia: quibus non opus est alias mendicare, siue habeant illa de bonis ecclesiae siue aliunde 
+       <lb ed="#B" n="16"/>vltra huiusmodi necessitatem nec vti licet eis, quia esset abuti. Vnde super illud primae Thessal. vl 
+       <lb ed="#B" n="17"/>timo. Vigilemus &amp; sobrii simus &amp;c. Glo. Vigilet mens nostra attendens haec caduca: &amp; sobrie eis 
+       <lb ed="#B" n="18"/>vtamur, non quasi bonis nostris, sed ad sustentationem datis. sequitur. Vigilemus moderate his vtentes. 
+       <lb ed="#B" n="19"/>Per haec patent obiecta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

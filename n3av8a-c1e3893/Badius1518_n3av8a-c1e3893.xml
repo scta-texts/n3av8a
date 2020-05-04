@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 23</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 23</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="389-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3893">
+       <head xml:id="n3av8a-c1e3893-Hd1e96">Quaestio 23</head>
+       <p xml:id="n3av8a-c1e3893-d1e99">
+        <lb ed="#B" n="42"/>CIrca secundum arguitur quod sacerdos habens competens beneficium non potest alii deseruire pro &amp; 
+       <lb ed="#B" n="43"/>lucro temporali: quia hoc est cupiditatis. 
+      </p>
+      <p xml:id="n3av8a-c1e3893-d1e106">
+       IN contrarium est consuetudo sacerdotum. A 
+       <lb ed="#B" n="44"/>
+      </p>
+      <p xml:id="n3av8a-c1e3893-d1e111">
+       DIcendum quod talis sacerdos aut vocatur a praelato suo ad deseruiendum beneficio tempore lu 
+       <lb ed="#B" n="45"/>quo caret proprio deseruitore: &amp; hoc propter ipsius beneficii necessitatem: aut inge E 
+       <lb ed="#B" n="46"/>rit se propter quaestus commoditatem. Primo modo dico quod potest &amp; licitum est ei &amp; merito- 
+       <lb ed="#B" n="47"/>rium beneficio alii deseruire &amp; pro labore emolumentum percipere &amp; in vsus pios conuerte 
+       <lb ed="#B" n="48"/>re. Si secundo modo: aut appetit quaestum vt lautius viuat, aut vt pauperes pascat. 
+       <lb ed="#B" n="49"/>Si primo modo, dico quod non potest fine peccato: nec licet ei: quia &amp; de proprio beneficio non licet cuiquam plus accipere quam  
+       <lb ed="#B" n="50"/>necessaria ad statum personae, quia quo ad alia dispensatio sibi credita est: in hoc enim ministri ecclesiae dispen 
+       <lb ed="#B" n="51"/>satores pauperum dicuntur esse. Vnde quod lautius viuendo abundantius expendunt: in hoc pauperes defraudant. dicente 
+       <lb ed="#B" n="52"/>Ber. in epistola ad Henricum Senonenm. archiep. Clamant nudi: clamant famelici: comquaruntur &amp; dicunt: nostrum est quod es 
+       <lb ed="#B" n="53"/>funditl: nobis crudelitur subtrahitur quod imanitur expenditis: nfis necessitatibus detrahitur quicquid accedit vestris 
+       <lb ed="#B" n="54"/>vanitatibus. Si vero appetit pro lucro temporali deseruire in alio beneficio vt pauperes pascat: aut ergo magna 
+       <!--819.xml-->
+       <pb ed="#B" n="389-v"/>
+        <lb ed="#B" n="1"/>necessitate vrgentur pauperes, &amp; non inueniunt subsidium: aut non Si primo modo, bene potest: quia non 
+       <lb ed="#B" n="2"/>solum licitum est sed summe meritorium. tali enim de causa vendi possunt ecclesiae vasa. Secundo modo etiam 
+       <lb ed="#B" n="3"/>si liceat facere, melius tamen esset tempore quo alteri beneficio vacaret, si orationi &amp; contemplationi in  
+       <lb ed="#B" n="4"/>suo loco &amp; beneficio vacaret. talis enim actio non debet esse in desiderio voluntatis sed solummodo in  
+       <lb ed="#B" n="5"/>ministerio necessitatis. Per dicta patet ad primum. 
+      </p>
+      <p xml:id="n3av8a-c1e3893-d1e150">
+       AD secundum quod consuetudo ex parte praelatorum  
+       <lb ed="#B" n="6"/>instituentium sacerdotes in alio beneficio: non est nisi propter illius necessitatem: &amp; ideo bona &amp; ap- 
+       <lb ed="#B" n="7"/>probanda: licet cupiditas sacerdotum quae ad hoc eos trahit, sit reprobanda.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

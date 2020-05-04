@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="460-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4352">
+       <head xml:id="n3av8a-c1e4352-Hd1e96">Quaestio 8</head>
+       <p xml:id="n3av8a-c1e4352-d1e99">
+        <lb ed="#B" n="44"/>CIrca tertium arguitur quod dolor verus ex sola apprehensione procedit: quia autem  
+       <lb ed="#B" n="45"/>procedit ex illa, aut ex immutatione reali quae sit per abiectionem contrarii. ab  
+       <lb ed="#B" n="46"/>sta autem immutatione reali non potest procedere: quia ipsa impedit perceptionem eo quod impe- 
+       <lb ed="#B" n="47"/>dit sensum: ex hoc quod sesibile positum supra sensum, secundum <name ref="#Aristotle">Philosophum</name> secundode 
+       <lb ed="#B" n="48"/>anima, nuilum facit sensum, immo potius impedit ipsum ne fiat: &amp; ita dolorem 
+       <lb ed="#B" n="49"/>eo quod non est nisi cum perceptione, quia insensibilia licet realiter immutant 
+       <lb ed="#B" n="50"/>omnino tamen non dolent: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4352-d1e120">
+       CONtra, ad immutationem quae per se 
+       <lb ed="#B" n="51"/>delectat nullo modo sequitur dolor: quia cum dolor sit contrarius delectationi, tunc er eo- 
+       <lb ed="#B" n="52"/>dem actu sequerentur duo contraria: quare cum omnis apprehensio vt visio, intellectio, &amp; quae  
+       <lb ed="#B" n="53"/>cunque alia per se delectat: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4352-d1e129">
+       DIcendum de dolore sicut &amp; de quacunque alia animipassione  
+       <!--960.xml-->
+       <pb ed="#B" n="460-r"/>
+        <lb ed="#B" n="1"/>quae pertinet ad tertiam speciem qualitatis, quod sequitur ex duplici radice: prima scilicet &amp; proxima. 
+       <lb ed="#B" n="2"/>Radix prima passionum quae ad fugam pertinent: vt sunt dolor &amp; timor, est immutatio corruptiua 
+       <lb ed="#B" n="3"/>siue offensiua dispositionis naturae conuenientis. Et hoc vel iam assistens, vt in dolore, vel quae iam 
+       <lb ed="#B" n="4"/>imminet, vt in timore. Et hoc quemadmodum econtrario radix prima passionum quae pertinent ad im 
+       <lb ed="#B" n="5"/>mutationm: cuiusmodi sunt delectatio &amp; spes, est immutatio inductiua &amp; saluatiua dispositionis 
+       <lb ed="#B" n="6"/>naturae conuenientis: &amp; hoc vel iam assistens, vt in delectatione, vel quae iam imminet, vt in spe. Pro 
+       <lb ed="#B" n="7"/>pter quod dicitur quod delectatio est coniunctio conuenientis cum conuenienti: &amp; econtrario, quod dolor est coniun 
+       <lb ed="#B" n="8"/>ctio disconuenientis cum disconuenienti. Dicente Auicenna in fine. viii. Metaphysicae. Scias quod delectatio 
+       <lb ed="#B" n="9"/>cuiuscunque virtutis plena est perfectionis suae acquisitio: &amp; id est sensui sensata convenientia, &amp; irae 
+       <lb ed="#B" n="10"/>vindicta, &amp; spei consecutio, &amp; vnicuique rei id quod est ei proprium &amp; animae rationali ipsum fieri secundum in  
+       <lb ed="#B" n="11"/>te lligibile in actu. Et libro ix. Quia delectatio voluptatis &amp; bonitas eius est vt perueniat ad eam qualitas 
+       <lb ed="#B" n="12"/>sensibilis conueniens aliquam ex quinque. Delectatio irae est victoria: &amp; delectatio aestimationis est fiducia: &amp; de 
+       <lb ed="#B" n="13"/>lectatio conseruatiuae est recordatio rerum conuenientium. Non vniuscuiusque eorum est id quod contrarium 
+       <lb ed="#B" n="14"/>est iis, sed omnes conueniunt in vno communi, in percipere quid suum conueniens est &amp; sibi aptum est. Vt 
+       <lb ed="#B" n="15"/>enim dicit <name ref="#Aristotle">Philosophus</name> decimo Ethicorum, Similibus existentibus &amp; adinuicem secundum eundem modum ha 
+       <lb ed="#B" n="16"/>bentibus passiuo &amp; factiuo, idem aptum natum est fieri. scilicet vt dicit Commentator, delectationem in  
+       <lb ed="#B" n="17"/>operationibus. Vbi clarior est alia translatio, quae dicit sic, Quoadusque durauerit sensibile &amp; intelligi 
+       <lb ed="#B" n="18"/>bile, secundum quod oportet erit delectatio in actione. hoc est quamdiu durauerint agens &amp; patiens similia, &amp; 
+       <lb ed="#B" n="19"/>fuerit relatio cuiusque eorum ad suum compar secundum dispositionem vnam. Radix vero proxima 
+       <lb ed="#B" n="20"/>omnium talium passionum est illius immutationis apprehensio. Apprehendens enim per talem 
+       <lb ed="#B" n="21"/>immutationem iam inesse delectatur si est conueniens: &amp; dolet siue tristatur si est disconueniens. 
+       <lb ed="#B" n="22"/>Et quia apprehensio est virtutis cognitiuae quae non percipit nisi quod sit in seipsa, vel in organo  
+       <lb ed="#B" n="23"/>quo operatur: &amp; hoc per suam actionem cognitiuam, quae non excedit virtutem cognitiuam aut 
+       <lb ed="#B" n="24"/>organum eius: idcirco passio non est nisi ex immutatione in ipsa virtute cognitiua, aut organo  
+       <lb ed="#B" n="25"/>eius. Propter quod ex immutatione quae sit in ossibus &amp; aliis non sentientibus in animali nul- 
+       <lb ed="#B" n="26"/>lus consequitur dolor: quia illa nullo modo apprehenditur. Est autem haec dispositio naturae conveniens 
+       <lb ed="#B" n="27"/>aliter in viribus sensitiuis &amp; aliter in viribus intellectiuis. Dispositio enim conueniens in viribus sen 
+       <lb ed="#B" n="28"/>sitiuis attenditur &amp; ex parte organi, non ratione qua est corpus naturale simpliciter: nec ratione  
+       <lb ed="#B" n="29"/>qua animatum siue viuens simpliciter per substantiam animae, &amp; vt in ipso operatur actum primum 
+       <lb ed="#B" n="30"/>qui est esse siue viuere, quod est esse: neque ratione qua est viuens vita vegetatiua &amp; organica ad ope 
+       <lb ed="#B" n="31"/>rationes vegetatiuae: sed ratione qua est organicum sensitiuum animatum, potentia animae sensiti 
+       <lb ed="#B" n="32"/>uae, &amp; vt in ipso operatur actum secundum, qui est sentire siue viuere quod est sentire. Et est illa dis- 
+       <lb ed="#B" n="33"/>positio ex parte organi media quaedam ratio &amp; proportio suorum sensibilium propriorum contrariorum, in poten 
+       <lb ed="#B" n="34"/>tia vtrumque, &amp; actum neutrum existens: aliter enim illorum non esset susceptiuum. si enim esset actu alterum, non esset susce 
+       <lb ed="#B" n="35"/>ptiuum per secundum genus immutationis praedictae alterius contrariorum. Secundum hoc enim susceptiuum 
+       <lb ed="#B" n="36"/>coloris est non color: &amp; soni asonum: &amp; sic de caeteris, suo tamen semper modo licet diuerso in aliis 
+       <lb ed="#B" n="37"/>&amp; aliis sensibus &amp; sensibilibus. Per hunc enim modum intellectus possibilis vt omnium formarum  
+       <lb ed="#B" n="38"/>materialium sit susceptiuus nullam illarum ex se habet actum, vt determinat <name ref="#Aristotle">Philosophus</name> in princi 
+       <lb ed="#B" n="39"/>pio tertii de anima. Dispositio autem in viribus sensitiuis ex parte animae est quod ipsa per diuersas po 
+       <lb ed="#B" n="40"/>tentias est contemperata diuersis organis: &amp; per hoc quodam miro modo media proportio contrario 
+       <lb ed="#B" n="41"/>rum sensibilium. In viribus autem intellectiuis illa dispositio naturae conveniens attenditur non ex parte 
+       <lb ed="#B" n="42"/>organi: nisi in nobis forte per accidens, quia vis intellectiua non est organica: sed ex parte virtutis so 
+       <lb ed="#B" n="43"/>lum: &amp; est in ipsis viribus talis dispositio media ratio &amp; proportio cognoscibilium qua percipiuntur 
+       <lb ed="#B" n="44"/>scibilia tam speculandorum, quo ad intellectum speculatiuum, quam agendorum &amp; quam faciendorum: &amp; 
+       <lb ed="#B" n="45"/>hoc quo ad intellectum practicum. Quae quidem dispositio duplex est: &amp; naturalis indita natu-  
+       <lb ed="#B" n="46"/>raliter animae in suis potentiis: &amp; accidentalis superueniens per habitus in potentiis animae acqui  
+       <lb ed="#B" n="47"/>sita. Est autem aduertendum primo quomodo dolor contingit in viribus sensitiuis: Deinde quomo 
+       <lb ed="#B" n="48"/>do in intellectiuis: &amp; iuxta hoc de aliis passionibus consimiliter. De primo sciendum secundum aliquos, quod li 
+       <lb ed="#B" n="49"/>cet duae sint radices doloris praedictae: scilicet immutatio corruptiua &amp; eius apprehensio: sola tamen 
+       <lb ed="#B" n="50"/>apprehensio sufficeret si possibile esset eam esse fine illa immutatione talem qualis est cum illa: sic etiam quod multo 
+       <lb ed="#B" n="51"/>maior esset dolor ex sola apprehensione: quemadmodum fit in viribus intellectiuis, quod proculdubio verum 
+       <lb ed="#B" n="52"/>esset quod illa immutatio pro quanto corrumpit proportionem, pro tanto adimit fiue dirimit sensum siue apprhen 
+       <lb ed="#B" n="53"/>sionem: &amp; per consequens dolorem: ita quod si fieri posset immutatio illa qua sit apprhensio quam sequitur dolor,  
+       <lb ed="#B" n="54"/>absque temperamenti corruptione, quod est in virtute &amp; in organo: integra &amp; perfecta fieret apphensio: &amp; ideo 
+       <!--961.xml-->
+       <pb ed="#B" n="460-v"/>
+        <lb ed="#B" n="1"/>perfectissimus sequeretur dolor. Et ponunt aliqui quod possibile est ita esse: &amp; quod tali modo cruciabuntur 
+       <lb ed="#B" n="2"/>secundum corpus homines damnati: quia corpora eorum erunt incorruptibilia: vt infra dicetur: 
+       <lb ed="#B" n="3"/>passibilia tamen. Dicunt enim quod ignis inferni est ardentissimus attingens carnes eorum: nec comburet eas:  
+       <lb ed="#B" n="4"/>nec immutabit reali immutatione secundum primum genus immutationis superius expositae, quae  
+       <lb ed="#B" n="5"/>sit per contrarii abiectionis: sed manebunt caro vt medium secundum tactum, &amp; neruus vt orga 
+       <lb ed="#B" n="6"/>num in suo naturali temperamento sine calefactione: immutabit tamen ea secundo genere immutationis 
+       <lb ed="#B" n="7"/>per speciem intentionalem caloris ac si arderent &amp; summe calefierent. Organo autem sic immutato 
+       <lb ed="#B" n="8"/>per speciem caloris, immutabitur excessiue vis tactiua sensatione tactiua: ad quam summus sequetur 
+       <lb ed="#B" n="9"/>dolor. In nobis autem pro statu vitae praesentis: quia non potest naturaliter sensum sic excessiue im 
+       <lb ed="#B" n="10"/>mutare: nisi calefaciat medium &amp; organum realiter, non solum intentionaliter: &amp; sic corrumpit pro- 
+       <lb ed="#B" n="11"/>portionem, qua impeditur tam excessiua apprehensio: ideo impossibile est in nobis sequi tam excessi 
+       <lb ed="#B" n="12"/>uum dolorem. Sed quomodo hoc possit fieri naturaliter, non video. Si enim in tali immutatione nulla 
+       <lb ed="#B" n="13"/>fiet omnino abiectiopenes primum genus immutationis: in tali apprehensione nihil percipietur na 
+       <lb ed="#B" n="14"/>turaliter, nisi sensibile sub ratione qua est sensibile: sub tali autem ratione non est nisi salubris &amp; com 
+       <lb ed="#B" n="15"/>ueniens naturae sicut salus eius. Ex perceptione autem convenientis &amp; salubris inquantum huiusmo 
+       <lb ed="#B" n="16"/>di non dolor sequitur naturaliter: sed delectatio tantum. Quare si hoc modo ignis affligit corpora 
+       <lb ed="#B" n="17"/>damnatorum, non naturaliter, sed modo quodam supernaturali &amp; miraculoso affligit ea: Ita quod si mira 
+       <lb ed="#B" n="18"/>culum huiusmoni cessaret: nullo modo affligeret ea. sicut si corpora gloriosa essent inigne inferni, &amp; di-  
+       <lb ed="#B" n="19"/>cto modo immutarentur per secundum &amp; tertium modum immutationis: quales possibile est fieri 
+       <lb ed="#B" n="20"/>in ipsis secundum sensus omnes, qui erunt in ipsis perfectissimi: nullo tamen modo ab igne illo affligi 
+       <lb ed="#B" n="21"/>possent. Si ergo secundum fidem oporteat ponere, quod corpora damnatorum ab illo igne affligentur 
+       <lb ed="#B" n="22"/>pure naturaliter quantum est ex parte ipsorum corporum afflictorum, vt vere passibilia: quamuis sint 
+       <lb ed="#B" n="23"/>incorruptibilia: aliter enim frustra essent vere passibilia naturaliter: quia nunquam paterentur naturali  
+       <lb ed="#B" n="24"/>ter: nec etiam omnino paterentur calefactionem aut infrigidationem: sed solummodo super- 
+       <lb ed="#B" n="25"/>naturaliter dolorem qui natus est huiusmodi immutationes concomitari naturaliter: &amp; sic 
+       <lb ed="#B" n="26"/>non propter temperamentum manens in sensibus aut ex ipso actu sentiendi vllo modo sequeretur 
+       <lb ed="#B" n="27"/>ille dolor: sed a deo immediate imprimeretur: nec ad hoc vllo modo necessarius est ignis, aut im- 
+       <lb ed="#B" n="28"/>mutatio vlla penes secundum genus immutationis factae secundum rem &amp; veritatem, &amp; apprehensione 
+       <lb ed="#B" n="29"/>non decepta: licet apprehensione cum perceptione decepta, posset verus dolor causari ab igne: quem 
+       <lb ed="#B" n="30"/>admodum causatur in dormientibus somniantibus se comburi ab igne: secundum quod dicit Augu- 
+       <lb ed="#B" n="31"/>stinus duodecimo super Genesim ad literam: Dicendum est igitur quod nullo modo naturaliter potest causari 
+       <lb ed="#B" n="32"/>dolor nisi adsint illae duae radices: &amp; neutra sufficit sine altera. Inanimata enim immutantur immu 
+       <lb ed="#B" n="33"/>tatione corruptiua: sed non dolent: quia nihil sentiunt siue apprehendunt per sensum: animata autem  
+       <lb ed="#B" n="34"/>sensitiua si non sint immutata: etsi apprehendunt sua obiecta sensibilia, non dolent: quia non apprehem 
+       <lb ed="#B" n="35"/>dunt immutationem corruptiuam seu laesiuam. Est igitur sciendum quod circa apprehensionem sen 
+       <lb ed="#B" n="36"/>sitiuam est considerare duo: vnum scilicet ipsum actum apprehensionis: &amp; alterum scilicet ipsam 
+       <lb ed="#B" n="37"/>perceptionem quae annexa est apprehensioni. Ex actu apprehensionis inquantum est apprehensio: 
+       <lb ed="#B" n="38"/>si intelligatur seorsum a perceptione, numquam sequitur dolor: sed potius delectatio: vt dictum est. Ex actu 
+       <lb ed="#B" n="39"/>autem perceptionis seorsum consideratae, sequitur omnis dolor: non tamen potest esse fine appre- 
+       <lb ed="#B" n="40"/>hensione: vt secundum hoc apprehensionem sequitur dolor vt causam sine qua non: perceptionem 
+       <lb ed="#B" n="41"/>autem vt causam propter quam sit: &amp; sic ad actum apprehensionis inquantum includit in se per 
+       <lb ed="#B" n="42"/>ceptionem, sequitur dolor non ratione apprehensionis: sed ratione perceptionis. Et quamquam secundum vsum commu 
+       <lb ed="#B" n="43"/>nem sermonis de apprehensione loqui solemus vt includit perceptionem: differunt tamen: quod dis- 
+       <lb ed="#B" n="44"/>cernimus ex differentia obiectorum: quoniam proprium &amp; per se obiectum apprehensionis sensiti 
+       <lb ed="#B" n="45"/>uae est ipsum sensibile: vt visionis color vel lux: auditionis sonus: tactus tangibile: &amp; sic de caeteris. 
+       <lb ed="#B" n="46"/>Obiectum autem proprium perceptionis sunt intentiones circa sensibilia vel circa intelligibilia, quae  
+       <lb ed="#B" n="47"/>quidem intentiones sunt per se causa passionum doloris, delectationis &amp; huiusmodi. Illae enim intem 
+       <lb ed="#B" n="48"/>tiones important rationem conuenientis vel disconuenientis &amp; habent in se vim illarumrerumcir 
+       <lb ed="#B" n="49"/>ca quas sunt ad commouendum passiones: dicente <name ref="#Aristotle">Philosopho</name> de motibus animalium. Alterantplam 
+       <lb ed="#B" n="50"/>tasiae &amp; sensus &amp; meditationes, phantasia autem &amp; intelligentia habent rerum virtutem: aliquo enimmo 
+       <lb ed="#B" n="51"/>do species intellecta calidi aut frigidi aut delectabilis aut tristabilis talis existit qualis quidem &amp; re 
+       <lb ed="#B" n="52"/>rum vnaquaeque. Propter quod tremunt &amp; timent intelligentes solum. haec autem omnia passiones 
+       <lb ed="#B" n="53"/>&amp; alterationes sunt. &amp; infra. Intellectus enim &amp; phantasia sicut dictum est prius factiua passio 
+       <lb ed="#B" n="54"/>num: species enim factiuorum afferunt: quae reuera tanto magis sunt factiuae, quanto fortius imprimuntur 
+       <!--962.xml-->
+       <pb ed="#B" n="461-r"/>
+        <lb ed="#B" n="1"/>&amp; intensius magis: quia per hoc assimilant sensum rei, quae sentitur. ad quod maxime operatur appeti 
+       <lb ed="#B" n="2"/>tus: qui vt dicit Augustinus. xi. de Trin. cap. secundo, habet vim copulandi haec duo: vt &amp; sensum 
+       <lb ed="#B" n="3"/>formandum admoueat rei quae cernitur &amp; in ea formatum teneat. &amp; si tam violenta est vt possit vo 
+       <lb ed="#B" n="4"/>cari libido: etiam caeterum corpus animantis vehementer afficitur. Et vbi non restat pigrior du-  
+       <lb ed="#B" n="5"/>riorque materies, in similem speciem coloremque commutat. Licet videre corpusculum Cameleontis 
+       <lb ed="#B" n="6"/>ad colores quos videt facillima conuersione variari. Aliorum autem animalium: quia non est ad  
+       <lb ed="#B" n="7"/>conuersionem facilis corpulentia, foetus produnt plaerunque libidines matrum: quo. scilicet cum magna 
+       <lb ed="#B" n="8"/>delectatione conspexerint. Quan. teneriora atque formabiliora sunt primordia seminum: tam efficaci 
+       <lb ed="#B" n="9"/>ter consequuntur intentionem animae maternae: &amp; quae in ea facta est phantasiam per corpus quod cu 
+       <lb ed="#B" n="10"/>pide aspexit. Vbi dat exemplum in ouibus lacob. Nam vt dicit cap. iiii. interdum homines nimia 
+       <lb ed="#B" n="11"/>cogitatione rerum visibilium vel illecti, vel territi: etiam eiusmodi voces repente ediderunt: quasi reue- 
+       <lb ed="#B" n="12"/>ra in mediis talibus actionibus vel passionibus versarentur. vbi dat exemplum de abstracto a sensi 
+       <lb ed="#B" n="13"/>bus exterioribus conuerso ad inte riorem imaginationem, qui mulierem imaginatam interius ve- 
+       <lb ed="#B" n="14"/>ram mulierem extra existimauit: vt &amp; ei se misceri sentiens etiam genitalibus flueret. Ex quo  
+       <lb ed="#B" n="15"/>patet quod eandem vim immutandi, quam habet res vt est existens extra: habet vt est imaginata vel 
+       <lb ed="#B" n="16"/>intellecta. &amp; ipsam vt est imaginata vel intellecta appellat <name ref="#Aristotle">Philosophous</name> speciem factiui: cuius habet facti 
+       <lb ed="#B" n="17"/>uam virtutem. Non ergo hic appellat id quod organo est impressum speciem factiuam: sed potius 
+       <lb ed="#B" n="18"/>rem imaginarie vel intellectualiter vt obiectum apparens in actione imaginandi aut intelligendi: quid  
+       <lb ed="#B" n="19"/>est forma siue species non impressa: sed expressa. Vnde <name ref="#Augustine">Augustinus</name> vbi supra de auersis a sensibus &amp; con- 
+       <lb ed="#B" n="20"/>uersis ad ea quae intus imaginantur dicit sic. Tanta effunditur similitudo speciei expressa ex me- 
+       <lb ed="#B" n="21"/>moria: vt nec ipsa ratio discernere sinatur, vtrum foris corpus ipsum videatur, an intus tale aliquid  
+       <lb ed="#B" n="22"/>cogitetur: nam interdum homines &amp;c. vt supra. Formatur autem ipsa forma expressa in imaginatiua 
+       <lb ed="#B" n="23"/>ab ipsa forma siue specie impressa in memoria: vt a memoria per speciem sibi impressam nihil formetur in ima 
+       <lb ed="#B" n="24"/>ginatiua nisi operatio imaginandi, terminata ad illam speciem expressam. Hinc dicit Aug. ibidem. 
+       <lb ed="#B" n="25"/>Interdum ita contingit vt cogitatione occupata se voluntas auertat a sensibus: atque ita formet animi 
+       <lb ed="#B" n="26"/>aciem variis imaginibus rerum sensibilium, tanquam ipsa sensibilia sentiantur: non tantum autem cum 
+       <lb ed="#B" n="27"/>appetendo in talia voluntas intenditur: sed etiam cum deuitandi &amp; cauendi causa rapitur animus 
+       <lb ed="#B" n="28"/>in contuenda ea quae fugiat. Vnde non solum cupiendo: sed etiam metuendo informatur vel sensus 
+       <lb ed="#B" n="29"/>ipsis sensibilibus vel acies animi informanda ipsis imaginibus sensibilium. Ita vt metus aut cupidi- 
+       <lb ed="#B" n="30"/>tas quanto vehementior fuerit tanto expressius formetur acies, siue sentientis ex corpore quod in loco ad  
+       <lb ed="#B" n="31"/>iacet, siue cogitantis ex imaginatione corporis quae memoria continetur. &amp; sic quod perceptio mo- 
+       <lb ed="#B" n="32"/>uet non est nisi per accidens: quia affert motiuum. Vnde dicit ibidem Philosophous. Videmus mo- 
+       <lb ed="#B" n="33"/>uentia animal intellectum &amp; phantasiam. Etenim phantasia &amp; sensus &amp; intellectus eundem locum 
+       <lb ed="#B" n="34"/>habent: iudicatiua enim omnia, quare mouet primum quod appetibile &amp; quod intellectuale: non autem omne: 
+       <lb ed="#B" n="35"/>sed quod operabilium finis, quod quidem primum non motum mouet, appetitus autem &amp; appetitiuum motum 
+       <lb ed="#B" n="36"/>mouet: vltimum autem motorum non est necesse aliquid mouere. 
+      </p>
+      <p xml:id="n3av8a-c1e4352-d1e472">
+       INtentiones autem dictae conue- 
+       <lb ed="#B" n="37"/>nientis vel disconuenientis dupliciter possunt percipi puta intentio nociui. Vno modo sub ratione  
+       <lb ed="#B" n="38"/>nociui imminentis &amp; comminantis malum futurum. Alio modo sub ratione instantis &amp; inferentis malum  
+       <lb ed="#B" n="39"/>praesens. Primo modo est intentio insensata: quia non est nata percipi a sensu particulari. Secundo autem  
+       <lb ed="#B" n="40"/>modo est intentio sensata: &amp; percipitur a sensu particulari vt sensibile commune. Secundum hoc igitur di  
+       <lb ed="#B" n="41"/>ctae intentiones conuenientis &amp; disconuenientis: quandoque percipiuntur non ab ipsa eadem virtute appre 
+       <lb ed="#B" n="42"/>hensiua sensibilium aut intelligibilium: sed ab alia: &amp; hoc vel sensitiua vel intellectiua. Sensitiua vt ad  
+       <lb ed="#B" n="43"/>praesens loquamur de intentione inconueniente ad quam sequitur dolor in vi sensitiua: quemadmodum  
+       <lb ed="#B" n="44"/>onis videns lupum statim existimat inimicum: &amp; timens fugit. Vel intellectiua, quemadmodum vi 
+       <lb ed="#B" n="45"/>dens errabundum de nocte suspicatur furem &amp; timens merces suas abscondit. Quandoque autem illa 
+       <lb ed="#B" n="46"/>intentio percipitur ab eadem virtute sensitiua apprehensiua: &amp; hoc vel circa organum ipsius virtu 
+       <lb ed="#B" n="47"/>tis vel circa ipsam virtutem, vel circa eius operationem. Circa virtutis organum apprehendendo per  
+       <lb ed="#B" n="48"/>cipit illam intentionem: percipiendo laesionem quae sit in organo ex qua sequitur dolor. Sed hoc non 
+       <lb ed="#B" n="49"/>principaliter quia laeditur immutatione corruptiua temperamentum organi: sed quia offenditur tem 
+       <lb ed="#B" n="50"/>peramentum virtutis existentis in organo: quo ipsa contemperata naturaliter est organo cuius est 
+       <lb ed="#B" n="51"/>sentire principaliter: &amp; suiipsius offensionem principalius percipere. Haec autem laesio in organo  
+       <lb ed="#B" n="52"/>cuiuscunque sensus etiam dupliciter potest contingere: vel per accidens: vel per se. Per accidens quan  
+       <lb ed="#B" n="53"/>do organum sentiendi puta visus inquantum visus est, &amp; media ratio visibilium, laeditur immuta 
+       <lb ed="#B" n="54"/>tione reali: puta calefactione: &amp; hoc per se inquantum est corpus naturale simpliciter: per accidens 
+       <!--963.xml-->
+       <pb ed="#B" n="461-v"/>
+        <lb ed="#B" n="1"/>inquantum est organum visus. &amp; est simile de organis aliorum sensuum. Omnia enim quo ad sua  
+       <lb ed="#B" n="2"/>temperamenta habent corrumpi per accidens: qualitatum actiuarum &amp; passiuarum contrarieta- 
+       <lb ed="#B" n="3"/>te: quae sunt calidum &amp; frigidum, humidum &amp; siccum: quibus etiam corrumpitur totum animal. 
+       <lb ed="#B" n="4"/>Per se autem contingit laesio in organo cuiusque sensus: quando laeditur immutatione intentionali per spe 
+       <lb ed="#B" n="5"/>ciem sui proprii sensibilis excessiuam: inquantum excellentiae sensibilium corrumpunt per se sensus. secun 
+       <lb ed="#B" n="6"/>dum <name ref="#Aristotle">Philosophum</name> secundo de Anima. Quamuis aliqui dicunt quod hoc contingit per dictam actionem re- 
+       <lb ed="#B" n="7"/>alem per se. Immo dico quod species excessiua conmensurationem organi vt sensitiuum est, corrumpit per 
+       <lb ed="#B" n="8"/>se. Sed actio realis, quae per se corrumpit corpus vt est corpus mixtum: per accidens corrumpit 
+       <lb ed="#B" n="9"/>illam commensurationis: sicut etiam per accidens corrumpit totum animal: vt cum ictus tonitrui con- 
+       <lb ed="#B" n="10"/>tingit simul cum sono: vt dicitur in tertio de Anima. Sicut enim temperamentum vt medium reale quali 
+       <lb ed="#B" n="11"/>tatum sensibilium realium: puta calidi, frigidi, humidi, &amp; sicci: a temperato &amp; non nimium excedente 
+       <lb ed="#B" n="12"/>calido in suo temperamento conseruatur: ab excedente autem corrumpitur per se inquantum est corpus 
+       <lb ed="#B" n="13"/>mixtum &amp; harmonia media realis inter reales qualitates tangibiles: per accidens autem inquantum  
+       <lb ed="#B" n="14"/>est harmonia media intentionalis inter species intentionales illarum qualitatum: &amp; similiter vt est 
+       <lb ed="#B" n="15"/>media inter species aliorum sensibilium quo ad organa aliorum sensuum a tactu, qui organum suum  
+       <lb ed="#B" n="16"/>habet sub organis aliorum sensuum: sic temperamentum vt est organum &amp; medium specierum intentio- 
+       <lb ed="#B" n="17"/>nalium: puta speciei albi &amp; nigri &amp; mediorum colorum, a temperata &amp; non nimium excedente specie 
+       <lb ed="#B" n="18"/>impressa in organo conseruatur: ab excedente autem nimium corrumpitur: puta temperamen- 
+       <lb ed="#B" n="19"/>tum organi visus inquantum organum tale ab excedente specie lucis diffusa ab nimis fulgida luce &amp; 
+       <lb ed="#B" n="20"/>ab excedente specie cuiuscumque coloris diffusa ab excedente colore. Vnde contingit quod organum infor-  
+       <lb ed="#B" n="21"/>matum temperata luce &amp; temperato colore aliquo: in nullo impeditur ab informatione a quacum que  
+       <lb ed="#B" n="22"/>alia luce temperata, aut colore. simul enim informatur speciebus contrariorum colorum: &amp; statimcum ab- 
+       <lb ed="#B" n="23"/>sentatur sensibile extra, euanescit illa species ab organo. Sed cum informatur specie excedente ni 
+       <lb ed="#B" n="24"/>mium organi harmonia impeditur ne informetur speciebus aliorum: &amp; auerso sensibili extra adhuc 
+       <lb ed="#B" n="25"/>manent reliquiae illius speciei impressae: ita quod visus conuersus ad alia visibilia non informatur specie 
+       <lb ed="#B" n="26"/>bus colorum illorum: sed apparent ei omnia colorata colore cuius specie erat excessiue informatus. 
+       <lb ed="#B" n="27"/>quae quidem impressio maxime apparet oculis clausis. Ita etiam quod si huiusmodi impressio fortis sit 
+       <lb ed="#B" n="28"/>multum, corrumpitur organi harmonia omnino: &amp; manet impressio illa sensibiliter non quasi species 
+       <lb ed="#B" n="29"/>lucis aut coloris: sed quasi verus color: &amp; nuilius speciei organum de caetero est receptiuum. Si vero hu 
+       <lb ed="#B" n="30"/>iusmodi impressio non sit ita fortis vt corrumpat harmoniam: licet debilitet: continue euanescit &amp; re- 
+       <lb ed="#B" n="31"/>uertitur vigor temperamenti: dicente Augustinus. xi. de Trin. cap. secundo. Plaerunque cun diutile atten-  
+       <lb ed="#B" n="32"/>derimus quaecunque luminaria: &amp; deinde oculos clauserimus: quasi versantur in conspectu quidam luci 
+       <lb ed="#B" n="33"/>di colores varie sese commutantes &amp; minus minusque fulgentes, &amp; quodammodo gradatim deficiendo va 
+       <lb ed="#B" n="34"/>riari donec omnino desistant, quas intelligendum est reliquias illius esse formae quae facta erat in sen 
+       <lb ed="#B" n="35"/>su cum corpus lucidum videret. 
+      </p>
+      <p xml:id="n3av8a-c1e4352-d1e598">
+       ET est aduertendum quod quanto fortius est impressa, tanto tardius de 
+       <lb ed="#B" n="36"/>ficit: &amp; quod pro quanto manet post corporis exterioris absentiam, pro tanto erat species illa impressa ex 
+       <lb ed="#B" n="37"/>cessiua &amp; laesiua: &amp; non recepta sub ratione speciei tantum: sed quodammodo verae rei: vt non tantum sub  
+       <lb ed="#B" n="38"/>ratione speciei lucis aut coloris: sed sub ratione lucis quodammodo aut coloris: quam vt est dictum non 
+       <lb ed="#B" n="39"/>solum res vera extra: sed species eius in virtute sua potest imprimere susceptibili corpori: quale est 
+       <lb ed="#B" n="40"/>illud organum. &amp; hoc quodammodo: quemadmodum lux in nube formaliter impressa ex plurium radio- 
+       <lb ed="#B" n="41"/>rum concursu multiplicat se sub specie coloris non lucis: vt patet in coloribus iridis. Et ille color existens in  
+       <lb ed="#B" n="42"/>exteriori parte organi sic debilitati, non autem corrupti, videtur a vi visiua in organo quo ad par 
+       <lb ed="#B" n="43"/>tem eius interiorem: &amp; hoc ad absentiam primi sensibilis: vt licet sensibile positum supra sensum 
+       <lb ed="#B" n="44"/>nuiium facit sensum: sensibile tamen positum in sensu dicto modo: aliquo modo facit sensum 
+       <lb ed="#B" n="45"/>vt sit idem medium sentiendi respectu sensibilis exterioris: &amp; obiectum respectu sentientis inte 
+       <lb ed="#B" n="46"/>rius, quod inquantum huiusmodi impedit sensum ad alia percipienda extra. Et per hunc modum  
+       <lb ed="#B" n="47"/>sentiunt aliqui continuum tinnitum in auribus: &amp; multum impediuntur ab audiendo alia. 
+      </p>
+      <p xml:id="n3av8a-c1e4352-d1e627">
+       CIr 
+       <lb ed="#B" n="48"/>ca vero virtutem sensitiuam ipsamet virtus percipit intentionem inconuenientis circa seipsam: 
+       <lb ed="#B" n="49"/>&amp; hoc dupliciter: Vno modo per aliquam suiipsius laesiuam laesionem. Alio modo per inconuenientis 
+       <lb ed="#B" n="50"/>offendentis perceptionem. Primo modo deficit delectatio &amp; sequitur dolor ex labore in operatione 
+       <lb ed="#B" n="51"/>diurna. Vnde quaerit Philosophus. x. Ethicorum. Quare continue nullus delectatur: &amp; respondet subdens. Vel labo 
+       <lb ed="#B" n="52"/>rat: natura enim humana opera non potest continue operari: non sit igitur delectatio. vbi Commentator quaerit. Nonne cum 
+       <lb ed="#B" n="53"/>ex labore non operari vtimur non delectamur: &amp; respondet. Ex sensibus non delectamur: secundum reuersionem 
+       <lb ed="#B" n="54"/>naturae delectamur. Quia igitur in operibus delectationes fiunt: quaecunque semper &amp; continue ope 
+       <!--964.xml-->
+       <pb ed="#B" n="462-r"/>
+        <lb ed="#B" n="1"/>rari possunt, continue delectantur vt intellectuales naturae: quorum autem operatio labore inter- 
+       <lb ed="#B" n="2"/>scinditur, horum &amp; delectatio deficit. Sed quia virtutes non laeduntur nisi: quia sunt in organo quod  
+       <lb ed="#B" n="3"/>laeditur per se: ideo virtus non laeditur nisi per accidens. Et sic dolor iste sequitur ex laesione organi 
+       <lb ed="#B" n="4"/>per se: ex laesione ipsius virtutis non nisi per accidens. &amp; sic iste modus causandi dolorem debet per 
+       <lb ed="#B" n="5"/>se reduci ad modum praedictum causandi dolorm: scilicet ex laesione organi. Secundo modo sequi  
+       <lb ed="#B" n="6"/>tur dolor quia non est proportio actiui ad passiuum: &amp; hoc dupliciter: vel partim ex parte vnius 
+       <lb ed="#B" n="7"/>partim ex parte alterius: vel ex parte vnius omnino. De primo dicit <name ref="#Aristotle">Philosophous</name> decimo Ethicorum 
+       <lb ed="#B" n="8"/>post superius tacta secundum aliam translationem: postquam enim dixit quousque durauerint sensibile. &amp; 
+       <lb ed="#B" n="9"/>intelligibile: continuo sequitur. Et propter istud non est possibile vt delectetur homo delectationem 
+       <lb ed="#B" n="10"/>continua: eo quod res humanae non possunt agere actionem continuam propter mutabilitatem simili- 
+       <lb ed="#B" n="11"/>tudinis quae est inter agens &amp; patiens. Secundum patet ex hoc: quod existente optima organi dispositione 
+       <lb ed="#B" n="12"/>propter obiecti indispositionem sequitur dolor. &amp; hoc quemadmodum etiam bruta animalia delectantur 
+       <lb ed="#B" n="13"/>ex sonorum &amp; cantuum melodia: &amp; tristantur ex eorum discordia: quia concordia melodiae concordat 
+       <lb ed="#B" n="14"/>temperamento virtutis &amp; sui organi naturaliter: &amp; discordia discordat. Et quanto magis ex natura 
+       <lb ed="#B" n="15"/>speciei vel indiuidui temperatum est organum &amp; virtus sensitiua ei naturaliter contemperata: tan- 
+       <lb ed="#B" n="16"/>to magis illam delectat melodia &amp; contristat discordia. Ita quod aliqui homines, qui. scilicet sunt in  
+       <lb ed="#B" n="17"/>optima dispositione temperamenti circa organum audiens, maxime delectentur in melodiis: qui ve 
+       <lb ed="#B" n="18"/>ro non: nequamquam illis delectantur: sed forte potius offenduntur &amp; tristantur. &amp; sic in aliis sensibus qui-  
+       <lb ed="#B" n="19"/>dam odoribus &amp; saporibus aromaticis delectantur quidam tristantur. Clrca operationem autem 
+       <lb ed="#B" n="20"/>virtutis sensitiuae ipsa virtus percipit intentionem inconuenientis per ipsius operationis defectio 
+       <lb ed="#B" n="21"/>nem: quia enim operatio cuiuscunque virtutis nata est per se delectare: quod ipsa noidelectat hoc so- 
+       <lb ed="#B" n="22"/>lum contingit propter perceptionem alicuius imperfectionis circa ipsam: quae scilicet non per- 
+       <lb ed="#B" n="23"/>fecta operatio elicitur a virtute, quae imperfectio non contingit ex se: sed solummodo ex organi de-  
+       <lb ed="#B" n="24"/>fectu. Vires enim non senescunt in se nec deficiunt: sed ex organo. Omnis ergo dolor talis procedit 
+       <lb ed="#B" n="25"/>ex perceptione illius imperfectionis: sicut econtrario ex perceptione perfectionis eius: nascitur delecta 
+       <lb ed="#B" n="26"/>tio. 
+      </p>
+      <p xml:id="n3av8a-c1e4352-d1e709">
+       AD quaestionem ergo respondendum quo ad vires sensitiuas quod omnis dolor in animali tanquam  
+       <lb ed="#B" n="27"/>ex radice prima &amp; ex causa propter quam sic, non sequitur ex aliqua apprehensione: sed ex sola orga- 
+       <lb ed="#B" n="28"/>ni laesione, vel virtutis offensione, vel operationis defectione tanquam ex inconuenientis coniunctione. 
+       <lb ed="#B" n="29"/>Sicut econtrario: delectatio vt ex radice prima, non sequitur ex aliqua apprhensione: sed ex sola organi 
+       <lb ed="#B" n="30"/>confortatione, vel virtutis pacatione, vel operis perfectione. Et vt generaliter causas horum assigne- 
+       <lb ed="#B" n="31"/>mus: quo ad omnes passiones sensibiles, vt ex radice prima sequuntur ex intentione conuenientis &amp; dis 
+       <lb ed="#B" n="32"/>conuenientis imminentis quo ad passiones quae respiciunt malum futurum: vel bonum futu- 
+       <lb ed="#B" n="33"/>rum quales sunt timor &amp; spes: vel instantis &amp; hoc quo ad passiones quae respiciunt malum  
+       <lb ed="#B" n="34"/>praesens, vt sunt dolor &amp; tristitia. Tanquam autem ex radice proxima dolor sensitiuus &amp; caeterae passi 
+       <lb ed="#B" n="35"/>ones ex apprehensione, sicut ex causa sine qua non: experceptione vt excausa propter quam sic: 
+       <lb ed="#B" n="36"/>sed per accidens: ex intentione autem percepta circa sensibile vt ex causa per se propter quam sic. ipsum 
+       <lb ed="#B" n="37"/>enim sensibile puta lupus aut mulier apprehensa sensu aut imaginatione aut intellectum non sunt 
+       <lb ed="#B" n="38"/>per se factiua passionum: quia sola imaginatione vel intellectu speculatiuo aut sensu particulari appre 
+       <lb ed="#B" n="39"/>henduntur: quae nihil dicunt de actuali bono aut malo: neque de fugiendo vel imitabili: etiam cum 
+       <lb ed="#B" n="40"/>apprehendunt timendum aut laetandum: non iubent timere aut laetari: &amp; sunt sicut intelligere 
+       <lb ed="#B" n="41"/>&amp; imaginari in nobis cum volumus. In nobis enim est facere hoc prae oculis: sicut contingit positis in  
+       <lb ed="#B" n="42"/>recordatiuis. Secundum phantasiam enim &amp; intellectum huiusmodi: nos habemus sicut si essemus 
+       <lb ed="#B" n="43"/>considerantes in pictura difficilia &amp; contristantia: ipsae autem intentiones circa sensibilia &amp; intelligi 
+       <lb ed="#B" n="44"/>bilia quae consistunt in ordine &amp; relatione rerum contristantium &amp; laetantium ad animata sensibi 
+       <lb ed="#B" n="45"/>lia: puta lupus aut mulier: vt inimicum &amp; amicum naturae, perceptae aestimatione vel opinione vt bo 
+       <lb ed="#B" n="46"/>num vel malum actuale: quae iubent aut timere aut laetari: &amp; dicunt de fugiendo &amp; imitabili cum 
+       <lb ed="#B" n="47"/>percipiunt timendum aut laetandum: &amp; non sunt haec in nobis cum volumus: &amp; cum existimamus 
+       <lb ed="#B" n="48"/>aut opinamur aliquid difficile aut tristabile, statim compatimur, secundum quod haec omnia habentur 
+       <lb ed="#B" n="49"/>ex tertio de Anima. Et sicut est cum intentiones huiusmodi percipiuntur virtute alia: sic est cum 
+       <lb ed="#B" n="50"/>percipiuntur eadem. 
+      </p>
+      <p xml:id="n3av8a-c1e4352-d1e764">
+       DE dolore autem quomodo contingit in viribus intellectiuis: sciendum 
+       <lb ed="#B" n="51"/>secundum quod dictum est supra de dolore ex apprehensione sensitiua: quod vt ex radicem prima con- 
+       <lb ed="#B" n="52"/>tingit ex dispositione siue intentione disconueniente corruptiua: quia illa non habet locum ex par 
+       <lb ed="#B" n="53"/>te intellectus: eo quod non est virtutis corruptibilis nec in se nec in organo: quia nuilum habet: sed  
+       <lb ed="#B" n="54"/>solummodo ex dispositione offensiua &amp; disconueniente. &amp; hoc non ex eius apprehensione speculati 
+       <!--965.xml-->
+       <pb ed="#B" n="462-v"/>
+        <lb ed="#B" n="1"/>ua nisi vt ex causa sine qua non: sed ex perceptione: &amp; hoc vel quia illa intentio est disconueniens virtuti 
+       <lb ed="#B" n="2"/>vel quia est disconueniens operationi. Sed haec perceptio fit non nisi eadem virtute secundum rem &amp; naturam potentiae, 
+       <lb ed="#B" n="3"/>qua sit apphensio: quia non est nisi vna potentia cognitiua intellectualis, quae solum distinguitur in spe 
+       <lb ed="#B" n="4"/>culatiuam &amp; practicam secundum fines vt alibi declarauimus. Appellando autem aliam virtutem, 
+       <lb ed="#B" n="5"/>practicum &amp; speculatiuum: quandoque intentio nociua percipitur virtute alia: quandoque eadem. Sed  
+       <lb ed="#B" n="6"/>nunquam nisi cum percipitur vt actualiter insistens virtute alia percipitur vel circa virtutem vel circa 
+       <lb ed="#B" n="7"/>eius operationem. Primo modo vt quando de practicis sit consideratio speculatiua, tunc nim specula 
+       <lb ed="#B" n="8"/>tiua non solum apprehendit bonum &amp; malum praesens: sed sub ratione veri &amp; falsic &amp; bonum &amp; fal- 
+       <lb ed="#B" n="9"/>sum quo offenduntur aliae vires percipit practica pars ad quam sequitur passio: vel quia intentio per  
+       <lb ed="#B" n="10"/>cepta est inconueniens sibi &amp; offensiua suiipsius: vel quia est offensiua sui eo quod est repugnans &amp; dis 
+       <lb ed="#B" n="11"/>conueniens virtuti alteri. Primo modo sequitur dolor practicae perceptionem: quia. scilicet offendit se &amp; 
+       <lb ed="#B" n="12"/>repugnat habitui suo practico: &amp; sic sequitur dolor quando musicus apprehendit discordantiam  
+       <lb ed="#B" n="13"/>sonorum aut vocum: quia discordat a regulis habitus sui: &amp; econtrario delectatio quando ap- 
+       <lb ed="#B" n="14"/>prehendit concordantiam: quia concordat habitui suo: &amp; sic in aliis artibus: &amp; similiter quando pru 
+       <lb ed="#B" n="15"/>dens percipit operari non secundum regulas prudentiae. Secundo modo dolor sequitur perceptionem 
+       <lb ed="#B" n="16"/>practicae partis tripliciter: aut quia intentio percepta disconueniens est ex parte appetitiuae partis 
+       <lb ed="#B" n="17"/>vi volitiuae in qua est virtus iustitiae: &amp; sic sequitur dolor ex perceptione operis iniustitiae: quia repu 
+       <lb ed="#B" n="18"/>gnat voluntati informatae habitu iustitiae. Aut est disconueniens vi concupiscitiuae in qua est virtus 
+       <lb ed="#B" n="19"/>temperantiae: &amp; sic sequitur dolor ex perceptione operis intemperantiae: quia repugnat virtuti tem 
+       <lb ed="#B" n="20"/>perantiae. Aut est disconueniens vi irascitiuae in qua est virtus fortitudinis: &amp; sic sequitur dolor ex 
+       <lb ed="#B" n="21"/>perceptione operis formidinis: quia repugnat virtuti fortitudinis. Ex contrariis autem sequitur dele 
+       <lb ed="#B" n="22"/>ctatio &amp; hoc indifferenter siue homo talia opera percipiat in seipso siue in aliis. Econtrario autem in  
+       <lb ed="#B" n="23"/>dispositis habitibus contrariis ex perceptione contrariorum sequitur dolor aut gaudium siue delecta 
+       <lb ed="#B" n="24"/>tio. Puta inuidens cum videt in illo cui inuidet prosperum, dolet: cum vero videt aduersum gaudet. Si 
+       <lb ed="#B" n="25"/>vero ab alia virtute percipitur intentio disconueniens operationi, illa non est nisi quia virtus non  
+       <lb ed="#B" n="26"/>perfecte potest in suam operationem: &amp; sic pars speculatiua percipit defectum operationis volitiuae 
+       <lb ed="#B" n="27"/>&amp; concupiscibilis &amp; irascibilis &amp; intellectualis practicae: &amp; sequitur semper dolor. 
+      </p>
+      <p xml:id="n3av8a-c1e4352-d1e838">
+       SI vero inten 
+       <lb ed="#B" n="28"/>tio dicta disconueniens percipitur a virtute eadem quae apprehendit: haec perceptio contingit parti 
+       <lb ed="#B" n="29"/>speculatiuae vel circa seipsam vel circa suam operationem. Primo modo quando percipit assertionem 
+       <lb ed="#B" n="30"/>contrariam habitui sapientiae aut intellectus. Secundo, quando percipit defectum suae operationis intellectua 
+       <lb ed="#B" n="31"/>lis: &amp; tunc semper sequitur dolor. Si quis autem velit dicere quod quaelibet virtus ad minus cogniti- 
+       <lb ed="#B" n="32"/>ua percipit defectum suae operationis similiter &amp; profectum: tunc debet dicere quod ex perceptione eius 
+       <lb ed="#B" n="33"/>virtutis cuius est apprehendere sequitur dolor vel delectatio suam operationem: nec solum sequi-  
+       <lb ed="#B" n="34"/>tur dolor intelligibilis ex perceptione disconuenientis circa intelligibile: sed etiam circa sensibile: vt 
+       <lb ed="#B" n="35"/>omnibus modis praedictis quibus causatur dolor in sensibili parte ex perceptione circa apprehensio 
+       <lb ed="#B" n="36"/>nem sensibilem, eisdem causatur dolor in parte intellectuali ex perceptione eorundem: &amp; etiam ex per- 
+       <lb ed="#B" n="37"/>ceptione intellectualis ipsius passionis quae est dolor sensibilis. Quia quicquid percipitur a sensu &amp; 
+       <lb ed="#B" n="38"/>vi sensitiua potest percipi ab intellectu &amp; vi intellectiua. Et ex his patet etiam responsio ad quaesti 
+       <lb ed="#B" n="39"/>onem quo ad vim intellectiuam. Quia autem quaestio proposita fuit tantum de dolore sensibili: &amp; ex abum 
+       <lb ed="#B" n="40"/>danti extendimus illam ad dolorem intellectualem: &amp; argumenta solum tangebant dolorem sen 
+       <lb ed="#B" n="41"/>sibilem: ideo ad illa specialiter respondendum est, respiciendo ad dolorem sensibilem. 
+      </p>
+      <p xml:id="n3av8a-c1e4352-d1e871">
+       DIcendum 
+       <lb ed="#B" n="42"/>ad primum quod dolor sensibilis sequitur apprehensionem vt radicem &amp; causam proximam: modo  
+       <lb ed="#B" n="43"/>tamen iam dicto. sequitur tamen intentionem disconuenientem vt radicem primam: quae multipliciter 
+       <lb ed="#B" n="44"/>habet causari vt similiter habitum est supra. Et vnus illorum modorum est ex immutatione reali: 
+       <lb ed="#B" n="45"/>sed per accidens vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e4352-d1e883">
+       SImiliter &amp; quid arguitur contra hoc quod immutatio realis per qua- 
+       <lb ed="#B" n="46"/>litates reales corrumpit sensum: Dicendum quod verum est inquantum immutat organum realiter. Si tamen im 
+       <lb ed="#B" n="47"/>mutaret medium realiter &amp; organum tantum intentionaliter vel vtrumque tantum intentionaliter, adhuc esset do  
+       <lb ed="#B" n="48"/>lor ex laesione &amp; corruptione organi per speciem intentionalem. Sed secundum aliam rationem species illa esset immu 
+       <lb ed="#B" n="49"/>tatiua ad operationem sensus &amp; secundum aliam corruptiua organi: quia secundum quod non haberet rationem excessiui im- 
+       <lb ed="#B" n="50"/>mutaret: &amp; esset operatio illa ex se delectabilis non habens contrarium: sicut nec delectatio secundum sensum. secundum  
+       <lb ed="#B" n="51"/>vero quod habet rationem excessiui laedit &amp; impedit sensum, per apprshensionem tamen qua immutat sequitur dolor secundum  
+       <lb ed="#B" n="52"/>magnitudinem laesionis perceptae. Et per hunc modum, delectationi quae est in sensu ex perceptione conuenien 
+       <lb ed="#B" n="53"/>tis immutationis organi factae per qualitates intentionales, contrarius est dolor qui est in sensu ex per 
+       <lb ed="#B" n="54"/>ceptione immutationis contrariae. 
+      </p>
+      <p xml:id="n3av8a-c1e4352-d1e905">
+       AD argumentum in contrarium quod apprhensio est per se delectabilis: ergo  
+       <!--966.xml-->
+       <pb ed="#B" n="463-r"/>
+        <lb ed="#B" n="1"/>non sequitur eam: Dicendum quod verum est: vt causa propter quam sit, sequitur tamen eam vt causam fine 
+       <lb ed="#B" n="2"/>qua non scilicet propter perceptionem, quia tamen etiam perceptio est per se delectabilis, adhuc non sequi  
+       <lb ed="#B" n="3"/>tur illam nisi per accidens: sed per se sequitur perceptionem ratione percepti quid habet vim per se actiuam 
+       <lb ed="#B" n="4"/>passionis vt patet ex praedictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

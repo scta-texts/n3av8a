@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="567-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5372">
+       <head xml:id="n3av8a-c1e5372-Hd1e96">Quaestio 6</head>
+       <p xml:id="n3av8a-c1e5372-d1e99">
+        <lb ed="#B" n="23"/>SEquuntur quaedam pertinentia ad substantiam spiritalem corpori coniunctam specialitur: cuiusmoni est 
+       <lb ed="#B" n="24"/>anima humana. Vbi quaerebatur primo vnum quod pertinet ad ipsam animam principaliter: dein-  
+       <lb ed="#B" n="25"/>de quaerebantur plura alia pertinentia principalitur ad coniunctum ex corpore &amp; anima: sed per animam. 
+       <lb ed="#B" n="26"/>llud vnum erat: vtrum esse quiditatiuum sit ab intellectu possibili per actum intelligendi. 
+       <lb ed="#B" n="27"/>Ex arguitur quod non: quia intellectum &amp; intellectus sunt relatiua: quorum secundum <name ref="#Aristotle">philosophum</name> in praedi 
+       <lb ed="#B" n="28"/>camentis neutrum est cam alterius vt sit. esse quiditatiuum est obiectum intellectus ab eo intelle 
+       <lb ed="#B" n="29"/>ctum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5372-d1e120">
+       CONtra, omne quiditatiuum est vel: quia est definitiua ratiovniversalis &amp; conuertibile cum ipso. sed vel est 
+       <lb ed="#B" n="30"/>ab operatione intellectus: quia supe illud primi de anima, vel aut nihil est aut posterius est, dicit Commentator: quod in  
+       <lb ed="#B" n="31"/>tellectus operatur vel in rebus. 
+      </p>
+      <p xml:id="n3av8a-c1e5372-d1e127">
+       DIco quod duplex est actio intellectus possibilis. Vna quae intelligit prima intelli- 
+       <lb ed="#B" n="32"/>gentia &amp; simplici: ad quam determinatur per obiectum. Alia vero est eius actio secunda quae se exercet &amp; discurrit 
+       <lb ed="#B" n="33"/>ab vno in alterum diuidendo congregando &amp; conferendo. Et dico quod loquendo de primo actu intelligendi nequaquam 
+       <lb ed="#B" n="34"/>esse quiditatiuum est ab intellectu possibili per eius actum: aut etiam vel intellectum quod est eius, proprium obiectum 
+       <lb ed="#B" n="35"/>immo econverso ipse intellectus possibilis quo ad talem actum habet esse ab ipso vnielal quid formatum est in phan 
+       <lb ed="#B" n="36"/>tasia per sequestrationem conditionum particularium lumine intellectus agentis. secundum modum pluries a me exposi 
+       <lb ed="#B" n="37"/>tum. Ab vniversal enim sic existente in phantasmate primo immutatur intellectus &amp; determinatur ad primam intellectio 
+       <lb ed="#B" n="38"/>nem confusam simplicissimam. Loquendo vero de secundo actu intelligendi: dico quod ab ipso habent esse vel &amp; quid  
+       <lb ed="#B" n="39"/>quid est. Licet ei quidquid est sit vel: quia est ratio definitiua vniversalis, proprie dicti &amp; conuertibil cum ipso, sicut dictum 
+       <lb ed="#B" n="40"/>est opponendo: differunt tamen proprie loquendo: quia ipsum cone esse definibile per genus &amp; differentias, vt consideratur  
+       <lb ed="#B" n="41"/>sub ratione confusi &amp; indistincti secundum partes quae cadere debent in definitiua ratione, sic, proprie dicitur vel: &amp; de 
+       <lb ed="#B" n="42"/>esse eius quiditatiuum esse definitum continens ipsum distinctum secundum partes, vt homo animal rationale: &amp; habet ipsum  
+       <lb ed="#B" n="43"/>vel esse ab actu intelligendi intellectus possibilis per abstractionem eius a singularibus intellectis in phan 
+       <lb ed="#B" n="44"/>tasmate ab hoc &amp; ab isto abstrahendo &amp; intelligendo hominem simpliciter, non cointelligendo hoc &amp; illud. 
+       <lb ed="#B" n="45"/>Et de tali vniversa verum est quod ipsum posterius est, vt dicit secunda ratio, &amp; ab opere intellectus: quae secundum hoc con 
+       <lb ed="#B" n="46"/>cedenda est. Similiter dico quod esse quiditatiuum habet esse ab intellectu diuidendo &amp; congregando. Cum enim 
+       <lb ed="#B" n="47"/>intellectus operatus fuerit vel quod est primum in ipsa cognitione confusa: intellectus primo concipit in eo 
+       <lb ed="#B" n="48"/>genus supremum sub ratione maxime confusi: &amp; secundum artem definitiuam primo diuidit illud genus per duas diffe 
+       <lb ed="#B" n="49"/>rentias: &amp; illam quae convenit vnversal definibili aggregat ad genus: &amp; subdiuidit aggregatum: semper addendo dif 
+       <lb ed="#B" n="50"/>ferentiam convenientem vel quousque habeatur conuertibile. &amp; illud appellatur quidquid est &amp; definitiua ratio: &amp; est opus 
+       <lb ed="#B" n="51"/>intelligentiae simplicis: quid cum formatum fuerit ab intellectu per vltimam differentiam aggregatam praecedenti, tamquam vll 
+       <lb ed="#B" n="52"/>distinctum &amp; determinatum per partes mouet intellectum possibilem tanquam eius obiectum: &amp; format in eo intellectionem 
+       <lb ed="#B" n="53"/>declaratiuam, quae intellectio appellatur verbum de eo quodquid est. Propter quid <name ref="#Augustine">Augustinus</name> etiam quidquid est de re ap 
+       <lb ed="#B" n="54"/>pellat verbum eius. &amp; sic ipsum quidquid est ab intellectu simplicis intelligentiae formatum causat intellectum 
+       <!--1174.xml-->
+       <pb ed="#B" n="567-r"/>
+        <lb ed="#B" n="1"/>&amp; informat ipsum quo ad intellectionem declaratiuam determinatam. 
+      </p>
+      <p xml:id="n3av8a-c1e5372-d1e189">
+       AD primam rationem quod in  
+       <lb ed="#B" n="2"/>tellectus &amp; intellectum sunt relatiua &amp;c. Dico quod haec ratio st transcendens, &amp; habent locum in omnibus relatiuis: quo  
+       <lb ed="#B" n="3"/>inquantum sunt relatiua vnum non habet esse nisi in ordine ad alterum, &amp; per alterum: tamen in creaturis consi- 
+       <lb ed="#B" n="4"/>derando id quod est in eis vnum bene habet esse sinealtero, vt filius sine patre. &amp; sic contingit in pro  
+       <lb ed="#B" n="5"/>posito, vt patet ex dictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 29</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 29</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="145-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1662">
+       <head xml:id="n3av8a-c1e1662-Hd1e96">Quaestio 29</head>
+       <p xml:id="n3av8a-c1e1662-d1e99">
+        <lb ed="#B" n="40"/>Equuntur quaestiones duae de bonis priuatis. Quarum prima erat de bonis repeten- 
+       <lb ed="#B" n="41"/>dis. Vtrum alicui liceat repetere debitum cum scandalo. Secunda erat de bonis re- 
+       <lb ed="#B" n="42"/>tinendis. Vtrum adeptus beneficium per simulationem debeat illud resignare. ClR 
+       <lb ed="#B" n="43"/>ca primum arguitur quod sic: quia opus iustitiae est repetere quid suum est: &amp; illud sem- 
+       <lb ed="#B" n="44"/>per est licitum. 
+      </p>
+      <p xml:id="n3av8a-c1e1662-d1e112">
+       CONtra est: quoniam ordo est in charitate: vt quis plus diligere de 
+       <lb ed="#B" n="45"/>beat animam proximi quam quodcunque bonum temporale suum. Potius ergo debet amit 
+       <lb ed="#B" n="46"/>tere bonum temporale quod sibi debetur: &amp; per hoc illud non repetere: qui in scandalizan- 
+       <lb ed="#B" n="47"/>do proximum animam eius perdere. 
+      </p>
+      <p xml:id="n3av8a-c1e1662-d1e121">
+       DICENdum: quod eorum quae fiunt quaedam sunt ex se &amp; ex sua 
+       <lb ed="#B" n="48"/>natura simpliciter bona. Quaedam vero sunt simpliciter mala. Quaedam indifferentia. De primis sunt 
+       <lb ed="#B" n="49"/>illa quae pertinent ad praecepta affirmatiua de diligendo deum &amp; proximum: ad quae explenda homo 
+       <lb ed="#B" n="50"/>obligatus est semper: non autem pro semper: sed solum pro tempore opportuno. Et quidem quo ad actum 
+       <lb ed="#B" n="51"/>interiorem semper est tempus opportunum cum occurrit memoriae de faciendo vel non faciendo. Quo  
+       <lb ed="#B" n="52"/>ad actum vero exteriorem, non est tempus opportunum nisi cum est expediens, debitis circunstantiis in  
+       <lb ed="#B" n="53"/>terius &amp; exterius consideratis. Aliquando enim expedit quod quis ignoretur esse pater alicuius. propter 
+       <lb ed="#B" n="54"/>quid pro tempore illo non debet silius ille patri paternum honorem in opere exteriori exhibere: quia non  
+       <!--331.xml-->
+       <pb ed="#B" n="145-v"/>
+        <lb ed="#B" n="1"/>expediret: &amp; posset casus contingere in quo scandaliczaret. Quemadmodum in credendis &amp; eis quae per- 
+       <lb ed="#B" n="2"/>tinent ad veritatem fidei: non omnia sunt omni tempore proponenda: sed quaedam non nisi tempore oppor 
+       <lb ed="#B" n="3"/>tuno. Secundum quod Paulus loquens sapientiam inter perfectos, loqui non potuit Corinthiis tanquam spiri 
+       <lb ed="#B" n="4"/>tualibus sed tanqui carnalibus. Talia autem in tempore non opportuno propter scandalum quod inde pos 
+       <lb ed="#B" n="5"/>set contingere, omittenda sunt: tempore vero opportuno nequaquam: etiam si scandalum oporteat inde  
+       <lb ed="#B" n="6"/>exoriri. quemadmodum Christus tempore opportuno praedicauit mysterium sacramenti corporis &amp; san- 
+       <lb ed="#B" n="7"/>guinis sui: licet multi abierunt retro dicentes durus est hic sermo. 
+      </p>
+      <p xml:id="n3av8a-c1e1662-d1e158">
+       DE simpliciter malis sunt omnia 
+       <lb ed="#B" n="8"/>illa quae pertinent ad praecepta negatiua de non nocendo proximo. Ad quae explenda scilicet in non facien 
+       <lb ed="#B" n="9"/>do, obligatus est homo semper &amp; ad semper: &amp; quo ad actum interiorem &amp; exteriorem: ita quod pro nullo 
+       <lb ed="#B" n="10"/>scandalo euitando aliquod eorum agendum est. 
+      </p>
+      <p xml:id="n3av8a-c1e1662-d1e168">
+       DE indifferentibus sunt quae de se neque bona, neque  
+       <lb ed="#B" n="11"/>mala sunt: nec obligatur homo ad ea facienda vel non facienda: sed ex modo faciendi bonum est quan  
+       <lb ed="#B" n="12"/>doque ea facere &amp; malum omittere: quandoque econuerso, quemadmodum erant indifferentia post mortem 
+       <lb ed="#B" n="13"/>Christi ante euangelii diuulgationem cerimonialia legis Mosaicae: vt determinat <name ref="#Augustine">Augustinus</name> in epistolis 
+       <lb ed="#B" n="14"/>ad Hierony. Vnde Paulus ea celebrauit more Iudaeorum: spem tamen non ponendo in eis: ne Iudaei scan 
+       <lb ed="#B" n="15"/>dalicarentur putantes Paulum credere ea omnino respuenda: quemadmodum respuenda erant sacrificia 
+       <lb ed="#B" n="16"/>idolorum. Vnde super illud Gali. primo. Sed neque Titus cum esset gentilis compulsus est circuncidi 
+       <lb ed="#B" n="17"/>Glossa. Ne occasionem daret eis qui sine circuncisione dicebant credentes saluos esse non posse: &amp; hoc ad  
+       <lb ed="#B" n="18"/>deceptionem gentium: scilicet ne scandalicarentur. Alibi vero vbi non obfuit circuncidit Timo- 
+       <lb ed="#B" n="19"/>theum pro scandalo Iudaeorum: ne sic videretur detestari circuncisionem sicut idololatria detestanda  
+       <lb ed="#B" n="20"/>est. Petrus vero ea obseruans discernendo cibaria cum Iudaeis quasi spem poneret in ipsis, gentes scanda 
+       <lb ed="#B" n="21"/>lizabat seu iudaizare coegit: vt dicit Paulus in epistola ad Gal. De numero talium est id de quo quaestio 
+       <lb ed="#B" n="22"/>dicta proposita est. Repetere enim debitum quantum est ex se, indifferens est: quia potest bene fieri &amp; ma 
+       <lb ed="#B" n="23"/>le: &amp; similiter non repetere. Si enim voluerit creditor, omnino potest remittere: vt nunquam possit vel de 
+       <lb ed="#B" n="24"/>beat repetere. Si autem non vult remittere: &amp; qui tenetur est soluendo, &amp; non vult soluere: si per viam 
+       <lb ed="#B" n="25"/>iustitiae in iudicio sine scandalo posset obtinere vt ille cogeretur soluere: pietas esset repetere tali inten 
+       <lb ed="#B" n="26"/>tione vt ille ab iniusta possessione liberaretur: &amp; per hoc facilius ad poenitentiam: quia rem detinuit alie 
+       <lb ed="#B" n="27"/>nam, deduceretur. dicente <name ref="#Augustine">Augustino</name> de tali, libro secundo de sermone domini in monte. Si modeste 
+       <lb ed="#B" n="28"/>ac leuiter omni modo egerit vt sibi restituantur debita (scilicet pecunia de qua loquitur) non tam in  
+       <lb ed="#B" n="29"/>tendens fructum pecuniae: quam vt hominem corrigat: sine dubio perniciosum est habere vnde reddat &amp; 
+       <lb ed="#B" n="30"/>non reddere. Non solum non peccabit, sed proderit etiam plurimum: ne ille dum alienam pecuniam lu 
+       <lb ed="#B" n="31"/>crifacere vult, damnum fidei patiatur. Sed cum sine scandalo debitoris nolentis soluere per viam iu- 
+       <lb ed="#B" n="32"/>stitiae obtinere seu repetere debitum non poterit, hic debet deliberare quid praeeligendum erit: quia aut opor 
+       <lb ed="#B" n="33"/>tet creditorem amittere pecuniam: aut per nouum peccatum mortale scilicet scandali, super peccatum 
+       <lb ed="#B" n="34"/>cupiditatis retinendi alienum introductum domini, amittere debitoris animam. Nunc autem clarum  
+       <lb ed="#B" n="35"/>est: quod quilibet plus velle tenetur deo conseruare animam proximi sui: &amp; facere quod conseruetur quantum  
+       <lb ed="#B" n="36"/>in se est: quam sibi pecuniam debitam recuperare: quanto magis spirituale bonum ordinatum ad aeternam 
+       <lb ed="#B" n="37"/>beatitudinem percipiendam cuiusmodi est anima proximi, plus debemus diligere quam quodcumque bonum tempo 
+       <lb ed="#B" n="38"/>rale: Immo tenetur quilibet bonum temporale vt stercora reputare: &amp; quantum in se est animam proxi- 
+       <lb ed="#B" n="39"/>mi deo custodire: ita quod non solum hoc sit in consilio sed in praecepto. Vnde &amp; sano consilio: vt quietus 
+       <lb ed="#B" n="40"/>homo deo possit vacare, potius huiusmodi pecuniam debet perdere quam cum contentione repetere. secun 
+       <lb ed="#B" n="41"/>dum quod consulit apostolus cum dicit Ephes. ii. Redimentes tempus quoniam dies mali sunt. vbi dicit glossa. 
+       <lb ed="#B" n="42"/>Redimit tempus ille qui perdit. i. dat de suo vt vacet deo non litibus. vnde dominus ait Matthaei. c. Siquis 
+       <lb ed="#B" n="43"/>vult tecum in iudicio contendere &amp; tunicam tollere, dimitte ei &amp; pallium. Simpliciter ergo dico quod in tali casu 
+       <lb ed="#B" n="44"/>debet quilibet pecuniam perdere potius quam proximum scandalizare: quia in tali casu repetere non manet 
+       <lb ed="#B" n="45"/>indifferens: sed factum est simpliciter malum: &amp; ideo esset occasio scandali data non accepta solum. 
+       <lb ed="#B" n="46"/>Tunc enim est solummodo accepta quando consistit in dicto vel facto quod non est malum, neque ex se, 
+       <lb ed="#B" n="47"/>neque ex circunstantia: immo potius bonum pro tempore &amp; loco: vt in eo quod pertinet ad veritatem 
+       <lb ed="#B" n="48"/>vitae iustitiae &amp; disciplinae, quae cum opportuna est vt proponatur in dicto vel facto, pro scandalo in-  
+       <lb ed="#B" n="49"/>de oriundo nullo modo omittenda est. Tunc vero est occasio data quando consistit in malo dicto vel 
+       <lb ed="#B" n="50"/>facto: &amp; hoc vel ex substantia operis vel ex eius circunstantia. secundum quod &amp; definitur Scandalum acti 
+       <lb ed="#B" n="51"/>uum: quod est dictum vel factum minus rectum praebens occasionem ruinae. &amp; tale est omne dictum vel 
+       <lb ed="#B" n="52"/>factum, vel non dictum, vel non factum: quod potest omitti &amp; fieri sine peccato &amp; maxime mortali. 
+       <lb ed="#B" n="53"/>
+      </p>
+      <p xml:id="n3av8a-c1e1662-d1e270">
+       IN praedicto ergo casu qui est casus propositae quaestionis, pecunia non est repetenda sed dimittenda, si nos 
+       <lb ed="#B" n="54"/>volumus nobis dimitti peccata nostra. secundum quod dicit <name ref="#Augustine">Augustinus</name> libro. ii. de sermone domini in mon  
+       <!--332.xml-->
+       <pb ed="#B" n="146-r"/>
+        <lb ed="#B" n="1"/>te, exponens illud. Dimitre nobis debita nostra: sicut &amp; nos dimittimus debitoribus nostris. Debi- 
+       <lb ed="#B" n="2"/>ta peccata dici manifestum est. Non hic quisque vrgetur pecuniam dimittere debitoribus: sed qui-  
+       <lb ed="#B" n="3"/>cunque in eum alias peccauerit. Nam pecuniam dimittere illo potius iubetur praecepto. Siquis tibi 
+       <lb ed="#B" n="4"/>tunicam tollere voluerit, &amp; in iudicio tecum contendere, dimitte illi &amp; pallium. Nec illi necesse est 
+       <lb ed="#B" n="5"/>omni pecuniario debitori dimittere debitum: sed ei qui reddere noluerit, intantum vt velit etiam liti- 
+       <lb ed="#B" n="6"/>gare. Qui ergo, vel sponte, vel conuictus pecuniam debitam reddere noluerit, dimittenda illi est. 
+       <lb ed="#B" n="7"/>Duas enim ob res nollet reddere, vel quod non habeat, vel quod auarus sit reique alienae cupidus. Vtrunque  
+       <lb ed="#B" n="8"/>autem pertinet ad inopiam, nam illa inopia est rei familiaris: haec animi. Quisquis itaque tali dimittitur 
+       <lb ed="#B" n="9"/>debitum, inopi dimittit: opusque christianum operatur. Ex quo intelligimus etiam in ista quinta peti- 
+       <lb ed="#B" n="10"/>tione qua dicimus Dimitte nobis debita nostra &amp;c. non de pecunia tantum scilicet dici: sed de omnibus 
+       <lb ed="#B" n="11"/>quae in nos quisque peccat: ac per hoc etiam de pecunia. Peccat namque in te qui pecuniam tibi debitam  
+       <lb ed="#B" n="12"/>cum habeat vnde reddat, recusat reddere, quid peccatum si non dimiseris: non poteris dicere Dimit- 
+       <lb ed="#B" n="13"/>te nobis sicut &amp; nos dimittimus debitoribus nostris. 
+      </p>
+      <p xml:id="n3av8a-c1e1662-d1e310">
+       PER DICTApatet ad obiectum primum: di-  
+       <lb ed="#B" n="14"/>cendo quod repetere debitum est opus iustitiae quo ad hoc videlicet quod creditor potest per iustitiam il- 
+       <lb ed="#B" n="15"/>lud petere: &amp; debitor iustitia exigente non debet illud denegare. Et tunc maxime est opus iustitiae 
+       <lb ed="#B" n="16"/>petere quando hoc facere sine scandalo &amp; contentione potest: ex eo quod damnabile esset debitori illud  
+       <lb ed="#B" n="17"/>retinere: sed cum ex receptione scandalum oriri oportet, tunc cessat omnis iustitia repetendi: quia 
+       <lb ed="#B" n="18"/>esset contra ordinem charitatis, vt procedit secunda obiectio.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

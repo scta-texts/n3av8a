@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="450-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4299">
+       <head xml:id="n3av8a-c1e4299-Hd1e96">Quaestio 4</head>
+       <p xml:id="n3av8a-c1e4299-d1e99">
+        <lb ed="#B" n="15"/>SEquitur vnicum propositum pertinens ad creaturarum reductionem in deum. Vtrum scil i. 
+       <lb ed="#B" n="16"/>aliqua creatura posset transubstantiari in deitatem, puta substantia panis in sub- 
+       <lb ed="#B" n="17"/>stantiam deitatis Christi, sicut transubstantiatur in substantiam corporis Christi. Et 
+       <lb ed="#B" n="18"/>arguitur quod sic, quia ex hoc variatio nulla ponitur circa deitatem aut personalitatem 
+       <lb ed="#B" n="19"/>Christi, nec inconueniens aliquod sequitur: ipsa autem deitas quantum est ex se potest esse 
+       <lb ed="#B" n="20"/>terminus omnis actionis quae nullam mutationem ponit circa eam, aut inconveniens, quia 
+       <lb ed="#B" n="21"/>ad ipsam immediate terminatur bonorum voluntas &amp; cognitio per actus ipsorum volendi 
+       <lb ed="#B" n="22"/>&amp; intelligendi. Item diuinum esse est quodammodo esse omnium, &amp; hoc magis quam esse vnius creaturae sit esse 
+       <lb ed="#B" n="23"/>alterius. Et similiter essentia dei est quodammo omnis essentia, quia omnium in se perfectiones continet: non sic autem  
+       <lb ed="#B" n="24"/>vna creatura continet in se perfectiones alterius: vnumquodque autem magis natum est conuerti in sibi conue 
+       <lb ed="#B" n="25"/>niens quam in disconveniens: cum igitur substantia panis conuertitur in corpus Christi, multo fortius potest com 
+       <lb ed="#B" n="26"/>uerti in deitatem eius. 
+      </p>
+      <p xml:id="n3av8a-c1e4299-d1e128">
+       CONtra, per conversionem id in quod sit conuersio de nouo existit vbi prius non  
+       <lb ed="#B" n="27"/>existebat scilicet vbi prius erat id quod conversum est: propter hoc enim corpus Christi simul est in pluribus al 
+       <lb ed="#B" n="28"/>taribus in quibus prius non erat: sed deitas nullo modo potest esse vbi prius non erat, quia ipsa semper  
+       <lb ed="#B" n="29"/>est vbique: ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4299-d1e137">
+       DIco quod sic est in conuersione transubstantiationis quod conuersum quia post conuer 
+       <lb ed="#B" n="30"/>sionem non est nihil, eo quod per conuersionem non est omnino annihilatum, ideo necesse est ponere quod post conuersio 
+       <lb ed="#B" n="31"/>nem sit aliquid, quia esse nihil, idem est quod non esse aliquid. Cuicumque ergo convenit quod non sit nihil siue 
+       <lb ed="#B" n="32"/>quod non sit non aliquid: necesse est concedere quod ipsum sit aliquid: quia si non, stare posset contradictorus. scilicet quod  
+       <lb ed="#B" n="33"/>non esset aliquid, &amp; sic contradictoria essent simul vere. scilicet quod non esset non aliquid: &amp; quod non esset aliquid.  
+       <lb ed="#B" n="34"/>id ergo quod conuersum est, post conuersionem quodammodo est aliquid, quia non est nihil: sed hoc non  
+       <lb ed="#B" n="35"/>quid erat prius, quia illud totum conuersum est: nec aliquid aliud ab illo in quod conversum est: vt nunc cum 
+       <lb ed="#B" n="36"/>substantia panis conuertitur in corpus Christi sicut post conuersionem substantia pani s. i. quid fuit aliquando  
+       <lb ed="#B" n="37"/>substantia panis non quod modo est substantia panis, non est panis: sic non est lignum nec lapis, nec aliquod caete 
+       <lb ed="#B" n="38"/>rorum quae sunt aliquid aliud a corpore Christi. Oportet ergo sentire quod conversum post conuersionem sit 
+       <lb ed="#B" n="39"/>aliquid, vt videlicet id in quod conversum est: vt verum sit dicere quod id quid fuit substantia panis sit corpus 
+       <lb ed="#B" n="40"/>Christi: aut si hoc non concedatur, saltem oportet concedi quod secundum aliquem modum mirabilem, &amp; forte nobis pro  
+       <lb ed="#B" n="41"/>hac vita non plane intelligibilem, verum sit dicere quod id aliquid quid est corpus Christi, siue aliquitas corporis 
+       <lb ed="#B" n="42"/>Christi (ut ita liceat loqu) sit aliquid eius quod fuit substantia panis: &amp; per hoc etiam esse corporis Christi sit 
+       <lb ed="#B" n="43"/>secundum eundem modum eius quid erat substantia panis. Aliter enim nullo modo posset dici quod conversum post conuer 
+       <lb ed="#B" n="44"/>sionem esse aliquid sit, siue quod esse aliquo modo ei conveniret: immo oporteret dicere quod omnino esset annihilatum.  
+       <lb ed="#B" n="45"/>Quia si sic, in omni ergo transubstantiatione aliquitas siue esse eius in quid conversum est per conversionem aliquo  
+       <lb ed="#B" n="46"/>modo habet esse eius quod conversum: vt in proposito, eius quod fuit substantia panis. Quare cum substan-  
+       <lb ed="#B" n="47"/>tia panis &amp; vniversalter omne conuertibile per transubstantiationem in aliud, sit finitum in esse &amp; quiditate siue aliqui 
+       <lb ed="#B" n="48"/>tate, aliquitas autem dei sit infinita, &amp; similiter esse eius sit infinitum, quae in infinitum excedunt quodlibet fi 
+       <lb ed="#B" n="49"/>nitum: ei autem quod ex natura sua est omnino finitum, nullo modo convenire poterit esse quod est infinitum: vt per il 
+       <lb ed="#B" n="50"/>lud infinitum dicatur esse aliquid &amp; manere: &amp; esse illud quoquo mod dicatur esse illius: idcirco ergo  
+       <lb ed="#B" n="51"/>dico simpliciter quod nulla creatura potest transubstantiari in deitatem Christi. quid non solum facit infini  
+       <lb ed="#B" n="52"/>ta distantia inter essentiam creatam &amp; increatam, vt aliqui possent opinari, quia illa bene potest transiri 
+       <lb ed="#B" n="53"/>siue absolui per actionem virtutis infinitae, a qua causatur omnis transubstantiatio: sed hoc facit infini 
+       <lb ed="#B" n="54"/>tus excessus aliquitatis &amp; esse dei super aliquitatem &amp; esse creaturae: quia oportet quod illa quae sic 
+       <!--941.xml-->
+       <pb ed="#B" n="450-v"/>
+        <lb ed="#B" n="1"/>se habentr inter se quod vnum eorum possit transubstantiari in aliud: sic similiter se habeant inter se 
+       <lb ed="#B" n="2"/>quod esse eorum &amp; aliquitates sint proportionalia: vt sicut hoc potest per transubstantiationem conuerti in  
+       <lb ed="#B" n="3"/>illud, sic, econuerso illud possit conuerti in hoc. Et sic aeque impossibile est panem transubstantiari in  
+       <lb ed="#B" n="4"/>deitatem, sicut impossibile est deitatem transubstantiari in panem. Hoc dixerim opinando &amp; sine 
+       <lb ed="#B" n="5"/>praeiudicio. Sed dicet aliquis, quod non obstante ista ratione posset fieri conuersio panis in angelum, quod  
+       <lb ed="#B" n="6"/>tamen multi non concederent: deberet enim esse causa conmunis quare nec in deum nec in angelum pos 
+       <lb ed="#B" n="7"/>set fieri transubstantiatio: non ergo huius causa est infinitas excessus dei supra quancumque creaturam, 
+       <lb ed="#B" n="8"/>quoniam angelus non excedit in infinitum creaturam corporalem, cum ambo sint finita eo quod sunt creatu 
+       <lb ed="#B" n="9"/>rae. Et est dicendum quod dicta causa, propria est ex parte dei, quare. scilicet in ipsum non potest fieri transubstan-  
+       <lb ed="#B" n="10"/>tiatio, sed praeter hoc est aliqua causa alia communis deo &amp; angelo: quare in neutrum potest fieri transubstan-  
+       <lb ed="#B" n="11"/>tiatio, &amp; nullum est inconueniens quod eiusdem sunt plures causae in eodem, propria. scilicet. &amp; communis. Sed ista pro- 
+       <lb ed="#B" n="12"/>pria sufficit ad praesens. Quae autem sit illa causa comnmunis declarabitur quando quaestio occurret an panis pos 
+       <lb ed="#B" n="13"/>sit transubstantiari in angelum: &amp; an vnus angelus possit transubstantiari in alium. Ad primum in  
+       <lb ed="#B" n="14"/>oppositum quod conversio in deitatem nullam poneret variationem in illa, Dicendum quod verum est: sed non negatur 
+       <lb ed="#B" n="15"/>fieri propter variationem quam faceret circa ipsam, vt insinuat argumentum, sed propter aliud, vt dictum 
+       <lb ed="#B" n="16"/>est. Ad secundum, quod diuinum esse &amp; essentia eius sint quodammodo esse &amp; essentia omnium: verum est: 
+       <lb ed="#B" n="17"/>sed modo eminenti, vt in aliis quaestionibus exposuimus. propter quod habent infinitum excessum essentia 
+       <lb ed="#B" n="18"/>&amp; esse dei super essentiam &amp; esse creaturae: propter quod licet essentia &amp; esse vnius creaturae non continent 
+       <lb ed="#B" n="19"/>essentiam &amp; esse alterius creaturae, sicut essentia &amp; esse dei continent essentiam &amp; esse omnis creaturae:  
+       <lb ed="#B" n="20"/>cum tamen ista convenientia in continendo ex parte dei sit excessiua: essentia autem vnius creaturae licet non 
+       <lb ed="#B" n="21"/>continet essentiam alterius dicto modo, convenit tamen cum ea absque omni excessu infinitatis: idcirco propter 
+       <lb ed="#B" n="22"/>illam convenientiam creaturae quam habent illa inter se, virtute diuina inuicem transubstantiari possunt quae conue 
+       <lb ed="#B" n="23"/>nientiam ad hoc habent absque omni excessu secundum rationem infinitatis: quae vero non habent eam. secundum aliquorum opinio 
+       <lb ed="#B" n="24"/>nem, nequaquam possunt inuicem transubstantiari. Quae autem sit illa convenientia, &amp; de inter quae, &amp; inter quae non, propter 
+       <lb ed="#B" n="25"/>quam quaedam creaturae in inuicem possunt transubstantiari, &amp; quaedam non, non pertinet proprie ad propositam quaestionem, 
+       <lb ed="#B" n="26"/>quia in illa consistit communis causa quare in nullam substantiam spiritualem siue creatam siue increatam 
+       <lb ed="#B" n="27"/>possit fieri transubstantiatio, vt aliqui dicunt. 
+      </p>
+      <p xml:id="n3av8a-c1e4299-d1e257">
+       ARgumentum in oppositum non concludit. Licet enim per con 
+       <lb ed="#B" n="28"/>uersionem alicuius in deitatem ipsa non posset esse vbi prius non fuit, si tamen aliquid conuerteretur in ipsam, 
+       <lb ed="#B" n="29"/>puta substantia panis, posset esse alicubi vbi fuit prius alio modo quam ibi prius fuitid est sub speciebus pa 
+       <lb ed="#B" n="30"/>nis sacramentaliter, sub quibus non fuit prius nisi naturaliter.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 21</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 21</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="197-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2049">
+       <head xml:id="n3av8a-c1e2049-Hd1e96">Quaestio 21</head>
+       <p xml:id="n3av8a-c1e2049-d1e99">
+        <lb ed="#B" n="28"/>SEquuntur pertinentia ad habitus quarundam virtutum infusarum specialium. Quorum  
+       <lb ed="#B" n="29"/>vnum &amp; primum erat de fide: Vtrum essentia habitus fidei possit esse in intellectu absque  
+       <lb ed="#B" n="30"/>omni habitu infuso in voluntate. Alia vero erant pertinentia ad charitatem. 
+      </p>
+      <p xml:id="n3av8a-c1e2049-d1e108">
+       CIRca 
+       <lb ed="#B" n="31"/>primum arguitur quod non: quia intellectus per habitum fidei non assentit eis quae sunt si 
+       <lb ed="#B" n="32"/>dei ex rei aut rationis euidentia: sed ex sola voluntatis inclinatione. Quia secundum Au 
+       <lb ed="#B" n="33"/>gustinum de verbis Apostoli, caetera potest homo nolens: credere autem non potest nisi vo 
+       <lb ed="#B" n="34"/>lens. Sed ad aliquid supernaturale non potest voluntas: vt illud velit sine aliquo ha 
+       <lb ed="#B" n="35"/>bitu supernaturali: supnaturaliter inclinante ad illud volendum. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2049-d1e121">
+       CONtra, non est habitus in  
+       <lb ed="#B" n="36"/>fusus in voluntate nisi charitas aut gratia. fides ergo non posset esse in intellectum sine gratia aut chari 
+       <lb ed="#B" n="37"/>tate in voluntate. per hoc autem habet esse formata. Non ergo esset fides nisi formata, &amp; nulla informis 
+       <lb ed="#B" n="38"/>quid falsum est. 
+      </p>
+      <p xml:id="n3av8a-c1e2049-d1e130">
+       QVLAdifficultas quaestionis huius oritur non tam ex habitu fidei quam ex eius actu qui est 
+       <lb ed="#B" n="39"/>creditis assentire: ideo oportet hic primo videre qualis habitus sit fides, &amp; ad quem actum: supposito 
+       <lb ed="#B" n="40"/>sicut quaestio supponit quod sit habitus intellectus. Sciendum igitur quod cum intellectus nostri duplex sit ope 
+       <lb ed="#B" n="41"/>ratio: Prima. scilicet simplicium apprehensio qua apprehendit vniversala rerum in phantasmatibus, &amp; coniuncta est 
+       <lb ed="#B" n="42"/>operationi imaginatiuae, non multum distans ab ea: Alia vero simplicium apprehensorum, &amp; circa ipsa 
+       <lb ed="#B" n="43"/>collatio, diuidendo, componendo, &amp; colligendo, &amp; caetera huiusmodi quae pertinent ad inquisitionem veritatis com 
+       <lb ed="#B" n="44"/>plexorum intellectu discurrente ab vno in aliud quousque perueniat ex primis per se notis ad id quod per 
+       <lb ed="#B" n="45"/>immediationem se habet ad id quod quaerimus scire: illo enim cognito ex aliis praecognitis intellectus sta 
+       <lb ed="#B" n="46"/>tim cadit in notitiam eius quid quaesiuit: &amp; eius notitia informatur: et similiter totus discursus praecedens 
+       <lb ed="#B" n="47"/>qui prius informis dicebatur: vnde &amp; tunc primo actio nostri intellectus habet naturam verbi in quo fi 
+       <lb ed="#B" n="48"/>nitur intellectualis operatio sicut motus grauis in centro: In operatione prima intellectus non inue  
+       <lb ed="#B" n="49"/>nitur credere, eo quod non nisi complexorum est. Propter quod fides non est habitus intellectus: vt est sim- 
+       <lb ed="#B" n="50"/>plicium intelligentia inclinauns ad intelligendum cuiuscumque intelligibilis quiditatem, aut essentiam: sed  
+       <lb ed="#B" n="51"/>solummodo inuenitur in operatione intellectus secunda. Cum ergo fides sit habitus quo elicitur actus cre- 
+       <lb ed="#B" n="52"/>dendi: fides igitur solummodo est habitus intellectus: vt est compositiuus &amp; diuisiuus inclinans ipsum non 
+       <lb ed="#B" n="53"/>ad concipiendum complexiones: ipsae enim concipiuntur per auditum &amp; per instructionis: sed ad as- 
+       <lb ed="#B" n="54"/>sentiendum ipsis. Propter quid dicit <name ref="#Augustine">Augustinus</name> in libro de praedest. sanctorum. Credere est cum assensione cogi- 
+       <!--435.xml-->
+       <pb ed="#B" n="197-v"/>
+        <lb ed="#B" n="1"/>tare. vt sic actus fidei praesupponat conceptum terminorum complexionum articulorum fidei. Quo ad hoc, nm sides est 
+       <lb ed="#B" n="2"/>ex auditu. secundum Apostolum Ro. viii. 
+      </p>
+      <p xml:id="n3av8a-c1e2049-d1e180">
+       AD assensum autem &amp; dissensum credendorum intellectus noster quantum est de 
+       <lb ed="#B" n="3"/>se per indifferentiam se habet: quia nec potest illa per euidentiam rei conspicere, nec ratio vera naturalis per suam inquisitionem  
+       <lb ed="#B" n="4"/>pont ipsorum veritatem ostendere: vt sic eis perfecte consentiat. Nec etiam potest contrarium eis conuin- 
+       <lb ed="#B" n="5"/>cere: vt omnino eis dissentiat: nec etiam signum probabile, vt alterum illorum opinetur: nec etiam tenue si 
+       <lb ed="#B" n="6"/>gnum: vt saltem hoc vel suum contrarium suspicetur, &amp; vni parti adhaereat cum formidine alterius: vt in hoc 
+       <lb ed="#B" n="7"/>verificetur proprie illud quod dicit Apostolius. Non sumus sufficientes cogitare aliquid ex nobis quasi ex nobis. 
+       <lb ed="#B" n="8"/>De credendis autem quo ad simplicium intelligentiam cogitare aliquid possumus ex nobis, supposita ge 
+       <lb ed="#B" n="9"/>nerali influentia dei, vbi cogitatio idem est quod actualis intelligentia. de qua dicit <name ref="#Augustine">Augustinus</name> xiiii. de Trini. Di 
+       <lb ed="#B" n="10"/>co intelligentiam cum intelligimus cogitantes. Sed quo ad intellectum complexorum continentium ar- 
+       <lb ed="#B" n="11"/>ticulos fidei non sufficit homo ex se cogitare: vt saltem ex se, &amp; ex proposito ex simplicibus intellectis 
+       <lb ed="#B" n="12"/>concipiat vnum illorum: &amp; sic eum cogitet. Continet, n quod nec oculus vidit, nec auris audiuit, nec in  
+       <lb ed="#B" n="13"/>cor hominis ascendit. Sed vt dicit <name ref="#Augustine">Augustinus</name> sermo id est super loan. Cor hominis ascendit in illud. Quod enim ascen- 
+       <lb ed="#B" n="14"/>dit in cor hominis, sed de imo, est ad hominem. Quo autem ascendit cor hominis sursum est ab homine. Quid 
+       <lb ed="#B" n="15"/>si forte vnum illorum est sursum per auditum ab alio vel aliquo alio modo aliquem illorum concipiat, &amp; 
+       <lb ed="#B" n="16"/>de illo cogitet: ad nuilum intellectum capiendum de eo ascendere potest: immo necesse est vt nihil de 
+       <lb ed="#B" n="17"/>eo sibi determinate iudicet sentiendum: aut quod propria fragilitate statim propter aliquod apparens verisi 
+       <lb ed="#B" n="18"/>mile contra ipsum de ipsius veritate in dubitationem cadat: neutram tamen partem contradictionis per 
+       <lb ed="#B" n="19"/>assensum siue assertionem determinet. Quia si ad inuestigationem ex eis quae videt in creaturis procede- 
+       <lb ed="#B" n="20"/>re praesumat, ex puris naturalibus proficere non potest: per propriam tamen infirmitatem deficiens in 
+       <lb ed="#B" n="21"/>perfidiam infidelitatis cadere potest omnino dissentiendo eis tanquam falsis &amp; erroneis. Cum igitur crede- 
+       <lb ed="#B" n="22"/>re necessarium est ad salutem: quia sine fide impossibile est placere deo, &amp; accedentem ad deum oportet 
+       <lb ed="#B" n="23"/>credere: vt dicit Apostols: postquam ergo intellectus naturalis ad huiusmodi actum eliciendum ex puris naturalibus 
+       <lb ed="#B" n="24"/>non possit ascendere: necessarius est ei habitus supernaturalis qui ad hoc intellectum inclinet: qui dicitur 
+       <lb ed="#B" n="25"/>habitus fidei. Sed vtrum ad hunc actum eliciendum. scilicet vt intellectus assentiat veritati complexionis quam nul 
+       <lb ed="#B" n="26"/>lo modo intuetur ex se, requiratur aliquis habitus in voluntate, de hoc est quaestio. super talem, n. assen- 
+       <lb ed="#B" n="27"/>sum qui non praesupponit nisi naturalem incomplexorum intellectum, &amp; complexionis volubilem co 
+       <lb ed="#B" n="28"/>gitationem, fundatur omnis fidei scientia: quae purificat mentem ad creditorum intelligentiam: vt sit 
+       <lb ed="#B" n="29"/>media inter naturaliter intellecta &amp; supernaturaliter intelligenda. dicente <name ref="#Augustine">Augustinus</name> super illud psal. 
+       <lb ed="#B" n="30"/>cviii. Da mihi intellectum. Quamuis nisi aliquid intelligat nemo potest credere, tamen ipsa fide qua credit sa- 
+       <lb ed="#B" n="31"/>natur vt intelligat ampliora. Alia enim sunt quae nisi intelligamus non credimus: &amp; alia quae nisi cre 
+       <lb ed="#B" n="32"/>damus non intelligimus. Proficit ergo intellectus ad intelligenda quae credit, &amp; fides proficit ad cre- 
+       <lb ed="#B" n="33"/>denda quae intelligit: &amp; eadem vt magis magisque intelligantur in ipso intellectum, proficit mens: sed hoc 
+       <lb ed="#B" n="34"/>non propriis tanquam naturalibus viribus, sed deo donante atque iuuante, sicut medicina sit non natura 
+       <lb ed="#B" n="35"/>vt oculus vitiatus vim cernendi recipiat. 
+      </p>
+      <p xml:id="n3av8a-c1e2049-d1e264">
+       SEcundum hunc ergo modum difficultate quaestionis intel- 
+       <lb ed="#B" n="36"/>lecta sciendum est quod aliquorum est opinio quod intellectus noster, quia vt iam dictum est ex se est indetermi-  
+       <lb ed="#B" n="37"/>natus ad hoc quod assentiat articulo complexo credendorum vel non assentiat: indeterminatum autem ad duo  
+       <lb ed="#B" n="38"/>ad alterum eorum non determinate mouetur, nisi per aliquid determinate mouens ipsum ad illud: intellectus autem  
+       <lb ed="#B" n="39"/>noster vt dicunt non est natus moueri nisi a duobus scilicet ab obiecto proprio quod est forma intelligibilis, &amp; 
+       <lb ed="#B" n="40"/>a voluntate: quae secundum Anselius est vniuersalis motor in toto regno animae: cum nullo horum intellectus 
+       <lb ed="#B" n="41"/>mouetur circa aliquid, nec habet aliquid apparens verisimile plus pro vna parte contradictionis, quam pro alia 
+       <lb ed="#B" n="42"/>tunc per aequalitatem fluctuat intellectus inter vtramque partem contradictionis, sicut in problemate de 
+       <lb ed="#B" n="43"/>quo neutro modo opinamur: vt dicit <name ref="#Aristotle">philosophus</name> primo Top. Cum vero habet aliquod debile signum apparens ve 
+       <lb ed="#B" n="44"/>risimile plus pro vna parte, quam pro alia: tunc aliquantulum vni adhaeret: sed dubitando, &amp; formidinem haban 
+       <lb ed="#B" n="45"/>do de alterius veritate. Cum autem signum magis multum verisimile habet pro illa parte, dimisso dubio iam su 
+       <lb ed="#B" n="46"/>spicatur de illa. Cum vero habuerit medium probabile, tunc dimittens suspitionem opinatur. Cum vero habuerit me 
+       <lb ed="#B" n="47"/>dium demonstratiuum, tunc scit rem sicut conclusionem: cum autem absque medio: sed cognitis terminis 
+       <lb ed="#B" n="48"/>cognoscit: tunc intelligit rem sicut principium. Hoc modo intellectus determinatur ad alicui assen- 
+       <lb ed="#B" n="49"/>tiendum ex natura &amp; euidentia rei. Alio modo determinatur a voluntate: quande scilicet ipsa ex liberta-  
+       <lb ed="#B" n="50"/>te sua praeeligit intellectum alteri parti assentire determinate. Cum igitur ex natura rei intellectus, 
+       <lb ed="#B" n="51"/>vt dictum est, non potest assentire rei credendae: et praeter rem non habet aliud mouens nisi volun- 
+       <lb ed="#B" n="52"/>tateim: dicunt quod intellectus ad actum credendi, vt assentiat credendis, necesse habet moueri a volun 
+       <lb ed="#B" n="53"/>tate. Et hoc dicunt Augustinus. dixisse quando dixit, quod caetera potest homo nolens, credere autem non potest 
+       <lb ed="#B" n="54"/>nisi volens. Et Apostolus cum dixit. ii. ad Corin. x. In captiuitatem redigentes omnem intellectum. Ex 
+       <!--436.xml-->
+       <pb ed="#B" n="198-r"/>
+        <lb ed="#B" n="1"/>quo sumunt pro principio quod operatio intellectus ex duobus procedit principiis. Ex arguunt vlte- 
+       <lb ed="#B" n="2"/>rius quod cum aliquis actus ex principiis duobus procedit: vt ipse sit perfectus, oportet quod vtrunque illo- 
+       <lb ed="#B" n="3"/>rum in se sit perfectum. Perfectio autem potentiae qua ordinatur ad actus, est habitus respondens illi actui 
+       <lb ed="#B" n="4"/>Ad actum ergo credendi perfectum requiruntur &amp; intellectus &amp; voluntas perfecti per habitus ordinatos 
+       <lb ed="#B" n="5"/>ad actum intelligendi. Cum ergo ille vt dictum est supnaturalis est, &amp; ad actum supernaturalem non ordinatur 
+       <lb ed="#B" n="6"/>nisi habitus supernatnralis: ad actum ergo credendi requiritur aliquis habitus supernaturalis in intellectu ad as 
+       <lb ed="#B" n="7"/>sentiendum: vt possit assentire cuiusmodi est fides: et in voluntate vt velit mouere intellectum ad assentiem 
+       <lb ed="#B" n="8"/>dum quicumque sit ille. Et quia frustra esset habitus fidei in intellectu, si non esset habitus ille alius in voluntate, eo quod non 
+       <lb ed="#B" n="9"/>posset in suum actum: ideo respondent ad quaestionem, dicendo quod fides non potest esse in intellectu abs 
+       <lb ed="#B" n="10"/>que omni habitu infuso in voluntate. Falsitas huius positionis similiter &amp; rationis ponendi eam clare patet 
+       <lb ed="#B" n="11"/>ex hoc quod scilicet omnis habitus inquantum est habitus determinate disponit &amp; inclinat ex se subiectum in quo  
+       <lb ed="#B" n="12"/>est in actum determinatum circa determinatum obiectum. Quid si non nisi perfecte inclinat: oportet quod sit  
+       <lb ed="#B" n="13"/>natus perfici, vt inclinet perfecte. Secundum tamen gradum &amp; analogiam suae perfectionis, necesse est pone- 
+       <lb ed="#B" n="14"/>re quod inclinet: ita quod si hoc non facit, habitus dici non potest: sicut patet in omnibus habitibus vniuersali- 
+       <lb ed="#B" n="15"/>ter: quemadmodum lux lucidum ad actum lucendi: ita quod non debet dici lux si hoc non faciat. Fides er- 
+       <lb ed="#B" n="16"/>go in intellectu aut non est habitus: aut intellectum disponit &amp; determinate inclinatu in actum creden- 
+       <lb ed="#B" n="17"/>di omne credibile inquantum credibile est: ita quod si perfecta sit, perfecte inclinat: vt per ipsam perfecte in  
+       <lb ed="#B" n="18"/>tellectus credat. Si autem imperfecta: saltem imperfecte inclinat: &amp; imperfecte credit intellectus per eam: vt 
+       <lb ed="#B" n="19"/>opus habeat dicere. Domine adauge in nobis fidem. Sic autem inclinare intellectum est ipsum in actum su- 
+       <lb ed="#B" n="20"/>um mouere. Fides ergo cum sit habitus in intellectu ordinatus ad actum credendi, non solum est in in  
+       <lb ed="#B" n="21"/>tellectum: vt possit credere motus adhuc ab alio: immo ipsa ex se sufficit ad mouendum: aut habitus omni 
+       <lb ed="#B" n="22"/>no dici non debet: ita quod si voluntas ipsum moueret in actum credendi &amp; assentiendi, posset ipsum ad  
+       <lb ed="#B" n="23"/>hunc actum eliciendum absque omni habitu in ipso intellectu existente mouere. Quid ergo proponunt in  
+       <lb ed="#B" n="24"/>sua ratione: quod intellectus vt naturalis est ex se indeterminatus est ad actum assentiendi credibilibus: ali 
+       <lb ed="#B" n="25"/>quo ergo determinate mouente in ipsum debet moueri, bene verum est. Et quod assumunt quod intellectus 
+       <lb ed="#B" n="26"/>noster non est natus moueri nisi a duobuscilicet a re intelligibili, &amp; a voluntate: Dicendum est quod non est verum: im 
+       <lb ed="#B" n="27"/>mo mouetur ab habitu intellectuali: vt dictum est supra de intellectu angelorum: in quibus sic mouent 
+       <lb ed="#B" n="28"/>res ipsae: vt ex hoc fiant obiecta actualis intelligentiae angelicae. In nobis autem mouetur intellectus &amp; a vo 
+       <lb ed="#B" n="29"/>luntate post prima cognita, &amp; ab vniuersali in phantasmate, &amp; ab habitu scientiali ad inquirendum, &amp; per 
+       <lb ed="#B" n="30"/>tractandum, &amp; ratiocinandum circa cognita: ita quod licet voluntas rationi imperet vt discurrat &amp; ratioci- 
+       <lb ed="#B" n="31"/>netur, proprio tamen habitu absque omni impulsu voluntatis suos elicit actus: dum tamen voluntas non se oppo- 
+       <lb ed="#B" n="32"/>nat: sed solummodo consensum adhibeat &amp; intelligat actu voluntatis concomitante non praemouente. Sic 
+       <lb ed="#B" n="33"/>&amp; in proposito dico quod intellectus noster in credendo moueri habet a tribus, &amp; a voluntate: postquam con 
+       <lb ed="#B" n="34"/>cepit complexiones intelligibilis informi cogitatione: et ab ipsis incomplexis intellectis in phantasma- 
+       <lb ed="#B" n="35"/>tibus: de quibus dicit <name ref="#Augustine">Augustinus</name> viii. de Tri. capitul. v. Ea firmissime credimus quae secundum specialem generalem 
+       <lb ed="#B" n="36"/>que notitiam quae certa nobis est cogitamus. &amp; ab habitu fidei. ita quod licet voluntas rationi imperet vt cre 
+       <lb ed="#B" n="37"/>dat &amp; assentiat, proprio tamen habitu, absque omni impulsu voluntatis actum hunc potest elicere, dum tamen 
+       <lb ed="#B" n="38"/>voluntas non se opponat propter quod dixit Augustinu. Credere non potest nisi volens. Non quia necesse sit vt vo 
+       <lb ed="#B" n="39"/>luntas intellectum impellat: vt sic possibile sit ex solo habitu fidei eum credere solo consensu voluntatis 
+       <lb ed="#B" n="40"/>concomitante &amp; nullo modo praemouente. Quod vero inducunt de secunda ad Corin. non est de intento Apo- 
+       <lb ed="#B" n="41"/>stoli: quia ibi loquitur ad literam contra impugnatores fidei &amp; Christo contradicentes: quorum intel- 
+       <lb ed="#B" n="42"/>lectum dicit se redigere in captiuitatem vt humiliter obediant fidei Christi quam impugnauerant ante: se- 
+       <lb ed="#B" n="43"/>cundum quod glos. exponit. Falsum est ergo quod etiam assumumt scilicet quod fidei actus ex duobus procedit. Et sic non opor 
+       <lb ed="#B" n="44"/>tet dicere quod fides non potest esse in intellectu, nisi sit aliquis habitus infusus in voluntate quo vult 
+       <lb ed="#B" n="45"/>mouere intellectum in actum credendi. Forte hoc potest esse verum de prima fidei infusione in intelle 
+       <lb ed="#B" n="46"/>ctum: quia non infunduntur ab initio virtutes, fides, scilicet &amp; spes sine charitate. Quia tamen possunt 
+       <lb ed="#B" n="47"/>esse informes, recedente charitate possunt manere &amp; actus suos exercere informiter: licet non merito- 
+       <lb ed="#B" n="48"/>rie sine habitu charitatis in voluntate. 
+      </p>
+      <p xml:id="n3av8a-c1e2049-d1e422">
+       AD argumentum in oppositum quod intellectus non assentit 
+       <lb ed="#B" n="49"/>eis quae sunt fidei, nisi ex sola voluntate: patet ex iam dictis quod falsum est: &amp; quod dictum <name ref="#Augustine">Augustini</name> non  
+       <lb ed="#B" n="50"/>currit ad hanc intentionem. Argumentum secundum nullam efficaciam habet. Etenim habitus vo- 
+       <lb ed="#B" n="51"/>luntatis necessarius ad actum fidei non dicetur a volentibus dictam opinionem sustinere quod sit chari 
+       <lb ed="#B" n="52"/>tas, aut gratia gratum faciens: sed aliquod donum gratis datum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

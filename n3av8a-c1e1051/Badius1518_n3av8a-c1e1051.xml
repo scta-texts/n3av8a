@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="63-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1051">
+      <head xml:id="n3av8a-c1e1051-Hd1e96">Quaestio 11</head>
+      <p xml:id="n3av8a-c1e1051-d1e99">
+       <lb ed="#B" n="29"/>CIrca secundum arguitur quod tempus non possit esse sine anima, quoniam numerus 
+       <lb ed="#B" n="30"/>non est sine numerante, tempus autem secundum philosophum. iiii. Physi. est numerus mo 
+       <lb ed="#B" n="31"/>tus: &amp; non est numerans ipsum nisi anima concipiens prius &amp; posterius in tempo 
+       <lb ed="#B" n="32"/>re secundum prius &amp; posterius in motu: vt vult <name ref="#Aristotle">philosophus</name> ibidem. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e1051-d1e113">
+       <lb ed="#B" n="33"/>CONtra est illud quod dicit <name ref="#Aristotle">philosophus</name> in quarto physicorum. Tempus &amp; motus 
+       <lb ed="#B" n="34"/>Asimul sunt &amp; non sunt: potentia &amp; actum. sed motus habet esse fine anima. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e1051-d1e123">
+       <lb ed="#B" n="35"/>CVM quaestio ista sit de esse temporis, oportet intelligere in principio quod esse debile valde habet &amp; obs 
+       <lb ed="#B" n="36"/>curum, quoniam vt dicit <name>Rabi Moyses</name> in libro suo secundo: res coniunguntur in tempore simul. &amp; quod  
+       <lb ed="#B" n="37"/>est accidens cohaerens motui: &amp; veritas motus per se exigit vt non quiescat vllo modo. Et hoc est quod fa- 
+       <lb ed="#B" n="38"/>cit naturam temporis latere plures hominum: &amp; nesciuerunt vtrum vere sit an non: sicut <name>Galenus</name> &amp; 
+       <lb ed="#B" n="39"/>alii sapientes. Vnde Plato non discernens esse temporis ab esse motus: posuit quod tempus esset motus 
+       <lb ed="#B" n="40"/>caeli: &amp; quod partes motus sunt partes temporis. quoniam multotiens aestimatur quod illud quod sequitur ipsam 
+       <lb ed="#B" n="41"/>rem, sit ipsa res, vt dicit commentator super quartum physicorum. vbi <name ref="#Aristotle">philosophus</name> istam opinionem <name>Plato 
+       <lb ed="#B" n="42"/>nis</name> reprobat. Propter quod etiam <name ref="#Aristotle">philosophus</name> tractans de tempore in quarto physicorum, in principio quae  
+       <lb ed="#B" n="43"/>rit vtrum tempus sit de numero eorum quae sunt an non, &amp; persuadet quod aut omnino non sit, aut vix &amp; obscure. Si enim 
+       <lb ed="#B" n="44"/>aspiciamus partes temporis: ex quibus tanquam totum continuum debet constitui: quae sunt praeteri- 
+       <lb ed="#B" n="45"/>tum &amp; futurum: cum non sint: illud. n. factum est: &amp; sic non est: hoc autem futurum est, &amp; sic nondum est: quod autem  
+       <lb ed="#B" n="46"/>constituitur ex non entibus, impossibile est quod sit ens inquantum huiusmodi: secundum hoc ergo vt videtur 
+       <lb ed="#B" n="47"/>tempus in rei veritate extra animam non est: nec est sine actione animae simul concipiente praeteritum &amp; futurum ad  
+       <lb ed="#B" n="48"/>instans fluens copulata: quid omnino pars temporis non est. Vnde secundum quod vult philosophus: cum non  
+       <lb ed="#B" n="49"/>percipimus motu intelligentiae transmutationem aliquam currere a priori in posterius, non percipimus tempus 
+       <lb ed="#B" n="50"/>esse: quemadmodum dormientes in Sardis tempus dormitionis suae non perceperunt: sed copulabant nunc pri 
+       <lb ed="#B" n="51"/>mum quo dormire coeperunt, cum nunc posteriori quo euigilauerunt, &amp; non perceperunt tempus intermedium: sed  
+       <lb ed="#B" n="52"/>putabant quod vnum esset: quando dormire inceperunt: &amp; quando surrexerunt: &amp; remouebant totum tempus medium pro 
+       <lb ed="#B" n="53"/>pter insensibilitatem. Et iterum siquis percipiat motum solummodo sentiendo motum in ratione motus secundum 
+       <lb ed="#B" n="54"/>fluxum eius quod mouetur, &amp; non secundum rationem defluxus a priori in posterius, non percipit tempus 
+       <!--167.xml-->
+       <pb ed="#B" n="63-v"/>
+       <lb ed="#B" n="1"/>sed tunc solum tempus percipitur, cum motu animae percipimus distincte discursum motus venire a pri 
+       <lb ed="#B" n="2"/>ori in posterius. Prius autem huiusmodi &amp; posterius in quibus sic percipitur tempus: iam non sunt in re 
+       <lb ed="#B" n="3"/>extra: vt dictum est: sed solum in animae perceptione. Idcirco Galenus &amp; <name ref="#Augustine">Augustinus</name> non posuerunt esse tempo- 
+       <lb ed="#B" n="4"/>ris nisi in anima. scilicet in vicibus motuum animae circa conceptus partium motus: quarum vna iam prae- 
+       <lb ed="#B" n="5"/>teriit: alia nondum est. Quorum opinio videtur confirmari per hoc quod dicit philosophus. Si sint tenebrae, &amp; 
+       <lb ed="#B" n="6"/>nihil per corpus patiamur, motus autem in anima sit, simul videtur visio fieri: &amp; tempus cognoscimus cum 
+       <lb ed="#B" n="7"/>definimus motum prius &amp; posterius determinantes: &amp; tunc dicimus fieri tempus quando prioris &amp; 
+       <lb ed="#B" n="8"/>posterioris in motu sensum percipimus. Cum enim altera extrema a medio: &amp; dicat anima duo: hoc qui 
+       <lb ed="#B" n="9"/>dem prius: illud autem posterius: tunc dicimus tempus esse. determinato enim ipso nunc tempus vide 
+       <lb ed="#B" n="10"/>tur. Quando enim tanquam vnum ipsum nunc sentimus, aut sicut idem prioris &amp; posterioris alicuius, &amp; non 
+       <lb ed="#B" n="11"/>sint prius &amp; posterius in motu non videtur tempus fieri, quia neque motus. propter quod tempus: vt di-  
+       <lb ed="#B" n="12"/>cit philosophus: non est ipse motus: sed id quod secundum numerum habet motus. Et concludit dubi- 
+       <lb ed="#B" n="13"/>tationem quaestionis propositae dicens. Vtrum autem cum non sit anima, erit tempus vel non, dubitabit ali 
+       <lb ed="#B" n="14"/>quis. &amp; facit argumentum quod opponens adduxit dicens. Si autem nihil aliud aptum natum est nu- 
+       <lb ed="#B" n="15"/>merarequam anima &amp; animae intellectus, impossibile est esse tempus anima si non sit. Et est intentio Augu 
+       <lb ed="#B" n="16"/>stini vt dictum est: quod tempus non est nisi in anima &amp; nisi sit anima, &amp; quod sequitur motum vt numerus 
+       <lb ed="#B" n="17"/>&amp; mensura eius: non eum qui est extra: sed eum qui est in conceptibus animae: vel de eo qui est extra: vel  
+       <lb ed="#B" n="18"/>de quocumque alio. Difficultatem tamen in hoc bene percipit. Vnde dixit. xi. confessionum. Quid est ten- 
+       <lb ed="#B" n="19"/>pus: Quis hoc facile breuiterque explicabit: Quid autem familiarius &amp; notius in loquendo commemora 
+       <lb ed="#B" n="20"/>mus quam tempus: Quid est ergo tempus: Si nemo ex me quaerat: scio. Si quaerenti explicare velim, nescio 
+       <lb ed="#B" n="21"/>Fidenter tamen dico scire me: quod si nihil praeteriret, non esset praeteritum tempus: &amp; si nihil adueniret, non 
+       <lb ed="#B" n="22"/>esset futurum tempus: &amp; si nihil esset non esset praesens tempus. Duo ergo illa praeteritum &amp; futurum quomodo  
+       <lb ed="#B" n="23"/>sunt: quoniam &amp; praeteritum iam non est, &amp; futurum nondum est. Praesens autem si semper esset prae 
+       <lb ed="#B" n="24"/>sens, &amp; in praeteritum non transiret: iam non esset tempus, sed aeternitas. Si ergo praesens vt tempus 
+       <lb ed="#B" n="25"/>sit, ideo sit quia in praeteritum transit: quomodo &amp; hoc esse dicimus cui causa vt sit illa est quia non  
+       <lb ed="#B" n="26"/>erit: vt scilicet non vere dicamus tempus esse, nisi quia tendit in non esse: Et respondet dicens. Sunt futura 
+       <lb ed="#B" n="27"/>&amp; praeterita. Volo scire vbi sunt, quod si non valeo: scio tamen vbicunque sint: non ibi ea futura esse aut prae- 
+       <lb ed="#B" n="28"/>terita sed praesentia. Nam si ibi futura sunt, nondum ibi sunt, si etiam ibi praeterita sunt: iam non ibi sunt. vbi 
+       <lb ed="#B" n="29"/>cunque igitur sunt quaecunque sunt, non sunt nisi praesentia. Et est responsio <name ref="#Augustine">Augustini</name> quod sunt: sed non  
+       <lb ed="#B" n="30"/>nisi in anima concipiente, non autem in re extra. vnde dicit capitulo. xxi. Quid autem nunc liquet &amp; cla 
+       <lb ed="#B" n="31"/>ret, nec futura sunt nec praeterita. Nec proprie dicitur, tria tempora sunt: praesens de praeteritis: prae 
+       <lb ed="#B" n="32"/>sens de futuris: praesens de praesentibus. sunt enim haec in anima quaedam: &amp; alibi ea non video, prae- 
+       <lb ed="#B" n="33"/>sens de praeteritis memoria, praesens de praesentibus contuitus, praesens de futuris expectatio. Si haec 
+       <lb ed="#B" n="34"/>permittuntur dicere, tria tempora video fateor: quia tria sunt praesens, praeteritum, &amp; futurum. xxvi. 
+       <lb ed="#B" n="35"/>capitulo. Confiteor ignorare me adhuc quid sit tempus. xxvii. Visumque mihi est nihil aliud esse tempus quam  
+       <lb ed="#B" n="36"/>distinctionis: sed cuius rei nescio. xxviii. Et mirum si non ipsius animi non metior futurum: quia non  
+       <lb ed="#B" n="37"/>dum est: non praesens: quia nullo spatio tenditur: non praeteritum, quia iam non est, &amp; metimur ta- 
+       <lb ed="#B" n="38"/>men tempora. Non ergo ipsa quae iam non sunt: sed aliquid in memoria mea metior quod infixum ma-  
+       <lb ed="#B" n="39"/>net affectione quam res praetereuntes faciunt: et cum illae praetereunt manet ipsa. ergo ipsa tempora sunt 
+       <lb ed="#B" n="40"/>aut non metior tempora. Sed quomodo minuitur aut consumitur futurum quod nondum est: aut 
+       <lb ed="#B" n="41"/>quomodo crescit praeteritum quod iam non est: nisi quia in animo tria sunt: nam &amp; expectat &amp; atten 
+       <lb ed="#B" n="42"/>dit &amp; meminit: vt illud quod expectat per id quod attendit transeat in id quid meminit. Quis neget 
+       <lb ed="#B" n="43"/>futura nondum esse: sed tamen iam est &amp; in animo expectatio futurorum. Et quis negat praeterita iam 
+       <lb ed="#B" n="44"/>non esse: sed tamen adhuc est in animo memoria praeteritorum. Et quis negat praesens tempus care- 
+       <lb ed="#B" n="45"/>re spatio: quia in puncto praeteriit: sed tamen perdurat attentio per quam pergat abesse quod aderit. 
+       <lb ed="#B" n="46"/>Non igitur longum tempus futurum quod nondum est: sed longum futurum longa expectatio fu- 
+       <lb ed="#B" n="47"/>turi est: neque longum praeteritum tempus quod non est: sed longum praeteritum longa memoria prae 
+       <lb ed="#B" n="48"/>teriti est. Ecce plane quid de proposita quaestione sensit <name ref="#Augustine">Augustinus</name> videlicet quod non esset nisi in anima: &amp; nihil 
+       <lb ed="#B" n="49"/>aliud quam affectio seu conceptus transitus rerum pertranseuntium, manens in anima: vt quod tempus fu- 
+       <lb ed="#B" n="50"/>turum nihil aliud sit quam conceptus secundum expectationem praetereundi: Praeteritum nihil aliud quam 
+       <lb ed="#B" n="51"/>conceptus secundum recordationem iam pertransiti. Praesens vero nihil aliud quam conceptus secundum 
+       <lb ed="#B" n="52"/>attentionem iam praetereuntis. Et secundum tales conceptus dicitur secundum ipsum tempus longum tempus vel breue: non secundum  
+       <lb ed="#B" n="53"/>aliquid quid est extra. Verbi gratia. sicut dicit: dicturus sum canticum quod noui: antequam incipiam, in totum expecta 
+       <lb ed="#B" n="54"/>rio mea tendit: cum coepero, quantum ex illo in praeteritum decerpsero tendit in memoriam quod dixi: &amp; in  
+       <!--168.xml-->
+       <pb ed="#B" n="64-r"/>
+       <lb ed="#B" n="1"/>expectationem quod dicturus sum. Praesens cum adest, adest attentio per quam traiicitur quod erat 
+       <lb ed="#B" n="2"/>futurum, vt fiat praeteritum, quod quanto magis agitur, tanto abbreuiatur expectatio, &amp; prlongatur memoria, donec 
+       <lb ed="#B" n="3"/>tota expectatio consummatur. Et cum tota transierit in memoria, finita est actio. Et quod in toto cantico, hoc in  
+       <lb ed="#B" n="4"/>singulis particulis fit eius: haec in actione longior est: haec in tota vita hominis: haec in toto saeculo filiorum hominium. 
+       <lb ed="#B" n="5"/>&amp; sic secundum <name ref="#Augustine">Augustinus</name> non nisi eo quod est in anima metimur id quod est extra: &amp; non nisi secundum esse quod habet in  
+       <lb ed="#B" n="6"/>anima. 
+      </p>
+      <p xml:id="n3av8a-c1e1051-d1e336">
+       SED quid est: nunquid sentiendum est quod secundum veritatem tempus non nisi in anima est: Si enim in  
+       <lb ed="#B" n="7"/>anima, neque vllus intellectus comprehenderet motus fluxum, &amp; secundum partes suas de non esse 
+       <lb ed="#B" n="8"/>per esse medium fluerent in non esse iterum: &amp; sic pars transiret post partem: quaedam citius, quaedam  
+       <lb ed="#B" n="9"/>tardius: numquid in re ipsa secundum se esset modus durationis suae in esse saltem subitaneus eo quod nihil 
+       <lb ed="#B" n="10"/>est in toto motu nisi transitio subita: vt hic saltem sit ponere instans in ipsa re transeunte inquantum tran- 
+       <lb ed="#B" n="11"/>sit: aut si instans non meretur dici aliquid: quia non manet: similiter neque ipse transitus: quia similiter non  
+       <lb ed="#B" n="12"/>manet: &amp; per consequens negabitur quod non sit motus omnino in rebus, contra clarum iudicium sensus 
+       <lb ed="#B" n="13"/>non decepti: Reuera necesse est ponere instans siue praesens esse in natura rei extra animam, si transi- 
+       <lb ed="#B" n="14"/>tum vel translationem aliquam ponamus extra animam: quia instans necessario sequitur id quod transfertur 
+       <lb ed="#B" n="15"/>inquantum transfertur: vt vult philosophus. Et si concedatur nunc instans esse in rebus extra animam quantum  
+       <lb ed="#B" n="16"/>cunque debiliter: sicut ponimus motum esse in rebus propter successionem continuam transituum vni 
+       <lb ed="#B" n="17"/>us post alterum: consimiliter necesse habemus ponere &amp; in ipso motu tempus esse: quia tempus sequi-  
+       <lb ed="#B" n="18"/>tur motum ex successione instantium mensurantium transitus succedentes qui causant motum: si- 
+       <lb ed="#B" n="19"/>cut ipsum instans sequitur transitum ipsum. Nec plus possunt concludere persuasiones <name ref="#Augustine">Augustini</name> ad  
+       <lb ed="#B" n="20"/>probandum tempus non esse in rebus sed solum in anima, quam motum, quia non alium modum essendi ha 
+       <lb ed="#B" n="21"/>bet motus quam tempus: sicut patet inspicienti: quia quod de motu in praeterito acceptum est non est, sicut neque  
+       <lb ed="#B" n="22"/>tempus praeteritum: &amp; quod de motu futurum est, nondum est, sicut neque tempus futurum: &amp; quod de motu in prae- 
+       <lb ed="#B" n="23"/>senti est, motus non est: sed in solo transitu est: sicut est de instanti. Super hoc enim <name ref="#Augustine">Augustinus</name> fun- 
+       <lb ed="#B" n="24"/>dat omnem suam persuasionem. Salua ergo reuerentia beati Augustini, non omnino negandum est tem- 
+       <lb ed="#B" n="25"/>pus esse extra animam. Sed nunquid omnino &amp; perfectum suum esse habet in rebus, &amp; nullo modo in anima: sicut 
+       <lb ed="#B" n="26"/>habet verus motus esse in rebus extra, &amp; nullo modo in anima, nisi per suam similitudinem sicut res 
+       <lb ed="#B" n="27"/>aliae: Et videretur alicui dicendum quod sic: si tempus in suo esse perfecte sequitur esse motus: vt sicut motus 
+       <lb ed="#B" n="28"/>totum esse suum habet omnino extra animam in rebus motis: &amp; non habet esse in anima nisi per suam 
+       <lb ed="#B" n="29"/>speciem tanquam in cognoscente: sic neque tempus habet esse in anima, nisi sicut in cognoscente per suam speciem: sed se- 
+       <lb ed="#B" n="30"/>cundum rei veritatem in motu extra existente in re. Sed non est ita. Dicit. eno commentator super cap. de tem 
+       <lb ed="#B" n="31"/>pore. quod tempus est de numero entium, quorum actus completur per animam, &amp; entibus latentibus. quae si anima non esset, non 
+       <lb ed="#B" n="32"/>essent nisi in potentia: vt iam patebit. His visis dicendum ad quaestionem: quod tempus quodammo habet esse sine anima  
+       <lb ed="#B" n="33"/>in re extra: &amp; quodammo in anima, de non sine anima. in quo residet sententia philosophi circa esse temporis. Quid ex 
+       <lb ed="#B" n="34"/>presse patet ex eo quod dicit ante finem capituli de tempore. Dignum inquit consideratione est: &amp; quo modo 
+       <lb ed="#B" n="35"/>se habeat ad animam, &amp; propter quid in omni videtur esse tempus, &amp; in terra, &amp; in mari, &amp; in caelo. Per hoc ergo quod di 
+       <lb ed="#B" n="36"/>cit. Et propter quid &amp;c. expresse insinuat quod per motum habet esse in rebus extra. &amp; hoc est quod subiungit 
+       <lb ed="#B" n="37"/>respondendo ad illud propter quid, dicens. Aut quia tempus quaedam passio est: motu scilicet hic: aut mouentur 
+       <lb ed="#B" n="38"/>omnia: tempus autem &amp; motus simul secundum actum &amp; potentiam sunt. Per id autem quod dicit, Quo modo se 
+       <lb ed="#B" n="39"/>habeat ad animam, innuit <name ref="#Aristotle">philosophus</name> quod quodammodo habet esse in anima, quod explicat satis, cum statim adducit ar 
+       <lb ed="#B" n="40"/>gumentum probans quod tempus non est sine anima: quia tempus est numerus motus. Numerus autem non est 
+       <lb ed="#B" n="41"/>sine numerante: quod non est nisi anima. Sed quomodo tempus habeat esse vt cumque, satis difficile est videre &amp; obscu- 
+       <lb ed="#B" n="42"/>rum: &amp; necesse est ad hoc declarandum videre quid sit tempus re &amp; definitione. In eis enim quorum obscurum 
+       <lb ed="#B" n="43"/>est esse, quale est esse temporis, vt dictum est, prius oportet scire quid sit: quam an sit, &amp; quomodo sit vt vult 
+       <lb ed="#B" n="44"/>commentator supe capitulum de Vacuo. Cum autem quaeritur, quid sit tempus oportet incipere quid sit 
+       <lb ed="#B" n="45"/>motus: vt dicit <name ref="#Aristotle">philosophus</name> in cap. de Tempore. De motu autem clarum quod nihil aliud est quam successio quae  
+       <lb ed="#B" n="46"/>dam translationis ipsius mobilis a priori in posterius eius secundum quod mouetur. cuius quidem mo- 
+       <lb ed="#B" n="47"/>tus nihil est in actum, nisi simplex mutatio, &amp; per eam totus motus vt iam dicetur. Qua quidem muta-  
+       <lb ed="#B" n="48"/>tione id quod mouetur motu locali in qua est apertior ratio motus, mobile semper super sibi aequale 
+       <lb ed="#B" n="49"/>in spatio translatum est: vt habetur in sexto Physicorum. In hac autem translatione quae motus est: tria 
+       <lb ed="#B" n="50"/>est considerare. Primo eius continuationem qua non cessat fluxus eius, nec sistit, aut deficit. Secun- 
+       <lb ed="#B" n="51"/>do id quod de ea acceptum est, vt distinctum ab eo quod accipiendum, &amp; vtrunque secundum se indi-  
+       <lb ed="#B" n="52"/>stinctum ab eo quod de ipsa instat in praesenti. Tertio est considerare in ea vtrunque illorum: vt conti- 
+       <lb ed="#B" n="53"/>nuata secundum rem ad id quod instat de ea, &amp; vt distincta secundum rationem prioris &amp; posterioris. 
+       <lb ed="#B" n="54"/>Primo modo consideratur vt continuum. Secundo modo vt discretum quid. Tertio vero modo  
+       <!--169.xml-->
+       <pb ed="#B" n="64-v"/>
+       <lb ed="#B" n="1"/>vt discretum in continuo. Primo modo translatio illa quae motus est tantum, habet esse in re mota: quia esset 
+       <lb ed="#B" n="2"/>in ea, etsi anima non esset apprehendens eam. Secundo modo habet esse in conceptione animae tantum: quia 
+       <lb ed="#B" n="3"/>discretiopartium motus a termino medio continuante non est in re extra: sed eam solum format men 
+       <lb ed="#B" n="4"/>tis conceptus. Tertio modo partim est in re, partim est in anima. inquantum enim habet rationem continui 
+       <lb ed="#B" n="5"/>est in re: inquantum videtur de ratione discreti: in anima. Cum igitur secundum veridicam determinationem 
+       <lb ed="#B" n="6"/>philosophi tempus sequitur motum: vt passio quaedam eius: potest ergo tempus considerari: vt sequitur  
+       <lb ed="#B" n="7"/>motum secundum primam eius considerationem, vel secundum secundam, vel secundum tertiam. Si vt se 
+       <lb ed="#B" n="8"/>cundum primam: sic tempus solummo habet rationem continui sicut &amp; motus, &amp; est solummodo in re quae mo- 
+       <lb ed="#B" n="9"/>uetur per ipsum motum, &amp; non in anima: nisi forte sicut in cognoscente per suam similitudinis: sicut &amp; ipse mo- 
+       <lb ed="#B" n="10"/>tus, &amp; ipsum mobile, &amp; caetera cognita ab ipsa. Et de isto modo essendi dicit philosophus, quod tempus est in  
+       <lb ed="#B" n="11"/>terra, &amp; in mari, &amp; in caelo: vt dictum est. &amp; sic processit secundum obiectum, quod tempus potest esse fine 
+       <lb ed="#B" n="12"/>anima: quia &amp; motus. Si vero consideratur tempus vt sequitur motum secundum aliam considera-  
+       <lb ed="#B" n="13"/>tionem eius: sic tempus solummodo habet esse in anima: &amp; non in re extra: quia quod praeteriit, vt praecisum 
+       <lb ed="#B" n="14"/>ab instanti praesenti &amp; non copulatum ei, omnino in re non est, &amp; ideo esse quod habet in conceptu mentis habet. 
+       <lb ed="#B" n="15"/>&amp; similiter quod futurum est: quia nondum est. Et secundum hanc considerationem temporis procedit 
+       <lb ed="#B" n="16"/>quaedam argumentatio philosophi: qua probat quod tempus non est: quia partes eius, praeteritum scilicet &amp; futurum 
+       <lb ed="#B" n="17"/>non sunt, &amp; ex non entibus non constituitur ens. Talem considerationem de tempore habuit beatus Au 
+       <lb ed="#B" n="18"/>gustinus: &amp; ideo partes temporis quas <name ref="#Aristotle">philosophous</name> secundum primam considerationem ponit habere 
+       <lb ed="#B" n="19"/>esse ex copulatione seu continuatione ad instans indiuisibile praesens: licet illud semper sit aliud &amp; aliud  
+       <lb ed="#B" n="20"/>&amp; partes eius succedunt: &amp; semper sunt aliae &amp; aliae: aliud enim esse non requirunt successiua: <name ref="#Augustine">Augustinus</name> secun 
+       <lb ed="#B" n="21"/>dum istam considerationem ponit solummodo esse ex hoc quod sunt in anima: in cuius recordatione perma 
+       <lb ed="#B" n="22"/>nent. Et similiter est de esse instantis, quod non aliter habet esse quam sic: vt statim transeat in non esse. Et secundum 
+       <lb ed="#B" n="23"/>eandem considerationem <name ref="#Augustine">Augustinus</name> dicit quod de praeterito non dicimus longum vel breue: nisi secundum esse quod  
+       <lb ed="#B" n="24"/>habet in anima: sed solum dicimus quod fuit longum vel breue secundum esse quod habet in rebus extra: &amp; si 
+       <lb ed="#B" n="25"/>militer de futuro solum quod erit longum vel breue: cum <name ref="#Aristotle">philosophous</name> dicat quod longum &amp; breue dicitur 
+       <lb ed="#B" n="26"/>in vtroque propter distantiam maiorem vel minorem ad instans indiuisibile cui copulatur: secundum 
+       <lb ed="#B" n="27"/>quod dicimus tempus quod fluxit a diluuio esse longum: &amp; similiter quod fluet vsque in finem mundi. Et bre- 
+       <lb ed="#B" n="28"/>ue dicimus id quod fluxit a mane vsque in vesperam: &amp; similiter quod fluet a vespera vsque in noctem. prius enim 
+       <lb ed="#B" n="29"/>in tempore &amp; posterius est secundum ad ipsum nunc distantiam: ipsum autem nunc terminus praeteriti &amp; 
+       <lb ed="#B" n="30"/>futuri est. Quare quoniam ipsa nunc in tempore sunt, &amp; prius &amp; posterius in tempore erunt. in quo enim est 
+       <lb ed="#B" n="31"/>ipsum nunc, &amp; ipsius nunc distantia. Contrario autem dicitur prius &amp; secundum praeteritum tempus &amp; secundum fu- 
+       <lb ed="#B" n="32"/>turum. In praeterito enim prius dicimus quid longius est ab ipso nunc, posterius autem quod propius est: in futuro 
+       <lb ed="#B" n="33"/>autem prius quod propius est: posterius autem quod procul. Et iterum cum quaeritur: si tantum praesens est quomodo illa 
+       <lb ed="#B" n="34"/>duo praeteritum. scilicet &amp; futurum sunt, Aug. respondet in anima. <name ref="#Aristotle">Philosophus</name> autem dicit quod in rebus ex conti 
+       <lb ed="#B" n="35"/>nuatione illorum ad praesens quod instat. Nota ergo, quod secundum primam considerationem temporis <name ref="#Aristotle">philosophus</name> in  
+       <lb ed="#B" n="36"/>telligit praeteritum &amp; futurum: qui ponit esse in rebus esse imperfecta quaedam &amp; in sua praeteritione: in qua  
+       <lb ed="#B" n="37"/>restat aliquid praetereundum: &amp; similiter in sua futuritione: in qua semper restat aliquid accidendum. 
+       <lb ed="#B" n="38"/>Augustinus autem intelligit ipsa vt iam omnino perfecta secundum sua instantia terminantia ipsa in sua praeteritio 
+       <lb ed="#B" n="39"/>ne, &amp; in sua futuritione. Quibus consideratis patere potest inspicienti tota determinatio <name ref="#Augustine">Augustini</name> pro  
+       <lb ed="#B" n="40"/>lixa in vndecimo confessionum. Et reuera quid dicit, secundum considerationem suam verum est. Si enim prae 
+       <lb ed="#B" n="41"/>teritum &amp; futurum considerentur vt instantia inter sua instantia iam omnino praeterita &amp; futura:  
+       <lb ed="#B" n="42"/>verum est quod non sunt nisi in anima, &amp; non sine anima. Sed illa eius consideratio multum insufficien- 
+       <lb ed="#B" n="43"/>ter respexit naturam temporis in praeterito &amp; futuro, includendo ipsa inter instantia praeterita &amp; futura 
+       <lb ed="#B" n="44"/>&amp; non copulando ad instans praesens: sicut in sua consideratione copulauit ea Aristoteles: &amp; valde bene. 
+       <lb ed="#B" n="45"/>lpsum. n. nunc est tota substantia temporis in quo consistit totum esse temporis: quod per suum fluxum secundum 
+       <lb ed="#B" n="46"/>aliud &amp; aliud esse causat vnum tempus continuum compositum ex praeterito &amp; futuro ab initio mun- 
+       <lb ed="#B" n="47"/>di vsque in finem suum. Si vero consideretur tempus secundum eius tertiam considerationem: vt scili 
+       <lb ed="#B" n="48"/>cet habet partium suarum praeteriti &amp; futuri continuationem secundum rem ad praesens nunc: &amp; cum 
+       <lb ed="#B" n="49"/>hoc vt distincta secundum rationem prioris &amp; posterioris respectu instantis medii continuantis: sic com 
+       <lb ed="#B" n="50"/>sideratur secundum perfectam rationem essentiae eius. Ratio enim successionis formaliter consistit in ra 
+       <lb ed="#B" n="51"/>tione prioris &amp; posterioris: non in ratione continuationis: quia illa conuenit permanentibus: vt quantita-  
+       <lb ed="#B" n="52"/>tibus positionem habentibus. Tam ergo ratio motus quam ratio temporis: inquantum ratio essendi eorum, tantum 
+       <lb ed="#B" n="53"/>consistit in continuatione quadam iuxta primam considerationem: nec est perfecta ratio ipsorum: sed  
+       <lb ed="#B" n="54"/>est quasi in potentia ad perfectionem: quae consistit in distinctione secundum prius &amp; posterius secun 
+       <!--170.xml-->
+       <pb ed="#B" n="65-r"/>
+       <lb ed="#B" n="1"/>dum istam tertiam considerationem. Quae quidem ratio continuationis eorum licet sit in re extra, &amp; sequitur na-  
+       <lb ed="#B" n="2"/>turam motus in tempore, vt motus ipse realiter habet esse in mobili continue translato: ratio tamen distinctionis 
+       <lb ed="#B" n="3"/>partium talis continui secundum prius &amp; posterius non habetur ex natura rei, sed potius ex conceptu mentis. Et ideo  
+       <lb ed="#B" n="4"/>secundum hanc rationem formalem &amp; perfectiuam: tempus habet esse in anima solum, tamquam mensura &amp; numerus motus. secundum prius &amp; 
+       <lb ed="#B" n="5"/>posterius: secundum quod definit tempus philosophus. Tempus ergo secundum esse quasi matiale &amp; in radice instantis, habet esse in rebus 
+       <lb ed="#B" n="6"/>extra. sed secundum suum esse formale &amp; completiuum secundum partes prioris &amp; posterioris habet esse in anima. &amp; haec, vt 
+       <lb ed="#B" n="7"/>supra dictum est, natura est successiuorumquod scilicet pertin habent esse in rebus: partin vero in anima. Quod non est inconueniens, cum 
+       <lb ed="#B" n="8"/>videmus quod vel siue fora vniversalis in rebus est in potentia a quibus abstrahitur: &amp; completiue in anima. Sic ergo tempus secundum  
+       <lb ed="#B" n="9"/>esse verum sed ipfectum &amp; in potentia habet esse in rebus, vt procedit secundum argumentum. Secundum autem esse verum &amp; per 
+       <lb ed="#B" n="10"/>fectum, in anima: secundum quod iam expositum est iuxta determinationem philosophi. Sed esse fictum &amp; non verum habet in anima  
+       <lb ed="#B" n="11"/>secundum considerationem Augustini: quale haberet etsi omnino tempus non esset, neque instans: &amp; caelum staret nec 
+       <lb ed="#B" n="12"/>aliquid moueretur: sed solum recordatio eius in anima maneret.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

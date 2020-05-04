@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 37</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 37</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="214-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2260">
+       <head xml:id="n3av8a-c1e2260-Hd1e96">Quaestio 37</head>
+       <p xml:id="n3av8a-c1e2260-d1e99">
+        <lb ed="#B" n="32"/>CIrca secundum arguitur, quod promotus ex dispensatione ad ordines possit promo- 
+       <lb ed="#B" n="33"/>ueri ad curam. quoniam cui conceditur maius, &amp; minus. sed maius est corpus Chri 
+       <lb ed="#B" n="34"/>sti conficere &amp; dignius quam curam exercere, eo ergo quo illi conceditur per dispen- 
+       <lb ed="#B" n="35"/>sationem promotio ad ordines, eadem dispensatione conceditur ei promotio ad  
+       <lb ed="#B" n="36"/>curam. 
+      </p>
+      <p xml:id="n3av8a-c1e2260-d1e112">
+       IN contrarium est quod papa saepius dispensat cum aliquibus vt promoue 
+       <lb ed="#B" n="37"/>antur ad ordines, quos tamen prohibet promoueri ad curam. 
+      </p>
+      <p xml:id="n3av8a-c1e2260-d1e117">
+       DIcendum quod priui 
+       <lb ed="#B" n="38"/>legia stricti iuris sunt eo quod gratiam continent. propter quod non extenduntur nisi 
+       <lb ed="#B" n="39"/>ad ea quae in priuilegiis exprimuntur, &amp; maxime in dispensationibus: quando ea quae in priuilegio non 
+       <lb ed="#B" n="40"/>exprimuntur, specialem causam dispensandi requirunt. Nunc autem in fauorem religionis saepius ta 
+       <lb ed="#B" n="41"/>le datur priuilegium, virtute cuius dispensatur vt alias fratres illegitimi ad promotionem, ad sacros 
+       <lb ed="#B" n="42"/>ordines poterunt promoueri, eo quod ex religione praesupponitur diligentia in missam celebrando,  
+       <lb ed="#B" n="43"/>ad quod non requiritur magna industria aut instructio, quae ad curam tenendam requiritur, &amp; exre- 
+       <lb ed="#B" n="44"/>ligione inesse non praesumitur: sed potius contraria simplicitas. ita quod in talibus ex alia causa dis- 
+       <lb ed="#B" n="45"/>pensatur quod possint promoueri ad ordines, ex alia vero quod ad curam, quarum illa potest esse fine ista: sed  
+       <lb ed="#B" n="46"/>ista non debet esse fine illa. Propter quid dico quod ex priuilegio stricto quo dispensatiue potest promo- 
+       <lb ed="#B" n="47"/>ueri ad ordines, non potest promoueri ad curam: sed indiget priuilegio alio, vel dispensatione spe 
+       <lb ed="#B" n="48"/>ciali ad hoc. Et secundum hoc concedenda secunda ratio ad istam partem procedens. Ad primam quaoe e 
+       <lb ed="#B" n="49"/>erat in contrarium: quod maius est conficere: Dicendum quod in factis aliquid dicitur esse maius alio, aut 
+       <lb ed="#B" n="50"/>quo ad factorum dignitatem, aut quo ad periculum &amp; difficultatem in modo faciendi. Primo modo 
+       <lb ed="#B" n="51"/>maius est corpus Christi conficere quam curam exercere, quia illud pertinet ad caput ecclesiae, hoc autem  
+       <lb ed="#B" n="52"/>ad membra. Secundo modo maius est curam exercere quam corpus Christi conficere, quia ad hoc maior 
+       <lb ed="#B" n="53"/>requiritur industria quam ad illud. Et praeterea error in conficiendo solum vergit in detrimentum conficientis: er 
+       <lb ed="#B" n="54"/>ror vero in curam exercendo vergit in detrimentum suum &amp; aliorum. Nunc autem in dispensando non sit aspectus ad  
+       <!--468.xml-->
+       <pb ed="#B" n="214-r"/>
+        <lb ed="#B" n="1"/>dignitatem eius quod fieri debet: sic enim vt procedit obiectio, dispensatio in vno includeret dispensationem 
+       <lb ed="#B" n="2"/>in alio, quia maius includit minus: sed fit aspectus ad periculum &amp; difficultatem operis. Nunc autem in mino 
+       <lb ed="#B" n="3"/>ri non includitur maius, sed econuerso. propter quod bene dispensatur ad vnum illorum, ita quod non ad aliud, sed non 
+       <lb ed="#B" n="4"/>econuerso.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

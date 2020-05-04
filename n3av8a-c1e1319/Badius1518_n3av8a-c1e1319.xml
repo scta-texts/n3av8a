@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="90-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1319">
+      <head xml:id="n3av8a-c1e1319-Hd1e96">Quaestio 3</head>
+      <p xml:id="n3av8a-c1e1319-d1e99">
+       <lb ed="#B" n="47"/>CIrca secundum arguitur: quod duae sunt reales relationes filiationis: vna ad patrem: 
+       <lb ed="#B" n="48"/>alia ad matrem in Christo. quia si pater fuisset incarnatus, noua fuisset ei filiatio acqui-  
+       <lb ed="#B" n="49"/>sita ex generatione temporali. ergo similitur Christo praeter filiationem ex generatione aeterna a 
+       <lb ed="#B" n="50"/>patre, acquisita est noua &amp; alia filiatio per generationem temporalem ex matre.
+      </p>
+      <p xml:id="n3av8a-c1e1319-d1e110">
+       <lb ed="#B" n="51"/>CONtra. filiatio est suppositi. &amp; vnius suppositi tantum vna est filiatio. 
+      </p>
+      <p xml:id="n3av8a-c1e1319-d1e115">
+       DIcendum ad hoc  
+       <lb ed="#B" n="52"/>per simile: quid in paternitate contraria filiationi videmus contingere in creaturis. ibi 
+       <lb ed="#B" n="53"/>enim aliquis dictus per ex respectu ad vnum filium generatum ab ipso primitus, etsi postmo 
+       <!--221.xml-->
+       <pb ed="#B" n="90-v"/>
+       <lb ed="#B" n="1"/>dum generat alium: ad quem similiter ex gencratione habet respectum sicut ad primum filium: vnica tamen paternitas 
+       <lb ed="#B" n="2"/>te secundum numerum respicit vtrunque. Primum ex antiquo: ex cuius respectu causata est primo in ipso 
+       <lb ed="#B" n="3"/>illa paternitas. Secundum de nouo per antiquam paternitatem sine omni noua paternitate de nouo in ipso causa- 
+       <lb ed="#B" n="4"/>ta ex generatione illius: aut ex respectu ad illum. &amp; hoc ideo: quia idem est suppositum generans: &amp; duae dis 
+       <lb ed="#B" n="5"/>positiones differentes numero, &amp; eaedem specie non prasent esse simul in eodem. Consimiliter omnino contingit in com 
+       <lb ed="#B" n="6"/>traria relatione in proposito: quia in Christo est tantum vnum &amp; idem suppositum filiatione aeterna constitutum: quid  
+       <lb ed="#B" n="7"/>ab aeterno terminauit aeternam generationem patris: per quam accepit illam filiationem: &amp; quid similiter ex tempore ter 
+       <lb ed="#B" n="8"/>minauit temporalem generationem matris. Idcirco absolute dicendum est quod tantum vnica est realis relatio filiationis 
+       <lb ed="#B" n="9"/>in filio dei ad duas generationes &amp; natiuitates duas: &amp; differt solum secundum rationem: quia scilicet per naturam 
+       <lb ed="#B" n="10"/>humanam assumptam ad filii dei personalitatem: &amp; ita ad filiationem constitutiuam illius personalitatis:, ipsa filiatio aeter 
+       <lb ed="#B" n="11"/>na de nouo respicit matrem propter nouam naturam: vt secundum hoc virgo Maria potius dicatur genuisse deum pro  
+       <lb ed="#B" n="12"/>pter personam, quam hominem propter naturam, &amp; deum humanatum potius quam deificatum hominem. 
+      </p>
+      <p xml:id="n3av8a-c1e1319-d1e152">
+       AD argumentum in oppo 
+       <lb ed="#B" n="13"/>situm de patre incarnato: Dicendum quod non est simile: quia si pater fuisset incarnatus: ex hoc persona eius. 
+       <lb ed="#B" n="14"/>aeterna filiationem realem non haberet: quia ex respectu ad temporale nihil reale recipitur in aeterno: neque etiam 
+       <lb ed="#B" n="15"/>aeternum ex se habet respectum realem siue relationem ad temporale. Si ergo ex incarnatione opor 
+       <lb ed="#B" n="16"/>teret eum filiationem habere, illa non posset esse realis supposito ratione suppositi, immo secundum rationem solum 
+       <lb ed="#B" n="17"/>&amp; hoc quia temporale in ipso assumptum esset, ratione cuius referretur ad temporale: quid relatione reali refer 
+       <lb ed="#B" n="18"/>retur ad ipsum. Si ergo pater incarnatus fuisset ratione humanae naturae quae virtute generatiua matris procede 
+       <lb ed="#B" n="19"/>ret in esse, assumptae in subsistentiam suppositi patris, filiationem nouam oporteret esse in persona patris: quia ipse 
+       <lb ed="#B" n="20"/>est terminus generationis temporalis, in quo non praecessit alia. sicut in patre qui numquam alias genuit prouenit no 
+       <lb ed="#B" n="21"/>ua paternitas. In supposito autem filii: quia habet esse relatio filiationis aeterna: ideo cum per incarnatio- 
+       <lb ed="#B" n="22"/>nem est terminus generationis temporalis, non oportet aduenire illi nouam filiationem: neque potest postquam 
+       <lb ed="#B" n="23"/>vna insit, quemadmodum in patre secundo generante non potest aduenire noua paternitas, vt dictum 
+       <lb ed="#B" n="24"/>est. &amp; hoc quia relatio non habet numerari per naturam secundum quam est, quia nec est eius dis- 
+       <lb ed="#B" n="25"/>positio: sed secundum suppositum in quo est: quia est dispositio suppositi vt termini vel principii 
+       <lb ed="#B" n="26"/>alicuius emanationis: non autem naturae. Ex quo patet quomodo aliter filiatio esset realis relatio in pa 
+       <lb ed="#B" n="27"/>tre incarnato: &amp; multo minus realis quam est modo in filio incarnato. Quia filiatio in filio incarna- 
+       <lb ed="#B" n="28"/>to omnino est realis relatie scilicet &amp; ratione personae, &amp; ratione duplicis naturae. In patre vero incarnato  
+       <lb ed="#B" n="29"/>solummodo ex ratione humanae naturae assumptae esset realis, &amp; solum secundum rationem quantum est de ratio 
+       <lb ed="#B" n="30"/>ne personalitatis paternae &amp; naturae diuinae. Patet etiam quod Christus qui modo est filius aeternus &amp; temporalis sim 
+       <lb ed="#B" n="31"/>pliciter, naturalis filius est &amp; patris &amp; matris. Sed Christus qui filius esset temporalis patre incarnato, esset 
+       <lb ed="#B" n="32"/>filius naturalis tantum matris: &amp; nullo modo filius dei nisi per adoptionem: &amp; hoc quo ad eius humanita 
+       <lb ed="#B" n="33"/>tis: si tamen adoptiuus filius posset dici. Quemadmodum siquis forte modo diceret quod Christus se- 
+       <lb ed="#B" n="34"/>cundum humanitatem sit filius adoptiuus spiritus sancti. Vnde ne talis confusio contingeret, sola 
+       <lb ed="#B" n="35"/>persona filii incarnata est. secundum quod dicitur in quodam sermone de natiuitate. Solus patris filius 
+       <lb ed="#B" n="36"/>non pater ipse vel spiritus sanctus carnem assumpsit, ne alius in diuinitate esset filius alius in huma 
+       <lb ed="#B" n="37"/>nitate: &amp; ne idem esset pater &amp; filius, si deus pater de homine nasceretur, magno dei consilio &amp; in  
+       <lb ed="#B" n="38"/>effabili sapientia, non pater carnem assumpsit, vel spiritus sanctus, sed filius tantum: vt qui erat in diuini  
+       <lb ed="#B" n="39"/>tate dei filius:, ipse fieret in homine hominis filius: natus secundum veritatem naturae ex deo dei filius 
+       <lb ed="#B" n="40"/>&amp; ex homine hominis filius, vt veritas geniti non adoptione vel appellatione: sed vtraque natiuitate filii 
+       <lb ed="#B" n="41"/>nomen nascendo haberet.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

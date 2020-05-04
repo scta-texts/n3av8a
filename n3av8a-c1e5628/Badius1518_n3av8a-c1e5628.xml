@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="580-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5628">
+       <head xml:id="n3av8a-c1e5628-Hd1e96">Quaestio 8</head>
+       <p xml:id="n3av8a-c1e5628-d1e99">
+        <lb ed="#B" n="15"/>Equuntur quaesita pertinentia ad substantiam creatam intellectualem specialiter. Et erant quaedam communiter 
+       <lb ed="#B" n="16"/>pertinentia ad quancumque creaturam intellectualem, &amp; quaedam alia pertinentia, proprie ad solam creatu 
+       <lb ed="#B" n="17"/>ram intellectualem, quae est homo De primo horum quaerebantur duo pertinentia ad intellectum: quarum primum 
+       <lb ed="#B" n="18"/>erat: vtrum operatio intelligendi, qua angelus, vel mens humana intelligit se, differat a se. 
+       <lb ed="#B" n="19"/>Secundum erat. Vtrum intellectio quae angelus. aut mens humana intelligit se sit sibi essentialior quam  
+       <lb ed="#B" n="20"/>illa qua intelligit deum. 
+      </p>
+      <p xml:id="n3av8a-c1e5628-d1e115">
+       CIRca primum istorum arguitur: quod intellectio qua angelus aut 
+       <lb ed="#B" n="21"/>mens humana intelligit se, non differat a se: sic, operatio non differt ab operante, nisi aut ratione immediati princi- 
+       <lb ed="#B" n="22"/>pii elicitiui, aut termini ad quem est: vt calefactio a calefaciente, puta igne, non differt nisi aut ratione calo  
+       <lb ed="#B" n="23"/>ris quo elicitur, aut calors qui per illam elicitur. ambo. n calores ab igne realiter differunt, a quo si non differrent, nec 
+       <lb ed="#B" n="24"/>calefactio differret ab eodem. Sed in proposito operatio intelligendi neutro modo differt ab intelligente, quia ipse 
+       <lb ed="#B" n="25"/>seipso est principium elicitiuum illius &amp; terminus eius. ergo &amp;c. In contrarium est, quod secundum Boetium in omni creatura 
+       <lb ed="#B" n="26"/>differunt quod est, &amp; quae est. Intellectus autem est ipsum quod est, intellectio autem est quae formaliter aliquid est. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e5628-d1e131">
+       DI 
+       <lb ed="#B" n="27"/>co quod in hac quaestione non est ratio dubitandi, nisi apud illos qui putant quod nulla creatura aliquid agat sua sub- 
+       <lb ed="#B" n="28"/>stantia immediate: vt scilicet ipsa substantia, siue essentia rei non sit ipsa operatiua potentia praecisa, &amp; prima, &amp; proxima: 
+       <lb ed="#B" n="29"/>sed quod quicquid agat per aliquid agat, quod est potentia agendi differens realiter ab ipso agente. Vnde quaestio illa est contra 
+       <lb ed="#B" n="30"/>illos, qui ponunt quod in intellectualibus potentiae illae quae sunt intellectus &amp; voluntas, sunt ipsa sba intelligentis &amp; 
+       <lb ed="#B" n="31"/>volentis indifferentia ab illa secundum rem. Illis, nim qui ponunt quod nihil creatum agat sua sba, videtur quod si operatio sit 
+       <lb ed="#B" n="32"/>aliud a sba operantis &amp; accemens in illa, quod opertet eam elici ab illa per principium quod sit etiam accamens eiusdem: quia alitur 
+       <lb ed="#B" n="33"/>vt eis videtur, operatio non potest realiter differre ab operante. Sed licet in veritate omnis operatio creaturae sit accamens 
+       <lb ed="#B" n="34"/>sbae operantis &amp; sic realiter aliquid aliud ab ipsa: Alitur. nm operans creatum naturaliter &amp; semper esset in opere suo eodem modo 
+       <lb ed="#B" n="35"/>se habens &amp; inuariabiliter, sicut contingit in operante increato: hoc autem falsum est de operante creato: non tamen ex hoc 
+       <lb ed="#B" n="36"/>opertet quod operatiua potentia etiam realiter differat ab operante, immo quaelibet fora sbalis constituens rem in esse, seipsa est 
+       <lb ed="#B" n="37"/>principium alicuius operationis sibi essentialis iuxta secundum modum dicendi per se, licet ipsa sit accramens illius, &amp; licet 
+       <lb ed="#B" n="38"/>per alia principia operatiua quae accedunt illi: ipsa sit operatiua aliarum quarundam operationum: quam sunt sibi accidentalia 
+       <lb ed="#B" n="39"/>respectu istius primae operationis &amp; essentialis immediate. Vnde distinctionem rerum per formas suas sbales quae multum 
+       <lb ed="#B" n="40"/>latent in plurimis ne possint internosci quando habent esse sm illas, &amp; quando non, docet <name ref="#Aristotle">philosophus</name> cognoscere ex operibus illarum 
+       <lb ed="#B" n="41"/>essentialibus &amp; per suas formas soales immediate elicitas: quando dicit in fine. iiii. libro Meteo. sic inquiens. Vniuersa de 
+       <lb ed="#B" n="42"/>terminantur opere, quae enm possunt facere suiipsius opus est singulum, quod verum esse non poest aequiuoce. Sic ergo 
+       <lb ed="#B" n="43"/>dico generaliter &amp; specialiter simil respondendo ad quaestionem propositam, quod quaecumque operatio creaturae differt secundum rem ab ope 
+       <lb ed="#B" n="44"/>rante: &amp; quod operatio intelligendi angeli, aut mentis humanae realiter differt ab intelligente: quia solius dei est, quod in ips 
+       <lb ed="#B" n="45"/>so sunt idem soa &amp; operatio. de quo erit mentio amplior in quaestione sequenti. Non tamen solius dei est quod in ipso 
+       <lb ed="#B" n="46"/>non differant secundum rem soba &amp; virtus siue potentia operandi. Et secundum hoc concedenda est ratio secunda. Quod argui 
+       <lb ed="#B" n="47"/>tur in contrarium: quod operatio non differt ab operante nisi ratione principii elicitiui, aut termini: qua. scilicet alterum illo 
+       <lb ed="#B" n="48"/>rum, vel vtrumque differt secundum rem ab operante: Dico quod hoc non est verum, nisi de operatione accidentali, quaelis est ca 
+       <lb ed="#B" n="49"/>lefactio: quam ignis sua forma substantiali non agit nisi mediante accidental scilicet calore. Sed praeter talem operatio 
+       <lb ed="#B" n="50"/>nem habet quaelibet res operationem aliam essentialem, quam agit immediate sua forma essentiali, quae in corporalibus ma 
+       <lb ed="#B" n="51"/>nifestior est in organicis puta in animalibus quo ad opera sentiendi: sed occultior in mixtis homogeneis: puta 
+       <lb ed="#B" n="52"/>in carne, &amp; osse, &amp; adhuc occultior in simplicibus elementis, puta in igne &amp; aqua: &amp; hoc prout in quibusdam  
+       <lb ed="#B" n="53"/>ex talibus manifestior est forma substantialis distinguens &amp; dans esse, quam in quibusdam aliis. semper nm forma sub- 
+       <lb ed="#B" n="54"/>stantialis &amp; eius operatio propria essentialis manifestiora sunt in illis quae sunt magis formalia &amp; propinquiora 
+       <lb ed="#B" n="55"/>primae formae: &amp; sunt occultiora in illis quae sunt magis materialia &amp; propinquora primae materiae, quorum for 
+       <!--1201.xml-->
+       <pb ed="#B" n="580-v"/>
+        <lb ed="#B" n="1"/>mae semper virtute continentur in formis eorum, quae sunt magis formalia. Et propter idem manifestius apparet in  
+       <lb ed="#B" n="2"/>magis formalibus: quando vnum illorum habet esse vere, &amp; quando non: sed aequiuoce, quam in magis materialibus. Vt enim di  
+       <lb ed="#B" n="3"/>cit philosophus, sententialiter vbi iam supra, caro, vel os, vel aliorum homogeneorum vnumquidque, ex elementis vt ex ma 
+       <lb ed="#B" n="4"/>teria sunt. Ex illis enim vt ex materia sunt cuncta opera naturae: vt vero in cauam forali substantiali semper priora 
+       <lb ed="#B" n="5"/>constant in posterioribus: &amp; omnino in organicis. Sunt. nim formae elementorum aquae, ignis, aeris, terrae, virtute in  
+       <lb ed="#B" n="6"/>forma mixti homogenei, puta carnis &amp; ossis, &amp; similiter quodammo sunt formae homogeneorum in forma or 
+       <lb ed="#B" n="7"/>ganicorum: puta manus vel pedis hominis aut equi. Propter quod magis manifestum est de homine mortuo, quod aequi  
+       <lb ed="#B" n="8"/>uoce est homo, aut de manu defuncti, quod aequiuoce sit manus: sicut &amp; manus lapidea, aut homo lapideus: quam de 
+       <lb ed="#B" n="9"/>carne quod sit caro mortua: aut de aquae quod deficit a sua fora: &amp; adhuc hoc minus manifestum est de aquae, aut 
+       <lb ed="#B" n="10"/>igne, quam de carne, aut osse. &amp; hoc quia in istis videlicet in igne, aut aquae respectu carnis, &amp; ossis, &amp; in car 
+       <lb ed="#B" n="11"/>ne, &amp; osse respectu hominis aut bouis minime manifesta est cauam formalis, eo quod in eis plurimum est materiae  
+       <lb ed="#B" n="12"/>&amp; minus formae. velut si prima sumatur materia, ipsa nihil est praeter ipsam: si etiam sumatur for- 
+       <lb ed="#B" n="13"/>ma substantialis prima: ipsa etiam nihil est praeter ipsam. Quae vero sunt media, vnumquodque eorum 
+       <lb ed="#B" n="14"/>proportionaliter habet minus formae quantum est propinquius primae materiae, &amp; plus formae quantum  
+       <lb ed="#B" n="15"/>propinquius est primae formae, &amp; vniuersa hoc opere determinantur: vt quo cognoscuntur quando sunt in esse formae 
+       <lb ed="#B" n="16"/>suae vniuoce, &amp; quando non: sed aequiuoce. Quae enm possunt facere suiipsius opus, manifestum est quod singulum eorum  
+       <lb ed="#B" n="17"/>est secundum formam suam: quemadmodum oculus, quando videre potest, quando vero non pont videre, manifestum est quod aequi  
+       <lb ed="#B" n="18"/>uoce est oculus, quemadmodum mortuus, aut lapideus, aut etiam serra lignea quae non potest facere opus serrae 
+       <lb ed="#B" n="19"/>aequiuoce est serra, &amp; velut imago serrae: &amp; similiter caro est aequiuoce caro, cum non potest exercere proprium opus car 
+       <lb ed="#B" n="20"/>nis. sed opus eius minus manifestum est, quam sit opus oculi. &amp; adhuc forsan minus manifestum est opus 
+       <lb ed="#B" n="21"/>ignis quam carnis, quae ex re quando existat forma substantiali vnumquidque talium: &amp; quando minime non facile est perspicere: 
+       <lb ed="#B" n="22"/>nisi solummo figuram existentis retineant: quemadmodum veterum corpora mortuorum, quae subito ad modicum tactum 
+       <lb ed="#B" n="23"/>vel flatum venti in cineres, aut puluerem desidunt. Descendendo igitur ad exemplum de igne &amp; calefactione, assumptum 
+       <lb ed="#B" n="24"/>in argumento: Dico quod ignis licet non calefaciat nisi calore, non immediate fora substantiali igneitati: eo quod ca 
+       <lb ed="#B" n="25"/>lefactio est eius operatio accaementalis &amp; per accramens: ha tamen aliam operationem essentialem &amp; per se, quam agit imediate scilicet ignem 
+       <lb ed="#B" n="26"/>generare, quid tamen praedicti negant dicentes quod ignis non generat ignem nisi calore. Quorum opinionem <name ref="#Aristotle">philosophus</name> tangens in se- 
+       <lb ed="#B" n="27"/>cundo de Geniatione dicit sic. Quoniam inatum est, vt inquunt, calidum quidem segregare, frigidum vero congregare, &amp; 
+       <lb ed="#B" n="28"/>aliorum vnumquidque hoc quidem facetur: hoc autem pati: ex his dicunt: &amp; per haec omnia generari &amp; corrumpi. Quorum opinio 
+       <lb ed="#B" n="29"/>nem reprehendit continue subdens. Sed potentias attribuunt corpori propter quas generat valde organice, auferem 
+       <lb ed="#B" n="30"/>tes eam quae est secundum speciem causam scilicet formalem substantialem, quae est agens verum &amp; principale in generatione: cum for 
+       <lb ed="#B" n="31"/>ma accidentalis non sit nisi agens organicum, &amp; instrumentale. &amp; hoc non in producendo formam substantialem: illam 
+       <lb ed="#B" n="32"/>n sola forma substantialis immediate generando producit: sed separando &amp; disponendo materiam tantum. Hinc 
+       <lb ed="#B" n="33"/>super assumpto verbo dicit Commentator id est non faciunt nisi agens in genere instrumenti, non agens verum. Quod reue 
+       <lb ed="#B" n="34"/>ra est sola cauam foralis substantialis, cuius virtute calidum &amp; frigidum temperate agens, constare faciunt materi 
+       <lb ed="#B" n="35"/>am, disponentes materiam ad determinatam formae substantialis susceptionem, quae in fine alterationis quam mate- 
+       <lb ed="#B" n="36"/>ria sic disponitur, inducitur actione solius formae substantialis, puta ignis, cum debet generari ignis, aut aquae, dum  
+       <lb ed="#B" n="37"/>debet generari aqua, aut equi, dum debet generari equus. Propter quod post verbum iam dictum, addit Commentator di  
+       <lb ed="#B" n="38"/>cens. Necesse est enim si generent res: vt habeant agens quod faciat eam per temperamentum. Sic ergo res quaelibet sua for 
+       <lb ed="#B" n="39"/>ma substantiali aliquam actionem sibi essentialem agit per se &amp; immediate: etsi aliquando non nisi mediante actione  
+       <lb ed="#B" n="40"/>formae accidentalis ad dispositionem materiae: sicut dictum est: quod contingit velit quando propria actio formae sub 
+       <lb ed="#B" n="41"/>stantialis est generare formam sibi consimilem de materia. Quando vero habet aliquam aliam actionem sibi propri 
+       <lb ed="#B" n="42"/>am quam appellant medici a tota specie, puta quod magnes attrahit ferrum, aut haerba talis sistit sanguinem, il 
+       <lb ed="#B" n="43"/>lam forte habet immediate praesente materia susceptibili. vnde quaecumque res talem actionem agit praesente materia  
+       <lb ed="#B" n="44"/>disposita nisi alias fuerit impedita. Non oportet ergo: quod quia omnis operatio accramens est: &amp; differt secundum rem ab ope 
+       <lb ed="#B" n="45"/>rante, quod eliciatur ab illo per principium quod est accidens in eo, aut quod ipsa operatio non sit accidens differens secundum  
+       <lb ed="#B" n="46"/>rem ab operante: sed idem penitus cum agente. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

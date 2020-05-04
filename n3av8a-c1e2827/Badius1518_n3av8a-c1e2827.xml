@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="264-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2827">
+       <head xml:id="n3av8a-c1e2827-Hd1e96">Quaestio 9</head>
+       <p xml:id="n3av8a-c1e2827-d1e99">
+        <lb ed="#B" n="36"/>CIrca secundum arguitur quod nulla trasmutatio possit fieri sine materia. Quoniam impossibile est 
+       <lb ed="#B" n="37"/>transmutari nisi potentia transmutabile, non autem est potentia transmutabile nisi subiectum 
+       <lb ed="#B" n="38"/>contrariis: a quo &amp; in quod sit transmutatio. secundum <name ref="#Aristotle">philosophum</name> in i. Physi. illud autem non est nisi 
+       <lb ed="#B" n="39"/>materia. secundum <name ref="#Aristotle">philosophum</name> ibidem. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2827-d1e117">
+       CONtrarium apparet in sacramento altaris 
+       <lb ed="#B" n="40"/>vbi dimensiones sunt sine materia subiecta. &amp; tamen in ipsas sit transmutatio, &amp; ab ipsis 
+       <lb ed="#B" n="41"/>quia extenduntur &amp; contrahuntur: contractio autem &amp; extensio sunt transmutationes in  
+       <lb ed="#B" n="42"/>quantitatem &amp; a quantitate. 
+      </p>
+      <p xml:id="n3av8a-c1e2827-d1e126">
+       DIcendum: quod circa species sacramenti altaris debemus ad  
+       <lb ed="#B" n="43"/>uertere duplicem transmutationem. Vnam quae est circa qualitates. Aliam circa situs secundum locum 
+       <lb ed="#B" n="44"/>Et circa qualitates quandam circa qualitates de tertia specie qualitatis: quae sunt album, nigrum, calidum  
+       <lb ed="#B" n="45"/>&amp; frigidum: &amp; aliam quae est circa qualitates de quarta specie qualitatis: quae sunt rarum, densum. Loquen- 
+       <lb ed="#B" n="46"/>do de prima transmutatione quae est secundum locum aut situm: illa non requirit materiam naturalem 
+       <lb ed="#B" n="47"/>generabilium &amp; corruptibilium in motu circulari: quia motus secundum situm circularis est in caelestibus sine tali mate  
+       <lb ed="#B" n="48"/>ria. &amp; si sit ibi materia illa non est nisi in potentia ad vbi: vt dicit Auere. in de substantia orbis. non sic 
+       <lb ed="#B" n="49"/>in motu recto propter dispositiones grauis &amp; leuis, quae mediante raro &amp; denso sequuntur materiam, vt dictum est. 
+       <lb ed="#B" n="50"/>In speciebus ergo sacramenti dico quod potest esse transmutatio sine materia: non autem secundum cur 
+       <lb ed="#B" n="51"/>sum et modum naturae, inquantum non est ibi materia. Est tamen secundum cursum et modum natu-  
+       <lb ed="#B" n="52"/>rae, inquantum manet graue aut leue sine materia: quae sunt proximae dispositiones ad naturalem trans- 
+       <lb ed="#B" n="53"/>mutationem rectam secundum locum, quae tamen non est penitus sine subiecto: quia dimensiones sunt 
+       <lb ed="#B" n="54"/>per se huius transmutationis subiectum, non minus quam si essent in materia. Vnde corpus caeleste si non 
+       <!--569.xml-->
+       <pb ed="#B" n="264-v"/>
+        <lb ed="#B" n="1"/>haberet omnino materiam, &amp; esset penitus substantia separata, nihil minus transmutaretur naturaliter secun 
+       <lb ed="#B" n="2"/>dum locum virtute existente in dimensionibus illis ad illum motum: quam modo si habet materiam. Et consimiliter sit 
+       <lb ed="#B" n="3"/>circa illas species transmutatio secundum qualitates de tertia specie qualitatis: cuius subiectum est quam  
+       <lb ed="#B" n="4"/>titas dimensionum separatarum habentium in se ad hoc vim &amp; virtutem materiae: qualem haberent si essent 
+       <lb ed="#B" n="5"/>in materia. Vlt en. vt alias determinaui tota vis quae nata est esse in composito substantiali sub dimensionibus 
+       <lb ed="#B" n="6"/>siue ad agendum siue ad patiendum, virtute diuina quae eas separat maneret in ipsa: &amp; quo ad hoc quod ibi non 
+       <lb ed="#B" n="7"/>est materia, solummodo est illa transmutatio supernaturalis. Et similiter fit quo ad transmutationem cir 
+       <lb ed="#B" n="8"/>ca illas de quarta specie qualitatis: quae sunt rarum &amp; densum: praeter duo. Quorum vnum est quod circa 
+       <lb ed="#B" n="9"/>rarum &amp; densum non sit naturalis transmutatio nisi per accidens. Per se, ne non fit nisi circa accidentia 
+       <lb ed="#B" n="10"/>de tertia specie qualitatis. secundum <name ref="#Aristotle">philosophum</name> in. vii. Physi. Alterum vero est: quod ad trasmutationem secundum rarum 
+       <lb ed="#B" n="11"/>&amp; densum sequitur per accidens trasmutatio secundum quantitatem a maiori in minus, &amp; econuerso. vbi illa 
+       <lb ed="#B" n="12"/>transmutatio quae est secundum quaetitatem: licet non sit verum augmentum, est tamen circa quantitatem &amp; in quanti- 
+       <lb ed="#B" n="13"/>tatem sicut in terminum ad quem, &amp; a quantitate sicut a termino a quo: &amp; hoc penitus absque subiectonisi 
+       <lb ed="#B" n="14"/>per accidens. cum tamen omnes aliae sunt per se in ipsa quantitate vt in subiecto. Per accidens enim non est in-  
+       <lb ed="#B" n="15"/>conueniens quod idem sit subiectum transmutationis &amp; terminus a quo, atque terminus ad quem. &amp; hoc 
+       <lb ed="#B" n="16"/>non secundum eandem rationem. Quia dimensio vt est determinata, terminus est a quo &amp; ad quem: vt vero 
+       <lb ed="#B" n="17"/>est indeterminata, subiectum est commune manens sub vtroque terminorum: vt sic huiusmodi transmutatio sit 
+       <lb ed="#B" n="18"/>naturalis &amp; modo naturae, praeter hoc quod non est ex potentia materiae, est tamen in potentia dimensionum 
+       <lb ed="#B" n="19"/>determinatarum: quae in se quo ad hoc retinent vim materiae. 
+      </p>
+      <p xml:id="n3av8a-c1e2827-d1e203">
+       PER haec patet obiectum primum: dicendo 
+       <lb ed="#B" n="20"/>quod hic in transmutatione circa species est subiectum &amp; potentia transmutabile: quod licet non sit materia, vt 
+       <lb ed="#B" n="21"/>ideo non sit illa transmutatio penitus modo naturae: est tamen habens vim materiae: vt secundum hoc 
+       <lb ed="#B" n="22"/>sit naturalis &amp; modo naturae ac si esset in materia. 
+      </p>
+      <p xml:id="n3av8a-c1e2827-d1e213">
+       PER dicta etiam patet inspicienti ad obie- 
+       <lb ed="#B" n="23"/>ctum in oppositum.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

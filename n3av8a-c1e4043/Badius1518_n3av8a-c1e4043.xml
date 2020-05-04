@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="401-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4043">
+       <head xml:id="n3av8a-c1e4043-Hd1e96">Quaestio 2</head>
+       <p xml:id="n3av8a-c1e4043-d1e99">
+        <lb ed="#B" n="37"/>CIrca secundum arguitur quod ex concessione per priuilegium de absoluendo a pecca 
+       <lb ed="#B" n="38"/>tis simpliciter, concedatur potestas absoluendi a maioribus criminibus: puta quae  
+       <lb ed="#B" n="39"/>sunt reseruata episcopis. Primo sic. Qui simpliciter concedit &amp; nihil excipit: totum in-  
+       <lb ed="#B" n="40"/>cludit: quare cum per priuilegium simpliciter concedatur religiosis potestas ab- 
+       <lb ed="#B" n="41"/>soluendi a peccatis: &amp; audiendi confessionem illorum &amp; nuilum peccatum excipitur: 
+       <lb ed="#B" n="42"/>sed quodlibet genus peccati includitur. ergo &amp;c. Secundo sic: quid non est prohibitum vi 
+       <lb ed="#B" n="43"/>detur esse concessum. dominus Martinus in dando fratribus simpliciter potestatem audiendi con- 
+       <lb ed="#B" n="44"/>fessiones peccatorum non prohibuit eis casus episcopales. ergo &amp;c. Tertio sic. Idem in eodem priuile 
+       <lb ed="#B" n="45"/>gio concedit eis plenam potestatem audiendi confessiones &amp; absoluendi. sed non est plena potestas 
+       <lb ed="#B" n="46"/>quae se extendit ad aliqua peccata &amp; ad aliqua non. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4043-d1e123">
+       CONtra. rescriptum de beneficii colla 
+       <lb ed="#B" n="47"/>tione simpliciter, non potest extendi ad dignitates, siue ad beneficia quibus dignitates sunt annexae: 
+       <lb ed="#B" n="48"/>vt extra. de praeben. c. vlt. ergo nec potestas concessa super peccata simpliciter vllo modo potest ex- 
+       <lb ed="#B" n="49"/>tendi ad maiora crimina episcopis reseruata. 
+      </p>
+      <p xml:id="n3av8a-c1e4043-d1e132">
+       AD istam quaestionem respondet dominus Clemens papa in  
+       <lb ed="#B" n="50"/>rescripto quodam: in quo dicit sic: loquens ad fratres praedicatores. Libere praedicare potestis: audire confes 
+       <lb ed="#B" n="51"/>siones: absoluere vobis confitentes: ac poenitentias vobis confitentibus iniungere salutares: aliorum infe 
+       <lb ed="#B" n="52"/>riorum praelatorum &amp; rectorum ecclesiarum ac sacerdotum parochialium assensu nullatenus requisito: illis casibus 
+       <lb ed="#B" n="53"/>exceptis qui de iuris consuetudine aut retentione ab eis specialiter facta sedi, legatis &amp; ordinariis praedi 
+       <lb ed="#B" n="54"/>ctis specialiter relinquuntur: ad quos non licet vobis manus extendere: nisi vobis specialiter conmit- 
+       <!--843.xml-->
+       <pb ed="#B" n="401-v"/>
+        <lb ed="#B" n="1"/>tantur. Intelligit autem dominus Clemens vt iam declarabitur: quod non licet &amp;c. virtute scilicet priuilegio- 
+       <lb ed="#B" n="2"/>rum a praedecessoribus suis concessorum eis de praedicando &amp; confessiones audiendo simpliciter. Quare 
+       <lb ed="#B" n="3"/>cum in priuilegio domini Martini non committuntur eis specialiter casus illi: quia de eis nullam facit 
+       <lb ed="#B" n="4"/>mentionis: sed solummodo facit fratribus simplicem conmissionem: in conmissione ergo facta fratribus sim 
+       <lb ed="#B" n="5"/>pliciter: nullo modo quantum mihi videtur, intelliguntur illi casus committi: alioquin ex eadem conmissione etiam 
+       <lb ed="#B" n="6"/>intelligerentur eis committi casus reseruati domino papae. Nisi forte aliquis dicat quod in conmissione generali per priui 
+       <lb ed="#B" n="7"/>legium princeps committit quicquid committere potest: praeter illa quae specialiter pertinent ad ipsum: quia  
+       <lb ed="#B" n="8"/>priuilegia large sunt interpretanda contra quemlibet excepto illo qui ea concessit. Cum ergo dominus Mar  
+       <lb ed="#B" n="9"/>tinus papa conmittat simpliciter fratribus potestatem audiendi confessiones &amp; absoluendi: conmittit eis potestatem 
+       <lb ed="#B" n="10"/>audiendi confessionem &amp; absoluendi in omnibus casibus praeterquam sibi reseruatis. Quare cum bene possit 
+       <lb ed="#B" n="11"/>eis committere casus episcopales: etiam eis inuitis: vt habetur in dicto rescripto <name>domini Clementis</name>: ergo in  
+       <lb ed="#B" n="12"/>illa commissione committit eis potestatem super casibus episcopalibus. Et tunc respondeat ad dictum in  
+       <lb ed="#B" n="13"/>priuilegio <name>domini Clementis</name>: dicendo quod licet ipse in concessione quam fecit fratribus simpliciter: excepit ca- 
+       <lb ed="#B" n="14"/>sus episcopales: quia tamen legen non potuit instituere suis successoribus: quia par in parem non ha-  
+       <lb ed="#B" n="15"/>bet imperium: non obstat quin successorum eius aliquis potuit facere concessionem fratribus simpliciter ni 
+       <lb ed="#B" n="16"/>hil excipiendo: sicut fecit expresse<ref xml:id="n3av8a-c1e4043-Rd1e190"> 
+        <name>dominus Martinus</name> in suo priuilegio</ref>: &amp; per hoc totum eis concessisse: 
+       <lb ed="#B" n="17"/>praeterquam specialiter sibi reseruatum, vt iam dictum est. Quod non videtur posse stare: quia eisdem fra 
+       <lb ed="#B" n="18"/>tribus alias concessa est potestas audiendi confessiones simpliciter &amp; absoluendi: vt pote a <name>domino pa 
+       <lb ed="#B" n="19"/>pa Alexandro</name>, &amp; forte etiam ab aliquibus aliis: &amp; tamen in tali concessione generali simpliciter facta nul 
+       <lb ed="#B" n="20"/>lo modo intelligebatur eis concessa potestas super casus episcopales: quare neque similiter in conces- 
+       <lb ed="#B" n="21"/>sione quam habent in priuilegio suo a <name>domino papa Martino</name> sub eadem forma &amp; magis restricta, conceditur. Quod- 
+       <lb ed="#B" n="22"/>autem in simplici &amp; generali concessione potestatis in priuilegio, vel priuilegiis concesso, vel concessis fratri- 
+       <lb ed="#B" n="23"/>bus a <name>domino papa Alexan</name>, aut ab aliis praedecessoribus eius: non intelligitur concessa eis potestas super 
+       <lb ed="#B" n="24"/>casus episcopales: plane patet ex declaratione <name>domini Clementis papae</name>: qui successor domini Alexan, fuit: li- 
+       <lb ed="#B" n="25"/>cet mediatus. In qua declaratione exprimitur, quod in priuilegiis a praedecessoribus suis concessis conce 
+       <lb ed="#B" n="26"/>ditur eis potestas audiendi confessiones &amp; absoluendi irrequisito consensu praelatorum inferiorum, quid ali 
+       <lb ed="#B" n="27"/>qui negabant: contra quos fecit illam declarationem. Exprimitur etiam in illa declaratione quod ex illis con 
+       <lb ed="#B" n="28"/>cessionibus non est eis concessa potestas in casibus episcopalibus: neque conceditur in consimilibus, nisi 
+       <lb ed="#B" n="29"/>eis specialiter conmittatur. dicit enim sic. Quidam temerarie sentientes &amp;c. vsque in finem: &amp; legatur exqui 
+       <lb ed="#B" n="30"/>site totum rescriptum. Non est ergo verum, vt videtur, quod papa in simplici commissione committat quicquid  
+       <lb ed="#B" n="31"/>potest committere praeter sibi reseruata: alioquin etiam ex conmissione simpliciter facta super prouisione 
+       <lb ed="#B" n="32"/>de beneficio ecclesiastico extendi posset ad prouisionem de maiori beneficio &amp; dignitate, quod non est ve- 
+       <lb ed="#B" n="33"/>rum: vt procedit obiectio secunda. Et apparet quod sit penitus simile in hac commissione &amp; in illa. Commissio 
+       <lb ed="#B" n="34"/>enim prouisionis de beneficio simplici non potest extendi ad prouisionem de beneficio maiori aut di  
+       <lb ed="#B" n="35"/>gnitate: quia maior requiritur industria in administratione beneficii maioris aut dignitatis quam mi- 
+       <lb ed="#B" n="36"/>noris. Consimiliter autem maior requiritur in audienda confessione &amp; absolutione &amp; poenitentiae iniunctio 
+       <lb ed="#B" n="37"/>ne super maioribus criminibus: quam super conmunibus peccatis. Sicut ergo in prouisione commissa sim 
+       <lb ed="#B" n="38"/>pliciter de beneficio conferendo: non intelligitur conmissio facta de conferendo maiori beneficio aut 
+       <lb ed="#B" n="39"/>dignitate: sic in conmissione facta simpliciter de audiendo confessiones, absoluendo, &amp; poenitentiam in  
+       <lb ed="#B" n="40"/>iungendo, non intelligitur conmissio potestatis quo ad illos actus in maioribus criminibus reserua 
+       <lb ed="#B" n="41"/>tis episcopis. Vnde vt dictum est respondendo ad exceptionem casuum in priuilegio domini Clemen 
+       <lb ed="#B" n="42"/>tis: licet in concessione quam fecit fratribus in suo priuilegio excepit casus episcopales, per hoc non  
+       <lb ed="#B" n="43"/>erat astrictus dominus Martinus quin potuit facere concessionem absque omni exceptione. reuera be- 
+       <lb ed="#B" n="44"/>ne verum est quod plenam concessionem eis potuit dominus Martinus fecisse: nullos casus excipiendo si vo- 
+       <lb ed="#B" n="45"/>luisset. Sed non est verum quod dominus Clemens in suo priuilegio fecit eis concessionem illos casus ex 
+       <lb ed="#B" n="46"/>cipiendo. immo solummodo declarauit priuilegia illis a suis praedecessoribus concessa super duobus. 
+       <lb ed="#B" n="47"/>Quorum primum erat: quod non oporteret eos petere consensum audiendi confessiones &amp; praedicandi a 
+       <lb ed="#B" n="48"/>praelatis inferioribus &amp; sacerdotibus curatis, postquam super illis licentiati essent a sede apostolica, aut le 
+       <lb ed="#B" n="49"/>gatis eiusdem, aut ordinariis locorum, quod aliqui necessarium fore asserebant. Secundum vero erat quid  
+       <lb ed="#B" n="50"/>proprio motu declarando expressit: videlicet quod ex concessione talis licentiae a quocunque papa, vel 
+       <lb ed="#B" n="51"/>praedecessore, vel successore, non licet eos extendere manus ad casus episcopales nisi eis specialiter con 
+       <lb ed="#B" n="52"/>mittantur. Quare cum dominus Martinus tales casus in suo priuilegio non commiserit illis spe 
+       <lb ed="#B" n="53"/>cialiter vt patet: nullo igitur modo ex illo priuilegio isti casus intelliguntur istis concessi. Quia au-  
+       <lb ed="#B" n="54"/>tem dominus Clemens nullam concessionem eis fecerit in suo rescripto: sed solummodo decla-  
+       <!--844.xml-->
+       <pb ed="#B" n="402-r"/>
+        <lb ed="#B" n="1"/>rationem in praedictis, patet ex serie literae inspicienti eam. Vnde in fine literae vocat eam non conces 
+       <lb ed="#B" n="2"/>sionem sed declarationem. Quia etiam dominus Martinus in suo priuilegio non intellexit concedere fratribus 
+       <lb ed="#B" n="3"/>potestatem super casibus episcopalibus, hoc praecipue potest ex hoc coniici: quod nullo modo liberius conce- 
+       <lb ed="#B" n="4"/>deret fratribus potestatem super casibus episcopalibus quam super casibus qui concessi sunt sacerdotibus cura 
+       <lb ed="#B" n="5"/>tis: eo quod maiora cum maiori diligentia &amp; cautela debent committi quam minora,. quare cum concessio- 
+       <lb ed="#B" n="6"/>nem factam fratribus sic temperauit in casibus concessis de iure conmuni sacerdotibus curatis: quod ius 
+       <lb ed="#B" n="7"/>eorum &amp; auctoritatem in audiendis confessionibus suorum subditorum reseruaret illibatum per illam 
+       <lb ed="#B" n="8"/>clausulam. Volumus autem &amp;c. vt patet ex quaestione praecedente, &amp; amplius ex dictis in alio Quolibet: 
+       <lb ed="#B" n="9"/>non autem sic temperauit concessionem in casibus episcopalibus: si huiusmodi concessionem intellexis- 
+       <lb ed="#B" n="10"/>set in casibus episcopalibus: liberior concessio fuisset eis facta in casibus episcoporum quam sacerdotum. Quare cum 
+       <lb ed="#B" n="11"/>in hoc nullo modo est praesumendum, nullo modo est praesumendum quod in sua concessione generali concessisset casus 
+       <lb ed="#B" n="12"/>episcopales: nisi sicut temperauit circa casus sacerdotum cum dixit. Volumus autem &amp;c. sic temperasset circa 
+       <lb ed="#B" n="13"/>casus episcoporum. Volumus autem quod ii qui fratribus confitebuntur eisdem suis episcopis confiteri saltem 
+       <lb ed="#B" n="14"/>semel in anno de casibus quos eis specialiter iura vel consuetudo concedunt, nihilominus tenebuntur. 
+       <lb ed="#B" n="15"/>Quare cum non sic temperauit: nullo modo sentiendum est quod ex illa concessione eis intendebat concedere 
+       <lb ed="#B" n="16"/>potestatem super casibus episcopalibus: sed solummodo super casibus concessis sacerdotibus parochialibus 
+       <lb ed="#B" n="17"/>de iure conmuni: &amp; hoc cum temperamento: vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e4043-d1e333">
+       AD primum argumentum quod erat in opposi- 
+       <lb ed="#B" n="18"/>tum: Qui simpliciter concedit nihil excipiendo, totum concedit: Dicendum quod exceptio quadrupliciter 
+       <lb ed="#B" n="19"/>potest fieri a simpliciter concesso: vel per clausulam expressam &amp; adiunctam: vel per iura conmunia: vel 
+       <lb ed="#B" n="20"/>per consuetudinem: vel per intentionem habitualem concedentis. Et bene verum est quod qui concedit simpliciter 
+       <lb ed="#B" n="21"/>nihil excipiendo, concedit totum: dum tamen nullo dictorum modorum fiat exceptio per clausulam 
+       <lb ed="#B" n="22"/>appositam. Etenim licet nulla fiat exceptio per clausulam appositam: si tamen fiat aliquo aliorum trium  
+       <lb ed="#B" n="23"/>modorum: non conceditur illud quod illo modo excipitur. Vnde quia declaratio domini Clementis qua di  
+       <lb ed="#B" n="24"/>xit quod ex simplici concessione facta fratribus non intelliguntur eis concedi casus episcopales, secundum prae 
+       <lb ed="#B" n="25"/>dicta explicat quod iuris communis est: ex illa declaratione nobis innotescit quod in concessione facta a domino 
+       <lb ed="#B" n="26"/>Martino casus episcopales sunt excepti per ius commune. Praeterea vt videtur, sunt excepti de con 
+       <lb ed="#B" n="27"/>suetudine: quia dominus papa ex concessione simplici &amp; generali non consueuit concedere maiora vt di-  
+       <lb ed="#B" n="28"/>ctum est. Et praeterea quia maiora non debent concedi nisi cum maiori cautela illis in quibus maior  
+       <lb ed="#B" n="29"/>est industria: illi casus sunt excepti ex intentione habituali concedentis: sic quod si forte illos casus ad-  
+       <lb ed="#B" n="30"/>uertisset, illos excepisset: si non de iure conmuni vel de consuetudine fuissent excepti. 
+      </p>
+      <p xml:id="n3av8a-c1e4043-d1e365">
+       PER idem patet 
+       <lb ed="#B" n="31"/>ad secundum: quid non est prohibitum, videtur concessum. Verum est aliqua dictarum exceptionum. Vel vt alii di 
+       <lb ed="#B" n="32"/>cunt, illud brocardicum intelligitur in eis quae sunt amplianda: non autem in priuilegiis restringendis: qua  
+       <lb ed="#B" n="33"/>le est istud. In talibus enim quid non est concessum, intelligitur esse prohibitum. Vnde quid supradictum est: quod  
+       <lb ed="#B" n="34"/>priuilegium large est interpretandum contra quemlibet excepto eo qui istud concessit: Dicendum quod verum 
+       <lb ed="#B" n="35"/>est quando in alterius speciale praeiudicium non vergit. Secus autem est si vergit in illius praeiudicium: vt 
+       <lb ed="#B" n="36"/>habitum est supra. 
+      </p>
+      <p xml:id="n3av8a-c1e4043-d1e381">
+       AD tertium: quod papa concedit eis potestatem plenam: Verum est quantum patitur concessionis 
+       <lb ed="#B" n="37"/>modus: &amp; super illa peccata ad quae extenditur: quae sunt communia peccata, potestati curatorum de iure con 
+       <lb ed="#B" n="38"/>muni commissa. Non autem concedit eis plenam simpliciter: quia modus concessionis hoc non patitur.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

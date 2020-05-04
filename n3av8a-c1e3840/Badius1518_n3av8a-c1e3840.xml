@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 19</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 19</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3840">
+       <head xml:id="n3av8a-c1e3840-Hd1e96">Quaestio 19</head>
+       <p xml:id="n3av8a-c1e3840-d1e99">
+        <lb ed="#B" n="8"/>SEquuntur pertinentia ad homines communiter ex parte coniuncti ex corpore &amp; anima: vbi quaerebantur 
+       <lb ed="#B" n="9"/>quaedam pertinentia indifferenter ad omnes homines: &amp; quaedam specialiter ad quosdam status hominium  
+       <lb ed="#B" n="10"/>
+      </p>
+      <p xml:id="n3av8a-c1e3840-d1e108">
+       CIRca primum quaerebantur tria. Duo de opere bono: &amp; vnum de opere malo. Quo 
+       <lb ed="#B" n="11"/>rum primum erat de opere bono simpliciter: vtrum bonum, proprium magis sit procurandum quam  
+       <lb ed="#B" n="12"/>commune. Secundum erat de opere bono ex genere facti: vtrum largitio eleemosynae pro de 
+       <lb ed="#B" n="13"/>functo in gratia, ambobuscilice. dante eleemosynam &amp; recipiente eam existentibus in pec 
+       <lb ed="#B" n="14"/>cato mortali proficiat defuncto illi pro quo sit. Tertium erat: vtrum scandalizans in verbo otioso peccet s 
+       <lb ed="#B" n="15"/>mortaliter. 
+      </p>
+      <p xml:id="n3av8a-c1e3840-d1e121">
+       CIRca primum arguitur quod bonum conmune magis est procurandum, quia est diuinius. 
+      </p>
+      <p xml:id="n3av8a-c1e3840-d1e124">
+       COntra 
+       <lb ed="#B" n="16"/>ordinata charitas est prius &amp; magis diligere se quam proximum: bonum autem, proprium procuratur ex amore 
+       <lb ed="#B" n="17"/>sui: bonum coone ex amore proximi. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3840-d1e132">
+       DIcendum quod hic oportet distinguere de bono &amp; proprio &amp; 
+       <lb ed="#B" n="18"/>comoni. Quia est bonum temporale: quid principaliter pertinet ad corpus: &amp; est bonum spirituale quod princi- 
+       <lb ed="#B" n="19"/>paliter pertinet ad animam. Similiter est proprium quod includitur in conmuni: &amp; est quod non includitur. Si ergo bo 
+       <lb ed="#B" n="20"/>num, proprium includatur in comoni: tunc potius procurandum est conmunte quam proprium quod includitur in communi: aliis 
+       <lb ed="#B" n="21"/>eisdem se habentibus. Si vero bonum, proprium non includatur in communi: tunc vtrumque bonorum aut est tempora 
+       <lb ed="#B" n="22"/>le, aut vtrumque spirituale: aut vnum temporale &amp; alterum spirituale. Si primo modo: tunc aut procurans mul 
+       <lb ed="#B" n="23"/>tum indiget proprio, &amp; proximus modicum indiget comoni: tunc, proprium magis est procurandum. Aut procurans mo 
+       <lb ed="#B" n="24"/>dicum indiget proprio, &amp; proximus multum indiget communi: tunc conmune magis est procurandum. Aut 
+       <lb ed="#B" n="25"/>mediocriter indigent: &amp; sic citra extremam necessitatem ambo: tunc vt arbitror adhuc commune est ma 
+       <lb ed="#B" n="26"/>gis procurandum, quia etsi in conmuni bono temporali non includitur, proprium temporale: non tamen potest esse quin  
+       <lb ed="#B" n="27"/>proprium spirituale includatur ex merito procurantis. &amp; proprium spirituale magis procurandum est aliis 
+       <lb ed="#B" n="28"/>eisdem se habentibus quam proprium temporale. Si vero vtrumque bonum sit spirituale: tunc, proprium magis est procurandum 
+       <lb ed="#B" n="29"/>quia modicum boni gratiae aut gloriae propter eius aeternam perseuerantiam magis debet quilibet velle 
+       <lb ed="#B" n="30"/>sibi quam maximum, proximo: quemadmodum debet potius velle solus saluari &amp; omnes alios damnari, quam econ 
+       <lb ed="#B" n="31"/>uerso. Si vero vnum bonorum sit spirituale &amp; alterum temporale: aut ergo illud spirituale est proprium, &amp; ten- 
+       <lb ed="#B" n="32"/>porale est conmune: aut econuerso. Si primo modo: sic magis procurandum est proprium: &amp; multo magis quam si 
+       <lb ed="#B" n="33"/>commune esset etiam spirituale. Si secundo modo: aut procurans indiget temporali proprio in extrema ne- 
+       <lb ed="#B" n="34"/>cessitate, puta pane ne moriatur: aut non tantum. Si secundo modo: sic magis procurandum est commune. Si 
+       <lb ed="#B" n="35"/>primo modo: aut conmune non procuratum redundat in detrimentum publicum ecclesiae in fide &amp; mori- 
+       <lb ed="#B" n="36"/>bus: aut non, sed aliquarum personarum tantum. Si primo modo: tunc magis procurandum est commune 
+       <lb ed="#B" n="37"/>etiam si pro defectum, proprii temporalis deberet homo mori. Si secundo modo: sic, econuerso. 
+      </p>
+      <p xml:id="n3av8a-c1e3840-d1e178">
+       PER iam 
+       <lb ed="#B" n="38"/>dicta patent obiecta inspicienti. In casibus enim in quibus, proprium magis est procurandum, non est com 
+       <lb ed="#B" n="39"/>mune diuinius: aut non simpliciter: aut non procuranti. Diuinius autem conmune nunquam est magis procu 
+       <lb ed="#B" n="40"/>randum nisi quoniam in ipso includitur diuinius, proprium. Diuinius enim, proprium quod non includitur in commu- 
+       <lb ed="#B" n="41"/>ni, semper magis est procurandum: sicut &amp; spirituale proprium spirituali communi, quando proprium non inclu 
+       <lb ed="#B" n="42"/>ditur in conmuni, vt dictum est. In casibus vero in quibus conmune magis est procurandum, procurare commune 
+       <lb ed="#B" n="43"/>non tollit quin charitas a seipsa incipiat: quia hoc non facit nisi quia in conmuni includitur proprium.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

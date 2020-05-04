@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 15</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 15</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="437-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4214">
+       <head xml:id="n3av8a-c1e4214-Hd1e96">Quaestio 15</head>
+       <p xml:id="n3av8a-c1e4214-d1e99">
+        <lb ed="#B" n="30"/>CIrca Tertium arguitur: quod magis vnitur intellectus intellecto quam voluntas volito:  
+       <lb ed="#B" n="31"/>sic. quia ex illis sit magis vnum. Intellectus enim vnitur cum intellecto per modum in-  
+       <lb ed="#B" n="32"/>formantis: volitum autem voluntati non nisi per modum terminantis. &amp; plus 
+       <lb ed="#B" n="33"/>vnitur rei quod ipsam informat ab intra quam quid ipsam tantum terminat: quasi ab extra. 
+       <lb ed="#B" n="34"/>
+      </p>
+      <p xml:id="n3av8a-c1e4214-d1e112">
+       CONTRA. vnio voluntatis cum volito realis est. Vnio vero intellectus cum 
+       <lb ed="#B" n="35"/>intellecto est secundum rationem tantum. Probatio. quia obiectum voluntatis habet 
+       <lb ed="#B" n="36"/>rationem boni: quae realis est. Obiectum autem intellectus habet rationem veri: quae non nisi secundum 
+       <lb ed="#B" n="37"/>rationem est solum: quia bonum &amp; malum sunt in rebus: verum autem &amp; falsum nisi in anima &amp; in  
+       <lb ed="#B" n="38"/>consi dleratione, vt dicitur. vi. Metaph. Dicunt aliqui quod idem est obiectum voluntatis &amp; intellectus 
+       <lb ed="#B" n="39"/>differens ratione tantum, quia est obiectum intellectus vt est quiditas realis secundum se, est vero obiectum 
+       <lb ed="#B" n="40"/>voluntatis vt est bonum apprhensum secundum quod apprihensum. et ita vt est quid rationis. non enim vult voluntas rem 
+       <lb ed="#B" n="41"/>nisi secundum quod cognitum quid est. Intellectus autem intelligit rem secundum quod secundum se aliquid est. Maior  
+       <lb ed="#B" n="42"/>est autem vnio cum obiecto aliquo inquantum est reale quid: quam inquantum est quid secundum rationem tantum. Quod non opor 
+       <lb ed="#B" n="43"/>tet: quoniam idem obiectum vtriusque est secundum quod est aliquid reale. Ratio enim veri &amp; ratio boni non sunt 
+       <lb ed="#B" n="44"/>obiecta intellectus &amp; voluntatis: sed res ipsa sub ratione veri est obiectum intellectus: sub ratione autem  
+       <lb ed="#B" n="45"/>boni, voluntatis. quamuis propterea dicitur coniter quod verum est obiectum intellectus: bonum autem voluntatis.- 
+       <lb ed="#B" n="46"/>Quomodo autem maior est vnio voluntatis cum volito quam intellectus cum intellecto, alibi satis declaraui: nec 
+       <lb ed="#B" n="47"/>oportet repetere: quia nihil noui audiui in contrarium nisi iam tacta: praeter vnum: videlicet quod illud dictum Hu- 
+       <lb ed="#B" n="48"/>gonis super. vii. cael. hierarchiae. Intrat dilectio vbi scientia foris est, intelligitur de dilectione viae non patriae: 
+       <lb ed="#B" n="49"/>quid falsum est. Hoc enim dicit ostendendo in seraphin propriam beatitudinem diuinae participationis ex eius 
+       <lb ed="#B" n="50"/>nomine dicens sic. Ignem amoris concipiendo &amp; praebendo calefacientes nominantur: nam quia in  
+       <lb ed="#B" n="51"/>vnoquoque ordine discretio nominis singularem quandam ac, propriam notat habitudinis diuinae per  
+       <lb ed="#B" n="52"/>ticipationem ex substantia sua probat dicens. Mobile enim semper eorum circa diuina &amp; incessabile 
+       <lb ed="#B" n="53"/>&amp; calidum &amp; acutum &amp; semper fluidum &amp;c. Vbi super illud acutum, dicit sic. Signat acutum im--  
+       <lb ed="#B" n="54"/>petum quendam amoris ferentis se in amatum: &amp; intrantis &amp; penetrantis in ipsum. Amor enim vnum.  
+       <!--914.xml-->
+       <pb ed="#B" n="437-r"/>
+        <lb ed="#B" n="1"/>te facere vult cum ipso. &amp; infra. Dilectio supereminet scientiae: &amp; maior est intelligentia. Plus enim diligitur 
+       <lb ed="#B" n="2"/>quam intelligitur: &amp; intrat dilectio &amp; appropinquat vbique: scientia foris est: nec dissimulare valens quousque  
+       <lb ed="#B" n="3"/>ad amatum perueniat: &amp; eoipso amplius adhuc sitiens intrare in ipsum &amp; esse cum ipso: &amp; tam, propinque, vt si 
+       <lb ed="#B" n="4"/>fieri possit, hoc idem cum ipso sit ipse. Ecce quam aperte vbique loquitur de amore &amp; scientia patriae circa angelos 
+       <lb ed="#B" n="5"/>contemplatores, qui nullo modo sunt viatores. Quod arguitur primo: quod maior est vnio cum illo quod se ha-  
+       <lb ed="#B" n="6"/>bet per modum informantis, quam cum illo quod se habet per modum terminantis tantum: Dicendum quod verum est quando termi 
+       <lb ed="#B" n="7"/>nans est terminans tantum: sic quod maneat extra terminatum: &amp; econuerso, quemadmodum radius terminatur ad pa 
+       <lb ed="#B" n="8"/>rietem vnde reflectitur. Quando vero terminans non est terminans tantum, sed terminatum recipitur in terminante per 
+       <lb ed="#B" n="9"/>transformationem aliqualem in ipsum terminans: tunc quanto magis tendit in idipsum transformatio quod infor-  
+       <lb ed="#B" n="10"/>mat: tanto maior est vnio rei cum eo in quid transformatur: quam cum eo quid ipsum informat. quae transformatio fit 
+       <lb ed="#B" n="11"/>voluntatis in volitum per hoc quod sua actione amandi vergit &amp; mouetur in ipsum. Amor enim secundum Diony- 
+       <lb ed="#B" n="12"/>sium est virtus vnitiua &amp; transformatiua secundum quod alibi declarauimus. Idcirco simpliciter magis 
+       <lb ed="#B" n="13"/>vnitur voluntas cum suo obiecto quam intellectus cum suo. 
+      </p>
+      <p xml:id="n3av8a-c1e4214-d1e190">
+       NIhilominus tamen respondendum est ad rationem con- 
+       <lb ed="#B" n="14"/>trariam. Licet enim nititur hoc probare: hoc tamen non facit bono modo. Cum enim dicitur quod vnio voluntatis est 
+       <lb ed="#B" n="15"/>secundum rationem tantum: non est verum. immo (ut dictum est) est: realis licet sub ratione veri: quae sumitur ex 
+       <lb ed="#B" n="16"/>ordine quodam ad intellectum vt alibi declarauimus. Similiter quod dicunt aliqui: quod bonum est obie 
+       <lb ed="#B" n="17"/>ctum voluntatis vt est quid rationis: quia non nisi vt est cognitum in ratione: Dicendum quod verum esset si co 
+       <lb ed="#B" n="18"/>gnitio siue ratio cognoscendi aut essendi in cognitione esset propria ratio secundum quam esset ob  
+       <lb ed="#B" n="19"/>iectum voluntatis: sicut verum est ratio secundum quam res est obiectum intellectus. Sed non est ita: quo-  
+       <lb ed="#B" n="20"/>niam res est per se obiectum voluntatis vt habet rationem boni: licet non absque hoc quod est in intellectu. 
+       <lb ed="#B" n="21"/>vnde voluntas tantum fertur in realitatem boni cogniti quantum ferretur in ipsum si posset ferri in ipsum  
+       <lb ed="#B" n="22"/>absque omni cognitione praeuia.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

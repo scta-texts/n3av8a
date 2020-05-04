@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2762">
+       <head xml:id="n3av8a-c1e2762-Hd1e96">Quaestio 5</head>
+       <p xml:id="n3av8a-c1e2762-d1e99">
+        <lb ed="#B" n="14"/>CIrca secundum arguitur: quod intellectus creatus naturali cognitione non videt omnia qv 
+       <lb ed="#B" n="15"/>in ea. quoniam tunc videret infinita: quod non potest creatura. 
+      </p>
+      <p xml:id="n3av8a-c1e2762-d1e106">
+       CONtra est. quoniam est suf 
+       <lb ed="#B" n="16"/>ficiens ratio videndi omnia. Ista quaestio coniuncta est praecedenti: &amp; solum diffe 
+       <lb ed="#B" n="17"/>runt in hoc: quod illa fundatur super naturae pluralitatem in videndo tam ex par 
+       <lb ed="#B" n="18"/>te videntis quam ex parte visi. Ista vero super actum videndi secundum communem 
+       <lb ed="#B" n="19"/>cursum quem habent beati in videndo diuinam essentiam. 
+      </p>
+      <p xml:id="n3av8a-c1e2762-d1e117">
+       ET est dicendum quod iuxta 
+       <lb ed="#B" n="20"/>iam dicta nihil videtur ex creaturis visa diuina essentia nisi cuius est ipsa idealis ratio. Nunc secundum prae 
+       <lb ed="#B" n="21"/>dicta quorundam est idealis ratio per se &amp; propria: quorundam vero nequaquam: nisi per hoc quod ipsa quorum est per 
+       <lb ed="#B" n="22"/>se idealis ratio, quodammo se habent ad illa, quae quidem habitudo non est nisi accidentalis: quemadmodum spe 
+       <lb ed="#B" n="23"/>cies siue essentia specifica accidentaliter se habet ad secundas intentiones, ad numeros, &amp; indiuidua: &amp; ad  
+       <lb ed="#B" n="24"/>caetera huiusmodi. quorum non est per se &amp; propria idea: vt habitum est supra. Quare cum illa non se habent ad ideam speciei 
+       <lb ed="#B" n="25"/>siue essentiae nisi inquantum se habet species quodammo ad illa: illa ergo omnia accidentaliter se habent ad ideam 
+       <lb ed="#B" n="26"/>per quam videndo diuinam essentiam debeant videri in illa. Nunc autem viso aut cognito aliquo non necessa 
+       <lb ed="#B" n="27"/>rio, eo cognito cognoscuntur omnia illa quae accidentaliter se habent ad illud. Dico ab intellectum finito: quia 
+       <lb ed="#B" n="28"/>illa sunt infinita. Quamquam ergo secundum communem modum visionis beatae diuina essentia videatur a beatis 
+       <lb ed="#B" n="29"/>non solum sub ratione qua secundum se &amp; absolute est essentia quaedam: sed etiam sub ratione qua est idea 
+       <lb ed="#B" n="30"/>creaturarum: ita vt omnes essentiae creaturarum, per proprias ideas videantur in ipsa: Sed tamen essentiae rerum 
+       <lb ed="#B" n="31"/>non sunt numero infinitae: quae proprias ideas habent: de quibus dicit Greti. iiii. dialo. Quia illi omnes com 
+       <lb ed="#B" n="32"/>muni claritate deum conspiciunt: quid est quod ibi nesciant vbi scientem omnia sciunt: Non tamen oportet quod  
+       <lb ed="#B" n="33"/>omnia singularia: &amp; numeros rerum &amp; caetera huiusmodi quae proprias ideas non habent: &amp; sunt infinita, simul vi 
+       <lb ed="#B" n="34"/>deant. talia enim nisi quodam modo speciali eis manifestentur, naturali notitia videri non possunt visa diui 
+       <lb ed="#B" n="35"/>na essentia visione gloriosa: sed indigent speciali reuelatione, quemadmodum vt dicitur datum est ani  
+       <lb ed="#B" n="36"/>mae Christi quod videt omnia quae deus est facturus in rebus: licet non omnia quae possent fieri. Et secun- 
+       <lb ed="#B" n="37"/>dum hoc concedenda est primaratio. 
+      </p>
+      <p xml:id="n3av8a-c1e2762-d1e159">
+       AD rationem in oppositum: quod est sufficiens ratio videndi omnia A 
+       <lb ed="#B" n="38"/>dicendum quod verum est quantum est ex se si esset intellectus ad hoc sufficiens vt omnia accidenta o 
+       <lb ed="#B" n="39"/>liter ad ipsam ordinata posset referre: quemadmodum facit intellectus infinitus diuinus. Nunc autem ad  
+       <lb ed="#B" n="40"/>hoc non sufficit intellectus creatus: quia finitus est: quemadmodum intellectus noster viso principio non 
+       <lb ed="#B" n="41"/>sufficit videre in illo illa ad quae per se sufficiens est ratio cognoscendi quantum est de se: non solum illa ad  
+       <lb ed="#B" n="42"/>quae se habet per accidens: sed nec illa ad quae se habet per se sed mediate.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

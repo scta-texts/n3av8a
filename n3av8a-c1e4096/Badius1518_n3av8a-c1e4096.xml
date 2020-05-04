@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="413-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4096">
+       <head xml:id="n3av8a-c1e4096-Hd1e96">Quaestio 6</head>
+       <p xml:id="n3av8a-c1e4096-d1e99">
+        <lb ed="#B" n="32"/>Irca secundum arguitur, quod corpus Christi mortuum, aut alterius sancti, non sit 
+       <lb ed="#B" n="33"/>adorandum. quoniam si sit adorandum, hoc est quia illud quod erat in viuo manet in mortuo 
+       <lb ed="#B" n="34"/>Aliud enim non est in mortuo, propter quod est adorandum. hoc autem falsum est, quia  
+       <lb ed="#B" n="35"/>in verme generato de corpore sancti mortuo manet saltem materia, qui tamen non 
+       <lb ed="#B" n="36"/>propter hoc est adorandus. ergo &amp;c. In contrarium est vsus ecclesiae. Item vesti 
+       <lb ed="#B" n="37"/>menta sanctorum adorantur: quae minus ad sanctos pertinent quam ipsorum corpo 
+       <lb ed="#B" n="38"/>ra mortua: ergo multo fortius corpora ipsorum mortua sunt adoranda. 
+      </p>
+      <p xml:id="n3av8a-c1e4096-d1e117">
+       HIC opor 
+       <lb ed="#B" n="39"/>ter primo videre quid sit adorare: &amp; ad hoc oportet scire: quod ista. vreuereri, honorare, laudare, glorifi 
+       <lb ed="#B" n="40"/>care, adorare, se habent per ordinem: &amp; posterius seper aliquid supe prius addit. Reuereri enim est animo magna reputare  
+       <lb ed="#B" n="41"/>bona quae quis videt aut aestimat esse in alio: paruipendendo comperatione illorum bona quae considerat in seipso. Hono-  
+       <lb ed="#B" n="42"/>rare vero, reuerentiam existentem interius in animo opere exteriori indicare. Hic est quod honor dicitur esse 
+       <lb ed="#B" n="43"/>exhibitio reuerentiae in testimonium virtutis scilicet eius quem reueretur. Laudare vero est honoratum pro bo- 
+       <lb ed="#B" n="44"/>nis quae in se habet aliis commendare. Glorificare autem est laudes honorati longe, lateque praeco- 
+       <lb ed="#B" n="45"/>nizare. Propter quod dicitur gloria esse frequens fama cum laude. Adorare autem est in id quid est 
+       <lb ed="#B" n="46"/>reuerendum, laudandum, honorandum, atque glorificandum propter eminentiam suae sanctitatis &amp; virtutis totam 
+       <lb ed="#B" n="47"/>spe atque fiduciam subiiciendo se illi proiicere. Propter quod adoratio dter cultus scilicet propter diligentem intentionem 
+       <lb ed="#B" n="48"/>circa id quid adoratur. Illud enim coli dicitur cui quis studiose intendit operam illi suam exhibendo, sicut 
+       <lb ed="#B" n="49"/>ager vel quodcunque aliud. Ei enim quod adoratur diligenter quasi ei quid colitur obsequium ex 
+       <lb ed="#B" n="50"/>hibetur: in orationibus in genuflexionibus, in oblationibus sacrificiorum &amp; aliorum donorum  
+       <lb ed="#B" n="51"/>&amp; maxime fide, spe, &amp; charitate. secundum <name ref="#Augustine">Augustinum</name> in Enchiu. Dicitur etiam scruitus, quia huiusmodi  
+       <lb ed="#B" n="52"/>opera exhibentur ei quid adoratur in recognitionem dominii illius super adorantem. Et est isto modo ali 
+       <lb ed="#B" n="53"/>quid adorandum duplicit scilicet per se, &amp; per accidens. &amp; per se iterum dupliciter. Vno modo tanquam finis 
+       <lb ed="#B" n="54"/>principalis in quo completur seruientis siue adorantis tota spes atque fiducia. Alio modo tanquam  
+       <!--867.xml-->
+       <pb ed="#B" n="413-v"/>
+        <lb ed="#B" n="1"/>aliquid coniunctum illi fini, cuius adminiculo adorans coniungitur fini, vt in eo spes &amp; fiducia con 
+       <lb ed="#B" n="2"/>pleantur. Primo modo est aliquid adorandum propter se, &amp; per se: &amp; sic solus deus trinitas est ado  
+       <lb ed="#B" n="3"/>randus adoratione quae vocatur latria: &amp; similiter in ipso ea quae ipsius sunt: secundum quod dicit 
+       <lb ed="#B" n="4"/>praefatio de Trinitate. In essentia vnitas, in personis proprietas, &amp; in maiestate adoretur aequalitas. &amp; 
+       <lb ed="#B" n="5"/>Christus homo ratione personae diuinae. Et est idem latria graecae, quid seruitus latine. vnde per com 
+       <lb ed="#B" n="6"/>positionem dicitur idololatria idolorum seruitus. Et licet generaliter omnis adoratio seruitus quae  
+       <lb ed="#B" n="7"/>dam sit, vt dictum est, quia tamen seruitus &amp; obsequium summe debentur deo: ideo diuina seruitus 
+       <lb ed="#B" n="8"/>dicitur latria, &amp; commune nomen sibi appropriatum per antonomasiam, quemadmodum propter aliquam  
+       <lb ed="#B" n="9"/>excellentiam, cum dicitur Apostolus simpliciter, intelligitur Paulus, &amp; cum dicitur poeta simpliciter, intelligitur Vir 
+       <lb ed="#B" n="10"/>gilius. Vnde &amp; alio nomine dicitur pietas propter eminentem effectum deuotionis qui debet haimeni deo exhiben- 
+       <lb ed="#B" n="11"/>do seruitium sibi debitum. Tertio etiam nomine dicitur Theosebia i. i. diuinus cultus: quia in ipsa singulariter colitur 
+       <lb ed="#B" n="12"/>deus. Et quarto nomine dicitur Eusebia id est bonus cultus per antonomasiam: quia optimum est adoran  
+       <lb ed="#B" n="13"/>do colere deum. Et quinto modo dicitur religio: quando ad huiusmodi adorationem homo specia- 
+       <lb ed="#B" n="14"/>liter se obligat. dicente Tullio in Rheto. Religio cuidam superiori naturae cultum cerimoniamque affert. Secun 
+       <lb ed="#B" n="15"/>do modo est aliquid adorandum per se, &amp; propter aliud. &amp; sic quaedam creaturae sunt adorandae  
+       <lb ed="#B" n="16"/>propter diuinam naturam sibi coniunctam: &amp; hoc dupliciter, secundum quod dupliciter diuina natura potest esse con- 
+       <lb ed="#B" n="17"/>iuncta naturae humanae, vel per ineffabilem vnionem totam plenitudinem eius habendo, vel per doni con 
+       <lb ed="#B" n="18"/>munionem de plenitudine eius participationem adipiscendo. Primo modo diuina natura coniuncta 
+       <lb ed="#B" n="19"/>est humanitati Christi, quae vt dicit Hugo in tractatu de scientia animae Christi, non forte participatio-  
+       <lb ed="#B" n="20"/>nis ex illa viguit, sed priuilegio vnitatis totam possedit: in qua, vt ait Apostolus, habitat omnis ple- 
+       <lb ed="#B" n="21"/>nitudo diuinitatis corporaliter. vt Christus in se habere intelligatur per gratiam totum quod deus 
+       <lb ed="#B" n="22"/>est per naturam: &amp; idem illic gratia quid hic natura. Et longe aliud est idem habere &amp; idem esse: quia 
+       <lb ed="#B" n="23"/>habere pertinet ad gratiam, esse pertinet ad naturam: et plenitudo in verbo ei vnita est ex tem- 
+       <lb ed="#B" n="24"/>pore per gratiam, quae in deo ex aeternitate fuit per naturam. Secundo modo est diuina natura coniuncta 
+       <lb ed="#B" n="25"/>humanae naturae cuiuscunque sancti, quia vt ait Hugo, vbi iam supra, fine diminutione sui ab omni 
+       <lb ed="#B" n="26"/>bus participatur: &amp; cum idem sit in omnibus, non tamen ab omnibus eodem modo participatur, sed omnes qui  
+       <lb ed="#B" n="27"/>secundum conditionem suam, aut donum gratiae largitoris minus aut magis, huius eiusdem communionis 
+       <lb ed="#B" n="28"/>ac participationis capaces sunt, de plenitudine eius non plenitudinem, sed genrae participationem acci- 
+       <lb ed="#B" n="29"/>piunt. Propter istam secundam coniunctionem adorandae sunt aliquae purae creaturae adoratione quae  
+       <lb ed="#B" n="30"/>dicitur dulia. Propter primam autem coniunctionem adoranda est sola humanitas Christi inquantum est 
+       <lb ed="#B" n="31"/>vnita diuinitati, &amp; quaecumque pertinent ad ipsam, vt anima &amp; corpus quo ad materiam &amp; formam materia 
+       <lb ed="#B" n="32"/>lem: &amp; hoc tam pro statu mortis in quo erant corpus &amp; anima separata, quam pro statu vitae in quo erant coniuncta 
+       <lb ed="#B" n="33"/>quia in vtroque statu deitas semper aequaliter fuit vnita ambobus, &amp; omnia quaecumque in ipso &amp; cir- 
+       <lb ed="#B" n="34"/>ca ipsum considerantur esse vel fuisse, vt mors, passio, ascensio, figura, &amp; qualitates, caeteraque huiusmo 
+       <lb ed="#B" n="35"/>di. Sed hoc modo humana natura Christi dupliciter est adoranda, &amp; quaecunque in ea sunt. Vno modo  
+       <lb ed="#B" n="36"/>ratione personae: &amp; hoc adoratione quae vocatur latria: de qua dicit <name ref="#Augustine">Augustinus</name> de verbis domini sermo. lix. 
+       <lb ed="#B" n="37"/>Quid quod carnem eius quam creaturam esse non negas, simul cum diuinitate adoras: atque non minus quam diui 
+       <lb ed="#B" n="38"/>nitati deseruis: Ego dominicam carnem, immo perfectam in Christo humanitatem propterea adoro quod a diuinitate 
+       <lb ed="#B" n="39"/>suscepta est atque vnita diuinitat scilicet in vnitate personae. Alio modo ratione naturae diuinitati vnitae 
+       <lb ed="#B" n="40"/>&amp; hoc adoratione quae vocatur hyperdulia, hoc est adoratione quae superior est adoratione quae  
+       <lb ed="#B" n="41"/>est simplex dulia, licet inferiore quam sit latria. Si vero consideretur humanitas Christi secundum 
+       <lb ed="#B" n="42"/>se vt coniuncta diuinitati per donum gratiae creatae: si tamen tale quid ponatur esse in ipso, quan-  
+       <lb ed="#B" n="43"/>tumcunque excedat dona gratiae aliorum sanctorum, quo ad hoc non plenitudine diuinitatem sibi ha 
+       <lb ed="#B" n="44"/>beret coniunctam, sed excellentissima participatione, &amp; esset adoranda adoratione duliae simplicis 
+       <lb ed="#B" n="45"/>non latriae, aut hyperduliae. dicente Augustu. ibidem. Si hominem separaueris a deo, illi ego nunquam 
+       <lb ed="#B" n="46"/>seruio: scilicet latria, aut hyperdulia. &amp; ponit exemplum subdens. Velut siquis vestem aut purpu- 
+       <lb ed="#B" n="47"/>ram, aut diadema regale iacens inueniat, nunquid eam conabitur adorare: quasi dicat non, sci- 
+       <lb ed="#B" n="48"/>licet adoratione illa qua rex adoratur. Vnde subdit. Cum ea vero rex fuerit indutus, periculun 
+       <lb ed="#B" n="49"/>mortis incurrit si simul adorare cum rege quis contempserit. ita &amp; in Christo domino &amp;c. Adora-  
+       <lb ed="#B" n="50"/>tione autem simplicis duliae, non propter aliud, sed propter se sancti viui adorandi sunt, &amp; 
+       <lb ed="#B" n="51"/>omnia quae in eis sunt, vt sunt in eis, scilicet anima &amp; corpus, materia &amp; forma materialis, &amp; 
+       <lb ed="#B" n="52"/>omnia eorum accidentia quae considerantur circa ipsos: &amp; etiam animae eorum separatae, quia cum eis manet vnio 
+       <lb ed="#B" n="53"/>diuinitatis per donum gratiae sicut fuit cum viuis ex corpore &amp; anima constitutis. Per donum enim gerae 
+       <lb ed="#B" n="54"/>corpus non vnitur deo nisi per animam in qua est ipsum donum. Vnde si corpus sancti alicuius ad separationem 
+       <!--868.xml-->
+       <pb ed="#B" n="414-r"/>
+        <lb ed="#B" n="1"/>animae maneret sm formam corporalem idem in mortuo quod fuit in viuo per miraculum sicut mansit in Christo 
+       <lb ed="#B" n="2"/>vel per naturam in omnibus hominibus: secundum aliquos non esset adorandum nisi ex habilitatione &amp; ordine quem 
+       <lb ed="#B" n="3"/>hent ad suam animam. Materia vero corporis alicuius sancti alterius a Christo, quae nunc manet sub substantiali 
+       <lb ed="#B" n="4"/>forma, vt patet ex dictis in praecedenti quaestione, vno modo est adoranda per se: alio vero modo non, sed solum 
+       <lb ed="#B" n="5"/>per accidens, vt iam dicetur. Per accidens autem aliquid est adorandum eadem adoratione qua adoratur suum adoran- 
+       <lb ed="#B" n="6"/>dum per se: ad quod reducitur propter ordinem aliquem quem habet ad id quod est adorandum per se. Ista autem adoratio habet 
+       <lb ed="#B" n="7"/>fieri sex modis scilicet significatione, imitatione, continentia, contrectatione, descensione: connaturalitate propter or 
+       <lb ed="#B" n="8"/>dinationem ad per se adorandum. Primo modo sunt adoranda elementa sensibilia in sacramentis, quia sunt signa 
+       <lb ed="#B" n="9"/>indicatiua siue significatiua grae, per quam sancti coniunguntur deo. &amp; per hoc sunt per accidens adoranda  
+       <lb ed="#B" n="10"/>simplici dulia: &amp; similiter verba euangeliorum &amp; sacrae scripturae legis diuinae, quia sunt signa eorum 
+       <lb ed="#B" n="11"/>quae circa Christum &amp; deum sunt adoranda per se. Et inquantum reducuntur ad ea quae sunt adoranda  
+       <lb ed="#B" n="12"/>circa Christum dulia, vel hyperdulia, similiter eisdem modis sunt adoranda: inquantum vero reducuntur ad adoram 
+       <lb ed="#B" n="13"/>da circa deum latria, eodem modo sunt adoranda. Semper enim adorandum per accidens eadem adoratione adoratur  
+       <lb ed="#B" n="14"/>cum adorando per se ad quod reducitur, siue immediate, siue mediate propter ordinem ad per se ado  
+       <lb ed="#B" n="15"/>randum. Secundo modo sunt adorandae imagines illorum quae sunt adoranda, siue per se, siue per ac 
+       <lb ed="#B" n="16"/>cidens, non secundum quod sunt res quaedam secundum se, quemadmodum adorabant imagines idololatrae, aesti 
+       <lb ed="#B" n="17"/>mantes quod diuinae virtutes essent eis in sua formatione artificiali inditae virtute stellarum, vt dicit 
+       <lb ed="#B" n="18"/>Hermes Trimegistus in libro suo de idolo, sed secundum quod sunt imagines, &amp; ad aliud: &amp; hoc siue fue 
+       <lb ed="#B" n="19"/>rit imago naturalis, siue artificialis, siue realis, siue figuralis. dicente Damalis. libro iiii. cap. vii. Cuius 
+       <lb ed="#B" n="20"/>gratia nos adinuicem adoramus, nisi quod secundum imaginem dei facti sumus: imaginis honor ad  
+       <lb ed="#B" n="21"/>prototypum id est exemplar peruenit. cuius gratia Mosaicus populus tabernaculum adorauit 
+       <lb ed="#B" n="22"/>typum siue imaginem ferens caelestium. Sed tales imagines adorandae sunt dulia vel hyperdulia, 
+       <lb ed="#B" n="23"/>sicut &amp; sua imaginata: nulla autem earum latria, quia deo nulla potest fieri imago. dicente Da- 
+       <lb ed="#B" n="24"/>masceno ibidem. Inuisibilis incorporei &amp; incircunscriptibilis &amp; infigurabilis dei quis potest facere imagi 
+       <lb ed="#B" n="25"/>nem: Hinc in veteri testamento non erat imaginum vsus, nec etiam in lege naturae, dicente 
+       <lb ed="#B" n="26"/>Statio Thebaidos libro duodecimo. Nulla auri effigies nulla commissa metalla. Forma dei mem 
+       <lb ed="#B" n="27"/>tes habitare &amp; pectora gaudet. Quia vero deus secundum veritatem factus est homo, sculpta ad me 
+       <lb ed="#B" n="28"/>moriam &amp; nostram doctrinam adoramus, non materiam sed imaginatum: quemadmodum neque euan  
+       <lb ed="#B" n="29"/>gelii, vel crucis materiam adoramus, sed figuratum. Propter ordinem autem ad per se adorandum tertio 
+       <lb ed="#B" n="30"/>modo adorari potuit latria columba in qua apparuit spiritus sanctus. Sicut Abraham Gen. xviii. ima-  
+       <lb ed="#B" n="31"/>gines trium virorum adorauit latria in figuram trinitatis diuinarum personarum quae apparuit in illis. Quia 
+       <lb ed="#B" n="32"/>si in illis tres angelos adorauit, tunc adorauit in illis speciebus adoratione duliae, sicut etiam species sacramen 
+       <lb ed="#B" n="33"/>ti altaris continentes verum corpus Christi adoramus adoratione hyperduliae. Propter ordinem ad per  
+       <lb ed="#B" n="34"/>se adorandum quarto modo adoramus vestes sanctorum &amp; capillos qui non restituentur in resurrectione &amp; caete 
+       <lb ed="#B" n="35"/>ra huiusmodi adoratione duliae: vestes vero Christi &amp; sepulcrum &amp; loca in quibus sedit aut requeuit, &amp; caetera 
+       <lb ed="#B" n="36"/>huiusmodi, &amp; crucem eius veram adoratione hyperduliae. Sed &amp; cruces quae sunt imagines illius crucis, si 
+       <lb ed="#B" n="37"/>militer adoramus adoratione hyperduliae: quia in ordine ad Christi humanitatem. Sed crucem ve- 
+       <lb ed="#B" n="38"/>ram adoramus secundum istum quartum modum: cruces vero alias adoramus secundum prae- 
+       <lb ed="#B" n="39"/>dictum modum mediante vera cruce. Isto quarto modo praecipue adoranda est hyperdulia bea 
+       <lb ed="#B" n="40"/>ta virgo inquantum Christum prae caeteris contrectauit baiulando in vtero, pannis inuoluendo  
+       <lb ed="#B" n="41"/>vberibus lactando: &amp; caetera huiusmodi, quae secundum se adoranda est dulia: &amp; etiam forte latria inquantum est ma 
+       <lb ed="#B" n="42"/>ter non solum hominis, sed etiam dei, licet secundum assumptam humanitatem &amp; valde per accidens. Propter quin-  
+       <lb ed="#B" n="43"/>tum ordinem ad per se adorandum adoramus adoratione duliae corpora sanctorum mortua aliorum a Christo, in  
+       <lb ed="#B" n="44"/>quibus supra diximus nouam formam inductam fuisse ad separationem animae. &amp; iste modus pertinet ad pro-  
+       <lb ed="#B" n="45"/>positam quaestionem. Dictum est enim supra, quamuis enim corpus sancti viuum &amp; mortuum non sit idem secundum 
+       <lb ed="#B" n="46"/>formam &amp; suppositum: corpus tamen mortuum dicitur esse eius cuius erat viuum, quia tale corpus mortuum non potest 
+       <lb ed="#B" n="47"/>fieri per generationem nisi descendendo de tali corpore viuo per eius corruptionem. Ad cuius intel- 
+       <lb ed="#B" n="48"/>lectum sciendum est, quod sicut in ordine generationis non semper quodlibet habet generari ex quo-  
+       <lb ed="#B" n="49"/>libet: qualis est generatio elementorum ex elementis &amp; mixtis: nec quodlibet est in potentia propiqua ad quodlibet, sed  
+       <lb ed="#B" n="50"/>quandoque ad determinatum aliquid non habet determinari nisi ex determinato: nec est aliud quam illud in potentia. 
+       <lb ed="#B" n="51"/>propinqua &amp; per se ad ipsum. Non enim idolum Eent immediate fieri ex terra, nec terra est in potentia propimquam ad ipsa 
+       <lb ed="#B" n="52"/>sed ad cuprum, &amp; cuprum ad idolum: Similiter non ex quaelibet mixto habent generari sanguis immediate: quia non elapide, aut 
+       <lb ed="#B" n="53"/>melle, si solum ex congruo nutrimento: nec ex quaelib, hent generari chimus immediate, sed solum ex sanguine: nec sper 
+       <lb ed="#B" n="54"/>ma ex quolibet, sed solum ex chimo, neque embryo ex quolibet, sed solum ex spermate, neque homo ex quaoela  
+       <!--869.xml-->
+       <pb ed="#B" n="414-v"/>
+        <lb ed="#B" n="1"/>sed solum ex embryone hominis. Sic &amp; in ordine corruptionis non semper quodcunque habetur cor- 
+       <lb ed="#B" n="2"/>rumpi naturaliter &amp; per se in quodlibet generandum ex eius materia: qualiter corrumpuntur inter 
+       <lb ed="#B" n="3"/>se elementa: sed quandoque non habet corrumpi determinatum nisi in determinatum, quia vice versa de 
+       <lb ed="#B" n="4"/>terminate habet generari ex illo, vt ex eo quod est in potentia propinqua &amp; per se ad illud. Non enim vi 
+       <lb ed="#B" n="5"/>num natum est corrumpi per se ordine naturae nisi in acetum, neque acetum vinosum generari nisi ex vi 
+       <lb ed="#B" n="6"/>no. Consimiliter corpus mortuum hominis determinatum secundum formam non est per se ordine na 
+       <lb ed="#B" n="7"/>turae natum generari nisi ex corpore hominis viui, neque naturaliter corpus hominis viui natum est corrumpi nisi in corpus 
+       <lb ed="#B" n="8"/>hominis mortuum, &amp; hoc corpus uiuum non nisi in hoc corpus mortuum. Et vlterius hoc corpus mortuum si resoluitur 
+       <lb ed="#B" n="9"/>naturaliter in cineres siue pulueres, non nisi mediantibus aliis generatis ex ipso determinatis resoluitur 
+       <lb ed="#B" n="10"/>in illos. In quibus semper determinatum habet corrumpi in determinatum &amp; generari ex determi 
+       <lb ed="#B" n="11"/>nato vsque ad resolutionem in pulueres. Ita etiam quod determinatum corpus habet resolui in determi 
+       <lb ed="#B" n="12"/>natos pulueres, &amp; non in alios: &amp; determinati pulueres habent relinqui ex corpore determinato, &amp; non 
+       <lb ed="#B" n="13"/>ex alio: puta Petri corpus mortuum siue mediate siue immediate non habet resolui nisi in pulueres 
+       <lb ed="#B" n="14"/>Petri, nec pulueres Petri habent relinqui nisi ex corpore mortuo Petri. Et quae sic se habent per ordinem 
+       <lb ed="#B" n="15"/>eo quod vnum eorum est semper in potentia proxima &amp; determinata, vt per se alterum determinatum &amp; non  
+       <lb ed="#B" n="16"/>aliud habet generari ex illo, neque illud in aliud corrumpi: formae omnium talium vicinae sibi sunt &amp; pro  
+       <lb ed="#B" n="17"/>pinquae, non dico ordine dignitatis, sed ordine generationis &amp; corruptionis. vt propter hoc inter 
+       <lb ed="#B" n="18"/>se multum habent de symbolo: &amp; modica transmutatione facilis sit transitus ab vno in alterum: &amp; 
+       <lb ed="#B" n="19"/>propter permanentiam multorum in quibus habent symbolum, non apparet sensui quin illud quod est in  
+       <lb ed="#B" n="20"/>mortuo siue corrupto, fuit in viuo, vt habitum est in quaestione praecedente. Et propter talem ordinem 
+       <lb ed="#B" n="21"/>essentialem descensionis dicitur corpus mortuum esse eius cuius erat viuum, licet non sit idem cor- 
+       <lb ed="#B" n="22"/>pus in forma, vt habitum est supra. Et sic non propter aliquam identitatem substantialis formae quae  
+       <lb ed="#B" n="23"/>nulla est eadem in vtrisque, sicut nec propter identitatem quae manet secundum substantiam eadem in vtrisque  
+       <lb ed="#B" n="24"/>aut propter habitudinem materiae ad animam separatam, aut animae ad ipsam, est corpus mortuum adorandum  
+       <lb ed="#B" n="25"/>sed solum propter ordinem naturalis descensionis ad viuum. Et similiter quaecunque intermedia sunt, in quibus 
+       <lb ed="#B" n="26"/>per ordinem sit corruptio vsque ad vltimatam resolutionem in pulueres: &amp; similiter ipsi pulueres pro- 
+       <lb ed="#B" n="27"/>pter eandem rationem sunt adorandi. Si enim propter materiae identitatem corpus mortuum vel pul 
+       <lb ed="#B" n="28"/>uis eius esset adorandus, vel propter dimensiones interminatas manentes eaedem, aut habitudinem 
+       <lb ed="#B" n="29"/>animae ad illam materiam, aut econuerso, eadem ratione vermis generatus ex materia corporis mortui 
+       <lb ed="#B" n="30"/>alicuius sancti esset adorandus, quia eadem materia &amp; dimensiones &amp; habitudo animae ad materiam 
+       <lb ed="#B" n="31"/>sunt in materia sub forma vermis, &amp; sub forma cadaueris: qui tamen nullo modo est adorandus: eo quod non 
+       <lb ed="#B" n="32"/>secundum rectum ordinem, &amp; per se cursum naturae descendit vermis de corpore viui corrupto: vt ideo  
+       <lb ed="#B" n="33"/>possit corpus vermis dici corpus eius cuius erat viuum, sicut dicitur cadauer eius, aut puluis eius 
+       <lb ed="#B" n="34"/>sed quaecunque fiunt per putrefactionem, eo quod putredo non per se &amp; ex se sola est per se in propinqua po- 
+       <lb ed="#B" n="35"/>tentia vt vermis generetur ex ea, sed solum per aliquid accidens: quo calor naturalis disgregans sit 
+       <lb ed="#B" n="36"/>inaturalis, &amp; facit constare disgregata, vt dicitur in iiii. Meteoro. idcirco generantur casualiter, &amp; per ac 
+       <lb ed="#B" n="37"/>cidens aliquid superueniens, per quod corpus viuum exit ordinem essentialem descendendi per mortem 
+       <lb ed="#B" n="38"/>&amp; resolutionem in pulueres. Vnde &amp; quia ex puluere non est natum per naturam aliquid deter-  
+       <lb ed="#B" n="39"/>minatum generari, sed indifferenter resoluitur in vnum elementum, &amp; in aliud, aut in corpus per ge 
+       <lb ed="#B" n="40"/>nerationem mixti indeterminati ex eo: ideo postquam ex puluere generatur aliquod mixtum, aut ipse re- 
+       <lb ed="#B" n="41"/>solutus est in vnum elementum, aut in plura, iam non amplius propter materiae identitatem aliquo  
+       <lb ed="#B" n="42"/>modo illud elementum vel mixtum est adorandum, nec est de reliquiis sancti. Vnde solum illa quae  
+       <lb ed="#B" n="43"/>per dictam ordinatam descendentiam sunt Petri, cum adorantur &amp; honorantur, adoratur &amp; honoratur Pe 
+       <lb ed="#B" n="44"/>trus, quia illa sunt verae reliquiae Petri, &amp; tanto magis &amp; deuotius adorandae, quanto corpus viuum  
+       <lb ed="#B" n="45"/>magis &amp; deuotius est adorandum, sicut &amp; crux Christi deuotius est adoranda quam crux Petri: &amp; alia 
+       <lb ed="#B" n="46"/>adoratione secundum speciem, quemadmodum Christus viuus deuotius est adorandus quam Petrus vi 
+       <lb ed="#B" n="47"/>uus, &amp; alia adoratione secundum speciem. Tanto etiam deuotius tales reliquiae sunt adorandae, quan  
+       <lb ed="#B" n="48"/>to in symbolicis dispositionibus magis conueniunt cum illo a quo descenderunt. Quia autem ex tali or 
+       <lb ed="#B" n="49"/>dine ad corpora viua, quae dimiserunt, &amp; quae illi quorum sunt dicto modo per resurrectionem resumptu 
+       <lb ed="#B" n="50"/>ri sunt, adorantur, &amp; virtutem habent conferre adorantibus, satis exprimit Damalis: cum dicit libro 
+       <lb ed="#B" n="51"/>quarto cap. vi. Dominator Christus praebuit sanctorum suorum reliquias multiformia beneficia 
+       <lb ed="#B" n="52"/>erogantes, vnguentum boniodoris ex se tribuentes. &amp; infra. Sed hi non sunt mortui qui in spe re 
+       <lb ed="#B" n="53"/>surrectionis dormierunt. Et quia eodem modo tali adoratione adorandi sunt pulueres Petri &amp; cor 
+       <lb ed="#B" n="54"/>pus mortuum eius, quod in illos pulueres determinatos est resolutum, in quibus pulueribus manifestum 
+       <!--870.xml-->
+       <pb ed="#B" n="415-r"/>
+        <lb ed="#B" n="1"/>est non oportere secundum apparentiam sensus ponere aliquam formam quae prius erat in eius cor- 
+       <lb ed="#B" n="2"/>pore viuo vt adorentur: quaere neque in corpore Petri mortuo non resoluto in pulueres. Propter sextum ordi- 
+       <lb ed="#B" n="3"/>nem ad per se adorandum adoranda est materia quae percipi potest fuisse in corpore viuo alicuius sancti 
+       <lb ed="#B" n="4"/>sub quacunque forma inueniatur, etsi compositum in quo est non sit adorandum: vt dictum est de verme. Ma 
+       <lb ed="#B" n="5"/>teria enim sub forma vermis potest dupliciter considerari. Vno modo in ordine ad formam vermis 
+       <lb ed="#B" n="6"/>ad quam habet habitudinem secundum actum: &amp; est actu terminata sub illa. Alio modo in ordine ad for 
+       <lb ed="#B" n="7"/>mam sancti sub qua fuit in viuo: ad quam habet habitudinem in habitu: vt sub illa sit aliquando. Si primo 
+       <lb ed="#B" n="8"/>modo: dico quod non est adoranda sicut nec vermis ipse. Sed isto modo considerando materiam Petri sub 
+       <lb ed="#B" n="9"/>forma cadaueris Petri, ipsa est adoranda sicut &amp; ipsum cadauer. Si secundo modo: sic dico quod mate  
+       <lb ed="#B" n="10"/>ria illa siue fuerit sub forma cadaueris siue vermis siue quacunque alia, adoranda est propter ordinem 
+       <lb ed="#B" n="11"/>connaturalitatis ad seipsum vt est sub forma in viuo: in es scilicet quod vna est &amp; eadem naturaliter: &amp; etiam 
+       <lb ed="#B" n="12"/>propter ordinem quem habet ad animam suam aliquando resumendam. Et quando materia illa non  
+       <lb ed="#B" n="13"/>est adoranda vt est sub forma aliqua: puta vermis: tunc ipsa mente sola est veneranda siue adoran-  
+       <lb ed="#B" n="14"/>da: non tamen corporaliter vt genuflexione, ne videatur verinis ipse adorari. 
+      </p>
+      <p xml:id="n3av8a-c1e4096-d1e559">
+       PER haec patet solu- 
+       <lb ed="#B" n="15"/>tio ad argumentum primum: quod corpus sancti mortuum non est adorandum: quia nihil manet in eo quid fu 
+       <lb ed="#B" n="16"/>it in viuo propter quod debeat adorari. Dicendum secundum iam dicta, quod corpus mortuum non adora-  
+       <lb ed="#B" n="17"/>tur propter remanens in eo de viuo secundum formam: sed quia per naturalem &amp; per se corruptionem viui 
+       <lb ed="#B" n="18"/>naturali ordine descendit de eo: vt reliquium eius. Vnde licet in corpore mortuo maneat figura corpo- 
+       <lb ed="#B" n="19"/>ris viui modicum secundum terminationem variata: non propter hoc secundum veritatem licet se- 
+       <lb ed="#B" n="20"/>cundum sensus apparentiam potius est reliquium corporis viui: nec ideo potius adorandum quam pul 
+       <lb ed="#B" n="21"/>ueres: in quos ordine naturali corpus illud est resolutum: licet maiori deuotione propter maius sym 
+       <lb ed="#B" n="22"/>bolum: vt dictum est. Vnde vt intellexi, nuper in Anglia quidam religiosi dicentes in scholis quod  
+       <lb ed="#B" n="23"/>corpus sancti mortuum &amp; viuum non est idem nisi secundum quid: quia non secundum aliquam for- 
+       <lb ed="#B" n="24"/>mam substantialem: sed solummo secundum materiam, &amp; quaedam accidentia symbola, multum deliquarunt prouocam 
+       <lb ed="#B" n="25"/>tes pphostosopum ad insiliendum in eos: quasi dicant quod caput sancti Thomae aut alicuius alterius sancti mortuum non 
+       <lb ed="#B" n="26"/>esset vere caput illius neque simpliciter: sed tantum secundum quid: &amp; quod idcirco non esset adorandum vt 
+       <lb ed="#B" n="27"/>caput illius. Immo quamquam caput illud mortuum non sit idem quod prius viuum nisi secundum materiam 
+       <lb ed="#B" n="28"/>propter quid tamen vt dictum est non est adorandum: non autem secundum aliquam formam substantia 
+       <lb ed="#B" n="29"/>lem: &amp; ideo non nisi secundum quid est idem mortuum quod fuit prius viuum: quemadmodum ocu- 
+       <lb ed="#B" n="30"/>lus in capite mortuo non est idem secundum formam cum oculo prius viuo: quia forma viui oculi 
+       <lb ed="#B" n="31"/>erat visus: qui fuisset eius anima si oculus viuus fuisset animal: de quo manifestum est quod non est forma 
+       <lb ed="#B" n="32"/>oculi mortui: &amp; ideo non sunt iidem oculi nisi secundum quid: vere tamen &amp; simpliciter dicitur quod illud  
+       <lb ed="#B" n="33"/>caput mortuum est eius cuius fuit viuum: licet aliter &amp; aliter: quia viuum fuit eius vt pars sua integra 
+       <lb ed="#B" n="34"/>lis organica: mortuum autem est eius vt reliquium siue residuum eius, remanens in eadem materia per na- 
+       <lb ed="#B" n="35"/>turalem descensionem ordine per se &amp; essentiali de ipso capite eius viuo. &amp; propter hoc vere adorandum est 
+       <lb ed="#B" n="36"/>tanquam reliquium sancti: licet non tanquam pars eius organica. Magis tamen &amp; maiori deuotione esset adoram 
+       <lb ed="#B" n="37"/>dum tale reliquium si maneret idem in aliqua forma substantiali: quemadmodum mansit corpus Christi 
+       <lb ed="#B" n="38"/>mortuum idem cum viuo: quam quando non manet idem in substantiali forma: secundum quod haec patent ex iam supra de 
+       <lb ed="#B" n="39"/>claratis. Quia si forte aliquis vellet damnare opinionem dicentem quod non est eadem forma substantialis secun 
+       <lb ed="#B" n="40"/>dum numerum manens in mortuo quae prius fuit in viuo: eo quod aliter non esset adorandum: non esset consulta 
+       <lb ed="#B" n="41"/>danmnatio: &amp; retractanda potius quam tenenda. 
+      </p>
+      <p xml:id="n3av8a-c1e4096-d1e620">
+       ARgumenta duo alia concedenda sunt: vt patet ex dictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

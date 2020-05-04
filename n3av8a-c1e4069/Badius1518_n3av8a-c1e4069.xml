@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="403-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4069">
+       <head xml:id="n3av8a-c1e4069-Hd1e96">Quaestio 4</head>
+       <p xml:id="n3av8a-c1e4069-d1e99">
+        <lb ed="#B" n="46"/>Irca quartum arguitur quod expedit communiter subditos pro voluntate sua sibieligeus 
+       <lb ed="#B" n="47"/>re confessores. De poenitentia distid est c. praedicto. Quem poenitet. dicitur Qui consitri 
+       <lb ed="#B" n="48"/>vult peccata vt inueniat gratiam: quaerat sacerdotem scientem ligare &amp; soluere: ne cum 
+       <lb ed="#B" n="49"/>negligens circa se extiterit, negligatur ab illo qui eum misericorditer mouet: expeditur 
+       <lb ed="#B" n="50"/>ergo poenitenti quaerere confessorem: quid non posset facere nisi liceret ipsum eligere 
+       <lb ed="#B" n="51"/>pro voluntate. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4069-d1e115">
+       ITEM expedit fratribus vt ad hoc libere pro solunta- 
+       <lb ed="#B" n="52"/>te cuiuscumque eligantur: quia aliter non litigarent propter hoc contra praelatos. 
+      </p>
+      <p xml:id="n3av8a-c1e4069-d1e120">
+       CONtra non licet quae  
+       <lb ed="#B" n="53"/>rere semper medicum corporalem pro sua voluntate, nec expediret. ergo nec spiritualem. 
+      </p>
+      <p xml:id="n3av8a-c1e4069-d1e125">
+       DIcendum quod vt  
+       <lb ed="#B" n="54"/>puto ista quaestio mota fuit propter priuilegium fratrum. vtrum scilicet expediret fratribus esse conces- 
+       <!--846.xml-->
+       <pb ed="#B" n="403-r"/>
+        <lb ed="#B" n="1"/>sum quod quilibet subditus curatorum pro sua libera voluntate posset eligere aliquem ex fratribus sibi in con 
+       <lb ed="#B" n="2"/>fessorem. Et videtur mihi esse distinguendum, quod eligere confessorem pro voluntate sua contingit aliquem 
+       <lb ed="#B" n="3"/>dupliciter: aut passim &amp; sine causa rationabili: &amp; praeter consensum proprii curati aut superioris: aut 
+       <lb ed="#B" n="4"/>ex causa rationabili &amp; de consensu illius aut superioris. Si primo modo: dico quod nullo modo expedit: vt iam 
+       <lb ed="#B" n="5"/>dicetur: immo multum obesset &amp; poenitenti, &amp; reipublicae. Poenitenti: quia frequenter poenitens eligeret sibi 
+       <lb ed="#B" n="6"/>confessorem condescendentem nimium, &amp; coram quo minus verecundaretur: &amp; ob hoc fugeret confessorem 
+       <lb ed="#B" n="7"/>sibi deputatum: ne scilicet eum durius tractaret secundum quantitatem &amp; qualitatem criminis: &amp; quia co 
+       <lb ed="#B" n="8"/>ram eo plus verecundaretur. Similiter nec expediret reipublicae: immo summe obesset nisi cogeretur eli- 
+       <lb ed="#B" n="9"/>gens aut prius aut posterius confiteri eadem suo proprio sacerdoti. Per hoc enim quod quis confitetur alicui 
+       <lb ed="#B" n="10"/>&amp; detegit suam infirmitatem. concipit verecundiam ad confessorem, &amp; fit ei magis obediens &amp; subiectus:  
+       <lb ed="#B" n="11"/>&amp; per hoc quod ei subtrahitur &amp; alteri confitetur peccata quae non est illi confessus vel confessurus, sub 
+       <lb ed="#B" n="12"/>trahitur obedientia &amp; reuerentia ad ipsum. Vnde generaliter concedere subditos posse pro volunta- 
+       <lb ed="#B" n="13"/>te sua passim, siue ex causa, siue sine causa eligere confessores extraneos, &amp; dimittere proprios: nec vnquam  
+       <lb ed="#B" n="14"/>confessuros illis eadem peccata: est quodammodo declinare vt videtur a merito ecclesiasticae obedientiae 
+       <lb ed="#B" n="15"/>quam debent subditi praelatis suis: &amp; hoc quo ad omnes: &amp; similiter regularis obseruantiae quo ad reli- 
+       <lb ed="#B" n="16"/>giosos. Quae si subtrahatur inferioribus scilicet curatis: reuera redundabit in superiore. scilicet episcopos: vel vsque ad  
+       <lb ed="#B" n="17"/>monarcham: quia per obedientiam &amp; reuerentiam quam habent subditi ad suos curatos: conseruatur &amp; foue 
+       <lb ed="#B" n="18"/>tur obedientia ad superiores: secundum quod hoc amplius declarauimus in alio Quolibet. Subtrahere etiam 
+       <lb ed="#B" n="19"/>subditos praelatis dicto modo: est eis obtegere vultum eorum ne eos possint agnoscere, nec sufficienter 
+       <lb ed="#B" n="20"/>consulere si opus sit: quia a notitia praecedentium peccatorum dependet consultatio medicinalis contra 
+       <lb ed="#B" n="21"/>sequentia. 
+      </p>
+      <p xml:id="n3av8a-c1e4069-d1e181">
+       SI vero eligatur confessor ex causa rationabili &amp; consensu praelati aut superioris: aut ergo  
+       <lb ed="#B" n="22"/>conceditur potestas eligendi confessorem, absque eo quod petatur licentia a suo superiori cui alias tenetur confiteri 
+       <lb ed="#B" n="23"/>de iure conmuni: &amp; absque eo quod illi confiteatur prius aut posterius alteri confitenda: aut conceditur, petita tamen  
+       <lb ed="#B" n="24"/>&amp; obtenta licentia a suo superiori, vel de eisdem prius illi confessione facta aut postmodum facienda.  
+       <lb ed="#B" n="25"/>Si primo modo: sic expedit praelatis pro voluntate sua eligere sibi confessores: quia frequenter curatos 
+       <lb ed="#B" n="26"/>suos non habent: &amp; etiam de eorum industria in eligendo sibi idoneos confessores multum praesumitur. &amp; ideo hoc eis 
+       <lb ed="#B" n="27"/>permissum est de iure conmuni. secundum quod dicitur extra. de poe. &amp; re. Ne pro dilatione poenitentiae pericu 
+       <lb ed="#B" n="28"/>lum immineat animarum: permittimus episcopis &amp; aliis superioribus necnon &amp; minoribus praela- 
+       <lb ed="#B" n="29"/>tis exemptis: vt etiam praeter sui superioris licentiam prouidum &amp; discretum sibi possint eligere con- 
+       <lb ed="#B" n="30"/>fessorem. vbi dicit Glos. quod ante istam permissionem non poterant se subiicere alicui confessori sine licen 
+       <lb ed="#B" n="31"/>tia sui superioris: vt supra eodem. Omnis vtriusque sexus. Ex quo nota quod aliquando omnes episcopi &amp; ar 
+       <lb ed="#B" n="32"/>chiepiscopi vsque ad papam erant contenti sub prima clausula illius generalis statuti. Omnis vtriusque sexus. &amp; 
+       <lb ed="#B" n="33"/>appellabatur ibi proprius sacerdos quilibet superior curatus, a quo modo sunt exempti soli praelati, ma 
+       <lb ed="#B" n="34"/>nent ergo adhuc contenti sub ea omnes subditi &amp; saeculares &amp; religiosi clerici &amp; laici Quare cum Pa 
+       <lb ed="#B" n="35"/>pa Martinus concedit generaliter fratribus potestatem audiendi confessiones omnium, &amp; absoluen 
+       <lb ed="#B" n="36"/>di eos qui adhuc continentur sub illa prima clausula. Omnis vtriusque sexus. ad quam remittit cum di 
+       <lb ed="#B" n="37"/>cit. Volumus autem &amp;c. fratres ergo habent potestatem audiendi confessiones omnium subditorum, &amp; absol- 
+       <lb ed="#B" n="38"/>uendi eos siue sint saeculares, siue religiosi, siue clerici, siue laici: nisi quo ad hoc sint exempti, aut ali- 
+       <lb ed="#B" n="39"/>quid speciale habeant quo muniantur: vt confessuros tamen suo proprio curato eadem: qui in priuilegio 
+       <lb ed="#B" n="40"/>domini Martini vocatur sacerdos parochialis large sumpto vocabulo. lpsi etiam praelati ex iure specia 
+       <lb ed="#B" n="41"/>li sibi concesso possunt eis confiteri non confessuri eadem aliis. Isto autem modo eligere confessorem 
+       <lb ed="#B" n="42"/>pro voluntate nullo modo expedit subditis: quia habent prope se curatos: &amp; de eorum industria in eli 
+       <lb ed="#B" n="43"/>gendo sibi confessores idoneos non sic praesumitur: &amp; ideo non est illud eis adhuc concessum: immo 
+       <lb ed="#B" n="44"/>prohibitum: de poenitentia. dist. vi. Placuit vt deinceps nulli sacerdoti liceat quemlibet commissum alteri sa 
+       <lb ed="#B" n="45"/>cerdoti ad poenitentiam suscipere sine eius consensu cui se commisit: nisi pro ignorantia illius. vbi ad-  
+       <lb ed="#B" n="46"/>dit glos. Vel pro alia causa: quid etiam praeceptum est in illo statuto, Omnis vtriusque sexus. Isti ergo communi iu 
+       <lb ed="#B" n="47"/>ri modo derogatum est circa episcopos, quo ad illum articulum. Nulli sacerdoti liceat quemlibet com- 
+       <lb ed="#B" n="48"/>missum alteri sacerdoti ad poenitentiam suscipere sine eius consensu. &amp; hoc per illud ius iam dictum. 
+       <lb ed="#B" n="49"/>Ne pro dilatione: in hom scilicet quod sine licentia suorum superiorum qui erant illorum curati &amp; fine reuer 
+       <lb ed="#B" n="50"/>sione ad ipsos. Circa omnes autem subditos quo ad eundem articulum per priuilegium fratrum: in quo  
+       <lb ed="#B" n="51"/>inhibetur ne quis fratres in executione audiendi confessiones impediat: quod frequenter curati facerent 
+       <lb ed="#B" n="52"/>si oporteret subditos licentiam ab illis petere &amp; obtinere: quo ad hoc derogatum est per priuilegium 
+       <lb ed="#B" n="53"/>fratrum illi iuri communi. Omnis vtriusque sexus. in quo praecipitur quod subditus alium confessorem non  
+       <lb ed="#B" n="54"/>adeat nisi prius a suo curato licentia petita &amp; obtenta: licet conseruatum sit quo ad hoc quod semel in an-  
+       <!--847.xml-->
+       <pb ed="#B" n="403-v"/>
+        <lb ed="#B" n="1"/>no proprio curato facienda est omnium peccatorum confessio: vt habitum est iam supra. Et istud est se- 
+       <lb ed="#B" n="2"/>cundum membrum subdistinctionis: in quo potestas eligendi confessorem conceditur omnibus sub- 
+       <lb ed="#B" n="3"/>ditis: petita tamen &amp; obtenta licentia adeundi alium a suo proprio curato, vel confessione de confitem 
+       <lb ed="#B" n="4"/>dis aliis facta sibi vel facienda. Per hunc enim modum expedit omnibus subditis eligere pro voluntate con 
+       <lb ed="#B" n="5"/>fessores. Propter quod secundum hanc formam concessit dominus Martinus fratribus suum priuilegium: vt ha-  
+       <lb ed="#B" n="6"/>bitum est supra in quaestione prima. 
+      </p>
+      <p xml:id="n3av8a-c1e4069-d1e272">
+       AD illud quod primo obiicitur: quod ius concedit volenti confiteri 
+       <lb ed="#B" n="7"/>quod quaerat sacerdotem discretum vt inueniat gratiam: Dicendum quod hoc non concedit passim faciendum  
+       <lb ed="#B" n="8"/>sed solummodo de licentia curati: qui non deberet hoc concedere, nisi ex rationabili causa. Vnde dicit 
+       <lb ed="#B" n="9"/>glos. ibidem. Eius qui praeest assensu talem adeat. Nunc autem quando assensum non oportet quaerere vt 
+       <lb ed="#B" n="10"/>quis confiteatur fratribus: aliud remedium est adhibitum: quod scilicet eadem confitenda sunt illi infra annum. Quod  
+       <lb ed="#B" n="11"/>autem assumitur: quod hoc expedit fratribus: bene potest esse si audiant confessiones vt tenentur, diligenterscilicet 
+       <lb ed="#B" n="12"/>admonendo confessos sibi vt secundum illud statutum, Omnis vtriusque sexus: confiteantur etiam suo proprio sa 
+       <lb ed="#B" n="13"/>cerdoti. Aliter (vt puto) non expediret fratribus spiritualiter: licet forte temporaliter. 
+      </p>
+      <p xml:id="n3av8a-c1e4069-d1e290">
+       AD argumen- 
+       <lb ed="#B" n="14"/>tum in oppositum quod non licet passim aegrotum eligere medicum corporalem: quare nec spiritualem: 
+       <lb ed="#B" n="15"/>Dicendum quod verum est: nisi praesumatur discretus ad eligendum: sicut praesumitur de praelatis: propter quod  
+       <lb ed="#B" n="16"/>concessum est sibi eligere confessores: vt dictum est, quod non concessum est aliis subditis: quia talis dis 
+       <lb ed="#B" n="17"/>cretio non praesumitur conmuniter esse in eis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

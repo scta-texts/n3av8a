@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 18</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 18</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="18-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e328">
+      <head xml:id="n3av8a-c1e328-Hd1e96">Quaestio 18</head>
+      <p xml:id="n3av8a-c1e328-d1e99">
+       <lb ed="#B" n="21"/>CIrca quartum arguebatur quod voluntas discordans a ratione errante non sit mala. quia voluntas 
+       <lb ed="#B" n="22"/>discordans a praecepto inferioris quod discordat a praecepto superioris est bona non mala, quia  
+       <lb ed="#B" n="23"/>propter praeceptum superioris contemnendum est praeceptum inferioris. talis est voluntas discordans 
+       <lb ed="#B" n="24"/>a ratione errante. quia error eius est contra praeceptum diuinae legis: quae est praeceptum superioris: re 
+       <lb ed="#B" n="25"/>spectu cuius ratio est inferior praecipiens. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e328-d1e112">
+       CONtra. ad Romanos dicit Apo- 
+       <lb ed="#B" n="26"/>stolus. <quote xml:id="n3av8a-c1e328-Qd1e116" source="http://scta.info/resource/rom14_23">Quod non est ex fide peccatum est</quote>. <ref xml:id="n3av8a-c1e328-Rd1e119">Glos.</ref> Contra conscientiam est volun- 
+       <lb ed="#B" n="27"/>tas discordans a ratione errante. ergo est peccatum &amp; malum.
+      </p>
+      <p xml:id="n3av8a-c1e328-d1e125">
+       HIC est in principio scien- 
+       <lb ed="#B" n="28"/>dum quod non sunt idem in operandis ratio recta &amp; conscientia. Ex vniversalbus enim regulis operandorum quae sunt de di-  
+       <lb ed="#B" n="29"/>ctamine legis naturae, quasi ex propone maiori, &amp; particularibus operandis sumptis sub illis regulis vniversal 
+       <lb ed="#B" n="30"/>bus consilio rationis: quasi ex minori proponne, formatur ratio recta operandorum particularium. sed nondum ex hoc ha 
+       <lb ed="#B" n="31"/>betur operandi conscientia. quia tunc omnis habens operandorum notitiam, haberet de operando conscientiam: &amp; habens 
+       <lb ed="#B" n="32"/>maiorem notitiam: haberet strictiorem de operando conscientiam, quid falsum est. quoniam videmus saepius habentes ma 
+       <lb ed="#B" n="33"/>iorem operandorum notitiam: minorem habere operandi conscientiam. vnde econtra ratio erronea non est idem cum erro- 
+       <lb ed="#B" n="34"/>nea conscientia: &amp; hoc ideo quia conscientia ad partem animae cognitiuam non pertinet sed ad affectiuam. Sicut enim in co 
+       <lb ed="#B" n="35"/>gnitiua sunt lex naturalis vt vniversalis regula operandorum, &amp; ratio recta vt particularis: sic ex parte voluntatis est 
+       <lb ed="#B" n="36"/>quidam vniversalis motor stimulans ad opus secundum regulas vels legis naturae. Et dicitur synderesis: quae est in volun- 
+       <lb ed="#B" n="37"/>tate quaedam naturalis electio semper concordans cum naturali dictamine legis naturae. &amp; ideo dicitur synde-  
+       <lb ed="#B" n="38"/>resis hoc est conelectio: a syn quod est com: &amp; heresis quod est electio. Et quidam motor particularis stimulans ad  
+       <lb ed="#B" n="39"/>opus secundum dictamen rationis rectae. Et dicitur conscientia: quae est in voluntate quaedam electio deliberatiua semper 
+       <lb ed="#B" n="40"/>concordans cum dictamine rationis rectae. &amp; ideo dei conscientia hoc est cum scientia: quia electioni voluntate deli- 
+       <lb ed="#B" n="41"/>berata concordans cum scientia in ratione recta. &amp; semper formatur conscientia a consensu &amp; electione liberae volunta 
+       <lb ed="#B" n="42"/>tis iuxta iudicium &amp; snimam rationis: vt si sit ratio recta: recta est conscientia: si sit ratio erronea, erronea est &amp; conscien 
+       <lb ed="#B" n="43"/>tia. Et quia conscientia non formatur nisi ex volentis libera electione: licet iuxta notitiam rationis: ex hoc contingit 
+       <lb ed="#B" n="44"/>quod aliqui multam notitiam operandorum habentes nullam vel modicam habent in se conscientiam de operando secundum scientiam: &amp; 
+       <lb ed="#B" n="45"/>hoc vel quia de operando nihil deliberant: sed omnia praecipitanter agunt: vel si deliberant, libere tamen contra conscien 
+       <lb ed="#B" n="46"/>tiam eligunt: &amp; omnino ipsam respuunt: aut debiliter eam in eligendo sequuntur: &amp; contraria iis quae nouerunt agunt. 
+       <lb ed="#B" n="47"/>vnde omnes tales agunt contra scientiam sine omni conscientia remordente, aut modica, solum habentes remorsum synde  
+       <lb ed="#B" n="48"/>resis: quae omnino extingui non potest. Non est igitur idem quantum ad propositam quaestionem, voluntatem discordare a ratione  
+       <lb ed="#B" n="49"/>erronea, &amp; a conscientia erronea: quamuis omnis discordans a conscientia erronea, discordet a ratione erronea: eo quod  
+       <lb ed="#B" n="50"/>omnis conscientia siue recta siue erronea formatur iuxta rationem rectam siue erroneam. potest enim voluntas discorda- 
+       <lb ed="#B" n="51"/>re a ratione erronea licet non a conscientia erronea: quia forte errans non habet conscientiam formatam iuxta ratio 
+       <lb ed="#B" n="52"/>nem. Nec tamen restat quo ad propositam quaestionem nisi quod semper magis peccat contra erroneam conscientiam peccans quam  
+       <lb ed="#B" n="53"/>solum contra erroneam rationem: eo quod magl contemnit. Agens enim contra conscientiam contemnit iudicium rationis &amp; volum 
+       <lb ed="#B" n="54"/>tati inclinationem simli Agens autem contra rationem tantum erroneam: non contemnit nisi iudicium rationis tantum non inclinationem 
+       <!--77.xml-->
+       <pb ed="#B" n="18-v"/>
+       <lb ed="#B" n="1"/>voluntatis quo ad synderesim vt dictum est. Sed quantum pertinet ad propositam quaestionem, dicendum quod cum omnis ratio e 
+       <lb ed="#B" n="2"/>ronea sit per aliquam ignorantiam: &amp; secundum <name ref="#Aristotle">philosophum</name> in iii. Ethico. ignorantia quandoque causat inuoluntarium: quandoque non 
+       <lb ed="#B" n="3"/>&amp; non est malum moris siue peccatum nisi voluntarium: vt patet ex praedeterminatis: distinguendum est ex parte igno  
+       <lb ed="#B" n="4"/>rantiae quae est cauam rationis erroneae. aut enim est talis quod tollit omnem rationem voluntarii: aut non. Si primo modo: tunc 
+       <lb ed="#B" n="5"/>tollit omnem rationem boni &amp; mali moralis: &amp; est ignorantia causans inuoluntarium proueniens ex ignorantia ali- 
+       <lb ed="#B" n="6"/>cuius circunstantiae absque omni negligentia ignorantis: quae dicitur ignorantia facti. &amp; talis voluntas discordans a ra- 
+       <lb ed="#B" n="7"/>tione errante est mala, quia ille error omnino excusatur: vt si ratio erret in hoc quod credat aliquam suppositam 
+       <lb ed="#B" n="8"/>suam esse: vt Iacob credidit de La: in quam nunquam consensit: &amp; ea petente nolit cognoscere eam: voluntas 
+       <lb ed="#B" n="9"/>est mala simpliciter, &amp; bona secundum quid. Si vero ignorantia non sit talis quod tollat omnem rationem voluntarii 
+       <lb ed="#B" n="10"/>sed manet aliquo modo voluntarium: siue directe siue indirecte: directe vt quando erat affectata: indirecte vt 
+       <lb ed="#B" n="11"/>quando propter negligentiam inquisitionis &amp; studii est inducta circa illud quod necesse erat scire: vt est legis man  
+       <lb ed="#B" n="12"/>datum quae dicitur ignorantia iuris: tunc error rationis non excusat voluntatem operantem secundum rationem, quia quodam  
+       <lb ed="#B" n="13"/>modo est voluntarius. vt enim initium est voluntarium: &amp; omnia sequentia. Neque etiam potest excusari voluntas discor- 
+       <lb ed="#B" n="14"/>dans ab ea circa quidcumque genus actionis sit quin sit mala. Quoniam enim bonitas &amp; malitia voluntatis, proprie de-  
+       <lb ed="#B" n="15"/>pendet ab obiecto inquantum ei per rationem proponitur: vt voluntas eo modo dependeat a ratione ostendente ei obiectum 
+       <lb ed="#B" n="16"/>quo dependet ab ipso obiecto: propter hoc voluntas discordans a ratione errante semper est mala: etsi non propter 
+       <lb ed="#B" n="17"/>obiectum per suam naturam: tamen secundum quod ei mediante iudicio rationis proponitur: vt cum malum simpliciter repraesen 
+       <lb ed="#B" n="18"/>tet ratio voluntati sub ratione boni simpliciter, voluntas cum ab illa discordat fertur in contrarium sub ratione boni 
+       <lb ed="#B" n="19"/>vt nunc &amp; mali simpliciter. &amp; ideo peccat ex contemptu praeponendo illud quod putat esse diuinae legis illi quod non 
+       <lb ed="#B" n="20"/>putat esse tale: &amp; non damnatur voluntas ex eo quod agit: sed ex eo quod intendit. Talis ergo perplexus est: vt ne 
+       <lb ed="#B" n="21"/>cesse sit eum peccare nisi errorem deponat.
+      </p>
+      <p xml:id="n3av8a-c1e328-d1e239">
+       AD Argumentum quo dicitur quod agens contra rationem erroneam obe 
+       <lb ed="#B" n="22"/>dit praecepto superioris: Dicendum quod verum est in re praecepta: non tamen apphendit illud sub ratione praecepti: immo 
+       <lb ed="#B" n="23"/>potius sub ratione eius quod est contrarium praecepto propter quid mala est ipsa voluntas ex intentione agentis licet non 
+       <lb ed="#B" n="24"/>ex ratione reiactae, vt dictum est.
+      </p>
+      <p xml:id="n3av8a-c1e328-d1e249">
+       AD Argumentum in oppositum: quod omne quod non est ex fide hoc est ex conscien 
+       <lb ed="#B" n="25"/>tia, peccatum est: bene procedit praeter hoc quod ibi non sumitur conscientia proprie sed large pro rationis putatione.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

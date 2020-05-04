@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="402-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4056">
+       <head xml:id="n3av8a-c1e4056-Hd1e96">Quaestio 3</head>
+       <p xml:id="n3av8a-c1e4056-d1e99">
+        <lb ed="#B" n="39"/>CIrca tertium arguitur quod praelati episcopi debent poenis contentis in generali statu- 
+       <lb ed="#B" n="40"/>to subditos suos quos constat non fuisse confessos semel in anno omnia peccata sua suo 
+       <lb ed="#B" n="41"/>proprio sacerdoti, punire: sic. Extra de maio. &amp; obe. dicitur. Siquis venerit contra 
+       <lb ed="#B" n="42"/>decretum episcopi: abiiciendus est de ecclesia. ergo multo fortius, siquis venerit 
+       <lb ed="#B" n="43"/>contra decretum generalis concilii papae &amp; cardinalium. non confessus semel &amp;c. venit contra 
+       <lb ed="#B" n="44"/>decretum tale contentum in illa litera. Omnis vtriusque sexus. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4056-d1e115">
+       CONtra. 
+       <lb ed="#B" n="45"/>Maior est transgressio decretorum in praeceptis decalogi, quam decretorum concilii: sed transgressores de 
+       <lb ed="#B" n="46"/>calogi non sic sunt puniendi. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4056-d1e122">
+       ITEM talis poena inflicta talibus magnum scandalum generaret:  
+       <lb ed="#B" n="47"/>propter quod vitandum subtrahenda est seueritas in puniendo transgressores. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4056-d1e127">
+       DIcendum quod fru 
+       <lb ed="#B" n="48"/>stra essent poenae institutae contra transgressores decretorum: nisi fieret earum debita executio, qua-  
+       <lb ed="#B" n="49"/>rum executio episcopis singulis in suis dicecesibus super suos subditos est commissa. ii. quid i. Multi. versi. 
+       <lb ed="#B" n="50"/>Siquis frater. Executionem autem a superiori sibi commissam tenetur quilibet exequi ex virtute obedientiae 
+       <lb ed="#B" n="51"/>debitae: &amp; hoc cum tempus occurrit opportunum. aliter enim esset transgressor: &amp; peccaret per inobedientiam con 
+       <lb ed="#B" n="52"/>tra superiorem. Poenarum autem executio tunc est opportuna cum maleficia sunt commissa. vt extra de poe 
+       <lb ed="#B" n="53"/>nis. Ea quae frequenti praeuaricatione iterantur: frequenti sententia condennentur. glos. Quotiens quis deliquarit totiens pu 
+       <lb ed="#B" n="54"/>niri debet: ne maleficia permaneant impunita. lpsa enim impunita dimittere: est iustitiam infringere &amp; 
+       <!--845.xml-->
+       <pb ed="#B" n="402-v"/>
+        <lb ed="#B" n="1"/>audaciam delinquendi transgressoribus praebere. Episcopi ergo non exequentes poenas iuris cuni male 
+       <lb ed="#B" n="2"/>ficia fuerint perpetrata: non solum peccant contra superiorem: &amp; ita contra deum, cuius locum teret, per in-  
+       <lb ed="#B" n="3"/>obedientiam: sed etiam per iniustitiam. Cum ergo nec sic, nec sic peccare debeant: debent exequi ontra R 
+       <lb ed="#B" n="4"/>transgressores poenas in iure statutas: &amp; sic non confitentes semel in anno omnia peccata sua suo propiosa- 
+       <lb ed="#B" n="5"/>cerdoti: debent per excommunicationem viuos coercere ab ingressu ecclesiae: &amp; morientes priuare e- 
+       <lb ed="#B" n="6"/>clesiastica sepultura. Quare cum tenent tanquam eis clarum &amp; nullo modo dubium quod absoluti a fratribus iiii 
+       <lb ed="#B" n="7"/>ture sui priuilegii, teneantur peccata illis confessa semel in anno confiteri suo proprio sacerdoti non minus 
+       <lb ed="#B" n="8"/>quam non confessa: debent proculdubio confessos fratribus virtute sui priuilegii viuos coercere ab ingres 
+       <lb ed="#B" n="9"/>su ecclesiae: &amp; morientes priuare ecclesiastica sepultura: nisi confessa illis prius confessi suis saceidotibus 
+       <lb ed="#B" n="10"/>vel postmodum confiteantur eis infra elapsum annum vsque ad pascha, quando debent eucharistiamsu- 
+       <lb ed="#B" n="11"/>mere: consimiliter sicut &amp; non confessos fratribus nec propriis sacerdotibus. Illud enim statutum. Omnis 
+       <lb ed="#B" n="12"/>vtriusque sexus. continet ius conmune: &amp; semper standum est iuri communi quousque certum sit de eius reuo 
+       <lb ed="#B" n="13"/>catione. Si vero verba priuilegii fratrum essent eis ambigua, &amp; de reuocatione illius statuti generalis I 
+       <lb ed="#B" n="14"/>dubitarent: bene verum est quod tunc non deberent procedere ad poenarum executionem contra confillus 
+       <lb ed="#B" n="15"/>fratribus &amp; non suis sacerdotibus: sed prius expectare priuilegii interpretationem ab eo qui ipsum con 
+       <lb ed="#B" n="16"/>didit. Sed nunc econtra: postquam verba priuilegii episcopis certa sunt &amp; clara, nec reuocantia illudius 
+       <lb ed="#B" n="17"/>conmune: potius procedendum est ad poenarum executionem iuris: quam expectanda interpreratio priuile- 
+       <lb ed="#B" n="18"/>gii. &amp; notatur ista distinctio aliqualiter in c. illo extra. de iudici. Cum venisset. in glos. Sd est aduer i 
+       <lb ed="#B" n="19"/>tendum quod ad dictarum poenarum executionem aut est procedendum contra personas singulate: alitr con- 
+       <lb ed="#B" n="20"/>tra communitatem. Si primo modo: statim procedendum est ad poenam: ne prauo exemplo vnius cortumpn- 
+       <lb ed="#B" n="21"/>tur caeteri: &amp; vt poena vnius, metus sit aliorum. Si secundo modo: parcendum est multitudii: nic et 
+       <lb ed="#B" n="22"/>procedendum contra eam ad dictarum poenarum executionem: nisi timeatur deterius, vt in propos- 
+       <lb ed="#B" n="23"/>to amissio iuris praelatorum circa suos subditos: &amp; subtractio illorum ab ipsorum obedientia: quodbe-  
+       <lb ed="#B" n="24"/>ne timendum est in proposito casu, si subditi non compellantur semel in anno confiteri omnia suapc- 
+       <lb ed="#B" n="25"/>cata proprio sacerdoti etiam fratribus confessa, vt dicetur in sequenti quaestione. Quod si fecissent Friscopi 
+       <lb ed="#B" n="26"/>ab initio quando fratres vti coeperunt suo priuilegio: aestimo quod fratres qui modo recusant petere cum 
+       <lb ed="#B" n="27"/>episcopis interpretationem sui priuilegii quo ad duos articulos in quibus est discordia inter ipsos: sta- 
+       <lb ed="#B" n="28"/>tim concurrendo ad dominum papam conquesti fuissent de episcopis: &amp; per hoc ad suam interpretationem 
+       <lb ed="#B" n="29"/>siue expositionem dicti priuilegii quo ad ea in quibus discordant, peruenissent. Et puto quod miscopis con 
+       <lb ed="#B" n="30"/>pendiosior via &amp; securior est procedere ad poenas quam petere priuilegii interpretationem: &amp; quod ampliuest:. 
+       <lb ed="#B" n="31"/>si enim eam aggressi fuerint: credo quod statim audient comquestam contra eos: &amp; tunc prouocati enient ad  
+       <lb ed="#B" n="32"/>iudicium papae: &amp; sentient cito (vt puto) priuilegii interpretationem pro eis. 
+      </p>
+      <p xml:id="n3av8a-c1e4056-d1e219">
+       ARgumentum primum oonce 
+       <lb ed="#B" n="33"/>dendum est. 
+      </p>
+      <p xml:id="n3av8a-c1e4056-d1e224">
+       AD primum argumentum in oppositum quod non sic punitur transgressio decalogi: Dicendum. i 
+       <lb ed="#B" n="34"/>quod immo debent puniri secundum modum quo iura poenam eorum dictant: &amp; hoc in manifestis: quia illoc 
+       <lb ed="#B" n="35"/>cultis reseruatur iudicium deo &amp; sacerdoti in confessione. Siquando vero circa manifesta delicta contrade 
+       <lb ed="#B" n="36"/>creta decalogi non dictat ius conmune, illa dimittit punienda ad arbitrium episcoporum. Etem licet malus- 
+       <lb ed="#B" n="37"/>sit peccare contra decreta decalogi quam contra decreta hominum: quia tamen decreta hominum sepius sunt- 
+       <lb ed="#B" n="38"/>circa peccata quae vergunt in iniuriam proximorum: cum plurima decreta decalogi sint circa peccata quae 
+       <lb ed="#B" n="39"/>vergunt in iniuriam dei: ideo apud homines propter publicam pacem habendam plus solet vinidlicati quid  
+       <lb ed="#B" n="40"/>sit contra proximum, &amp; dimittitur deo vindicandum quod sit contra ipsum. Vnde acrius punitur furtumquam  
+       <lb ed="#B" n="41"/>periurium: cum tamen periurium sit maius peccatum. Ad secundum: quod poenae illius inflictio magnum scam i 
+       <lb ed="#B" n="42"/>dalum generaret: Dicendum quod propter hoc detrahendum esset seueritati, nec procedendum pallim &amp; subi- 
+       <lb ed="#B" n="43"/>to ad illas: sed tunc demum quando timetur periclitari veritas vitae: quod forte multum timendum est nio- 
+       <lb ed="#B" n="44"/>do: &amp; ideo potius permittendum est scandalum oriri quam veritatem vitae periclitari: &amp; procedendum addi- 
+       <lb ed="#B" n="45"/>ctarum poenarum executionem. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

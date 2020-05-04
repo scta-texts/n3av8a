@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 25</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 25</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="501-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4978">
+       <head xml:id="n3av8a-c1e4978-Hd1e96">Quaestio 25</head>
+       <p xml:id="n3av8a-c1e4978-d1e99">
+        <lb ed="#B" n="42"/>CIrca tertium, videlicet vtrum aliquis error vel facti vel iuris excuset peccatum: Arguitur quod  
+       <lb ed="#B" n="43"/>error facti non excusat, quia Abimelech peccasset errore facti in Saram vxorem Abrahae  
+       <lb ed="#B" n="44"/>nisi dominus eum praeseruasset, sm quod Gen. xx. dicit illi dominus. Scio quod in simplicitate cordis 
+       <lb ed="#B" n="45"/>feceris, &amp; ideo custodiui te ne peccares. Item dominus dixit de Iudaeis crucifigentibus. 
+       <lb ed="#B" n="46"/>ipsum: nesciunt quid faciunt, &amp; hoc quia errabant errore facti: non credentes illum quem cru 
+       <lb ed="#B" n="47"/>cifixerunt, esse Christum: &amp; tamen peccauert. Contra. dicit Christus. Si non venisse &amp;lo 
+       <lb ed="#B" n="48"/>quutus eis non fuissem peccatum non haberent. &amp; hoc non nisi quia per ignorantiam errantes excusati fuissent, er 
+       <lb ed="#B" n="49"/>go &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e4978-d1e119">
+       DIco quod non sunt idem error &amp; ignorantia, sed verum est quod non est error fine ignorantia. Est enim 
+       <lb ed="#B" n="50"/>quaedam ignorantia negationis: quao dicitur in pueris nescientia, qua aliquis nescit quod non est potens aut natus scire 
+       <lb ed="#B" n="51"/>propter subiecti indispositionem ad scientiam contrariam illi ignorantiae: &amp; in adultis dicitur ignorantia inuincibi 
+       <lb ed="#B" n="52"/>lis. &amp; ista ignorantia non est error, quia nec est peccatum nec causatum a peccato propriae voluntatis in ignorante. Et 
+       <lb ed="#B" n="53"/>ror autem omnis aut est peccatum in errante, aut a proprio peccato errantis causatus, vt enihoc igno-  
+       <lb ed="#B" n="54"/>rantia sic dicta possit esse sine peccato proprio ignorantis: non autem error. Vnde ignorantia phi- 
+       <!--1042.xml-->
+       <pb ed="#B" n="501-r"/>
+        <lb ed="#B" n="1"/>losophorum qua ignorabant deum trinum &amp; vnum, &amp; caetera quae pertinentur ad fidei articulos, error non eratur 
+       <lb ed="#B" n="2"/>nec peccatum, quamdiu fecerunt quod in se erat ad sciendum illa: &amp; non excluserunt a se radium diuini lumi 
+       <lb ed="#B" n="3"/>nis: sed postquam temeritate sua excludebant rebellione voluntatis a se radium diuini luminis supernaturalis 
+       <lb ed="#B" n="4"/>asserentes contrarium veritati quam non poterant ex puris naturalibus attingere, decepti ex apparen 
+       <lb ed="#B" n="5"/>tiis fallacibus, quibus voluntas elegit intellectum potius assentire falsis quam veris credibilibus, vt puta quod in  
+       <lb ed="#B" n="6"/>deo sicut est vna substantia sic &amp; vna persona absoluta, &amp; negantes quod in deo sit trinitas personarum, tunc ip 
+       <lb ed="#B" n="7"/>sorum ignorantia facta est error ex peccato temeritatis eorum proueniens: quia voluntate obliquata in sua ele- 
+       <lb ed="#B" n="8"/>ctione necesse est rationem obscurari in suo iudicio: vt habitum est iam supra. Non est enim errornisi assertio 
+       <lb ed="#B" n="9"/>falsitatis in ratione obscurata ex voluntatis obliquatione. Est autem alia ignorantia dispositionis siue 
+       <lb ed="#B" n="10"/>priuationis: quae non est nisi in illis in quibus nata est esse scientia contraria per aliquam dispositionem, qua  
+       <lb ed="#B" n="11"/>sunt susceptibiles illius scientiae. Sed haec est duplex. quaedam facti, quaedam iuris. Dicitur autem ignoram 
+       <lb ed="#B" n="12"/>tia facti non quia aliquis ignorat factum ex hoc faciendo quod non est faciendum: multi enim habent igno  
+       <lb ed="#B" n="13"/>rantiam facti, etsi non faciant non facienda, sed quia ignorat facienda &amp; ea quae consistunt in facto. Et est 
+       <lb ed="#B" n="14"/>haec ignorantia duplex. quaedam cum exhibitione debitae diligentiae ad sciendum illa: quaedam vero si- 
+       <lb ed="#B" n="15"/>ne illa diligentia. Prima excusat a peccato omnino, exemplo Iacob qui credens sibi suppositam fuisse Ra 
+       <lb ed="#B" n="16"/>chelem, cognouit Lyam prius quam consensit cum ipsa in matrimonium. Secunda autem non excusat pro quanto 
+       <lb ed="#B" n="17"/>quis non adhibet diligentiam quam debet ad sciendum ea quae consistunt in facto: ita quod si nullam diligen- 
+       <lb ed="#B" n="18"/>tiam adhibeat, in nullo excusat, sicut forte non est excusatus Lamech occidendo Caim: putando ipsum  
+       <lb ed="#B" n="19"/>esse feram. Si autem aliquam diligentiam adhibeat pro tanto excusatur, &amp; pro residuo inculpatur. si 
+       <lb ed="#B" n="20"/>cut contigit in facto Achimelech: qui reuera peccasset si cognouisset Saram, etiam ipsa accepta in vxo 
+       <lb ed="#B" n="21"/>rem, quia non sufficienter inquisiuit an fuisset vxor Abrahae. excusatus tamen fuisset in aliquo: propter 
+       <lb ed="#B" n="22"/>quid etiam dominus eum custodiuit, quia Sara requisita quae esset: respondit se esse sororem Abrahae: vnde &amp; credidit 
+       <lb ed="#B" n="23"/>Achimelech eam non fuisse vxorem Abrahae. quod si credidisset: nequamquam eam cognoscere voluisset. in quo <name ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="24"/>commendat eius iustitiam in lege naturae: &amp; in tali cordis simplicitate abstulit eam. Dicitur autem igno  
+       <lb ed="#B" n="25"/>rantia iuris quando est illorum quae ius scienda dictat: &amp; hoc vel diuinum vel humanum. Ignorantia autem illorum  
+       <lb ed="#B" n="26"/>quae ius diuinum scienda dictat &amp; quae sunt de necessitate salutis, neminem excusat nisi sit ignorantia negationis 
+       <lb ed="#B" n="27"/>quaelibet enim alia ex culpa prouenit pro quanto ad ipsum pertinet scire illa, quia scire illa pertinet mi 
+       <lb ed="#B" n="28"/>nus ad vnum, vt ad simplicem subditum: ad alium vero plus vt ad praelatum vel doctorem. Quia 
+       <lb ed="#B" n="29"/>doctores qui negligunt studere ad sciendum illa quae scire requirit ipsorum professio: &amp; propterea do 
+       <lb ed="#B" n="30"/>cent falsa, etiam si nec fauore vel odio essent obscurati, non excusantur a peccato Et similiter doctores qui om 
+       <lb ed="#B" n="31"/>nem diligentiam adhibent studio ad sciendum illa quae ipsis incumbunt docenda: &amp; tamen propter natura 
+       <lb ed="#B" n="32"/>lem indispositionem non possunt ad illorum scientiam attingere, in docendo falsa non excusantur 
+       <lb ed="#B" n="33"/>quia non adhibebant diligentiam quam debuerunt &amp; potuerunt ne promouerentur ad statum qui  
+       <lb ed="#B" n="34"/>requirebat quod docerent illa quae vires eorum excedebant. Si autem nesciat aliquis quod non sit de ne- 
+       <lb ed="#B" n="35"/>cessitate salutis vt sunt multa quae pertinent ad philosophiam, aut ea quae non tenetur scire, non 
+       <lb ed="#B" n="36"/>peccat etiam partem falsam asserendo, nisi temere velit illam defendere contra peritiores se. Et est cer- 
+       <lb ed="#B" n="37"/>tum quod in omnibus talibus in quibus certi non sumus quid tenere debeamus, semper teneamus 
+       <lb ed="#B" n="38"/>magis securum ad salutm: secundum <name ref="#Augustine">Augustinum</name> dicentem. Tene certum &amp; dimitte incertum. 
+       <lb ed="#B" n="39"/>&amp; in omnino dubiis semper magis piam partem quae scilicet magis vergit in honor: m diuinum.  
+       <lb ed="#B" n="40"/>tenere debemus. dicente Gregorio decimo Moralium. Apud misericordem iudicem nequaquam sine 
+       <lb ed="#B" n="41"/>venia culpa relinquitur, cum per fauorem zeli ex eius amore peccatur. Saepe nanque magnis hoc do  
+       <lb ed="#B" n="42"/>ctoribus contigit: vt quo alta charitate ferueant, lingua aliquid quod non debet dicat. Sed tanto 
+       <lb ed="#B" n="43"/>citius parcitur quanto ex qua prodeat radice pensatur: citius culpa dimittitur quae nequaquam stu-  
+       <lb ed="#B" n="44"/>dio malitiae perpetratur. Ignorans autem ea quae ius humanum dictat: similiter non excusatur ni 
+       <lb ed="#B" n="45"/>si quatenus eum excusandum dictat, qualiter a notitia legum humanarum excusantur propter eorum 
+       <lb ed="#B" n="46"/>exercitia milites &amp; rustici. Per praedicta patet responsio ad prima duo obiecta. 
+      </p>
+      <p xml:id="n3av8a-c1e4978-d1e243">
+       AD tertium in  
+       <lb ed="#B" n="47"/>oppositum. Si non venissem &amp;c. Dico quod ibi loquitur Christus de eis quae pertinent ad notitiam  
+       <lb ed="#B" n="48"/>iuris diuini a quo nemo excusatur secundum iam expositum modum. Tamen peccans ex ignoram 
+       <lb ed="#B" n="49"/>tia talis iuris non specialiter affectata minus peccat quando non est ei annunciatum, quam quando est annunciatum: quia ser 
+       <lb ed="#B" n="50"/>uus sciens voluntatem domini sui, &amp; non faciens, plagis vapulabit multis: &amp; sic si illis non fuisset 
+       <lb ed="#B" n="51"/>annunciatum, sed peccassent faciendo quod non debuissent, tamen minus peccassent quam postquam eis fuit 
+       <lb ed="#B" n="52"/>annunciatum. &amp; hoc intendit cum dixit: peccatum non haberent. scilicet non tantum haberent: ta- 
+       <lb ed="#B" n="53"/>men simpliciter haberent. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

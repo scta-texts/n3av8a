@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 19</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 19</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="330-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3347">
+       <head xml:id="n3av8a-c1e3347-Hd1e96">Quaestio 19</head>
+       <p xml:id="n3av8a-c1e3347-d1e99">
+        <lb ed="#B" n="15"/>Irca quartum arguitur: quod poena iniuncta a sacerdote discreto, vel a iure, sufficit pro  
+       <lb ed="#B" n="16"/>tota poena purgatorii: quia dicitur de poeni. dist. vi. Quicumque peregerit post recom 
+       <lb ed="#B" n="17"/>ciliationem quandocumque defunctus fuerit ad deum vadit: ad requiem vadit: a regno  
+       <lb ed="#B" n="18"/>dei non priuabitur: a populo diaboli separabitur. Vnde super illud. Ad requiem va 
+       <lb ed="#B" n="19"/>dit, dicit glossa. Recta via: ita quod nec purgatorium sentiat pro illis peccatis de quibus  
+       <lb ed="#B" n="20"/>poenituit. 
+      </p>
+      <p xml:id="n3av8a-c1e3347-d1e115">
+       CONtra, maiori libidini maior debetur poena: sed taxatio poenae a i 
+       <lb ed="#B" n="21"/>iure aequalis est in aequalibus factis exterioribus: &amp; similiter sacerdotis discreti: quia quantitatem libi 
+       <lb ed="#B" n="22"/>dinis pensare non possunt. ergo poena iuris etsi vni sufficiat &amp; pro ipso satisfaciat: non oportet tamen quod  
+       <lb ed="#B" n="23"/>pro altero. Quaestio ista quaerit de efficacia operis poenalis poenitentialiter iniuncti: quae innititur vir 
+       <lb ed="#B" n="24"/>tuti clauium: vtrum tanta sit quod iniunctum virtute clauium sufficit pro tota poena debita. Vnde quia quae-  
+       <lb ed="#B" n="25"/>rit de virtute clauium: sciendum est quod in ecclesia est clauis scientiae: de qua nihil ad praesens: et clauis po 
+       <lb ed="#B" n="26"/>tentiae: in qua distinguitur triplex potentia. scilicet ordinis &amp; iurisdictionis &amp; mixta. Ea autem quae fiunt 
+       <lb ed="#B" n="27"/>potentia ordinis, ab omnibus aequaliter fiunt qui ordinem aequaliter habent. Vnde omnes sacerdotes 
+       <lb ed="#B" n="28"/>aequaliter consecrant: omnes episcopi aequaliter ordinem conferunt. Talia sunt ordinis pure &amp; non iu 
+       <lb ed="#B" n="29"/>risdictionis. propter quod vis ordinis in talibus suspendi non potest quin agant quod ordinum est: quantum-  
+       <lb ed="#B" n="30"/>cumque excommunicati fuerint vel interdicti. Ea vero quae merae iurisdictionis sunt, non ab omnibus aequa  
+       <lb ed="#B" n="31"/>liter fiunt: quia in aliquibus suspendi potest ne talium aliquid ab eis fieri possit: vt excommunicare infe 
+       <lb ed="#B" n="32"/>riorem: indulgentias dare: &amp; huiusmodi. Nec omnes ex ordine &amp; statu in ecclesia aequalem iurisdictionem in talibus ha 
+       <lb ed="#B" n="33"/>bent. Aliqui tamen volunt dicere quod omnes sacerdotes aequalem potestatem habent in istis: licet execu 
+       <lb ed="#B" n="34"/>tio in sacerdotibus inferioribus restricta est. &amp; hoc in ordines celebrando, &amp; in omnibus quae etiam ad epi 
+       <lb ed="#B" n="35"/>scopalis ordinis potestatem &amp; iurisdictionem pertinent: quia vt dicit Hieronymus: Qui nunc sacerdos olim 
+       <lb ed="#B" n="36"/>eprses. Sed hoc non tenetur: quia semper ordo epseorum qui tenent locum apostolorum, fuit supra ordinem sacerdotum qui  
+       <lb ed="#B" n="37"/>tenent locum discipulorum. vt dicit Glos. Matth. x. Et quod dicit Hieronymus. Qui nunc sacerdos olim 
+       <lb ed="#B" n="38"/>eprses. hoc dicit, quia olim singulis ciuitatibus singuli epsi: et quandoque plures vni ciuitati praefuerunt 
+       <lb ed="#B" n="39"/>epsei: vbi modo praesunt simplices sacerdotes. De epseis tenent multi quod omnes aequalem habent potestatem 
+       <lb ed="#B" n="40"/>ita quod quilibet habet totam clauium potestatem: sicut habuit quilibet apostolus: non maiorem vnus quam alter: licet in  
+       <lb ed="#B" n="41"/>hoc Petrus habuit aliquam praerogatiuam quam modo habent sui successores: et hoc tum propter beati Petri me 
+       <lb ed="#B" n="42"/>ritum: tum propter iussionem domini: tertio propter conciliorum auctoritatem. dist. xvii. cap. Concilia. Eius sedi primi 
+       <lb ed="#B" n="43"/>apostoli Petri meritum: deinde sequuta iussione domini: deinde conciliorum venerandorum auctoritas: singularem 
+       <lb ed="#B" n="44"/>in ecclesiis tradidit potestatem. Quarto propter aptlorum voluntatem. dist. xxi. In nouo testamento per Christum 
+       <lb ed="#B" n="45"/>dominum a Petro coepit sacerdotalis ordo: quia ipsi primo pontificatus in ecclesia datus est. dicente 
+       <lb ed="#B" n="46"/>domino. Tu es Petrus &amp;c. Hic ligandi &amp; soluendi potestatem primus a domino accepit: caeteri vero 
+       <lb ed="#B" n="47"/>apostoli cum eodem pari confortio honorem &amp; potestatem acceperunt: ipsumque principem eorum  
+       <lb ed="#B" n="48"/>esse voluerunt. lpsis quoque discedentibus in loco eorum surrexerunt episcopi &amp;c. Vbi super illud Pari 
+       <lb ed="#B" n="49"/>consortio, dicit Glos. Quantum ad ordinem. Petrus tamen fuit maior aliis in administratione. &amp; dist. xxii. 
+       <lb ed="#B" n="50"/>cap. Sacrosancta. Inter beatissimos apostolos fuit quaedam discretio. licet enim omnes apostoli essent: Petro 
+       <lb ed="#B" n="51"/>tamen a domino concessum est: quod &amp; ipsi idem inter se ad ipsum voluerunt: vt reliquis omnibus praeesset Apo 
+       <lb ed="#B" n="52"/>stolis, &amp; principium teneret apostolatus: &amp; eandem formam suis successoribus, &amp; reliqui apostoli epseis 
+       <lb ed="#B" n="53"/>tenendam tradiderunt. Et sic in administratione &amp; regimine successor Petri praefertur: vt in eis quae  
+       <lb ed="#B" n="54"/>iurisdictionis sunt, aliorum potestatem secundum quod videbitur ei expediens modo restringere modo rela- 
+       <!--701.xml-->
+       <pb ed="#B" n="330-v"/>
+        <lb ed="#B" n="1"/>xare possit. Vnde vt dicitur in fine praedicti cap. sicut cardine ostium regitur: sic huius sanctae aposto 
+       <lb ed="#B" n="2"/>licae sedis auctoritate omnes ecclesiae domino disponente reguntur. Sed quicquid est de aliis, vniuer- 
+       <lb ed="#B" n="3"/>salis indulgentiarum dispensatio de thesauro ecclesiae ex merito Christi eidem reseruata est. &amp; hoc po 
+       <lb ed="#B" n="4"/>tius quia non vsi sunt ea caeteri epsei: quam quia summus pontifex executionem eis subtraxerit vt dicunt 
+       <lb ed="#B" n="5"/>aliqui. Quas quidem indulgentias dispensare debet pensata vrgente necessitate, &amp; communi vtilitate. Si 
+       <lb ed="#B" n="6"/>tamen aliter faciat, periculo suo caueat. 
+      </p>
+      <p xml:id="n3av8a-c1e3347-d1e209">
+       POtestas vero mixta est in poenae aeternae in temporalem mu 
+       <lb ed="#B" n="7"/>tatione: &amp; illius pro parte relaxatione: &amp; vniuersaliter quaecumque habent fieri circa sacramentum poenitem 
+       <lb ed="#B" n="8"/>tiae: quia dependet ab ordine: eo quod ibi nihil fieri potest nisi ab ordinatis: et similiter a iurisdictione: quia 
+       <lb ed="#B" n="9"/>si ordinato subtrahatur iurisdictio in exequendo ea quae pertinent ad sacramentum poenitentiae, nihil 
+       <lb ed="#B" n="10"/>potest agere. Ita quod circa ea quae pertinent ad executionem sacramenti poenitentiae: dispositio pertinet ad dis- 
+       <lb ed="#B" n="11"/>positionem summi pontificis: in quo in aliquo habet maiorem potestatem caeteris: licet in aliquo non nisi 
+       <lb ed="#B" n="12"/>aequalem. In committendo enim potestatem vel subtrahendo eam aliis, plenam habet potestatem solus super omnes 
+       <lb ed="#B" n="13"/>quam nullus alius habet. In administrando vero non habet maiorem potestatem aliis: quia in administran 
+       <lb ed="#B" n="14"/>do non agunt sacramenta nisi sacramentaliter secundum virtutem a deo eis concessam: non autem secundum sta- 
+       <lb ed="#B" n="15"/>tum aut dispositionem administrantis sacramentum: Ita quod non plus valet sacramentum baptismi admini 
+       <lb ed="#B" n="16"/>stratum a summo pontifice: quam administratum a minimo sacerdote. Propter quod contrarium sentientes 
+       <lb ed="#B" n="17"/>reprehendit Paulus illos qui dixerunt. i. Corin. i. Ego sum Pauli: ego sum Apollo. Diuisus est Christus. 
+       <lb ed="#B" n="18"/>super quo dicit Glos. Alius alio doctior est: alius alio melius operatur in eodem: nec sunt omnes aequali  
+       <lb ed="#B" n="19"/>sapientia praediti. Alius vero alio magis minus ve baptizatus esse: siue ab inferiore siue a maiore bapti- 
+       <lb ed="#B" n="20"/>zante, dici non potest. &amp; infra dicit quaedam glossa. Cum tantum valet baptismus per hominem contemptibilem 
+       <lb ed="#B" n="21"/>quantum per Apostolum datus: ita nec illius sed Christi esse cognoscitur. &amp; sic in omni alio sacramento 
+       <lb ed="#B" n="22"/>lta quod cum in sacramento poenitentiae duo est considerare quae respiciunt poenam debitam peccatis. is. 
+       <lb ed="#B" n="23"/>sacramentalem absolutionem quae peccata abluit: &amp; poenam aeternam peccatis debitam mutat in temporalem 
+       <lb ed="#B" n="24"/>&amp; aliquid etiam de illa poena temporali relaxat: &amp; sacramentalem satisfactionis iniunctionem: quantum  
+       <lb ed="#B" n="25"/>est ex parte absolutionis in eis quae ambo &amp; maior &amp; minor possunt absoluere: non plus remittit de 
+       <lb ed="#B" n="26"/>poena debita maior quam minor. Inquantum vero ad secundum sciendum: quod illa satisfactio aut iniungitur sacra 
+       <lb ed="#B" n="27"/>mentaliter solum: aut simul &amp; sacramentaliter &amp; indulgentialiter ab eo qui potest conferre indulgen 
+       <lb ed="#B" n="28"/>tias. Si sacramentaliter solum: sic si opere expleatur, dupliciter relaxat: partim quia sacramentaliter inium 
+       <lb ed="#B" n="29"/>cta: partim quia poenalis est &amp; facta in gratia. Et vtroque modo non relaxat nisi secundum determinatam quam  
+       <lb ed="#B" n="30"/>titatem, &amp; non plus in vno quam in altero, aliis eisdem se habentibus in vtroque: nec plus quando est iniuncta 
+       <lb ed="#B" n="31"/>a maiore: quam quando a minore: nec plus quando a iure, quam quando ab homine. Si vero iniungatur sacra- 
+       <lb ed="#B" n="32"/>mentaliter &amp; indulgentialiter simul: sic differentia potest esse sola ex ea ratione qua opus relaxat in-  
+       <lb ed="#B" n="33"/>dulgentialiter: non autem ex ea ratione qua relaxat sacramentaliter: ita quod cum opus magis poenale inium 
+       <lb ed="#B" n="34"/>ctum sit vni sacramentaliter tantum, &amp; aliud minus poenale iniunctum sit alii sacramentaliter &amp; indulgentia- 
+       <lb ed="#B" n="35"/>liter simul ab illo qui potest per illud indulgentiam conferre: bene potest minus poenale plus de poena 
+       <lb ed="#B" n="36"/>relaxare quam magis poenale: &amp; tanto plus quanto indulgentia maior confertur: ita quod si possit &amp; velit mi 
+       <lb ed="#B" n="37"/>nister per tale opus totam poenam debitam relaxare: vere totaliter tali opere completo totum relaxatum 
+       <lb ed="#B" n="38"/>est. Vnde si intentio papae sit, &amp; hoc possit facere, quod quicumque facit poenitentias taxatas a canone pro certis 
+       <lb ed="#B" n="39"/>generibus peccatorum: aut taxatas a discreto sacerdote, sit liber ab omni poena peccatis illis debita: ve 
+       <lb ed="#B" n="40"/>re liber est. Sed non ex hoc quod opus huiusmodi sacramentale est: sed solum ex hoc quod est indulgentiale. Vnde 
+       <lb ed="#B" n="41"/>contingit verum esse quod aliqui canonistae dicunt: quod poenae a iure taxatae: vel a sacerdote discreto iniunctae 
+       <lb ed="#B" n="42"/>peractae satisfaciunt pro tota poena, quod non est verum nisi secundum iam dictam distinctionem. 
+      </p>
+      <p xml:id="n3av8a-c1e3347-d1e290">
+       AD primum 
+       <lb ed="#B" n="43"/>argumentum: quod qui peregerit poenitentiam nec purgatorium sentiet pro illis peccatis: Dicendum quod verum est si 
+       <lb ed="#B" n="44"/>indulgentialiter pro omni poena debita ab eo qui potest fuerit iniunctum. Sinautem: sed sacramentali 
+       <lb ed="#B" n="45"/>ter solum: distinguendum. aut enim sufficienter est iniuncta vt pro conditione fori ecclesiae militantis in vi 
+       <lb ed="#B" n="46"/>ta ista, respondeat poenae debitae pro foro ecclesiae militantis in purgatorio: aut non. Si sic: omnino libe- 
+       <lb ed="#B" n="47"/>rat. Si non: aut dolor &amp; contritio &amp; poenae deuotionis interioris cum poena exteriori sufficiunt secundum  
+       <lb ed="#B" n="48"/>iam dictum modum: aut non si sic: omnino liberat, si non: nequaquam: sed solum pro tanto: &amp; oportet residuum 
+       <lb ed="#B" n="49"/>soluere in purgatorio. De necessitate enim oportet totam poenam persoluere hic aut in futuro per se 
+       <lb ed="#B" n="50"/>vel per alium. Vnde pro illis qui per opus indulgentiale soluunt, Christus potius pro ipsis soluit: excuius 
+       <lb ed="#B" n="51"/>merito habentur indulgentiae: quam ille qui facit opus indulgentiale. Vnde dictum illius decreti non  
+       <lb ed="#B" n="52"/>intelligitur nisi de illo qui sufficienter hic egerit &amp; perfecte poenitentiam: quid raro de aliquo inuenitur. 
+       <lb ed="#B" n="53"/>Vnde <name ref="#Augustine">Augustinus</name> in secundo de poenitentia (unde decretum illud acceptum est) dicit sic. Baptizatus de 
+       <lb ed="#B" n="54"/>sertor &amp; violator tanti sacramenti, si agat poenitentiam ex toto corde: vbi deus videt: qui vidit in corde 
+       <!--702.xml-->
+       <pb ed="#B" n="331-r"/>
+        <lb ed="#B" n="1"/>Dauid quando increpatus a propheta exclamauit, dicens peccaui. Mox exaudiuit dominus: &amp; abs- 
+       <lb ed="#B" n="2"/>tulit peccatum. Sunt tres syllabae peccaui: sed in tribus syllabis cordis sacrificium in caelum ascen 
+       <lb ed="#B" n="3"/>dit. lgitur, vt sequitur continuo, qui egerit veraciter poenitentiam: &amp; solutus a ligamento &amp; a cor 
+       <lb ed="#B" n="4"/>pore corruptibili separatus, &amp; bene post poenitentiam vixerit sicut ante viuere debuit post reconcilia 
+       <lb ed="#B" n="5"/>tionem &amp;c. Ecce plane loquitur de illo qui perfectam poenitentiam egerit dolore &amp; contritione in  
+       <lb ed="#B" n="6"/>teriori. propter quod non valet decretum ad propositum. 
+      </p>
+      <p xml:id="n3av8a-c1e3347-d1e340">
+       AD secundum: quod maior poena debetur 
+       <lb ed="#B" n="7"/>maiori libidini, verum est vel interior, vel exterior, vel per se, vel per alium exhibita, secundum dictum 
+       <lb ed="#B" n="8"/>modum. alias vero non.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

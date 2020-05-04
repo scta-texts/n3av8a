@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 33</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 33</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2207">
+       <head xml:id="n3av8a-c1e2207-Hd1e96">Quaestio 33</head>
+       <p xml:id="n3av8a-c1e2207-d1e99">
+        <lb ed="#B" n="6"/>CIrca tertium arguitur: quod non licet deponere maleficium intentione curandi ma 
+       <lb ed="#B" n="7"/>leficiatum: quia in hoc deponens adhiberet fidem maleficio, quod non licet. 
+      </p>
+      <p xml:id="n3av8a-c1e2207-d1e106">
+       CON 
+       <lb ed="#B" n="8"/>tra, quod de genere suo non est malum, &amp; potest fieri intentione bona, licitum est. De- 
+       <lb ed="#B" n="9"/>ponere autem maleficium vt dictam tegulam de loco suo, ex genere suo non est 
+       <lb ed="#B" n="10"/>malum: &amp; sit bona intentione quando fit ad amouendum malum quod est in proxi 
+       <lb ed="#B" n="11"/>mo. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e2207-d1e117">
+       DIcendum ad hoc quod maleficia virtutem aut efficaciam non habent 
+       <lb ed="#B" n="12"/>ex natura propria: sed cuncta quae apparent fieri compositis maleficiis, immediate fiunt libera vo- 
+       <lb ed="#B" n="13"/>luntate a daemonibus, vt eis sibi homines associent, &amp; associatos decipiant a vero deo auertentes:  
+       <lb ed="#B" n="14"/>secundum quod dicit <name ref="#Augustine">Augustinus</name> loquens de talibus factis super psal. xxxviii. Exurge in adiutorium  
+       <lb ed="#B" n="15"/>mihi. Nihil maxime suggeritur humano cordi ab inuisibiliter expugnantibus inimicis: nisi quia 
+       <lb ed="#B" n="16"/>deus non est adiutor: vt requirentes aliena adiutoria inueniamur inualidi, &amp; ab inimicis ipsis ca- 
+       <lb ed="#B" n="17"/>piamur. Vt enim dicit. ii. de doctrina Christiana, quaecumque fiunt in maleficiis, sunt ex institutione  
+       <lb ed="#B" n="18"/>superstitiosa: &amp; pactione quadam daemonum. Ad quae pertinent omnia molimina artium magicarum, 
+       <lb ed="#B" n="19"/>fortilegorum, aruspicum, &amp; augurum, &amp; omnia huiusmodi: nec debet homo eis fidem aliquam adhibere: 
+       <lb ed="#B" n="20"/>quia aliquid ex se agant: sed daemones pactum seruantes ea faciunt. Quorum fiendorum ipsa ma 
+       <lb ed="#B" n="21"/>leficia signa sunt: quemadmodum a prima pactione obseruata sunt. Vnde quia perniciosum est ea fieri, ad  
+       <lb ed="#B" n="22"/>haec adiutorium ferre, aut consilium, omnino illicitum est, maxime ea facere. Quemadmodum illicitum est idolothytum 
+       <lb ed="#B" n="23"/>comedere eo quod superstitiose ab idololatris in venerationem idoli fieri solet. Licet autem perniciosum est operibus 
+       <lb ed="#B" n="24"/>superstitiosis communicare, aut facere talia qualia faciunt superstitiosi communicando operibus daemonum: 
+       <lb ed="#B" n="25"/>catholicum tamen est destruere opus superstitiosum daemonis, &amp; in hoc ei contrariari. Et sic dico quod  
+       <lb ed="#B" n="26"/>licitum est maleficium deponere simpliciter: quemadmodum licitum est idolothytum in cloacam 
+       <lb ed="#B" n="27"/>proiicere: &amp; etiam vt curetur infirmus maleficiatus: non credendo quod virtute illius maleficii morbus il 
+       <lb ed="#B" n="28"/>le contingat: hoc enim infidelitatis esset vt procedit prima obiectio: sed credendo contrarium: &amp; 
+       <lb ed="#B" n="29"/>quod fiat sola daemonum actione ex diuina permissione: qui non consueuerunt secundum pactionem suam ma 
+       <lb ed="#B" n="30"/>leficiatum vexare nisi stante illo maleficio. 
+      </p>
+      <p xml:id="n3av8a-c1e2207-d1e164">
+       PER haec patent obiecta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

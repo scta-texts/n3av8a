@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 22</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 22</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="275-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2999">
+       <head xml:id="n3av8a-c1e2999-Hd1e96">Quaestio 22</head>
+       <p xml:id="n3av8a-c1e2999-d1e99">
+        <lb ed="#B" n="11"/>CIrca Secundum arguitur, quod erroneum sit dicere quod vere poenitens &amp; confessus rite 
+       <lb ed="#B" n="12"/>absolutus ab eo qui potest, teneatur eadem peccata numero iterum confiteri: quia 
+       <lb ed="#B" n="13"/>hoc poneret sacramentum debere iterari: quid erroneum est dicere. Quamquam enim iterari po 
+       <lb ed="#B" n="14"/>terit aliquod sacramentum: non tamen est necessarium: quia hoc infirmitatem poneret 
+       <lb ed="#B" n="15"/>in sacramento. 
+      </p>
+      <p xml:id="n3av8a-c1e2999-d1e112">
+       CONtra. propositio falsa in pluribus: quae tamen vera est in aliqui-  
+       <lb ed="#B" n="16"/>bus casibus: non est simpliciter erronea indefinite accepta: quia propositio erronea 
+       <lb ed="#B" n="17"/>debet esse vsquequaque falsa. propositio in quaestione proposita est huiusmodi: quia aliqui casus sunt 
+       <lb ed="#B" n="18"/>vel possunt esse: in quibus tenetur quis iterum confiteri. ergo &amp;c. Item ex voluntate potest quis vere 
+       <lb ed="#B" n="19"/>poenitens &amp; confessus rite absolutus ab eo qui potest, eadem peccata pluries confiteri. sed quod potest ali 
+       <lb ed="#B" n="20"/>quis facere ex voluntate, in casu potest eidem praecipi: quod tunc tenetur facere ex necessitate. ergo &amp;c. Hic 
+       <lb ed="#B" n="21"/>oportet in principio considerare quae propositio in doctrina fidei proprie debet dici falsa, &amp; quae erronea, &amp; qua  
+       <lb ed="#B" n="22"/>haeretica: quia omne haereticum erroneum est: &amp; omne erroneum falsum: sed non econuerso. Falsum enim ab- 
+       <lb ed="#B" n="23"/>solute est quod aliter est in re quam exprimitur in propositione. quoniam secundum <name ref="#Aristotle">philosophum</name> ab eo quod res est vel 
+       <lb ed="#B" n="24"/>non est scilicet quemadmodum ipsa oratione exprimitur, dicitur oratio vera vel falsa. Si enim ita est vt ex- 
+       <lb ed="#B" n="25"/>primitur, vera: si non ita, est falsa. Sed non ex hoc statim dicitur erronea vel haeretica,. quia non dicitur propo 
+       <lb ed="#B" n="26"/>sitio erronea vel haeretica in doctrina fidei nisi quae falsa est circa ea quae fidei vel morum sunt: vel eis 
+       <lb ed="#B" n="27"/>propinqua vel annexa siue cohaerentia. Vnde falsa quae sunt circa talia, falsa tantum sunt &amp; non erronea 
+       <lb ed="#B" n="28"/>neque haeretica. Erroneum vero proprie est quod in doctrina fidei falsum est: non circa ea quae principaliter 
+       <lb ed="#B" n="29"/>fidei sunt: sed circa ea quae sunt eis annexa. Quorum falsitas redundare potest in ea quae sunt fidei: vt 
+       <lb ed="#B" n="30"/>ipsis positis sequantur ea quae sunt fidei contraria. Sed non ex hoc statimdi propositio proprie haeretica: quia  
+       <lb ed="#B" n="31"/>non dicitur propositio proprie haeretica: nisi quia est directe alicui eorum quae sunt fidei vel morum, con 
+       <lb ed="#B" n="32"/>traria. Quia igitur omne erroneum est falsum: considerandum est circa articulum propositae quaestionis de 
+       <lb ed="#B" n="33"/>veritate &amp; falsitate eius secundum quod indefinite, &amp; secundum quod velit accipitur, tam affirmatiuae quam negatiuae:  
+       <lb ed="#B" n="34"/>vt si simul veras esse poterimus ostendere indefinitas: luce clarius erit quod nullo modo ponere poterit 
+       <lb ed="#B" n="35"/>aliquis eas esse haereticas aut erroneas: neque vnd scilicet neque alteram. 
+      </p>
+      <p xml:id="n3av8a-c1e2999-d1e161">
+       AD cuius intellectum sciendum est: quod  
+       <lb ed="#B" n="36"/>magis generalem quaestionem mouet Raimundus in summa sua de casibus sub hac forma. Sed num- 
+       <lb ed="#B" n="37"/>quid peccata semel confessa tenemur iterum confiteri: Et respondet continuo subdens. Dicas quod non re 
+       <lb ed="#B" n="38"/>gulariter, vt habetur de poenitentia. dist. i. His auctoritatibus. in ver. Non est ita. vbi dicitur: Non est ne- 
+       <lb ed="#B" n="39"/>cesse vt quae semel sacerdoti confessi fuimus: denuo confiteamur. Est autem aduertendum quod dicit regula 
+       <lb ed="#B" n="40"/>riter: per hoc insinuans quod tamen teneamur in casibus. Regula enim vt dicunt grammatici, est generale do-  
+       <lb ed="#B" n="41"/>cumentum plura in vna similitudine continens: in aliquibus tamen deficiens. Propter quod necesse est regu 
+       <lb ed="#B" n="42"/>las generales grammaticae frequentius per plures exceptiones verificari: quemadmodum etiam frequenter 
+       <lb ed="#B" n="43"/>philosophus regulas considerationum suarum per exceptiones in Topicis verificat. Vnde Raimundus post praedicta 
+       <lb ed="#B" n="44"/>verba sua continuo subiungit dicens. Solent tamen excipi. iiii. casus in quibus tenemur iterum confiteri. qui 
+       <lb ed="#B" n="45"/>notantur in glossa supe illo verbo Denuo. Est etiam praeter illos aliquis alius: vt iam patebit. Secundum igitur 
+       <lb ed="#B" n="46"/>hunc modum respondemus de veritate &amp; falsitate propositae quaestionis. Primo dicendo quod vere poe- 
+       <lb ed="#B" n="47"/>nitens &amp; confessus &amp;c. non tenetur regulariter eadem peccata iam confessa iterum confiteri: neque scilise. 
+       <lb ed="#B" n="48"/>eidem confessori neque alteri. Potest tamen teneri in casu. Et sic neque affirmatiua indefinite accepta: neque si 
+       <lb ed="#B" n="49"/>militer negatiua vsquequaque concedenda est: neque neganda: considerando naturam rei: sed sub alia &amp; 
+       <lb ed="#B" n="50"/>alia determinatione vtraque concedenda est: &amp; negandiae. scilicet quod vere poenitens &amp; confessus &amp; c. tenetur 
+       <lb ed="#B" n="51"/>eadem peccata iterum confiteri sub determinatione scilicet in casu, &amp; quod non tenetur sub alia determinatio 
+       <lb ed="#B" n="52"/>ne scilicet regulariter. Negandum est etiam alterum illorum sub determinatione contraria: quia negandum est quod  
+       <lb ed="#B" n="53"/>teneatur regulariter, &amp; similiter negandum est quod non teneatur in casu. &amp; sic neutra istarum est vsque  
+       <lb ed="#B" n="54"/>quaque vera neque vsque quaque falsa: cum sit in casu falsa: licet regulariter etiam vera. Talis autem proposi- 
+       <!--591.xml-->
+       <pb ed="#B" n="275-v"/>
+        <lb ed="#B" n="1"/>tio non est omnimode iudicanda esse falsa: quare neque haeretica neque erronea. Propositio enim iudicanda  
+       <lb ed="#B" n="2"/>sic omnimode falsa, &amp; ex hoc erronea aut haeretica, ita debet esse falsa quod sit vsquequaque falsa &amp; vniverste. 
+       <lb ed="#B" n="3"/>De vniuersalibus autem patet quod ambae simul sunt falsae acceptae simpliciter siue vniuersaliter pro quo-  
+       <lb ed="#B" n="4"/>cumque casu: videlicet quod quilibet &amp; quod nullus vere poenitens &amp; confessus &amp;c. teneatur eadem peccata iterum 
+       <lb ed="#B" n="5"/>confiteri. Quia si istae contrariae, vlil scilicet affirmatiua, &amp; vniversalis negatiua, sunt falsae vt dictum est: patet ergo per  
+       <lb ed="#B" n="6"/>regulam contradictoriarum quod earum contradictoriae quae inter se sunt subcontrariae scilicet indefinita affir 
+       <lb ed="#B" n="7"/>matiua, &amp; indefinita negatiua, sunt simul verae. Indefinita enim vera pro vno, &amp; falsa pro alio, licet 
+       <lb ed="#B" n="8"/>sit propter falsitatem in aliquo simpliciter dicenda falsa: est tamen propter veritatem in aliquo dicenda vera. 
+       <lb ed="#B" n="9"/>quamuis neutra illarum debet concedi aut negari omnimode siue pro omni casu, vt dictum est: sed solum 
+       <lb ed="#B" n="10"/>cum determinatione. &amp; hoc quantum est ex natura rei: licet secundum vsum &amp; consuetudinem loquendi, in  
+       <lb ed="#B" n="11"/>definita vt in pluribus, &amp; regulariter vera vel falsa simpliciter &amp; absolute dicta intelligi solet: ac si 
+       <lb ed="#B" n="12"/>velit diceretur. Propter quod etiam cum tales propositiones verae vel falsae sunt vt in pluribus, &amp; regulari- 
+       <lb ed="#B" n="13"/>ter: quia de facili non percipitur veritas vel falsitas quae est in casibus, verae vel falsae simpliciter iudican 
+       <lb ed="#B" n="14"/>tur: etiam cum velite dicuntur. Et secundum hoc quia dicere quod vere poenitens &amp; confessus &amp; c. tenetur eadem pec 
+       <lb ed="#B" n="15"/>cata iam confessa iterum confiteri, est regulariter falsum, &amp; in materia fidei vel ei aniexa: ideo nuper 
+       <lb ed="#B" n="16"/>plures ex magistris nostris ad hoc satis probabiliter attendentes iudicauerunt illud erroneum. Nec tamen 
+       <lb ed="#B" n="17"/>credendum est quod per hoc intendebant excludere quin dicta propoto in aliquo casu posset habere veritatem 
+       <lb ed="#B" n="18"/>quem casum si forte actualiter percepissent: non est credendum quin illum a generali propositione exce- 
+       <lb ed="#B" n="19"/>pissent: nec sine tali exceptione ipsam ita generaliter concessissent. quia secundum doctrinam philosophi 
+       <lb ed="#B" n="20"/>versus finem. v. Ethic. id quod in materia variabilium operabilium. scilicet verificatur in pluribus, lex frequenter 
+       <lb ed="#B" n="21"/>velit dicit. In quo accidit peccatum siue defectus non excipiendo casum in quo potest habere falsitatem. Quid qui  
+       <lb ed="#B" n="22"/>dem peccatum siue defectus non contingit ex parte legislatoris vel legis: sed ex natura rei. Cum ergo  
+       <lb ed="#B" n="23"/>lex dicit aliquid velit &amp; accidit aliquid in casu praeter id quid accidit in pluribus: tunc vbi deliquit legis 
+       <lb ed="#B" n="24"/>positor &amp; peccauit simpliciter siue velite dicen scilicet sine exceptione vbi casus potuit excipi: tunc Epieices 
+       <lb ed="#B" n="25"/>i. legis directiuus siue correctiuus dirigit quod deficit, excipiende scilicet quod in lege communi est omissum: quod  
+       <lb ed="#B" n="26"/>vtique legislator sic diceret: et si sciuisset legem posuisset: &amp; vt dicit alia translatio non dimisisset. Et 
+       <lb ed="#B" n="27"/>de hoc ponit Comment. plura exempla: inter quae dicit quod lege velt praecipiente depositum reddi deponenti: &amp; 
+       <lb ed="#B" n="28"/>propter hoc puniri debere non reddentem: tamen insanienti non est reddendus gladius depositus: vel 
+       <lb ed="#B" n="29"/>furi. Vnde philosophus: inquantum legislator aut ad legem conmunem attendens: etsi concessisset hanc velm: vni 
+       <lb ed="#B" n="30"/>cuique deponenti gladius est reddendus: non attendens ad praedictum casum excipiendum: ipse tamen vt legis di  
+       <lb ed="#B" n="31"/>rectiuus, vel attendens ad naturam rei, percipiende scilicet praedictum casum excipiendum: non concessisset illam vni 
+       <lb ed="#B" n="32"/>uersalem fine exceptione illius casus: dicendo videlicet quod omni deponenti gladius est reddendus nisi 
+       <lb ed="#B" n="33"/>insanienti vel furi. Et tam diligenter docet ibi corrigere <name ref="#Aristotle">philosophus</name> propositiones vniuersales quae aliquo mo 
+       <lb ed="#B" n="34"/>do possunt falsificari: quod non solum corrigit propositiones vels quae falsae possunt esse propter aliquem ca- 
+       <lb ed="#B" n="35"/>sum excipiendum ex natura rei, vt in praedicto exemplo &amp; multis aliis: sed etiam illam propositionem vniuer- 
+       <lb ed="#B" n="36"/>salem corrigit quae ex natura rei secundum se nuilum potest habere casum in quo possit falsificari, pro- 
+       <lb ed="#B" n="37"/>pter falsitatem quam potest habere alicubi per accidens: vt patet per exempla quae ponit in fine eiusdem. v. Eth. 
+       <lb ed="#B" n="38"/>vbi dicit quod velite peius est iniustum facere quam iniustum pati. &amp; hoc secundum seipsum &amp; ex natura rei: nec habet 
+       <lb ed="#B" n="39"/>aliquem casum excipiendum. Sed secundum quod ibidem dicit, secundum accidens nihil prohibet maius malum  
+       <lb ed="#B" n="40"/>esse iniustum pati quam iniustum facere. De quo ponit Commentator ibi exemplum dicens. Passus enim aliquid ab  
+       <lb ed="#B" n="41"/>aliquo, &amp; resistens, incendit domum iniustum facientis. deinde ex aliqua fortuna vehementi vento flante 
+       <lb ed="#B" n="42"/>combusta est omnis ciuitas: &amp; factum est maius malum iniustum pati eo quod est iniustum facere. Sed hoc per accidens 
+       <lb ed="#B" n="43"/>vt dictum est. Propter quid etiam vt dicit ibi <name ref="#Aristotle">philosophus</name> de tali: quod scilicet per accidens falsificat propotnonem velt per se vera: quam  
+       <lb ed="#B" n="44"/>non habet ex natura rei aliquem casum excipiendum tamquam in quo possit falsificari: de tali inquam dicit quodnon 
+       <lb ed="#B" n="45"/>est cura art scilicet excipere ab vniversal sic secundum se vera id quid sicut per accamens potest eam falsificare. Est tamen ei cura de 
+       <lb ed="#B" n="46"/>excipiendo casum qui ex natura rei natus est falsificare propositionem, vt in pluribus veram: quam vt di 
+       <lb ed="#B" n="47"/>ctum est, lex ponit vt velit vera. Vnde <name ref="#Aristotle">philosophus</name> haec omnia attendens, propositionem vera in pluribus quae ex na 
+       <lb ed="#B" n="48"/>tura rei falsa posset esse in casu, numquam concessit: neque concessisset nisi casum illum excipiendo: &amp; quid amplius 
+       <lb ed="#B" n="49"/>est, propositionem vniuersalem &amp; secundum se vera quae nuilum casum habet ex natura rei excipiendum: si tamen 
+       <lb ed="#B" n="50"/>per aliquod accidens consequens posset vllo modo falsificari: non concessit nec concessisset nisi insinuan- 
+       <lb ed="#B" n="51"/>do illud per accidens, vt patet in exemplis praedictis. 
+      </p>
+      <p xml:id="n3av8a-c1e2999-d1e329">
+       AD videndum autem qualiter propositio in quaestione proa 
+       <lb ed="#B" n="52"/>posita casum habet ex natura rei excipiendum: propter quem potest falsificari ne vniuersaliter debeat 
+       <lb ed="#B" n="53"/>concedi: sciendum quod in aliquo differt quaerere absolute an vere poenitens &amp; confessus &amp;c. teneatur eadem 
+       <lb ed="#B" n="54"/>peccam iam confessa iterum confiteri: &amp; an teneatur illa confessa vni, iterum confiteri alteri. Differt enim hoc 
+       <!--592.xml-->
+       <pb ed="#B" n="276-r"/>
+        <lb ed="#B" n="1"/>quo ad casus a dicta propositione excipiendos: quia in casibus tenetur confiteri iterum: in quibus non 
+       <lb ed="#B" n="2"/>determinate eidem aut alteri: &amp; in casibus alteri: ita quod non eidem: vt iam patebit in casus exponen- 
+       <lb ed="#B" n="3"/>do. Vt igitur omnes sinus dictae quaestionis discutiamus: &amp; quomodo differenti de causa in quatuor  
+       <lb ed="#B" n="4"/>casibus praetactis semel confessa iterum sint confitenda: &amp; inueniamus an praeter illos quatuor sit 
+       <lb ed="#B" n="5"/>aliquis alius: sciendum quod volentem hoc inuestigare oportet inspicere ad aliquid ex parte ipsius sacra 
+       <lb ed="#B" n="6"/>menti poenitentiae &amp; confessionis, &amp; ad aliquid ex parte ipsius confessoris, &amp; ad aliquid ex parte ipsius 
+       <lb ed="#B" n="7"/>confitentis. Si ergo inspiciamus ad aliquid ex parte sacramenti poenitentiae: hoc est ad actum sacramen- 
+       <lb ed="#B" n="8"/>talem confitendi peccata, &amp; audiendi confessiones, &amp; absoluendi ab eisdem, atque iniungendi salutares poe 
+       <lb ed="#B" n="9"/>nitentias pro eisdem, secundum quod in priuilegio domini Martini fratribus minoribus &amp; praedicatoribus est 
+       <lb ed="#B" n="10"/>concessum: Dicendum simpliciter &amp; absolute quod vere poenitens &amp; confessus &amp;c. non tenetur regulari 
+       <lb ed="#B" n="11"/>ter eadem peccata iam confessa iterum confiteri siue eidem siue alteri: quia hoc necessario poneret de-  
+       <lb ed="#B" n="12"/>fectum &amp; debilitatem efficaciae in sacramento poenitentiae, non enim ex ratione sacramenti poenitentiae 
+       <lb ed="#B" n="13"/>aut actus aut actuum sacramentalium in ipso, teneretur aliquis semel confessa denuo confiteri 
+       <lb ed="#B" n="14"/>nisi quia principalem effectum suum de quo habitus est sermo in quaestione praecedenti, non posset agere 
+       <lb ed="#B" n="15"/>sacramentum postquam semel esset adhibitum, nisi iteraretur: quia simpliciter &amp; absolute non egeret sa 
+       <lb ed="#B" n="16"/>cramento poenitentiae quo ad actus praedictos principales circa peccata iam confessa: a quibus est rite 
+       <lb ed="#B" n="17"/>absolutus ab eo qui potest, nec vllo modo tenetur eadem iterato confiteri: nec absolui ab eis: quia es 
+       <lb ed="#B" n="18"/>fectus principales iam adeptus est. &amp; propter illos nullo modo est sacramentum iterandum: vt habitum  
+       <lb ed="#B" n="19"/>est ex praecedenti quaestione. Nec similiter quo ad effectus secundarios necesse est ipsum iterari: quia sine 
+       <lb ed="#B" n="20"/>eius iteratione posset saluari, &amp; adipisci per gratiam &amp; actionem liberi arbitrii quae sacramentum ite- 
+       <lb ed="#B" n="21"/>ratum conferret: vt patuit ibidem: dum tamen non committat noua, pro quibus oporteat eum denuo 
+       <lb ed="#B" n="22"/>confiteri. Et secundum hunc modum libenter concessissemus fratribus dictam propositionem fore erroneam 
+       <lb ed="#B" n="23"/>scilicet adiecta illa conditione quantum est ex virtute sacramenti poenitentiae, quae licet quantum est ex 
+       <lb ed="#B" n="24"/>parte sacramenti poenitentiae simpliciter iudicanda sit erronea: quantum tamen est ex aliquo casu iam ex- 
+       <lb ed="#B" n="25"/>ponendo: non debet iudicari falsa esse neque erronea. Ex parte autem confessoris duo sunt ad quae debe- 
+       <lb ed="#B" n="26"/>mus aspicere: ad videndum vtrum propositio generalius accepuia. scilicet sub hac forma, vtrum peccata confessa te 
+       <lb ed="#B" n="27"/>neatur quis iterum confiteri, possit esse vera. Quorum primum est eius potestas ad sacramentaliter 
+       <lb ed="#B" n="28"/>audiendum confessiones: absoluendum, &amp; satisfactiones iniungendum. Secundum vero est eius industria ad  
+       <lb ed="#B" n="29"/>discernendum peccatorum confessorum magnitudinem: potentiae suae ad absoluendum amplitudinem: satisfactio 
+       <lb ed="#B" n="30"/>nis iniungendae mensuram, &amp; cetera huiusmodi. Si quidem aspiciamus ad confessoris industriam: sic est primus 
+       <lb ed="#B" n="31"/>casus: qui etiam est primus in glossa praedicta: qui est ex parte confessoris: in quo confessus vni, tenetur 
+       <lb ed="#B" n="32"/>aliquando eadem peccata confiteri alteri discretiorim scilicet propter sacerdotis primi imperitiam. Vnde dicit 
+       <lb ed="#B" n="33"/>Glos. super dicto verbo Denuo. Si sacerdos meus imperitus sit, teneor confessionem sibi factam alteri 
+       <lb ed="#B" n="34"/>discretiori propalare. De quo dicit <name ref="#Augustine">Augustinus</name> in libro de poenitentia. &amp; habetur depoenitem. dist id est in cap. Quem 
+       <lb ed="#B" n="35"/>poenitet. Qui confiteri vult peccatam vt inueniat gratiam: quaerat sacerdotem scientem ligare &amp; soluere. Et Vrbanus 
+       <lb ed="#B" n="36"/>papa de poeni. dist. vi. in cap. Placuit. dicit sic. Nulli sacerdotum liceat quemlibet commissum alteri ad poeni 
+       <lb ed="#B" n="37"/>tentiam suscipere fine eius consensu cui se commisit: nisi propter ignorantiam illius cui poenitens confessus est. 
+       <lb ed="#B" n="38"/>Si vero aspiciamus ad confessoris potestatem, tenendum est, quod quantum est ex parte confessoris, semel 
+       <lb ed="#B" n="39"/>confessus ei &amp; rite absolutus non tenetur eadem peccatam iterum confiteri aut illi aut alteri. dum tamen confessor ha-  
+       <lb ed="#B" n="40"/>bet potentiam audiendi confessiones, absoluendi, &amp; satisfactiones iniungendi: siue illam habuerit de iure 
+       <lb ed="#B" n="41"/>communi: &amp; ex iurisdictione ordinaria vt praelati: siue ex concessione priuilegii &amp; ex delegatione: vt reli 
+       <lb ed="#B" n="42"/>giosi. Si vero confessor non habet potestatem absoluendi illa quae sunt confessa: &amp; hoc vel quia nullam omnino 
+       <lb ed="#B" n="43"/>habet, quo ad executionem dico: vt quicumque simplices sacerdotes qui a nullo peccato omnino possunt 
+       <lb ed="#B" n="44"/>sacramentaliter absoluere nisi in extrema necessitate: vel quia habet potestatem quo ad aliquos casus:  
+       <lb ed="#B" n="45"/>&amp; quo ad alios non nisi in extremis: quando etiam nullam habens aliam potestatem absoluendi potest in extre 
+       <lb ed="#B" n="46"/>ma necessitate absoluere poenitentem: ab omni etiam excommunicatione: et in casibus reseruatis summo 
+       <lb ed="#B" n="47"/>pontifici: Dico quod qui tali confessus fuerit extra extremam necessitatem peccata de quibus non habet po 
+       <lb ed="#B" n="48"/>testatem absoluendi nisi in extrema necessitate: illa tenetur alteri confiteri: qui habet simpliciter pote- 
+       <lb ed="#B" n="49"/>statem absoluendi de illis. Et est secundus casus ex parte confessoris: quem glossa praedicta ponit pro tertio ca- 
+       <lb ed="#B" n="50"/>su: &amp; tangit eum in parte scilicet quo ad casus qui pertinent ad superiores, dicens: quod pro enormitate delicti sacer- 
+       <lb ed="#B" n="51"/>dos audito crimine remittit confessum ad superiorem, vt iterum sibi crimine exposito poenitentiam in  
+       <lb ed="#B" n="52"/>iungat. Qui vero confessus fuerit in extrema necessitate &amp; absolutus de talibus a quibus presby 
+       <lb ed="#B" n="53"/>ter alio tempore non habuit potestatem absoluendi: in hoc casu dicunt aliqui quod confessor debet insinuare 
+       <lb ed="#B" n="54"/>poenitenti poenitentiam debitam: licet non iniungere: &amp; quod si conualescat debet illam sibi insinuatam, vt 
+       <!--593.xml-->
+       <pb ed="#B" n="276-v"/>
+        <lb ed="#B" n="1"/>debitam satisfactionem implere: &amp; ad illum accedere qui habet potestatem ordinariam absoluendi 
+       <lb ed="#B" n="2"/>ab illis quae confessus est, &amp; absolutus ab eisdem: non ad iterum confitendum, nec ad satisfactionem 
+       <lb ed="#B" n="3"/>ab eodem assumendam: sed ad se manifestandum, &amp; dicendum illi quod confessus est, &amp; in extremis ab  
+       <lb ed="#B" n="4"/>solutus a peccatis: quorum absolutio pertinebat ad ipsum. Alii vero dicunt contrarium: scilicet 
+       <lb ed="#B" n="5"/>quod debet adire superiorem, &amp; illi confiteri singula, &amp; satisfactionem recipere: quibus magis adhaereo 
+       <lb ed="#B" n="6"/>Et secundum hoc iste casus reducitur ad secundum. Ex parte autem confitentis duo sunt consideram 
+       <lb ed="#B" n="7"/>da: ad quae debemus aspicere an sit poenitens vere, an non. Et si sit poenitens, an sit subditus ei cui com 
+       <lb ed="#B" n="8"/>fitetur: an non. Si non sit poenitens de aliquo mortali: tunc fictus confitetur, nec absoluitur: &amp; tene 
+       <lb ed="#B" n="9"/>tur eadem interum confiteri alteri vel eidem: maxime si obliuiscatur iam confessor. Et est tertius ca 
+       <lb ed="#B" n="10"/>sus quem glos. appellat diminutionem confessionis, vel ad illum reducitur, &amp; est primus ex parte 
+       <lb ed="#B" n="11"/>confitentis. quem Glos. illa dicit esse quartum. Postquam autem sit vere poenitens: si non est subditus 
+       <lb ed="#B" n="12"/>ei cui confitetur siue de iure conmuni, siue de iure priuilegii: debet eadem peccata confiteri illi cuius 
+       <lb ed="#B" n="13"/>est subditus: &amp; hoc quia non potuit ab illo absolui: eo quod non erat competens materia ad absolutio- 
+       <lb ed="#B" n="14"/>nem: in se ab illo recipiendum. Et reducitur casus iste ad secundum praedictum. Si vero confitens fa 
+       <lb ed="#B" n="15"/>ctus sit subditus confessori: aut ergo est aliquid circa ipsum impediens ne absoluatur: aut non. Si sic: 
+       <lb ed="#B" n="16"/>hoc non est nisi quia diminute confessus est: reseruans ex industria aliquod peccatum mortale quod in  
+       <lb ed="#B" n="17"/>ipso posuit obiicem ne posset absolui ab aliquo: secundum quod infra videbitur in quadam quaestione. Et 
+       <lb ed="#B" n="18"/>reducitur casus iste ad tertium praedictum, vel est principaliter ille. Si vero non sit circa confiten 
+       <lb ed="#B" n="19"/>tem impedimentum quin per praeuiam confessionem absoluatur perfecte: aut id propter quod iterato com- 
+       <lb ed="#B" n="20"/>fitendum est, contingit ex aliqua obligatione circa ipsum confitentem, vel ex defectu satisfactionis. 
+       <lb ed="#B" n="21"/>Si secundo modo: aut ergo est ex parte satisfactionis non iniunctae: aut iniunctae: sed per necessarium 
+       <lb ed="#B" n="22"/>aut legitimum impedimentum, aut per negligentiam, aut incuriam, aut contemptum oblitae. Si pri- 
+       <lb ed="#B" n="23"/>mo modo, sic est quartus modus: qui reducitur ad illum quem glossa dicit secundum: &amp; appellat eum 
+       <lb ed="#B" n="24"/>pro contemptu satisfactionis: &amp; est secundus ex parte confitentis. Et in isto casu confesso in articulo 
+       <lb ed="#B" n="25"/>mortis poenitentia non est iniuncta: quia nec iniungi debet sed indicari tantum. Confessio autem in sa- 
+       <lb ed="#B" n="26"/>na vita non est aliquando iniuncta propter aliquod impedimentum completa confessione superue 
+       <lb ed="#B" n="27"/>niens aut confitenti aut confessori. Sed de primo istorum casuum sunt duae opiniones: an scilicet con 
+       <lb ed="#B" n="28"/>fessa iterum sunt confitenda alteri, an non. Sed de secundo nulla est dubitatio quin confessa iterum sunt 
+       <lb ed="#B" n="29"/>confitenda alteri vel eidem: nisi ille peccatorum quae sibi confessa sunt recordetur. aliter enim nesci 
+       <lb ed="#B" n="30"/>ret poenitentiam competentem illi iniungere. Et sic est quasi idem casus quem dicta glossa appellat 
+       <lb ed="#B" n="31"/>pro contemptu satisfactionis: qui melius appellaretur ex defectu satisfactionis: quia in illo cui poe- 
+       <lb ed="#B" n="32"/>nitentia iniuncta non fuit: non est satisfactionis contemptus: neque in quibusuis aliis: &amp; iterum confi- 
+       <lb ed="#B" n="33"/>tendum est eodem modo &amp; eadem ratione qua in casu iam tacto. Si vero iterato confitendum est iam 
+       <lb ed="#B" n="34"/>confessa propter obligationem circa ipsum confitentis: sic est quintus casus alius a praedictis qua  
+       <lb ed="#B" n="35"/>tuor, continens tria membra. Quia talis obligatio aut est facta circa ipsum confitentem a praela- 
+       <lb ed="#B" n="36"/>to superiori per statutum vel praeceptum ad alicui determinate confitendum: vt ab ipso confitente 
+       <lb ed="#B" n="37"/>circa seipsum: &amp; ex voto proprio ad eadem peccata pluries confitendum. Et hoc dupliciter: quia aut 
+       <lb ed="#B" n="38"/>huiusmodi obligatio praecedit primam confessionem: puta si aliquis voluntarie deo voueat quod ali 
+       <lb ed="#B" n="39"/>qua peccata commissa ab ipso pluries confitebitur, talis cum primo confitetur illa, &amp; ab eis rite 
+       <lb ed="#B" n="40"/>absoluitur: nihilominus manet obligatus ad eadem iterum confitendum. Aut huiusmodi obliga-  
+       <lb ed="#B" n="41"/>tio sequitur primam confessionem: puta si aliquis ex deuotione postquam semel integraliter est con- 
+       <lb ed="#B" n="42"/>fessus aliqua peccata, &amp; ab eis rite absolutus, voueat deo quod ad honorem suum eadem iterum confi- 
+       <lb ed="#B" n="43"/>tebitur: vel si hoc videns expedire confessor: ipsi poenitenti loco poenitentiae iniungat vt eadem pec 
+       <lb ed="#B" n="44"/>cata iterum confiteatur: &amp; ipse confitens voluntarie hoc accipiat: constat quod talis non obstante quod  
+       <lb ed="#B" n="45"/>est vere poenitens &amp; confessus &amp; rite absolutus, nihilominus tenetur iam confessa iterum confite- 
+       <lb ed="#B" n="46"/>ri. Propter primum autem membrum proposita est principaliter ista quaestio: puta si episcopus meus 
+       <lb ed="#B" n="47"/>dicat mihi, Henrice propter deuotionem quam populus meae dicecesis habet erga te, &amp; fructum quem 
+       <lb ed="#B" n="48"/>potest acquirere confitendo tibi. concedimus tibi plenam auctoritate nostra potestatem confessio- 
+       <lb ed="#B" n="49"/>nem ipsius audiendi, absoluendi confitentes, atque iniungendi eis poenitentias salutares. Volumus 
+       <lb ed="#B" n="50"/>tamen quod hi qui tibi confitebuntur suis parrochialibus presbyteris confiteri saltem semel in anno  
+       <lb ed="#B" n="51"/>eadem peccata quaecunque tibi confessi fuerint, tenebuntur: quodque tu eos ad hoc diligenter &amp; efficaci- 
+       <lb ed="#B" n="52"/>ter exhorteris. In quo casu dico quod confitens in mihi confitendo, postquam illa obligatio ei innotuerit, 
+       <lb ed="#B" n="53"/>debet habere propositum iterum confitendi eadem peccata suo sacerdoti. quia si non haberet hu- 
+       <lb ed="#B" n="54"/>iusmodi propositum sed potius contrarium eius: ipse sibi poneret obiicem inobedientiae in vo- 
+       <!--594.xml-->
+       <pb ed="#B" n="277-r"/>
+        <lb ed="#B" n="1"/>luntate, quae esset mortale peccatum: quid impediret ne ab aliquo peccato posset absolui. Et reduci 
+       <lb ed="#B" n="2"/>debet iste casus in hoc membro ad illum casum cum quis impoenitens est. Si vero firmum teneat 
+       <lb ed="#B" n="3"/>huiusmodi propositum, perfecte a me absoluitur &amp; rite: quia iniuncta sibi a me salutari satisfactione  
+       <lb ed="#B" n="4"/>complete administratum est circa ipsum sacramentum poenitentiae. Non sic in casibus praedictis: in  
+       <lb ed="#B" n="5"/>quibus etiam qui est vere poenitens &amp; confessus: quia circa ipsum non est complete ministratum  
+       <lb ed="#B" n="6"/>poenitentiae sacramentum: aut quia non est absolutus: aut licet sit absolutus, tamen non est poeniten 
+       <lb ed="#B" n="7"/>tia ei iniuncta: aut non discrete: ideo licet sit absolutus: quia tamen fine iniunctione satisfactionis salu- 
+       <lb ed="#B" n="8"/>tari: &amp; sic non est perfecte adeptus sacramentum poenitentiae: ideo quo ad hoc potest dici non rite ab- 
+       <lb ed="#B" n="9"/>solutus. Si vero ille qui est confessus mihi cum proposito confitendi eadem suo proprio sacerdoti, post 
+       <lb ed="#B" n="10"/>modum a tali proposito resiliret: nec ad proprium sacerdotem reuerteretur confitendo eadem peccata quae 
+       <lb ed="#B" n="11"/>mihi confessus est: incurreret peccatum inobedientiae: quid omnibus quae prius confessus est praeponderaret  
+       <lb ed="#B" n="12"/>quodammodo propter ingratitudinem: a quo nullo modo posset absolui nisi resumpto proposito hoc &amp; 
+       <lb ed="#B" n="13"/>alia prius confessa confitendi suo proprio sacerdoti. Et reducitur hoc membrum ad illum casum in quo  
+       <lb ed="#B" n="14"/>aliquis negligit satisfactionem. Et quid adhuc amplius est, dico quod si in dicta commissione mihi facta dictam 
+       <lb ed="#B" n="15"/>obligationem circa mihi confitentes episcopus meus intenderet, &amp; eam sub tali forma verborum mihi 
+       <lb ed="#B" n="16"/>proponeret: quae eam possent praetendere: licet non omnino expresse: perinde mihi esset ac si eam mihi 
+       <lb ed="#B" n="17"/>expressisset: quia secundum formam verborum in tali commissione mihi facta teneor circa modum execu- 
+       <lb ed="#B" n="18"/>tionis meam scientiam &amp; conscientiam informare. Sed diceret aliquis: Si tibi commissionem proponeret 
+       <lb ed="#B" n="19"/>sub hac forma verborum: volumus quod ii qui tibi confitebuntur, suis parrochialibus presbyteris 
+       <lb ed="#B" n="20"/>confiteri saltem semel in anno prout statuit generale concilium nihilominus teneantur: tenebi- 
+       <lb ed="#B" n="21"/>tur ne tibi confessus eadem peccata iterum confiteri suo presbytero parrochiali: Dico quod de hoc est 
+       <lb ed="#B" n="22"/>propria sequens quaestio de priuilegio nouo fratribus praedicatorum &amp; minorum concesso: qui il- 
+       <lb ed="#B" n="23"/>lud priuilegium suum sic nituntur exponere: vt confessi eis, virtute illius priuilegii non teneantur 
+       <lb ed="#B" n="24"/>peccata eis confessa propriis parrochialibus presbyteris iterum confiteri: quasi priuilegium illud in  
+       <lb ed="#B" n="25"/>hoc derogaret iuri communi presbyterorum parochialium expresso in illo statuto concilii gene- 
+       <lb ed="#B" n="26"/>ralis. extra de poe. &amp; re. Omnis vtriusque sexus. &amp; ad illius probationem valeret quaesitum in ista quae-  
+       <lb ed="#B" n="27"/>stione, si simpliciter &amp; absolute atque vniuersaliter concederetur: videlicet quod vere poenitens &amp; confes- 
+       <lb ed="#B" n="28"/>sus rite absolutus ab eo qui potest, non tenetur eadem peccata alteri confiteri: &amp; quod erroneum sit di 
+       <lb ed="#B" n="29"/>cere quod teneatur eadem alteri confiteri. Si enim simpliciter hoc &amp; absolute concederetur, reuera 
+       <lb ed="#B" n="30"/>fratres propositum suum haberent conclusum: quia hanc propositionem faciendo maiorem, &amp; assu- 
+       <lb ed="#B" n="31"/>mendo ex suo priuilegio minorem, arguere possent sic. Vere poenitens &amp; confessus rite absolutus 
+       <lb ed="#B" n="32"/>ab eo qui potest: non tenetur eadem peccata iam confessa alteri confiteri: immo dicere quod teneatur 
+       <lb ed="#B" n="33"/>erroneum est. Sed qui fratri confitetur vere poenitens est &amp; confessus: quod supponendum: &amp; est rite ab  
+       <lb ed="#B" n="34"/>solutus: quia vt dictum est, sacramentum poenitentiae plene &amp; perfecte est administratum. est etiam 
+       <lb ed="#B" n="35"/>absolutus ab eo qui potest: quia fratres hoc expresse habent ex suo priuilegio. ergo qui fratri confite- 
+       <lb ed="#B" n="36"/>tur non tenetur eadem peccata iam ipsi confessa alteri confiteri: immo dicere quod teneatur, est erro- 
+       <lb ed="#B" n="37"/>neum: et si non alteri: quare nec proprio sacerdoti: quid erat principale intentum: quia hoc erat in  
+       <lb ed="#B" n="38"/>priuilegio magis dubium propter illam clausulam. Volumus autem &amp;c. &amp; magis videbatur re- 
+       <lb ed="#B" n="39"/>stringere priuilegium &amp; eius virtutem. Reuera si maior simpliciter concederetur: haberent vt di 
+       <lb ed="#B" n="40"/>ctum est intentum conclusum: quia minor non posset calumniari, nam per verba in themate quae-  
+       <lb ed="#B" n="41"/>stionis posita excluduntur quo ad plures modos eorum, quatuor casus tacti in glossa supradicta: ita 
+       <lb ed="#B" n="42"/>quod nec per minorem possunt intelligi, siue sub maiori. Quintus vero casus modo praedicto distinctus per tria 
+       <lb ed="#B" n="43"/>membra contra alios quatuor: &amp; etiam forte aliquis contentus sub aliquo illorum quatuor, vt iam dicetur, includitur 
+       <lb ed="#B" n="44"/>sub maiori: &amp; explicatus per minorem, veritatem habet: quia non est impedimentum ex parte confitentis, cum suppo- 
+       <lb ed="#B" n="45"/>nitur vere poenitens, &amp; maxime quando est satisfactionem non negligens: nec ex parte confessoris: cum auctori- 
+       <lb ed="#B" n="46"/>tatem siue potestatem, &amp; etiam discretionem habere supponatur. Quare si maior supponatur simpliciter esse ve 
+       <lb ed="#B" n="47"/>ra: &amp; minor simpliciter est vera: sequatur conclusio vera. Nec possunt vllo modo falsificare minorem: maxime in  
+       <lb ed="#B" n="48"/>vltio casu qui continet tria membra praedicta. Nihil est enim omnino quid impediat quin confessus &amp; poenitens sit rite 
+       <lb ed="#B" n="49"/>absolutus: licet sit obligatus ad iterum confitendum: si tamen confessor simpliciter &amp; absolute ipsum possit absoluere. 
+       <lb ed="#B" n="50"/>Propter quod maiorem concedendo simpliciter, &amp; accipiendo eam in illo casu simul cum minore: necesse habent conce 
+       <lb ed="#B" n="51"/>dere conclusionem. Non video igitur quod minor possit habere calumniam: quia. scilicet fratres quantum est ex se 
+       <lb ed="#B" n="52"/>rite simpliciter &amp; absolute possunt omnes vere poenitentes, &amp; confessos, &amp; voluntarie ad ipsos acce- 
+       <lb ed="#B" n="53"/>dentes absoluere, quamquam maxime in vltimo casu praenotato teneantur confessi fratribus &amp; rite absoluti 
+       <lb ed="#B" n="54"/>ab eis, proprio sacerdoti eadem peccata iterum confiteri: secundum modum quem determinabimus 
+       <!--595.xml-->
+       <pb ed="#B" n="277-v"/>
+        <lb ed="#B" n="1"/>in sequenti quaestione. 
+      </p>
+      <p xml:id="n3av8a-c1e2999-d1e713">
+       QVT ergo vult obuiare vltimae &amp; principali quaestioni in isto casu: spe 
+       <lb ed="#B" n="2"/>cialiter necesse habet resistere primo maiori principalis syllogismi de qua est ista quaestio: aut scili 
+       <lb ed="#B" n="3"/>cet ipsam negando: aut non concedendo nisi cum determinatione: scilicet huiusmodi casum vltimum aut 
+       <lb ed="#B" n="4"/>quencumque alium, si aliquis occurrat, excipiendo. &amp; etiam necesse habet resistere medio per quod proba- 
+       <lb ed="#B" n="5"/>tur: de quo est quaestio praecedens. &amp; hoc secundum modum iam expositum in istis duabus quaestio- 
+       <lb ed="#B" n="6"/>nibus. 
+      </p>
+      <p xml:id="n3av8a-c1e2999-d1e726">
+       BREuiter igitur dico: quod neque falsum neque erroneum est dicere quod vere poenitens &amp;c. tenea 
+       <lb ed="#B" n="7"/>tur eadem peccata iterum confiteri. Indefinita enim ista in casu aut in casibus habet veritatem. pro 
+       <lb ed="#B" n="8"/>pter quod vniuersalis ei contradictoria necessario habet falsitatem: vt patet ex supra determinatis. Ha 
+       <lb ed="#B" n="9"/>bet autem praecipue veritatem in dicto quinto casu: &amp; etiam in casu quo aliquis oblitus est poe- 
+       <lb ed="#B" n="10"/>nitentiae sibi iniunctae propter causam necessariam: scilicet alicuius infirmitatis aut alicuius legiti 
+       <lb ed="#B" n="11"/>mae sollicitudinis: propter quid aut in toto aut in parte excusabitur de obliuione. lste enim vere poe- 
+       <lb ed="#B" n="12"/>nitens absolutus fuit ab eo qui potuit &amp; rite absolutus: quia vere &amp; perfecte sacramentum poeni- 
+       <lb ed="#B" n="13"/>tentiae circa ipsum est administratum: &amp; etiam forte in aliis casibus: in quibus scilicet oblitus est 
+       <lb ed="#B" n="14"/>satisfactionis siue poenitentiae sibi iniunctae, aut per negligentiam, aut per incuriam, aut per con- 
+       <lb ed="#B" n="15"/>temptum. Vera enim dicitur poenitentia quae aliquando vera fuit: et si postmodum cadat ab ipsa 
+       <lb ed="#B" n="16"/>in peccatum recidiuando: licet contrarium videtur Gratianus sensisse. Etsi enim non possit dici 
+       <lb ed="#B" n="17"/>omnino perfecta quia deficit satisfactio: non tamen propter hoc dicitur absolutio non rite facta 
+       <lb ed="#B" n="18"/>postquam satisfactio sit iniuncta: &amp; cum proposito implendi eam suscepta, quo ad hoc enim est perfe- 
+       <lb ed="#B" n="19"/>cta secundum omnes partes eius. Et sic in istis casibus minor est vera simpliciter: quia non exclu- 
+       <lb ed="#B" n="20"/>duntur in maiori per aliquid positum in ea: quia nec per hoc quod est vere poenitens: pro hora enim ab  
+       <lb ed="#B" n="21"/>solutionis talis poenituit vere: nec per hoc quod est rite absolutus, vt dictum est: nec ab eo quod est absolutus 
+       <lb ed="#B" n="22"/>ab eo qui potest. Propter quid maior in quaestione proposita in istis casibus simul vel aliquibus vel ali 
+       <lb ed="#B" n="23"/>quo ex eis vel ex aliis consimilibus eis si contingerent, neganda est simpliciter. Si vero dicta maior 
+       <lb ed="#B" n="24"/>adhuc amplius specificetur in hunc modum: quod scilicet confessus non obliuiscatur satisfactionis in  
+       <lb ed="#B" n="25"/>iunctae: nec negligat eam implere: licet per huiusmodi specificationem alii casus excluderentur: non 
+       <lb ed="#B" n="26"/>tamen dictus casus quintus quo ad eius tria membra praedicta: immo pro ipso falsa maneret, &amp; ne 
+       <lb ed="#B" n="27"/>ganda esset. 
+      </p>
+      <p xml:id="n3av8a-c1e2999-d1e774">
+       AD primum ergo adductum in hac quaestione in contrarium: quod dicere quod tenetur 
+       <lb ed="#B" n="28"/>iterum confiteri, ponit sacramentum debere iterari: bene verum est. Et quod assumitur: quod hoc est 
+       <lb ed="#B" n="29"/>erroneum: dicendum secundum determinata in quaestione praecedente, quod non est verum de sacramento 
+       <lb ed="#B" n="30"/>poenitentiae: nisi quo ad eius effectus principales. Quo autem ad eius effectus secundarios regu- 
+       <lb ed="#B" n="31"/>lariter potest iterari pro voluntate confitentis: non autem ex necessitate nisi in casu obligationis 
+       <lb ed="#B" n="32"/>factae circa confitentem, vt dictum est: vel forte in alio non adhuc excogitato, si aliquis contingere po 
+       <lb ed="#B" n="33"/>test. 
+      </p>
+      <p xml:id="n3av8a-c1e2999-d1e790">
+       ARQVmentum ergo primum in oppositum concedendum est secundum praedetermi-  
+       <lb ed="#B" n="34"/>nata. Sed argumentum secundum propter conclusionem potest concedi: dubia est tamen minor: sed  
+       <lb ed="#B" n="35"/>de illa erit sermo in quaestione sequente.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

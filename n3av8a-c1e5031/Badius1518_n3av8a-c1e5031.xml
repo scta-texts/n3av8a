@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 29</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 29</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="509-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e5031">
+       <head xml:id="n3av8a-c1e5031-Hd1e96">Quaestio 29</head>
+       <p xml:id="n3av8a-c1e5031-d1e99">
+        <lb ed="#B" n="5"/>CIrca. vii. aliqui contra minores praelatos arguunt sic. Status perfectionis duo importat 
+       <lb ed="#B" n="6"/>&amp; rationem status &amp; rationem persectionis. nunc praesbyteri curati non sunt in statu, eo 
+       <lb ed="#B" n="7"/>quod ratio status immobilitatem importat &amp; obligationem operis quid ad statum pertinet 
+       <lb ed="#B" n="8"/>per quam ipsa opera sunt opera perfectionis. nunc autem presbyteri curati talem immobili 
+       <lb ed="#B" n="9"/>tatem per obligationem non habent: quia libere possunt curam suam deserere intrando re- 
+       <lb ed="#B" n="10"/>ligionem: &amp; hoc absque licentia alicuius superioris. quare nec sunt in statu perfectio- 
+       <lb ed="#B" n="11"/>nis. Ex eodem medio arguunt quod nec sunt in statu superiori quam religiosi: esto quod sint 
+       <lb ed="#B" n="12"/>in statu perfectionis: quia facilius indulgetur transitus a statu inferiori ad superiorem ascendendo quam econuer 
+       <lb ed="#B" n="13"/>so, vt in dicta litera Nisi cum pridem, quare cum iura omnino indulgeant presbyteris curatis transitum ad re- 
+       <lb ed="#B" n="14"/>ligionem non autem econuerso. ergo &amp;c. Idem probant per canones, nam dicitur. xix. quod i. Clerici qui mona 
+       <lb ed="#B" n="15"/>chorum propositum appetunt: quia meliorem vitam sequi cupiunt, liberum eis ab episcopo oportet largiri ingres 
+       <lb ed="#B" n="16"/>sum. vbi dicit Glos. Haec est causa sufficiens: quia de minori ad maius transeundum est. xciiii. dist. Legimus. 
+       <lb ed="#B" n="17"/>Sub clericis autem ibi comprehenduntur presbyteri curati: quia de istis clericis dicitur in caplo sequenti. Duae 
+       <lb ed="#B" n="18"/>sunt leges, quidam priuata lege ducuntur quae dignior: &amp; ideo non possunt prohiberi a transitu per legen pu 
+       <lb ed="#B" n="19"/>blicam. &amp; dicit ibi glos. quod ex hoc excipitur episcopus qui non potest transire ad religionem inuito papa: sed praesby 
+       <lb ed="#B" n="20"/>ter non excipitur: ergo includitur. Deinde arguunt generaliter contra quoscumque praelatos quod non sunt in statu 
+       <lb ed="#B" n="21"/>perfectionis, sic. ille status qui compatitur secum id quid est simpliciter imperfectionis, &amp; de cuius conditione non est 
+       <lb ed="#B" n="22"/>agere opera quae sunt perfectionis simpliciter, non est status perfectionis: sicut ille status non est status virtutis qui compati 
+       <lb ed="#B" n="23"/>tur secum opera vitiorum &amp; de cuius conditione non est agere opera virtutis. status autem praelatorum est huiusmodi.  
+       <lb ed="#B" n="24"/>nam habere propria &amp; vxorem, imperfectionis est: &amp; simimiliter exercitia operum circa illa sunt opera imperfectionis: et 
+       <lb ed="#B" n="25"/>tamen ista compatitur secum status praelatorum, vt quo ad propria patet in omnibus praelatis: quo ad vxores in praelatis 
+       <lb ed="#B" n="26"/>orientalis ecculsiae modo: &amp; in omnibus ante ordinationem ecclesiae super statum continentiae existentium in sacris. 
+       <lb ed="#B" n="27"/>Similiter quod opera sint perfectionis hoc faciunt professio &amp; votum sub quibus fiunt. Item non: est status perfectionis 
+       <lb ed="#B" n="28"/>nisi ex voto: quia qui non est in statu perfectionis statum suum non mutat opera perfecta faciendo nisi illa facere 
+       <lb ed="#B" n="29"/>voueat, quae vouendo libertatem amittit propriam: &amp; diuino seruitio mancipatur. Vnde virginitatis obserua- 
+       <lb ed="#B" n="30"/>tio licet sit opus perfectionis: ipsa tamen seruata absque voto statum perfectionis non habet. dicit enim <name ref="#Augustine">Augustinus</name> libro de 
+       <lb ed="#B" n="31"/>virginitate. Neque ipsa virginitas quia virginitas est, sed quia deo dicata est: honoratur: quae licet in carne ser- 
+       <lb ed="#B" n="32"/>uetur: spiritus tamen religione ac deuotione seruatur. Ac per hoc spiritalis est etiam virginitas corporis: quam vo 
+       <lb ed="#B" n="33"/>uet &amp; seruat continentia, qua integritas carnis ipsi creatori carnis &amp; animae vouetur consecratur &amp; seruatur. 
+       <lb ed="#B" n="34"/>Vlterius arguunt quod etsi status praelatorum est status perfectionis: status tamen religiosorum est maioris perfectio 
+       <lb ed="#B" n="35"/>nis. Primo per medium iam dictum sic. ille status est maioris perfectionis qui minus compatitur quod est imperfectionis 
+       <lb ed="#B" n="36"/>secum, &amp; cuius opera sunt perfectiora: status religiosorum est huiusmodi respectu status praelatorum: quia ille compa 
+       <lb ed="#B" n="37"/>titur secum, propria &amp; vxores quae sunt imperfectionis: &amp; opera bona illorum non sunt facta ex voto &amp; professione  
+       <lb ed="#B" n="38"/>non autem illa compatitur status religiosorum: quorum etiam opera facta sunt sub voto &amp; professione. ergo &amp;c. 
+       <lb ed="#B" n="39"/>Secundo sic. ille status qui magis assimilatur statui omnino perfectissimo est status perfectior &amp; magis eligendus. iuxta 
+       <lb ed="#B" n="40"/>considerationem philosophi in tertio topicorum. Quod est similius meliori, melius est, &amp; magis eligendum. talis est status con 
+       <lb ed="#B" n="41"/>templationis religiosorum respectu status actionis praelatorum: quia contemplatio vitae praesentis magis assimilatur vi 
+       <lb ed="#B" n="42"/>tae contemplatiuae beatorum quam actio praelatorum. Contemplatio enim est quaedam inchoatio futurae felicitatis: di  
+       <lb ed="#B" n="43"/>cente <name ref="#Augustine">Augustinus</name> super illud Ionem. vltimo. Sic eum volo manere. Inchoata contemplatio maneat donec venio, perficien 
+       <lb ed="#B" n="44"/>da cum venero. &amp; Greti. dicit super Eze. Contemplatiua vita hic incipitur vt in caelesti patria perficiatur. ergo &amp;c. 
+       <lb ed="#B" n="45"/>Tertio sic. status ille qui requirit opera quibus homo magis perficitur est perfectior: talis autem est status contemplationis:  
+       <lb ed="#B" n="46"/>quia per opera contemplationis perficitur religiosus in amore &amp; cognitione dei: per opera autem actiuae perficitur 
+       <lb ed="#B" n="47"/>praelatus in amore proximi &amp; cognitione infirmorum quae sunt circa illum. dicente Grego. vi. Moralis. cap. 
+       <lb ed="#B" n="48"/>xxxi. Speculando in dei amorem surgitur: praedicando ad proximi vtilitatem reditur. Vt enim dicit super Eze. 
+       <lb ed="#B" n="49"/>parte. ii. Homili. ietit capitul quinto: actiua vita est panem esurienti tribuere: verbum sapientiae nescientem docere: erran- 
+       <lb ed="#B" n="50"/>tem corrigere: ad humilitatis viam superbientem reuocare: infirmitatis curam gerere: quae singulis quibusque expe- 
+       <lb ed="#B" n="51"/>diunt dispensare: &amp; commissis nobis quaeliter subsistere debeant prouidere. Contemplatiua vero vita est soli desi 
+       <lb ed="#B" n="52"/>derio conditoris inhaerere &amp;c. Constat autem quod homo plus illis supernis &amp; quo ad intellectum &amp; quo ad affectum quam  
+       <lb ed="#B" n="53"/>his insimis perficitur. ergo &amp;c. Quarto sic, perfectior est status philosophi quam principis: quia <name ref="#Aristotle">philosophus</name> ratione sui status perficitur 
+       <lb ed="#B" n="54"/>virtutibus &amp; felicitate speculatiuis: quae perfectiores sunt quam virtutes &amp; felicitas politicae quibus persicitur 
+       <!--1059.xml-->
+       <pb ed="#B" n="509-v"/>
+        <lb ed="#B" n="1"/>princeps: secundum <name ref="#Aristotle">philosophum</name> in decimo ethicorum. ergo &amp;c. Quinto sic. status &amp; actio praelatorum est sicut 
+       <lb ed="#B" n="2"/>bellantium in campis: status religiosorum est sicut consilio prudentiae vacantium in vrbibus: sed consilium pru- 
+       <lb ed="#B" n="3"/>dentiae vacantium in vrbibus non est minoris praeeminentiae quam opus bellantium in campis. dicente Tullio libro i. 
+       <lb ed="#B" n="4"/>de officiis. Cum plerique arbitrentur res maiores esse bellicas quam vrbanas, est minuenda haec opinio. &amp; infra 
+       <lb ed="#B" n="5"/>Parua enim sunt foris arma nisi sit consilium domi. ergo &amp;c. Sexto sic. ingressus religionis absoluit ab  
+       <lb ed="#B" n="6"/>omni voto: non sic autem ingressus praelationis: quod non esset nisi status religionis perfectior, superior, &amp; maior esset 
+       <lb ed="#B" n="7"/>statu praelationis. ergo &amp;c. Septimo sic. Securum praeferendum est periculoso: status religiosorum est securus:  
+       <lb ed="#B" n="8"/>praelatorum autem periculosus. ergo &amp;c. Octauo sic. opus spiritale maius est &amp; maioris meriti quam opus cor- 
+       <lb ed="#B" n="9"/>porale. dist. xlv. Duae sunt. Eleemosyna cordis maior est quam eleemosyna corporis: contemplatio autem est opus ma 
+       <lb ed="#B" n="10"/>gis spiritale quam actio: ergo &amp;c. Nono sic, angeli quorum est praesidere subsunt illis quorum est contemplari. er 
+       <lb ed="#B" n="11"/>go &amp;c. Contra. status ille est perfectior qui requirit quod in ipso exerceantur opera perfectiora: &amp; qui requi- 
+       <lb ed="#B" n="12"/>rit in se habere personas perfectiores ad exercendum illa opera, quia correspondentia debet esse inter statum 
+       <lb ed="#B" n="13"/>&amp; existentes in statu: status autem praelatorum est huiusmodi respectu status religiosorum, &amp; hoc tam in  
+       <lb ed="#B" n="14"/>minoribus praelatis quam in maioribus: quia eiusdem generis opera incumbunt ambobus: vt patet ex dictis in  
+       <lb ed="#B" n="15"/>praecedenti quaestione. ergo &amp;c. Ad rationes in oppositum respondendum per ordinem. Quod dicunt in prima l 
+       <lb ed="#B" n="16"/>ratione: quod status perfectionis duo importat: &amp; rationem status &amp; rationem perfectionis: bene verum est. aliud enim 
+       <lb ed="#B" n="17"/>est status: aliud perfectio: &amp; aliud status perfectionis. Sed vt sequentia clarius valeant declarari, oportet pri 
+       <lb ed="#B" n="18"/>mo videre quid significetur nomine status: Secundo quid nomine perfectionis: Tertio quid nomine status perfectionis. Signi 
+       <lb ed="#B" n="19"/>ficatio autem nominis ex vsu communi verborum &amp; scripturarum exquirenda est. Nunc autem quantum mihi 
+       <lb ed="#B" n="20"/>apparet ex conmuni vsu loquendi, status in prima significatione sua significat modum existendi rem motam 
+       <lb ed="#B" n="21"/>in aliquo signo ad quod mouetur: qui modus est esse in aliquo sine progressu vlteriori: &amp; hoc vel natu  
+       <lb ed="#B" n="22"/>raliter vel ex institutione. Naturaliter autem dupliciter: vel semper, vel saepius. Naturaliter autem &amp; semper, quemad  
+       <lb ed="#B" n="23"/>modum status solis dicitur esse ascendendo in solstitio aestiuali, &amp; descendendo in solstitio hyemali. secundum quem mo 
+       <lb ed="#B" n="24"/>dum dicunt medici morbum esse in statu quando est in fine augmenti sui. Naturaliter autem &amp; saepius, quem 
+       <lb ed="#B" n="25"/>admodum status maris in suo fluxu est certum augmentum eius vltra quod raro transit: licet transit aliquan-  
+       <lb ed="#B" n="26"/>do: &amp; similiter hominis loquendo secundum conmunem statum: licet aliquis transit aliquando. vnde a tali statu dicitur 
+       <lb ed="#B" n="27"/>hominis statura, ex hominis cooni ordinatione, quemadmodum currentium in stadio status est apud metam in cur 
+       <lb ed="#B" n="28"/>su. Vnde &amp; a tali statu dicitur stadium. Atali autem modo status appellatur status modus quicumque quo res 
+       <lb ed="#B" n="29"/>mouetur &amp; mutabilis habet esse in quocumque signo motus sui. secundum quem modum quaeritur de aegro-  
+       <lb ed="#B" n="30"/>to in quo statu est: &amp; respondetur vel ante paroxysmum, aut in principio, aut medio, aut fine illius: aut 
+       <lb ed="#B" n="31"/>post illum. &amp; similiter volentes loqui viris potentibus quaerunt in quo statu sint, an scilicet occupati an  
+       <lb ed="#B" n="32"/>otiosi. Vlterius autem tertio transfertur nomen status ad modum essendi quem habet substantia viuens. &amp; est idem 
+       <lb ed="#B" n="33"/>quod modus eius viuendi: quem habet vel a natura. de quo dicit Boetius de disciplina scholarium distin-  
+       <lb ed="#B" n="34"/>guens ipsum in tres sic inquiens. Tria genera statuum innuit Aristo. Sunt enim quidam vehementer obtusi, 
+       <lb ed="#B" n="35"/>alii mediocres, tertii vehementer acuti. Vel ab acquisitione. secundum quod Anselu de similitudinibus. c. xlvi. di 
+       <lb ed="#B" n="36"/>stinguit quatuor status hominum, dicens. Humanae naturae quatuor sunt status: quibus pro diuersis me 
+       <lb ed="#B" n="37"/>ritis beata vel misera redditur, alius magis alius minus. Minus beatus ille fuit quo homo ante peccatum 
+       <lb ed="#B" n="38"/>in paradiso stetisset: beatissimus est quo modo in caelo animae sanctorum sunt. Minus autem miser noster est 
+       <lb ed="#B" n="39"/>status: miserrimus est ille quo reprobi manebunt in poenis. Vel ab institutione, &amp; hic duplex: quidam  
+       <lb ed="#B" n="40"/>enim est essentialis: quidam vero factitius. Essentialis autem est ille qui est institutus a Christo vel insinua  
+       <lb ed="#B" n="41"/>tus: vt sunt status tres principales comprehendentes omnes qui sunt fuerunt &amp; futuri sunt in ecclesia. scilicet exi- 
+       <lb ed="#B" n="42"/>stentium in mola vel in lecto vel in agro. Quorum primus est coniugatorum: secundus caelibum: tertius est re 
+       <lb ed="#B" n="43"/>ctorum. &amp; subdistinguitur in rectores primi ordinis: cuiusmodi sunt epsei: &amp; secundi ordinis cuiusmodi 
+       <lb ed="#B" n="44"/>sunt sacerdotes curati. Qui duo ordines in statu rectorum constituunt duos status principales &amp; essentiales in  
+       <lb ed="#B" n="45"/>ecclesia &amp; superiores tamen: quia a Christo speciali vocatione &amp; electione sunt instituti, praeter hoc quod cum aliis 
+       <lb ed="#B" n="46"/>ab eodem ante sunt insinuati: secundum quod infra in vltima quaestione declarabimus. Alii vero sunt status di-  
+       <lb ed="#B" n="47"/>uersi contenti in statu caelibum communi: vt sunt status diuersarum religionum. Aduentitii autem sunt siue 
+       <lb ed="#B" n="48"/>factitii ab homine puro &amp; maxime prout distinguuntur ab aliis, qui sunt in statu caelibum: &amp; inter se penes 
+       <lb ed="#B" n="49"/>diuersos modos professionum. Et se habent duo primi status respectu aliorum sicut status praelatorum seu ma 
+       <lb ed="#B" n="50"/>gistrorum ad status subditorum. Quorum. scilicet praelatorum, tria sunt principalia officia hierarchica in ecclesiastica 
+       <lb ed="#B" n="51"/>hierarchia: ad modum illorum in hierarchia angelica: quae sunt purgare corrigendo: illuminare docendo: perficere 
+       <lb ed="#B" n="52"/>sacramenta admistrando. Econtrario autem omnium aliorum est ab illis purgari, doceri, &amp; perfici. Dico quantum est de 
+       <lb ed="#B" n="53"/>genere status: &amp; ideo tanto perfectior &amp; maior est status illorum super status aliorum quanto illa in agendo perfectiora sunt 
+       <lb ed="#B" n="54"/>quam alia tria in patiendo, perfectius ei est docere quam doceri, &amp; sic de aliis. &amp; ideo oportet quod omnino sit perfectiores illi quam  
+       <!--1060.xml-->
+       <pb ed="#B" n="510-r"/>
+        <lb ed="#B" n="1"/>isti: etiam illi inferiores praelati: quia ad eadem ordinantur opera in genere cum maioribus praelatis. propter 
+       <lb ed="#B" n="2"/>quid etiam quidam religiosi gaudent se aliis religiosis praeferri inquantum status eorum vel ex institutione vel pri 
+       <lb ed="#B" n="3"/>uilegio habet ministrare aliquis actus illorum scilicet praelatorum, in ipsorum subsidium. Quid ergo assumitur 
+       <lb ed="#B" n="4"/>in argumento: quod presbyteri secundi ordinis non sunt in statu: dico quod simpliciter falsum est. Quia addunt 
+       <lb ed="#B" n="5"/>ad illius probationem: quod status immobilitatem importat &amp; obligationem ad opus exequendum: quid pertinet 
+       <lb ed="#B" n="6"/>ad statum: Dico quod hoc non importatur nomine status: vt patet in quibusdam modis statuum praedictorum. non  
+       <lb ed="#B" n="7"/>enim pertinet ad rationem status stare per obligationem &amp; permanentiam: sed sufficit quod habeat propositum 
+       <lb ed="#B" n="8"/>persistendi in illo, licet libere cum voluerit possit illum mutare: quemadmodum clericus est &amp; in statu clerico- 
+       <lb ed="#B" n="9"/>rum qui semper clericaliter se habuit: &amp; defenderetur ab ecclesia ratione status sui quo distinguitur contra 
+       <lb ed="#B" n="10"/>statum laicalem: licet libere possit contrahere cum vidua: &amp; statum suum mutare. Vnde ille qui in gera dei 
+       <lb ed="#B" n="11"/>manet per firmum propositum, dicitur manere in statu, dicente Greti. xiii. Moralis. Conditoris protectio &amp; cu 
+       <lb ed="#B" n="12"/>stodia est quod in statu permanemus. ldem super Eze, per. ii. Homil. ix. Lapis quadratus est: &amp; ex omni latere sta 
+       <lb ed="#B" n="13"/>tum habet qui casum in aliqua permutatione non habet. Nota quod non dicit, Non potest habere. ltem. vi. Moralis. Ab  
+       <lb ed="#B" n="14"/>omni statu rectitudinis desperant qui in noxia verba dilabuntur. &amp; Apostolus. i. Corin. v. Stabiles estote. Sed  
+       <lb ed="#B" n="15"/>esto quod ita esset quod non essent in statu sed in ordine quodam qui non meretur dici status: tamen modus 
+       <lb ed="#B" n="16"/>vitae quem requirit ordo ipsorum requirit opera perfectiora vt dictum est, &amp; iam amplius declarabitur. ideo ad mi- 
+       <lb ed="#B" n="17"/>nus debet vita ipsorum persectior dici si faciunt quid ordo eorum requirit: quam vita quoruncumque religiosorum  
+       <lb ed="#B" n="18"/>etiam facientium quid status illorum requirit: vt secundum hoc persectior &amp; superior sit ordo illorum quam sit status 
+       <lb ed="#B" n="19"/>ipsorum religiosorum: vt omnem controuersiam de nominibus, pertinacibus relinquamus. Vlterius nec pro- 
+       <lb ed="#B" n="20"/>pter aliqua dicta constringimur negare illos esse in statu: obligati enim sunt sufficienter ad curam suam vt 
+       <lb ed="#B" n="21"/>possit in eis poni ratio status. Et quod arguunt quod non: quia libere possunt curam suam deserere intrando religio 
+       <lb ed="#B" n="22"/>nem: dico primo sic: quod sacerdos accipiendo curam obligatur ad perpetuam seruitutem persistendi in illa nisi 
+       <lb ed="#B" n="23"/>seruitutem illa mutare voluerit in aliam: quemadmodum professus in ordine laxiore obligatur ad perpetuam 
+       <lb ed="#B" n="24"/>seruitutem in illa religione nisi velit eam mutare in seruitutem seruiendo in strictiore: &amp; quemadmo- 
+       <lb ed="#B" n="25"/>dum contrahens matrimonium cum muliere obligatur ad iugiter seruiendum ei matrimonialiter nisi illam ser 
+       <lb ed="#B" n="26"/>uitutem ante carnalem copulam velit mutare in aliam, intrando religionem. Sicut ergo professus in religio 
+       <lb ed="#B" n="27"/>ne laxiore non propter hoc negatur esse in statu, licet libere in casu possit statum suum deserere: aut ille 
+       <lb ed="#B" n="28"/>qui contraxit matrimonium de praesenti: sic nec sacerdos curatus debet negari esse in statu, licet in ca 
+       <lb ed="#B" n="29"/>su libere possit mutare statum: &amp; dimittere curam. Vnde si dimitteret sacerdos curam non intrando reli- 
+       <lb ed="#B" n="30"/>gionem, arctari posset ab ecclesia ad resumendum eam: &amp; hoc non nisi propter obligationem. Secundo  
+       <lb ed="#B" n="31"/>dico propter dicentes quod transiens ad maiorem statum non dicitur minorem dimittere: quia minus conseruatur in  
+       <lb ed="#B" n="32"/>maiori, sed non econverso: quod circa statum sacerdotum est considerare ius commune &amp; indulgentiam. Si autem 
+       <lb ed="#B" n="33"/>aspiciamus ad ius commune, dico quod non minus sunt obligati sacerdotes ad curas suas inferiores quam epi- 
+       <lb ed="#B" n="34"/>scopi ad curas suas superiores, quoniam si vellet talis curam suam dimittere oporteret eum ad hoc 
+       <lb ed="#B" n="35"/>specialiter licentiari a suo episcopo: sicut nunc oportet episcopum licentiari a papa. &amp; sic non ma-  
+       <lb ed="#B" n="36"/>gis ratione obligationis episcopus est in statu quam curatus sacerdos. Si vero aspiciamus ad indulgen- 
+       <lb ed="#B" n="37"/>tiam vniuersalem concessam sacerdotibus &amp; non episcopis, per illam possunt dimittere curam, sed  
+       <lb ed="#B" n="38"/>solummodo ingrediendo religionem: &amp; sic propter ius conmune quod eos obligat sicut episcopos, aequa  
+       <lb ed="#B" n="39"/>liter sunt in statu cum illis. Et data est indulgentia generalis intrandi religionem sacerdotibus potius quam  
+       <lb ed="#B" n="40"/>episcopis: quia plures sunt multo &amp; minus prouectae &amp; infirmae personae: vt ex hoc plures illorum in  
+       <lb ed="#B" n="41"/>exercendo officium in magno sint periculo animae suae nequid negligant: &amp; propter curae occasionem non com 
+       <lb ed="#B" n="42"/>mittenda committant, &amp; ideo indulgetur eis vniuersaliter: si in hoc conscii sunt infirmitatis, quod dimis- 
+       <lb ed="#B" n="43"/>sa cura intrent religionem: quia contemplatiua vita in religione est eis magis secura: &amp; ideo (ut dicit Glos- 
+       <lb ed="#B" n="44"/>super illa decretali Nisi cum pridem,) magis amplectenda, nam dicit <name ref="#Augustine">Augustinus</name> Tene certum &amp; dimitte incertum. Et 
+       <lb ed="#B" n="45"/>sic propter eandem causam qua quis debeat fugere curam &amp; intrare religionem, potest dimittere curam 
+       <lb ed="#B" n="46"/>propter ingressum religionis: &amp; est conscientia, propriae infirmitatis: dicente <name ref="#Augustine">Augustinus</name> super. xxxvi. psal- 
+       <lb ed="#B" n="47"/>mum. In quoque genere vitae non omnes inueniuntur probi, non omnes reprobi. Videntur duo in agro, eadem pro- 
+       <lb ed="#B" n="48"/>fessio est: sed non idem cor. Videntur in agro laborare qui praesunt in ecclesiis, sunt qui de actionibus 
+       <lb ed="#B" n="49"/>mundi non recedunt: &amp; tanquam de duabus in molendino vna assumitur &amp; vna relinquitur. Et sunt 
+       <lb ed="#B" n="50"/>qui nec actiones mundi pati volunt sicut coniugati habentes domos, familias, filios, nec aliquid in ecclesia 
+       <lb ed="#B" n="51"/>agunt, sicut praepositi, velut in agricultura laboranees, sed velut ad hoc infirmi secedunt ad otium &amp; 
+       <lb ed="#B" n="52"/>quieti esse diligunt, veluti memores infirmitatis suae, non se committentes magnis actionibus: &amp; quodam  
+       <lb ed="#B" n="53"/>modo in statu infirmitatis rogantes deum. Propter quid etiam quia plures sunt infirmi: &amp; de quaecumque timendum est 
+       <lb ed="#B" n="54"/>ne sit infirmus: status religionis regularitur consulendus est: non autem status praelationis. propter quid Hiero. aduersus 
+       <!--1061.xml-->
+       <pb ed="#B" n="510-v"/>
+        <lb ed="#B" n="1"/>Vigilantium qui contrarium asserebat, dicit sic. Monachus non doctoris sed plangentis habet officium 
+       <lb ed="#B" n="2"/>qui vel se vel mundum lugeat: &amp; domini pauidus praestoletur aduentum: qui sciens imbecillitatem suam &amp; 
+       <lb ed="#B" n="3"/>vas fragile quid portat, timet offendere ne impingat &amp; corruat atque frangat: &amp; intantum castigator  
+       <lb ed="#B" n="4"/>sui est vt etiam quae tuta sunt pertimescat. Cur (inquit) pergis ad eremum: vt tua bella non patiar 
+       <lb ed="#B" n="5"/>ne me rapiat oculus meretricis: ne forma pulcherrima ad illicitos ducat aspectus. Respondebis:  
+       <lb ed="#B" n="6"/>hoc non est pugnare sed fugere: sta in acie armatus vt postquam viceris coroneris. Fateor imbecillita 
+       <lb ed="#B" n="7"/>tem meam, nolo pugnare spe victoriae, ne perdam aliquando victoriam: si fugero, gladium deuito: si 
+       <lb ed="#B" n="8"/>stetero vincendum mihi est aut cadendum. Quid autem necesse est certa dimittere &amp; incerta sectari:  
+       <lb ed="#B" n="9"/>aut scuto aut pedibus mors vitanda est. Tu qui pugnas, &amp; superare potes &amp; vincere: ego cum fu- 
+       <lb ed="#B" n="10"/>gero non vinco: sed ideo fugio ne vincar. Et sic cum sacerdos dimissa cura intrat religionem, potius 
+       <lb ed="#B" n="11"/>tanquam infirmus non potens sustinere arduum pondus descendit quam ascendat: &amp; cum econtra religiosus 
+       <lb ed="#B" n="12"/>ad curam assumitur potius ascendit quam descendit. Quod tunc arguitur secundo contra hoc ex eo- 
+       <lb ed="#B" n="13"/>dem medio quo prius: quod indulgetur regulariter curatos transire ad religionem non econuerso &amp;c. Dico quod re 
+       <lb ed="#B" n="14"/>uera facilius indulgetur transitus ad superiorem statum ab inferiori dispositione propter quam meri 
+       <lb ed="#B" n="15"/>to transeundum est a religione ad praesulatum, eadem dispositione existente vtrobique ex parte transeun 
+       <lb ed="#B" n="16"/>tium, cuiusmodi est perfectio transeuntis. vt enim dicit dicta litera, causa permittendi monachum ascem 
+       <lb ed="#B" n="17"/>dere ad praesulatum est vt cum vtilitate prouideat necessitatibus populi: &amp; ideo dispositio ex parte 
+       <lb ed="#B" n="18"/>debentis transire a religione ad praesulatum est dispositio qua est idoneus ad prouidendum necessitati 
+       <lb ed="#B" n="19"/>bus populi. qua dispositione existente ex parte volentis transire a praesulatu ad religionem, nequaquam  
+       <lb ed="#B" n="20"/>ita faciliter permittitur transitus sic dispositi ad religionem sicut ad praesulatum Per transitum enim 
+       <lb ed="#B" n="21"/>huius ad praesulatum promoueretur vtilitas populi: per alterius autem transitum impediretur. Et sicut 
+       <lb ed="#B" n="22"/>est de transitu religionis ad praesulatum, sic est de transitu ab eadem ad curam parochialem: quia si sta- 
+       <lb ed="#B" n="23"/>tus praesulum est superior &amp; perfectior quam status religiosorum: quid etiam ipsi religiosi concedunt, &amp; in  
+       <lb ed="#B" n="24"/>scriptis suis reliquerunt: ergo similiter &amp; status sacerdotum superior est &amp; perfectior: eo quod sunt desta 
+       <lb ed="#B" n="25"/>tu rectorum &amp; laborantium in agro ecclesiae: &amp; praesunt ecclesiis quarum curae sunt ipsis commissae ad regimen 
+       <lb ed="#B" n="26"/>animarum: non autem sunt de statu eorum qui sunt in mola aut in lecto. Et illi tres status comprehen 
+       <lb ed="#B" n="27"/>dunt omnes qui sunt in ecclesia: nec differt status eorum a statu praesulum, nisi sicut gradus infe 
+       <lb ed="#B" n="28"/>rior cui commissa est administratio particularis &amp; circa minora, &amp; gradus superior cui commissa est 
+       <lb ed="#B" n="29"/>administratio vniuersalis omnino, vel vniuersalior, &amp; circa maiora. In caeteris enim sicut dominus para est re 
+       <lb ed="#B" n="30"/>ctor vniuersalis ecclesiae: &amp; quilibet praesul suae dioecesis, sic sacerdos curatus est rector suae parochiae:  
+       <lb ed="#B" n="31"/>vt sit in his tribus idem status persectionis differens solum penes gradus. Vnde non bene dicunt 
+       <lb ed="#B" n="32"/>dicentes quod sunt sicut praepositi vel baliui siue coadiutores &amp; optitulatores episcoporum: sed sunt ve- 
+       <lb ed="#B" n="33"/>ri &amp; ordinarii rectores instituti in suis praedecessoribus scilicet discipulis: non a praedecessoribus prae 
+       <lb ed="#B" n="34"/>sulum scilicet ab apostolis: sed erant ambo ordines immediate instituti a deo: vt infra quaestione vltima 
+       <lb ed="#B" n="35"/>declarabitur. Et ideo sicut status praesulum, quia perfectior est quam status quorumcunque religiosorum, pro- 
+       <lb ed="#B" n="36"/>pter maiora opera quae requirit &amp; quae ordinantur ad finem simpliciter &amp; absolute potiorem scilicet 
+       <lb ed="#B" n="37"/>ad communem vtilitatem quod est maius bonum quam priuatum: &amp; ideo diuinius requirit perfectiorem 
+       <lb ed="#B" n="38"/>personam promouendam in praesulem quam requirit status religionis: immo status ille requirit quod pro- 
+       <lb ed="#B" n="39"/>mouendus in illo sit iam perfectus: status autem religionis non requirit perfectioneminec in promouen 
+       <lb ed="#B" n="40"/>do ad ipsum nec statim in existentibus in illo: Consimiliter propter consimilia opera licet inferiora sta 
+       <lb ed="#B" n="41"/>tus sacerdotum quia perfectior est requirit perfectiorem personam promouendam: in sacerdotem cu- 
+       <lb ed="#B" n="42"/>ratum quam requirit status religionis circa promouendum ad statum religionis, siue circa iam existen- 
+       <lb ed="#B" n="43"/>tem in religione. Et propterea eadem dispositione propter, quam merito transeundum est a praesulatu 
+       <lb ed="#B" n="44"/>vel a cura ad religionem existente vtrobique ex parte transeuntium cuiusmodi potest esse imperfectio 
+       <lb ed="#B" n="45"/>ipsorum transeuntium: quia status religionis est principaliter ad hoc vt de imperfectis faciat perfectos 
+       <lb ed="#B" n="46"/>vt iam amplius videbitur: idcirco quia de pluribus praesumitur potius siue sint in religione siue ex- 
+       <lb ed="#B" n="47"/>tra, quod sint imperfecti saltem vel non tam perfecti quod sufficiant ad regimen populi: secundum quod etiam 
+       <lb ed="#B" n="48"/>quilibet hoc debet de seipso supponere, nec ad regimen idcirco nisi coactus accedere vt dictum est supra 
+       <lb ed="#B" n="49"/>facilius indulgetur quod sacerdos curatus regulariter possit transire ad religionem quam econverso: quia illud  
+       <lb ed="#B" n="50"/>indulgetur vt dictum est non nisi propter transeuntis imperfectionem. Vnde breuiter recolligendo di  
+       <lb ed="#B" n="51"/>co quod quando transitus indulgetur propter transeuntis perfectionem aut bonam dispositioneni: facilius 
+       <lb ed="#B" n="52"/>indulgetur transitus ascendendi quam descendendi: quando autem econuerso indulgetur propter imper 
+       <lb ed="#B" n="53"/>fectionem aut minus bonam dispositionem transeuntium, facilius indulgetur transitus descendendi quam asce 
+       <lb ed="#B" n="54"/>dendi: sicut contingit in proposito secundum iam dicta. Sed contra hoc videntur plane illaquae ar-  
+       <!--1062.xml-->
+       <pb ed="#B" n="511-r"/>
+        <lb ed="#B" n="1"/>guuntur in sequenti ratione ex duobus decretis. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e599">
+       AD tertium quod sic transeuntes ad religionem meliorem vi 
+       <lb ed="#B" n="2"/>tam cupiunt: per quod insinuatur aparte quod melior vita sit religiosorum quam sacerdotum curatorum: dico quod eo modo est 
+       <lb ed="#B" n="3"/>melior quo modo secundum superius determinata melior est pars Mariae quam Marthae: &amp; quo modo contem- 
+       <lb ed="#B" n="4"/>platio huius vitae est melior actione. Est tamen, vt dictum est, actio praelatorum melior simpliciter quam contempla 
+       <lb ed="#B" n="5"/>tio huius vitae religiosorum, eo quod secundum dictum modum melior est &amp; vtilior melius disposito: non solum au-  
+       <lb ed="#B" n="6"/>tem illis circa quos exercetur. Si autem non sit melior &amp; vtilior minus bene disposito, non sequitur ex hoc quod  
+       <lb ed="#B" n="7"/>non sit melior simpliciter secundum praedicta. Quare cum de istis qui transeunt ad religionem a cura, supponendum  
+       <lb ed="#B" n="8"/>est quod hoc faciant propter minus bonam eorum dispositionem &amp; imperfectionem, propter quod ad hoc facien- 
+       <lb ed="#B" n="9"/>dum concessa est eis indulgentia, vt dictum est: cum dicitur in dicta indulgentia quod cupiunt meliorem vitam: intelli 
+       <lb ed="#B" n="10"/>gendum est, sibi, quod non contingit nisi quia quicumque talis inquantum huiusmodi experitur se insufficientem ad regen- 
+       <lb ed="#B" n="11"/>dum populum. Propter quoddicitur in sequenti capitulo: quod tales priuata lege ducuntur: vt scilicet eo modo quo pri 
+       <lb ed="#B" n="12"/>uata lege ducuntur est eis religio melior quam praelatio: &amp; propter hanc legem priuatam in qua omnino dimittitur 
+       <lb ed="#B" n="13"/>conscientiae suae, potest simplex curatus intrare religionem: veruntamen episcopus licet tali lege priuata du  
+       <lb ed="#B" n="14"/>catur tamen non dimittitur hoc conscientiae eius nisi in certis casibus: sed expresse interdicitur, vt in decretali prae 
+       <lb ed="#B" n="15"/>dicta in fine: &amp; excipitur in glos. illius decreti Diae sunt: &amp; hoc quia non praesumitur tantum de imperfectione 
+       <lb ed="#B" n="16"/>epsorum quia pauci sunt respectu sacerdotum, &amp; maiori diligentia eliguntur. Et ideo quia maius periculum 
+       <lb ed="#B" n="17"/>est in hoc circa sacerdotes quam circa epseos, circa illos cautius est agendum: ita quod idem est de indulgentia 
+       <lb ed="#B" n="18"/>concessa sacerdotibus simpliciter, &amp; eprseis in certis casibus: ita quod sicut episcopis interdictum est renun- 
+       <lb ed="#B" n="19"/>ciare nisi aliquis casuum expressorum in dicta litera Nisi cum pridem, vrgeat conscientiam eorum: sic 
+       <lb ed="#B" n="20"/>sacerdotibus interdictum intelligitur renunciare nisi eos vrgeat conscientia sua, quod non sufficiunt rege- 
+       <lb ed="#B" n="21"/>re populum in cura sua, aut quod imminet eis periculum magnum vltra commune periculum: quid frequem 
+       <lb ed="#B" n="22"/>ter solet curatis occurrere. Vnde sicut episcopus bene examinare debet conscientiam suam an lege pri 
+       <lb ed="#B" n="23"/>uata ducatur &amp; spiritu sancto inflammatus ad renunciandum in certis casibus: sic curatus bene 
+       <lb ed="#B" n="24"/>examinare debet conscientiam suam an lege priuata ducatur &amp; spiritu sancto inflammatus ad re- 
+       <lb ed="#B" n="25"/>nunciandum curae ex indulgentia sibi concessa: quia sicut ille relinquitur conscientiae suae quo ad hoc in cer 
+       <lb ed="#B" n="26"/>tis casibus, sic iste simpliciter: alioquin licentia recedendi penitus est eis interdicta vt dicitur in dicta decre 
+       <lb ed="#B" n="27"/>tali in fine: &amp; sub hoc interdicto recedens apostata est apud deum licet in religione existat: quemadmo- 
+       <lb ed="#B" n="28"/>dum si quis sine causa &amp; licentia a religione strictiore ad laxiorem transiret. Sed omnibus his vide 
+       <lb ed="#B" n="29"/>tur contrariari Glos. super illo verbo Meliorem vitam: quae dicit. Haec est causa sufficiens: quia de mi 
+       <lb ed="#B" n="30"/>nori ad maius transeundum est. vbi plane insinuatur quod status religionis sit maior quam sacerdotum. 
+       <lb ed="#B" n="31"/>Et dico quod reuera tali status religionis maior est quia melior: sicut &amp; ipsi melior est vita religionis quam  
+       <lb ed="#B" n="32"/>curae. Vnde non bene facit ad suum propositum illud quod allegat loan. pro se ibidem. xciii. dis. Le 
+       <lb ed="#B" n="33"/>gimus, quod loquitur de transitu a minori simpliciter ad maius simpliciter. propter quod quasi corri 
+       <lb ed="#B" n="34"/>gendo se subdit. Et tamen dicit capi. Sic viue in monasterio vt clericus esse merearis. xvi. quae-  
+       <lb ed="#B" n="35"/>stione prima. Sic viue. &amp; loquitur de monacho promouendo ad curam ad electionem episcopi. 
+       <lb ed="#B" n="36"/>per quod exprimitur quod ille transit a statu simpliciter minori ad simpliciter maiorem. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e677">
+       AD intellectum 
+       <lb ed="#B" n="37"/>illius quod vlterius arguitur quarto contra praelatos generaliter tam maiores quam minores quod si sint in  
+       <lb ed="#B" n="38"/>statu, non tamen sunt in statu perfectionis, est aduertendum illud quod supra proposuimus: quod scili 
+       <lb ed="#B" n="39"/>cet aliud est perfectio, aliud autem status perfectionis. Est enim perfectio simpliciter &amp; absolute in perfecta 
+       <lb ed="#B" n="40"/>adeptione finis in patria. Est autem perfectio simpliciter pro statu viae in perfecta adeptione eius quod per  
+       <lb ed="#B" n="41"/>se &amp; principaliter ordinat in finem: cuiusmodi est charitas, quam qui non habet nihil est quo ad vi 
+       <lb ed="#B" n="42"/>tam spiritualem. primae Corin. xiii. Vnde in spirituali vita perfectus est qui in charitate perfectus est. 
+       <lb ed="#B" n="43"/>Est autem perfectio secundum quid in adeptione perfecta eius quod secundario ordinat in finem: cuiusmodi sunt sapien 
+       <lb ed="#B" n="44"/>tia, patientia, &amp; de huiusmodi. Illa autem perfectio charitatis principaliter consistit in dilectione dei. Gen. xvii. Am- 
+       <lb ed="#B" n="45"/>bula coram me &amp; esto perfectus. Secundario autem in dilectione proximi. Matth. v. Diligite inimicos vestros 
+       <lb ed="#B" n="46"/>&amp; sequitur. Estote ergo persecti. Sed neutro modo completur in nobis omnimode in hac vita. Phili. tertio. 
+       <lb ed="#B" n="47"/>Non quod iam acceperim aut sim iam perfectus: sequor autem si quo modo comprhendam. Dicimur tamen 
+       <lb ed="#B" n="48"/>tunc perfecti in hac vita si fecerimus quod in nobis est: vt tantam charitatem habeamus vt omnino promo 
+       <lb ed="#B" n="49"/>uentia nos ad dilectionem dei &amp;, proximi mente assumamus, &amp; impedientia nos a nobis abiiciamus: &amp; sic 
+       <lb ed="#B" n="50"/>quantum possumus adeptionem perfectionis patriae sequamur. Vnde postquam dixit: Sequor autem si quo modo con 
+       <lb ed="#B" n="51"/>prehendam. continuo adiumxit. Quicumque ergo perfecti sumus hoc sentiamus. Propter quod di Matth. xix. Si vis perfe 
+       <lb ed="#B" n="52"/>ctus esse vade &amp; vende &amp;c. &amp; sequare me. Et est primum dispositio ad perfectionem acquirendam. in quo intelligitur abiectio 
+       <lb ed="#B" n="53"/>per voluntatem omnium quae impediunt nos in hoc. Secundum vero est id quo sit perfectionis consecutio: quo in  
+       <lb ed="#B" n="54"/>telliguntur omnia quae ad illam consequendam iuuant nos. Vnde Hiero. super Matth. Quia non sufficit 
+       <!--1063.xml-->
+       <pb ed="#B" n="511-v"/>
+        <lb ed="#B" n="1"/>e tantum relinquere, adiungit quod perfectum est. Est autem status perfectionis, vt aliqui dicunt, non opera perfectio 
+       <lb ed="#B" n="2"/>n nis facere nec se ad talia facienda quoquo modo disponere: sed se ad facienda opera perfecta obligare, par  
+       <lb ed="#B" n="3"/>s hoc enim solum mutat quis statum vt non existens in statu perfectionis fiat in statu perfectionis. Vnde 
+       <lb ed="#B" n="4"/>ex eo quod aliquis faciat perfectionis opera &amp; ad illa se disponat absque voto, in nullo mutat statum suum: 
+       <lb ed="#B" n="5"/>quia manet in eadem libertate qua prius: quemadmodum non mutat conditionem suam qui alteri seruit 
+       <lb ed="#B" n="6"/>libere: sed qui se obligat ad seruiendum ei, mutat conditionem. Sic autem se obligant religiosi per vota sua ad  
+       <lb ed="#B" n="7"/>dilectionem dei, &amp; episcopi suscipiendo curam in sui ordinatione. Sed dico quod sicut secundum praedicta ad  
+       <lb ed="#B" n="8"/>statum simpliciter non requiritur obligatio simpliciter: sic nec ad statum perfectionis simpliciter requiritur vl- 
+       <lb ed="#B" n="9"/>la obligatio ad faciendum illa opera perfectionis: sed sufficit firmum propositum, &amp; habere ritum viuendi qui 
+       <lb ed="#B" n="10"/>ad operum perfectorum executionem requiritur: secundum quod si nullum esset votum, esset status incipientium 
+       <lb ed="#B" n="11"/>proficientium &amp; perfectorum secundum omne genus virtutis: &amp; etiam si nulla obligatione astricti fuis 
+       <lb ed="#B" n="12"/>sent ad officia sua apostoli &amp; discipuli a Christo, sed ex sola libera voluntate fuissent executi suum 
+       <lb ed="#B" n="13"/>officium per firmum propositum &amp; secundum modum &amp; ritum quo Christus ipsum instituit 
+       <lb ed="#B" n="14"/>exequi: fuissent in eodem statu in quo erant astricti per votum. Bene tamen verum est quod votum &amp; 
+       <lb ed="#B" n="15"/>obligatio faciunt vnum modum status: qui bene distinguitur contra omnes alios, in quibus homo 
+       <lb ed="#B" n="16"/>potest existere sine voto aut etiam libere. sicut enim seruitus est status quidam in seruis cum obligatio 
+       <lb ed="#B" n="17"/>ne: sic libertas est status oppositus in dominis absque omni obligatione. Vnde causa quae aliquis defen-  
+       <lb ed="#B" n="18"/>dit suam libertatem, causa status dicituri. ii. quaest. vi. Siquando &amp; tamen existens dominus &amp; in plena liberta- 
+       <lb ed="#B" n="19"/>te potest mutare statum &amp; intrare seruitutem. Licet ergo omnis status qui seruitutem importat proprie 
+       <lb ed="#B" n="20"/>dictam, non est sine obligatione, bene est tamen status alius &amp; etiam status perfectionis absque omni obli- 
+       <lb ed="#B" n="21"/>gatione etiam licet sit status qui requirit seruitium: vt status praelatorum qui requirit seruitium ex 
+       <lb ed="#B" n="22"/>hibere deo: quid non oportet procedere ex conditione seruili: sed sufficit quod ei exhibeatur seruitium ex 
+       <lb ed="#B" n="23"/>libertate mera: &amp; sola assumptio &amp; deputatio ordinaria ad tale officium exequendum sufficit ad  
+       <lb ed="#B" n="24"/>hoc quod aliquis sit in statu tali. Deo enim seruire regnare est, vt dicit Grego. Vt etiam dicit Hierony. 
+       <lb ed="#B" n="25"/>ad Heliodorum, comparans dignitatem episcopalem ad regalem: ille nolentibus praeest, hic volentibus: ter- 
+       <lb ed="#B" n="26"/>rore ille subiicit: hic seruitute dominatur: ille corpora custodit ad mortem: hicanimas seruat ad vitam. 
+       <lb ed="#B" n="27"/>Sed ne in hoc tempus protrahamus, concedamus hoc in proposito: dicendo quod in statu perfectionis sunt 
+       <lb ed="#B" n="28"/>&amp; praelati superiores &amp; inferiores curati, quia incumbit officio ipsorum facere opera perfectionis circa 
+       <lb ed="#B" n="29"/>subditos: &amp; ad hoc sunt obligati secundum quod dictum est supra de inferioribus: &amp; conceditur ab omnibus de 
+       <lb ed="#B" n="30"/>superioribus. Quia ergo arguitur in contrarium quod non: quia status illorum compatitur secum quod est simpli- 
+       <lb ed="#B" n="31"/>citer imperfectionis: vt habere propria &amp; vxores: Dico quod non omnis status ad omnia se extendit: sed  
+       <lb ed="#B" n="32"/>quilibet ad illa quae ad ipsum pertinent tantum. vnde qui vouet virginitatem sed non vouet paupertatem aut obe 
+       <lb ed="#B" n="33"/>dientiam, in statu virginum est: sed non in statu voluntarie pauperum aut obedientium secundum modum quo sunt 
+       <lb ed="#B" n="34"/>illi qui alia duo vouerunt. Si ergo status &amp; perfectio praelatorum per se &amp; principaliter consistit in operibus exer 
+       <lb ed="#B" n="35"/>cendis circa regimen proximi: non oportet quod existens in statu perfectionis praelatorum careat propriis aut vxore 
+       <lb ed="#B" n="36"/>de ratione status nisi Christus sic instituisset: licet hoc requiratur de ratione status religiosorum secundum 
+       <lb ed="#B" n="37"/>modernam obseruantiam. Si enim haec duo repugnarent statui praelatorum inquantum sunt praelati vt ex in-  
+       <lb ed="#B" n="38"/>stitutione Christi sicut repugnant statui religiosorum secundum institutionem quae vere nunc obser 
+       <lb ed="#B" n="39"/>uatur: vt aequaliter ad illa oporteret obligari praelatos sicut &amp; religiosos, sicut non essent in statu per- 
+       <lb ed="#B" n="40"/>fectionis religiosorum non obligati ad non habendum propria &amp; vxores: similiter etiam non essent 
+       <lb ed="#B" n="41"/>in statu perfectionis praelatorum non obligati ad illa: sed tamen manerent in statu perfectionis pro quanto exer- 
+       <lb ed="#B" n="42"/>cerent bene opera ad subditos suos. Sic ergo non sic fuit duplex ordo praelatorum institutus vt de necessi 
+       <lb ed="#B" n="43"/>tate requireret propriorum &amp; vxorum abnegationem: sed vt hoc requireret de congruentia, quia ha-  
+       <lb ed="#B" n="44"/>bendo propria &amp; vxores multum impediretur cura &amp; diligentia circa subditos: ita quod de ratione status &amp; 
+       <lb ed="#B" n="45"/>eius perfectionis nihil requiritur nisi diligens operum curae executio cum assumptione siue deputa-  
+       <lb ed="#B" n="46"/>tione ordinaria praedicta: sed ad persectionem personae pertinet diligenter exequi officium curae ita quod si 
+       <lb ed="#B" n="47"/>cut aequaliter in statu perfectionis sunt, diligenter exequens eam &amp; negligenter: &amp; hoc siue status sit 
+       <lb ed="#B" n="48"/>cum voto siue sine voto: sic aequaliter in statu perfectionis sunt quantum est ex ratione status, habens pro 
+       <lb ed="#B" n="49"/>pria &amp; vxorem &amp; non habens: licet hoc diminuat multum de perfectione personali. Vnde si ita status 
+       <lb ed="#B" n="50"/>praelatorum institutus fuisset, &amp; apostoli tria vota religionis vouerunt, sicut dicit <name ref="#Augustine">Augustinus</name> xvii. de ciui. dei 
+       <lb ed="#B" n="51"/>eos vouisse paupertatem: hoc erat pertinens ad perfectionem personae non status. Sed tamen hoc non 
+       <lb ed="#B" n="52"/>fuit de institutione status: quemadmodum quod Paulus vixit de opere manuum non erat praerogatiua. 
+       <lb ed="#B" n="53"/>pertinens ad statum sed ad personam tantum. Vnde Paulus qui non vixit de euangelio, aequaliter &amp; non 
+       <lb ed="#B" n="54"/>magis ex hoc erat in statu persectionis apostolatus cum aliis qui vixerunt de euangelio: licet Pau- 
+       <!--1064.xml-->
+       <pb ed="#B" n="512-r"/>
+        <lb ed="#B" n="1"/>lus in hoc fuerit in sua persona singulari magis perfectus aliis. Aut si dicatur quod status apostolatus ra- 
+       <lb ed="#B" n="2"/>tione suae perfectionis requirebat ab institutione sua opera perfecta in apice perfectionis secundum 
+       <lb ed="#B" n="3"/>omnem modum perfectionis, tunc caeteri apostoli de euangelio non debuissent vixisse: quia peccas- 
+       <lb ed="#B" n="4"/>sent: praecipue si accepissent in casibus in quibus Paulus non sumpsit: qui praecipue erant duo: Vnus 
+       <lb ed="#B" n="5"/>ne grauaret illos quibus praedicauit: &amp; per hoc tardius ad praedicationem eius accederent aut eam 
+       <lb ed="#B" n="6"/>acceptarent. ii. Thess. iii. &amp; actuum. xx. Secundo vt perseudoapostolos qui praedicabant falsa &amp; acci- 
+       <lb ed="#B" n="7"/>piebant sumptus propter quos praedicabant, a praedicatione repelleret. ii. Corinth. xi. Et hoc etiam 
+       <lb ed="#B" n="8"/>quia vt dicit Hieronymus in epistola ad Cellantiam, vas electionis Paulus castigat corpus suum 
+       <lb ed="#B" n="9"/>&amp; in seruitutem redigit, ne aliis praedicans ipse reprobus efficiatur: ne perfectionis magister aliquid  
+       <lb ed="#B" n="10"/>in se imperfectum ostendat: ne Christi imitator extra praeceptum quicquam ac voluntatem Christi fa 
+       <lb ed="#B" n="11"/>ciat. Apostolici vero praecepti &amp; exempli est vt curemus non conscientiae tantum: sed etiam famae super- 
+       <lb ed="#B" n="12"/>sluum: &amp; effectu vacuum fugere magister gentium docet. Vult enim etiam extraneos ad fidem ho- 
+       <lb ed="#B" n="13"/>mines per fidelium opera proficere: &amp; religionem ipsam religionis disciplina commendat: &amp; ideo sicut 
+       <lb ed="#B" n="14"/>luminaria in mundo lucere nos iubet in medio nationis prauae &amp; peruersae, vt incredulae mentes 
+       <lb ed="#B" n="15"/>errantium, ex nostrorum actuum lumine ignorantiae suae tenebras deprehendant. Vnde ad Roma. 
+       <lb ed="#B" n="16"/>ipse ait. <quote xml:id="n3av8a-c1e5031-Qd1e881" source="http://scta.info/resource/rom12_17">Prouidentes bona, non solum coram deo, sed etiam coram hominibus</quote>. &amp; alibi. Sine offensio 
+       <lb ed="#B" n="17"/>ne estote iudaeis &amp; gentibus &amp; ecclesiae dei, sicut &amp; ego omnibus per omnia placeo, non quaerens quod  
+       <lb ed="#B" n="18"/>mihi vtile est sed quod multis. Quia si ita status ille institutus fuisset, in his casibus sumptus sumere 
+       <lb ed="#B" n="19"/>non debuissent caeteri apostoli sicut nec Paulus sumpsit: aut peccassent nisi in hoc Christus gene- 
+       <lb ed="#B" n="20"/>raliter dispensasset. Et puto quod status apostolorum requirebat quantum erat ex natura sua opera per  
+       <lb ed="#B" n="21"/>fectionis in apice secundum omnem modum perfectionis: &amp; erat ille quod sic de euangelio sumptus acci 
+       <lb ed="#B" n="22"/>perent vt expeditius &amp; fructuosius officio suo vacare possent: &amp; erat semper expeditius &amp; fructuo 
+       <lb ed="#B" n="23"/>sius officio apostolatus sumptus de euangelio sumere, nisi in casibus illis in quibus Paulus non vixit 
+       <lb ed="#B" n="24"/>de euangelio propter causas dictas: Et quod Christus in institutione apostolatus dispensauit generali 
+       <lb ed="#B" n="25"/>ter quod etiam in his casibus qui vellent de euangelio viuerent: vt per hoc Paulus eo quod in illis casi- 
+       <lb ed="#B" n="26"/>bus non vixit de euangelio, sed de opere manuum suarum:, ipse solus statum perfectionis apostoli- 
+       <lb ed="#B" n="27"/>cae custodiuit in apice: &amp; quod caeteri vixerunt de euangelio in illis casibus, hoc erat ex dispensatione ge 
+       <lb ed="#B" n="28"/>nerali Christi qua reliquit in apostolorum voluntate posse sumere necessaria de euangelio propter 
+       <lb ed="#B" n="29"/>infirmitatem quam praeuidit in eis &amp; in eorum successoribus: si tamen in talibus casibus sumptus 
+       <lb ed="#B" n="30"/>acceperunt. Et quod amplius est, dispensauit cum successoribus eorum episcopis: vt non solum ha-  
+       <lb ed="#B" n="31"/>berent potestatem viuendi de euangelio accipiendo de die in diem sibi necessaria: sed quod possent ha  
+       <lb ed="#B" n="32"/>bere bona ecclesiae communia, ne per subditorum auaritiam qui non essent prompti ministrare de 
+       <lb ed="#B" n="33"/>die in diem necessaria, essent ab officii executione impediti: vt per nullam prouidentiam oporteret 
+       <lb ed="#B" n="34"/>eos curare de crastino. Et ob hoc Christus habuit loculos gerens in ipsis personam imperfectorum, 
+       <lb ed="#B" n="35"/>dans signum per hoc bonorum communium ecclesiasticorum. vt. xii. quod prima. Exemplum. &amp; ca. Habe 
+       <lb ed="#B" n="36"/>bat dominus loculos. Et sic (ut puto) a Christo fuit status apostolatus institutus vt apostoli possent deeuam 
+       <lb ed="#B" n="37"/>gelio viuere in omnem casum, &amp; successores eorum de communibus bonis ecclesiae absque omni di-  
+       <lb ed="#B" n="38"/>minutione perfectionis in illis: &amp; sic facere opus apostoli &amp; non sumere sumptus, non erat nisi prae 
+       <lb ed="#B" n="39"/>rogatiua personalis: &amp; hoc non nisi in illis casibus in quibus Paulus non sumpsit. Vnde Augusti- 
+       <lb ed="#B" n="40"/>nus exponens illud Psal. ciii. Producens foenum iumentis &amp;c. declarat qualiter qui euangelium enum 
+       <lb ed="#B" n="41"/>ciant debent de euangelio viuere: post magnam exhortationem subditorum vt diligenter in neces 
+       <lb ed="#B" n="42"/>sariis prouideant suis curatis, dicens sic. Itaque curiosi estote ad ista fratres mei: &amp; inuenietis multorum 
+       <lb ed="#B" n="43"/>dei seruorum indigentiam: tantum vt velitis inuenire. Sed quia delectat vos excusatio quae vultis dice- 
+       <lb ed="#B" n="44"/>re nesciebamus: propterea ipse dominus loculos habebat quo emebantur necessaria: &amp; possideban  
+       <lb ed="#B" n="45"/>tur nummi in vsus eorum qui cum illo erant. &amp; infra. Vide quae fiebant. Futurus erat. Paulus nihil 
+       <lb ed="#B" n="46"/>tale aliquando quaerens &amp; omnia prouincialibus donans: sed quia multi infirmi ista quaesituri erant 
+       <lb ed="#B" n="47"/>magis infirmorum personam accepit Christus: sublimius Paulus. &amp; infra. Cum enim videret Paulum  
+       <lb ed="#B" n="48"/>ista non esse quaesiturum, puidit ne damnaret quaesiturum: &amp; praebuit exemplum infirmo. Nota ex 
+       <lb ed="#B" n="49"/>his quod Paulus in eo quod non quaesiuit nec accepit annonam sibi debitam pro obsequio suo, firmus fuit, 
+       <lb ed="#B" n="50"/>non autem de numero infirmorum quorum personam gessit Christus, habendo loculos. Sed de nu- 
+       <lb ed="#B" n="51"/>mero illorum infirmorum erant omnes recipientes annonam in illis casibus in quibus Paulus non ac- 
+       <lb ed="#B" n="52"/>cepit. Vnde in hoc Paulus caeteris perfectior fuit &amp; apicem tenuit perfectionis: quam tanquam sibi propriam requ- 
+       <lb ed="#B" n="53"/>rit status perfectionis apostolicae, a qua caeteri per indulgentiam propter eorum infirmitatem a Christo generalitur con 
+       <lb ed="#B" n="54"/>cessam deficiebant: si tamen in istis casibus de euangelio vixerunt. Sed est aduertendum quod annonam aliqui infir 
+       <!--1065.xml-->
+       <pb ed="#B" n="512-v"/>
+        <lb ed="#B" n="1"/>morum quorum personam Christus gessit in loculis, erant quaesituri dupliciter: quidam ex debito officii sui quod impendebant:  
+       <lb ed="#B" n="2"/>quidam vero ex charitatis pietate tantum absque debito officii. Primo modo quaesituri erant caeteri apostoli. dominte Augus. 
+       <lb ed="#B" n="3"/>ibidem. Despens constituit vt qui euangelium enunciant de euangelio viuant. Misit praedicatores &amp; ait il- 
+       <lb ed="#B" n="4"/>lis: omnia quae apponuntur vobis manducate: dignus est enim operarius mercede sua. Cum enim dixisset: quae apponum 
+       <lb ed="#B" n="5"/>tur vobis manducate: ne illi dicerent improbi erimus ad mensas alienas: vis nos ita esse frontosos:  
+       <lb ed="#B" n="6"/>Non inquit: non est ista donatio eorum sed vestra merces. Et infra. Apostolus tam laboriosus: tam impi 
+       <lb ed="#B" n="7"/>ger: tam exercitatus vt ista non peteret: ego inquit nullius horum vsus sum: ostendit sibi deberi &amp; non 
+       <lb ed="#B" n="8"/>accepit: nec condemnauit eos qui acceperunt quod debebatur. Alii infirmorum quorum Christus personam ges- 
+       <lb ed="#B" n="9"/>sit in loculis, erant quaesituri ex charitate non ex debito officii: vt caeteri pauperes non rectores popu- 
+       <lb ed="#B" n="10"/>li: quibus in recipiendo debent priores infirmi praeferri: dicente Augu. ibidem. Ne dicatis: homines seruien- 
+       <lb ed="#B" n="11"/>tes non indigent nostri: quaere tamen ne quis indigeat: &amp; qui non indiget inueniat in te quod voluit accipe 
+       <lb ed="#B" n="12"/>re: &amp; noli dicere si petierit dabo. Expectas ergo vt petat: sic pascis bouem dei, quomodo transeuntem 
+       <lb ed="#B" n="13"/>mendicum. Si sic inter vos indigent milites Christi vt etiam petant: videte ne vos iudicent antequam petant. 
+       <lb ed="#B" n="14"/>&amp; infra. Da illi sed multo magis illis. Illi enim sunt vere pauperes de quibus dixit Christus. Matthaei. V 
+       <lb ed="#B" n="15"/>Beati pauperes spiritu. dicente Hierony. aduersus Vigilantium. Non simpliciter pauperes, sed paupe 
+       <lb ed="#B" n="16"/>res spiritu beati appellantur. de quibus scriptum est: Beatus qui intelligit super egenum &amp; pauperem. In vulgi 
+       <lb ed="#B" n="17"/>pauperibus sustentandis nequaquam intellectu sed eleemosyna opus est: in sanctis pauperibus beatitudo 
+       <lb ed="#B" n="18"/>est intelligere vt ei. tribuatur qui erubescit accipere: &amp; cum acceperit dolet metens carnalia &amp; seminans spi 
+       <lb ed="#B" n="19"/>ritualia. Et nota quod iicet respectu Pauli &amp; ipsi similium caeteri apostoli &amp; similes eorum infirmi sunt di  
+       <lb ed="#B" n="20"/>cti primo mode scilicet ad actum quaerendi sibi necessaria: firmi tamen erant ad exercendum rectorum officia, respe- 
+       <lb ed="#B" n="21"/>ctu quorum dicuntur infirmi illi qui quaesituri erant secundo modo: &amp; ipsi firmi. Infirmi dico ad exercendum  
+       <lb ed="#B" n="22"/>opera rectorum fortia. de quibus dicit <name ref="#Augustine">Augustinus</name> super psal. xxxvi. Neque aliquid in ecclesia agunt sicut prae 
+       <lb ed="#B" n="23"/>positi, velut in agricultura laborantes: sed veluti ad hoc infirmi secedunt ad otium &amp;c. vt iam supra. 
+       <lb ed="#B" n="24"/>Quare cum illud quod sit pro infirmis, potius indulgentia est minoris boni quam maioris boni perfectio:  
+       <lb ed="#B" n="25"/>sumere ergo annonam &amp; viuere de euangelio in casibus praedictis, dispensatio Christi generalis erat. 
+       <lb ed="#B" n="26"/>Et sicut fuit illa dispensatio a Christo per seipsum: sic reliquit ecclesiae potestatem dispensandi vt etiam 
+       <lb ed="#B" n="27"/>in dictis casibus praelati primo haberent possessiones communes dispensandas sibi &amp; pauperibus, quales ha  
+       <lb ed="#B" n="28"/>bebant apostoli communes cum tota primitiua ecclesia. vt habetur actuum. iiii. de illis enim portiones 
+       <lb ed="#B" n="29"/>suae ministrabantur apostolis, sicut &amp; caeteris, prout cuique opus erat. Secunda enim parte suploan.  
+       <lb ed="#B" n="30"/>sermo. xlv. in exponendo illud: Accepit eam discipulus in sua: quaerit Augustinus. dicens. Sed in quae sua loan  
+       <lb ed="#B" n="31"/>nes matrem domini accepit: neque enim non ex eis erat qui dixerant ei: ecce nos reliquimus omnia &amp; 
+       <lb ed="#B" n="32"/>secuti sumus te: sed ibi quoque audierat: quicumque ista dimiserit propter me accipiet in hoc saeculo ce- 
+       <lb ed="#B" n="33"/>ties tantum. Habebat ergo ille discipulus centupliciter plura quam dimiserat: in quae susciperet matrem eius 
+       <lb ed="#B" n="34"/>qui illa donauerat. Sed in ea societate loannes perceperat centuplum vbi nemo dicebat aliquid suum: 
+       <lb ed="#B" n="35"/>sed erant illis omnia communia, sicut in actibus apostolorum scriptum est. Sic enim apostoli erant 
+       <lb ed="#B" n="36"/>quasi nihil habentes &amp; omnia possidentes. Quomodo ergo accepit in sua vbi suum nemo aliquid dice- 
+       <lb ed="#B" n="37"/>bat: an quia paulo post in eodem libro legitur: quotquot enim possessiones praediorum vel domorumerant 
+       <lb ed="#B" n="38"/>vendentes afferebant praetia illorum &amp; ponebant ante pedes apostolorum: distribuebatur autem vnicuique  
+       <lb ed="#B" n="39"/>prout cuique opus erat: vt illic etiam beatae Mariae tanquam matri eius portio teneretur: magisque sic de-  
+       <lb ed="#B" n="40"/>bemus accipere quod dictum, ex illa hora accepit eam discipulus in sua: vt ad eius curam quicquid  
+       <lb ed="#B" n="41"/>esset ei necessarium pertineret: Accepit ergo eam in sua, non praedia quae nulla proprie possidebat, sed  
+       <lb ed="#B" n="42"/>officia quae propria dispensatione exequenda curabat: sic reuera erat: sed in hoc generali includitur 
+       <lb ed="#B" n="43"/>illud. ad curam enim loannis pertinebat quod de communi ad sibi &amp; Mariae necessaria duplicem por- 
+       <lb ed="#B" n="44"/>tionem acciperet: vnam pro se: alteram pro Maria, quia tempore illo ab illis quibus praedicabant nihil 
+       <lb ed="#B" n="45"/>aliter accipiebant quam quod conuersi omnia bona sua bonis communibus adiungebant. Et sicut Christus 
+       <lb ed="#B" n="46"/>reliquit ecclesiae potestatem dispensandi primo hoc est in primitiua ecclesia, vt praelati haberent pos 
+       <lb ed="#B" n="47"/>sessiones mobilium communes dispensandas sibi &amp; pauperibus: sic reliquit ei potestatem dispensan 
+       <lb ed="#B" n="48"/>di consequenter crescente ecclesia vt praelati haberent praedia &amp; possessiones immobilium: quorum fru- 
+       <lb ed="#B" n="49"/>ctus sibi &amp; pauperibus dispensabant. dicente Melchiade papa, xiquaestid ei. Futuram ecclesiam in gentibus 
+       <lb ed="#B" n="50"/>apostoli praeuidebant: idcirco praedia in iudaea minime sunt adepti sed pretia tantummodo ad fouen- 
+       <lb ed="#B" n="51"/>dos egentes &amp; caetera. Et Vrbanus papa ibidem. Videntes autem summi sacerdotes &amp; alii leui- 
+       <lb ed="#B" n="52"/>tae &amp; reliqui fideles plus vtilitatis posse conferre si haereditates &amp; agros quos vendebantur, ecclesiis 
+       <lb ed="#B" n="53"/>quibus praesidebant apostoli traderent, eo quod ex sumptibus eorum tam praesentibus quam futuris tem 
+       <lb ed="#B" n="54"/>poribus plura &amp; elegantiora possent ministrare fidelibus communem vitam ducentibus, quam ex pretio eo- 
+       <!--1066.xml-->
+       <pb ed="#B" n="513-r"/>
+        <lb ed="#B" n="1"/>rum, coeperunt praedia &amp; agros quos vendebantur ecclesiis tradere &amp; ex fructibus eorum viuere &amp;c. 
+       <lb ed="#B" n="2"/>&amp; hoc sine omnis perfectionis diminutione. vt ibidem in cap. Expedit: dicitur, quid etiam iam amplius decla- 
+       <lb ed="#B" n="3"/>rabitur. Deinceps procedente tempore ex eadem potestate dispensatum est ab ecclesia, quod tam clerici quam episcopi:  
+       <lb ed="#B" n="4"/>cum commnibus possent habere propria: dicente <name ref="#Augustine">Augustinus</name> de clericis in sermone de communi vita clericorum. &amp; habetur ibi 
+       <lb ed="#B" n="5"/>dem. Certe ego sum qui statueram &amp;c. &amp; de eprseis dicitur in capitulis sequentibus. Sed non sine omni 
+       <lb ed="#B" n="6"/>ignominia hac indulgentia vtuntur. dicente Hierony. ad Nepotianum: Gloria episcopi est pauperum 
+       <lb ed="#B" n="7"/>opibus prouidere: ignominia omnium sacerdotum est, propriis studere diuitiis. Et per eundem modum dispem 
+       <lb ed="#B" n="8"/>satum fuit ab initio de haosbendis vxoribus: &amp; in hoc detractum est a perfectione status praelatorum a Chri 
+       <lb ed="#B" n="9"/>sto instituti: quia licet praelati habentes propria &amp; vxores sunt in statu perfectionis, non tamen in ipsis per 
+       <lb ed="#B" n="10"/>fecte obseruatur: &amp; sic in hoc nihil omnino subtrahitur siue derogatur statui in se siue perfectioni eius, sed solum 
+       <lb ed="#B" n="11"/>modo perfectioni personali existentium in statu, quemadmodum si dispensatum esset cum monachis propter aliquam infir 
+       <lb ed="#B" n="12"/>mitatem ne tenerentur obedire abbatibus: in quibus modo tenentur obedire eisdem: hoc in nullo derogaret 
+       <lb ed="#B" n="13"/>statui in quo essent neque perfectioni illius, sed solummodo perfectioni personali. Quia ergo dicitur in ar 
+       <lb ed="#B" n="14"/>gumento quod status praelationis compatitur secum ptopria &amp; vxores: ergo non est status perfectionis: dico 
+       <lb ed="#B" n="15"/>primo quod si status praelatorum fuit a Christo institutus vt requireret ex debito abrenunciationem propriorum 
+       <lb ed="#B" n="16"/>&amp; vxorum, non oportet quod hoc diminuat de ratione status, sed solum de perfectione personali. Si vero Qquid  
+       <lb ed="#B" n="17"/>verius credo secundum praedicta) status praelatorum fuit institutus a Christo, sic quod ex debito essent praela 
+       <lb ed="#B" n="18"/>ti dispositi ad exercendum opera perfectionis secundum dictum modum: dico quod illa duo etiam per indul- 
+       <lb ed="#B" n="19"/>gentiam concessa infirmis animo qui propriis &amp; vxoribus carere non possunt: summe diminuunt rationem parfe 
+       <lb ed="#B" n="20"/>ctionis personae licet non status: vt nullo modo fsine diminutione personalis perfectionis possint habere. inquantum tamen 
+       <lb ed="#B" n="21"/>sunt in statu executionis officii praelaturae, semper in statu perfectionis sunt. Sed tunc arguet aliquis quod tunc eadem 
+       <lb ed="#B" n="22"/>ratione habere conmunia siue mobilia siue immobilia diminueret de ratione perfectionis: contra il- 
+       <lb ed="#B" n="23"/>lud quod dicitur. xii. quo. i. Expedit facultates ecclesiae &amp;c. Dico quod non est simile de bonis proprietariis 
+       <lb ed="#B" n="24"/>&amp; de bonis communibus ecclesiae maxime pertinentibus ad dispensationem praelatorum: illa enim possi 
+       <lb ed="#B" n="25"/>deri non possunt a praelatis sine speciali dispensatione secundum dictum modum: &amp; similiter non  
+       <lb ed="#B" n="26"/>absque diminutione perfectionis personalis: sed bona communia ecclesiae sine omni diminutione etiam persona 
+       <lb ed="#B" n="27"/>li praelatorum eodem modo possunt possideri sicut &amp; accipi sumptus annonae a seruientibus euange 
+       <lb ed="#B" n="28"/>lio. Ad cuius ampliorem intellectum Sciendum est quod praelati si apicem status perfectionis suae quam  
+       <lb ed="#B" n="29"/>ex natura sua requirit, seruare vellent sicut seruauit Paulus in casibus praedictis: &amp; occurreret oppor- 
+       <lb ed="#B" n="30"/>tunitas nihil omnino percipiendi a subditis sicut occurrebat tempore Pauli, in apice perfectionis sta- 
+       <lb ed="#B" n="31"/>tus quem requirit apostolatus de natura sua essent illi praelati solummodo qui pro laboribus suis 
+       <lb ed="#B" n="32"/>annonam non quaererent quam possent petere a subditis, sicut solus Paulus tempore apostolorum api- 
+       <lb ed="#B" n="33"/>cem perfectionis custodiuit quando solus nihil horum quaesiuit: si tamen alii quaesiuerunt: quando hae eaedem 
+       <lb ed="#B" n="34"/>causae erant apud illos quae erant apud Paulum, vt iam supra dictum est. Intelligo ergo quod non erat de 
+       <lb ed="#B" n="35"/>statu perfectionis apostolicae &amp; ex natura sua non petere annonam a subditis nisi tempore opportu- 
+       <lb ed="#B" n="36"/>no: scilicet casibus illis occurrentibus: illis enim non occurrentibus laborare pro victu cursum praedi 
+       <lb ed="#B" n="37"/>cationis &amp; officii praelationis potius impediret quam promoueret. Cum ergo talis opportunitas scili- 
+       <lb ed="#B" n="38"/>cet non accipiendi occurrit, tunc puto accipere annonam esse in generali indulgentia propter infir- 
+       <lb ed="#B" n="39"/>mitatem non valentium laborare: sed istam indulgentiam puto contineri sub institutione status apo- 
+       <lb ed="#B" n="40"/>stolici a Christo: &amp; tunc credo quod diminueret perfectionem personalem in accipiente etiam tantummodo  
+       <lb ed="#B" n="41"/>annonam nouam de hora in horam secundum quod est necesse: quasi habendo solum &amp; nudum vsum  
+       <lb ed="#B" n="42"/>facti. Et quia iste casus saepius natus est contingere, ideo generaliter dominus ordinauit vt qui ser- 
+       <lb ed="#B" n="43"/>uiret euangelio, de euangelio viueret: tam in tempore quo dicti casus occurrerent quam in alio: licet siquis posset &amp; 
+       <lb ed="#B" n="44"/>vellet in alio tempore &amp; in illo laborare acquirendo victum non prohiberetur de laboribus viue- 
+       <lb ed="#B" n="45"/>re. Sed hoc tempus non de facili occurrit: immo frequentius tanta occurrit occupatio vt potius vel 
+       <lb ed="#B" n="46"/>let praelatus labore victum quaerere quam laboribus officii sui insudare si liceret. dicente Augustu. libro 
+       <lb ed="#B" n="47"/>de opere monachorum. Non alligamus onera grauia &amp; humeris vestris imponimus quae nos di-  
+       <lb ed="#B" n="48"/>gito non tangimus: quandoquidem si officii nostri salua ratione possemus (vt nouit ille qui scruta 
+       <lb ed="#B" n="49"/>tur corda nostra ) mallemus hoc agere quae vt agatis hortamur: quam ea quae nos agere cogimur. 
+       <lb ed="#B" n="50"/>Cum autem adest tempropnus quo recipi potest fine diminutione personalis perfectionis annona a subditis quo ad  
+       <lb ed="#B" n="51"/>vsum facti, tunc etiam sine omni diminutione personalis perfectionis quantum est ex parte sua pos 
+       <lb ed="#B" n="52"/>sideri a praelatis possunt ecclesiae comonia tam in mobilibus quam in immobilibus. &amp; sic omnino eodem modo fine omni diminu  
+       <lb ed="#B" n="53"/>tione perfectionis possunt praelati ad suum vsum &amp; pauperum bona ecclsiae possidere: tam mobilia quam immobilia 
+       <lb ed="#B" n="54"/>quia vt apostoli fine omni diminutione perfectionis poterunt viuere de euangelio. Sed distinguendum est hic ex parte 
+       <!--1067.xml-->
+       <pb ed="#B" n="513-v"/>
+        <lb ed="#B" n="1"/>personarum: quia praelati qui possident eas, aut possident ipsas eo animo quod non plus acciperent pro sequam si de 
+       <lb ed="#B" n="2"/>die in diem administraretur eis annona a subditis: &amp; sic de bonis communibus pauperum viuerent:  
+       <lb ed="#B" n="3"/>sicut vnus ex pauperibus: Dico quod in talibus nullo modo diminueret nec de perfectione status nec 
+       <lb ed="#B" n="4"/>de perfectione personae quae est in statu: immo magis persectionem personae augmentaret in eo vide- 
+       <lb ed="#B" n="5"/>licet quod meritum magnum haberet in bene dispensando pauperibus quod vltra, propriam necessitatem re 
+       <lb ed="#B" n="6"/>maneret. Et ideo non solum non diminuit de perfectione sed etiam expedit sic communia possidere praelatos 
+       <lb ed="#B" n="7"/>&amp; propria perfectionis amore contemni: vt dicit capitu praedictum. Siqui autem praelatorum possident com 
+       <lb ed="#B" n="8"/>munes possessiones ecclesiae tali animo vt ex eis lautius viuant &amp; eis carere aequo animo non possent 
+       <lb ed="#B" n="9"/>etiam si eis subiecti fine difficultate &amp; prompte ministrarent necessaria quolibet tempore prout opus 
+       <lb ed="#B" n="10"/>esset: dico quod in istis nihil diminueret omnino de perfectione status, sed multum diminueret de me 
+       <lb ed="#B" n="11"/>rito &amp; perfectione personae. Quia autem assumitur in argumento quod status qui compatitur: secum opera imper- 
+       <lb ed="#B" n="12"/>fectionis, non est status perfectionis, sicut nec est status virtutis qui secum compatitur vitium: Dico quod du  
+       <lb ed="#B" n="13"/>plex est imperfectio, scilicet infirmitatis quae poena est non culpa, licet non sit in homine nisi ex cul 
+       <lb ed="#B" n="14"/>pa, propria vel originali: propter quam infirmitatem indultae sunt nuptiae non tanquam peccatum sed tan  
+       <lb ed="#B" n="15"/>quam minus bonum. Alia vero est imperfectio culpae. De primo modo imperfectionis est infirmitas pro-  
+       <lb ed="#B" n="16"/>pter quam in praelatis indulgentur, propria &amp; vxores: &amp; ideo illa compatitur status perfectionis illorum, licet cum ali 
+       <lb ed="#B" n="17"/>qua diminutione, vt dictum est, quia. scilicet non contrariatur omnino statui. Et de secundo modo est vitium 
+       <lb ed="#B" n="18"/>quid est omnino contrarium virtuti: &amp; ideo status virtutis vitium nullo modo compatitur: &amp; sic nequa-  
+       <lb ed="#B" n="19"/>quam est simile. Ad aliud quo arguitur quod non est. status perfectionis nisi ex voto: dico quod verum est religio- 
+       <lb ed="#B" n="20"/>sorum inquantum sunt religiosi pro modo quo isto tempore dicitur esse status perfectionis in religione. 
+       <lb ed="#B" n="21"/>Aspiciendo tamen ad naturam rei propter quam aliquis status dicitur esse status perfectionis: scilicet quia 
+       <lb ed="#B" n="22"/>ordinat hominem ad opera persectionis exercenda: bene potest esse status perfectionis absque vo- 
+       <lb ed="#B" n="23"/>to, vt in praelatis quo ad paupertatem &amp; castitatem, nisi sic fuisset institutum a Christo: quia ista non per  
+       <lb ed="#B" n="24"/>tinent per se ad executionem actuum perfectorum praelationis sicut religionis. Habendo tamen aspectum 
+       <lb ed="#B" n="25"/>ad modum iam dictum institutionis praelatorum a Christo, ista duo non obseruare, diminuit de ra-  
+       <lb ed="#B" n="26"/>tione perfectionis praelatorum personalis: quao si obseruarentur etiam sine voto, pro tanto ipsam augerent: &amp; 
+       <lb ed="#B" n="27"/>magis augerent si cum voto. quia omnia bona facta sub voto maioris meriti sunt aliis eisdem retentis 
+       <lb ed="#B" n="28"/>secundum Ansel. libro de similitudinibus. cap. xxxv. Quia si Christus non instituisset vota huiusmo 
+       <lb ed="#B" n="29"/>di scilicet paupertatis &amp; castitatis fuisse de essentia status praelatorum, vt nulla dispensatione opus fuis- 
+       <lb ed="#B" n="30"/>set ad non obseruantiam illorum, tunc illorum non obseruantia in nullo diminuisset de perfectione 
+       <lb ed="#B" n="31"/>status nec in se nec in istis: sed solummodo de personae perfectione siue status vt obseruatur ab istis, 
+       <lb ed="#B" n="32"/>vt patet ex dictis. Quia vero additur quod virginitas non honoratur nisi quia est sub voto: quia nec ali 
+       <lb ed="#B" n="33"/>cuius habet statum perfectionis: Dico quod est quaedam virginitas despecta, quaedam laudata, quae-  
+       <lb ed="#B" n="34"/>dam honorata, quaedam acceptata. Despecta est virginitas proponentium nubere. dicente <name ref="#Augustine">Augustinus</name> libro 
+       <lb ed="#B" n="35"/>de virgi. Felicior videtur mihi nupta mulier quam virgo nuptura, habet enim illa quod ista adhuc cu 
+       <lb ed="#B" n="36"/>pit incerta cui danda est: licet vni pudicitiam custodit segregato a turba: illa vero non adulterum sed  
+       <lb ed="#B" n="37"/>maritum quaerit in turba. Laudata virginitas est proponentium deo perpetuam pudicitiam conser- 
+       <lb ed="#B" n="38"/>uare. de qua dicit <name ref="#Augustine">Augustinus</name> in eodem. Virginalis integritas &amp; per piam continentiam ab omni con- 
+       <lb ed="#B" n="39"/>cubitu immunitas est in carne corruptibili incorruptionis perpetuae meditatio. Et libro primo de 
+       <lb ed="#B" n="40"/>ciuita. dei. Si anim bonum est cum immundicitiae non cedit: ipsum corpus sanctificat. Constat autem quod per- 
+       <lb ed="#B" n="41"/>petua talis meditatio &amp; quod nunquam cedat immunditiae bene potest esse sine voto: corpus autem non san-  
+       <lb ed="#B" n="42"/>ctificaret nisi ex tali proposito quodammodo deo dicata esset. Honorata virginitas est illa quae est fir 
+       <lb ed="#B" n="43"/>mata voto. de qua loquitur auctoritas <name ref="#Augustine">Augustinum</name> arguendo introducta. Acceptata virginitas est par  
+       <lb ed="#B" n="44"/>episcopalem benedictionem sanctificata. Et in qualibet harum trium meretur aureola. Non enim est 
+       <lb ed="#B" n="45"/>ad ipsam promerendam vllum votum necessarium, vt patet in martyribus: &amp; quolibet horum mo 
+       <lb ed="#B" n="46"/>dorum est puella in statu virginitatis. sed in prima inchoatur matrimonium spirituale cum Chri 
+       <lb ed="#B" n="47"/>sto quasi per sponsalia de futuro: in secunda confirmatur quasi matrimonium per consensum de praesenti: in ter 
+       <lb ed="#B" n="48"/>tia vero consummatur quasi in coniunctione &amp; copula cum sponso. &amp; sic nihil arguit illud dictum 
+       <lb ed="#B" n="49"/>Augustinus nisi quod altiorem gradum in statu virginali ponit votum sicut facit in quolibet actu: nec 
+       <lb ed="#B" n="50"/>tamen votum extendit quemlibet actum ad summum, aliquis enim actus sub voto inferior bene po 
+       <lb ed="#B" n="51"/>test esse quam alter sine voto: non enim obseruantia virginitatis sub voto excedit aut aequiparatur martyrio 
+       <lb ed="#B" n="52"/>perpesso sine voto. dicente <name ref="#Augustine">Augustinus</name> in libro de virginitate. Nemo quantum puto ausus fuerit virginita 
+       <lb ed="#B" n="53"/>tem praeferre, martyrio. Ex quo minus rationabiliter mihi videntur aliqui dicere: quod aspiciendo ad illud cui 
+       <lb ed="#B" n="54"/>vacant praelati, perfectiores sunt simpliciter praelati &amp; officio &amp; merito &amp; statu: &amp; hoc ideo quia in deducen- 
+       <!--1068.xml-->
+       <pb ed="#B" n="514-r"/>
+        <lb ed="#B" n="1"/>tibus vitam suam secundum ea quae pertinent ad illum statum, maiorem perfectionem requirit, &amp; maiorem perfectionem acquirit, 
+       <lb ed="#B" n="2"/>quam si deducerent vitam suam secundum statum religiosorum, eo quod in statu praelatorum vacatur sibi &amp; aliis: in statu autem reli 
+       <lb ed="#B" n="3"/>giosorum sibi tantum: &amp; difficilius &amp; melius est pluribus bene intendere quam vni. Item status praelatorum se ha-  
+       <lb ed="#B" n="4"/>bet ad statum religiosorum sicut status magistrorum ad statum discipulorum. Magister autem debet esse 
+       <lb ed="#B" n="5"/>perfectior discipulo: nemo enim debet esse magister qui non fuerit ante discipulus. Aspiciendo  
+       <lb ed="#B" n="6"/>autem ad vacandi modum qui attenditur ex voto vel obligatione qua vacatur operi: status religio- 
+       <lb ed="#B" n="7"/>sorum perfectior est merito: quia vacant deo in se non solum ex officio sed etiam ex voto: &amp; ideo ad  
+       <lb ed="#B" n="8"/>duplicem perfectionem attingit, ad vnam ex ipso facto: ad alteram ex modo faciendi scilicet sub maiori distri 
+       <lb ed="#B" n="9"/>ctione &amp; custodia. propter quod perfectius vacant religiosi quam quicumque alii sine voto, &amp; ex maiori vo 
+       <lb ed="#B" n="10"/>luntate: ex qua opus debet pensari magis quam ex eius arduitate. Vnde dicunt quod si praelati facerent votum 
+       <lb ed="#B" n="11"/>cum hoc quod faciunt opera perfectiora, &amp; facerent ex voto quod faciunt ex officio, tunc essent perfectio- 
+       <lb ed="#B" n="12"/>res &amp; status eorum perfectior: sicut erant apostoli qui fecerunt ex voto &amp; officio simul quod fecerunt: vt sic 
+       <lb ed="#B" n="13"/>praelati abiicerent superflua statui suo &amp; cauerent mulierum suspecta confortia: &amp; nihil facerent nisi de 
+       <lb ed="#B" n="14"/>voluntate confessoris sui: &amp; tunc essent omnino holocaustum sicut religiosi, cum modo non sunt nisi sacrifi 
+       <lb ed="#B" n="15"/>cium: quid minus est secundum Grego. super Eze, per ii. Homi. viii. Forma respondendi in toto dicto isto vnica est &amp; 
+       <lb ed="#B" n="16"/>breuis: quod modus operandi ex deuotione &amp; feruore magis debet pensari in perfectione &amp; praeeminentia 
+       <lb ed="#B" n="17"/>operis quam ipsum genus operis. &amp; ideo opera religiosorum quia ex voto sunt facta quo homo se totum obligat 
+       <lb ed="#B" n="18"/>deo, quantum est ex ratione voti perfectiora sunt &amp; meliora quam praelatorum: licet illa sint de genere operis magis ar 
+       <lb ed="#B" n="19"/>dua. Et est clarum quod forma ista procedendi non valet: quia, vt dictum est, quantuncumque virginitas obserue 
+       <lb ed="#B" n="20"/>tur ex voto, tamen martyrium quid deuore sustinetur pro deo, semper perfectius &amp; melius opus est. Nihil ergo valet 
+       <lb ed="#B" n="21"/>totum illud dictum in se: quod bene sentientes dixerunt: quod illud maxime tenet in illis quae non multum seinuicem 
+       <lb ed="#B" n="22"/>excedunt sicut contemplatiua pura religiosorum &amp; contemplatiua praelatorum. Vnde diei de coon. di. v capiua. Non me- 
+       <lb ed="#B" n="23"/>diocriter. Magis est quinque psalmorum cantatio cum cordis puritate quam totius psalterii cum anxietate. Hinc 
+       <lb ed="#B" n="24"/>etiam dicitur in collat, patrum col. ii. Melius est esse deuotum in minoribus quam in maioribus indeuotum inueni 
+       <lb ed="#B" n="25"/>ri. Dico quod velite verum est quod aliis eisdem retentis melius &amp; perfectius est opus quod fit sub voto quam quod sit sine 
+       <lb ed="#B" n="26"/>vote. scilicet in eodem genere actionis &amp; cum aequali feruore charitatis. Esto etiam quod illud sit melius quonio in valde 
+       <lb ed="#B" n="27"/>modico ista se excedunt: quandocumque tamen ista multum se excedunt, melius faciunt opus &amp; perfectius illi qui opus per- 
+       <lb ed="#B" n="28"/>fectionis multae faciunt sine voto quam illi qui faciunt minus perfectum cum voto, puta de genere operis in virginitate 
+       <lb ed="#B" n="29"/>&amp; martyrio, vt dictum est. De deuotione autem operantis, puta si religiosus dicit horas in tepida deuotio 
+       <lb ed="#B" n="30"/>ne, saecularis autem in multum feruente, melius est &amp; perfectius opus saecularis in hoc quam religiosi. Vnde non bene 
+       <lb ed="#B" n="31"/>distinguit quando pro eodem accipit votum &amp; deuotionem. In proposito autem dico quod reuera si praelati vouerent si 
+       <lb ed="#B" n="32"/>cut fecerunt apstoli, perfectiores essent quam nunc sunt: sed non in perfectiori statu, etiam si status eorum ex debi 
+       <lb ed="#B" n="33"/>to requireret votum: quia si non requreret status eorum votum nisi ex congruo, non esset status eorum ex hoc imper- 
+       <lb ed="#B" n="34"/>fectior neque in se, neque vt ab illis obseruatur: licet ipsi essent ex hoc imperfectiores. Sed quocunque modo  
+       <lb ed="#B" n="35"/>in hoc res se habeat: dico quod status praelatorum inquantum ordinantur ad seruandum ipsum, &amp; quo ad illud ad quod  
+       <lb ed="#B" n="36"/>ordinantur ad seruandum de eo, perfectior est etiam sine voto: &amp; similiter opera illorum quae competunt 
+       <lb ed="#B" n="37"/>eis ratione status quam quaecumque opera religiosorum quae competunt eis ratione status: &amp; quam status eorum 
+       <lb ed="#B" n="38"/>etiam sub voto quocumque, etiam si praelati nullo modo vlla obligatione astringerentur ad operastatus sui exer 
+       <lb ed="#B" n="39"/>cenda: quod tamen falsum est secundum praedicta. Quid declaro primo ex ratione &amp; conditione ipsius praelati cuius est 
+       <lb ed="#B" n="40"/>exercere opera congruentia statui. Secundo ex ratione &amp; conditione ipsius status. Tertio ex ratione &amp; conditione 
+       <lb ed="#B" n="41"/>operum quae debet exercere ratione sui status. Secundum vtramque enim rationem intantum excedunt status &amp; opera praela- 
+       <lb ed="#B" n="42"/>torum statum &amp; opera religiosorum quod nullo modo poent votum illa parificare istis. Primum patet: quia quando aliquis 
+       <lb ed="#B" n="43"/>religiosus deductus est ad summum aliquid &amp; perfectum per opera, propria religioni: tunc primo est idoneus vt as- 
+       <lb ed="#B" n="44"/>sumatur in praelatum ad exercendum opera praelationis. Debet enim praelatus stati esse in omni genere virtutis excelsus:  
+       <lb ed="#B" n="45"/>dicente Grego. i. paste. xi. Ille modis omnibus debet ad exemplum viuendi protrahi qui cunctis carnis 
+       <lb ed="#B" n="46"/>passionibus moriens iam spiritualiter viuit: qui prospera mundi postponit: qui nulla aduersa pertimescit: 
+       <lb ed="#B" n="47"/>qui sola interna desiderat. De hoc etiam satis est dictum supra. Hinc dicit Amb. libro de dignitate sacer 
+       <lb ed="#B" n="48"/>dotali. Audite stirps leuitica: germen sacerdotale: propago sanctificata: duces &amp; rectores gregis Chri 
+       <lb ed="#B" n="49"/>sti. &amp; infra. Haec nos praemisisse debetl cognoscere vt ostenderemus nihil esse in hoc saeculo excellentius sacerdo  
+       <lb ed="#B" n="50"/>tibus: nihil sublimius epseis repeiri: vt cum digne modostramus quid sumus professione, quid sumus, actione potius quam nomine 
+       <lb ed="#B" n="51"/>demonstremus. Secundum patet: quia in illo statu casus grauior est ergo econuerso debet esse perfectus ma 
+       <lb ed="#B" n="52"/>ior: vt etiam dictum est per <name ref="#Augustine">Augustinus</name> supra ex epistola ad Valerium. hinc dicit Amb. vbi supra. Sicut diximus nihil 
+       <lb ed="#B" n="53"/>esse epseo excellentius sic nihil est miserabilius si de sancta vita periclitetur: si sacerdos in crimine teneatur:  
+       <lb ed="#B" n="54"/>&amp; vt leuius est de plano corruere: sic grauius est qui de sublimi ceciderit dignitate. &amp; caetera.  
+       <!--1069.xml-->
+       <pb ed="#B" n="514-v"/>
+        <lb ed="#B" n="1"/>quia semper optimis permixta sunt pessima Hinc dicit Grego. exponendo illud lob. xix. Abstulit coro- 
+       <lb ed="#B" n="2"/>nam de capite meo. libro moral. xiiii. Caput fidelium non immerito sacerdotes accipimus: quia pars men 
+       <lb ed="#B" n="3"/>brorum Christi prima sunt. Corona ergo de capite aufertur cum supernae remunerationis praemia ipsi 
+       <lb ed="#B" n="4"/>etiam deserunt qui in hoc ecclesiae corpore praeesse videbantur: &amp; plerumque ducibus cadentibus latius succun- 
+       <lb ed="#B" n="5"/>bit exercitus qui sequebatur. Tertium patet per Grego. dicentem in pastor. cap. xiii. Qui ad pastora a 
+       <lb ed="#B" n="6"/>lis officii magisterium digne peruenerit: in eo quaeliter viuere debeat demonstramus. Oportet namque vt me 
+       <lb ed="#B" n="7"/>tiri sollicite studeat sub cuius aestimatione populus grex vocatur. Sit ergo necesse est vt cogita- 
+       <lb ed="#B" n="8"/>tione mundus: actione praecipuus: discretus in silentio: vtilis in verbo: singulis compassione proxi- 
+       <lb ed="#B" n="9"/>mus: prae cunctis in contemplatione suspensus: bene agentibus per humilitatem socius, contra de 
+       <lb ed="#B" n="10"/>linquentium vitia per zelum iustitiae erectus: internorum curam in exteriorum occupatione non mi 
+       <lb ed="#B" n="11"/>nuens. secundum quod singula horum prosequitur in singulis capitulis. Ecce qui talis est &amp; in tam ar- 
+       <lb ed="#B" n="12"/>duo positus quod talia agere oportet, quomodo ei in operibus potest comparari religiosus: quia supre- 
+       <lb ed="#B" n="13"/>mum in quo religiosus opus suum terminat, tam ex parte personae operantis quam ex parte operis, in  
+       <lb ed="#B" n="14"/>simum debet esse a quo praelatus inchoat. Religionis enim est de imperfectis perfectos facere, &amp; ab  
+       <lb ed="#B" n="15"/>operibus imperfectis ad perfectiora perducere: &amp; quasi paruulum lacte nutrire. Praelationis est 
+       <lb ed="#B" n="16"/>iam perfectos in opus perfectius quam sit opus cuiuscunque religiosi inquantum religiosus est, &amp; in agen 
+       <lb ed="#B" n="17"/>do &amp; in contemplando inducere. Vt enim patet ex praedictis excellentior est actio praelati quam contem 
+       <lb ed="#B" n="18"/>platio religiosi. Est etiam eminentior eius contemplatio mixta cum actione quam simplex contempla- 
+       <lb ed="#B" n="19"/>tio religiosi. Quomodo ergo solum votum in perfectione religiosum praeferre potest praelato cuius 
+       <lb ed="#B" n="20"/>dispositio perfectior, &amp; in omnibus maior debet esse charitas &amp; deuotio, cum hoc quod de genere suo 
+       <lb ed="#B" n="21"/>maior est eius actio: Ex quo patet vanum esse quod dicunt: quod status praelationis exigit meliores in-  
+       <lb ed="#B" n="22"/>uenire: sed status religionis exigit meliores reddere. quoniam quantuncumque bonum reddit religio, vix suffi 
+       <lb ed="#B" n="23"/>cit ad praelationis statum: quia, vt iam dicetur, bonus monachus vix erit bonus clericus. Et iterum sta 
+       <lb ed="#B" n="24"/>tus praelationis non solum requirit meliorem inuenire quam religionis: immo meliorem reddere, quia &amp; 
+       <lb ed="#B" n="25"/>plus augetur charitas per actionem mixtam cum contemplatione in praelatis, quam per contemplationem 
+       <lb ed="#B" n="26"/>putam in religiosis, vt dictum est. Vnde dicit <name ref="#Augustine">Augustinus</name> super loannem. ser. penultimo. Vis amoris in eo qui pascit oues 
+       <lb ed="#B" n="27"/>Christi, in tam magnum debet spiritualem crescere ardorem, vt vincat etiam mortis natural em ti- 
+       <lb ed="#B" n="28"/>morem quo mori nolumus. Et sic licet perfectius esset perfectum facere quam perfectum inuenire, si in  
+       <lb ed="#B" n="29"/>ueniens vlterius &amp; amplius non perficeret inuentum: sicut est perfectius diuitem facere quam diuitem in  
+       <lb ed="#B" n="30"/>uenire: si inuentus non amplius ditaretur: perfectius tamen imperfectum inuenire &amp; multo am- 
+       <lb ed="#B" n="31"/>plius perfectiorem facere quam ille prius factus est &amp; quam fieri potuit ab illo qui prius ipsum perfecit: quam ab  
+       <lb ed="#B" n="32"/>initio perfectum simpliciter facere: sicut perfectius est diuitem inuentum multo amplius ditare, quam ditare po- 
+       <lb ed="#B" n="33"/>tuit ille qui ab initio ditauit: quam ab initio illum ditare simpliciter. Haec &amp; talia deberent praedicare de praelatis re- 
+       <lb ed="#B" n="34"/>ligiosi: quia hoc cederet etiam multum in religionis honorem, quod scilicet status ille talis &amp; tantus esset, vt inde  
+       <lb ed="#B" n="35"/>praelati laudabiles assumantur. &amp; hoc vice versa deberent praedicare praelati de religiosis. dicente Augustinum. xii. 
+       <lb ed="#B" n="36"/>libro contra Faustum cap. xxiiii. Quis non videt toto orbe terrarum homines ab operationibus saeculi &amp; ire in  
+       <lb ed="#B" n="37"/>otium contemplandae veritatis: &amp; econuerso accipi in ecclesiastica necessitate atque ordinari: quibus ministe- 
+       <lb ed="#B" n="38"/>rium dei caste dispensantibus laudatur &amp; a populis illa vita cuius amore conuersi spem saeculi relique- 
+       <lb ed="#B" n="39"/>runt: &amp; ex cuius professione ad misericordiam regendae plebis assumpti sunt: idque agunt in omnibus laboribus 
+       <lb ed="#B" n="40"/>suis, vt illa professio quia tales rectores populis dedit, latius &amp; clarius glorificetur. Item Hieronymus ad  
+       <lb ed="#B" n="41"/>Euriam. Quicquid in monachos dicitur redundat in clericos qui patres sunt monachorum. Detrimentum pecoris 
+       <lb ed="#B" n="42"/>pastoris ignominia est, sicut eregione monachi illius vita laudatur qui venerationi habet sacerdotes 
+       <lb ed="#B" n="43"/>Christi &amp; non detrahit gradui per quem factus est christianus. Sic ergo statu religionis qui imperfe- 
+       <lb ed="#B" n="44"/>ctos &amp; sceleratos recipit vt perfectos faciat, multo persectior est status qui quantum est ex se non ni 
+       <lb ed="#B" n="45"/>si perfectos aut perfectiores recipit, &amp; eos perfectiores quantum est ex se reddit. Sed dicunt: quod pluri 
+       <lb ed="#B" n="46"/>bus intentus minor est ad singula sensus: vt dicit Glos. super illud Exo. xviii. Leuius sit tibi partitoi 
+       <lb ed="#B" n="47"/>alios onere. Dico quod illud verum est aliis eisdem retentis in persona intenta pluribus, &amp; in alia perso- 
+       <lb ed="#B" n="48"/>na non sic intenta: sed quandocumque eminens excessus est personae super personam: personae multum emi- 
+       <lb ed="#B" n="49"/>nenti maior est sensus ad singula &amp; ad plura quam ainteri ad vnum aut ad pauciora: &amp; per hoc melius 
+       <lb ed="#B" n="50"/>seruat pacem pecoris &amp; innocentiam, &amp; caetera quae seruari debent in homine perfecto, qualis 
+       <lb ed="#B" n="51"/>debet esse praelatus. Aspicimus enim in his dictis &amp; in determinatione nostra non ad praelatum quem 
+       <lb ed="#B" n="52"/>talem esse in ecclesia cognouimus. forte tamen multi sunt tales deo noti, licet hominibus incogni 
+       <lb ed="#B" n="53"/>ti) sed qualem nobis depingimus non vana curiositate sed solida ratione describendo qualis debet 
+       <lb ed="#B" n="54"/>esse praelatus &amp; in primo ordine &amp; secundo respectu religiosi supremi in suo ordine, respectu 
+       <!--1070.xml-->
+       <pb ed="#B" n="515-r"/>
+        <lb ed="#B" n="1"/>quorum debet attendi comparatio penes praeminentiam. Quod enim melius est in melius disposito, hoc 
+       <lb ed="#B" n="2"/>est melius simpliciter. Sicut enim intendere oportet ex secundum naturam habentibus quod ma-  
+       <lb ed="#B" n="3"/>gis est natura: &amp; non in corruptis &amp; pestilentibus secundum naturam: vt dicit <name ref="#Aristotle">Philosophus</name> in primo Po- 
+       <lb ed="#B" n="4"/>liticae &amp; habitum est supra: sic oportet intendere ex secundum persectionem habentibus quod  
+       <lb ed="#B" n="5"/>magis est perfectum, &amp; non in corruptis &amp; pestilentibus. Esto ergo quod praelati qui modo videntur 
+       <lb ed="#B" n="6"/>in ecclesia tam episcopi quam sacerdotes corrupti vita &amp; pestilentes sint moribus &amp; scientia: quid absit: &amp; 
+       <lb ed="#B" n="7"/>econuerso religiosi qui modo sunt in ecclesia sint in omnibus perfecti: fatuum est valde ex talium com 
+       <lb ed="#B" n="8"/>paratione comparare inter se status &amp; opera propria statuum secundum perfectionem maiorem 
+       <lb ed="#B" n="9"/>&amp; minorem: qualem comparationem quidam nituntur introducere, &amp; quibusdam apparentiis ex 
+       <lb ed="#B" n="10"/>praelatis &amp; religiosis secundum conuersationem quae modo communiter videtur in ecclesia, mentes ho 
+       <lb ed="#B" n="11"/>minum obumbrare: vt credere faciant statum religiosorum &amp; eorum opera esse perfectiora quam statum  
+       <lb ed="#B" n="12"/>praelatorum: &amp; quam possent esse eorum opera si tales essent quales esse deberent: ad quales aspiciunt sancti 
+       <lb ed="#B" n="13"/>non ad pestilentes: similiter ad religiosos tales quales esse deberent non autem ad pestilentes siqui tales sint 
+       <lb ed="#B" n="14"/>inter illos. Quod patet ex comparatione loannis Chrysostomi quam facit inter illos vbi dicit in suo 
+       <lb ed="#B" n="15"/>dialogo intitulato de dignitate sacerdotali. Si talem (inquit) mihi aliquem adducas monachum qua- 
+       <lb ed="#B" n="16"/>lis vt secundum exaggerationem dicam, Helias est: is quamdiu solus est si non perturbatur: neque  
+       <lb ed="#B" n="17"/>grauiter peccat: quippe qui non habet quibus stimuletur atque exasperetur: non tamen illi com- 
+       <lb ed="#B" n="18"/>parandus est qui traditur populis: &amp; multorum ferre peccata est compulsus, immobilis perse- 
+       <lb ed="#B" n="19"/>uerans &amp; fortis. Et siquis mihi proponeret optionem: vbi mallem placere inofficio sacerdotali an  
+       <lb ed="#B" n="20"/>in solitudine monachorum: sine comparatione eligerem illud quod prius dixi. Et constat ex dictis eius 
+       <lb ed="#B" n="21"/>quod causa hoc eligendi eadem est in sacerdotibus curatis &amp; episcopis ne dicatur quod tantum loquitur de episco 
+       <lb ed="#B" n="22"/>pis. Vnde quando praelati tales erant quales esse debebant, praedicta doctrina non pullalabat: sed modo  
+       <lb ed="#B" n="23"/>appropinquante mundi termino, quando vt dicit Hieronymus ad Nepotianum, iuxta prophetam Sa 
+       <lb ed="#B" n="24"/>chariam, stultus pastor esse coepit, &amp; sapientia decrescente refrigescit charitas multorum, pullula 
+       <lb ed="#B" n="25"/>re videtur: cui quantum in nobis est, resistere debemus quamdiu poterimus. Quia secundum quod dicit Au 
+       <lb ed="#B" n="26"/>gustinus ad Aurelium: nimis dolendum est, si ad tam ruinosam superbiam monachos subigimus, 
+       <lb ed="#B" n="27"/>&amp; tam graui contumelia clericos putamus dignos in quorum numero sumus: si scilicet vulgares de 
+       <lb ed="#B" n="28"/>nobis iocabuntur dicentes, malus monachus, bonus clericus, &amp; tamen aliquando bonus etiam mo 
+       <lb ed="#B" n="29"/>nachus vix bonum clericum faciat. Propter quod beatus Hieronymus docens monachos debere ob- 
+       <lb ed="#B" n="30"/>temperare a studio talis doctrinae, dicit in epistola ad Rusticum monachum. Moyses vt praeesset po 
+       <lb ed="#B" n="31"/>pulo Iudaeorum. xl. annis eruditur in eremo: pastor ouium hominum factus est pastor. Hoc dico vt 
+       <lb ed="#B" n="32"/>si clericatus te titillat desiderium, discas quod possis docere: ne miles antequam tyro: ne magister antequam disci 
+       <lb ed="#B" n="33"/>pulus sis. Non est humilitatis meae iudicare de caeteris: &amp; de ministris ecclesiarum sinistrum quicquam 
+       <lb ed="#B" n="34"/>dicere: habeant illi ordinem &amp; gradum suum: in solitudine cito subrepit superbia, &amp; de si parum ieiunauerit 
+       <lb ed="#B" n="35"/>putat se alicuius esse momenti, &amp; iudicat alienos seruos: nuilum veretur: omnes inferiores putat 
+       <lb ed="#B" n="36"/>&amp; inter fratres simulat verecundiam qui platearum turbis colliditur. ldem ad Marcum presbyterum. Pu 
+       <lb ed="#B" n="37"/>det dicere de cauernis cellularum: danmnamus vrbem: in sacco &amp; cinere volutati de episcopis senten 
+       <lb ed="#B" n="38"/>tiam ferimus: quid facit sub tunica poenitentis regius animus: ldem ad Heliodorum. Absit vt quicquam 
+       <lb ed="#B" n="39"/>de his sinistrum loquar, qui apostolico gradui succedentes Christi corpus sacro ore conficiunt: per 
+       <lb ed="#B" n="40"/>quos nos etiam Christiani sumus: qui claues regni caelorum habentes quodammodo ante diem iu 
+       <lb ed="#B" n="41"/>dicii iudicant: qui sponsam domini sobria castitate conseruant: cleri oues pascunt: &amp; ego pascor: mihi ante 
+       <lb ed="#B" n="42"/>presbyterum sedere non licet: illi si peccauero licet tradere me sathanae. Quia si te ad eundem or- 
+       <lb ed="#B" n="43"/>dinem pia patrum blandimenta sollicitant, gaudebo de ascensu, timebo de lapsu. Non est enim facile stare loco 
+       <lb ed="#B" n="44"/>Pauli: tenere gradum Petri, iam cum Christo regnantium. Monachus si ceciderit orabit pro eo sa 
+       <lb ed="#B" n="45"/>cerdos: pro sacerdotis lapsu quis rogaturus est: ldem ad Nepotianum. Esto subiectus pontifici tuo 
+       <lb ed="#B" n="46"/>&amp; eumquasi animae parentem suscipe. Quod Aaron &amp; filios eius: hoc episcopum &amp; presbyteros nouerimus. 
+       <lb ed="#B" n="47"/>Si igitur talia dixit tantus religiosus: &amp; ita est in rei veritate: immo quia ita est, qua fronte audet 
+       <lb ed="#B" n="48"/>quis modernorum religiosorum (inter quos non tam sunt clerici quam laici: quorum status non est melior 
+       <lb ed="#B" n="49"/>ex hoc quod sunt laici) statum religiosorum qui de iure communi deberent esse oues de parochiis 
+       <lb ed="#B" n="50"/>&amp; cura presbyterorum, aut opera eius inquantum sunt religiosi aequiparare, &amp; quid maius est praefer- 
+       <lb ed="#B" n="51"/>re statui &amp; operibus praelatorum inquantum praelati sunt, &amp; dicere quod multi praelati in morte vel 
+       <lb ed="#B" n="52"/>lent fuisse religiosi: Quod nequaquam verum est aspiciendo ad bonos praelatos qui vixerunt secundum 
+       <lb ed="#B" n="53"/>quod status eorum requirit. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e1722">
+       SED dicunt aliqui quod beatus Grego. hoc confessus est de seipso, dicens in G 
+       <lb ed="#B" n="54"/>primo Dialo. Infelix animus meus occupationis suae vulnere pulsatus meminit qualis in monasterio aliquando 
+       <!--1071.xml-->
+       <pb ed="#B" n="515-v"/>
+        <lb ed="#B" n="1"/>fuit &amp; c. at nunc ex occasione curae pastoralis hominum saecularium negotia patitur: &amp; post tam pui- 
+       <lb ed="#B" n="2"/>chram quietis suae speciem terreni actus puluere foedatur: cumque se pro condescensione multo- 
+       <lb ed="#B" n="3"/>rum ad exteriora spargit, etiam cum interiora appetit, ad haec proculdubio minor redit. Et ideo di  
+       <lb ed="#B" n="4"/>cunt: quod status re ligionis aliquo modo dici potest perfectior quam status praelationis: scilicet propter 
+       <lb ed="#B" n="5"/>maiorem distractionem praelatorum &amp;c. vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e1743">
+       SED dico quod reuera animus praelati assum 
+       <lb ed="#B" n="6"/>pti ex religione, dum amaritudinem sentit actionis, cum quadam tristitia rationis inferioris disturba 
+       <lb ed="#B" n="7"/>tae recordatur quietis religionis. Disturbationem autem ex amaritudine actionis appellat foedationem quae  
+       <lb ed="#B" n="8"/>poenae est non culpae: quae etiam si intelligatur aliqua parua culpa venialis, non propter hoc debet ei poe- 
+       <lb ed="#B" n="9"/>nituisse status sui: quia illa stat cum augmento charitatis. Quid autem additur: quod animus praelati ad in  
+       <lb ed="#B" n="10"/>teriora contemplationis minor redit: Dico quod hoc verum est in principio: quia moeror a disturbati- 
+       <lb ed="#B" n="11"/>one in ratione interiori non statim pacatur: &amp; ideo retrahitur ratio superior cuius est diuina contem 
+       <lb ed="#B" n="12"/>plari: postmodum tamen pacata illa altius in diuinorum contemplatione eleuatur vt dictum est 
+       <lb ed="#B" n="13"/>per eundem. Et sic bonus &amp; idoneus praelatus non debuit in morte voluisse fuisse religiosus aut 
+       <lb ed="#B" n="14"/>vixisse secundum statum religionis &amp; non secundum statum praelationis nisi forte ratione timoris 
+       <lb ed="#B" n="15"/>metuendo ne forte non bene exercuisset ea quae pertinent ad officium praelaturae: attendendo illud apo 
+       <lb ed="#B" n="16"/>stoli. Nihil mihi conscius sum, non tamen in hoc iustificatus sum. &amp; dicendo illud lob: Verebar omnia 
+       <lb ed="#B" n="17"/>opera mea. Super quo dicit Greti. Quia culpae subreptio in virtutis actu vix vicitur. Et sic quantum  
+       <lb ed="#B" n="18"/>cunque praelatus bene laborauit, tamen quia in statu praelationis propter arduitatem status &amp; operis 
+       <lb ed="#B" n="19"/>plus incertus est de perfectione operis: ideo forte praelatus bonus in morte voluisset fuisse religiosus:  
+       <lb ed="#B" n="20"/>vel in statu religioso mortuus fuisse. Vnde super illud quod statim sequitur in lob: Quare frustra la 
+       <lb ed="#B" n="21"/>boraui: dicit Gregi. Hoc dicit non quod eum laborasse poenitet: sed quod incertum se esse de praemiis &amp; inter 
+       <lb ed="#B" n="22"/>labores dolet. Sic ergo si praelatus bonus potius velit mori religiosus, hoc non est quia poenitet eum ila 
+       <lb ed="#B" n="23"/>borasse in praelatione &amp; dimisisse quietem religionis: sed quia plus incertus est de praemio, &amp; hoc non 
+       <lb ed="#B" n="24"/>propter maiora quae in statu religionis credit se sibi procurasse quam in statu praelationis: si eum bene 
+       <lb ed="#B" n="25"/>administrasset: nec propter maiorem innocentiam, aut puritatem, aut custodiam: nec quia actus purioris 
+       <lb ed="#B" n="26"/>&amp; superioris contemplationis est in eis: nec quia circa deum in se versatur eorum actio &amp; caetera huiusmo 
+       <lb ed="#B" n="27"/>di accidentalia perfectioni generandae circa imperfectos: sed solum propter maiorem securitatem de 
+       <lb ed="#B" n="28"/>merito ratione status inferioris in religione &amp; actuum eius &amp; modum viuendi in ipso: quam in praelatio- 
+       <lb ed="#B" n="29"/>ne propter eminentiam eius &amp; difficultatem actuum eius: &amp; modum viuendi in illa. Et sic illud quod  
+       <lb ed="#B" n="30"/>inducere putant pro se, omnino est contra eos. Quia addunt quod religiosi sunt holocaustum quod totum  
+       <lb ed="#B" n="31"/>comburitur: praelati vero sacrificium quod pro parte reseruatur: Dico quod praelato competunt ra- 
+       <lb ed="#B" n="32"/>tione status eius aliqua ex parte personae suae: quaedam vero ex parte operum. Ex parte personae se- 
+       <lb ed="#B" n="33"/>cundum praedicta competit ei personae omnimoda perfectio. &amp; puto quod ex institutione prima status 
+       <lb ed="#B" n="34"/>requiritur in eo quod sit talis: quia requirit quod sit perfectus ad idoneam officii sui executionem. Et di-  
+       <lb ed="#B" n="35"/>cit Hiero. in epist. ad Heliodorum. Perfectus seruus Christi nihil praeter Christum habet: &amp; si praeter 
+       <lb ed="#B" n="36"/>Christum habet perfectus non est. Et infra. Igitur clericus qui in Christo seruit ecclesiae, interpretetur 
+       <lb ed="#B" n="37"/>primum vocabulum suum &amp; nominis definitione prolata nitatur esse quod dicitur: cleros enim grae- 
+       <lb ed="#B" n="38"/>ce fors latine appellatur. propterea enim vocantur clerici vel quia de forte dei sunt vel quia do-  
+       <lb ed="#B" n="39"/>minus ipse fors. i. pars clericorum est. Qui cum Propheta dicit: Pars mea dominus: nihil extra do  
+       <lb ed="#B" n="40"/>minum habere potest: quod si quippiam aliud habuerit praeter dominum, pars eius non erit. verbi 
+       <lb ed="#B" n="41"/>gratia, si aurum vel argentum &amp; caetera huiusmodi. Si autem ego pars domini sum &amp; quasi leuita 
+       <lb ed="#B" n="42"/>&amp; sacerdos viuo de decimis: &amp; altario seruiens altaris oblatione sustentor: habens victum &amp; vestitum 
+       <lb ed="#B" n="43"/>his contentus ero &amp; nudam Crucem nudus sequar. Sl igitur comparet se religiosus tali praelato 
+       <lb ed="#B" n="44"/>propter vota, eisdem constringitur praelatus sicut &amp; constricti erant apostoli. vt enim de vno illo 
+       <lb ed="#B" n="45"/>rum dicit Hiero. ad Demetriadem: apostolici fastigii est perfectaeque virtutis vendere omnia &amp; paupe- 
+       <lb ed="#B" n="46"/>ribus distribuere: &amp; sic leuem atque expeditum cum Christo ad caelestia subuolare: &amp; sic in hoc nulla est 
+       <lb ed="#B" n="47"/>praerogatiua religioso. Quia autem praelati ex dispensatione secundum praedicta modo votum paupertatis non  
+       <lb ed="#B" n="48"/>faciunt, in hoc bene diminuitur de eorum perfectione personali: &amp; etiam ab ipsis status diminuteob- 
+       <lb ed="#B" n="49"/>seruaretur si votum esset de institutione. hoc tamen non obstante pro tanto quod obseruarent de statu: ipsi perfe 
+       <lb ed="#B" n="50"/>ctiores essent: &amp; in statu perfectiori quam quicumque religiosi: propter illud enim non est status in se imperfectior. &amp; quo  
+       <lb ed="#B" n="51"/>ad hoc respectu religiosorum bene sunt sacrificium &amp; illi holocaustum. Et secundum hanc sententiam procedit allego  
+       <lb ed="#B" n="52"/>ria Gresti, qui dicit sacrificium illos qui bona temporalia bene dispensant partem dando pauperibus: partem vero sibi 
+       <lb ed="#B" n="53"/>reseruando: quemadmodum sacerdos legalis partem sibi de sacrificio reseruauit &amp; partem deo obtulit. Dicit autem  
+       <lb ed="#B" n="54"/>illos holocaustum qui nihil sibi reseruant sed omnia dimittunt: quia de holocausto sacerdos nihil 
+       <lb ed="#B" n="55"/>sibi reseruabat: sed totum deo comburebatur. Nec in hoc praelati modo tenent locum apostolorum  
+       <!--1072.xml-->
+       <pb ed="#B" n="516-r"/>
+        <lb ed="#B" n="1"/>secundum quod. xii. quaest, prima in cap. Videntes, super illo verbo. Tenent locum apostolorum. dicit Gloss. 
+       <lb ed="#B" n="2"/>Episcopi tenent locum apostolorum quo ad dignitatem: Monachi quo ad remotionem propriorum 
+       <lb ed="#B" n="3"/>&amp; conmunem vitam. xvi. quod prima. Ex auctoritate. Omnes sacerdotes quo ad sacramentorum dispensationem 
+       <lb ed="#B" n="4"/>xi. quod iii. Absit. Quo ad votum autem castitatis &amp; obedientiae aequaliter obligantur cum religiosis quan  
+       <lb ed="#B" n="5"/>tum pertinet ad officium. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e1869">
+       EX parte autem operum requiritur quod praelatus opera perfectiora agat quam  
+       <lb ed="#B" n="6"/>religiosus &amp; quae sunt vitae actiuae &amp; quae sunt vitae contemplatiuae: &amp; hoc siue ad statum praelationis 
+       <lb ed="#B" n="7"/>ex prima institutione sua requiratur votum siue non. Et ideo cum haec opera sint essentialia praela- 
+       <lb ed="#B" n="8"/>to ratione status per se, ad quae etiam praelati modo exequenda astringuntur: Dico quod ratione talium  
+       <lb ed="#B" n="9"/>operationum praelatus magis comparatur holocausto, &amp; religiosus sacrificio. In sacrificio enim vt dicit 
+       <lb ed="#B" n="10"/>Grego. pars pecudis: in holocausto autem totum pecus offerri consueuerat. Cum enim aliquid suum deo  
+       <lb ed="#B" n="11"/>vouet sacrificium est, cum vero omne quod habet vouerit, holocaustum est, nunc autem praelatus 
+       <lb ed="#B" n="12"/>se totum offert: quia &amp; vitam ad seruitium, &amp; mortem ad supplicium quandocunque fuerit opportu- 
+       <lb ed="#B" n="13"/>num. Religiosi autem non dant ex voto nisi vitam ad seruitium, &amp; hoc non publicum vt praelati quod est 
+       <lb ed="#B" n="14"/>maius: sed priuatum quod est minus: &amp; ita non dant nisi id quid est pars illius maioris, eius scilicet quid  
+       <lb ed="#B" n="15"/>dant praelati. Vnde praelatis bene competit illud psal. lxviii. (elus domus tuae comedit me. propter enim 
+       <lb ed="#B" n="16"/>nimiam charitatem qua praelatus diligit deum, non tantum in seipso vt religiosus: sed etiam in pro- 
+       <lb ed="#B" n="17"/>ximo: zelum habet non solum dei, quem solum habet religiosus respectu praelati: sed etiam domus 
+       <lb ed="#B" n="18"/>dei id est ecclesiae, &amp; iste zelus eumtotaliter &amp; in vita &amp; in morte consumit: quia in vita per ipsum  
+       <lb ed="#B" n="19"/>seruit corrigendo, increpando, &amp; huiusmodi opera exercendo, &amp; morti finaliter se exponit vt per hoc 
+       <lb ed="#B" n="20"/>sit totum incensum. holocaustum autem incensum dicitur quasi incendio consumptum. Vnde &amp; 
+       <lb ed="#B" n="21"/>de hac consumptione subditur in psal. Et opprobria exprobrantium tibi ceciderunt super me. is. se- 
+       <lb ed="#B" n="22"/>cundum <name ref="#Augustine">Augustinus</name> quia persecutus sum iniquitates: quia corripui: quia flagellaui in templo male ver- 
+       <lb ed="#B" n="23"/>santes. Item sacrificium solet in aquis decoqui: holocaustum solet igne assari. Religiosi etiam quia in  
+       <lb ed="#B" n="24"/>mollitie contemplationis quasi in humido &amp; in calore obtuso decoquuntur: sacrificium sunt. Prae 
+       <lb ed="#B" n="25"/>lati autem quia in ardore tribulationis quasi in igne &amp; calore acuto comburuntur: proprie holocau- 
+       <lb ed="#B" n="26"/>stum sunt. Et: sic fit allegoria contra allegoriam: vna pro religiosis contra praelatos inquantum non 
+       <lb ed="#B" n="27"/>renunciant omnibus: alia pro praelatis contra religiosos inquantum religiosi non exercent tantae per 
+       <lb ed="#B" n="28"/>fectionis opera.: 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e1925">
+       SED adhuc contra primum dicunt quod religiosi vouentes se deo, parati sunt quan- 
+       <lb ed="#B" n="29"/>tum in se est semper subire martyrium: &amp; ad hoc semper habent animum paratum magis quam praelati 
+       <lb ed="#B" n="30"/>ex feruore charitatis maiore quam habent ex contemplatione, quam praelati ex sua administratione. Sed  
+       <lb ed="#B" n="31"/>quia martyrium prouenit ab extrinseca occasione quae praelatis ratione status sui occurrit: &amp; dat eis 
+       <lb ed="#B" n="32"/>materiam martyrii sustinendi: ideo praelatis potius incumbit animam suamponere pro domo dei 
+       <lb ed="#B" n="33"/>quam religiosis. Nihilominus tamen quia parati sunt animo, propterea quid amittunt in materiali, scilicet in exte 
+       <lb ed="#B" n="34"/>riori exercitio, recuperant in formal scilicet in intenso desiderio. Et praeterea (ut dicunt) obligati sunt ad mor 
+       <lb ed="#B" n="35"/>tem spiritualem quae est vita claustralis: cuius sustinentia propter sui diuturnitatem videtur aequi-  
+       <lb ed="#B" n="36"/>parari sustinentiae mortis temporalis. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e1945">
+       SED dico quod si religiosus inquantum religiosus quocunque 
+       <lb ed="#B" n="37"/>tempore debet animum habere paratum ad sustinendum pro deo &amp; pro domo dei martyrium: hoc non  
+       <lb ed="#B" n="38"/>habet ratione voti: sed ratione charitatis ad deum &amp; ad proximum simpliciter: ad hoc enim tenetur etiam 
+       <lb ed="#B" n="39"/>quilibet laicus, licet plus religiosus quam laicus: praelatus autem ad hoc tenetur ex eadem causa &amp; plus 
+       <lb ed="#B" n="40"/>quam religiosus quanto plus debet esse perfectus in propria persona, &amp;quod amplius est ex praelationis 
+       <lb ed="#B" n="41"/>officio ad quod obligatus est, primus debet se ad martyrium pro aliis offerre cum opus fuerit. pri. 
+       <lb ed="#B" n="42"/>past. cap. ix. Qui episcopatum desiderat bonum opus desiderat: illo in tempore dicitur, quo quisque  
+       <lb ed="#B" n="43"/>qui plebibus praeerat, primus ad martyrii tormenta adducebatur: tunc fuit laudabile episcopatum quae  
+       <lb ed="#B" n="44"/>rere: quando per hunc quemquam dubium non erat ad suppliciagrauiora peruenire. Sicut autem tunc propter 
+       <lb ed="#B" n="45"/>occasionem praelatus prior erat ad martyrium de facto: ita adhuc prior debet esse deiure: quod multo 
+       <lb ed="#B" n="46"/>praecellit quantum ad perfectionem status &amp; personae &amp;operis sui: quam quicquid religiosas habet 
+       <lb ed="#B" n="47"/>in se ex animi deuotione aut ex voto quocunque: quanto amplius est &amp; difficilius pro salute aliorum  
+       <lb ed="#B" n="48"/>vitam ponere, ad quod pro tempore praelati obligantur: quam temporalia dimittere &amp; castimoniam ser 
+       <lb ed="#B" n="49"/>uare. &amp; ideo omnino perfectior illis iudicandus est non solum sicut in se perfectus existens: sed sicut exemplo 
+       <lb ed="#B" n="50"/>&amp; facto aliis perfectionem tribuens. Vlterius autem sicut dicunt religiosi se esse paratos affectione &amp; 
+       <lb ed="#B" n="51"/>charitate animi quantum est in se ad martyrium: &amp; per hoc in nullo diminui a perfectione prae- 
+       <lb ed="#B" n="52"/>latorum: Dico quod falsum est: bonus enim praelatus maiorem feruorem charitatis haurit ex contem 
+       <lb ed="#B" n="53"/>platione quam religiosus: &amp; etiam magis eius augmentum ex sua administratione quam ille ex sua contempla 
+       <lb ed="#B" n="54"/>tione: vt patet exdictis. Quid autem additur quod mors spiritualis diuturnitate aequiparatur morti corpo 
+       <!--1073.xml-->
+       <pb ed="#B" n="516-v"/>
+        <lb ed="#B" n="1"/>rali: Dico quod falsum est: sicut nec diuturnitas virginitatis obseruatae secundum <name ref="#Augustine">Augustinus</name> potest aequipa 
+       <lb ed="#B" n="2"/>rari martyrio. Sic econtra potest dici de praelatis: quod ex obligatione qua praelaturam assumunt tenentur 
+       <lb ed="#B" n="3"/>etiam tempore opportuno pro subditis omnia temporalia dimittere &amp; eis ipsos pascere. dicente Greg- 
+       <lb ed="#B" n="4"/>in Homi.s super illud. Ego sum pastor bonus. Audistis (inquit) fratres charissimi eruditionem vestramn 
+       <lb ed="#B" n="5"/>&amp; periculum nostrum. &amp; infra. Ostensa est nobis de contemptu mortis via quam sequamur: primo ex 
+       <lb ed="#B" n="6"/>teriora nostra misericorditer omnibus impendere: postremo vero si necesse est mortem pro eis debe 
+       <lb ed="#B" n="7"/>mus ministrare. Et sic ex obligatione habent praelati propriorum dimissionis: sicut &amp; mortis per- 
+       <lb ed="#B" n="8"/>pessionem: &amp; ideo omnino potius sunt holocaustum quam religiosi. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e2011">
+       VLtimum autem quod ponunt isti in di  
+       <lb ed="#B" n="9"/>cto suo, quod tunc praelati essent deo holocaustum, si per obedientiam nihil facerent nisi de consilio con- 
+       <lb ed="#B" n="10"/>fessorum suorum: hoc reuera est valde absurdum. Per hoc enim dictum ad hoc quod dominus papa me 
+       <lb ed="#B" n="11"/>reretur dici holocaustum &amp; esse in statu perfectionis aequali religioni, oporteret quod in omnibus esset 
+       <lb ed="#B" n="12"/>sub obedientia confessoris sui: quod penitus falsum est &amp; absurdum. non enim tenetur obedire praelatus suo con 
+       <lb ed="#B" n="13"/>fessori in aliis quam in quibus se accusat in confessione. In omnibus autem aliis quae contingunt &amp; sunt 
+       <lb ed="#B" n="14"/>facienda extra confessionem ipse confessor tenetur obedire ipsi praelato. Per dicta patet ad primum. 
+       <lb ed="#B" n="15"/>Quod arguitur vlterius: quod licet praelati sint in statu perfectionis, religiosi tamen sunt in maiori: hoc 
+       <lb ed="#B" n="16"/>omnino est falsum. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e2031">
+       AD secundum: quod statos religionis magis assimilatur omnino persecto statui vt 
+       <lb ed="#B" n="17"/>beatorum: ergo &amp;c. Dico quod falsum est. quoniam secundum praedicta praelatorum status non solum est actionis: sed  
+       <lb ed="#B" n="18"/>&amp; perfectioris contemplationis quam sit contemplatio religiosorum. Sed quid amplius est, si in ipsis comparemus 
+       <lb ed="#B" n="19"/>opus contemplationis &amp; actionis inter se quantum ad statum praesentis vitae, praeferenda est actio in praela- 
+       <lb ed="#B" n="20"/>tis contemplationi: quia per actionem offert deo sacrificium animarum aliorum ipsos ad statum sa 
+       <lb ed="#B" n="21"/>lutis perducendo, &amp; suam propriam in ea meritum maioris salutis acquirendo quam esset acquisiturus 
+       <lb ed="#B" n="22"/>in contemplatione sola persistens: &amp; quid maioris meriti est tali: est maioris meriti simpliciter: &amp; sic sim 
+       <lb ed="#B" n="23"/>pliciter actio melior est quam contemplatio etiam in eodem praelato. Sicut enim status contemplationis religiosis est essen 
+       <lb ed="#B" n="24"/>tialis &amp; ordinatur finaliter pro vita ista ad statum actionis praelatorum: inquantum ille est status perfectio 
+       <lb ed="#B" n="25"/>nis acquirendae &amp; exercendae quo ad contemplationem inferioris gradus: status autem praelatorum est 
+       <lb ed="#B" n="26"/>status perfectionis acquisitae in contemplatione religionis exercendae in statu praelationis: sic contempla- 
+       <lb ed="#B" n="27"/>tio praelatorum finaliter ordinatur ad actionem eorundem: in qua finaliter oportet eos mori si opus 
+       <lb ed="#B" n="28"/>est: &amp; dimittere omnem contemplationem propter actionem: quemadmodum oporteret si opus esset 
+       <lb ed="#B" n="29"/>philosophum &amp; bene contemplatiuum descendere ad politicum regimen &amp; mori pro defensione illius vt di-  
+       <lb ed="#B" n="30"/>ctum est supra. quid opus est maximae charitatis: quia maiorem charitatem nemo habet &amp;c. In cha- 
+       <lb ed="#B" n="31"/>ritate autem consistit radix meriti. Et tunc ad formam argumenti: quid similius meliori, melius est: Di 
+       <lb ed="#B" n="32"/>co quod illud intelligitur quando est similius in meliori, alias non: quemadmodum simia licet sit similior 
+       <lb ed="#B" n="33"/>homini quam equus ex parte corporis quod non est melior pars in homine, non ex hoc oportet quod simia sit 
+       <lb ed="#B" n="34"/>melior equo. Consimiliter in proposito: quando dicitur quod status religiosorum contemplatiuus 
+       <lb ed="#B" n="35"/>similior est statui beatorum contemplatiuo: Dico quod status beatorum perficitur in contemplatione quae  
+       <lb ed="#B" n="36"/>continet in se notitiam pertinentem ad intellectum, &amp; amorem pertinentem ad voluntatem: in quibus 
+       <lb ed="#B" n="37"/>melior est amor quam notitia vt alias exposuimus. Nunc autem quod status iste contemplatiuus religioso 
+       <lb ed="#B" n="38"/>rum sit similior statui contemplatiuo beatorum, hoc est ratione cognitionis: quia scilicet contempla- 
+       <lb ed="#B" n="39"/>tio clarius noscit deum quam actio. quod signat Lya, quae fuit lippa oculis: &amp; Rachel quae fuit clara, 
+       <lb ed="#B" n="40"/>secundum Greg. Ratione autem amoris magis illi assimilatur actio quae procedit ex maiori chari- 
+       <lb ed="#B" n="41"/>tate secundum praedicta: &amp; quid amplius est vita praelatorum ratione contemplationis eorum quae lympi- 
+       <lb ed="#B" n="42"/>dior est finaliter post actionem licet non sit ita lympida siue pura in principio secundum praedicta sicut 
+       <lb ed="#B" n="43"/>contemplatio religiosorum, secundum praedicta magis assimilatur contemplationi beatorum quantum ad co 
+       <lb ed="#B" n="44"/>gnitionem, quam faciat contemplatio religiosorum. Et sic omnibus modis status praelatorum magis assimilatur 
+       <lb ed="#B" n="45"/>statui beatorum: &amp; ideo simpliciter melior est &amp; perfectior. Quia autem subditur in argumento quod contem 
+       <lb ed="#B" n="46"/>platio praesens est quaedam inchoatio contemplationis futurae: Dico adhuc amplius exponendo iam dicta, quod si 
+       <lb ed="#B" n="47"/>militudo aliquorum duplex est: quaedam secundum genus: quaedam secundum speciem. Contem- 
+       <lb ed="#B" n="48"/>platio autem praesens similis est futurae secundum genus, non autem secundum speciem: quia aliud  
+       <lb ed="#B" n="49"/>genus contemplationis omnino est contemplatio praesens &amp; aliud futura: quia praesens contemplatio consi- 
+       <lb ed="#B" n="50"/>stit in quadam intellectuali cognitione quae superior est fide: semper tamen innixa fundamento fi 
+       <lb ed="#B" n="51"/>dei: quae omnino est aliud genus cognitionis quam sit visio aperta: quae fidem euacuat: vt patet ex di-  
+       <lb ed="#B" n="52"/>ctis supra in quaestione secunda. Et secundum hoc dico quod praesens contemplatio inchoatio est futurae 
+       <lb ed="#B" n="53"/>secundum aliud genus contemplationis &amp; perficienda secundum aliud. Dico inquantum est sermo 
+       <lb ed="#B" n="54"/>de persectione quae est in aperta visione: licet forte intellectualis cognitio in praesenti manebit perfici 
+       <!--1074.xml-->
+       <pb ed="#B" n="517-r"/>
+        <lb ed="#B" n="1"/>enda etiam secundum idem genus cognitionis in futuro. Quando autem aliquid perficitur alio secundum 
+       <lb ed="#B" n="2"/>aliud genus perfectionis &amp; sic illi sit similius: non oportet quod propter hoc sit melius illo quod non  
+       <lb ed="#B" n="3"/>perficietur per illud: immo bene potest esse in praesenti maioris meriti ipsa actio secundum praedicta 
+       <lb ed="#B" n="4"/>Vnde sicut <name ref="#Augustine">Augustinus</name> exponendo illud: Sic eum volo manere: dicit. Inchoata contemplatio &amp;c. sic ex 
+       <lb ed="#B" n="5"/>ponendo illud quod praecedit, Tu me sequere: dicit. Perfecta me sequatur actio informata meae passio- 
+       <lb ed="#B" n="6"/>nis exemplo. Multo autem plus est sequi Christum perfecta actione quam manere in inchoata contempla- 
+       <lb ed="#B" n="7"/>tione: &amp; maior est perfectio in illo sequi quam in isto manere. Propter quod &amp; Christus verbo &amp; exemplo hor 
+       <lb ed="#B" n="8"/>tatus est ad se sequendum per tolerantiam eorum quae pertinent ad vitam actiuam: non autem ad se imitam 
+       <lb ed="#B" n="9"/>dum per permanentiam in contemplatione vitae praesentis sic hortatus est. Vnde &amp; Christi vita in  
+       <lb ed="#B" n="10"/>praesenti principalis magis fuit actiua quam contemplatiua. propter quod status ad quem principali 
+       <lb ed="#B" n="11"/>ter pertinet actio, potius imitatur exemplum vitae Christi, quam ille ad quem principaliter pertinet 
+       <lb ed="#B" n="12"/>contemplatio. Vnde de Christi vita actiua dixit Petrus. Christus pro nobis passus est vobis relinquens 
+       <lb ed="#B" n="13"/>exemplum, vt sequamini vestigia eius. Non autem sic dixit. Vobis contemplatus &amp;c. licet vtraque  
+       <lb ed="#B" n="14"/>Christi vita nobis sit in exemplum proposita etiam coniugatis. dicente Hiero. ad Cellantiam coniugatam. Eligatur 
+       <lb ed="#B" n="15"/>tibi opportunus &amp; aliquantulum a familiae strepitu remotus locus: in quem tu velut in portum quasi 
+       <lb ed="#B" n="16"/>ex multa tempestate curarum te recipias: &amp; excutiens foras cogitationum fluctus secreti te tramquil- 
+       <lb ed="#B" n="17"/>litate componas: tantum ibi sit diuinae lectionis studium, tam crebrae orationum vices, tam firma ac 
+       <lb ed="#B" n="18"/>pressa de futuris cogitatio, vt omnes reliqui temporis occupationes hac vacatione compenses. Nec 
+       <lb ed="#B" n="19"/>hoc ideo diximus quo te a tuis retrahamus: immo illud egimus, vt ibi discas ibique mediteris qualem 
+       <lb ed="#B" n="20"/>tuis praebere te debeas. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e2168">
+       AD tertium quod per opera vitae contemplatiuae perficitur homo in amore Dei: per  
+       <lb ed="#B" n="21"/>opera vero actiuae in amore proximi: ergo &amp;c. Dico quod vita praelatorum secundum praedicta mixta est: quae  
+       <lb ed="#B" n="22"/>licet inquantum est actiua principaliter perficit in amore proximi, inquantum tamen est contempla 
+       <lb ed="#B" n="23"/>tiua perficit in amore Dei. In quo etiam magis perficit contemplatiua praelatorum quam religiosorum:  
+       <lb ed="#B" n="24"/>inquantum requiruntur esse perfectiores. Etiam in ipsis praelatis magis perficit ipsos in charitate ipsorum  
+       <lb ed="#B" n="25"/>actio quam eorum contemplatio: vt iam dictum est. Quare simpliciter actio praelatorum plus perficit in cha 
+       <lb ed="#B" n="26"/>ritate quam quaecunque contemplatio huius vitae. &amp; ideo pro statu huius vitae maior est vitae merito. Licet 
+       <lb ed="#B" n="27"/>enim diligere deum ex electione secundum se &amp; ex suo genere maioris sit meriti quam ex electione diligere 
+       <lb ed="#B" n="28"/>proximum: diligere tamen proximum ex necessitate coactionis pro tempore huius vitae, maioris est meriti quam diligere deum in  
+       <lb ed="#B" n="29"/>se: quia quod sic aliquis diligit proximum hoc procedit ex nimio amore &amp; quo homo diligit Deum in se &amp; 
+       <lb ed="#B" n="30"/>quo deus diligit homine: quo vult se diligi ab homine non solum in se: sed etiam in proximo: &amp; quid am 
+       <lb ed="#B" n="31"/>plius est cum necessitas coactionis occurrit, magis vult quod diligamus eum in proximo quam in seipso 
+       <lb ed="#B" n="32"/>Propter quod dicit Greg. primo Pastorai. cap. xvii. Sit rector singulis compassione proximus: prae cun- 
+       <lb ed="#B" n="33"/>ctis contemplatione suspensus &amp;c. vsque ibi. Quia tunc ad alta charitas mirabiliter surgit: cum ad ima pro  
+       <lb ed="#B" n="34"/>ximorum se miserabiliter trahit: &amp; dum benigne descendit ad ima, valenter recurrit ad summa. Ex quo pa 
+       <lb ed="#B" n="35"/>tet quod falsum est dicere, quod puri contemplatiui magis cognoscant Deum, &amp; magis delectentur in Deo: &amp; magis 
+       <lb ed="#B" n="36"/>in eius amore crescant. Vnde &amp; illi qui nituntur contemplatiuam vitatm simpliciter praeferre actiuae, dicunt: 
+       <lb ed="#B" n="37"/>Potest tamen contingere, quod aliquis in operibus vitae actiuae plus meretur: quam alius in operibus vitae contempla- 
+       <lb ed="#B" n="38"/>tiuae: puta, si propter abundantiam diuini amoris: vt eius voluntas impleatur, ad ipsius gloriam in  
+       <lb ed="#B" n="39"/>terdum sustinet ad tempus se a dulcedie diuinae contemplationis separari. sicut dicebat Apost. ad Ro. ix. 
+       <lb ed="#B" n="40"/>Optabam ego ipse anathema esse a Christo pro fratribus meis. Quod exponens Chrysost. in libro de Compun 
+       <lb ed="#B" n="41"/>ctione, dicit. Ita totam mentem eius demerserat amor Christi: vt etiam hoc quod ei prae cateris omnibus amabi- 
+       <lb ed="#B" n="42"/>lius erat scilicet esse cum Christo: rursus idipsum quia ita placeret Christo, contemneret. lste autem qui sic in operibus 
+       <lb ed="#B" n="43"/>actiuae plus meretur: non est, vt patet ex dictis, nisi qui coacte ad actionem accedit: qualis non est religiolus in  
+       <lb ed="#B" n="44"/>quantum religiosus: maxime secundum illum qui dicit quod religio a descensutali etiam erga parentes 
+       <lb ed="#B" n="45"/>absoluit. Quod autem sic coacto est melius, simpliciter est melius: vt similiter patet ex dictis 
+       <lb ed="#B" n="46"/>&amp; ideo in hoc simpliciter melior est vita actiua. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e2227">
+       AD quartum quod perfectior est status Philosophi quam principis 
+       <lb ed="#B" n="47"/>Dico quod hoc est verum secundum opinionem erroneam philosophorum: qui non ponebant spem haben 
+       <lb ed="#B" n="48"/>dam alterius vitae: &amp; hoc pro tempore quo non erat opus se morti exponere pro republica: in quo secun 
+       <lb ed="#B" n="49"/>dum praedeterminata oporteret conuenire <name ref="#Aristotle">philosophum</name> cum principe. Ponendo tamen secundum fi 
+       <lb ed="#B" n="50"/>dem spem vitae futurae: &amp; quod tota vita ista se habet in ratione meriti respectu alterius vitae: multo 
+       <lb ed="#B" n="51"/>perfectior est pro tempore huius. vitae status principis coacti ad principatum, quam status philosophi: li- 
+       <lb ed="#B" n="52"/>cet melior &amp; perfectior esset status philosophi quam principis non coacti: vt patet secundum praedetermi  
+       <lb ed="#B" n="53"/>nata: accipiendo hoc nomen principis communiter: vt scilicet continet sub se nomen praelati: qui  
+       <lb ed="#B" n="54"/>magis perfectus esse debet quam princeps proprie dictus: sicut etiam est superior illo. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e2250">
+       AD quintum a 
+       <!--1075.xml-->
+       <pb ed="#B" n="517-v"/>
+        <lb ed="#B" n="1"/>quod status consiliantium est perfectior quam bellatorum: ergo &amp;c. Dico quod hoc non valet ad proposi- 
+       <lb ed="#B" n="2"/>tum, quia status consiliantium pertinet ad vitam actiuam: eo quod bella non prosunt nisi consilio regan  
+       <lb ed="#B" n="3"/>tur. dicente Tullio ibidem. Omnino illud honestum quod ex animo excelso &amp; magnifico quaerimus 
+       <lb ed="#B" n="4"/>animi efficitur non viribus corporis. Exercendum tamen corpus &amp; ita afficiendum vt obedire con 
+       <lb ed="#B" n="5"/>silio rationique possit in exequendis negotiis &amp; in labore tolerando. Honestum autem illud quod exqui  
+       <lb ed="#B" n="6"/>rimus, totum positum est in animi cura &amp; cogitatione. Fortis autem &amp; constantis animi est non parturbari 
+       <lb ed="#B" n="7"/>in rebus asperis: sed animo vti &amp; consilio: nec a ratione discedere. Temere enim in acie versari &amp; manu 
+       <lb ed="#B" n="8"/>cum hoste confligere immanum quiddam &amp; belluarum simile est. Sed cum tempus necessitasque postulat decertandum  
+       <lb ed="#B" n="9"/>manu est: &amp; mors seruituti turpitudinique anteponenda. Et sic illud dictum Tullii assumptum in argu-  
+       <lb ed="#B" n="10"/>mento bene haberet locum in quaestione circa vitam actiuam: cuius quaedam actio est interior in anima circa dispositi 
+       <lb ed="#B" n="11"/>onem agibilium: quaedam exterior circa dispositorum executionem: quae illarum est melior &amp; perfectior. Et est dicendum 
+       <lb ed="#B" n="12"/>quod illa quae est interior: quemadmodum architectonici meliores sunt &amp; digniores in artificialibus quam manuartifi 
+       <lb ed="#B" n="13"/>ces, vt dicit <name ref="#Aristotle">philosophus</name> in primo Metaphysicae. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e2288">
+       AD sextum: quod religionis ingressus absoluit ab omni voto: non sic assum 
+       <lb ed="#B" n="14"/>ptio curae: Dico quod huius ratio est quia in male dispositis secundum praedicta facilius indulgetur descensus 
+       <lb ed="#B" n="15"/>quam ascensus: licet in bene dispositis econtratio facilius admittitur ascensus quam descensus vt habitum est supra 
+       <lb ed="#B" n="16"/>Et ideo etiam in male vel in diminute dispositis facilius conceditur transitus ad inferiorem statum quam ad supe 
+       <lb ed="#B" n="17"/>riorem. Quare cum vota alia a religione sint praecipue propter infirmitatem culpae praeteritae vt emendetur: vel 
+       <lb ed="#B" n="18"/>poenae ne in culpan descendatur: vel vt in bono diminuto proficiat: in religione autem melius corriguntur deli- 
+       <lb ed="#B" n="19"/>cta &amp; facilius quam extra. secundum Ansel. de similitudinibus. xliiii. &amp;. xlv. cap. ibi etiam magis cauetur ab infir 
+       <lb ed="#B" n="20"/>mis ne in peccatam incidant: &amp; vota diminuta in illa complentur: vt propterea status religionis respectu omnium 
+       <lb ed="#B" n="21"/>aliorum votorum licet sit superior respectu illorum, adhuc tamen magis supra est status rectorum: propterea igitur 
+       <lb ed="#B" n="22"/>facilius permittitur vt alia vota absoluantur per ingressum religionis quam per curae susceptionem. Et hoc etiam illa de 
+       <lb ed="#B" n="23"/>causa praecipue, quia status rectorum est iam perfectorum: status autem religionis quo ad intran-  
+       <lb ed="#B" n="24"/>tes est potius status imperfectorum: quales praesumuntur isti qui sunt aliis votis irretiti, vt patet ex dictis. 
+       <lb ed="#B" n="25"/>
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e2317">
+       AD septimum quod status praelatorum est magis periculosus &amp;c. Dico quod semper securum est magis eligendum 
+       <lb ed="#B" n="26"/>periculoso: &amp; ita melius disposito diminute &amp; etiam bene disposito cum non vrget necessitas nec eminet ma 
+       <lb ed="#B" n="27"/>gnum emolumentum. Sed cum necessitas vrget &amp; homo est bene dispositus &amp; eminet magnum emolumentum, ma 
+       <lb ed="#B" n="28"/>ius est eligendum &amp; melius &amp; magis periculosum: vt in proposito cum homo est bene perfectus &amp; pphistolus indiget &amp; ipse 
+       <lb ed="#B" n="29"/>cogitur ad praelationem &amp; magnum eminet emolumentum. ideo &amp;c. Supponit etiam argumentum quod esset pariculum sine 
+       <lb ed="#B" n="30"/>emolumento, proprie: quasi religio esset simul magis meritoria &amp; magis secura quam praelatio: quid falsum est vt 
+       <lb ed="#B" n="31"/>ex praedictis patet. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e2333">
+       AD octauum quod contemplatio est opus magis spiritale: ergo est opus melius: Dico quod verum 
+       <lb ed="#B" n="32"/>est nisi opus corporale propter necessitatem coactionis &amp; propter comnem vtilitatem assumeretur sicut debet as- 
+       <lb ed="#B" n="33"/>sumi praelatio: vt patet ex praedictis. 
+      </p>
+      <p xml:id="n3av8a-c1e5031-d1e2341">
+       AD nonum quod in angelis contemplantes sunt superiores praesidentibus, Dico quod  
+       <lb ed="#B" n="34"/>verum est: quia status illos habent angeli vt quibus remunerantur: &amp; sic vt considerantur contemplatio &amp; actio secundum 
+       <lb ed="#B" n="35"/>substantiam: status autem illos habent homines viatores vt quibus merentur: propter quod licet illis consideratis secum 
+       <lb ed="#B" n="36"/>dum substantiam suam status contemplationis semper est supior &amp; in hominibus &amp; in angelis, vt patet ex supra dictis 
+       <lb ed="#B" n="37"/>tamen quo ad vsum actuum &amp; rationem merendi per illos multo superior est status actionis in praelatis quam con 
+       <lb ed="#B" n="38"/>templationis siue in religiosis siue in praelatis: vt patet ex praedictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

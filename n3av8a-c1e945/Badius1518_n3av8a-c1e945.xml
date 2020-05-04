@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="50-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e945">
+      <head xml:id="n3av8a-c1e945-Hd1e96">Quaestio 3</head>
+      <p xml:id="n3av8a-c1e945-d1e99">
+       <lb ed="#B" n="14"/>SEquuntur pertinentia ad diuersitatem primi principii. Et erant duo. Vnum pertinens ad ema 
+       <lb ed="#B" n="15"/>nationem vnius personae ab alia. Alterum, ad relationem qua vna persona habet distingui 
+       <lb ed="#B" n="16"/>ab alia. PRImum erat: vtrum ratio generandi in patre sit diuina essentia, vel proprietas eius vt 
+       <lb ed="#B" n="17"/>pirnitas, vel vtrumque. SEcundum: vtrum relatio in diuinis maneat. 
+      </p>
+      <p xml:id="n3av8a-c1e945-d1e110">
+       CIRca primum arguitur,  
+       <lb ed="#B" n="18"/>quod ratio generandi in patre esset pinitas. quoniam vnumquodque agit actionem sibi debitam eo quo  
+       <lb ed="#B" n="19"/>est id quod est: vt ignis forma quae est ignis: &amp; calidum forma qua habet esse calidum. Pater 
+       <lb ed="#B" n="20"/>id quo est pater est paternitas: &amp; propria actio sibi debita eo quod est pai, est generare fi 
+       <lb ed="#B" n="21"/>lium. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e945-d1e121">
+       CONtra. vnumquodque eo agit in quo productum sibi assimilat: vt assimilans sibi passum 
+       <lb ed="#B" n="22"/>sua actione in calore, agit calore suam actionem. Pater filium productum a se assimilat diuinitate:  
+       <lb ed="#B" n="23"/>&amp; non paternitate: quia ipse deus generat deum: non autem ipse pater generat patrem. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e945-d1e128">
+       <lb ed="#B" n="24"/>DIcendum ad hoc: quod esse quod est deus siue diuina essentia, radix est &amp; fundamentum omnium eorum  
+       <lb ed="#B" n="25"/>quae sunt in diuinis, &amp; ab ipsa originantur: &amp; ad ipsam reducuntur. Vnde diuina essentia est ra  
+       <lb ed="#B" n="26"/>dix &amp; origo omnium diuinarum actionum &amp; productionum: &amp; omnis actio, &amp; omne productum in deo  
+       <lb ed="#B" n="27"/>vel ei attributum realiter non est nisi ipsa diuina essentia, &amp; esse purum simplicissimum, licet secum 
+       <lb ed="#B" n="28"/>dum aliam &amp; aliam rationem aliquando dicitur potentia, aliquando relatio, aliquando proprietas 
+       <lb ed="#B" n="29"/>personalis, aliquando persona, aliquando actio vel operantio: &amp; sic de caeteris: ita quod quicquid nominatur vel 
+       <lb ed="#B" n="30"/>concipitur in diuinis, licet propter aliam rationem quam sit ratio substantiae, alio modo significatur &amp; concipitur 
+       <lb ed="#B" n="31"/>semper tamen ipsam diuinam essentiam includit: &amp; est ipsa, sub alia tamen &amp; alia ratione quam sit ratio essentiae vel 
+       <lb ed="#B" n="32"/>substantiae. Quod enim in deo est potentia, hoc est essentia sub ratione potentiae, &amp; similiter quod est re- 
+       <lb ed="#B" n="33"/>latio, est ipsa essentia sub ratione respectus, &amp; caetera huiusmodi. Vnde cum quaeritur: vtrum ratio generandi in patretamquam  
+       <lb ed="#B" n="34"/>principium quo agit pater in generando, sit ipsa diuina essentia, vel proprietas personae aliqua, vt prnitas 
+       <lb ed="#B" n="35"/>non intelligitur quaestio ista, vtrum ratio illa sit ipsa essentia vel proprietas: tanquam aliquid seorsum ab essentia 
+       <lb ed="#B" n="36"/>quod non est ipsa essentia: sed intelligitur, vtrum essentia sub ratione qua essentia, vel sub ratione qua 
+       <lb ed="#B" n="37"/>proprietas aliqua, sit principium quo pater generet. 
+      </p>
+      <p xml:id="n3av8a-c1e945-d1e162">
+       QVd supposito, sciendum quod in omni generatione natu  
+       <lb ed="#B" n="38"/>rali duo contingunt ex actione generantis circa genitum, scilicet quod genitum sit simile generanti: &amp; 
+       <lb ed="#B" n="39"/>quod sit distinctum ab ipso. Natura enim est vis insita rebus ex similibus similia procreans: diuersa siue di 
+       <lb ed="#B" n="40"/>stincta tamen. Nihil enim generat, aut producit seipsum in esse: &amp; licet ambo simul contingant in ge- 
+       <lb ed="#B" n="41"/>nerando per actionem generantis: principalius tamen actio generationis, vt actio est, determinatur ad simile 
+       <lb ed="#B" n="42"/>ratione qua diuersum vel distinctum, quam econuerso, homo enim generans non generat istum homi 
+       <lb ed="#B" n="43"/>nem: quia generat hominem simpliciter: sed econuerso generat hominem simpliciter: quia generat istum  
+       <lb ed="#B" n="44"/>hominem. Natura enim occulte operatur in his, vt dicitur in sex principiis. Et in ethicis dicitur quod omnis actus 
+       <lb ed="#B" n="45"/>&amp; operatio sunt circa particularia. Et similiter homo non generat hominem sibi similem: quia generat 
+       <lb ed="#B" n="46"/>hominem simpliciter: sed quia generat istum hominem, homo enim in eo quod homo, idem est cuilibet homini 
+       <lb ed="#B" n="47"/>&amp; non distinctus ab ipso: &amp; ideo neque similis ei. Nihil enim sibiipsi simile est inquantum huiusmodi. Sed quod 
+       <lb ed="#B" n="48"/>homo similis est homini: hoc est quia vnus distinctus est ab alio: &amp; hoc non quia vterque est homo sim 
+       <lb ed="#B" n="49"/>pliciter: sed quia hic est vnus homo, &amp; ille alius homo. Quia ergo homo generat hominem, &amp; similis si 
+       <lb ed="#B" n="50"/>milem, hoc non est quia homo simpliciter generat hominem simpliciter, sed quia hic homo gene- 
+       <lb ed="#B" n="51"/>rat illumalium hominem. Vbi circa hominem duo includuntur, similitudo scilicet &amp; distinctio, ita 
+       <lb ed="#B" n="52"/>quod principaliter terminatur generationis actio ad naturam: quia distincta. Et per hoc etiam vt dictum est habetur pri 
+       <lb ed="#B" n="53"/>cipaliter generantis ad genitum similitudo, ita quod identitas naturae hinc &amp; inde est materiale similitudinis 
+       <lb ed="#B" n="54"/>distinctio formale &amp; complementum. Quia igitur actio generationis principalius terminatur ad diuersum 
+       <!--141.xml-->
+       <pb ed="#B" n="50-v"/>
+       <lb ed="#B" n="1"/>ratione qua diuersum siue distinctum, quam ratione qua simile: quia distinctio vt dictum est, perficit similitudinem: id autem  
+       <lb ed="#B" n="2"/>quid generatur sequitur rationem principii generantis: oportet igitur quod ex parte generantis in eo quo generat quod est 
+       <lb ed="#B" n="3"/>ratio generandi, duo concurrant: &amp; ratio qua assimilat genitum generanti: &amp; ratio qua distinguit vnum  
+       <lb ed="#B" n="4"/>ab alio: ita quod principalior sit ratio generandi ex parte eius qua distinguit quam qua assimilat. Illa enim est per- 
+       <lb ed="#B" n="5"/>fectiua &amp; completiua, &amp; includit in se aliam, &amp; appropriata est generanti inquantum generans est. 
+       <lb ed="#B" n="6"/>Vnde quod iste homo generat illum: vt Sortes Platonem, hoc non facit principaliter ratione qua ho-  
+       <lb ed="#B" n="7"/>mo, sed ratione qua iste homo. ita quod humanitas non sit ratio generandi nisi quia haec Lumanitas. Pro 
+       <lb ed="#B" n="8"/>pter quod probat <ref xml:id="n3av8a-c1e945-Rd1e222" target="http://scta.info/resource/aristmet-l7">philosophus in. vii. metaphysicae</ref> quod formae vt formae sunt non prosunt ad generationem vbi 
+       <lb ed="#B" n="9"/>non sunt in singularibus. 
+      </p>
+      <p xml:id="n3av8a-c1e945-d1e228">
+       DIcendum igitur ad quaestionem: quod pater non generat nisi sibi similem, vt deus deum: &amp; hoc 
+       <lb ed="#B" n="10"/>non nisi distinctum a se, quia nullus assimilatur sibiipsi. Ratio igitur generandi qua pater generat 
+       <lb ed="#B" n="11"/>in se, debet complectere geminam rationem: &amp; rationem qua assimilat, &amp; rationem qua distin-  
+       <lb ed="#B" n="12"/>guit: ita quod principalis &amp; completiua ratio generandi sit illa qua distinguit similem. Ratio autem qua  
+       <lb ed="#B" n="13"/>similat est essentia: &amp; hoc non simpliciter, vt essentia est, sed vt habet esse in supposito singulari, vt 
+       <lb ed="#B" n="14"/>in patre. Aliter enim in quolibet alio supposito generaret vt in filio &amp; spiritu sancto. Ratio autem qua  
+       <lb ed="#B" n="15"/>distinguit, est paterna proprietas patris constitutiua, illa scilicet quae secundum rationem intelligendi 
+       <lb ed="#B" n="16"/>primo est constitutiua patris, &amp; deinde principium eliciendi actum generationis: &amp; tertio mediante actu 
+       <lb ed="#B" n="17"/>generationis nota in patre respectum ad filium generatum: &amp; qui tunc demum inquantum per actum ge 
+       <lb ed="#B" n="18"/>nerandi habet secum filium genitum, nominatur paternitas: ita quod sub ratione huius nominis pater 
+       <lb ed="#B" n="19"/>nitas sequitur actum generandi. Non enim est pater a se nisi quia habet filium genitum. Sub ratione  
+       <lb ed="#B" n="20"/>autem qua est principium elicitiuum actus generandi, innominata est, &amp; circumloquitur per poten 
+       <lb ed="#B" n="21"/>tiam generatiuam, quae tamen includit in se &amp; rationem similandi: &amp; rationem distinguendi, scilicet di 
+       <lb ed="#B" n="22"/>uinam essentiam: non vt essentia est absolute, sicut dictum est: sed vt est in patre sub ratione illius, proprietatis 
+       <lb ed="#B" n="23"/>innominatae: sicut humanitas non est principium generandi hominem nisi vt est sub ratione indiuiduali in  
+       <lb ed="#B" n="24"/>Sorte vel in Platone. Includit etiam potentia generandi illam proprietatem distinctam. Ratio ergo qua  
+       <lb ed="#B" n="25"/>pater generat siue ratio generandi in patre est ipsa diuina essentia, non simpliciter, sed vt est in patre sub 
+       <lb ed="#B" n="26"/>proprietate paterna, immo potius vt induit rationem proprietatis, quae considerata circa diuinam essen 
+       <lb ed="#B" n="27"/>tiam, est sicut ratio indiuidualis circa formam naturalem humanitatis in Sorte vel in Platone: &amp; non est res 
+       <lb ed="#B" n="28"/>aliqua addita super essentiam formae per quam indiuiduatur: sed solum intentio quaedam in modo essendi se 
+       <lb ed="#B" n="29"/>cundum quam res habet esse in effectu: eo quod est ab agente, vt dictum est in alio Quolibet, circa cau 
+       <lb ed="#B" n="30"/>sam indiuiduationis. Sicut ergo in Sorte vt generet Platonem: ratio generandi non est tantum humanitas 
+       <lb ed="#B" n="31"/>quae est in Sorte: neque ratio singularitatis eius, sed ambo simul, vel potius vnum sub ratione alterius 
+       <lb ed="#B" n="32"/>existens: quia non sunt duo re, sed intentione solum: quoniam haec humanitas in Sorte est praecisa 
+       <lb ed="#B" n="33"/>ratio generandi in ipso ratione qua haec, non ratione qua humanitas simpliciter: sic in patre vt 
+       <lb ed="#B" n="34"/>generet filium, ratio generandi est non tantum essentia vt diuinitas, neque proprietas patris: sed ambo 
+       <lb ed="#B" n="35"/>simul: immo potius essentia, vt habet &amp; induit rationem proprietatis: ipsa est ipsa proprietas: &amp; ita non ratione 
+       <lb ed="#B" n="36"/>qua diuinitas simpliciter, sed ratione qua deitas in patre. Et quia quid attribuitur ipsi ratione qua induit 
+       <lb ed="#B" n="37"/>rationem, proprietatis, principalius attribuitur proprietati vt proprietas est, quam ipsi essentiae vt essentia est: idcirco ab- 
+       <lb ed="#B" n="38"/>solute dicendum: quod ratio generandi in patre potius est, proprietas quam essentia, licet sit vtrumque. quoniam proprietas 
+       <lb ed="#B" n="39"/>essentiam includit: &amp; est ipsa essentia. Quae quidem quia essentia est, generat illa deum: quia vero proprietas 
+       <lb ed="#B" n="40"/>paterna est, generat deum qui est alius a patre non pater: vt filium: qui tamen est idem deus cum patre. 
+       <lb ed="#B" n="41"/>quia etsi generat distinctum ratione proprietatis qua generat: quia pater non generat patrem: generat 
+       <lb ed="#B" n="42"/>tamen non alium deum: quia non generat ipsum ex alia materia: sed ex sua substantia. &amp; secundum philosophum, generans 
+       <lb ed="#B" n="43"/>non generat alium nisi per materiam aliam, scilicet ex qua generat: quam sit materia sua in qua subsi 
+       <lb ed="#B" n="44"/>stit. &amp; sic pater generat deum, quia generat forma diuinitatis, sicut homo generat hominem: quia 
+       <lb ed="#B" n="45"/>forma humanitatis generat: alium tamen in persona, quia non diuinitate simpliciter: sed vt habet 
+       <lb ed="#B" n="46"/>rationem proprietatis incommunicabilis, sicut Sortes non generat Sortem, quia non generat humanitate  
+       <lb ed="#B" n="47"/>simpliciter, sed humanitate singulari, quae incommunicabilis est: sed non alium deum: quia non ex aliena na-  
+       <lb ed="#B" n="48"/>tura eum generat, sicut Sortes generat alium hominem a se: quia ipse generat eum ex alia materia numero 
+       <lb ed="#B" n="49"/>quam sit materia sua. 
+      </p>
+      <p xml:id="n3av8a-c1e945-d1e317">
+       PER haec patent obiecta. Reuera enim pater principaliter generat paterna, propri 
+       <lb ed="#B" n="50"/>etate qua distinguit a se genitum, vt procedit prima ratio. sed propter hoc non excluditur quin generat 
+       <lb ed="#B" n="51"/>deitate, qua sibiipsi assimilat genitum: vt procedat secunda ratio: quia ipsa, proprietas includit essentiam, immo 
+       <lb ed="#B" n="52"/>est ipsa essentia, vt dictum est, nec econucrso quod generet essentia non excludit quin generet proprie- 
+       <lb ed="#B" n="53"/>tate, vt dictum est. quia etsi calidum generet calore: generat tamen alium calorem: quia generat non calore sim 
+       <lb ed="#B" n="54"/>pliciter: sed isto calore: sicut pater generat deum: sed non deum patrem, vt dictum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

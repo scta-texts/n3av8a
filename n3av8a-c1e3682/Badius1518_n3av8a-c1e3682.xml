@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="365-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3682">
+       <head xml:id="n3av8a-c1e3682-Hd1e96">Quaestio 7</head>
+       <p xml:id="n3av8a-c1e3682-d1e99">
+        <lb ed="#B" n="41"/>SEquitur vnum quod pertinet ad naturam angelicam secundum se. &amp; erat Vtrum aeuum sit substan 
+       <lb ed="#B" n="42"/>tia an accidens. Ex arguitur quod sit substantia: quia mensura est vnigenea suo mensutato  
+       <lb ed="#B" n="43"/>secundum philosophum. x. Metaphysicae Aeuum autem est mensura substantiae angeli, &amp; substantiae non est vnige- 
+       <lb ed="#B" n="44"/>neum nisi substantia. ergo &amp;c. 
+      </p>
+      <p xml:id="n3av8a-c1e3682-d1e110">
+       CONtra, proprium est solius dei quod sua substantia est lua 
+       <lb ed="#B" n="45"/>mensura: cum ergo aeuum sit mensura substantiae angeli, non ergo est substantia eius: ergo &amp;c. 
+       <lb ed="#B" n="46"/>
+      </p>
+      <p xml:id="n3av8a-c1e3682-d1e117">
+       DIcendum quod cum aeuum non est nisi mensura quaedam: oportet videre modos mensura- 
+       <lb ed="#B" n="47"/>rum &amp; per hoc ex comparatione aeui ad alias patebit in parte cuiusmodi mensura sit aeuum. Estigi- 
+       <lb ed="#B" n="48"/>tur sciendum quod in qualibet re existente in actu duo est considerare. scilicet eius essentiam, &amp; existentiams 
+       <lb ed="#B" n="49"/>&amp; secundum vtrumque eorum respondet ei mensura. Ex parte enim essentiae mensura dei est sua immensitas: quo  
+       <lb ed="#B" n="50"/>sola ratione differt a sua essentia. In essentia autem creaturae est duplex ratio mensurae. vna secundum quod est essen 
+       <lb ed="#B" n="51"/>tia simpliciter. alio modo secundum quod est extensa vel multiplicata secundum partes. Primo modo quaelibet 
+       <lb ed="#B" n="52"/>creatura duplicem habet mensuram. Vnam intra: quae est limitatio in gradu naturae &amp; essentiae. Aliam extra: 
+       <lb ed="#B" n="53"/>id quod est primum &amp; dignissimum &amp; verissimum ens in suo genere: &amp; velite quo ad res omnium generum: id quod est 
+       <lb ed="#B" n="54"/>primum ens simpliciter quod est diuina substantia quae est per se mensura omnium: secundum quod est ex se quid absolu- 
+       <!--770.xml-->
+       <pb ed="#B" n="365-r"/>
+        <lb ed="#B" n="1"/>tum. &amp; non habet inquantum huiusmodi respectum ad creaturam: nisi quia ipsa habet respectum ad illam. vt ex hoc quod cre 
+       <lb ed="#B" n="2"/>atura habeat respectum ad deum, rationes perfectionales considerentur in deo: quemadmodum aliqui ponunt quod rationes 
+       <lb ed="#B" n="3"/>attributales non ponantur in deo: nisi quia per intellectum creaturae secundum correspondentiam eis quae deo attribuuntur 
+       <lb ed="#B" n="4"/>per intellectum, referuntur ad deum: vt in hoc contrario modo considerentur rationes ideales, &amp; perfectionales. ldeales enm 
+       <lb ed="#B" n="5"/>considerantur in deo non ex hoc quod creaturarum essentiae habent referri ad deum: sed econverso magis. &amp; in iam di  
+       <lb ed="#B" n="6"/>ctis modis mensurarum nulla cadit accidentalitas: &amp; nullo horum modorum aeuum est mensura. Considerando  
+       <lb ed="#B" n="7"/>autem mensuram essentiae secundum quod est extensa: sic est mensura eius quantitas continua: sub cuius partibus par 
+       <lb ed="#B" n="8"/>tes substantiae materialis sunt extensae. Et per istam quantitatem accidentalem intrinsecam convenit quantitas di  
+       <lb ed="#B" n="9"/>mensionalis extrinseca: quae dicitur locus: quae similiter accidens est. Secundum vero quod est multiplicata sic ac 
+       <lb ed="#B" n="10"/>cidit substantiis materialibus numerus. Nec adhuc de natura talium mensurarum est aeuum. &amp; sic nihil est omnino 
+       <lb ed="#B" n="11"/>in re pertinens per se ad essentiam rei ratione ipsius essentiae: sed solummo est de ratione mensurarum rei ratione  
+       <lb ed="#B" n="12"/>sui esse: cuius mensura est duratio in esse: &amp; diuersificatur secundum diuersum modum durandi in esse. &amp; est. 
+       <lb ed="#B" n="13"/>in triplici genere. Est enim quaedam duratio absque omni variatione &amp; variabilitate: &amp; est solius dei: quae dicitur 
+       <lb ed="#B" n="14"/>aeternitas: &amp; differt sola ratione ab esse &amp; essentia dei. Quaedam vero est variabilis secundum contrarias dispo 
+       <lb ed="#B" n="15"/>sitiones: &amp; dicitur tempus: quae est per se mensura motus: &amp; no alterum, nisi inquantum est mutabile secundum contra 
+       <lb ed="#B" n="16"/>rias dispositiones in esse: de cuius natura non est aeuum. Est vero quaedam alia quae est variabilis secundum 
+       <lb ed="#B" n="17"/>contradictorias dispositiones tantum: &amp; est duplex. Quaedam transiens: quae non est nisi mensura eius quid est medium 
+       <lb ed="#B" n="18"/>inter terminos variationis: cuiusmodi est instans: quod est per se mensura mutationis subitae &amp; mutabilis 
+       <lb ed="#B" n="19"/>secundum quod est subiectum talis mutationis. Quaedam vero manens: quae est mensura esse rei manentis in esse 
+       <lb ed="#B" n="20"/>post non esse inquantum manens: possibilis tamen cadere in non esse: quod est simpliciter mensura fixa &amp; stans abs 
+       <lb ed="#B" n="21"/>que inouatione &amp; successione: sicut &amp; esse: cuiusmodi est mensura substantiae cui convenit esse: &amp; est quid abso 
+       <lb ed="#B" n="22"/>tum simplex stans absque fluxu, proportionale instanti respectu mutationis: praeter hoc quod vtrumque istorum  
+       <lb ed="#B" n="23"/>non habet esse nisi transiens. &amp; quo ad hoc est minus cognitum quam sit aeuum quod est manens. Sed econverso 
+       <lb ed="#B" n="24"/>instans est magis cognitum instans: quia est aliquid compositi vt tempus: &amp; hoc vel a quo fluit vel in quod: quid  
+       <lb ed="#B" n="25"/>per motum cognoscitur: qui motus est quiddam compositum &amp; sensibile per se licet commune: &amp; per hoc nobis magis co- 
+       <lb ed="#B" n="26"/>gnitum: &amp; per motum tempus, similem habens compositionem: &amp; per tempus ipsum instans. Est ergo aeuum accidens 
+       <lb ed="#B" n="27"/>absolutum reducendum ad genus quantitatis. 
+      </p>
+      <p xml:id="n3av8a-c1e3682-d1e200">
+       AD argumentum in oppositum quod mensura est vnigenea men- 
+       <lb ed="#B" n="28"/>surato: hoc solum intelligitur dictum de mensura extriseca: quae convenit rei ratione suae essentiae simpliciter. Quod enim 
+       <lb ed="#B" n="29"/>sic est mensura substantiae, substantia aliqua est. &amp; est secundum artem philosophi in quolibet genere reperire tale quid est men 
+       <lb ed="#B" n="30"/>sura omnium illius generis. vnde non valet ad propositum de aeuo: quid est mensura alterius rationis: vt patet ex dictis.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

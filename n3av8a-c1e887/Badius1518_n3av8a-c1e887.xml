@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 18</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 18</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="46-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e887">
+      <head xml:id="n3av8a-c1e887-Hd1e96">Quaestio 18</head>
+      <p xml:id="n3av8a-c1e887-d1e99">
+       <lb ed="#B" n="30"/>CIrca secundum arguitur, quod nullus licite potest dispensationem petere pro se: quia nul- 
+       <lb ed="#B" n="31"/>lus potest licite sibi procurare id quod minus est: vt vnam dignitatem quam sine omni 
+       <lb ed="#B" n="32"/>dispensatione posset tenere: quia nec appetere licet. dicente <name ref="#Augustine">Augustino</name> decimono  
+       <lb ed="#B" n="33"/>no de ciuitate dei, capitulo decimonono. Locus superior etsi teneatur tacite vt de-  
+       <lb ed="#B" n="34"/>ceat, indecenter tamen appetitur. ergo &amp;c.
+      </p>
+      <p xml:id="n3av8a-c1e887-d1e116">
+       CONtra est vsus ecclesiae, quia cum nemi- 
+       <lb ed="#B" n="35"/>ne dispensatur nisi cum petente pro se, vel per se, vel per alium. 
+      </p>
+      <p xml:id="n3av8a-c1e887-d1e121">
+       DIcendum ad hoc 
+       <lb ed="#B" n="36"/>quod in eo quod quis petit dispensationem pro se, duo sunt attendenda: &amp; genus facti, &amp; intentio facientis. Quan- 
+       <lb ed="#B" n="37"/>tum ad genus facti praesumitur esse ambitio quandocunque aliquis aspirat ad maiora cui sufficienter 
+       <lb ed="#B" n="38"/>prouisum est. Iuxta illud. vtii estid est si quis episcopus suae ciuitatis mediocritate despecta administratio-  
+       <lb ed="#B" n="39"/>nem celebrioris loci ambierit &amp; ad maiorem plebem quacumque ratione se transtulerit, a cathedra pella 
+       <lb ed="#B" n="40"/>tur. Dicit autem mediocritate despecta administrationem celebrioris loci ambierit: quia secundum glos. haec 
+       <lb ed="#B" n="41"/>est praesumptio canonis, quia eo ipso quod transit ad maiorem, praesumitur esse ambitio. Consimili ergo ra- 
+       <lb ed="#B" n="42"/>tione vel fortiori praesumitur ambitio, si non contentus vnico beneficio sibi simul cum illo aliud procura 
+       <lb ed="#B" n="43"/>re voluerit. vt procedit argumentum ad primam partem. Quare cum illud quid praesumitur ambitiosum, inquamn 
+       <lb ed="#B" n="44"/>tum huiusmodi habet speciem mali: &amp; tale non licet propter scandalum: iuxta illud apostoli, Ab omni spe 
+       <lb ed="#B" n="45"/>cie mali abstinete vos: idcirco attendendo ad genus facti: non licet omnino, aliquem dispensationem petere pro 
+       <lb ed="#B" n="46"/>se: etsi forte quantum est ex intentione facientis quandoque liceret. quoniam petens pro se dispensationem: aut quaerit 
+       <lb ed="#B" n="47"/>in eo super quo dispensandum est id quod est honoris &amp; temporalis emolumenti: aut id quod est oneris &amp; spiri- 
+       <lb ed="#B" n="48"/>tualis seruitii. Primo modo ambitiosa est petitio. nec aliquo modo licet. Iuxta illud. dist. l cap. Multi. 
+       <lb ed="#B" n="49"/>Quicumque desiderauerit primatum in terra inueniet confusionem in caelo: nec inter seruos Christi compu 
+       <lb ed="#B" n="50"/>tabitur: qui de primatu tractauerit. In isto casu dispensatio etsi assecurat coram militante ecclesia ne in-  
+       <lb ed="#B" n="51"/>festetur, non tamen a crimine absoluit. dicente <name ref="#Bernard">Bernardo</name> in epistola ad Robertum: &amp; in eo cuilibet talium. 
+       <lb ed="#B" n="52"/>Quid tibi frustra quispiam blanditur de absolutione apostolica, cuius conscientiam diuina ligatam te- 
+       <lb ed="#B" n="53"/>net sententia: tolle occasiones: respue blandimenta: adulationibus claude aures: te interroga de te: quia tu 
+       <lb ed="#B" n="54"/>te melius nosti quam alius. attende cor tuum. discute intentionem: consule veritatem. tua tibi conscientia respon 
+       <!--132.xml-->
+       <pb ed="#B" n="46-r"/>
+       <lb ed="#B" n="1"/>det. Respondet reuera multis: quia non pietas sed ambitio ad petendum pro se dispensationem mouetur. 
+       <lb ed="#B" n="2"/>Vnde <name ref="#Bernard">Bernardus</name> in epistola ad Henricum Senonensem archiepiscopum. Multi non tanta fiducia &amp; alacri 
+       <lb ed="#B" n="3"/>tate currerent ad honores, si &amp; se sentirent, &amp; onera, grauari profecto metuerent, nec cum tanto labo 
+       <lb ed="#B" n="4"/>re &amp; periculo quarumlibet affectarent infulas dignitatum. Nunc vero quia sola attenditur gloria &amp; non 
+       <lb ed="#B" n="5"/>poena, purum esse clericum erubescitur in ecclesia: se se viles aestimant &amp; inglorios, qui quocumque eminentio 
+       <lb ed="#B" n="6"/>ri loco non fuerint sublimati. &amp; infra. Semper aestuante desiderio, quo vtique magis ac magis &amp; dilatentur 
+       <lb ed="#B" n="7"/>in plura, &amp; ad caelestia sublimentur. &amp; ita huius rei gratia non pigritantur crebro terere limina apostolo- 
+       <lb ed="#B" n="8"/>rum: inuenturi &amp; ibi quid magis dolendum est: illos scilicet qui suae faueant improbae voluntati. Non quod  
+       <lb ed="#B" n="9"/>valde Romani curent quo fine res terminetur: sed quia valde diligunt munera: sequuntur retributio 
+       <lb ed="#B" n="10"/>nes. Nude nuda loquore non detego verenda: sed inuerecunda confuto. De hoc libro tertio ad Eugenium 
+       <lb ed="#B" n="11"/>papam. An non limina apostolorum iam plus ambitio quam deuotio terit: an non vocibus eius vestrum tota die 
+       <lb ed="#B" n="12"/>resultat palatium: An non quaestibus eius tota legum canonumque disciplina insudat: an non spoliis eius 
+       <lb ed="#B" n="13"/>omnis ltalia inhiat inexplebili auiditate: Si vero petens pro se dispensationem quaerit quid oneris est &amp; 
+       <lb ed="#B" n="14"/>seruitii, aut ergo quaerit illud ex desiderio &amp; affectione, aut ex necessitate &amp; timore. Primo modo om 
+       <lb ed="#B" n="15"/>nino non licet: quia locus regiminis desiderantibus negandus est, fugientibus offerendus. vt dicit Gre 
+       <lb ed="#B" n="16"/>gorius octaua, Quaestione prima, caplo In scripturis. Vnde petens dispensationem pro se, desiderans &amp; afa 
+       <lb ed="#B" n="17"/>fectans onus atque seruitium etiam intentione proficiendi sibi &amp; aliis, zelum dei habet &amp; desiderium profi 
+       <lb ed="#B" n="18"/>ciendi, sed non secundum scientiam: quia occupatio non debet esse omnino in desiderio etiam illis quibus 
+       <lb ed="#B" n="19"/>incumbit in vnico beneficio. dicente Gregorio in glos. super Exod. xxiiii. Sancti viri qui exterioribus ser- 
+       <lb ed="#B" n="20"/>uire officii necessitate coguntur, studiose semper ad cordis secreta refugiunt. Multo ergo minus affectan 
+       <lb ed="#B" n="21"/>da est in pluribus: cum vix sit aliquis qui vnico sufficere possit, vt dictum est. Secundo modo in ca 
+       <lb ed="#B" n="22"/>su forte licitum esse potest. Vnde distinguendum est: quod petens aut imperfectus est virtutibus: &amp; plures 
+       <lb ed="#B" n="23"/>supersunt qui melius oneri beneficii alterius impositi sufficiunt quam ipse solus duobus: aut tam perfe- 
+       <lb ed="#B" n="24"/>ctus est virtutibus: vt melius sufficiat oneri vtriusque beneficii quam aliquis qui superest sufficere poterit oneri 
+       <lb ed="#B" n="25"/>alterius. Primo modo adhuc non licet petere pro se: quia hoc non sine temeritate aut ambitione esse pos 
+       <lb ed="#B" n="26"/>set. Hinc dicit Gregorius primo pastoral. Virtutibus pollens, coactus ad regimen veniat: virtutibus 
+       <lb ed="#B" n="27"/>vacuus, nec coactus accedat. Et sicut est de regimine populi in eodem beneficio: ita &amp; de seruitio ecclesiae 
+       <lb ed="#B" n="28"/>maxime in diuersis: quia eadem causa vtrobique. Si autem sit aliquis tam perfectus virtutibus &amp; spirituali- 
+       <lb ed="#B" n="29"/>bus dico &amp; corporalibus, vt melius sufficiat cum onere sui beneficii quod obtinet, ad explendum onus 
+       <lb ed="#B" n="30"/>beneficii super quod dispensatio imploranda est, vt &amp; necessitas impellentis opportunitatis, vel suaden-  
+       <lb ed="#B" n="31"/>tis vtilitatis, publicae dico non priuatae, ad dispensandum suadeat, in hoc casu aut habens potestatem dispen- 
+       <lb ed="#B" n="32"/>sandi quaerit cum quo possit dispensare imponendo ei onus beneficii vacantis: aut non. In secundo mo- 
+       <lb ed="#B" n="33"/>do adhuc, vt arbitror, nullo modo petere potest vt in secundo beneficio obtinendo secum dispensetur:  
+       <lb ed="#B" n="34"/>&amp; hoc propter speciem mali &amp; ambitionis suspitionem. De hac sarcina secundi beneficii credo dicendum: 
+       <lb ed="#B" n="35"/>sicut dicit <name ref="#Augustine">Augustinus</name> de suscipienda sarcina episcopalis officii. supra decimonono de ciuitate dei.  
+       <lb ed="#B" n="36"/>Quam sarcinam si nullus imponit vacandum est. Sed in casu credo quod deberet sufficienter insinuare habenti 
+       <lb ed="#B" n="37"/>potestatem dispensandi vt prouideret de persona cui posset dispensando imponere onus illud: &amp; sic in  
+       <lb ed="#B" n="38"/>eius dispositione relinquere, nec vlterius quicquam agere. Si vero quaerens cum quo possit dispensare, &amp; 
+       <lb ed="#B" n="39"/>non est inuentus ab eo: cui potest onus illius secundi beneficii conferre ad profectum ecclesiae: in hoc ca 
+       <lb ed="#B" n="40"/>su credo quod potest semet ipsum offerre paratum ad onus suscipiendum &amp; ecclesiae seruiendum: ad mo- 
+       <lb ed="#B" n="41"/>dum quo obtulit se Esaias. secundum quod dicitur Esaiae sexto. Audiui vocem domini dicentis: quem mittam 
+       <lb ed="#B" n="42"/>&amp; quis ibit nobis: &amp; dixi. ecce ego: mitte me. &amp; dixit, vade. Hic dicit Gregorius. Sicut toto desiderio de 
+       <lb ed="#B" n="43"/>bemus occupationem fugere, ita si desit qui praesidet occupationis onus libenti necesse est animo subire 
+       <lb ed="#B" n="44"/>Et hoc vt dicit Augu. propter necessitatem charitatis: &amp; hoc nisi probabili praecedente coniectura quod oneri 
+       <lb ed="#B" n="45"/>plus aliis valeat: &amp; quod tunc non nisi cum timore accedat. dicente Gregorio in onere quasi consimili. pri 
+       <lb ed="#B" n="46"/>ma, quaestione prima. Non reputanda. Quisquis sacerdotium non ad elationis pompam: sed ad vtilitatem 
+       <lb ed="#B" n="47"/>adipisci desiderat: prius vires suas cum eo quid subiturus est onere metiatur: vt si est impar, abstineat:  
+       <lb ed="#B" n="48"/>&amp; ad id cum metu etiam cui se sufficere aestimat, accedat. Quanto magis ergo ad onus plurium benefi 
+       <lb ed="#B" n="49"/>ciorum: cui nullo modo se sufficere aestimare potest: nisi comparatiue: quia alii sufficientes omnino de-  
+       <lb ed="#B" n="50"/>sunt: &amp; tunc casus dispensandi cum eo occurrit: vt ei plura beneficia quasi propter clericorum pauci 
+       <lb ed="#B" n="51"/>tatem committantur. Et si sic promptum se offerre vt cum eo dispensetur ad obtinendum simul plura 
+       <lb ed="#B" n="52"/>beneficia, appelletur petere pro se dispensationem: dico quod in hoc solo casu licet petere dispensationem. Nisi 
+       <lb ed="#B" n="53"/>forte quis habeat beneficium intantum tenue quod nullo modo personae suae sufficiat. In hoc enim casu for 
+       <lb ed="#B" n="54"/>te posset petere dispensationem: ad modum quo pauper clericus qui nullum omnino beneficium adeptus est 
+       <!--133.xml-->
+       <pb ed="#B" n="46-v"/>
+       <lb ed="#B" n="1"/>&amp; alias dignus, potest pro se petere vt vnicum beneficium obtineat. Sed tamen <name ref="#Bernard">Bernardus</name> &amp; loannes 
+       <lb ed="#B" n="2"/>glossatores canonum, volunt quod quantumcunque tenue beneficium quis prius acceptauit, non liceat eum ac- 
+       <lb ed="#B" n="3"/>cipere secundum: &amp; quod sibiipsi imputare debet quod tam tenue beneficium ab initio acceptauit: &amp; ita nec talis 
+       <lb ed="#B" n="4"/>omnino posset pro se petere dispensationem ad obtinendum beneficium secundum. Et tamen forte paucitas 
+       <lb ed="#B" n="5"/>clericorum &amp; tenuitas beneficiorum duo casus sunt in quibus solis licet dispensare super pluralitate be 
+       <lb ed="#B" n="6"/>neficiorum: &amp; ad quos omnes alii reducendi sunt. Sed in hoc casu se promptum offerre, non potest dici 
+       <lb ed="#B" n="7"/>petere pro se: quia vt dictum est, hoc non licet ipsum facere pro vtilitate propria &amp; priuata: sed solum 
+       <lb ed="#B" n="8"/>pro necessitate ecclesiae aut vtilitate publica. Nec potest hoc dici absolute petere: sed magis in debito 
+       <lb ed="#B" n="9"/>obedire. in eo enim quod potens dispensare quaerit vtilem cum quo dispensare possit cum opus est, &amp; per- 
+       <lb ed="#B" n="10"/>sona talis non videt ad manum aliquem idoneum qui se offerat cum quo dispensari de iure possit: ipsa 
+       <lb ed="#B" n="11"/>inquam talis persona quasi in generali per hoc vocata est: vt ecclesiae subueniat si possit. &amp; sic tanquam necessi 
+       <lb ed="#B" n="12"/>tate vrgente in tali casu non voluntate affectante ad debitum exoluendum se promptum offerre debet. 
+       <lb ed="#B" n="13"/>iuxta illud quod dicit Gregorius in primo pastoral. Si vnigenitus patris pro explenda omnium salute 
+       <lb ed="#B" n="14"/>de secreto patris ad publicum nostrum egressus est, nos quid dicturi si secretum nostrum praeponi- 
+       <lb ed="#B" n="15"/>mus vtilitati proximorum: 
+      </p>
+      <p xml:id="n3av8a-c1e887-d1e336">
+       ABsolute ergo &amp; proprie loquendo de petere pro se, nullus potest licite pro 
+       <lb ed="#B" n="16"/>se dispensationem petere: nec vt cum ipso dispensetur super pluralitate beneficiorum, vel per se, vel per 
+       <lb ed="#B" n="17"/>alium procurare. 
+      </p>
+      <p xml:id="n3av8a-c1e887-d1e344">
+       AD obiectum in oppositum, quod cum nemine dispensatur nisi cum petente vel per 
+       <lb ed="#B" n="18"/>se, vel per alium: Dicendum quod dispensans si iuste dispensat: non dispensat, vt dictum est, nisi vrgente ne 
+       <lb ed="#B" n="19"/>cessitate vel suadente vtilitate non priuata sed publica: &amp; sic ad petitionem non dispensat tanqui ad pe 
+       <lb ed="#B" n="20"/>titionem, sed tanquam ad insinuationem. iuxta hoc, quod papa in literis suis dispensatoriis non solet allegare pe 
+       <lb ed="#B" n="21"/>titionem alicuius pro ratione dispensandi: sed vel necessitatem ecclesiae vel vtilitatem: quae forte saepius 
+       <lb ed="#B" n="22"/>falso insinuantur. propter quid ex falsi suggestione frequenter dispensationes impetrantur. Sed in hoc pro 
+       <lb ed="#B" n="23"/>uideat sibi cuius est dispensare: quia secundum apostolum, iam inter dispensatores quaeritur: vt fidelis quis 
+       <lb ed="#B" n="24"/>inueniatur. ipsius enim potius est quaerere cum quibus poterit &amp; debeat dispensare: aut honores &amp; di-  
+       <lb ed="#B" n="25"/>gnitates conferre: quam illorum petere ab eo vt cum eis dispensetur, aut vt honoris dignitates siue hono 
+       <lb ed="#B" n="26"/>res eis conferantur. immo isti omnino hoc facere non debent: nec licet eis: sed magis debent talia fugere. 
+       <lb ed="#B" n="27"/>lpse autem illos qui digni sunt ad hoc, debet quaerere: &amp; non petentibus sed fugientibus talia offerre: 
+       <lb ed="#B" n="28"/>&amp; quaerentibus &amp; petentibus tanquam ambitiosis &amp; indignis ea denegare, vt dictum est. Vnde recitat Au- 
+       <lb ed="#B" n="29"/>gustinus dictum fuisse de Catone: Quo minus petebat gloriam tanto magis illum sequebatur. &amp; ad  
+       <lb ed="#B" n="30"/>dit ibidem quinto de ciuitate dei. Honores quos non expetiuit Cato, petere non debuit: sed ei ciui- 
+       <lb ed="#B" n="31"/>tas ob eius virtutem non petenti dare. Hoc est vt credo quod fieri debet. si secus fiat: ipsi viderint qui  
+       <lb ed="#B" n="32"/>faciunt. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

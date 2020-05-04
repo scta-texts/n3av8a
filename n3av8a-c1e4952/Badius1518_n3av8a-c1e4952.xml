@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 23</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 23</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="499-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4952">
+       <head xml:id="n3av8a-c1e4952-Hd1e96">Quaestio 23</head>
+       <p xml:id="n3av8a-c1e4952-d1e99">
+        <lb ed="#B" n="26"/>SEquuntur pertinentia ad actum comparando vnum ad alium, &amp; pertinebant pri 
+       <lb ed="#B" n="27"/>ma tria ad comparationem actuum penes causalitatem. Et erat primum perti- 
+       <lb ed="#B" n="28"/>nens ad actus positiuos: vtrum aliquis scienter ex bono actum possit se reddere 
+       <lb ed="#B" n="29"/>impotentem ad impletionem diuini praecepti. Alia autem duo erant pertinentia ad  
+       <lb ed="#B" n="30"/>actus defectiuos. Primum in generando peccatum: vtrum in peccato omissionis 
+       <lb ed="#B" n="31"/>pem quod distinguitur contra peccatum conmissionis requiratur aliquis actus positiuus. Secun 
+       <lb ed="#B" n="32"/>dum erat in excusando peccatum, vtrum aliquis error vel facti vel iuris excuset 
+       <lb ed="#B" n="33"/>peccatum. Quartum erat pertinens ad comparationem actuum penes simultatem, vtrum voluntas 
+       <lb ed="#B" n="34"/>possit actuari siue reduci in actum, &amp; tamen non determinari ab illo a quo actuatur. Quintum erat perti- 
+       <lb ed="#B" n="35"/>nens ad ordinem actuum, vtrum sufficit ad libertatem arbitrii quod potuit impediri ne actuaretur 
+       <lb ed="#B" n="36"/>ab alio de necessitate. Sextum pertinebat ad actuum praeeminentiam, vtrum opera vitae actiuae sint prae 
+       <lb ed="#B" n="37"/>ferenda operibus vitae contemplatiuae tanquam meliora. Et septimum iuxta hoc ad praeeminentiam sta- 
+       <lb ed="#B" n="38"/>tuum in quibus actus huiusmodi habent exerceri: Vtrum scilicet status praelatorum maior sit &amp; perfectior 
+       <lb ed="#B" n="39"/>quam status religiosorum. Alia autem duo &amp; vltima erant pertinentia ad actuum absoluendi iteratio 
+       <lb ed="#B" n="40"/>nem: quorum octauum pertinebat ad comparationem actuum secundum diuersos defectus, vtrum excom 
+       <lb ed="#B" n="41"/>municatus pro contemptu vero ab officiali non sacerdote, post absolutionem ab eodem in forma ec 
+       <lb ed="#B" n="42"/>clesiae ab excommunicatione, teneatur petere absolutionem pro contemptu a suo sacerdote. Nonum  
+       <lb ed="#B" n="43"/>autem pertinebat ad comparationem actuum secundum vnum &amp; eundem defectum, vtrum com- 
+       <lb ed="#B" n="44"/>fessus priuilegiato tenetur eadem confiteri curato suo, quod diffuse fuit disputatum seorsum &amp; per 
+       <lb ed="#B" n="45"/>se. 
+      </p>
+      <p xml:id="n3av8a-c1e4952-d1e145">
+       CIRca primum istorum arguitur quod nullus scienter ex bono actum potest se reddere impotentem 
+       <lb ed="#B" n="46"/>ad impletionem diuini praecepti: quia nullus ex actu in quo meretur reddit se impotentem ad im- 
+       <lb ed="#B" n="47"/>pletionem diuini praecepti: ex bono autem actu quilibet meretur. ergo &amp;c. Contra. scienter potest 
+       <lb ed="#B" n="48"/>quis profiteri religionem: quod est bonus actus: &amp; tamen ex hoc reddit se impotentem ad honorandum  
+       <lb ed="#B" n="49"/>parentes in administrando necessaria vitae, quia reddit se impotentem habendi vel acquirendi ea. er 
+       <lb ed="#B" n="50"/>go &amp;c. Dico quod si aliquis attentaret dicere quod aliquis per votum religionis eximatur ab impletione  
+       <lb ed="#B" n="51"/>diuini mandati, &amp; quod per illud votum redderet se impotentem ad impletionem illius: haec mihi vi 
+       <lb ed="#B" n="52"/>deretur esse noua &amp; mirabilis doctrina: tum quia consilia sunt ad perfectiorem &amp; ampliorem imple- 
+       <lb ed="#B" n="53"/>tionem mandati: &amp; nemo plus obligatur ad implendum mandata quam ille qui se obligauit ad implen- 
+       <lb ed="#B" n="54"/>dum consilia. dicente beato Hieronymo in epistola ad Demetriadem sic. In diuinis scripturis prohi 
+       <!--1039.xml-->
+       <pb ed="#B" n="499-v"/>
+        <lb ed="#B" n="1"/>bentur mala, praecipiuntur bona, conceduntur media, suadentur perfecta. In duobus illis primis peccatum omne 
+       <lb ed="#B" n="2"/>concluditur: in vtroque enim dei continetur imperium. Non solum enim praecipere, sed etiam prohibe 
+       <lb ed="#B" n="3"/>re iubentis est: haec sententia vniuersos tenet: nec vlli transgredi licet quid omnibus imperatum est. Duo 
+       <lb ed="#B" n="4"/>reliqua in potestate dimissa sunt. Et tunc alloquens &amp; admonens Demetriadem super praeceptorum  
+       <lb ed="#B" n="5"/>impletione subdit dicens. Perfectionis itaque secuta consilium, serua generale mandatum: in causa iustitiae 
+       <lb ed="#B" n="6"/>vnum debemus omnes, virgo, vidua, nupta, summus, medius, &amp; imus gradus aequaliter iubentur 
+       <lb ed="#B" n="7"/>adimplere praecepta, nec a lege soluitur qui supra legem proponit facere. Quinimmo nullus magis il- 
+       <lb ed="#B" n="8"/>licita vitare debet quam qui respuit quae licebant: nec quisquam ita mandata pollicetur implenda, vt ille qui  
+       <lb ed="#B" n="9"/>amore perfectionis supra mandata conscendit: &amp; dum amplius statuit facere quam scriptum est, osten- 
+       <lb ed="#B" n="10"/>dit sibi minus scriptum esse quam potuerit. Igitur qui tantae obedientiae se profitetur, vt etiam diuinum consilium  
+       <lb ed="#B" n="11"/>libenter audiat: quaeliter debet audire praeceptum: quasi dicat, multum diligenter. &amp; intelligo non tam 
+       <lb ed="#B" n="12"/>aure corporis quam obedientia cordis: ipsum opere implendo. Ex quo enim eligendo consilia minus osten 
+       <lb ed="#B" n="13"/>dit sibi scriptum quam potuerit, &amp; plus pollicetur, &amp; iubetur implere praecepta per consilia ad quae astrin  
+       <lb ed="#B" n="14"/>gitur non omittenda: nec ab illorum obseruantia absoluitur, sed magis ad illam ligatur, etiam vsque ad  
+       <lb ed="#B" n="15"/>minima. Hic idem dicit ad Cellantiam. Duo sunt genera mandatorum in quibus clauditur tota 
+       <lb ed="#B" n="16"/>iustitia: prohibendi vnum est: iubendi alterum. Hoc igitur duplex diuersumque praeceptum, prohi- 
+       <lb ed="#B" n="17"/>bend scilicet &amp; imperandi, aequo omnibus iure mandatum est, non virgo, non vidua, non nupta, ab hoc im- 
+       <lb ed="#B" n="18"/>perio secura est: in quouis proposito in quouis gradu aequaliter peccatum est, vel prohibita admitte 
+       <lb ed="#B" n="19"/>re vel iussa non facere. Nec vero eorum te seducat error qui ex arbitrio suo eligunt vt mandata com 
+       <lb ed="#B" n="20"/>temnant quae vel quasi vilia vel parua despiciunt. &amp; infra. Magisque id prouidendum est ne tibi hoc cum 
+       <lb ed="#B" n="21"/>licita contemnis securitatem quandam illicitorum faciat, quicquid pro iustitia deo offertur non debet 
+       <lb ed="#B" n="22"/>impedire iustitiam, sed iuuare. &amp; infra. Vt exuta mens a cunctis retinaculis mundanis atque corpo 
+       <lb ed="#B" n="23"/>ralibus voluptatibus sit: &amp; valeamus plenius inhaerere dominicis praeceptis. Ecce cum beatus Hiero. 
+       <lb ed="#B" n="24"/>dicat quod mandatum omne &amp; in hoc quod mandatum de honorando parentes aequo iure omnibus est man-  
+       <lb ed="#B" n="25"/>datum, quod in quouis gradu, &amp; in quouis proposito aequaliter peccatum est ipsum transgredi. Vide ergo  
+       <lb ed="#B" n="26"/>tu qui ex arbitrio tuo eligis religionem atque implere consilia studes, ne si doces quod propter magna con 
+       <lb ed="#B" n="27"/>filiorum opera non sis obligatus ad opus mandati de honorando parentes, sis de numero illorum qui ex 
+       <lb ed="#B" n="28"/>arbitrio suo eligunt vt mandata contemnant: &amp; tanquam vilia &amp; parua reputant respectum consiliorum  
+       <lb ed="#B" n="29"/>quibus cum licita contemnant in vouendo consilia, hoc facit eis securitatem quandam illicitorum, ne 
+       <lb ed="#B" n="30"/>scilicet peccent in omittendo praecepta, quod omnino videtur erroneum, quia vt subdit Hieronymus 
+       <lb ed="#B" n="31"/>quicquid offertur deo pro iustitia scilicet priuata conseruanda, sicut offertur ei votum de seruan 
+       <lb ed="#B" n="32"/>do consilia: non debet impedire iustitiam publicamne seruetur pro qua offertur professio de ser- 
+       <lb ed="#B" n="33"/>uando mandata in ingressu religionis Christianae, sed potius iuuare vt efficacius seruetur, quia vt 
+       <lb ed="#B" n="34"/>videtur sentire Hieronymus, obseruatio consiliorum non est nisi quaedam dispositio ad pleniorem 
+       <lb ed="#B" n="35"/>obseruantiam mandatorum, quia obseruatione consiliorum exuitur mens a retinaculis, &amp;c. sicut di  
+       <lb ed="#B" n="36"/>cit Hieronymus, quibus exutis valemus plenius diuinis inhaerere praeceptis. vt secundum hoc ob- 
+       <lb ed="#B" n="37"/>seruatio consiliorum potius ordinetur finaliter ad obseruationem mandatorum quam econuerso: &amp; in  
+       <lb ed="#B" n="38"/>tali plena obseruatione mandatorum constat tota perfectio essentialiter. Vnde si propter consilia opor 
+       <lb ed="#B" n="39"/>teret diuina omittere praecepta, vt aestimo, non essent consilia perfectionis, sed potius deuia erroris. Propter 
+       <lb ed="#B" n="40"/>quod in Grangensi concilio dicitur: &amp; habetur distinct. xxx. Siqui filii parentes maxime fideles de-  
+       <lb ed="#B" n="41"/>seruerint occasione dei cultus hoc iustum esse iudicantes, &amp; non potius debitum honorem paren- 
+       <lb ed="#B" n="42"/>tibus reddiderint, anathema sint. Intelligo deseruerint, vel religionem ingrediendo, vel post ingressum 
+       <lb ed="#B" n="43"/>ad subueniendum eis non condescendendo, secundum quod alias declaraui. Sed vt dicit Glossa ibidem 
+       <lb ed="#B" n="44"/>hoc quidam haeretici fecerunt occasione illius auctoritatis. Qui reliquerit patrem aut matrem 
+       <lb ed="#B" n="45"/>propter me centuplum accipiet. sed illud non habet locum nisi cum parentes a filiis honorari non  
+       <lb ed="#B" n="46"/>indigeant: &amp; maxime quando impedimento salutis sunt. dicente Hierony. ad Furiam. Certe filiam a parente non diui 
+       <lb ed="#B" n="47"/>do. honora parentem, sed si te a vero parente non separat, alioquin Dauid tibi canet: Audi filia &amp;c. Vt enim 
+       <lb ed="#B" n="48"/>dicit ad Fabiolam. Multa erga nostros facere cogit affectus: &amp; dum propinquitatem respicimus corpo- 
+       <lb ed="#B" n="49"/>rum, &amp; corporis &amp; animae offendimus auctorem. Quanti monachi dum patri matrique miserentur suas ani 
+       <lb ed="#B" n="50"/>mas perdiderunt: Concedo igitur primam rationem: quia propter religionis ingressum nullus reddit se 
+       <lb ed="#B" n="51"/>impotentem ad parentes honorandum qui non teneatur ad eos descendere, eos siindigeant ho-  
+       <lb ed="#B" n="52"/>norando non tantummodo reuerentiae exhibitione vt quidam dicunt: sed temporalis subsidii admini- 
+       <lb ed="#B" n="53"/>stratione. &amp; hoc exemplo Christi qui fuit forma religionis cuiusque: qui vtroque modo matrem honora 
+       <lb ed="#B" n="54"/>uit quousque vita mortali in terris conuersatus est: &amp; etiam in morte illi prouidit de eo quivice suail 
+       <!--1040.xml-->
+       <pb ed="#B" n="500-r"/>
+        <lb ed="#B" n="1"/>li vtroque modo prouideret post eius mortem temporalem. dicente <name ref="#Augustine">Augustinus</name> in exponendo illud loam. vlti. 
+       <lb ed="#B" n="2"/>Cum vidisset lesus matrem &amp; discipulum stantem quem diligebat, dixit matri suae: Mulier ecce filius 
+       <lb ed="#B" n="3"/>tuus &amp;c. Haec est illa hora de qua lesus aquam conversurus in vinum dixerat matri suae: quid mihi 
+       <lb ed="#B" n="4"/>&amp; tibi mulier: nondum venit hora mea, nondum venerat hora in qua deberet eam cognoscere mori 
+       <lb ed="#B" n="5"/>turus: de qua fuit mortalis natus. Tunc ergo diuina facturus non deitatis sed infirmitatis matrem ve 
+       <lb ed="#B" n="6"/>lut incognitam repellebat. Nunc autem humana iam patiens eam ex qua factus fuerat homo affectu com 
+       <lb ed="#B" n="7"/>mendabat humano. Moralis igitur insinuatur locus, facit quod faciendum admonet: &amp; exemplo 
+       <lb ed="#B" n="8"/>suo suos instruit praeceptor bonus vt a filiis piis impendatur cura perentibus. Ex hac doctrina sana didice 
+       <lb ed="#B" n="9"/>rat apostolus Paulus quid docebat. Si quis autem suis &amp; maxime domesticis non prouidet, fidem ne- 
+       <lb ed="#B" n="10"/>gat, &amp; est infideli deterior. Quid autem cuiquam tam domesticum quam parentes: Huius itaque saluberrimi 
+       <lb ed="#B" n="11"/>praecepti ipse magister sanctorum de seipso constituebat exemplum, quando non vt famulae deus, sed vt matri ho 
+       <lb ed="#B" n="12"/>mo quam relinquebat alterum pro se quodammo filium prouidebat. Nam cur hoc factum fuit quod se 
+       <lb ed="#B" n="13"/>quitur indicat. Ait enim ibidem loannes: Et ex illa hora accepit eam discipulus in suam. de seipso dicens 
+       <lb ed="#B" n="14"/>vt ad eius curam quicquid ei esset necessarium pertineret. Suscepit ergo eam in suam, non praedia quae 
+       <lb ed="#B" n="15"/>nulla iure proprio possidebat: sed officia quae propria dispositione exequenda curabat. Quaero ergo  
+       <lb ed="#B" n="16"/>si Maria infirma fuisset &amp; corporali solatio loannis &amp; victu corporali indiguisset, numquid loannes 
+       <lb ed="#B" n="17"/>propter religionem apostolatus eam dimisisset desolatam: nec de necessariis ad victum prouidisset: etiam 
+       <lb ed="#B" n="18"/>propriis manibus laborando si aliter prouideri illi non potuisset, sed recedens dixisset ei, Maria, Bo 
+       <lb ed="#B" n="19"/>na dies sit tibi: quasi suffecisset eam honorare verbo seunutu, &amp; non opere: Credo quod nequaquam. Qua-  
+       <lb ed="#B" n="20"/>re similiter nec religiosus in consimili casu matrem suam nequaquam dimittere debet desolatam, sed eam 
+       <lb ed="#B" n="21"/>debet honorare opere, vt dictum est. Vnde vt puto illis qui contraria dicunt siqui forte sint ( qui tamen ad il- 
+       <lb ed="#B" n="22"/>la dicenda mouentur, nec auct oritate, nec ratione, sed sola affectione fauoris ad statum suae professionis 
+       <lb ed="#B" n="23"/>videntur moueri) bene potest dici illud Matth. xv. Quare vos transgredimini mandatum dei propter 
+       <lb ed="#B" n="24"/>traditionem vestram: Nam deus dixit: Honora patrem &amp; matrem. Glos. Imbecillitati consulas dando  
+       <lb ed="#B" n="25"/>necessaria. Vestra autem traditio contraria est. Et quomodo subdit: in quo multum declaratur nostrum pro- 
+       <lb ed="#B" n="26"/>positum contra illos. Vos autem dicitis, quicunque dixerit patri vel matri munus quodcumque est ex me 
+       <lb ed="#B" n="27"/>tibi proderit: &amp; non honorauerit patrem suum aut matrem suam: &amp; irritum fecistis mandatum dei 
+       <lb ed="#B" n="28"/>propter traditionem vestram. Glos. Hoc filios dicere parentibus compellitis: quid deo oblaturus eram in tuos 
+       <lb ed="#B" n="29"/>consumo cibos: quasi non proderit tibi vel mihi. impietatem sub nomine pietatis inducunt: &amp; docent 
+       <lb ed="#B" n="30"/>quod oblatio domini qui verus est pater obsequiis parentum praeferatur. Quaero quid isti aliud dicunt quando suos au 
+       <lb ed="#B" n="31"/>ditores: qui in hoc quoquo modo filii eorum sunt, docent nisi quod ex professione religionis sic obligantur deo ad offe 
+       <lb ed="#B" n="32"/>rendum ei minus obsequii quo ad obseruantiam regularem, quod nec prasent nec debent munus obsequii sui 
+       <lb ed="#B" n="33"/>impendere parentibus: quasi hoc esset eis illicitum, sicut illi dicebant quod sacrilegium erat conferre necessi 
+       <lb ed="#B" n="34"/>tati parentum quod posset offerri deo. Ad secundum quid dicit: quod per religionis ingressum impotens quis factus 
+       <lb ed="#B" n="35"/>est habendi &amp; acquirendi necessaria patri, dico quod falsum est. Si enim aliter non posset hatrne vnde pro- 
+       <lb ed="#B" n="36"/>uideret potius deberet manibus laborare, &amp; per hoc illi necessaria acquirere, quam eis quae sunt religionis 
+       <lb ed="#B" n="37"/>insistere, &amp; patrem permittere mori fame. in hac enim necessitate non multo minus astringitur prouidere 
+       <lb ed="#B" n="38"/>quacunque via poterit patri quam sibiipsi. Ne autem quisque in tali necessitate sibiipsi prouideat, nulla necessi 
+       <lb ed="#B" n="39"/>tate, nulla lege, nulla professione potest astrigi, sim quod dicit Nicolaus papa de prouisione necessitatis extre- 
+       <lb ed="#B" n="40"/>mae fratrum minorum, deficiente omni alia prouisionei. Etquidem si Qquod non est aliquatenus praesumendum haec 
+       <lb ed="#B" n="41"/>cuncta deficerent, sicut nec caeteris, sic nec ipsis fratribus iure poli in extremae necessitatis articulo 
+       <lb ed="#B" n="42"/>ad prouidendum sustentationi naturae via omnibus extrema necessitate detentis concessa praecludi 
+       <lb ed="#B" n="43"/>tur: cum ab omni lege extrema necessitas sit excepta. &amp; sic in tali necessitate quilibet potest acqui-  
+       <lb ed="#B" n="44"/>rere &amp; per acquisitionem qua potest habere vnde prouideat patri in tali necessitate constituto: sicut &amp; vnde 
+       <lb ed="#B" n="45"/>prouideat sibi in necessitate consimili. 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

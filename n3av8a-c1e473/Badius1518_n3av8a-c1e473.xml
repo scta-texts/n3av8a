@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 29</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 29</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="22-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e473">
+      <head xml:id="n3av8a-c1e473-Hd1e96">Quaestio 29</head>
+      <p xml:id="n3av8a-c1e473-d1e99">
+       <lb ed="#B" n="29"/>AD tertium dicendum: quod aliquibus videtur quod sicut contritio integra debet esse 
+       <lb ed="#B" n="30"/>de omnibus peccatis: &amp; similiter confessio: ita &amp; sacramentalis absolutio: vt non pos 
+       <lb ed="#B" n="31"/>sit valere absolutio facta a praelato inferiori de eis quae pertinent ad se: etsi conse- 
+       <lb ed="#B" n="32"/>quenter praelatus superior absoluat de eis quae pertinent ad ipsum. immo debet praela- 
+       <lb ed="#B" n="33"/>tus superior simul absoluere de eis quae pertinent ad se: de quibus sibi specialiter con 
+       <lb ed="#B" n="34"/>fessus est: &amp; de quibus inferiori praelato confessus est: &amp; quae pertinent ad illum: vel 
+       <lb ed="#B" n="35"/>re ad inferiorem: vt de omnibus simul eum absoluat. 
+      </p>
+      <p xml:id="n3av8a-c1e473-d1e117">
+       SED contrarium huius videmus obser 
+       <lb ed="#B" n="36"/>uari communiter in vniuersali ecclesia: tam in curia summi pontificis quam aliorum pontificum. Cum enim 
+       <lb ed="#B" n="37"/>summus pontifex missos ad ipsum pro absolutione super casibus specialiter pertinentibus ad ipsum  
+       <lb ed="#B" n="38"/>absoluit, sic rescribit dicecesanis Episcopis. Tali quem de tali crimine ad te remittimus absolutum: salu 
+       <lb ed="#B" n="39"/>tarem poenitentiam secundum quantitatem delicti sui ei iniungas. Non autem scribit: quem de tali crimine &amp; 
+       <lb ed="#B" n="40"/>aliis peccatis suis tibi vel curato suo confessis remittimus absolutum. Vel quem ad te remittimus 
+       <lb ed="#B" n="41"/>a tali crimine &amp; aliis peccatis suis tibi &amp; curato suo confessis vel confitendis absoluendum, nec ali 
+       <lb ed="#B" n="42"/>ter sit in curia quam scribitur. Et per eundem modum Episcopi missos ad se a curatis simpliciter absoluunt 
+       <lb ed="#B" n="43"/>de casibus pertinentibus ad eos, nullam mentionem faciendo de aliqua absolutione de peccatis iam con 
+       <lb ed="#B" n="44"/>fessis curato: nec remittunt eos ad curatos ab omnibus peccatis simul absoluendos. &amp; constat quod in his 
+       <lb ed="#B" n="45"/>ecclesia non errat. 
+      </p>
+      <p xml:id="n3av8a-c1e473-d1e141">
+       SIMPLIciter ergo dicendum quod inferior praelatus potest simpliciter absoluere subdi- 
+       <lb ed="#B" n="46"/>tum de pertinentibus ad ipsum: &amp; remittere eum absoluendum ad superiorem supe eo quod pertinet 
+       <lb ed="#B" n="47"/>ad illum. Cum enim per contritionem &amp; confessionem factam praelato inferiori omnia peccata sunt re- 
+       <lb ed="#B" n="48"/>missa: etiam peccator absolutus est a deo. 
+      </p>
+      <p xml:id="n3av8a-c1e473-d1e150">
+       ABSOlutio enim sacramentalis faciennda per ecclesiam 
+       <lb ed="#B" n="49"/>duo facit. Vnum, quia partem debitae satisfactionis remittit. Aliud, quia absolutum ecclesiae militanti a qua  
+       <lb ed="#B" n="50"/>per peccatum suum separatus fuerat: reconciliat. Omnis enim mortaliter peccans quantum ad se a 
+       <lb ed="#B" n="51"/>communione sacramentorum &amp; ecclesiae separatus est &amp; excommunictatus. Nunc autem neutri horum 
+       <lb ed="#B" n="52"/>repugnat separare absolutionem &amp; facere eam per partes. Satisfactio enim per partes bene potest inium-  
+       <lb ed="#B" n="53"/>gi. potest enim dicere sacerdos: facias hoc vsque ad illud tempus: &amp; tunc reuerteris &amp; tibi aliud inium-  
+       <lb ed="#B" n="54"/>gam. Similiter reconciliatio bene potest fieri per partes: sicut patet de excommunicato pluribus excon- 
+       <!--85.xml-->
+       <pb ed="#B" n="22-v"/>
+       <lb ed="#B" n="1"/>municationibus: quod bene potest absolui ab vna sine alia. Vel si omnibus modis velimus quod absolutio 
+       <lb ed="#B" n="2"/>de omnibus debet esse vnica, dicamus quod prima absolutio fit sub ratihabitione de secunda subsequen 
+       <lb ed="#B" n="3"/>da. ita quod factum in prima suspenditur: nec habet effectum suum quousque eueniat secunda. &amp; tunc secun 
+       <lb ed="#B" n="4"/>da agens in virtute propria, &amp; primae praecedentis agit totum quod vnica absolutio de omnibus simul facta 
+       <lb ed="#B" n="5"/>agere deberet. &amp; sic ratificat primam: immo illa cum ista vnica simpliciter &amp; indiuisa reputatur. Et quamquam ita 
+       <lb ed="#B" n="6"/>sit, tamen in prima absolutione nulla debet apponi conditio de secunda subsequenda: neque in secun- 
+       <lb ed="#B" n="7"/>da de prima praecedenti. Nec oportet: quia de iure talis conditio subintelligitur: vt non sit necesse quod ex 
+       <lb ed="#B" n="8"/>primatur: sed inferior debet absolute absoluere de pertinentibus ad se: &amp; de aliis remittere ad superi 
+       <lb ed="#B" n="9"/>orm: dummodo ille disponat superiorem adire. Si enim eum rebellem videret, de nullo debet illum ab  
+       <lb ed="#B" n="10"/>soluere: quia iam impoenitentem se ostenderet.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

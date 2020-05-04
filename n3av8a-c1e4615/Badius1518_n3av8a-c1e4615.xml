@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 28</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 28</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="482-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e4615">
+       <head xml:id="n3av8a-c1e4615-Hd1e96">Quaestio 28</head>
+       <p xml:id="n3av8a-c1e4615-d1e99">
+        <lb ed="#B" n="42"/>Irca secundum arguitur quod ille excommunicatus celebrans sit irregularis: quia pro 
+       <lb ed="#B" n="43"/>tali causa licet ordinarium vt ex iusta causa excommunicare: tenet ergo eius sen- 
+       <lb ed="#B" n="44"/>tentia: &amp; sic est vere excommunicatus. Sed vere excommunicatus celebrans statim 
+       <lb ed="#B" n="45"/>est factus irregularis. Contra, forte sunt exempti. Vana videtur mihi ista quae  
+       <lb ed="#B" n="46"/>stio stando in generali intra istos terminos, quia postquam haec est iusta causa excon- 
+       <lb ed="#B" n="47"/>municandi: quia iste resistens praedicatori veritatis procul dubio mortaliter pec- 
+       <lb ed="#B" n="48"/>cat: tum quia veritatem impugnat, tum quia scandalum commouet: igitur si celebrat non est du-  
+       <lb ed="#B" n="49"/>bium quin statim factus est irregularis vt procedit primum obiectum: &amp; hoc nisi sit praemunitus 
+       <lb ed="#B" n="50"/>legitima &amp; rationabili appellatione: aut exemptus a iurisdictione ordinarii: sic vt ab ipso puniri non 
+       <lb ed="#B" n="51"/>possit, etiam ratione delicti commissi. Quia si praecesserit talis appellatio aut habeat talem exemptionem 
+       <lb ed="#B" n="52"/>&amp; hoc constiterit: nec pro excommunicato: nec pro irregulari debet haberi. Si autem non constiterit, 
+       <lb ed="#B" n="53"/>illi quibus alterum horum non constiterit debent ipsum habere pro excommunicato &amp; irregulari 
+       <!--1005.xml-->
+       <pb ed="#B" n="482-v"/>
+        <lb ed="#B" n="1"/>&amp; vitare, nec cum ipso communicare. ipse etiam si tale priuilegium habeat: aut legitime appellaue- 
+       <lb ed="#B" n="2"/>rit: nisi hoc constare faciat si ex facto eius scandalum oriatur, grauissime peccat ille &amp; omnes complices 
+       <lb ed="#B" n="3"/>eius praeter peccatum primum mortale quid commisit praedicatori veritatis resistendo: a quo non credo eum 
+       <lb ed="#B" n="4"/>per aliquod priuilegium posse fieri immunem vt scilicet ex virtute priuilegii potestatem habeat impu 
+       <lb ed="#B" n="5"/>gnandi veritatem agnitam: sic quod in huiusmodi impugnatione non peccet.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

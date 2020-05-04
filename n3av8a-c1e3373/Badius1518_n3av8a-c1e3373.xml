@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 21</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 21</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n=""/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3373">
+       <head xml:id="n3av8a-c1e3373-Hd1e96">Quaestio 21</head>
+       <p xml:id="n3av8a-c1e3373-d1e99">
+        <lb ed="#B" n="6"/>Irca secundum nuilum proponebatur argumentum. Ad quod dicendum: quod secundum iam 
+       <lb ed="#B" n="7"/>supradicta ea quae sunt ordinis pure, executionem effectus sui semper habent. Vn  
+       <lb ed="#B" n="8"/>de episcopus haereticus, schismaticus, vel excommunicatus quos ordinat ordina-  
+       <lb ed="#B" n="9"/>ti sunt: sicut quod consecrat consecratum est. Et ideo consimiliter quem tonsurat quan  
+       <lb ed="#B" n="10"/>tumcunque in excommunicatione tonsuratur, clericus est &amp; tonsuratus, nec abso 
+       <lb ed="#B" n="11"/>lutus debet iterum tonsurari. Si vero hoc sit pure iurisdictionis, quia sup hoc nul- 
+       <lb ed="#B" n="12"/>la facta est prohibitio quod tonsuratus in excommunicatione nihil recipit: ideo adhuc 
+       <lb ed="#B" n="13"/>quod factum est circa ipsum ratum est.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

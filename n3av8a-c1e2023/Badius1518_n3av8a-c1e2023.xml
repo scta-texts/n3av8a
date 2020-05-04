@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 19</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 19</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="195-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e2023">
+       <head xml:id="n3av8a-c1e2023-Hd1e96">Quaestio 19</head>
+       <p xml:id="n3av8a-c1e2023-d1e99">
+        <lb ed="#B" n="36"/>Equitur de eis quae pertinent ad habitus infusos. Vbi quaerebantur quaedam de ipsis conmu 
+       <lb ed="#B" n="37"/>niter quo ad omnes. Deinde quaedam specialiter circa quosdam speciales. 
+      </p>
+      <p xml:id="n3av8a-c1e2023-d1e106">
+       CIRca primum 
+       <lb ed="#B" n="38"/>quaerebantur duo: vnum de ipsis consideratis secundum se &amp; absolute: alterum de eis in compara- 
+       <lb ed="#B" n="39"/>tione ad suum contrarium. scilicet ad peccatum. Primum erat: vtrum habitus infusus possit augeri. 
+       <lb ed="#B" n="40"/>Secundum vtrum adultus sine gera quae est quasi habitus generalis ad omnes infusos possit ca- 
+       <lb ed="#B" n="41"/>uere peccatum mortale. 
+      </p>
+      <p xml:id="n3av8a-c1e2023-d1e117">
+       CIRca primum arguitur quod non: quoniam quid augetur est in potentia ad 
+       <lb ed="#B" n="42"/>perfectionem quam recipit per augmentum: habitus infusus non est in potentia: quia est forma 
+       <lb ed="#B" n="43"/>quae non habet subiectum quod sit ad ipsam in potentia. 
+      </p>
+      <p xml:id="n3av8a-c1e2023-d1e124">
+       IN contrarium autem sunt determinationes sanctorum. 
+      </p>
+      <p xml:id="n3av8a-c1e2023-d1e128">
+       DI 
+       <lb ed="#B" n="44"/>cendum ad hoc quod duplex est augmentum formarum: vnum in natura &amp; essentia earum: aliud in ipsa operatione  
+       <lb ed="#B" n="45"/>secundum quod inferius declarabitur magis in quaestione de augmento charitatis. Quaestio autem ista proposita non fuit nisi 
+       <lb ed="#B" n="46"/>propter modum augmenti in substantia formarum. de quo opinio est: quod augmentum earum non est ex natura 
+       <lb ed="#B" n="47"/>essentiae earum: sed ex dispositione &amp; modo essendi in subiecto, quid satis improbatum est in quadam quaestione 
+       <lb ed="#B" n="48"/>de magis &amp; minus in quodam alio Quolibet. Vnde quia formae infusae non habent esse in subiecto ex natura 
+       <lb ed="#B" n="49"/>subiecti: &amp; ita sicut ex subiecto non habent esse, sic neque suum augmentum: habendo aspectum ad istam opinionem non 
+       <lb ed="#B" n="50"/>apparet modus quo in habitibus infusis sit possibile poni augmentum, propter quod proponebatur quaestio ista.  
+       <lb ed="#B" n="51"/>Sed vt determinatum est in praefata quaestione: &amp; similiter tactum est supra de generatione habituum: intensio 
+       <lb ed="#B" n="52"/>&amp; remissio in formis habent fieri in essentia formarum ex ipsa natura qua in sua essentia latitudinem habent 
+       <lb ed="#B" n="53"/>Et ideo non ex natura subiecti: sed ex natura ipsius formae secundum se inuestiganda est ratio &amp; causa augmen- 
+       <lb ed="#B" n="54"/>ti. est enim eadem cum eo quid est causa magis &amp; minus: magis enim &amp; minus sunt dispositiones subiecti: ex eo quod for 
+       <!--431.xml-->
+       <pb ed="#B" n="195-v"/>
+        <lb ed="#B" n="1"/>ma in sua essentia est maior &amp; minor secundum modum in dicta quaestione: &amp; infra in speciali circa augmentum chari 
+       <lb ed="#B" n="2"/>tatis exponendum: &amp; supra in conmuni: in quaestione de habituum generatione: expositum est. Est enim idem motus 
+       <lb ed="#B" n="3"/>augmenti in omnibus formis. 
+      </p>
+      <p xml:id="n3av8a-c1e2023-d1e165">
+       SED quantum ad propositum pertinet: Dicendum quod habitus omnes infusi possunt auge- 
+       <lb ed="#B" n="4"/>ri. cuius possibilitas accipi debet &amp; ex parte possibilis &amp; ex parte agentis. Ex parte possibilis: quae. scilicet virtus 
+       <lb ed="#B" n="5"/>infusa sit augmentabilis, ratio non est accipienda ex parte subiecti in quo recipitur: quia ex parte subiecti non 
+       <lb ed="#B" n="6"/>est possibilitas ad augmentum formae nisi sit educta de potentia materiae: quod non sunt infusae. Sed est accipien 
+       <lb ed="#B" n="7"/>da ex parte ipsius formae in se scilicet quia in sua essentia partes habet: ad quas cum est sub minori quantitate est 
+       <lb ed="#B" n="8"/>in potentia vt deducatur ad actum: &amp; fiat maior sicut &amp; quaelibet alia. Et non est in hoc aliqua differentia ex 
+       <lb ed="#B" n="9"/>parte formarum materialium &amp; aliarum. Sed est solummodo differentia ex parte agentis: quod materiales habent 
+       <lb ed="#B" n="10"/>agens in materia quo generantur &amp; generatae augmentantur: aliae autem immateriales &amp; spiritales vt sunt habi- 
+       <lb ed="#B" n="11"/>tus acquisiti, ab e. scilicet in quo sunt vt in subiecto, habent per actus generari &amp; etiam augmentari. Habitus autem 
+       <lb ed="#B" n="12"/>infusi licet in eodem vt in subiecto habent esse cum acquisitis: tamen non habent ab actibus niris generari: &amp; ideo 
+       <lb ed="#B" n="13"/>neque augmentari: dico effectiue: sed solummodo meritorie. quia sicut solum habent generari ab agente superna 
+       <lb ed="#B" n="14"/>turali: immo creari: sic non nisi ipso immediate agente habent augmentari: &amp; hoc non per alicuius eiusdem naturae ap 
+       <lb ed="#B" n="15"/>positionem: quia augmentum in formis non est per partium appositionem in substantia vel essentia earum: sed in virtute: per quan 
+       <lb ed="#B" n="16"/>potest augmentum efficacius in propriam operationem, quod non potest facere simile additum simili: quia tepidum  
+       <lb ed="#B" n="17"/>additum aequaliter tepido non facit magis calidum. Fit autem augmentum extractione partium virtualiter in sub- 
+       <lb ed="#B" n="18"/>stantia habitus: quarum quaelibet educta non solum in substantia ponit augmentum, sed etiam in virtute: &amp; hoc per  
+       <lb ed="#B" n="19"/>idem agens supernaturale per quod habitus in esse producitur. Vnde super illud Hebr. vi. Terra super se venientem bibens 
+       <lb ed="#B" n="20"/>imbrem accipit benedictionem a deo. dicit glos. Hic augmentum virtutum, &amp; in futuro praemium. Quod ergo arguitur 
+       <lb ed="#B" n="21"/>quod habitus infusus non est in potentia ad augmentum, verum est potentia subiecti vt arguitur. est tamen in potentia 
+       <lb ed="#B" n="22"/>ad augmentum potentia suae naturae &amp; essentiae. Vnde &amp; aliae formae materiales non sunt in potentia materiae si 
+       <lb ed="#B" n="23"/>ue subiecti ad augmentum nisi quia sunt in potentia ad idem quantum est ex natura suae essentiae. Non enim est magis &amp; 
+       <lb ed="#B" n="24"/>minus in subiecto secundum formam nisi quia forma sit per se maior &amp; minor: vt declaratum est in quaestione praedicta.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>

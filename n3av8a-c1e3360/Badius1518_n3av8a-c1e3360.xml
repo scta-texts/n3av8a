@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 20</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 20</title>
+       <date when="2020-05-04">May 04, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="B" n="Badius1518">Badius 1518</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-05-04" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#B" n="331-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e3360">
+       <head xml:id="n3av8a-c1e3360-Hd1e96">Quaestio 20</head>
+       <p xml:id="n3av8a-c1e3360-d1e99">
+        <lb ed="#B" n="9"/>SEquuntur quaesita de humana natura ex parte coniuncti ex corpore &amp; anima 
+       <lb ed="#B" n="10"/>quo ad pertinentia ad statum culpae. Duo pertinentia ad statum culpae praeteritae 
+       <lb ed="#B" n="11"/>alia vero plurima pertinentia ad statum culpae instantis. Primum, vtrum mu- 
+       <lb ed="#B" n="12"/>lier quae genuit prolem in fornicatione, postquam factum adultum videat eum be- 
+       <lb ed="#B" n="13"/>ne conuersari, possit simul velle habere illum filium: &amp; detestari actum forni- 
+       <lb ed="#B" n="14"/>carium quo eum genuit. Secundum vero erat, vtrum accipiens tonsuram cle 
+       <lb ed="#B" n="15"/>ricalem ab alieno episcopo in excommunicatione, debeat post absolutionem iterum tonsurari. ClR 
+       <lb ed="#B" n="16"/>ca primum istorum arguitur quod sic. quia voluntas libera potens est ad diuersa &amp; contraria. Contra 
+       <lb ed="#B" n="17"/>sequitur: habet hunc in filium: ergo fornicata est: &amp; nemo potest velle antecedens nisi velit consequens 
+       <lb ed="#B" n="18"/>
+      </p>
+      <p xml:id="n3av8a-c1e3360-d1e123">
+       DIcendum quod in proposito aliud est iudicium de posse velle, &amp; de debere velle. De posse velle scien- 
+       <lb ed="#B" n="19"/>dum: quod circa progenitum in fornicatione est duo considerare circa actum generandi scilicet substantiam 
+       <lb ed="#B" n="20"/>actus: &amp; circunstantiam, quia ex fornicatione: &amp; similiter duo circa genitum. scilicet naturam, &amp; bonam 
+       <lb ed="#B" n="21"/>conuersationem. Et tria istorum potest velle, simul detestando circunstantiam fornicationis cir 
+       <lb ed="#B" n="22"/>ca actum: quia velle &amp; detestari non sunt circa idem, sed illam circunstantiam nullo modo debet 
+       <lb ed="#B" n="23"/>velle: nec actum cum illa circunstantia adiuncta. immo potius deberet velle talem prolem, etsi 
+       <lb ed="#B" n="24"/>esset sanctior loanne baptista, non habuisse. quia pro nullo bono creaturae debet aliquis consentire 
+       <lb ed="#B" n="25"/>in offensam dei, siue de praeterito, siue de praesenti, siue de futuro. Similiter licet fine peccato potest vel- 
+       <lb ed="#B" n="26"/>le mulier aliqua prolem bonam se habere ex matrimonio, tamen plus deberet velle eam non genuis- 
+       <lb ed="#B" n="27"/>se quantumcunque bonam, &amp; in virginitate permansisse, quia modicum de augmento in propria glo 
+       <lb ed="#B" n="28"/>ria plus debet appretiari quam gloria alterius summa cum detrimento gloriae propriae. Hinc Amb. 
+       <lb ed="#B" n="29"/>libro. iii. de sancta viduitate commendans lulianam viduam tres habentem filias, dicit sic. Hono  
+       <lb ed="#B" n="30"/>remus hanc viduam, quia seriptum est: viduas honora quae vere viduae sunt, licet verborum 
+       <lb ed="#B" n="31"/>nostrorum honorem non ambiat: quae mandatum apostoli adaequauit habens in bonis operibus 
+       <lb ed="#B" n="32"/>testimonium quod bene filias educauerit, melius instituerit. Describens autem quomodo filias suas 
+       <lb ed="#B" n="33"/>instituerit, subdit dicens. Videte filiae longaeuam matrem: plenam &amp; adhuc immaturam virtutum 
+       <lb ed="#B" n="34"/>stipendiis. Videtis amissum omne praesidium &amp; ornamentum: non auxilium viri habeo: nec virgi 
+       <lb ed="#B" n="35"/>nitatis gratiam, &amp; de me leuis cura. Vos moereo: vos considero: remanserunt mihi onera coniugii 
+       <lb ed="#B" n="36"/>haeredum adiumenta. Quanto mallem in hos numquam venissemus. Potestis tamen excusare patrem, alleuiare 
+       <lb ed="#B" n="37"/>matrem, si quod in nobis amissum est in vobis recompensetur. Hoc solo nos coniugii non poenitebit 
+       <lb ed="#B" n="38"/>si vobis labor noster profecerit. Proximum putabo matrem esse virginum, acsi virginitatem tene 
+       <lb ed="#B" n="39"/>rem. Ecce quia dicit mallem in haeredes nunquam venisse quamuis bonos. Et cum consequenter profiterentur 
+       <lb ed="#B" n="40"/>ipsa viduitatem, &amp; illae virginitatem, subdit dicens. At vtinam non licuisset &amp; mihi dicere quae Chri 
+       <lb ed="#B" n="41"/>sto profitemur: &amp; tamen profiteamur ego viduitatem, vos virginitatem. Ecce quia voluit virgo per  
+       <lb ed="#B" n="42"/>mansisse, vt nec profiteretur viduitatem, nec filias haberet profitentes virginitatem. Aliis ergo eis- 
+       <lb ed="#B" n="43"/>dem retentis, nec propter bonum prolis matrimonium virginitati praeferendum est, sed econverso 
+       <lb ed="#B" n="44"/>magis. Bonum enim prolis non tam prodest matri quantumcunque bona sit quod eam genuit carne 
+       <lb ed="#B" n="45"/>quam quod eam genuit fide. dicente August. de virgine Maria in libro de sancta virginitate. Scriptum est 
+       <lb ed="#B" n="46"/>in euangelio, quicunque fecerit voluntatem patris mei ipse mihi frater &amp; mater &amp; foror est. quid  
+       <lb ed="#B" n="47"/>aliud nos docens nisi carnali cognationi genus nostrum spirituale praeponere, nec inde beatos nos 
+       <lb ed="#B" n="48"/>esse si iustis &amp; sanctis carnis propinquitate iungimur: sed si eorum doctrinis &amp; moribus obedien- 
+       <lb ed="#B" n="49"/>do atque imitando cohaerescunt: Beatior ergo Maria percipiendo fidem Christi, quam concipiendo car- 
+       <lb ed="#B" n="50"/>nem Christi. &amp; infra. Materna propinquitas nihil Mariae profuisset nisi felicius Christum fide quam car- 
+       <lb ed="#B" n="51"/>ne gestasset. Vnde si alia virgo felicius Christum gestasset quam Maria, magis illi quam Mariae profuisset. Cum er 
+       <lb ed="#B" n="52"/>go Helizabet per corruptionem Ioannem baptistam genuit: malle tamen debuit quod ipsa virgo perman- 
+       <lb ed="#B" n="53"/>sisset, aliis eisdem retentis, videlicet quod alia eum in corruptione genuisset carne, &amp; ipsa tantum quan- 
+       <lb ed="#B" n="54"/>tum illa genuisset fide: &amp; caeteris huiusmodi. 
+      </p>
+      <p xml:id="n3av8a-c1e3360-d1e204">
+       AD primum obiectum, quod simul potest vnum velle &amp;  
+       <!--703.xml-->
+       <pb ed="#B" n="331-v"/>
+        <lb ed="#B" n="1"/>alterum detestari, quia voluntas est libera: Dicendum quod haec non est ratio, sed quia obiecta non sunt com 
+       <lb ed="#B" n="2"/>traria, vt dictum est. 
+      </p>
+      <p xml:id="n3av8a-c1e3360-d1e215">
+       AD secundum: quod habere hunc filium est antecedens ad fornicatam fuisse: di 
+       <lb ed="#B" n="3"/>cendum quod verum est: sed per accidens. Potuisset enim eum habuisse eundem sine fornicatione. Et cum 
+       <lb ed="#B" n="4"/>dicitur quod non potest velle aliquis antecedens sine consequente: dicendum quod verum est quando est per se 
+       <lb ed="#B" n="5"/>consequens: non autem quando est solum per accidens.
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>
