@@ -43,20 +43,20 @@
   <text xml:lang="la">
    <front>
     <div xml:id="starts-on">
-      <pb ed="#B" n="494-r"/>
+      <pb ed="#B" n="493-v"/>
     </div>
    </front>
    <body>
     <div xml:id="n3av8a-c1e4833">
        <head xml:id="n3av8a-c1e4833-Hd1e96">Quaestio 14</head>
        <p xml:id="n3av8a-c1e4833-d1e99">
-        <lb ed="#B" n="31"/>Equuntur quaesita pertinentia ad homines fideles pro statu huius vitae. vbi quae  
+        <lb ed="#B" n="31"/>SEquuntur quaesita pertinentia ad homines fideles pro statu huius vitae. vbi quae  
        <lb ed="#B" n="32"/>rebatur vnicum pertinens ad habitum virtutis: vtrum. scilicet prudentia possit generari si 
        <lb ed="#B" n="33"/>ne generatione virtutis moralis. Et plura alia pertinentia ad exercitium actus. 
-       <lb ed="#B" n="34"/>
+       
       </p>
       <p xml:id="n3av8a-c1e4833-d1e110">
-       CIRca illud vnicum arguitur quod prudentia possit generari fine virtute morali: quia 
+        <lb ed="#B" n="34"/>CIRca illud vnicum arguitur quod prudentia possit generari fine virtute morali: quia 
        <lb ed="#B" n="35"/>dictante recta ratione aliquid faciendum: voluntas potest non eligere illud cum ef- 
        <lb ed="#B" n="36"/>fectum: &amp; qua ratione hoc potest fieri semel ex parte intellectus, &amp; similiter ex parte 
        <lb ed="#B" n="37"/>voiuntatis: eadem ratione &amp; pluries. sed hoc faciendo generatur prudentia in ratione sine genera- 

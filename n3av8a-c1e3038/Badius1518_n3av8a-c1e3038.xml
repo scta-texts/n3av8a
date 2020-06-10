@@ -43,7 +43,7 @@
   <text xml:lang="la">
    <front>
     <div xml:id="starts-on">
-      <pb ed="#B" n="288-v"/>
+      <pb ed="#B" n="288-r"/>
     </div>
    </front>
    <body>
@@ -52,10 +52,9 @@
        <p xml:id="n3av8a-c1e3038-d1e99">
         <lb ed="#B" n="49"/>CIrca secundum arguitur: quod fideliter referret dicendo quod ille confessus mundus, &amp; im- 
        <lb ed="#B" n="50"/>munis est ab omni peccato: quia in rei veritate ipse iam nullum omnino habet peccatum. 
-       <lb ed="#B" n="51"/>
       </p>
       <p xml:id="n3av8a-c1e3038-d1e108">
-       IN contrarium est: quod ista relatio contraria est commissioni. 
+        <lb ed="#B" n="51"/>IN contrarium est: quod ista relatio contraria est commissioni. 
       </p>
       <p xml:id="n3av8a-c1e3038-d1e111">
        DIcendum quod vt mihi 

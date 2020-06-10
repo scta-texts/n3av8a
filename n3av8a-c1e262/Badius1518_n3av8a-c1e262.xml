@@ -43,7 +43,7 @@
   <text xml:lang="la">
    <front>
     <div xml:id="starts-on">
-      <pb ed="#B" n="10-v"/>
+      <pb ed="#B" n="10-r"/>
     </div>
    </front>
    <body>
@@ -100,10 +100,9 @@
        <lb ed="#B" n="50"/>hoc anima coniuncta &amp; separata, nihil ad propositum. Quae intelligit secundum quod est actu ipsa per eorum 
        <lb ed="#B" n="51"/>substantiam, vt dictum est: nec ipsa per suam substantiam est ratio rerum exemplaris sicut est primum. &amp; non restat 
        <lb ed="#B" n="52"/>alius modus quo fieri potest actu ipsa nisi per eorum species informata: secundum quod determinat <name ref="#Aristotle">philosophus</name> in libro iii. de anima 
-       <lb ed="#B" n="53"/>
       </p>
       <p xml:id="n3av8a-c1e262-d1e218">
-       ABsolute ergo dicendum quod anima nihil aliorum quae non possunt esse per suam substantiam apud animam, &amp; intima ei, intelli 
+        <lb ed="#B" n="53"/>ABsolute ergo dicendum quod anima nihil aliorum quae non possunt esse per suam substantiam apud animam, &amp; intima ei, intelli 
        <lb ed="#B" n="54"/>gere potest nisi per species ipsorum. Quomodo autem anima coniuncta intelligat seipsam, de hoc nihil ad hanc quaestionem. 
        <!--61.xml-->
        <pb ed="#B" n="10-v"/>

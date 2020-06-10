@@ -43,7 +43,7 @@
   <text xml:lang="la">
    <front>
     <div xml:id="starts-on">
-      <pb ed="#B" n=""/>
+      <pb ed="#B" n="31-v"/>
     </div>
    </front>
    <body>
@@ -55,10 +55,9 @@
        <lb ed="#B" n="27"/>subiectum per suum accidens, proprium, quare multo minus neque per accidens alienum. sed species sa 
        <lb ed="#B" n="28"/>cramenti sunt accidentia aliena corpori Christi. ergo per illa non habet esse alicubi. sed  
        <lb ed="#B" n="29"/>res non desinit esse alicubi desinente illo ibi esse per quod ipsa non habet esse ibi. ergo &amp;c. 
-       <lb ed="#B" n="30"/>
       </p>
       <p xml:id="n3av8a-c1e716-d1e115">
-       IN contrarium est fides nostra.
+        <lb ed="#B" n="30"/>IN contrarium est fides nostra.
       </p>
       <p xml:id="n3av8a-c1e716-d1e118">
        DIcendum ad hoc: quod esse vbi, sequitur ipsum esse rei sim 

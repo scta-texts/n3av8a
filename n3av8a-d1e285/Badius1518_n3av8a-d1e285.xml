@@ -43,7 +43,7 @@
   <text xml:lang="la">
    <front>
     <div xml:id="starts-on">
-      <pb ed="#B" n="240-v"/>
+      <pb ed="#B" n="240-r"/>
     </div>
    </front>
    <body>
@@ -63,8 +63,7 @@
       </p>
        <p xml:id="n3av8a-d1e285-d1e119">
        IN contrarium est illud:  
-       <lb ed="#B" n="35"/>
-        <ref xml:id="n3av8a-d1e285-Rd1e123" target="http://scta.info/resource/gd-p1d50-d1e230">quiquagesima dist. Decrs. Siquis viduam.</ref> vbi dicitur. <quote xml:id="n3av8a-d1e285-Qd1e126">Post baptismum conscius homicidii deiiciatur</quote> ergo a con 
+       <lb ed="#B" n="35"/><ref xml:id="n3av8a-d1e285-Rd1e123" target="http://scta.info/resource/gd-p1d50-d1e230">quiquagesima dist. Decrs. Siquis viduam.</ref> vbi dicitur. <quote xml:id="n3av8a-d1e285-Qd1e126">Post baptismum conscius homicidii deiiciatur</quote> ergo a con 
        <lb ed="#B" n="36"/>trario si ante, non deiiciatur. ergo &amp;c.
       </p>
        <p xml:id="n3av8a-d1e285-d1e132">

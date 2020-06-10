@@ -43,7 +43,7 @@
   <text xml:lang="la">
    <front>
     <div xml:id="starts-on">
-      <pb ed="#B" n="389-v"/>
+      <pb ed="#B" n="389-r"/>
     </div>
    </front>
    <body>
@@ -55,10 +55,9 @@
       </p>
       <p xml:id="n3av8a-c1e3893-d1e106">
        IN contrarium est consuetudo sacerdotum. A 
-       <lb ed="#B" n="44"/>
       </p>
       <p xml:id="n3av8a-c1e3893-d1e111">
-       DIcendum quod talis sacerdos aut vocatur a praelato suo ad deseruiendum beneficio tempore lu 
+        <lb ed="#B" n="44"/>DIcendum quod talis sacerdos aut vocatur a praelato suo ad deseruiendum beneficio tempore lu 
        <lb ed="#B" n="45"/>quo caret proprio deseruitore: &amp; hoc propter ipsius beneficii necessitatem: aut inge E 
        <lb ed="#B" n="46"/>rit se propter quaestus commoditatem. Primo modo dico quod potest &amp; licitum est ei &amp; merito- 
        <lb ed="#B" n="47"/>rium beneficio alii deseruire &amp; pro labore emolumentum percipere &amp; in vsus pios conuerte 

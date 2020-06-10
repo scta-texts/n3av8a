@@ -43,7 +43,7 @@
   <text xml:lang="la">
    <front>
     <div xml:id="starts-on">
-      <pb ed="#B" n="422-v"/>
+      <pb ed="#B" n="422-r"/>
     </div>
    </front>
    <body>
@@ -54,10 +54,9 @@
        <lb ed="#B" n="34"/>esse existentiae sui subiecti. Primo sic. vii. Metaphysicae dicit <name ref="#Aristotle">philosophus</name> quod accidens non est ens 
        <lb ed="#B" n="35"/>nisi quia est entis: quare eadem ratione non est existens nisi quia est existentis. hoc au 
        <lb ed="#B" n="36"/>tem non sic esset nisi idem esse essentiae esset accidentis &amp; non aliud quam subiecti. ergo &amp;c. 
-       <lb ed="#B" n="37"/>
       </p>
       <p xml:id="n3av8a-c1e4122-d1e116">
-       SEcundo sic. si essent eorum plura esse cum se habent per ordinem essentialiter: vnum es- 
+        <lb ed="#B" n="37"/>SEcundo sic. si essent eorum plura esse cum se habent per ordinem essentialiter: vnum es- 
        <lb ed="#B" n="38"/>se eorum esset perfectius altero: &amp; sic vnum eorum esset participatio alterius siue parti- 
        <lb ed="#B" n="39"/>ciparet altero: consequens falsum est: quia esse est summa actualitas: quae nullo potest participare secundum illam 
        <lb ed="#B" n="40"/>tertiam regulam de hebdo. Quod est: participare aliquo potest. sed ipsum esse nullo modo aliquo participat:  

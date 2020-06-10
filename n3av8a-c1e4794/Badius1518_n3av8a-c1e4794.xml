@@ -43,7 +43,7 @@
   <text xml:lang="la">
    <front>
     <div xml:id="starts-on">
-      <pb ed="#B" n="491-v"/>
+      <pb ed="#B" n="491-r"/>
     </div>
    </front>
    <body>
@@ -51,13 +51,12 @@
        <head xml:id="n3av8a-c1e4794-Hd1e96">Quaestio 11</head>
        <p xml:id="n3av8a-c1e4794-d1e99">
         <lb ed="#B" n="44"/>SEquuntur quaesita pertinentia ad accidentalia homin. Quorum primum &amp; vnicum erat de 
-       <lb ed="#B" n="45"/>accidentali homin pro statu damnationis &amp; hoc ex parte corporis: Vtrum corpus 
-       <lb ed="#B" n="46"/>hominis damnati in inferno possit simul esse summe calidum &amp; summe frigidum. 
-       <lb ed="#B" n="47"/>Alia autem plura erant pertinentia ad hominem pro statu vitae praesentis: de quibus statim. 
-       <lb ed="#B" n="48"/>
+        <lb ed="#B" n="45"/>accidentali homin pro statu damnationis &amp; hoc ex parte corporis: Vtrum corpus 
+        <lb ed="#B" n="46"/>hominis damnati in inferno possit simul esse summe calidum &amp; summe frigidum. 
+        <lb ed="#B" n="47"/>Alia autem plura erant pertinentia ad hominem pro statu vitae praesentis: de quibus statim. 
       </p>
       <p xml:id="n3av8a-c1e4794-d1e112">
-       CIRca primum arguitur quod corpus hominis damnati simul possit esse summe calidum 
+       <lb ed="#B" n="48"/>CIRca primum arguitur quod corpus hominis damnati simul possit esse summe calidum 
        <lb ed="#B" n="49"/>&amp; summe frigidum: quia in hoc non incidit contradictio: eo quod calidum &amp; frigi- 
        <lb ed="#B" n="50"/>dum opponuntur contrarie non contradictorie. Deus autem potest facere quaecumque  
        <lb ed="#B" n="51"/>non implicant contradictionem. Nec habent esse circa idem: quia circa aliam potentiam materiae habet esse 

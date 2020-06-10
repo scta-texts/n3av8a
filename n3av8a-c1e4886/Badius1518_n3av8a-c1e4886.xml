@@ -43,7 +43,7 @@
   <text xml:lang="la">
    <front>
     <div xml:id="starts-on">
-      <pb ed="#B" n="496-r"/>
+      <pb ed="#B" n="495-v"/>
     </div>
    </front>
    <body>
@@ -51,11 +51,10 @@
        <head xml:id="n3av8a-c1e4886-Hd1e96">Quaestio 18</head>
        <p xml:id="n3av8a-c1e4886-d1e99">
         <lb ed="#B" n="37"/>Irca Quartum arguitur: quod ille ad cuius manus veniunt tales literae, si eas aperiat &amp; 
-       <lb ed="#B" n="38"/>legat, &amp; lectas abbati tradat, mortaliter peccat: quia per hoc proximum suum scandalicat. 
-       <lb ed="#B" n="39"/>
+        <lb ed="#B" n="38"/>legat, &amp; lectas abbati tradat, mortaliter peccat: quia per hoc proximum suum scandalicat. 
       </p>
       <p xml:id="n3av8a-c1e4886-d1e108">
-       CONtra est: quod ille malum impedit ne fiat scilicet bonorum monasterii distractio contra re- 
+        <lb ed="#B" n="39"/>CONtra est: quod ille malum impedit ne fiat scilicet bonorum monasterii distractio contra re- 
        <lb ed="#B" n="40"/>gulam. 
       </p>
       <p xml:id="n3av8a-c1e4886-d1e113">
