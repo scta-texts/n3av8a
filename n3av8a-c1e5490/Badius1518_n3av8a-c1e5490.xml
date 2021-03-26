@@ -91,15 +91,15 @@
        <lb ed="#B" n="9"/>illud fecisset: quam si intentione contumeliam inferendi: eo quod nondum conuerso ad fidem Christia- 
        <lb ed="#B" n="10"/>nam licet experiri efficaciam legis Christianae: &amp; hoc mentis discretione ipsam examinando &amp; aliis 
        <lb ed="#B" n="11"/>legibus comparando secundum praeeminentiam in congruendo &amp; concordando Iudaeo rectae rationis. quem 
-       <lb ed="#B" n="12"/>admodum <name ref="#Augustine">Augustinus</name> ante suam conversionem examinauit legen Christianam, &amp; illam praeelegit postquam magis 
-       <lb ed="#B" n="13"/>rationabilem caeteris legibus inuenit. Vt enim dicit in principio libri contra epistolam fundamenti: Ego euangelio 
-       <lb ed="#B" n="14"/>non crederem nisi me ecclesiae catholicae conmoueret auctoritas. &amp; postquam paulo prius annumerauit per quae ec 
-       <lb ed="#B" n="15"/>clesiae auctoritas mouit ipsum ad credendum: convertens sermonem ad Manicheos dicit sic. Apud vos autem  
+       <lb ed="#B" n="12"/>admodum <name xml:id="n3av8a-c1e5490-Nd1e184" ref="#Augustine">Augustinus</name> ante suam conversionem examinauit legen Christianam, &amp; illam praeelegit postquam magis 
+        <lb ed="#B" n="13"/>rationabilem caeteris legibus inuenit. Vt enim dicit in <ref xml:id="n3av8a-c1e5490-Rd1e190" corresp="#n3av8a-c1e5490-Qd1e193">principio libri contra epistolam fundamenti</ref>: <quote xml:id="n3av8a-c1e5490-Qd1e193" source="http://scta.info/resource/AgCMfu-sdf83a-d1e185" synch="139-149">Ego euangelio 
+          <lb ed="#B" n="14"/>non crederem nisi me ecclesiae catholicae conmoueret auctoritas</quote>. &amp; postquam <ref xml:id="n3av8a-c1e5490-Rd1e198" corresp="#n3av8a-c1e5490-Qd1e200">paulo prius</ref> annumerauit per quae ec 
+        <lb ed="#B" n="15"/>clesiae auctoritas mouit ipsum ad credendum: convertens sermonem ad Manicheos dicit sic. <quote xml:id="n3av8a-c1e5490-Qd1e200" source="http://scta.info/resource/AgCMfu-sdf83a-d1e169" synch="172-231">Apud vos autem  
        <lb ed="#B" n="16"/>vbi nihil horum est quod me inuiret ac teneat: sed sola personat pollicitatio veritatis: quae si tam manifesta 
        <lb ed="#B" n="17"/>monstratur: vt in dubium venire non possit, praeponenda est illis rebus omnibus quibus in catholica 
        <lb ed="#B" n="18"/>teneor. Si autem tantummodo promittitur &amp; non exhibetur, nemo me mouebit ab ea fide quae animum meum tot &amp; 
-       <lb ed="#B" n="19"/>tantis nexibus Christianae religioni astrigit. &amp; vt testatur in principio de vera religione, eadem conmouerent 
-       <lb ed="#B" n="20"/>modo ad conuersionem ad fidem Christianam veros <name ref="#Aristotle">philosophos</name> si reuiuiscerent. Mentis ergo discretione  
+       <lb ed="#B" n="19"/>tantis nexibus Christianae religioni astrigit</quote>. &amp; vt testatur in principio de vera religione, eadem conmouerent 
+       <lb ed="#B" n="20"/>modo ad conuersionem ad fidem Christianam veros <name xml:id="n3av8a-c1e5490-Nd1e213" ref="#Aristotle">philosophos</name> si reuiuiscerent. Mentis ergo discretione  
        <lb ed="#B" n="21"/>licet veritatem legis &amp; fidei christianae experiri: quia sic nullus experiri quaerit nisi dubius factus de sua 
        <lb ed="#B" n="22"/>perfidia: per quod incipit tendere ad veram fidem. Experiri autem super hoc miraculum a deo expeten- 
        <lb ed="#B" n="23"/>do, illud omnino illicitum est: sicuti forte experiri voluit iste Iudaeus: in quo multum peccasset, minus tamen 
@@ -143,7 +143,7 @@
        <lb ed="#B" n="5"/>tur quod quantum mihi apparet multum ecclesia illi Iudaeo iniuriaretur si postquam per baptismum factus est 
        <lb ed="#B" n="6"/>vt apparet verus Christianus, post baptismum susceptum vere in aliquo eum puniret quantuncumque modico 
        <lb ed="#B" n="7"/>non solum extremo mortis supplicio, quo non debent puniri nisi incorrigibiles qui sunt putrida men- 
-       <lb ed="#B" n="8"/>bra in animali, quae oportet abscindi ne caetera membra inficiant. dicente <name ref="#Augustine">Augustinus</name> in epistola ad Marcellinum 
+       <lb ed="#B" n="8"/>bra in animali, quae oportet abscindi ne caetera membra inficiant. dicente <name xml:id="n3av8a-c1e5490-Nd1e312" ref="#Augustine">Augustinus</name> in epistola ad Marcellinum 
        <lb ed="#B" n="9"/>Vindicta vltima iuste exposcitur quando nullus iam restat correctionis locus. quia vt dicit in epistola ad  
        <lb ed="#B" n="10"/>Maced. in plectendo &amp; ignoscendo hoc solum recte agitur vt vita hominum corrigatur, quaele membrum non prae- 
        <lb ed="#B" n="11"/>sumitur quod sit iste, postquam sicut vere conversus ad baptismum susceptus est, nec aliquod contrarium indi  
@@ -154,7 +154,7 @@
        <lb ed="#B" n="16"/>vero seuere vt minus priuatum. Vnde indignanti quod tali sic parcit ecclesia, dici potest illud quod dicit 
        <lb ed="#B" n="17"/>Augustinus in epistola ad Vincentium. Non tibi displiceat ecclesiae mansuetudo, quae membra Christi colligit 
        <lb ed="#B" n="18"/>non collecta dispergit. Vnde de remittendo ab ecclesia omnino commissa ante baptismum baptizato, expresse 
-       <lb ed="#B" n="19"/>dicit <name ref="#Augustine">Augustinus</name> ad Vincentium contra haereticos auctoritate Titonii sic inquiens. Velim &amp; ista commemo 
+       <lb ed="#B" n="19"/>dicit <name xml:id="n3av8a-c1e5490-Nd1e339" ref="#Augustine">Augustinus</name> ad Vincentium contra haereticos auctoritate Titonii sic inquiens. Velim &amp; ista commemo 
        <lb ed="#B" n="20"/>rare quae Titonius scriptis suis inserit contra vos pro ecclesia catholica: scribit enim a ducentis septua 
        <lb ed="#B" n="21"/>ginta epseis nostris concilium Carthagine celebratum: &amp; postpositis omnibus praeteritis limatam esse sententiam 
        <lb ed="#B" n="22"/>vt immensi criminis reis si baptizari vellent pro integris communicaretur. ldem ad Bonifacium de 
@@ -237,18 +237,18 @@
        <lb ed="#B" n="37"/>puniri debet. quod et si in aliquo puniendus esset in emendam faciendam ecclesiae: non tamen poena mortis sed ali- 
        <lb ed="#B" n="38"/>qua humili poena: &amp; hoc quia minus puniendus est quam ab haeresi reuersus ad ecclesiam: eo quod iste magis 
        <lb ed="#B" n="39"/>peccauit: maxime si ad experiendum dictus Iudaeus hostiam consecratam pungebat. Reuersus autem ab haeresi 
-       <lb ed="#B" n="40"/>morte plectendus non est, sed poena humiliori quam iste qui numquam fuit ecclesiae coniunctus. dicente <name ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="40"/>morte plectendus non est, sed poena humiliori quam iste qui numquam fuit ecclesiae coniunctus. dicente <name xml:id="n3av8a-c1e5490-Nd1e514" ref="#Augustine">Augustinus</name> 
        <lb ed="#B" n="41"/>de reuertentibus ab haeresi ad ecclesiam in libro de vnico baptismo cap. xii. Eorum detestabilia mala nequaquam  
        <lb ed="#B" n="42"/>suscipimus quandoquidem nisi eis correctis ad nos transire non possunt, nec illud sine distinctione praeterimus:  
        <lb ed="#B" n="43"/>vt humiliorem agant poenitentiam qui iam fideles fidem catholicam deseruerunt, quam qui in illa nondum fuerunt. Et quid  
        <lb ed="#B" n="44"/>amplius est, etsi districto iure ecclesia per principem posset talem punire: in hoc tamen casu vbi non solum ver 
        <lb ed="#B" n="45"/>bo: sed etiam facto summa correctio, promittitur a reo, venia ei facienda est ne morte plectatur. Iuxta illud  
-       <lb ed="#B" n="46"/>quid dicit <name ref="#Augustine">Augustinum</name> ad Maced. Omnia peccata videntur veniabiliora cum reus correctionem, promittit. &amp; in  
+       <lb ed="#B" n="46"/>quid dicit <name xml:id="n3av8a-c1e5490-Nd1e531" ref="#Augustine">Augustinum</name> ad Maced. Omnia peccata videntur veniabiliora cum reus correctionem, promittit. &amp; in  
        <lb ed="#B" n="47"/>fra. Neque criminis vltores putasse debent ad culpam sui officii si quid erga reos misericorditer agerent 
        <lb ed="#B" n="48"/>quorum vitae necisque haberent legitimam potestatem. Vnde siqua poena plectendus est iste noster Iudaeus 
        <lb ed="#B" n="49"/>pro commisso ante baptismum contra priuatam personam, illa non debet esse nisi temporalis. &amp; in hoc potest iudex sae 
        <lb ed="#B" n="50"/>cularis percere corrigibili commutando poenam mortis in poenam temporalem super quocumque delicto, &amp; a quocumque  
-       <lb ed="#B" n="51"/>commisso. dicente <name ref="#Augustine">Augustinus</name> ad Apringium. Cur non flecteris in partem prouidentiorem, lenioremque sententiam: quid licet 
+       <lb ed="#B" n="51"/>commisso. dicente <name xml:id="n3av8a-c1e5490-Nd1e545" ref="#Augustine">Augustinus</name> ad Apringium. Cur non flecteris in partem prouidentiorem, lenioremque sententiam: quid licet 
        <lb ed="#B" n="52"/>iudici: etiam in causis non ecclesiae. Quia est poena mortis plecti non debet, expresse testatur Innocentius in eo quid  
        <lb ed="#B" n="53"/>dixit iam supra, quod peccatum conmissum ante baptismum remittitur quo ad deum &amp; quo ad legem pro- 
        <lb ed="#B" n="54"/>motionis: quia promoueri potest, quod nequaquam esse posset si morte plectendus esset. 
