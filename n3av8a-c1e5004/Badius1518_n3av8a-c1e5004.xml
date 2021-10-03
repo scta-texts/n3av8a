@@ -52,8 +52,8 @@
        <p xml:id="n3av8a-c1e5004-d1e99">
         <lb ed="#B" n="24"/>CIrca quintum arguitur: quod ad liberum arbitrium voluntatis sufficiat quod ipsa potuit impedire 
        <lb ed="#B" n="25"/>ne de necessitate actuaretur ab alio. Quia licet homo de necessitate sit albus quando est albus 
-       <lb ed="#B" n="26"/>quia tamen potuit priusquam factus sit albus, factum fuisse vt non fuisset albus: ista, homo est al- 
-       <lb ed="#B" n="27"/>bus, diei contingens ad vtrumlibet. ergo similiter licet voluntas de necessitate actuetur a bono  
+       <lb ed="#B" n="26"/>quia tamen potuit priusquam factus sit albus, factum fuisse vt non fuisset albus: ista, homo est 
+        al<lb ed="#B" n="27" break="no"/>bus, diei contingens ad vtrumlibet. ergo similiter licet voluntas de necessitate actuetur a bono  
        <lb ed="#B" n="28"/>cognito: quia tamen voluntas prius potuisset aliquid elegisse quo electo non fuisset actua 
        <lb ed="#B" n="29"/>ta ab illo appshenso: puta quoniam intellecta fornicatione sub duplici ratione elegit intelle 
        <lb ed="#B" n="30"/>ctum intelligere illam sub ratione delectabilis tantum: quo facto, statim voluntas est actuata ad volendum fornica 
@@ -63,19 +63,19 @@
        <lb ed="#B" n="34"/>a quo non conuertitur consequentia. prius est ergo esse ignorantem quam esse malum: sicut prius est esse animal, quam hominem 
        <lb ed="#B" n="35"/>eo quod sequitur, est homo ergo animal, non econuerso. Malum autem esse ignorantia praecedente non est nisi propter ignorantiam, &amp; 
        <lb ed="#B" n="36"/>tamen dicitur malus libero arbitrio factus: &amp; hoc non nisi quia potuit procurasse quod fuisset sciens. ergo &amp;c. Quia 
-       <lb ed="#B" n="37"/>autem talis ignorantia praecedat malitiam: probatur per Glos. super illud ludi. xvi. Clausum in carcere molere fece- 
-       <lb ed="#B" n="38"/>runt. Sciendum quod prius intellectus obtunditur: &amp; postea captus animus per exteriora desideria vagatur: vt cae- 
-       <lb ed="#B" n="39"/>ca mens qua ducatur nesciat: &amp; carnis illecebris se libenter subdat. Contra. ad liberum arbitrum requiritur 
-       <lb ed="#B" n="40"/>quod sit dominus sui actus: sed actus quo homo alio agente vult aliquid de necessitate, non est dominus liberi arbitrii: li- 
-       <lb ed="#B" n="41"/>cet prius potuisset illum impedisse. ergo &amp;c. Illi, quorum dicta recitaui in praecedenti quaestione, nituntur salua- 
-       <lb ed="#B" n="42"/>re liberum arbitrium voluntatis dicendo quod voluntas habet per se liberum dominium super determiationem sui actus 
+       <lb ed="#B" n="37"/>autem talis ignorantia praecedat malitiam: probatur per Glos. super illud ludi. xvi. Clausum in carcere molere 
+        fece<lb ed="#B" n="38" break="no"/>runt. Sciendum quod prius intellectus obtunditur: &amp; postea captus animus per exteriora desideria vagatur: vt 
+        cae<lb ed="#B" n="39" break="no"/>ca mens qua ducatur nesciat: &amp; carnis illecebris se libenter subdat. Contra. ad liberum arbitrum requiritur 
+       <lb ed="#B" n="40"/>quod sit dominus sui actus: sed actus quo homo alio agente vult aliquid de necessitate, non est dominus liberi arbitrii: 
+        li<lb ed="#B" n="41" break="no"/>cet prius potuisset illum impedisse. ergo &amp;c. Illi, quorum dicta recitaui in praecedenti quaestione, nituntur 
+        salua<lb ed="#B" n="42" break="no"/>re liberum arbitrium voluntatis dicendo quod voluntas habet per se liberum dominium super determiationem sui actus 
        <lb ed="#B" n="43"/>&amp; ideo per liberum arbitrium dicitur seipsam mouere primo se determinando ad velle &amp; nolle in ordie ad actus 
        <lb ed="#B" n="44"/>intelligendi, vel ad sistendum in ipsis, vel ad desistendum ab ipsis, &amp; intelligendo aliquid vel sub vna ratione vel 
        <lb ed="#B" n="45"/>sub alia secundum supra dictum modum, &amp; etiam in ordine ad suum actum, proprium, vt velit persistere in suo actu 
        <lb ed="#B" n="46"/>volendi vel non persistere. &amp; per hoc quod primo habet libertatem arbitrii in determinando seipsam &amp; liberum do  
        <lb ed="#B" n="47"/>minium super suos proprios actus, consequenter habet libertatem arbitrii, &amp; liberum dominium super determiatio 
-       <lb ed="#B" n="48"/>nem consimilem actuum intellectus, &amp; cuiuslibet alterius potentiae. Secundum enim determinationem ip- 
-       <lb ed="#B" n="49"/>sius velle in voluntate, sequitur determinatio ipsius intelligere in intellectum, &amp; proprium mouere in aliis 
+       <lb ed="#B" n="48"/>nem consimilem actuum intellectus, &amp; cuiuslibet alterius potentiae. Secundum enim determinationem 
+        ip<lb ed="#B" n="49" break="no"/>sius velle in voluntate, sequitur determinatio ipsius intelligere in intellectum, &amp; proprium mouere in aliis 
        <lb ed="#B" n="50"/>viribus. Sequitur etiam omnis vlterior actio, quae respondet illi determinationi. Et propter hoc 
        <lb ed="#B" n="51"/>etiam dicitur habere dominium super illam. Et ideo tales dicunt, quod sufficit ad liberum arbitrium hominis: &amp; quod actio aliqua  
        <lb ed="#B" n="52"/>dicatur ex libero arbitrio procedere: quod procedat ex illo quod sic libero arbitrio eligit: ex quoe contingit aliquid neces 
@@ -83,8 +83,8 @@
        <lb ed="#B" n="54"/>ni de libero arbitrio super actus volendi, &amp; non volendi vitiosos, &amp; virtuosos: nisi vt tales actus dicantur fieri 
        <!--1050.xml-->
        <pb ed="#B" n="505-r"/>
-        <lb ed="#B" n="1"/>in voluntate ex necessitate obiecti apprehensi per intellectum tanquam agentis, proximi: qui tamen dicuntur fieri ex vi li- 
-       <lb ed="#B" n="2"/>beri arbitrii tanquam agentis primi. quod reuera non sufficit. Secundum hunc enim modum omnia opera naturae possunt 
+        <lb ed="#B" n="1"/>in voluntate ex necessitate obiecti apprehensi per intellectum tanquam agentis, proximi: qui tamen dicuntur fieri ex vi 
+        li<lb ed="#B" n="2" break="no"/>beri arbitrii tanquam agentis primi. quod reuera non sufficit. Secundum hunc enim modum omnia opera naturae possunt 
        <lb ed="#B" n="3"/>dici fieri ex libero arbitrio: quia fiunt a libero arbitrio dei vt primi mouentis, determinantis naturas ad  
        <lb ed="#B" n="4"/>sua opera. Immo ad hoc quod aliquid dicatur esse vere ex libero arbitrio, oportet quod sit a libero arbitrio 
        <lb ed="#B" n="5"/>vt a mouente proximo: &amp; sic voluntas est domina suorum omnium actuum ab initio vsque in finem inclusiue: ita quod ni 
@@ -92,12 +92,12 @@
        <lb ed="#B" n="7"/>tio. Ad primam in oppositum de albedine: dicendum quod illa reuera dicitur contingens, homo est albus, li 
        <lb ed="#B" n="8"/>cet non possit non esse albus quando est albus: quia prius potuit impediri actus quo factus est albus 
        <lb ed="#B" n="9"/>&amp; non solum quia potuit impediri per aliquid quo facto non fuisset suum agens primum, &amp; per consequens nec 
-       <lb ed="#B" n="10"/>actus ille quo homo factus est albus: sed etiam quia potuit impediri circa suum agens proximum ne ipso stan- 
-       <lb ed="#B" n="11"/>te ab ipso homo factus esset albus. Quia si hoc vltimum deficeret, non solum diceretur homo necessario esse albus quando  
+       <lb ed="#B" n="10"/>actus ille quo homo factus est albus: sed etiam quia potuit impediri circa suum agens proximum ne ipso 
+        stan<lb ed="#B" n="11" break="no"/>te ab ipso homo factus esset albus. Quia si hoc vltimum deficeret, non solum diceretur homo necessario esse albus quando  
        <lb ed="#B" n="12"/>est albus cum tali replicatione, sed absolute diceretur, quod necessario factus esset albus. Consimiliter in proposito: li 
        <lb ed="#B" n="13"/>cet posset impediri actio voluntatis secundum illos: quia potuit aliquid fuisse factum, quo facto non fuisset, 
-       <lb ed="#B" n="14"/>illa tamen dicenda est simpliciter esse ex necessitate, &amp; non ex libero arbitrio, postquam stante sua cau- 
-       <lb ed="#B" n="15"/>sa, proxima nullo modo posset per liberum arbitrium voluntatis impediri. Ad secundum: quod ignorantia prior est 
+       <lb ed="#B" n="14"/>illa tamen dicenda est simpliciter esse ex necessitate, &amp; non ex libero arbitrio, postquam stante sua 
+        cau<lb ed="#B" n="15" break="no"/>sa, proxima nullo modo posset per liberum arbitrium voluntatis impediri. Ad secundum: quod ignorantia prior est 
        <lb ed="#B" n="16"/>malitia, tanquam id a quo non conuertitur consequentia: Dico quod secundum praedicta in quaestione. xxv. sumendo igno  
        <lb ed="#B" n="17"/>rantiam communiter: ipsa comprehendit in se &amp; ignorantiam quae est error, &amp; ignorantiam quae non est error: &amp; sic est 
        <lb ed="#B" n="18"/>prius quam malitia prioritate naturae: vt a quo non convertitur consequentia. Sed consequentia inter aliqua  
@@ -114,29 +114,29 @@
        <lb ed="#B" n="29"/>tionis. Illa autem quae est error, semper sequitur natura: quia non est error nisi ex culpa sicut dictum est. Potest tamen 
        <lb ed="#B" n="30"/>error sequens vt effectus ex vna culpa praecedere aliam, cuius potest esse causa, non dico propter quam sic, sed  
        <lb ed="#B" n="31"/>sine qua non: quia nihil quid est ex parte intellectus impellit aut mouet voluntatem in actum, sed solum ipsa seip 
-       <lb ed="#B" n="32"/>sam sicut dictum est. Per hoc patet ad glossam dictam. Ibi enim exponit Grego. duplicem ordinem inter er- 
-       <lb ed="#B" n="33"/>rorem rationis, &amp; obliquationem voluntatis, vnum priorem, quo praecedit obliquatio voluntatis, quae est prima &amp; per se 
+       <lb ed="#B" n="32"/>sam sicut dictum est. Per hoc patet ad glossam dictam. Ibi enim exponit Grego. duplicem ordinem inter 
+        er<lb ed="#B" n="33" break="no"/>rorem rationis, &amp; obliquationem voluntatis, vnum priorem, quo praecedit obliquatio voluntatis, quae est prima &amp; per se 
        <lb ed="#B" n="34"/>causa erroris in ratione, dicens sic. Aliquando prius desideria carnis ebulliunt, &amp; post longum vsum illicitis operi 
-       <lb ed="#B" n="35"/>bus oculum cordis claudunt. Nam saepe mens recta cernit, neque ille ardenter contra peruersa se erigit, &amp; reni- 
-       <lb ed="#B" n="36"/>tens vincitur, dum hoc ipsum quod egit diiudicans carnis suae delectatione superatur. Alium autem ordinem posteriorem tam 
+       <lb ed="#B" n="35"/>bus oculum cordis claudunt. Nam saepe mens recta cernit, neque ille ardenter contra peruersa se erigit, &amp; 
+        reni<lb ed="#B" n="36" break="no"/>tens vincitur, dum hoc ipsum quod egit diiudicans carnis suae delectatione superatur. Alium autem ordinem posteriorem tam 
        <lb ed="#B" n="37"/>git in illo quod arguendo propositum est, quo error voluntatis praecedit. de quae etiam post iam dicta subdit dicens. Quia 
-       <lb ed="#B" n="38"/>enim &amp; plerumque prius oculus contemplationis amittitur, &amp; post captus per desideria huius mundi animus subiu- 
-       <lb ed="#B" n="39"/>gatur: testatur Sampson ab Allophylis captus, qui postquam oculos perdidit ad molam deputatus est. Vnde ordi 
+       <lb ed="#B" n="38"/>enim &amp; plerumque prius oculus contemplationis amittitur, &amp; post captus per desideria huius mundi animus 
+        subiu<lb ed="#B" n="39" break="no"/>gatur: testatur Sampson ab Allophylis captus, qui postquam oculos perdidit ad molam deputatus est. Vnde ordi 
        <lb ed="#B" n="40"/>nem vnum ad alterum exprimens subdit. Quia maligni spiritus postquam tentationum stimulis intus aciem contempla 
        <lb ed="#B" n="41"/>tionis effoderunt foris in circuitu labores emittunt. Ecce quod primo tentationum stimulis, quae sunt in voluntate vel 
        <lb ed="#B" n="42"/>conscientia, oculus effoditur: &amp; sic excaecatus in laboribus peccatorum mittitur. Et tangitur in hoc difficultas an pos 
        <lb ed="#B" n="43"/>sit esse malitia in voluntate non existente ignorantia propter quam peccet in ratione. Et dico breuiter secundum ali 
-       <lb ed="#B" n="44"/>as determinata, quod sic: quia voluntas potest agere per electionem contra iudicium rationis nec ignorantis nec erran-  
-       <lb ed="#B" n="45"/>tis: sed hoc facto incipit error generari in ratione cum vitio generato in voluntate, &amp; tunc deinceps peccans peccat simul ex 
+       <lb ed="#B" n="44"/>as determinata, quod sic: quia voluntas potest agere per electionem contra iudicium rationis nec ignorantis nec 
+        erran<lb ed="#B" n="45" break="no"/>tis: sed hoc facto incipit error generari in ratione cum vitio generato in voluntate, &amp; tunc deinceps peccans peccat simul ex 
        <lb ed="#B" n="46"/>malitia voluntatis &amp; errore rationis: ita quod in fine peccat ex rationis excaecatione. Et hunc ordinem tangit glos. 
        <lb ed="#B" n="47"/>super illud ludi. xvi. Clausum in carcere molere fecerunt: vt tactum est. Ad ampliorem autem intellectum Sciendum quod  
        <lb ed="#B" n="48"/>tripliciter peccatum causatur. Aliquando ex pura electione absque passione in appetitu sensitiuo stimulante ad illam volum 
        <lb ed="#B" n="49"/>tatem ipsam: &amp; cum certa scientia rationis. Aliquando ex passione alliciente non vt ex causa impulsiua, sed inductiua 
-       <lb ed="#B" n="50"/>solummo. Sola enim voluntas seipsam mouet &amp; impellit in peccatum. Et in isto modo peccandi obnubilatur lu- 
-       <lb ed="#B" n="51"/>men veritatis ne percipiat sicut prius. et hoc and peccatum secundum modum allectionis in voluntate, sed in radice lu 
+       <lb ed="#B" n="50"/>solummo. Sola enim voluntas seipsam mouet &amp; impellit in peccatum. Et in isto modo peccandi obnubilatur 
+        lu<lb ed="#B" n="51" break="no"/>men veritatis ne percipiat sicut prius. et hoc and peccatum secundum modum allectionis in voluntate, sed in radice lu 
        <lb ed="#B" n="52"/>minis interioris in nullo diminuitur. Quemadmodum si inter solem &amp; oculum subintraret aliquid  
-       <lb ed="#B" n="53"/>puta nubes peruia, obumbraretur lumen solis, ne perciperetur lympide, non autem lumen natu-  
-       <lb ed="#B" n="54"/>rale visionis. Sed postquam obliquatur voluntas per peccatum, tunc primo obscuratur lumen rationis 
+       <lb ed="#B" n="53"/>puta nubes peruia, obumbraretur lumen solis, ne perciperetur lympide, non autem lumen 
+        natu<lb ed="#B" n="54" break="no"/>rale visionis. Sed postquam obliquatur voluntas per peccatum, tunc primo obscuratur lumen rationis 
        <!--1051.xml-->
        <pb ed="#B" n="505-v"/>
         <lb ed="#B" n="1"/>in seipso, &amp; tunc tertio modo incipit homo peccare non solum ignorans, sed ex ignorantia.
