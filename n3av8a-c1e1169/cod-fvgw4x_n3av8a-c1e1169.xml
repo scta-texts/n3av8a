@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 20</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <editor>Jeffrey C. Witt</editor>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 20</title>
+        <date when="2024-06-05">June 5, 2024</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+        <witness xml:id="V" n="cod-fvgw4x">Canada, Victoria, B.C., Fragm. Lat. 8</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a critical edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2024-06-05" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+      <pb ed="#V" n="1-r"/>
+      <pb ed="#V" n="b"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="n3av8a-c1e1169">
+      <head xml:id="n3av8a-c1e1169-Hd1e96">Quaestio 20</head>
+      <p xml:id="n3av8a-c1e1169-d1e99">
+        <lb ed="#V" n="67"/>Utrum obedientia sit perfectior in qua vovetur obedientia genera<lb ed="#V" break="no" n="68"/>lis 
+        quam illa in qua novetur secundum determinata praecepta 
+        <lb ed="#V" n="69"/><unclear>realiter</unclear> 
+      </p>
+      <p xml:id="n3av8a-c1e1169-d1e121">
+        arguitur quod sicut quia non minus pertinet ad perfectionem religionis 
+        <lb ed="#V" n="70"/>obedientia quam paupertas sed perfectior est religio in qua vovetur ab<lb ed="#V" break="no" n="71"/>renuntio 
+        omnium temporalium in proprio et in communi quam ubi non ergo etc
+      </p>
+      <p xml:id="n3av8a-c1e1169-d1e132">
+        <lb ed="#V" n="72"/><pc type="pilcrow"/> Contra quia tunc nulla esset religio perfecta quia in qualibet fit profe<lb ed="#V" break="no" n="73"/>ssio 
+        obedientiae secundum certam realiter 
+      </p>
+      <p xml:id="n3av8a-c1e1169-d1e137">
+       Responsio votum obedientiae ad hoc
+       or<lb ed="#V" break="no" n="74"/>dinatur ut homo subiciens se homini melius regatur quam per se 
+       <lb ed="#V" n="75"/>ipsum <pc type="punctus"/> et quia se sic subici proportionaliter deum ideo est sub regimine 
+       <lb ed="#V" n="76"/>divino secundum <ref><name ref="#Aristotle">philosophus</name> in politicis</ref> unde econverso fatuum est ut prudentior 
+       <lb ed="#V" n="77"/>se subiciat regmini minus sapientis sed quia cuilibet rationabiliter  
+       <lb ed="#V" n="78"/>praesumendum est quod in magna congregatione peritior se inueniatur 
+       <lb ed="#V" n="79"/>qui toti congregationi praeferatur: ideo securum est se <unclear>committere</unclear> re<lb ed="#V" break="no" n="80"/>ligionis 
+       regimini ad obedientiam et qua ratione ad aliquid eadem ratione 
+       <lb ed="#V" n="81"/>ad <unclear>opposita</unclear> Cum igitur votum obedientiae fit perfectionis et quanto 
+       <lb ed="#V" n="82"/>obedientia est universalior tanto perfectior: ideo perfectior est vel 
+       <lb ed="#V" n="83"/>in qua <unclear>noveamur</unclear> oboedientia universalis in omnibus particularis
+        
+      </p>
+      <p xml:id="n3av8a-c1e1169-d1e198">
+        <pc type="pilcrow"/> ad 
+        <lb ed="#V" n="84"/>argumentum licet in quamlibet religione sit aliqua tracta <unclear>realiter</unclear> non tamen sequitur quin regula 
+        <lb ed="#V" n="85"/>contineat <del rend="expunctuation">aliqua</del> obedientiae univeralem quo ad opposita licita et quo ad 
+        <lb ed="#V" n="86"/>haec est perfecta 
+      </p>
+      </div>
+   </body>
+  </text>
+</TEI>
