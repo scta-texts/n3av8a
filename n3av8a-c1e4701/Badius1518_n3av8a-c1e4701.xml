@@ -57,8 +57,8 @@
        <lb ed="#B" n="3"/>secundum autem <name ref="#Augustine">Augustinus</name> nihil potest diligi nisi cognitum: ergo &amp;c. 
       </p>
       <p xml:id="n3av8a-c1e4701-d1e116">
-       CONtra. si deus di 
-       <lb ed="#B" n="4"/>ligitur proximus diligitur: proximus autem est aliquid aliud a deo: ergo &amp;c. 
+       CONtra. si deus 
+       di<lb ed="#B" n="4" break="no"/>ligitur proximus diligitur: proximus autem est aliquid aliud a deo: ergo &amp;c. 
       </p>
       <p xml:id="n3av8a-c1e4701-d1e121">
        PRObatio 
@@ -77,15 +77,15 @@
       <p xml:id="n3av8a-c1e4701-d1e144">
        AD argumentum in contrarium: dico quod diligere &amp; similiter non diligere 
        <lb ed="#B" n="13"/>aliquid contingit intelligi dupliciter. Vno modo enim aliquid diligitur secundum actum. Alio 
-       <lb ed="#B" n="14"/>autem modo secundum habitum. Non diligere autem vno mod dicitur negatiue: alio modo priuati 
-       <lb ed="#B" n="15"/>ue. Loquendo autem de diligere secundum actum non sequitur omnino: deus diligitur, ergo proximus diligitur: quia op 
-       <lb ed="#B" n="16"/>positum consequentis potest stare cum anecedente. deus enim bene diligitur sic tamen quod proximus non diligatur secundum 
+       <lb ed="#B" n="14"/>autem modo secundum habitum. Non diligere autem vno mod dicitur negatiue: alio modo 
+       priuati<lb ed="#B" n="15" break="no"/>ue. Loquendo autem de diligere secundum actum non sequitur omnino: deus diligitur, ergo proximus diligitur: quia 
+       op<lb ed="#B" n="16" break="no"/>positum consequentis potest stare cum anecedente. deus enim bene diligitur sic tamen quod proximus non diligatur secundum 
        <lb ed="#B" n="17"/>actum. Si tamen deus diligitur secundum actum, necesse est quod proximus diligatur secundum habi 
        <lb ed="#B" n="18"/>tum: quia oppositum consequentis non stat cum antecedente. Deus enim diligi non potest si 
         pro<lb ed="#B" n="19" break="no"/>ximus non diligatur secundum habitum: quia sequitur econtrario: si proximus non diligatur secundum 
-       <lb ed="#B" n="20"/>habitum, deus non diligitur secundum actum. Non diligere autem proximum secundum habitum est non diligere priua 
-       <lb ed="#B" n="21"/>tiue: quia fundatur ista negatio super actum contrarium qui est odire: qui enim odit proximum non diligit eum etiam se 
-       <lb ed="#B" n="22"/>cundum habitum. Non diligere autem proximum negatiue bene stat cum diligere proximum secundum hab tum 
+       <lb ed="#B" n="20"/>habitum, deus non diligitur secundum actum. Non diligere autem proximum secundum habitum est non diligere 
+       priua<lb ed="#B" n="21" break="no"/>tiue: quia fundatur ista negatio super actum contrarium qui est odire: qui enim odit proximum non diligit eum etiam 
+       se<lb ed="#B" n="22" break="no"/>cundum habitum. Non diligere autem proximum negatiue bene stat cum diligere proximum secundum hab tum 
        <lb ed="#B" n="23"/>quia homo non diligit proximum negatiue: quaere nec habet eius notitiam in actu diligendi deum: nec tamen odit ipsum.
       </p>
       </div>
