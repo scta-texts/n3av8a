@@ -66,7 +66,7 @@
       <p xml:id="n3av8a-c1e538-d1e124">
        CONtra, qui vtitur principaliter aliquo ad quod non  
        <lb ed="#B" n="41"/>ordinatur, in quo deum contemnit, peccat mortaliter. actus enim docendi sapientiam per se 
-        ordi<lb ed="#B" n="42" break="no"/>natur ad honorem dei &amp; non ad honorem sui: secundum quod dicit <name ref="#Augustine">Augustinus</name> libro primo de 
+        ordi<lb ed="#B" n="42" break="no"/>natur ad honorem dei &amp; non ad honorem sui: secundum quod dicit <name xml:id="n3av8a-c1e538-Nd1e124" ref="#Augustine">Augustinus</name> libro primo de 
         do<lb ed="#B" n="43" break="no"/>ctrina Christiana. Ad fidem, spem, &amp; charitatem tota militat diuina scriptura, quae principaliter ad  
        <lb ed="#B" n="44"/>honorem dei ordinatur: in quo deus contemnitur si principaliter ad alterius honorem ordinetur 
        <lb ed="#B" n="45"/>ergo &amp;c. 
@@ -78,7 +78,7 @@
         prin<lb ed="#B" n="48" break="no"/>cipaliter honorem suum: &amp; sic praeferre honorem suum honori diuino: hoc omnino est illicitum: &amp; 
        <lb ed="#B" n="49"/>abusus sacrae doctrinae: &amp; ita peccatum mortale. De talibus dicitur Matthaei. xxiii. Super cathedram 
         Moy<lb ed="#B" n="50" break="no"/>si sederunt Scribae &amp; Pharissaei. Glos. i. docentes doctrinam quam Moyses docuit. de quibus sequitur. 
-       <lb ed="#B" n="51"/>Omnia opera sua faciunt vt videantur ab hominibus. Glos. eo fine vt venentur gloriam. vbi 
+       <quote xml:id="n3av8a-c1e538-Qd1e148" source="http://scta.info/resource/mt23_5@1-9"><lb ed="#B" n="51"/>Omnia opera sua faciunt vt videantur ab hominibus.</quote> Glos. eo fine vt venentur gloriam. vbi 
         di<lb ed="#B" n="52" break="no"/>cit Chrysostomus. Tolle vitium de clero: ne velint hominibus apparere, &amp; sine labore omnia vitia re 
        <lb ed="#B" n="53"/>secantur. Per dicta patent omnia obiecta.
       </p>

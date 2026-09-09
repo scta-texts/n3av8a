@@ -771,7 +771,7 @@
        pro<lb ed="#B" n="43" break="no"/>prio sacerdoti etiam illa quae habenti modo praedicto auctoritatem superioris fuerit homo confessus. Quid  
        <lb ed="#B" n="44"/>autem dictus doctor suasit tanquam bonum, modo in isto priuilegio expresse fratribus est iniunctum per illam 
        <lb ed="#B" n="45"/>clausulam. Quiaque iidem fratres &amp;c. His etiam concordat alius <ref xml:id="n3av8a-c1e3012-Rd1e1526">
-        <name>venerabilis doctor dominus Bonauentura</name> in  
+        <name xml:id="n3av8a-c1e3012-Nd1e1567">venerabilis doctor dominus Bonauentura</name> in  
        <lb ed="#B" n="46"/>scriptis suis</ref> loquens de eadem materia, &amp;e specialiter de his quibus data est potestas ex priuilegio. &amp; di 
        <lb ed="#B" n="47"/>cit sic. Credo quod tali sit data potestas audiendi confessiones non in praeiudicium sacerdotum bonorum 
        <lb ed="#B" n="48"/>sed potius in fauorem fidelium: &amp; propter sacerdotum insufficientiam. Vnde dico quod secundum 
@@ -808,8 +808,8 @@
         Dua<lb ed="#B" n="20" break="no"/>censibus contra fratres: in qua quo ad hoc declarat ius commune dicens sic. Quia cum non sint alias 
        <lb ed="#B" n="21"/>iudices parrochianorum alienorum, non possent ipsos absoluere nisi petita prius &amp; obtenta licentia 
        <lb ed="#B" n="22"/>a sacerdote proprio: iuxta concilium statuti generalis. Postmodum autem concessum fuit eis priuilegium 
-       <lb ed="#B" n="23"/>(vt credo) ab <name>Alexandro Papa</name>: quod aliorum parrochianos possent recipere ad poenitentiam sine licentia 
-       <lb ed="#B" n="24"/>proprii sacerdotis. secundum tamen quod declarauit <name>Clemens Papa</name>, si licentia obtenta fuerit Romani potestificis: aut 
+       <lb ed="#B" n="23"/>(vt credo) ab <name xml:id="n3av8a-c1e3012-Nd1e1647">Alexandro Papa</name>: quod aliorum parrochianos possent recipere ad poenitentiam sine licentia 
+       <lb ed="#B" n="24"/>proprii sacerdotis. secundum tamen quod declarauit <name xml:id="n3av8a-c1e3012-Nd1e1651">Clemens Papa</name>, si licentia obtenta fuerit Romani potestificis: aut 
        <lb ed="#B" n="25"/>legatorum eius: seu ordinariorum locorum. i. episcoporum, qua obtenta possent populis illis subiectis 
        <lb ed="#B" n="26"/>libere praedicare: confessiones audire: absoluere, &amp; poenitentias salutares iniungere: aliorum inferiorum  
        <lb ed="#B" n="27"/>praelatorum &amp; ecclesiarum rectorum ac sacerdotum parrochialium consensu minime requisito: illis 
@@ -883,8 +883,8 @@
         pri<lb ed="#B" n="36" break="no"/>uatum commodum. Ad publicum enim commodum, vt videtur, non defacili posset cedere subditis 
         concede<lb ed="#B" n="37" break="no"/>re ne suis curatis confiteri tenerentur. hoc enim esset oues a pastore abducere: &amp; libertatem 
         euagan<lb ed="#B" n="38" break="no"/>di dare, &amp; confessores ad libitum posse variare: nec ad obediendum alicui astrictum fore: vt adimpleatur 
-       <lb ed="#B" n="39"/>illud Eze. xxxii. Dispersae sunt oues meae: eo quod non esset pastor: &amp; factae sunt in deuorationem omnium 
-       <lb ed="#B" n="40"/>bestiarum agri. cum tamen omnes ouem lasciuientem ad pastoris obedientiam teneantur adducere: &amp; in ips 
+       <lb ed="#B" n="39"/>illud Eze. xxxii. <quote xml:id="n3av8a-c1e3012-Qd1e1813" source="http://scta.info/resource/ez34_5@1-18">Dispersae sunt oues meae: eo quod non esset pastor: &amp; factae sunt in deuorationem omnium
+       <lb ed="#B" n="40"/>bestiarum agri.</quote> cum tamen omnes ouem lasciuientem ad pastoris obedientiam teneantur adducere: &amp; in ips 
        <lb ed="#B" n="41"/>sa custodire: &amp; hoc facto circa eas, prout quisque voluerit in latitudine charitatis se exercere: quasi 
        spi<lb ed="#B" n="42" break="no"/>cas colligendo &amp; fricando quae fugierunt manus metentium: vt habitum est supra: in hoc sacerdotes 
        ec<lb ed="#B" n="43" break="no"/>clesiae adiuuando, &amp; eos venerando: exemplo Christi. de quo dicit Cyprianus. dist. xciii. Dominus noster 
@@ -999,7 +999,7 @@
        per<lb ed="#B" n="37" break="no"/>petrata ab ipso. Propter quod licet per absolutionem peceatum desinit esse suum quo ad illud quod ali 
        <lb ed="#B" n="38"/>quando erat in substantia actus: aut in anima inficiens eam &amp; deum offendens, &amp; ad poenam 
         aeter<lb ed="#B" n="39" break="no"/>nam obligans: nunquam tamen desinit esse suum quo ad hoc quod perpetratum extitit ab ipso: quia quid semel factum est 
-       <lb ed="#B" n="40"/>de caetero non poterit non fuisse factum. secundum <name ref="#Augustine">Augustinus</name> contra Faustum, &amp; philosophum. iii. Ethicorum. 
+       <lb ed="#B" n="40"/>de caetero non poterit non fuisse factum. secundum <name xml:id="n3av8a-c1e3012-Nd1e2063" ref="#Augustine">Augustinus</name> contra Faustum, &amp; philosophum. iii. Ethicorum. 
        <lb ed="#B" n="41"/>
       </p>
       <p xml:id="n3av8a-c1e3012-d1e2027">
@@ -1300,7 +1300,7 @@
        futu<lb ed="#B" n="25" break="no"/>rum sperantur deo auspice producturi. Constat autem quod iste ager est ecclesia siue congregatio populi 
         Chri<lb ed="#B" n="26" break="no"/>stiani. Populo ergo Christiano principaliter prouenit fructus quem intendit dominus papa ex dicto priuilegio 
        <lb ed="#B" n="27"/>sequuturum. Vnde etiam in scriptis venerabilium doctorum praedictorum de concessione aliquibus per consimilia 
-        priuile<lb ed="#B" n="28" break="no"/>gia facta hoc inuenitur. Dicit enim dominus <name>Bonauentura</name> vbi supra: quod in nullius praeiudicium talia priuilegia 
+        priuile<lb ed="#B" n="28" break="no"/>gia facta hoc inuenitur. Dicit enim dominus <name xml:id="n3av8a-c1e3012-Nd1e2686">Bonauentura</name> vbi supra: quod in nullius praeiudicium talia priuilegia 
        con<lb ed="#B" n="29" break="no"/>ceduntur: sed potius in fauorem fidelium. &amp; praedictus doctor Tho. dicit: quod nulla potestas commissa est alicui homini 
        <lb ed="#B" n="30"/>in fauorem suum: sed ad vtilitatem plebis &amp; honorem dei. Vnde etiam sicut prima clausula pertinens ad fratres 
        <lb ed="#B" n="31"/>non est principaliter in fauorem eorum: sed populi: sic etiam secunda pertinens ad parochiales sacerdotes non 
@@ -1309,8 +1309,8 @@
        <lb ed="#B" n="34"/>quia quaecumque priuilegia continentia officia aliqua etiam ad vtilitatem aliorum exequenda: consueuerunt mitti illis 
        qui<lb ed="#B" n="35" break="no"/>bus executio talium officiorum conceditur: propter quid &amp; in ipsis priuilegiis tales &amp; non alii salutantur, 
        quemadmo<lb ed="#B" n="36" break="no"/>dum beatus Gregorius papa multa priuilegia de praedicationibus exercendis &amp; sacramentis administrandis 
-       <lb ed="#B" n="37"/>ad conuersionem &amp; eruditionem populi Anglorum, scripsit beato <name ref="#Augustine">Augustino</name> Anglorum epseo, ipsum in illis 
-       pri<lb ed="#B" n="38" break="no"/>uilegiis salutando: &amp; constat quod talia priuilegia non dabantur beato <name ref="#Augustine">Augustino</name> in fauorem eius 
+       <lb ed="#B" n="37"/>ad conuersionem &amp; eruditionem populi Anglorum, scripsit beato <name xml:id="n3av8a-c1e3012-Nd1e2707" ref="#Augustine">Augustino</name> Anglorum epseo, ipsum in illis 
+       pri<lb ed="#B" n="38" break="no"/>uilegiis salutando: &amp; constat quod talia priuilegia non dabantur beato <name xml:id="n3av8a-c1e3012-Nd1e2713" ref="#Augustine">Augustino</name> in fauorem eius 
        princi<lb ed="#B" n="39" break="no"/>paliter, sed in fauorem populi Anglorum.
       </p>
       </div>

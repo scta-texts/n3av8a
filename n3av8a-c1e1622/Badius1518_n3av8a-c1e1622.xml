@@ -70,7 +70,7 @@
       </p>
       <p xml:id="n3av8a-c1e1622-d1e130">
        SVPposito quod licitum sit aliquibus mendicare: quid quaestio ista supponit: quod  
-       <lb ed="#B" n="49"/>&amp; nos secundum deterimationem <name ref="#Augustine">Augustini</name> in libro de opere monachorum, supponimus: Dicendum quod necessitas 
+       <lb ed="#B" n="49"/>&amp; nos secundum deterimationem <name xml:id="n3av8a-c1e1622-Nd1e128" ref="#Augustine">Augustini</name> in libro de opere monachorum, supponimus: Dicendum quod necessitas 
        <lb ed="#B" n="50"/>pertinentium ad vsum humanae vitae magnam latitudinem habet: &amp; secundum conditiones &amp; status personarum 
        <lb ed="#B" n="51"/>quod enim vni esset supsluum &amp; multum: alteri esset parum &amp; modicum: &amp; hoc aspectis circunstantiis personae  
        <lb ed="#B" n="52"/>loci &amp; temporis, &amp; cateris exterius concurrentibus. Habet etiam latitudinem ex parte suiipsius in se 
@@ -78,10 +78,10 @@
        <lb ed="#B" n="54"/>Quaedam enim est necessitas extrema, sine qua vita corporalis sustentari non posset: ad quam sup- 
        <!--329.xml-->
        <pb ed="#B" n="144-v"/>
-        <lb ed="#B" n="1"/>plendam in proximo quilibet tenetur. Iuxta illud. i. lo. iii. Qui habuerit substantiam huius 
-        mun<lb ed="#B" n="2" break="no"/>di: &amp; viderit sratrem suum necessitatem hare. Glos. Victus vel vestitus. Et clauserit viscera sua ab eo. 
-       <lb ed="#B" n="3"/>glo. Vt non compatiatur eius miseriae vel nihil det: etiam si compatiatur. Quomodo charitas dei manet in  
-       <lb ed="#B" n="4"/>illo: Alia vero est necessitas opportuna: sine qua vita temporalis commode haberi non potest: &amp; ad quam 
+        <lb ed="#B" n="1"/>plendam in proximo quilibet tenetur. Iuxta illud. i. lo. iii. <quote xml:id="n3av8a-c1e1622-Qd1e148" source="http://scta.info/resource/Iio3_17@1-22">Qui habuerit substantiam huius
+        mun<lb ed="#B" n="2" break="no"/>di: &amp; viderit sratrem suum necessitatem hare</quote>. Glos. Victus vel vestitus. <quote xml:id="n3av8a-c1e1622-Qd1e154" source="http://scta.info/resource/Iio3_17@1-22">Et clauserit viscera sua ab eo</quote>.
+       <lb ed="#B" n="3"/>glo. Vt non compatiatur eius miseriae vel nihil det: etiam si compatiatur. <quote xml:id="n3av8a-c1e1622-Qd1e159" source="http://scta.info/resource/Iio3_17@1-22">Quomodo charitas dei manet in
+       <lb ed="#B" n="4"/>illo</quote>: Alia vero est necessitas opportuna: sine qua vita temporalis commode haberi non potest: &amp; ad quam 
        <lb ed="#B" n="5"/>supplendam quilibet pietate prouocatur. Ro. xii. Necessitatibus sanctorum conmunicantes. Tertia vero 
        <lb ed="#B" n="6"/>est necessitas proficua: sine qua vtiliter vita temporalis deduci non potest: ad quam supplendam perfectus 
        <lb ed="#B" n="7"/>amore boni communis animatur. Exo. xxxvi. Plus offert populus quam necessarium est. Vltra necessitatem A 

@@ -51,7 +51,7 @@
        <head xml:id="n3av8a-c1e5129-Hd1e96">Quaestio 5</head>
        <p xml:id="n3av8a-c1e5129-d1e99">
         <lb ed="#B" n="25"/>Irca Quintum arguitur: quod verbum non potuit assumere aliam naturam quam 
-       in<lb ed="#B" n="26" break="no"/>tellectualem. Sic enim arguit <name ref="#Augustine">Augustinus</name> xiii. libro de trinitate. c. ix. exponendo illud 
+       in<lb ed="#B" n="26" break="no"/>tellectualem. Sic enim arguit <name xml:id="n3av8a-c1e5129-Nd1e99" ref="#Augustine">Augustinus</name> xiii. libro de trinitate. c. ix. exponendo illud 
        Ver<lb ed="#B" n="27" break="no"/>bum caro factum est. Si illud est quod minus credibile est esse, &amp; quid magis: sed  
        <lb ed="#B" n="28"/>minus credibile est quod deus possit fieri filius hominis natura, quam quod filius hominis 
        <lb ed="#B" n="29"/>possit fieri filius dei gratia. sed illud iam est factum in Christo: ergo credibile 
@@ -64,7 +64,7 @@
        <lb ed="#B" n="36"/>dicit sic: Vt homines nascerentur ex deo: primo ex ipso natus est deus. Noli ergo mirari homo quia  
        <lb ed="#B" n="37"/>efficeris per gratiam filius dei: quia nasceris ex deo: prius voluit nasci ex homine. ldeo cum dixisset 
        <lb ed="#B" n="38"/>ex deo nati sunt: quasi hoc miraremur &amp; exhorreremus tantam gratiam, ne nobis incredibile videretur 
-       <lb ed="#B" n="39"/>quod homines ex deo nati sunt, quasi securum te faciens ait: Et verbum caro factum est. Quid ergo 
+       <lb ed="#B" n="39"/>quod homines ex deo nati sunt, quasi securum te faciens ait: <quote xml:id="n3av8a-c1e5129-Qd1e130" source="http://scta.info/resource/io1_14@1-5">Et verbum caro factum est.</quote> Quid ergo 
         mi<lb ed="#B" n="40" break="no"/>raris quod homines ex deo nascuntur: Attende deum natum ex hominibus. Et procedit argumentum 
        <lb ed="#B" n="41"/>Augustini a maiori ad minus, &amp; a minore ad maius. Iuxta quem modum arguitur ad propositum sic 
        <lb ed="#B" n="42"/>Si quod maius est potest fieri, &amp; quod minus: &amp; econtra si non quod minus, nec quid maius: maius autem est 
@@ -103,7 +103,7 @@
        <lb ed="#B" n="20"/>nec sunt ad eundem actum: vnde nec est idem modus vnius rationis naturae diuinae &amp; humanae in vnitate 
        <lb ed="#B" n="21"/>suppositi &amp; in vnitate operationis: licet vna necessario concomitetur alteram: sed hoc accidit ratione 
        <lb ed="#B" n="22"/>materiae et naturae assumptibilis: quia. scilicet est possibilitas ad vtramque in eodem: ideo vt dicunt (o bene) 
-       <lb ed="#B" n="23"/>argumentum <name ref="#Augustine">Augustinus</name> non tenet ratione formae: sed ratione materiae tantum: quia. scilicet in homine est potentia 
+       <lb ed="#B" n="23"/>argumentum <name xml:id="n3av8a-c1e5129-Nd1e218" ref="#Augustine">Augustinus</name> non tenet ratione formae: sed ratione materiae tantum: quia. scilicet in homine est potentia 
        <lb ed="#B" n="24"/>duplex praedicta. Vnde quod arguitur consimili modo: si potest fieri quid est maius, &amp; quid est minus: &amp; ecom 
        <lb ed="#B" n="25"/>tra si non quod est minus, nec quod est maius: dicunt quod verum est quando potentia ad vtrumque est eiusdem 
         ra<lb ed="#B" n="26" break="no"/>tionis, quod non contingit in proposito: vt dictum est: &amp; ideo non tenet vlterior processus.. Similiter quid  
@@ -166,7 +166,7 @@
        <lb ed="#B" n="24"/>insessio nata est quantum est ex se, semper operari alia duo. Sed nulla natura creaturae est 
         susceptibi<lb ed="#B" n="25" break="no"/>lis nec potest esse susceptibilis illapsus dei ad suscipiendum in se modo congruenti naturae primam dei 
        <lb ed="#B" n="26"/>operationem praedictam: quin etiam susceptibilis sit in se operationis secundae, quia nulla creatura 
-        po<lb ed="#B" n="27" break="no"/>test esse per substantiam cui non potest conuenire aliqua operatio per potentiam, quia secundum <name ref="#Aristotle">Philosophum</name> in fine 
+        po<lb ed="#B" n="27" break="no"/>test esse per substantiam cui non potest conuenire aliqua operatio per potentiam, quia secundum <name xml:id="n3av8a-c1e5129-Nd1e354" ref="#Aristotle">Philosophum</name> in fine 
        <lb ed="#B" n="28"/>quarti Metaphysi. omnia opere determinantur: &amp; sunt propter suas operationes: &amp; tandiu sunt quam  
        <lb ed="#B" n="29"/>diu possunt agere suas proprias operationes: &amp; cum desinunt posse operari suas proprias operatio 
        <lb ed="#B" n="30"/>nes, tunc simul desinunt esse. Vt enim dicit Damasce. ibidem cap. xvii. Intellectus insipiens &amp; priuatus 
@@ -179,7 +179,7 @@
        <lb ed="#B" n="37"/>rationem praedictam, quin etiam sit susceptibilis in se operationis secundae: secundae autem non est 
         suscepti<lb ed="#B" n="38" break="no"/>bilis nisi per potentias intellectus &amp; voluntatis: ergo vt concludit secunda ratio praedicta, vbinata 
        <lb ed="#B" n="39"/>est eleuari essentia dicto modo, &amp; potentia: &amp; vbi non, non. vt idcirco etiam cum hoc quod gratia niu 
-       <lb ed="#B" n="40"/>teriae bene tenet argumentatio <name ref="#Augustine">Augustinus</name> tacta in prima ratione, etiam non fallit in aliqua materia,  
+       <lb ed="#B" n="40"/>teriae bene tenet argumentatio <name xml:id="n3av8a-c1e5129-Nd1e385" ref="#Augustine">Augustinus</name> tacta in prima ratione, etiam non fallit in aliqua materia,  
        <lb ed="#B" n="41"/>quin sequitur: si natura ista, puta hominis, est eleuabilis secundum essentiam quin sit necessario simul ele 
        <lb ed="#B" n="42"/>uabilis secundum potentiam: &amp; si non secundum potentiam, nec secundum essentiam. Quemadmodum 
         se<lb ed="#B" n="43" break="no"/>quitur, si anima fortis est immortalis, etiam cuiuslibet hominis anima est immortalis: &amp; si non cuiuslibetur, 
@@ -232,10 +232,10 @@
        <lb ed="#B" n="34"/>dictum modum. Vnde nec aliquam causa finalis propter quam facienda esset a deo alicuius naturae assumptio pos 
        <lb ed="#B" n="35"/>set esse in assumendo aliam naturam quam intellectualem, quia non est naturae assumptio finaliter nisi 
        <lb ed="#B" n="36"/>ad illius aliquam promotionem &amp; profectum in sui eleuatione, qualem non potest habere nisi natura 
-        in<lb ed="#B" n="37" break="no"/>tellectualis. Hinc dicit <name ref="#Augustine">Augustinus</name> super loan. vbi supra. Prius verbum voluit nasci ex homine, vt tu 
+        in<lb ed="#B" n="37" break="no"/>tellectualis. Hinc dicit <name xml:id="n3av8a-c1e5129-Nd1e503" ref="#Augustine">Augustinus</name> super loan. vbi supra. Prius verbum voluit nasci ex homine, vt tu 
         se<lb ed="#B" n="38" break="no"/>cutus nascereris ex deo. Nonne sine causa nasci ex homine voluit nisi quia alicuius momenti me 
        exi<lb ed="#B" n="39" break="no"/>stimauit, vt immortalem me faceret: quasi dicat, vtique sine causa &amp;c. Vbi per immortalitatem 
-       intel<lb ed="#B" n="40" break="no"/>ligit veram beatitudinem: quia non est fine immortalitate, secundum eundem <name ref="#Augustine">Augustinus</name> xiii. de trinat. Hinc 
+       intel<lb ed="#B" n="40" break="no"/>ligit veram beatitudinem: quia non est fine immortalitate, secundum eundem <name xml:id="n3av8a-c1e5129-Nd1e513" ref="#Augustine">Augustinus</name> xiii. de trinat. Hinc 
        <lb ed="#B" n="41"/>dicit vbi supra ser. x. Deus homo factus est: quid futurus est homo propter quem deus factus est 
        ho<lb ed="#B" n="42" break="no"/>mo: momentum illud quo deus homo existimatur, est dignitas imaginis in ipso, propter quam 
         so<lb ed="#B" n="43" break="no"/>lam contigit quod deus ex homine nasci voluit, non sine causa. In qua natiuitate, humana natura 

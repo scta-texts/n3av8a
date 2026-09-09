@@ -63,7 +63,7 @@
       <p xml:id="n3av8a-c1e315-d1e117">
        <lb ed="#B" n="29"/>DIcendum ad hoc quod distinguendo voluntatem contra rationem deordinatio voluntatis in per  
        <lb ed="#B" n="30"/>uerso vsu liberi arbitrii consistit, quid principaliter in ipsa voluntate ponendum est, vt dictum est in quaestione praecedenti. 
-       <lb ed="#B" n="31"/>Secundum autem quod dicit <name ref="#Augustine">Augustinus</name> libro iii. de libero arbitrio, Homo secundum statum praesentis vitae, vel ignorando  
+       <lb ed="#B" n="31"/>Secundum autem quod dicit <name xml:id="n3av8a-c1e315-Nd1e119" ref="#Augustine">Augustinus</name> libro iii. de libero arbitrio, Homo secundum statum praesentis vitae, vel ignorando  
        <lb ed="#B" n="32"/>non habet liberum voluntatis arbitrium ad eligendum quid recte faciat, vel resistente carnali consuetudine videat 
        <lb ed="#B" n="33"/>quidrecte faciendum sit, &amp; velit, nec possit implere. Illa enim peccati poena iustissima est vt amittat quisque quo  
        <lb ed="#B" n="34"/>bene vti noluit: cum sine difficultate posset si vellet id est vt qui sciat recte non faciat, amittat scire quid rectum sit 
@@ -137,12 +137,12 @@
        <lb ed="#B" n="40"/>trariis nisi id quid magis appetunt, vel appetitu intellectus vel appetitu imaginis. Igitur quid dominatur in motu volum 
        <lb ed="#B" n="41"/>tatis, non est cognitio: cum multotiens moueatur voluntas a desiderio: licet intellectus videat non debere moue 
        <lb ed="#B" n="42"/>ri: nec simplicis notitiae: quia illa est contrariorum siml, vt iam dictum est secundum philosophum, nec iudicanti per sententiam. 
-       <lb ed="#B" n="43"/>secundum quod hoc sufficienter determiatum est in quaestione praecedenti. Vnde mirum est imponere <name ref="#Aristotle">philosopho</name> quod velit 
+       <lb ed="#B" n="43"/>secundum quod hoc sufficienter determiatum est in quaestione praecedenti. Vnde mirum est imponere <name xml:id="n3av8a-c1e315-Nd1e276" ref="#Aristotle">philosopho</name> quod velit 
        cognitio<lb ed="#B" n="44" break="no"/>nis iudicium limitare: &amp; necessitare voluntatem ad volendum secundum formam intellectus. sed de hoc amplius dicetur. 
        <lb ed="#B" n="45"/>Quia simplicitur neque desiderium sensitiuum determinet voluntatem ad motum, ostendit per hoc: quod multi homines 
        desi<lb ed="#B" n="46" break="no"/>derant &amp; concupiscunt appetitu sensitiuo: sed non agunt voluntate ea ad quae mouentur per desiderium: quia sequitur 
-       <lb ed="#B" n="47"/>intellectum: vt continentes: et Apostolus quando dixit <ref xml:id="n3av8a-c1e315-Rd1e293">Ro. vii.</ref> Video aliam legen in membris meis repugnantem legi 
-       men<lb ed="#B" n="48" break="no"/>tis meae. Sed quia omnis appetitus est ad aliquid, vt ad obiectum bonum: ideo determinat quod primum mouens est 
+       <lb ed="#B" n="47"/>intellectum: vt continentes: et Apostolus quando dixit <ref xml:id="n3av8a-c1e315-Rd1e293">Ro. vii.</ref> <quote xml:id="n3av8a-c1e315-Qd1e291" source="http://scta.info/resource/rom7_23@1-11">Video aliam legen in membris meis repugnantem legi
+       men<lb ed="#B" n="48" break="no"/>tis meae.</quote> Sed quia omnis appetitus est ad aliquid, vt ad obiectum bonum: ideo determinat quod primum mouens est 
         appe<lb ed="#B" n="49" break="no"/>titiuum. Appetitiuum enim cum apphensum fuerit, tunc appetit homo per scientiam, &amp; per appetitum mouebitur in opus. &amp; sic 
        <lb ed="#B" n="50"/>determiat: quod ad motum duae concurrunt virtute scilicet desiderium &amp; intellectus. Mouentes autem in ratione vnius 
        mouen<lb ed="#B" n="51" break="no"/>tis primi immobilis, quod est appetitiuum. Sed quomodo appetitiuum apprihensum moueat voluntatem vt velit, de 
@@ -177,7 +177,7 @@
        <lb ed="#B" n="24"/>media inter duos appetitus: sensitium. scilicet &amp; rationalem. Et videtur eis quod hoc habeant a philosopho, vbi dicit in iii. 
        ethico<lb ed="#B" n="25" break="no"/>rum. Multis deceptio propter delectationem videtur fieri. Non enim existens bonum, bonum videtur. Desiderant igitur 
        <lb ed="#B" n="26"/>delectabile vt bonum. Videtur etiam eis quod habeant idem ex. vii. ethicorum. vnde sumpta est ratio ad hoc 
-        superindu<lb ed="#B" n="27" break="no"/>cta. Maxime autem quod ignorantia in ratione sit cauam prauae actionis a voluntate in incontinente, videtur sentire <name ref="#Aristotle">philosophus</name> 
+        superindu<lb ed="#B" n="27" break="no"/>cta. Maxime autem quod ignorantia in ratione sit cauam prauae actionis a voluntate in incontinente, videtur sentire <name xml:id="n3av8a-c1e315-Nd1e372" ref="#Aristotle">philosophus</name> 
        <lb ed="#B" n="28"/>consentiendo Socrati: quod non contingit operari praeter optimum, nisi propter ignorantiam: dicit, &amp; optimum quaerere 
         cir<lb ed="#B" n="29" break="no"/>ca passionem, si propter ignorantiam: quis modus ignorantiae: Vnde non videtur dubitare, quin illud eueniat propter 
        <lb ed="#B" n="30"/>ignorantiam: sed quaerit ignorantiae modum. Quod bonum apprhensum derminat voluntatem ad volendum: tamquam illud si 
@@ -219,7 +219,7 @@
        <lb ed="#B" n="7"/>ita quod a nullo alio agente impellatur ad virtutes &amp; vitia, neque a superiori, neque ab inferiori. secundum quod dicit 
         Au<lb ed="#B" n="8" break="no"/>gustinus libro iii. de libero arbitrio. Et hoc conuenit ei ex naturali proprietate voluntatis: vt cum vult ex se 
        <lb ed="#B" n="9"/>per se sic moueatur: sicut lapidi quod semper deorsum nitatur. Sed differt in hoc: quod lapis non potest de se aliter 
-       mo<lb ed="#B" n="10" break="no"/>ueri: voluntas autem de se potest. secundum quod dicit <name ref="#Augustine">Augustinus</name> ibidem. Credo, inquit, satis expartum esse nulla re 
+       mo<lb ed="#B" n="10" break="no"/>ueri: voluntas autem de se potest. secundum quod dicit <name xml:id="n3av8a-c1e315-Nd1e462" ref="#Augustine">Augustinus</name> ibidem. Credo, inquit, satis expartum esse nulla re 
         fie<lb ed="#B" n="11" break="no"/>ri mentem seruam libidinis, nisi propria voluntate: neque a superiori neque ab aequali eam posse ad hoc dedecus 
        co<lb ed="#B" n="12" break="no"/>gi: quia iniustum est: neque ab inferiori, quia non potest. Restat ergo vt eius sit, proprius iste motus, non vtique 
        natu<lb ed="#B" n="13" break="no"/>ralis, sed voluntarius. eoque similis est illi motui quo deorsum versus lapis fertur: quod sicut iste, proprius est 
@@ -244,14 +244,14 @@
        <lb ed="#B" n="29"/>igitur absolute, &amp; aliter sana fide stante dici non potest, quod omnis deordinatio per errorem in ratione causaliter procedit 
        <lb ed="#B" n="30"/>ex deordinatione voluntatis per prauam affectionem, &amp; non econuerso, nisi occasionaliter inquantum cognitio 
        <lb ed="#B" n="31"/>praeuia est ad voluntatem, vt praedictum est. Non enim inordinate cupimus quae in notitia nostra non capimus. Et 
-       <lb ed="#B" n="32"/>ideo, vt docet <name ref="#Aristotle">philosophus</name> in fine secundi ethicorum, oportet nos pati ad delectationem quod senes plebis patiebantur 
+       <lb ed="#B" n="32"/>ideo, vt docet <name xml:id="n3av8a-c1e315-Nd1e515" ref="#Aristotle">philosophus</name> in fine secundi ethicorum, oportet nos pati ad delectationem quod senes plebis patiebantur 
        <lb ed="#B" n="33"/>ad Helenam, &amp; in omnibus dicere vocem eorum. Vox siquidem illorum erat cum scirent adesse Helenam: fuge, fuge. 
        Ti<lb ed="#B" n="34" break="no"/>mebant enim ne nimiam pulchritudinem eius aspicientes: allicerentur ad libidinem. &amp; sic abiiciendo delectationem 
        <lb ed="#B" n="35"/>non aspiciendo delectabile, minus peccabimus. Et quod sic libere poterit homo agere contra certum iudicium 
-       <lb ed="#B" n="36"/>rationis: expresse dicit <name ref="#Aristotle">philosophus</name> in libro. iii. ethicorum. Videntur, inquit, non idem, eligere optima, &amp; opinari: sed opinari 
+       <lb ed="#B" n="36"/>rationis: expresse dicit <name xml:id="n3av8a-c1e315-Nd1e527" ref="#Aristotle">philosophus</name> in libro. iii. ethicorum. Videntur, inquit, non idem, eligere optima, &amp; opinari: sed opinari 
        <lb ed="#B" n="37"/>quidem melius: propter malitiam autem eligere quae non oportet. Si autem praecesserit opinio electioni vel sequatur, nihil 
        <lb ed="#B" n="38"/>differt. Ecce quam aparte tribuit liberam electionem mali voluntati contrarianti opinioni rectae etiam praecedenti. 
-       <lb ed="#B" n="39"/>Et ideo ad operationes virtutum: quarum secundum <name ref="#Aristotle">philosophum</name> domini sumus, &amp; quas operari vel non operari in no 
+       <lb ed="#B" n="39"/>Et ideo ad operationes virtutum: quarum secundum <name xml:id="n3av8a-c1e315-Nd1e537" ref="#Aristotle">philosophum</name> domini sumus, &amp; quas operari vel non operari in no 
        <lb ed="#B" n="40"/>bis est, scire parum aut nihil prodest. eligere autem &amp; operari non parum: sed omnino prosunt. Nihil enim prodest 
        <lb ed="#B" n="41"/>scire quo ad deiminationem voluntatis vt vult praecedens opinio. aliquid tamen prodest quo ad ostensionem eligibi 
        <lb ed="#B" n="42"/>lis: &amp; in hoc multo minus quam habitus virtutum: quia isti magis determinant voluntatem ad opus quam habitus 
@@ -266,7 +266,7 @@
        <lb ed="#B" n="48"/>incontinentis: quia in eo consistit tota difficultas intenti. 
       </p>
       <p xml:id="n3av8a-c1e315-d1e566">
-       SClendum igitur: quod secundum quod <name ref="#Aristotle">philosophus</name> ipse dicit in. vii. ethic. 
+       SClendum igitur: quod secundum quod <name xml:id="n3av8a-c1e315-Nd1e565" ref="#Aristotle">philosophus</name> ipse dicit in. vii. ethic. 
        <lb ed="#B" n="49"/>cap. ii. quod mens &amp; intentio eius circa hoc est primo proponere quae alii opinati sunt de continentia &amp; 
         incontinen<lb ed="#B" n="50" break="no"/>tia, &amp; de dubitare de opinionibus instando contra ipsas: &amp; deinde illas quae habent veritatem, assumere, &amp; alias praeter 
        <lb ed="#B" n="51"/>mittere. Inquantum partinet ad nostrum propositum vnam opinionem proponit de continentia &amp; de incontinentia, quae plane 
@@ -290,7 +290,7 @@
       </p>
       <p xml:id="n3av8a-c1e315-d1e612">
        DICtae autem opinioni 
-       <lb ed="#B" n="10"/>Socratis stati instat <name ref="#Aristotle">philosophus</name> dicens, quod ille sermo Socratis, uod scilicet nullum aestimantem aliquid esse optimum contingit opera 
+       <lb ed="#B" n="10"/>Socratis stati instat <name xml:id="n3av8a-c1e315-Nd1e613" ref="#Aristotle">philosophus</name> dicens, quod ille sermo Socratis, uod scilicet nullum aestimantem aliquid esse optimum contingit opera 
        <lb ed="#B" n="11"/>ri praeter optimum: sed si aliquis operetur praeter optimum: hoc est propter ignorantiam: dubitat in eis quae manifeste 
         ap<lb ed="#B" n="12" break="no"/>parent, &amp; contradicit eis. Videmus enim habentem aestimationem mali non continere se ab eo: sed sequi 
         passio<lb ed="#B" n="13" break="no"/>nem. Dicit etiam in aliquo consentiendo Socrati: quod si incontinens operatur malum propter ignorantiam passionis: quia. scilicet non 
@@ -369,7 +369,7 @@
       </p>
       <p xml:id="n3av8a-c1e315-d1e782">
        EST autem adhuc amplius aliquid intelligendum ad veritatis, &amp; intellectus philosophi maiorem 
-        de<lb ed="#B" n="30" break="no"/>clarationem, quod <name ref="#Aristotle">philosophus</name> non tam danmnat in vitio &amp; peccato actum exterioris operis quam interioris consensus in delectatio 
+        de<lb ed="#B" n="30" break="no"/>clarationem, quod <name xml:id="n3av8a-c1e315-Nd1e783" ref="#Aristotle">philosophus</name> non tam danmnat in vitio &amp; peccato actum exterioris operis quam interioris consensus in delectatio 
        <lb ed="#B" n="31"/>nem, quia vt dicit secundo Politicae de vitio auaritiae, magis oportet concupiscentias regulare quam substantias. 
        <lb ed="#B" n="32"/>Nec etiam solum danmnat interiorem consensum in opus: sed etiam totam delectationem prauam. propter quid dicitur in ii. 
        <lb ed="#B" n="33"/>ethic. quod oportet nos pati ad delectationem, quid senes plebis patiebantur ad Helenam, vt supra dictum est. Vnde  
@@ -385,7 +385,7 @@
        <lb ed="#B" n="40"/>secundum &amp; tertium voluntate nostra committuntur. &amp; ideo peccata sunt. Vnde dominus non docet nos orare ne tem 
        <lb ed="#B" n="41"/>temur: quia hoc quandoque non esset nobis prosicuum. propter quod non fuit Paulus exauditus quando 
         peti<lb ed="#B" n="42" break="no"/>uit sibi stimulum carnis auferri: sed docet nos orare ne inducamur in tentationem. Matthaei sexto. Et ne 
-       <lb ed="#B" n="43"/>intremus in tentationem. Marci. xiiii. Vnde dicit <name ref="#Augustine">Augustinus</name> in fine de libero arbitrio. Voluntatem non 
+       <lb ed="#B" n="43"/>intremus in tentationem. Marci. xiiii. Vnde dicit <name xml:id="n3av8a-c1e315-Nd1e817" ref="#Augustine">Augustinus</name> in fine de libero arbitrio. Voluntatem non 
        <lb ed="#B" n="44"/>allicit ad faciendum nisi aliquod visum &amp;c. vt dictum est supra. Vnde si concupiscentia solummodo animum tam 
        <lb ed="#B" n="45"/>gendo tentet, &amp; voluntas eam statim reiicit: in nullo eam inficit: nec in aliquo intellectum obumbrat: sed 
        obe<lb ed="#B" n="46" break="no"/>diente appetitu inferiori appetitui superiori mox tentatio cessat: sicut contingit in continente. Vnde si contingat 
@@ -434,24 +434,24 @@
         fa<lb ed="#B" n="30" break="no"/>cit: cuius ignorantiae ipse voluntarie causa est: cuius operationis amodo cauam est ignorantia, propter 
         ignoran<lb ed="#B" n="31" break="no"/>tiam enim prohora passionis elicitus eligibiliter operatur malum: sicut intemperatus ab initio. Et se habet tentatio 
        <lb ed="#B" n="32"/>concupiscentiae in trahendo &amp; subiiciendo incontinentem, ad modum illius mulieris de quae dicitur prouerbiorum 
-       <lb ed="#B" n="33"/>septimo. Ecce mulier occurrit illi ornatu meretricio praeparata ad decipiendas animas. Ecce enim tentatio 
-       de<lb ed="#B" n="34" break="no"/>lectationis. Sequitur. Apprehensumque deosculatur iuuenem. ecce consensus in actum. Sequitur. Non est vir in  
-       <lb ed="#B" n="35"/>domosua. ecce obnubilatio rationis. Statimque sequitur. Quasi bos ductus ad victimam &amp; quasi agnus 
-       lasci<lb ed="#B" n="36" break="no"/>uiens ignorans quod ad vincula stultus trahatur: &amp; nescit quod de periculo animae illius agitur. ecce voluntarius 
+       <lb ed="#B" n="33"/>septimo. <quote xml:id="n3av8a-c1e315-Qd1e923" source="http://scta.info/resource/prov7_10@2-11">Ecce mulier occurrit illi ornatu meretricio praeparata ad decipiendas animas.</quote> Ecce enim tentatio
+       de<lb ed="#B" n="34" break="no"/>lectationis. Sequitur. Apprehensumque deosculatur iuuenem. ecce consensus in actum. Sequitur. Non est vir in
+       <lb ed="#B" n="35"/>domosua. ecce obnubilatio rationis. Statimque sequitur. <quote xml:id="n3av8a-c1e315-Qd1e930" source="http://scta.info/resource/prov7_22@4-19">Quasi bos ductus ad victimam &amp; quasi agnus
+       lasci<lb ed="#B" n="36" break="no"/>uiens ignorans quod ad vincula stultus trahatur:</quote> &amp; nescit quod de periculo animae illius agitur. ecce voluntarius
         im<lb ed="#B" n="37" break="no"/>mo necessarius cursus in actum peccati: de quo procedit argumentum. Cum enim maior sit rationis errantis na 
        <lb ed="#B" n="38"/>turalis &amp; minor particularis opinio de quae est sensus: &amp; concurrunt in vnum opus: conclusum est voluntati:  
        <lb ed="#B" n="39"/>&amp; verum est quod opus sequens consensum ipsum conclusum est voluntati sic dispositae, ita vt non possit non  
        <lb ed="#B" n="40"/>agere opus interioris delectationis: vel exterioris actionis si fuit consensus in ipsum &amp; non prohibeatur. &amp; 
        ta<lb ed="#B" n="41" break="no"/>lis inordinationis in actum ignorantia est cauam auferens ad horam scientiam &amp; conscientiam. Et hoc modo bene verum 
        <lb ed="#B" n="42"/>est quod dixit Socrates quod nullum aestimantem optimum contingit operari praeter optimum: sed si operetur hoc est propter 
-       igno<lb ed="#B" n="43" break="no"/>rantiam. cui bene consentit <name ref="#Aristotle">philosophus</name> determinans modum verum illius ignorantiae, vt dictum est. Nec est aliquid 
+       igno<lb ed="#B" n="43" break="no"/>rantiam. cui bene consentit <name xml:id="n3av8a-c1e315-Nd1e951" ref="#Aristotle">philosophus</name> determinans modum verum illius ignorantiae, vt dictum est. Nec est aliquid 
        incon<lb ed="#B" n="44" break="no"/>ueniens voluntatem sic necessitari in actum peccati, postquam per consensum amisit vsum liberi arbitrii in volum 
        <lb ed="#B" n="45"/>tate: sicut rationis rectae in intellectu. secundum quod dicit Chrysostomus super Matthaeum. ca. xxi. Omnes antequam 
        <lb ed="#B" n="46"/>peccemus liberum habemus arbitrium: si nolumus sequi diaboli voluntatem: sed si semel peccantes 
        obligaueri<lb ed="#B" n="47" break="no"/>mus nos operibus eius, iam nira virtute euadere non possumus. Hon antequam peccet liberum habet arbitrium vtrum 
        <lb ed="#B" n="48"/>velit sub regno esse diaboli. Cum autem peccando se tradidit sub eius regno, iam non potest de potestate eius exire. 
        <lb ed="#B" n="49"/>&amp; sic prima voluntas eius in necessitatem vertitur: sed non habet excusationem: quia potuit non esse sub potestate dia 
-       <lb ed="#B" n="50"/>boli si voluisset. cui concordat <name ref="#Aristotle">philosophus</name> in libro iii. Ethico. cum dicit. Si autem non ignorans aliquis operetur ex quibus 
+       <lb ed="#B" n="50"/>boli si voluisset. cui concordat <name xml:id="n3av8a-c1e315-Nd1e969" ref="#Aristotle">philosophus</name> in libro iii. Ethico. cum dicit. Si autem non ignorans aliquis operetur ex quibus 
        <lb ed="#B" n="51"/>erit iniustus, volens iniustus vtique erit: non tamen si velit iniustus existens requescet. vbi addit. a. t. Vt faciat 
        <lb ed="#B" n="52"/>actionem iustitiae &amp; cohibeat se ab iniustitia, &amp; d erit iustus. Neque enim qui aegrotat sanus secundum a. t. erit quando 
        vo<lb ed="#B" n="53" break="no"/>luerit. &amp; si sic contingit, volens aegrotat incontinenter viuens &amp; inobediens medicis. tunc quidem 
@@ -461,12 +461,12 @@
        <lb ed="#B" n="1"/>possibile resumere: sed tamen in ipso mittere &amp; priicere. Sic autem &amp; iniusto &amp; incontinenti ex principio quidem 
        <lb ed="#B" n="2"/>inerat tales non fieri: propter quod volentes sunt. factis autem non adhuc inest non esse: vt dicit 
        Commenta<lb ed="#B" n="3" break="no"/>tor. Neque qui in praecipitium seipsum demittit, quando vult retinebit descensum: neque desiderium concedens 
-       refrae<lb ed="#B" n="4" break="no"/>nabit opus. Nota tu qui dicis <name ref="#Aristotle">philosophum</name> intendere deordinationem rationis per ignorantiam esse causam 
+       refrae<lb ed="#B" n="4" break="no"/>nabit opus. Nota tu qui dicis <name xml:id="n3av8a-c1e315-Nd1e994" ref="#Aristotle">philosophum</name> intendere deordinationem rationis per ignorantiam esse causam 
         deordinatio<lb ed="#B" n="5" break="no"/>nis voluntatis in vitium: non econuerso. Nota inquam quia dicit. Si non ignorans aliquis operetur ex quibus erit 
        iniu<lb ed="#B" n="6" break="no"/>stus. Opus ergo ex quo est iniustus, praecedit priuationem scientiae per praecedentem ignorantiam: &amp; est deordinatio 
        <lb ed="#B" n="7"/>voluntatis prima causam in hoc deordinationis rationis: nec excusat sequens ignorantia: immo magis auget peccatum. 
        <lb ed="#B" n="8"/>Erat enim in nobis non ignorare quoniam in principio eramus non ignorantes, nolentes agere secundum scientiam. &amp; 
-       <lb ed="#B" n="9"/>ideo dicit <name ref="#Aristotle">philosophus</name> libro vi. Ethico. cap. xvii. quod incontinens assimilatur ciuitati cui calculantur omnia necessaria: &amp; 
+       <lb ed="#B" n="9"/>ideo dicit <name xml:id="n3av8a-c1e315-Nd1e1008" ref="#Aristotle">philosophus</name> libro vi. Ethico. cap. xvii. quod incontinens assimilatur ciuitati cui calculantur omnia necessaria: &amp; 
        le<lb ed="#B" n="10" break="no"/>ges studiosas habet: vtitur autem nulla. Vnde ibidem determinans quomodo incontinens non est prudens, dicit quod prudens 
        <lb ed="#B" n="11"/>non solum est aliquis in scire: sed etiam in operari &amp; practicum esse: &amp; ex hoc incontinens est quia non est practicus 
        <lb ed="#B" n="12"/>quia vt dicit ibi, continentis opus non congruit suae scientiae. Vnde &amp; in eodem, capitulo decimoquinto, assignans 
@@ -490,7 +490,7 @@
        <lb ed="#B" n="27"/>modum nostrum ponendi dicimus quod concupiscentia non deordinat iudicium rationis nisi mediante 
         deordinatio<lb ed="#B" n="28" break="no"/>ne voluntatis. ita quod vt diei septimo Ethico. ca. xvii. prudens &amp; studiosus secundum morem non in scire solum est 
        <lb ed="#B" n="29"/>prudens quod pertinet ad rationem: sed etiam in eo quid est practicum esse: quod pertinet ad voluntatem. Incontinens autem 
-       de<lb ed="#B" n="30" break="no"/>ficit primo &amp; principaliter ab eo quid est practicum esse: &amp; deinde ab eo quod est scire. Propter quid <name ref="#Aristotle">philosophus</name> 
+       de<lb ed="#B" n="30" break="no"/>ficit primo &amp; principaliter ab eo quid est practicum esse: &amp; deinde ab eo quod est scire. Propter quid <name xml:id="n3av8a-c1e315-Nd1e1059" ref="#Aristotle">philosophus</name> 
        <lb ed="#B" n="31"/>ibi distinguit incontinentem a prudente potius penes hoc quod non est practicus quam penes hoc quod non est 
        <lb ed="#B" n="32"/>sciens. Quia autem ex parte voluntatis qua debet homo esse practicus, prius deordinetur incontinens (Prius di 
        <lb ed="#B" n="33"/>co non duratione sed causalitate. Simul enim fiunt error rationis: &amp; deordinatio voluntatis) quam ex parte rationis 
@@ -504,7 +504,7 @@
        opi<lb ed="#B" n="41" break="no"/>nione particulari aliqualiter incontinenter agere. Et dicit secundum Commenta, quod incontinens non 
         immedia<lb ed="#B" n="42" break="no"/>te cadit a recta ratione veli &amp; particulari: sed mediante concupiscentia quae trahit. Sedquid est quod trahitur per se a 
        con<lb ed="#B" n="43" break="no"/>cupiscentia &amp; ducitur: Constat quod hoc non est nisi voluntas &amp; appetitus rationalis ab appetitu sensibili 
-       <lb ed="#B" n="44"/>secundum quod dicit <name ref="#Aristotle">philosophus</name> in libro iii. de anima. Vincit autem &amp; mouet aliquando phantasia deliberationem: aliquando haec illam 
+       <lb ed="#B" n="44"/>secundum quod dicit <name xml:id="n3av8a-c1e315-Nd1e1093" ref="#Aristotle">philosophus</name> in libro iii. de anima. Vincit autem &amp; mouet aliquando phantasia deliberationem: aliquando haec illam 
        <lb ed="#B" n="45"/>sicut sphaera, appetitus appetitum, cum linabstinens fiat: sed scibile non mouetur. lllud autem quod primo &amp; per se 
        <lb ed="#B" n="46"/>trahitur, circa particularem opinionem primo fallitur: &amp; illud quod secundum accidens, secundario, quare cum voluntas per  
        <lb ed="#B" n="47"/>se trahitur a concupiscentia non ratio: quia ipsa vt scientialis est nihil appetit: &amp; per huius tractum secundum acci  

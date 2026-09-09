@@ -83,7 +83,7 @@
        nutritio<lb ed="#B" n="2" break="no"/>nis: sensibilia in apprehensionem sensuum &amp; motum secundum locum: intelligentia in operationem secundum 
        intelle<lb ed="#B" n="3" break="no"/>ctum &amp; rationem. Quaecumque autem haec non possunt vt inaimata grauia &amp; leuia: quae in suis locis omnino quiescunt: 
        <lb ed="#B" n="4"/>nec habent omnino in se principium aliquid mouendi se, vel aliquid agendi in seipsis: &amp; cum sunt extra sua loca non 
-       <lb ed="#B" n="5"/>mouentur ex se nisi per accidens. secundum <name ref="#Aristotle">philosophum</name> octauo physicorum. Cum igitur mors sit priuatio vitae: &amp; quid  
+       <lb ed="#B" n="5"/>mouentur ex se nisi per accidens. secundum <name xml:id="n3av8a-c1e1011-Nd1e156" ref="#Aristotle">philosophum</name> octauo physicorum. Cum igitur mors sit priuatio vitae: &amp; quid  
        <lb ed="#B" n="6"/>est causa habitus per suam praesentiam, idem est causa priuationis per suam absentiam: sicut ergo in viuente forma 
        <lb ed="#B" n="7"/>quae anima dicitur: quia ad actum vitae informat per praesentiam vitae actualis existentiae in composito, est principium 
        <lb ed="#B" n="8"/>vitae eius quod est in composito: sic per suam absentiam in ipso est causa mortis ipsius. Sed intelligendum quod 
@@ -131,7 +131,7 @@
         ratio<lb ed="#B" n="50" break="no"/>nem compositi ex anima &amp; corpore: non autem omnino annihilat corporis rationm: sed secundum aliam positio 
        <lb ed="#B" n="51"/>nem ipsum relinquit, vt dictum est. Sed aliter in Christo &amp; in aliis hominibus. Quia enim vt dicitur in de spiritu &amp; 
        <lb ed="#B" n="52"/>anima, viuificatur, regitur, &amp; continetur lutea illa massa humefacta succis ne arefacta dissoluatur. Et vt 
-       <lb ed="#B" n="53"/>dicit <name ref="#Aristotle">philosophus</name> in fine primi de anima. corpus non continet animam: sed econverso magis anima continet 
+       <lb ed="#B" n="53"/>dicit <name xml:id="n3av8a-c1e1011-Nd1e263" ref="#Aristotle">philosophus</name> in fine primi de anima. corpus non continet animam: sed econverso magis anima continet 
        <lb ed="#B" n="54"/>corpus. Egrediente enim anima corpus expirat &amp; marcescit. idcirco naturaliter in omnibus aliis hominibus 
        <!--156.xml-->
        <pb ed="#B" n="58-r"/>
@@ -144,7 +144,7 @@
        po<lb ed="#B" n="7" break="no"/>tentia materiae, &amp; postmodum corruptum in eandem potentiam, impossibile est quod agens naturale de eadem potem 
        <lb ed="#B" n="8"/>tia idem numero generet: quia nec eandem actionem numero qua prius generauit: neque idem tempus 
         mensu<lb ed="#B" n="9" break="no"/>rans illam actionem potest attingere. quod necessarium est ad hoc quod per agens naturale idem corruptum 
-       reparare<lb ed="#B" n="10" break="no"/>tur, secundum quod determinat <name ref="#Aristotle">philosophus</name> in quinto physicorum. Si conuenit corruptum iterum fieri vnum numero, erit 
+       reparare<lb ed="#B" n="10" break="no"/>tur, secundum quod determinat <name xml:id="n3av8a-c1e1011-Nd1e294" ref="#Aristotle">philosophus</name> in quinto physicorum. Si conuenit corruptum iterum fieri vnum numero, erit 
        <lb ed="#B" n="11"/>&amp; motus vnus numero. Si non: idem quidem specie vnum. idem autem numero non erit. vbi dicit commentator: Quaestio 
        <lb ed="#B" n="12"/>praedicta fundatur super hoc: scilicet vtrum generatum postquam corrumpitur sit idem in numero cum corrupto. quod si 
        fue<lb ed="#B" n="13" break="no"/>rit positum idem in numero, contingit vt motus qui fuit hodie &amp; qui fuit heri, sint idem numero. Et si po 
@@ -190,8 +190,8 @@
        substan<lb ed="#B" n="50" break="no"/>tiam, videtutur quod non fuit aliquid naturale cogens animam intellectiuam separari a suo corpore. Cum enim eiusdem dis 
        <lb ed="#B" n="51"/>positionis in substantia erat in morte &amp; ante mortem &amp; post mortem, non fuit causa naturalis quare  
        <lb ed="#B" n="52"/>potius tunc separabatur quam prius vel posterius: sed sola voluntas. secundum quod huic videtur concordare illud quod di 
-       <lb ed="#B" n="53"/>citur Ioannis decimo. Ego pono animam meam &amp; iterum sumo eam, nemo tollit eam a me, sed ego pono eam: a me 
-       <lb ed="#B" n="54"/>ipso potestatem habeo ponendi animam meam, &amp; iterum sumendi eam. Vnde <name ref="#Augustine">Augustinus</name> super loannem, per ii. seres ii. Quia nihil re 
+       <lb ed="#B" n="53"/>citur Ioannis decimo. Ego pono animam meam &amp; iterum sumo eam, <quote xml:id="n3av8a-c1e1011-Qd1e394" source="http://scta.info/resource/io10_18@1-22">nemo tollit eam a me, sed ego pono eam: a me
+       <lb ed="#B" n="54"/>ipso potestatem habeo ponendi animam meam, &amp; iterum sumendi eam.</quote> Vnde <name xml:id="n3av8a-c1e1011-Nd1e399" ref="#Augustine">Augustinus</name> super loannem, per ii. seres ii. Quia nihil re
        <!--157.xml-->
        <pb ed="#B" n="58-v"/>
        <lb ed="#B" n="1"/>mansit quod antequam moreretur fieri adhuc oporteret, tanquam ille qui potestatem habebat ponendi animam suam: &amp; 
@@ -205,7 +205,7 @@
         se<lb ed="#B" n="9" break="no"/>mel mori. Sic &amp; Christus eadem necessitate &amp; iure naturae oblatus est. Vt homo semel mortuus 
         necessita<lb ed="#B" n="10" break="no"/>te &amp; iure naturae amplius non moritur: sic &amp; Christus eodem iure semel oblatus non potest amplius mori. Si enim 
        <lb ed="#B" n="11"/>necessitate naturae ex violentia illata a Iudaeis mortuus non fuisset: non fuisset verum quod Iudaei ipsum facto suo 
-       <lb ed="#B" n="12"/>occidissent. Contra illud quod dixit Christus loan ii. Soluite templum hoc: &amp; in tribus diebus excitabo illud. &amp; 
+       <lb ed="#B" n="12"/>occidissent. Contra illud quod dixit Christus loan ii. <quote xml:id="n3av8a-c1e1011-Qd1e433" source="http://scta.info/resource/io2_19@6-14">Soluite templum hoc: &amp; in tribus diebus excitabo illud.</quote> &amp;
         se<lb ed="#B" n="13" break="no"/>quitur. llle autem dicebat de templo corporis sui. vnde super illud Soluite. glos. Non imperat. sed quasi diceret 
        sol<lb ed="#B" n="14" break="no"/>uetis. haec autem erat solutio dicta separationis animae a corpore. Vere ergo &amp; naturaliter Christus mortuus 
        <lb ed="#B" n="15"/>fuit ex violentia passionis illata a Iudaeis. Nec est contrarium illud quid dicitur loannis decimo. Ego pono animam 
@@ -223,7 +223,7 @@
        <lb ed="#B" n="27"/>diuina non faciente sed permittente: &amp; impedire potente si voluisset: non voluntate humana nisi solum voluntati diui 
        <lb ed="#B" n="28"/>nae se conformante. Voluntas enim humana, voluntate diuina permittente impedire non potuit: nec ipsa seipsam sola 
        <lb ed="#B" n="29"/>voluntate potuit auferre. secundum quod dicitur in libro de spirit &amp; anima. Aima praesentia sua corpus viuificat: &amp; sic 
-        colli<lb ed="#B" n="30" break="no"/>gata est ei vt nec cum velit se inde segregare possit: nec retinere cum iussionem creatoris audierit. Vnde <name ref="#Augustine">Augustinus</name> 
+        colli<lb ed="#B" n="30" break="no"/>gata est ei vt nec cum velit se inde segregare possit: nec retinere cum iussionem creatoris audierit. Vnde <name xml:id="n3av8a-c1e1011-Nd1e475" ref="#Augustine">Augustinus</name> 
        <lb ed="#B" n="31"/>super Ioannem per is. er. viii. Ego illam pono, non glorientur Iudaei. saeuire poterunt potestatem habere non po 
        <lb ed="#B" n="32"/>terunt. saeuiant quantum poterunt: si ego volo ponere animam meam, quid saeuiendo facturi sunt: Non 
         glorien<lb ed="#B" n="33" break="no"/>tur Iudaei quasi praeualuerit: ipse posuit animam suam. Quis ponit animam &amp; iterum sumit: Christus ex eo quod 
@@ -234,11 +234,11 @@
        SED 
        <lb ed="#B" n="36"/>quomodo Christus naturaliter mortuus fuit cum de substantia sua per corrumpens naturale nihil interiit:  
        <lb ed="#B" n="37"/>Et dicendum est quod intellectiua anima: vt dictum est, se habet ad corpus ut actus &amp; perfectio. &amp; actus actiuorum 
-       secun<lb ed="#B" n="38" break="no"/>dum <name ref="#Aristotle">philosophum</name> sunt in patiente disposito. Quod igitur anima corpori infunditur: &amp; viuificando ipsum quiescit 
+       secun<lb ed="#B" n="38" break="no"/>dum <name xml:id="n3av8a-c1e1011-Nd1e498" ref="#Aristotle">philosophum</name> sunt in patiente disposito. Quod igitur anima corpori infunditur: &amp; viuificando ipsum quiescit 
        <lb ed="#B" n="39"/>in eo: hoc est per dispositiones sibi congruentes quae sunt in ipso. Non dico solum per substantiales qualis est 
        <lb ed="#B" n="40"/>caro ipsa ad animam intellectiuam suscipiendam: quae non est quaelibet: sed caro propria ei, alia species naturalis 
-       <lb ed="#B" n="41"/>formae a qualibet alia carne. Secundum enim quod dicit Apostolus. i. Corint. xiiii. Non omnis caro eadem caro: sed alia caro 
-       <lb ed="#B" n="42"/>hominium, alia pecorum, alia volucrum, alia autem piscium. vbi dicit glos. Cum sint cuncta mortalia, differunt tamen 
+       <lb ed="#B" n="41"/>formae a qualibet alia carne. Secundum enim quod dicit Apostolus. i. Corint. xiiii. <quote xml:id="n3av8a-c1e1011-Qd1e508" source="http://scta.info/resource/Icor15_39@1-16">Non omnis caro eadem caro: sed alia caro
+       <lb ed="#B" n="42"/>hominium, alia pecorum, alia volucrum, alia autem piscium.</quote> vbi dicit glos. Cum sint cuncta mortalia, differunt tamen 
        <lb ed="#B" n="43"/>inter se pro diuersitate animantium. &amp; vt dicitur in primo de anima, vnumquodque videtur habere propriam formam &amp; 
        <lb ed="#B" n="44"/>speciem. vbi dicit commentator, quod membra cerui non differunt a membris leonis: nisi quia anima differt ab anima. Sed  
        <lb ed="#B" n="45"/>etiam quod anima vnitur corpori, hoc sit per dispositiones conuenientes sibi &amp; proportionales accidentales: quas 
@@ -248,7 +248,7 @@
        <lb ed="#B" n="49"/>disponere aut alterare ad aliquam formam substantialem quam non potest educere per naturam de potentia materiae, 
        <lb ed="#B" n="50"/>vt dictum fuit in alio Quolibet: immo habita vltima forma quam potest educere, cessat eius actio, nec 
         dis<lb ed="#B" n="51" break="no"/>ponit ad vlterius: tum quia si esset aliqua dispositio praecedens, anima non immediate vniretur corpori, sed mediantibus 
-       <lb ed="#B" n="52"/>illis dispositionibus. quid falsum est secundum <name ref="#Aristotle">philosophum</name> in fine octaui Metaphysicae. Sed quod anima vnitur corpori, hoc est quia  
+       <lb ed="#B" n="52"/>illis dispositionibus. quid falsum est secundum <name xml:id="n3av8a-c1e1011-Nd1e535" ref="#Aristotle">philosophum</name> in fine octaui Metaphysicae. Sed quod anima vnitur corpori, hoc est quia  
        <lb ed="#B" n="53"/>inuenit corpus tale quod possit in eo causare dispositiones proportionales sibi &amp; conuenientes, sine quibus nec vniri 
        <lb ed="#B" n="54"/>pont corpori: nec in ipso ad ipsum viuificandum quiescere. Et sic quod anima vnitur corpori, hoc est per dispositiones quas 
        <!--158.xml-->
@@ -298,7 +298,7 @@
        <lb ed="#B" n="40"/>vitam sentiendi in organis: &amp; vitam intelligendi absque organo: sed non sine organi adminiculo: licet prius 
        exer<lb ed="#B" n="41" break="no"/>cet opera vegetandi: per quae ostendit vitam vegetalem, quam opera sentiendi: per quae ostendit vitam esse ibi sensibilem: 
        <lb ed="#B" n="42"/>et tandem deinde exercet opera intelligendi: per quae ostendit ibi esse vitam intellectualem: quae simul habent esse 
-       tem<lb ed="#B" n="43" break="no"/>pore licet non operationum manifestatione. Et hoc attendens dixit <name ref="#Aristotle">philosophus</name> quod foetus in vtero prius viuit 
+       tem<lb ed="#B" n="43" break="no"/>pore licet non operationum manifestatione. Et hoc attendens dixit <name xml:id="n3av8a-c1e1011-Nd1e643" ref="#Aristotle">philosophus</name> quod foetus in vtero prius viuit 
        vi<lb ed="#B" n="44" break="no"/>ta plantae quam animalis. Non enim sequitur quod non est principium vitae si non sunt opera vitae. Catulus enim ante nonum  
        <lb ed="#B" n="45"/>diem habet perfecte sensitiuam animam: quae est principium vitae sensitiuae quo ad omnes sensus: &amp; tamen ante 
        <lb ed="#B" n="46"/>nonum diem non potest exercere videndi actum. Et per hunc modum anima humana est actus corporis 
@@ -317,7 +317,7 @@
        <pb ed="#B" n="59-v"/>
        <lb ed="#B" n="1"/>videmus. &amp; constat quod illud non est nisi motum &amp; incrementum in transmutatione praecedente in semine eorum  
        <lb ed="#B" n="2"/>generationem quae praecedit animam &amp; formam geniti: &amp; est a virtute generantis existentis in semine, qua 
-        ge<lb ed="#B" n="3" break="no"/>nerans generat &amp; assimilat sibi genitum. secundum quod dicit <name ref="#Aristotle">philosophus</name> in septimo Metaphysicae. Semen 
+        ge<lb ed="#B" n="3" break="no"/>nerans generat &amp; assimilat sibi genitum. secundum quod dicit <name xml:id="n3av8a-c1e1011-Nd1e683" ref="#Aristotle">philosophus</name> in septimo Metaphysicae. Semen 
         fa<lb ed="#B" n="4" break="no"/>cit sicut illa quae sunt ex artificio: quoniam in illo est forma in potentia: &amp; illud ex quo est semen: conveniens est 
        <lb ed="#B" n="5"/>in nomine. vbi dicit commentator, ld est semen generat per potentiam: quae est in eo, similem artificio: &amp; forma 
        ge<lb ed="#B" n="6" break="no"/>nerati in semine est in potentia: quemadmodum forma artificii est in potentia in artifice: &amp; illud ex quo est 
@@ -326,7 +326,7 @@
        cor<lb ed="#B" n="9" break="no"/>pora caelestia sunt illa quae dant istis aliquid loco seminis &amp; virtutum quae sunt in seminibus: &amp; quod omnia ista 
        <lb ed="#B" n="10"/>sunt virtutes naturales diuinae generantes sibi similia secundum quod artes sua generant artificiata. Et istae 
        virtu<lb ed="#B" n="11" break="no"/>tes assimilantur intellectui in eo quod agunt non per instrumentum corporale: &amp; agunt per instrumenta terminata 
-       <lb ed="#B" n="12"/>&amp; membra, propria. Et ideo dubitat <name>Galenus</name> vtrum ista virtus sit creator an non: sed vniuersaliter non agit 
+       <lb ed="#B" n="12"/>&amp; membra, propria. Et ideo dubitat <name xml:id="n3av8a-c1e1011-Nd1e706">Galenus</name> vtrum ista virtus sit creator an non: sed vniuersaliter non agit 
        <lb ed="#B" n="13"/>nisi per calorem qui est in semine: non ita quod sit forma, sicut anima in corpore naturali: sed quod sit inclusa 
        si<lb ed="#B" n="14" break="no"/>cut anima in corpore caelesti. Formationem vero corporis humani in vtero tali virtute ex semine, 
        expri<lb ed="#B" n="15" break="no"/>mit Beda exponens illud loan. xi. Quadraginta sex annis aedificatum est templum. dicens. Conceptum semen 
@@ -382,7 +382,7 @@
        <lb ed="#B" n="6"/>a quo separatur: cum tempore separationis omnino habet dispositiones contrarias permanentiae animae in corpore, vt 
        <lb ed="#B" n="7"/>dictum est: hoc modo mors Christi sicut cuiuslibet alterius morientis, &amp; corruptio cuiuslibet quod corrumpitur 
        <lb ed="#B" n="8"/>est naturalis: quantacumque violentia praecedat inducens illas dispositiones: sicut &amp; naturalis erat eius 
-        genera<lb ed="#B" n="9" break="no"/>tio. Vnde dicit <name ref="#Aristotle">philosophus</name> in quito physicorum. In generatione &amp; corruptione eadem ratio est. Neque enim ge 
+        genera<lb ed="#B" n="9" break="no"/>tio. Vnde dicit <name xml:id="n3av8a-c1e1011-Nd1e825" ref="#Aristotle">philosophus</name> in quito physicorum. In generatione &amp; corruptione eadem ratio est. Neque enim ge 
        <lb ed="#B" n="10"/>ueratio quidem secundum naturam, corruptio autem extra naturam est. Senescere enim secundum naturam est: quod vt 
        <lb ed="#B" n="11"/>dicit commentator, via est ad corruptionem. Sl autem loquamur de morte Christi ex parte corporis, quod 
        mor<lb ed="#B" n="12" break="no"/>tem &amp; separationem animae sustinuit: cum subiectum illud in corpore Christi fuit compositum ex materia &amp; forma 
@@ -401,13 +401,13 @@
         Chri<lb ed="#B" n="22" break="no"/>sti erat voluntaria voluntate deitatis actionem Iudaeorum impedire potentis &amp; non impedientis: sed passioni 
        <lb ed="#B" n="23"/>propter humani generis redemptionem consentientis: &amp; etiam voluntate propria, non naturali, qua voluit non 
        <lb ed="#B" n="24"/>mori: sed deliberatiua, qua voluntatem suam diuinae voluntati conformauit. Vnde &amp; hoc modo de 
-       potesta<lb ed="#B" n="25" break="no"/>te voluntatis humanae, vno modo <name ref="#Augustine">Augustinus</name> exponit per id est super illud loan. x. Potestatem habeo ponendi 
+       potesta<lb ed="#B" n="25" break="no"/>te voluntatis humanae, vno modo <name xml:id="n3av8a-c1e1011-Nd1e866" ref="#Augustine">Augustinus</name> exponit per id est super illud loan. x. Potestatem habeo ponendi 
        <lb ed="#B" n="26"/>animam meam. Quia si hoc posset facere purus homo, non diceret Ioannes: sicut Christus pro nobis animam 
        <lb ed="#B" n="27"/>suam posuit, sic &amp; nos pro fratribus debemus animas ponere, hoc autem est ponere animam quod mori, sicut di 
        <lb ed="#B" n="28"/>cit. Si autem loquamur de agente motum mortis Christi: iterum distinguendum: quia erat agens duplex: 
        <lb ed="#B" n="29"/>agens extra &amp; separatum, &amp; agens intra &amp; coniunctum. Agens primum erant vulnera mortifera, &amp; 
        inferen<lb ed="#B" n="30" break="no"/>tes violentiam clauorum. respectu quorum mors Christi erat vere violenta: distincta contra mortem 
-        natura<lb ed="#B" n="31" break="no"/>lem aliorum qui moriuntur ex senio, ex actione agentis interioris solummodo. Secundum quod <name ref="#Aristotle">philosophus</name> in  
+        natura<lb ed="#B" n="31" break="no"/>lem aliorum qui moriuntur ex senio, ex actione agentis interioris solummodo. Secundum quod <name xml:id="n3av8a-c1e1011-Nd1e882" ref="#Aristotle">philosophus</name> in  
        <lb ed="#B" n="32"/>quinto physicorum distinguit duplicem corruptionem: vnam violentam &amp; extra naturam: quam appellat tristem: 
        <lb ed="#B" n="33"/>alteram secundum naturam, quam appellat dulcem, quia vt dicit commentator:, ipsa est minoris contristationis. quoniam  
        <lb ed="#B" n="34"/>omnis corruptio est contristabilis: sed violenta est magis contristabilis. Agens vero intra coniunctum erat 
@@ -420,7 +420,7 @@
        <lb ed="#B" n="41"/>naturalem reduci debet. Duo tamen in morte illa contigerunt: propter quae videtur voluntaria omnino fuisse. 
        <lb ed="#B" n="42"/>Vnum, quia valide clamans expirauit. Matthaei. xxvii. Quod non videtur posse facere naturali 
         de<lb ed="#B" n="43" break="no"/>liberatione accedens ad mortem. Aliud, quia citius mortuus fuit, quam illa violentia ei facta, videbatur pos 
-       <lb ed="#B" n="44"/>se mortem inducere. secundum quod dicit <name ref="#Augustine">Augustinus</name> iiii. capitulo. xiiii. de trinitate. Longa morte 
+       <lb ed="#B" n="44"/>se mortem inducere. secundum quod dicit <name xml:id="n3av8a-c1e1011-Nd1e913" ref="#Augustine">Augustinus</name> iiii. capitulo. xiiii. de trinitate. Longa morte 
        cruciaban<lb ed="#B" n="45" break="no"/>tur in ligno suspensi. Vnde latronibus vt morerentur: &amp; de ligno ante sabbatum ponerentur, crura 
        con<lb ed="#B" n="46" break="no"/>fracta sunt. loam. decimonono. Ille autem quia mortuus inuentus est, miraculo fuit. Hoc etiam legimus 
        <lb ed="#B" n="47"/>Marci. xv. Pilatum miratum fuisse cum ab ipso sepeliendum domini corpus peteretur. Sed hoc 
@@ -429,7 +429,7 @@
       <p xml:id="n3av8a-c1e1011-d1e925">
        Ad primum autem est responsio: quia 
        <lb ed="#B" n="49"/>clamorem illum emisit virtute sua diuina confortatus super statum naturae: in signum quod potestate 
-       <lb ed="#B" n="50"/>sua tradidit spiritum. dicente <name ref="#Augustine">Augustino</name> ibidem. Non carnem deseruit inuitus, sed quia voluit, 
+       <lb ed="#B" n="50"/>sua tradidit spiritum. dicente <name xml:id="n3av8a-c1e1011-Nd1e933" ref="#Augustine">Augustino</name> ibidem. Non carnem deseruit inuitus, sed quia voluit, 
        quan<lb ed="#B" n="51" break="no"/>do voluit, quomodo voluit. Quippe dei verbo ad vnitatem commixtus est homo. hinc ait. Potestatem 
        <lb ed="#B" n="52"/>habeo &amp;c. Ioan. x. &amp; hic maxime mirati sunt: sicut euangelium loquitur Lucae. xxiii. qui praesentes erant 
        <lb ed="#B" n="53"/>cum post illam vocem continuo tradidit spiritum. 

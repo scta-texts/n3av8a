@@ -111,13 +111,13 @@
        <lb ed="#B" n="30"/>quo quasi non recedendo a Christo, implicite negat Christum. Vt enim dicit Leo papa in sermo. vi. de 
         Epi<lb ed="#B" n="31" break="no"/>phania, aduersarius qui in apartis persecutionibus inefficax fuit, tecta nocendi arte desaeuit. Sed quia prior 
        <lb ed="#B" n="32"/>tempestas turbinum conqueuit: &amp; quaedam videtur arridere tranquillitas: vigilanter cauenda sunt illa 
-        discri<lb ed="#B" n="33" break="no"/>mina quae de otio ipsius pacis oriuntur. &amp; hoc nostris temporibus. dicente <name ref="#Augustine">Augustinus</name> in originali super psal. 
+        discri<lb ed="#B" n="33" break="no"/>mina quae de otio ipsius pacis oriuntur. &amp; hoc nostris temporibus. dicente <name xml:id="n3av8a-c1e3695-Nd1e225" ref="#Augustine">Augustinus</name> in originali super psal. 
        <lb ed="#B" n="34"/>xxxix. in principio. Sparsus est sanguis iustus: consequens est tempus simulationis. Hostis ille tunc leo fuit 
        <lb ed="#B" n="35"/>cum apate saeuiebat: modo draco est cum occulte insidiatur: &amp; magis metuendus est cum sallit: quam cum saeuit. Illo 
        <lb ed="#B" n="36"/>tempore cogebat christianos negare Christum: isto autem tempore docet christianos negare Christum. 
        Vi<lb ed="#B" n="37" break="no"/>debatur tunc fremens: lubricus nunc. Difficile videtur docens negare Christum quasi non videatur recedere a 
         Chri<lb ed="#B" n="38" break="no"/>sto. Reuera post tempora martyrum nulli dictum est nega Christum: sed dictum est ab aliquibus, dic 
-        Chri<lb ed="#B" n="39" break="no"/>stum non esse nisi verbum &amp; carnem praeter animam omnino, vel praeter intelligentiam. dicente <name ref="#Augustine">Augustinus</name> super psal. xxix 
+        Chri<lb ed="#B" n="39" break="no"/>stum non esse nisi verbum &amp; carnem praeter animam omnino, vel praeter intelligentiam. dicente <name xml:id="n3av8a-c1e3695-Nd1e241" ref="#Augustine">Augustinus</name> super psal. xxix 
        <lb ed="#B" n="40"/>Apollinaristae dixerunt hominem quem suscepit sapientia dei non habuisse mentem humanam: sed tantum animam sine 
        <lb ed="#B" n="41"/>intelligentia humana: sed ipsum verbum dei erat in illo homine pro mente. Exclusi sunt isti. Non de 
        <lb ed="#B" n="42"/>fuerunt alii qui dicerent illum hominem non habuisse nec animam: sed tantum dixerunt verbum &amp; caro erat: &amp; anima  
@@ -192,7 +192,7 @@
        <!--773.xml-->
        <pb ed="#B" n="366-v"/>
         <lb ed="#B" n="1"/>eo quod ponunt animam rationalem cum illa esse actum &amp; formam corporis: sicut ei attribuerunt has vires 
-       <lb ed="#B" n="2"/>non sequentes <name ref="#Aristotle">philosophum</name> Aristotelem: eo quod ipse non posuit animam rationalem cum illa forma 
+       <lb ed="#B" n="2"/>non sequentes <name xml:id="n3av8a-c1e3695-Nd1e407" ref="#Aristotle">philosophum</name> Aristotelem: eo quod ipse non posuit animam rationalem cum illa forma 
         corporei<lb ed="#B" n="3" break="no"/>tatis esse actum &amp; formam corporis: sed posuit separatam secundum rationem actus: &amp; solum coniunctam 
        <lb ed="#B" n="4"/>nobis per nostrum phantasticum secundum rationem motoris: secundum quod exponit ipsum Commen. super 
        <lb ed="#B" n="5"/>iii. de anima. Ex eo enim quod theologi posuerunt quod anima rationalis esset actus corporis: &amp; quod singulorum  
@@ -242,7 +242,7 @@
        <lb ed="#B" n="49"/>nouellae oliuarum. dicit Amb. Generauit te pater conmunicando carnem suam, creauit te deus adhibendo  
        <lb ed="#B" n="50"/>potentiam suam. Aliter enim non esset propagatio: nec parentes aliquid agerent in propagatione, vnde 
        <lb ed="#B" n="51"/>vere parentes dici possent: nec Maria vera mater Christi posset dici, si non vere secundum carnis 
-       sub<lb ed="#B" n="52" break="no"/>stantiam eum procreasset. Hinc <name ref="#Augustine">Augustinus</name> super lonnem. parid is. sere. viii. contra quosdam qui Matiam vera 
+       sub<lb ed="#B" n="52" break="no"/>stantiam eum procreasset. Hinc <name xml:id="n3av8a-c1e3695-Nd1e518" ref="#Augustine">Augustinus</name> super lonnem. parid is. sere. viii. contra quosdam qui Matiam vera 
         ma<lb ed="#B" n="53" break="no"/>trem Christi esse negabant: dicit. Mater erat carnis: mater humanitatis. Vnde Damais. libro iii. capitulo v. 
        lo<lb ed="#B" n="54" break="no"/>quens de Christo dicit. Confinxit sibi ex castis &amp; purissimis sanguinibus carnem puram. &amp; cap. xii. 
        <!--774.xml-->
@@ -252,15 +252,15 @@
         vir<lb ed="#B" n="3" break="no"/>gine corpus. De quo generalius loquens Boetius dicit de duabus naturis. cap. vi. Post primum 
        homi<lb ed="#B" n="4" break="no"/>nem caro omnis humana ex humana carne deducitur. Vnde differentem modum productionis 
        ho<lb ed="#B" n="5" break="no"/>minis primi secundum corpus &amp; secundum animam explicat scriptura: cum dicit Gen. i. Formauit 
-       homi<lb ed="#B" n="6" break="no"/>nem de limo terrae, hoc quo ad corpus. Et inspirauit in faciem eius spiraculum vitae, hoc quo ad 
+       <quote xml:id="n3av8a-c1e3695-Qd1e541" source="http://scta.info/resource/gen2_7@5-8">homi<lb ed="#B" n="6" break="no"/>nem de limo terrae,</quote> hoc quo ad corpus. <quote xml:id="n3av8a-c1e3695-Qd1e546" source="http://scta.info/resource/gen2_7@10-15">Et inspirauit in faciem eius spiraculum vitae,</quote> hoc quo ad
        ani<lb ed="#B" n="7" break="no"/>mam. Quod exponens Ambrosur. super illud Beati immaculati. Manus tuae domine fecerunt me &amp; 
         plasma<lb ed="#B" n="8" break="no"/>uerunt me. dicit. Hic ergo homo geminae substantiae est. Alia enim est facta substantia: alia figurata 
        <lb ed="#B" n="9"/>Et vt dicit Augustinus. vi. libro super Gen. ad literam. visibiliter in corpore, inuisibiliter in anima: 
        <lb ed="#B" n="10"/>constans ex anima &amp; corpore. Vnde &amp; Eze. propheta. xxxvii. capuia loquens de corporum reparatione in  
-       <lb ed="#B" n="11"/>gloriosa resurrectione, vt dicit Glos. dicit. Accesserunt ossa ad ossa vnumquodque ad iuncturam suam: &amp; 
-       <lb ed="#B" n="12"/>ecce super ea carnes &amp; nerui ascenderunt: &amp; extensa est in eis cutis desuper: &amp; spiritum non habebant.  
-       <lb ed="#B" n="13"/>Glos. lacebant tantum humana corpora non habentia spiritum. Et super illud quod sequitur. Et ingressus 
-       <lb ed="#B" n="14"/>est in ea spiritus, &amp; vixerunt. Glos. Vt quomodo in prima productione hominis sufflauit deus in faciem 
+       <lb ed="#B" n="11"/>gloriosa resurrectione, vt dicit Glos. dicit. <quote xml:id="n3av8a-c1e3695-Qd1e560" source="http://scta.info/resource/ez37_7@16-23">Accesserunt ossa ad ossa vnumquodque ad iuncturam suam:</quote> &amp;
+       <lb ed="#B" n="12"/><quote xml:id="n3av8a-c1e3695-Qd1e564" source="http://scta.info/resource/ez37_8@3-21">ecce super ea carnes &amp; nerui ascenderunt: &amp; extensa est in eis cutis desuper: &amp; spiritum non habebant.</quote>
+       <lb ed="#B" n="13"/>Glos. lacebant tantum humana corpora non habentia spiritum. Et super illud quod sequitur. <quote xml:id="n3av8a-c1e3695-Qd1e570" source="http://scta.info/resource/ez37_10@6-13">Et ingressus
+       <lb ed="#B" n="14"/>est in ea spiritus, &amp; vixerunt.</quote> Glos. Vt quomodo in prima productione hominis sufflauit deus in faciem 
        <lb ed="#B" n="15"/>eius, &amp; factus est homo in animam viuentem: sic &amp; secunda conditio. i. resurrectio mortuorum 
         insufflan<lb ed="#B" n="16" break="no"/>te spiritu viuificetur. Exercitus grandis. i. congregatio mortuorum. Ecce quod in primi hominis 
        crea<lb ed="#B" n="17" break="no"/>tione: &amp; in vltima omnium reparatione describat scriptura aliam corporum formationem quam per 
@@ -270,7 +270,7 @@
        <lb ed="#B" n="21"/>quid seorsum ab anima nisi ratione materiae: sed quod corpus sit aliquid ratione eius quid est forma qua  
        <lb ed="#B" n="22"/>est corpus. &amp; hoc non est nisi ab anima. Per hunc enim modum asinus potest dici esse compositus ex 
        <lb ed="#B" n="23"/>anima &amp; corpore: quia etiam de anima bruti dicitur in secundo de anima: quod ipsa est actus corporis. 
-        Com<lb ed="#B" n="24" break="no"/>stat autem quod ipsum est compositum ex actum &amp; eo cuius est actus. Quod videtur sensisse <name ref="#Augustine">Augustinus</name>  
+        Com<lb ed="#B" n="24" break="no"/>stat autem quod ipsum est compositum ex actum &amp; eo cuius est actus. Quod videtur sensisse <name xml:id="n3av8a-c1e3695-Nd1e597" ref="#Augustine">Augustinus</name>  
        <lb ed="#B" n="25"/>etiam de anima rationali: vbi dicit in fine de immortalitate animae. Anima non localiter iungitur sum 
        <lb ed="#B" n="26"/>mis illis aeternis rationibus prior quam corpus: quanto etiam corpore melior, nam ista propinquitas non 
        <lb ed="#B" n="27"/>loco sed naturae ordine dicta sit. Hoc autem ordine intelligitur a summa essentia species corpori per  
@@ -286,7 +286,7 @@
        mun<lb ed="#B" n="37" break="no"/>dus, siue particulariter vt vnumquodque animal intra mundum. Hoc totum prorsus temere dictum est. 
        <lb ed="#B" n="38"/>Quia si sic: ergo contrarium discrete dictum est: corpori speciem non per animam tribui qua est inquantum  
        <lb ed="#B" n="39"/>est: et quod non per animam subsistit inquantuncumque corpus: &amp; quod non eo est inquantum corpus quo animatur: &amp; 
-       caete<lb ed="#B" n="40" break="no"/>ra huiusmodi. Et hoc intellexit <name ref="#Augustine">Augustinus</name> procul dubio retractando hoc generaliter tam de anima mundi quam po 
+       caete<lb ed="#B" n="40" break="no"/>ra huiusmodi. Et hoc intellexit <name xml:id="n3av8a-c1e3695-Nd1e634" ref="#Augustine">Augustinus</name> procul dubio retractando hoc generaliter tam de anima mundi quam po 
        <lb ed="#B" n="41"/>suit Plato, quam de anima hominis. sed de anima hominis solummodo quo ad hoc quod dicit eam corpori 
        <lb ed="#B" n="42"/>dare esse corporeum. De anima vero mundi quo ad hoc idem: &amp; quo ad hoc quod videtur asserere quod mundus 
        <lb ed="#B" n="43"/>habet animam: sed hoc non quia sentiret hoc esse falsum. Sed quia non certitudinaliter nouit hoc esse verum 
@@ -304,12 +304,12 @@
        <!--775.xml-->
        <pb ed="#B" n="367-v"/>
         <lb ed="#B" n="1"/>nequaquam possunt: quia expresse Iy hoc praecise demonstrat id quod notauit temere dictum, quo ad illam 
-        clau<lb ed="#B" n="2" break="no"/>sulam Siue vniuersaliter vt mundus: vt patet aspicienti. Nec potest aliquis dicere quod <name ref="#Augustine">Augustinus</name> 
+        clau<lb ed="#B" n="2" break="no"/>sulam Siue vniuersaliter vt mundus: vt patet aspicienti. Nec potest aliquis dicere quod <name xml:id="n3av8a-c1e3695-Nd1e677" ref="#Augustine">Augustinus</name> 
        in<lb ed="#B" n="3" break="no"/>telligit animam dare speciem corpori, de dare speciem quemadmodum Auicenna posuit intelligentias dare for 
        <lb ed="#B" n="4"/>mas: quia vt patet inspicienti, intendit probare quod anima non potest conuerti in corpus, proprium: de quo magis 
        vi<lb ed="#B" n="5" break="no"/>deretur: per home. scilicet medium quod dat ei formam seipsa: quae nullo modo per corpus potest ei adimi, ex quo  
        <lb ed="#B" n="6"/>dat eam illi. Vnde etiam expresse dicit. Quo corpus est, est ipsa anima qua animatur, quod non est nisi 
-       dan<lb ed="#B" n="7" break="no"/>do formam quae ipsa est: vt secundum mentem <name ref="#Augustine">Augustinus</name> idem sit hic animam dare formam corpori &amp; ipsam seipsa 
+       dan<lb ed="#B" n="7" break="no"/>do formam quae ipsa est: vt secundum mentem <name xml:id="n3av8a-c1e3695-Nd1e691" ref="#Augustine">Augustinus</name> idem sit hic animam dare formam corpori &amp; ipsam seipsa 
        <lb ed="#B" n="8"/>esse formam corpori. Aliter enim esset aliqua alia forma media inter animam &amp; corpus: qua ipsum 
         cor<lb ed="#B" n="9" break="no"/>pus informaretur actione animae sumentis illam, &amp; imprimentis eam corpori. quod expresse negat subdens 
        <lb ed="#B" n="10"/>post verba praeposita. Nec inuenitur aliquid inter summam vitam quae substantia &amp; veritas est 
@@ -318,7 +318,7 @@
        <lb ed="#B" n="13"/>autem anima in corpus transmutando. Non igitur anima siue per seipsam corpus fit: quia non nisi manente 
        <lb ed="#B" n="14"/>anima corpus per eam sit: siue per aliam: quia non nisi traditione speciei sit corpus per animam: &amp; adeptione  
        <lb ed="#B" n="15"/>speciei anima in corpus conuerteretur, quod nullo modo sequitur nisi anima corpus informare seipsa 
-       <lb ed="#B" n="16"/>intelligatur. Quod reuera tamquam temerarie dictum retractauit vt dictum est. Quia vero <name ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="16"/>intelligatur. Quod reuera tamquam temerarie dictum retractauit vt dictum est. Quia vero <name xml:id="n3av8a-c1e3695-Nd1e713" ref="#Augustine">Augustinus</name> 
         interpo<lb ed="#B" n="17" break="no"/>nit. Siue velite vt mundus: siue particulariter vt vnumquidque animal intra mundum: volunt aliqui concludere quod esset 
        con<lb ed="#B" n="18" break="no"/>tra Augustinum. bruta habere formas quibus sunt corpora a suis animabus. Sed manifestum est quod ibi non loquitur nisi 
        <lb ed="#B" n="19"/>de anima rationali. Vnde animal non potest ibi supponere nisi pro animali rationali. Nullo enim modo est intentio sua de probando  
@@ -328,7 +328,7 @@
        <lb ed="#B" n="23"/>patent inspicienti progressum libri. Vnde &amp; adiungit probationem ex abundanti, quod nec animarationalis 
        <lb ed="#B" n="24"/>possit conuerti in animam irrationalem: cum dicit. Hoc de irrationali anima &amp;c. Quare cum non possit esse 
        cor<lb ed="#B" n="25" break="no"/>poreum quod ponit hominem in specie substantiae subalterna, nisi ab aliqua forma: relinquitur ergo de 
-        men<lb ed="#B" n="26" break="no"/>te <name ref="#Augustine">Augustinus</name> fuisse: in homine esse aliam formam praeter animam rationalem: quae dat esse corpori secundum quod est 
+        men<lb ed="#B" n="26" break="no"/>te <name xml:id="n3av8a-c1e3695-Nd1e738" ref="#Augustine">Augustinus</name> fuisse: in homine esse aliam formam praeter animam rationalem: quae dat esse corpori secundum quod est 
        <lb ed="#B" n="27"/>corpus simpliciter: quid ab anima sumit esse viui animati. dicente eodem Augustinusm de verbis Apostoli 
        <lb ed="#B" n="28"/>ser. xvi. Si dominus noster lesus Christus tantummodo animam humanam susciperet, membra eius non essent 
        <lb ed="#B" n="29"/>nisi animae nostrae: quia vero &amp; corpus suscepit, profecto illius membra sunt &amp; corpora nostra. Et infra. 
@@ -441,11 +441,11 @@
        <lb ed="#B" n="24"/>homo non dicitur vnum nisi quia sua forma vltima est vna. Propter quod non est proprie dicendum quod homo est 
        <lb ed="#B" n="25"/>corpus &amp; anima: nec quod est anima vtens corpore: sed quod est vere compositum naturale ex corpore &amp; anima: vt ex 
        <lb ed="#B" n="26"/>materia &amp; forma. quae licet non dat esse corporis secundum quod est corpus simpliciter: dat tamen esse 
-       <lb ed="#B" n="27"/>corporis secundum quod est organicum: vt patet ex determinatis. Vnde <name ref="#Augustine">Augustinus</name> quando dixit in libro de 
+       <lb ed="#B" n="27"/>corporis secundum quod est organicum: vt patet ex determinatis. Vnde <name xml:id="n3av8a-c1e3695-Nd1e986" ref="#Augustine">Augustinus</name> quando dixit in libro de 
        immor<lb ed="#B" n="28" break="no"/>talitate animae, speciem corpori per animam tribui qua est in quantuncumque est: per animam ergo subsistit: &amp; eo 
        <lb ed="#B" n="29"/>ipso est quo animatur, &amp; caetera huiusmodi: procul dubio verum dicit loquendo de corpore sub ratione qua est 
        or<lb ed="#B" n="30" break="no"/>ganicum: quia ipsa anima dat esse organicum: nec ipsum est abiiciens animam, vt dictum est. Falsum autem est loquendo  
-       <lb ed="#B" n="31"/>de corpore sub ratione quaest corpus simpliciter, vt patet ex dictis. Et quia <name ref="#Augustine">Augustinus</name> sup hoc nihil 
+       <lb ed="#B" n="31"/>de corpore sub ratione quaest corpus simpliciter, vt patet ex dictis. Et quia <name xml:id="n3av8a-c1e3695-Nd1e998" ref="#Augustine">Augustinus</name> sup hoc nihil 
        distin<lb ed="#B" n="32" break="no"/>xerat in libro de immortalitate anime: ideo retractando dixit totum illud temere esse dictum: maxime respiciendo  
        <lb ed="#B" n="33"/>ad illud quod dixit, inquantuncumque est. Quo proculdubio implicauit quod anima homini dat speciem &amp; esse corpori 
        <lb ed="#B" n="34"/>secundum quancumque rationem in esse corporis consideratur: quid non est verum vt dictum est propter quod illud bene 
@@ -453,9 +453,9 @@
        <lb ed="#B" n="36"/>secundum quod est corpus simpliciter: sed alia forma quae non est anima educta de potentia materiae, duplex 
         inconue<lb ed="#B" n="37" break="no"/>niens &amp; impossibile sequitur. Vnum: quod tunc corpus simpliciter in homine non possit nutriri aut augeri: quia 
         nu<lb ed="#B" n="38" break="no"/>tritum &amp; augmentatum agit in nutrimentum sua forma: ipsum in se convertendo, in fine faciendo simile quod in 
-       princi<lb ed="#B" n="39" break="no"/>pio est contrarium: secundum <name ref="#Aristotle">philosophum</name> secundo de anima, &amp; primo de generatione. Forma autem dicta puta caro. Vnde 
+       princi<lb ed="#B" n="39" break="no"/>pio est contrarium: secundum <name xml:id="n3av8a-c1e3695-Nd1e1018" ref="#Aristotle">philosophum</name> secundo de anima, &amp; primo de generatione. Forma autem dicta puta caro. Vnde 
        ca<lb ed="#B" n="40" break="no"/>ro cum non est anima: sed mixtum simpliciter: ista nullo modo habet agere actiones nutritionis &amp; augmenti: quia  
-       <lb ed="#B" n="41"/>non sunt actiones formae nisi quae est anima. secundum <name ref="#Aristotle">philosophum</name> secundo de anima. Aliud vero: quod cum omnis forma quae est anima 
+       <lb ed="#B" n="41"/>non sunt actiones formae nisi quae est anima. secundum <name xml:id="n3av8a-c1e3695-Nd1e1026" ref="#Aristotle">philosophum</name> secundo de anima. Aliud vero: quod cum omnis forma quae est anima 
        no<lb ed="#B" n="42" break="no"/>bilior est quam illa quae non est anima: sicut &amp; viuens non viuente: &amp; forma qua brutum est corpus simpliciter &amp; 
        <lb ed="#B" n="43"/>mixtum, est anima si in bruto non sit ponere gradus formarum. Forma vero qua homo est corpus 
         simplici<lb ed="#B" n="44" break="no"/>ter &amp; mixtum: non est anima nec dans vitam. Nobilius ergo mixtum est corpus bruti quam corpus hominis. 
@@ -683,7 +683,7 @@
         ho<lb ed="#B" n="33" break="no"/>minibus. Propter quod in triduo mortis organa &amp; corpus inquantum organicum ex organis 
         consti<lb ed="#B" n="34" break="no"/>tutum aequiuoce erant &amp; in mortuo &amp; viuo: &amp; non erant idem numero nisi secundum materiam 
        <lb ed="#B" n="35"/>&amp; formam mixti solum in Christo &amp; verbi suppositum. Oculus enim quando non potest in 
-        pro<lb ed="#B" n="36" break="no"/>priam operationem: et formam suam quae est vis visiua, amiserit: de qua dicit <name ref="#Aristotle">philosophous</name> secundo  
+        pro<lb ed="#B" n="36" break="no"/>priam operationem: et formam suam quae est vis visiua, amiserit: de qua dicit <name xml:id="n3av8a-c1e3695-Nd1e1512" ref="#Aristotle">philosophous</name> secundo  
        <lb ed="#B" n="37"/>de anima: Si oculus esset animal, visus esset eius anima: etiam in viuo homine oculus aequiuoce est. 
        <lb ed="#B" n="38"/>Quamuis enim sit membrum viuens a substantia animae et vi nutritiua: non tamen est sentiens nec 
        <lb ed="#B" n="39"/>organum sensus. Et sic non est inconueniens idem manere aequiuoce ratione formae amissae: et vni 

@@ -74,8 +74,8 @@
        <pb ed="#B" n="294-v"/>
         <lb ed="#B" n="1"/>ipsa non est perfectionis status, eo quod fine ipsa non est homo dispositus, omnibus impedimentis abiectis, vt 
        <lb ed="#B" n="2"/>ipsam perfectionem sibi acquirat. Propter hoc enim expedit &amp; melius est propria dimittere quam 
-        reti<lb ed="#B" n="3" break="no"/>nere, vt determinatum est supra. Vnde super illud Luc. xiiii. Omnis ex vobis qui non renunciat 
-       omni<lb ed="#B" n="4" break="no"/>bus quae possidet non potest meus esse discipulus. dicit Glossa. Hoc distat inter renunciare omnibus 
+        reti<lb ed="#B" n="3" break="no"/>nere, vt determinatum est supra. Vnde super illud Luc. xiiii. <quote xml:id="n3av8a-c1e3078-Qd1e149" source="http://scta.info/resource/lc14_33@3-16">Omnis ex vobis qui non renunciat
+       omni<lb ed="#B" n="4" break="no"/>bus quae possidet non potest meus esse discipulus.</quote> dicit Glossa. Hoc distat inter renunciare omnibus 
        <lb ed="#B" n="5"/>&amp; relinquare omnia: quia renunciare omnibus conuenit illis qui ita licite vtuntur mundanis quae possident, vt tamen 
        men<lb ed="#B" n="6" break="no"/>te tendant ad aeterna. Relinquere omnia est tantummodo perfectorum: qui omnia temporalia postponunt: &amp; solis 
        aeter<lb ed="#B" n="7" break="no"/>nis inhiant. Perfectorum intellige, hoc est tendentium sine impedimento ad perfectionem: quia iam 
@@ -85,7 +85,7 @@
        <lb ed="#B" n="11"/>dicit Chrysostomus vbi supra. lob diues non pecuniae seruiebat: sicut patrimonii dispensator, ita 
        <lb ed="#B" n="12"/>omnia illa possidebat. Esse vero in statu perfectionis: vel potius ipse status perfectionis potest 
         consi<lb ed="#B" n="13" break="no"/>stere in sola exteriori abdicatione: etsi non sit omnino interior. quia vt dicit quaedam glos. Margi. facii 
-       <lb ed="#B" n="14"/>lius saccus contemnitur quam voluntas. &amp; <name ref="#Augustine">Augustinus</name> super psal. lxxi. Sunt quidam qui facilius omnia sua pau 
+       <lb ed="#B" n="14"/>lius saccus contemnitur quam voluntas. &amp; <name xml:id="n3av8a-c1e3078-Nd1e176" ref="#Augustine">Augustinus</name> super psal. lxxi. Sunt quidam qui facilius omnia sua pau 
        <lb ed="#B" n="15"/>peribus distribuunt quam ipsi pauperes Christi fiant, quia non sunt humiles, sed superbi. Propter quod vt 
        <lb ed="#B" n="16"/>dictum est supra, Pauper in turba quaeritur, &amp; vix inuenitur. &amp; super psal. xlviii. Pauperes &amp; diuites 
        <lb ed="#B" n="17"/>in corde interrogat deus, non in arca. Existens autem in statu perfectionis, postquam propria abdicauerit 
@@ -98,7 +98,7 @@
        <lb ed="#B" n="24"/>oportet, cum exemplo Christi &amp; multorum sanctorum patrum iste spiritualis illi praeponderet: quanto quaesunt 
        <lb ed="#B" n="25"/>animae, corporalibus praeferuntur. Pro labore spirituali potest quis accipere vnde viuat, dupliciter. vel potestate, quia  
        <lb ed="#B" n="26"/>cilicet laborat in ministerio publico populum purgando, illuminando, perficiendo: secundum Dioni. v. cap. 
-        eccle<lb ed="#B" n="27" break="no"/>siasticae hierarchiae. vel mendicitate, vt laborans in obsequio priuato pro populo intercedendo. sm <name ref="#Augustine">Augustinus</name> de 
+        eccle<lb ed="#B" n="27" break="no"/>siasticae hierarchiae. vel mendicitate, vt laborans in obsequio priuato pro populo intercedendo. sm <name xml:id="n3av8a-c1e3078-Nd1e207" ref="#Augustine">Augustinus</name> de 
        <lb ed="#B" n="28"/>opere monachorum. Primo modo accipiunt praelati, secundo religiosi. Qui dupliciter accipiunt, siue pro 
        <lb ed="#B" n="29"/>opere manuali, siue mendicatione pro opere spiritali, de quibus ad praesens non distinguo. Quidam autem  
        <lb ed="#B" n="30"/>accipiunt ad praecisum vsum instantis necessitatis tantum, qui abrenunciant omnibus temporalibus &amp; in 
@@ -164,7 +164,7 @@
        ma<lb ed="#B" n="31" break="no"/>gis perfectam. immo simpliciter perfectam, quantum est de perfectione regulae ex parte contentorum in illa. Quia licet duplex 
        <lb ed="#B" n="32"/>subtractio sollicitudinis facit statum perfectionis vt dictum est: tamen plus efficit ipsum subtractio 
        sollicitudi<lb ed="#B" n="33" break="no"/>nis ex omnimoda abdicatione: quia plus solet animus affici circa iam acquisita &amp; possessa: quam circa 
-        acqui<lb ed="#B" n="34" break="no"/>renda. dicente <name ref="#Augustine">Augustinus</name> in epistola ad Paulinum &amp; Therasiam. Terrena diliguntur acrius adepta quam cupita 
+        acqui<lb ed="#B" n="34" break="no"/>renda. dicente <name xml:id="n3av8a-c1e3078-Nd1e350" ref="#Augustine">Augustinus</name> in epistola ad Paulinum &amp; Therasiam. Terrena diliguntur acrius adepta quam cupita 
        constrin<lb ed="#B" n="35" break="no"/>gunt. Ista enim velut membra praeciduntur: illa velut extranea repudiantur. Propter quid etiam illa sollicitudo 
        <lb ed="#B" n="36"/>quae subtrahitur per rerum abdicationem:caed scilicet erat in custodiendo &amp; possidendo: cadit sub professione vnius 
         vo<lb ed="#B" n="37" break="no"/>ti principalis in regula content scilicet paupertatis. Illa autem quae consistit in necessaria vitae acquirendo &amp; procurando  
@@ -221,12 +221,12 @@
         distin<lb ed="#B" n="29" break="no"/>cta congregatione commorantibus: propria tamen illi congregationi ad praecisum vsum illius deputata. Primo 
        <lb ed="#B" n="30"/>modo non potest homo esse fine possessione communium: nec pro statu moderno: nec pro statu 
        innocen<lb ed="#B" n="31" break="no"/>tiae. sic enim communia homini fuissent ad vsum in statu innocentiae terraenascentia: secundum quod dictum  
-       <lb ed="#B" n="32"/>est Adae &amp; Euae Gen. i. Ecce dedi vobis omnem haerbam afferentem semen super terram, &amp; vniuersa 
-        li<lb ed="#B" n="33" break="no"/>gna quae habent in semetipsis sementem generis sui, vt sint vobis in escam, quae non sunt subtracta 
-       homi<lb ed="#B" n="34" break="no"/>ni in statu peccati: immo adhuc ampliora sunt expresse concessa: secundum quod dictum est Noe &amp; 
-       si<lb ed="#B" n="35" break="no"/>liis suis Gen. ix. Terror vester ac tremor sit supe cuncta animalia terrae, &amp; super omnes volucres caeli cum 
-       <lb ed="#B" n="36"/>vniuersis quae mouentur in terra. Omnes pisces maris manibus vestris traditi sunt: &amp; omne quod mouetur 
-       <lb ed="#B" n="37"/>&amp; viuit erit vobis in cibum, quasi olera virentia tradidi vobis omnia. Propter quid dicit Grego. secundo pastor.  
+       <lb ed="#B" n="32"/>est Adae &amp; Euae Gen. i. <quote xml:id="n3av8a-c1e3078-Qd1e473" source="http://scta.info/resource/gen1_29@3-27">Ecce dedi vobis omnem haerbam afferentem semen super terram, &amp; vniuersa
+        li<lb ed="#B" n="33" break="no"/>gna quae habent in semetipsis sementem generis sui, vt sint vobis in escam,</quote> quae non sunt subtracta
+       homi<lb ed="#B" n="34" break="no"/>ni in statu peccati: immo adhuc ampliora sunt expresse concessa: secundum quod dictum est Noe &amp;
+       si<lb ed="#B" n="35" break="no"/>liis suis Gen. ix. <quote xml:id="n3av8a-c1e3078-Qd1e482" source="http://scta.info/resource/gen9_2@2-28 http://scta.info/resource/gen9_3@1-16">Terror vester ac tremor sit supe cuncta animalia terrae, &amp; super omnes volucres caeli cum
+       <lb ed="#B" n="36"/>vniuersis quae mouentur in terra. Omnes pisces maris manibus vestris traditi sunt: &amp; omne quod mouetur
+       <lb ed="#B" n="37"/>&amp; viuit erit vobis in cibum, quasi olera virentia tradidi vobis omnia.</quote> Propter quid dicit Grego. secundo pastor.  
        <lb ed="#B" n="38"/>De qua sumpti sunt cunctis hominibus terra conmunis est: &amp; idcirco alimenta communia omnibus profert. Et 
        <lb ed="#B" n="39"/>Tullius. i. de offic. Sunt nulla priuata natura. Et hoc igitur modo conmunia nullo modo renuncianda sunt: immo 
        <lb ed="#B" n="40"/>ius accipiendi necessaria de ipsis est omnibus naturale. decretorum dist id est lus naturale. &amp; in tempore 
@@ -284,7 +284,7 @@
        <lb ed="#B" n="33"/>est ex se inquantum sunt habita. Si vero sunt mobilia tantum: dico quod in nullo diminueret de ratione 
         perfectio<lb ed="#B" n="34" break="no"/>nis ipsa reseruare in crastinum: sed potius diminueret ipsa non reseruare sed proiicere. Minori enim 
        <lb ed="#B" n="35"/>sollicitudine iam acquisita custodiuntur vsque in crastinum quam tunc de nouo acquirerentur. Propter quod contra Ma 
-       <lb ed="#B" n="36"/>nicheos qui dicebant quod non liceret aliquid custodire in crastinum, dicit <name ref="#Augustine">Augustinus</name> in libro contra adimantium. ca. xxiiii. 
+       <lb ed="#B" n="36"/>nicheos qui dicebant quod non liceret aliquid custodire in crastinum, dicit <name xml:id="n3av8a-c1e3078-Nd1e611" ref="#Augustine">Augustinus</name> in libro contra adimantium. ca. xxiiii. 
        <lb ed="#B" n="37"/>neque hoc intelligunt ad id pertinere vt temporalia non amemus neque timeamus ne nobis desint 
        ne<lb ed="#B" n="38" break="no"/>cessaria: &amp; propter ipsa acquirenda vel deo vel hominibus seruiamus. Nam si hoc ideo dictum est vt non 
        serue<lb ed="#B" n="39" break="no"/>tur in crastinum panis: magis hoc implent vagi Romanorum quos passiuos appellant: qui a nona 
@@ -308,8 +308,8 @@
         <lb ed="#B" n="1"/>in fine de amore dei. Cum fidelis anima inceperit non indigere: &amp; a corporalibus transire ad spiritualia, &amp; 
        <lb ed="#B" n="2"/>a spiritualibus ad spiritualium &amp; corporalium conditorem: hoc vere est exire a sarcinis. Relicto ergo 
        corpo<lb ed="#B" n="3" break="no"/>re &amp; corporeis omnibus curis &amp; impedimentis, omnium quae sunt praeter deum obliuiscitur: nihilque praeter 
-       <lb ed="#B" n="4"/>deum attendens: quasi se solam solumque deum aestimans, dilectus inquit meus mihi: &amp; ego illi. Quid enim mihi est in caelo &amp; 
-       <lb ed="#B" n="5"/>a te quid volui super terram: Defecit caro mea &amp; cor meum: deus cordis mei, pars mea deus inaeternum.  
+       <lb ed="#B" n="4"/>deum attendens: quasi se solam solumque deum aestimans, dilectus inquit meus mihi: &amp; ego illi. <quote xml:id="n3av8a-c1e3078-Qd1e666" source="http://scta.info/resource/ps72_25@1-13">Quid enim mihi est in caelo &amp;
+       <lb ed="#B" n="5"/>a te quid volui super terram:</quote> <quote xml:id="n3av8a-c1e3078-Qd1e672" source="http://scta.info/resource/ps72_26@1-15">Defecit caro mea &amp; cor meum: deus cordis mei, pars mea deus inaeternum.</quote>
        <lb ed="#B" n="6"/>Demum venitur ad mortem, morte ergo corporali perfecte moritur mundo: vt perfecte viuat deo. 
       </p>
       <p xml:id="n3av8a-c1e3078-d1e670">
@@ -420,8 +420,8 @@
         prode<lb ed="#B" n="54" break="no"/>rit abrenunciatio corporalis: si renunciationem cordis quae sublimior &amp; vtilior est non voluerimus similiter 
        <!--635.xml-->
        <pb ed="#B" n="297-v"/>
-        <lb ed="#B" n="1"/>obtinere. De illa enim dixit Apostolus. Si distribuero omnes facultates meas in cibos pauperum: 
-       chari<lb ed="#B" n="2" break="no"/>tatem autem non habuero: nihil mihi prodest, quod nunquam dixisset: nisi quia futurum in spri praeuidebat vt aliqui  
+        <lb ed="#B" n="1"/>obtinere. De illa enim dixit Apostolus. <quote xml:id="n3av8a-c1e3078-Qd1e913" source="http://scta.info/resource/Icor13_3@1-23">Si distribuero omnes facultates meas in cibos pauperum:
+       chari<lb ed="#B" n="2" break="no"/>tatem autem non habuero: nihil mihi prodest,</quote> quod nunquam dixisset: nisi quia futurum in spri praeuidebat vt aliqui  
        <lb ed="#B" n="3"/>facultatibus vniuersis in pauperum alimenta dispersis: ad perfectionem euangelicam &amp; charitatis 
        ar<lb ed="#B" n="4" break="no"/>duum culmen peruenire non possent. De quibus dicit in collatione quarta. Denique quid pudet dicere 
        <lb ed="#B" n="5"/>ita plaerosque abrenunciasse conspicimus: vt nihil amplius immutasse de interioribus vitiis ac 
@@ -445,7 +445,7 @@
        sa<lb ed="#B" n="23" break="no"/>porem Vnde patet quod modicum sapit eis dulcedo caelestium qui omnium abrenunciatione exeunt 
        <lb ed="#B" n="24"/>mundum per vnum ostium, &amp; reingrediuntur ipsum per aliud, acrius quaerendo honorum potentiarum &amp; 
        <lb ed="#B" n="25"/>vniuersaliter temporalium rerum abundantiam, saltem ad vsum. ad quae nec ausi fuissent 
-        aspira<lb ed="#B" n="26" break="no"/>re manentes in saeculo. contra illud quod dicitur in principio regulae beati <name ref="#Augustine">Augustinus</name> Qui aliquid habebant 
+        aspira<lb ed="#B" n="26" break="no"/>re manentes in saeculo. contra illud quod dicitur in principio regulae beati <name xml:id="n3av8a-c1e3078-Nd1e970" ref="#Augustine">Augustinus</name> Qui aliquid habebant 
        <lb ed="#B" n="27"/>in saeculo antequam ingressi sunt monasterium libenter velint illud esse comune: qui autem non habebant: non ea quaerant 
        <lb ed="#B" n="28"/>in monasterio quae nec foris habere poterant. 
       </p>
@@ -460,31 +460,31 @@
         fu<lb ed="#B" n="35" break="no"/>erint propria siue communia: nec ex se &amp; per se ab aeternorum amore sunt impeditiua: immo quantum  
        <lb ed="#B" n="36"/>in se est ad eleuandum nos ad illum sunt ordinata. Quia quemadmodum creaturae veritas est adminiculum 
        <lb ed="#B" n="37"/>ad diligendum humanum intellectum in cognitionem aeternae veritatis: sic &amp; bonitas creaturae est 
-       admi<lb ed="#B" n="38" break="no"/>niculum ad dirigendum humanam voluntatem in amorem aeternae bonitatis. dicente <name ref="#Augustine">Augustinus</name> iiii. confes. 
+       admi<lb ed="#B" n="38" break="no"/>niculum ad dirigendum humanam voluntatem in amorem aeternae bonitatis. dicente <name xml:id="n3av8a-c1e3078-Nd1e1001" ref="#Augustine">Augustinus</name> iiii. confes. 
        <lb ed="#B" n="39"/>Si placent corpora: deum ex illis lauda: &amp; in artificem retorque amorem. &amp;. ix. de trinitate. Non sic non amam 
        <lb ed="#B" n="40"/>da creatura: sed si ad creatorem refertur ille amor, non iam cupiditas: sed charitas est, alias est 
        cupidi<lb ed="#B" n="41" break="no"/>tas amor creaturae: &amp; minuit amorem dei: secundum illud. x. confes. Minus domine te amat qui aliquid te 
-       <lb ed="#B" n="42"/>cum amat: non propter te: sed propter se. Et super illud psal. xxxix. Beatus vir cuius est nomen domi 
-       <lb ed="#B" n="43"/>ni spes eius: &amp; non respexit in vanitates &amp; insanias falsas. dicit Augus. Disce amare in creatura crea 
+       <lb ed="#B" n="42"/>cum amat: non propter te: sed propter se. Et super illud psal. xxxix. <quote xml:id="n3av8a-c1e3078-Qd1e1013" source="http://scta.info/resource/ps39_5@1-16">Beatus vir cuius est nomen domi
+       <lb ed="#B" n="43"/>ni spes eius: &amp; non respexit in vanitates &amp; insanias falsas.</quote> dicit Augus. Disce amare in creatura crea 
        <lb ed="#B" n="44"/>torem: non te teneat quod ab illo factum est: &amp; amittas eum a quo &amp; ipse factus es. Vnde mentitus est 
        <lb ed="#B" n="45"/>Manicheus qui dixit quod omnia corporalia sunt a deo malo, &amp; a se mala, &amp; ideo propter se, &amp; per se 
        <lb ed="#B" n="46"/>abdicanda. Vnde &amp; vetus testamentum malum esse dixit: &amp; a deo malo esse: quia temporalia bona 
        <lb ed="#B" n="47"/>promisit &amp; omnino contrarium nouo &amp; promissionibus eius. Sed quod sunt impeditiua, hoc est per 
         oc<lb ed="#B" n="48" break="no"/>casionem: &amp; est causa huius per se &amp; ex parte nostre. scilicet nostra infirmitas: quae ipsa possidere vix 
        <lb ed="#B" n="49"/>valet: neque circa ea sollicitari absque amore nimio, &amp; inordinato. Vnde quod abdicanda sunt non natura  
-       <lb ed="#B" n="50"/>rerum: sed infirmitas nostra qua sine libidine non possumus ea habere, in causa est. dicente <name ref="#Augustine">Augustinus</name> 
+       <lb ed="#B" n="50"/>rerum: sed infirmitas nostra qua sine libidine non possumus ea habere, in causa est. dicente <name xml:id="n3av8a-c1e3078-Nd1e1034" ref="#Augustine">Augustinus</name> 
        <lb ed="#B" n="51"/>de doctrina christiana. In omnibus huiusmodi rebus non ex ipsarum rerum natura quibus vtimur 
        <lb ed="#B" n="52"/>sed ex causa vtendi: vel modo appetendi: vel probandum vel improbandum quod facimus. Item Am 
        <lb ed="#B" n="53"/>bro. libro octauo super Luc. Volumus offendere diuites: discant non in facultatibus crimen 
         habe<lb ed="#B" n="54" break="no"/>ri: sed in iis qui vti nesciunt. Nam diuitiae vt impedimenta, sunt improbis: ita bonis sunt 
        <!--636.xml-->
        <pb ed="#B" n="298-r"/>
-        <lb ed="#B" n="1"/>adiuuamenta virtutis. Item <name ref="#Augustine">Augustinus</name> super psal. ciiii. intelligendum est dei seruos propterea ista 
+        <lb ed="#B" n="1"/>adiuuamenta virtutis. Item <name xml:id="n3av8a-c1e3078-Nd1e1052" ref="#Augustine">Augustinus</name> super psal. ciiii. intelligendum est dei seruos propterea ista 
        bo<lb ed="#B" n="2" break="no"/>na sumere a deo non vt in eis luxu defluant: aut peruersa securitate torpescant: sed vt habeant 
        <lb ed="#B" n="3"/>haec omnia praeparata in quibus quaerendis possent negotiatissimis laboribus occupari. Vnde etiam 
        <lb ed="#B" n="4"/>dicit philosophus. ii. Polis: quod oportet legislatorem prouidere bonis &amp; virtuosis in necessariis: vt non oporteat eos 
        <lb ed="#B" n="5"/>operibus vilibus vacare. Vnde quod sancti viri temporalia per abdicationem fugiunt: hoc contingit eis quia conscii suae 
-       <lb ed="#B" n="6"/>infirmitatis sunt. dicente <name ref="#Augustine">Augustinus</name> super psal. xxxvi. Sunt qui neque actiones mundi pati volunt, sicut 
+       <lb ed="#B" n="6"/>infirmitatis sunt. dicente <name xml:id="n3av8a-c1e3078-Nd1e1066" ref="#Augustine">Augustinus</name> super psal. xxxvi. Sunt qui neque actiones mundi pati volunt, sicut 
        con<lb ed="#B" n="7" break="no"/>iugati habentes domos, familias, silios: nec aliquid in ecclesia agunt sicut praepositi: vel vt in agricultura 
        <lb ed="#B" n="8"/>laborantes: sed velut ad hoc infirmi secedunt ad otium: &amp; quieti esse diligunt: velut memores 
         infirmi<lb ed="#B" n="9" break="no"/>tatis suae. Per amorem autem nimium &amp; inordinatum impediunt, &amp; ab amore aeternorum retrahunt: &amp; hoc 

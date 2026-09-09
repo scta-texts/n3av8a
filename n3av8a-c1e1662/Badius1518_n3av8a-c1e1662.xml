@@ -91,7 +91,7 @@
        DE indifferentibus sunt quae de se neque bona, neque  
        <lb ed="#B" n="11"/>mala sunt: nec obligatur homo ad ea facienda vel non facienda: sed ex modo faciendi bonum est 
        quan<lb ed="#B" n="12" break="no"/>doque ea facere &amp; malum omittere: quandoque econuerso, quemadmodum erant indifferentia post mortem 
-       <lb ed="#B" n="13"/>Christi ante euangelii diuulgationem cerimonialia legis Mosaicae: vt determinat <name ref="#Augustine">Augustinus</name> in epistolis 
+       <lb ed="#B" n="13"/>Christi ante euangelii diuulgationem cerimonialia legis Mosaicae: vt determinat <name xml:id="n3av8a-c1e1662-Nd1e170" ref="#Augustine">Augustinus</name> in epistolis 
        <lb ed="#B" n="14"/>ad Hierony. Vnde Paulus ea celebrauit more Iudaeorum: spem tamen non ponendo in eis: ne Iudaei scan 
        <lb ed="#B" n="15"/>dalicarentur putantes Paulum credere ea omnino respuenda: quemadmodum respuenda erant sacrificia 
        <lb ed="#B" n="16"/>idolorum. Vnde super illud Gali. primo. Sed neque Titus cum esset gentilis compulsus est circuncidi 
@@ -105,7 +105,7 @@
        <lb ed="#B" n="24"/>beat repetere. Si autem non vult remittere: &amp; qui tenetur est soluendo, &amp; non vult soluere: si per viam 
        <lb ed="#B" n="25"/>iustitiae in iudicio sine scandalo posset obtinere vt ille cogeretur soluere: pietas esset repetere tali 
        inten<lb ed="#B" n="26" break="no"/>tione vt ille ab iniusta possessione liberaretur: &amp; per hoc facilius ad poenitentiam: quia rem detinuit alie 
-       <lb ed="#B" n="27"/>nam, deduceretur. dicente <name ref="#Augustine">Augustino</name> de tali, libro secundo de sermone domini in monte. Si modeste 
+       <lb ed="#B" n="27"/>nam, deduceretur. dicente <name xml:id="n3av8a-c1e1662-Nd1e204" ref="#Augustine">Augustino</name> de tali, libro secundo de sermone domini in monte. Si modeste 
        <lb ed="#B" n="28"/>ac leuiter omni modo egerit vt sibi restituantur debita (scilicet pecunia de qua loquitur) non tam in  
        <lb ed="#B" n="29"/>tendens fructum pecuniae: quam vt hominem corrigat: sine dubio perniciosum est habere vnde reddat &amp; 
        <lb ed="#B" n="30"/>non reddere. Non solum non peccabit, sed proderit etiam plurimum: ne ille dum alienam pecuniam 
@@ -135,10 +135,10 @@
       </p>
       <p xml:id="n3av8a-c1e1662-d1e270">
        IN praedicto ergo casu qui est casus propositae quaestionis, pecunia non est repetenda sed dimittenda, si nos 
-       <lb ed="#B" n="54"/>volumus nobis dimitti peccata nostra. secundum quod dicit <name ref="#Augustine">Augustinus</name> libro. ii. de sermone domini in mon  
+       <lb ed="#B" n="54"/>volumus nobis dimitti peccata nostra. secundum quod dicit <name xml:id="n3av8a-c1e1662-Nd1e268" ref="#Augustine">Augustinus</name> libro. ii. de sermone domini in mon  
        <!--332.xml-->
        <pb ed="#B" n="146-r"/>
-        <lb ed="#B" n="1"/>te, exponens illud. Dimitre nobis debita nostra: sicut &amp; nos dimittimus debitoribus nostris. 
+        <lb ed="#B" n="1"/>te, exponens illud. <quote xml:id="n3av8a-c1e1662-Qd1e278" source="http://scta.info/resource/mt6_12@2-11">Dimitre nobis debita nostra: sicut &amp; nos dimittimus debitoribus nostris.</quote>
         Debi<lb ed="#B" n="2" break="no"/>ta peccata dici manifestum est. Non hic quisque vrgetur pecuniam dimittere debitoribus: sed 
         qui<lb ed="#B" n="3" break="no"/>cunque in eum alias peccauerit. Nam pecuniam dimittere illo potius iubetur praecepto. Siquis tibi 
        <lb ed="#B" n="4"/>tunicam tollere voluerit, &amp; in iudicio tecum contendere, dimitte illi &amp; pallium. Nec illi necesse est 

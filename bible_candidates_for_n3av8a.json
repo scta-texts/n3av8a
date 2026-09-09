@@ -1,0 +1,2289 @@
+{
+  "n3av8a-c1e136": {
+    "n3av8a-c1e136-d1e209": [
+      {
+        "candidate_id": "ps15_10",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "already encoded (ps15_9@13-17 ps15_10@2-13)"
+      }
+    ]
+  },
+  "n3av8a-c1e183": {
+    "n3av8a-c1e183-d1e417": [
+      {
+        "candidate_id": "io5_17",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ]
+  },
+  "n3av8a-c1e275": {
+    "n3av8a-c1e275-d1e133": [
+      {
+        "candidate_id": "Icor13_1",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ]
+  },
+  "n3av8a-c1e301": {
+    "n3av8a-c1e301-d1e539": [
+      {
+        "candidate_id": "sir31_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ]
+  },
+  "n3av8a-c1e315": {
+    "n3av8a-c1e315-d1e243": [
+      {
+        "candidate_id": "rom7_23",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ],
+    "n3av8a-c1e315-d1e872": [
+      {
+        "candidate_id": "prov7_22",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "prov7_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ]
+  },
+  "n3av8a-c1e354": {
+    "n3av8a-c1e354-d1e199": [
+      {
+        "candidate_id": "mt20_22",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ]
+  },
+  "n3av8a-c1e380": {
+    "n3av8a-c1e380-d1e112": [
+      {
+        "candidate_id": "io3_5",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"loannis tertio dicitur\" \u2014 encoded (ms omits final clause, paraphrased as &c.)"
+      }
+    ]
+  },
+  "n3av8a-c1e538": {
+    "n3av8a-c1e538-d1e141": [
+      {
+        "candidate_id": "mt23_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "ms cites Matt 23:2 (\"Super cathedram Moysi\") first, then quotes 23:5 directly (\"Omnia opera sua...\") \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e552": {
+    "n3av8a-c1e552-d1e326": [
+      {
+        "candidate_id": "eph4_11",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit Pauline citation chain (Icor12, Eph4) \u2014 encoded"
+      },
+      {
+        "candidate_id": "Icor12_21",
+        "intersectionCount": 14,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_19",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_27",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit Pauline citation chain (Icor12, Eph4) \u2014 encoded"
+      },
+      {
+        "candidate_id": "eph4_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit Pauline citation chain (Icor12, Eph4) \u2014 encoded"
+      },
+      {
+        "candidate_id": "Icor12_20",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt25_15",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit Pauline citation chain (Icor12, Eph4) \u2014 encoded"
+      },
+      {
+        "candidate_id": "eph4_12",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit Pauline citation chain (Icor12, Eph4) \u2014 encoded"
+      },
+      {
+        "candidate_id": "Icor12_28",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit Pauline citation chain (Icor12, Eph4) \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e617": {
+    "n3av8a-c1e617-d1e220": [
+      {
+        "candidate_id": "mt22_5",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation \"Matthaei. exii.\" (parable of the wedding feast) \u2014 encoded"
+      },
+      {
+        "candidate_id": "mt22_4",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"Matthaei. exii.\" (parable of the wedding feast) \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e834": {
+    "n3av8a-c1e834-d1e141": [
+      {
+        "candidate_id": "Icor13_3",
+        "intersectionCount": 19,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal5_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"Galicoe. quinto.\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e834-d1e489": [
+      {
+        "candidate_id": "ps49_22",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "verbatim clause embedded in Bernard quote, no explicit cite \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e860": {
+    "n3av8a-c1e860-d1e121": [
+      {
+        "candidate_id": "Icor6_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "\"dicente Apostolo\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "mt15_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"Matthaei. xv.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "mt15_13",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation \"Matthaei. xv.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "mc7_6",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "ms explicitly cites \"Matthaei. xv.\" for this phrase; encoded instead under the parallel mt15_8 (Mark's wording is a near-identical synoptic parallel, not the cited source)"
+      },
+      {
+        "candidate_id": "mt15_8",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation \"Matthaei. xv.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e874": {
+    "n3av8a-c1e874-d1e704": [
+      {
+        "candidate_id": "Imac2_41",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "explicit \"in primo Maccabeorum\" citation, whole passage narrated \u2014 encoded"
+      },
+      {
+        "candidate_id": "Imac2_40",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "see Imac2_41 note \u2014 encoded"
+      },
+      {
+        "candidate_id": "Imac2_37",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "see Imac2_41 note \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e887": {
+    "n3av8a-c1e887-d1e121": [
+      {
+        "candidate_id": "is6_8",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit \"dicitur Esaiae sexto\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e900": {
+    "n3av8a-c1e900-d1e171": [
+      {
+        "candidate_id": "Icor10_7",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "\"illa vetus scriptura\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e919": {
+    "n3av8a-c1e919-d1e145": [
+      {
+        "candidate_id": "phil2_6",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "ms attributes this wording to Augustine De Trinitate paraphrase, not directly to Phil 2:6 (already correctly encoded as adt-l2-d1e324@54-63)"
+      },
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "n3av8a-c1e919-d1e466": [
+      {
+        "candidate_id": "IIcor3_18",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in file"
+      }
+    ]
+  },
+  "n3av8a-c1e985": {
+    "n3av8a-c1e985-d1e140": [
+      {
+        "candidate_id": "gen2_7",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "verbatim Gen 2:7 clause embedded in Augustine paraphrase \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1011": {
+    "n3av8a-c1e1011-d1e355": [
+      {
+        "candidate_id": "io10_18",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit \"citur Ioannis decimo\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "io2_19",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit \"dixit Christus loan ii\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e1011-d1e490": [
+      {
+        "candidate_id": "Icor15_39",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"dicit Apostolus. i. Corint. xiiii.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1103": {
+    "n3av8a-c1e1103-d1e428": [
+      {
+        "candidate_id": "eph5_29",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "matches quote from \"de spiritu & anima\" citing Eph 5:29 wording \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1156": {
+    "n3av8a-c1e1156-d1e164": [
+      {
+        "candidate_id": "IIcor1_23",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "genuine quotation (ms mislabels citation as \"ii. Corinth. vii.\" for the surrounding context, but this specific phrase is 2 Cor 1:23) \u2014 encoded, range approximated to full verse (ms omits \"in animam meam\"/\"ultra Corinthum\")"
+      }
+    ],
+    "n3av8a-c1e1156-d1e262": [
+      {
+        "candidate_id": "Icor6_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "\"dicit ibidem\" \u2014 encoded (first clause only; ms's second clause \"sed non omnia aedificant\" is actually 1 Cor 10:23, not this candidate, left untagged)"
+      },
+      {
+        "candidate_id": "rom14_15",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "continues explicit \"Roma. decimoquarto.\" citation from preceding rom14_13 quote \u2014 encoded"
+      },
+      {
+        "candidate_id": "rom14_20",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "\"Vnde sequitur in apostolo\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1169": {
+    "n3av8a-c1e1169-d1e137": [
+      {
+        "candidate_id": "IIcor2_9",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"petiuit Apostolus a Corinth. cum dixit. ii. Corin. ii.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1209": {
+    "n3av8a-c1e1209-d1e115": [
+      {
+        "candidate_id": "ps31_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"Super illud\" citation of Ps 31:5 \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e1209-d1e122": [
+      {
+        "candidate_id": "lev5_1",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "explicit citation \"Leui, quinto\" \u2014 encoded (gloss splits quote into two spans)"
+      }
+    ]
+  },
+  "n3av8a-c1e1261": {
+    "n3av8a-c1e1261-d1e145": [
+      {
+        "candidate_id": "Icor7_39",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"primae Corinth. septimo\" \u2014 encoded (lemma broken into 4 spans by interlinear glosses)"
+      },
+      {
+        "candidate_id": "rom7_2",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"Ro. septimo\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "rom7_3",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "not actually quoted \u2014 ms only cites Rom 7:2, not 7:3"
+      }
+    ]
+  },
+  "n3av8a-c1e1274": {
+    "n3av8a-c1e1274-d1e476": [
+      {
+        "candidate_id": "lev25_14",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"lex ista dicit esse talis\" (Lev 25) \u2014 encoded"
+      },
+      {
+        "candidate_id": "lev25_27",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "continues same Leviticus quotation (\"sequitur in lege\") \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1372": {
+    "n3av8a-c1e1372-d1e702": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1438": {
+    "n3av8a-c1e1438-d1e158": [
+      {
+        "candidate_id": "ap21_1",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "explicit citation \"Apoc. vigesimoprimo\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "is66_22",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "explicit citation \"Esaiae vltimo\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIpetr3_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"secundae Petri vltimo\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIpetr3_12",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "continues same Petri citation (\"sequitur post pauca\") \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e1438-d1e193": [
+      {
+        "candidate_id": "deut4_19",
+        "intersectionCount": 19,
+        "status": "encoded",
+        "note": "part of continuous Deut 4:15-19 quote \u2014 encoded"
+      },
+      {
+        "candidate_id": "deut4_18",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "part of continuous Deut 4:15-19 quote \u2014 encoded"
+      },
+      {
+        "candidate_id": "deut4_15",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "continuous quote Deut 4:15,17-19, explicit citation \"illud Deutero. iiii.\" \u2014 encoded as multi-verse quote"
+      },
+      {
+        "candidate_id": "deut4_17",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "part of continuous Deut 4:15-19 quote \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e1438-d1e247": [
+      {
+        "candidate_id": "ap21_23",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation \"Apoc. xxi\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "ap18_23",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"Et in prophetis\" quotation \u2014 encoded"
+      },
+      {
+        "candidate_id": "is60_20",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "continuation of same Isaiah 60 passage (\"quia dominus erit in lucem sempiternam\") \u2014 encoded separately"
+      },
+      {
+        "candidate_id": "hebr1_10",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "same wording as ps101_26 but ms explicitly cites the psalm, not Hebrews \u2014 not a genuine Hebrews citation here"
+      },
+      {
+        "candidate_id": "is60_19",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"nostra translatio\" quotation of Isaiah 60 \u2014 encoded"
+      },
+      {
+        "candidate_id": "is30_26",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation \"Esa. xxx\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "ps101_26",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation \"psalmi centesimi primi\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIpetr3_7",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation \"Vnde Petrus\" \u2014 encoded (partial, ms omits trailing clause)"
+      }
+    ]
+  },
+  "n3av8a-c1e1451": {
+    "n3av8a-c1e1451-d1e1824": [
+      {
+        "candidate_id": "io6_54",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"cum dixit in loanne\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e1451-d1e2027": [
+      {
+        "candidate_id": "io6_52",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "two separate quoted spans of the same verse (Siquis manducauerit... / Et panis quem ego dabo...) \u2014 encoded"
+      },
+      {
+        "candidate_id": "io6_56",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"Christus dicit vbi supra loannis sexto\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e1451-d1e2348": [
+      {
+        "candidate_id": "gen2_7",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit \"Sicut enim scriptum est\" \u2014 encoded (ms reads \"fecit deus\" for \"formavit dominus deus\")"
+      }
+    ]
+  },
+  "n3av8a-c1e1464": {
+    "n3av8a-c1e1464-d1e717": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"exponunt sancti illud\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e1464-d1e1331": [
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "MS cites \"Sapientiae quarto\" but text is actually Wis 8:1 \u2014 encoded with correct candidate sap8_1"
+      }
+    ]
+  },
+  "n3av8a-c1e1583": {
+    "n3av8a-c1e1583-d1e245": [
+      {
+        "candidate_id": "sap5_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"Sapientiae. v\" citation \u2014 encoded"
+      },
+      {
+        "candidate_id": "io12_25",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"attendens illud lo. xii.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1609": {
+    "n3av8a-c1e1609-d1e128": [
+      {
+        "candidate_id": "mt11_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"illud euangelii\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "phil3_12",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit \"dicente Apostolo Phil. iii.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1622": {
+    "n3av8a-c1e1622-d1e130": [
+      {
+        "candidate_id": "Iio3_17",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"Iuxta illud. i. lo. iii.\" \u2014 encoded, split by interposed glosses"
+      }
+    ]
+  },
+  "n3av8a-c1e1662": {
+    "n3av8a-c1e1662-d1e270": [
+      {
+        "candidate_id": "mt6_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "\"exponens illud\" (Augustine's De sermone domini) \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1701": {
+    "n3av8a-c1e1701-d1e131": [
+      {
+        "candidate_id": "phil3_12",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"dicente glos. super illud ad Phil.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1904": {
+    "n3av8a-c1e1904-d1e120": [
+      {
+        "candidate_id": "rom6_4",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "part of same continuous quote \u2014 encoded"
+      },
+      {
+        "candidate_id": "rom6_3",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "continuous multi-verse quote Rom 6:3-5, explicit citation \"Ro. sexto\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "rom6_5",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "part of same continuous quote \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e1904-d1e145": [
+      {
+        "candidate_id": "hebr5_9",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"Hebrae, quinto\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e1970": {
+    "n3av8a-c1e1970-d1e1389": [
+      {
+        "candidate_id": "is63_1",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"habetur Esa. lxiii.\" \u2014 encoded as two spans"
+      }
+    ],
+    "n3av8a-c1e1970-d1e1532": [
+      {
+        "candidate_id": "ps23_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "ps23:10 quoted in two parts (dialogue form) \u2014 encoded as two spans"
+      }
+    ]
+  },
+  "n3av8a-c1e1997": {
+    "n3av8a-c1e1997-d1e810": [
+      {
+        "candidate_id": "mt7_25",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"vt dicitur Matthaei. vii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "mt7_27",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "only the positive-outcome clause (Mt 7:25, house did not fall) is quoted; Mt 7:27 (house fell) text absent from paragraph \u2014 shared vocabulary only"
+      }
+    ],
+    "n3av8a-c1e1997-d1e1167": [
+      {
+        "candidate_id": "qoh7_21",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "allusion to Ecclesiastes, no explicit citation marker but exact quoted phrase present \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e2010": {
+    "n3av8a-c1e2010-d1e387": [
+      {
+        "candidate_id": "prov24_27",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"prouerb. xxiiii\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "prov24_31",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "continuation of same Prov 24 passage \u2014 encoded (prov24_30 portion not tagged, not a candidate)"
+      }
+    ]
+  },
+  "n3av8a-c1e2049": {
+    "n3av8a-c1e2049-d1e180": [
+      {
+        "candidate_id": "Icor2_9",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "clear allusion, no explicit citation marker but standard Vulgate wording \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e2062": {
+    "n3av8a-c1e2062-d1e499": [
+      {
+        "candidate_id": "mt5_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"et dictum est\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "qoh7_21",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "paraphrase of Eccl 7:20 (ms omits \"enim homo\") \u2014 encoded, range approximated to full verse"
+      }
+    ],
+    "n3av8a-c1e2062-d1e705": [
+      {
+        "candidate_id": "deut6_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "shared formula \"Diliges dominum deum tuum ex toto corde\" quoted without book citation; ambiguous among Deut 6:5/Mt 22:37/Mc 12:30/Lc 10:27 \u2014 encoded as multi-source quote covering all four"
+      },
+      {
+        "candidate_id": "lc10_27",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "see deut6_5 note \u2014 multi-source quote"
+      },
+      {
+        "candidate_id": "mc12_30",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "see deut6_5 note \u2014 multi-source quote"
+      },
+      {
+        "candidate_id": "mt22_37",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "see deut6_5 note \u2014 multi-source quote"
+      },
+      {
+        "candidate_id": "mt11_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "\"Secundum hoc exponitur illud\" \u2014 encoded separately (different location in paragraph)"
+      }
+    ]
+  },
+  "n3av8a-c1e2076": {
+    "n3av8a-c1e2076-d1e119": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"Ro. v.\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e2076-d1e367": [
+      {
+        "candidate_id": "Icor3_15",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"illud primae Corinthi. tertio\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e2155": {
+    "n3av8a-c1e2155-d1e161": [
+      {
+        "candidate_id": "mt18_15",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quoted within gloss explaining \"Peccantem coram omnibus argue\" citation \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e2234": {
+    "n3av8a-c1e2234-d1e124": [
+      {
+        "candidate_id": "ex20_5",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "ms miscites as \"Nu. xx.\" but text is Ex 20:5 \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e2247": {
+    "n3av8a-c1e2247-d1e136": [
+      {
+        "candidate_id": "IIcor10_5",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "joined with IIcor10_4 as one continuous quote (ms only quotes first clause of v.5)"
+      },
+      {
+        "candidate_id": "deut4_1",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation \"de lege Moysi dictum est populo Israel\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIcor11_3",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation \"dicit Apostolus. ii. Cori. xi.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "hebr2_3",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "continues same Heb 2 quotation \u2014 encoded"
+      },
+      {
+        "candidate_id": "Itim4_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"dicit Apostolus. i. Timo. iiii.\" \u2014 encoded (ms quotes only opening clause)"
+      },
+      {
+        "candidate_id": "deut4_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "continues same citation (\"Et sequitur\") \u2014 encoded"
+      },
+      {
+        "candidate_id": "gal1_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"dicit Apostolus Gal i.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "hebr2_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"vt dicit Apostolis Heb. vii.\" (miscited chapter; text is Heb 2:2) \u2014 encoded"
+      },
+      {
+        "candidate_id": "lc22_32",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"in Petro dixit ecclesiae. Luc. xxii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "prov22_28",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"iuxta illud Prouerb. xxii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIcor13_8",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"Apostolo. ii. ad Corintoe. in fine\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIcor10_4",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"dicit ibidem. cap. x.\" \u2014 encoded jointly with IIcor10_5"
+      }
+    ]
+  },
+  "n3av8a-d1e207": {
+    "n3av8a-d1e207-d1e328": [
+      {
+        "candidate_id": "Icor7_33",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"primae Corith. vii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "verbatim within Augustine quote, no explicit cite \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-d1e274": {
+    "n3av8a-d1e274-d1e171": [
+      {
+        "candidate_id": "io1_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "\"& iterum\" (quoting scripture a second time in this argument) \u2014 encoded"
+      },
+      {
+        "candidate_id": "ier51_48",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "the phrase \"Caelum & terra & omnia quae in eis sunt\" is presented as Augustine's own definitional gloss, not a scriptural citation; common biblical formula shared by many verses, not distinctively Jer 51:48"
+      }
+    ]
+  },
+  "n3av8a-d1e319": {
+    "n3av8a-d1e319-d1e128": [
+      {
+        "candidate_id": "Icor6_4",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"Apostolus. i. ad Corinth. vi.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"Propter quod dixit Apostolis suis\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-d1e430": {
+    "n3av8a-d1e430-d1e113": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"cum dicit\" (scripture) \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e2854": {
+    "n3av8a-c1e2854-d1e99": [
+      {
+        "candidate_id": "mt13_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"Matth. xiii. super illud\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e2854-d1e593": [
+      {
+        "candidate_id": "mt13_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"super illud Matth. xiii.\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e2854-d1e629": [
+      {
+        "candidate_id": "ez40_27",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"dicitur Ezech. xl.\" \u2014 text identical to ez40_23 (repeated formula in ch.40); encoded with both as ambiguous multi-source"
+      },
+      {
+        "candidate_id": "ez40_23",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"dicitur Ezech. xl.\" \u2014 text identical to ez40_27 (repeated formula in ch.40); encoded with both as ambiguous multi-source"
+      }
+    ]
+  },
+  "n3av8a-c1e2959": {
+    "n3av8a-c1e2959-d1e121": [
+      {
+        "candidate_id": "phil1_18",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"Philip. ii.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e2972": {
+    "n3av8a-c1e2972-d1e117": [
+      {
+        "candidate_id": "lc10_2",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation \"Luc. x.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "lc10_40",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "explicit citation \"Luc. x.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e2985": {
+    "n3av8a-c1e2985-d1e149": [
+      {
+        "candidate_id": "col2_13",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"Colos. ii\" \u2014 encoded (two spans, gloss/paraphrase breaks continuity)"
+      },
+      {
+        "candidate_id": "gal4_9",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col2_14",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "continuation of same Colossians passage (\"Sequitur\") \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3012": {
+    "n3av8a-c1e3012-d1e1720": [
+      {
+        "candidate_id": "ez34_5",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "explicit citation \"vt adimpleatur illud Eze. xxxii.\" (miscited chapter; text is Ez 34:5) \u2014 encoded"
+      },
+      {
+        "candidate_id": "ez34_8",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "shares \"pastor/oves/devorationem\" vocabulary with the Ez 34:5 quote actually cited; no separate quotation of v.8 found"
+      }
+    ]
+  },
+  "n3av8a-c1e3064": {
+    "n3av8a-c1e3064-d1e340": [
+      {
+        "candidate_id": "Icor9_19",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "phil3_13",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ],
+    "n3av8a-c1e3064-d1e711": [
+      {
+        "candidate_id": "lc14_26",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "deut33_9",
+        "intersectionCount": 19,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "deut33_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "mt19_29",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "rom8_35",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ],
+    "n3av8a-c1e3064-d1e1079": [
+      {
+        "candidate_id": "IIcor8_13",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit \"secundae Corinthi. octauo.\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e3064-d1e1310": [
+      {
+        "candidate_id": "prov30_9",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit \"quam subiungit dicens\" (Salomon, Prov.) \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3078": {
+    "n3av8a-c1e3078-d1e99": [
+      {
+        "candidate_id": "lc14_33",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"super illud Luc. xiiii.\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e3078-d1e372": [
+      {
+        "candidate_id": "gen1_29",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "explicit citation \"Gen. i.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "gen9_2",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "explicit citation \"Gen. ix.\" \u2014 encoded as multi-verse quote with gen9_3"
+      },
+      {
+        "candidate_id": "gen9_3",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "continues gen9_2 quote, encoded as multi-verse span"
+      }
+    ],
+    "n3av8a-c1e3078-d1e535": [
+      {
+        "candidate_id": "ps72_25",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit quotation of psalm \u2014 encoded (adjacent to ps72_26)"
+      },
+      {
+        "candidate_id": "ps72_26",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "continues ps72_25 quotation, encoded"
+      }
+    ],
+    "n3av8a-c1e3078-d1e670": [
+      {
+        "candidate_id": "Icor13_3",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"dixit Apostolus\" \u2014 encoded (ms omits middle clause \"et si tradidero corpus meum ut ardeam\", range approximated to full verse)"
+      }
+    ],
+    "n3av8a-c1e3078-d1e966": [
+      {
+        "candidate_id": "ps39_5",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation \"super illud psal. xxxix.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3163": {
+    "n3av8a-c1e3163-d1e128": [
+      {
+        "candidate_id": "prov16_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "rom11_35",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom9_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "rom9_20",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "rom9_12",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom11_33",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "n3av8a-c1e3163-d1e441": [
+      {
+        "candidate_id": "Icor15_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ],
+    "n3av8a-c1e3163-d1e508": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ],
+    "n3av8a-c1e3163-d1e637": [
+      {
+        "candidate_id": "Isam28_7",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "Isam28_6",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "Isam28_5",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "Isam28_4",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ],
+    "n3av8a-c1e3163-d1e900": [
+      {
+        "candidate_id": "ps77_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"dicit super illud psal. lxxvii.\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e3163-d1e1028": [
+      {
+        "candidate_id": "IItim2_20",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit \"dicit apostolus\" citation \u2014 encoded"
+      },
+      {
+        "candidate_id": "sir30_24",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"dicitur Ecclesia. xxx.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "rom9_22",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "multi-verse quote with rom9_23, explicit \"apostolus Roma. ix. dicens\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "rom9_23",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "multi-verse quote with rom9_22 \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3228": {
+    "n3av8a-c1e3228-d1e335": [
+      {
+        "candidate_id": "iob41_16",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "implicit citation of Job (Gregory's commentary quotes it) \u2014 encoded"
+      },
+      {
+        "candidate_id": "ez28_13",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "ms mislabels citation as \"lob\" but text is Ezek 28:13 \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3334": {
+    "n3av8a-c1e3334-d1e128": [
+      {
+        "candidate_id": "eph4_16",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "explicit \"Ephilosophi iiii.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3695": {
+    "n3av8a-c1e3695-d1e136": [
+      {
+        "candidate_id": "gen2_7",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "explicit citation \"cum dicit Gen. i.\" (should be Gen 2) \u2014 encoded as two spans (interrupted by gloss \"hoc quo ad corpus\")"
+      },
+      {
+        "candidate_id": "ez37_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"super illud quod sequitur\" continuing Eze. xxxvii. \u2014 encoded"
+      },
+      {
+        "candidate_id": "ez37_7",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"Eze. propheta. xxxvii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "ez37_8",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"Eze. propheta. xxxvii.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3708": {
+    "n3av8a-c1e3708-d1e115": [
+      {
+        "candidate_id": "io6_64",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"respondit eis\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "io6_54",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit \"Christus dixisset Iudaeis. Ioan. vi.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3735": {
+    "n3av8a-c1e3735-d1e119": [
+      {
+        "candidate_id": "lc1_34",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"angelo ait\" (Mary's reply to angel) \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3748": {
+    "n3av8a-c1e3748-d1e425": [
+      {
+        "candidate_id": "gen4_4",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"dicitur Gen. iiii.\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e3748-d1e499": [
+      {
+        "candidate_id": "gen50_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"legitur Gen. l.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3761": {
+    "n3av8a-c1e3761-d1e139": [
+      {
+        "candidate_id": "is60_1",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"Esa. lx\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3866": {
+    "n3av8a-c1e3866-d1e117": [
+      {
+        "candidate_id": "Icor8_13",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"primae Corinth. viii.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3879": {
+    "n3av8a-c1e3879-d1e150": [
+      {
+        "candidate_id": "mt16_18",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"dicente domino\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3972": {
+    "n3av8a-c1e3972-d1e106": [
+      {
+        "candidate_id": "Icor7_10",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"dicit Apostolus ibidem\" continuing i. Corin. vii \u2014 encoded"
+      },
+      {
+        "candidate_id": "rom7_2",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"Propter quod dicitur Roma. vii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "Icor7_4",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation \"i. Corin. vii.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e3998": {
+    "n3av8a-c1e3998-d1e110": [
+      {
+        "candidate_id": "rom13_6",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "continuation of Rom 13 (\"& post ait\") \u2014 encoded"
+      },
+      {
+        "candidate_id": "rom13_7",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "continuation of Rom 13 (\"& post ait\") \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e4083": {
+    "n3av8a-c1e4083-d1e751": [
+      {
+        "candidate_id": "col2_8",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation \"ait ad Col. cap. praedicto\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e4083-d1e1396": [
+      {
+        "candidate_id": "ps140_6",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Augustine on Ps 140 (Vulgate); ms splits the verse into two separate quoted spans \u2014 encoded both with two <quote> elements"
+      }
+    ]
+  },
+  "n3av8a-c1e4148": {
+    "n3av8a-c1e4148-d1e197": [
+      {
+        "candidate_id": "ps2_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"Psal. ii\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "ps68_23",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"psal. lxviii\" \u2014 encoded (two occurrences tagged)"
+      },
+      {
+        "candidate_id": "ps68_24",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "continuation of same psalm quotation (\"continuo adiecit\") \u2014 encoded (occurrences tagged)"
+      }
+    ],
+    "n3av8a-c1e4148-d1e344": [
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"Dixit insipiens in corde suo non est deus\" quotation; ms cites \"psal. decimumtertium\" elsewhere in same discussion \u2014 encoded as Ps 13"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "identical wording to Ps 13:1 (duplicate psalm); ms context elsewhere favors Ps 13 numbering \u2014 not encoded to avoid duplicate/ambiguous tagging"
+      }
+    ]
+  },
+  "n3av8a-c1e4227": {
+    "n3av8a-c1e4227-d1e135": [
+      {
+        "candidate_id": "io16_12",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"illud loam. xvi.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e4241": {
+    "n3av8a-c1e4241-d1e119": [
+      {
+        "candidate_id": "mt6_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"Iuxta illud Mateosoen. vi.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "ps108_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"super illud psalila. cviii.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e4484": {
+    "n3av8a-c1e4484-d1e120": [
+      {
+        "candidate_id": "ios6_19",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"vt dicitur los. vi.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "ios7_25",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"legitur los. x.\" (miscited chapter; text is Ios 7:25) \u2014 encoded"
+      },
+      {
+        "candidate_id": "prov6_31",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"Prouerb. vi.\" \u2014 encoded (partial: first clause is Prov 6:30, not a listed candidate)"
+      },
+      {
+        "candidate_id": "ex21_16",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation \"Exo. xxi.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e4536": {
+    "n3av8a-c1e4536-d1e112": [
+      {
+        "candidate_id": "mic3_5",
+        "intersectionCount": 26,
+        "status": "encoded",
+        "note": "explicit citation \"impletur illud Miche. iii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IItim4_3",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"illud Apostoli. ii. Timo. vlt.\" \u2014 encoded (range approximated across ms's internal omission of \"ad sua desideria\")"
+      },
+      {
+        "candidate_id": "iob31_16",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"exempla quae habentur lob. xxxi.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e4602": {
+    "n3av8a-c1e4602-d1e206": [
+      {
+        "candidate_id": "Ipetr2_2",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ],
+    "n3av8a-c1e4602-d1e363": [
+      {
+        "candidate_id": "hebr5_12",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "Icor13_11",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "ap1_5",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "gal4_1",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr5_13",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "mt23_9",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "Icor13_10",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Ith2_7",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "mt27_51",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "embedded in Hieronymus quotation recounting the event \u2014 encoded"
+      },
+      {
+        "candidate_id": "mt11_11",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      }
+    ]
+  },
+  "n3av8a-c1e4675": {
+    "n3av8a-c1e4675-d1e125": [
+      {
+        "candidate_id": "ps71_3",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "\"scriptum est\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "Icor3_1",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "continues Augustine's exegesis quoting Paul directly \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e4741": {
+    "n3av8a-c1e4741-d1e112": [
+      {
+        "candidate_id": "ps73_23",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"scribitur in psal.\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e4741-d1e138": [
+      {
+        "candidate_id": "ps73_23",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "same verse quoted again in the response paragraph \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e4952": {
+    "n3av8a-c1e4952-d1e145": [
+      {
+        "candidate_id": "mt15_3",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"illud Matth. xv.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "mt15_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "continues Matt 15 quotation \u2014 encoded"
+      },
+      {
+        "candidate_id": "io19_27",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "continues same Johannine quotation \u2014 encoded"
+      },
+      {
+        "candidate_id": "io19_26",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"dicente Augustinus in exponendo illud loam. vlti.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "mt15_6",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "continues Matt 15 quotation \u2014 encoded"
+      },
+      {
+        "candidate_id": "mt15_5",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "continues Matt 15 quotation \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e4978": {
+    "n3av8a-c1e4978-d1e99": [
+      {
+        "candidate_id": "gen20_6",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"Gen. xx.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5017": {
+    "n3av8a-c1e5017-d1e99": [
+      {
+        "candidate_id": "iob17_11",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"lob. xvii\" via Gregory \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5031": {
+    "n3av8a-c1e5031-d1e677": [
+      {
+        "candidate_id": "phil2_15",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "paraphrase, word order rearranged in MS: \"in medio nationis prauae & peruersae...sicut luminaria in mundo\" \u2014 encoded with closest matching source span"
+      },
+      {
+        "candidate_id": "io19_27",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "verbatim quote \"ex illa hora accepit eam discipulus in sua\" within Augustine citation"
+      },
+      {
+        "candidate_id": "ps40_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"de quibus scriptum est\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIcor8_21",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "MS phrase \"Prouidentes bona non solum coram deo sed etiam coram hominibus\" is Rom 12:17 not 2 Cor 8:21 (both share wording); already encoded there as rom12_17, attributed by MS itself \"ad Roma.\""
+      },
+      {
+        "candidate_id": "mt19_27",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "paraphrase within Augustine quote, \"ecce nos reliquimus omnia & secuti sumus te\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "Icor10_33",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit quote \"sicut & ego omnibus per omnia placeo...\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e5031-d1e1869": [
+      {
+        "candidate_id": "ps68_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"illud psal. lxviii.\" \u2014 encoded (\"Zelus\" garbled as \"(elus\" in MS)"
+      }
+    ],
+    "n3av8a-c1e5031-d1e2031": [
+      {
+        "candidate_id": "Ipetr2_21",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"dixit Petrus\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e5031-d1e2168": [
+      {
+        "candidate_id": "rom9_3",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"dicebat Apost. ad Ro. ix.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5057": {
+    "n3av8a-c1e5057-d1e911": [
+      {
+        "candidate_id": "prov24_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"prouerb. xiiii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "ez13_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"illud Eze. xiii.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5129": {
+    "n3av8a-c1e5129-d1e99": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"exponendo illud Verbum caro factum est\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5194": {
+    "n3av8a-c1e5194-d1e99": [
+      {
+        "candidate_id": "sir31_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "\"in conmendationem viri iusti dicitur\" \u2014 encoded (partial verse)"
+      },
+      {
+        "candidate_id": "mt6_23",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"Christus oculum vocat\" \u2014 encoded (second clause of the saying; first clause is Mt 6:22, not a candidate)"
+      },
+      {
+        "candidate_id": "lc11_34",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "Matthean wording is the closer/cited match (encoded as mt6_23); Lucan parallel not separately quoted"
+      }
+    ]
+  },
+  "n3av8a-c1e5247": {
+    "n3av8a-c1e5247-d1e252": [
+      {
+        "candidate_id": "ex28_35",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit \"scriptum quippe est\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "tit1_9",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit \"cum dicat Apostolus...Titum. i.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIcor12_4",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 \"raptus est\" refers to Elijah's rapture (raptus est Helias), not Paul's 2Cor12:4; no attribution to Corinthians"
+      },
+      {
+        "candidate_id": "lc11_28",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"super illud Lucae. xi.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "lc10_1",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"ex serie textus euangelici Lucae. x. vbi dicitur\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "lc10_3",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "\"Et subdit parum post\" continuation of same Luke citation \u2014 encoded"
+      },
+      {
+        "candidate_id": "gal1_12",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor10_33",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Augustine paraphrase echoing Paul's words verbatim \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5287": {
+    "n3av8a-c1e5287-d1e99": [
+      {
+        "candidate_id": "phil1_18",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation \"dicens Philip. i.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIth3_8",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation \"ii. Thessa. vltio.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "eph4_28",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "explicit citation \"Ephe. A\" (garbled iiii) \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIcor11_9",
+        "intersectionCount": 21,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "Icor9_20",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"i. Corin. ix.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "lc10_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "ms paraphrase of \"Nihil tuleritis in via &c.\" context, matching clause encoded"
+      },
+      {
+        "candidate_id": "mc14_34",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quoted as \"Tristis est anima mea &c.\" \u2014 encoded (ms omits rest, paraphrased as &c.)"
+      },
+      {
+        "candidate_id": "mc14_36",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "second occurrence \"Verumtamen non quod ego volo sed quod tu\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "mt26_38",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "fuller occurrence \"Tristis est anima mea vsque ad mortem\" \u2014 encoded (ambiguous with mc14_34 wording, ms doesn't include \"mecum\")"
+      },
+      {
+        "candidate_id": "IIcor11_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "reconciled from XML (auto-detected quote already present)"
+      },
+      {
+        "candidate_id": "IIth3_7",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "combined with IIth3_9 as one continuous quote, \"ii. Thess. vltio.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "Icor9_15",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"i. Cori. ix.\" \u2014 encoded (short form \"ego autem nullo horum vsus sum\")"
+      },
+      {
+        "candidate_id": "Icor9_19",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"secundum apostolum\" context \u2014 encoded"
+      },
+      {
+        "candidate_id": "rom14_21",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"&. c. xiiii.\" (Rom 14) \u2014 encoded, ms paraphrases \"comedere carnes\" for \"manducare carnem\""
+      },
+      {
+        "candidate_id": "tit3_13",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"ad Titum scriberet\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIth3_9",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "combined with IIth3_7 as one continuous quote \u2014 encoded"
+      },
+      {
+        "candidate_id": "Icor9_18",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit \"& infra.\" continuing i. Cori. ix citation \u2014 encoded"
+      },
+      {
+        "candidate_id": "Ith4_11",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"i. Thess. iiii.\" \u2014 encoded (partial, combined run with Ith4_12)"
+      },
+      {
+        "candidate_id": "Ith4_12",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation \"i. Thess. iiii.\" \u2014 encoded (partial, combined run with Ith4_11)"
+      }
+    ]
+  },
+  "n3av8a-c1e5332": {
+    "n3av8a-c1e5332-d1e227": [
+      {
+        "candidate_id": "iob31_15",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"exponens illud lob. xxxi.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5359": {
+    "n3av8a-c1e5359-d1e138": [
+      {
+        "candidate_id": "act20_34",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"Actuum. xx.\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5451": {
+    "n3av8a-c1e5451-d1e117": [
+      {
+        "candidate_id": "mt15_26",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "\"Contra\" objection quoting Matt 15:26 directly \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5490": {
+    "n3av8a-c1e5490-d1e376": [
+      {
+        "candidate_id": "Icor7_21",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "continuation of same passage \u2014 encoded"
+      },
+      {
+        "candidate_id": "Icor7_20",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"primae Corinth. vii\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5503": {
+    "n3av8a-c1e5503-d1e412": [
+      {
+        "candidate_id": "lc7_43",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"Lucae. vii.\" \u2014 encoded as two spans (interrupted by narrative gloss)"
+      }
+    ]
+  },
+  "n3av8a-c1e5549": {
+    "n3av8a-c1e5549-d1e99": [
+      {
+        "candidate_id": "act1_11",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"in exponendo illud Actuum primo\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "eph4_9",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation \"Super illud Ephe. iiii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "io3_13",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation \"super illud loan iii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "ps112_4",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"Hinc dicitur in psal. cxii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "ps18_7",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation \"loquens in psal. de Christi ascensione\" \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5694": {
+    "n3av8a-c1e5694-d1e117": [
+      {
+        "candidate_id": "lc1_31",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"Lucae primo\" \u2014 encoded (ms truncates before \"et vocabis nomen eius Iesum\")"
+      },
+      {
+        "candidate_id": "ps50_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation \"cantat gemens Dauid\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e5694-d1e197": [
+      {
+        "candidate_id": "ier1_5",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation \"dicitur Hiere. primo\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "lc1_44",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "ms quotes the gloss on Luke 1:15 (\"Nondum inerat spiritus vitae\") not the text of Luke 1:44"
+      }
+    ],
+    "n3av8a-c1e5694-d1e1273": [
+      {
+        "candidate_id": "lc1_44",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "same gloss on Luke 1:15, not Luke 1:44 text \u2014 false candidate (shared \"Lucae primo\" + spiritus vocabulary)"
+      }
+    ]
+  },
+  "n3av8a-c1e5707": {
+    "n3av8a-c1e5707-d1e271": [
+      {
+        "candidate_id": "IIcor13_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"secundum illud. ii. Corinth. xiii.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "mt5_45",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "attributed \"vt de Matth. v.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "IIcor10_8",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"dicit. ii. Corinth. x.\" \u2014 encoded"
+      }
+    ],
+    "n3av8a-c1e5707-d1e540": [
+      {
+        "candidate_id": "Icor4_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"apostolus...subdit dicens\" continuing 1 Cor quote \u2014 encoded"
+      },
+      {
+        "candidate_id": "hebr11_37",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit \"legitur Heb. xi.\" \u2014 encoded jointly with hebr11_38"
+      },
+      {
+        "candidate_id": "hebr11_38",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit \"legitur Heb. xi.\" \u2014 encoded jointly with hebr11_37"
+      }
+    ]
+  },
+  "n3av8a-c1e5720": {
+    "n3av8a-c1e5720-d1e132": [
+      {
+        "candidate_id": "rom13_1",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "explicit \"cit enim apostlus Ro. xiii.\" continuous quote \u2014 encoded"
+      },
+      {
+        "candidate_id": "rom13_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"cit enim apostlus Ro. xiii.\" continuous quote \u2014 encoded"
+      },
+      {
+        "candidate_id": "rom13_2",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit \"cit enim apostlus Ro. xiii.\" continuous quote \u2014 encoded"
+      }
+    ]
+  },
+  "n3av8a-c1e5733": {
+    "n3av8a-c1e5733-d1e297": [
+      {
+        "candidate_id": "Imac3_20",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit \"dixit ludas...i.Maccab.iii\" multi-verse quote (20-22) \u2014 encoded"
+      },
+      {
+        "candidate_id": "Imac3_18",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "multi-verse quote \"Vt enim dicitur i.Macca.iii\" combining Imac3_18+19 \u2014 encoded"
+      },
+      {
+        "candidate_id": "Iio3_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"in canonica Ioan, prima cap. iii\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "Imac3_21",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "part of same multi-verse quote as Imac3_20 \u2014 encoded"
+      },
+      {
+        "candidate_id": "Imac3_22",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "part of same multi-verse quote as Imac3_20 \u2014 encoded"
+      },
+      {
+        "candidate_id": "io8_59",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"de quo dte loan. viii\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "ps115_6",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit \"intellexit illud psal.\" \u2014 encoded"
+      },
+      {
+        "candidate_id": "Imac3_19",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "multi-verse quote with Imac3_18 \u2014 encoded"
+      }
+    ]
+  }
+}

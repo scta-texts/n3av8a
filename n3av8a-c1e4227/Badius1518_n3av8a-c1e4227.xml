@@ -65,12 +65,12 @@
       <p xml:id="n3av8a-c1e4227-d1e121">
        CONtra. veritas vitae in 
         reprehen<lb ed="#B" n="31" break="no"/>dendo vitia quandoque est dimittenda: ne scilicet reprehensus deterior fiat: et similiter veritas iustitiae in de 
-       <lb ed="#B" n="32"/>licta puniendo. dicente <name ref="#Augustine">Augustino</name> ad Parmenianum. Si periculum schismatis timetur: punitio 
+       <lb ed="#B" n="32"/>licta puniendo. dicente <name xml:id="n3av8a-c1e4227-Nd1e121" ref="#Augustine">Augustino</name> ad Parmenianum. Si periculum schismatis timetur: punitio 
         iusti<lb ed="#B" n="33" break="no"/>tiae est dimittenda. Similiter ergo &amp; veritas doctrinae aliquando est omittenda &amp; non dicenda, non  
        <lb ed="#B" n="34"/>ergo semper peccat mortaliter subticens eam. 
       </p>
       <p xml:id="n3av8a-c1e4227-d1e135">
-       DIcendum ad hoc quod secundum <name ref="#Augustine">Augustinum</name> super illud  
+       DIcendum ad hoc quod secundum <name xml:id="n3av8a-c1e4227-Nd1e131" ref="#Augustine">Augustinum</name> super illud  
        <lb ed="#B" n="35"/>psal. v. Perdes omnes qui loquuntur mendacium: aliud est mentiri: aliud verum occultare. 
         Manife<lb ed="#B" n="36" break="no"/>stum est autem non esse culpam quandoque verum occultare. Falsum autem dicere non inuenitur esse 
        <lb ed="#B" n="37"/>concessum. Veruntamen distinguendum est de veritate. Est enim quaedam veritas ad dicendum 
@@ -99,9 +99,9 @@
        <lb ed="#B" n="4"/>claudit. Propter quod reus est sanguinis illius qui occasione tali in ipsum per errorem cadit. Quia si veritatem sic 
        oc<lb ed="#B" n="5" break="no"/>cultare crimen est: quantum ergo crimen est falsitatem pro veritate scienter propinare: Loquendo autem de veritate 
        se<lb ed="#B" n="6" break="no"/>cundo modo: illam potest &amp; debet auditoribus celare. et hoc siue fuerit in grauamen: eo quod non sint aliqui  
-       <lb ed="#B" n="7"/>auditorum eius capaces: &amp; dicere apud se illud loam. xvi. Adhuc multa habeo vobis dicere: sed non potestis 
-       <lb ed="#B" n="8"/>portare modo: siue fuerit in nocumentum audientium. Audientium intelligo non tam praesentium quam etiam illorum ad quos per  
-       <lb ed="#B" n="9"/>audientes doctrina illa poterit peruenire: Et hoc quemadmodum <name ref="#Augustine">Augustinus</name> vbi supra declarat in  
+       <lb ed="#B" n="7"/>auditorum eius capaces: &amp; dicere apud se illud loam. xvi. <quote xml:id="n3av8a-c1e4227-Qd1e197" source="http://scta.info/resource/io16_12@1-10">Adhuc multa habeo vobis dicere: sed non potestis
+       <lb ed="#B" n="8"/>portare modo:</quote> siue fuerit in nocumentum audientium. Audientium intelligo non tam praesentium quam etiam illorum ad quos per  
+       <lb ed="#B" n="9"/>audientes doctrina illa poterit peruenire: Et hoc quemadmodum <name xml:id="n3av8a-c1e4227-Nd1e204" ref="#Augustine">Augustinus</name> vbi supra declarat in  
        <lb ed="#B" n="10"/>exemplo. Si quis quaeratur ad mortem: iustus paratus debet esse verum occultare non falsum dicere: 
        <lb ed="#B" n="11"/>vt neque prodat neque mentiatur, ne occidat animam suam. 
       </p>

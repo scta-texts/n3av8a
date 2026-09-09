@@ -61,7 +61,7 @@
        <lb ed="#B" n="14"/>tura nisi habeat esse determinatum: &amp; quid tale est nullo modo pont aequari illi quid omnino 
        <lb ed="#B" n="15"/>priuat rationem termini, cuiusmodi est aeternitas. Aequaretur autem ei si esset ab aeterno.  
        <lb ed="#B" n="16"/>ergo &amp;c. Quia omnino repugnat ei fuisse ab aeterno, arguebatur sic. Coaeterna non possunt esse separabilia: 
-       se<lb ed="#B" n="17" break="no"/>cundum quod <name ref="#Augustine">Augustinus</name> dicit in sermone contra Arria, per hoc probat personarum diuinarum consubstantialitatem. si ergo creatu 
+       se<lb ed="#B" n="17" break="no"/>cundum quod <name xml:id="n3av8a-c1e183-Nd1e117" ref="#Augustine">Augustinus</name> dicit in sermone contra Arria, per hoc probat personarum diuinarum consubstantialitatem. si ergo creatu 
        <lb ed="#B" n="18"/>ra esset coaeterna deo, non posset in esse suo separari a deo. hoc autem repugnat naturae suae. quia in eo quod 
         crea<lb ed="#B" n="19" break="no"/>tura est, possibilis est ad non esse, ergo &amp;c.
       </p>
@@ -81,7 +81,7 @@
        <lb ed="#B" n="26"/>aeterno. ergo creaturae non repugnat esse ab aeterno. ergo &amp;c.
       </p>
       <p xml:id="n3av8a-c1e183-d1e155">
-       IN hac quaestione erat opinio <name ref="#Aristotle">philosopho</name> 
+       IN hac quaestione erat opinio <name xml:id="n3av8a-c1e183-Nd1e151" ref="#Aristotle">philosopho</name> 
        <lb ed="#B" n="27"/>rum, quod creatura potuit esse ab aeterno: &amp; quod non repugnat eius naturae. &amp; cum hoc erat de opinione ipsorum  
        <lb ed="#B" n="28"/>quod licet ex se non haberet esse effectiue, tamen quantum est ex parte sui creatoris ipsa non posset non esse: ita 
        <lb ed="#B" n="29"/>quod ipsa non potuit incipere esse, nec vnquam potuit desinere esse. Sic enim dicit Auicenna in sexto Metaphysicae 
@@ -90,10 +90,10 @@
        <lb ed="#B" n="32"/>Cum igitur vt dicit aliqua ex rebus per suam essentiam fuit causa esse alterius rei: profecto semper erat causa quamdiu  
        <lb ed="#B" n="33"/>habuerit esse, eo quod absolute prohibet rem non esse. Et haec est intentio quae apud sapientes vocatur creatio. Et 
        <lb ed="#B" n="34"/>sic posuerunt philosophi illi quod deum esse causam creaturae non sit voluntatis dispositione: sed necessitate 
-        na<lb ed="#B" n="35" break="no"/>turae: secundum quod dicit <name ref="#Ambrose">Ambrosius</name> in primo Hexameron. Gentiles plerique coaeternum mundum volunt esse deo  
+        na<lb ed="#B" n="35" break="no"/>turae: secundum quod dicit <name xml:id="n3av8a-c1e183-Nd1e173" ref="#Ambrose">Ambrosius</name> in primo Hexameron. Gentiles plerique coaeternum mundum volunt esse deo  
        <lb ed="#B" n="36"/>quasi vmbraculum diuinae virtutis. &amp; quamuis causam eius deum esse fateantur, causam tamen non ex voluntate 
        <lb ed="#B" n="37"/>&amp; dispositione sua: sed ita vt causa vmbrae corpus est: &amp; fulgori lumen. Vnde si lumen esset aeternum: &amp; 
-        ful<lb ed="#B" n="38" break="no"/>gor. secundum quod dicit <name ref="#Augustine">Augustinus</name> in alio exemplo super Ioannem sermone trigesimosexto. Ponamus inquit 
+        ful<lb ed="#B" n="38" break="no"/>gor. secundum quod dicit <name xml:id="n3av8a-c1e183-Nd1e183" ref="#Augustine">Augustinus</name> in alio exemplo super Ioannem sermone trigesimosexto. Ponamus inquit 
         vir<lb ed="#B" n="39" break="no"/>gultum natum super aquam. nonne cum imagine sua nascitur: mox cum incipit existere, incipit cum illo simul 
         ima<lb ed="#B" n="40" break="no"/>go sua existere, non praecessit nascendo imaginem suam: sed nascitur cum imagine sua. &amp; tamen ab illo imago  
        <lb ed="#B" n="41"/>est, non illud ab imagine. ergo sunt coaequaeva: &amp; si semper virgultum, semper &amp; imago de virgulto. 
@@ -126,7 +126,7 @@
        <lb ed="#B" n="3"/>qui secundum modum praedictum suum ponunt mundum fuisse ab aeterno: &amp; ita ab aeterno non solum esse potuisse: 
        <lb ed="#B" n="4"/>sed &amp; a deo esse suum ab aeterno habuisse: dicerent creaturam semper factam fuisse a deo: &amp; non habuisse ab eo 
        <lb ed="#B" n="5"/>initium durationis: vt modo quodam vix intelligibili mundum ponant a deo factum: sed nunquam fieri nec 
-       ini<lb ed="#B" n="6" break="no"/>tium factionis suae habuisse ab eo: sicut dicit <name ref="#Augustine">Augustinus</name> libro decimo de ciuitate dei cap. trigesimoprimo. 
+       ini<lb ed="#B" n="6" break="no"/>tium factionis suae habuisse ab eo: sicut dicit <name xml:id="n3av8a-c1e183-Nd1e246" ref="#Augustine">Augustinus</name> libro decimo de ciuitate dei cap. trigesimoprimo. 
        <lb ed="#B" n="7"/>Si pes ab aeternitate semper fuisset in puluere: semper subesset vestigium: quid tamen a calcante factum nemo 
        du<lb ed="#B" n="8" break="no"/>bitaret. Nemo reuera dubitaret a calcante factum esse, non in ipso fieri: sed in solo facto esse. vestigium enim in  
        <lb ed="#B" n="9"/>puluere non fit: nisi depressione partium pulueris quae necessario fit aliquo motu aut mutatione finita. antequam  
@@ -190,8 +190,8 @@
       </p>
       <p xml:id="n3av8a-c1e183-d1e382">
        DICENdum igitur absolute: quod mundus non solum incepit esse ex tempore: sed etiam quod non 
-        potu<lb ed="#B" n="6" break="no"/>it fuisse ab aeterno: &amp; quod repugnat naturae eius dicente beato <name ref="#Ambrose">Ambrosio</name> in principio Hexameron. Quid tam in  
-       <lb ed="#B" n="7"/>conueniens: vt aeternitas operis cum dei omnipotentis iungeretur aeternitate: Vnde <name ref="#Augustine">Augustinus</name> in libro contra Felicianum defini  
+        potu<lb ed="#B" n="6" break="no"/>it fuisse ab aeterno: &amp; quod repugnat naturae eius dicente beato <name xml:id="n3av8a-c1e183-Nd1e380" ref="#Ambrose">Ambrosio</name> in principio Hexameron. Quid tam in  
+       <lb ed="#B" n="7"/>conueniens: vt aeternitas operis cum dei omnipotentis iungeretur aeternitate: Vnde <name xml:id="n3av8a-c1e183-Nd1e385" ref="#Augustine">Augustinus</name> in libro contra Felicianum defini  
        <lb ed="#B" n="8"/>ens creaturam, dicit quod creatura est ex eo quid adhuc non est, aut aliquando non fuit, rei cuiuslibet corruptibilis 
        quan<lb ed="#B" n="9" break="no"/>tum in se est omnipotentis dei voluntate facta substantia. Vnde Auicenna bene videns quod id quid de sua essentia est non 
        <lb ed="#B" n="10"/>ens: non intellectu solo: sed &amp; in re esse non recipiat ab alio: nisi ex tempore: dicit in fine quinti Metaphysicae sua  
@@ -237,7 +237,7 @@
        <lb ed="#B" n="47"/>in esse: sed agens vniuersale quid habet in se rationem totius speciei: vt corpus caeleste &amp; eius motor: vt sit alia actio 
        <lb ed="#B" n="48"/>generationis &amp; conseruationis. Consimiliter si agens vniuersale primo rem ipsam per se, &amp; immediate generaret: &amp; 
        ge<lb ed="#B" n="49" break="no"/>neratam postmodum conseruaret: actio eius esset alia generandi &amp; conseruandi: &amp; sicut esset circa generatum: ita &amp; 
-       <lb ed="#B" n="50"/>in proposito circa creatum. Vnde vtriusque actionis distinctionem tangit <name ref="#Augustine">Augustinus</name> cum dicit libro de immortalitate animae  
+       <lb ed="#B" n="50"/>in proposito circa creatum. Vnde vtriusque actionis distinctionem tangit <name xml:id="n3av8a-c1e183-Nd1e484" ref="#Augustine">Augustinus</name> cum dicit libro de immortalitate animae  
        <lb ed="#B" n="51"/>cap iiii. Vis &amp; natura in corpore effectrix corporis vniuersi praesente potentia tenet vniuersum. non enim 
        <lb ed="#B" n="52"/>fecit atque discessit, effectumque deseruit. illa effectiua vis vacare non potest: quin illud quid ab ea factum est 
        tue<lb ed="#B" n="53" break="no"/>atur: &amp; ea specie carere non sinat qua est quantacumque est, quid enim per se non est, si destituatur ab eo per quod est 
@@ -246,12 +246,12 @@
        <pb ed="#B" n="5-v"/>
        <lb ed="#B" n="1"/>conditore desereretur. Vnde secundum quod sancti exponunt illud Gen. ii. Die septimo requeuit deus ab omni opere suo 
        <lb ed="#B" n="2"/>quid patrarat: requeuit ab omni opere primae creationis: non autem ab opere gubernationis &amp; conseruationis 
-       <lb ed="#B" n="3"/>secundum quod dicit Christus Ioan. viii. Pater meus vsque modo operatur &amp; ego operor. Vnde <name ref="#Augustine">Augustinus</name> in libro contra 
+       <lb ed="#B" n="3"/>secundum quod dicit Christus Ioan. viii. <quote xml:id="n3av8a-c1e183-Qd1e507" source="http://scta.info/resource/io5_17@5-12">Pater meus vsque modo operatur &amp; ego operor.</quote> Vnde <name xml:id="n3av8a-c1e183-Nd1e510" ref="#Augustine">Augustinus</name> in libro contra 
        <lb ed="#B" n="4"/>Adamantium, vtrumque verbum concordans dicit. Requeuit ab omnibus operibus suis quae fecit: vt iam vltra non 
        fa<lb ed="#B" n="5" break="no"/>ceret mundum cum omnibus quae in eo sunt: nec tamen vt etiam a mundi administratione requiesceret: vt in 
        faci<lb ed="#B" n="6" break="no"/>endo mundo: a quo opere post factionem cessauit: sed in administrando operaretur. Quia igitur deus non potest res 
        <lb ed="#B" n="7"/>creare nisi in aliena substantia, per quam necessario habent de se non esse non de sua substantia, per quam de se 
-        ha<lb ed="#B" n="8" break="no"/>berent non posse non esse: ideo dicit <name ref="#Augustine">Augustinus</name> libro de Fide ad Petrum. Deus qui fine initio semper est, quid summe 
+        ha<lb ed="#B" n="8" break="no"/>berent non posse non esse: ideo dicit <name xml:id="n3av8a-c1e183-Nd1e524" ref="#Augustine">Augustinus</name> libro de Fide ad Petrum. Deus qui fine initio semper est, quid summe 
        <lb ed="#B" n="9"/>est dedit rebus a se creatis vt sint: non tamen sine initio: quia nulla creatura eiusdem naturae est cuiusmodi est. 
        <lb ed="#B" n="10"/>Et sic dicendum absolute: quod quia creatura inquantum creatura, voluntarie a deo de nihilo facta est, non posset 
        <lb ed="#B" n="11"/>esse ab aeterno contradictione repugnante: quia eo quod ponitur sine initio, ponitur habere esse sibi non 
@@ -265,7 +265,7 @@
        <lb ed="#B" n="19"/>est secundum fidem. 
       </p>
       <p xml:id="n3av8a-c1e183-d1e555">
-       SED contra: secundum <name ref="#Aristotle">philosophum</name> esse quod est quando est necessario est: ita quod pro tempore quo est non est 
+       SED contra: secundum <name xml:id="n3av8a-c1e183-Nd1e554" ref="#Aristotle">philosophum</name> esse quod est quando est necessario est: ita quod pro tempore quo est non est 
        <lb ed="#B" n="20"/>potentia vt non sit: neque ex parte ipsius entis neque ex parte alicuius efficientis: quia sup hoc nulla potentia 
        <lb ed="#B" n="21"/>est: quia esset ad contradictoria facere simul esse &amp; similiter de eo quid fuit, pro tempore quo fuit necessarium est 
        <lb ed="#B" n="22"/>fuisse: &amp; de eo quod erit pro tempore quo erit necessarium est fore: ita quod in nullo istorum modorum est potentia 
@@ -309,7 +309,7 @@
        <lb ed="#B" n="4"/>potuit deus ei non dedisse esse: nec esse auferre ab eo. quia secundum eos mundus habet esse a deo sola 
        <lb ed="#B" n="5"/>naturae necessitate, aut voluntate immutabilitatis coniuncta necessitati naturae: non libera ad dare esse 
        <lb ed="#B" n="6"/>&amp; non dare. Quia siquis dubitat an talis erat philosophorum mens &amp; sententia: videat primum librum de caelo  
-       <lb ed="#B" n="7"/>&amp; mundo: &amp; sextum Metaphysicae Auicennae: &amp; proculdubio ita esse inueniet. vnde <name ref="#Aristotle">philosophous</name> 
+       <lb ed="#B" n="7"/>&amp; mundo: &amp; sextum Metaphysicae Auicennae: &amp; proculdubio ita esse inueniet. vnde <name xml:id="n3av8a-c1e183-Nd1e652" ref="#Aristotle">philosophous</name> 
         de<lb ed="#B" n="8" break="no"/>terminationem suam superhabitam primo libro de caelo &amp; mundo repetit breuiter nono Metaphysice 
        <lb ed="#B" n="9"/>dicens: Nihil aeternum est in potentia: &amp; omne verbum &amp; omnis potentia est contradictoriorum in 
        si<lb ed="#B" n="10" break="no"/>mul, quod enim non habet potentiam vt sit, quia non est aliquid non erit: &amp; omne quod habet potentiam vt sit 

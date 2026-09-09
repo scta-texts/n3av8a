@@ -56,7 +56,7 @@
        <lb ed="#B" n="13"/>go &amp;c. 
       </p>
       <p xml:id="n3av8a-c1e5503-d1e110">
-       IN contrarium est quod dicit <name ref="#Anselm">Anselmus</name> de similitudinibus, loquens de 
+       IN contrarium est quod dicit <name xml:id="n3av8a-c1e5503-Nd1e106" ref="#Anselm">Anselmus</name> de similitudinibus, loquens de 
        reli<lb ed="#B" n="14" break="no"/>gioso &amp; saeculari sic. Licet vterque idem peccatum conmittat, monachus maiorem quam laicus 
        <lb ed="#B" n="15"/>misericordiam consequetur, quod non est vt videtur nisi quia pro peccato suo minus punitur quam  
        <lb ed="#B" n="16"/>laicus: cum tamen grauius peccet religiosus: quia vt dicit ibidem de religioso, tanto 
@@ -201,8 +201,8 @@
       <p xml:id="n3av8a-c1e5503-d1e412">
        EST autem aduertendum quod tota ratio in isto &amp; in praedictis 
        <lb ed="#B" n="36"/>uod scilicet vni magis parcitur in aequali peccato quam alteri, contigit ex illa regula euangelica. Lucae. vii. Duo 
-       <lb ed="#B" n="37"/>debitores erant &amp;c. vbi dicitur: Donauit vtrisque. Quis ergo eum plus diligit: et sequitur. Aestimo 
-       <lb ed="#B" n="38"/>quod is cui plus donauit. &amp; sequitur approbatio responsionis. At ille dixit ei: recte iudicasti. Quod 
+       <lb ed="#B" n="37"/>debitores erant &amp;c. vbi dicitur: Donauit vtrisque. Quis ergo eum plus diligit: et sequitur. <quote xml:id="n3av8a-c1e5503-Qd1e412" source="http://scta.info/resource/lc7_43@1-15">Aestimo
+       <lb ed="#B" n="38"/>quod is cui plus donauit.</quote> &amp; sequitur approbatio responsionis. <quote xml:id="n3av8a-c1e5503-Qd1e417" source="http://scta.info/resource/lc7_43@1-15">At ille dixit ei: recte iudicasti.</quote> Quod 
        intel<lb ed="#B" n="39" break="no"/>ligo de dilectione quae sequitur conuersionem ad poenitentiam, quando aspicimus ad praesens meritum aut 
        <lb ed="#B" n="40"/>demeritum: de quo sermo habitus est iam in secundo membro diuisionis primo &amp; principaliter 
        praece<lb ed="#B" n="41" break="no"/>dentis. Conuerso enim qui per maiorem dilectionem agit opera poenitentiae, magis dimittitur semper, &amp; in  

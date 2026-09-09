@@ -76,7 +76,7 @@
        exposi<lb ed="#B" n="53" break="no"/>tione habeat sufficiens testimonium proborum, quod sit de mente et intentione domini papae dicto modo  
        <!--990.xml-->
        <pb ed="#B" n="475-r"/>
-        <lb ed="#B" n="1"/>commendandus est: ergo &amp;c. Dicendum secundum <name ref="#Augustine">Augustinus</name> de sermone domini in monte: Quia de occultis no pEa 
+        <lb ed="#B" n="1"/>commendandus est: ergo &amp;c. Dicendum secundum <name xml:id="n3av8a-c1e4536-Nd1e149" ref="#Augustine">Augustinus</name> de sermone domini in monte: Quia de occultis no pEa 
        <lb ed="#B" n="2"/>bis iudicare non licet, sed solummodo de manifestis: sic quod de ipsis possint haberi aperta indicia: per quae  
        <lb ed="#B" n="3"/>quae alias sunt occulta fiunt manifesta. Sic enim dominus docet cognoscere occultam hypocrisim: quando  
        <lb ed="#B" n="4"/>dicit: Ex operibus eorum cognoscetis eos. vt exponit Aug. Propter quid dicitur primi Reg. xvi. 
@@ -90,8 +90,8 @@
        <lb ed="#B" n="12"/>malum est exponere ipsum alio modo maxime contrario. dicente Greti. in prologo Moralium. 
         Aliquan<lb ed="#B" n="13" break="no"/>do qui verba accipere historiae iuxta literam negligit oblatum sibi lumen veritatis abscondit: cumque a 
        <lb ed="#B" n="14"/>bore inuenire in eis aliquid extrinsecus appetit hoc quod foris fine difficultate assequi poterat 
-        amit<lb ed="#B" n="15" break="no"/>tit. &amp; ponit exempla quae habentur lob. xxxi. Si negaui quod volebant pauperibus: &amp; oculos viduae 
-        expe<lb ed="#B" n="16" break="no"/>ctare feci &amp; caetera huiusmodi. de quibus subdit: dicens. Quae videlicet si ad allegoriae sensum violenter inflecti 
+        amit<lb ed="#B" n="15" break="no"/>tit. &amp; ponit exempla quae habentur lob. xxxi. <quote xml:id="n3av8a-c1e4536-Qd1e182" source="http://scta.info/resource/iob31_16@1-10">Si negaui quod volebant pauperibus: &amp; oculos viduae
+        expe<lb ed="#B" n="16" break="no"/>ctare feci</quote> &amp; caetera huiusmodi. de quibus subdit: dicens. Quae videlicet si ad allegoriae sensum violenter inflecti 
        <lb ed="#B" n="17"/>mus cunctae eius misericordiae facta vacuamus. Aliquando vero sermonem, proprium exponere secundum 
         pla<lb ed="#B" n="18" break="no"/>num verborum bonum est &amp; alio modo similiter: immo aliis modis pluribus. dicente Greti. Nonnulla 
         tii<lb ed="#B" n="19" break="no"/>pliciter indagamus: nam primum fundamenta historiae ponimus: deinde per significationem typicam in arcem 
@@ -141,9 +141,9 @@
        <lb ed="#B" n="7"/>vituperant: non quia in se sunt male meriti, sed etiam si boni essent non apparet eis quod sibi sint bene 
        <lb ed="#B" n="8"/>fici. vnde Greti. iii. Mora. Sunt nonnulli qui dum sibi in ecclesia vident deesse quod ambiunt, hostes 
        <lb ed="#B" n="9"/>bonorum fiunt: &amp; non solum prauae semet ipsos actioni inserunt: sed etiam iustorum rectitudinem 
-       <lb ed="#B" n="10"/>inflectere ad peruersa moliuntur. Vnde in talibus impletur illud Miche. iii. Haec dicit dominus 
-       <lb ed="#B" n="11"/>super prophetas: qui seducunt populum meum: qui mordent dentibus suis: &amp; praedicant pacem: et 
-       <lb ed="#B" n="12"/>si quis non dederit in ore eorum quippiam, sanctificant super eum praelium. De qualibus etiam dicit 
+       <lb ed="#B" n="10"/>inflectere ad peruersa moliuntur. Vnde in talibus impletur illud Miche. iii. <quote xml:id="n3av8a-c1e4536-Qd1e296" source="http://scta.info/resource/mic3_5@1-29">Haec dicit dominus
+       <lb ed="#B" n="11"/>super prophetas: qui seducunt populum meum: qui mordent dentibus suis: &amp; praedicant pacem: et
+       <lb ed="#B" n="12"/>si quis non dederit in ore eorum quippiam, sanctificant super eum praelium.</quote> De qualibus etiam dicit
         Apo<lb ed="#B" n="13" break="no"/>stolus. Roma. xv. Huiusmodi Christo domino non seruiunt: sed suo ventri. vbi dicit Glos. Aliis enim 
        <lb ed="#B" n="14"/>adulantur, aliis detrahunt vt possint suum ventrem implere. Et bene correspondent sibi talis 
         expo<lb ed="#B" n="15" break="no"/>sitor &amp; talis commendator. Expositor enim nititur quae recta sunt corrigere: Commendator vero 
@@ -154,8 +154,8 @@
        <lb ed="#B" n="20"/>obserare etiam alueum conatur: illud metus praemit: hoc elatio erigit: illud gratiam ex fauoribus 
        ca<lb ed="#B" n="21" break="no"/>ptat: hoc iram certaminis excitat. et hoc commotum per illud contra doctores qui sanam doctrinam 
        <lb ed="#B" n="22"/>sustinent. vt in illis impleri incipiat (si tamen modo sint aliqui talium: quid absit, licet quaestio 
-        asser<lb ed="#B" n="23" break="no"/>tiue proponatur) illud Apostoli. ii. Timo. vlt. Erit tempus cum sanam doctrinam non sustinebunt: sed  
-       <lb ed="#B" n="24"/>coaceruabunt sibi magistros prurientes auribus. vbi dicit Glos. quod prophetia est apostoli: vnde 
+        asser<lb ed="#B" n="23" break="no"/>tiue proponatur) illud Apostoli. ii. Timo. vlt. <quote xml:id="n3av8a-c1e4536-Qd1e327" source="http://scta.info/resource/IItim4_3@1-17">Erit tempus cum sanam doctrinam non sustinebunt: sed
+       <lb ed="#B" n="24"/>coaceruabunt sibi magistros prurientes auribus.</quote> vbi dicit Glos. quod prophetia est apostoli: vnde 
         ne<lb ed="#B" n="25" break="no"/>cesse est eam impleri. Secundum praedicta concedenda est prima ratio: quia bene procedit &amp; veritatem 
        <lb ed="#B" n="26"/>iam expositam concludit. 
       </p>

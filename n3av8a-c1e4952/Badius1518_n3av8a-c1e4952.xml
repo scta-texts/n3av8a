@@ -140,9 +140,9 @@
        honora<lb ed="#B" n="54" break="no"/>uit quousque vita mortali in terris conuersatus est: &amp; etiam in morte illi prouidit de eo quivice suail 
        <!--1040.xml-->
        <pb ed="#B" n="500-r"/>
-        <lb ed="#B" n="1"/>li vtroque modo prouideret post eius mortem temporalem. dicente <name ref="#Augustine">Augustinus</name> in exponendo illud loam. vlti. 
-       <lb ed="#B" n="2"/>Cum vidisset lesus matrem &amp; discipulum stantem quem diligebat, dixit matri suae: Mulier ecce filius 
-       <lb ed="#B" n="3"/>tuus &amp;c. Haec est illa hora de qua lesus aquam conversurus in vinum dixerat matri suae: quid mihi 
+        <lb ed="#B" n="1"/>li vtroque modo prouideret post eius mortem temporalem. dicente <name xml:id="n3av8a-c1e4952-Nd1e288" ref="#Augustine">Augustinus</name> in exponendo illud loam. vlti.
+       <quote xml:id="n3av8a-c1e4952-Qd1e291" source="http://scta.info/resource/io19_26@1-17"><lb ed="#B" n="2"/>Cum vidisset lesus matrem &amp; discipulum stantem quem diligebat, dixit matri suae: Mulier ecce filius
+       <lb ed="#B" n="3"/>tuus</quote> &amp;c. Haec est illa hora de qua lesus aquam conversurus in vinum dixerat matri suae: quid mihi 
        <lb ed="#B" n="4"/>&amp; tibi mulier: nondum venit hora mea, nondum venerat hora in qua deberet eam cognoscere 
        mori<lb ed="#B" n="5" break="no"/>turus: de qua fuit mortalis natus. Tunc ergo diuina facturus non deitatis sed infirmitatis matrem 
        ve<lb ed="#B" n="6" break="no"/>lut incognitam repellebat. Nunc autem humana iam patiens eam ex qua factus fuerat homo affectu 
@@ -152,7 +152,7 @@
         ne<lb ed="#B" n="10" break="no"/>gat, &amp; est infideli deterior. Quid autem cuiquam tam domesticum quam parentes: Huius itaque saluberrimi 
        <lb ed="#B" n="11"/>praecepti ipse magister sanctorum de seipso constituebat exemplum, quando non vt famulae deus, sed vt matri 
        ho<lb ed="#B" n="12" break="no"/>mo quam relinquebat alterum pro se quodammo filium prouidebat. Nam cur hoc factum fuit quod se 
-       <lb ed="#B" n="13"/>quitur indicat. Ait enim ibidem loannes: Et ex illa hora accepit eam discipulus in suam. de seipso dicens 
+       <lb ed="#B" n="13"/>quitur indicat. Ait enim ibidem loannes: <quote xml:id="n3av8a-c1e4952-Qd1e319" source="http://scta.info/resource/io19_27@7-15">Et ex illa hora accepit eam discipulus in suam.</quote> de seipso dicens
        <lb ed="#B" n="14"/>vt ad eius curam quicquid ei esset necessarium pertineret. Suscepit ergo eam in suam, non praedia quae 
        <lb ed="#B" n="15"/>nulla iure proprio possidebat: sed officia quae propria dispositione exequenda curabat. Quaero ergo  
        <lb ed="#B" n="16"/>si Maria infirma fuisset &amp; corporali solatio loannis &amp; victu corporali indiguisset, numquid loannes 
@@ -162,12 +162,12 @@
         Qua<lb ed="#B" n="20" break="no"/>re similiter nec religiosus in consimili casu matrem suam nequaquam dimittere debet desolatam, sed eam 
        <lb ed="#B" n="21"/>debet honorare opere, vt dictum est. Vnde vt puto illis qui contraria dicunt siqui forte sint ( qui tamen ad 
         il<lb ed="#B" n="22" break="no"/>la dicenda mouentur, nec auct oritate, nec ratione, sed sola affectione fauoris ad statum suae professionis 
-       <lb ed="#B" n="23"/>videntur moueri) bene potest dici illud Matth. xv. Quare vos transgredimini mandatum dei propter 
-       <lb ed="#B" n="24"/>traditionem vestram: Nam deus dixit: Honora patrem &amp; matrem. Glos. Imbecillitati consulas dando  
-       <lb ed="#B" n="25"/>necessaria. Vestra autem traditio contraria est. Et quomodo subdit: in quo multum declaratur nostrum 
-        pro<lb ed="#B" n="26" break="no"/>positum contra illos. Vos autem dicitis, quicunque dixerit patri vel matri munus quodcumque est ex me 
-       <lb ed="#B" n="27"/>tibi proderit: &amp; non honorauerit patrem suum aut matrem suam: &amp; irritum fecistis mandatum dei 
-       <lb ed="#B" n="28"/>propter traditionem vestram. Glos. Hoc filios dicere parentibus compellitis: quid deo oblaturus eram in tuos 
+       <lb ed="#B" n="23"/>videntur moueri) bene potest dici illud Matth. xv. <quote xml:id="n3av8a-c1e4952-Qd1e344" source="http://scta.info/resource/mt15_3@6-14">Quare vos transgredimini mandatum dei propter
+       <lb ed="#B" n="24"/>traditionem vestram</quote>: <quote xml:id="n3av8a-c1e4952-Qd1e349" source="http://scta.info/resource/mt15_4@1-7">Nam deus dixit: Honora patrem &amp; matrem.</quote> Glos. Imbecillitati consulas dando
+       <lb ed="#B" n="25"/>necessaria. Vestra autem traditio contraria est. Et quomodo subdit: in quo multum declaratur nostrum
+        pro<lb ed="#B" n="26" break="no"/>positum contra illos. <quote xml:id="n3av8a-c1e4952-Qd1e356" source="http://scta.info/resource/mt15_5@1-15">Vos autem dicitis, quicunque dixerit patri vel matri munus quodcumque est ex me
+       <lb ed="#B" n="27"/>tibi proderit</quote>: <quote xml:id="n3av8a-c1e4952-Qd1e362" source="http://scta.info/resource/mt15_6@1-15">&amp; non honorauerit patrem suum aut matrem suam: &amp; irritum fecistis mandatum dei
+       <lb ed="#B" n="28"/>propter traditionem vestram.</quote> Glos. Hoc filios dicere parentibus compellitis: quid deo oblaturus eram in tuos 
        <lb ed="#B" n="29"/>consumo cibos: quasi non proderit tibi vel mihi. impietatem sub nomine pietatis inducunt: &amp; docent 
        <lb ed="#B" n="30"/>quod oblatio domini qui verus est pater obsequiis parentum praeferatur. Quaero quid isti aliud dicunt quando suos 
        au<lb ed="#B" n="31" break="no"/>ditores: qui in hoc quoquo modo filii eorum sunt, docent nisi quod ex professione religionis sic obligantur deo ad 

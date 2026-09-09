@@ -71,7 +71,7 @@
       <p xml:id="n3av8a-c1e136-d1e130">
        TERtio: quia mortuum dicit priuationem formae a qua erat vita. Corpus Christi vere mortuum 
        <lb ed="#B" n="39"/>erat in sepulcro: ergo in Christo fuit priuatio formea a qua prius in eo erat vita: sed non est priuatio 
-        for<lb ed="#B" n="40" break="no"/>mae vnius nisi cum forma contraria existente in materia, vt vult <name ref="#Aristotle">philosophus</name> in primo Physicorum. ergo &amp;c. 
+        for<lb ed="#B" n="40" break="no"/>mae vnius nisi cum forma contraria existente in materia, vt vult <name xml:id="n3av8a-c1e136-Nd1e130" ref="#Aristotle">philosophus</name> in primo Physicorum. ergo &amp;c. 
       </p>
       <p xml:id="n3av8a-c1e136-d1e141">
        
@@ -124,8 +124,8 @@
        <lb ed="#B" n="16"/>tum praedictorum: &amp; videtur quod vterque istorum modorum magis sit consonus fidei &amp; dignitati Christi quam modus 
        il<lb ed="#B" n="17" break="no"/>lorum. Contrario enim modo est quasi illorum annexum determinato articulo fidei quam sacra seriptura dictat vt vi 
        <lb ed="#B" n="18"/>detur cum Dauid loquens in persona Christi loquentis ad patrem de anima sua descedente ad limbum &amp; de corpore suo 
-       <lb ed="#B" n="19"/>iacente in sepulcro ait in psal. Caro mea requiescet in spe: quoniam non dereliques animam meam in inferno, nec 
-       <lb ed="#B" n="20"/>dabis sanctum tuum videre corruptionem. vbi dicit glo. Caro mea requiescet: hoc est dormiet somno 
+       <lb ed="#B" n="19"/>iacente in sepulcro ait in psal. <quote xml:id="n3av8a-c1e136-Qd1e226" source="http://scta.info/resource/ps15_9@13-17 http://scta.info/resource/ps15_10@2-13">Caro mea requiescet in spe: quoniam non dereliques animam meam in inferno, nec
+       <lb ed="#B" n="20"/>dabis sanctum tuum videre corruptionem.</quote> vbi dicit glo. Caro mea requiescet: hoc est dormiet somno
         mor<lb ed="#B" n="21" break="no"/>tis in spe resurrectionis: quia nec anima mea inferno possidenda dabitur more aliorum: nec corpus meum sanctum tuum 
        <lb ed="#B" n="22"/>hoc est a te sanctificatum dabis videre corruptionem hoc est putrefactionem. Articulus ergo fidei expressus est 
        <lb ed="#B" n="23"/>quod corpus Christi in sepulcro aut non erat omnino putribile: aut si putribile, in triduo mortis Christi mira 
@@ -184,7 +184,7 @@
        <lb ed="#B" n="12"/>AD primum argumentum &amp; ad secundum in oppositum, quod non potest materia esse sine forma: &amp; quod 
        genera<lb ed="#B" n="13" break="no"/>tio vnius est corruptio alterius: dicendum quod verum est sola actione naturae: quia natura non potest materiam de 
        <lb ed="#B" n="14"/>nudare &amp; separare ab omni forma: forma enim vna naturaliter alteram non corrumpit: nisi per hoc quod formam sibi 
-       <lb ed="#B" n="15"/>similem illi contrariam in materia generat. Et ideo dicit <name ref="#Aristotle">philosophus</name> in secundo de anima quod patiens naturale in pri 
+       <lb ed="#B" n="15"/>similem illi contrariam in materia generat. Et ideo dicit <name xml:id="n3av8a-c1e136-Nd1e350" ref="#Aristotle">philosophus</name> in secundo de anima quod patiens naturale in pri 
        <lb ed="#B" n="16"/>cipio est contrarium: in fine autem simile. &amp; in primo de generatione, quod generatio vnius est corruptio alterius 
        <lb ed="#B" n="17"/>&amp; econuerso: &amp; quod impossibile est materiam separari a morpheis &amp; passionibus. Actione autem diuina 
         praeser<lb ed="#B" n="18" break="no"/>uante materiam ne ad vnius formae corruptionem forma contraria introducatur in materia: &amp; aliquid 

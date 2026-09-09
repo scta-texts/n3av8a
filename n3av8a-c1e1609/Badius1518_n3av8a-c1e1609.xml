@@ -68,8 +68,8 @@
       <p xml:id="n3av8a-c1e1609-d1e128">
        IN hac quaestione supponitur quod 
        regu<lb ed="#B" n="50" break="no"/>lariter charitas contemplatoris maior est charitate viatoris. Quod reuera supponendum est in eodem 
-       <lb ed="#B" n="51"/>dicente Apostolo Phil. iii. Non quod iam acceperim aut iam perfectus sim, sequor: siquo modo 
-        com<lb ed="#B" n="52" break="no"/>prehendam &amp;c. Quicumque ergo persecti sumus hoc sentiamus. vbi dicit Glos. quod imperfecti sumus 
+       <lb ed="#B" n="51"/>dicente Apostolo Phil. iii. <quote xml:id="n3av8a-c1e1609-Qd1e128" source="http://scta.info/resource/phil3_12@1-12">Non quod iam acceperim aut iam perfectus sim, sequor: siquo modo
+        com<lb ed="#B" n="52" break="no"/>prehendam</quote> &amp;c. Quicumque ergo persecti sumus hoc sentiamus. vbi dicit Glos. quod imperfecti sumus 
         compa<lb ed="#B" n="53" break="no"/>ratione futuri: &amp; ita iustitia qua iustus ex fide viuit, nunc vera iustitia est: quae licet non immerito 
        <lb ed="#B" n="54"/>in aliquibus iustis pro huius vitae capacitate perfecta dicatur, parua tamen est ad illam magnam 
        <!--328.xml-->
@@ -84,7 +84,7 @@
        <lb ed="#B" n="8"/>ex parte corporis &amp; animae, impedientis in praesenti ne tota nostra cogitatio feratur in deum: &amp; 
        to<lb ed="#B" n="9" break="no"/>ta nostra affectio ligetur in ipsum semper feruentius secundum actum: licet non secundum habitum  
        <lb ed="#B" n="10"/>semper deum diligit: &amp; perfectius quam posset diligere quaecunque charitas viae quantuncumque esset maior. Vnde di 
-       <lb ed="#B" n="11"/>cit <name ref="#Augustine">Augustinus</name> vbi supra. Charitas quae nunc est non auferetur sed augebitur &amp; implebitur. In qua plenitudine illud  
+       <lb ed="#B" n="11"/>cit <name xml:id="n3av8a-c1e1609-Nd1e166" ref="#Augustine">Augustinus</name> vbi supra. Charitas quae nunc est non auferetur sed augebitur &amp; implebitur. In qua plenitudine illud  
        <lb ed="#B" n="12"/>praeceptum charitatis implebitur. Diliges dominum deum &amp;c. Nam cum adhuc est aliquid 
         carna<lb ed="#B" n="13" break="no"/>lis concupiscentiae, non omni modo ex tota anima diligitur deus. Intelligendo autem charitatis viae 
        <lb ed="#B" n="14"/>augmentum quo ad essentiae eius quantitatem: est opinio aliquorum quod quantuncumque augeatur 
@@ -105,7 +105,7 @@
        <lb ed="#B" n="29"/>&amp; extendendo facis capaciorem. Sic si desiderando extendis animum, extendendo facis capaciorem. Quia si 
        <lb ed="#B" n="30"/>forte tanta sit charitas patriae vt charitas hic habita quantuncumque magna fit &amp; quantuncumque augeatur:  
        <lb ed="#B" n="31"/>vt nullius viatoris puri charitas ei adaequetur: nec adaequata vnquam fuerit, neque vnquam adaequabitur:  
-       <lb ed="#B" n="32"/>vt secundum hoc intelligatur illud euangelii. Qui minor est in regno caelorum maior est illo. scilicet 
+       <lb ed="#B" n="32"/>vt secundum hoc intelligatur illud euangelii. <quote xml:id="n3av8a-c1e1609-Qd1e214" source="http://scta.info/resource/mt11_11@12-21">Qui minor est in regno caelorum maior est illo.</quote> scilicet
        <lb ed="#B" n="33"/>loanne Baptista. de quo dixit Christus. Inter natos mulierum &amp;c. hoc non impedit quin quantum est 
        <lb ed="#B" n="34"/>ex parte charitatis recipiendae, &amp; ex parte subiecti recipientis, si in statu meriti perseueraret, ad tantum  
        <lb ed="#B" n="35"/>augmentum peruenire posset. Sed quod amplius est, non est omnino manifestum vtrum charitas patriae quo  

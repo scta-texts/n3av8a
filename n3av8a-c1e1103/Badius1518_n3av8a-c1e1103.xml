@@ -52,7 +52,7 @@
       <p xml:id="n3av8a-c1e1103-d1e99">
        <lb ed="#B" n="44"/>CIrca secundum arguebatur, quod per se subsistens potest esse vnibile alteri. quoniam 
        <lb ed="#B" n="45"/>anima rationalis est per se subsistens: quia habet actum separatum. &amp; habens actum separatum in  
-       <lb ed="#B" n="46"/>substantia potest esse separatum. Per hoc enim ostendit <name ref="#Aristotle">philosophus</name> intellectum separabilem a 
+       <lb ed="#B" n="46"/>substantia potest esse separatum. Per hoc enim ostendit <name xml:id="n3av8a-c1e1103-Nd1e101" ref="#Aristotle">philosophus</name> intellectum separabilem a 
        <lb ed="#B" n="47"/>corpore, in secundo de anima. &amp; ipsa est vnibilis corpori, vt forma &amp; actus: quia 
         ali<lb ed="#B" n="48" break="no"/>ter homo non esset homo per intellectum: quia res non habet esse id quod est nisi 
        <lb ed="#B" n="49"/>per suam formam substantialem. ergo &amp;c. 
@@ -154,7 +154,7 @@
       <p xml:id="n3av8a-c1e1103-d1e298">
        EX parte materiae est 
        <lb ed="#B" n="15"/>difficultas: &amp; hoc siue ipse intellectus ponatur forma materiae immediate, siue mediante aliqua forma soali 
-       <lb ed="#B" n="16"/>Quoniam secundum <name ref="#Aristotle">philosophum</name> in octauo metaphysicae vbi tractat hanc quaestionem: quomodo homo sit vnus cum sit compositus 
+       <lb ed="#B" n="16"/>Quoniam secundum <name xml:id="n3av8a-c1e1103-Nd1e298" ref="#Aristotle">philosophum</name> in octauo metaphysicae vbi tractat hanc quaestionem: quomodo homo sit vnus cum sit compositus 
        <lb ed="#B" n="17"/>ex anima &amp; corpore: dicit quod causa vnitatis compositi ex forma &amp; materia est quod illud idem quid primo est 
        <lb ed="#B" n="18"/>in potentia ab agente fiat actum. vbi dicit Comment, nec est aliquid aliud causatum ab eo in quod agit 
        <lb ed="#B" n="19"/>sed illud idem quod est in potentia sit in actum: cum agens extrahat illud de potentia in actum. Est 
@@ -194,7 +194,7 @@
        <lb ed="#B" n="50"/>quid communicatur toti per partem non communicatur alteri parti per partem illam: non enim dicimus quod manus videt per 
        ocu<lb ed="#B" n="51" break="no"/>lum, sicut homo videt per oculum: non esset compositum ex materia &amp; forma vnum simpliciter: sed  
        <lb ed="#B" n="52"/>solum sicut aggregatum &amp; copulatum ex materia &amp; forma vnum simpliciter, quemadmodum liber llias vel 
-       <lb ed="#B" n="53"/>homo si est aggregatum quid dicitur ex animali &amp; bipede, vt dicit <name ref="#Aristotle">philosophus</name> in. viii. metaphysicae. Si ergo aliquid natum est 
+       <lb ed="#B" n="53"/>homo si est aggregatum quid dicitur ex animali &amp; bipede, vt dicit <name xml:id="n3av8a-c1e1103-Nd1e384" ref="#Aristotle">philosophus</name> in. viii. metaphysicae. Si ergo aliquid natum est 
         habe<lb ed="#B" n="54" break="no"/>re esse &amp; actum propositum per se subsistendi in sua essentia, difficillimum videtur posse intelligi quod sit alicuius 
        <!--185.xml-->
        <pb ed="#B" n="72-v"/>
@@ -252,7 +252,7 @@
         quemadmo<lb ed="#B" n="43" break="no"/>dum quilibet numerus post binarium est medium coniungens superiores numeros inferioribus. Nec debet 
        <lb ed="#B" n="44"/>adhuc istud commune intelligi, vt sit de natura superiorum: &amp; moueat tantum substantiam ali 
        <lb ed="#B" n="45"/>quam corporalem, praeter hoc quod sit forma &amp; actus eius. Aliter enim intellectiua vltimo mouens 
-        cae<lb ed="#B" n="46" break="no"/>los quae secundum <name ref="#Aristotle">philosophos</name> dicta est anima caeli, aequali ratione posset dici coniungere superiora inferioribus 
+        cae<lb ed="#B" n="46" break="no"/>los quae secundum <name xml:id="n3av8a-c1e1103-Nd1e502" ref="#Aristotle">philosophos</name> dicta est anima caeli, aequali ratione posset dici coniungere superiora inferioribus 
        <lb ed="#B" n="47"/>lpsa enim secundum Auerroem coniungitur corpori caelesti, quemadmodum nobis intellectus. Amplius 
        <lb ed="#B" n="48"/>ergo quam secundum rationem mouendi corpus, quemadmodum Plato &amp; Auerrois ponebant intellec 
        <lb ed="#B" n="49"/>coniungi corpori, debet intelligi superiora cum inferioribus coniungi per animam intellectiuam: &amp; hoc 
@@ -276,10 +276,10 @@
        <lb ed="#B" n="11"/>est superiori &amp; primo in dignitate &amp; gradu naturae inter infima, corporalia. scilicet perfectibilia, &amp; esse suum 
        <lb ed="#B" n="12"/>ab alio vt a persectione sua &amp; forma suscipientia: &amp; hoc non est nisi ponere aliquid per se subsistens: vt 
        ani<lb ed="#B" n="13" break="no"/>mam rationalem corpori vnibilem: vt formam &amp; actum eius. Et ideo consideratio de anima intellectiua 
-       <lb ed="#B" n="14"/>ad duplicem <name ref="#Aristotle">philosophum</name> pertinet: ad naturalem scilicet inquantum est forma &amp; actus corporis acquirens 
+       <lb ed="#B" n="14"/>ad duplicem <name xml:id="n3av8a-c1e1103-Nd1e560" ref="#Aristotle">philosophum</name> pertinet: ad naturalem scilicet inquantum est forma &amp; actus corporis acquirens 
        <lb ed="#B" n="15"/>actum intelligendi ex sensibilibus adminiculo sensuum, &amp; metaphysicum inquantum secundum se est 
        <lb ed="#B" n="16"/>aliquid potens actu subsistere &amp; habere actum intelligendi per se separatum omnino per species a 
-       su<lb ed="#B" n="17" break="no"/>periori impressas sine omni sensuum adminiculo: secundum quod dicit <name ref="#Aristotle">philosophus</name> in secundo 
+       su<lb ed="#B" n="17" break="no"/>periori impressas sine omni sensuum adminiculo: secundum quod dicit <name xml:id="n3av8a-c1e1103-Nd1e570" ref="#Aristotle">philosophus</name> in secundo 
         Physico<lb ed="#B" n="18" break="no"/>rum. Physicum oportet cognoscere speciem, &amp; quae sunt separatae species: in materia autem. &amp; intelligit ani  
        <lb ed="#B" n="19"/>mas intellectiuas. vnde subdit ad probationem sui dicti. Homo enim hominem generat ex materia &amp; 
        <lb ed="#B" n="20"/>sol. Quomodo autem se habeat haec separabilis primae philosophiae determinare opus est. Sed 
@@ -294,17 +294,17 @@
         contra<lb ed="#B" n="29" break="no"/>rio: licet natura sua ex se: &amp; ex puris naturalibus suis possit sustinere vt non sit actu sub illa 
         dispositio<lb ed="#B" n="30" break="no"/>ne quam naturaliter appetit: sed sub contraria. Primo modo impossibile est quod duae dispositiones 
        contra<lb ed="#B" n="31" break="no"/>riae naturales sint eidem: quoniam natura semper est determinata ad vnum naturaliter. Non enim 
-        va<lb ed="#B" n="32" break="no"/>let naturalis potentia ad oppositum. secundum <name ref="#Aristotle">philosophum</name> nono Metaphysicae. Secundo autem 
+        va<lb ed="#B" n="32" break="no"/>let naturalis potentia ad oppositum. secundum <name xml:id="n3av8a-c1e1103-Nd1e605" ref="#Aristotle">philosophum</name> nono Metaphysicae. Secundo autem 
        mo<lb ed="#B" n="33" break="no"/>do bene possibile est: quemadmodum terra naturaliter, &amp; per se habet quiescere in centro: &amp; tamen per 
        <lb ed="#B" n="34"/>accidens potest expelli a centro &amp; sursum detineri. Et per hunc modum possibile est dictas dispositio 
        <lb ed="#B" n="35"/>nes contrarias succedere sibi circa naturam animae rationalis: vt naturaliter quantum est de se non 
         ha<lb ed="#B" n="36" break="no"/>beat nisi rationem formae vnitae corpori vt materiae: &amp; non appetat ab eo separari: sed in eo permanere 
        <lb ed="#B" n="37"/>perpetuo: &amp; nunquam ab eo separari: &amp; si separetur, quod hoc sit ei accidens praeter naruram suam, secundum 
        <lb ed="#B" n="38"/>quod dicitur de spiritu &amp; anima capitulo decimotertio. Quibusdam affectionibus in quadam amicitia 
-       ani<lb ed="#B" n="39" break="no"/>ma coniungitur corpori: secundum quam amicitiam nemo carnem suam odio habuit: sed nutrit &amp; 
-       fo<lb ed="#B" n="40" break="no"/>uet. Sociata namque illi licet eius societate praegrauetur, ineffabili tamen conditione diligit illud: amat 
+       ani<lb ed="#B" n="39" break="no"/>ma coniungitur corpori: secundum quam amicitiam <quote xml:id="n3av8a-c1e1103-Qd1e624" source="http://scta.info/resource/eph5_29@1-12">nemo carnem suam odio habuit: sed nutrit &amp;
+       fo<lb ed="#B" n="40" break="no"/>uet.</quote> Sociata namque illi licet eius societate praegrauetur, ineffabili tamen conditione diligit illud: amat 
         car<lb ed="#B" n="41" break="no"/>cerem suum: doloribus vehementer afficitur: formidat interitum qui mori non potest: timet defectum 
-       <lb ed="#B" n="42"/>qui per naturam deficere non potest. Et <name ref="#Augustine">Augustinus</name> in fine duodecimi super Gen. loquens de anima 
+       <lb ed="#B" n="42"/>qui per naturam deficere non potest. Et <name xml:id="n3av8a-c1e1103-Nd1e633" ref="#Augustine">Augustinus</name> in fine duodecimi super Gen. loquens de anima 
        <lb ed="#B" n="43"/>separata dicit. Inest ei quidam appetitus naturalis corpus administrandi, quo appetitu retardatur 
         quo<lb ed="#B" n="44" break="no"/>dammodo, ne tota intentione pergat in illud summum caelum: Trinitatis scilicet quamdiu non subest corpus, cuius 
        <lb ed="#B" n="45"/>administratione appetitus ille conquiescat. Per accidens tamen &amp; per mortis violentiam: vt 
@@ -342,7 +342,7 @@
       <p xml:id="n3av8a-c1e1103-d1e712">
        AD illud quod inducitur ex parte materiae, quod anima separabilis non potest esse forma materiae 
        con<lb ed="#B" n="20" break="no"/>stituens cum ea vnum esse: quia non extrahitur de potentia materiae: Dicendum intelligendo primum: quod 
-        secun<lb ed="#B" n="21" break="no"/>dum quod dictum fuit in tertia difficultate supra inducta, &amp; secundum quod dicit <name ref="#Aristotle">philosophus</name> in. vii. Metaphysicae impossibile 
+        secun<lb ed="#B" n="21" break="no"/>dum quod dictum fuit in tertia difficultate supra inducta, &amp; secundum quod dicit <name xml:id="n3av8a-c1e1103-Nd1e715" ref="#Aristotle">philosophus</name> in. vii. Metaphysicae impossibile 
        <lb ed="#B" n="22"/>est vt substantia vna sit ex substantiis diuersis, cum vna earum sit ens in actum. Et secundum hunc etiam modum  
        <lb ed="#B" n="23"/>vt dicit ibidem, duo quae sunt in actum non erunt in aliqua hora vnum in actum. Sed si fuerint duo in 
         poten<lb ed="#B" n="24" break="no"/>tia, erunt vnum. Et huius non est causa alia: nisi quod oportet quod in eo quod est vnum compositum: non sit ni 
@@ -401,7 +401,7 @@
        <lb ed="#B" n="21"/>sicut in se eam habuit dispositio sapientiae dei: quoniam omnium causas deus in seipso vniformiter praeacce 
        <lb ed="#B" n="22"/>pit: vt dicit Dionysius immediate post assumptum verbum: &amp; secundum quod sapientia ab aeterno dis 
        <lb ed="#B" n="23"/>posuit: sic &amp; voluntas eius in naturae humanae productione ab initio ei talem naturam 
-        impres<lb ed="#B" n="24" break="no"/>sit. iuxta illud quod dicit <name ref="#Ambrose">Ambrosius</name> in Hexameron. Natura rei voluntas dei. Et ita sicut 
+        impres<lb ed="#B" n="24" break="no"/>sit. iuxta illud quod dicit <name xml:id="n3av8a-c1e1103-Nd1e846" ref="#Ambrose">Ambrosius</name> in Hexameron. Natura rei voluntas dei. Et ita sicut 
         di<lb ed="#B" n="25" break="no"/>ctum est supra quod in Christo non est nisi vnum esse existentiae actualis: sed duplex esse naturae: 
         di<lb ed="#B" n="26" break="no"/>uinae &amp; humanae: quia natura humana ad actualem existentiam diuinae naturae assumpta est: &amp; 
        <lb ed="#B" n="27"/>nunquam secundum se actualitatem existentiae habuit: sicut neque rationem suppositi: sic in homine puro 
@@ -425,7 +425,7 @@
        <lb ed="#B" n="42"/>no fine anima: vt dictum est: sed quod anima est perfectio huius corporis dans esse in actu ipsi tanquam illi quid  
        <lb ed="#B" n="43"/>quantum est ex se &amp; natura sua non est nisi ens in potentia: nullo modo apud eum sunt duo diuersa 
        <lb ed="#B" n="44"/>in esse, corpu scilicet &amp; anima: sed vnum tantum: nec accidit ei aliqua difficultas aut dubitatio quomodo fiat 
-       <lb ed="#B" n="45"/>vnum ex corpore &amp; anima. Et non est causa erroris aliquorum in hoc: nisi quia vt dicit <name ref="#Aristotle">philosophous</name> 
+       <lb ed="#B" n="45"/>vnum ex corpore &amp; anima. Et non est causa erroris aliquorum in hoc: nisi quia vt dicit <name xml:id="n3av8a-c1e1103-Nd1e897" ref="#Aristotle">philosophous</name> 
        <lb ed="#B" n="46"/>in fine octaui Metaphysicae quaerunt vnum &amp; idem quod primo est in potentia, &amp; postmodum in actum, qua 
        <lb ed="#B" n="47"/>si diuersum secundum quod iam expositum est. vbi dicit commentator. ld est causa deceptionis in hoc est quia 
        <lb ed="#B" n="48"/>ponunt idem quando est in potentia, &amp; quando est in actum, esse diuersum: &amp; in rei veritate est vnum. 
@@ -433,13 +433,13 @@
        <lb ed="#B" n="50"/>esse eius quod est in potentia animatum: cum est animatum in actu. Et tunc exitus de potentia in actum 
        <lb ed="#B" n="51"/>eius quod est in potentia, &amp; hoc vt per se est in potentia ad totum compositum perfectum in esse: non 
        au<lb ed="#B" n="52" break="no"/>tem vt est in potentia ad animam rationalem, nisi inquantum ipsa habet esse pars formalis illius com 
-       <lb ed="#B" n="53"/>positi: &amp; ita quodammodo per accidens: quemadmodum secundum <name ref="#Aristotle">philosophum</name> compositum est id quod 
+       <lb ed="#B" n="53"/>positi: &amp; ita quodammodo per accidens: quemadmodum secundum <name xml:id="n3av8a-c1e1103-Nd1e918" ref="#Aristotle">philosophum</name> compositum est id quod 
         gene<lb ed="#B" n="54" break="no"/>ratur per se, forma autem non nisi per accidens: &amp; vt est pars in ipso composito. Talis inquam exitus eius 
        <!--189.xml-->
        <pb ed="#B" n="74-v"/>
        <lb ed="#B" n="1"/>quod sic est in potentia, nec habet causam nisi motorem extrahentem ipsum de potentia in actum: secundum 
        <lb ed="#B" n="2"/>quod expositum est iam: &amp; cum sic est, hom. scilicet compositum ex anima &amp; corpore, est vnum &amp; idem: quemadmodum 
-        ma<lb ed="#B" n="3" break="no"/>teria vltima &amp; forma: vt dicit <name ref="#Aristotle">philosophus</name> ibidem. Super quo dicit commentator. Anima cum corpore est 
+        ma<lb ed="#B" n="3" break="no"/>teria vltima &amp; forma: vt dicit <name xml:id="n3av8a-c1e1103-Nd1e934" ref="#Aristotle">philosophus</name> ibidem. Super quo dicit commentator. Anima cum corpore est 
        <lb ed="#B" n="4"/>idim: sicut dicimus quod prima materia &amp; forma sunt idem. Et contingit in tali composito, ex materia sci 
        <lb ed="#B" n="5"/>licet &amp; forma duplici, materiali &amp; immateriali, quemadmodum in definitionibus. Quemadmodum enim secundum 
        <lb ed="#B" n="6"/>Auerroim super. viii. Metaphysicae vltima differentia in definitionibus quoniam continet formam, per quam ens est vnum  
@@ -524,13 +524,13 @@
        <lb ed="#B" n="20"/>quia ponit quod sentire non est operatio animae tantum sed coniuncti: intelligere autem est operatio animae tantum: nea 
        <lb ed="#B" n="21"/>cesse habet ponere quod homo ratione suae operationis sensitiuae non est anima tantum: sed compositum ex 
        ani<lb ed="#B" n="22" break="no"/>ma &amp; corpore, &amp; quod ratione operationis intellectiuae sit anima tantum. Et ita cum principalius pertineat ad 
-        ho<lb ed="#B" n="23" break="no"/>minem vt homo est, operatio intellectus quam sensus: quoniam secundum <name ref="#Aristotle">philosophum</name> &amp; conmentatorem in nono Metaa 
+        ho<lb ed="#B" n="23" break="no"/>minem vt homo est, operatio intellectus quam sensus: quoniam secundum <name xml:id="n3av8a-c1e1103-Nd1e1111" ref="#Aristotle">philosophum</name> &amp; conmentatorem in nono Metaa 
        <lb ed="#B" n="24"/>physicae intellectus vnusquisque homo est, vel magis quam sensus: igitur sequitur ad illam opinionem quod homo 
        <lb ed="#B" n="25"/>principalius dicetur esse anima, vel intellectus: quam compositum ex corpote &amp; anima. Contra id quid dicit 
        philoso<lb ed="#B" n="26" break="no"/>phus in. vii. Metaphysicae Forma hominis semper videtur in carnibus, &amp; ossibus, &amp; partibus similibus istis. vbi di 
        <lb ed="#B" n="27"/>cit commentator. Impossibile est enim hominem intelligere sine carnibus &amp; ossibus. &amp; in eodem. Anima est 
        <lb ed="#B" n="28"/>prima substantia, corpus vero materia: homo vero, quid est ex vtroque sicut totale. Illius enim opinionis 
-       <lb ed="#B" n="29"/>falsitas patet ex hoc: quod secundum <name ref="#Aristotle">philosophum</name> in composito actio per se est compositi ex materia &amp; forma: vt eius 
+       <lb ed="#B" n="29"/>falsitas patet ex hoc: quod secundum <name xml:id="n3av8a-c1e1103-Nd1e1127" ref="#Aristotle">philosophum</name> in composito actio per se est compositi ex materia &amp; forma: vt eius 
        <lb ed="#B" n="30"/>quod agit licet per formam &amp; non ipsius formae, non enm dicimus quod caliditas agit, sed ignis per suam 
         calidita<lb ed="#B" n="31" break="no"/>tem. Quare cum anima etiam secundum illam opinionem substantialiter sit forma &amp; actus corporis: omnis 
        igi<lb ed="#B" n="32" break="no"/>tur actio cuius anima in corpore existens est principium &amp; causa per se: debet dici actio compositi per animam, 
@@ -642,7 +642,7 @@
         ver<lb ed="#B" n="23" break="no"/>bum, &amp; quicquid est de re in intellectu: est perfecta ratio &amp; similitudo rei extra perfecte assimilans intelligentem 
        <lb ed="#B" n="24"/>intellecto. vnde &amp; dicitur ipsa veritas: quae est diminuta rei entitas, siue ipsa adaequatio rei &amp; intellectus:  
        <lb ed="#B" n="25"/>quoniam adaequat intelligentem intellecto, &amp; facit quod intellectus quodammodo sit ipsum intellectum. propter quid  
-       <lb ed="#B" n="26"/>dicit <name ref="#Aristotle">philosophus</name> in tertio de Anima, quod intellectus non est aliquid eorum quae sunt antequam actu 
+       <lb ed="#B" n="26"/>dicit <name xml:id="n3av8a-c1e1103-Nd1e1369" ref="#Aristotle">philosophus</name> in tertio de Anima, quod intellectus non est aliquid eorum quae sunt antequam actu 
         intel<lb ed="#B" n="27" break="no"/>ligat, &amp; veru. scilicet tale formetur in intellectu. quidquidem est illud quod dicitur esse verum vel: quod est vnum in anima 
        <lb ed="#B" n="28"/>conquiescens: vnum praeter multa, principium proximum incomplexum artis &amp; scientiae separatum a 
        condi<lb ed="#B" n="29" break="no"/>tionibus materialibus omnibus &amp; particularibus: sine quibus res extra in rerum natura non existit: &amp; 

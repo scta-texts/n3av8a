@@ -68,10 +68,10 @@
       <p xml:id="n3av8a-c1e354-d1e128">
        VT omnes sinus quaestionis huius 
        excu<lb ed="#B" n="4" break="no"/>tiamus sciendum quod duplex est miseria: poene scilicet &amp; culpae. &amp; secundum vtrumque modum quaestio habet difficultatem 
-       <lb ed="#B" n="5"/>quo ad aliud tamen &amp; aliud vt videbitur. Quantum ad miseriam quidem poenae tractat <name ref="#Augustine">Augustinus</name> istam quaestionem in libro  
-       <lb ed="#B" n="6"/>iii. de libero arbitrio. Quantum ad miseriam autem culpae, tractat eam <name ref="#Aristotle">philosophus</name> in quarto &amp; in nono Ethico. 
+       <lb ed="#B" n="5"/>quo ad aliud tamen &amp; aliud vt videbitur. Quantum ad miseriam quidem poenae tractat <name xml:id="n3av8a-c1e354-Nd1e128" ref="#Augustine">Augustinus</name> istam quaestionem in libro  
+       <lb ed="#B" n="6"/>iii. de libero arbitrio. Quantum ad miseriam autem culpae, tractat eam <name xml:id="n3av8a-c1e354-Nd1e133" ref="#Aristotle">philosophus</name> in quarto &amp; in nono Ethico. 
         Cir<lb ed="#B" n="7" break="no"/>ca primum membrum Augu. primo destruit smiam erroneam aliorum. Deinde determinat propriam veritatem. Scie 
-       <lb ed="#B" n="8"/>dum igitur secundum quod recitat <name ref="#Augustine">Augustinus</name> quod aliqui dicebant quod non esse magis esset eligendum quantum est ex parte 
+       <lb ed="#B" n="8"/>dum igitur secundum quod recitat <name xml:id="n3av8a-c1e354-Nd1e141" ref="#Augustine">Augustinus</name> quod aliqui dicebant quod non esse magis esset eligendum quantum est ex parte 
        <lb ed="#B" n="9"/>eligibilis, quam poenale esse: &amp; etiam ex parte eligentis. ita quod homo magis debet eligere non esse quam poenale ese. Sed  
        <lb ed="#B" n="10"/>quod modo contrarium contingiat scilicet quod aliquis magis eligat poenale esse quam non esse: hoc contingit duplici de causa. 
        <lb ed="#B" n="11"/>Vna qua dicitur quod homo mauult miser esse quam non esse: ne post non esse sit miserior: &amp; sic minorem 
@@ -83,7 +83,7 @@
         debuis<lb ed="#B" n="17" break="no"/>se. 
       </p>
       <p xml:id="n3av8a-c1e354-d1e170">
-       CONtra istos <name ref="#Augustine">Augustinus</name> primo ostendit quod non esse quantum est ex se nullo modo potest esse magis eligibile quam  
+       CONtra istos <name xml:id="n3av8a-c1e354-Nd1e166" ref="#Augustine">Augustinus</name> primo ostendit quod non esse quantum est ex se nullo modo potest esse magis eligibile quam  
        <lb ed="#B" n="18"/>miser esse. Sed econtra miser esse necessario magis est eligibile quam non esse. Et est eius ratio quod non esse priuat 
        <lb ed="#B" n="19"/>omnem rationem boni: miserum autem esse non priuat. Per poenam enim aliquid de bono esse naturae priuatur &amp; aliquid re 
        <lb ed="#B" n="20"/>linquitur: &amp; sic melius est &amp; magis eligendum tamquam id quod habet aliquid boni, eo quod nullam habet rationem boni. 
@@ -124,14 +124,14 @@
         mise<lb ed="#B" n="49" break="no"/>ria quam non esse: quia maiorem miseriam timent incurrere in alia vita. Si autem voluntas fuerit falso 
         er<lb ed="#B" n="50" break="no"/>rore decepta: &amp; hoc circa ipsum non esse tanquam eligibile a ratione acceptum: hoc contingit 
         duplici<lb ed="#B" n="51" break="no"/>ter: aut enim ista deceptio contingit circa non esse in vno statu propter esse melius circa ipsum quod 
-        ex<lb ed="#B" n="52" break="no"/>pectatur in alio statu: sicut contingit de illis, vt dicit <name ref="#Augustine">Augustinus</name> qui vrgente miseria sese interimunt. eo 
+        ex<lb ed="#B" n="52" break="no"/>pectatur in alio statu: sicut contingit de illis, vt dicit <name xml:id="n3av8a-c1e354-Nd1e251" ref="#Augustine">Augustinus</name> qui vrgente miseria sese interimunt. eo 
        <lb ed="#B" n="53"/>quod confugiunt vbi melius sibi fore putauerunt. aut contingit circa ipsum non esse simpliciter: 
        putan<lb ed="#B" n="54" break="no"/>do non esse: esse quoddam eligibile plus ipso poenali esse. &amp; hoc propter rationis obnubilationem ex poenae 
        <!--79.xml-->
        <pb ed="#B" n="19-v"/>
        <lb ed="#B" n="1"/>perturbatione. quid enim vt dicit Augustinum. vrgente malitia poenali sese interimunt: si nullum se futurum esse omni 
        <lb ed="#B" n="2"/>no crediderint, falsa est electio nihil eligentis. Nam si eligit non esse, profecto se nihil eligere, etsi nolit, 
-       respon<lb ed="#B" n="3" break="no"/>dere convincitur. Hoc modo Cato impatiens subiici Caesari seipsum occidit. vnde <name ref="#Augustine">Augustinus</name> concludens 
+       respon<lb ed="#B" n="3" break="no"/>dere convincitur. Hoc modo Cato impatiens subiici Caesari seipsum occidit. vnde <name xml:id="n3av8a-c1e354-Nd1e269" ref="#Augustine">Augustinus</name> concludens 
        <lb ed="#B" n="4"/>super hoc suam intentionem dicit. Vt de tota hac re si potero dicam quod sentio. Nemo mihi videtur cum seipsum ne 
        <lb ed="#B" n="5"/>cat aut quolibet modo emori cupit: habere in sensu quod post mortem non sit futurus: tamen etsi aliquantulum  
        <lb ed="#B" n="6"/>hoc in opinione habeat. Et intendit ibi sensum naturalem appetitum. vnde subdit. Cum ergo quis credens quod post 
@@ -148,8 +148,8 @@
        se<lb ed="#B" n="17" break="no"/>cundum vitam excedatur valde. palam quod perseuerant multa mala sustinentes multi hominium inuiscati ad viuere: 
         tan<lb ed="#B" n="18" break="no"/>quam existente quodam solatio in ipso &amp; dulcedine naturali. Nota quod dicit, si non diris: insinuans per hoc quod 
         pr<lb ed="#B" n="19" break="no"/>pter dira possit homo velle amittere vitam: quid tamen est summe difficile: nec possunt scire inexparti: secundum 
-       <lb ed="#B" n="20"/>quod dicit Chrysostomus super. xx. Matthaei. exponens illud. Potestis bibere calicem quem ego bibiturus sum: 
-       <lb ed="#B" n="21"/>dicunt ei possumus. Non tam inquit confidentia cordis sui, quam ignorantia tentationis hoc responderunt. 
+       <lb ed="#B" n="20"/>quod dicit Chrysostomus super. xx. Matthaei. exponens illud. <quote xml:id="n3av8a-c1e354-Qd1e309" source="http://scta.info/resource/mt20_22@8-17">Potestis bibere calicem quem ego bibiturus sum:
+       <lb ed="#B" n="21"/>dicunt ei possumus.</quote> Non tam inquit confidentia cordis sui, quam ignorantia tentationis hoc responderunt. 
        Nescien<lb ed="#B" n="22" break="no"/>tibus enim desiderabile esse bellum inexpartis leuis videtur esse tentatio passionis &amp; mortis. Similiter ei 
        Chri<lb ed="#B" n="23" break="no"/>stus cum in tentationem passionis &amp; mortis venisset dicebat. Pater si fieri potest transeat a me calix iste. 
        quan<lb ed="#B" n="24" break="no"/>to magis non fuerant dicturi possumus: si sciuissent qualis est tentatio mortis: Magnum quidem dolorem habet 
@@ -216,7 +216,7 @@
        <lb ed="#B" n="20"/>appetitus non solum est in electione boni sumendo proprie electionem: sed etiam in fuga mali: ita quod sicut in  
        <lb ed="#B" n="21"/>eligendis secundum rectam rationem semper praeeligendum est maius bonum, ita &amp; in fugiendis semper praefugiendum est maius 
        <lb ed="#B" n="22"/>malum. &amp; ideo cum magis malum sit miseria culpae quam non ens naturae. Est enim culpa &amp; peccatum non ens: secundum quod  
-       <lb ed="#B" n="23"/>dicit <name ref="#Augustine">Augustinus</name> super loannem. Peccatum nihil est: &amp; homines nihil fiunt cum peccant: &amp; deterius est non esse culpae 
+       <lb ed="#B" n="23"/>dicit <name xml:id="n3av8a-c1e354-Nd1e447" ref="#Augustine">Augustinus</name> super loannem. Peccatum nihil est: &amp; homines nihil fiunt cum peccant: &amp; deterius est non esse culpae 
        <lb ed="#B" n="24"/>quam esse naturae: quia est deterior priuatio quae priuat maius bonum, multo magis ergo fugienda est miseria 
        <lb ed="#B" n="25"/>culpae quam non esse naturae: &amp; per hoc quodammo praeeligendum improprie sumendo electionem. Et secundum hunc 
         mo<lb ed="#B" n="26" break="no"/>dum intelligitur illud dictum Christi de luda. Melius esset illi si natus non fuisset homo ille. Quod non dixit tam propter 
@@ -225,7 +225,7 @@
        <lb ed="#B" n="29"/>melius abusiue comparatione maioris mali pro minori malo. &amp; hoc modo vel illo praeeligendo mortem non errat 
        <lb ed="#B" n="30"/>praeeligens eam miseriae culpae. Non enim intendit eligere aliquid per se eligibile: sed solum minus fugibile ex magis 
        <lb ed="#B" n="31"/>fugibilis comparatione: &amp; hoc non, proprie istud eligendo sed aliud magis fugiendo, vt dictum est. &amp; non est com 
-       <lb ed="#B" n="32"/>tra Augustinum. Vnde quia isto duplici modo praefertur non esse esse vitioso, dicit <name ref="#Aristotle">philosophus</name> fortem sustinere mortem: vel 
+       <lb ed="#B" n="32"/>tra Augustinum. Vnde quia isto duplici modo praefertur non esse esse vitioso, dicit <name xml:id="n3av8a-c1e354-Nd1e469" ref="#Aristotle">philosophus</name> fortem sustinere mortem: vel 
        pro<lb ed="#B" n="33" break="no"/>pter bonum: vel propter non turpe: propter bonum maiu scilicet adipiscendum. Bonum enim magnum vt dicit modici 
        tem<lb ed="#B" n="34" break="no"/>poris praeeligendum quolibet alio pluris temporis: &amp; quamquam illo maiori adepto ipsum &amp; alia statim perdantur: hoc non 
        <lb ed="#B" n="35"/>refert postquam aliquando omnia per mortem erant perdenda. Si autem aeternaliter possent minora bona in vita possideri, 
@@ -236,7 +236,7 @@
        <lb ed="#B" n="40"/>cula: neque pro quibuscumque: sed pro magnis bonis. propter non turpe autem: vt scilicet non succumbant turpitudini vitii. 
        pro<lb ed="#B" n="41" break="no"/>pter fugam enim mortis esset vituperandus: &amp; modo propter fugam vitii incurrens mortem est laudandus, vt prius 
        <lb ed="#B" n="42"/>dictum est. Sed si incurreret mortem propter culpam minoris mali quam sit non esse naturae: vt est omne malum 
-        poe<lb ed="#B" n="43" break="no"/>nae: tunc esset iuste vituperandus: nec esset hoc opus virtutis. secundum quod dicit <name ref="#Aristotle">philosophus</name> in quarto. Fortitudo 
+        poe<lb ed="#B" n="43" break="no"/>nae: tunc esset iuste vituperandus: nec esset hoc opus virtutis. secundum quod dicit <name xml:id="n3av8a-c1e354-Nd1e496" ref="#Aristotle">philosophus</name> in quarto. Fortitudo 
        <lb ed="#B" n="44"/>medietas est circa ausibilia &amp; terribilia. quoniam bonum desiderat &amp; sustinet: vel quoniam non turpe. Mori autem 
        fu<lb ed="#B" n="45" break="no"/>gientem inopiam vel aliquid triste: non fortis sed magis timidi. Mollities ei fugere laboriosa. Commentator, quia  
        <lb ed="#B" n="46"/>non sustinet mortem propter bonum: sed vt fugiat malum poenae. Vnde &amp; iuste vituperatur Cato iunior qui impatiens 

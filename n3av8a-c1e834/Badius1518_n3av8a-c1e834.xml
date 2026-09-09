@@ -56,11 +56,11 @@
        <lb ed="#B" n="14"/>meo, ego in medio eorum sum. ergo &amp;c. 
       </p>
       <p xml:id="n3av8a-c1e834-d1e110">
-       IN contrarium dicebat, quod <name ref="#Augustine">Augustinus</name> dicit 
+       IN contrarium dicebat, quod <name xml:id="n3av8a-c1e834-Nd1e106" ref="#Augustine">Augustinus</name> dicit 
         il<lb ed="#B" n="15" break="no"/>los sanctiores, qui ab aspectu hominium separati, vt liberius oroni &amp; contemplationi vacent, nulli 
        <lb ed="#B" n="16"/>suum praebet aspectum. Isti autem sunt religiosi solitarii. ergo &amp;c. Item consideratio philosophi in Topicis 
        <lb ed="#B" n="17"/>est. si optimum in hoc genere est melius optimo in illo: ergo hoc simpliciter melius est. 
-       <lb ed="#B" n="18"/>sed optimus in solitariis melior est optimo in aliis: quia dicit <name ref="#Aristotle">philosophus</name> in primo Politicae. Homo 
+       <lb ed="#B" n="18"/>sed optimus in solitariis melior est optimo in aliis: quia dicit <name xml:id="n3av8a-c1e834-Nd1e118" ref="#Aristotle">philosophus</name> in primo Politicae. Homo 
         solita<lb ed="#B" n="19" break="no"/>rius, aut deus &amp; melior quam homo, aut bestia &amp; pessimus. ergo &amp;c. 
       </p>
       <p xml:id="n3av8a-c1e834-d1e130">
@@ -102,10 +102,10 @@
         congrega<lb ed="#B" n="51" break="no"/>tione ad arctissimae solitudinis secretum conuolant: &amp; ab humano confortio quantum vita mortalis patitur se 
        <lb ed="#B" n="52"/>se sequestrant: vt liberius deo orationibus &amp; deuotionibus vacent. qui nulli religioni inquantum tales 
        <lb ed="#B" n="53"/>sunt specialiter astricti: sed tamquam onagri in montibus liberi: &amp; viri iusti, quibus non est lex posita, spiritus 
-       <lb ed="#B" n="54"/>sancti ductu reguntur. quia secundum Aposto. vbi spiritus domini ibi libertas. &amp; Galicoe. quinto. Si spiritu ducimini. 
+       <lb ed="#B" n="54"/>sancti ductu reguntur. quia secundum Aposto. vbi spiritus domini ibi libertas. &amp; Galicoe. quinto. <quote xml:id="n3av8a-c1e834-Qd1e207" source="http://scta.info/resource/gal5_18@1-8">Si spiritu ducimini.
        <!--118.xml-->
        <pb ed="#B" n="39-r"/>
-       <lb ed="#B" n="1"/>non estis sub lege. Vnde btuns Benedictus in principio regulae suae distinguens monachos coenobitas, quorum  
+       <lb ed="#B" n="1"/>non estis sub lege</quote>. Vnde btuns Benedictus in principio regulae suae distinguens monachos coenobitas, quorum  
        <lb ed="#B" n="2"/>nomine omnes religiosi ex statu religionis intelliguntur, ab anachoritis, dicit quod primum genus monachorum 
         sci<lb ed="#B" n="3" break="no"/>licet coenobitarum, hoc est monasteriale militans sub regula vel abbate. Deinde secundum genus est 
         anacho<lb ed="#B" n="4" break="no"/>ritarum: horum scilicet qui iam non conuersationis feruore nouitio, sed monasterii probatione diuturna didicert 
@@ -140,7 +140,7 @@
         Deme<lb ed="#B" n="33" break="no"/>triadi quae ad talem vitam anhelabat, eam dissuasit, quamquam vt dicit in principio epistolae, puellares animos fidei ardore  
        <lb ed="#B" n="34"/>superauit: &amp; inde coeperit vbi alias desisse perfecte consummatae virtutis est. Ad quam in fine epistolae dicit 
        <lb ed="#B" n="35"/>Graues foeminae &amp; maximae viduae ac virgines tibi comites eligantur, quarum probata est conuersatio, sermo 
-       <lb ed="#B" n="36"/>moderatus. Vnde &amp; de perfectione vitae anachoriticae dicit <name ref="#Augustine">Augustinus</name> de moribus ecclesiae. Multi vsqueadeo  
+       <lb ed="#B" n="36"/>moderatus. Vnde &amp; de perfectione vitae anachoriticae dicit <name xml:id="n3av8a-c1e834-Nd1e292" ref="#Augustine">Augustinus</name> de moribus ecclesiae. Multi vsqueadeo  
        <lb ed="#B" n="37"/>dei amore flagrantes, vt eos in summa continentia atque mundi huius incredibili contemptu etiam solitudo de 
        <lb ed="#B" n="38"/>lectet, quid est quaeso quod vident qui non praesent hominem non diligere: &amp; tamen praesent hominem non videre: profecto quicquidillud  
        <lb ed="#B" n="39"/>est, praestantius est rebus humanis: cuius contemplatione potest homo sine homine viuere. Quis enim ne 
@@ -191,7 +191,7 @@
        ciui<lb ed="#B" n="26" break="no"/>tates &amp; populi tumultum perfectior est illa quae degit in tumultu populi. in hoc enim status 
         religio<lb ed="#B" n="27" break="no"/>nis inquantum est religio &amp; status perfectionis generandae, non considerata ea vt communicat cum 
        <lb ed="#B" n="28"/>statu perfectionis exercendae semper tanto est perfectior quanto habet plura, promotiua &amp; pauciora im 
-       <lb ed="#B" n="29"/>peditiua ad perfectionem citius &amp; facilius acquirendam. Vnde dicit beatus <name ref="#Bernard">Bernardus</name> in epistola ad  
+       <lb ed="#B" n="29"/>peditiua ad perfectionem citius &amp; facilius acquirendam. Vnde dicit beatus <name xml:id="n3av8a-c1e834-Nd1e404" ref="#Bernard">Bernardus</name> in epistola ad  
        <lb ed="#B" n="30"/>Suggerium abbatem sancti Dionysii. Claustrum ipsum frequenter stipari militibus, vrgeri negotiis 
        <lb ed="#B" n="31"/>iurgiis personare, patere interdum &amp; foeminis: quid inter haec caeleste, quid diuinum, quid 
        spiritua<lb ed="#B" n="32" break="no"/>le poterit cogitari: luge quippe silentium &amp; ab omni strepitu saecularium perpetua quies cogit 
@@ -199,7 +199,7 @@
         stre<lb ed="#B" n="34" break="no"/>pitu se diuidit, locum in quo sponsus quiescat in se componit. Idem in epistola ad Henricum Magun 
        <lb ed="#B" n="35"/>tinum Archiepiscopum. Monachus non docentis, sed plangentis habet officium. Quippe cui 
         op<lb ed="#B" n="36" break="no"/>pidum carcer esse debet, &amp; solitudo paradisus. &amp; Hieronymus in epistola ad Rusticum. 
-        Vnusquis<lb ed="#B" n="37" break="no"/>quod suo sensu ducitur, mihi oppidum carcer, &amp; solitudo paradisus. Item <name ref="#Bernard">Bernardus</name> ad Henricum Se 
+        Vnusquis<lb ed="#B" n="37" break="no"/>quod suo sensu ducitur, mihi oppidum carcer, &amp; solitudo paradisus. Item <name xml:id="n3av8a-c1e834-Nd1e425" ref="#Bernard">Bernardus</name> ad Henricum Se 
        <lb ed="#B" n="38"/>nonensem archiepiscopum. Labor &amp; latebrae &amp; voluntaria paupertas: haec sunt monachorum in 
        si<lb ed="#B" n="39" break="no"/>gnia: haec vitam solent nobilitare monasticam. Vnde religio talis solitudinis cum eo quod est perfectior ad  
        <lb ed="#B" n="40"/>perfectionem generandam, etiam est perfectior inquantum communicat cum statu anachoritarum ad perfectionem 
@@ -248,16 +248,16 @@
        <lb ed="#B" n="21"/>multis quam anachoritica. licet enim fortassis vita anachoritica sit perfectior in se, &amp; disposito ad ipsam: multi 
        <lb ed="#B" n="22"/>tamen in monastica proficerent propter aliorum societatem qui per se in anachoritica deficerent, &amp; fierent deteriores in vita 
        <lb ed="#B" n="23"/>anachoritica quam in vita saeculari. Regulare enim est, quod ibi defectus est maior: vbi maior natus est esse 
-        profe<lb ed="#B" n="24" break="no"/>ctus: dicente btamo <name ref="#Augustine">Augustinus</name> in epistola ad Hipponenses. Simpliciter fateor charitati vestrae corandomino deo nno 
+        profe<lb ed="#B" n="24" break="no"/>ctus: dicente btamo <name xml:id="n3av8a-c1e834-Nd1e526" ref="#Augustine">Augustinus</name> in epistola ad Hipponenses. Simpliciter fateor charitati vestrae corandomino deo nno 
        <lb ed="#B" n="25"/>qui est testis super animam meam: ex quo deo seruire coepi quomodo difficile sum expertus meliores quam qui in 
         mona<lb ed="#B" n="26" break="no"/>steriis profecerunt: ita non sum expertus peiores quam qui in monasteriis ceciderunt. Vnde propter perfectionem ana  
-       <lb ed="#B" n="27"/>chorisis, dicit <name ref="#Aristotle">philosophus</name> in primo Politicae, vt assumptum erat in argumento, Nullo indigens communicare propter 
+       <lb ed="#B" n="27"/>chorisis, dicit <name xml:id="n3av8a-c1e834-Nd1e535" ref="#Aristotle">philosophus</name> in primo Politicae, vt assumptum erat in argumento, Nullo indigens communicare propter 
        <lb ed="#B" n="28"/>per se sufficientiam: aut deus est, aut melior quam homo. Vnde regulariter vita anachoritica a nullo imperfecto 
        <lb ed="#B" n="29"/>aggredienda est: nec ante supplantationem vitiorum in vita monastica cuiquam suadenda: sed tunc demum cum 
        <lb ed="#B" n="30"/>quisque Iacob illius intelligibile nomen carnalium vitiorum supplantatione promeruerit, diuiae iam puritatis intuitu 
        <lb ed="#B" n="31"/>ad meritum, &amp; vt ita dixerim dignitatem transeat lsraelis: secundum quod dicit Cassianus in prologo collationum. 
        <lb ed="#B" n="32"/>Mulieribus autem propter sexus fragilitatem omnino est interdicta: sed confortium coenobiticum eis est suadendum, &amp; 
-       po<lb ed="#B" n="33" break="no"/>tius plurimorum quam paucorum: dicente <name ref="#Bernard">Bernardo</name> in epistola ad quandam monialem. Relatum est mihi te quasi 
+       po<lb ed="#B" n="33" break="no"/>tius plurimorum quam paucorum: dicente <name xml:id="n3av8a-c1e834-Nd1e552" ref="#Bernard">Bernardo</name> in epistola ad quandam monialem. Relatum est mihi te quasi 
         aspe<lb ed="#B" n="34" break="no"/>rioris vitae desiderio tuum monasterium velle deserere: potes in hac re zelum dei habere vt 
        excusabi<lb ed="#B" n="35" break="no"/>lis sit tua intentio: sed quomodo secundum scientiam tua talis voluntas impleatur, omnino non video. Cur inquist  
        <lb ed="#B" n="36"/>Non est sapere vt opulentiam vt vrbis frequentiam vt piguia fugiam &amp; delitias: an non mea mihi pudicitia 
@@ -271,8 +271,8 @@
        <lb ed="#B" n="44"/>tibi necessaria est: si de prudentibus, tu congregationi. Agnosco filia agnosco: vtinam &amp; tu mecum agnoscas 
        <lb ed="#B" n="45"/>serpentinum virus fraudulenti dolum &amp; versipellis astutiam. Si sola ouicula vmbras nemoris penetras 
        <lb ed="#B" n="46"/>praeda vis esse lupo. Sed audi me filia, fidele audi consilium, siue peccatrix siue sancta sis noli te sepa 
-       <lb ed="#B" n="47"/>rare a grege: nequando rapiat, &amp; non sit qui eripiat. Sancta es: Stude tuo exemplo tuae socias acquirere 
-       <lb ed="#B" n="48"/>sanctitatis. Peccatrix es: Noli addere peccata peccatis. Nec tamen <name ref="#Bernard">Bernardus</name> per hoc implicat esse 
+       <lb ed="#B" n="47"/>rare a grege: <quote xml:id="n3av8a-c1e834-Qd1e585" source="http://scta.info/resource/ps49_22@6-12">nequando rapiat, &amp; non sit qui eripiat</quote>. Sancta es: Stude tuo exemplo tuae socias acquirere 
+       <lb ed="#B" n="48"/>sanctitatis. Peccatrix es: Noli addere peccata peccatis. Nec tamen <name xml:id="n3av8a-c1e834-Nd1e590" ref="#Bernard">Bernardus</name> per hoc implicat esse 
         in<lb ed="#B" n="49" break="no"/>possibile mulierem vitam sanctam anachoriticam ducere, qualem duxit illa Aegyptiaca: sed casus est 
        <lb ed="#B" n="50"/>magis ad admirandum quam ad regulariter imitandum, scilicet qualem recitat Hieronymus in epistola ad 
        Ocea<lb ed="#B" n="51" break="no"/>num. In beatissimi inquit Martini vita legimus: quod transiens sanctus Martinus quandam virginem 
